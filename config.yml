@@ -5,10 +5,11 @@ theme: PaperMod
 menu:
   main:
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
 params:
+  ShowToc: true
   defaultTheme: auto
   homeInfoParams:
     Title: "Cash Weaver"
