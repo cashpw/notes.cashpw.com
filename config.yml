@@ -2,5 +2,15 @@ baseURL: http://cashweaver.com/
 languageCode: en-us
 title: Cash Weaver
 theme: PaperMod
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
 params:
   defaultTheme: auto
+  homeInfoParams:
+    Title: "Cash Weaver"
+    Content: >-
+      My personal website and blog.
