@@ -2,16 +2,43 @@ baseURL: http://cashweaver.com/
 languageCode: en-us
 title: Cash Weaver
 theme: PaperMod
+
+enableEmoji: true
+enableRobotsTXT: true
+
 menu:
   main:
     - identifier: tags
       name: Tags
       url: /tags/
       weight: 20
+
 params:
+  env: production
+  description: "My personal website and blog."
+  author: "Cash Weaver"
+
   ShowToc: true
+  ShowReadingTime: true
   defaultTheme: auto
+  ShowCodeCopyButtons: true
+
   homeInfoParams:
     Title: "Cash Weaver"
     Content: >-
       My personal website and blog.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/cashweaver"
+
+  editPost:
+    URL: "https://github.com/cashweaver/cashweaver.com/tree/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
