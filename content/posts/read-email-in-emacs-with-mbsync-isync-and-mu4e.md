@@ -16,8 +16,7 @@ Please be sure you've completed these steps before continuing:
 
 ### Required Software
 
-1. 
-Install `mbsync` version >= 1.4.1.
+1. Install `mbsync` version >= 1.4.1.
 
     We will use `mbsync` to download our email. It is essential that the version is greater than or equal to 1.3.3 to ensure the OAuth2 token is not cut off (see line 1891 in [drv_imap.c](https://sourceforge.net/p/isync/isync/ci/v1.3.3/tree/src/drv_imap.c))
 
@@ -31,8 +30,7 @@ Install `mbsync` version >= 1.4.1.
     ```
     
 
-2. 
-Install `mu`.
+2. Install `mu`.
 
     `mu` will index the emails we've downloaded with `mbsync` and provide them to the `mu4e` package.
 
@@ -41,8 +39,7 @@ Install `mu`.
     ```
     
 
-3. 
-Install `mu4e`.
+3. Install `mu4e`.
 
     `mu4e` is our email client within emacs.
 
@@ -51,8 +48,7 @@ Install `mu4e`.
     ```
     
 
-4. 
-Download `gmail-oauth2-tools`.
+4. Download `gmail-oauth2-tools`.
 
     This utility will generate our refersh tokens for us.
 
@@ -61,8 +57,7 @@ Download `gmail-oauth2-tools`.
     ```
     
 
-5. 
-Download Cyrus SASL Oauth2
+5. Download Cyrus SASL Oauth2
 
     `mbsync` doesn't support OAuth2, so we'll install a plugin which enables it.
 
@@ -96,11 +91,9 @@ Please refer to: [Create an OAuth2 Client ID](/create-an-oauth2-client-id-for-gm
 
 ### Create `mbsyncrc`
 
-1. 
-Create a new file at `~/.mbsyncrc` (or symlink to that location, etc).
+1. Create a new file at `~/.mbsyncrc` (or symlink to that location, etc).
 
-2. 
-Base your config on mine, included below:
+2. Base your config on mine, included below:
 
     ```
     # Account Information
@@ -160,30 +153,25 @@ Follow the [documentation](https://support.google.com/mail/answer/7126229?hl=en)
 
 This step is written for those using [`doom emacs`](https://github.com/hlissner/doom-emacs). Those using other flavors of `emacs` will need to enable `mu4e` on their own.
 
-1. 
-Enable `mu4e` within [`doom emacs`](https://github.com/hlissner/doom-emacs) by uncommenting `(mu4e +gmail)` within `init.el`.
+1. Enable `mu4e` within [`doom emacs`](https://github.com/hlissner/doom-emacs) by uncommenting `(mu4e +gmail)` within `init.el`.
 
-2. 
-Sync `doom emacs`.
+2. Sync `doom emacs`.
 
     ```sh
     doom sync
     ```
 
-3. 
-Reload `doom emacs` by either killing `emacs` and restarting, or by running `doom/reload` (`SPC : doom/reload` or `SPC h r r`).
+3. Reload `doom emacs` by either killing `emacs` and restarting, or by running `doom/reload` (`SPC : doom/reload` or `SPC h r r`).
 
 ## Sync and Index Your Email
 
 Follow the steps documented by [doom emacs' mu4e section](https://github.com/hlissner/doom-emacs/blob/develop/modules/email/mu4e/README.org).
 
-1. 
-Sync your email by running `mbsync --all`.
+1. Sync your email by running `mbsync --all`.
 
     This may take a while.
 
-2. 
-Index your email by running:
+2. Index your email by running:
 
     ```sh
     mu init --maildir ~/.mail --my-address <you>@gmail.com
@@ -191,8 +179,7 @@ Index your email by running:
     ```
     
 
-3. 
-Configure emacs to use your email address.
+3. Configure emacs to use your email address.
 
     As an example:
 

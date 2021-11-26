@@ -49,11 +49,9 @@ This is written for those using [`doom emacs`](https://github.com/hlissner/doom-
 
 These steps are pulled from `notmuch`'s own [documentation](https://notmuchmail.org/getting-started/).
 
-1. 
-Run `notmuch` in your shell to create `~/.notmuch-config`.
+1. Run `notmuch` in your shell to create `~/.notmuch-config`.
 
-2. 
-Perform initial indexing:
+2. Perform initial indexing:
 
     ```sh
     # Create a directory to house your mail if you don't already have one.
@@ -76,8 +74,7 @@ No new mail.
 
 These steps are pulled from `lieer`'s own [documentation](https://github.com/gauteh/lieer#usage).
 
-1. 
-Make a directory for the lieer storage and state files (local repository).
+1. Make a directory for the lieer storage and state files (local repository).
 
     ```sh
     cd /path/to/your/mail/directory
@@ -85,9 +82,7 @@ Make a directory for the lieer storage and state files (local repository).
     cd you.gmail
     ```
     
-
-2. 
-Update your `~/.notmuch-config` to ignore `json`, `lock`, and `bak` files by updating the `[new]` section to read:
+2. Update your `~/.notmuch-config` to ignore `json`, `lock`, and `bak` files by updating the `[new]` section to read:
 
     ```
     [new]
@@ -96,8 +91,7 @@ Update your `~/.notmuch-config` to ignore `json`, `lock`, and `bak` files by upd
     ```
     
 
-3. 
-Initialize your mail storage.
+3. Initialize your mail storage.
 
     This command will open a new tab in your browser. We need to run this command once before we can specify our own credentials. Feel free to close the tab as soon as it opens as we'll be swapping the default client id with our own in the next steps.
 
@@ -107,8 +101,7 @@ Initialize your mail storage.
     ```
     
 
-4. 
-Cancel out (`CTRL-C`).
+4. Cancel out (`CTRL-C`).
 
     You should see a message similar to:
 
@@ -117,8 +110,7 @@ Cancel out (`CTRL-C`).
     ```
     
 
-5. 
-Set your credentials.
+5. Set your credentials.
 
     ```sh
     # From within /path/to/your/mail/directory/<you>.gmail
@@ -141,8 +133,7 @@ Set your credentials.
     ```
     
 
-6. 
-Sync your email.
+6. Sync your email.
 
     This step may take a long time. My initial sync of 90k emails took 56 real-time minutes.
 
@@ -156,8 +147,7 @@ Sync your email.
 
 You could also use a `systemd` timer for this.
 
-1. 
-Create a new shell script to sync your email. Remember to `chmod 777`!
+1. Create a new shell script to sync your email. Remember to `chmod 777`!
 
     ```sh
     #!/bin/bash
@@ -167,8 +157,7 @@ Create a new shell script to sync your email. Remember to `chmod 777`!
     ```
     
 
-2. 
-Configure the cronjob with `crontab -e`.
+2. Configure the cronjob with `crontab -e`.
 
     ```
     # Sync email with lieer every three minutes.
@@ -178,11 +167,9 @@ Configure the cronjob with `crontab -e`.
 
 ## Configure `notmuch` within `emacs` (optional)
 
-- 
-Set up [saved searches](https://notmuchmail.org/doc/latest/notmuch-emacs.html#saved-searches).
+- Set up [saved searches](https://notmuchmail.org/doc/latest/notmuch-emacs.html#saved-searches).
 
-- 
-Prevent wrapping text at 70 characters while composing an email:
+- Prevent wrapping text at 70 characters while composing an email:
 
     ```common_lisp
     ; This is valid in doom emacs. You may need to customize for other distributions.
