@@ -49,8 +49,8 @@ Most of my cards include a common field: Source. I like to keep track of where I
 </div>
 <ul id=menu>
 <li>
-<a href=http://cashweaver.com/tags/ title=tags>
-<span>tags</span>
+<a href=http://cashweaver.com/tags/ title=Tags>
+<span>Tags</span>
 </a>
 </li>
 </ul>
@@ -62,9 +62,56 @@ Most of my cards include a common field: Source. I like to keep track of where I
 <h1 class=post-title>
 Custom Anki Notes
 </h1>
-<div class=post-meta><span title="2020-12-26 00:00:00 +0000 UTC">December 26, 2020</span>&nbsp;·&nbsp;Cash Weaver
+<div class=post-meta><span title="2020-12-26 00:00:00 +0000 UTC">December 26, 2020</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Cash Weaver&nbsp;|&nbsp;<a href=https://github.com/cashweaver/cashweaver.com/tree/main/content/posts/custom-anki-notes.md rel="noopener noreferrer" target=_blank>Suggest Changes</a>
 </div>
-</header>
+</header> <div class=toc>
+<details>
+<summary accesskey=c title="(Alt + C)">
+<span class=details>Table of Contents</span>
+</summary>
+<div class=inner><ul>
+<li>
+<a href=#general-purpose aria-label="General Purpose">General Purpose</a><ul>
+<li>
+<a href=#basic-with-source aria-label="Basic with Source">Basic with Source</a></li>
+<li>
+<a href=#basic-and-reversed-card-with-source aria-label="Basic (and reversed card) with Source">Basic (and reversed card) with Source</a></li>
+<li>
+<a href=#cloze-with-source aria-label="Cloze with Source">Cloze with Source</a></li></ul>
+</li>
+<li>
+<a href=#authors-and-their-work aria-label="Authors and their Work">Authors and their Work</a><ul>
+<li>
+<a href=#author aria-label=Author>Author</a></li>
+<li>
+<a href=#source aria-label=Source>Source</a></li></ul>
+</li>
+<li>
+<a href=#concepts-and-terms aria-label="Concepts and Terms">Concepts and Terms</a><ul>
+<li>
+<a href=#definition aria-label=Definition>Definition</a></li>
+<li>
+<a href=#describe aria-label=Describe>Describe</a></li>
+<li>
+<a href=#examples aria-label=Examples>Examples</a></li></ul>
+</li>
+<li>
+<a href=#related-concepts aria-label="Related Concepts">Related Concepts</a><ul>
+<li>
+<a href=#aka aria-label=AKA>AKA</a></li>
+<li>
+<a href=#comparecontrast aria-label=Compare/Contrast>Compare/Contrast</a></li>
+<li>
+<a href=#denotes aria-label=Denotes>Denotes</a></li>
+<li>
+<a href=#equivalence aria-label=Equivalence>Equivalence</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <div class=post-content><p>I use <a href=https://apps.ankiweb.net/>Anki</a> to help myself remember the things I learn. Anki is flashcard software that integrates <a href=https://en.wikipedia.org/wiki/Spaced_repetition>spaced repetition</a> and <a href="https://docs.ankiweb.net/#/background?id=active-recall-testing">active recall testing</a>. I found creating cards, as well as managing existing cards, was easier after creating custom note types to represent specific information.</p>
 <p>Most of my cards include a common field: <code>Source</code>. I like to keep track of where I found the information that went into the card, be that Wikipedia or a textbook or otherwise.</p>
 <p>I&rsquo;ve included a download link with each of the custom note types rather than listing the explicit field and card template information. Each <code>apkg</code> file contains one instance of the specified note type. Importing it into your Anki will also provide you with the associated note type and you can delete the specific instance of the card.</p>
@@ -135,5 +182,6 @@ Powered by
 <script>let menu=document.getElementById('menu');menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);window.matchMedia('(prefers-reduced-motion: reduce)').matches?document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})</script>
 <script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
 <script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove('dark'),localStorage.setItem("pref-theme",'light')):(document.body.classList.add('dark'),localStorage.setItem("pref-theme",'dark'))})</script>
+<script>document.querySelectorAll('pre > code').forEach(b=>{const c=b.parentNode.parentNode,a=document.createElement('button');a.classList.add('copy-code'),a.innerText='copy';function d(){a.innerText='copied!',setTimeout(()=>{a.innerText='copy'},2e3)}a.addEventListener('click',e=>{if('clipboard'in navigator){navigator.clipboard.writeText(b.textContent),d();return}const a=document.createRange();a.selectNodeContents(b);const c=window.getSelection();c.removeAllRanges(),c.addRange(a);try{document.execCommand('copy'),d()}catch(a){}c.removeRange(a)}),c.classList.contains("highlight")?c.appendChild(a):c.parentNode.firstChild==c||(b.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?b.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(a):b.parentNode.appendChild(a))})</script>
 </body>
 </html>
