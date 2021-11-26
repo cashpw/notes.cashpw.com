@@ -22,6 +22,7 @@ params:
   ShowReadingTime: true
   defaultTheme: auto
   ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
 
   homeInfoParams:
     Title: "Hi there 👋"
@@ -42,3 +43,6 @@ params:
         - HTML
         - RSS
         - JSON
+
+  fuseOpts:
+    isCaseSensitive: false
