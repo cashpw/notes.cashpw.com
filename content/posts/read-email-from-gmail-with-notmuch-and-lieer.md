@@ -65,7 +65,7 @@ These steps are pulled from `notmuch`'s own [documentation](https://notmuchmail.
 You should see something like:
 
 ```
-Found 0 total files (that's not much mail)`
+Found 0 total files (that's not much mail)
 No new mail.
 ```
     
