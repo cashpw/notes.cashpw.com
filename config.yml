@@ -24,9 +24,9 @@ params:
   ShowCodeCopyButtons: true
 
   homeInfoParams:
-    Title: "Cash Weaver"
+    Title: "Hi there 👋"
     Content: >-
-      My personal website and blog.
+      Welcome to my personal website and blog.
 
   socialIcons:
     - name: github
