@@ -12,6 +12,10 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
 
 params:
   env: production
