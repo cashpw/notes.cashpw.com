@@ -26,7 +26,6 @@ params:
   ShowReadingTime: true
   defaultTheme: auto
   ShowCodeCopyButtons: true
-  ShowPostNavLinks: true
 
   homeInfoParams:
     Title: "Hi there 👋"
