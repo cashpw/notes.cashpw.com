@@ -2,9 +2,9 @@
 title = "The First Lesson"
 author = ["cashweaver"]
 date = 2021-05-30
-lastmod = 2021-12-02T12:46:33-08:00
-tags = ["dunequote"]
-categories = ["dunequote"]
+lastmod = 2021-12-02T13:10:29-08:00
+tags = ["dune", "quote"]
+categories = ["dune", "quote"]
 draft = false
 +++
 

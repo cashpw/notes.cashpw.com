@@ -2,9 +2,9 @@
 title = "At Least Two of the Same"
 author = ["cashweaver"]
 date = 2021-12-02
-lastmod = 2021-12-02T12:46:45-08:00
-tags = ["quote"]
-categories = ["quote"]
+lastmod = 2021-12-02T13:09:57-08:00
+tags = ["ceramics", "quote"]
+categories = ["ceramics", "quote"]
 draft = false
 +++
 
