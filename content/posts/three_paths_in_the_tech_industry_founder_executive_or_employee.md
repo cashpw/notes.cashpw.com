@@ -2,7 +2,7 @@
 title = "Three Paths in the Tech Industry: Founder, Executive, or Employee"
 author = ["Cash Weaver"]
 date = 2021-11-27T07:00:00-08:00
-lastmod = 2021-12-02T17:30:34-08:00
+lastmod = 2021-12-03T11:36:52-08:00
 draft = true
 +++
 
