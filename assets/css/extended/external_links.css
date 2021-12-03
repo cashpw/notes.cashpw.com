@@ -1,3 +1,5 @@
+/* External link icon */
+
 a:not([href*='cashweaver.com']):not([href^='#']):not([href^='/']):after {
     content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfArtQ2iRXFWT2QedAfttj2FsPIOE1eCOlEuoWWjgzYaB/IkeGOrxXhqB+uA9Bfcm0lAZuh+YIeAD+cAqSz4kCMUAAAAASUVORK5CYII=);
     margin: 0 0 0 5px;
@@ -8,10 +10,20 @@ a[target=_blank]:after {
     margin: 0 0 0 5px;
 }
 
+.header .nav a:after,
+.social-icons a:after {
+    content: '' !important;
+}
+
+/* Standard link coloring */
 .main a {
     color: #8ab4f8;
 }
 
 .main a:visited {
     color: rgb(197, 138, 249);
+}
+
+.social-icons a {
+    color: inherit;
 }
