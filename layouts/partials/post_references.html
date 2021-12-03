@@ -1,11 +1,11 @@
 {{- $scratch := newScratch }}
 
-{{- if (.Params.references) -}}
+{{- if (.Params.roam_refs) -}}
 References:&nbsp;
-{{ range .Params.references }}
-{{ $scratch.Add "references" (slice (printf "<a href=\"%s\">%s</a>" . (replaceRE "^https?://(www.)?" "" .))) }}
+{{ range .Params.roam_refs }}
+{{ $scratch.Add "roam_refs" (slice (printf "<a href=\"%s\">%s</a>" . (replaceRE "^https?://(www.)?" "" .))) }}
 {{- end -}}
-{{- with ($scratch.Get "references") }}
+{{- with ($scratch.Get "roam_refs") }}
 {{- delimit . ",&nbsp;" }}
 {{- end -}}
 {{- end -}}
