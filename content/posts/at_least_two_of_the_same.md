@@ -1,8 +1,8 @@
 +++
 title = "At Least Two of the Same"
-author = ["cashweaver"]
-date = 2021-12-02
-lastmod = 2021-12-02T13:09:57-08:00
+author = ["Cash Weaver"]
+date = 2021-12-02T12:00:00-08:00
+lastmod = 2021-12-02T17:30:12-08:00
 tags = ["ceramics", "quote"]
 categories = ["ceramics", "quote"]
 draft = false

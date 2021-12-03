@@ -1,8 +1,8 @@
 +++
 title = "The First Lesson"
-author = ["cashweaver"]
-date = 2021-05-30
-lastmod = 2021-12-02T13:10:29-08:00
+author = ["Cash Weaver"]
+date = 2021-05-30T12:44:00-07:00
+lastmod = 2021-12-02T17:30:27-08:00
 tags = ["dune", "quote"]
 categories = ["dune", "quote"]
 draft = false
