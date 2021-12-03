@@ -1,8 +1,8 @@
 +++
 title = "Mindfulness-based Stress Reduction"
-author = ["cashweaver"]
+author = ["Cash Weaver"]
 date = 2021-12-03T05:58:00-08:00
-lastmod = 2021-12-03T06:07:12-08:00
+lastmod = 2021-12-03T07:37:19-08:00
 tags = ["mindfulness"]
 categories = ["mindfulness"]
 draft = false

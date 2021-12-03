@@ -1,8 +1,8 @@
 +++
 title = "Psychophysiologic Symptom Relief Therapy"
-author = ["cashweaver"]
+author = ["Cash Weaver"]
 date = 2021-12-03T06:31:00-08:00
-lastmod = 2021-12-03T07:23:11-08:00
+lastmod = 2021-12-03T07:37:10-08:00
 draft = false
 +++
 
