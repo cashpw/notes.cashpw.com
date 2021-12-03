@@ -1,0 +1,11 @@
+{{- $scratch := newScratch }}
+
+{{- if (.Params.references) -}}
+References:&nbsp;
+{{ range .Params.references }}
+{{ $scratch.Add "references" (slice (printf "<a href=\"%s\">%s</a>" . (replaceRE "^https?://(www.)?" "" .))) }}
+{{- end -}}
+{{- with ($scratch.Get "references") }}
+{{- delimit . ",&nbsp;" }}
+{{- end -}}
+{{- end -}}

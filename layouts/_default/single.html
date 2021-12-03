@@ -19,6 +19,9 @@
       {{- partial "edit_post.html" . -}}
       {{- partial "post_canonical.html" . -}}
     </div>
+    <div class="post-meta post-references">
+      {{- partial "post_references.html" . -}}
+    </div>
     {{- end }}
   </header>
   {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default .Site.Params.cover.hidden }}
