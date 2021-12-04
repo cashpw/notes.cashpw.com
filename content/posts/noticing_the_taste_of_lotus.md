@@ -2,10 +2,11 @@
 title = "Noticing the Taste of Lotus"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:30:00-08:00
-lastmod = 2021-12-03T12:36:38-08:00
+lastmod = 2021-12-04T09:59:48-08:00
 tags = ["@valentine", "@michael-smith"]
 categories = ["valentine", "michael-smith"]
 draft = false
+roam_refs = ["https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus"]
 +++
 
 > Duncan Sabien sometimes talks about “lotus-eating”. He’s referring to a [part of the Odyssey where they land on an island of “lotus-eaters”](https://en.wikipedia.org/wiki/Lotus-eaters). It turns out that once you eat some of this kind of lotus, all you want to do is eat more. You stop caring about your other goals. The lotus just grabs your wants directly.

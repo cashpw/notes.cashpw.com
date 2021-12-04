@@ -2,8 +2,9 @@
 title = "Three Paths in the Tech Industry: Founder, Executive, or Employee"
 author = ["Cash Weaver"]
 date = 2021-11-27T07:00:00-08:00
-lastmod = 2021-12-03T11:36:52-08:00
+lastmod = 2021-12-04T10:01:03-08:00
 draft = true
+roam_refs = ["https://blog.ycombinator.com/three-paths-in-the-tech-industry-founder-executive-or-employee/"]
 +++
 
 The article begins with:

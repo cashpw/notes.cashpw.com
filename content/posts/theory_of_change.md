@@ -2,10 +2,11 @@
 title = "Theory of Change"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:28:00-08:00
-lastmod = 2021-12-03T12:29:01-08:00
+lastmod = 2021-12-04T10:00:36-08:00
 tags = ["@aaron-swartz"]
 categories = ["aaron-swartz"]
 draft = false
+roam_refs = ["http://www.aaronsw.com/weblog/theoryofchange"]
 +++
 
 > I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a theory of change.

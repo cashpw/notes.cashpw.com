@@ -2,10 +2,11 @@
 title = "Monthly Newsletter as a Thinking Tool"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:48:00-08:00
-lastmod = 2021-12-03T11:52:10-08:00
+lastmod = 2021-12-04T09:59:28-08:00
 tags = ["@moridinamael"]
 categories = ["moridinamael"]
 draft = false
+roam_refs = ["https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool"]
 +++
 
 > The easiest, very high ROI step is to simply open up a new Evernote document on the first of each month and title it "February 2018 Update" or whatever. Then just try to keep that tab open. You'll find stuff to put in there. What I end up writing generally falls into a small number of categories:

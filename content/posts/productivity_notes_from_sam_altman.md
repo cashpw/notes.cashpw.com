@@ -2,10 +2,11 @@
 title = "Productivity Notes from Sam Altman"
 author = ["Cash Weaver"]
 date = 2021-12-03T08:43:00-08:00
-lastmod = 2021-12-03T08:56:47-08:00
+lastmod = 2021-12-04T10:00:06-08:00
 tags = ["@sam-altman"]
 categories = ["sam-altman"]
 draft = false
+roam_refs = ["https://blog.samaltman.com/productivity"]
 +++
 
 > It doesn't matter how fast you move if it's in a worthless direction. Picking the right thing to work on is the most important element of productivity and usually almost ignored.

@@ -2,10 +2,11 @@
 title = "Humans are not Automatically Strategic"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:11:00-08:00
-lastmod = 2021-12-03T11:15:26-08:00
+lastmod = 2021-12-04T09:58:47-08:00
 tags = ["@anna-salamon"]
 categories = ["anna-salamon"]
 draft = false
+roam_refs = ["https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic"]
 +++
 
 > Why will a randomly chosen eight-year-old fail a calculus test? Because most possible answers are wrong, and there is no force to guide him to the correct answers. (There is no need to postulate a “fear of success”; most ways writing or not writing on a calculus test constitute failure, and so people, and rocks, fail calculus tests by default.)

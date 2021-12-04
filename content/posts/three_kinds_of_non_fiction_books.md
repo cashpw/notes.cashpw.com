@@ -2,10 +2,11 @@
 title = "Three Kinds of Non-Fiction Books"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:22:00-08:00
-lastmod = 2021-12-03T11:29:55-08:00
+lastmod = 2021-12-04T10:00:51-08:00
 tags = ["@cedric-chin"]
 categories = ["cedric-chin"]
 draft = false
+roam_refs = ["https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/"]
 +++
 
 ## Narrative {#narrative}

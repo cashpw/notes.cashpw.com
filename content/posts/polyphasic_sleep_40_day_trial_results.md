@@ -2,7 +2,7 @@
 title = "Polyphasic Sleep: 40 Day Trial Results"
 author = ["Cash Weaver"]
 date = 2021-07-11T12:15:00-07:00
-lastmod = 2021-12-02T17:30:22-08:00
+lastmod = 2021-12-04T09:59:58-08:00
 tags = ["polyphasic-sleep"]
 categories = ["polyphasic-sleep"]
 draft = false

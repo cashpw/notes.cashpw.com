@@ -2,11 +2,19 @@
 title = "(a)"
 author = ["Cash Weaver"]
 date = 2021-12-03T07:55:00-08:00
-lastmod = 2021-12-03T08:52:45-08:00
+lastmod = 2021-12-04T09:37:57-08:00
 tags = ["@milan-griffes"]
 categories = ["milan-griffes"]
 draft = false
+roam_refs = ["https://orgmode.org/worg/dev/org-element-api.html", "https://www.flightfromperfection.com/(a).html"]
 +++
+
+```emacs-lisp
+;;(cashweaver-org-roam--mirror-roam-refs-to-front-matter)
+(org-roam-get-keyword
+ "HUGO_CUSTOM_FRONT_MATTER")
+```
+
 
 ## Summary {#summary}
 

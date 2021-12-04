@@ -2,10 +2,11 @@
 title = "Tsuyoku Naritai (I Want to Become Stronger)"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:43:00-08:00
-lastmod = 2021-12-03T12:46:12-08:00
+lastmod = 2021-12-04T10:01:08-08:00
 tags = ["@eliezer-yudkowsky"]
 categories = ["eliezer-yudkowsky"]
 draft = false
+roam_refs = ["https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger"]
 +++
 
 > The most important thing is that there should be progress. So long as you keep moving forward you will reach your destination; but if you stop moving you will never reach it.
