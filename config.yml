@@ -22,10 +22,13 @@ params:
   description: "My personal website and blog."
   author: "Cash Weaver"
 
+  googleAnalytics: UA-69408538-1
+
   ShowToc: true
   ShowReadingTime: true
   defaultTheme: auto
   ShowCodeCopyButtons: true
+  hideSummaries: false
 
   homeInfoParams:
     Title: "Hi there 👋"
@@ -35,9 +38,13 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/cashweaver"
+    - name: twitter
+      url: "https://twitter.com/cashweaver"
+    - name: linkedin
+      url: "https://linkedin.com/in/cashweaver"
 
   editPost:
-    URL: "https://github.com/cashweaver/cashweaver.com/tree/main/content"
+    URL: "https://github.com/cashweaver/roam/tree/main"
     Text: "Suggest Changes"
     appendFilePath: true
 
