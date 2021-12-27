@@ -41,6 +41,10 @@ params:
       url: "https://twitter.com/cashweaver"
     - name: linkedin
       url: "https://linkedin.com/in/cashweaver"
+    - name: instagram
+      url: "https://instagram.com/cashweaver"
+    - name: mealie
+      url: "https://mealie.cashweaver.com"
 
   editPost:
     URL: "https://github.com/cashweaver/roam/tree/main"
