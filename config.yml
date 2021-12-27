@@ -33,7 +33,12 @@ params:
   homeInfoParams:
     Title: "Hi there 👋"
     Content: |-
-      Welcome to my personal website and blog! I write and publish using [Emacs](https://www.gnu.org/software/emacs/), specifically [Doom Emacs](https://github.com/hlissner/doom-emacs) ([my config](https://github.com/cashweaver/dotfiles/blob/main/config/doom/config.org)), and a combination of [org-roam](https://github.com/org-roam/org-roamp) and [ox-hugo](https://github.com/kaushalmodi/ox-hugo).
+      Welcome to my personal website and blog! I suggest starting one of the [posts I've written](/tags/cashweaver):
+
+      1. [README](/posts/readme)
+      1. [Polyphasic Sleep: 40 day trial results](/posts/polyphasic_sleep_40_day_trial_results)
+      1. [How I Write My Blog](/posts/how_i_write_my_blog)
+
   socialIcons:
     - name: github
       url: "https://github.com/cashweaver"
