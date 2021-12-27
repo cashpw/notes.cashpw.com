@@ -1,8 +1,10 @@
 +++
 title = "Idea Queue"
 author = ["Cash Weaver"]
-date = 2021-12-02T15:30:00-08:00
-lastmod = 2021-12-02T17:41:53-08:00
+date = 2021-12-02T15:30:00+00:00
+lastmod = 2021-12-27T19:37:44+00:00
+tags = ["@cashweaver"]
+categories = ["cashweaver", "cashweaver"]
 draft = false
 +++
 
