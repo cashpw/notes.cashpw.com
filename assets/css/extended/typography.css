@@ -1,0 +1,7 @@
+.home-info p {
+    margin-bottom: 0;
+}
+
+.home-info p:last-child {
+    margin-bottom: 0;
+}

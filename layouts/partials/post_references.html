@@ -3,7 +3,7 @@
 {{- if (.Params.roam_refs) -}}
 References:&nbsp;
 {{ range .Params.roam_refs }}
-{{ $scratch.Add "roam_refs" (slice (printf "<a href=\"%s\">%s</a>" . (replaceRE "^https?://(www.)?" "" .))) }}
+{{ $scratch.Add "roam_refs" (slice (printf "<a href=\"%s\">%s</a>&nbsp;&nbsp;(<a href=\"https://web.archive.org/web/*/%s\">archive</a>)" . (replaceRE "^https?://(www.)?" "" .) .)) }}
 {{- end -}}
 {{- with ($scratch.Get "roam_refs") }}
 {{- delimit . ",&nbsp;" }}
