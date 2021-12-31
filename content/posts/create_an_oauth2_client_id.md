@@ -1,10 +1,10 @@
 +++
 title = "Create an OAuth2 Client ID"
 author = ["Cash Weaver"]
-date = 2021-12-27T19:48:00+00:00
-lastmod = 2021-12-27T19:55:25+00:00
+date = 2021-12-27T19:48:00-08:00
+lastmod = 2021-12-30T18:21:19-08:00
 tags = ["@cashweaver"]
-categories = ["cashweaver", "cashweaver"]
+categories = ["cashweaver"]
 draft = false
 +++
 
@@ -17,7 +17,7 @@ These steps are based on the [steps outlined by ccrusius](https://github.com/ccr
 
 1.  Navigate to the [Cloud Console](https://console.cloud.google.com).
 2.  Choose an existing project or create a new one.
-3.  Select "APIs &amp; Services" from the navigation menu.
+3.  Select "APIs & Services" from the navigation menu.
 4.  Select "Credentials".
 5.  Create new credentials of type "OAuth Client ID".
 6.  Choose application type "Other".

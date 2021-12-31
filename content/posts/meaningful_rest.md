@@ -2,7 +2,7 @@
 title = "Meaningful Rest"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:52:00-08:00
-lastmod = 2021-12-04T09:59:15-08:00
+lastmod = 2021-12-30T18:21:28-08:00
 tags = ["@neel-nanda"]
 categories = ["neel-nanda"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Be Impatient"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:45:00-08:00
-lastmod = 2021-12-04T09:51:20-08:00
+lastmod = 2021-12-30T18:21:18-08:00
 tags = ["@ben-kuhn"]
 categories = ["ben-kuhn"]
 draft = false

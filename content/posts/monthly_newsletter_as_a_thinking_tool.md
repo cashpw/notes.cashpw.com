@@ -2,7 +2,7 @@
 title = "Monthly Newsletter as a Thinking Tool"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:48:00-08:00
-lastmod = 2021-12-04T09:59:28-08:00
+lastmod = 2021-12-30T18:21:30-08:00
 tags = ["@moridinamael"]
 categories = ["moridinamael"]
 draft = false

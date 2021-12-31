@@ -2,7 +2,7 @@
 title = "Attention is Your Scarcest Resource"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:46:00-08:00
-lastmod = 2021-12-04T09:51:12-08:00
+lastmod = 2021-12-30T18:21:17-08:00
 tags = ["@ben-kuhn", "attention"]
 categories = ["ben-kuhn", "attention"]
 draft = false

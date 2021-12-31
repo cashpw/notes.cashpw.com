@@ -1,10 +1,10 @@
 +++
 title = "Habits Always Form"
 author = ["Cash Weaver"]
-date = 2021-12-27T22:40:00+00:00
-lastmod = 2021-12-28T13:32:40+00:00
-tags = ["habit", "@jason-fried", "habit"]
-categories = ["Jason-Fried", "jason-fried", "habit"]
+date = 2021-12-27T22:40:00-08:00
+lastmod = 2021-12-30T18:21:24-08:00
+tags = ["@jason-fried", "habit"]
+categories = ["jason-fried", "habit"]
 draft = false
 roam_refs = ["https://m.signalvnoise.com/habits-always-form/"]
 +++

@@ -2,7 +2,7 @@
 title = "Deregulating Distraction, Moving Towards the Goal, and Level Hopping"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:24:00-08:00
-lastmod = 2021-12-04T09:58:31-08:00
+lastmod = 2021-12-30T18:21:21-08:00
 tags = ["@so8res"]
 categories = ["so8res"]
 draft = false

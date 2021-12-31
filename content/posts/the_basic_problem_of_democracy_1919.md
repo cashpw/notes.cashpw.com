@@ -1,10 +1,10 @@
 +++
 title = "The Basic Problem of Democracy (1919)"
 author = ["Cash Weaver"]
-date = 2021-12-27T23:10:00+00:00
-lastmod = 2021-12-27T23:14:23+00:00
+date = 2021-12-27T23:10:00-08:00
+lastmod = 2021-12-30T18:21:38-08:00
 tags = ["@walter-lippmann"]
-categories = ["Walter-Lippmann", "walter-lippmann"]
+categories = ["walter-lippmann"]
 draft = false
 roam_refs = ["https://www.theatlantic.com/magazine/archive/1919/11/the-basic-problem-of-democracy/569095/"]
 +++

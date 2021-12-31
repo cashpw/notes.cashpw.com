@@ -2,7 +2,7 @@
 title = "Tsuyoku Naritai (I Want to Become Stronger)"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:43:00-08:00
-lastmod = 2021-12-04T10:01:08-08:00
+lastmod = 2021-12-30T18:21:43-08:00
 tags = ["@eliezer-yudkowsky"]
 categories = ["eliezer-yudkowsky"]
 draft = false

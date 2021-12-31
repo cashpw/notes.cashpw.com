@@ -1,10 +1,10 @@
 +++
 title = "Polyphasic Sleep: 40 Day Trial Results"
 author = ["Cash Weaver"]
-date = 2021-07-11T12:15:00+00:00
-lastmod = 2021-12-27T19:49:55+00:00
-tags = ["polyphasic-sleep", "polyphasic-sleep", "@cashweaver"]
-categories = ["cashweaver", "polyphasic-sleep", "cashweaver"]
+date = 2021-07-11T12:15:00-07:00
+lastmod = 2021-12-30T18:21:31-08:00
+tags = ["polyphasic-sleep", "@cashweaver"]
+categories = ["polyphasic-sleep", "cashweaver"]
 draft = false
 +++
 
@@ -71,7 +71,7 @@ Suprisingly, I wasn't that much more tired than I had been previously. I would f
 
 #### Difficulty Waking Up {#difficulty-waking-up}
 
-I woke up easily in that I was able to get out of bed when my alarm went off on all (save 3) mornings. However, many (&gt;25%) mornings started with a 30-60 minute period where I had a terrible mental fog that left me unable to focus on much.
+I woke up easily in that I was able to get out of bed when my alarm went off on all (save 3) mornings. However, many (>25%) mornings started with a 30-60 minute period where I had a terrible mental fog that left me unable to focus on much.
 
 
 #### "Third Person" Feelings {#third-person-feelings}

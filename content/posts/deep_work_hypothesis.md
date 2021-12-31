@@ -2,7 +2,7 @@
 title = "Deep Work Hypothesis"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:14:00-08:00
-lastmod = 2021-12-04T09:57:55-08:00
+lastmod = 2021-12-30T18:21:20-08:00
 tags = ["@cal-newport"]
 categories = ["cal-newport"]
 draft = false

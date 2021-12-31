@@ -2,7 +2,7 @@
 title = "Ask HN: What was the best decision you made in your career?"
 author = ["Cash Weaver"]
 date = 2021-11-27T07:55:00-08:00
-lastmod = 2021-12-04T09:42:26-08:00
+lastmod = 2021-12-30T18:21:15-08:00
 draft = true
 roam_refs = ["https://news.ycombinator.com/item?id=18071909"]
 +++

@@ -2,7 +2,7 @@
 title = "Humans are not Automatically Strategic"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:11:00-08:00
-lastmod = 2021-12-04T09:58:47-08:00
+lastmod = 2021-12-30T18:21:25-08:00
 tags = ["@anna-salamon"]
 categories = ["anna-salamon"]
 draft = false

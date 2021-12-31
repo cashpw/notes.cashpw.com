@@ -1,10 +1,10 @@
 +++
 title = "Write thin to write fast"
 author = ["Cash Weaver"]
-date = 2021-12-27T21:52:00+00:00
-lastmod = 2021-12-28T13:33:31+00:00
-tags = ["writing", "@breck-yunits", "writing"]
-categories = ["Breck-Yunits", "breck-yunits", "writing"]
+date = 2021-12-27T21:52:00-08:00
+lastmod = 2021-12-30T18:21:47-08:00
+tags = ["@breck-yunits", "writing"]
+categories = ["breck-yunits", "writing"]
 draft = false
 roam_refs = ["https://breckyunits.com/write-thin-to-write-fast.html"]
 +++

@@ -2,7 +2,7 @@
 title = "Career Moat"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:21:00-08:00
-lastmod = 2021-12-04T09:51:46-08:00
+lastmod = 2021-12-30T18:21:18-08:00
 tags = ["@cedric-chin"]
 categories = ["cedric-chin"]
 draft = false

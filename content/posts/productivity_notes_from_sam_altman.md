@@ -2,7 +2,7 @@
 title = "Productivity Notes from Sam Altman"
 author = ["Cash Weaver"]
 date = 2021-12-03T08:43:00-08:00
-lastmod = 2021-12-04T10:00:06-08:00
+lastmod = 2021-12-30T18:21:32-08:00
 tags = ["@sam-altman"]
 categories = ["sam-altman"]
 draft = false

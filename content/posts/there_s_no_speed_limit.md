@@ -2,7 +2,7 @@
 title = "There's No Speed Limit"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:20:00-08:00
-lastmod = 2021-12-04T10:00:44-08:00
+lastmod = 2021-12-30T18:21:40-08:00
 tags = ["favorite", "@derek-sivers"]
 categories = ["favorite", "derek-sivers"]
 draft = false

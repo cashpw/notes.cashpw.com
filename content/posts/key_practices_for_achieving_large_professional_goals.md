@@ -1,10 +1,10 @@
 +++
 title = "Key practices for achieving large professional goals"
 author = ["Cash Weaver"]
-date = 2021-12-27T23:54:00+00:00
-lastmod = 2021-12-28T00:12:56+00:00
+date = 2021-12-27T23:54:00-08:00
+lastmod = 2021-12-30T18:21:27-08:00
 tags = ["@stephen-kuenzli"]
-categories = ["Stephen-Kuenzli", "stephen-kuenzli"]
+categories = ["stephen-kuenzli"]
 draft = false
 roam_refs = ["https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/"]
 +++

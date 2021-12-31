@@ -1,10 +1,10 @@
 +++
 title = "How I Write My Blog"
 author = ["Cash Weaver"]
-date = 2021-12-27T20:21:00+00:00
-lastmod = 2021-12-27T20:27:26+00:00
+date = 2021-12-27T20:21:00-08:00
+lastmod = 2021-12-30T18:21:24-08:00
 tags = ["@cashweaver"]
-categories = ["cashweaver", "cashweaver"]
+categories = ["cashweaver"]
 draft = false
 +++
 
