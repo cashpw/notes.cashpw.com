@@ -2,7 +2,9 @@
 title = "Desirable Difficulty"
 author = ["Cash Weaver"]
 date = 2021-12-30T15:13:00-08:00
-lastmod = 2021-12-30T18:21:22-08:00
+lastmod = 2022-01-01T13:15:10-08:00
+tags = ["learning"]
+categories = ["learning"]
 draft = false
 roam_refs = ["https://en.wikipedia.org/wiki/Desirable_difficulty"]
 +++

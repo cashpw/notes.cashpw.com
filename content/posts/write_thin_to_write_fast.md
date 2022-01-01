@@ -2,7 +2,7 @@
 title = "Write thin to write fast"
 author = ["Cash Weaver"]
 date = 2021-12-27T21:52:00-08:00
-lastmod = 2021-12-30T18:21:47-08:00
+lastmod = 2021-12-31T17:58:43-08:00
 tags = ["@breck-yunits", "writing"]
 categories = ["breck-yunits", "writing"]
 draft = false

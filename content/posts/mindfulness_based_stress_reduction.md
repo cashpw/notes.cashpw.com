@@ -2,9 +2,9 @@
 title = "Mindfulness-based Stress Reduction"
 author = ["Cash Weaver"]
 date = 2021-12-03T05:58:00-08:00
-lastmod = 2021-12-30T18:21:29-08:00
-tags = ["mindfulness"]
-categories = ["mindfulness"]
+lastmod = 2022-01-01T13:17:16-08:00
+tags = ["mindfulness", "health"]
+categories = ["mindfulness", "health"]
 draft = false
 +++
 

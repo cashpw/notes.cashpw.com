@@ -2,7 +2,9 @@
 title = "Ask HN: How do you learn complex, dense technical information?"
 author = ["Cash Weaver"]
 date = 2021-12-30T12:41:00-08:00
-lastmod = 2021-12-30T18:21:15-08:00
+lastmod = 2022-01-01T13:15:22-08:00
+tags = ["learning"]
+categories = ["learning"]
 draft = false
 roam_refs = ["https://news.ycombinator.com/item?id=22325975"]
 +++

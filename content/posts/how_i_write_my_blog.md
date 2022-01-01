@@ -2,9 +2,9 @@
 title = "How I Write My Blog"
 author = ["Cash Weaver"]
 date = 2021-12-27T20:21:00-08:00
-lastmod = 2021-12-30T18:21:24-08:00
-tags = ["@cashweaver"]
-categories = ["cashweaver"]
+lastmod = 2022-01-01T13:02:32-08:00
+tags = ["@cash-weaver", "meta"]
+categories = ["cash-weaver", "meta"]
 draft = false
 +++
 

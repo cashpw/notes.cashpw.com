@@ -2,9 +2,9 @@
 title = "Polyphasic Sleep: 40 Day Trial Results"
 author = ["Cash Weaver"]
 date = 2021-07-11T12:15:00-07:00
-lastmod = 2021-12-30T18:21:31-08:00
-tags = ["polyphasic-sleep", "@cashweaver"]
-categories = ["polyphasic-sleep", "cashweaver"]
+lastmod = 2022-01-01T13:14:34-08:00
+tags = ["polyphasic-sleep", "@cash-weaver", "sleep"]
+categories = ["polyphasic-sleep", "cash-weaver", "sleep"]
 draft = false
 +++
 

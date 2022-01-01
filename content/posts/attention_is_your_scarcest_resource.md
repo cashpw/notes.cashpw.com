@@ -2,9 +2,9 @@
 title = "Attention is Your Scarcest Resource"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:46:00-08:00
-lastmod = 2021-12-30T18:21:17-08:00
-tags = ["@ben-kuhn", "attention"]
-categories = ["ben-kuhn", "attention"]
+lastmod = 2022-01-01T13:16:47-08:00
+tags = ["@ben-kuhn", "attention", "meta-work"]
+categories = ["ben-kuhn", "attention", "meta-work"]
 draft = false
 roam_refs = ["https://www.benkuhn.net/attention/"]
 +++

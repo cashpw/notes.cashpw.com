@@ -2,7 +2,9 @@
 title = "A Potter's Workbook"
 author = ["Cash Weaver"]
 date = 2021-12-11T11:27:00-08:00
-lastmod = 2021-12-30T18:21:14-08:00
+lastmod = 2022-01-01T13:16:02-08:00
+tags = ["ceramics"]
+categories = ["ceramics"]
 draft = false
 +++
 

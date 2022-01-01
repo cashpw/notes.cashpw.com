@@ -2,9 +2,9 @@
 title = "Deep Work Hypothesis"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:14:00-08:00
-lastmod = 2021-12-30T18:21:20-08:00
-tags = ["@cal-newport"]
-categories = ["cal-newport"]
+lastmod = 2022-01-01T13:16:59-08:00
+tags = ["@cal-newport", "attention"]
+categories = ["cal-newport", "attention"]
 draft = false
 roam_refs = ["https://www.calnewport.com/about/"]
 +++

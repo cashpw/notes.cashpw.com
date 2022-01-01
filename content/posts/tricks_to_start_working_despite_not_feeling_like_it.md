@@ -2,7 +2,7 @@
 title = "Tricks to start working despite not feeling like it"
 author = ["Cash Weaver"]
 date = 2021-12-29T04:11:00-08:00
-lastmod = 2021-12-30T18:21:42-08:00
+lastmod = 2022-01-01T13:10:01-08:00
 draft = false
 roam_refs = ["https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it"]
 +++
