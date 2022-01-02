@@ -2,7 +2,7 @@
 
 {{- if (.Params.tags) -}}
 <div class="post-meta post-tags">
-Tags:&nbsp;
+<span style="margin-right: 1ch;">Tags:</span>
 {{ range ($.GetTerms "tags") }}
 {{ $scratch.Add "tags" (slice (printf "<a href=\"%s\">%s</a>" .Permalink .LinkTitle )) }}
 {{- end -}}
