@@ -2,11 +2,11 @@
 title = "(a)"
 author = ["Cash Weaver"]
 date = 2021-12-03T07:55:00-08:00
-lastmod = 2021-12-30T18:21:13-08:00
+lastmod = 2022-01-02T11:14:09-08:00
 tags = ["@milan-griffes"]
 categories = ["milan-griffes"]
 draft = false
-roam_refs = ["https://orgmode.org/worg/dev/org-element-api.html", "https://www.flightfromperfection.com/(a).html"]
+roam_refs = ["https://www.flightfromperfection.com/(a).html"]
 +++
 
 ## Summary {#summary}
