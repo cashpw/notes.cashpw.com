@@ -33,7 +33,7 @@ params:
   homeInfoParams:
     Title: "Hi there 👋"
     Content: |-
-      Welcome to my personal website and blog! I suggest starting one of the [posts I've written](/tags/cashweaver):
+      Welcome to my personal website and blog! I suggest starting one of the [posts I've written](/tags/cash-weaver):
 
       1. [README](/posts/readme)
       1. [Polyphasic Sleep: 40 day trial results](/posts/polyphasic_sleep_40_day_trial_results)
