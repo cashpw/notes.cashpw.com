@@ -2,7 +2,7 @@
 title = "How to Write Usefully"
 author = ["Cash Weaver"]
 date = 2021-12-31T17:46:00-08:00
-lastmod = 2021-12-31T17:58:47-08:00
+lastmod = 2022-01-01T14:45:57-08:00
 tags = ["@paul-graham", "writing"]
 categories = ["paul-graham", "writing"]
 draft = false
@@ -13,14 +13,17 @@ roam_refs = ["http://paulgraham.com/useful.html"]
 
 A useful essay is one which is novel, correct, important, and strong:
 
--   Novel: It should communicate a "new thing" (point of view, fact, opinion, etc) to at least some of its audience.
--   Correct: Your point(s) should be correct; to the extent which is possible.
--   Important: The point(s)
+-   A novel essay communicates a "new thing" (point of view, fact, opinion, etc) to at least some of its audience.
+-   A correct essay is factually accurate; insofar as is possible.
+-   An important essay matters to at least some people. You can measure it by the product of the number of people for which your points matter and how much it matters to those people.
+-   An essay is stronger when it can afford to omit qualification (eg: "Perhaps").
+
+Additionally, for Graham, a useful essay is one which says things as simply as possible.
 
 
 ## Notes {#notes}
 
-> What should an essay be? ... useful.
+> What should an essay be? [...] useful.
 
 <!--quoteend-->
 
@@ -32,9 +35,27 @@ A useful essay is one which is novel, correct, important, and strong:
 
 <!--quoteend-->
 
-> How can you ensure that the things you say are true and novel and important? Believe it or not, there is a trick for doing this. I learned it from my friend Robert Morris, who has a horror of saying anything dumb. His trick is not to say anything unless he's sure it's worth hearing. This makes it hard to get opinions out of him, but when you do, they're usually right.
->
-> Translated into essay writing, what this means is that if you write a bad sentence, you don't publish it. You delete it and try again. Often you abandon whole branches of four or five paragraphs. Sometimes a whole essay.
+> [...] if you write a bad sentence, you don't publish it. You delete it and try again. Often you abandon whole branches of four or five paragraphs. Sometimes a whole essay.
+
+<!--quoteend-->
+
+> There's a trick for getting importance too. It's like the trick I suggest to young founders for getting startup ideas: to make something you yourself want. You can use yourself as a proxy for the reader. The reader is not completely unlike you, so if you write about topics that seem important to you, they'll probably seem important to a significant number of readers as well.
+
+<!--quoteend-->
+
+> The way to get novelty is to write about topics you've thought about a lot. Then you can use yourself as a proxy for the reader in this department too. Anything you notice that surprises you, who've thought about the topic a lot, will probably also surprise a significant number of readers.
+
+<!--quoteend-->
+
+> [...] strength, comes from two things: thinking well, and the skillful use of qualification. [...] As you try to refine the expression of an idea, you adjust the qualification accordingly. Something you're sure of, you can state baldly with no qualification at all, as I did the four components of useful writing. Whereas points that seem dubious have to be held at arm's length with perhapses.
+
+<!--quoteend-->
+
+> There's one other quality I aim for in essays: to say things as simply as possible. But I don't think this is a component of usefulness. It's more a matter of consideration for the reader. And it's a practical aid in getting things right; a mistake is more obvious when expressed in simple language. But I'll admit that the main reason I write simply is not for the reader's sake or because it helps get things right, but because it bothers me to use more or fancier words than I need to. It seems inelegant, like a program that's too long.
+
+<!--quoteend-->
+
+> Sometimes the reason people don't know something is because they don't want to know it.
 
 
 ## Thoughts {#thoughts}
