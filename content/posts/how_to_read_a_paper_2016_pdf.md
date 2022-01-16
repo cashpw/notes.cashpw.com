@@ -1,10 +1,10 @@
 +++
-title = "How to Read a Paper (2016) [pdf"
+title = "How to Read a Paper"
 author = ["Cash Weaver"]
-date = 2021-12-28T12:19:00+00:00
-lastmod = 2021-12-28T16:33:03+00:00
-tags = ["reading", "@srinivasan-keshav", "reading"]
-categories = ["Srinivasan-Keshav", "srinivasan-keshav", "reading"]
+date = 2021-12-28T12:19:00-08:00
+lastmod = 2021-12-30T18:21:25-08:00
+tags = ["@srinivasan-keshav", "reading"]
+categories = ["srinivasan-keshav", "reading"]
 draft = false
 roam_refs = ["https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf"]
 +++

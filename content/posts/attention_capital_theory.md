@@ -2,7 +2,7 @@
 title = "Attention Capital Theory"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:17:00-08:00
-lastmod = 2021-12-05T06:52:29-08:00
+lastmod = 2021-12-30T18:21:16-08:00
 tags = ["@cal-newport", "attention"]
 categories = ["cal-newport", "attention"]
 draft = false

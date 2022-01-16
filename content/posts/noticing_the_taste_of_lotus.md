@@ -2,7 +2,7 @@
 title = "Noticing the Taste of Lotus"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:30:00-08:00
-lastmod = 2021-12-04T09:59:48-08:00
+lastmod = 2021-12-30T18:21:30-08:00
 tags = ["@valentine", "@michael-smith"]
 categories = ["valentine", "michael-smith"]
 draft = false

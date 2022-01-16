@@ -2,7 +2,7 @@
 title = "Theory of Change"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:28:00-08:00
-lastmod = 2021-12-04T10:00:36-08:00
+lastmod = 2021-12-30T18:21:39-08:00
 tags = ["@aaron-swartz"]
 categories = ["aaron-swartz"]
 draft = false

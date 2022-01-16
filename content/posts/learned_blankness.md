@@ -2,7 +2,7 @@
 title = "Learned Blankness"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:07:00-08:00
-lastmod = 2021-12-04T09:59:07-08:00
+lastmod = 2021-12-30T18:21:27-08:00
 tags = ["@anna-salamon"]
 categories = ["anna-salamon"]
 draft = false

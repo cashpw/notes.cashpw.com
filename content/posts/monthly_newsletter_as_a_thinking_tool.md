@@ -2,9 +2,9 @@
 title = "Monthly Newsletter as a Thinking Tool"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:48:00-08:00
-lastmod = 2021-12-04T09:59:28-08:00
-tags = ["@moridinamael"]
-categories = ["moridinamael"]
+lastmod = 2022-01-01T13:17:33-08:00
+tags = ["@moridinamael", "writing"]
+categories = ["moridinamael", "writing"]
 draft = false
 roam_refs = ["https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool"]
 +++

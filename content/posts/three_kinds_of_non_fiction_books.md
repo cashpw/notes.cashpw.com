@@ -2,7 +2,7 @@
 title = "Three Kinds of Non-Fiction Books"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:22:00-08:00
-lastmod = 2021-12-04T10:00:51-08:00
+lastmod = 2021-12-30T18:21:41-08:00
 tags = ["@cedric-chin"]
 categories = ["cedric-chin"]
 draft = false

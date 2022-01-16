@@ -1,0 +1,234 @@
+a:not([href*='cashweaver.com']):not([href^='#']):not([href^='/']):after {
+  background-position: 0 center;
+  background-repeat: no-repeat;
+  background-size: 16px 16px !important;
+  content: '';
+  height: 16px;
+  vertical-align: middle;
+  width: 16px;
+}
+a[href*='http://glazy.org']:after {
+  background-image: url('/favicons/glazy.org.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='http://www.aaronsw.com']:after {
+  background-image: url('/favicons/www.aaronsw.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='http://www.zotero.org']:after {
+  background-image: url('/favicons/www.zotero.org.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://apps.ankiweb.net']:after {
+  background-image: url('/favicons/apps.ankiweb.net.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://blog.samaltman.com']:after {
+  background-image: url('/favicons/blog.samaltman.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://blog.tecosaur.com']:after {
+  background-image: url('/favicons/blog.tecosaur.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://clay-king.com']:after {
+  background-image: url('/favicons/clay-king.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://commoncog.com']:after {
+  background-image: url('/favicons/commoncog.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://console.cloud.google.com']:after {
+  background-image: url('/favicons/console.cloud.google.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://diff.substack.com']:after {
+  background-image: url('/favicons/diff.substack.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://digitalfire.com']:after {
+  background-image: url('/favicons/digitalfire.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://docs.ankiweb.net']:after {
+  background-image: url('/favicons/docs.ankiweb.net.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://docs.google.com']:after {
+  background-image: url('/favicons/docs.google.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://docs.sleep.urbandroid.org']:after {
+  background-image: url('/favicons/docs.sleep.urbandroid.org.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://drive.google.com']:after {
+  background-image: url('/favicons/drive.google.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://en.wikipedia.org']:after {
+  background-image: url('/favicons/en.wikipedia.org.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://github.com']:after {
+  background-image: url('/favicons/github.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://guzey.com']:after {
+  background-image: url('/favicons/guzey.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://irreal.org']:after {
+  background-image: url('/favicons/irreal.org.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://journals.lww.com']:after {
+  background-image: url('/favicons/journals.lww.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://nceca.net']:after {
+  background-image: url('/favicons/nceca.net.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://news.ycombinator.com']:after {
+  background-image: url('/favicons/news.ycombinator.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://notmuchmail.org']:after {
+  background-image: url('/favicons/notmuchmail.org.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://palousemindfulness.com']:after {
+  background-image: url('/favicons/palousemindfulness.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://samplesize.one']:after {
+  background-image: url('/favicons/samplesize.one.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://sleep.urbandroid.org']:after {
+  background-image: url('/favicons/sleep.urbandroid.org.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://sourceforge.net']:after {
+  background-image: url('/favicons/sourceforge.net.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://support.google.com']:after {
+  background-image: url('/favicons/support.google.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://tasker.joaoapps.com']:after {
+  background-image: url('/favicons/tasker.joaoapps.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.benkuhn.net']:after {
+  background-image: url('/favicons/www.benkuhn.net.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.cdc.gov']:after {
+  background-image: url('/favicons/www.cdc.gov.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.factorio.com']:after {
+  background-image: url('/favicons/www.factorio.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.flightfromperfection.com']:after {
+  background-image: url('/favicons/www.flightfromperfection.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.gnu.org']:after {
+  background-image: url('/favicons/www.gnu.org.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.google.com']:after {
+  background-image: url('/favicons/www.google.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.jimwendler.com']:after {
+  background-image: url('/favicons/www.jimwendler.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.lesswrong.com']:after {
+  background-image: url('/favicons/www.lesswrong.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.neelnanda.io']:after {
+  background-image: url('/favicons/www.neelnanda.io.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.pinterest.com']:after {
+  background-image: url('/favicons/www.pinterest.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.polyphasic.net']:after {
+  background-image: url('/favicons/www.polyphasic.net.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.reddit.com']:after {
+  background-image: url('/favicons/www.reddit.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.youtube.com']:after {
+  background-image: url('/favicons/www.youtube.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://youtu.be']:after {
+  background-image: url('/favicons/youtu.be.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://youtube.com']:after {
+  background-image: url('/favicons/youtube.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://zwbetz.com']:after {
+  background-image: url('/favicons/zwbetz.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
