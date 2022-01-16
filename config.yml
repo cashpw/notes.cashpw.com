@@ -17,9 +17,15 @@ menu:
       url: /search/
       weight: 20
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
   env: production
-  description: "My personal website and blog."
+  description: "Blog and notes"
   author: "Cash Weaver"
 
   googleAnalytics: UA-69408538-1
@@ -55,12 +61,6 @@ params:
     URL: "https://github.com/cashweaver/roam/tree/main"
     Text: "Suggest Changes"
     appendFilePath: true
-
-  outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
 
   fuseOpts:
     isCaseSensitive: false
