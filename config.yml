@@ -1,10 +1,9 @@
 baseURL: http://cashweaver.com/
-languageCode: en-us
-title: Cash Weaver
-theme: PaperMod
-
 enableEmoji: true
 enableRobotsTXT: true
+languageCode: en-us
+theme: PaperMod
+title: Cash Weaver
 
 menu:
   main:
@@ -24,17 +23,26 @@ outputs:
     - JSON
 
 params:
-  env: production
-  description: "Blog and notes"
-  author: "Cash Weaver"
-
-  googleAnalytics: UA-69408538-1
-
-  ShowToc: true
-  ShowReadingTime: true
-  defaultTheme: auto
   ShowCodeCopyButtons: true
+  ShowReadingTime: true
+  ShowToc: true
+  DateFormat: "2006-01-01"
+
+  author: "Cash Weaver"
+  defaultTheme: auto
+  description: "Blog and notes"
+  env: production
+  googleAnalytics: UA-69408538-1
   hideSummaries: false
+  showAuthor: false
+
+  editPost:
+    URL: "https://github.com/cashweaver/roam/tree/main"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  fuseOpts:
+    isCaseSensitive: false
 
   homeInfoParams:
     Title: "Hi there 👋"
@@ -56,11 +64,3 @@ params:
       url: "https://instagram.com/cashweaver"
     - name: mealie
       url: "https://mealie.cashweaver.com"
-
-  editPost:
-    URL: "https://github.com/cashweaver/roam/tree/main"
-    Text: "Suggest Changes"
-    appendFilePath: true
-
-  fuseOpts:
-    isCaseSensitive: false
