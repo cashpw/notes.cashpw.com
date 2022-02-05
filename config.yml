@@ -64,3 +64,8 @@ params:
       url: "https://instagram.com/cashweaver"
     - name: mealie
       url: "https://mealie.cashweaver.com"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
