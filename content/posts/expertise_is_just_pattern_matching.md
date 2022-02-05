@@ -2,7 +2,7 @@
 title = "Expertise is Just Pattern Matching"
 author = ["Cash Weaver"]
 date = 2022-02-01T08:57:00-08:00
-lastmod = 2022-02-01T13:06:36-08:00
+lastmod = 2022-02-05T12:47:32-08:00
 tags = ["learning", "learning", "@cedric-chin"]
 categories = ["Cedric-Chin", "learning", "cedric-chin"]
 draft = false
@@ -37,7 +37,7 @@ Expertise is just pattern matching. In other words, being an expert at something
 
 ## Thoughts {#thoughts}
 
-The idea rings true to me when I think about how chess masters describe thinking about the game in the moment. I recall them mentioning pattern matching explicitly; though I've since [lost the reference]({{< relref "it_was_revealed_to_me_in_a_dream.md" >}}).
+The idea rings true to me when I think about how chess masters describe thinking about the game in the moment. I recall them mentioning pattern matching explicitly; though I've since [lost the reference]({{< relref "berdyaevDivineHuman1949.md#quotes" >}}).
 
 
 ## <span class="org-todo todo TODO">TODO</span> Follow up on the pages this one links out to {#follow-up-on-the-pages-this-one-links-out-to}

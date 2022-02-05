@@ -2,7 +2,7 @@
 title = "From The Divine and the Human"
 author = ["Cash Weaver"]
 date = 2022-02-04T08:10:00-08:00
-lastmod = 2022-02-05T12:32:07-08:00
+lastmod = 2022-02-05T12:46:44-08:00
 tags = ["quote", "@nicolas-berdyaev", "quote"]
 categories = ["Nicolas-Berdyaev", "nicolas-berdyaev", "quote"]
 draft = false
@@ -10,6 +10,9 @@ roam_refs = ["https://en.wikiquote.org/wiki/Nikolai_Berdyaev"]
 +++
 
 ## Quotes {#quotes}
+
+
+### Revealed in a Dream {#revealed-in-a-dream}
 
 > This was once revealed to me in a dream.
 >
