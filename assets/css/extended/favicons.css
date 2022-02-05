@@ -84,6 +84,14 @@ a[href*='https://guzey.com']:after {
   background-image: url('/favicons/guzey.com.ico');
   padding-left: 16px;
 }
+a[href*='https://hackernoon.com']:after {
+  background-image: url('/favicons/hackernoon.com.png');
+  padding-left: 16px;
+}
+a[href*='https://idratherbewriting.com']:after {
+  background-image: url('/favicons/idratherbewriting.com.ico');
+  padding-left: 16px;
+}
 a[href*='https://irreal.org']:after {
   background-image: url('/favicons/irreal.org.png');
   padding-left: 16px;
@@ -102,6 +110,10 @@ a[href*='https://news.ycombinator.com']:after {
 }
 a[href*='https://notmuchmail.org']:after {
   background-image: url('/favicons/notmuchmail.org.ico');
+  padding-left: 16px;
+}
+a[href*='https://orgmode.org']:after {
+  background-image: url('/favicons/orgmode.org.png');
   padding-left: 16px;
 }
 a[href*='https://palousemindfulness.com']:after {
@@ -137,7 +149,7 @@ a[href*='https://www.benkuhn.net']:after {
   padding-left: 16px;
 }
 a[href*='https://www.cdc.gov']:after {
-  background-image: url('/favicons/www.cdc.gov.ico');
+  background-image: url('/favicons/www.cdc.gov.png');
   padding-left: 16px;
 }
 a[href*='https://www.factorio.com']:after {
@@ -156,6 +168,10 @@ a[href*='https://www.google.com']:after {
   background-image: url('/favicons/www.google.com.ico');
   padding-left: 16px;
 }
+a[href*='https://www.gwern.net']:after {
+  background-image: url('/favicons/www.gwern.net.png');
+  padding-left: 16px;
+}
 a[href*='https://www.jimwendler.com']:after {
   background-image: url('/favicons/www.jimwendler.com.png');
   padding-left: 16px;
@@ -166,6 +182,10 @@ a[href*='https://www.lesswrong.com']:after {
 }
 a[href*='https://www.neelnanda.io']:after {
   background-image: url('/favicons/www.neelnanda.io.ico');
+  padding-left: 16px;
+}
+a[href*='https://www.nikialeksey.com']:after {
+  background-image: url('/favicons/www.nikialeksey.com.png');
   padding-left: 16px;
 }
 a[href*='https://www.pinterest.com']:after {
@@ -182,6 +202,14 @@ a[href*='https://www.polyphasic.net']:after {
 }
 a[href*='https://www.reddit.com']:after {
   background-image: url('/favicons/www.reddit.com.ico');
+  padding-left: 16px;
+}
+a[href*='https://www.thediff.co']:after {
+  background-image: url('/favicons/www.thediff.co.png');
+  padding-left: 16px;
+}
+a[href*='https://www.variance.com']:after {
+  background-image: url('/favicons/www.variance.com.png');
   padding-left: 16px;
 }
 a[href*='https://www.youtube.com']:after {
