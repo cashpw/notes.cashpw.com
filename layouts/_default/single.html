@@ -36,14 +36,16 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
-  {{- if .Content }}
   <div class="post-content">
+  {{- if .Content }}
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
     {{- partial "backlinks.html" . }}
-  </div>
+  {{- else }}
+    {{- partial "backlinks.html" . }}
   {{- end }}
+  </div>
 
   <footer class="post-footer">
     {{- if (.Param "ShowPostNavLinks") }}
