@@ -2,7 +2,7 @@
 title = "For, Then Against, High-Saturated-Fat Diets"
 author = ["Cash Weaver"]
 date = 2022-01-27T13:18:00-08:00
-lastmod = 2022-01-29T09:17:44-08:00
+lastmod = 2022-02-06T16:12:21-08:00
 draft = true
 roam_refs = ["https://www.reddit.com/r/slatestarcodex/comments/fgsmon/for_then_against_highsaturatedfat_diets/"]
 +++
@@ -48,3 +48,6 @@ I found myself nodding along to this paragraph as I read. I've had the same thou
 
 
 #### <span class="org-todo todo TODO">TODO</span> Pareto principle linked and node created {#pareto-principle-linked-and-node-created}
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

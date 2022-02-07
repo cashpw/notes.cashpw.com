@@ -2,12 +2,15 @@
 title = "How to Read a Paper"
 author = ["Cash Weaver"]
 date = 2021-12-28T12:19:00-08:00
-lastmod = 2021-12-30T18:21:25-08:00
-tags = ["@srinivasan-keshav", "reading"]
-categories = ["srinivasan-keshav", "reading"]
+lastmod = 2022-02-06T16:13:24-08:00
+tags = ["reading", "@srinivasan-keshav", "reading"]
+categories = ["Srinivasan-Keshav", "srinivasan-keshav", "reading"]
 draft = false
 roam_refs = ["https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf"]
 +++
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}
+
 
 ## How to Read a Paper {#how-to-read-a-paper}
 

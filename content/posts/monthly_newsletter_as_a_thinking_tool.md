@@ -2,9 +2,9 @@
 title = "Monthly Newsletter as a Thinking Tool"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:48:00-08:00
-lastmod = 2022-01-01T13:17:33-08:00
-tags = ["@moridinamael", "writing"]
-categories = ["moridinamael", "writing"]
+lastmod = 2022-02-06T16:16:10-08:00
+tags = ["writing", "@moridinamael", "writing"]
+categories = ["moridinamael", "moridinamael", "writing"]
 draft = false
 roam_refs = ["https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool"]
 +++
@@ -21,3 +21,6 @@ roam_refs = ["https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-news
 <!--quoteend-->
 
 > And the final and most important distinction between a monthly newsletter and a blog -- and, I think, the place where all the value of this practice comes in -- is the time-locked nature of it. You have a month to jot down thoughts, then at the end of the month you have to "finish" those thoughts.
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}

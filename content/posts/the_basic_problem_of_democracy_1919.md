@@ -2,9 +2,9 @@
 title = "The Basic Problem of Democracy (1919)"
 author = ["Cash Weaver"]
 date = 2021-12-27T23:10:00-08:00
-lastmod = 2021-12-30T18:21:38-08:00
+lastmod = 2022-02-06T16:33:06-08:00
 tags = ["@walter-lippmann"]
-categories = ["walter-lippmann"]
+categories = ["Walter-Lippmann", "walter-lippmann"]
 draft = false
 roam_refs = ["https://www.theatlantic.com/magazine/archive/1919/11/the-basic-problem-of-democracy/569095/"]
 +++
@@ -22,3 +22,6 @@ A well written essay whose thesis, I'm a bit embarrassed to say, eludes me.
 ## Thoughts {#thoughts}
 
 I expect one could find gold in this essay but I think I will instead read, as [one commenter recommended](https://news.ycombinator.com/item?id=21896607), "Goliath" by Matt Stoller.
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

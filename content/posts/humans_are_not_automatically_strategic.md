@@ -2,9 +2,9 @@
 title = "Humans are not Automatically Strategic"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:11:00-08:00
-lastmod = 2021-12-30T18:21:25-08:00
+lastmod = 2022-02-06T16:13:36-08:00
 tags = ["@anna-salamon"]
-categories = ["anna-salamon"]
+categories = ["Anna-Salamon", "anna-salamon"]
 draft = false
 roam_refs = ["https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic"]
 +++
@@ -26,3 +26,6 @@ roam_refs = ["https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-a
 > (g) Make sure that our "goal" is really our goal, that we coherently want it and are not constrained by fears or by uncertainty as to whether it is worth the effort, and that we have thought through any questions and decisions in advance so they won't continually sap our energies;
 > (h) Use environmental cues and social contexts to bolster our motivation, so we can keep working effectively in the face of intermittent frustrations, or temptations based in hyperbolic discounting;
 > .... or carry out any number of other useful techniques. Instead, we mostly just do things. We act from habit; we act from impulse or convenience when primed by the activities in front of us; we remember our goal and choose an action that feels associated with our goal. We do any number of things. But we do not systematically choose the narrow sets of actions that would effectively optimize for our claimed goals, or for any other goals.
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}

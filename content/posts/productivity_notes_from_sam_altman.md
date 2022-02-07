@@ -2,9 +2,9 @@
 title = "Productivity Notes from Sam Altman"
 author = ["Cash Weaver"]
 date = 2021-12-03T08:43:00-08:00
-lastmod = 2022-01-01T13:13:05-08:00
-tags = ["@sam-altman", "productivity", "meta-work"]
-categories = ["sam-altman", "productivity", "meta-work"]
+lastmod = 2022-02-06T16:23:30-08:00
+tags = ["productivity", "meta-work", "@sam-altman", "productivity", "meta-work"]
+categories = ["Sam-Altman", "sam-altman", "productivity", "meta-work"]
 draft = false
 roam_refs = ["https://blog.samaltman.com/productivity"]
 +++
@@ -48,3 +48,6 @@ roam_refs = ["https://blog.samaltman.com/productivity"]
 <!--quoteend-->
 
 > Don't neglect your family and friends for the sake of productivity—that's a very stupid tradeoff (and very likely a net productivity loss, because you'll be less happy). Don't neglect doing things you love or that clear your head either.
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

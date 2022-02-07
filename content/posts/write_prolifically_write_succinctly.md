@@ -2,7 +2,7 @@
 title = "Write Prolifically; Write Succinctly"
 author = ["Cash Weaver"]
 date = 2022-01-17T07:28:00-08:00
-lastmod = 2022-01-17T11:29:13-08:00
+lastmod = 2022-02-06T16:37:14-08:00
 tags = ["writing", "writing", "@cash-weaver"]
 categories = ["Cash-Weaver", "writing", "cash-weaver"]
 draft = false
@@ -26,3 +26,6 @@ roam_refs = ["https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/",
 
 
 ## Thoughts {#thoughts}
+
+
+## TODO {#todo}

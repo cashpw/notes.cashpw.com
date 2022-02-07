@@ -2,7 +2,7 @@
 title = "The Ultimate Guide for Becomming an Idea Machine"
 author = ["Cash Weaver"]
 date = 2022-01-10T19:47:00-08:00
-lastmod = 2022-01-17T07:33:45-08:00
+lastmod = 2022-02-06T16:35:12-08:00
 draft = false
 roam_refs = ["https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/"]
 +++
@@ -24,3 +24,6 @@ roam_refs = ["https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-
 
 
 ## Thoughts {#thoughts}
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

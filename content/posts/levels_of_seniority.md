@@ -2,7 +2,7 @@
 title = "Levels of Seniority"
 author = ["Cash Weaver"]
 date = 2022-01-27T13:10:00-08:00
-lastmod = 2022-01-29T14:05:04-08:00
+lastmod = 2022-02-06T16:14:54-08:00
 tags = ["@kamran-ahmed"]
 categories = ["Kamran-Ahmed", "kamran-ahmed"]
 draft = false
@@ -30,7 +30,7 @@ roam_refs = ["https://roadmap.sh/guides/levels-of-seniority"]
 > -   Over-engineering is a major problem, often leading to fragility and bugs.
 > -   When given a problem, they often try to fix just the current problem a.k.a. fixing the symptoms instead of fixing the root problem.
 > -   You might notice the "[Somebody Else's Problem]({{< relref "somebody_else_s_problem.md" >}})" behavior from them.
-> -   They don't know what or how much they don't know, thanks to the [Dunning-Kruger effect]({{< relref "dunning_kruger_effect.md" >}}).
+> -   They don't know what or how much they don't know, thanks to the [Dunning-Kruger effect]({{< relref "DunningKrugerEffect2022.md" >}}).
 > -   They don't take initiatives and they might be afraid to work on an unfamiliar codebase.
 > -   They don't participate in team discussions.
 
@@ -58,3 +58,6 @@ roam_refs = ["https://roadmap.sh/guides/levels-of-seniority"]
 > -   They have the ability to take on large ill-defined problems, define them, break them up, and execute the pieces. A senior developer can take something big and abstract, and run with it. They will come up with a few options, discuss them with the team and implement them.
 > -   They have respect for the code that was written before them. They are generous when passing judgment on the architecture or the design decisions made in the codebase. They approach inheriting legacy code with an "opportunity mindset" rather than a complaining one.
 > -   They know how to give feedback without hurting anyone.
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}

@@ -2,7 +2,7 @@
 title = "To Get Good, Go After the Metagame"
 author = ["Cash Weaver"]
 date = 2022-01-25T20:15:00-08:00
-lastmod = 2022-01-29T09:14:33-08:00
+lastmod = 2022-02-06T16:35:52-08:00
 tags = ["@cedric-chin"]
 categories = ["Cedric-Chin", "cedric-chin"]
 draft = true
@@ -51,3 +51,6 @@ roam_refs = ["https://commoncog.com/blog/to-get-good-go-after-the-metagame/"]
 
 
 ## <span class="org-todo todo TODO">TODO</span> Thoughts {#thoughts}
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

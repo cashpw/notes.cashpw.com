@@ -2,9 +2,9 @@
 title = "The Myth of the Myth of the 10x Programmer"
 author = ["Cash Weaver"]
 date = 2021-12-31T17:30:00-08:00
-lastmod = 2022-01-01T13:13:11-08:00
-tags = ["@andy-payne", "meta-work"]
-categories = ["andy-payne", "meta-work"]
+lastmod = 2022-02-06T16:34:37-08:00
+tags = ["meta-work", "@andy-payne", "meta-work"]
+categories = ["Andy-Payne", "andy-payne", "meta-work"]
 draft = false
 roam_refs = ["https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/"]
 +++
@@ -25,3 +25,6 @@ roam_refs = ["https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/
 ## Thoughts {#thoughts}
 
 This reminds me of a way of conceptualizing a "10x" programmer (though I no longer recall where I read the idea): 10x programmers are not 10x because they code/write/etc 10x faster; they're 10x because they solve the big problems that a non-10x programmer cannot solve.
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

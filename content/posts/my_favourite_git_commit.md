@@ -2,7 +2,7 @@
 title = "My favourite Git commit"
 author = ["Cash Weaver"]
 date = 2022-01-27T13:16:00-08:00
-lastmod = 2022-01-29T14:41:11-08:00
+lastmod = 2022-02-06T16:16:22-08:00
 tags = ["@david-thompson"]
 categories = ["David-Thompson", "david-thompson"]
 draft = false
@@ -78,3 +78,6 @@ Now the tests work! One hour of my life I won't get back..
 ## Thoughts {#thoughts}
 
 See: [Documenting Your Work]({{< relref "documenting_your_work.md" >}})
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}

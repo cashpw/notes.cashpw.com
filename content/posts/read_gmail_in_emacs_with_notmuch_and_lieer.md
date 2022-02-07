@@ -2,13 +2,13 @@
 title = "Read Gmail in Emacs with notmuch and lieer"
 author = ["Cash Weaver"]
 date = 2021-12-27T19:56:00-08:00
-lastmod = 2022-01-01T13:02:00-08:00
-tags = ["@cash-weaver", "email", "emacs"]
-categories = ["cash-weaver", "email", "emacs"]
+lastmod = 2022-02-06T16:27:00-08:00
+tags = ["email", "emacs", "@cash-weaver", "email", "emacs"]
+categories = ["Cash-Weaver", "cash-weaver", "email", "emacs"]
 draft = false
 +++
 
-This is a guide to setting up access to email (eg: @gmail.com) within [`doom emacs`](https://github.com/hlissner/doom-emacs) using [`notmuch`](https://notmuchmail.org/) and [`lieer`](https://github.com/gauteh/lieer).
+This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within [Emacs]({{< relref "emacs.md" >}}) ([Doom Emacs]({{< relref "doom_emacs.md" >}})) using [`notmuch`](https://notmuchmail.org/) and [`lieer`](https://github.com/gauteh/lieer).
 
 You may have to complete additional steps if you are not using [`doom emacs`](https://github.com/hlissner/doom-emacs) or if your set-up differs from mine in other ways.
 
@@ -37,7 +37,7 @@ Please be sure you've completed these steps before continuing:
 
 ### Create an OAuth2 Client ID {#create-an-oauth2-client-id}
 
-1.  Please refer to: [Create an OAuth2 Client ID]({{<relref "create_an_oauth2_client_id.md#" >}})
+1.  Please refer to: [Create an OAuth2 Client ID]({{< relref "create_an_oauth2_client_id.md" >}})
 2.  Ensure GMail APIs are enabled for this Client ID.
 3.  Download the JSON format of this key.
 
@@ -143,7 +143,7 @@ These steps are pulled from `lieer`'s own [documentation](https://github.com/gau
     ```
 
 
-### Set up Cronjob to Sync Email {#set-up-cronjob-to-sync-email}
+## Set up Cronjob to Sync Email {#set-up-cronjob-to-sync-email}
 
 You could also use a `systemd` timer for this.
 

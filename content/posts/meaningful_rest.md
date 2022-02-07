@@ -2,9 +2,9 @@
 title = "Meaningful Rest"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:52:00-08:00
-lastmod = 2021-12-30T18:21:28-08:00
+lastmod = 2022-02-06T16:14:57-08:00
 tags = ["@neel-nanda"]
-categories = ["neel-nanda"]
+categories = ["Neel-Nanda", "neel-nanda"]
 draft = false
 roam_refs = ["https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest"]
 +++
@@ -16,3 +16,6 @@ roam_refs = ["https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest"
 <!--quoteend-->
 
 > Most situations in my life have a default response, and that takes no effort to follow. To deviate from the default response, I need to spend a scarce resource - willpower. Being tired is essentially being low on willpower, and the problem is that my default actions when low willpower do not regenerate willpower.
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}

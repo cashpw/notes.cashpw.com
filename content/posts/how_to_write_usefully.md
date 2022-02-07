@@ -2,9 +2,9 @@
 title = "How to Write Usefully"
 author = ["Cash Weaver"]
 date = 2021-12-31T17:46:00-08:00
-lastmod = 2022-01-01T14:45:57-08:00
-tags = ["@paul-graham", "writing"]
-categories = ["paul-graham", "writing"]
+lastmod = 2022-02-06T16:13:30-08:00
+tags = ["writing", "@paul-graham", "writing"]
+categories = ["Paul-Graham", "paul-graham", "writing"]
 draft = false
 roam_refs = ["http://paulgraham.com/useful.html"]
 +++
@@ -13,10 +13,10 @@ roam_refs = ["http://paulgraham.com/useful.html"]
 
 A useful essay is one which is novel, correct, important, and strong:
 
--   A novel essay communicates a "new thing" (point of view, fact, opinion, etc) to at least some of its audience.
--   A correct essay is factually accurate; insofar as is possible.
--   An important essay matters to at least some people. You can measure it by the product of the number of people for which your points matter and how much it matters to those people.
--   An essay is stronger when it can afford to omit qualification (eg: "Perhaps").
+-   A **novel** essay communicates a "new thing" (point of view, fact, opinion, etc) to at least some of its audience.
+-   A **correct** essay is factually accurate; insofar as is possible.
+-   An **important** essay matters to at least some people. You can measure it by the product of the number of people for which your points matter and how much it matters to those people.
+-   An essay is **stronger** when it can afford to omit qualification (eg: "Perhaps").
 
 Additionally, for Graham, a useful essay is one which says things as simply as possible.
 
@@ -59,3 +59,6 @@ Additionally, for Graham, a useful essay is one which says things as simply as p
 
 
 ## Thoughts {#thoughts}
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}

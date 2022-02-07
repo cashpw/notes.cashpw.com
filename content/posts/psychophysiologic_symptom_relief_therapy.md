@@ -2,13 +2,13 @@
 title = "Psychophysiologic Symptom Relief Therapy"
 author = ["Cash Weaver"]
 date = 2021-12-03T06:31:00-08:00
-lastmod = 2022-01-01T13:16:33-08:00
-tags = ["health"]
+lastmod = 2022-02-06T16:23:56-08:00
+tags = ["health", "health"]
 categories = ["health"]
 draft = false
 +++
 
-Psychophysiologic Symptom Relief Therapy (PSRT) is a program for pain relief first<sup>?</sup> detailed in [Donnino et al.](https://journals.lww.com/painrpts/fulltext/2021/09000/psychophysiologic%5Fsymptom%5Frelief%5Ftherapy%5Ffor.13.aspx) and makes use of [Mindfulness-based Stress Reduction]({{<relref "mindfulness_based_stress_reduction.md#" >}})
+Psychophysiologic Symptom Relief Therapy (PSRT) is a program for pain relief first<sup>?</sup> detailed in [Donnino et al.](https://journals.lww.com/painrpts/fulltext/2021/09000/psychophysiologic_symptom_relief_therapy_for.13.aspx) and makes use of [Mindfulness-based Stress Reduction]({{< relref "mindfulness_based_stress_reduction.md" >}})
 
 
 ## Components of the Psychophysiologic Symptom Relief Therapy (PSRT) program {#components-of-the-psychophysiologic-symptom-relief-therapy--psrt--program}
@@ -52,8 +52,4 @@ Psychophysiologic Symptom Relief Therapy (PSRT) is a program for pain relief fir
 > As stress is an underlying component of MBS, the final arm of the program is to engage in stress-reduction techniques. By starting this program with the PSRT portion, participants are often already seeing improvements before embarking on this last portion of the program. MBSR was developed by Jon Kabat-Zinn at the Center for Mindfulness at the University of Massachusetts Medical Center for the prevention and treatment of stress related disorders (4). MBSR has been linked to significant improvements in overall health and well-being, leading to reductions in stress, anxiety, depression, and chronic pain (5, 6, 7). MBSR is an 8-week educational program which includes weekly sessions and mindful practice. Students are encouraged to perform daily home practice, which is explored throughout the program. Our MBSR classes adhered to the original protocol of the Center for Mindfulness at the University of Massachusetts. Our mindfulness sessions entail a series of strategies for cultivating present moment awareness - the ability to experience what is arising in the present moment. This allows for the observation of thoughts (past or future), the disengagement from emotional reactivity and the ability to stay with the sensate experience in the body - the outcome of which is a deeper sense of ease, emotional balance and general well-being.
 
 
-## <span class="org-todo todo TODO">TODO</span> Convert link to use `org-cite` {#convert-link-to-use-org-cite}
-
--   <https://irreal.org/blog/?p=9895>
--   <https://blog.tecosaur.com/tmio/>
--   <https://blog.tecosaur.com/tmio/2021-07-31-citations.html>
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

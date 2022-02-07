@@ -2,8 +2,8 @@
 title = "Ask HN: How do you learn complex, dense technical information?"
 author = ["Cash Weaver"]
 date = 2021-12-30T12:41:00-08:00
-lastmod = 2022-01-01T13:15:22-08:00
-tags = ["learning"]
+lastmod = 2022-02-06T17:04:19-08:00
+tags = ["learning", "learning"]
 categories = ["learning"]
 draft = false
 roam_refs = ["https://news.ycombinator.com/item?id=22325975"]
@@ -17,7 +17,7 @@ roam_refs = ["https://news.ycombinator.com/item?id=22325975"]
 
 <!--quoteend-->
 
-> Interestingly there is a concept in learning research called "[desirable difficulty]({{<relref "desirable_difficulty.md#" >}})". The idea is that learning something, forgetting it and then struggling to learn it again leads to faster learning times. It may be that struggle is inherent in the process of learning something complex. If you equate struggle with pain, then I think it makes some sense.
+> Interestingly there is a concept in learning research called "[desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})". The idea is that learning something, forgetting it and then struggling to learn it again leads to faster learning times. It may be that struggle is inherent in the process of learning something complex. If you equate struggle with pain, then I think it makes some sense.
 >
 > [mikekchar](https://news.ycombinator.com/item?id=22330631)
 
@@ -46,4 +46,4 @@ This raises an important point in the use of spaced repetition systems (SRS). I 
 
 ## Thoughts {#thoughts}
 
-Relevant: [How to Read a Paper]({{<relref "how_to_read_a_paper_2016_pdf.md#" >}})
+Relevant: [How to Read a Paper]({{< relref "how_to_read_a_paper_2016_pdf.md" >}})

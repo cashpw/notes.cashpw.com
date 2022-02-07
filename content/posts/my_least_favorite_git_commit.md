@@ -2,7 +2,7 @@
 title = "My Least Favorite Git Commit"
 author = ["Cash Weaver"]
 date = 2022-01-29T14:39:00-08:00
-lastmod = 2022-01-29T14:54:53-08:00
+lastmod = 2022-02-06T16:16:30-08:00
 tags = ["@alexey-nikitin"]
 categories = ["Alexey-Nikitin", "alexey-nikitin"]
 draft = false
@@ -45,3 +45,6 @@ The [essay](https://www.nikialeksey.com/2019/10/26/long-commit-message.html) isn
 ## Thoughts {#thoughts}
 
 See: [Documenting Your Work]({{< relref "documenting_your_work.md" >}})
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}

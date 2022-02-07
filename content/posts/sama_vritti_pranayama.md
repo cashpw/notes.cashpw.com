@@ -2,7 +2,7 @@
 title = "Sama Vritti Pranayama"
 author = ["Cash Weaver"]
 date = 2022-01-31T10:32:00-08:00
-lastmod = 2022-01-31T17:37:45-08:00
+lastmod = 2022-02-06T16:30:06-08:00
 draft = false
 roam_refs = ["https://www.yogabasics.com/practice/sama-vritti-pranayama"]
 +++
@@ -45,3 +45,6 @@ The practitioner should perform each part for the same duration (eg: inhale four
 
 (cashweaver-org-roam--mirror-roam-aliases-to-hugo-aliases)
 ```
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

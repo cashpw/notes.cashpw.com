@@ -2,9 +2,9 @@
 title = "Noticing the Taste of Lotus"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:30:00-08:00
-lastmod = 2021-12-30T18:21:30-08:00
+lastmod = 2022-02-06T16:16:43-08:00
 tags = ["@valentine", "@michael-smith"]
-categories = ["valentine", "michael-smith"]
+categories = ["Valentine", "Michael-Smith", "valentine", "michael-smith"]
 draft = false
 roam_refs = ["https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus"]
 +++
@@ -25,3 +25,6 @@ Valentine wrote a [follow-up review](https://www.lesswrong.com/posts/KwdcMts8P8h
 I like this way of breaking a piece of writing apart into claims. Doing so reminds me of breaking a commit down into small, independent, chunks and all the benefits that come with that practice. There's a balancing act between leveraging links to other, single-purpose, writing throughout a piece and writing a monolithic entry which can be taken as is without further context or external references.
 
 As for the claims themselves, I identify with the way the author has phrased claim #3. I find myself at the precipice of rabbit holes regularly with regard to video games. Factorio, for example, is a game that I enjoyed playing so much that I had to cut myself off from it. I would find myself thinking about my factory, and future factories, throughout the day. The optimization problems were enchanting and satisfied a need to accomplish and be productive so well that I dropped a lot of other goals/etc and replaced them, for a time, with Factorio. It's not that Factorio is bad -- it's a fantastic game -- but that I discover, after coming out of the haze of hours and hours of perfecting resource gathering, delivery, and processing, that I've realigned my goals around the game and that those new goals won't take me where I want to go.
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}

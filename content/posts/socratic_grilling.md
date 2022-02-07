@@ -2,7 +2,7 @@
 title = "Socratic Grilling"
 author = ["Cash Weaver"]
 date = 2022-01-27T13:13:00-08:00
-lastmod = 2022-01-29T09:17:30-08:00
+lastmod = 2022-02-06T16:32:04-08:00
 draft = true
 roam_refs = ["https://slatestarcodex.com/2020/03/06/socratic-grilling/"]
 +++
@@ -20,3 +20,6 @@ roam_refs = ["https://slatestarcodex.com/2020/03/06/socratic-grilling/"]
 
 
 ## <span class="org-todo todo TODO">TODO</span> Thoughts {#thoughts}
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

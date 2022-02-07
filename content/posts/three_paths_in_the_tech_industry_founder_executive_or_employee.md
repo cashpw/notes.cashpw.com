@@ -2,7 +2,7 @@
 title = "Three Paths in the Tech Industry: Founder, Executive, or Employee"
 author = ["Cash Weaver"]
 date = 2021-11-27T07:00:00-08:00
-lastmod = 2021-12-30T18:21:41-08:00
+lastmod = 2022-02-06T16:35:45-08:00
 draft = true
 roam_refs = ["https://blog.ycombinator.com/three-paths-in-the-tech-industry-founder-executive-or-employee/"]
 +++
@@ -22,3 +22,6 @@ I would define real work as work which no one else currently alive could accompl
 Another part of me isn't satisfied with this definition. "Real" work isn't the only kind of work out there. Say there's only one person who alive who could crack open some problem in a complicated field. That person wouldn't also be able to implement that solution across multiple domains, companies, etc. Those implementations of a burst of "real" work are valuable and meaningful. The person who discovers a new irrigation method has done meaningful work but so have the people who put that discovery into practice in farms around the world.
 
 Perhaps the nuance I'm attempting to address is somewhere between meaningful work and unique work.
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

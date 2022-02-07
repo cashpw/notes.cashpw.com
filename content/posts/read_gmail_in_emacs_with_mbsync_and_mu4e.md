@@ -2,13 +2,13 @@
 title = "Read Gmail in Emacs with mbsync and mu4e"
 author = ["Cash Weaver"]
 date = 2021-12-27T20:01:00-08:00
-lastmod = 2022-01-01T13:02:21-08:00
-tags = ["@cash-weaver", "email", "emacs"]
-categories = ["cash-weaver", "email", "emacs"]
+lastmod = 2022-02-06T16:25:52-08:00
+tags = ["email", "emacs", "@cash-weaver", "email", "emacs"]
+categories = ["Cash-Weaver", "cash-weaver", "email", "emacs"]
 draft = false
 +++
 
-This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within [`doom emacs`](https://github.com/hlissner/doom-emacs) using `mu`, `mbsync` (`isync`), and `mu4e` (`mu` for `emacs`).
+This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within [Emacs]({{< relref "emacs.md" >}}) ([Doom Emacs]({{< relref "doom_emacs.md" >}})) using `mu`, `mbsync` (`isync`), and `mu4e` (`mu` for `emacs`).
 
 You may have to complete additional steps if you are not using [`doom emacs`](https://github.com/hlissner/doom-emacs), Gmail, or if your set-up differs from mine in other ways.
 
@@ -20,9 +20,9 @@ Please be sure you've completed these steps before continuing:
 
 ### Required Software {#required-software}
 
-1.  Install `mbsync` version >= 1.4.1.
+1.  Install `mbsync` version &gt;= 1.4.1.
 
-    We will use `mbsync` to download our email. It is essential that the version is greater than or equal to 1.3.3 to ensure the OAuth2 token is not cut off (see line 1891 in [drv\_imap.c](https://sourceforge.net/p/isync/isync/ci/v1.3.3/tree/src/drv%5Fimap.c))
+    We will use `mbsync` to download our email. It is essential that the version is greater than or equal to 1.3.3 to ensure the OAuth2 token is not cut off (see line 1891 in [drv_imap.c](https://sourceforge.net/p/isync/isync/ci/v1.3.3/tree/src/drv_imap.c))
 
     ```sh
     git clone https://git.code.sf.net/p/isync/isync isync
@@ -87,7 +87,7 @@ Please be sure you've completed these steps before continuing:
 
 ### Create an OAuth2 Client ID {#create-an-oauth2-client-id}
 
-Please refer to: [Create an OAuth2 Client ID]({{<relref "create_an_oauth2_client_id.md#" >}})
+Please refer to: [Create an OAuth2 Client ID]({{< relref "create_an_oauth2_client_id.md" >}})
 
 
 ### Create `mbsyncrc` {#create-mbsyncrc}

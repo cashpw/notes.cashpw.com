@@ -2,12 +2,12 @@
 title = "Use The Smallest Word That Does The Job"
 author = ["Cash Weaver"]
 date = 2022-01-17T11:33:00-08:00
-lastmod = 2022-01-18T06:44:14-08:00
-tags = ["quote", "quote", "@elwyn-brooks-white"]
-categories = ["Elwyn-Brooks-White", "quote", "elwyn-brooks-white"]
+lastmod = 2022-02-06T16:36:22-08:00
+tags = ["quote", "quote"]
+categories = ["quote"]
 draft = false
 +++
 
 > Use the smallest word that does the job.
 >
-> _E.B. White_
+> _[E.B. White]({{< relref "e_b_white.md" >}})_

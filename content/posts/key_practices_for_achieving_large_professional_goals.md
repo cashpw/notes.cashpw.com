@@ -2,9 +2,9 @@
 title = "Key practices for achieving large professional goals"
 author = ["Cash Weaver"]
 date = 2021-12-27T23:54:00-08:00
-lastmod = 2021-12-30T18:21:27-08:00
+lastmod = 2022-02-06T16:14:31-08:00
 tags = ["@stephen-kuenzli"]
-categories = ["stephen-kuenzli"]
+categories = ["Stephen-Kuenzli", "stephen-kuenzli"]
 draft = false
 roam_refs = ["https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/"]
 +++
@@ -23,7 +23,7 @@ roam_refs = ["https://nodramadevops.com/2019/12/key-practices-for-achieving-larg
 > 1.  I now use writing as a primary mechanism to develop my thoughts on a subject
 > 2.  Writing is now a healthy habit for my professional skills and business
 
-Kuenzli mentions that they "really learned how to focus and extract much more value out of the time I have available". They specifically call attention to four ways they pursued [Deep Work]({{<relref "deep_work.md#" >}}):
+Kuenzli mentions that they "really learned how to focus and extract much more value out of the time I have available". They specifically call attention to four ways they pursued [Deep Work]({{< relref "deep_work.md" >}}):
 
 1.  Removing social media from their daily routine
 
@@ -47,3 +47,6 @@ Kuenzli mentions that they "really learned how to focus and extract much more va
 ## Thoughts {#thoughts}
 
 I've added an "End the Day" event to my calendar for the last 15 minutes of the day.
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}

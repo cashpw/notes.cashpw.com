@@ -2,14 +2,8 @@
 title = "Deep Work"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:12:00-08:00
-lastmod = 2022-01-30T13:23:10-08:00
-tags = ["@cal-newport"]
-categories = ["Cal-Newport", "cal-newport"]
+lastmod = 2022-02-06T15:25:58-08:00
 draft = false
-roam_refs = ["https://www.calnewport.com/about/"]
 +++
 
-The ability to concentrate, without distraction, on a demanding task.
-
-
-## <span class="org-todo todo TODO">TODO</span> Improve {#improve}
+The ability, proposed by [Cal Newport]({{< relref "cal_newport.md" >}}), to concentrate, without distraction, on a demanding task.

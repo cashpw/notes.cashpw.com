@@ -2,9 +2,9 @@
 title = "Three Kinds of Non-Fiction Books"
 author = ["Cash Weaver"]
 date = 2021-12-03T11:22:00-08:00
-lastmod = 2021-12-30T18:21:41-08:00
+lastmod = 2022-02-06T16:35:40-08:00
 tags = ["@cedric-chin"]
-categories = ["cedric-chin"]
+categories = ["Cedric-Chin", "cedric-chin"]
 draft = false
 roam_refs = ["https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/"]
 +++
@@ -22,3 +22,6 @@ roam_refs = ["https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/"]
 ## Branch {#branch}
 
 > Branch books are the most common type of book you'll find in the non-fiction section. These are books that consist of a single idea. The rest of the book is then padded out with examples, extrapolations, and implications of that single idea. A good example of this is Nicholas Nassem Taleb's Antifragile, which can be summarised in a single sentence: "the world consists of systems that are fragile (break easily), robust (are difficult to break) and are antifragile (gets stronger the more you try to break it e.g. like democracy)." The rest of the book explores the full implications of seeing systems as 'fragile/robust/antifragile'.
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

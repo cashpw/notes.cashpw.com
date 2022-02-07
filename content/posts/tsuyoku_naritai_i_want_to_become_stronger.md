@@ -2,9 +2,9 @@
 title = "Tsuyoku Naritai (I Want to Become Stronger)"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:43:00-08:00
-lastmod = 2021-12-30T18:21:43-08:00
+lastmod = 2022-02-06T16:35:58-08:00
 tags = ["@eliezer-yudkowsky"]
-categories = ["eliezer-yudkowsky"]
+categories = ["Eliezer-Yudkowsky", "eliezer-yudkowsky"]
 draft = false
 roam_refs = ["https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger"]
 +++
@@ -20,3 +20,6 @@ roam_refs = ["https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-
 > ...
 >
 > Never confess to me that you are just as flawed as I am unless you can tell me what you plan to do about it. Afterward you will still have plenty of flaws left, but that’s not the point; the important thing is to do better, to keep moving ahead, to take one more step forward. Tsuyoku naritai!
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

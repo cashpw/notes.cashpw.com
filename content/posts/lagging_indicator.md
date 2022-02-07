@@ -2,7 +2,7 @@
 title = "Lagging Indicator"
 author = ["Cash Weaver"]
 date = 2022-01-28T08:07:00-08:00
-lastmod = 2022-01-29T09:16:51-08:00
+lastmod = 2022-02-06T16:14:36-08:00
 draft = true
 roam_refs = ["https://en.wikipedia.org/wiki/Economic_indicator"]
 +++
@@ -14,3 +14,6 @@ roam_refs = ["https://en.wikipedia.org/wiki/Economic_indicator"]
 
 
 ## <span class="org-todo todo TODO">TODO</span> Maybe rephrase the definition into my own words? {#maybe-rephrase-the-definition-into-my-own-words}
+
+
+## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}

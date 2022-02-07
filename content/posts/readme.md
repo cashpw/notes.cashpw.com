@@ -2,7 +2,7 @@
 title = "README"
 author = ["Cash Weaver"]
 date = 2021-12-27T20:32:00-08:00
-lastmod = 2022-02-05T13:30:50-08:00
+lastmod = 2022-02-06T09:17:55-08:00
 tags = ["meta", "@cash-weaver", "meta"]
 categories = ["Cash-Weaver", "cash-weaver", "meta"]
 draft = false
@@ -10,6 +10,6 @@ draft = false
 
 The purpose of this `README` is to explain some of the details in this collection of content. In no particular order:
 
+-   [How I Write Notes]({{< relref "how_i_write_notes.md" >}})
+-   These notes are heavily inspired by [others]({{< relref "examples_of_zettelkasten_notes.md" >}})
 -   There is a [style guide]({{< relref "style_guide.md" >}})
--   I haven't "written" all of the posts. I employ liberal use of quoting as a way of [archiving]({{< relref "a.md" >}}).
--   When PostA links to PostB, then a backlink to PostA will appear at the bottom of PostB ([example]({{< relref "a.md" >}})).
