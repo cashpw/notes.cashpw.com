@@ -2,7 +2,7 @@
 title = "Writing to think"
 author = ["Cash Weaver"]
 date = 2022-02-01T09:20:00-08:00
-lastmod = 2022-02-06T16:37:47-08:00
+lastmod = 2022-02-07T06:11:09-08:00
 draft = true
 roam_refs = ["https://www.lesswrong.com/posts/SKQmvZMTY6zQf3Ktc/writing-to-think"]
 +++

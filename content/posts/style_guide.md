@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2022-02-06T09:13:11-08:00
+lastmod = 2022-02-07T08:17:59-08:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -11,9 +11,19 @@ draft = false
 A style guide for my [personal knowledge management]({{< relref "personal_knowledge_management.md" >}}) system (powered by [org-roam]({{< relref "org_roam.md" >}})):
 
 
+## General {#general}
+
+-   [Use Plain Language]({{< relref "use_plain_language.md" >}})
+
+
 ## Tags {#tags}
 
-Prefer links to tags.
+-   Prefer links to tags
+-   Maintain the integrity of the following tags in particular:
+    -   `concept`
+    -   `reference`: About a specific citation
+    -   `quote`: A single quote; should link back to it's reference node
+    -   `person`: A person
 
 
 ## Specifying an Author {#specifying-an-author}
@@ -53,7 +63,7 @@ Every quote should contain an attribution unless it meets one of the following c
 
 ### How Much is Too Much? {#how-much-is-too-much}
 
-There isn't a hard rule on how much quoting is too much. Large quotes [have their benefits]({{< relref "a.md" >}}).
+There isn't a hard rule on how much quoting is too much. Large quotes [have their benefits]({{< relref "griffes.md" >}}).
 
 
 ### Quote Nodes {#quote-nodes}
@@ -79,4 +89,4 @@ Favicons are nice additions to links. They provide visual context to where the u
 
 ## Backlinks {#backlinks}
 
-Backlinks are the backbone of a powerful [zettelkasten]({{< relref "zettelkasten.md" >}}) system. The published form of these notes **must** include backlinks.
+Backlinks are the backbone of a powerful [zettelkasten]({{< relref "Zettelkasten2021.md" >}}) system. The published form of these notes **must** include backlinks.
