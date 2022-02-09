@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2022-02-07T17:20:43-08:00
+lastmod = 2022-02-08T10:46:50-08:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -35,27 +35,33 @@ Note that serial commas are not a fix-all for ambigious sentences. They may, in 
 ### <span class="section-num">1.3</span> [Vary the Length of Sentences]({{< relref "this_sentence_has_five_words.md" >}}) {#vary-the-length-of-sentences--this-sentence-has-five-words-dot-md}
 
 
-## <span class="section-num">2</span> Tags {#tags}
+## <span class="section-num">2</span> Types of Nodes {#types-of-nodes}
+
+| Type      | Tag         | Description                          | Example                                                                                |
+|-----------|-------------|--------------------------------------|----------------------------------------------------------------------------------------|
+| Concept   | `concept`   | About an idea/concept                | [Plans Within Plans]({{< relref "plans_within_plans.md" >}})                           |
+| Reference | `reference` | The node-form of a specific citation | [Herbert :: Dune]({{< relref "herbertDune1999.md" >}})                                 |
+| Quote     | `quote`     | Contain a single quote               | [Plans within plans within plans]({{< relref "plans_within_plans_within_plans.md" >}}) |
+| Person    | `person`    | About a single person                | [Baron Vladimir Harkonnen]({{< relref "vladimir_harkonnen.md" >}})                     |
+
+
+## <span class="section-num">3</span> Tags {#tags}
 
 -   Prefer links to tags
--   Maintain the integrity of the following tags in particular:
-    -   `concept`
-    -   `reference`: About a specific citation
-    -   `quote`: A single quote; should link back to it's reference node
-    -   `person`: A person
+-   Maintain the validity of the tags associated with [Types of Nodes](#types-of-nodes)
 
 
-## <span class="section-num">3</span> Specifying an Author {#specifying-an-author}
+## <span class="section-num">4</span> Specifying an Author {#specifying-an-author}
 
 Specify an author by linking to that author's node (eg: [Cash Weaver]({{< relref "cash_weaver.md" >}}))
 
 Formerly, the policy was: Specify an author using a node-level tag prefixed with `@` (eg: `@Cash_Weaver`).
 
 
-## <span class="section-num">4</span> Quotes {#quotes}
+## <span class="section-num">5</span> Quotes {#quotes}
 
 
-### <span class="section-num">4.1</span> Attribution {#attribution}
+### <span class="section-num">5.1</span> Attribution {#attribution}
 
 -   Place attributions on the last line of the quote.
 -   The attribution may, but doesn't have to, be _italicized_.
@@ -66,14 +72,14 @@ Formerly, the policy was: Specify an author using a node-level tag prefixed with
     4.  "&lt;general link&gt;"
 
 
-#### <span class="section-num">4.1.1</span> Does it Need Attribution? {#does-it-need-attribution}
+#### <span class="section-num">5.1.1</span> Does it Need Attribution? {#does-it-need-attribution}
 
 Every quote should contain an attribution unless it meets one of the following criteria:
 
 1.  The quote is from a cited source which appears in the node's bibliography and this source is the **only** citation present in the node.
 
 
-#### <span class="section-num">4.1.2</span> Examples {#examples}
+#### <span class="section-num">5.1.2</span> Examples {#examples}
 
 > I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a theory of change.
 >
@@ -92,12 +98,12 @@ Every quote should contain an attribution unless it meets one of the following c
 > _[org-mode Manual: Summary](https://orgmode.org/manual/Summary.html)_
 
 
-### <span class="section-num">4.2</span> How Much is Too Much? {#how-much-is-too-much}
+### <span class="section-num">5.2</span> How Much is Too Much? {#how-much-is-too-much}
 
 There isn't a hard rule on how much quoting is too much. Large quotes [have their benefits]({{< relref "griffes.md" >}}).
 
 
-### <span class="section-num">4.3</span> Quote Nodes {#quote-nodes}
+### <span class="section-num">5.3</span> Quote Nodes {#quote-nodes}
 
 Quotes can live in stand-alone single nodes (eg: [The First Lesson]({{< relref "the_first_lesson.md" >}})). This is multi-purpose:
 
@@ -106,15 +112,15 @@ Quotes can live in stand-alone single nodes (eg: [The First Lesson]({{< relref "
 3.  Future-proof: We will be able to, eventually, provide hover previews (similar to those used on [gwern.net](https://www.gwern.net/)). Similarly, standalone quote nodes will fit into a transclusion model better than multi-quote nodes.
 
 
-## <span class="section-num">5</span> Links {#links}
+## <span class="section-num">6</span> Links {#links}
 
 
-### <span class="section-num">5.1</span> Show Favicons with Links {#show-favicons-with-links}
+### <span class="section-num">6.1</span> Show Favicons with Links {#show-favicons-with-links}
 
 Favicons are nice additions to links. They provide visual context to where the reader expects the link to take them. Let's include them alongside external links. I've written a [script to make the process easier](https://github.com/cashweaver/basic-favicon-links).
 
 
-### <span class="section-num">5.2</span> Every Node Must Include Backlinks {#every-node-must-include-backlinks}
+### <span class="section-num">6.2</span> Every Node Must Include Backlinks {#every-node-must-include-backlinks}
 
 Backlinks are the backbone of a powerful [zettelkasten]({{< relref "Zettelkasten2021.md" >}}) system. The published form of these notes **must** include backlinks.
 
