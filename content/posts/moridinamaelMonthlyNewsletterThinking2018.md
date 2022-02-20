@@ -1,8 +1,8 @@
 +++
-title = "moridinamael :: The Monthly Newsletter as Thinking Tool"
+title = "moridinamael | The Monthly Newsletter as Thinking Tool"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:19:00-08:00
-lastmod = 2022-02-07T06:21:59-08:00
+lastmod = 2022-02-20T11:36:09-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

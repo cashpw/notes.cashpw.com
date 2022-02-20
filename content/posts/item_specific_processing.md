@@ -2,7 +2,7 @@
 title = "Item-specific Processing"
 author = ["Cash Weaver"]
 date = 2021-12-31T11:40:00-08:00
-lastmod = 2022-02-07T05:59:41-08:00
+lastmod = 2022-02-20T11:35:26-08:00
 tags = ["learning", "learning"]
 categories = ["learning"]
 draft = false

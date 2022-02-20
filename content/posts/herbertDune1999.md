@@ -1,8 +1,8 @@
 +++
-title = "Herbert :: Dune"
+title = "Herbert | Dune"
 author = ["Cash Weaver"]
 date = 2022-02-05T12:32:00-08:00
-lastmod = 2022-02-05T13:11:28-08:00
+lastmod = 2022-02-20T11:35:16-08:00
 tags = ["dune", "@frank-herbert", "dune"]
 categories = ["Frank-Herbert", "frank-herbert", "dune"]
 draft = false

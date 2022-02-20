@@ -1,8 +1,8 @@
 +++
-title = "Alexey Nikitin :: My least favorite Git commit"
+title = "Alexey Nikitin | My least favorite Git commit"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:31:00-08:00
-lastmod = 2022-02-07T06:32:44-08:00
+lastmod = 2022-02-20T11:36:16-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

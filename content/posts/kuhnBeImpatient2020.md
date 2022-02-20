@@ -1,8 +1,8 @@
 +++
-title = "Ben Kuhn :: Be Impatient"
+title = "Ben Kuhn | Be Impatient"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:36:00-08:00
-lastmod = 2022-02-06T15:36:38-08:00
+lastmod = 2022-02-20T11:35:43-08:00
 tags = ["reference"]
 draft = false
 +++

@@ -1,8 +1,8 @@
 +++
-title = "Julian Shapiro :: How to Punctuate"
+title = "Julian Shapiro | How to Punctuate"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2022-02-07T16:31:34-08:00
+lastmod = 2022-02-20T11:36:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

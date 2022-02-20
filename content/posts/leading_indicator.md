@@ -2,7 +2,9 @@
 title = "Leading Indicator"
 author = ["Cash Weaver"]
 date = 2022-01-28T08:18:00-08:00
-lastmod = 2022-02-06T17:40:30-08:00
+lastmod = 2022-02-20T11:35:46-08:00
+tags = ["reference", "reference"]
+categories = ["reference"]
 draft = false
 +++
 

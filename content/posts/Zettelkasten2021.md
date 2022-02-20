@@ -1,8 +1,8 @@
 +++
-title = "Wikipedia :: Zettelkasten"
+title = "Wikipedia | Zettelkasten"
 author = ["Cash Weaver"]
 date = 2022-02-06T18:03:00-08:00
-lastmod = 2022-02-06T20:40:29-08:00
+lastmod = 2022-02-20T11:33:38-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

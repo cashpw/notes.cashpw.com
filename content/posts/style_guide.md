@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2022-02-08T10:46:50-08:00
+lastmod = 2022-02-20T11:39:32-08:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -40,7 +40,7 @@ Note that serial commas are not a fix-all for ambigious sentences. They may, in 
 | Type      | Tag         | Description                          | Example                                                                                |
 |-----------|-------------|--------------------------------------|----------------------------------------------------------------------------------------|
 | Concept   | `concept`   | About an idea/concept                | [Plans Within Plans]({{< relref "plans_within_plans.md" >}})                           |
-| Reference | `reference` | The node-form of a specific citation | [Herbert :: Dune]({{< relref "herbertDune1999.md" >}})                                 |
+| Reference | `reference` | The node-form of a specific citation | [Dune]({{< relref "herbertDune1999.md" >}})                                            |
 | Quote     | `quote`     | Contain a single quote               | [Plans within plans within plans]({{< relref "plans_within_plans_within_plans.md" >}}) |
 | Person    | `person`    | About a single person                | [Baron Vladimir Harkonnen]({{< relref "vladimir_harkonnen.md" >}})                     |
 
@@ -55,7 +55,7 @@ Note that serial commas are not a fix-all for ambigious sentences. They may, in 
 
 Specify an author by linking to that author's node (eg: [Cash Weaver]({{< relref "cash_weaver.md" >}}))
 
-Formerly, the policy was: Specify an author using a node-level tag prefixed with `@` (eg: `@Cash_Weaver`).
+Formerly, the policy was: Specify an author using a node-level tag prefixed with `@` (eg: `@Cash_Weaver`). There may still be an odd tag or two among the notes.
 
 
 ## <span class="section-num">5</span> Quotes {#quotes}

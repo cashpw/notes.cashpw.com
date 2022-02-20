@@ -2,9 +2,9 @@
 title = "Improving as a Software Engineer"
 author = ["Cash Weaver"]
 date = 2022-01-29T14:08:00-08:00
-lastmod = 2022-02-06T16:14:18-08:00
-tags = ["@cash-weaver"]
-categories = ["Cash-Weaver", "cash-weaver"]
+lastmod = 2022-02-20T11:35:24-08:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = true
 +++
 

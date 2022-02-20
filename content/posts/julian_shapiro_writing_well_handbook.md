@@ -1,8 +1,10 @@
 +++
-title = "Julian Shapiro :: Writing Well Handbook"
+title = "Julian Shapiro | Writing Well Handbook"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:13:00-08:00
-lastmod = 2022-02-07T16:29:41-08:00
+lastmod = 2022-02-20T11:35:35-08:00
+tags = ["reference", "reference"]
+categories = ["reference"]
 draft = false
 +++
 

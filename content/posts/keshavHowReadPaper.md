@@ -1,8 +1,8 @@
 +++
-title = "S Keshav :: How to Read a Paper"
+title = "S Keshav | How to Read a Paper"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:58:00-08:00
-lastmod = 2022-02-06T18:00:16-08:00
+lastmod = 2022-02-20T11:35:37-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

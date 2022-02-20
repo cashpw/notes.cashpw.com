@@ -1,8 +1,8 @@
 +++
-title = "Jason Fried :: Habits Always Form"
+title = "Jason Fried | Habits Always Form"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:53:00-08:00
-lastmod = 2022-02-06T17:54:43-08:00
+lastmod = 2022-02-20T11:35:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

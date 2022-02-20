@@ -1,8 +1,8 @@
 +++
-title = "Cedric Chin :: To Get Good, Go After The Metagame"
+title = "Cedric Chin | To Get Good, Go After The Metagame"
 author = ["Cash Weaver"]
 date = 2022-02-07T08:01:00-08:00
-lastmod = 2022-02-07T08:05:22-08:00
+lastmod = 2022-02-20T11:34:35-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

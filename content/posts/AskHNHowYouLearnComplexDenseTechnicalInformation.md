@@ -1,8 +1,8 @@
 +++
-title = "Hacker News :: Ask HN: How Do You Learn Complex, Dense Technical Information?"
+title = "Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?"
 author = ["Cash Weaver"]
 date = 2022-02-06T14:56:00-08:00
-lastmod = 2022-02-07T05:58:27-08:00
+lastmod = 2022-02-20T11:33:02-08:00
 tags = ["reference"]
 draft = false
 +++

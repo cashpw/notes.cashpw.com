@@ -1,8 +1,8 @@
 +++
-title = "Derek Sivers :: There's No Speed Limit"
+title = "Derek Sivers | There's No Speed Limit"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:34:00-08:00
-lastmod = 2022-02-07T07:35:25-08:00
+lastmod = 2022-02-20T11:36:55-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

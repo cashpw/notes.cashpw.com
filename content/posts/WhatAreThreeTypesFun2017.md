@@ -1,8 +1,8 @@
 +++
-title = "Tim Peck :: What Are the Three Types of Fun?"
+title = "Tim Peck | What Are the Three Types of Fun?"
 author = ["Cash Weaver"]
 date = 2022-02-07T08:09:00-08:00
-lastmod = 2022-02-07T08:10:17-08:00
+lastmod = 2022-02-20T11:33:35-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

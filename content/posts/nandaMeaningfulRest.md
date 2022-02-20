@@ -1,8 +1,8 @@
 +++
-title = "Neel Nanda :: Meaningful Rest"
+title = "Neel Nanda | Meaningful Rest"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:52:00-08:00
-lastmod = 2022-02-06T21:05:20-08:00
+lastmod = 2022-02-20T11:36:11-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

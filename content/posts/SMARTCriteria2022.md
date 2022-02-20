@@ -1,8 +1,8 @@
 +++
-title = "Wikipedia :: SMART Criteria"
+title = "Wikipedia | SMART Criteria"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:59:00-08:00
-lastmod = 2022-02-07T06:59:47-08:00
+lastmod = 2022-02-20T11:33:28-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

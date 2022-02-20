@@ -1,8 +1,8 @@
 +++
-title = "Cedric Chin :: The Three Kinds of Non-Fiction Books"
+title = "Cedric Chin | The Three Kinds of Non-Fiction Books"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:36:00-08:00
-lastmod = 2022-02-07T07:38:06-08:00
+lastmod = 2022-02-20T11:34:37-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

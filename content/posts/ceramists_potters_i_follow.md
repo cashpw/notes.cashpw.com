@@ -2,7 +2,7 @@
 title = "Ceramists/Potters I Follow"
 author = ["Cash Weaver"]
 date = 2022-01-02T22:39:00-08:00
-lastmod = 2022-02-06T15:59:27-08:00
+lastmod = 2022-02-20T11:34:31-08:00
 tags = ["@cash-weaver"]
 categories = ["Cash-Weaver", "cash-weaver"]
 draft = false

@@ -1,8 +1,8 @@
 +++
-title = "Wikipedia :: Law of Triviality"
+title = "Wikipedia | Law of Triviality"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:47:00-08:00
-lastmod = 2022-02-06T17:48:04-08:00
+lastmod = 2022-02-20T11:33:21-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

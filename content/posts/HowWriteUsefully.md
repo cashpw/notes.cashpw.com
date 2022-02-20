@@ -1,8 +1,8 @@
 +++
-title = "Paul Graham :: How to Write Usefully"
+title = "Paul Graham | How to Write Usefully"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:42:00-08:00
-lastmod = 2022-02-06T17:44:34-08:00
+lastmod = 2022-02-20T11:33:16-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

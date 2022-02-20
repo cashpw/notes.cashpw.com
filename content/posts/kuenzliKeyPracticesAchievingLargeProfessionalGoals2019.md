@@ -1,8 +1,8 @@
 +++
-title = "Stephen Kuenzli :: Key Practices for Achieving Large Professional Goals"
+title = "Stephen Kuenzli | Key Practices for Achieving Large Professional Goals"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:49:00-08:00
-lastmod = 2022-02-06T20:49:50-08:00
+lastmod = 2022-02-20T11:35:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

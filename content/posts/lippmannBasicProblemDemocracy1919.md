@@ -1,8 +1,8 @@
 +++
-title = "Walter Lippmann :: The Basic Problem of Democracy"
+title = "Walter Lippmann | The Basic Problem of Democracy"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:13:00-08:00
-lastmod = 2022-02-07T07:14:20-08:00
+lastmod = 2022-02-20T11:35:49-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

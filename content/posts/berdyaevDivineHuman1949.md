@@ -1,8 +1,8 @@
 +++
-title = "Nikolai Berdyaev :: From The Divine and the Human"
+title = "Nikolai Berdyaev | From The Divine and the Human"
 author = ["Cash Weaver"]
 date = 2022-02-04T08:10:00-08:00
-lastmod = 2022-02-05T13:04:20-08:00
+lastmod = 2022-02-20T11:34:15-08:00
 tags = ["quote", "@nicolas-berdyaev", "quote"]
 categories = ["Nicolas-Berdyaev", "nicolas-berdyaev", "quote"]
 draft = false
