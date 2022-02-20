@@ -28,3 +28,6 @@ a[target=_blank]:after {
 .social-icons a {
     color: inherit;
 }
+.social-icons a:after {
+    display: none;
+}
