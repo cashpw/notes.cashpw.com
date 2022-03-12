@@ -2,7 +2,7 @@
 title = "Bloom's Taxomomy: Cognitive Domain"
 author = ["Cash Weaver"]
 date = 2021-12-31T12:24:00-08:00
-lastmod = 2022-02-06T17:04:19-08:00
+lastmod = 2022-02-20T11:34:19-08:00
 tags = ["learning", "learning"]
 categories = ["learning"]
 draft = false

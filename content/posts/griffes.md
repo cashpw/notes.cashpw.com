@@ -1,8 +1,8 @@
 +++
-title = "Milan Griffes :: (A)"
+title = "Milan Griffes | (A)"
 author = ["Cash Weaver"]
 date = 2022-02-06T13:12:00-08:00
-lastmod = 2022-02-06T15:30:15-08:00
+lastmod = 2022-02-20T11:35:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

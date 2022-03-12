@@ -1,8 +1,8 @@
 +++
-title = "Cal Newport :: About"
+title = "Cal Newport | About"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:14:00-08:00
-lastmod = 2022-02-06T15:21:02-08:00
+lastmod = 2022-02-20T11:36:13-08:00
 tags = ["reference"]
 draft = false
 +++

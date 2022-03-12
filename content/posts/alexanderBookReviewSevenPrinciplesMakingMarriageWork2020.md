@@ -1,8 +1,8 @@
 +++
-title = "Scott Alexander :: Book Review: The Seven Principles For Making Marriage Work"
+title = "Scott Alexander | Book Review: The Seven Principles For Making Marriage Work"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:43:00-08:00
-lastmod = 2022-02-06T15:50:15-08:00
+lastmod = 2022-02-20T11:33:47-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

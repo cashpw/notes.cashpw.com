@@ -1,8 +1,8 @@
 +++
-title = "Hacker News :: Ask HN: How Do You Learn Complex, Dense Technical Information?"
+title = "Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?"
 author = ["Cash Weaver"]
 date = 2022-02-06T14:56:00-08:00
-lastmod = 2022-02-06T16:43:50-08:00
+lastmod = 2022-02-20T11:33:02-08:00
 tags = ["reference"]
 draft = false
 +++
@@ -15,7 +15,7 @@ draft = false
 
 ## Thoughts {#thoughts}
 
-Relevant: [How to Read a Paper]({{< relref "how_to_read_a_paper_2016_pdf.md" >}})
+Relevant: [How to Read a Paper]({{< relref "keshavHowReadPaper.md" >}})
 
 
 ## Notes {#notes}

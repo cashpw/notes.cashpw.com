@@ -2,14 +2,16 @@
 title = "Spacing Effect"
 author = ["Cash Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2022-02-06T16:32:20-08:00
-tags = ["learning", "memory", "learning", "memory"]
-categories = ["learning", "memory"]
+lastmod = 2022-02-20T11:37:06-08:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
-roam_refs = ["https://en.wikipedia.org/wiki/Spacing_effect"]
 +++
 
 > The spacing effect demonstrates that learning is more effective when study sessions are spaced out.
+>
+> (<a href="#citeproc_bib_item_1">“Spacing Effect” 2022</a>)
 
-
-## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Spacing Effect.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Spacing_effect&oldid=1068246492">https://en.wikipedia.org/w/index.php?title=Spacing_effect&#38;oldid=1068246492</a>.</div>
+</div>

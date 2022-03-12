@@ -1,8 +1,8 @@
 +++
-title = "Cedric Chin :: Expertise Is 'Just' Pattern Matching"
+title = "Cedric Chin | Expertise Is 'Just' Pattern Matching"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:53:00-08:00
-lastmod = 2022-02-06T17:00:52-08:00
+lastmod = 2022-02-20T11:34:33-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

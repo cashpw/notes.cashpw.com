@@ -2,9 +2,10 @@
 title = "Sama Vritti Pranayama"
 author = ["Cash Weaver"]
 date = 2022-01-31T10:32:00-08:00
-lastmod = 2022-02-06T16:30:06-08:00
+lastmod = 2022-02-20T11:36:49-08:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
-roam_refs = ["https://www.yogabasics.com/practice/sama-vritti-pranayama"]
 +++
 
 A four-part breathing technique:
@@ -15,36 +16,3 @@ A four-part breathing technique:
 4.  Hold
 
 The practitioner should perform each part for the same duration (eg: inhale four seconds, hold four seconds, etc).
-
-```emacs-lisp
-(defun cashweaver-org-roam--mirror-roam-aliases-to-hugo-aliases ()
-  "Copy the list of ROAM_ALIASES into HUGO_ALIASES."
-  (interactive)
-  (when (org-roam-file-p)
-    (when-let*
-        ((option
-          "HUGO_ALIASES")
-                       (raw-roam-aliases
-         (read (format "(%s)"
-          (org-export-get-node-property
-            :ROAM_ALIASES
-            (org-element-parse-buffer)))))
-         (roam-aliases
-          (mapcar
-           #'downcase
-           (mapcar
-            (lambda (alias)
-              (replace-regexp-in-string
-               " "
-               "_"
-               alias))
-            raw-roam-aliases))))
-      ;;roam-aliases
-     roam-aliases
-      )))
-
-(cashweaver-org-roam--mirror-roam-aliases-to-hugo-aliases)
-```
-
-
-## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}

@@ -2,7 +2,7 @@
 title = "Ceramics/Pottery Resources"
 author = ["Cash Weaver"]
 date = 2022-01-02T20:16:00-08:00
-lastmod = 2022-02-06T15:55:39-08:00
+lastmod = 2022-02-20T11:34:29-08:00
 tags = ["ceramics", "ceramics"]
 categories = ["ceramics"]
 draft = false

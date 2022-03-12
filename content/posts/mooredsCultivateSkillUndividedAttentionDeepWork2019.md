@@ -1,15 +1,15 @@
 +++
-title = "Dan Moore :: Cultivate the Skill of Undivided Attention, or \"Deep Work\""
+title = "Dan Moore | Cultivate the Skill of Undivided Attention, or \"Deep Work\""
 author = ["Cash Weaver"]
 date = 2022-02-06T16:00:00-08:00
-lastmod = 2022-02-06T16:01:56-08:00
+lastmod = 2022-02-20T11:36:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 roam_refs = ["https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/"]
 +++
 
-[Dan Moore]({{< relref "dan_moore.md" >}}), (<a href="#citeproc_bib_item_1">mooreds 2019</a>)
+[Dan Moore]({{< relref "dan_moore.md" >}}), (NO_ITEM_DATA:mooredsCultivateSkillUndividedAttentionDeepWork2019)
 
 
 ## Summary {#summary}
@@ -43,5 +43,5 @@ roam_refs = ["https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-
 > Do more deep work, and over a year or two years, your skills will grow much faster than those doing less deep work. Eventually, you might find that you’re doing the work of a senior developer!
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>mooreds. 2019. “Cultivate the Skill of Undivided Attention, or ``Deep Work’’.” <i>Letters to a New Developer</i>. <a href="https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/">https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:mooredsCultivateSkillUndividedAttentionDeepWork2019</div>
 </div>

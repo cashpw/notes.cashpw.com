@@ -1,8 +1,8 @@
 +++
-title = "Wikipedia :: Festina Lente"
+title = "Wikipedia | Festina Lente"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:50:00-08:00
-lastmod = 2022-02-06T16:51:20-08:00
+lastmod = 2022-02-20T11:33:13-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

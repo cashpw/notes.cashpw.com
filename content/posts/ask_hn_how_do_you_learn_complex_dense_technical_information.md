@@ -2,7 +2,7 @@
 title = "Ask HN: How do you learn complex, dense technical information?"
 author = ["Cash Weaver"]
 date = 2021-12-30T12:41:00-08:00
-lastmod = 2022-02-06T17:04:19-08:00
+lastmod = 2022-02-20T11:34:07-08:00
 tags = ["learning", "learning"]
 categories = ["learning"]
 draft = false
@@ -46,4 +46,4 @@ This raises an important point in the use of spaced repetition systems (SRS). I 
 
 ## Thoughts {#thoughts}
 
-Relevant: [How to Read a Paper]({{< relref "how_to_read_a_paper_2016_pdf.md" >}})
+Relevant: [How to Read a Paper]({{< relref "keshavHowReadPaper.md" >}})

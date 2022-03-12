@@ -2,8 +2,8 @@
 title = "At Least Two of the Same"
 author = ["Cash Weaver"]
 date = 2021-12-02T12:00:00-08:00
-lastmod = 2021-12-30T18:21:16-08:00
-tags = ["ceramics", "quote"]
+lastmod = 2022-02-20T11:34:08-08:00
+tags = ["ceramics", "quote", "ceramics", "quote"]
 categories = ["ceramics", "quote"]
 draft = false
 +++
@@ -14,4 +14,4 @@ draft = false
 >
 > BUT there is a place for 'form-finding' which I think describes how you made these shapes you are showing us. When you sit down at the wheel and let a shape 'become'. I like that too. It just doesn't add to my skill set as much.
 >
-> [Nancy\_McG](https://www.reddit.com/r/Pottery/comments/pjs35v/please%5Fcould%5Fyou%5Foffer%5Fsome%5Ffeedback%5Fim%5Fa%5Frookie/hbyso2u/)
+> [Nancy_McG](https://www.reddit.com/r/Pottery/comments/pjs35v/please_could_you_offer_some_feedback_im_a_rookie/hbyso2u/)

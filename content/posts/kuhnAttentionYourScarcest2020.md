@@ -1,8 +1,8 @@
 +++
-title = "Ben Kuhn :: Attention Is Your Scarcest Resource"
+title = "Ben Kuhn | Attention Is Your Scarcest Resource"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:31:00-08:00
-lastmod = 2022-02-06T15:31:54-08:00
+lastmod = 2022-02-20T11:35:41-08:00
 tags = ["reference"]
 draft = false
 +++

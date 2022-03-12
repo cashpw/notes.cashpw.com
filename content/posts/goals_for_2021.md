@@ -2,9 +2,9 @@
 title = "Goals for 2021"
 author = ["Cash Weaver"]
 date = 2021-01-02T13:04:00-08:00
-lastmod = 2022-01-02T14:31:13-08:00
-tags = ["resolutions", "resolutions"]
-categories = ["resolutions"]
+lastmod = 2022-02-20T11:35:09-08:00
+tags = ["resolutions", "resolutions", "@cash-weaver"]
+categories = ["Cash-Weaver", "resolutions", "cash-weaver"]
 draft = false
 +++
 
@@ -16,7 +16,7 @@ These are vague goals, in no particular order, for myself in 2021. I think it wo
 -   Learn my [working limit](https://www.lesswrong.com/posts/c8EeJtqnsKyXdLtc5/how-long-can-people-usefully-work) and respect it.
 -   Become more comfortable [sitting quietly in a room alone](https://news.ycombinator.com/item?id=25482927).
 -   Notice the [taste of lotus](https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus); live intentionally.
--   Use a [newsletter](https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool), or similar, and [writing](https://www.google.com/search?rlz=1CAZJXP%5FenUS900&sxsrf=ALeKk018Uxd8MrGMD408ZNQF-K2ojSC2kA%3A1609550898080&ei=MszvX8auBI73-gTq8L%5FIBg&q=writing+thinking+tool&oq=writing+thinking+tool&gs%5Flcp=CgZwc3ktYWIQDFAAWABggc0GaABwAXgAgAEAiAEAkgEAmAEAqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjGj5ysjPztAhWOu54KHWr4D2kQ4dUDCA4) as thinking tools.
+-   Use a [newsletter](https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool), or similar, and [writing](https://www.google.com/search?rlz=1CAZJXP_enUS900&sxsrf=ALeKk018Uxd8MrGMD408ZNQF-K2ojSC2kA%3A1609550898080&ei=MszvX8auBI73-gTq8L_IBg&q=writing+thinking+tool&oq=writing+thinking+tool&gs_lcp=CgZwc3ktYWIQDFAAWABggc0GaABwAXgAgAEAiAEAkgEAmAEAqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjGj5ysjPztAhWOu54KHWr4D2kQ4dUDCA4) as thinking tools.
 -   [Document what I do as if I was describing it to a stranger](https://news.ycombinator.com/item?id=24259861).
 -   Manage my [attention](https://www.lesswrong.com/posts/aDtzAZf3LnwYvmBP7/attention-is-your-scarcest-resource).
 -   Write, at least a little bit, about what I read.

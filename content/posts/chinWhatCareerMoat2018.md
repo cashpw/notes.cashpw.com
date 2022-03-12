@@ -1,8 +1,8 @@
 +++
-title = "Cedric Chin :: What Is a Career Moat?"
+title = "Cedric Chin | What Is a Career Moat?"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:53:00-08:00
-lastmod = 2022-02-06T15:54:18-08:00
+lastmod = 2022-02-20T11:34:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

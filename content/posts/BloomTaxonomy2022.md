@@ -1,8 +1,8 @@
 +++
-title = "Wikipedia :: Bloom's Taxonomy"
+title = "Wikipedia | Bloom's Taxonomy"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:38:00-08:00
-lastmod = 2022-02-06T15:41:26-08:00
+lastmod = 2022-02-20T11:33:05-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -25,7 +25,7 @@ In order from least complex to most complex:
 
 {{< figure src="/ox-hugo/2021-12-31_12-30-10_BloomsTaxonomy.png" >}}
 
-Anderson proposed [proposed a revision of Bloom's cognitive taxomomy](978-0-8013-1903-7) (in order from least complex to most complex):
+Anderson proposed [proposed a revision of Bloom's cognitive taxomomy](https://books.google.com/books?vid=ISBN978-0-8013-1903-7) (in order from least complex to most complex):
 
 1.  Remember
 2.  Understand

@@ -2,7 +2,7 @@
 title = "Goals for 2022"
 author = ["Cash Weaver"]
 date = 2022-01-02T13:34:00-08:00
-lastmod = 2022-02-06T12:25:47-08:00
+lastmod = 2022-02-20T11:35:12-08:00
 tags = ["@cash-weaver"]
 categories = ["Cash-Weaver", "cash-weaver"]
 draft = false
@@ -12,7 +12,7 @@ I like to start the year by writing a list of goals for myself. This exercise he
 
 I think I could improve on [last year's goals]({{< relref "goals_for_2021.md" >}}) by:
 
-1.  making this year's goals [SMART]({{< relref "smart_goals.md" >}}) from the start
+1.  making this year's goals [SMART]({{< relref "SMARTCriteria2022.md" >}}) from the start
 2.  scheduling monthly check-ins
 3.  making the list private
 

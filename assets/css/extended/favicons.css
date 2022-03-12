@@ -8,8 +8,20 @@ a:not([href*='cashweaver.com']):not([href^='#']):not([href^='/']):after {
   vertical-align: middle;
   width: 16px;
 }
+a[href*='http://cashweaver.com']:after {
+  background-image: url('/favicons/cashweaver.com.png');
+  padding-left: 16px;
+}
+a[href*='http://five.sentenc.es']:after {
+  background-image: url('/favicons/five.sentenc.es.png');
+  padding-left: 16px;
+}
 a[href*='http://glazy.org']:after {
   background-image: url('/favicons/glazy.org.png');
+  padding-left: 16px;
+}
+a[href*='http://public.eblib.com']:after {
+  background-image: url('/favicons/public.eblib.com.png');
   padding-left: 16px;
 }
 a[href*='http://www.aaronsw.com']:after {
@@ -20,20 +32,40 @@ a[href*='http://www.zotero.org']:after {
   background-image: url('/favicons/www.zotero.org.ico');
   padding-left: 16px;
 }
+a[href*='https://']:after {
+  background-image: url('/favicons/.png');
+  padding-left: 16px;
+}
 a[href*='https://apps.ankiweb.net']:after {
   background-image: url('/favicons/apps.ankiweb.net.ico');
+  padding-left: 16px;
+}
+a[href*='https://astralcodexten.substack.com']:after {
+  background-image: url('/favicons/astralcodexten.substack.com.png');
   padding-left: 16px;
 }
 a[href*='https://azdavis.net']:after {
   background-image: url('/favicons/azdavis.net.png');
   padding-left: 16px;
 }
+a[href*='https://bastian.rieck.me']:after {
+  background-image: url('/favicons/bastian.rieck.me.ico');
+  padding-left: 16px;
+}
+a[href*='https://betterprogramming.pub']:after {
+  background-image: url('/favicons/betterprogramming.pub.png');
+  padding-left: 16px;
+}
 a[href*='https://blog.samaltman.com']:after {
   background-image: url('/favicons/blog.samaltman.com.ico');
   padding-left: 16px;
 }
-a[href*='https://blog.tecosaur.com']:after {
-  background-image: url('/favicons/blog.tecosaur.com.png');
+a[href*='https://books.google.com']:after {
+  background-image: url('/favicons/books.google.com.ico');
+  padding-left: 16px;
+}
+a[href*='https://breckyunits.com']:after {
+  background-image: url('/favicons/breckyunits.com.ico');
   padding-left: 16px;
 }
 a[href*='https://clay-king.com']:after {
@@ -46,6 +78,10 @@ a[href*='https://commoncog.com']:after {
 }
 a[href*='https://console.cloud.google.com']:after {
   background-image: url('/favicons/console.cloud.google.com.ico');
+  padding-left: 16px;
+}
+a[href*='https://dhwthompson.com']:after {
+  background-image: url('/favicons/dhwthompson.com.png');
   padding-left: 16px;
 }
 a[href*='https://diff.substack.com']:after {
@@ -68,6 +104,10 @@ a[href*='https://docs.sleep.urbandroid.org']:after {
   background-image: url('/favicons/docs.sleep.urbandroid.org.png');
   padding-left: 16px;
 }
+a[href*='https://doi.org']:after {
+  background-image: url('/favicons/doi.org.png');
+  padding-left: 16px;
+}
 a[href*='https://drive.google.com']:after {
   background-image: url('/favicons/drive.google.com.ico');
   padding-left: 16px;
@@ -76,8 +116,16 @@ a[href*='https://en.wikipedia.org']:after {
   background-image: url('/favicons/en.wikipedia.org.ico');
   padding-left: 16px;
 }
+a[href*='https://en.wiktionary.org']:after {
+  background-image: url('/favicons/en.wiktionary.org.ico');
+  padding-left: 16px;
+}
 a[href*='https://github.com']:after {
   background-image: url('/favicons/github.com.png');
+  padding-left: 16px;
+}
+a[href*='https://goeast.ems.com']:after {
+  background-image: url('/favicons/goeast.ems.com.ico');
   padding-left: 16px;
 }
 a[href*='https://guzey.com']:after {
@@ -88,16 +136,32 @@ a[href*='https://hackernoon.com']:after {
   background-image: url('/favicons/hackernoon.com.png');
   padding-left: 16px;
 }
+a[href*='https://hugocisneros.com']:after {
+  background-image: url('/favicons/hugocisneros.com.png');
+  padding-left: 16px;
+}
+a[href*='https://ideolalia.com']:after {
+  background-image: url('/favicons/ideolalia.com.png');
+  padding-left: 16px;
+}
 a[href*='https://idratherbewriting.com']:after {
   background-image: url('/favicons/idratherbewriting.com.ico');
   padding-left: 16px;
 }
-a[href*='https://irreal.org']:after {
-  background-image: url('/favicons/irreal.org.png');
+a[href*='https://jamesaltucher.com']:after {
+  background-image: url('/favicons/jamesaltucher.com.png');
   padding-left: 16px;
 }
-a[href*='https://journals.lww.com']:after {
-  background-image: url('/favicons/journals.lww.com.png');
+a[href*='https://knowyourmeme.com']:after {
+  background-image: url('/favicons/knowyourmeme.com.ico');
+  padding-left: 16px;
+}
+a[href*='https://lanraccoon.com']:after {
+  background-image: url('/favicons/lanraccoon.com.png');
+  padding-left: 16px;
+}
+a[href*='https://m.signalvnoise.com']:after {
+  background-image: url('/favicons/m.signalvnoise.com.ico');
   padding-left: 16px;
 }
 a[href*='https://nceca.net']:after {
@@ -106,6 +170,18 @@ a[href*='https://nceca.net']:after {
 }
 a[href*='https://news.ycombinator.com']:after {
   background-image: url('/favicons/news.ycombinator.com.png');
+  padding-left: 16px;
+}
+a[href*='https://nodramadevops.com']:after {
+  background-image: url('/favicons/nodramadevops.com.png');
+  padding-left: 16px;
+}
+a[href*='https://notes.alexkehayias.com']:after {
+  background-image: url('/favicons/notes.alexkehayias.com.png');
+  padding-left: 16px;
+}
+a[href*='https://notes.andymatuschak.org']:after {
+  background-image: url('/favicons/notes.andymatuschak.org.png');
   padding-left: 16px;
 }
 a[href*='https://notmuchmail.org']:after {
@@ -120,12 +196,40 @@ a[href*='https://palousemindfulness.com']:after {
   background-image: url('/favicons/palousemindfulness.com.ico');
   padding-left: 16px;
 }
+a[href*='https://payne.org']:after {
+  background-image: url('/favicons/payne.org.png');
+  padding-left: 16px;
+}
+a[href*='https://psychologydictionary.org']:after {
+  background-image: url('/favicons/psychologydictionary.org.png');
+  padding-left: 16px;
+}
+a[href*='https://pubmed.ncbi.nlm.nih.gov']:after {
+  background-image: url('/favicons/pubmed.ncbi.nlm.nih.gov.ico');
+  padding-left: 16px;
+}
 a[href*='https://quoteinvestigator.com']:after {
   background-image: url('/favicons/quoteinvestigator.com.png');
   padding-left: 16px;
 }
+a[href*='https://rclone.org']:after {
+  background-image: url('/favicons/rclone.org.png');
+  padding-left: 16px;
+}
+a[href*='https://roadmap.sh']:after {
+  background-image: url('/favicons/roadmap.sh.png');
+  padding-left: 16px;
+}
 a[href*='https://samplesize.one']:after {
   background-image: url('/favicons/samplesize.one.png');
+  padding-left: 16px;
+}
+a[href*='https://sive.rs']:after {
+  background-image: url('/favicons/sive.rs.ico');
+  padding-left: 16px;
+}
+a[href*='https://slatestarcodex.com']:after {
+  background-image: url('/favicons/slatestarcodex.com.ico');
   padding-left: 16px;
 }
 a[href*='https://sleep.urbandroid.org']:after {
@@ -144,8 +248,28 @@ a[href*='https://tasker.joaoapps.com']:after {
   background-image: url('/favicons/tasker.joaoapps.com.png');
   padding-left: 16px;
 }
+a[href*='https://theanarchistlibrary.org']:after {
+  background-image: url('/favicons/theanarchistlibrary.org.ico');
+  padding-left: 16px;
+}
+a[href*='https://tom.preston-werner.com']:after {
+  background-image: url('/favicons/tom.preston-werner.com.png');
+  padding-left: 16px;
+}
+a[href*='https://tvtropes.org']:after {
+  background-image: url('/favicons/tvtropes.org.ico');
+  padding-left: 16px;
+}
+a[href*='https://twitter.com']:after {
+  background-image: url('/favicons/twitter.com.ico');
+  padding-left: 16px;
+}
 a[href*='https://www.benkuhn.net']:after {
   background-image: url('/favicons/www.benkuhn.net.ico');
+  padding-left: 16px;
+}
+a[href*='https://www.calnewport.com']:after {
+  background-image: url('/favicons/www.calnewport.com.ico');
   padding-left: 16px;
 }
 a[href*='https://www.cdc.gov']:after {
@@ -160,10 +284,6 @@ a[href*='https://www.flightfromperfection.com']:after {
   background-image: url('/favicons/www.flightfromperfection.com.ico');
   padding-left: 16px;
 }
-a[href*='https://www.gnu.org']:after {
-  background-image: url('/favicons/www.gnu.org.ico');
-  padding-left: 16px;
-}
 a[href*='https://www.google.com']:after {
   background-image: url('/favicons/www.google.com.ico');
   padding-left: 16px;
@@ -174,6 +294,10 @@ a[href*='https://www.gwern.net']:after {
 }
 a[href*='https://www.jimwendler.com']:after {
   background-image: url('/favicons/www.jimwendler.com.png');
+  padding-left: 16px;
+}
+a[href*='https://www.julian.com']:after {
+  background-image: url('/favicons/www.julian.com.png');
   padding-left: 16px;
 }
 a[href*='https://www.lesswrong.com']:after {
@@ -202,6 +326,14 @@ a[href*='https://www.polyphasic.net']:after {
 }
 a[href*='https://www.reddit.com']:after {
   background-image: url('/favicons/www.reddit.com.ico');
+  padding-left: 16px;
+}
+a[href*='https://www.sirlin.net']:after {
+  background-image: url('/favicons/www.sirlin.net.ico');
+  padding-left: 16px;
+}
+a[href*='https://www.theatlantic.com']:after {
+  background-image: url('/favicons/www.theatlantic.com.png');
   padding-left: 16px;
 }
 a[href*='https://www.thediff.co']:after {

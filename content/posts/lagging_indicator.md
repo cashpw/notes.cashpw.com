@@ -2,18 +2,19 @@
 title = "Lagging Indicator"
 author = ["Cash Weaver"]
 date = 2022-01-28T08:07:00-08:00
-lastmod = 2022-02-06T16:14:36-08:00
-draft = true
-roam_refs = ["https://en.wikipedia.org/wiki/Economic_indicator"]
+lastmod = 2022-02-20T11:35:45-08:00
+tags = ["reference", "reference"]
+categories = ["reference"]
+draft = false
 +++
 
 > Lagging indicators are indicators that usually change after [a thing] as a whole does. [...] The unemployment rate is a lagging indicator: employment tends to increase two or three quarters after an upturn in [a thing].
+>
+> _(<a href="#citeproc_bib_item_1">“Economic Indicator” 2021</a>)_
 
 
 ## <span class="org-todo todo TODO">TODO</span> Examples {#examples}
 
-
-## <span class="org-todo todo TODO">TODO</span> Maybe rephrase the definition into my own words? {#maybe-rephrase-the-definition-into-my-own-words}
-
-
-## <span class="org-todo todo TODO">TODO</span> Convert to citation through Zotero {#convert-to-citation-through-zotero}
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Economic Indicator.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Economic_indicator&oldid=1062025570">https://en.wikipedia.org/w/index.php?title=Economic_indicator&#38;oldid=1062025570</a>.</div>
+</div>

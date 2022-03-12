@@ -1,8 +1,8 @@
 +++
-title = "Wikipedia :: Desirable Difficulty"
+title = "Wikipedia | Desirable Difficulty"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:03:00-08:00
-lastmod = 2022-02-06T16:03:51-08:00
+lastmod = 2022-02-20T11:33:10-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
