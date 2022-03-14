@@ -1,8 +1,15 @@
 +++
+<<<<<<< HEAD
+title = "Michael W. Donnino et al. :: Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial"
+author = ["Cash Weaver"]
+date = 2022-02-07T06:48:00+00:00
+lastmod = 2022-02-09T03:55:25+00:00
+=======
 title = "Michael W. Donnino et al. | Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:48:00-08:00
 lastmod = 2022-02-20T11:34:53-08:00
+>>>>>>> c44159ca537761b41efda9ca1d5364b893b076b4
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Todos"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2022-03-13T18:55:00-07:00
+lastmod = 2022-03-14T09:04:35-07:00
 draft = false
 +++
 
