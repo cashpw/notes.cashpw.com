@@ -2,7 +2,7 @@
 title = "Ceramics Exercises"
 author = ["Cash Weaver"]
 date = 2022-01-10T19:13:00-08:00
-lastmod = 2022-02-20T11:34:27-08:00
+lastmod = 2022-03-11T10:45:33-08:00
 draft = false
 +++
 
@@ -20,3 +20,4 @@ draft = false
 10. [Make 10/20/50/100 whatever, just make them. You can recycle clay so you only lose whatever Slip you toss from your bucket.](https://www.reddit.com/r/Pottery/comments/47wf90/comment/d0fxp8q/?utm_source=share&utm_medium=web2x&context=3)
 11. [... first draw a silhouette, whatever type of piece and shape you want, and try to make that shape. That will get you in the mode of visualizing before working, and also hones your skills in general so you can make the shapes you want.](https://www.reddit.com/r/Pottery/comments/47wf90/comment/d0g0qxj/?utm_source=share&utm_medium=web2x&context=3)
 12. Cut your form in half after throwing it. How consistent are the walls?
+13. [At Least Two of the Same]({{< relref "at_least_two_of_the_same.md" >}})

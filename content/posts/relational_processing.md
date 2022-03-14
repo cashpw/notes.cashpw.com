@@ -2,9 +2,9 @@
 title = "Relational Processing"
 author = ["Cash Weaver"]
 date = 2021-12-31T11:44:00-08:00
-lastmod = 2022-02-20T11:36:44-08:00
-tags = ["learning", "learning"]
-categories = ["learning"]
+lastmod = 2022-03-11T11:18:54-08:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 +++
 

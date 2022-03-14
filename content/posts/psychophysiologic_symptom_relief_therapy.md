@@ -2,9 +2,9 @@
 title = "Psychophysiologic Symptom Relief Therapy"
 author = ["Cash Weaver"]
 date = 2021-12-03T06:31:00-08:00
-lastmod = 2022-02-20T11:36:36-08:00
-tags = ["health", "health"]
-categories = ["health"]
+lastmod = 2022-03-11T11:16:26-08:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 +++
 

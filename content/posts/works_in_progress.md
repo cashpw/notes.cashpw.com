@@ -2,7 +2,7 @@
 title = "Works in Progress"
 author = ["Cash Weaver"]
 date = 2022-02-18T17:26:00-08:00
-lastmod = 2022-02-19T09:37:22-08:00
+lastmod = 2022-02-21T15:21:51-08:00
 draft = false
 +++
 
@@ -95,14 +95,5 @@ Understand how your work will depend on external services.
     -   Your feature isn't "live" unless you have a metric/heartbeat/etc which indicates as such.
     -
 
-
-## Skills of a Senior Engineer {#skills-of-a-senior-engineer}
-
--   (<a href="#citeproc_bib_item_2">Tellman n.d.</a>)
--   (<a href="#citeproc_bib_item_1">Ahmed n.d.</a>)
--   Understand the flow of data through the system; 10,000 foot view
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ahmed, Kamran. n.d. “Levels of Seniority.” <i>Roadmap.Sh</i>. Accessed February 7, 2022. <a href="https://roadmap.sh">https://roadmap.sh</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Tellman, Zach. n.d. “Senior Engineers Reduce Risk.” Accessed February 19, 2022. <a href="https://ideolalia.com/essays/senior-engineers-reduce-risk.html">https://ideolalia.com/essays/senior-engineers-reduce-risk.html</a>.</div>
 </div>

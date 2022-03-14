@@ -1,34 +1,40 @@
 +++
 title = "Custom Anki Notes"
-tags = ["anki"]
 author = ["Cash Weaver"]
-date = 2020-12-26
+date = 2022-03-11T11:30:00-08:00
+lastmod = 2022-03-11T11:34:21-08:00
 draft = false
 +++
 
-I use [Anki](https://apps.ankiweb.net/) to help myself remember the things I learn. Anki is flashcard software that integrates [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) and [active recall testing](https://docs.ankiweb.net/#/background?id=active-recall-testing). I found creating cards, as well as managing existing cards, was easier after creating custom note types to represent specific information.
+I use [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}}) to help myself remember the things I learn. I found creating cards, as well as managing existing cards, was easier after creating custom note types to represent specific information.
 
-Most of my cards include a common field: `Source`. I like to keep track of where I found the information that went into the card, be that Wikipedia or a textbook or otherwise.
+Most of my cards include a common field: `Source`. I like to keep track of where I found the information that went into the card, be that Wikipedia, a textbook, a blog, etc.
 
 I've included a download link with each of the custom note types rather than listing the explicit field and card template information. Each `apkg` file contains one instance of the specified note type. Importing it into your Anki will also provide you with the associated note type and you can delete the specific instance of the card.
 
-## General Purpose
 
-### Basic with Source
+## General Purpose {#general-purpose}
 
-The base Basic note with an additional field for a source. 
 
-### Basic (and reversed card) with Source
+### Basic with Source {#basic-with-source}
 
-The base "Basic (and reversed card)" note with an additional field for a source. 
+The base Basic note with an additional field for a source.
 
-### Cloze with Source
+
+### Basic (and reversed card) with Source {#basic--and-reversed-card--with-source}
+
+The base "Basic (and reversed card)" note with an additional field for a source.
+
+
+### Cloze with Source {#cloze-with-source}
 
 The base Cloze note with an additional field for a source.
 
-## Authors and their Work
 
-### Author
+## Authors and their Work {#authors-and-their-work}
+
+
+### Author {#author}
 
 For associating an author with their sources.
 
@@ -36,7 +42,8 @@ The `Author` note includes a field for the author's name and a few fields for so
 
 [Download Author note](https://drive.google.com/file/d/1ETNtHiZb3CBKtNYiLAN8UFGQqbRsE6HU/view?usp=sharing)
 
-### Source
+
+### Source {#source}
 
 A particular work by one or more authors.
 
@@ -44,9 +51,11 @@ The `Source` note includes a field for the source's title and a few fields for a
 
 [Download Source note](https://drive.google.com/file/d/1ZrWGc0AZdMQ0FrPxyKs5r-uVeeXlTQ-0/view?usp=sharing)
 
-## Concepts and Terms
 
-### Definition
+## Concepts and Terms {#concepts-and-terms}
+
+
+### Definition {#definition}
 
 For defining terms and concepts.
 
@@ -54,7 +63,8 @@ The `Definition` note includes fields for the term, definition, context, and a s
 
 [Download Definition note](https://drive.google.com/file/d/1wVYeGn51nvzOn-5V1UyDqsBjRO9CXEcc/view?usp=sharing)
 
-### Describe
+
+### Describe {#describe}
 
 For prompting a more well-rounded description of a concept, rather than a single point.
 
@@ -62,7 +72,8 @@ The `Describe` note includes fields for the concept, context, description, and s
 
 [Download Describe note](https://drive.google.com/file/d/1OE5H4XfflaY4DduAIIE6Nys0kzMZjK-D/view?usp=sharing)
 
-### Examples
+
+### Examples {#examples}
 
 For examples of concepts.
 
@@ -70,9 +81,11 @@ The `Example` note includes fields for the concept, example(s), and source. Two 
 
 [Download Examples note](https://drive.google.com/file/d/1NkN8qngjtQnRhPK6MMMKsqIGshqk2Mez/view?usp=sharing)
 
-## Related Concepts
 
-### AKA
+## Related Concepts {#related-concepts}
+
+
+### AKA {#aka}
 
 For concepts and terms with which go by multiple names.
 
@@ -80,7 +93,8 @@ The `AKA` note includes multiple term fields (`Term1`, `Term2`, etc). One card i
 
 [Download AKA note](https://drive.google.com/file/d/16zHILfAHGRearvVJD1T77n9DkrHvaSLC/view?usp=sharing)
 
-### Compare/Contrast
+
+### Compare/Contrast {#compare-contrast}
 
 For highlighting the difference and similarities between related concepts.
 
@@ -88,7 +102,8 @@ The `Compare/Contrast` note includes fields for the concept, context, and compar
 
 [Download Compare/Contrast note](https://drive.google.com/file/d/1lUpmLj-O_pniCMp2RxUOkihq_8qoOEWo/view?usp=sharing)
 
-### Denotes
+
+### Denotes {#denotes}
 
 For associating a term or concept with one or more, often symbolic, representations.
 
@@ -96,10 +111,11 @@ The `Denotes` note includes a field for context and description as well as multi
 
 [Download Denotes note](https://drive.google.com/file/d/18HLY_WY2tg81ztS5soMiyWp1acKX47F3/view?usp=sharing)
 
-### Equivalence
+
+### Equivalence {#equivalence}
 
 For mathematical equivalencies: `A = B = C`.
 
-The `Equivalence` note includes six pairs of fields for an expression and label: `Expression1`, `Label1`, `Expression2`, `Label2`, etc. The labels are used to imitate the appearance of a labeled Cloze deletion (eg: `The quick [color] fox jumps over the lazy dog`). Up to 30 cards are created for each instance of this note to account for all combinations of the six pairs of fields.
+The `Equivalence` note includes six pairs of fields for an expression and label: `Expression1`, `Label1`, `Expression2`, `Label2`, etc. The labels are used to imitate the appearance of a labeled Cloze deletion (eg: "The quick [color] fox jumps over the lazy dog"). Up to 30 cards are created for each instance of this note to account for all combinations of the six pairs of fields.
 
 [Download Equivalence note](https://drive.google.com/file/d/1pF_iPI5bSd7xfmgyVj1D6T4Xb7P1Wmtm/view?usp=sharing)

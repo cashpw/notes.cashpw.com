@@ -2,9 +2,9 @@
 title = "Use Plain Language"
 author = ["Cash Weaver"]
 date = 2022-01-17T11:26:00-08:00
-lastmod = 2022-02-15T13:21:56-08:00
-tags = ["writing", "concept", "writing", "concept"]
-categories = ["writing", "concept"]
+lastmod = 2022-03-11T11:26:03-08:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 +++
 

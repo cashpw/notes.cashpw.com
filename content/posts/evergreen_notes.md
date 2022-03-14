@@ -2,9 +2,9 @@
 title = "Evergreen Notes"
 author = ["Cash Weaver"]
 date = 2022-02-06T07:24:00-08:00
-lastmod = 2022-02-20T11:34:59-08:00
-tags = ["@andy-matuschak"]
-categories = ["Andy-Matuschak", "andy-matuschak"]
+lastmod = 2022-03-10T06:31:41-08:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 +++
 

@@ -2,7 +2,7 @@
 title = "Todos"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2022-02-18T16:08:18-08:00
+lastmod = 2022-03-13T18:55:00-07:00
 draft = false
 +++
 
@@ -121,3 +121,23 @@ Related
 
 
 ## <span class="org-todo todo TODO">TODO</span> Node idea: Habits I keep, or am trying to keep {#node-idea-habits-i-keep-or-am-trying-to-keep}
+
+
+## <span class="org-todo todo TODO">TODO</span> Remove customized attachment dir properties from all nodes {#remove-customized-attachment-dir-properties-from-all-nodes}
+
+
+## <span class="org-todo todo TODO">TODO</span> Node idea: Org-mode as a personal relationship management platform. org-roam, nodes-as-contacts, Google Drive as storage {#node-idea-org-mode-as-a-personal-relationship-management-platform-dot-org-roam-nodes-as-contacts-google-drive-as-storage}
+
+
+## <span class="org-todo todo TODO">TODO</span> Node idea: Simple things are hard, simple things are true {#node-idea-simple-things-are-hard-simple-things-are-true}
+
+
+## <span class="org-todo todo TODO">TODO</span> Learn about Edith Health {#learn-about-edith-health}
+
+-   <https://www.youtube.com/watch?v=IJFM8Kui1W0>
+
+
+## <span class="org-todo todo TODO">TODO</span> Parenting / Interacting with Children {#parenting-interacting-with-children}
+
+-   [Freddish]({{< relref "freddish.md" >}})
+-   [Dave Orr | Parenting Rules]({{< relref "orrParentingRules.md" >}})

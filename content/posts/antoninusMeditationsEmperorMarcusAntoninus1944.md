@@ -2,7 +2,7 @@
 title = "Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus"
 author = ["Cash Weaver"]
 date = 2022-02-17T06:44:00-08:00
-lastmod = 2022-02-20T11:34:06-08:00
+lastmod = 2022-02-21T08:41:50-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -39,7 +39,7 @@ draft = false
 
 > Say to yourself in the early morning: I shall meet to-day inquisitive, ungrateful, violent, treacherous, envious, uncharitable men. All these things have come upon them through ignorance of real good and ill. But I, because I have seen that the nature of good is the right, and of ill the wrong, and that the nature of the man himself who does wrong is akin to my own (not of the same blood and seed, but partaking with me in mind, that is in a portion of divinity), I can neither be harmed by any of them, for no man will involve me in wrong, nor can I be angry with my kinsman or hate him; for we have come into the world to work together, like feet, like hands, like eyelids, like the rows of upper and lower teeth. To work against one another therefore is to oppose Nature, and to be vexed with another or to turn away from him is to tend to antagonism.
 
-I've come to appreciate the use of phrases, mantras, hymns, etc --- focusing phrases --- as a way of focusing the mind or returning to a particular state of mind. It reminds me of the [Litany Against Fear]({{< relref "litany_against_fear.md" >}}) or the [Serenity Prayer]({{< relref "SerenityPrayer2021.md" >}}). This one seems particularly important as it is almost [by default]({{< relref "be_concious_of_your_defaults.md" >}}) that I see myself as distinct from those around me. Oh, what isolation that brings.
+I've come to appreciate the use of phrases, mantras, hymns, etc --- [focusing techniques]({{< relref "focusing_techniques.md" >}})  --- as a way of focusing the mind or returning to a particular state of mind. It reminds me of the [Litany Against Fear]({{< relref "litany_against_fear.md" >}}) or the [Serenity Prayer]({{< relref "SerenityPrayer2021.md" >}}), and more broadly of [A Beginning]({{< relref "a_beginning.md" >}}). This one seems particularly important as it is almost [by default]({{< relref "be_concious_of_your_defaults.md" >}}) that I see myself as distinct from those around me. Oh, what isolation that brings.
 
 
 ### Book 3 {#book-3}

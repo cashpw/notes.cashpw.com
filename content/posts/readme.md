@@ -2,9 +2,9 @@
 title = "README"
 author = ["Cash Weaver"]
 date = 2021-12-27T20:32:00-08:00
-lastmod = 2022-02-20T11:36:42-08:00
-tags = ["meta", "@cash-weaver", "meta"]
-categories = ["Cash-Weaver", "cash-weaver", "meta"]
+lastmod = 2022-03-11T11:35:55-08:00
+tags = ["meta", "meta"]
+categories = ["meta"]
 draft = false
 +++
 

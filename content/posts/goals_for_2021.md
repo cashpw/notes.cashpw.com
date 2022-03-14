@@ -2,9 +2,7 @@
 title = "Goals for 2021"
 author = ["Cash Weaver"]
 date = 2021-01-02T13:04:00-08:00
-lastmod = 2022-02-20T11:35:09-08:00
-tags = ["resolutions", "resolutions", "@cash-weaver"]
-categories = ["Cash-Weaver", "resolutions", "cash-weaver"]
+lastmod = 2022-03-11T11:21:07-08:00
 draft = false
 +++
 

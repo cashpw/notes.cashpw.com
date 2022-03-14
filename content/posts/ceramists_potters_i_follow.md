@@ -2,9 +2,7 @@
 title = "Ceramists/Potters I Follow"
 author = ["Cash Weaver"]
 date = 2022-01-02T22:39:00-08:00
-lastmod = 2022-02-20T11:34:31-08:00
-tags = ["@cash-weaver"]
-categories = ["Cash-Weaver", "cash-weaver"]
+lastmod = 2022-03-13T15:32:21-07:00
 draft = false
 +++
 
@@ -16,3 +14,4 @@ draft = false
 -   [Earth Nation Ceramics](https://www.youtube.com/channel/UCSirazTEcuYahrfjOH05BmQ)
 -   [Lilly Maetzig](https://youtube.com/c/MaeCeramics)
 -   [Ingleton Pottery](https://www.youtube.com/c/IngletonPottery)
+-   [Ei Iwarmura]({{< relref "ei_iwarmura.md" >}})

@@ -2,7 +2,7 @@
 title = "Kamran Ahmed | Levels of Seniority"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:50:00-08:00
-lastmod = 2022-02-20T11:33:44-08:00
+lastmod = 2022-02-21T08:53:50-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -65,5 +65,5 @@ draft = false
 > -   They know how to give feedback without hurting anyone.
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ahmed, Kamran. n.d. “Levels of Seniority.” <i>Roadmap.Sh</i>. Accessed February 7, 2022. <a href="https://roadmap.sh">https://roadmap.sh</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ahmed, Kamran. n.d. “Levels of Seniority.” <i>Https://Roadmap.Sh/Guides/Levels-of-Seniority</i>. Accessed February 7, 2022. <a href="https://roadmap.sh">https://roadmap.sh</a>.</div>
 </div>

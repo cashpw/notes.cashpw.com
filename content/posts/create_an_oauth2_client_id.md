@@ -2,9 +2,7 @@
 title = "Create an OAuth2 Client ID"
 author = ["Cash Weaver"]
 date = 2021-12-27T19:48:00-08:00
-lastmod = 2022-02-20T11:34:42-08:00
-tags = ["oauth2", "google-cloud", "oauth2", "google-cloud"]
-categories = ["oauth2", "google-cloud"]
+lastmod = 2022-03-11T11:16:17-08:00
 draft = false
 +++
 

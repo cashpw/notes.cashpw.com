@@ -2,16 +2,13 @@
 title = "Herbert | Dune"
 author = ["Cash Weaver"]
 date = 2022-02-05T12:32:00-08:00
-lastmod = 2022-02-20T11:35:16-08:00
-tags = ["dune", "@frank-herbert", "dune"]
-categories = ["Frank-Herbert", "frank-herbert", "dune"]
+lastmod = 2022-02-21T07:06:25-08:00
+tags = ["reference"]
 draft = false
 +++
 
-## Quotes {#quotes}
-
--   [The First Lesson]({{< relref "the_first_lesson.md" >}})
--   [Plans within plans within plans]({{< relref "plans_within_plans_within_plans.md" >}})
+[Frank Herbert]({{< relref "frank_herbert.md" >}}), (<a href="#citeproc_bib_item_1">Herbert 1999</a>)
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
 </div>

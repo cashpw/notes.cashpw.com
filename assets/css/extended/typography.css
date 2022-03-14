@@ -5,3 +5,9 @@
 .home-info p:last-child {
     margin-bottom: 0;
 }
+
+/* Tables */
+
+table td {
+    vertical-align: top;
+}

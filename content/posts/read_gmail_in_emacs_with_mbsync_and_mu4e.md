@@ -2,9 +2,7 @@
 title = "Read Gmail in Emacs with mbsync and mu4e"
 author = ["Cash Weaver"]
 date = 2021-12-27T20:01:00-08:00
-lastmod = 2022-02-20T11:36:38-08:00
-tags = ["email", "emacs", "@cash-weaver", "email", "emacs"]
-categories = ["Cash-Weaver", "cash-weaver", "email", "emacs"]
+lastmod = 2022-03-11T11:36:40-08:00
 draft = false
 +++
 
