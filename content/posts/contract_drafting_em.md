@@ -2,11 +2,13 @@
 title = "Contract Drafting Em"
 author = ["Cash Weaver"]
 date = 2022-03-14T08:38:00-07:00
-lastmod = 2022-03-14T08:38:56-07:00
+lastmod = 2022-03-15T09:06:39-07:00
 draft = false
 +++
 
 (<a href="#citeproc_bib_item_1">“The Contract Drafting Em” n.d.</a>)
+
+See [Em]({{< relref "em.md" >}}).
 
 <p class="verse">
 

@@ -2,7 +2,7 @@
 title = "Scott Alexander | Meditations On Moloch"
 author = ["Cash Weaver"]
 date = 2022-03-13T20:30:00-07:00
-lastmod = 2022-03-14T08:53:12-07:00
+lastmod = 2022-03-16T08:47:26-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -137,10 +137,6 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 >
 > But these institutions not only incentivize others, but are incentivized themselves. These are large organizations made of lots of people who are competing for jobs, status, prestige, et cetera – there's no reason they should be immune to the same multipolar traps as everyone else, and indeed they aren't. Governments can in theory keep corporations, citizens, et cetera out of certain traps, but as we saw above there are many traps that governments themselves can fall into.
 
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
-</div>
-
 
 ### IV {#iv}
 
@@ -193,3 +189,7 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 > He always and everywhere offers the same deal: throw what you love most into the flames, and I can grant you power.
 >
 > As long as the offer's open, it will be irresistible. So we need to close the offer. Only another god can kill Moloch. We have one on our side, but he needs our help. We should give it to him.
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
+</div>

@@ -2,7 +2,7 @@
 title = "Todos"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2022-03-14T09:04:35-07:00
+lastmod = 2022-03-15T15:56:35-07:00
 draft = false
 +++
 
@@ -141,3 +141,14 @@ Related
 
 -   [Freddish]({{< relref "freddish.md" >}})
 -   [Dave Orr | Parenting Rules]({{< relref "orrParentingRules.md" >}})
+
+
+## <span class="org-todo todo TODO">TODO</span> Writing good software / Software patterns I like {#writing-good-software-software-patterns-i-like}
+
+-   [Pure Functions]({{< relref "pure_functions.md" >}})
+-   "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Linus Torvalds
+-   (<a href="#citeproc_bib_item_1">Smith n.d.</a>)
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Smith, Brandon. n.d. “Write Code. Not Too Much. Mostly Functions.” Accessed March 15, 2022. <a href="https://www.brandons.me/blog/write-code-not-too-much-mostly-functions">https://www.brandons.me/blog/write-code-not-too-much-mostly-functions</a>.</div>
+</div>
