@@ -559,22 +559,13 @@ Please sort in order of oldest to youngest.
 ## <span class="org-todo todo TODO">TODO</span> [EmacsConf 2020 Talks](https://emacsconf.org/2020/talks/) {#emacsconf-2020-talks}
 
 
-## <span class="org-todo todo TODO">TODO</span> [Thought Leaders and Chicken Sexers](https://ideolalia.com/essays/thought-leaders-and-chicken-sexers.html) {#thought-leaders-and-chicken-sexers}
-
-
-## <span class="org-todo todo TODO">TODO</span> [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/) {#how-to-make-your-code-reviewer-fall-in-love-with-you}
-
-
 ## <span class="org-todo todo TODO">TODO</span> [What are the different activation functions and why we use them?](https://www.reddit.com/r/learnmachinelearning/comments/k8p48m/what_are_the_different_activation_functions_and/) {#what-are-the-different-activation-functions-and-why-we-use-them}
 
 
-## <span class="org-todo todo TODO">TODO</span> [Are people with dark personality traits more likely to succeed?](https://news.ycombinator.com/item?id=25344640) {#are-people-with-dark-personality-traits-more-likely-to-succeed}
-
-
-## <span class="org-todo todo TODO">TODO</span> [Little Tasks, Little Trust](http://adamard.com/little_tasks.html) {#little-tasks-little-trust}
-
-
 ## <span class="org-todo todo TODO">TODO</span> [Ask HN: What's the best paper you've read in 2020?](https://news.ycombinator.com/item?id=25346456) {#ask-hn-what-s-the-best-paper-you-ve-read-in-2020}
+
+
+## <span class="org-todo todo TODO">TODO</span> Lisp in Small Pieces {#lisp-in-small-pieces}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [What are your favorite lectures on YouTube?](https://www.reddit.com/r/slatestarcodex/comments/k9hc7v/what_are_your_favorite_lectures_on_youtube/) {#what-are-your-favorite-lectures-on-youtube}
@@ -583,13 +574,13 @@ Please sort in order of oldest to youngest.
 ## <span class="org-todo todo TODO">TODO</span> [Quick Thoughts on Immoral Mazes](https://www.lesswrong.com/posts/8T8DewgLTvKAqKxw5/quick-thoughts-on-immoral-mazes) {#quick-thoughts-on-immoral-mazes}
 
 
+### <span class="org-todo todo TODO">TODO</span> <https://www.lesswrong.com/s/kNANcHLNtJt5qeuSS> {#https-www-dot-lesswrong-dot-com-s-knanchlntjt5qeuss}
+
+
 ## <span class="org-todo todo TODO">TODO</span> [Emacs Survey 2020 Results](https://emacssurvey.org/2020/) {#emacs-survey-2020-results}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [Teaching math via its history?](https://www.reddit.com/r/slatestarcodex/comments/kb9jll/teaching_math_via_its_history/) {#teaching-math-via-its-history}
-
-
-## <span class="org-todo todo TODO">TODO</span> [To listen well, get curious](https://www.lesswrong.com/posts/4K5pJnKBGkqqTbyxx/to-listen-well-get-curious) {#to-listen-well-get-curious}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [Rules of Thought](https://www.reddit.com/r/slatestarcodex/comments/kcffka/rules_of_thought/) {#rules-of-thought}
@@ -598,31 +589,19 @@ Please sort in order of oldest to youngest.
 ## <span class="org-todo todo TODO">TODO</span> [A computer science study plan to become a software engineer](https://github.com/jwasham/coding-interview-university) {#a-computer-science-study-plan-to-become-a-software-engineer}
 
 
-## <span class="org-todo todo TODO">TODO</span> [Commoditize your complement (2019)](https://news.ycombinator.com/item?id=25476266) {#commoditize-your-complement--2019}
-
-
-## <span class="org-todo todo TODO">TODO</span> [The Abolition of Work (2002)](https://news.ycombinator.com/item?id=25482075) {#the-abolition-of-work--2002}
-
-
-## <span class="org-todo todo TODO">TODO</span> [All problems stem from man's inability to sit quietly in a room alone (2014)](https://news.ycombinator.com/item?id=25482927) {#all-problems-stem-from-man-s-inability-to-sit-quietly-in-a-room-alone--2014}
-
-
 ## <span class="org-todo todo TODO">TODO</span> [The Gervais Principle, or the Office According to "The Office" (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/) {#the-gervais-principle-or-the-office-according-to-the-office--2009}
-
-
-## <span class="org-todo todo TODO">TODO</span> [Write code. Not too much. Mostly functions.](https://news.ycombinator.com/item?id=25500671) {#write-code-dot-not-too-much-dot-mostly-functions-dot}
-
-
-## <span class="org-todo todo TODO">TODO</span> [parenting rules](https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules) {#parenting-rules}
-
-
-## <span class="org-todo todo TODO">TODO</span> [You Should Write a User Guide](https://news.ycombinator.com/item?id=25506371) {#you-should-write-a-user-guide}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [100 Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life) {#100-tips-for-a-better-life}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [My favorite essays of life advice](https://www.lesswrong.com/posts/zMmQdob3eFfeMh7D3/my-favorite-essays-of-life-advice) {#my-favorite-essays-of-life-advice}
+
+
+## <span class="org-todo todo TODO">TODO</span> <https://www.niskanencenter.org/public-policy-utopia/> {#https-www-dot-niskanencenter-dot-org-public-policy-utopia}
+
+
+## <span class="org-todo todo TODO">TODO</span> <https://celandine13.livejournal.com/33599.html> {#https-celandine13-dot-livejournal-dot-com-33599-dot-html}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [Ask HN: What was a book that changed your life?](https://news.ycombinator.com/item?id=25530700) {#ask-hn-what-was-a-book-that-changed-your-life}
@@ -634,40 +613,25 @@ Please sort in order of oldest to youngest.
 ## <span class="org-todo todo TODO">TODO</span> [Essential/best posts for someone new to Slate Star Codex?](https://www.reddit.com/r/slatestarcodex/comments/kk8dnm/essentialbest_posts_for_someone_new_to_slate_star/) {#essential-best-posts-for-someone-new-to-slate-star-codex}
 
 
-## <span class="org-todo todo TODO">TODO</span> [Manga Guide to Lisp](https://news.ycombinator.com/item?id=25541919) {#manga-guide-to-lisp}
-
-
 ## <span class="org-todo todo TODO">TODO</span> [What's your favourite content from 2020?](https://www.reddit.com/r/slatestarcodex/comments/kkhzmi/whats_your_favourite_content_from_2020/) {#what-s-your-favourite-content-from-2020}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [Introduction to Reinforcement Learning (2015)](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) {#introduction-to-reinforcement-learning--2015}
 
 
-## <span class="org-todo todo TODO">TODO</span> [Systems design explains the world: volume 1](https://news.ycombinator.com/item?id=25552267) {#systems-design-explains-the-world-volume-1}
-
-
 ## <span class="org-todo todo TODO">TODO</span> [Ask HN: Favorite Podcast Episode of 2020?](https://news.ycombinator.com/item?id=25553818) {#ask-hn-favorite-podcast-episode-of-2020}
 
 
-## <span class="org-todo todo TODO">TODO</span> [The Good Try Rule](https://www.lesswrong.com/posts/MGWEztZY8GZ5im4x7/the-good-try-rule) {#the-good-try-rule}
-
-
-## <span class="org-todo todo TODO">TODO</span> [Tribes of Programming (2017)](https://josephg.com/blog/3-tribes/) {#tribes-of-programming--2017}
+## <span class="org-todo todo TODO">TODO</span> <https://josephg.com/blog/crdts-are-the-future/> {#https-josephg-dot-com-blog-crdts-are-the-future}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [Best way to learn reinforcement learning in 2021?](https://www.reddit.com/r/learnmachinelearning/comments/km5l8t/best_way_to_learn_reinforcement_learning_in_2021/) {#best-way-to-learn-reinforcement-learning-in-2021}
-
-
-## <span class="org-todo todo TODO">TODO</span> [CIA vs. Wikileaks [video](https://media.ccc.de/v/rc3-11512-cia_vs_wikileaks)] {#cia-vs-dot-wikileaks-video}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [Against Essential and Accidental Complexity](https://danluu.com/essential-complexity/) {#against-essential-and-accidental-complexity}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [[R] A List of Best Papers from Top AI Conferences in 2020](https://www.reddit.com/r/MachineLearning/comments/knai5q/r_a_list_of_best_papers_from_top_ai_conferences/) {#r-a-list-of-best-papers-from-top-ai-conferences-in-2020}
-
-
-## <span class="org-todo todo TODO">TODO</span> [Talk Less, Listen More](https://thereformedbroker.com/2020/12/30/talk-less-listen-more/) {#talk-less-listen-more}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [Interview Transcript – Donald Knuth [pdf](https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf)] {#interview-transcript-donald-knuth-pdf}

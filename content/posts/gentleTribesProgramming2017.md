@@ -2,7 +2,7 @@
 title = "Joseph Gentle | Three Tribes of Programming"
 author = ["Cash Weaver"]
 date = 2022-03-14T10:06:00-07:00
-lastmod = 2022-03-14T17:22:20-07:00
+lastmod = 2022-03-16T19:47:46-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -22,9 +22,6 @@ draft = false
 > We self-select into communities of our peers based on these ideals. We use coded language to express these ideals to our peers.
 >
 > I think each group has its own conferences, and its own subreddits. Its own programming languages, heroes and its own villains.
-
-
-## <span class="org-todo todo TODO">TODO</span> Thoughts {#thoughts}
 
 
 ## Notes {#notes}
