@@ -2,7 +2,7 @@
 title = "Todos"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2022-03-15T15:56:35-07:00
+lastmod = 2022-03-20T17:48:44-07:00
 draft = false
 +++
 
@@ -137,18 +137,42 @@ Related
 -   <https://www.youtube.com/watch?v=IJFM8Kui1W0>
 
 
-## <span class="org-todo todo TODO">TODO</span> Parenting / Interacting with Children {#parenting-interacting-with-children}
+## <span class="org-todo todo TODO">TODO</span> Node idea: Parenting / Interacting with Children {#node-idea-parenting-interacting-with-children}
 
 -   [Freddish]({{< relref "freddish.md" >}})
 -   [Dave Orr | Parenting Rules]({{< relref "orrParentingRules.md" >}})
 
 
-## <span class="org-todo todo TODO">TODO</span> Writing good software / Software patterns I like {#writing-good-software-software-patterns-i-like}
+## <span class="org-todo todo TODO">TODO</span> Node idea: Writing good software / Software patterns I like {#node-idea-writing-good-software-software-patterns-i-like}
 
 -   [Pure Functions]({{< relref "pure_functions.md" >}})
 -   "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Linus Torvalds
--   (<a href="#citeproc_bib_item_1">Smith n.d.</a>)
+-   (<a href="#citeproc_bib_item_5">Smith n.d.</a>)
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Smith, Brandon. n.d. “Write Code. Not Too Much. Mostly Functions.” Accessed March 15, 2022. <a href="https://www.brandons.me/blog/write-code-not-too-much-mostly-functions">https://www.brandons.me/blog/write-code-not-too-much-mostly-functions</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>matthewsaltz. 2020. “Understand First, Critique Later.” <i>Ø$\Delta$</i>. <a href="https://matthewsaltz.wordpress.com/2020/05/21/understand-first-critique-later/">https://matthewsaltz.wordpress.com/2020/05/21/understand-first-critique-later/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Potter, Brian. 2021a. “How to Design a House to Last 1000 Years (Part I).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———. 2021b. “How to Design a House to Last 1000 Years (Part II).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000-a85">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000-a85</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———. 2022. “How to Design a House to Last for 1000 Years (Part III).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Smith, Brandon. n.d. “Write Code. Not Too Much. Mostly Functions.” Accessed March 15, 2022. <a href="https://www.brandons.me/blog/write-code-not-too-much-mostly-functions">https://www.brandons.me/blog/write-code-not-too-much-mostly-functions</a>.</div>
 </div>
+
+
+## <span class="org-todo todo TODO">TODO</span> Node idea: Understand Before Building {#node-idea-understand-before-building}
+
+Related:
+
+-   [Chesterton's Fence]({{< relref "chesterton_s_fence.md" >}})
+-   (<a href="#citeproc_bib_item_1">matthewsaltz 2020</a>)
+
+
+## <span class="org-todo todo TODO">TODO</span> Node idea: Picking a place to live based on climate change {#node-idea-picking-a-place-to-live-based-on-climate-change}
+
+
+## <span class="org-todo todo TODO">TODO</span> Node idea: Designing a home {#node-idea-designing-a-home}
+
+Related:
+
+-   (<a href="#citeproc_bib_item_2">Potter 2021a</a>)
+-   (<a href="#citeproc_bib_item_3">Potter 2021b</a>)
+-   (<a href="#citeproc_bib_item_4">Potter 2022</a>)

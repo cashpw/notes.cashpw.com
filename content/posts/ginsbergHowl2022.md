@@ -2,13 +2,13 @@
 title = "Allen Ginsberg | Howl"
 author = ["Cash Weaver"]
 date = 2022-03-13T20:20:00-07:00
-lastmod = 2022-03-14T08:56:50-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-03-29T08:44:13-07:00
+tags = ["poem", "poem"]
+categories = ["poem"]
 draft = false
 +++
 
-(<a href="#citeproc_bib_item_1">Ginsberg 2022</a>)
+[Allen Ginsberg]({{< relref "allen_ginsberg.md" >}}), (<a href="#citeproc_bib_item_1">Ginsberg 2022</a>)
 
 
 ## I {#i}

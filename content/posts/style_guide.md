@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2022-03-12T10:19:05-08:00
+lastmod = 2022-03-22T07:48:19-07:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -23,10 +23,11 @@ A style guide for my [personal knowledge management]({{< relref "personal_knowle
 
 | Type      | Tag         | Description                          | Example                                                                                |
 |-----------|-------------|--------------------------------------|----------------------------------------------------------------------------------------|
-| Concept   | `concept`   | About an idea/concept                | [Plans Within Plans]({{< relref "plans_within_plans.md" >}})                           |
+| Concept   | `concept`   | A single idea/concept                | [Plans Within Plans]({{< relref "plans_within_plans.md" >}})                           |
 | Reference | `reference` | The node-form of a specific citation | [Dune]({{< relref "herbertDune1999.md" >}})                                            |
-| Quote     | `quote`     | Contains a single quote              | [Plans within plans within plans]({{< relref "plans_within_plans_within_plans.md" >}}) |
+| Quote     | `quote`     | A single quote                       | [Plans within plans within plans]({{< relref "plans_within_plans_within_plans.md" >}}) |
 | Person    | `person`    | About a single person                | [Baron Vladimir Harkonnen]({{< relref "vladimir_harkonnen.md" >}})                     |
+| Poem      | `poem`      | A single poem                        | [Litany Against Fear]({{< relref "litany_against_fear.md" >}})                         |
 
 
 ## Tags {#tags}

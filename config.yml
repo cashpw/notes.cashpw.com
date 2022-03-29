@@ -15,6 +15,10 @@ menu:
       name: Search
       url: /search/
       weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20
 
 outputs:
   home:
@@ -33,7 +37,8 @@ params:
   description: "Blog and notes"
   env: production
   googleAnalytics: UA-69408538-1
-  hideSummaries: false
+  hideSummary: false
+  hideMeta: false
   showAuthor: false
 
   editPost:
@@ -49,7 +54,13 @@ params:
     Content: |-
       This website contains my personal notes and thoughts. The key component of my notes are the [links which connect them](/posts/evergreennotesshouldbedenselylinked). Links allow forward movement (e.g. A to B). Backlinks allow backward movement (e.g. B to A). These sorts of interconnected notes are sometimes called [zettelkasten](/posts/zettelkasten2021), a second brain, a digital garden. They are a type of [personal knowledge management](/posts/personal_knowledge_management) system.
 
-      I write these notes for myself and share them online as a way of increasing accountability for myself. The public nature of the notes encourages me to [prefer the explicit over the implicit](/posts/be_explicit), to think carefully about my own thoughts and [the way I write](/posts/style_guide).
+      I write these notes for myself and share them online as a way of increasing accountability for myself. The public nature of the notes encourages me to [think carefully about my own thoughts](/posts/metacognition) and [how I write](/posts/style_guide).
+
+      Check out the [archives](/archives) for a full list of posts or start from one of my favorites:
+
+      1. [The Meditations of the Emperor Marcus Antoninus](/posts/antoninusmeditationsemperormarcusantoninus1944)
+      1. [Tell all the truth but tell it slant](/posts/tell_all_the_truth_but_tell_it_slant/)
+      1. [Play to Win](/posts/play_to_win)
 
   socialIcons:
     - name: email
