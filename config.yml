@@ -30,7 +30,7 @@ params:
   ShowCodeCopyButtons: true
   ShowReadingTime: true
   ShowToc: true
-  DateFormat: "2006-01-01"
+  DateFormat: "2006-01-02"
 
   author: "Cash Weaver"
   defaultTheme: auto
