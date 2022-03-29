@@ -1,5 +1,10 @@
-.csl-bib-body .csl-entry:first-child {
-  border-top: 1px solid #ccc;
+.csl-bib-body:before {
+  content: "Bibliography";
+  font-weight: bold;
+  font-size: 16px;
+  display: block;
+  border-top: 1px solid var(--tertiary);
+  padding: 1em 0 0 0;
 }
 
 .csl-entry {
