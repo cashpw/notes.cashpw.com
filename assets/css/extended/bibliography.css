@@ -1,14 +1,3 @@
-.csl-bib-body:before {
-  content: "Bibliography";
-  font-weight: bold;
-  font-size: 16px;
-  display: block;
-  border-top: 1px solid var(--tertiary);
-  padding: 1em 0 0 0;
-}
-
 .csl-entry {
-  text-indent: 0 !important;
-  margin: 0 !important;
-  padding: 0.5em 0 0 0 !important;
+  padding-bottom: 1em;
 }
