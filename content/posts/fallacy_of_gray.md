@@ -2,7 +2,7 @@
 title = "Fallacy of Gray"
 author = ["Cash Weaver"]
 date = 2022-02-17T10:32:00-08:00
-lastmod = 2022-02-20T11:35:04-08:00
+lastmod = 2022-07-13T20:32:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

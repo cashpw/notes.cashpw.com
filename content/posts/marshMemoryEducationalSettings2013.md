@@ -2,7 +2,7 @@
 title = "Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings"
 author = ["Cash Weaver"]
 date = 2022-02-06T21:10:00-08:00
-lastmod = 2022-02-20T11:35:57-08:00
+lastmod = 2022-07-13T20:34:21-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -58,12 +58,12 @@ I worry that Anki wouldn't be enough to maintain understanding and the ability t
 
 <!--quoteend-->
 
-> Based on the distinction between retrieval strength and storage strength, R. A. Bjork and colleagues developed the concept of “desirable difficulties” in learning (Bjork, 1994a, 1994b; Christina &amp; Bjork, 1991; Schmidt &amp; Bjork, 1992). The main idea is that introducing difficulties during learning will result in superior long-term retention because the greatest gains in storage strength occur when retrieval strength is low. For example, consider the practice of using flash cards to study vocabulary words. If you study a word and then try to remember it immediately, then the gain in storage strength will be relatively low because it is so easy to retrieve the word right away (retrieval strength is high). However, if you wait 5 minutes before attempting to retrieve the word (when retrieval strength will be lower), then the gain in storage strength will be larger. The implication for educational practice is that instead of arranging the conditions of learning to be easier and faster for the learner, educators should introduce difficulties into the learning process in order to promote long-term retention of knowledge.
+> Based on the distinction between retrieval strength and storage strength, R. A. Bjork and colleagues developed the concept of "desirable difficulties" in learning (Bjork, 1994a, 1994b; Christina &amp; Bjork, 1991; Schmidt &amp; Bjork, 1992). The main idea is that introducing difficulties during learning will result in superior long-term retention because the greatest gains in storage strength occur when retrieval strength is low. For example, consider the practice of using flash cards to study vocabulary words. If you study a word and then try to remember it immediately, then the gain in storage strength will be relatively low because it is so easy to retrieve the word right away (retrieval strength is high). However, if you wait 5 minutes before attempting to retrieve the word (when retrieval strength will be lower), then the gain in storage strength will be larger. The implication for educational practice is that instead of arranging the conditions of learning to be easier and faster for the learner, educators should introduce difficulties into the learning process in order to promote long-term retention of knowledge.
 
 
 #### Processing Information to Extract Meaning {#processing-information-to-extract-meaning}
 
-> Critically, directing attention at a lower or “shallow” level of processing (e.g., focusing on the orthography of words while reading) disrupts higher or “deeper” levels of processing (e.g., determining what those words mean). As a result, the type of processing in which one consciously engages determines what information will be encoded into memory and retained. The type of processing is more important than the intent to learn (e.g., Craik &amp; Tulving, 1975); the implication is that a student who deliberately prepares for a test but who does not engage in deep processing will not do as well as the student who processes the material deeply, even if the latter student is not deliberately trying to learn the material.
+> Critically, directing attention at a lower or "shallow" level of processing (e.g., focusing on the orthography of words while reading) disrupts higher or "deeper" levels of processing (e.g., determining what those words mean). As a result, the type of processing in which one consciously engages determines what information will be encoded into memory and retained. The type of processing is more important than the intent to learn (e.g., Craik &amp; Tulving, 1975); the implication is that a student who deliberately prepares for a test but who does not engage in deep processing will not do as well as the student who processes the material deeply, even if the latter student is not deliberately trying to learn the material.
 
 <!--quoteend-->
 
@@ -156,7 +156,7 @@ I worry that Anki wouldn't be enough to maintain understanding and the ability t
 
 #### Learning Beyond Facts {#learning-beyond-facts}
 
-> ... [I]n the classroom, educators have many different goals for their students, and these goals vary as a function of the level of education, the type of course, and the time frame given for learning, among many other factors. One way of categorizing these goals is through Bloom’s (1956) taxonomy of educational objectives, which conceptualizes learning as a hierarchy in which the various levels must be mastered in sequential order. The cognitive domain is comprised of six levels (from lowest to highest):
+> ... [I]n the classroom, educators have many different goals for their students, and these goals vary as a function of the level of education, the type of course, and the time frame given for learning, among many other factors. One way of categorizing these goals is through Bloom's (1956) taxonomy of educational objectives, which conceptualizes learning as a hierarchy in which the various levels must be mastered in sequential order. The cognitive domain is comprised of six levels (from lowest to highest):
 >
 > 1.  knowledge (e.g., learning facts, concepts, etc.)
 > 2.  comprehension (e.g., understanding the relationship between ideas)
@@ -171,7 +171,9 @@ I worry that Anki wouldn't be enough to maintain understanding and the ability t
 ### The Relativity of Memory {#the-relativity-of-memory}
 
 
-## <span class="org-todo todo TODO">TODO</span> Authors {#authors}
+## Authors {#authors}
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Marsh, Elizabeth J., and Andrew C. Butler. 2013. <i>Memory in Educational Settings</i>. Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780195376746.013.0020">https://doi.org/10.1093/oxfordhb/9780195376746.013.0020</a>.</div>

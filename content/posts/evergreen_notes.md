@@ -2,7 +2,7 @@
 title = "Evergreen Notes"
 author = ["Cash Weaver"]
 date = 2022-02-06T07:24:00-08:00
-lastmod = 2022-03-10T06:31:41-08:00
+lastmod = 2022-07-13T20:32:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

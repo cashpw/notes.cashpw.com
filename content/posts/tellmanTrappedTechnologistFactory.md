@@ -2,7 +2,7 @@
 title = "Zach Tellman | Trapped in the Technologist Factory"
 author = ["Cash Weaver"]
 date = 2022-02-19T09:32:00-08:00
-lastmod = 2022-03-13T14:04:59-07:00
+lastmod = 2022-07-13T20:38:14-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -11,13 +11,13 @@ draft = false
 [Zach Tellman]({{< relref "zach_tellman.md" >}}), (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)
 
 
-## <span class="org-todo todo TODO">TODO</span> Summary {#summary}
+## Summary {#summary}
 
 
-## <span class="org-todo todo TODO">TODO</span> Thoughts {#thoughts}
+## Thoughts {#thoughts}
 
 
-## <span class="org-todo todo TODO">TODO</span> Notes {#notes}
+## Notes {#notes}
 
 > I learned two lessons from this time in my life. The first was personal: I am, at heart, a technologist. I like to generalize, to abstract. While I believe it's crucial to understand the context around your software, I'm happiest when that context is other people's software.
 >
@@ -30,6 +30,8 @@ draft = false
 > Chesterton notwithstanding, the fastest way to learn why a fence exists is to tear it down and see what happens.
 
 See [Chesterton's Fence]({{< relref "chesterton_s_fence.md" >}}).
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Trapped in the Technologist Factory.” Accessed February 19, 2022. <a href="https://ideolalia.com/essays/trapped-in-the-technologist-factory.html#fn:hbase">https://ideolalia.com/essays/trapped-in-the-technologist-factory.html#fn:hbase</a>.</div>

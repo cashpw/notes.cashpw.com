@@ -2,7 +2,7 @@
 title = "Reasoning from Analogy"
 author = ["Cash Weaver"]
 date = 2022-03-12T08:24:00-08:00
-lastmod = 2022-03-12T08:26:17-08:00
+lastmod = 2022-07-13T20:37:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

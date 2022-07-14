@@ -2,7 +2,7 @@
 title = "Joseph Gentle | Three Tribes of Programming"
 author = ["Cash Weaver"]
 date = 2022-03-14T10:06:00-07:00
-lastmod = 2022-03-16T19:47:46-07:00
+lastmod = 2022-07-13T20:32:34-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -67,6 +67,8 @@ draft = false
 > I can't help but feel that this place is a touch soulless. Taken to the extreme, this world view doesn't value the beauty in the engineering itself. Although you could probably make the opposite criticism against the other groups - they don't value how their software can impact the world.
 
 Also see [Moloch]({{< relref "moloch.md" >}}).
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Gentle, Joseph. 2017. “3 Tribes of Programming.” <i>Seph</i>. <a href="http://josephg.com/blog/3-tribes/">http://josephg.com/blog/3-tribes/</a>.</div>

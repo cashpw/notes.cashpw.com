@@ -2,7 +2,7 @@
 title = "Clary Illian | A Potter's Workbook."
 author = ["Cash Weaver"]
 date = 2022-02-06T15:34:00-08:00
-lastmod = 2022-02-20T11:35:23-08:00
+lastmod = 2022-07-13T20:33:18-07:00
 tags = ["reference"]
 draft = false
 +++

@@ -2,7 +2,7 @@
 title = "Dave Orr | Parenting Rules"
 author = ["Cash Weaver"]
 date = 2022-03-13T18:52:00-07:00
-lastmod = 2022-03-13T18:54:52-07:00
+lastmod = 2022-07-13T20:34:57-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -11,15 +11,15 @@ draft = false
 (<a href="#citeproc_bib_item_1">Orr n.d.</a>)
 
 
-## <span class="org-todo todo TODO">TODO</span> Summary {#summary}
+## Summary {#summary}
 
 > If I had to sum all these up, it would be this: raise kids for the long term. The reasoning behind all these choices is that we want to produce competent capable adults, and solving short term in-the-moment issues, while important, isn't the goal.
 
 
-## <span class="org-todo todo TODO">TODO</span> Thoughts {#thoughts}
+## Thoughts {#thoughts}
 
 
-## <span class="org-todo todo TODO">TODO</span> Notes {#notes}
+## Notes {#notes}
 
 
 ### Never lie {#never-lie}
@@ -47,6 +47,8 @@ draft = false
 > I've had conversations with the kids about civil rights, affirmative action, religion, communism versus capitalism, consequences for breaking laws, race, sexuality, and so on. Not because I've set out to teach them that stuff, but because they ask lots of questions and I try to answer them. Kids are mostly concerned with concrete, day-to-day things -- but some of the best interactions come when they are in the right questioning mood, and you definitely want to take advantage of it.
 >
 > You have to be age appropriate -- when talking about where babies come from, I don't talk about penises in vaginas to a 5 year old -- but they can handle a lot more than most adults give them credit for.
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Orr, Dave. n.d. “Parenting Rules.” Accessed March 14, 2022. <a href="https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules">https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules</a>.</div>

@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2022-03-22T07:48:19-07:00
+lastmod = 2022-07-13T20:37:58-07:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -100,6 +100,8 @@ Favicons are nice additions to links. They provide visual context to where the r
 ### Every node must include backlinks {#every-node-must-include-backlinks}
 
 Backlinks are the backbone of a powerful [zettelkasten]({{< relref "Zettelkasten2021.md" >}}) system. The published form of these notes **must** include backlinks.
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>

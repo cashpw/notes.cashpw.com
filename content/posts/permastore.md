@@ -2,7 +2,7 @@
 title = "Permastore"
 author = ["Cash Weaver"]
 date = 2021-12-31T12:05:00-08:00
-lastmod = 2022-02-20T11:36:27-08:00
+lastmod = 2022-07-13T20:35:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

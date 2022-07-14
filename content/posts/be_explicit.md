@@ -2,7 +2,7 @@
 title = "Be Explicit"
 author = ["Cash Weaver"]
 date = 2022-02-20T10:59:00-08:00
-lastmod = 2022-02-20T13:18:42-08:00
+lastmod = 2022-07-13T20:29:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

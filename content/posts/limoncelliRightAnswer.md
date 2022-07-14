@@ -2,7 +2,7 @@
 title = "Tom Limoncelli | The Right Answer"
 author = ["Cash Weaver"]
 date = 2022-02-21T15:50:00-08:00
-lastmod = 2022-02-21T16:03:29-08:00
+lastmod = 2022-07-13T20:33:58-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -11,13 +11,13 @@ draft = false
 [Tom Limoncelli]({{< relref "tom_limoncelli.md" >}}), (<a href="#citeproc_bib_item_1">Limoncelli n.d.</a>)
 
 
-## <span class="org-todo todo TODO">TODO</span> Summary {#summary}
+## Summary {#summary}
 
 
-## <span class="org-todo todo TODO">TODO</span> Thoughts {#thoughts}
+## Thoughts {#thoughts}
 
 
-## <span class="org-todo todo TODO">TODO</span> Notes {#notes}
+## Notes {#notes}
 
 > An iMac at work broke and AppleCare gave us the choice of bringing it to one of three places in the local area, or the local AppleStore. Since one of those choices was the CompUSA around the block from us, my co-worker brought it there. And waited. And waited. And was told they were waiting for the part. We called the Apple store who said that they could do most repairs in 24 hours. The question was, "How do we get it back?"
 >
@@ -52,6 +52,8 @@ draft = false
 > "My boss said so." Short. Simple. It works.
 >
 > The important thing is that we play dumb. You have to be pretty smart to do that.
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Limoncelli, Tom. n.d. “The Right Answer.” Accessed February 21, 2022. <a href="https://everythingsysadmin.com/2004/12/the-right-answer.html">https://everythingsysadmin.com/2004/12/the-right-answer.html</a>.</div>

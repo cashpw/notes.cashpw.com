@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Evergreen Notes"
 author = ["Cash Weaver"]
 date = 2022-02-21T17:40:00-08:00
-lastmod = 2022-02-22T09:35:34-08:00
+lastmod = 2022-07-13T20:34:24-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -30,6 +30,8 @@ draft = false
 > -   [A reading inbox to capture possibly-useful references](https://notes.andymatuschak.org/z3N113rxPFreW9xUkLkUFomr2LUqfXbdCo3M)
 > -   [A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz)
 > -   [Executable strategy for writing](https://notes.andymatuschak.org/z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8)
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes.” <i>Andy’s Working Notes</i>. Accessed February 22, 2022. <a href="https://notes.andymatuschak.org/Evergreen_notes">https://notes.andymatuschak.org/Evergreen_notes</a>.</div>

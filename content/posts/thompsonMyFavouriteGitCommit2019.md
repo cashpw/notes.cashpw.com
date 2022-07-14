@@ -1,14 +1,14 @@
 +++
-title = "David Thompson :: My Favourite Git Commit"
+title = "David Thompson | My Favourite Git Commit"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:26:00-08:00
-lastmod = 2022-02-07T06:27:59-08:00
+lastmod = 2022-07-13T20:38:32-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-[David Thompson]({{< relref "david_thompson.md" >}}), (<a href="#citeproc_bib_item_1">Thompson 2019</a>)
+[David Thompson]({{< relref "david_thompson.md" >}}), (NO_ITEM_DATA:thompsonMyFavouriteGitCommit2019)
 
 
 ## Summary {#summary}
@@ -67,10 +67,10 @@ Now the tests work! One hour of my life I won't get back..
 
 ### It explains the reason for the change {#it-explains-the-reason-for-the-change}
 
-> The best commit messages I’ve seen don’t just explain **what** they’ve changed: they explain **why**.
+> The best commit messages I've seen don't just explain **what** they've changed: they explain **why**.
 
 
-### It’s searchable {#it-s-searchable}
+### It's searchable {#it-s-searchable}
 
 > One of the first things in this commit message is the error message that inspired the change:
 >
@@ -84,6 +84,8 @@ Now the tests work! One hour of my life I won't get back..
 
 > This commit message goes into a lot of detail about what the problem looked like, what the process of investigating it looked like, and what the process of fixing it looked like.
 
+## References
+
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Thompson, David. 2019. “My Favourite Git Commit.” <i>Dhwthompson.Com</i>. <a href="https://dhwthompson.com/2019/my-favourite-git-commit">https://dhwthompson.com/2019/my-favourite-git-commit</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:thompsonMyFavouriteGitCommit2019</div>
 </div>

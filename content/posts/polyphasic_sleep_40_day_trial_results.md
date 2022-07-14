@@ -2,7 +2,7 @@
 title = "Polyphasic Sleep: 40 Day Trial Results"
 author = ["Cash Weaver"]
 date = 2021-07-11T12:15:00-07:00
-lastmod = 2022-03-10T06:31:57-08:00
+lastmod = 2022-07-13T20:35:18-07:00
 draft = false
 +++
 

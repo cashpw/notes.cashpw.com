@@ -2,7 +2,7 @@
 title = "Compount Interest is the Eight Wonder"
 author = ["Cash Weaver"]
 date = 2022-02-11T20:10:00-08:00
-lastmod = 2022-02-20T11:34:41-08:00
+lastmod = 2022-07-13T20:30:48-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

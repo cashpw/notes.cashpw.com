@@ -2,13 +2,13 @@
 title = "Alexey Nikitin | My least favorite Git commit"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:31:00-08:00
-lastmod = 2022-02-20T11:36:16-08:00
+lastmod = 2022-07-13T20:34:51-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-[Alexey Nikitin]({{< relref "alexey_nikitin.md" >}}), (<a href="#citeproc_bib_item_1">Nikitin 2019</a>)
+[Alexey Nikitin]({{< relref "alexey_nikitin.md" >}}), (NO_ITEM_DATA:nikitinMyLeastFavoriteGitCommit2019)
 
 
 ## Summary {#summary}
@@ -51,6 +51,8 @@ The essay isn't written in English. I've used Google Translate to read and quote
 >
 > If you are tempted to write a whole story in a commit message, you should think about how you can provide this story in another way - tests or documentation are much better. Having to read commit messages in order to find and fix a problem is not a sign of good code.
 
+## References
+
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nikitin, Alexey. 2019. “My least favorite Git commit.” <i>Alexey Nikitin</i>. <a href="https://www.nikialeksey.com/2019/10/26/long-commit-message.html">https://www.nikialeksey.com/2019/10/26/long-commit-message.html</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:nikitinMyLeastFavoriteGitCommit2019</div>
 </div>

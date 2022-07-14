@@ -2,7 +2,7 @@
 title = "Sama Vritti Pranayama"
 author = ["Cash Weaver"]
 date = 2022-01-31T10:32:00-08:00
-lastmod = 2022-02-20T11:36:49-08:00
+lastmod = 2022-07-13T20:37:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

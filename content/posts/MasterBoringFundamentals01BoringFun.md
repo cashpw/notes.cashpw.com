@@ -2,7 +2,7 @@
 title = "James Stuber | Master Boring Fundamentals 01: Boring Is Fun"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:51:00-08:00
-lastmod = 2022-02-20T11:33:25-08:00
+lastmod = 2022-07-13T20:28:25-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -27,7 +27,9 @@ draft = false
 >
 > Type 1 Fun: Pure fun, untarnished by setbacks
 > Type 2 Fun: Suffering now; fun after the fact, in retrospect
-> Not Fun: Not fun now, not fun later, “I’m never doing that again”
+> Not Fun: Not fun now, not fun later, "I'm never doing that again"
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:MasterBoringFundamentals01BoringFun</div>

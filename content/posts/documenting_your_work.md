@@ -2,13 +2,13 @@
 title = "Documenting Your Work"
 author = ["Cash Weaver"]
 date = 2022-01-29T14:37:00-08:00
-lastmod = 2022-02-20T11:34:51-08:00
+lastmod = 2022-07-13T20:31:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 +++
 
-## <span class="org-todo todo TODO">TODO</span> Synthesize [David Thompson | My Favourite Git Commit]({{< relref "thompsonMyFavouriteGitCommit2019.md" >}}) {#synthesize-david-thompson-my-favourite-git-commit--thompsonmyfavouritegitcommit2019-dot-md}
+## Synthesize [David Thompson | My Favourite Git Commit]({{< relref "thompsonMyFavouriteGitCommit2019.md" >}}) {#synthesize-david-thompson-my-favourite-git-commit--thompsonmyfavouritegitcommit2019-dot-md}
 
 -   Documentation is good when, and only when, it is also discoverable
 -   Your documentation is discoverable when it exists where your audience goes when they are looking for it
@@ -22,6 +22,8 @@ draft = false
 -   <https://www.variance.com/posts/6-rules-of-good-documentation>
 -   <https://idratherbewriting.com/simplifying-complexity/discoverability-through-metadata.html>
 -   (<a href="#citeproc_bib_item_1">“Readme Driven Development” n.d.</a>)
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Readme Driven Development.” n.d. Accessed February 14, 2022. <a href="https://tom.preston-werner.com/2010/08/23/readme-driven-development.html">https://tom.preston-werner.com/2010/08/23/readme-driven-development.html</a>.</div>

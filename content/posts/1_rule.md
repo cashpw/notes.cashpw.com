@@ -2,7 +2,7 @@
 title = "1% rule"
 author = ["Cash Weaver"]
 date = 2022-01-27T13:26:00-08:00
-lastmod = 2022-02-25T13:47:17-08:00
+lastmod = 2022-07-13T20:28:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,6 +17,8 @@ Also see:
 -   <https://news.ycombinator.com/item?id=25600274>
 -   <https://news.ycombinator.com/item?id=18881827>
 -   <https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/>
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“1\% Rule (Internet Culture).” 2021. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=1%25_rule_(Internet_culture)&oldid=1q053243579">https://en.wikipedia.org/w/index.php?title=1%25_rule_(Internet_culture)&#38;oldid=1q053243579</a>.</div>

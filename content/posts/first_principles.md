@@ -2,7 +2,7 @@
 title = "First Principles"
 author = ["Cash Weaver"]
 date = 2022-03-12T08:16:00-08:00
-lastmod = 2022-03-12T08:19:22-08:00
+lastmod = 2022-07-13T20:32:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,4 +15,4 @@ Related:
 -   [Reasoning from First Principles]({{< relref "reasoning_from_first_principles.md" >}})
 
 
-## <span class="org-todo todo TODO">TODO</span> Citations, quotes, etc {#citations-quotes-etc}
+## Citations, quotes, etc {#citations-quotes-etc}

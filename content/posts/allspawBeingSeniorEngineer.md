@@ -2,7 +2,7 @@
 title = "John Allspaw | On Being A Senior Engineer"
 author = ["Cash Weaver"]
 date = 2022-02-21T15:31:00-08:00
-lastmod = 2022-02-22T06:50:23-08:00
+lastmod = 2022-07-13T20:29:13-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -11,10 +11,10 @@ draft = false
 [John Allspaw]({{< relref "john_allspaw.md" >}}), (<a href="#citeproc_bib_item_1">Allspaw n.d.</a>)
 
 
-## <span class="org-todo todo TODO">TODO</span> Summary {#summary}
+## Summary {#summary}
 
 
-## <span class="org-todo todo TODO">TODO</span> Thoughts {#thoughts}
+## Thoughts {#thoughts}
 
 
 ## Notes {#notes}
@@ -118,6 +118,8 @@ I disagree with this point. I consider a lot of the documentation and design wor
 ### Mature engineers are aware of cognitive biases {#mature-engineers-are-aware-of-cognitive-biases}
 
 > This isn't to say that every mature engineer needs to have a degree in psychology, but cognitive biases are what can limit the growth of an engineer's career at a certain point. Even if they're not aware of the details of how they appear or how these biases can be guarded against, most mature engineers I know have a level of self-awareness to at least recognize they (like everyone) are susceptible to them.
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allspaw, John. n.d. “On Being A Senior Engineer.” <i>Kitchen Soap</i>. Accessed February 21, 2022. <a href="https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/</a>.</div>

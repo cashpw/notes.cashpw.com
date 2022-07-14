@@ -2,7 +2,7 @@
 title = "Rules Must Always be Evaluated for their Power to Oppress"
 author = ["Cash Weaver"]
 date = 2022-01-24T12:30:00-08:00
-lastmod = 2022-03-10T06:32:20-08:00
+lastmod = 2022-07-13T20:37:16-07:00
 draft = false
 +++
 

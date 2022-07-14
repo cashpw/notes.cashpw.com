@@ -2,7 +2,7 @@
 title = "Allen Ginsberg | Howl"
 author = ["Cash Weaver"]
 date = 2022-03-13T20:20:00-07:00
-lastmod = 2022-03-29T08:44:13-07:00
+lastmod = 2022-07-13T20:32:37-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -166,6 +166,8 @@ I'm with you in Rockland<br />
 </p>
 
 [Footnote to Howl]({{< relref "footnote_to_howl.md" >}})
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ginsberg, Allen. 2022. “Howl.” Text/Html. <i>Poetry Foundation</i>. Poetry Foundation. <a href="https://www.poetryfoundation.org/poems/49303/howl">https://www.poetryfoundation.org/poems/49303/howl</a>.</div>

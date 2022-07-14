@@ -1,6 +1,7 @@
 +++
 title = "Unread"
 author = ["cashweaver"]
+lastmod = 2022-04-30T10:21:15-07:00
 draft = false
 +++
 
@@ -628,28 +629,10 @@ Please sort in order of oldest to youngest.
 ## <span class="org-todo todo TODO">TODO</span> [Best way to learn reinforcement learning in 2021?](https://www.reddit.com/r/learnmachinelearning/comments/km5l8t/best_way_to_learn_reinforcement_learning_in_2021/) {#best-way-to-learn-reinforcement-learning-in-2021}
 
 
-## <span class="org-todo todo TODO">TODO</span> [Against Essential and Accidental Complexity](https://danluu.com/essential-complexity/) {#against-essential-and-accidental-complexity}
-
-
 ## <span class="org-todo todo TODO">TODO</span> [[R] A List of Best Papers from Top AI Conferences in 2020](https://www.reddit.com/r/MachineLearning/comments/knai5q/r_a_list_of_best_papers_from_top_ai_conferences/) {#r-a-list-of-best-papers-from-top-ai-conferences-in-2020}
 
 
-## <span class="org-todo todo TODO">TODO</span> [Interview Transcript – Donald Knuth [pdf](https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf)] {#interview-transcript-donald-knuth-pdf}
-
-
-## <span class="org-todo todo TODO">TODO</span> [One Year of Pomodoros](https://www.lesswrong.com/posts/AksEurnb73RCg9Dse/one-year-of-pomodoros-1) {#one-year-of-pomodoros}
-
-
-## <span class="org-todo todo TODO">TODO</span> [Shamelessness as a Strategy (2019)](https://nadiaeghbal.com/shameless) {#shamelessness-as-a-strategy--2019}
-
-
 ## <span class="org-todo todo TODO">TODO</span> [The Elements of Statistical Learning [pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)] {#the-elements-of-statistical-learning-pdf}
-
-
-## <span class="org-todo todo TODO">TODO</span> [What Is Life? (2019)](https://berthub.eu/articles/posts/what-is-life/) {#what-is-life--2019}
-
-
-## <span class="org-todo todo TODO">TODO</span> ["Utilitarianism for Engineers" (2013) by Scott Alexander: "It's impossible to compare interpersonal utilities in theory but pretty easy in practice. Every time you give up your seat on the subway to an old woman with a cane, you're doing a quick little interpersonal utility calculation."](https://www.reddit.com/r/slatestarcodex/comments/knvp0z/utilitarianism_for_engineers_2013_by_scott/) {#utilitarianism-for-engineers--2013--by-scott-alexander-it-s-impossible-to-compare-interpersonal-utilities-in-theory-but-pretty-easy-in-practice-dot-every-time-you-give-up-your-seat-on-the-subway-to-an-old-woman-with-a-cane-you-re-doing-a-quick-little-interpersonal-utility-calculation-dot}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [My Favorite Books 2020](https://news.ycombinator.com/item?id=25595971) {#my-favorite-books-2020}
@@ -664,37 +647,19 @@ Please sort in order of oldest to youngest.
 ## <span class="org-todo todo TODO">TODO</span> [State machines are wonderful tools](https://nullprogram.com/blog/2020/12/31/) {#state-machines-are-wonderful-tools}
 
 
-## <span class="org-todo todo TODO">TODO</span> [The parenting style that creates leaders](https://news.ycombinator.com/item?id=25603490) {#the-parenting-style-that-creates-leaders}
-
-
-## <span class="org-todo todo TODO">TODO</span> [You're Never Too Old to Become a Beginner](https://news.ycombinator.com/item?id=25604732) {#you-re-never-too-old-to-become-a-beginner}
-
-
 ## <span class="org-todo todo TODO">TODO</span> [Ask HN: What was your favorite comment in 2020?](https://news.ycombinator.com/item?id=25604828) {#ask-hn-what-was-your-favorite-comment-in-2020}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [Essential Zen Habits of 2020](https://zenhabits.net/zh2020/) {#essential-zen-habits-of-2020}
 
 
-## <span class="org-todo todo TODO">TODO</span> [Things I Didn't Learn in 2020](https://damnoptimist.substack.com/p/8-things-i-didnt-learn-in-2020) {#things-i-didn-t-learn-in-2020}
-
-
-## <span class="org-todo todo TODO">TODO</span> [A Simple and Dynamic Method for Consistent Productivity](https://matthewsaltz.wordpress.com/2020/11/24/a-simple-and-dynamic-method-for-consistent-productivity/) {#a-simple-and-dynamic-method-for-consistent-productivity}
-
-
 ## <span class="org-todo todo TODO">TODO</span> [Best Paper Awards in Computer Science in the Past 25 Years (1996-2020)](https://jeffhuang.com/best_paper_awards/) {#best-paper-awards-in-computer-science-in-the-past-25-years--1996-2020}
-
-
-## <span class="org-todo todo TODO">TODO</span> [Thoughts on being mortal](https://www.lesswrong.com/posts/7BctDNyhfwNTCAqYq/thoughts-on-being-mortal) {#thoughts-on-being-mortal}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [2020 letter | Dan Wang](https://www.reddit.com/r/slatestarcodex/comments/koujv4/2020_letter_dan_wang/) {#2020-letter-dan-wang}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [How do you optimize your own learning?](https://www.reddit.com/r/slatestarcodex/comments/kpncep/how_do_you_optimize_your_own_learning/) {#how-do-you-optimize-your-own-learning}
-
-
-## <span class="org-todo todo TODO">TODO</span> [Emacs Symbolic Integration](https://www.gnu.org/software/emacs/manual/html_node/calc/Integration.html) {#emacs-symbolic-integration}
 
 
 ## <span class="org-todo todo TODO">TODO</span> [Deep neck flexor exercises – Back and neck](https://www.sprintphysio.co.uk/patient-exercises/back-and-neck/deep-neck-flexor-exercises.html) {#deep-neck-flexor-exercises-back-and-neck}

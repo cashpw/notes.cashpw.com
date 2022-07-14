@@ -2,7 +2,7 @@
 title = "Echo Chamber"
 author = ["Cash Weaver"]
 date = 2022-03-12T07:26:00-08:00
-lastmod = 2022-03-12T07:33:47-08:00
+lastmod = 2022-07-13T20:31:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,6 +15,8 @@ draft = false
 Related:
 
 -   [Filter Bubble]({{< relref "filter_bubble.md" >}})
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Echo Chamber (Media).” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Echo_chamber_(media)&oldid=1073644015">https://en.wikipedia.org/w/index.php?title=Echo_chamber_(media)&#38;oldid=1073644015</a>.</div>

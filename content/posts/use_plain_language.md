@@ -2,7 +2,7 @@
 title = "Use Plain Language"
 author = ["Cash Weaver"]
 date = 2022-01-17T11:26:00-08:00
-lastmod = 2022-03-11T11:26:03-08:00
+lastmod = 2022-07-13T20:38:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

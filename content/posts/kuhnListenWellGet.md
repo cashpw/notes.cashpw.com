@@ -2,13 +2,13 @@
 title = "Ben Kuhn | To Listen Well, Get Curious"
 author = ["Cash Weaver"]
 date = 2022-03-12T04:22:00-08:00
-lastmod = 2022-03-12T09:45:35-08:00
+lastmod = 2022-07-13T20:33:53-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn n.d.</a>)
+[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (NO_ITEM_DATA:kuhnListenWellGetCurious)
 
 
 ## Summary {#summary}
@@ -35,6 +35,8 @@ I find that my misunderstandings are the result of premature and ill-founded ass
 
 > It often feels like I understand enough to be helpful without knowing all those details. But when I think that, I'm usually wrong: I end up giving bad advice, based on bad assumptions, and the person I'm talking to ends up having to do a bunch of work to argue with me and correct my bad assumptions. That makes the conversation feel disfluent and adversarial instead of collaborative.
 
+## References
+
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. n.d. “To Listen Well, Get Curious.” <i>Benkuhn.Net</i>. Accessed March 12, 2022. <a href="https://www.benkuhn.net/listen/">https://www.benkuhn.net/listen/</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:kuhnListenWellGetCurious</div>
 </div>

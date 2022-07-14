@@ -2,7 +2,7 @@
 title = "Ask the Right Questions, Give the Right Answers"
 author = ["Cash Weaver"]
 date = 2022-02-21T16:04:00-08:00
-lastmod = 2022-02-21T16:05:37-08:00
+lastmod = 2022-07-13T20:29:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Read Gmail in Emacs with mbsync and mu4e"
 author = ["Cash Weaver"]
 date = 2021-12-27T20:01:00-08:00
-lastmod = 2022-03-11T11:36:40-08:00
+lastmod = 2022-07-13T20:37:06-07:00
 draft = false
 +++
 

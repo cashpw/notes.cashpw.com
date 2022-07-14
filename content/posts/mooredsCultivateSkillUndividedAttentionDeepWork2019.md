@@ -2,7 +2,7 @@
 title = "Dan Moore | Cultivate the Skill of Undivided Attention, or \"Deep Work\""
 author = ["Cash Weaver"]
 date = 2022-02-06T16:00:00-08:00
-lastmod = 2022-02-20T11:36:07-08:00
+lastmod = 2022-07-13T20:34:40-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -20,7 +20,7 @@ roam_refs = ["https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-
 
 ## Notes {#notes}
 
-> Here’s the list of topics that I’d need to dedicate significant time to, in order to close the gap between me and the senior developers on our team, that I’ve encountered in my last two days of work:
+> Here's the list of topics that I'd need to dedicate significant time to, in order to close the gap between me and the senior developers on our team, that I've encountered in my last two days of work:
 >
 > -   Breaking complex unknowns into simpler unknowns that can be further split into individual tickets
 > -   Adding tests to complex, legacy code, to guide further refactoring of said code.
@@ -40,7 +40,9 @@ roam_refs = ["https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-
 
 <!--quoteend-->
 
-> Do more deep work, and over a year or two years, your skills will grow much faster than those doing less deep work. Eventually, you might find that you’re doing the work of a senior developer!
+> Do more deep work, and over a year or two years, your skills will grow much faster than those doing less deep work. Eventually, you might find that you're doing the work of a senior developer!
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:mooredsCultivateSkillUndividedAttentionDeepWork2019</div>

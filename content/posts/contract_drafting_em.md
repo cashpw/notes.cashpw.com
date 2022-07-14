@@ -2,7 +2,7 @@
 title = "Contract Drafting Em"
 author = ["Cash Weaver"]
 date = 2022-03-14T08:38:00-07:00
-lastmod = 2022-03-15T09:06:39-07:00
+lastmod = 2022-07-13T20:30:49-07:00
 draft = false
 +++
 
@@ -68,6 +68,8 @@ To service my employers!<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye know on earth, and all ye need to know."<br />
 
 </p>
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“The Contract Drafting Em.” n.d. Accessed March 14, 2022. <a href="https://secularsolstice.github.io/Contract_Drafting_Em/gen/">https://secularsolstice.github.io/Contract_Drafting_Em/gen/</a>.</div>

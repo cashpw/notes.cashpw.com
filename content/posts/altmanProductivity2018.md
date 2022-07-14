@@ -2,7 +2,7 @@
 title = "Sam Altman | Productivity"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:46:00-08:00
-lastmod = 2022-02-20T11:33:54-08:00
+lastmod = 2022-07-13T20:29:18-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -56,6 +56,8 @@ draft = false
 <!--quoteend-->
 
 > Don't neglect your family and friends for the sake of productivity—that's a very stupid tradeoff (and very likely a net productivity loss, because you'll be less happy). Don't neglect doing things you love or that clear your head either.
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altman, Sam. 2018. “Productivity.” <i>Sam Altman</i>. <a href="https://blog.samaltman.com/productivity">https://blog.samaltman.com/productivity</a>.</div>

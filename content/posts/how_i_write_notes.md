@@ -2,7 +2,7 @@
 title = "How I Write Notes"
 author = ["Cash Weaver"]
 date = 2021-12-27T20:21:00-08:00
-lastmod = 2022-03-12T10:18:50-08:00
+lastmod = 2022-07-13T20:33:12-07:00
 draft = false
 +++
 

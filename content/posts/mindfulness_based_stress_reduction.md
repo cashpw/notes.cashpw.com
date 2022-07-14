@@ -2,7 +2,7 @@
 title = "Mindfulness-based Stress Reduction"
 author = ["Cash Weaver"]
 date = 2021-12-03T05:58:00-08:00
-lastmod = 2022-03-11T10:44:26-08:00
+lastmod = 2022-07-13T20:34:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,6 +15,8 @@ draft = false
 -   The program has been [found to be effective](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction#Evaluation_of_effectiveness).
 -   Some hospitals staff experts who offer a regularly-occurring class.
     -   Dave Potter offers a free version in his [Palouse Mindfulness program](https://palousemindfulness.com/).
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindfulness-Based Stress Reduction.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Mindfulness-based_stress_reduction&oldid=1067804613">https://en.wikipedia.org/w/index.php?title=Mindfulness-based_stress_reduction&#38;oldid=1067804613</a>.</div>

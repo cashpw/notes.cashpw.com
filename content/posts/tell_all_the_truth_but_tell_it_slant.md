@@ -1,8 +1,8 @@
 +++
-title = "Tell all the truth but tell it slant"
+title = "Emily Dickinson | Tell all the truth but tell it slant"
 author = ["Cash Weaver"]
 date = 2022-03-22T07:44:00-07:00
-lastmod = 2022-03-28T21:13:30-07:00
+lastmod = 2022-07-13T20:38:09-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -21,8 +21,10 @@ Or every man be blind —<br />
 
 </p>
 
-[Emily Dickinson]({{< relref "emily_dickinson.md" >}}), (<a href="#citeproc_bib_item_1">Dickinson 2022</a>)
+[Emily Dickinson]({{< relref "emily_dickinson.md" >}}), (NO_ITEM_DATA:dickinsonTellAllTruthTellItSlant2022)
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Dickinson, Emily. 2022. “Tell All the Truth but Tell It Slant.” Text/Html. <i>Poetry Foundation</i>. Poetry Foundation. <a href="https://www.poetryfoundation.org/poems/56824/tell-all-the-truth-but-tell-it-slant-1263">https://www.poetryfoundation.org/poems/56824/tell-all-the-truth-but-tell-it-slant-1263</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:dickinsonTellAllTruthTellItSlant2022</div>
 </div>

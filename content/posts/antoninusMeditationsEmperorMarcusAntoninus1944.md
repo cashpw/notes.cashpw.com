@@ -2,13 +2,13 @@
 title = "Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus"
 author = ["Cash Weaver"]
 date = 2022-02-17T06:44:00-08:00
-lastmod = 2022-02-21T08:41:50-08:00
+lastmod = 2022-07-13T20:29:28-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-[Marcus Aurelius Antoninus]({{< relref "marcus_aurelius_antoninus.md" >}}), (<a href="#citeproc_bib_item_1">Antoninus 1944</a>)
+[Marcus Aurelius Antoninus]({{< relref "marcus_aurelius_antoninus.md" >}}), (NO_ITEM_DATA:antoninusMeditationsEmperorMarcusAntoninus1944)
 
 
 ## Summary {#summary}
@@ -119,6 +119,8 @@ I've come to appreciate the use of phrases, mantras, hymns, etc --- [focusing te
 
 ### About {#about}
 
+## References
+
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Antoninus, Marcus Aurelius. 1944. <i>The Meditations of the Emperor Marcus Antoninus</i>. Arthur Spenser Loat Farquharson. Oxford: Oxford University Press.</div>
+  <div class="csl-entry">NO_ITEM_DATA:antoninusMeditationsEmperorMarcusAntoninus1944</div>
 </div>

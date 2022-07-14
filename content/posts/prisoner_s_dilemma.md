@@ -2,7 +2,7 @@
 title = "Prisoner's Dilemma"
 author = ["Cash Weaver"]
 date = 2022-03-14T07:01:00-07:00
-lastmod = 2022-03-14T07:17:28-07:00
+lastmod = 2022-07-13T20:35:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,6 +22,8 @@ See [game theory]({{< relref "game_theory.md" >}}).
 > | A betrays      | A: 0, B: -3    | A: -2, B: -2 |
 >
 > (<a href="#citeproc_bib_item_1">“Prisoner’s Dilemma” 2022</a>) (table formatting mine)
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prisoner’s Dilemma.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Prisoner%27s_dilemma&oldid=1076394820">https://en.wikipedia.org/w/index.php?title=Prisoner%27s_dilemma&#38;oldid=1076394820</a>.</div>

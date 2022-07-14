@@ -2,7 +2,7 @@
 title = "Paul Graham | How to Write Usefully"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:42:00-08:00
-lastmod = 2022-02-20T11:33:16-08:00
+lastmod = 2022-07-13T20:28:18-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -61,6 +61,8 @@ Additionally, for Graham, a useful essay is one which says things as simply as p
 <!--quoteend-->
 
 > Sometimes the reason people don't know something is because they don't want to know it.
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:HowWriteUsefully</div>

@@ -2,14 +2,14 @@
 title = "Three Paths in the Tech Industry: Founder, Executive, or Employee"
 author = ["Cash Weaver"]
 date = 2021-11-27T07:00:00-08:00
-lastmod = 2022-02-06T16:35:45-08:00
+lastmod = 2022-07-13T20:38:36-07:00
 draft = true
 roam_refs = ["https://blog.ycombinator.com/three-paths-in-the-tech-industry-founder-executive-or-employee/"]
 +++
 
 The article begins with:
 
-> I don’t attach value judgements to these three paths. In my ten years in The Bay Area I’ve seen friends lead successful and fulfilled lives following all three.
+> I don't attach value judgements to these three paths. In my ten years in The Bay Area I've seen friends lead successful and fulfilled lives following all three.
 
 I skipped over this point when I read this article for the first time in my haste to discover the details of the promised trio of paths. I'm currently an employee and feel at times that such a role is a mark of failure. It's easy for me to start thinking of what I do as not being "real" work.
 
@@ -24,4 +24,4 @@ Another part of me isn't satisfied with this definition. "Real" work isn't the o
 Perhaps the nuance I'm attempting to address is somewhere between meaningful work and unique work.
 
 
-## <span class="org-todo todo TODO">TODO</span> Convert to citation {#convert-to-citation}
+## Convert to citation {#convert-to-citation}

@@ -2,7 +2,7 @@
 title = "At Least Two of the Same"
 author = ["Cash Weaver"]
 date = 2021-12-02T12:00:00-08:00
-lastmod = 2022-03-11T10:45:17-08:00
+lastmod = 2022-07-13T20:29:37-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

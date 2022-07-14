@@ -2,13 +2,13 @@
 title = "Improving as a Software Engineer"
 author = ["Cash Weaver"]
 date = 2022-01-29T14:08:00-08:00
-lastmod = 2022-02-20T11:35:24-08:00
+lastmod = 2022-07-13T20:33:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = true
 +++
 
-## <span class="org-todo todo TODO">TODO</span> Incomplete ideas {#incomplete-ideas}
+## Incomplete ideas {#incomplete-ideas}
 
 -   There are more than one axis to improve along.
 -   Splitting time between executing and thinking/learning/reading/etc.

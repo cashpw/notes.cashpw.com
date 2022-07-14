@@ -2,7 +2,7 @@
 title = "Em"
 author = ["Cash Weaver"]
 date = 2022-03-15T09:00:00-07:00
-lastmod = 2022-03-15T09:06:35-07:00
+lastmod = 2022-07-13T20:31:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

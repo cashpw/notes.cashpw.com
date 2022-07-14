@@ -2,7 +2,7 @@
 title = "Kamran Ahmed | Levels of Seniority"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:50:00-08:00
-lastmod = 2022-02-21T08:53:50-08:00
+lastmod = 2022-07-13T20:28:56-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -63,6 +63,8 @@ draft = false
 > -   They have the ability to take on large ill-defined problems, define them, break them up, and execute the pieces. A senior developer can take something big and abstract, and run with it. They will come up with a few options, discuss them with the team and implement them.
 > -   They have respect for the code that was written before them. They are generous when passing judgment on the architecture or the design decisions made in the codebase. They approach inheriting legacy code with an "opportunity mindset" rather than a complaining one.
 > -   They know how to give feedback without hurting anyone.
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ahmed, Kamran. n.d. “Levels of Seniority.” <i>Https://Roadmap.Sh/Guides/Levels-of-Seniority</i>. Accessed February 7, 2022. <a href="https://roadmap.sh">https://roadmap.sh</a>.</div>

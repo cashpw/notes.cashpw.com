@@ -2,7 +2,7 @@
 title = "org-roam"
 author = ["Cash Weaver"]
 date = 2022-02-06T07:22:00-08:00
-lastmod = 2022-03-16T10:07:23-07:00
+lastmod = 2022-07-13T20:34:56-07:00
 draft = false
 +++
 
@@ -11,6 +11,8 @@ draft = false
 > (<a href="#citeproc_bib_item_1">“Org-Roam” 2022</a>)
 
 -   <https://www.orgroam.com/>
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Org-Roam.” 2022. Org-roam. <a href="https://github.com/org-roam/org-roam">https://github.com/org-roam/org-roam</a>.</div>

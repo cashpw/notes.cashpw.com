@@ -2,7 +2,7 @@
 title = "Do Things that Compound"
 author = ["Cash Weaver"]
 date = 2022-02-11T20:09:00-08:00
-lastmod = 2022-02-20T11:34:49-08:00
+lastmod = 2022-07-13T20:31:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

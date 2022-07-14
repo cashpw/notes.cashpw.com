@@ -2,7 +2,7 @@
 title = "Wikipedia | Bloom's Taxonomy"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:38:00-08:00
-lastmod = 2022-02-20T11:33:05-08:00
+lastmod = 2022-07-13T20:13:50-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -33,6 +33,8 @@ Anderson proposed [proposed a revision of Bloom's cognitive taxomomy](https://bo
 4.  Analyze
 5.  Evaluate
 6.  Create
+
+## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bloom’s Taxonomy.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Bloom%27s_taxonomy&oldid=1069354181">https://en.wikipedia.org/w/index.php?title=Bloom%27s_taxonomy&#38;oldid=1069354181</a>.</div>
