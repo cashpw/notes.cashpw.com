@@ -1,362 +1,209 @@
-a:not([href*='cashweaver.com']):not([href^='#']):not([href^='/']):after {
+a:not([href*='www.cashweaver.com']):not([href^='#']):not([href^='/']):after {
   background-position: 0 center;
   background-repeat: no-repeat;
   background-size: 16px 16px !important;
   content: '';
   height: 16px;
-  margin-left: 0.5ch;
   vertical-align: middle;
   width: 16px;
 }
-a[href*='http://cashweaver.com']:after {
-  background-image: url('/favicons/cashweaver.com.png');
+a[href*='https://www.severe-weather.eu']:after {
+  background-image: url('/favicons/www.severe-weather.eu.png');
   padding-left: 16px;
+  margin-left: 0.5ch;
 }
-a[href*='http://five.sentenc.es']:after {
-  background-image: url('/favicons/five.sentenc.es.png');
+a[href*='https://www.sgvtribune.com']:after {
+  background-image: url('/favicons/www.sgvtribune.com.ico');
   padding-left: 16px;
+  margin-left: 0.5ch;
 }
-a[href*='http://glazy.org']:after {
-  background-image: url('/favicons/glazy.org.png');
+a[href*='https://www.simplethread.com']:after {
+  background-image: url('/favicons/www.simplethread.com.png');
   padding-left: 16px;
-}
-a[href*='http://public.eblib.com']:after {
-  background-image: url('/favicons/public.eblib.com.png');
-  padding-left: 16px;
-}
-a[href*='http://www.aaronsw.com']:after {
-  background-image: url('/favicons/www.aaronsw.com.png');
-  padding-left: 16px;
-}
-a[href*='http://www.zotero.org']:after {
-  background-image: url('/favicons/www.zotero.org.ico');
-  padding-left: 16px;
-}
-a[href*='https://']:after {
-  background-image: url('/favicons/.png');
-  padding-left: 16px;
-}
-a[href*='https://apps.ankiweb.net']:after {
-  background-image: url('/favicons/apps.ankiweb.net.ico');
-  padding-left: 16px;
-}
-a[href*='https://astralcodexten.substack.com']:after {
-  background-image: url('/favicons/astralcodexten.substack.com.png');
-  padding-left: 16px;
-}
-a[href*='https://azdavis.net']:after {
-  background-image: url('/favicons/azdavis.net.png');
-  padding-left: 16px;
-}
-a[href*='https://bastian.rieck.me']:after {
-  background-image: url('/favicons/bastian.rieck.me.ico');
-  padding-left: 16px;
-}
-a[href*='https://betterprogramming.pub']:after {
-  background-image: url('/favicons/betterprogramming.pub.png');
-  padding-left: 16px;
-}
-a[href*='https://blog.samaltman.com']:after {
-  background-image: url('/favicons/blog.samaltman.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://books.google.com']:after {
-  background-image: url('/favicons/books.google.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://breckyunits.com']:after {
-  background-image: url('/favicons/breckyunits.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://clay-king.com']:after {
-  background-image: url('/favicons/clay-king.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://commoncog.com']:after {
-  background-image: url('/favicons/commoncog.com.png');
-  padding-left: 16px;
-}
-a[href*='https://console.cloud.google.com']:after {
-  background-image: url('/favicons/console.cloud.google.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://dhwthompson.com']:after {
-  background-image: url('/favicons/dhwthompson.com.png');
-  padding-left: 16px;
-}
-a[href*='https://diff.substack.com']:after {
-  background-image: url('/favicons/diff.substack.com.png');
-  padding-left: 16px;
-}
-a[href*='https://digitalfire.com']:after {
-  background-image: url('/favicons/digitalfire.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://docs.ankiweb.net']:after {
-  background-image: url('/favicons/docs.ankiweb.net.png');
-  padding-left: 16px;
-}
-a[href*='https://docs.google.com']:after {
-  background-image: url('/favicons/docs.google.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://docs.sleep.urbandroid.org']:after {
-  background-image: url('/favicons/docs.sleep.urbandroid.org.png');
-  padding-left: 16px;
-}
-a[href*='https://doi.org']:after {
-  background-image: url('/favicons/doi.org.png');
-  padding-left: 16px;
-}
-a[href*='https://drive.google.com']:after {
-  background-image: url('/favicons/drive.google.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://en.wikipedia.org']:after {
-  background-image: url('/favicons/en.wikipedia.org.ico');
-  padding-left: 16px;
-}
-a[href*='https://en.wiktionary.org']:after {
-  background-image: url('/favicons/en.wiktionary.org.ico');
-  padding-left: 16px;
-}
-a[href*='https://github.com']:after {
-  background-image: url('/favicons/github.com.png');
-  padding-left: 16px;
-}
-a[href*='https://goeast.ems.com']:after {
-  background-image: url('/favicons/goeast.ems.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://guzey.com']:after {
-  background-image: url('/favicons/guzey.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://hackernoon.com']:after {
-  background-image: url('/favicons/hackernoon.com.png');
-  padding-left: 16px;
-}
-a[href*='https://hugocisneros.com']:after {
-  background-image: url('/favicons/hugocisneros.com.png');
-  padding-left: 16px;
-}
-a[href*='https://ideolalia.com']:after {
-  background-image: url('/favicons/ideolalia.com.png');
-  padding-left: 16px;
-}
-a[href*='https://idratherbewriting.com']:after {
-  background-image: url('/favicons/idratherbewriting.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://jamesaltucher.com']:after {
-  background-image: url('/favicons/jamesaltucher.com.png');
-  padding-left: 16px;
-}
-a[href*='https://knowyourmeme.com']:after {
-  background-image: url('/favicons/knowyourmeme.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://lanraccoon.com']:after {
-  background-image: url('/favicons/lanraccoon.com.png');
-  padding-left: 16px;
-}
-a[href*='https://m.signalvnoise.com']:after {
-  background-image: url('/favicons/m.signalvnoise.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://nceca.net']:after {
-  background-image: url('/favicons/nceca.net.ico');
-  padding-left: 16px;
-}
-a[href*='https://news.ycombinator.com']:after {
-  background-image: url('/favicons/news.ycombinator.com.png');
-  padding-left: 16px;
-}
-a[href*='https://nodramadevops.com']:after {
-  background-image: url('/favicons/nodramadevops.com.png');
-  padding-left: 16px;
-}
-a[href*='https://notes.alexkehayias.com']:after {
-  background-image: url('/favicons/notes.alexkehayias.com.png');
-  padding-left: 16px;
-}
-a[href*='https://notes.andymatuschak.org']:after {
-  background-image: url('/favicons/notes.andymatuschak.org.png');
-  padding-left: 16px;
-}
-a[href*='https://notmuchmail.org']:after {
-  background-image: url('/favicons/notmuchmail.org.ico');
-  padding-left: 16px;
-}
-a[href*='https://orgmode.org']:after {
-  background-image: url('/favicons/orgmode.org.png');
-  padding-left: 16px;
-}
-a[href*='https://palousemindfulness.com']:after {
-  background-image: url('/favicons/palousemindfulness.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://payne.org']:after {
-  background-image: url('/favicons/payne.org.png');
-  padding-left: 16px;
-}
-a[href*='https://psychologydictionary.org']:after {
-  background-image: url('/favicons/psychologydictionary.org.png');
-  padding-left: 16px;
-}
-a[href*='https://pubmed.ncbi.nlm.nih.gov']:after {
-  background-image: url('/favicons/pubmed.ncbi.nlm.nih.gov.ico');
-  padding-left: 16px;
-}
-a[href*='https://quoteinvestigator.com']:after {
-  background-image: url('/favicons/quoteinvestigator.com.png');
-  padding-left: 16px;
-}
-a[href*='https://rclone.org']:after {
-  background-image: url('/favicons/rclone.org.png');
-  padding-left: 16px;
-}
-a[href*='https://roadmap.sh']:after {
-  background-image: url('/favicons/roadmap.sh.png');
-  padding-left: 16px;
-}
-a[href*='https://samplesize.one']:after {
-  background-image: url('/favicons/samplesize.one.png');
-  padding-left: 16px;
-}
-a[href*='https://sive.rs']:after {
-  background-image: url('/favicons/sive.rs.ico');
-  padding-left: 16px;
-}
-a[href*='https://slatestarcodex.com']:after {
-  background-image: url('/favicons/slatestarcodex.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://sleep.urbandroid.org']:after {
-  background-image: url('/favicons/sleep.urbandroid.org.png');
-  padding-left: 16px;
-}
-a[href*='https://sourceforge.net']:after {
-  background-image: url('/favicons/sourceforge.net.png');
-  padding-left: 16px;
-}
-a[href*='https://support.google.com']:after {
-  background-image: url('/favicons/support.google.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://tasker.joaoapps.com']:after {
-  background-image: url('/favicons/tasker.joaoapps.com.png');
-  padding-left: 16px;
-}
-a[href*='https://theanarchistlibrary.org']:after {
-  background-image: url('/favicons/theanarchistlibrary.org.ico');
-  padding-left: 16px;
-}
-a[href*='https://tom.preston-werner.com']:after {
-  background-image: url('/favicons/tom.preston-werner.com.png');
-  padding-left: 16px;
-}
-a[href*='https://tvtropes.org']:after {
-  background-image: url('/favicons/tvtropes.org.ico');
-  padding-left: 16px;
-}
-a[href*='https://twitter.com']:after {
-  background-image: url('/favicons/twitter.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://www.benkuhn.net']:after {
-  background-image: url('/favicons/www.benkuhn.net.ico');
-  padding-left: 16px;
-}
-a[href*='https://www.calnewport.com']:after {
-  background-image: url('/favicons/www.calnewport.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://www.cdc.gov']:after {
-  background-image: url('/favicons/www.cdc.gov.png');
-  padding-left: 16px;
-}
-a[href*='https://www.factorio.com']:after {
-  background-image: url('/favicons/www.factorio.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://www.flightfromperfection.com']:after {
-  background-image: url('/favicons/www.flightfromperfection.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://www.google.com']:after {
-  background-image: url('/favicons/www.google.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://www.gwern.net']:after {
-  background-image: url('/favicons/www.gwern.net.png');
-  padding-left: 16px;
-}
-a[href*='https://www.jimwendler.com']:after {
-  background-image: url('/favicons/www.jimwendler.com.png');
-  padding-left: 16px;
-}
-a[href*='https://www.julian.com']:after {
-  background-image: url('/favicons/www.julian.com.png');
-  padding-left: 16px;
-}
-a[href*='https://www.lesswrong.com']:after {
-  background-image: url('/favicons/www.lesswrong.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://www.neelnanda.io']:after {
-  background-image: url('/favicons/www.neelnanda.io.ico');
-  padding-left: 16px;
-}
-a[href*='https://www.nikialeksey.com']:after {
-  background-image: url('/favicons/www.nikialeksey.com.png');
-  padding-left: 16px;
-}
-a[href*='https://www.pinterest.com']:after {
-  background-image: url('/favicons/www.pinterest.com.ico');
-  padding-left: 16px;
-}
-a[href*='https://www.plainlanguage.gov']:after {
-  background-image: url('/favicons/www.plainlanguage.gov.png');
-  padding-left: 16px;
-}
-a[href*='https://www.polyphasic.net']:after {
-  background-image: url('/favicons/www.polyphasic.net.png');
-  padding-left: 16px;
-}
-a[href*='https://www.reddit.com']:after {
-  background-image: url('/favicons/www.reddit.com.ico');
-  padding-left: 16px;
+  margin-left: 0.5ch;
 }
 a[href*='https://www.sirlin.net']:after {
   background-image: url('/favicons/www.sirlin.net.ico');
   padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.slashfilm.com']:after {
+  background-image: url('/favicons/www.slashfilm.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.slatestarcodexabridged.com']:after {
+  background-image: url('/favicons/www.slatestarcodexabridged.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.smallstepcap.com']:after {
+  background-image: url('/favicons/www.smallstepcap.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.sobieckipioneering.com']:after {
+  background-image: url('/favicons/www.sobieckipioneering.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.solzhenitsyncenter.org']:after {
+  background-image: url('/favicons/www.solzhenitsyncenter.org.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.sonyaellenmann.com']:after {
+  background-image: url('/favicons/www.sonyaellenmann.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.sprintphysio.co.uk']:after {
+  background-image: url('/favicons/www.sprintphysio.co.uk.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.srid.ca']:after {
+  background-image: url('/favicons/www.srid.ca.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.strangeloopcanon.com']:after {
+  background-image: url('/favicons/www.strangeloopcanon.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.strongtowns.org']:after {
+  background-image: url('/favicons/www.strongtowns.org.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.studyfinds.org']:after {
+  background-image: url('/favicons/www.studyfinds.org.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.swyx.io']:after {
+  background-image: url('/favicons/www.swyx.io.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
 }
 a[href*='https://www.theatlantic.com']:after {
   background-image: url('/favicons/www.theatlantic.com.png');
   padding-left: 16px;
+  margin-left: 0.5ch;
 }
 a[href*='https://www.thediff.co']:after {
   background-image: url('/favicons/www.thediff.co.png');
   padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.theguardian.com']:after {
+  background-image: url('/favicons/www.theguardian.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.thenewatlantis.com']:after {
+  background-image: url('/favicons/www.thenewatlantis.com.jpg');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.theparisreview.org']:after {
+  background-image: url('/favicons/www.theparisreview.org.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.thezbook.com']:after {
+  background-image: url('/favicons/www.thezbook.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.urbandictionary.com']:after {
+  background-image: url('/favicons/www.urbandictionary.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.ursulakleguin.com']:after {
+  background-image: url('/favicons/www.ursulakleguin.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.vanityfarce.com']:after {
+  background-image: url('/favicons/www.vanityfarce.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
 }
 a[href*='https://www.variance.com']:after {
   background-image: url('/favicons/www.variance.com.png');
   padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.welcometothejungle.com']:after {
+  background-image: url('/favicons/www.welcometothejungle.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.wired.com']:after {
+  background-image: url('/favicons/www.wired.com.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
 }
 a[href*='https://www.youtube.com']:after {
   background-image: url('/favicons/www.youtube.com.ico');
   padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://www.zylstra.org']:after {
+  background-image: url('/favicons/www.zylstra.org.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://xdg.me']:after {
+  background-image: url('/favicons/xdg.me.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://xsrus.com']:after {
+  background-image: url('/favicons/xsrus.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://ycp.so']:after {
+  background-image: url('/favicons/ycp.so.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
 }
 a[href*='https://youtu.be']:after {
   background-image: url('/favicons/youtu.be.ico');
   padding-left: 16px;
+  margin-left: 0.5ch;
 }
 a[href*='https://youtube.com']:after {
   background-image: url('/favicons/youtube.com.ico');
   padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://zackkanter.com']:after {
+  background-image: url('/favicons/zackkanter.com.jpg');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://zenhabits.net']:after {
+  background-image: url('/favicons/zenhabits.net.ico');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://zettelkasten.sorenbjornstad.com']:after {
+  background-image: url('/favicons/zettelkasten.sorenbjornstad.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
+}
+a[href*='https://zeynep.substack.com']:after {
+  background-image: url('/favicons/zeynep.substack.com.png');
+  padding-left: 16px;
+  margin-left: 0.5ch;
 }
 a[href*='https://zwbetz.com']:after {
   background-image: url('/favicons/zwbetz.com.ico');
   padding-left: 16px;
+  margin-left: 0.5ch;
 }
