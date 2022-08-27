@@ -77,11 +77,6 @@ a[href*='http://brendanschlagel.com']:after {
   padding-left: 16px;
   margin-left: 0.5ch;
 }
-a[href*='http://cashweaver.com']:after {
-  background-image: url('/favicons/cashweaver.com.png');
-  padding-left: 16px;
-  margin-left: 0.5ch;
-}
 a[href*='http://catern.com']:after {
   background-image: url('/favicons/catern.com.png');
   padding-left: 16px;
