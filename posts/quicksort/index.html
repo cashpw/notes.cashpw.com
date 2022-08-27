@@ -8,11 +8,10 @@
 <meta name=description content="Quicksort is an in-place Sorting algorithm. [&mldr;] It works by selecting a &lsquo;pivot&rsquo; element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
 (“Quicksort” 2022)
  Quicksort is:
- Unstable Internal memory algorithm  Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.
-procedure f(lowIndex, highIndex, list) is if lowIndex >= highIndex || lowIndex < 0 then return pivotIndex = partition(0, len(list)) f(0, pivotIndex-1, list) f(pivotIndex+1, len(list), list) procedure partition(lowIndex, highIndex, list) is pivotIndex = highIndex i = lowIndex - 1 for j from lowIndex to highIndex - 1 do if list[j] <= list[pivotIndex] then i += 1 swap list[i] and list[j] i += 1 swap list[i] and list[pivotIndex] return i Implementation  Quicksort implementation in Python  Complexity     Worst-case Best-case     Time \(O(n^2)\) \(O(n \operatorname{log}(n))\)   Space \(O(n)\) \(O(n)\)    References .">
+ Unstable sorting algorithm Internal memory algorithm  Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.">
 <meta name=author content>
 <link rel=canonical href=http://cashweaver.com/posts/quicksort/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.85d11706e362553eae0c7eb3b163962d56d7f2be56f6d53048bfcbe18648edf0.css integrity="sha256-hdEXBuNiVT6uDH6zsWOWLVbX8r5W9tUwSL/L4YZI7fA=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.4a0697bd681ca3cfd6bbff630075af8a3fe362975097f5075cf266a73838c5e1.css integrity="sha256-SgaXvWgco8/Wu/9jAHWvij/jYpdQl/UHXPJmpzg4xeE=" rel="preload stylesheet" as=style>
 <script defer crossorigin=anonymous src=/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5+kdJvBz5iKbt6B5PJI=" onload=hljs.initHighlightingOnLoad()></script>
 <link rel=icon href=http://cashweaver.com/favicon.ico>
 <link rel=icon type=image/png sizes=16x16 href=http://cashweaver.com/favicon-16x16.png>
@@ -32,21 +31,19 @@ procedure f(lowIndex, highIndex, list) is if lowIndex >= highIndex || lowIndex <
 <meta property="og:description" content="Quicksort is an in-place Sorting algorithm. [&mldr;] It works by selecting a &lsquo;pivot&rsquo; element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
 (“Quicksort” 2022)
  Quicksort is:
- Unstable Internal memory algorithm  Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.
-procedure f(lowIndex, highIndex, list) is if lowIndex >= highIndex || lowIndex < 0 then return pivotIndex = partition(0, len(list)) f(0, pivotIndex-1, list) f(pivotIndex+1, len(list), list) procedure partition(lowIndex, highIndex, list) is pivotIndex = highIndex i = lowIndex - 1 for j from lowIndex to highIndex - 1 do if list[j] <= list[pivotIndex] then i += 1 swap list[i] and list[j] i += 1 swap list[i] and list[pivotIndex] return i Implementation  Quicksort implementation in Python  Complexity     Worst-case Best-case     Time \(O(n^2)\) \(O(n \operatorname{log}(n))\)   Space \(O(n)\) \(O(n)\)    References .">
+ Unstable sorting algorithm Internal memory algorithm  Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://cashweaver.com/posts/quicksort/"><meta property="article:section" content="posts">
 <meta property="article:published_time" content="2022-06-30T13:45:00-07:00">
-<meta property="article:modified_time" content="2022-07-13T20:37:03-07:00">
+<meta property="article:modified_time" content="2022-08-26T22:05:29-07:00">
 <meta name=twitter:card content="summary">
 <meta name=twitter:title content="Quicksort">
 <meta name=twitter:description content="Quicksort is an in-place Sorting algorithm. [&mldr;] It works by selecting a &lsquo;pivot&rsquo; element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
 (“Quicksort” 2022)
  Quicksort is:
- Unstable Internal memory algorithm  Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.
-procedure f(lowIndex, highIndex, list) is if lowIndex >= highIndex || lowIndex < 0 then return pivotIndex = partition(0, len(list)) f(0, pivotIndex-1, list) f(pivotIndex+1, len(list), list) procedure partition(lowIndex, highIndex, list) is pivotIndex = highIndex i = lowIndex - 1 for j from lowIndex to highIndex - 1 do if list[j] <= list[pivotIndex] then i += 1 swap list[i] and list[j] i += 1 swap list[i] and list[pivotIndex] return i Implementation  Quicksort implementation in Python  Complexity     Worst-case Best-case     Time \(O(n^2)\) \(O(n \operatorname{log}(n))\)   Space \(O(n)\) \(O(n)\)    References .">
+ Unstable sorting algorithm Internal memory algorithm  Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://cashweaver.com/posts/"},{"@type":"ListItem","position":2,"name":"Quicksort","item":"http://cashweaver.com/posts/quicksort/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Quicksort","name":"Quicksort","description":"Quicksort is an in-place Sorting algorithm. [\u0026hellip;] It works by selecting a \u0026lsquo;pivot\u0026rsquo; element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.\n(“Quicksort” 2022)\n Quicksort is:\n Unstable Internal memory algorithm  Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.\nprocedure f(lowIndex, highIndex, list) is if lowIndex \u0026gt;= highIndex || lowIndex \u0026lt; 0 then return pivotIndex = partition(0, len(list)) f(0, pivotIndex-1, list) f(pivotIndex+1, len(list), list) procedure partition(lowIndex, highIndex, list) is pivotIndex = highIndex i = lowIndex - 1 for j from lowIndex to highIndex - 1 do if list[j] \u0026lt;= list[pivotIndex] then i += 1 swap list[i] and list[j] i += 1 swap list[i] and list[pivotIndex] return i Implementation  Quicksort implementation in Python  Complexity     Worst-case Best-case     Time \\(O(n^2)\\) \\(O(n \\operatorname{log}(n))\\)   Space \\(O(n)\\) \\(O(n)\\)    References .","keywords":["concept","concept"],"articleBody":" Quicksort is an in-place Sorting algorithm. […] It works by selecting a ‘pivot’ element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.\n(“Quicksort” 2022)\n Quicksort is:\n Unstable Internal memory algorithm  Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.\nprocedure f(lowIndex, highIndex, list) is if lowIndex = highIndex || lowIndex Implementation  Quicksort implementation in Python  Complexity     Worst-case Best-case     Time \\(O(n^2)\\) \\(O(n \\operatorname{log}(n))\\)   Space \\(O(n)\\) \\(O(n)\\)    References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Quicksort.” 2022. Wikipedia, June. https://en.wikipedia.org/w/index.php?title=Quicksort\u0026oldid=1093780310.  ","wordCount":"156","inLanguage":"en","datePublished":"2022-06-30T13:45:00-07:00","dateModified":"2022-07-13T20:37:03-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashweaver.com/posts/quicksort/"},"publisher":{"@type":"Organization","name":"Cash Weaver","logo":{"@type":"ImageObject","url":"http://cashweaver.com/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Quicksort","name":"Quicksort","description":"Quicksort is an in-place Sorting algorithm. [\u0026hellip;] It works by selecting a \u0026lsquo;pivot\u0026rsquo; element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.\n(“Quicksort” 2022)\n Quicksort is:\n Unstable sorting algorithm Internal memory algorithm  Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.","keywords":["concept","concept"],"articleBody":" Quicksort is an in-place Sorting algorithm. […] It works by selecting a ‘pivot’ element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.\n(“Quicksort” 2022)\n Quicksort is:\n Unstable sorting algorithm Internal memory algorithm  Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.\nprocedure f(lowIndex, highIndex, list) is if lowIndex = highIndex || lowIndex Implementation  Quicksort implementation in Python  Complexity     Worst-case Best-case     Time \\(O(n^2)\\) \\(O(n \\operatorname{log}(n))\\)   Space \\(O(n)\\) \\(O(n)\\)    References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Quicksort.” 2022. Wikipedia, June. https://en.wikipedia.org/w/index.php?title=Quicksort\u0026oldid=1093780310.  ","wordCount":"158","inLanguage":"en","datePublished":"2022-06-30T13:45:00-07:00","dateModified":"2022-08-26T22:05:29-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashweaver.com/posts/quicksort/"},"publisher":{"@type":"Organization","name":"Cash Weaver","logo":{"@type":"ImageObject","url":"http://cashweaver.com/favicon.ico"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -84,7 +81,7 @@ procedure f(lowIndex, highIndex, list) is if lowIndex >= highIndex || lowIndex <
 <h1 class=post-title>
 Quicksort
 </h1>
-<div class=post-meta><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-07-13 20:37:03 -0700 -0700">2022-07-13</span>&nbsp;·&nbsp;1 min
+<div class=post-meta><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:05:29 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min
 </div>
 <div class=post-meta><a href=https://github.com/cashweaver/roam/tree/main/quicksort.org rel="noopener noreferrer" target=_blank>Suggest Changes</a>
 </div>
@@ -117,8 +114,8 @@ Quicksort
 </blockquote>
 <p>Quicksort is:</p>
 <ul>
-<li><a href=/posts/stable_sorting_algorithm/#unstable-sorting-algorithm>Unstable</a></li>
-<li><a href=/posts/external_memory_algorithm/#internal-memory-algorithm>Internal memory algorithm</a></li>
+<li><a href=/posts/unstable_sorting_algorithm/>Unstable sorting algorithm</a></li>
+<li><a href=/posts/internal_memory_algorithm/>Internal memory algorithm</a></li>
 </ul>
 <h2 id=algorithm>Algorithm<a hidden class=anchor aria-hidden=true href=#algorithm>#</a></h2>
 <p>This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.</p>
@@ -179,7 +176,6 @@ procedure partition(lowIndex, highIndex, list) is
 <ul>
 <li><a href=/posts/quickselect/>Quickselect</a></li>
 <li><a href=/posts/quicksort_implementation_in_python/>Quicksort implementation in Python</a></li>
-<li><a href=/posts/sorting_algorithm/>Sorting algorithm</a></li>
 </ul>
 </div>
 </div>
