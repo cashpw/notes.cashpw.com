@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Card Says Moops"
 author = ["Cash Weaver"]
 date = 2022-06-26T08:25:00-07:00
-lastmod = 2022-07-13T20:30:59-07:00
+lastmod = 2022-08-26T22:02:02-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -16,9 +16,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 ## Summary {#summary}
 
 Performative irony (see [For the lulz]({{< relref "for_the_lulz.md" >}})) for the dual goals of winning arguments and obfuscating your true beliefs. That is, pretending (and possibly believing, at least at some level) that you just want to watch the world burn and the hiding, from others and yourself, the fact that you only ever seem to go after the Left and what the targets of your ire imply about your underlying beliefs.
-
-
-## Thoughts {#thoughts}
 
 
 ## Notes {#notes}

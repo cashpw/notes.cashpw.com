@@ -2,7 +2,7 @@
 title = "Examples of Zettelkasten Notes"
 author = ["Cash Weaver"]
 date = 2022-02-06T07:13:00-08:00
-lastmod = 2022-07-13T20:32:05-07:00
+lastmod = 2022-08-26T22:02:38-07:00
 draft = false
 +++
 

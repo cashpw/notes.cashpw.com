@@ -2,7 +2,7 @@
 title = "Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings"
 author = ["Cash Weaver"]
 date = 2022-02-06T21:10:00-08:00
-lastmod = 2022-07-13T20:34:21-07:00
+lastmod = 2022-08-26T22:04:22-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -169,9 +169,6 @@ I worry that Anki wouldn't be enough to maintain understanding and the ability t
 
 
 ### The Relativity of Memory {#the-relativity-of-memory}
-
-
-## Authors {#authors}
 
 ## References
 

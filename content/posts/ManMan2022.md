@@ -2,7 +2,7 @@
 title = "Wikipedia | Man After Man"
 author = ["Cash Weaver"]
 date = 2022-02-18T15:08:00-08:00
-lastmod = 2022-07-13T20:28:23-07:00
+lastmod = 2022-08-26T22:00:23-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

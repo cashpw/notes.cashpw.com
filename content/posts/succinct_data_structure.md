@@ -2,7 +2,7 @@
 title = "Succinct data structure"
 author = ["Cash Weaver"]
 date = 2022-06-29T09:35:00-07:00
-lastmod = 2022-07-13T20:38:00-07:00
+lastmod = 2022-08-26T22:06:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

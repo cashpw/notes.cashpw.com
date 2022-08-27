@@ -2,7 +2,7 @@
 title = "Ceramists/Potters I Follow"
 author = ["Cash Weaver"]
 date = 2022-01-02T22:39:00-08:00
-lastmod = 2022-07-13T20:30:33-07:00
+lastmod = 2022-08-26T22:01:42-07:00
 draft = false
 +++
 

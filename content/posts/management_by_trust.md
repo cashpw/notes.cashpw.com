@@ -2,7 +2,7 @@
 title = "Management By Trust"
 author = ["Cash Weaver"]
 date = 2022-03-12T03:38:00-08:00
-lastmod = 2022-07-13T20:34:17-07:00
+lastmod = 2022-08-26T22:04:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

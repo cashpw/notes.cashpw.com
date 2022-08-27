@@ -1,8 +1,8 @@
 +++
-title = "Compount Interest is the Eight Wonder"
+title = "Compound interest is the eighth wonder of the world"
 author = ["Cash Weaver"]
 date = 2022-02-11T20:10:00-08:00
-lastmod = 2022-07-13T20:30:48-07:00
+lastmod = 2022-08-26T22:01:53-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

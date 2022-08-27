@@ -2,13 +2,13 @@
 title = "Michael W. Donnino et al. | Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:48:00-08:00
-lastmod = 2022-07-13T20:31:42-07:00
+lastmod = 2022-08-26T22:02:24-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-(NO_ITEM_DATA:donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlledTrial2021)
+(<a href="#citeproc_bib_item_1">Donnino et al. 2021</a>)
 
 
 ## Summary {#summary}
@@ -60,5 +60,5 @@ draft = false
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlledTrial2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Donnino, Michael W., Garrett S. Thompson, Shivani Mehta, Myrella Paschali, Patricia Howard, Sofie B. Antonsen, Lakshman Balaji, et al. 2021. “Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial.” <i>Pain Reports</i> 6 (3): e959. <a href="https://doi.org/10.1097/PR9.0000000000000959">https://doi.org/10.1097/PR9.0000000000000959</a>.</div>
 </div>

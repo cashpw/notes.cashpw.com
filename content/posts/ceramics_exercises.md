@@ -2,7 +2,7 @@
 title = "Ceramics Exercises"
 author = ["Cash Weaver"]
 date = 2022-01-10T19:13:00-08:00
-lastmod = 2022-07-13T20:30:29-07:00
+lastmod = 2022-08-26T22:01:40-07:00
 draft = false
 +++
 

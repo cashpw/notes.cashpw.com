@@ -2,7 +2,7 @@
 title = "Leading Indicator"
 author = ["Cash Weaver"]
 date = 2022-01-28T08:18:00-08:00
-lastmod = 2022-07-13T20:33:55-07:00
+lastmod = 2022-08-26T22:04:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -10,7 +10,7 @@ draft = false
 
 > Leading indicators are indicators that usually, but not always, change before the [a thing] as a whole changes. They are therefore useful as short-term predictors of the [a thing].
 >
-> _(<a href="#citeproc_bib_item_1">“Economic Indicator” 2021</a>)_
+> (<a href="#citeproc_bib_item_1">“Economic Indicator” 2021</a>)
 
 
 ## Examples {#examples}

@@ -1,8 +1,8 @@
 +++
-title = "Solve the Problem"
+title = "Solve the problem"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:37:00-08:00
-lastmod = 2022-07-13T20:37:38-07:00
+lastmod = 2022-08-26T22:06:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -12,12 +12,12 @@ draft = false
 
 See:
 
--   (NO_ITEM_DATA:tabacuYouReNotWritingCodeYouReSolvingProblems2020)
--   (NO_ITEM_DATA:navarroDonJustWriteCodeSolveProblems2021)
+-   (<a href="#citeproc_bib_item_2">Tabacu 2020</a>)
+-   (<a href="#citeproc_bib_item_1">Navarro 2021</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:tabacuYouReNotWritingCodeYouReSolvingProblems2020</div>
-  <div class="csl-entry">NO_ITEM_DATA:navarroDonJustWriteCodeSolveProblems2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Navarro, Douglas. 2021. “Don’t Just Write Code, Solve Problems.” <i>Medium</i>. <a href="https://betterprogramming.pub/dont-just-write-code-solve-problems-b5c4ed3f9d0d">https://betterprogramming.pub/dont-just-write-code-solve-problems-b5c4ed3f9d0d</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Tabacu, Raul. 2020. “You’re Not Writing Code, You’re Solving Problems.” <i>Lanraccoon</i>. <a href="https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems/">https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems/</a>.</div>
 </div>

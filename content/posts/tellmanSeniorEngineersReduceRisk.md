@@ -2,13 +2,13 @@
 title = "Zach Tellman | Senior Engineers Reduce Risk"
 author = ["Cash Weaver"]
 date = 2022-02-18T19:25:00-08:00
-lastmod = 2022-07-13T20:38:10-07:00
+lastmod = 2022-08-26T22:06:44-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-[Zach Tellman]({{< relref "zach_tellman.md" >}}), (NO_ITEM_DATA:tellmanSeniorEngineersReduceRisk)
+[Zach Tellman]({{< relref "zach_tellman.md" >}}), (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)
 
 
 ## Summary {#summary}
@@ -36,5 +36,5 @@ draft = false
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:tellmanSeniorEngineersReduceRisk</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Senior Engineers Reduce Risk.” Accessed February 19, 2022. <a href="https://ideolalia.com/essays/senior-engineers-reduce-risk.html">https://ideolalia.com/essays/senior-engineers-reduce-risk.html</a>.</div>
 </div>

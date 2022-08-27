@@ -2,7 +2,7 @@
 title = "External memory algorithm"
 author = ["Cash Weaver"]
 date = 2022-07-01T13:02:00-07:00
-lastmod = 2022-07-13T20:32:08-07:00
+lastmod = 2022-08-26T22:02:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -12,10 +12,7 @@ draft = false
 >
 > (<a href="#citeproc_bib_item_1">“External Memory Algorithm” 2021</a>)
 
-
-## Internal memory algorithm {#internal-memory-algorithm}
-
-Internal memory algorithms are designed to process data that fits into a single computer's main memory.
+See [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}}).
 
 ## References
 

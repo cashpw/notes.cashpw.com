@@ -2,7 +2,7 @@
 title = "This Sentence Has Five Words"
 author = ["Cash Weaver"]
 date = 2022-02-07T17:05:00-08:00
-lastmod = 2022-07-13T20:38:30-07:00
+lastmod = 2022-08-26T22:07:09-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -14,10 +14,10 @@ draft = false
 >
 > So write with a combination of short, medium, and long sentences. Create a sound that pleases the reader's ear. Don't just write words. Write music."
 >
-> [Gary Provost]({{< relref "gary_provost.md" >}}), (NO_ITEM_DATA:provost100WaysImproveYourWriting2014)
+> [Gary Provost]({{< relref "gary_provost.md" >}}), (<a href="#citeproc_bib_item_1">Provost 2014</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:provost100WaysImproveYourWriting2014</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Provost, Gary. 2014. <i>100 Ways to Improve Your Writing</i>. New York: Signet.</div>
 </div>

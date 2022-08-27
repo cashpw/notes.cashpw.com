@@ -2,7 +2,7 @@
 title = "Todos"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2022-07-13T20:38:43-07:00
+lastmod = 2022-08-26T22:07:17-07:00
 draft = false
 +++
 
@@ -147,16 +147,16 @@ Related
 
 -   [Pure Functions]({{< relref "pure_functions.md" >}})
 -   "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Linus Torvalds
--   (NO_ITEM_DATA:smithWriteCodeNotTooMuchMostlyFunctions)
+-   (<a href="#citeproc_bib_item_5">Smith n.d.</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:smithWriteCodeNotTooMuchMostlyFunctions</div>
-  <div class="csl-entry">NO_ITEM_DATA:matthewsaltzUnderstandFirstCritiqueLater2020</div>
-  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPart2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartII2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartIII2022</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>matthewsaltz. 2020. “Understand First, Critique Later.” <i>Ø$\Delta$</i>. <a href="https://matthewsaltz.wordpress.com/2020/05/21/understand-first-critique-later/">https://matthewsaltz.wordpress.com/2020/05/21/understand-first-critique-later/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Potter, Brian. 2021a. “How to Design a House to Last 1000 Years (Part I).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———. 2021b. “How to Design a House to Last 1000 Years (Part II).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000-a85">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000-a85</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———. 2022. “How to Design a House to Last for 1000 Years (Part III).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Smith, Brandon. n.d. “Write Code. Not Too Much. Mostly Functions.” Accessed March 15, 2022. <a href="https://www.brandons.me/blog/write-code-not-too-much-mostly-functions">https://www.brandons.me/blog/write-code-not-too-much-mostly-functions</a>.</div>
 </div>
 
 
@@ -165,7 +165,7 @@ Related
 Related:
 
 -   [Chesterton's Fence]({{< relref "chesterton_s_fence.md" >}})
--   (NO_ITEM_DATA:matthewsaltzUnderstandFirstCritiqueLater2020)
+-   (<a href="#citeproc_bib_item_1">matthewsaltz 2020</a>)
 
 
 ## Node idea: Picking a place to live based on climate change {#node-idea-picking-a-place-to-live-based-on-climate-change}
@@ -175,9 +175,9 @@ Related:
 
 Related:
 
--   (NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPart2021)
--   (NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartII2021)
--   (NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartIII2022)
+-   (<a href="#citeproc_bib_item_2">Potter 2021a</a>)
+-   (<a href="#citeproc_bib_item_3">Potter 2021b</a>)
+-   (<a href="#citeproc_bib_item_4">Potter 2022</a>)
 
 
 ## Node idea: My dear boy, why don't you try acting? {#node-idea-my-dear-boy-why-don-t-you-try-acting}
@@ -221,3 +221,9 @@ Related:
 
 
 ## Node idea: This is the dreamtime. Rapid, explosive, technological development which shines light into all of the dark places. Elimination of privacy. [Moloch]({{< relref "moloch.md" >}}). Optimizing away the "human"-ness of humanity. The proliferation of existential threats through technologic progression; first we're not capable of destroying ourselves, then governments are capable, then well-funded groups are capable, then groups are capable, then individuals are capable -- nuclear, biologic, technologic. {#node-idea-this-is-the-dreamtime-dot-rapid-explosive-technological-development-which-shines-light-into-all-of-the-dark-places-dot-elimination-of-privacy-dot-moloch--moloch-dot-md--dot-optimizing-away-the-human-ness-of-humanity-dot-the-proliferation-of-existential-threats-through-technologic-progression-first-we-re-not-capable-of-destroying-ourselves-then-governments-are-capable-then-well-funded-groups-are-capable-then-groups-are-capable-then-individuals-are-capable-nuclear-biologic-technologic-dot}
+
+
+## Reconsider the types/tags for nodes; remove them altogether? Is such a taxonomy useless? {#reconsider-the-types-tags-for-nodes-remove-them-altogether-is-such-a-taxonomy-useless}
+
+
+## Remove explicit :DIR: property {#remove-explicit-dir-property}

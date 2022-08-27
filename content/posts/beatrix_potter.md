@@ -2,7 +2,7 @@
 title = "Beatrix Potter"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:34:00-08:00
-lastmod = 2022-07-13T20:29:49-07:00
+lastmod = 2022-08-26T22:01:14-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

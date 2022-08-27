@@ -2,7 +2,7 @@
 title = "Theory of Change"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:28:00-08:00
-lastmod = 2022-07-13T20:38:28-07:00
+lastmod = 2022-08-26T22:07:05-07:00
 draft = false
 +++
 

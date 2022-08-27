@@ -2,7 +2,7 @@
 title = "Heap"
 author = ["Cash Weaver"]
 date = 2022-06-28T14:46:00-07:00
-lastmod = 2022-07-13T20:33:05-07:00
+lastmod = 2022-08-26T22:03:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

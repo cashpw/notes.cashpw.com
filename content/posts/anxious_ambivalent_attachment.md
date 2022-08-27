@@ -2,7 +2,7 @@
 title = "Anxious-ambivalent attachment"
 author = ["Cash Weaver"]
 date = 2022-06-26T11:44:00-07:00
-lastmod = 2022-07-13T20:29:29-07:00
+lastmod = 2022-08-26T22:01:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Dynamic array"
 author = ["Cash Weaver"]
 date = 2022-06-27T19:43:00-07:00
-lastmod = 2022-07-13T20:31:47-07:00
+lastmod = 2022-08-26T22:02:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

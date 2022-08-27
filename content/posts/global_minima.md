@@ -2,16 +2,13 @@
 title = "Global Minima"
 author = ["Cash Weaver"]
 date = 2022-03-14T07:40:00-07:00
-lastmod = 2022-07-13T20:32:39-07:00
+lastmod = 2022-08-26T22:03:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 +++
 
 The global minima is the smallest value of a function on the entire domain (<a href="#citeproc_bib_item_1">“Maxima and Minima” 2022</a>).
-
-
-## Examples {#examples}
 
 ## References
 

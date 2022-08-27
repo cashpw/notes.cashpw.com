@@ -2,7 +2,7 @@
 title = "Zach Tellman | Trapped in the Technologist Factory"
 author = ["Cash Weaver"]
 date = 2022-02-19T09:32:00-08:00
-lastmod = 2022-07-13T20:38:14-07:00
+lastmod = 2022-08-26T22:06:47-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -27,9 +27,7 @@ draft = false
 
 <!--quoteend-->
 
-> Chesterton notwithstanding, the fastest way to learn why a fence exists is to tear it down and see what happens.
-
-See [Chesterton's Fence]({{< relref "chesterton_s_fence.md" >}}).
+> [<Chesterton's fence>] notwithstanding, the fastest way to learn why a fence exists is to tear it down and see what happens.
 
 ## References
 

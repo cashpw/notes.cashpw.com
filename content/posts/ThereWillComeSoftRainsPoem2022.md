@@ -2,13 +2,13 @@
 title = "Sara Teasdale | There Will Come Soft Rains (Poem)"
 author = ["Cash Weaver"]
 date = 2022-04-01T10:39:00-07:00
-lastmod = 2022-07-13T20:28:36-07:00
+lastmod = 2022-08-26T22:00:32-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
 +++
 
-<p class="verse">
+<div class="verse">
 
 (War Time)<br />
 <br />
@@ -30,12 +30,12 @@ If mankind perished utterly;<br />
 And Spring herself, when she woke at dawn,<br />
 Would scarcely know that we were gone.<br />
 
-</p>
+</div>
 
-[Sara Teasdale]({{< relref "sara_teasdale.md" >}}), (NO_ITEM_DATA:ThereWillComeSoftRainsPoem2022)
+[Sara Teasdale]({{< relref "sara_teasdale.md" >}}), (<a href="#citeproc_bib_item_1">“There Will Come Soft Rains” 2022</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:ThereWillComeSoftRainsPoem2022</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“There Will Come Soft Rains.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=There_Will_Come_Soft_Rains_(poem)&oldid=1077004299">https://en.wikipedia.org/w/index.php?title=There_Will_Come_Soft_Rains_(poem)&#38;oldid=1077004299</a>.</div>
 </div>

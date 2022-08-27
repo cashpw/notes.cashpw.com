@@ -2,7 +2,7 @@
 title = "Greek alphabet"
 author = ["Cash Weaver"]
 date = 2022-07-03T06:37:00-07:00
-lastmod = 2022-07-13T20:32:51-07:00
+lastmod = 2022-08-26T22:03:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

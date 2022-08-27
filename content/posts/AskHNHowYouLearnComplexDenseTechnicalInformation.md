@@ -2,12 +2,12 @@
 title = "Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?"
 author = ["Cash Weaver"]
 date = 2022-02-06T14:56:00-08:00
-lastmod = 2022-07-13T20:28:07-07:00
+lastmod = 2022-08-26T22:00:10-07:00
 tags = ["reference"]
 draft = false
 +++
 
-(NO_ITEM_DATA:AskHNHowYouLearnComplexDenseTechnicalInformation)
+(<a href="#citeproc_bib_item_1">“Ask HN: How Do You Learn Complex, Dense Technical Information?” n.d.</a>)
 
 
 ## Thoughts {#thoughts}
@@ -52,5 +52,5 @@ This raises an important point in the use of spaced repetition systems (SRS). I 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:AskHNHowYouLearnComplexDenseTechnicalInformation</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ask HN: How Do You Learn Complex, Dense Technical Information?” n.d. <i>Hacker News</i>. Accessed February 6, 2022. <a href="https://news.ycombinator.com/item?id=22325975">https://news.ycombinator.com/item?id=22325975</a>.</div>
 </div>

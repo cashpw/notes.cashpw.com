@@ -2,7 +2,7 @@
 title = "Depth-first search"
 author = ["Cash Weaver"]
 date = 2022-06-29T16:36:00-07:00
-lastmod = 2022-07-13T20:31:30-07:00
+lastmod = 2022-08-26T22:02:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -68,11 +68,12 @@ Based on recursive algorithm in (<a href="#citeproc_bib_item_1">“Depth-First S
 
 ## Complexity {#complexity}
 
+|       | Worst-case                                 |
+|-------|--------------------------------------------|
+| Time  | \\(\bigo{\href{/posts/cardinality}{\vert V \vert} + \href{/posts/cardinality}{\vert E \vert}}\\) |
+| Space | \\(\bigo{\href{/posts/cardinality}{\vert V \vert}}\\)                 |
 
-### Time {#time}
-
-
-### Space {#space}
+Where \\(V\\) is the set of [Vertices]({{< relref "vertex.md" >}}) and \\(E\\) is the set of [Edges]({{< relref "edge.md" >}}).
 
 
 ## Alternatives {#alternatives}

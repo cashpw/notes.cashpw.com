@@ -2,7 +2,7 @@
 title = "Panopticon"
 author = ["Cash Weaver"]
 date = 2022-04-08T16:03:00-07:00
-lastmod = 2022-07-13T20:35:00-07:00
+lastmod = 2022-08-26T22:04:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

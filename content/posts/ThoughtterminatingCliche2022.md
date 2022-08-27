@@ -1,23 +1,14 @@
 +++
-title = "Wikipedia | Thought-Terminating Cliché"
+title = "Thought-Terminating Cliché"
 author = ["Cash Weaver"]
 date = 2022-06-26T10:41:00-07:00
-lastmod = 2022-07-13T20:28:37-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-08-26T22:00:33-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 +++
 
 (<a href="#citeproc_bib_item_1">“Thought-Terminating Cliché” 2022</a>)
-
-
-## Summary {#summary}
-
-
-## Thoughts {#thoughts}
-
-
-## Notes {#notes}
 
 ## References
 

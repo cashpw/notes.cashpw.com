@@ -2,7 +2,7 @@
 title = "S-tier"
 author = ["Cash Weaver"]
 date = 2022-01-29T15:01:00-08:00
-lastmod = 2022-07-13T20:37:18-07:00
+lastmod = 2022-08-26T22:05:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,13 +2,13 @@
 title = "Undirected graph"
 author = ["Cash Weaver"]
 date = 2022-07-05T17:35:00-07:00
-lastmod = 2022-07-13T20:38:50-07:00
+lastmod = 2022-08-26T22:07:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 +++
 
-A [Graph]({{< relref "graph.md" >}}) with a symmetric [Adjacency matrix]({{< relref "adjacency_matrix.md" >}}).
+A [Graph]({{< relref "graph.md" >}}) with a [symmetric]({{< relref "symmetric_matrix.md" >}}) [Adjacency matrix]({{< relref "adjacency_matrix.md" >}}).
 
 > {{< figure src="/ox-hugo/Undirected.svg.png" >}}
 >

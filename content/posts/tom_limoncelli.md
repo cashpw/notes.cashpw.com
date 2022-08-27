@@ -2,7 +2,7 @@
 title = "Tom Limoncelli"
 author = ["Cash Weaver"]
 date = 2022-02-21T15:50:00-08:00
-lastmod = 2022-07-13T20:38:44-07:00
+lastmod = 2022-08-26T22:07:19-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

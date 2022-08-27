@@ -2,7 +2,7 @@
 title = "Freddish"
 author = ["Cash Weaver"]
 date = 2022-03-13T17:59:00-07:00
-lastmod = 2022-07-13T20:32:25-07:00
+lastmod = 2022-08-26T22:02:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,7 +16,7 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
 >
 > Rogers was extraordinarily good at imagining where children's minds might go. For instance, in a scene in which an eye doctor uses an ophthalmoscope to peer into his eyes, he made a point of having the doctor clarify that he wasn't able to see Rogers's thoughts. Rogers also wrote a song called "You Can Never Go Down the Drain," because he knew that drains were something that, to kids, seemed to exist solely to suck things down.
 >
-> (NO_ITEM_DATA:kingMisterRogersHadSimpleSetRulesTalkingChildren2018)
+> (<a href="#citeproc_bib_item_1">King 2018</a>)
 
 <!--quoteend-->
 
@@ -34,10 +34,10 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
 > 8.  "Rephrase your new statement, repeating the first step." "Good" represents a value judgment, so: Your favorite grown-ups can tell you where it is safe to play. It is important to try to listen to them.
 > 9.  "Rephrase your idea a ﬁnal time, relating it to some phase of development a preschooler can understand." Maybe: Your favorite grown-ups can tell you where it is safe to play. It is important to try to listen to them, and listening is an important part of growing.
 >
-> (NO_ITEM_DATA:kingMisterRogersHadSimpleSetRulesTalkingChildren2018)
+> (<a href="#citeproc_bib_item_1">King 2018</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:kingMisterRogersHadSimpleSetRulesTalkingChildren2018</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>King, Maxwell. 2018. “Mister Rogers Had a Simple Set of Rules for Talking to Children.” <i>The Atlantic</i>. <a href="https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/">https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Wikipedia | Deep Time"
 author = ["Cash Weaver"]
 date = 2022-02-18T13:07:00-08:00
-lastmod = 2022-07-13T20:28:09-07:00
+lastmod = 2022-08-26T22:00:14-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

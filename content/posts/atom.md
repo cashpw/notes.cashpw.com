@@ -2,7 +2,7 @@
 title = "Atom"
 author = ["Cash Weaver"]
 date = 2022-06-29T08:31:00-07:00
-lastmod = 2022-07-13T20:29:39-07:00
+lastmod = 2022-08-26T22:01:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,10 +20,10 @@ An atom, in [Lisp]({{< relref "lisp.md" >}}), is an indivisible thing. Examples 
 >
 > Technically speaking, a list in Lisp consists of parentheses surrounding atoms separated by whitespace or surrounding other lists or surrounding both atoms and other lists. A list can have just one atom in it or have nothing in it at all. A list with nothing in it looks like this: (), and is called the empty list. Unlike anything else, an empty list is considered both an atom and a list at the same time.
 >
-> (NO_ITEM_DATA:LispAtomsa)
+> (<a href="#citeproc_bib_item_1">“Lisp Atoms” n.d.</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:LispAtomsa</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lisp Atoms.” n.d. Accessed June 29, 2022. <a href="https://www.gnu.org/software/emacs/manual/html_node/eintr/Lisp-Atoms.html">https://www.gnu.org/software/emacs/manual/html_node/eintr/Lisp-Atoms.html</a>.</div>
 </div>

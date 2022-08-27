@@ -2,13 +2,13 @@
 title = "Andy Matuschak | Evergreen Notes Should Be Densely Linked"
 author = ["Cash Weaver"]
 date = 2022-02-22T07:04:00-08:00
-lastmod = 2022-07-13T20:28:13-07:00
+lastmod = 2022-08-26T22:00:17-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (NO_ITEM_DATA:matuschakEvergreenNotesShouldBeDenselyLinked)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)
 
 > If we push ourselves to add lots of links between our notes, that makes us think expansively about what other concepts might be related to what we're thinking about. It creates pressure to think carefully about how ideas relate to each other (see [Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs) and [Evergreen notes should be concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)). It'll also help you internalize the ideas more deeply through [Elaborative encoding](https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB).
 >
@@ -27,5 +27,5 @@ draft = false
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:matuschakEvergreenNotesShouldBeDenselyLinked</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes Should Be Densely Linked.” <i>Andy’s Working Notes</i>. Accessed February 22, 2022. <a href="https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC">https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC</a>.</div>
 </div>

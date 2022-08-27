@@ -2,7 +2,7 @@
 title = "Scott Alexander | Socratic Grilling"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:03:00-08:00
-lastmod = 2022-07-13T20:29:08-07:00
+lastmod = 2022-08-26T22:00:50-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -13,8 +13,12 @@ draft = false
 
 ## Summary {#summary}
 
+[Socratic grilling]({{< relref "socratic_grilling.md" >}}) is "like Socratic questioning, but a little harsher and more confrontational in order to get to the point more quickly" (<a href="#citeproc_bib_item_1">Alexander 2020</a>). [Scott Alexander]({{< relref "scott_alexander.md" >}}) encourages leaning in to such conversations without shutting them down with an "I know more than you do"- or "Just because"-type responses.
+
 
 ## Thoughts {#thoughts}
+
+The learning done through [Socratic questioning]({{< relref "socratic_questioning.md" >}}) is worth the potential friction of such a conversation. Care should be taken, before engaging in such conversation, to be sure the other participant(s) aren't doing [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}}).
 
 
 ## Notes {#notes}

@@ -2,7 +2,7 @@
 title = "Ian Danskin | Mainstreaming"
 author = ["Cash Weaver"]
 date = 2022-06-25T18:55:00-07:00
-lastmod = 2022-07-13T20:31:10-07:00
+lastmod = 2022-08-26T22:02:07-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -14,6 +14,8 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 
 
 ## Summary {#summary}
+
+Mainstreaming is the game of moving a concept from fringe to normal. It's like a hammer in that a hammer is morally neutral and acquires a moral balance through use.
 
 
 ## Thoughts {#thoughts}

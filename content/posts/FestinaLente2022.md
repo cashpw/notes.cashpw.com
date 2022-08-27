@@ -2,15 +2,15 @@
 title = "Wikipedia | Festina Lente"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:50:00-08:00
-lastmod = 2022-07-13T20:28:16-07:00
+lastmod = 2022-08-26T22:00:18-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-(<a href="#citeproc_bib_item_1">“Festina Lente” 2022</a>)
-
 > [...] a classical adage and oxymoron meaning "make haste slowly" (sometimes rendered in English as "more haste, less speed").
+>
+> (<a href="#citeproc_bib_item_1">“Festina Lente” 2022</a>)
 
 ## References
 

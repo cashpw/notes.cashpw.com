@@ -2,13 +2,13 @@
 title = "James Altucher | The Ultimate Guide for Becoming an Idea Machine"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:16:00-08:00
-lastmod = 2022-07-13T20:28:38-07:00
+lastmod = 2022-08-26T22:00:34-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-[James Altucher]({{< relref "james_altucher.md" >}}), (NO_ITEM_DATA:UltimateGuideBecomingIdeaMachine2014)
+[James Altucher]({{< relref "james_altucher.md" >}}), (<a href="#citeproc_bib_item_1">Altucher 2014</a>)
 
 
 ## Summary {#summary}
@@ -32,5 +32,5 @@ draft = false
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:UltimateGuideBecomingIdeaMachine2014</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altucher, James. 2014. “The Ultimate Guide for Becoming an Idea Machine.” <i>James Altucher</i>. <a href="https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/">https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/</a>.</div>
 </div>

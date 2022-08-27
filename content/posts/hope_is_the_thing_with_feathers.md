@@ -1,14 +1,16 @@
 +++
-title = "Emily Dickinson | \"Hope\" is the thing with feathers"
+title = """
+  Emily Dickinson | "Hope" is the thing with feathers
+  """
 author = ["Cash Weaver"]
 date = 2022-03-28T21:11:00-07:00
-lastmod = 2022-07-13T20:33:10-07:00
+lastmod = 2022-08-26T22:03:21-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
 +++
 
-<p class="verse">
+<div class="verse">
 
 "Hope" is the thing with feathers -<br />
 That perches in the soul -<br />
@@ -25,7 +27,7 @@ And on the strangest Sea -<br />
 Yet - never - in Extremity,<br />
 It asked a crumb - of me.<br />
 
-</p>
+</div>
 
 [Emily Dickinson]({{< relref "emily_dickinson.md" >}}), (<a href="#citeproc_bib_item_1">Dickinson 2022</a>)
 

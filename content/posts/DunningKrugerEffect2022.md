@@ -2,7 +2,7 @@
 title = "Wikipedia | Dunning-Kruger Effect"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:07:00-08:00
-lastmod = 2022-07-13T20:28:12-07:00
+lastmod = 2022-08-26T22:00:15-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

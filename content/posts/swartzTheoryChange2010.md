@@ -2,7 +2,7 @@
 title = "Aaron Swartz | Theory of Change"
 author = ["Cash Weaver"]
 date = 2022-02-06T12:06:00-08:00
-lastmod = 2022-07-13T20:38:01-07:00
+lastmod = 2022-08-26T22:06:34-07:00
 draft = false
 +++
 

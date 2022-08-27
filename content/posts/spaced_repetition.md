@@ -2,7 +2,7 @@
 title = "Spaced Repetition"
 author = ["Cash Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2022-07-13T20:37:44-07:00
+lastmod = 2022-08-26T22:06:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -1,18 +1,16 @@
 +++
-title = "Wikipedia | Bloom's Taxonomy"
+title = "Bloom's Taxonomy"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:38:00-08:00
-lastmod = 2022-07-13T20:13:50-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-08-26T22:00:12-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 +++
 
-(<a href="#citeproc_bib_item_1">“Bloom’s Taxonomy” 2022</a>)
-
 > Bloom's taxonomy is a set of three hierarchical models used to classify educational learning objectives into levels of complexity and specificity. ... The cognitive domain list has been the primary focus of most traditional education and is frequently used to structure curriculum learning objectives, assessments and activities.
 >
-> _(<a href="#citeproc_bib_item_1">“Bloom’s Taxonomy” 2022</a>)_
+> (<a href="#citeproc_bib_item_1">“Bloom’s Taxonomy” 2022</a>)
 
 In order from least complex to most complex:
 

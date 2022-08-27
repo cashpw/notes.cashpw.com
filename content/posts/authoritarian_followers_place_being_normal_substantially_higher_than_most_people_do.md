@@ -1,8 +1,10 @@
 +++
-title = "Authoritarian followers place \"being normal\" substantially higher than most people do"
+title = """
+  Authoritarian followers place "being normal" substantially higher than most people do
+  """
 author = ["Cash Weaver"]
 date = 2022-06-26T09:19:00-07:00
-lastmod = 2022-07-13T20:29:42-07:00
+lastmod = 2022-08-26T22:01:08-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

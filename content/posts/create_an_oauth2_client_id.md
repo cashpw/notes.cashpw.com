@@ -2,7 +2,7 @@
 title = "Create an OAuth2 Client ID"
 author = ["Cash Weaver"]
 date = 2021-12-27T19:48:00-08:00
-lastmod = 2022-07-13T20:30:51-07:00
+lastmod = 2022-08-26T22:01:58-07:00
 draft = false
 +++
 
@@ -28,13 +28,11 @@ These steps are based on the [steps outlined by ccrusius](https://github.com/ccr
 1.  Download `gmail-oauth2-tools`.
 
     This utility will generate our refersh tokens for us.
-
     ```sh
     git clone https://github.com/google/gmail-oauth2-tools
     ```
 
 2.  Create a refresh token using `gmail-oauth2-tools`.
-
     ```sh
     python2.7 /path/to/gmail-oauth2-tools/python/oauth2.py \
       --user=<you>@gmail.com \
@@ -46,7 +44,6 @@ These steps are based on the [steps outlined by ccrusius](https://github.com/ccr
 3.  Create access token generating script; `gen_email_access_token.sh`.
 
     Create a new file, paste the following in, and fill in the variable values. Don't forget to set `chmod 700`!
-
     ```sh
     #!/bin/bash
     # Reference: http://blog.onodera.asia/2020/06/how-to-use-google-g-suite-oauth2-with.html
@@ -83,16 +80,13 @@ These steps are based on the [steps outlined by ccrusius](https://github.com/ccr
     ```
 
 4.  Confirm that your access token works.
-
     ```sh
     python2.7 /path/to/gmail-oauth2-tools/python/oauth2.py \
       --test_imap_authentication \
       --user=<you>@gmail.com \
       --access_token="<your access token>"
     ```
-
     You should see something like this:
-
     ```text
     05:51.26 > OKBC1 AUTHENTICATE XOAUTH2
     05:51.32 < +

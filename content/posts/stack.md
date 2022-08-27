@@ -2,7 +2,7 @@
 title = "Stack"
 author = ["Cash Weaver"]
 date = 2022-06-28T20:24:00-07:00
-lastmod = 2022-07-13T20:37:51-07:00
+lastmod = 2022-08-26T22:06:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,10 +17,10 @@ draft = false
 >
 > [links added]
 >
-> (NO_ITEM_DATA:StackAbstractDataType2022)
+> (<a href="#citeproc_bib_item_1">“Stack (Abstract Data Type)” 2022</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:StackAbstractDataType2022</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Stack (Abstract Data Type).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Stack_(abstract_data_type)&oldid=1091819102">https://en.wikipedia.org/w/index.php?title=Stack_(abstract_data_type)&#38;oldid=1091819102</a>.</div>
 </div>

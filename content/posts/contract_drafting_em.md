@@ -2,7 +2,7 @@
 title = "Contract Drafting Em"
 author = ["Cash Weaver"]
 date = 2022-03-14T08:38:00-07:00
-lastmod = 2022-07-13T20:30:49-07:00
+lastmod = 2022-08-26T22:01:54-07:00
 draft = false
 +++
 
@@ -10,7 +10,7 @@ draft = false
 
 See [Em]({{< relref "em.md" >}}).
 
-<p class="verse">
+<div class="verse">
 
 I am a contract-drafting em,<br />
 The loyalest of lawyers!<br />
@@ -67,7 +67,7 @@ To service my employers!<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Time is money, money time,---that is all<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye know on earth, and all ye need to know."<br />
 
-</p>
+</div>
 
 ## References
 

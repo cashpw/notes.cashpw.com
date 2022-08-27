@@ -2,7 +2,7 @@
 title = "Degenerate binary tree"
 author = ["Cash Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-07-13T20:31:27-07:00
+lastmod = 2022-08-26T22:02:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

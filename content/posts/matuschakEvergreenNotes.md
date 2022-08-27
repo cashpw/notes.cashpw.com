@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Evergreen Notes"
 author = ["Cash Weaver"]
 date = 2022-02-21T17:40:00-08:00
-lastmod = 2022-07-13T20:34:24-07:00
+lastmod = 2022-08-26T22:04:25-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

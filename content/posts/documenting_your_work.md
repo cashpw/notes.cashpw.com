@@ -2,7 +2,7 @@
 title = "Documenting Your Work"
 author = ["Cash Weaver"]
 date = 2022-01-29T14:37:00-08:00
-lastmod = 2022-07-13T20:31:38-07:00
+lastmod = 2022-08-26T22:02:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

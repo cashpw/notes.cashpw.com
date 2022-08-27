@@ -2,7 +2,7 @@
 title = "Wizard's First Rule"
 author = ["Cash Weaver"]
 date = 2022-02-22T18:52:00-08:00
-lastmod = 2022-07-13T20:39:14-07:00
+lastmod = 2022-08-26T22:07:50-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
