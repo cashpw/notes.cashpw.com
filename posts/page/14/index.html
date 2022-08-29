@@ -8,7 +8,7 @@
 <meta name=description content="Posts - Cash Weaver">
 <meta name=author content>
 <link rel=canonical href=http://cashweaver.com/posts/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.167361e60856dceed3a837c7de696311e65c43279d645737e92d6b5677c95edb.css integrity="sha256-FnNh5ghW3O7TqDfH3mljEeZcQyedZFc36S1rVnfJXts=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.e1aeb4f70e967b06ce5323cc77282142bb85f479f4e0a23d2190ed0ffcfc93a5.css integrity="sha256-4a609w6WewbOUyPMdyghQruF9Hn04KI9IZDtD/z8k6U=" rel="preload stylesheet" as=style>
 <link rel=icon href=http://cashweaver.com/favicon.ico>
 <link rel=icon type=image/png sizes=16x16 href=http://cashweaver.com/favicon-16x16.png>
 <link rel=icon type=image/png sizes=32x32 href=http://cashweaver.com/favicon-32x32.png>
@@ -16,7 +16,6 @@
 <link rel=mask-icon href=http://cashweaver.com/safari-pinned-tab.svg>
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
-<meta name=generator content="Hugo 0.89.4">
 <link rel=alternate type=application/rss+xml href=http://cashweaver.com/posts/index.xml>
 <noscript>
 <style>#theme-toggle,.top-link{display:none}</style>
@@ -39,10 +38,10 @@
 <nav class=nav>
 <div class=logo>
 <a href=http://cashweaver.com/ accesskey=h title="Cash Weaver (Alt + H)">Cash Weaver</a>
-<span class=logo-switches>
-<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+<div class=logo-switches>
+<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
 </button>
-</span>
+</div>
 </div>
 <ul id=menu>
 <li>
@@ -65,15 +64,153 @@
 </header>
 <main class=main>
 <header class=page-header>
-<h1>Posts</h1>
+<h1>
+Posts
+</h1>
 </header>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Quicksort implementation in Python
+</h2>
+</header>
+<div class=entry-content>
+<p>An implementation of Quicksort in Python.
+from typing import List, Callable def swap(ints: List[int], indexA: int, indexB: int) -> None: """Swap the values in INTS at INDEXA and INDEXB.""" valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> int: """Sorts sublist into [{&lt;= pivot}, pivot, {> than pivot}]""" pivot_index = high_index i = low_index - 1 for j in range(low_index, high_index): if comparator(ints[j], ints[pivot_index]): i += 1 swap(ints, i, j) i += 1 swap(ints, i, pivot_index) return i def quick_sort_inner(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> List[int]: if low_index >= high_index or low_index &lt; 0: return pivot_index = partition(ints, comparator, 0, high_index) quick_sort_inner(ints, comparator, 0, pivot_index - 1) quick_sort_inner(ints, comparator, pivot_index + 1, high_index) return ints def quick_sort(ints: List[int], comparator: Callable[[int, int], bool]) -> List[int]: return quick_sort_inner(ints, comparator, 0, len(ints) - 1) a = [10, 5, 8, 2, 1, 3] print(quick_sort(a, lambda a, b: a &lt;= b)) </p>
+</div>
+<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:05:30 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://cashweaver.com/posts/quicksort_implementation_in_python/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Quicksort
+</h2>
+</header>
+<div class=entry-content>
+<p>Quicksort is an in-place Sorting algorithm. […] It works by selecting a ‘pivot’ element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
+(“Quicksort” 2022)
+Quicksort is:
+Unstable sorting algorithm Internal memory algorithm Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies....</p>
+</div>
+<footer class=entry-footer><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:05:29 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Quicksort" href=http://cashweaver.com/posts/quicksort/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Bubble sort implementation in Python
+</h2>
+</header>
+<div class=entry-content>
+<p>An implementation of Bubble sort in Python.
+from typing import List def bubble_sort(ints: List[int]) -> List[int]: def do_pass() -> bool: sorted = True for i in range(len(ints)-1): if ints[i] > ints[i + 1]: sorted = False swap(i, i+1) return sorted def swap(indexA: int, indexB: int) -> None: valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA sorted = False while not sorted: sorted = do_pass() return ints return bubble_sort([10, 5, 4, 40]) </p>
+</div>
+<footer class=entry-footer><span title="2022-06-30 10:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:01:34 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Bubble sort implementation in Python" href=http://cashweaver.com/posts/bubble_sort_implementation_in_python/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Bubble sort
+</h2>
+</header>
+<div class=entry-content>
+<p>Bubble sort, sometimes referred to as sinking sort, is a simple Sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+[links added]
+(“Bubble Sort” 2022)
+Bubble sort is stable.
+Algorithm while list is not sorted do for i in range(len(list) - 1) do if list[i] > list[i+1] do swap(i, i+1) Implementation Bubble sort implementation in Python Complexity Worst-case Best-case Time \(O(n^2)\) \(O(n)\) Space \(O(n)\) \(O(n)\) References ....</p>
+</div>
+<footer class=entry-footer><span title="2022-06-30 10:47:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:01:33 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Bubble sort" href=http://cashweaver.com/posts/bubble_sort/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Sorting algorithm
+</h2>
+</header>
+<div class=entry-content>
+<p></p>
+</div>
+<footer class=entry-footer><span title="2022-06-30 10:46:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:06:13 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;0 min</footer>
+<a class=entry-link aria-label="post link to Sorting algorithm" href=http://cashweaver.com/posts/sorting_algorithm/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Effective Anki
+</h2>
+</header>
+<div class=entry-content>
+<p>My recommendations for effective use of Anki.
+Decks Use a single deck Deck options TODO: Find a source for these points. I discovered and implemented them before I started writing things down.
+New cards Steps In minutes: 15, 2160, 10080, 40320 New Cards Steps In minutes (for android): 15, 2160, 10080, 40320 (eshapard n.d.) For desktop Anki: 15m , 36h, 7d, 28d References ....</p>
+</div>
+<footer class=entry-footer><span title="2022-06-30 08:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:02:31 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Effective Anki" href=http://cashweaver.com/posts/effective_anki/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Convolution
+</h2>
+</header>
+<div class=entry-content>
+<p>References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
+</div>
+<footer class=entry-footer><span title="2022-06-29 19:31:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:01:56 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Convolution" href=http://cashweaver.com/posts/convolution/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Edge
+</h2>
+</header>
+<div class=entry-content>
+<p>An edge is a connection between two or more Vertices.
+References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
+</div>
+<footer class=entry-footer><span title="2022-06-29 19:15:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:02:30 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Edge" href=http://cashweaver.com/posts/edge/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Vertex
+</h2>
+</header>
+<div class=entry-content>
+<p>In mathematics, and more specifically in graph theory, a vertex (plural vertices) or node is the fundamental unit of which Graph are formed: an undirected graph consists of a set of vertices and a set of Edges (unordered pairs of vertices), while a directed graph consists of a set of vertices and a set of arcs (ordered pairs of vertices).
+(“Vertex (Graph Theory)” 2022)
+References .csl-entry{text-indent: -1.5em; margin-left: 1....</p>
+</div>
+<footer class=entry-footer><span title="2022-06-29 19:13:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:07:42 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Vertex" href=http://cashweaver.com/posts/vertex/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Adjacency list
+</h2>
+</header>
+<div class=entry-content>
+<p>In graph theory and computer science, an adjacency list is a collection of unordered lists used to represent a finite graph.
+(“Adjacency List” 2022)
+The above graph can be represented as the set \(S\) which contains \(\{B,C\}\), \(\{A,C\}\), \(\{B,A\}\).
+Vertices Edges A B, C B A, C C A, B References .csl-entry{text-indent: -1....</p>
+</div>
+<footer class=entry-footer><span title="2022-06-29 19:07:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:00:42 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Adjacency list" href=http://cashweaver.com/posts/adjacency_list/></a>
+</article>
+<footer class=page-footer>
+<nav class=pagination>
+<a class=prev href=http://cashweaver.com/posts/page/13/>
+«&nbsp;Prev&nbsp;
+</a>
+<a class=next href=http://cashweaver.com/posts/page/15/>Next&nbsp;&nbsp;»
+</a>
+</nav>
+</footer>
 </main>
 <footer class=footer>
 <span>&copy; 2022 <a href=http://cashweaver.com/>Cash Weaver</a></span>
 <span>
 Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
-        <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a>
+        <a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a>
 </span>
 </footer>
 <a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
