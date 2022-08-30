@@ -2,7 +2,7 @@
 title = "Bubble sort"
 author = ["Cash Weaver"]
 date = 2022-06-30T10:47:00-07:00
-lastmod = 2022-07-13T20:30:18-07:00
+lastmod = 2022-08-26T22:01:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

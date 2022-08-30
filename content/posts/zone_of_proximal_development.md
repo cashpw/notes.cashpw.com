@@ -2,7 +2,7 @@
 title = "Zone of Proximal Development"
 author = ["Cash Weaver"]
 date = 2022-03-13T18:48:00-07:00
-lastmod = 2022-07-13T20:39:29-07:00
+lastmod = 2022-08-26T22:08:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

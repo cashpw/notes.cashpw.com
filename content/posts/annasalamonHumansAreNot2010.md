@@ -2,13 +2,13 @@
 title = "Anna Salamon | Humans Are Not Automatically Strategic"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:45:00-08:00
-lastmod = 2022-07-13T20:29:23-07:00
+lastmod = 2022-08-26T22:00:58-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-[Anna Salamon]({{< relref "anna_salamon.md" >}}), (NO_ITEM_DATA:annasalamonHumansAreNot2010)
+[Anna Salamon]({{< relref "anna_salamon.md" >}}), (<a href="#citeproc_bib_item_1">Salamon 2010</a>)
 
 
 ## Summary {#summary}
@@ -40,5 +40,5 @@ draft = false
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:annasalamonHumansAreNot2010</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. 2010. “Humans Are Not Automatically Strategic.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic">https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic</a>.</div>
 </div>

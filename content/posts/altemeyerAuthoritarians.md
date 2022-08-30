@@ -2,7 +2,7 @@
 title = "Bob Altemeyer | The Authoritarians"
 author = ["Cash Weaver"]
 date = 2022-06-25T19:12:00-07:00
-lastmod = 2022-07-13T20:29:17-07:00
+lastmod = 2022-08-26T22:00:54-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

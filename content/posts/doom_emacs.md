@@ -2,7 +2,7 @@
 title = "Doom Emacs"
 author = ["Cash Weaver"]
 date = 2022-02-06T09:04:00-08:00
-lastmod = 2022-07-13T20:31:43-07:00
+lastmod = 2022-08-26T22:02:25-07:00
 draft = false
 roam_refs = ["https://github.com/hlissner/doom-emacs"]
 +++

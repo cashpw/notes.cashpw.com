@@ -2,7 +2,7 @@
 title = "Ian Danskin | I Hate Mondays"
 author = ["Cash Weaver"]
 date = 2022-06-26T09:29:00-07:00
-lastmod = 2022-07-13T20:31:08-07:00
+lastmod = 2022-08-26T22:02:06-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -16,9 +16,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 ## Summary {#summary}
 
 I hate mondays is an embrace of coping strategies and a refusal to address a problem stemming from the belief that the problem is unfixable.
-
-
-## Thoughts {#thoughts}
 
 
 ## Notes {#notes}

@@ -2,13 +2,13 @@
 title = "Stephen Kuenzli | Key Practices for Achieving Large Professional Goals"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:49:00-08:00
-lastmod = 2022-07-13T20:33:45-07:00
+lastmod = 2022-08-26T22:03:53-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-[Stephen Kuenzli]({{< relref "stephen_kuenzli.md" >}}), (NO_ITEM_DATA:kuenzliKeyPracticesAchievingLargeProfessionalGoals2019)
+[Stephen Kuenzli]({{< relref "stephen_kuenzli.md" >}}), (<a href="#citeproc_bib_item_1">Kuenzli 2019</a>)
 
 
 ## Summary {#summary}
@@ -56,5 +56,5 @@ I've added an "End the Day" event to my calendar for the last 15 minutes of the 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:kuenzliKeyPracticesAchievingLargeProfessionalGoals2019</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuenzli, Stephen. 2019. “Key Practices for Achieving Large Professional Goals.” <i>\#Nodrama Devops</i>. <a href="https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/">https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/</a>.</div>
 </div>

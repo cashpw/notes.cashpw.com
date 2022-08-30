@@ -2,7 +2,7 @@
 title = "Custom Anki Notes"
 author = ["Cash Weaver"]
 date = 2022-03-11T11:30:00-08:00
-lastmod = 2022-07-13T20:30:53-07:00
+lastmod = 2022-08-26T22:01:59-07:00
 draft = false
 +++
 

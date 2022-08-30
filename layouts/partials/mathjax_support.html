@@ -4,7 +4,13 @@
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$','$$'], ['\\[', '\\]']],
       processEscapes: true,
-      processEnvironments: true
+      processEnvironments: true,
+      macros: {
+        bigo: ["{\\href{/posts/big_o_notation}{O}}(#1)", 1],
+        littleo: ["{\\href{/posts/little_o_notation}{o}}(#1)", 1],
+        bigtheta: ["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)", 1],
+        bigomega: ["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)", 1],
+      },
     },
     options: {
       skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']

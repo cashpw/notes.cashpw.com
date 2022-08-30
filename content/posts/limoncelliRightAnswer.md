@@ -2,7 +2,7 @@
 title = "Tom Limoncelli | The Right Answer"
 author = ["Cash Weaver"]
 date = 2022-02-21T15:50:00-08:00
-lastmod = 2022-07-13T20:33:58-07:00
+lastmod = 2022-08-26T22:04:03-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

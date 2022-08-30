@@ -1,15 +1,17 @@
 +++
-title = "Dan Moore | Cultivate the Skill of Undivided Attention, or \"Deep Work\""
+title = """
+  Dan Moore | Cultivate the Skill of Undivided Attention, or "Deep Work"
+  """
 author = ["Cash Weaver"]
 date = 2022-02-06T16:00:00-08:00
-lastmod = 2022-07-13T20:34:40-07:00
+lastmod = 2022-08-26T22:04:35-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 roam_refs = ["https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/"]
 +++
 
-[Dan Moore]({{< relref "dan_moore.md" >}}), (NO_ITEM_DATA:mooredsCultivateSkillUndividedAttentionDeepWork2019)
+[Dan Moore]({{< relref "dan_moore.md" >}}), (<a href="#citeproc_bib_item_1">Moores 2019</a>)
 
 
 ## Summary {#summary}
@@ -45,5 +47,5 @@ roam_refs = ["https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:mooredsCultivateSkillUndividedAttentionDeepWork2019</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Moores, Dan. 2019. “Cultivate the Skill of Undivided Attention, or ``Deep Work’’.” <i>Letters to a New Developer</i>. <a href="https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/">https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/</a>.</div>
 </div>

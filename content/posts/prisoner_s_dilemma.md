@@ -2,17 +2,17 @@
 title = "Prisoner's Dilemma"
 author = ["Cash Weaver"]
 date = 2022-03-14T07:01:00-07:00
-lastmod = 2022-07-13T20:35:25-07:00
+lastmod = 2022-08-26T22:05:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 +++
 
-> The prisoner's dilemma is a standard example of a game analyzed in game theory that shows why two completely rational individuals might not cooperate, even if it appears that it is in their best interests to do so.
+> The prisoner's dilemma is a standard example of a game analyzed in [Game theory]({{< relref "game_theory.md" >}}) that shows why two completely rational individuals might not cooperate, even if it appears that it is in their best interests to do so.
 >
 > (<a href="#citeproc_bib_item_1">“Prisoner’s Dilemma” 2022</a>)
 
-See [game theory]({{< relref "game_theory.md" >}}).
+An example of a [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}}).
 
 > Two members of a criminal organization are arrested and imprisoned. Each prisoner is in solitary confinement with no means of communicating with the other. The prosecutors lack sufficient evidence to convict the pair on the principal charge, but they have enough to convict both on a lesser charge. Simultaneously, the prosecutors offer each prisoner a bargain. Each prisoner is given the opportunity either to betray the other by testifying that the other committed the crime, or to cooperate with the other by remaining silent. The possible outcomes are:
 >

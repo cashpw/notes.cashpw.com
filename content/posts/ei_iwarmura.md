@@ -2,7 +2,7 @@
 title = "Ei Iwarmura"
 author = ["Cash Weaver"]
 date = 2022-03-13T14:07:00-07:00
-lastmod = 2022-07-13T20:31:54-07:00
+lastmod = 2022-08-26T22:02:32-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

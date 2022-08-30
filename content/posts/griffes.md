@@ -2,7 +2,7 @@
 title = "Milan Griffes | (A)"
 author = ["Cash Weaver"]
 date = 2022-02-06T13:12:00-08:00
-lastmod = 2022-07-13T20:32:53-07:00
+lastmod = 2022-08-26T22:03:08-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Lint Your Prose"
 author = ["Cash Weaver"]
 date = 2022-03-12T10:04:00-08:00
-lastmod = 2022-07-13T20:34:02-07:00
+lastmod = 2022-08-26T22:04:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

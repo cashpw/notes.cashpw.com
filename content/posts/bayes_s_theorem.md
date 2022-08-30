@@ -2,7 +2,7 @@
 title = "Bayes's Theorem"
 author = ["Cash Weaver"]
 date = 2022-04-01T18:45:00-07:00
-lastmod = 2022-07-13T20:29:46-07:00
+lastmod = 2022-08-26T22:01:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -10,13 +10,13 @@ draft = false
 
 \\[P(A|B) = \frac{P(B|A)P(A)}{P(B)}\\]
 
-(NO_ITEM_DATA:yudkowskyIntuitiveExplanationBayesTheorem)
+(<a href="#citeproc_bib_item_2">Yudkowsky n.d.</a>)
 
-(NO_ITEM_DATA:explainedIntuitiveShortExplanationBayesTheorem)
+(<a href="#citeproc_bib_item_1">Explained n.d.</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:yudkowskyIntuitiveExplanationBayesTheorem</div>
-  <div class="csl-entry">NO_ITEM_DATA:explainedIntuitiveShortExplanationBayesTheorem</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Explained, Better. n.d. “An Intuitive (and Short) Explanation of Bayes’ Theorem.” Accessed April 2, 2022. <a href="https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/">https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Yudkowsky, Eliezer. n.d. “An Intuitive Explanation of Bayes’ Theorem.” Accessed April 2, 2022. <a href="https://www.yudkowsky.net/rational/bayes">https://www.yudkowsky.net/rational/bayes</a>.</div>
 </div>

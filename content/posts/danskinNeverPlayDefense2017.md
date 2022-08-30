@@ -2,7 +2,7 @@
 title = "Ian Danskin | Never Play Defense"
 author = ["Cash Weaver"]
 date = 2022-06-25T17:23:00-07:00
-lastmod = 2022-07-13T20:31:13-07:00
+lastmod = 2022-08-26T22:02:08-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -16,9 +16,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 ## Summary {#summary}
 
 You can convince an audience that you're winning an argument, or at least plant doubts in their head, by holding an offensive posture. Display the outward signs of winning -- confidence, always have a comeback, speak in soundbites, attack attack attack -- and the audience may think that you won even if your opponent refutes your argument.
-
-
-## Thoughts {#thoughts}
 
 
 ## Notes {#notes}

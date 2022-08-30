@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Death of a Euphemism"
 author = ["Cash Weaver"]
 date = 2022-06-25T20:19:00-07:00
-lastmod = 2022-07-13T20:31:05-07:00
+lastmod = 2022-08-26T22:02:04-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -20,9 +20,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 > [...]
 >
 > To the Far Right, a euphemism is like a calf: something to be brought into this world or inherited, removed from its original context, raised to adolescence, and then slaughtered when the time is right. Historically, the first sign that things are about to get a lot worse for minorities is when the racism stops being euphemistic.
-
-
-## Thoughts {#thoughts}
 
 
 ## Notes {#notes}

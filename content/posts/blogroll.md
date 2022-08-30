@@ -2,7 +2,7 @@
 title = "Blogroll"
 author = ["Cash Weaver"]
 date = 2022-01-30T11:59:00-08:00
-lastmod = 2022-07-13T20:30:06-07:00
+lastmod = 2022-08-26T22:01:26-07:00
 draft = false
 +++
 

@@ -2,7 +2,7 @@
 title = "Once Revealed to Me in a Dream"
 author = ["Cash Weaver"]
 date = 2022-02-05T12:50:00-08:00
-lastmod = 2022-07-13T20:34:55-07:00
+lastmod = 2022-08-26T22:04:54-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

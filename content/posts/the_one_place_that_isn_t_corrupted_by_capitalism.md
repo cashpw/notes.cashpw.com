@@ -2,7 +2,7 @@
 title = "The One Place That Isn't Corrupted By Capitalism"
 author = ["Cash Weaver"]
 date = 2022-04-01T16:30:00-07:00
-lastmod = 2022-07-13T20:38:23-07:00
+lastmod = 2022-08-26T22:07:01-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

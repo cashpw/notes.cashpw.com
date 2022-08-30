@@ -2,7 +2,7 @@
 title = "Five Sentences"
 author = ["Cash Weaver"]
 date = 2022-02-15T13:21:00-08:00
-lastmod = 2022-07-13T20:28:17-07:00
+lastmod = 2022-08-26T22:00:19-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

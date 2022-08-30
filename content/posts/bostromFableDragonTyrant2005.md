@@ -2,7 +2,7 @@
 title = "Nick Bostrom | The Fable of the Dragon Tyrant"
 author = ["Cash Weaver"]
 date = 2022-06-20T20:17:00-07:00
-lastmod = 2022-07-13T20:30:11-07:00
+lastmod = 2022-08-26T22:01:29-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -131,15 +131,6 @@ draft = false
 > The king, however, answered in a broken voice: "Yes, we did it, we killed the dragon today. But damn, why did we start so late? This could have been done five, maybe ten years ago! Millions of people wouldn't have had to die."
 >
 > The king stepped off the platform and walked up to the young man in handcuffs, who was sitting on the ground. There he fell down on his knees. "Forgive me! Oh my God, please forgive me!"
-
-
-## Summary {#summary}
-
-
-## Thoughts {#thoughts}
-
-
-## Notes {#notes}
 
 ## References
 

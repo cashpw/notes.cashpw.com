@@ -2,7 +2,7 @@
 title = "Scott Alexander | Meditations On Moloch"
 author = ["Cash Weaver"]
 date = 2022-03-13T20:30:00-07:00
-lastmod = 2022-07-13T20:29:04-07:00
+lastmod = 2022-08-26T22:00:48-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -18,9 +18,6 @@ Systems compel the individuals within them to act within the rules of the system
 Related:
 
 -   [Tragedy of the Commons]({{< relref "tragedy_of_the_commons.md" >}})
-
-
-## Thoughts {#thoughts}
 
 
 ## Notes {#notes}
@@ -78,7 +75,7 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 #### Malthusian trap {#malthusian-trap}
 
-> Suppose you are one of the first rats introduced onto a pristine island. It is full of yummy plants and you live an idyllic life lounging about, eating, and composing great works of art (you're one of those rats from [_The Rats of NIMH_](http://www.amazon.com/gp/product/0689710682/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0689710682&linkCode=as2&tag=slastacod-20&linkId=BRZZD37E45RNQI3R)<https://ir-na.amazon-adsystem.com/e/ir?t=slastacod-20&l=as2&o=1&a=0689710682>).
+> Suppose you are one of the first rats introduced onto a pristine island. It is full of yummy plants and you live an idyllic life lounging about, eating, and composing great works of art (you're one of those rats from _The Rats of NIMH_).
 >
 > You live a long life, mate, and have a dozen children. All of them have a dozen children, and so on. In a couple generations, the island has ten thousand rats and has reached its carrying capacity. Now there's not enough food and space to go around, and a certain percent of each new generation dies in order to keep the population steady at ten thousand.
 >
@@ -109,6 +106,9 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 ### II {#ii}
 
 > A basic principle unites all of the multipolar traps above. In some competition optimizing for X, the opportunity arises to throw some other value under the bus for improved X. Those who take it prosper. Those who don't take it die out. Eventually, everyone's relative status is about the same as before, but everyone's absolute status is worse than before. The process continues until all other values that can be traded off have been – in other words, until human ingenuity cannot possibly figure out a way to make things any worse.
+
+
+#### Reference star wars "make the only choice we can" choice {#reference-star-wars-make-the-only-choice-we-can-choice}
 
 
 ### III {#iii}

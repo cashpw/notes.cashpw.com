@@ -2,13 +2,13 @@
 title = "Paul Graham | How to Write Usefully"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:42:00-08:00
-lastmod = 2022-07-13T20:28:18-07:00
+lastmod = 2022-08-26T22:00:20-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-[Paul Graham]({{< relref "paul_graham.md" >}}), (NO_ITEM_DATA:HowWriteUsefully)
+[Paul Graham]({{< relref "paul_graham.md" >}}), (<a href="#citeproc_bib_item_1">Graham n.d.</a>)
 
 
 ## Summary {#summary}
@@ -65,5 +65,5 @@ Additionally, for Graham, a useful essay is one which says things as simply as p
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:HowWriteUsefully</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Graham, Paul. n.d. “How to Write Usefully.” Accessed February 7, 2022. <a href="http://paulgraham.com/useful.html">http://paulgraham.com/useful.html</a>.</div>
 </div>

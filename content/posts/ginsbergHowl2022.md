@@ -2,7 +2,7 @@
 title = "Allen Ginsberg | Howl"
 author = ["Cash Weaver"]
 date = 2022-03-13T20:20:00-07:00
-lastmod = 2022-07-13T20:32:37-07:00
+lastmod = 2022-08-26T22:02:58-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -13,7 +13,7 @@ draft = false
 
 ## I {#i}
 
-<p class="verse">
+<div class="verse">
 
 I saw the best minds of my generation destroyed by madness, starving hysterical naked,<br />
 dragging themselves through the negro streets at dawn looking for an angry fix,<br />
@@ -94,12 +94,12 @@ the madman bum and angel beat in Time, unknown, yet putting down here what might
 and rose reincarnate in the ghostly clothes of jazz in the goldhorn shadow of the band and blew the suffering of America's naked mind for love into an eli eli lamma lamma sabacthani saxophone cry that shivered the cities down to the last radio<br />
 with the absolute heart of the poem of life butchered out of their own bodies good to eat a thousand years.<br />
 
-</p>
+</div>
 
 
 ## II {#ii}
 
-<p class="verse">
+<div class="verse">
 
 What sphinx of cement and aluminum bashed open their skulls and ate up their brains and imagination?<br />
 Moloch! Solitude! Filth! Ugliness! Ashcans and unobtainable dollars! Children screaming under the stairways! Boys sobbing in armies! Old men weeping in the parks!<br />
@@ -117,12 +117,12 @@ Dreams! adorations! illuminations! religions! the whole boatload of sensitive bu
 Breakthroughs! over the river! flips and crucifixions! gone down the flood! Highs! Epiphanies! Despairs! Ten years' animal screams and suicides! Minds! New loves! Mad generation! down on the rocks of Time!<br />
 Real holy laughter in the river! They saw it all! the wild eyes! the holy yells! They bade farewell! They jumped off the roof! to solitude! waving! carrying flowers! Down to the river! into the street!<br />
 
-</p>
+</div>
 
 
 ## III {#iii}
 
-<p class="verse">
+<div class="verse">
 
 Carl Solomon! I'm with you in Rockland<br />
 &nbsp;&nbsp;&nbsp;where you're madder than I am<br />
@@ -163,7 +163,7 @@ I'm with you in Rockland<br />
 I'm with you in Rockland<br />
 &nbsp;&nbsp;&nbsp;in my dreams you walk dripping from a sea-journey on the highway across America in tears to the door of my cottage in the Western night<br />
 
-</p>
+</div>
 
 [Footnote to Howl]({{< relref "footnote_to_howl.md" >}})
 

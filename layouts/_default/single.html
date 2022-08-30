@@ -13,22 +13,22 @@
     </div>
     {{- end }}
     {{- if not (.Param "hideMeta") }}
-      <div class="post-meta">
-        {{- partial "post_meta.html" . -}}
-        {{- partial "translation_list.html" . -}}
-        {{- partial "post_canonical.html" . -}}
-      </div>
-      <div class="post-meta">
-        {{- partial "edit_post.html" . -}}
-      </div>
-      <div class="post-meta post-references">
-        {{- partial "post_references.html" . -}}
-      </div>
-      <div class="post-meta post-references">
-        {{- partial "post_aliases.html" . -}}
-      </div>
-      {{- partial "post_tags.html" . -}}
-   {{- end }}
+    <div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+      {{- partial "translation_list.html" . -}}
+      {{- partial "post_canonical.html" . -}}
+    </div>
+    <div class="post-meta">
+      {{- partial "edit_post.html" . -}}
+    </div>
+    <div class="post-meta post-references">
+      {{- partial "post_references.html" . -}}
+    </div>
+    <div class="post-meta post-references">
+      {{- partial "post_aliases.html" . -}}
+    </div>
+    {{- partial "post_tags.html" . -}}
+  {{- end }}
   </header>
   {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default .Site.Params.cover.hidden }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}

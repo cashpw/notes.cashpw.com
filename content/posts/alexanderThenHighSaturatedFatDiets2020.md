@@ -2,7 +2,7 @@
 title = "Scott Alexander | For, Then Against, High-Saturated-Fat Diets"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:33:00-08:00
-lastmod = 2022-07-13T20:29:09-07:00
+lastmod = 2022-08-26T22:00:51-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -12,6 +12,8 @@ draft = false
 
 
 ## Summary {#summary}
+
+Discussion, without firm conclusion, regarding the source of the American obesity epidemic.
 
 
 ## Thoughts {#thoughts}
@@ -33,12 +35,9 @@ It stands out because Scott specifically mentions the edge of his research and y
 I found myself nodding along to this paragraph as I read. I've had the same thought with the same (inferred) sense of exasperation.
 
 
-#### Pareto principle linked and node created {#pareto-principle-linked-and-node-created}
-
-
 ## Notes {#notes}
 
-> In the 1800s, the average US man weighed about 155 lbs. Today, he weighs about 195. The change is even starker at the extremes. Someone at the 90th percentile of weight back then weighed about 185 lbs; today, he would weigh 320 lbs. Back then, about 1% of men were obese. Today, about 25% are.
+> In the 1800s, the average US man [weighed about](https://voxeu.org/article/100-years-us-obesity) 155 lbs. Today, he weighs about 195. The change is even starker at the extremes. Someone at the 90th percentile of weight back then weighed about 185 lbs; today, he would weigh 320 lbs. Back then, [about 1%](https://www.econstor.eu/bitstream/10419/80491/1/cesifo_wp4366.pdf) of men were obese. Today, about 25% are.
 
 <!--quoteend-->
 
@@ -47,11 +46,6 @@ I found myself nodding along to this paragraph as I read. I've had the same thou
 <!--quoteend-->
 
 > The only common villain everyone agrees on in the obesity story is "processed food". I've previously found this frustrating – it reeks of a sort of unreflective technophobia. What part of processing makes food bad? How does mere contact with a machine turn food from healthy to unhealthy? What food counts as "processed" or "not processed"? Is ground beef processed, since you grind it? Are scrambled eggs processed, since you scramble them? Is bread processed, since wheat doesn't grow in loaves? Is water processed, since it goes through water processing facilities? Is the Eucharist processed, even though the processing only changes its metaphysical essence and not its physical properties? Everybody I ask acts like the answers to these questions are obvious, but everyone has different answers, and nobody can tell me their decision procedure.
->
-> to be something like "the body is pretty good at regulating its own weight under any diet except modern American processed food." But what aspect of processed food makes it bad?
-
-
-### Add links to quote with "In the 1800's" {#add-links-to-quote-with-in-the-1800-s}
 
 ## References
 

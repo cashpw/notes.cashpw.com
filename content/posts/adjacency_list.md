@@ -2,7 +2,7 @@
 title = "Adjacency list"
 author = ["Cash Weaver"]
 date = 2022-06-29T19:07:00-07:00
-lastmod = 2022-07-13T20:28:52-07:00
+lastmod = 2022-08-26T22:00:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Clary Illian | A Potter's Workbook."
 author = ["Cash Weaver"]
 date = 2022-02-06T15:34:00-08:00
-lastmod = 2022-07-13T20:33:18-07:00
+lastmod = 2022-08-26T22:03:30-07:00
 tags = ["reference"]
 draft = false
 +++
@@ -66,7 +66,7 @@ draft = false
 
 > The cause of round-bottomed pots is a failure to open up a wide enough floor with crisp right-angled corners before pulling up the walls (figure 44).
 
-[Figure 44](~/Pictures/screenshots/2021-12-11-13-23-54_screenshot.png)
+[Figure 44](/ox-hugo/2021-12-11-13-23-54_screenshot.png)
 
 
 #### Pitchers {#pitchers}
@@ -89,45 +89,23 @@ draft = false
 
 #### Pots with Lids {#pots-with-lids}
 
-<!--list-separator-->
-
--  TODO
-
 
 #### Learning to See {#learning-to-see}
-
-<!--list-separator-->
-
--  TODO
 
 
 #### Style and Voice {#style-and-voice}
 
-<!--list-separator-->
-
--  TODO
-
 
 #### Utility and Tradition {#utility-and-tradition}
-
-<!--list-separator-->
-
--  TODO
 
 
 #### Place {#place}
 
-<!--list-separator-->
-
--  TODO
-
 
 #### Notes {#notes}
 
-<!--list-separator-->
+## References
 
--  TODO
-
-    <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-      <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Illian, Clary. 2012. <i>A Potter’s Workbook.</i> Iowa: University of Iowa Press. <a href="http://public.eblib.com/choice/publicfullrecord.aspx?p=951113">http://public.eblib.com/choice/publicfullrecord.aspx?p=951113</a>.</div>
-    </div>
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Illian, Clary. 2012. <i>A Potter’s Workbook.</i> Iowa: University of Iowa Press. <a href="http://public.eblib.com/choice/publicfullrecord.aspx?p=951113">http://public.eblib.com/choice/publicfullrecord.aspx?p=951113</a>.</div>
+</div>

@@ -2,13 +2,11 @@
 title = "Be Explicit"
 author = ["Cash Weaver"]
 date = 2022-02-20T10:59:00-08:00
-lastmod = 2022-07-13T20:29:48-07:00
+lastmod = 2022-08-26T22:01:13-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 +++
-
-## TODO {#todo}
 
 -   Prefer being explicit rather than implicit in writing, etc
     -   Easier for newcomers, or yourself at a later date, to understand as the context is right there rather than assumed knowledge

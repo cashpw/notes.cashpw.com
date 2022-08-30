@@ -2,13 +2,13 @@
 title = "Binary tree"
 author = ["Cash Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-07-13T20:30:01-07:00
+lastmod = 2022-08-26T22:01:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 +++
 
-> In computer science, a binary tree is a tree [[Tree]({{< relref "tree.md" >}})] data structure [[Data structure]({{< relref "data_structures.md" >}})] in which each node has at most two children, which are referred to as the left child and the right child.
+> In computer science, a binary tree is a [Tree]({{< relref "tree.md" >}}) [Data structure]({{< relref "data_structures.md" >}}) in which each node has at most two children, which are referred to as the left child and the right child.
 >
 > (<a href="#citeproc_bib_item_1">“Binary Tree” 2022</a>)
 

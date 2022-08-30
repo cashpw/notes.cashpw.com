@@ -2,7 +2,7 @@
 title = "Perfect binary tree"
 author = ["Cash Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-07-13T20:35:07-07:00
+lastmod = 2022-08-26T22:05:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

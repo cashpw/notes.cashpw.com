@@ -2,7 +2,7 @@
 title = "Works in Progress"
 author = ["Cash Weaver"]
 date = 2022-02-18T17:26:00-08:00
-lastmod = 2022-07-13T20:39:17-07:00
+lastmod = 2022-08-26T22:07:51-07:00
 draft = false
 +++
 

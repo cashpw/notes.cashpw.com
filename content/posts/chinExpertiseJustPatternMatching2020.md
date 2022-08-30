@@ -2,13 +2,13 @@
 title = "Cedric Chin | Expertise Is 'Just' Pattern Matching"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:53:00-08:00
-lastmod = 2022-07-13T20:30:36-07:00
+lastmod = 2022-08-26T22:01:43-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinExpertiseJustPatternMatching2020)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
 ## Summary {#summary}
@@ -46,5 +46,5 @@ See [Tacit Knowledge]({{< relref "tacit_knowledge.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinExpertiseJustPatternMatching2020</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “Expertise Is ’Just’ Pattern Matching.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/expertise-is-just-pattern-matching/">https://commoncog.com/blog/expertise-is-just-pattern-matching/</a>.</div>
 </div>

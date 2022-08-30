@@ -2,7 +2,7 @@
 title = "Reverse cargo cult"
 author = ["Cash Weaver"]
 date = 2022-06-23T15:45:00-07:00
-lastmod = 2022-07-13T20:37:13-07:00
+lastmod = 2022-08-26T22:05:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,12 @@ draft = false
 >
 > 1980s Soviets knew that their government was lying to them about the strength and power of their society, the Communist Party couldn't hide all of the dysfunctions people saw on a daily basis. This didn't stop the Soviet leadership from lying. Instead, they just accused the West of being equally deceptive. "Sure, things might be bad here, but they are just as bad in America, and in America people are actually foolish enough to believe in the lie! Not like you, clever people. You get it. You know it is a lie."
 >
-> (NO_ITEM_DATA:howeTrumpReverseCargoCult2017)
+> (<a href="#citeproc_bib_item_1">Howe 2017</a>)
 
 Also see [Cargo cult]({{< relref "cargo_cult.md" >}}).
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:howeTrumpReverseCargoCult2017</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Howe, Hans. 2017. “Trump and the Reverse Cargo Cult.” <i>Hans Howe</i>. <a href="https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/">https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/</a>.</div>
 </div>

@@ -2,13 +2,13 @@
 title = "Ian Danskin | You Go High, We Go Low"
 author = ["Cash Weaver"]
 date = 2022-06-26T08:11:00-07:00
-lastmod = 2022-07-13T20:31:18-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-08-26T22:02:10-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (NO_ITEM_DATA:danskinYouGoHighWeGoLow2018)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2018</a>)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -16,9 +16,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 ## Summary {#summary}
 
 Going low is a manifestation of [playing to win]({{< relref "play_to_win.md" >}}) -- it's a focus on the ends justifying the means. It works most effectively when opposed by a group which holds the means as sacred and would rather not focus on the ends.
-
-
-## Thoughts {#thoughts}
 
 
 ## Notes {#notes}
@@ -60,5 +57,5 @@ Going low is a manifestation of [playing to win]({{< relref "play_to_win.md" >}}
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:danskinYouGoHighWeGoLow2018</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2018. “You Go High, We Go Low.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/179749702607/new-video-essay-this-one-is-about-how">https://innuendostudios.tumblr.com/post/179749702607/new-video-essay-this-one-is-about-how</a>.</div>
 </div>

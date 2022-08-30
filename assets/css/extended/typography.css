@@ -17,3 +17,7 @@
 table td {
     vertical-align: top;
 }
+
+.post-content .footnotes li blockquote p {
+    margin-bottom: inherit;
+}

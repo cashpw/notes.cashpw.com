@@ -2,13 +2,16 @@
 title = "Neel Nanda | Meaningful Rest"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:52:00-08:00
-lastmod = 2022-07-13T20:34:45-07:00
+lastmod = 2022-08-26T22:04:39-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 +++
 
 [Neel Nanda]({{< relref "neel_nanda.md" >}}), (<a href="#citeproc_bib_item_1">Nanda n.d.</a>)
+
+
+## Create concept post for the idea of engaging in meaningful rest {#create-concept-post-for-the-idea-of-engaging-in-meaningful-rest}
 
 
 ## Summary {#summary}

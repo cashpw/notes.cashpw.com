@@ -2,7 +2,7 @@
 title = "For the lulz"
 author = ["Cash Weaver"]
 date = 2022-06-25T18:19:00-07:00
-lastmod = 2022-07-13T20:32:19-07:00
+lastmod = 2022-08-26T22:02:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

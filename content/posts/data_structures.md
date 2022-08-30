@@ -2,7 +2,7 @@
 title = "Data structures"
 author = ["Cash Weaver"]
 date = 2022-06-27T19:44:00-07:00
-lastmod = 2022-07-13T20:31:21-07:00
+lastmod = 2022-08-26T22:02:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,8 @@ draft = false
 
 ## Sizes {#sizes}
 
--   [Implicit data structure]({{< relref "implicit_data_structure.md" >}}): \\(Z+O(1)\\) (see [Big O notation]({{< relref "asymptotic_notation.md#big-o-notation" >}}))
--   [Succinct data structure]({{< relref "succinct_data_structure.md" >}}): \\(Z+o(Z)\\) (see [Little-o notation]({{< relref "asymptotic_notation.md#little-o-notation" >}}))
+-   [Implicit data structure]({{< relref "implicit_data_structure.md" >}}): \\(Z+O(1)\\) (see [Big O notation]({{< relref "big_o_notation.md" >}}))
+-   [Succinct data structure]({{< relref "succinct_data_structure.md" >}}): \\(Z+o(Z)\\) (see [Little-o notation]({{< relref "little_o_notation.md" >}}))
 
 ## References
 

@@ -2,7 +2,7 @@
 title = "Cognitive dissonance"
 author = ["Cash Weaver"]
 date = 2022-06-25T17:29:00-07:00
-lastmod = 2022-07-13T20:30:44-07:00
+lastmod = 2022-08-26T22:01:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

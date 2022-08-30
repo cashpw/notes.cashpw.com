@@ -2,7 +2,7 @@
 title = "Ian Danskin | Always a Bigger Fish"
 author = ["Cash Weaver"]
 date = 2022-06-26T08:54:00-07:00
-lastmod = 2022-07-13T20:30:57-07:00
+lastmod = 2022-08-26T22:02:01-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -16,9 +16,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 ## Summary {#summary}
 
 Conservatives tend to think in hierarchies -- like a capitalist -- while liberals tend to think democratically -- like an egalitarian.
-
-
-## Thoughts {#thoughts}
 
 
 ## Notes {#notes}
@@ -51,7 +48,7 @@ Conservatives tend to think in hierarchies -- like a capitalist -- while liberal
 >
 > Conservatives are distrustful of any effort to make society more equal because, deep down, they don't believe equal societies are real. Obviously, "all citizens created equal" needs to be the government's position, because you can't trust the government to know where to put people, so it has to treat everyone the same. But this is a legal fiction, like corporate personhood. It just means "the government leaves the market alone so the hierarchy can reveal itself." You're not supposed to believe in an equal distribution of power. What are you, seven? This is just the way the world is. Look at alpha wolves, silverbacks; consider the lobster.
 >
-> You are one, single individual within a system, and it is your job to rise or fall within it on the sweat of your own back. You don't change the system. Society's problems come from the rules being too weakly enforced. The answer is always more discipline. Your conservative friend thinks you're naive for thinking the system even can be changed, and his is the charitable interpretation! Many conservatives assume liberals - at least, the smart liberals - know that the hierarchy is eternal, that there will always be people at the top and people at the bottom, so any claim towards making things equal must be a Trojan horse for something that benefits them. (Why would they assume that? Because that's what they do.) The real liberal agenda is to put people in the wrong places on purpose. Boost liberal allies, hold back liberal opposition. You don't want to break up the pyramid, you're just trying to sneak someone else to the top.
+> You are one, single individual within a system, and it is your job to rise or fall within it on the sweat of your own back. You don't change the system. Society's problems come from the rules being too weakly enforced. The answer is always more discipline. Your conservative friend thinks you're naive for thinking the system even can be changed, and his is the charitable interpretation! Many conservatives assume liberals - at least, the smart liberals - know that the hierarchy is eternal, that there will always be people at the top and people at the bottom, so any claim towards making things equal must be a Trojan horse for something that benefits them [[Realpolitik]({{< relref "real_politic.md" >}})]. (Why would they assume that? Because that's what they do.) The real liberal agenda is to put people in the wrong places on purpose. Boost liberal allies, hold back liberal opposition. You don't want to break up the pyramid, you're just trying to sneak someone else to the top.
 
 <!--quoteend-->
 

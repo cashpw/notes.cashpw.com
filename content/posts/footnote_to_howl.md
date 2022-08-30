@@ -2,13 +2,13 @@
 title = "Footnote to Howl"
 author = ["Cash Weaver"]
 date = 2022-03-14T08:54:00-07:00
-lastmod = 2022-07-13T20:32:17-07:00
+lastmod = 2022-08-26T22:02:46-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
 +++
 
-<p class="verse">
+<div class="verse">
 
 Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy!<br />
 The world is holy! The soul is holy! The skin is holy! The nose is holy! The tongue and cock and hand and asshole holy!<br />
@@ -26,7 +26,7 @@ Holy the sea holy the desert holy the railroad holy the locomotive holy the visi
 Holy forgiveness! mercy! charity! faith! Holy! Ours! bodies! suffering! magnanimity!<br />
 Holy the supernatural extra brilliant intelligent kindness of the soul!<br />
 
-</p>
+</div>
 
 [Allen Ginsberg]({{< relref "allen_ginsberg.md" >}}), (<a href="#citeproc_bib_item_1">Ginsberg 2022</a>)
 

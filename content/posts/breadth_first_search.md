@@ -2,7 +2,7 @@
 title = "Breadth-first search"
 author = ["Cash Weaver"]
 date = 2022-06-29T17:20:00-07:00
-lastmod = 2022-07-13T20:30:14-07:00
+lastmod = 2022-08-26T22:01:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,11 +34,10 @@ Based on the algorithm in (<a href="#citeproc_bib_item_1">“Breadth-First Searc
 
 ## Complexity {#complexity}
 
-
-### Time {#time}
-
-
-### Space {#space}
+|       | Worst-case                             |
+|-------|----------------------------------------|
+| Time  | \\(O(\href{/posts/cardinality}{\vert V \vert} + \href{/posts/cardinality}{\vert E \vert})\\) |
+| Space | \\(O(\href{/posts/cardinality}{\vert V \vert})\\)                 |
 
 ## References
 

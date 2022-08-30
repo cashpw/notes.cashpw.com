@@ -2,7 +2,7 @@
 title = "Moloch"
 author = ["Cash Weaver"]
 date = 2022-03-13T20:24:00-07:00
-lastmod = 2022-07-13T20:34:37-07:00
+lastmod = 2022-08-26T22:04:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -12,3 +12,8 @@ Among other things,
 
 -   Carthaginian demon
 -   Personification of forces and systems which compel individuals to race to the bottom (see [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}), [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}}))
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

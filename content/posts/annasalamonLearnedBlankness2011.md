@@ -2,7 +2,7 @@
 title = "Anna Salamon | Learned Blankness"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:49:00-08:00
-lastmod = 2022-07-13T20:29:25-07:00
+lastmod = 2022-08-26T22:00:59-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

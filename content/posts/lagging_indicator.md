@@ -2,7 +2,7 @@
 title = "Lagging Indicator"
 author = ["Cash Weaver"]
 date = 2022-01-28T08:07:00-08:00
-lastmod = 2022-07-13T20:33:54-07:00
+lastmod = 2022-08-26T22:03:59-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

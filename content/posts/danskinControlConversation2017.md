@@ -2,7 +2,7 @@
 title = "Ian Danskin | Control the Conversation"
 author = ["Cash Weaver"]
 date = 2022-06-25T16:31:00-07:00
-lastmod = 2022-07-13T20:31:02-07:00
+lastmod = 2022-08-26T22:02:03-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -16,9 +16,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 ## Summary {#summary}
 
 Broadly, controlling the conversation is about making people talk about what you want them to talk about. More specifically, it's about what you make them talk about. Structure debate, conversation, etc, based on the idea that the [goal is to win]({{< relref "play_to_win.md" >}}). [Move the goalposts]({{< relref "moving_the_goalposts.md" >}}) while also redefining the rules by which you win the underlying game.
-
-
-## Thoughts {#thoughts}
 
 
 ## Notes {#notes}

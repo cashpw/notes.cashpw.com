@@ -1,0 +1,25 @@
++++
+title = "Transpose"
+author = ["Cash Weaver"]
+date = 2022-08-21T05:35:00-07:00
+lastmod = 2022-08-26T22:07:24-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
+draft = false
++++
+
+> In linear algebra, the transpose of a matrix is an operator which flips a matrix over its diagonal; that is, it switches the row and column indices of the matrix \\(A\\) by producing another matrix, often denoted by \\(A^{\textsf{T}}\\) (among other notations).
+>
+> (<a href="#citeproc_bib_item_1">“Transpose” 2022</a>)
+
+\\(A = \begin{bmatrix}1 & 2 \\\ 3 & 4 \\\ 5 & 6\end{bmatrix}\\)
+
+\\(A^{\textsf{T}} = \begin{bmatrix}1 & 3 & 5 \\\ 2 & 4 & 6\end{bmatrix}\\)
+
+\\((A^{\textsf{T}})^{\textsf{T}} = A\\)
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Transpose.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Transpose&oldid=1094750580">https://en.wikipedia.org/w/index.php?title=Transpose&#38;oldid=1094750580</a>.</div>
+</div>

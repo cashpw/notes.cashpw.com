@@ -2,7 +2,7 @@
 title = "Quicksort"
 author = ["Cash Weaver"]
 date = 2022-06-30T13:45:00-07:00
-lastmod = 2022-07-13T20:37:03-07:00
+lastmod = 2022-08-26T22:05:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,8 +14,8 @@ draft = false
 
 Quicksort is:
 
--   [Unstable]({{< relref "stable_sorting_algorithm.md#unstable-sorting-algorithm" >}})
--   [Internal memory algorithm]({{< relref "external_memory_algorithm.md#internal-memory-algorithm" >}})
+-   [Unstable sorting algorithm]({{< relref "unstable_sorting_algorithm.md" >}})
+-   [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})
 
 
 ## Algorithm {#algorithm}

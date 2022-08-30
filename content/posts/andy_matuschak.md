@@ -2,7 +2,7 @@
 title = "Andy Matuschak"
 author = ["Cash Weaver"]
 date = 2022-02-06T07:35:00-08:00
-lastmod = 2022-07-13T20:29:20-07:00
+lastmod = 2022-08-26T22:00:56-07:00
 draft = false
 +++
 

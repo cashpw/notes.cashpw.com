@@ -2,7 +2,7 @@
 title = "Derek Sivers | There's No Speed Limit"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:34:00-08:00
-lastmod = 2022-07-13T20:37:29-07:00
+lastmod = 2022-08-26T22:06:04-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

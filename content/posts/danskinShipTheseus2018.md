@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Ship of Theseus"
 author = ["Cash Weaver"]
 date = 2022-06-25T20:03:00-07:00
-lastmod = 2022-07-13T20:31:15-07:00
+lastmod = 2022-08-26T22:02:09-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -16,9 +16,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 ## Summary {#summary}
 
 > How many words can you change in an argument until it's not the same argument anymore?
-
-
-## Thoughts {#thoughts}
 
 
 ## Notes {#notes}
