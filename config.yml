@@ -75,7 +75,7 @@ params:
     - name: instagram
       url: "https://instagram.com/cashweaver"
     - name: mealie
-      url: "https://mealie.cashweaver.com"
+      url: "https://recipes.cashweaver.com"
 
 markup:
   goldmark:
