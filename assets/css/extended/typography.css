@@ -1,11 +1,6 @@
 /* First and last child are empty. */
-.home-info p:first-child,
-.home-info p:last-child {
-    margin-bottom: 0;
-}
-
-.home-info p {
-    margin-bottom: 1rem;
+.home-info p+p {
+    margin-top: 1rem;
 }
 
 .home-info p:last-child {
