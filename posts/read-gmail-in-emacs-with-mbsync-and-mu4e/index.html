@@ -1,0 +1,296 @@
+<!doctype html><html lang=en dir=auto>
+<head><meta charset=utf-8>
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<meta name=robots content="index, follow">
+<title>Read Gmail in Emacs with mbsync and mu4e | Cash Weaver</title>
+<meta name=keywords content>
+<meta name=description content="This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within Emacs (Doom Emacs) using mu, mbsync (isync), and mu4e (mu for emacs).
+You may have to complete additional steps if you are not using doom emacs, Gmail, or if your set-up differs from mine in other ways.
+Prerequisites Please be sure you&rsquo;ve completed these steps before continuing:
+Required Software   Install mbsync version >= 1.">
+<meta name=author content>
+<link rel=canonical href=http://cashweaver.com/posts/read-gmail-in-emacs-with-mbsync-and-mu4e/>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.21b0080c5ce439ce211bd643e62d6ba67aa0addff70509256c7c7abc774e612e.css integrity="sha256-IbAIDFzkOc4hG9ZD5i1rpnqgrd/3BQklbHx6vHdOYS4=" rel="preload stylesheet" as=style>
+<script defer crossorigin=anonymous src=/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5+kdJvBz5iKbt6B5PJI=" onload=hljs.initHighlightingOnLoad()></script>
+<link rel=icon href=http://cashweaver.com/favicon.ico>
+<link rel=icon type=image/png sizes=16x16 href=http://cashweaver.com/favicon-16x16.png>
+<link rel=icon type=image/png sizes=32x32 href=http://cashweaver.com/favicon-32x32.png>
+<link rel=apple-touch-icon href=http://cashweaver.com/apple-touch-icon.png>
+<link rel=mask-icon href=http://cashweaver.com/safari-pinned-tab.svg>
+<meta name=theme-color content="#2e2e33">
+<meta name=msapplication-TileColor content="#2e2e33">
+<meta name=generator content="Hugo 0.89.4">
+<noscript>
+<style>#theme-toggle,.top-link{display:none}</style>
+<style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
+</noscript><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
+<meta property="og:title" content="Read Gmail in Emacs with mbsync and mu4e">
+<meta property="og:description" content="This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within Emacs (Doom Emacs) using mu, mbsync (isync), and mu4e (mu for emacs).
+You may have to complete additional steps if you are not using doom emacs, Gmail, or if your set-up differs from mine in other ways.
+Prerequisites Please be sure you&rsquo;ve completed these steps before continuing:
+Required Software   Install mbsync version >= 1.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://cashweaver.com/posts/read-gmail-in-emacs-with-mbsync-and-mu4e/"><meta property="article:section" content="posts">
+<meta property="article:published_time" content="2021-12-27T20:01:00-08:00">
+<meta property="article:modified_time" content="2022-08-26T22:05:31-07:00">
+<meta name=twitter:card content="summary">
+<meta name=twitter:title content="Read Gmail in Emacs with mbsync and mu4e">
+<meta name=twitter:description content="This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within Emacs (Doom Emacs) using mu, mbsync (isync), and mu4e (mu for emacs).
+You may have to complete additional steps if you are not using doom emacs, Gmail, or if your set-up differs from mine in other ways.
+Prerequisites Please be sure you&rsquo;ve completed these steps before continuing:
+Required Software   Install mbsync version >= 1.">
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://cashweaver.com/posts/"},{"@type":"ListItem","position":2,"name":"Read Gmail in Emacs with mbsync and mu4e","item":"http://cashweaver.com/posts/read-gmail-in-emacs-with-mbsync-and-mu4e/"}]}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Read Gmail in Emacs with mbsync and mu4e","name":"Read Gmail in Emacs with mbsync and mu4e","description":"This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within Emacs (Doom Emacs) using mu, mbsync (isync), and mu4e (mu for emacs).\nYou may have to complete additional steps if you are not using doom emacs, Gmail, or if your set-up differs from mine in other ways.\nPrerequisites Please be sure you\u0026rsquo;ve completed these steps before continuing:\nRequired Software   Install mbsync version \u0026gt;= 1.","keywords":[],"articleBody":"This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within Emacs (Doom Emacs) using mu, mbsync (isync), and mu4e (mu for emacs).\nYou may have to complete additional steps if you are not using doom emacs, Gmail, or if your set-up differs from mine in other ways.\nPrerequisites Please be sure you’ve completed these steps before continuing:\nRequired Software   Install mbsync version = 1.4.1.\nWe will use mbsync to download our email. It is essential that the version is greater than or equal to 1.3.3 to ensure the OAuth2 token is not cut off (see line 1891 in drv_imap.c)\ngit clone https://git.code.sf.net/p/isync/isync isync cd isync ./autogen.sh ./configure make sudo make install   Install mu.\nmu will index the emails we’ve downloaded with mbsync and provide them to the mu4e package.\nsudo apt install maildir-utils   Install mu4e.\nmu4e is our email client within emacs.\nsudo apt install mu4e   Download gmail-oauth2-tools.\nThis utility will generate our refersh tokens for us.\ngit clone https://github.com/google/gmail-oauth2-tools   Download Cyrus SASL Oauth2\nmbsync doesn’t support OAuth2, so we’ll install a plugin which enables it.\n# Reference: https://unix.stackexchange.com/a/632794/423626 # Clone the Cyrus SASL OAuth2 sources. git clone https://github.com/moriyoshi/cyrus-sasl-xoauth2.git # Configure and make. cd cyrus-sasl-xoauth2 ./autogen.sh ./configure # SASL2 libraries on Ubuntu are in /usr/lib/x86_64-linux-gnu/; modify the Makefile accordingly sed -i 's%pkglibdir = ${CYRUS_SASL_PREFIX}/lib/sasl2%pkglibdir = ${CYRUS_SASL_PREFIX}/lib/x86_64-linux-gnu/sasl2%' Makefile make sudo make install # Install saslpluginviewer sudo apt install sasl2-bin # Verify XOAUTH2 is known to SASL. saslpluginviewer | grep XOAUTH2   Create an OAuth2 Client ID Please refer to: Create an OAuth2 Client ID\nCreate mbsyncrc  Create a new file at ~/.mbsyncrc (or symlink to that location, etc). Base your config on mine, included below: # Account Information IMAPAccount gmail Host imap.gmail.com User cashbweaver@gmail.com AuthMechs XOAUTH2 PassCmd \"/path/to/gen_email_access_token.sh\" SSLType IMAPS IMAPStore gmail-remote Account gmail MaildirStore gmail-local Path ~/.mail/cashweaver-gmail Inbox ~/.mail/cashweaver-gmail/inbox Channel gmail-inbox Far :gmail-remote: Near :gmail-local: Patterns \"INBOX\" Channel gmail-sent Far :gmail-remote:\"[Gmail]/Sent Mail\" Near :gmail-local:sent Remove Near Create near SyncState * Channel gmail-trash Far :gmail-remote:\"[Gmail]/Trash\" Near :gmail-local:trash Remove Near Create near SyncState * Channel gmail-drafts Far :gmail-remote:\"[Gmail]/Drafts\" Near :gmail-local:drafts Remove Near Create near SyncState * Group gmail Channel gmail-inbox Channel gmail-sent Channel gmail-trash Channel gmail-drafts   Emable IMAP in your Gmail Account Follow the documentation to enable IMAP.\nEnable mu4e within emacs This step is written for those using doom emacs. Those using other flavors of emacs will need to enable mu4e on their own.\n  Enable mu4e within doom emacs by uncommenting (mu4e +gmail) within init.el.\n  Sync doom emacs.\ndoom sync   Reload doom emacs by either killing emacs and restarting, or by running doom/reload (SPC : doom/reload or SPC h r r).\n  Sync and Index Your Email Follow the steps documented by doom emacs' mu4e section.\n  Sync your email by running mbsync --all.\nThis may take a while.\n  Index your email by running:\nmu init --maildir ~/.mail --my-address @gmail.com mu index   Configure emacs to use your email address.\nAs an example:\n;; Each path is relative to `+mu4e-mu4e-mail-path', which is ~/.mail by default (set-email-account! \"gmail.com\" '((mu4e-sent-folder . \"/gmail.com/Sent Mail\") (mu4e-drafts-folder . \"/gmail.com/Drafts\") (mu4e-trash-folder . \"/gmail.com/Trash\") (mu4e-refile-folder . \"/gmail.com/All Mail\") (smtpmail-smtp-user . \"@gmail.com\") (mu4e-compose-signature . \"\"))   ","wordCount":"521","inLanguage":"en","datePublished":"2021-12-27T20:01:00-08:00","dateModified":"2022-08-26T22:05:31-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashweaver.com/posts/read-gmail-in-emacs-with-mbsync-and-mu4e/"},"publisher":{"@type":"Organization","name":"Cash Weaver","logo":{"@type":"ImageObject","url":"http://cashweaver.com/favicon.ico"}}}</script>
+</head>
+<body id=top>
+<script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
+<header class=header>
+<nav class=nav>
+<div class=logo>
+<a href=http://cashweaver.com/ accesskey=h title="Cash Weaver (Alt + H)">Cash Weaver</a>
+<span class=logo-switches>
+<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+</button>
+</span>
+</div>
+<ul id=menu>
+<li>
+<a href=http://cashweaver.com/archives/ title=Archives>
+<span>Archives</span>
+</a>
+</li>
+<li>
+<a href=http://cashweaver.com/search/ title="Search (Alt + /)" accesskey=/>
+<span>Search</span>
+</a>
+</li>
+<li>
+<a href=http://cashweaver.com/tags/ title=Tags>
+<span>Tags</span>
+</a>
+</li>
+</ul>
+</nav>
+</header>
+<main class=main>
+<article class=post-single>
+<header class=post-header>
+<h1 class=post-title>
+Read Gmail in Emacs with mbsync and mu4e
+</h1>
+<div class=post-meta><span title="2021-12-27 20:01:00 -0800 -0800">2021-12-27</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:05:31 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;3 min
+</div>
+<div class=post-meta><a href=https://github.com/cashweaver/roam/tree/main/read_gmail_in_emacs_with_mbsync_and_mu4e.org rel="noopener noreferrer" target=_blank>Suggest Changes</a>
+</div>
+<div class="post-meta post-references"></div><div class="post-meta post-stars"></div>
+</header> <div class=toc>
+<details>
+<summary accesskey=c title="(Alt + C)">
+<span class=details>Table of Contents</span>
+</summary>
+<div class=inner><ul>
+<li>
+<a href=#prerequisites aria-label=Prerequisites>Prerequisites</a><ul>
+<li>
+<a href=#required-software aria-label="Required Software">Required Software</a></li>
+<li>
+<a href=#create-an-oauth2-client-id aria-label="Create an OAuth2 Client ID">Create an OAuth2 Client ID</a></li>
+<li>
+<a href=#create-mbsyncrc aria-label="Create mbsyncrc">Create <code>mbsyncrc</code></a></li>
+<li>
+<a href=#emable-imap-in-your-gmail-account aria-label="Emable IMAP in your Gmail Account">Emable IMAP in your Gmail Account</a></li>
+<li>
+<a href=#enable-mu4e-within-emacs aria-label="Enable mu4e within emacs">Enable <code>mu4e</code> within <code>emacs</code></a></li></ul>
+</li>
+<li>
+<a href=#sync-and-index-your-email aria-label="Sync and Index Your Email">Sync and Index Your Email</a>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div class=post-content>
+<p>This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within <a href=/posts/emacs/>Emacs</a> (<a href=/posts/doom-emacs/>Doom Emacs</a>) using <code>mu</code>, <code>mbsync</code> (<code>isync</code>), and <code>mu4e</code> (<code>mu</code> for <code>emacs</code>).</p>
+<p>You may have to complete additional steps if you are not using <a href=https://github.com/hlissner/doom-emacs><code>doom emacs</code></a>, Gmail, or if your set-up differs from mine in other ways.</p>
+<h2 id=prerequisites>Prerequisites<a hidden class=anchor aria-hidden=true href=#prerequisites>#</a></h2>
+<p>Please be sure you&rsquo;ve completed these steps before continuing:</p>
+<h3 id=required-software>Required Software<a hidden class=anchor aria-hidden=true href=#required-software>#</a></h3>
+<ol>
+<li>
+<p>Install <code>mbsync</code> version >= 1.4.1.</p>
+<p>We will use <code>mbsync</code> to download our email. It is essential that the version is greater than or equal to 1.3.3 to ensure the OAuth2 token is not cut off (see line 1891 in <a href=https://sourceforge.net/p/isync/isync/ci/v1.3.3/tree/src/drv_imap.c>drv_imap.c</a>)</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sh data-lang=sh>git clone https://git.code.sf.net/p/isync/isync isync
+cd isync
+./autogen.sh
+./configure
+make
+sudo make install
+</code></pre></div></li>
+<li>
+<p>Install <code>mu</code>.</p>
+<p><code>mu</code> will index the emails we&rsquo;ve downloaded with <code>mbsync</code> and provide them to the <code>mu4e</code> package.</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sh data-lang=sh>sudo apt install maildir-utils
+</code></pre></div></li>
+<li>
+<p>Install <code>mu4e</code>.</p>
+<p><code>mu4e</code> is our email client within emacs.</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sh data-lang=sh>sudo apt install mu4e
+</code></pre></div></li>
+<li>
+<p>Download <code>gmail-oauth2-tools</code>.</p>
+<p>This utility will generate our refersh tokens for us.</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sh data-lang=sh>git clone https://github.com/google/gmail-oauth2-tools
+</code></pre></div></li>
+<li>
+<p>Download Cyrus SASL Oauth2</p>
+<p><code>mbsync</code> doesn&rsquo;t support OAuth2, so we&rsquo;ll install a plugin which enables it.</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sh data-lang=sh><span style=color:#75715e># Reference: https://unix.stackexchange.com/a/632794/423626</span>
+<span style=color:#75715e># Clone the Cyrus SASL OAuth2 sources.</span>
+git clone https://github.com/moriyoshi/cyrus-sasl-xoauth2.git
+
+<span style=color:#75715e># Configure and make.</span>
+cd cyrus-sasl-xoauth2
+./autogen.sh
+./configure
+
+<span style=color:#75715e># SASL2 libraries on Ubuntu are in /usr/lib/x86_64-linux-gnu/; modify the Makefile accordingly</span>
+sed -i <span style=color:#e6db74>&#39;s%pkglibdir = ${CYRUS_SASL_PREFIX}/lib/sasl2%pkglibdir = ${CYRUS_SASL_PREFIX}/lib/x86_64-linux-gnu/sasl2%&#39;</span> Makefile
+
+make
+sudo make install
+
+<span style=color:#75715e># Install saslpluginviewer</span>
+sudo apt install sasl2-bin
+
+<span style=color:#75715e># Verify XOAUTH2 is known to SASL.</span>
+saslpluginviewer | grep XOAUTH2
+</code></pre></div></li>
+</ol>
+<h3 id=create-an-oauth2-client-id>Create an OAuth2 Client ID<a hidden class=anchor aria-hidden=true href=#create-an-oauth2-client-id>#</a></h3>
+<p>Please refer to: <a href=/posts/create-an-oauth2-client-id/>Create an OAuth2 Client ID</a></p>
+<h3 id=create-mbsyncrc>Create <code>mbsyncrc</code><a hidden class=anchor aria-hidden=true href=#create-mbsyncrc>#</a></h3>
+<ol>
+<li>Create a new file at <code>~/.mbsyncrc</code> (or symlink to that location, etc).</li>
+<li>Base your config on mine, included below:
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-text data-lang=text># Account Information
+IMAPAccount gmail
+Host imap.gmail.com
+User cashbweaver@gmail.com
+AuthMechs XOAUTH2
+PassCmd &#34;/path/to/gen_email_access_token.sh&#34;
+SSLType IMAPS
+
+IMAPStore gmail-remote
+Account gmail
+
+MaildirStore gmail-local
+Path ~/.mail/cashweaver-gmail
+Inbox ~/.mail/cashweaver-gmail/inbox
+
+Channel gmail-inbox
+Far :gmail-remote:
+Near :gmail-local:
+Patterns &#34;INBOX&#34;
+
+Channel gmail-sent
+Far :gmail-remote:&#34;[Gmail]/Sent Mail&#34;
+Near :gmail-local:sent
+Remove Near
+Create near
+SyncState *
+
+Channel gmail-trash
+Far :gmail-remote:&#34;[Gmail]/Trash&#34;
+Near :gmail-local:trash
+Remove Near
+Create near
+SyncState *
+
+Channel gmail-drafts
+Far :gmail-remote:&#34;[Gmail]/Drafts&#34;
+Near :gmail-local:drafts
+Remove Near
+Create near
+SyncState *
+
+Group gmail
+Channel gmail-inbox
+Channel gmail-sent
+Channel gmail-trash
+Channel gmail-drafts
+</code></pre></div></li>
+</ol>
+<h3 id=emable-imap-in-your-gmail-account>Emable IMAP in your Gmail Account<a hidden class=anchor aria-hidden=true href=#emable-imap-in-your-gmail-account>#</a></h3>
+<p>Follow the <a href="https://support.google.com/mail/answer/7126229?hl=en">documentation</a> to enable IMAP.</p>
+<h3 id=enable-mu4e-within-emacs>Enable <code>mu4e</code> within <code>emacs</code><a hidden class=anchor aria-hidden=true href=#enable-mu4e-within-emacs>#</a></h3>
+<p>This step is written for those using <a href=https://github.com/hlissner/doom-emacs><code>doom emacs</code></a>. Those using other flavors of <code>emacs</code> will need to enable <code>mu4e</code> on their own.</p>
+<ol>
+<li>
+<p>Enable <code>mu4e</code> within <a href=https://github.com/hlissner/doom-emacs><code>doom emacs</code></a> by uncommenting <code>(mu4e +gmail)</code> within <code>init.el</code>.</p>
+</li>
+<li>
+<p>Sync <code>doom emacs</code>.</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sh data-lang=sh>doom sync
+</code></pre></div></li>
+<li>
+<p>Reload <code>doom emacs</code> by either killing <code>emacs</code> and restarting, or by running <code>doom/reload</code> (<code>SPC : doom/reload</code> or <code>SPC h r r</code>).</p>
+</li>
+</ol>
+<h2 id=sync-and-index-your-email>Sync and Index Your Email<a hidden class=anchor aria-hidden=true href=#sync-and-index-your-email>#</a></h2>
+<p>Follow the steps documented by <a href=https://github.com/hlissner/doom-emacs/blob/develop/modules/email/mu4e/README.org>doom emacs' mu4e section</a>.</p>
+<ol>
+<li>
+<p>Sync your email by running <code>mbsync --all</code>.</p>
+<p>This may take a while.</p>
+</li>
+<li>
+<p>Index your email by running:</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sh data-lang=sh>mu init --maildir ~/.mail --my-address &lt;you&gt;@gmail.com
+mu index
+</code></pre></div></li>
+<li>
+<p>Configure emacs to use your email address.</p>
+<p>As an example:</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-text data-lang=text>;; Each path is relative to `+mu4e-mu4e-mail-path&#39;, which is ~/.mail by default
+(set-email-account! &#34;gmail.com&#34;
+                    &#39;((mu4e-sent-folder       . &#34;/gmail.com/Sent Mail&#34;)
+                    (mu4e-drafts-folder     . &#34;/gmail.com/Drafts&#34;)
+                    (mu4e-trash-folder      . &#34;/gmail.com/Trash&#34;)
+                    (mu4e-refile-folder     . &#34;/gmail.com/All Mail&#34;)
+                    (smtpmail-smtp-user     . &#34;&lt;you&gt;@gmail.com&#34;)
+                    (mu4e-compose-signature . &#34;&lt;Your signature here&gt;&#34;))
+</code></pre></div></li>
+</ol>
+<div class=bl-section>
+<hr>
+<h4>Links to this note</h4>
+<div class=backlinks>
+<ul>
+<li><a href=/posts/email-in-emacs/>Email in Emacs</a></li>
+</ul>
+</div>
+</div>
+</div>
+<footer class=post-footer>
+</footer>
+</article>
+</main>
+<footer class=footer>
+<span>&copy; 2022 <a href=http://cashweaver.com/>Cash Weaver</a></span>
+<span>
+Powered by
+<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
+        <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a>
+</span>
+</footer>
+<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
+</a>
+<script>let menu=document.getElementById('menu');menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);window.matchMedia('(prefers-reduced-motion: reduce)').matches?document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})</script>
+<script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
+<script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove('dark'),localStorage.setItem("pref-theme",'light')):(document.body.classList.add('dark'),localStorage.setItem("pref-theme",'dark'))})</script>
+<script>document.querySelectorAll('pre > code').forEach(b=>{const c=b.parentNode.parentNode,a=document.createElement('button');a.classList.add('copy-code'),a.innerText='copy';function d(){a.innerText='copied!',setTimeout(()=>{a.innerText='copy'},2e3)}a.addEventListener('click',e=>{if('clipboard'in navigator){navigator.clipboard.writeText(b.textContent),d();return}const a=document.createRange();a.selectNodeContents(b);const c=window.getSelection();c.removeAllRanges(),c.addRange(a);try{document.execCommand('copy'),d()}catch(a){}c.removeRange(a)}),c.classList.contains("highlight")?c.appendChild(a):c.parentNode.firstChild==c||(b.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?b.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(a):b.parentNode.appendChild(a))})</script>
+</body>
+</html>
