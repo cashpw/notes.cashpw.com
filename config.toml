@@ -1,0 +1,93 @@
+baseURL = "http://cashweaver.com/"
+enableEmoji = true
+enableRobotsTXT = true
+languageCode = "en-us"
+theme = "PaperMod"
+title = "Cash Weaver"
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 20
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 20
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+ShowCodeCopyButtons = true
+ShowReadingTime = true
+ShowToc = true
+DateFormat = "2006-01-02"
+author = "Cash Weaver"
+defaultTheme = "auto"
+description = "Blog and notes"
+env = "production"
+googleAnalytics = "UA-69408538-1"
+hideSummary = false
+hideMeta = false
+showAuthor = false
+enableMathjax = true
+
+  [params.editPost]
+  URL = "https://github.com/cashweaver/roam/tree/main"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+
+  [params.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = """
+This website contains my personal notes.
+
+The key component of my notes are the [links which connect them](/posts/evergreennotesshouldbedenselylinked). Links allow forward movement (e.g. A to B). Backlinks allow backward movement (e.g. B to A). These sorts of interconnected notes are sometimes called [zettelkasten](/posts/zettelkasten2021), a second brain, a digital garden. They are a type of [personal knowledge management](/posts/personal_knowledge_management) system.
+
+I write these notes for myself and share them online as a way of increasing accountability for myself. The public nature of the notes encourages me to [think carefully about my own thoughts](/posts/metacognition) and [how I write](/posts/style_guide).
+
+Check out the [archives](/archives) for a full list of posts or start from one of my favorites:
+
+1. [The Meditations of the Emperor Marcus Antoninus](/posts/antoninusmeditationsemperormarcusantoninus1944)
+1. [Tell all the truth but tell it slant](/posts/tell_all_the_truth_but_tell_it_slant/)
+1. [Play to Win](/posts/play_to_win)
+"""
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:cashbweaver@gmail.com"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/cashweaver"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/cashweaver"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/cashweaver"
+
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://instagram.com/cashweaver"
+
+  [[params.socialIcons]]
+  name = "recipes"
+  url = "/tags/recipe/"
+
+[markup.goldmark.renderer]
+unsafe = true
