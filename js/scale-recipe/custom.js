@@ -1,5 +1,6 @@
 const Selector = {
     INGREDIENT_LABELS: 'div.ingredients ul li label',
+    SERVINGS: '#servings',
 };
 
 function createCheckboxListItem(label, id) {
@@ -9,7 +10,12 @@ return '<li>'
     + '</li>';
 }
 
-function addScaleInput() {
+function maybeAddScaleInput() {
+const servings = document.querySelector(Selector.SERVINGS);
+if (!servings) {
+  return;
+}
+
 var ingredientsHeader = document.querySelector("#ingredients");
 if (!ingredientsHeader) {
     return;
@@ -29,7 +35,7 @@ document.querySelectorAll(Selector.INGREDIENT_LABELS).forEach(function (ingredie
     ingredient.innerHTML = scaleRecipe.scale(ingredient.innerHTML, factor);
 });
 
-var servings = document.querySelector("#servings");
+const servings = document.querySelector(Selector.SERVINGS);
 if (servings) {
     const [_, numServings, extra] = servings.textContent.match(/^([0-9]+)(.*)/);
     servings.innerHTML = `${numServings}${extra} x ${factor} = ${numServings * factor}${extra}`;
@@ -41,7 +47,7 @@ if (scalers) {
 }
 }
 
-addScaleInput();
+maybeAddScaleInput();
 
 document.querySelectorAll('div.ingredients ul li').forEach((ingredientListItem, index) => {
 ingredientListItem.outerHTML = createCheckboxListItem(ingredientListItem.innerHTML, index);

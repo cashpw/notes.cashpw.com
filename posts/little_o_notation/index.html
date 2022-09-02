@@ -111,7 +111,8 @@ Little-o notation
 </div>
 </details>
 </div>
-<div class=post-content><p>Little-o notation, written as \(\littleo{g(n)}\), is a stronger statement than <a href=/posts/asymptotic_notation/>Big O notation</a>. It implies that \(g(x)\) grows much faster than \(f(x)\). It&rsquo;s defined as:</p>
+<div class=post-content>
+<p>Little-o notation, written as \(\littleo{g(n)}\), is a stronger statement than <a href=/posts/asymptotic_notation/>Big O notation</a>. It implies that \(g(x)\) grows much faster than \(f(x)\). It&rsquo;s defined as:</p>
 <p>\[f(x) = \littleo{g(x)} \overset{\Delta}{=} \lim_{x \to \infty} \frac{f(x)}{g(x)} = 0\]</p>
 <h2 id=relationship-with-big-o-notation--big-o-notation-dot-md>Relationship with <a href=/posts/big_o_notation/>Big-O notation</a><a hidden class=anchor aria-hidden=true href=#relationship-with-big-o-notation--big-o-notation-dot-md>#</a></h2>
 <p>\[\begin{align}3n^3 &= \bigo{n^3} \\ 3n^3 &\ne \littleo{n^3} \\ 3n^3 &= \littleo{n^4}\end{align}\]</p>
