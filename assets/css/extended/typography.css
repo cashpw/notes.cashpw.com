@@ -8,11 +8,41 @@
 }
 
 /* Tables */
-
 table td {
     vertical-align: top;
 }
 
-.post-content .footnotes li blockquote p {
-    margin-bottom: inherit;
+.scaler {
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    background-color: var(--code-bg);
+    color: var(--content);
+    margin: 0 5px;
+    padding: 0.2em;
+}
+
+input.scaler {
+    padding: 0.2em 0.6em;
+}
+
+button:hover {
+    background-color: var(--secondary);
+    color: var(--entry);
+}
+
+input.scaler {
+    width: 10ch;
+}
+
+button.scaler {
+    width: 4ch;
+}
+
+.servings {
+    font-weight: bold;
+}
+
+.ingredients ul {
+    list-style: none;
+    padding-left: 0;
 }

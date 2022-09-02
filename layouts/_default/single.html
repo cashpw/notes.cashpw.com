@@ -38,6 +38,9 @@
 
   <div class="post-content">
   {{- if .Content }}
+    {{- if or (in .Params.tags "recipe") (in .Params.tags "ingredient") -}}
+      {{- partial "recipe_meta.html" . -}}
+    {{- end }}
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
