@@ -6,7 +6,7 @@ My personal website.
 
 ### Posts
 
-[Posts](http://github.com/cashweaver/notes)
+[cashweaver/notes](http://github.com/cashweaver/notes)
 
 Emacs auto-exports posts on save. See my [dotfiles](http://github.com/cashweaver/dotfiles/blob/main/config/doom/config.org).
 
