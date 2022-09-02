@@ -1,5 +1,6 @@
 {{- $scratch := newScratch }}
 
+{{- if or (.Params.servings) (.Params.total_time) (.Params.prep_time) (.Params.cook_time) -}}
 <table>
   <tr>
     {{- if (.Params.servings) -}}
@@ -35,3 +36,4 @@
     {{- end -}}
   </tr>
 </table>
+{{- end }}
