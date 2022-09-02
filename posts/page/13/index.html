@@ -8,7 +8,7 @@
 <meta name=description content="Posts - Cash Weaver">
 <meta name=author content>
 <link rel=canonical href=http://cashweaver.com/posts/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.27f8f19fbe3984d84302bfca3009c1ca1d815e6357b20edace5f7f7ac4db1293.css integrity="sha256-J/jxn745hNhDAr/KMAnByh2BXmNXsg7azl9/esTbEpM=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.21b0080c5ce439ce211bd643e62d6ba67aa0addff70509256c7c7abc774e612e.css integrity="sha256-IbAIDFzkOc4hG9ZD5i1rpnqgrd/3BQklbHx6vHdOYS4=" rel="preload stylesheet" as=style>
 <link rel=icon href=http://cashweaver.com/favicon.ico>
 <link rel=icon type=image/png sizes=16x16 href=http://cashweaver.com/favicon-16x16.png>
 <link rel=icon type=image/png sizes=32x32 href=http://cashweaver.com/favicon-32x32.png>
@@ -69,6 +69,43 @@
 Posts
 </h1>
 </header>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Adjacency matrix
+</h2>
+</header>
+<div class=entry-content>
+<p> In graph theory and computer science, an adjacency matrix is a Square matrix used to represent a finite graph. The elements of the matrix indicate whether pairs of Vertices are adjacent or not in the graph.
+(“Adjacency Matrix” 2022)
+References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Adjacency Matrix.” 2022. Wikipedia, June. https://en.wikipedia.org/w/index.php?title=Adjacency_matrix&oldid=1091931889. </p>
+</div>
+<footer class=entry-footer><span title="2022-07-05 17:37:00 -0700 -0700">2022-07-05</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:00:43 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Adjacency matrix" href=http://cashweaver.com/posts/adjacency_matrix/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Undirected graph
+</h2>
+</header>
+<div class=entry-content>
+<p>A Graph with a symmetric Adjacency matrix.
+(“Graph (Discrete Mathematics)” 2022)
+References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Graph (Discrete Mathematics).” 2022. Wikipedia, June. https://en.wikipedia.org/w/index.php?title=Graph_(discrete_mathematics)&oldid=1093859772. </p>
+</div>
+<footer class=entry-footer><span title="2022-07-05 17:35:00 -0700 -0700">2022-07-05</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:07:30 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Undirected graph" href=http://cashweaver.com/posts/undirected_graph/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Acetaminophen
+</h2>
+</header>
+<div class=entry-content>
+<p></p>
+</div>
+<footer class=entry-footer><span title="2022-07-05 17:08:00 -0700 -0700">2022-07-05</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:00:40 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;0 min</footer>
+<a class=entry-link aria-label="post link to Acetaminophen" href=http://cashweaver.com/posts/acetaminophen/></a>
+</article>
 <article class=post-entry>
 <header class=entry-header>
 <h2>Ibuprofen
@@ -151,45 +188,6 @@ See Internal memory algorithm....</p>
 </div>
 <footer class=entry-footer><span title="2022-07-01 11:47:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:05:23 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
 <a class=entry-link aria-label="post link to Python" href=http://cashweaver.com/posts/python/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Merge sort implementation in Python
-</h2>
-</header>
-<div class=entry-content>
-<p>An implementation of Merge sort in Python.
-import math from typing import List, Callable, Tuple def split(ints: List[int]) -> Tuple[List[int], List[int]]: if len(ints) &lt;= 1: return ints, [] split_index = math.floor(len(ints) / 2) return ints[0:split_index], ints[split_index:len(ints)] def merge(a: List[int], b: List[int], comparator: Callable[[int, int], bool]) -> List[int]: a_index = 0 b_index = 0 out = [] for _ in range(len(a) + len(b)): if a_index >= len(a): out.append(b[b_index]) b_index += 1 continue if b_index >= len(b): out....</p>
-</div>
-<footer class=entry-footer><span title="2022-07-01 11:44:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:04:29 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Merge sort implementation in Python" href=http://cashweaver.com/posts/merge_sort_implementation_in_python/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Merge sort
-</h2>
-</header>
-<div class=entry-content>
-<p>Conceptually, a merge sort works as follows:
-Divide the unsorted list into n sublists, each containing one element (a list of one element is considered sorted). Repeatedly merge sublists to produce new sorted sublists until there is only one sublist remaining. This will be the sorted list. (“Merge Sort” 2022)
-Merge sort is:
-Stable sorting algorithm External memory algorithm Algorithm procedure MergeSort(list) is if length of list &lt;= 1 then return list left, right = split(list) MergeSort(left) MergeSort(right) return Merge(left, right) Implementation Merge sort implementation in Python Complexity Worst-case Best-case Time \(O(n \operatorname{log}(n))\) \(O(n \operatorname{log}(n))\) Space \(O(n)\) \(O(n)\) References ....</p>
-</div>
-<footer class=entry-footer><span title="2022-07-01 11:23:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:04:28 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Merge sort" href=http://cashweaver.com/posts/merge_sort/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Stable sorting algorithm
-</h2>
-</header>
-<div class=entry-content>
-<p> Stable sort algorithms sort equal elements in the same order that they appear in the input.
-(“Sorting Algorithm” 2022)
-stable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')]) > [(3, 'c'), (8, 'b'), (8, 'd'), (10, 'a')]) References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Sorting Algorithm.” 2022. Wikipedia, June. https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&oldid=1095879356. </p>
-</div>
-<footer class=entry-footer><span title="2022-07-01 11:08:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:06:23 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Stable sorting algorithm" href=http://cashweaver.com/posts/stable_sorting_algorithm/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
