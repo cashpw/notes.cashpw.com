@@ -1,8 +1,28 @@
-# cashweaver.com
+# [cashweaver.com](http://cashweaver.com)
 
-## Populating favicons
+My personal website.
 
-Depends on [cashweaver/basic-favicon-links](https://github.com/cashweaver/basic-favicon-links).
+## Development
+
+### Posts
+
+[Posts](http://github.com/cashweaver/notes)
+
+Emacs auto-exports posts on save. See my [dotfiles](http://github.com/cashweaver/dotfiles/blob/main/config/doom/config.org).
+
+### Recipe scaling
+
+[cashweaver/scale-recipe](http://github.com/cashweaver/scale-recipe)
+
+1.
+    ```sh
+    npm run build:release
+    ./node_modules/.bin/browserify build/src/main.js --standalone scale-recipe -o ~/proj/cashweaver.com/static/js/scale-recipe/bundle.js
+    ```
+
+### Link favicons
+
+[cashweaver/basic-favicon-links](https://github.com/cashweaver/basic-favicon-links)
 
 1. 
     ```sh
