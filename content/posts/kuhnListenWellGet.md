@@ -2,10 +2,11 @@
 title = "Ben Kuhn | To Listen Well, Get Curious"
 author = ["Cash Weaver"]
 date = 2022-03-12T04:22:00-08:00
-lastmod = 2022-08-26T22:03:58-07:00
+lastmod = 2022-09-05T14:44:08-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/617eec3a-89c3-4b9f-9074-47d4bf4e69fd"
 +++
 
 [Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn n.d.</a>)

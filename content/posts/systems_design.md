@@ -2,10 +2,11 @@
 title = "Systems Design"
 author = ["Cash Weaver"]
 date = 2022-03-15T21:20:00-07:00
-lastmod = 2022-08-26T22:06:38-07:00
+lastmod = 2022-09-05T14:52:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/30263770-541e-4e5a-acbe-f194ab7c121e"
 +++
 
 Systems design, insofar as I understand it, is difficult to define. It's difficult to define not because no one has thought to define it --- they have:

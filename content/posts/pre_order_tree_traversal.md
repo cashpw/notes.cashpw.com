@@ -2,10 +2,11 @@
 title = "Pre-order tree traversal"
 author = ["Cash Weaver"]
 date = 2022-06-29T16:24:00-07:00
-lastmod = 2022-08-26T22:05:17-07:00
+lastmod = 2022-09-05T14:48:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9"
 +++
 
 > 1.  Visit the current node (in the figure: position red)

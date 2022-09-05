@@ -2,10 +2,11 @@
 title = "Adjacency matrix"
 author = ["Cash Weaver"]
 date = 2022-07-05T17:37:00-07:00
-lastmod = 2022-08-26T22:00:43-07:00
+lastmod = 2022-09-05T14:34:34-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/61ab086c-842c-4d34-8c96-99cb9b80293f"
 +++
 
 > In graph theory and computer science, an adjacency matrix is a [Square matrix]({{< relref "square_matrix.md" >}}) used to represent a finite graph. The elements of the matrix indicate whether pairs of [Vertices]({{< relref "vertex.md" >}}) are adjacent or not in the graph.

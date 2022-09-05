@@ -2,10 +2,11 @@
 title = "Scott Alexander | For, Then Against, High-Saturated-Fat Diets"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:33:00-08:00
-lastmod = 2022-08-26T22:00:51-07:00
+lastmod = 2022-09-05T14:34:52-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/4737f7a9-faec-4d2c-a901-227495ab0373"
 +++
 
 [Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2020</a>)

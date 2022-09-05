@@ -2,10 +2,11 @@
 title = "Cedric Chin"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:53:00-08:00
-lastmod = 2022-08-26T22:01:38-07:00
+lastmod = 2022-09-05T14:36:54-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
+aliases = "/posts/4c9b1bbf-2a4b-43fa-a266-b559c018d80e"
 +++
 
 Among other things:

@@ -2,10 +2,11 @@
 title = "First principles"
 author = ["Cash Weaver"]
 date = 2022-03-12T08:16:00-08:00
-lastmod = 2022-08-26T22:02:44-07:00
+lastmod = 2022-09-05T14:40:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/0f5abcf4-ac0d-40d7-a62b-62daeac65485 /posts/first-principle"
 +++
 
 > A first principle is a basic proposition or assumption that cannot be deduced from any other proposition or assumption.

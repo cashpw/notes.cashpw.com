@@ -2,10 +2,11 @@
 title = "Nelson Elhage | Computers Can Be Understood"
 author = ["Cash Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2022-08-26T22:02:33-07:00
+lastmod = 2022-09-05T14:39:56-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/19ba13d6-259f-4734-a1be-aaa5d51fcd16"
 +++
 
 [Nelson Elhage]({{< relref "nelson_elhage.md" >}}), (<a href="#citeproc_bib_item_1">Elhage n.d.</a>)

@@ -2,10 +2,11 @@
 title = "This Sentence Has Five Words"
 author = ["Cash Weaver"]
 date = 2022-02-07T17:05:00-08:00
-lastmod = 2022-08-26T22:07:09-07:00
+lastmod = 2022-09-05T14:54:52-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
+aliases = "/posts/3e310bff-729b-429b-9e10-769422c75561"
 +++
 
 > This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It's like a stuck record. The ear demands some variety.

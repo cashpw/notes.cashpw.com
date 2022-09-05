@@ -2,10 +2,11 @@
 title = "Nima Shirazi"
 author = ["Cash Weaver"]
 date = 2022-07-21T11:12:00-07:00
-lastmod = 2022-08-26T22:04:47-07:00
+lastmod = 2022-09-05T14:46:38-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
+aliases = "/posts/1ad7f14f-1f4d-4744-b923-a496e4ed6824"
 +++
 
 Among other things:

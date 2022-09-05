@@ -2,10 +2,11 @@
 title = "Disorganized attachment"
 author = ["Cash Weaver"]
 date = 2022-06-26T13:27:00-07:00
-lastmod = 2022-08-26T22:02:20-07:00
+lastmod = 2022-09-05T14:39:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/80396b6d-d572-4437-ab2d-698c62a3038b"
 +++
 
 > It's [an [attachment]({{< relref "attachment_theory.md" >}}) pattern that] happens when the negative experience and the comfort come from the same place. We see it in children and adults who are mistreated by the people they trust.

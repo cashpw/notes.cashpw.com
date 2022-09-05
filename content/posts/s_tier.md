@@ -2,11 +2,11 @@
 title = "S-tier"
 author = ["Cash Weaver"]
 date = 2022-01-29T15:01:00-08:00
-lastmod = 2022-08-26T22:05:47-07:00
+lastmod = 2022-09-05T14:50:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-roam_refs = ["https://en.wikipedia.org/wiki/Tier_list"]
+aliases = "/posts/dea093d4-ed58-42d7-b8a6-63acfa291676"
 +++
 
 The top-tier.

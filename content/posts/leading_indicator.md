@@ -2,10 +2,11 @@
 title = "Leading Indicator"
 author = ["Cash Weaver"]
 date = 2022-01-28T08:18:00-08:00
-lastmod = 2022-08-26T22:04:00-07:00
+lastmod = 2022-09-05T14:44:12-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/31eaa796-a578-43ae-a119-a1d8505cbe72"
 +++
 
 > Leading indicators are indicators that usually, but not always, change before the [a thing] as a whole changes. They are therefore useful as short-term predictors of the [a thing].

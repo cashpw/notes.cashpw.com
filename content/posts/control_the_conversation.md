@@ -2,10 +2,11 @@
 title = "Control the conversation"
 author = ["Cash Weaver"]
 date = 2022-08-05T15:08:00-07:00
-lastmod = 2022-08-26T22:01:55-07:00
+lastmod = 2022-09-05T14:37:50-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/24cb7271-441f-447e-9150-b4f44fc6d947"
 +++
 
 -   Make sure people are talking about what you want them to talk about and in ways that benefit you.

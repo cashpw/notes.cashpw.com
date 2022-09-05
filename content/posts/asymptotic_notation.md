@@ -2,10 +2,11 @@
 title = "Asymptotic Notation"
 author = ["Cash Weaver"]
 date = 2022-06-29T09:52:00-07:00
-lastmod = 2022-08-26T22:01:05-07:00
+lastmod = 2022-09-05T14:35:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/adca1b0d-0ebe-4ea9-8b89-b4583f0d74ad"
 +++
 
 -   [Big-O notation]({{< relref "big_o_notation.md" >}})

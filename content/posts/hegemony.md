@@ -2,10 +2,11 @@
 title = "Hegemony"
 author = ["Cash Weaver"]
 date = 2022-07-17T09:22:00-07:00
-lastmod = 2022-08-26T22:03:17-07:00
+lastmod = 2022-09-05T14:42:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/eb439041-eb04-415d-a642-9ab8783c68a4 /posts/hegemon"
 +++
 
 > Hegemony is the political, economic, and military predominance of one state over other states.

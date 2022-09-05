@@ -2,10 +2,11 @@
 title = "Selection algorithm"
 author = ["Cash Weaver"]
 date = 2022-07-01T16:10:00-07:00
-lastmod = 2022-08-26T22:05:54-07:00
+lastmod = 2022-09-05T14:50:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/7fbcef27-68c4-4793-8fc0-e10114318765"
 +++
 
 > In computer science, a selection algorithm is an algorithm for finding the kth smallest number in a list or array; such a number is called the kth order statistic. This includes the cases of finding the minimum, maximum, and median elements. There are O(n)-time (worst-case linear time) selection algorithms, and sublinear performance is possible for structured data; in the extreme, O(1) for an array of sorted data. Selection is a subproblem of more complex problems like the nearest neighbor and shortest path problems. Many selection algorithms are derived by generalizing a [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}), and conversely some sorting algorithms can be derived as repeated application of selection.

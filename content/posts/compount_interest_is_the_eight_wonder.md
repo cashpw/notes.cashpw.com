@@ -2,10 +2,11 @@
 title = "Compound interest is the eighth wonder of the world"
 author = ["Cash Weaver"]
 date = 2022-02-11T20:10:00-08:00
-lastmod = 2022-08-26T22:01:53-07:00
+lastmod = 2022-09-05T14:37:45-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
+aliases = "/posts/58a0506b-8d6e-4fe5-b0d8-286ebe6a8772"
 +++
 
 > Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it.

@@ -2,10 +2,11 @@
 title = "Scott Alexander | Should You Reverse Any Advice You Hear?"
 author = ["Cash Weaver"]
 date = 2022-03-12T07:31:00-08:00
-lastmod = 2022-08-26T22:00:49-07:00
+lastmod = 2022-09-05T14:34:48-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/de6d0d9e-3ce1-4e18-b747-c59cd50ceebf"
 +++
 
 [Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2014</a>)

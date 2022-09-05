@@ -2,8 +2,9 @@
 title = "Read Gmail in Emacs with mbsync and mu4e"
 author = ["Cash Weaver"]
 date = 2021-12-27T20:01:00-08:00
-lastmod = 2022-08-26T22:05:31-07:00
+lastmod = 2022-09-05T14:49:02-07:00
 draft = false
+aliases = "/posts/5e8b11e4-9600-44b7-8cd4-1be85f359948"
 +++
 
 This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within [Emacs]({{< relref "emacs.md" >}}) ([Doom Emacs]({{< relref "doom_emacs.md" >}})) using `mu`, `mbsync` (`isync`), and `mu4e` (`mu` for `emacs`).

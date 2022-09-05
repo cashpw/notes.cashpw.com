@@ -2,10 +2,11 @@
 title = "Pure Functions"
 author = ["Cash Weaver"]
 date = 2022-03-15T14:54:00-07:00
-lastmod = 2022-08-26T22:05:23-07:00
+lastmod = 2022-09-05T14:48:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/426b6e66-710b-4d01-8ff0-f5311478260c"
 +++
 
 > In computer programming, a pure function is a function that has the following properties:

@@ -2,10 +2,11 @@
 title = "The challenge is to improve yourself"
 author = ["Cash Weaver"]
 date = 2022-07-21T10:37:00-07:00
-lastmod = 2022-08-26T22:06:54-07:00
+lastmod = 2022-09-05T14:53:54-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
+aliases = "/posts/b14ec1e9-5ac3-4c1a-a309-643515a10d84"
 +++
 
 > RALPH:Then what will happen to us? There's no trace of my money. My office is gone. What will I do? How will I live?

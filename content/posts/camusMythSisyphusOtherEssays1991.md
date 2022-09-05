@@ -2,10 +2,11 @@
 title = "Albert Camus, Justin O'Brien | The Myth of Sisyphus and Other Essays"
 author = ["Cash Weaver"]
 date = 2022-06-21T12:32:00-07:00
-lastmod = 2022-08-26T22:01:35-07:00
+lastmod = 2022-09-05T14:36:46-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/3da13885-53dc-4068-945c-c14201e1177e"
 +++
 
 [Albert Camus]({{< relref "albert_camus.md" >}}), (<a href="#citeproc_bib_item_1">Camus and O’Brien 1991</a>)

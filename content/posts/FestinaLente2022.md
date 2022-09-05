@@ -2,10 +2,11 @@
 title = "Wikipedia | Festina Lente"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:50:00-08:00
-lastmod = 2022-08-26T22:00:18-07:00
+lastmod = 2022-09-05T14:34:01-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/ff009594-d69f-4d33-b0c2-65ed62eaf0b2"
 +++
 
 > [...] a classical adage and oxymoron meaning "make haste slowly" (sometimes rendered in English as "more haste, less speed").

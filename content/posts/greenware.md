@@ -2,10 +2,11 @@
 title = "Greenware"
 author = ["Cash Weaver"]
 date = 2022-08-23T08:50:00-07:00
-lastmod = 2022-08-26T22:03:07-07:00
+lastmod = 2022-09-05T14:41:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/d0d62414-0eb1-4036-aae9-da4db0eb1d52"
 +++
 
 > Greenware refers to unfired objects.

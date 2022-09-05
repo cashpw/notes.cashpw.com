@@ -2,10 +2,11 @@
 title = "Stable sorting algorithm"
 author = ["Cash Weaver"]
 date = 2022-07-01T11:08:00-07:00
-lastmod = 2022-08-26T22:06:23-07:00
+lastmod = 2022-09-05T14:51:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/740ce42a-3a80-4ecb-9438-fedff074443b"
 +++
 
 > Stable sort algorithms sort equal elements in the same order that they appear in the input.

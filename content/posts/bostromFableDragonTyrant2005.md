@@ -2,10 +2,11 @@
 title = "Nick Bostrom | The Fable of the Dragon Tyrant"
 author = ["Cash Weaver"]
 date = 2022-06-20T20:17:00-07:00
-lastmod = 2022-08-26T22:01:29-07:00
+lastmod = 2022-09-05T14:36:28-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/2a13c6a7-c74c-408b-b30e-69a18c9ad9ab"
 +++
 
 [Nick Bostrom]({{< relref "nick_bostrom.md" >}}), (<a href="#citeproc_bib_item_1">Bostrom 2005</a>)

@@ -2,10 +2,11 @@
 title = "Stochastic terrorism"
 author = ["Cash Weaver"]
 date = 2022-08-25T09:42:00-07:00
-lastmod = 2022-08-26T22:06:27-07:00
+lastmod = 2022-09-05T14:52:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/774196ec-f2f7-48d1-b3f9-e7c253378746"
 +++
 
 > Since 2018, the term "stochastic terrorism" has become a popular term used when discussing lone wolf attacks. While the exact definition has morphed over time, it has commonly come to refer to a concept whereby consistently demonizing or dehumanizing a targeted group or individual results in violence that is statistically likely, but cannot be easily accurately predicted.

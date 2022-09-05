@@ -2,10 +2,11 @@
 title = "Bubble sort"
 author = ["Cash Weaver"]
 date = 2022-06-30T10:47:00-07:00
-lastmod = 2022-08-26T22:01:33-07:00
+lastmod = 2022-09-05T14:36:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/c6bc266e-1090-492f-bdba-f044e04db3ff"
 +++
 
 > Bubble sort, sometimes referred to as sinking sort, is a simple [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.

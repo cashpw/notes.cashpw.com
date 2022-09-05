@@ -2,10 +2,11 @@
 title = "Define Abbreviations"
 author = ["Cash Weaver"]
 date = 2022-02-20T13:00:00-08:00
-lastmod = 2022-08-26T22:02:14-07:00
+lastmod = 2022-09-05T14:38:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/069f0ef5-36f9-4da1-88ba-d8f21db8fbe4"
 +++
 
 Abbreviations, initialisms, and other short-forms can be can confuse those without context. [Be explicit]({{< relref "be_explicit.md" >}}) to avoid such confusion:

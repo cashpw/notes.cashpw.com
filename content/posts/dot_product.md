@@ -2,10 +2,11 @@
 title = "Dot product"
 author = ["Cash Weaver"]
 date = 2022-07-24T11:41:00-07:00
-lastmod = 2022-08-26T22:02:26-07:00
+lastmod = 2022-09-05T14:39:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/a9b744d3-b4e2-4050-90de-85d59ed6beff /posts/scalar-product"
 +++
 
 ##  {#d41d8c}

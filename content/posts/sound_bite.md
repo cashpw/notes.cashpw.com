@@ -2,10 +2,11 @@
 title = "Sound bite"
 author = ["Cash Weaver"]
 date = 2022-08-05T15:26:00-07:00
-lastmod = 2022-08-26T22:06:14-07:00
+lastmod = 2022-09-05T14:51:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/1553a4d1-a2eb-489e-9f02-a0866f8f008c /posts/sound-bites"
 +++
 
 > A sound bite or soundbite is a short clip of speech or music extracted from a longer piece of audio, often used to promote or exemplify the full length piece. In the context of journalism, a sound bite is characterized by a short phrase or sentence that captures the essence of what the speaker was trying to say, and is used to summarize information and entice the reader or viewer. The term was coined by the U.S. media in the 1970s. Since then, politicians have increasingly employed sound bites to summarize their positions.

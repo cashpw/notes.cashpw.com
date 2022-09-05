@@ -2,10 +2,11 @@
 title = "Cedric Chin | To Get Good, Go After The Metagame"
 author = ["Cash Weaver"]
 date = 2022-02-07T08:01:00-08:00
-lastmod = 2022-08-26T22:01:44-07:00
+lastmod = 2022-09-05T14:37:17-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/4f9769a8-94c3-461c-b4be-933b522aab15"
 +++
 
 [Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020</a>)

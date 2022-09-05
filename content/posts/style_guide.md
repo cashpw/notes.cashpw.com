@@ -2,10 +2,11 @@
 title = "Style Guide"
 author = ["Cash Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2022-08-26T22:06:30-07:00
+lastmod = 2022-09-05T14:52:36-07:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
+aliases = "/posts/05911fff-a79b-4462-bf6d-a3cec4e1c9f2"
 +++
 
 A style guide for my [personal knowledge management]({{< relref "personal_knowledge_management.md" >}}) system (powered by [org-roam]({{< relref "org_roam.md" >}})):

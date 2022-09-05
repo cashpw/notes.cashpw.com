@@ -2,10 +2,11 @@
 title = "Vertex"
 author = ["Cash Weaver"]
 date = 2022-06-29T19:13:00-07:00
-lastmod = 2022-08-26T22:07:42-07:00
+lastmod = 2022-09-05T14:57:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/1b2526af-676d-4c0f-aa85-1ba05b8e7a93 /posts/vertices"
 +++
 
 > In mathematics, and more specifically in graph theory, a vertex (plural vertices) or node is the fundamental unit of which [Graph]({{< relref "graph.md" >}}) are formed: an undirected graph consists of a set of vertices and a set of [Edges]({{< relref "edge.md" >}}) (unordered pairs of vertices), while a directed graph consists of a set of vertices and a set of arcs (ordered pairs of vertices).

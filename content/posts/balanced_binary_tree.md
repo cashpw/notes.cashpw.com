@@ -2,10 +2,11 @@
 title = "Balanced binary tree"
 author = ["Cash Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-08-26T22:01:10-07:00
+lastmod = 2022-09-05T14:35:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/14876c69-a161-4b59-976a-d659cfe9435c"
 +++
 
 > A balanced binary tree is a binary tree structure in which the left and right subtrees of every node differ in height by no more than 1.

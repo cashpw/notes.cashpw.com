@@ -2,10 +2,11 @@
 title = "Cedric Chin | Expertise Is 'Just' Pattern Matching"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:53:00-08:00
-lastmod = 2022-08-26T22:01:43-07:00
+lastmod = 2022-09-05T14:37:14-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/b481f4e5-63b4-4455-8406-49825121b06c"
 +++
 
 [Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020</a>)

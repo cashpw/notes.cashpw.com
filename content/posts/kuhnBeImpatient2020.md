@@ -2,9 +2,10 @@
 title = "Ben Kuhn | Be Impatient"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:36:00-08:00
-lastmod = 2022-08-26T22:03:55-07:00
+lastmod = 2022-09-05T14:43:59-07:00
 tags = ["reference"]
 draft = false
+aliases = "/posts/2149d460-f6e0-4696-b34d-c2cc2228d8db"
 +++
 
 [Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn 2020</a>)

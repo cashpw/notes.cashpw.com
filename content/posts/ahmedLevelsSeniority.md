@@ -2,10 +2,11 @@
 title = "Kamran Ahmed | Levels of Seniority"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:50:00-08:00
-lastmod = 2022-08-26T22:00:44-07:00
+lastmod = 2022-09-05T14:34:37-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e"
 +++
 
 [Kamran Ahmed]({{< relref "kamran_ahmed.md" >}}), (<a href="#citeproc_bib_item_1">Ahmed n.d.</a>)

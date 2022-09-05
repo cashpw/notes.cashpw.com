@@ -2,10 +2,11 @@
 title = "Wikipedia | Zettelkasten"
 author = ["Cash Weaver"]
 date = 2022-02-06T18:03:00-08:00
-lastmod = 2022-08-26T22:00:37-07:00
+lastmod = 2022-09-05T14:34:24-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710"
 +++
 
 (<a href="#citeproc_bib_item_1">“Zettelkasten” 2021</a>)

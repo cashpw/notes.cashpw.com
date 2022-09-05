@@ -2,10 +2,11 @@
 title = "NATO phonetic alphabet"
 author = ["Cash Weaver"]
 date = 2022-07-26T07:41:00-07:00
-lastmod = 2022-08-26T22:03:38-07:00
+lastmod = 2022-09-05T14:43:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/c42b21e4-6ddb-452f-acb4-5cf9ab122e2e /posts/international-radiotelephony-spelling-alphabet"
 +++
 
 > The International Radiotelephony Spelling Alphabet, commonly known as the NATO phonetic alphabet, is the most widely used set of clear code words for communicating the letters of the English alphabet, technically a radiotelephonic spelling alphabet.

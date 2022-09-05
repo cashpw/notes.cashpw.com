@@ -2,10 +2,11 @@
 title = "Clay firing stages"
 author = ["Cash Weaver"]
 date = 2022-08-23T08:49:00-07:00
-lastmod = 2022-08-26T22:01:49-07:00
+lastmod = 2022-09-05T14:37:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/dff0f5e8-e2e5-41dc-a43d-6fd7c39b14be"
 +++
 
 1.  [Greenware]({{< relref "greenware.md" >}})

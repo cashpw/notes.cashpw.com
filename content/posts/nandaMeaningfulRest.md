@@ -2,10 +2,11 @@
 title = "Neel Nanda | Meaningful Rest"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:52:00-08:00
-lastmod = 2022-08-26T22:04:39-07:00
+lastmod = 2022-09-05T14:46:11-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/670eb58e-6802-4b6e-8f16-ce2e40276513"
 +++
 
 [Neel Nanda]({{< relref "neel_nanda.md" >}}), (<a href="#citeproc_bib_item_1">Nanda n.d.</a>)

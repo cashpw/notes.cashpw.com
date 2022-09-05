@@ -2,10 +2,11 @@
 title = "Wikipedia | Speculative Evolution"
 author = ["Cash Weaver"]
 date = 2022-02-18T15:04:00-08:00
-lastmod = 2022-08-26T22:00:31-07:00
+lastmod = 2022-09-05T14:34:17-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55"
 +++
 
 (<a href="#citeproc_bib_item_1">“Speculative Evolution” 2022</a>)

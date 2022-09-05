@@ -2,9 +2,10 @@
 title = "Herbert | Dune"
 author = ["Cash Weaver"]
 date = 2022-02-05T12:32:00-08:00
-lastmod = 2022-08-26T22:03:19-07:00
+lastmod = 2022-09-05T14:42:19-07:00
 tags = ["reference"]
 draft = false
+aliases = "/posts/68077361-66a6-4abe-b00f-dfb3d83630f2"
 +++
 
 [Frank Herbert]({{< relref "frank_herbert.md" >}}), (<a href="#citeproc_bib_item_1">Herbert 1999</a>)

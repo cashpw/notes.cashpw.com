@@ -2,10 +2,11 @@
 title = "The card says moops"
 author = ["Cash Weaver"]
 date = 2022-08-05T15:28:00-07:00
-lastmod = 2022-08-26T22:06:51-07:00
+lastmod = 2022-09-05T14:53:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/7e543b7d-8335-45e9-94ec-1392c0c91ce0"
 +++
 
 Performative irony used to win arguments and obfuscate the underlying guiding beliefs from the public and, often, themselves.

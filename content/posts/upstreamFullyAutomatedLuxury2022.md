@@ -2,10 +2,11 @@
 title = "Upstream | Fully Automated Luxury Communism"
 author = ["Cash Weaver"]
 date = 2022-07-21T09:40:00-07:00
-lastmod = 2022-08-26T22:07:35-07:00
+lastmod = 2022-09-05T14:57:01-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/4bb6597c-bbcb-431e-8639-9c64d41412e1"
 +++
 
 [Upstream]({{< relref "upstream.md" >}}), (<a href="#citeproc_bib_item_1">Upstream 2022</a>)

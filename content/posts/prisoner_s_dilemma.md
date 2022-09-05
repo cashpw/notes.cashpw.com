@@ -2,10 +2,11 @@
 title = "Prisoner's Dilemma"
 author = ["Cash Weaver"]
 date = 2022-03-14T07:01:00-07:00
-lastmod = 2022-08-26T22:05:21-07:00
+lastmod = 2022-09-05T14:48:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/780bd825-4c89-4eb6-ba02-de09fefc4694"
 +++
 
 > The prisoner's dilemma is a standard example of a game analyzed in [Game theory]({{< relref "game_theory.md" >}}) that shows why two completely rational individuals might not cooperate, even if it appears that it is in their best interests to do so.

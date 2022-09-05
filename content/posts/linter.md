@@ -2,10 +2,11 @@
 title = "Linter"
 author = ["Cash Weaver"]
 date = 2022-03-12T10:05:00-08:00
-lastmod = 2022-08-26T22:04:07-07:00
+lastmod = 2022-09-05T14:44:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/bb5a1f30-1733-41b5-9c34-bcac7f8cb701"
 +++
 
 > Lint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs.

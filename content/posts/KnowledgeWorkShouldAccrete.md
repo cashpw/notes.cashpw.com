@@ -2,10 +2,11 @@
 title = "Andy Matuschak | Knowledge Work Should Accrete"
 author = ["Cash Weaver"]
 date = 2022-02-11T20:02:00-08:00
-lastmod = 2022-08-26T22:00:22-07:00
+lastmod = 2022-09-05T14:34:05-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/3abdd6f0-2229-4f83-a0ac-078af4571f8c"
 +++
 
 [Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)

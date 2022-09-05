@@ -2,11 +2,11 @@
 title = "Write Prolifically; Write Succinctly"
 author = ["Cash Weaver"]
 date = 2022-01-17T07:28:00-08:00
-lastmod = 2022-08-26T22:07:52-07:00
+lastmod = 2022-09-05T14:58:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-roam_refs = ["https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/", "https://blog.kewah.com/2021/write-more-but-shorter/", "https://azdavis.net/posts/write-more-but-less/"]
+aliases = "/posts/d077ef5b-766b-4239-a40f-f775e101e185"
 +++
 
 ## Summary {#summary}

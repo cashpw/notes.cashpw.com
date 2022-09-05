@@ -2,10 +2,11 @@
 title = "Lint Your Prose"
 author = ["Cash Weaver"]
 date = 2022-03-12T10:04:00-08:00
-lastmod = 2022-08-26T22:04:05-07:00
+lastmod = 2022-09-05T14:44:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/6a5b1ddb-40c7-424a-9a57-68afbf45a9d5"
 +++
 
 You should use a [linter]({{< relref "linter.md" >}}) to analyze your prose.

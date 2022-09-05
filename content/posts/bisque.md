@@ -2,10 +2,11 @@
 title = "Bisque (Ceramics)"
 author = ["Cash Weaver"]
 date = 2022-08-23T08:59:00-07:00
-lastmod = 2022-08-26T22:01:24-07:00
+lastmod = 2022-09-05T14:36:13-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/7a78f2f9-4a22-43aa-86a7-11dceb13e96a /posts/biscuit"
 +++
 
 > Biscuit (also known as bisque) refers to any pottery that has been fired in a kiln without a ceramic glaze. This can be a final product such as biscuit porcelain or unglazed earthenware (such as terracotta) or, most commonly, an intermediate stage in a glazed final product.

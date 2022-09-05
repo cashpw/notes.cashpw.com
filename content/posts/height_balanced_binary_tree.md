@@ -2,10 +2,11 @@
 title = "Height-balanced binary tree"
 author = ["Cash Weaver"]
 date = 2022-07-23T16:52:00-07:00
-lastmod = 2022-08-26T22:03:18-07:00
+lastmod = 2022-09-05T14:42:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/86c3b62f-4766-4c76-856b-bebe9fe6d125"
 +++
 
 > For height-balanced [Binary trees]({{< relref "binary_tree.md" >}}), the height is defined to be logarithmic \\(O(\log n)\\) in the number \\(n\\) of items.

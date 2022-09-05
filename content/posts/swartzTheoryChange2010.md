@@ -2,8 +2,9 @@
 title = "Aaron Swartz | Theory of Change"
 author = ["Cash Weaver"]
 date = 2022-02-06T12:06:00-08:00
-lastmod = 2022-08-26T22:06:34-07:00
+lastmod = 2022-09-05T14:52:45-07:00
 draft = false
+aliases = "/posts/6d2276f9-4b72-46be-a4dc-9cdd41997122"
 +++
 
 [Aaron Swartz]({{< relref "aaron_swartz.md" >}}), (<a href="#citeproc_bib_item_1">Swartz 2010</a>)

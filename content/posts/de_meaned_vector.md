@@ -2,10 +2,11 @@
 title = "De-meaned vector"
 author = ["Cash Weaver"]
 date = 2022-08-17T09:17:00-07:00
-lastmod = 2022-08-26T22:02:13-07:00
+lastmod = 2022-09-05T14:38:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/4c405ac3-8a98-4e14-a2fd-44867a785071 /posts/de-meaned-vectors"
 +++
 
 > \\(\tilde{a} \overset{\Delta}{=} \vec{a} - \operatorname{avg}(\vec{a})\vec{1} = \mathbf{C}\vec{a}\\)

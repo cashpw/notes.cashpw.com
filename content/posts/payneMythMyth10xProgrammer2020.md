@@ -2,10 +2,11 @@
 title = "Andy Payne | The Myth of the Myth of the 10x Programmer"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:33:00-08:00
-lastmod = 2022-08-26T22:05:00-07:00
+lastmod = 2022-09-05T14:47:13-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/47d61b82-dbf0-42b1-b612-3065af126e55"
 +++
 
 [Andy Payne]({{< relref "andy_payne.md" >}}), (<a href="#citeproc_bib_item_1">Payne 2020</a>)

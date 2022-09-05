@@ -2,10 +2,11 @@
 title = "Norm"
 author = ["Cash Weaver"]
 date = 2022-08-22T08:35:00-07:00
-lastmod = 2022-08-26T22:04:51-07:00
+lastmod = 2022-09-05T14:46:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/d98f1ce2-f350-4be7-a8b1-a5741f908cdd"
 +++
 
 > In mathematics, a norm is a function from a real or complex vector space to the non-negative real numbers that behaves in certain ways like the distance from the origin: it commutes with scaling, obeys a form of the triangle inequality, and is zero only at the origin. In particular, the Euclidean distance of a vector from the origin is a norm, called the Euclidean norm, or 2-norm, which may also be defined as the square root of the inner product of a vector with itself.

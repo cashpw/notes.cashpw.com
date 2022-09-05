@@ -2,10 +2,11 @@
 title = "Robin Hanson | The Age of Em: Work, Love, and Life When Robots Rule the Earth"
 author = ["Cash Weaver"]
 date = 2022-03-15T09:05:00-07:00
-lastmod = 2022-08-26T22:03:09-07:00
+lastmod = 2022-09-05T14:41:49-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/6d55a204-cace-464c-b771-66bd9af50ed0"
 +++
 
 [Robin Hanson]({{< relref "robin_hanson.md" >}}), (<a href="#citeproc_bib_item_1">Hanson 2016</a>)

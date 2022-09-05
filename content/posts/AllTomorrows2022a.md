@@ -2,10 +2,11 @@
 title = "Wikipedia | All Tomorrows"
 author = ["Cash Weaver"]
 date = 2022-02-18T15:06:00-08:00
-lastmod = 2022-08-26T22:00:08-07:00
+lastmod = 2022-09-05T14:33:47-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/392666aa-baf5-4b52-b95f-e37b893ac63e"
 +++
 
 (<a href="#citeproc_bib_item_1">“All Tomorrows” 2022</a>)

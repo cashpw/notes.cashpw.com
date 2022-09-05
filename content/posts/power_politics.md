@@ -2,10 +2,11 @@
 title = "Power politics"
 author = ["Cash Weaver"]
 date = 2022-07-23T10:44:00-07:00
-lastmod = 2022-08-26T22:05:16-07:00
+lastmod = 2022-09-05T14:48:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/2e9a36f6-43e0-4f9a-af7e-64a4ef069a19"
 +++
 
 > Power politics is a theory in international relations which contends that distributions of power and national interests, or changes to those distributions, are fundamental causes of war and of system stability.

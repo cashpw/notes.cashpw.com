@@ -2,10 +2,11 @@
 title = "Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings"
 author = ["Cash Weaver"]
 date = 2022-02-06T21:10:00-08:00
-lastmod = 2022-08-26T22:04:22-07:00
+lastmod = 2022-09-05T14:45:19-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/91d7761c-fb74-4f25-94cc-948d7522b818"
 +++
 
 TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Marsh and Butler 2013</a>)

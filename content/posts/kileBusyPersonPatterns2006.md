@@ -2,10 +2,11 @@
 title = "James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns"
 author = ["Cash Weaver"]
 date = 2022-04-25T18:07:00-07:00
-lastmod = 2022-08-26T22:03:52-07:00
+lastmod = 2022-09-05T14:43:48-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
 +++
 
 (<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)

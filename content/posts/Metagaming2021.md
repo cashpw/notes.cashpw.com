@@ -2,10 +2,11 @@
 title = "Wikipedia | Metagaming"
 author = ["Cash Weaver"]
 date = 2022-02-21T17:01:00-08:00
-lastmod = 2022-08-26T22:00:25-07:00
+lastmod = 2022-09-05T14:34:09-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/5d636267-334b-4a01-b41d-c6cd6e826a26"
 +++
 
 (<a href="#citeproc_bib_item_1">“Metagaming” 2021</a>)

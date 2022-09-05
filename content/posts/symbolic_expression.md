@@ -2,10 +2,11 @@
 title = "Symbolic expression"
 author = ["Cash Weaver"]
 date = 2022-06-29T08:13:00-07:00
-lastmod = 2022-08-26T22:06:36-07:00
+lastmod = 2022-09-05T14:52:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/976fb83d-ae8c-427d-b47e-f0089b4d9ce1 /posts/symbolic-expressions-s-expression-sexp"
 +++
 
 > In computer programming, an S-expression (or symbolic expression, abbreviated as sexpr or sexp) is an expression in a like-named notation for nested list (tree-structured) data. S-expressions were invented for and popularized by the programming language Lisp, which uses them for source code as well as data.

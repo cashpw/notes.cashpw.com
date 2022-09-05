@@ -2,10 +2,11 @@
 title = "Ian Danskin | The Death of a Euphemism"
 author = ["Cash Weaver"]
 date = 2022-06-25T20:19:00-07:00
-lastmod = 2022-08-26T22:02:04-07:00
+lastmod = 2022-09-05T14:38:21-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/42c2aa22-7172-4a1e-a707-e3dc0f3c2684"
 +++
 
 [Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2018</a>)

@@ -2,10 +2,11 @@
 title = "Footnote to Howl"
 author = ["Cash Weaver"]
 date = 2022-03-14T08:54:00-07:00
-lastmod = 2022-08-26T22:02:46-07:00
+lastmod = 2022-09-05T14:40:40-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
+aliases = "/posts/99b2e935-acef-4ef6-9904-fbac7797c17b"
 +++
 
 <div class="verse">

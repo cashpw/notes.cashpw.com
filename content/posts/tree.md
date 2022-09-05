@@ -2,10 +2,11 @@
 title = "Tree"
 author = ["Cash Weaver"]
 date = 2022-06-28T14:47:00-07:00
-lastmod = 2022-08-26T22:07:26-07:00
+lastmod = 2022-09-05T14:56:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/1a068ad5-3e16-4ec4-b238-6fdc5904aeb4 /posts/trees"
 +++
 
 > In computer science, a tree is a widely used [Abstract data type]({{< relref "abstract_data_type.md" >}}) that represents a hierarchical tree structure with a set of connected [Vertices]({{< relref "vertex.md" >}}). Each node in the tree can be connected to many children (depending on the type of tree), but must be connected to exactly one parent, except for the root node, which has no parent. These constraints mean there are no cycles or "loops" (no node can be its own ancestor), and also that each child can be treated like the root node of its own subtree, making recursion a useful technique for tree traversal.

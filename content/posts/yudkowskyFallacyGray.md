@@ -2,10 +2,11 @@
 title = "Eliezer Yudkowsky | The Fallacy of Gray"
 author = ["Cash Weaver"]
 date = 2022-02-17T10:30:00-08:00
-lastmod = 2022-08-26T22:07:56-07:00
+lastmod = 2022-09-05T14:58:38-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/0c317a9b-c62b-418b-a78f-2543944dd8bc"
 +++
 
 [Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}}), (<a href="#citeproc_bib_item_1">Yudkowsky n.d.</a>)

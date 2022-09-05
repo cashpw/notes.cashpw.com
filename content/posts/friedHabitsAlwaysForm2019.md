@@ -2,10 +2,11 @@
 title = "Jason Fried | Habits Always Form"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:53:00-08:00
-lastmod = 2022-08-26T22:02:52-07:00
+lastmod = 2022-09-05T14:40:56-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/02b5bf70-cf7f-49d0-b1f0-60fc0270abb0"
 +++
 
 [Jason Fried]({{< relref "jason_fried.md" >}}), (<a href="#citeproc_bib_item_1">Fried 2019</a>)

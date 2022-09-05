@@ -2,10 +2,11 @@
 title = "Wikipedia | And Yet It Moves"
 author = ["Cash Weaver"]
 date = 2022-02-18T16:30:00-08:00
-lastmod = 2022-08-26T22:00:21-07:00
+lastmod = 2022-09-05T14:34:04-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/62c2da6b-ad55-4802-a334-f984b938b498 /posts/eppur-si-muove"
 +++
 
 (<a href="#citeproc_bib_item_1">“And yet It Moves” 2022</a>)

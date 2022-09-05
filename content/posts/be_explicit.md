@@ -2,10 +2,11 @@
 title = "Be Explicit"
 author = ["Cash Weaver"]
 date = 2022-02-20T10:59:00-08:00
-lastmod = 2022-08-26T22:01:13-07:00
+lastmod = 2022-09-05T14:35:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/fd00fbf2-6b65-442f-90b9-b9d5d64a5fde"
 +++
 
 -   Prefer being explicit rather than implicit in writing, etc

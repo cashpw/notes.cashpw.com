@@ -2,10 +2,11 @@
 title = "Quickselect"
 author = ["Cash Weaver"]
 date = 2022-07-01T16:09:00-07:00
-lastmod = 2022-08-26T22:05:27-07:00
+lastmod = 2022-09-05T14:48:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/df6876e1-5035-4432-9b8a-19898faa4fdd"
 +++
 
 > In computer science, quickselect is a [Selection algorithm]({{< relref "selection_algorithm.md" >}}) to find the kth smallest element in an unordered list. It is related to the [Quicksort]({{< relref "quicksort.md" >}}) [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}).

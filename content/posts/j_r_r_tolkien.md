@@ -2,10 +2,11 @@
 title = "J. R. R. Tolkien"
 author = ["Cash Weaver"]
 date = 2022-07-20T11:25:00-07:00
-lastmod = 2022-08-26T22:03:41-07:00
+lastmod = 2022-09-05T14:43:21-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
+aliases = "/posts/c1905dd8-5117-45c8-9da3-e822c22a932e"
 +++
 
 Among other things:

@@ -2,10 +2,11 @@
 title = "Zach Tellman | Trapped in the Technologist Factory"
 author = ["Cash Weaver"]
 date = 2022-02-19T09:32:00-08:00
-lastmod = 2022-08-26T22:06:47-07:00
+lastmod = 2022-09-05T14:53:28-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/1182a8b4-b808-47e2-92e3-f69bb9e57981"
 +++
 
 [Zach Tellman]({{< relref "zach_tellman.md" >}}), (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)

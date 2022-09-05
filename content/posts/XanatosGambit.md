@@ -2,10 +2,11 @@
 title = "TV Tropes | Xanatos Gambit"
 author = ["Cash Weaver"]
 date = 2022-02-09T08:27:00-08:00
-lastmod = 2022-08-26T22:00:36-07:00
+lastmod = 2022-09-05T14:34:22-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/8710324a-ceda-4590-86ee-ad11c3eb36b9"
 +++
 
 (<a href="#citeproc_bib_item_1">“Xanatos Gambit” n.d.</a>)

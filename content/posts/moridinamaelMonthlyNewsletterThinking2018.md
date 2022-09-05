@@ -2,10 +2,11 @@
 title = "moridinamael | The Monthly Newsletter as Thinking Tool"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:19:00-08:00
-lastmod = 2022-08-26T22:04:36-07:00
+lastmod = 2022-09-05T14:46:05-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/da8376c0-7849-47fd-9f79-fca821651232"
 +++
 
 [Matt Freeman]({{< relref "matt_freeman.md" >}}), (<a href="#citeproc_bib_item_1">moridinamael 2018</a>)

@@ -2,10 +2,11 @@
 title = "Bob Black | The Abolition of Work"
 author = ["Cash Weaver"]
 date = 2022-03-13T16:25:00-07:00
-lastmod = 2022-08-26T22:01:25-07:00
+lastmod = 2022-09-05T14:36:17-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/671f6f60-5e17-4830-b6a2-a002ce52a6da"
 +++
 
 [Bob Black]({{< relref "bob_black.md" >}}), (<a href="#citeproc_bib_item_1">Black n.d.</a>)

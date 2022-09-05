@@ -2,10 +2,11 @@
 title = "Ian Danskin | The Card Says Moops"
 author = ["Cash Weaver"]
 date = 2022-06-26T08:25:00-07:00
-lastmod = 2022-08-26T22:02:02-07:00
+lastmod = 2022-09-05T14:38:11-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/d23a7621-32c5-4cf6-8f2e-e9a84bb55eec"
 +++
 
 [Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2019</a>)

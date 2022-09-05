@@ -2,10 +2,11 @@
 title = "Carry water"
 author = ["Cash Weaver"]
 date = 2022-07-23T11:35:00-07:00
-lastmod = 2022-08-26T22:01:37-07:00
+lastmod = 2022-09-05T14:36:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/9237be48-e1c7-4dd7-b473-a8a92dd5f6fc"
 +++
 
 > To perform menial tasks for; to serve; to assist; to be forced by politics or pragmatism to endorse or promote a belief, individual, or organization that in reality one does not fully support.

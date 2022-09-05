@@ -2,10 +2,11 @@
 title = "Spacing Effect"
 author = ["Cash Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2022-08-26T22:06:17-07:00
+lastmod = 2022-09-05T14:51:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/37699e33-fccb-43bf-ab4b-ca9e74a03510"
 +++
 
 > The spacing effect demonstrates that learning is more effective when study sessions are spaced out.

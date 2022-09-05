@@ -2,10 +2,11 @@
 title = "David Thompson | My Favourite Git Commit"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:26:00-08:00
-lastmod = 2022-08-26T22:07:10-07:00
+lastmod = 2022-09-05T14:54:58-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/ffc0d2f1-9a41-4562-8625-a669a5110836"
 +++
 
 [David Thompson]({{< relref "david_thompson.md" >}}), (<a href="#citeproc_bib_item_1">Thompson 2019</a>)

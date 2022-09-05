@@ -2,10 +2,11 @@
 title = "Wikipedia | Serenity Prayer"
 author = ["Cash Weaver"]
 date = 2022-02-17T07:20:00-08:00
-lastmod = 2022-08-26T22:00:29-07:00
+lastmod = 2022-09-05T14:34:14-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/749f3b30-7a42-4262-9175-f9b2046557ec"
 +++
 
 Reinhold Niebuhr, (<a href="#citeproc_bib_item_1">“Serenity Prayer” 2021</a>)

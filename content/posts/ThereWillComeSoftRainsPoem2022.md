@@ -2,10 +2,11 @@
 title = "Sara Teasdale | There Will Come Soft Rains (Poem)"
 author = ["Cash Weaver"]
 date = 2022-04-01T10:39:00-07:00
-lastmod = 2022-08-26T22:00:32-07:00
+lastmod = 2022-09-05T14:34:18-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
+aliases = "/posts/afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1"
 +++
 
 <div class="verse">

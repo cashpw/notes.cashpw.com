@@ -2,10 +2,11 @@
 title = "Red-black tree"
 author = ["Cash Weaver"]
 date = 2022-07-23T16:54:00-07:00
-lastmod = 2022-08-26T22:05:37-07:00
+lastmod = 2022-09-05T14:49:34-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/019be402-8bef-48f3-afbf-6441010dd8cf"
 +++
 
 > In computer science, a red–black tree is a kind of [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}}). Each [Vertex]({{< relref "vertex.md" >}}) stores an extra bit representing "color" ("red" or "black"), used to ensure that the [Tree]({{< relref "tree.md" >}}) remains balanced during insertions and deletions.
@@ -50,19 +51,6 @@ draft = false
 
 Insertion may invalidate one or more [Properties](#properties) of the [Red-black tree]({{< relref "red_black_tree.md" >}}).
 
-```python
-class red_black_tree():
-    def insert(key, value):
-        inserted_node = binary_tree_insert(key, value)
-        insert_fix(inserted_node)
-
-    def binary_tree_insert(value):
-        pass
-
-    def insert_fix(inserted_node):
-        pass
-```
-
 
 #### Cases {#cases}
 
@@ -77,6 +65,22 @@ class red_black_tree():
 -  2: Parent and uncle are both red
 
     The third [Properties](#properties)
+
+
+#### Implementation {#implementation}
+
+```python
+class red_black_tree():
+    def insert(key, value):
+        inserted_node = binary_tree_insert(key, value)
+        insert_fix(inserted_node)
+
+    def binary_tree_insert(value):
+        pass
+
+    def insert_fix(inserted_node):
+        pass
+```
 
 
 ### Deletion {#deletion}

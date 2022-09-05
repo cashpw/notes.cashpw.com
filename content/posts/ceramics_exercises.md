@@ -2,8 +2,9 @@
 title = "Ceramics Exercises"
 author = ["Cash Weaver"]
 date = 2022-01-10T19:13:00-08:00
-lastmod = 2022-08-26T22:01:40-07:00
+lastmod = 2022-09-05T14:37:03-07:00
 draft = false
+aliases = "/posts/a500c749-aab9-4150-876f-6f40c76bba35"
 +++
 
 ****Throw/form as much as possible.****

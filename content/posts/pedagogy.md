@@ -2,10 +2,11 @@
 title = "Pedagogy"
 author = ["Cash Weaver"]
 date = 2022-07-18T18:48:00-07:00
-lastmod = 2022-08-26T22:05:01-07:00
+lastmod = 2022-09-05T14:47:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/85cfa8c4-9c7b-47d9-a593-8548385027f7"
 +++
 
 > Pedagogy, most commonly understood as the approach to teaching, is the theory and practice of learning, and how this process influences, and is influenced by, the social, political and psychological development of learners.

@@ -2,10 +2,11 @@
 title = "Three Components of Emotion"
 author = ["Cash Weaver"]
 date = 2021-12-13T01:03:00-08:00
-lastmod = 2022-08-26T22:07:13-07:00
+lastmod = 2022-09-05T14:55:05-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/449940d4-8cd4-4b71-bf71-5bd719c7a6d0"
 +++
 
 (<a href="#citeproc_bib_item_1">“The Science of Emotion: Exploring the Basics of Emotional Psychology” 2019</a>)

@@ -2,10 +2,11 @@
 title = "Tom Limoncelli"
 author = ["Cash Weaver"]
 date = 2022-02-21T15:50:00-08:00
-lastmod = 2022-08-26T22:07:19-07:00
+lastmod = 2022-09-05T14:55:36-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
+aliases = "/posts/d2129f29-f3a1-4e10-8a25-25ae81b949a5"
 +++
 
 > Tom Limoncelli is an American system administrator, author, and speaker. A system administrator and network engineer since 1987, he speaks at conferences around the world on topics ranging from firewall security to time management.

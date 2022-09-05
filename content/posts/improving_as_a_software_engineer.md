@@ -2,10 +2,11 @@
 title = "Improving as a Software Engineer"
 author = ["Cash Weaver"]
 date = 2022-01-29T14:08:00-08:00
-lastmod = 2022-08-26T22:03:33-07:00
+lastmod = 2022-09-05T14:43:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = true
+aliases = "/posts/3442bdf5-97f0-496e-9d8c-3c368e9ea517"
 +++
 
 ## Incomplete ideas {#incomplete-ideas}

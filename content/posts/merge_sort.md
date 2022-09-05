@@ -2,10 +2,11 @@
 title = "Merge sort"
 author = ["Cash Weaver"]
 date = 2022-07-01T11:23:00-07:00
-lastmod = 2022-08-26T22:04:28-07:00
+lastmod = 2022-09-05T14:45:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/4ad76968-7e82-4d68-b8fa-ff6059f3c843"
 +++
 
 > Conceptually, a merge sort works as follows:

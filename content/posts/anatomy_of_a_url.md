@@ -2,10 +2,11 @@
 title = "Anatomy of a URL"
 author = ["Cash Weaver"]
 date = 2022-07-20T10:48:00-07:00
-lastmod = 2022-08-26T22:00:56-07:00
+lastmod = 2022-09-05T14:35:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/56aebaa3-d4d6-4a06-98a2-186ed655d11e"
 +++
 
 Using `http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats` as an example (<a href="#citeproc_bib_item_1">MDN n.d.</a>):

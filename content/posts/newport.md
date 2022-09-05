@@ -2,9 +2,10 @@
 title = "Cal Newport | About"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:14:00-08:00
-lastmod = 2022-08-26T22:04:44-07:00
+lastmod = 2022-09-05T14:46:28-07:00
 tags = ["reference"]
 draft = false
+aliases = "/posts/aa3b22f0-3771-464e-824d-8d0eeb7f331b"
 +++
 
 -   Source: (<a href="#citeproc_bib_item_1">Newport n.d.</a>)

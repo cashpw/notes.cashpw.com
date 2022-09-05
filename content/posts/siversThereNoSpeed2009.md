@@ -2,10 +2,11 @@
 title = "Derek Sivers | There's No Speed Limit"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:34:00-08:00
-lastmod = 2022-08-26T22:06:04-07:00
+lastmod = 2022-09-05T14:50:56-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/e02451fc-c9d5-4c02-849b-d9b7d4cc95a7"
 +++
 
 [Derek Sivers]({{< relref "derek_sivers.md" >}}), (<a href="#citeproc_bib_item_1">Sivers 2009</a>)

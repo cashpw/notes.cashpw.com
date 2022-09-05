@@ -2,10 +2,11 @@
 title = "Play to Win"
 author = ["Cash Weaver"]
 date = 2022-02-16T19:22:00-08:00
-lastmod = 2022-08-26T22:05:10-07:00
+lastmod = 2022-09-05T14:47:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/4398317e-6aa1-4dd4-b2a5-6334256ca2cc"
 +++
 
 ##  {#d41d8c}

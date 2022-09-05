@@ -2,10 +2,11 @@
 title = "We Do Not Fund Anything That We Don't Control"
 author = ["Cash Weaver"]
 date = 2022-04-08T18:09:00-07:00
-lastmod = 2022-08-26T22:07:45-07:00
+lastmod = 2022-09-05T14:57:54-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
+aliases = "/posts/2d9b95fd-f885-44c5-9723-c5071157949d"
 +++
 
 > We do not fund anything that we don't control

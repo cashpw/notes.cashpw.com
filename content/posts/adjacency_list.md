@@ -2,10 +2,11 @@
 title = "Adjacency list"
 author = ["Cash Weaver"]
 date = 2022-06-29T19:07:00-07:00
-lastmod = 2022-08-26T22:00:42-07:00
+lastmod = 2022-09-05T14:34:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/a95ec6df-303d-4a07-a9bd-ac6e4b807679"
 +++
 
 > In graph theory and computer science, an adjacency list is a collection of unordered lists used to represent a finite graph.

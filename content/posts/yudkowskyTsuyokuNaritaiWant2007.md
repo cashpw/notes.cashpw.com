@@ -2,10 +2,11 @@
 title = "Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)"
 author = ["Cash Weaver"]
 date = 2022-02-07T08:06:00-08:00
-lastmod = 2022-08-26T22:07:58-07:00
+lastmod = 2022-09-05T14:58:43-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/9bbe0740-9dff-4d2a-908e-535e96ea4e59"
 +++
 
 [Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}}), (<a href="#citeproc_bib_item_1">Yudkowsky 2007</a>)

@@ -2,10 +2,11 @@
 title = "Tragedy of the commons"
 author = ["Cash Weaver"]
 date = 2022-03-14T08:05:00-07:00
-lastmod = 2022-08-26T22:07:21-07:00
+lastmod = 2022-09-05T14:55:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/d6d36741-18ca-48fe-bb2e-85bc849ddd93"
 +++
 
 > [...] a situation in which individual users, who have open access to a resource unhampered by shared social structures or formal rules that govern access and use, act independently according to their own self-interest and, contrary to the common good of all users, cause depletion of the resource through their uncoordinated action.

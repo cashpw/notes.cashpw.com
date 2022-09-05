@@ -2,9 +2,11 @@
 title = "The medium is the message"
 author = ["Cash Weaver"]
 date = 2022-08-26T15:18:00-07:00
+lastmod = 2022-09-05T14:54:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/91fe1528-88d1-4168-91f1-cf10b175db49"
 +++
 
 ##  {#d41d8c}

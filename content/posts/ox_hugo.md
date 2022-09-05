@@ -2,9 +2,9 @@
 title = "ox-hugo"
 author = ["Cash Weaver"]
 date = 2022-02-06T09:06:00-08:00
-lastmod = 2022-08-26T22:04:57-07:00
+lastmod = 2022-09-05T14:47:04-07:00
 draft = false
-roam_refs = ["https://github.com/kaushalmodi/ox-hugo"]
+aliases = "/posts/5b40598c-308f-429d-8a0a-9c72bc1653f3"
 +++
 
 > ox-hugo is an Org exporter backend that exports Org to Hugo-compatible Markdown (Blackfriday) and also generates the front-matter (in TOML or YAML format).

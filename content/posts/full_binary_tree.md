@@ -2,10 +2,11 @@
 title = "Full binary tree"
 author = ["Cash Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-08-26T22:02:53-07:00
+lastmod = 2022-09-05T14:40:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/25395d14-712a-4f0a-8fec-ee18152bc757"
 +++
 
 > A full binary tree (sometimes referred to as a proper or plane or strict binary tree) is a tree in which every node has either 0 or 2 children.

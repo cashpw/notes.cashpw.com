@@ -2,10 +2,11 @@
 title = "Zach Tellman | Senior Engineers Reduce Risk"
 author = ["Cash Weaver"]
 date = 2022-02-18T19:25:00-08:00
-lastmod = 2022-08-26T22:06:44-07:00
+lastmod = 2022-09-05T14:53:18-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/e7753777-506e-490e-b79e-59dede5dce2e"
 +++
 
 [Zach Tellman]({{< relref "zach_tellman.md" >}}), (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)

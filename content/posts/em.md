@@ -2,10 +2,9 @@
 title = "Em"
 author = ["Cash Weaver"]
 date = 2022-03-15T09:00:00-07:00
-lastmod = 2022-08-26T22:02:35-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+tags = ["concept"]
 draft = false
+aliases = "/posts/8e50c265-f020-4b20-bf7f-f7a3ce818bba /posts/ems"
 +++
 
 Ems are copies of human minds which exist on computers in [Robin Hanson | The Age of Em: Work, Love, and Life When Robots Rule the Earth]({{< relref "hansonAgeEmWorkLoveLifeWhenRobotsRuleEarth2016.md" >}}).

@@ -2,10 +2,11 @@
 title = "Filter Bubble"
 author = ["Cash Weaver"]
 date = 2022-03-12T07:26:00-08:00
-lastmod = 2022-08-26T22:02:42-07:00
+lastmod = 2022-09-05T14:40:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/895e6fb7-8503-486a-978f-9c1dc155d373"
 +++
 
 > A filter bubble [...] is a state of intellectual isolation that can result from personalized searches when a website algorithm selectively guesses what information a user would like to see based on information about the user, such as location, past click-behavior and search history.

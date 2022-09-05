@@ -2,10 +2,11 @@
 title = "Clay shrinkage"
 author = ["Cash Weaver"]
 date = 2022-08-23T09:07:00-07:00
-lastmod = 2022-08-26T22:01:50-07:00
+lastmod = 2022-09-05T14:37:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/ba4b74e8-2d33-43ec-bd03-b9ff320ed65a"
 +++
 
 > During drying, clay particles draw together and shrinkage occurs. During firing the matrix densifies and shrinkage continues. More vitreous bodies shrink more.

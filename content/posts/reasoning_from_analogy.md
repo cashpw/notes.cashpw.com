@@ -2,10 +2,11 @@
 title = "Reasoning from Analogy"
 author = ["Cash Weaver"]
 date = 2022-03-12T08:24:00-08:00
-lastmod = 2022-08-26T22:05:34-07:00
+lastmod = 2022-09-05T14:49:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/58c81d3f-d1ab-44b8-8ff1-32c5baa6c1e0 /posts/reasoning-from-assumption"
 +++
 
 The act of using analogy, assumptions, and otherwise pre-existing arguments, to build an argument, proof, etc.

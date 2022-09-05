@@ -2,10 +2,11 @@
 title = "Python typing"
 author = ["Cash Weaver"]
 date = 2022-08-25T09:29:00-07:00
-lastmod = 2022-08-26T22:05:25-07:00
+lastmod = 2022-09-05T14:48:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/7667a3b3-727e-42e4-a2e6-a3d7c7169366"
 +++
 
 Type hints in [Python]({{< relref "python.md" >}}).

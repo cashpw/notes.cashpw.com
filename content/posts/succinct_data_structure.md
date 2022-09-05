@@ -2,10 +2,11 @@
 title = "Succinct data structure"
 author = ["Cash Weaver"]
 date = 2022-06-29T09:35:00-07:00
-lastmod = 2022-08-26T22:06:32-07:00
+lastmod = 2022-09-05T14:52:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9"
 +++
 
 > In computer science, a succinct data structure is a data structure which uses an amount of space that is "close" to the information-theoretic lower bound, but (unlike other compressed representations) still allows for efficient query operations.

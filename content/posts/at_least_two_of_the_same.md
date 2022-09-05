@@ -2,10 +2,11 @@
 title = "At Least Two of the Same"
 author = ["Cash Weaver"]
 date = 2021-12-02T12:00:00-08:00
-lastmod = 2022-08-26T22:01:05-07:00
+lastmod = 2022-09-05T14:35:28-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
+aliases = "/posts/ce1622e0-9f93-47fd-a5b2-5acd981caabf"
 +++
 
 > I always do at least 2 of the same, so I can see where my work was intentional and where it was accidental.

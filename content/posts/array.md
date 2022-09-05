@@ -2,10 +2,11 @@
 title = "Array"
 author = ["Cash Weaver"]
 date = 2022-06-29T09:38:00-07:00
-lastmod = 2022-08-26T22:01:03-07:00
+lastmod = 2022-09-05T14:35:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/79b155d7-5a67-469d-b3f4-b8010cad8b54 /posts/arrays"
 +++
 
 > In computer science, an array [Data structure]({{< relref "data_structures.md" >}}), or simply an array, is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula.

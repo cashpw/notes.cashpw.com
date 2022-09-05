@@ -2,10 +2,11 @@
 title = "Dog whistle"
 author = ["Cash Weaver"]
 date = 2022-06-25T18:26:00-07:00
-lastmod = 2022-08-26T22:02:23-07:00
+lastmod = 2022-09-05T14:39:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff"
 +++
 
 > [...] the use of coded or suggestive language in political messaging to garner support from a particular group without provoking opposition. [...] Dog whistles use language that appears normal to the majority but communicates specific things to intended audiences. They are generally used to convey messages on issues likely to provoke controversy without attracting negative attention.

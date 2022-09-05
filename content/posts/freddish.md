@@ -2,10 +2,11 @@
 title = "Freddish"
 author = ["Cash Weaver"]
 date = 2022-03-13T17:59:00-07:00
-lastmod = 2022-08-26T22:02:51-07:00
+lastmod = 2022-09-05T14:40:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/99e14785-13bb-420c-b0b5-b14bad1bd163"
 +++
 
 Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would speak with children.

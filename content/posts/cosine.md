@@ -2,10 +2,11 @@
 title = "Cosine"
 author = ["Cash Weaver"]
 date = 2022-08-19T10:43:00-07:00
-lastmod = 2022-08-26T22:01:58-07:00
+lastmod = 2022-09-05T14:37:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/8f39b616-dc89-4597-b689-c65aecde4a05"
 +++
 
 \\(\begin{aligned}\href{/posts/cosine}{\cos}(\alpha) &= \frac{\text{adjacent}}{\text{hypotenuse}} \\\ &= \frac{\href{/posts/sine}{\sin}(\alpha)}{\href{/posts/tangent}{\tan}(\alpha)}\end{aligned}\\)

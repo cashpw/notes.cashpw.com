@@ -2,10 +2,11 @@
 title = "Julian Shapiro | Writing Well Handbook"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:13:00-08:00
-lastmod = 2022-08-26T22:03:50-07:00
+lastmod = 2022-09-05T14:43:43-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/248e3cc9-0511-4e71-afd6-19320d3fd61d"
 +++
 
 [Julian Shapiro]({{< relref "julian_shapiro.md" >}})

@@ -2,10 +2,11 @@
 title = "Bayes's Theorem"
 author = ["Cash Weaver"]
 date = 2022-04-01T18:45:00-07:00
-lastmod = 2022-08-26T22:01:12-07:00
+lastmod = 2022-09-05T14:35:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/b07a1490-3847-4b65-80bb-17e3f4927cfb"
 +++
 
 \\[P(A|B) = \frac{P(B|A)P(A)}{P(B)}\\]

@@ -2,10 +2,11 @@
 title = "Reasoning from first principles"
 author = ["Cash Weaver"]
 date = 2022-03-12T08:18:00-08:00
-lastmod = 2022-08-26T22:05:36-07:00
+lastmod = 2022-09-05T14:49:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/0b13cdf1-2678-420e-b919-4a349d4ef81a /posts/first-principles-thinking"
 +++
 
 > First principles thinking consists of deriving things to their fundamental proven axioms [[First principles]({{< relref "first_principles.md" >}})] in the given arena, before reasoning up by asking which ones are relevant to the question at hand, then cross referencing conclusions based on chosen axioms and making sure conclusions don't violate any fundamental laws.

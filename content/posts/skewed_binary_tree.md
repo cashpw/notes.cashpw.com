@@ -2,10 +2,11 @@
 title = "Skewed binary tree"
 author = ["Cash Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-08-26T22:06:05-07:00
+lastmod = 2022-09-05T14:50:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/4c7bf5db-dc29-44a1-bb77-36d560b38688"
 +++
 
 > A skewed binary tree is a pathological/degenerate tree in which the tree is either dominated by the left nodes or the right nodes. Thus, there are two types of skewed binary tree: left-skewed binary tree and right-skewed binary tree.

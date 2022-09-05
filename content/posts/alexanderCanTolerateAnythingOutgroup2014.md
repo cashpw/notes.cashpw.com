@@ -2,10 +2,11 @@
 title = "Scott Alexander | I Can Tolerate Anything Except The Outgroup"
 author = ["Cash Weaver"]
 date = 2022-06-23T20:41:00-07:00
-lastmod = 2022-08-26T22:00:47-07:00
+lastmod = 2022-09-05T14:34:42-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/0a065f64-1e20-4bbf-8c4b-2a60415bdb43"
 +++
 
 [Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2014</a>)

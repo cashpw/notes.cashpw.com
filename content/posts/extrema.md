@@ -2,10 +2,11 @@
 title = "Extrema"
 author = ["Cash Weaver"]
 date = 2022-03-14T07:31:00-07:00
-lastmod = 2022-08-26T22:02:41-07:00
+lastmod = 2022-09-05T14:40:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/0318ca22-3322-437d-916e-4a4724cd52b8"
 +++
 
 -   [Global Minima]({{< relref "global_minima.md" >}})

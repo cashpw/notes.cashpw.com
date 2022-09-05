@@ -2,10 +2,11 @@
 title = "Inferential distance"
 author = ["Cash Weaver"]
 date = 2022-08-22T09:53:00-07:00
-lastmod = 2022-08-26T22:03:35-07:00
+lastmod = 2022-09-05T14:43:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/5185ffd0-b643-484a-a69d-85b7579eb38d /posts/inferential-gap"
 +++
 
 The inferential distance between two people, the teacher and the student, with respect to some concept one is trying to explain is the set of prerequisite knowledge which is (1) necessary to understand the concept and (2) lacked by the student.

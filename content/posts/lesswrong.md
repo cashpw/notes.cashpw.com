@@ -2,8 +2,9 @@
 title = "LessWrong"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:38:00-08:00
-lastmod = 2022-08-26T22:04:01-07:00
+lastmod = 2022-09-05T14:44:15-07:00
 draft = false
+aliases = "/posts/820021b3-7576-4516-9fe2-51cbfe263ebe"
 +++
 
 A rationalist community and website.

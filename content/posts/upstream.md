@@ -2,10 +2,11 @@
 title = "Upstream"
 author = ["Cash Weaver"]
 date = 2022-07-21T09:53:00-07:00
-lastmod = 2022-08-26T22:07:34-07:00
+lastmod = 2022-09-05T14:56:51-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/30953f1f-a780-4d6c-8dcb-2f685cbe8501"
 +++
 
 > UNLEARN EVERYTHING YOU THOUGHT YOU KNEW ABOUT ECONOMICS

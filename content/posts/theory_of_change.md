@@ -2,8 +2,9 @@
 title = "Theory of Change"
 author = ["Cash Weaver"]
 date = 2021-12-03T12:28:00-08:00
-lastmod = 2022-08-26T22:07:05-07:00
+lastmod = 2022-09-05T14:54:41-07:00
 draft = false
+aliases = "/posts/cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
 +++
 
 > A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, "Concretely, how does one achieve that?"

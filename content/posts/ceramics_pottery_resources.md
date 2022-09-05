@@ -2,8 +2,9 @@
 title = "Ceramics/Pottery Resources"
 author = ["Cash Weaver"]
 date = 2022-01-02T20:16:00-08:00
-lastmod = 2022-08-26T22:01:41-07:00
+lastmod = 2022-09-05T14:37:06-07:00
 draft = false
+aliases = "/posts/0b2473da-3953-457c-b68c-4abc7a235d17"
 +++
 
 ## Learn {#learn}

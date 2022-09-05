@@ -2,10 +2,11 @@
 title = "Antisymmetric relation"
 author = ["Cash Weaver"]
 date = 2022-07-23T17:11:00-07:00
-lastmod = 2022-08-26T22:00:59-07:00
+lastmod = 2022-09-05T14:35:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/875bfbf2-61ad-4f0a-9833-245dc5adc561"
 +++
 
 ##  {#d41d8c}

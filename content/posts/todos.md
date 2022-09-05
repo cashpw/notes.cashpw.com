@@ -2,8 +2,9 @@
 title = "Todos"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2022-08-26T22:07:17-07:00
+lastmod = 2022-09-05T14:55:33-07:00
 draft = false
+aliases = "/posts/29171a49-1148-45e0-b2d4-26d2066b51b7"
 +++
 
 ## Node idea: Specifics of my blog post authoring process with `emacs`, `org-mode`, `ox-hugo`, and `org-roam`. {#node-idea-specifics-of-my-blog-post-authoring-process-with-emacs-org-mode-ox-hugo-and-org-roam-dot}

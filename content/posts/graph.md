@@ -2,10 +2,11 @@
 title = "Graph"
 author = ["Cash Weaver"]
 date = 2022-06-29T16:42:00-07:00
-lastmod = 2022-08-26T22:03:04-07:00
+lastmod = 2022-09-05T14:41:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/8bff4dfc-8073-4d45-ab89-7b3f97323327 /posts/graphs"
 +++
 
 > In mathematics, and more specifically in [Graph Theory]({{< relref "graph_theory.md" >}}), a graph is a structure amounting to a set of objects in which some pairs of the objects are in some sense "related". The objects correspond to mathematical abstractions called [Vertices]({{< relref "vertex.md" >}}) (also called nodes or points) and each of the related pairs of vertices is called an [Edge]({{< relref "edge.md" >}}) (also called link or line).

@@ -2,10 +2,11 @@
 title = "For the lulz"
 author = ["Cash Weaver"]
 date = 2022-06-25T18:19:00-07:00
-lastmod = 2022-08-26T22:02:48-07:00
+lastmod = 2022-09-05T14:40:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/54072a82-9f61-443d-b51e-af74fc18e895"
 +++
 
 > A term used to justify ridiculous, pointless and occasionally gratuitous behaviour.

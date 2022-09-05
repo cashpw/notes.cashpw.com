@@ -2,10 +2,11 @@
 title = "Matrix of ones"
 author = ["Cash Weaver"]
 date = 2022-08-19T18:27:00-07:00
-lastmod = 2022-08-26T22:04:24-07:00
+lastmod = 2022-09-05T14:45:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/c0af4445-3f47-49bf-a5f3-f6d730c440bb"
 +++
 
 > In mathematics, a [Matrix]({{< relref "matrix.md" >}}) of ones or all-ones matrix is a matrix where every element is equal to one. Examples of standard notation are given below:

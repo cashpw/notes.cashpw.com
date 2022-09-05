@@ -2,10 +2,11 @@
 title = "Forest"
 author = ["Cash Weaver"]
 date = 2022-07-05T17:57:00-07:00
-lastmod = 2022-08-26T22:02:49-07:00
+lastmod = 2022-09-05T14:40:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/326df302-a17b-4f2c-8bcd-027be7a459f5"
 +++
 
 > A forest is an undirected [Graph]({{< relref "graph.md" >}}) in which any two [Vertices]({{< relref "vertex.md" >}}) are connected by at most one path, or equivalently an acyclic [Undirected graph]({{< relref "undirected_graph.md" >}}) or equivalently a disjoint union of trees.

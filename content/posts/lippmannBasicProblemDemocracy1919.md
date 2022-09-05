@@ -2,10 +2,11 @@
 title = "Walter Lippmann | The Basic Problem of Democracy"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:13:00-08:00
-lastmod = 2022-08-26T22:04:08-07:00
+lastmod = 2022-09-05T14:44:33-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/c3261b11-bf35-4ecd-b796-4157d766e7ed"
 +++
 
 [Walter Lippman]({{< relref "walter_lippman.md" >}}), (<a href="#citeproc_bib_item_1">Lippmann 1919</a>)

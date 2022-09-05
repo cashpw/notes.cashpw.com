@@ -2,10 +2,11 @@
 title = "Jason Fried"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:53:00-08:00
-lastmod = 2022-08-26T22:03:43-07:00
+lastmod = 2022-09-05T14:43:25-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
+aliases = "/posts/a9705d03-a4bf-4f25-935f-5aaa78a41a07"
 +++
 
 Among other things:

@@ -2,10 +2,11 @@
 title = "Wiktionary | Fait Accompli"
 author = ["Cash Weaver"]
 date = 2022-03-07T09:35:00-08:00
-lastmod = 2022-08-26T22:00:17-07:00
+lastmod = 2022-09-05T14:34:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/ecc8e89c-b85e-454f-a67a-dded3fbb7587"
 +++
 
 > Often said of something irreversible and/or performed without going through standard procedure, completed before those affected by it are in a position to query or reverse it.

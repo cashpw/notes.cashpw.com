@@ -2,10 +2,11 @@
 title = "Albert Camus"
 author = ["Cash Weaver"]
 date = 2022-06-21T12:33:00-07:00
-lastmod = 2022-08-26T22:00:44-07:00
+lastmod = 2022-09-05T14:34:38-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
+aliases = "/posts/19235d66-4df3-4f69-bf31-bc9876bc20cf"
 +++
 
 Among other things:

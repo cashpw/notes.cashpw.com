@@ -2,10 +2,11 @@
 title = "Polarity"
 author = ["Cash Weaver"]
 date = 2022-07-16T19:29:00-07:00
-lastmod = 2022-08-26T22:05:11-07:00
+lastmod = 2022-09-05T14:47:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/621bc458-5d22-462d-89df-e3f8e13d6dc4"
 +++
 
 > Polarity in international relations is any of the various ways in which power is distributed within the international system. It describes the nature of the international system at any given period of time. One generally distinguishes three types of systems: unipolarity, bipolarity, and multipolarity for three or more centers of power.

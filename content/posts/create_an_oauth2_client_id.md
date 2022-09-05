@@ -2,8 +2,9 @@
 title = "Create an OAuth2 Client ID"
 author = ["Cash Weaver"]
 date = 2021-12-27T19:48:00-08:00
-lastmod = 2022-08-26T22:01:58-07:00
+lastmod = 2022-09-05T14:37:59-07:00
 draft = false
+aliases = "/posts/486b286b-8806-4282-af4e-cfbac4fb0990"
 +++
 
 A short guide to creating an OAuth2 Client ID through the Google Cloud Console.

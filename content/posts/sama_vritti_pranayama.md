@@ -2,10 +2,11 @@
 title = "Sama Vritti Pranayama"
 author = ["Cash Weaver"]
 date = 2022-01-31T10:32:00-08:00
-lastmod = 2022-08-26T22:05:50-07:00
+lastmod = 2022-09-05T14:50:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/6057ca27-4e3e-41d0-9fbe-78f9084f822d /posts/square-breathing /posts/box-breathing"
 +++
 
 A four-part breathing technique:

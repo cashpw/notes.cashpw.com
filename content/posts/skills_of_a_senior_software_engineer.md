@@ -2,10 +2,11 @@
 title = "Skills of a Senior Software Engineer"
 author = ["Cash Weaver"]
 date = 2022-02-21T15:20:00-08:00
-lastmod = 2022-08-26T22:06:06-07:00
+lastmod = 2022-09-05T14:51:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/973e037c-6ae7-4c6a-abf8-57339feb49f9"
 +++
 
 A senior software engineer is an amorphous title. Companies will often use their own term, or invent further terms above or below "senior". The definition or requirements will be different for each person you ask.

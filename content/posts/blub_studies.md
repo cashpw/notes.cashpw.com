@@ -2,10 +2,11 @@
 title = "Blub Studies"
 author = ["Cash Weaver"]
 date = 2022-03-12T05:09:00-08:00
-lastmod = 2022-08-26T22:01:28-07:00
+lastmod = 2022-09-05T14:36:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/ca6fd965-8c9c-470c-b020-8fe0765ceb20"
 +++
 
 Blub studies are the "mundane, ultra-specific-seeming knowledge" (<a href="#citeproc_bib_item_1">Kuhn n.d.</a>) underlying something. It's the "fiddly technical details" (<a href="#citeproc_bib_item_1">Kuhn n.d.</a>). "There's a seemingly infinite amount of it, full of bespoke details for you to stumble over, and that makes it, often, unbelievably frustrating" (<a href="#citeproc_bib_item_1">Kuhn n.d.</a>).

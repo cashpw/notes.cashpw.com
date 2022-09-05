@@ -2,10 +2,11 @@
 title = "Season a cast iron skillet"
 author = ["Cash Weaver"]
 date = 2022-06-21T18:51:00-07:00
-lastmod = 2022-08-26T22:05:52-07:00
+lastmod = 2022-09-05T14:50:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/cf234015-e1ce-4689-97c8-e3848e435742"
 +++
 
 > The basic idea is this: Smear a food-grade drying oil onto a cast iron pan, and then bake it above the oil's smoke point. This will initiate the release of free radicals and polymerization. The more drying the oil, the harder the polymer. So start with the right oil.

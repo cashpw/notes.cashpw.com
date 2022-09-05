@@ -2,8 +2,9 @@
 title = "Goals for 2021"
 author = ["Cash Weaver"]
 date = 2021-01-02T13:04:00-08:00
-lastmod = 2022-08-26T22:03:01-07:00
+lastmod = 2022-09-05T14:41:19-07:00
 draft = false
+aliases = "/posts/60abd5dd-30f8-482c-8de7-421e25ed847e"
 +++
 
 The unexamined life is not worth living, [man](https://youtu.be/l2kN7pEME4o?t=51).

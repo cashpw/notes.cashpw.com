@@ -2,10 +2,11 @@
 title = "Post-order tree traversal"
 author = ["Cash Weaver"]
 date = 2022-06-29T16:33:00-07:00
-lastmod = 2022-08-26T22:05:14-07:00
+lastmod = 2022-09-05T14:47:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/81611da6-3ea4-45d9-b2db-b96ed95d946d"
 +++
 
 > 1.  Recursively traverse the current node's left subtree

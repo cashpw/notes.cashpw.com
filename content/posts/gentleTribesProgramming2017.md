@@ -2,10 +2,11 @@
 title = "Joseph Gentle | Three Tribes of Programming"
 author = ["Cash Weaver"]
 date = 2022-03-14T10:06:00-07:00
-lastmod = 2022-08-26T22:02:56-07:00
+lastmod = 2022-09-05T14:41:08-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
+aliases = "/posts/2f62e8c7-6d64-4820-9b12-3949627c2386"
 +++
 
 [Joseph Gentle]({{< relref "joseph_gentle.md" >}}), (<a href="#citeproc_bib_item_1">Gentle 2017</a>)

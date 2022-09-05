@@ -2,10 +2,11 @@
 title = "Transitive relation"
 author = ["Cash Weaver"]
 date = 2022-07-23T17:10:00-07:00
-lastmod = 2022-08-26T22:07:23-07:00
+lastmod = 2022-09-05T14:55:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/57d94e2b-f842-483e-bcdb-c4d8e91a6ab5"
 +++
 
 ##  {#d41d8c}

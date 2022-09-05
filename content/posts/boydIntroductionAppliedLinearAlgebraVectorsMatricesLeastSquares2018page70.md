@@ -1,7 +1,7 @@
 +++
 title = "::"
 author = ["Cash Weaver"]
-lastmod = 2022-08-26T22:05:38-07:00
+lastmod = 2022-09-05T14:49:38-07:00
 draft = false
-roam_refs = ["@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018page70"]
+aliases = "/posts/755da260-09e5-4be7-a81a-9e43f12d96a8"
 +++

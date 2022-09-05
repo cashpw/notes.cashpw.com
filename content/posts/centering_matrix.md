@@ -2,10 +2,11 @@
 title = "Centering matrix"
 author = ["Cash Weaver"]
 date = 2022-08-17T09:48:00-07:00
-lastmod = 2022-08-26T22:01:39-07:00
+lastmod = 2022-09-05T14:36:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/87b4549f-d8f7-44ec-b11e-4fa14166f157"
 +++
 
 > In mathematics and multivariate statistics, the centering matrix is a [symmetric]({{< relref "symmetric_matrix.md" >}}) and [Idempotent matrix]({{< relref "idempotent_matrix.md" >}}), which when multiplied with a vector has the same effect as subtracting the mean of the components of the vector from every component of that vector.

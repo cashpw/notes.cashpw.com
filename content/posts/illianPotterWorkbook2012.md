@@ -2,9 +2,10 @@
 title = "Clary Illian | A Potter's Workbook."
 author = ["Cash Weaver"]
 date = 2022-02-06T15:34:00-08:00
-lastmod = 2022-08-26T22:03:30-07:00
+lastmod = 2022-09-05T14:42:54-07:00
 tags = ["reference"]
 draft = false
+aliases = "/posts/3f493f0a-aac1-43b6-be22-9711b921f6d8"
 +++
 
 [Clary Illian]({{< relref "clary_illian.md" >}}), (<a href="#citeproc_bib_item_1">Illian 2012</a>)
@@ -66,7 +67,7 @@ draft = false
 
 > The cause of round-bottomed pots is a failure to open up a wide enough floor with crisp right-angled corners before pulling up the walls (figure 44).
 
-[Figure 44](/ox-hugo/2021-12-11-13-23-54_screenshot.png)
+[Figure 44](~/Pictures/screenshots/2021-12-11-13-23-54_screenshot.png)
 
 
 #### Pitchers {#pitchers}

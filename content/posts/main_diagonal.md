@@ -2,10 +2,11 @@
 title = "Main diagonal"
 author = ["Cash Weaver"]
 date = 2022-08-21T05:25:00-07:00
-lastmod = 2022-08-26T22:04:15-07:00
+lastmod = 2022-09-05T14:44:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
+aliases = "/posts/a61c410c-f8ea-4bdd-92c8-2f8d037dfe6a"
 +++
 
 > In linear algebra, the main diagonal (sometimes principal diagonal, primary diagonal, leading diagonal, major diagonal, or good diagonal) of a [Matrix]({{< relref "matrix.md" >}}) \\(A\\) is the list of entries \\(A\_{i,j}\\) where \\(i=j\\). All off-diagonal elements are zero in a diagonal matrix. The following three matrices have their main diagonals indicated by red ones:
