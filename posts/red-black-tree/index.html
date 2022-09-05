@@ -31,13 +31,13 @@ When the tree is modified, the new tree is rearranged [Tree rotation] and &ldquo
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://cashweaver.com/posts/red-black-tree/"><meta property="article:section" content="posts">
 <meta property="article:published_time" content="2022-07-23T16:54:00-07:00">
-<meta property="article:modified_time" content="2022-08-26T22:05:37-07:00">
+<meta property="article:modified_time" content="2022-09-05T14:49:34-07:00">
 <meta name=twitter:card content="summary">
 <meta name=twitter:title content="Red-black tree">
 <meta name=twitter:description content="In computer science, a red–black tree is a kind of Self-balancing binary search tree. Each Vertex stores an extra bit representing &ldquo;color&rdquo; (&ldquo;red&rdquo; or &ldquo;black&rdquo;), used to ensure that the Tree remains balanced during insertions and deletions.
 When the tree is modified, the new tree is rearranged [Tree rotation] and &ldquo;repainted&rdquo; to restore the coloring properties that constrain how unbalanced the tree can become in the worst case. The properties are designed such that this rearranging and recoloring can be performed efficiently.">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://cashweaver.com/posts/"},{"@type":"ListItem","position":2,"name":"Red-black tree","item":"http://cashweaver.com/posts/red-black-tree/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Red-black tree","name":"Red-black tree","description":"In computer science, a red–black tree is a kind of Self-balancing binary search tree. Each Vertex stores an extra bit representing \u0026ldquo;color\u0026rdquo; (\u0026ldquo;red\u0026rdquo; or \u0026ldquo;black\u0026rdquo;), used to ensure that the Tree remains balanced during insertions and deletions.\nWhen the tree is modified, the new tree is rearranged [Tree rotation] and \u0026ldquo;repainted\u0026rdquo; to restore the coloring properties that constrain how unbalanced the tree can become in the worst case. The properties are designed such that this rearranging and recoloring can be performed efficiently.","keywords":["concept","concept"],"articleBody":" In computer science, a red–black tree is a kind of Self-balancing binary search tree. Each Vertex stores an extra bit representing “color” (“red” or “black”), used to ensure that the Tree remains balanced during insertions and deletions.\nWhen the tree is modified, the new tree is rearranged [Tree rotation] and “repainted” to restore the coloring properties that constrain how unbalanced the tree can become in the worst case. The properties are designed such that this rearranging and recoloring can be performed efficiently.\n(“Red-Black Tree” 2022)\n Properties   Every node is either red or black All NIL nodes are considered black A red node does not have a red child Every path from a given node to any of its descendant NIL nodes goes through the same number of black nodes  (“Red-Black Tree” 2022)\n Space Complexity \\(\\bigo{n}\\)\nTime Complexity    Function Amortized Worse case     Search \\(\\bigo{\\log n}\\) \\(\\bigo{\\log n}\\)   Insert \\(\\bigo{1}\\) \\(\\bigo{\\log n}\\)   Delete \\(\\bigo{1}\\) \\(\\bigo{\\log n}\\)    Algorithm Insertion  Insertion begins by placing the new (non-NIL) node, say N, at the position in the binary search tree of a NIL node whose in-order predecessor’s key compares less than the new node’s key, which in turn compares less than the key of its in-order successor. (Frequently, this positioning is the result of a search within the tree immediately preceding the insert operation and consists of a node P together with a direction dir with P-child[dir] == NIL.) The newly inserted node is temporarily colored red so that all paths contain the same number of black nodes as before.\n(“Red-Black Tree” 2022)\n Insertion may invalidate one or more Properties of the Red-black tree.\nclass red_black_tree(): def insert(key, value): inserted_node = binary_tree_insert(key, value) insert_fix(inserted_node) def binary_tree_insert(value): pass def insert_fix(inserted_node): pass Cases    1: Parent is black\nAll Properties hold. No further work is necessary.\n     2: Parent and uncle are both red\nThe third Properties\n  Deletion Cases References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Red-Black Tree.” 2022. Wikipedia, July. https://en.wikipedia.org/w/index.php?title=Red%E2%80%93black_tree\u0026oldid=1100748306.  ","wordCount":"319","inLanguage":"en","datePublished":"2022-07-23T16:54:00-07:00","dateModified":"2022-08-26T22:05:37-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashweaver.com/posts/red-black-tree/"},"publisher":{"@type":"Organization","name":"Cash Weaver","logo":{"@type":"ImageObject","url":"http://cashweaver.com/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Red-black tree","name":"Red-black tree","description":"In computer science, a red–black tree is a kind of Self-balancing binary search tree. Each Vertex stores an extra bit representing \u0026ldquo;color\u0026rdquo; (\u0026ldquo;red\u0026rdquo; or \u0026ldquo;black\u0026rdquo;), used to ensure that the Tree remains balanced during insertions and deletions.\nWhen the tree is modified, the new tree is rearranged [Tree rotation] and \u0026ldquo;repainted\u0026rdquo; to restore the coloring properties that constrain how unbalanced the tree can become in the worst case. The properties are designed such that this rearranging and recoloring can be performed efficiently.","keywords":["concept","concept"],"articleBody":" In computer science, a red–black tree is a kind of Self-balancing binary search tree. Each Vertex stores an extra bit representing “color” (“red” or “black”), used to ensure that the Tree remains balanced during insertions and deletions.\nWhen the tree is modified, the new tree is rearranged [Tree rotation] and “repainted” to restore the coloring properties that constrain how unbalanced the tree can become in the worst case. The properties are designed such that this rearranging and recoloring can be performed efficiently.\n(“Red-Black Tree” 2022)\n Properties   Every node is either red or black All NIL nodes are considered black A red node does not have a red child Every path from a given node to any of its descendant NIL nodes goes through the same number of black nodes  (“Red-Black Tree” 2022)\n Space Complexity \\(\\bigo{n}\\)\nTime Complexity    Function Amortized Worse case     Search \\(\\bigo{\\log n}\\) \\(\\bigo{\\log n}\\)   Insert \\(\\bigo{1}\\) \\(\\bigo{\\log n}\\)   Delete \\(\\bigo{1}\\) \\(\\bigo{\\log n}\\)    Algorithm Insertion  Insertion begins by placing the new (non-NIL) node, say N, at the position in the binary search tree of a NIL node whose in-order predecessor’s key compares less than the new node’s key, which in turn compares less than the key of its in-order successor. (Frequently, this positioning is the result of a search within the tree immediately preceding the insert operation and consists of a node P together with a direction dir with P-child[dir] == NIL.) The newly inserted node is temporarily colored red so that all paths contain the same number of black nodes as before.\n(“Red-Black Tree” 2022)\n Insertion may invalidate one or more Properties of the Red-black tree.\nCases    1: Parent is black\nAll Properties hold. No further work is necessary.\n     2: Parent and uncle are both red\nThe third Properties\n  Implementation class red_black_tree(): def insert(key, value): inserted_node = binary_tree_insert(key, value) insert_fix(inserted_node) def binary_tree_insert(value): pass def insert_fix(inserted_node): pass Deletion Cases References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Red-Black Tree.” 2022. Wikipedia, July. https://en.wikipedia.org/w/index.php?title=Red%E2%80%93black_tree\u0026oldid=1100748306.  ","wordCount":"320","inLanguage":"en","datePublished":"2022-07-23T16:54:00-07:00","dateModified":"2022-09-05T14:49:34-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashweaver.com/posts/red-black-tree/"},"publisher":{"@type":"Organization","name":"Cash Weaver","logo":{"@type":"ImageObject","url":"http://cashweaver.com/favicon.ico"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -75,11 +75,14 @@ When the tree is modified, the new tree is rearranged [Tree rotation] and &ldquo
 <h1 class=post-title>
 Red-black tree
 </h1>
-<div class=post-meta><span title="2022-07-23 16:54:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-08-26 22:05:37 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;2 min
+<div class=post-meta><span title="2022-07-23 16:54:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 14:49:34 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;2 min
 </div>
 <div class=post-meta><a href=https://github.com/cashweaver/roam/tree/main/red_black_tree.org rel="noopener noreferrer" target=_blank>Suggest Changes</a>
 </div>
-<div class="post-meta post-references"></div><div class="post-meta post-stars"></div><div class="post-meta post-tags">
+<div class="post-meta post-references"></div>
+<div class="post-meta post-references">
+<a href=/posts/019be402-8bef-48f3-afbf-6441010dd8cf>Permalink</a>
+</div><div class="post-meta post-stars"></div><div class="post-meta post-tags">
 <span style=margin-right:.5ch>Tags:</span>
 <a href=http://cashweaver.com/tags/concept/>concept</a></div>
 </header> <div class=toc>
@@ -99,7 +102,9 @@ Red-black tree
 <li>
 <a href=#insertion aria-label=Insertion>Insertion</a><ul>
 <li>
-<a href=#cases aria-label=Cases>Cases</a></li></ul>
+<a href=#cases aria-label=Cases>Cases</a></li>
+<li>
+<a href=#implementation aria-label=Implementation>Implementation</a></li></ul>
 </li>
 <li>
 <a href=#deletion aria-label=Deletion>Deletion</a><ul>
@@ -166,17 +171,7 @@ Red-black tree
 <p>(<a href=#citeproc_bib_item_1>“Red-Black Tree” 2022</a>)</p>
 </blockquote>
 <p>Insertion may invalidate one or more <a href=#properties>Properties</a> of the <a href=/posts/red-black-tree/>Red-black tree</a>.</p>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>red_black_tree</span>():
-    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>insert</span>(key, value):
-        inserted_node <span style=color:#f92672>=</span> binary_tree_insert(key, value)
-        insert_fix(inserted_node)
-
-    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>binary_tree_insert</span>(value):
-        <span style=color:#66d9ef>pass</span>
-
-    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>insert_fix</span>(inserted_node):
-        <span style=color:#66d9ef>pass</span>
-</code></pre></div><h4 id=cases>Cases<a hidden class=anchor aria-hidden=true href=#cases>#</a></h4>
+<h4 id=cases>Cases<a hidden class=anchor aria-hidden=true href=#cases>#</a></h4>
 <ul>
 <li>
 <p>1: Parent is black</p>
@@ -189,7 +184,18 @@ Red-black tree
 <p>The third <a href=#properties>Properties</a></p>
 </li>
 </ul>
-<h3 id=deletion>Deletion<a hidden class=anchor aria-hidden=true href=#deletion>#</a></h3>
+<h4 id=implementation>Implementation<a hidden class=anchor aria-hidden=true href=#implementation>#</a></h4>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>red_black_tree</span>():
+    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>insert</span>(key, value):
+        inserted_node <span style=color:#f92672>=</span> binary_tree_insert(key, value)
+        insert_fix(inserted_node)
+
+    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>binary_tree_insert</span>(value):
+        <span style=color:#66d9ef>pass</span>
+
+    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>insert_fix</span>(inserted_node):
+        <span style=color:#66d9ef>pass</span>
+</code></pre></div><h3 id=deletion>Deletion<a hidden class=anchor aria-hidden=true href=#deletion>#</a></h3>
 <h4 id=cases>Cases<a hidden class=anchor aria-hidden=true href=#cases>#</a></h4>
 <h2 id=references>References<a hidden class=anchor aria-hidden=true href=#references>#</a></h2>
 <style>.csl-entry{text-indent:-1.5em;margin-left:1.5em}</style><div class=csl-bib-body>
