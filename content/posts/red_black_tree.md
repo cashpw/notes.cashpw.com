@@ -2,11 +2,11 @@
 title = "Red-black tree"
 author = ["Cash Weaver"]
 date = 2022-07-23T16:54:00-07:00
-lastmod = 2022-09-05T14:49:34-07:00
+lastmod = 2022-09-05T16:15:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/019be402-8bef-48f3-afbf-6441010dd8cf"
+slug = "019be402-8bef-48f3-afbf-6441010dd8cf"
 +++
 
 > In computer science, a red–black tree is a kind of [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}}). Each [Vertex]({{< relref "vertex.md" >}}) stores an extra bit representing "color" ("red" or "black"), used to ensure that the [Tree]({{< relref "tree.md" >}}) remains balanced during insertions and deletions.

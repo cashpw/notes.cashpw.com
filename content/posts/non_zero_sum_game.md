@@ -2,11 +2,11 @@
 title = "Non-zero-sum game"
 author = ["Cash Weaver"]
 date = 2022-07-23T10:51:00-07:00
-lastmod = 2022-09-05T14:46:49-07:00
+lastmod = 2022-09-05T16:06:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/9f52c68a-3302-47bc-a4a4-3a4ff20d41be"
+slug = "9f52c68a-3302-47bc-a4a4-3a4ff20d41be"
 +++
 
 > [...] non-zero-sum describes a situation in which the interacting parties' aggregate gains and losses can be less than or more than zero.

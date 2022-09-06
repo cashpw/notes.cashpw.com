@@ -2,11 +2,11 @@
 title = "Zone of Proximal Development"
 author = ["Cash Weaver"]
 date = 2022-03-13T18:48:00-07:00
-lastmod = 2022-09-05T14:59:14-07:00
+lastmod = 2022-09-05T16:42:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/d85e93d5-5a6b-449e-b39e-e0f2609fd532"
+slug = "d85e93d5-5a6b-449e-b39e-e0f2609fd532"
 +++
 
 > The zone of proximal development is the distance between what a learner is capable of doing unsupported, and what they can do supported.

@@ -2,11 +2,11 @@
 title = "Adam Zerner | Writing to Think"
 author = ["Cash Weaver"]
 date = 2022-02-07T18:46:00-08:00
-lastmod = 2022-09-05T14:59:00-07:00
+lastmod = 2022-09-05T16:42:11-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/53938c1e-d71b-436a-bbc5-f3c220c677ea"
+slug = "53938c1e-d71b-436a-bbc5-f3c220c677ea"
 +++
 
 [Adam Zerner]({{< relref "adam_zerner.md" >}}), (<a href="#citeproc_bib_item_1">Zerner n.d.</a>)

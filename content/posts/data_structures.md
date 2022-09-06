@@ -2,11 +2,11 @@
 title = "Data structures"
 author = ["Cash Weaver"]
 date = 2022-06-27T19:44:00-07:00
-lastmod = 2022-09-05T14:38:51-07:00
+lastmod = 2022-09-05T15:40:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/738c2ba7-a272-417d-9b6d-b6952d765280 /posts/concrete-data-type /posts/data-structure"
+slug = "738c2ba7-a272-417d-9b6d-b6952d765280"
 +++
 
 > In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data, i.e., it is an algebraic structure about data.

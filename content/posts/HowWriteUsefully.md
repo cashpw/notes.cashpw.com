@@ -2,11 +2,11 @@
 title = "Paul Graham | How to Write Usefully"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:42:00-08:00
-lastmod = 2022-09-05T14:34:03-07:00
+lastmod = 2022-09-05T15:21:40-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/70afedd4-60d2-4e2e-87e1-04999d90079e"
+slug = "70afedd4-60d2-4e2e-87e1-04999d90079e"
 +++
 
 [Paul Graham]({{< relref "paul_graham.md" >}}), (<a href="#citeproc_bib_item_1">Graham n.d.</a>)

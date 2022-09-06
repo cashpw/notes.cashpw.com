@@ -2,11 +2,11 @@
 title = "Complete binary tree"
 author = ["Cash Weaver"]
 date = 2022-06-29T11:22:00-07:00
-lastmod = 2022-09-05T14:37:43-07:00
+lastmod = 2022-09-05T15:36:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/cce89d10-ff69-4756-b9fa-9b713b4cb33b"
+slug = "cce89d10-ff69-4756-b9fa-9b713b4cb33b"
 +++
 
 > A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible.

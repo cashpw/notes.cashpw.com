@@ -2,11 +2,11 @@
 title = "Atom"
 author = ["Cash Weaver"]
 date = 2022-06-29T08:31:00-07:00
-lastmod = 2022-09-05T14:35:30-07:00
+lastmod = 2022-09-05T15:28:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/b37a4585-be03-43ea-a55c-6a5f84e59c77"
+slug = "b37a4585-be03-43ea-a55c-6a5f84e59c77"
 +++
 
 An atom, in [Lisp]({{< relref "lisp.md" >}}), is an indivisible thing. Examples include:

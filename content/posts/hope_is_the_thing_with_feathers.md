@@ -4,11 +4,11 @@ title = """
   """
 author = ["Cash Weaver"]
 date = 2022-03-28T21:11:00-07:00
-lastmod = 2022-09-05T14:42:22-07:00
+lastmod = 2022-09-05T15:52:34-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
-aliases = "/posts/b0f01042-9128-4189-a344-033496d5ce24"
+slug = "b0f01042-9128-4189-a344-033496d5ce24"
 +++
 
 <div class="verse">

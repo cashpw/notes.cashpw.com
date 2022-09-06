@@ -2,11 +2,11 @@
 title = "Ian Danskin | You Go High, We Go Low"
 author = ["Cash Weaver"]
 date = 2022-06-26T08:11:00-07:00
-lastmod = 2022-09-05T14:38:44-07:00
+lastmod = 2022-09-05T15:40:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/f39cbb1c-8265-4f3e-9a99-632132ade597"
+slug = "f39cbb1c-8265-4f3e-9a99-632132ade597"
 +++
 
 [Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2018</a>)

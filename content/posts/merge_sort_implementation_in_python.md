@@ -2,11 +2,11 @@
 title = "Merge sort implementation in Python"
 author = ["Cash Weaver"]
 date = 2022-07-01T11:44:00-07:00
-lastmod = 2022-09-05T14:45:42-07:00
+lastmod = 2022-09-05T16:03:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/d87d7e23-c861-4cec-adf8-c19125cc6327"
+slug = "d87d7e23-c861-4cec-adf8-c19125cc6327"
 +++
 
 An implementation of [Merge sort]({{< relref "merge_sort.md" >}}) in [Python]({{< relref "python.md" >}}).

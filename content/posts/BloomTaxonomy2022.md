@@ -2,11 +2,11 @@
 title = "Bloom's Taxonomy"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:38:00-08:00
-lastmod = 2022-09-05T14:33:53-07:00
+lastmod = 2022-09-05T15:20:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/5fbaa05c-666f-4d45-b798-ff36ace22126"
+slug = "5fbaa05c-666f-4d45-b798-ff36ace22126"
 +++
 
 > Bloom's taxonomy is a set of three hierarchical models used to classify educational learning objectives into levels of complexity and specificity. ... The cognitive domain list has been the primary focus of most traditional education and is frequently used to structure curriculum learning objectives, assessments and activities.

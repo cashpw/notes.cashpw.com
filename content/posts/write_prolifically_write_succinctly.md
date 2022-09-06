@@ -2,11 +2,11 @@
 title = "Write Prolifically; Write Succinctly"
 author = ["Cash Weaver"]
 date = 2022-01-17T07:28:00-08:00
-lastmod = 2022-09-05T14:58:19-07:00
+lastmod = 2022-09-05T16:40:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/d077ef5b-766b-4239-a40f-f775e101e185"
+slug = "d077ef5b-766b-4239-a40f-f775e101e185"
 +++
 
 ## Summary {#summary}

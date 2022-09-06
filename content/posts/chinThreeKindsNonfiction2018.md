@@ -2,11 +2,11 @@
 title = "Cedric Chin | The Three Kinds of Non-Fiction Books"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:36:00-08:00
-lastmod = 2022-09-05T14:37:22-07:00
+lastmod = 2022-09-05T15:35:47-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/ee7ed2c5-dd15-42aa-8cfe-8149ce58473e"
+slug = "ee7ed2c5-dd15-42aa-8cfe-8149ce58473e"
 +++
 
 [Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2018</a>)

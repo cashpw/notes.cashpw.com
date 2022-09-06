@@ -2,11 +2,11 @@
 title = "Ian Danskin | Always a Bigger Fish"
 author = ["Cash Weaver"]
 date = 2022-06-26T08:54:00-07:00
-lastmod = 2022-09-05T14:38:07-07:00
+lastmod = 2022-09-05T15:38:23-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/c0564758-b90d-42a6-be58-44d8985330ad"
+slug = "c0564758-b90d-42a6-be58-44d8985330ad"
 +++
 
 [Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2019</a>)

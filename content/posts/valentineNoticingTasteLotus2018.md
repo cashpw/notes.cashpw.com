@@ -2,11 +2,11 @@
 title = "Valentine | Noticing the Taste of Lotus"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:33:00-08:00
-lastmod = 2022-09-05T14:57:33-07:00
+lastmod = 2022-09-05T16:39:07-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/83ed5740-7670-4308-b82b-4bb788978e54"
+slug = "83ed5740-7670-4308-b82b-4bb788978e54"
 +++
 
 [Michael Smith]({{< relref "michael_smith.md" >}}), (<a href="#citeproc_bib_item_1">Valentine 2018</a>)

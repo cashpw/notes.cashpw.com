@@ -2,9 +2,9 @@
 title = "Custom Anki Notes"
 author = ["Cash Weaver"]
 date = 2022-03-11T11:30:00-08:00
-lastmod = 2022-09-05T14:38:00-07:00
+lastmod = 2022-09-05T15:37:56-07:00
 draft = false
-aliases = "/posts/a32b0bd9-5555-4630-b486-4d070fb5c7f0"
+slug = "a32b0bd9-5555-4630-b486-4d070fb5c7f0"
 +++
 
 I use [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}}) to help myself remember the things I learn. I found creating cards, as well as managing existing cards, was easier after creating custom note types to represent specific information.

@@ -2,11 +2,11 @@
 title = "Laura Taylor | Git + Google Drive = Simple Git Host"
 author = ["Cash Weaver"]
 date = 2022-04-18T08:20:00-07:00
-lastmod = 2022-09-05T14:53:10-07:00
+lastmod = 2022-09-05T16:26:32-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/abb1e1cc-12bb-42fe-9004-555145c8faaa"
+slug = "abb1e1cc-12bb-42fe-9004-555145c8faaa"
 +++
 
 Laura Taylor, (<a href="#citeproc_bib_item_1">Taylor 2021</a>)

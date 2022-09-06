@@ -2,11 +2,11 @@
 title = "Man is wolf to man"
 author = ["Cash Weaver"]
 date = 2022-06-26T10:48:00-07:00
-lastmod = 2022-09-05T14:45:02-07:00
+lastmod = 2022-09-05T16:01:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/2537ad51-d76b-4fa1-8d43-7b0be9dd7bb1 /posts/homo-homini-lupus"
+slug = "2537ad51-d76b-4fa1-8d43-7b0be9dd7bb1"
 +++
 
 > Homo homini lupus, or in its unabridged form Homo homini lupus est, is a Latin proverb meaning "A man is a wolf to another man," or more tersely "Man is wolf to man."

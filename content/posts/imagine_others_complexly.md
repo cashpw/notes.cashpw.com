@@ -2,11 +2,11 @@
 title = "Imagine others complexly"
 author = ["Cash Weaver"]
 date = 2022-06-26T10:05:00-07:00
-lastmod = 2022-09-05T14:42:56-07:00
+lastmod = 2022-09-05T15:54:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/91aae608-44c7-4dd0-94e1-512d5d5263cf"
+slug = "91aae608-44c7-4dd0-94e1-512d5d5263cf"
 +++
 
 ##  {#d41d8c}

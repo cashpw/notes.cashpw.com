@@ -2,11 +2,11 @@
 title = "Per aspera ad astra"
 author = ["Cash Weaver"]
 date = 2022-06-26T09:05:00-07:00
-lastmod = 2022-09-05T14:47:17-07:00
+lastmod = 2022-09-05T16:07:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/668f5429-a1b1-46f3-8df7-758e63cc04b6 /posts/through-hardships-to-the-stars"
+slug = "668f5429-a1b1-46f3-8df7-758e63cc04b6"
 +++
 
 > Per aspera ad astra (or, less commonly, ad astra per aspera) is a Latin phrase meaning "through hardships to the stars" or "Our aspirations take us to the stars".

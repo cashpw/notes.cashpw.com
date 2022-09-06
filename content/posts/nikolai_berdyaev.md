@@ -2,11 +2,11 @@
 title = "Nikolai Berdyaev"
 author = ["Cash Weaver"]
 date = 2022-03-11T11:19:00-08:00
-lastmod = 2022-09-05T14:46:36-07:00
+lastmod = 2022-09-05T16:06:00-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
-aliases = "/posts/ebc6fdaa-ca09-4550-855b-41d4a5a97a14"
+slug = "ebc6fdaa-ca09-4550-855b-41d4a5a97a14"
 +++
 
 Among other things:

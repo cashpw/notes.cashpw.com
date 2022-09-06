@@ -2,11 +2,11 @@
 title = "Ian Danskin | Mainstreaming"
 author = ["Cash Weaver"]
 date = 2022-06-25T18:55:00-07:00
-lastmod = 2022-09-05T14:38:31-07:00
+lastmod = 2022-09-05T15:39:51-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/de73d179-937a-4d95-9c1b-0ea865d0e469"
+slug = "de73d179-937a-4d95-9c1b-0ea865d0e469"
 +++
 
 [Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2018</a>)

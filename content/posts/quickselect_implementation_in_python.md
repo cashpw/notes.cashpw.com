@@ -2,11 +2,11 @@
 title = "Quickselect implementation in Python"
 author = ["Cash Weaver"]
 date = 2022-07-01T16:54:00-07:00
-lastmod = 2022-09-05T14:48:43-07:00
+lastmod = 2022-09-05T16:12:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/ffec0117-bbea-4197-865c-112e417c8f1d"
+slug = "ffec0117-bbea-4197-865c-112e417c8f1d"
 +++
 
 An implementation of [Quickselect]({{< relref "quickselect.md" >}}) in [Python]({{< relref "python.md" >}}).

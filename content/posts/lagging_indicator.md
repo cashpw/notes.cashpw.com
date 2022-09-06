@@ -2,11 +2,11 @@
 title = "Lagging Indicator"
 author = ["Cash Weaver"]
 date = 2022-01-28T08:07:00-08:00
-lastmod = 2022-09-05T14:44:10-07:00
+lastmod = 2022-09-05T15:58:18-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/c112d0b0-ceef-4a41-9dc8-013a31bd1f49"
+slug = "c112d0b0-ceef-4a41-9dc8-013a31bd1f49"
 +++
 
 > Lagging indicators are indicators that usually change after [a thing] as a whole does. [...] The unemployment rate is a lagging indicator: employment tends to increase two or three quarters after an upturn in [a thing].

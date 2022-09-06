@@ -2,11 +2,11 @@
 title = "Anxious-ambivalent attachment"
 author = ["Cash Weaver"]
 date = 2022-06-26T11:44:00-07:00
-lastmod = 2022-09-05T14:35:18-07:00
+lastmod = 2022-09-05T15:28:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/59ed8490-de7b-4a4e-a5d0-026ea3990d34"
+slug = "59ed8490-de7b-4a4e-a5d0-026ea3990d34"
 +++
 
 An [attachment]({{< relref "attachment_theory.md" >}}) pattern in which the child over-indexes on seeking comfort from their guardians and avoids risk.

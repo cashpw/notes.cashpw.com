@@ -2,11 +2,11 @@
 title = "Allen Ginsberg | Howl"
 author = ["Cash Weaver"]
 date = 2022-03-13T20:20:00-07:00
-lastmod = 2022-09-05T14:41:13-07:00
+lastmod = 2022-09-05T15:48:52-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
-aliases = "/posts/de31b59e-2fed-49c0-82ff-22d6f86fc48d"
+slug = "de31b59e-2fed-49c0-82ff-22d6f86fc48d"
 +++
 
 [Allen Ginsberg]({{< relref "allen_ginsberg.md" >}}), (<a href="#citeproc_bib_item_1">Ginsberg 2022</a>)

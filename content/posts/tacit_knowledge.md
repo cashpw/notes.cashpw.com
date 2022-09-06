@@ -2,11 +2,11 @@
 title = "Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2022-01-30T13:17:00-08:00
-lastmod = 2022-09-05T14:53:01-07:00
+lastmod = 2022-09-05T16:26:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/d636dfa7-428d-457c-8db6-15fa61e03bef /posts/implicit-knowledge"
+slug = "d636dfa7-428d-457c-8db6-15fa61e03bef"
 +++
 
 > Tacit knowledge or implicit knowledge—as opposed to formal, codified or explicit knowledge—is knowledge that is difficult to express or extract, and thus more difficult to transfer to others by means of writing it down or verbalizing it. This can include personal wisdom, experience, insight, and intuition.

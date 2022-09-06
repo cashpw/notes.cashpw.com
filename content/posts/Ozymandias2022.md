@@ -2,11 +2,11 @@
 title = "Percy Bysshe Shelley | Ozymandias"
 author = ["Cash Weaver"]
 date = 2022-02-26T18:30:00-08:00
-lastmod = 2022-09-05T14:34:11-07:00
+lastmod = 2022-09-05T15:22:18-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
-aliases = "/posts/7aa8dfb5-3aba-45b6-a6b5-0e718403d237"
+slug = "7aa8dfb5-3aba-45b6-a6b5-0e718403d237"
 +++
 
 <div class="verse">

@@ -2,11 +2,11 @@
 title = "Dave Orr | Parenting Rules"
 author = ["Cash Weaver"]
 date = 2022-03-13T18:52:00-07:00
-lastmod = 2022-09-05T14:47:02-07:00
+lastmod = 2022-09-05T16:07:18-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/cc8635c1-ea8a-4d60-a3c3-4a08b00c51ce"
+slug = "cc8635c1-ea8a-4d60-a3c3-4a08b00c51ce"
 +++
 
 (<a href="#citeproc_bib_item_1">Orr n.d.</a>)

@@ -2,11 +2,11 @@
 title = "Directed graph"
 author = ["Cash Weaver"]
 date = 2022-07-05T17:45:00-07:00
-lastmod = 2022-09-05T14:39:16-07:00
+lastmod = 2022-09-05T15:42:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/129f1b92-49f6-44af-bae3-d8a171f66f04"
+slug = "129f1b92-49f6-44af-bae3-d8a171f66f04"
 +++
 
 A [Graph]({{< relref "graph.md" >}}) in which the [Edges]({{< relref "edge.md" >}}) have an orientation. The [Adjacency matrix]({{< relref "adjacency_matrix.md" >}}) for a directed graph isn't symmetric.

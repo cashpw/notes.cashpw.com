@@ -2,11 +2,11 @@
 title = "Stages of Problem Solving"
 author = ["Cash Weaver"]
 date = 2022-03-12T08:13:00-08:00
-lastmod = 2022-09-05T14:52:01-07:00
+lastmod = 2022-09-05T16:22:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/4dc60214-2e6b-45de-bed5-6e2fec793385"
+slug = "4dc60214-2e6b-45de-bed5-6e2fec793385"
 +++
 
 ## Understand the problem {#understand-the-problem}

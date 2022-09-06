@@ -2,11 +2,11 @@
 title = "Andy Matuschak | Evergreen Notes"
 author = ["Cash Weaver"]
 date = 2022-02-21T17:40:00-08:00
-lastmod = 2022-09-05T14:45:29-07:00
+lastmod = 2022-09-05T16:02:27-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/eb5965f1-211b-45cb-9f56-b8e85c48bb6d"
+slug = "eb5965f1-211b-45cb-9f56-b8e85c48bb6d"
 +++
 
 [Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)

@@ -2,11 +2,11 @@
 title = "Sine"
 author = ["Cash Weaver"]
 date = 2022-08-19T09:55:00-07:00
-lastmod = 2022-09-05T14:50:45-07:00
+lastmod = 2022-09-05T16:19:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/eba86939-f427-419c-a5d9-8115ed6f0e65"
+slug = "eba86939-f427-419c-a5d9-8115ed6f0e65"
 +++
 
 \\(\begin{aligned}\href{/posts/sine}{\sin}(\alpha) &= \frac{\text{opposite}}{\text{hypotenuse}} \\\ &= \href{/posts/tangent}{\tan}(\alpha)\href{/posts/cosine}{\cos}(\alpha)\end{aligned}\\)

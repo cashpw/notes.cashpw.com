@@ -2,11 +2,11 @@
 title = "Alexey Nikitin | My least favorite Git commit"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:31:00-08:00
-lastmod = 2022-09-05T14:46:35-07:00
+lastmod = 2022-09-05T16:05:53-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/89fb44ee-8994-4c6c-89db-bc210039a39b"
+slug = "89fb44ee-8994-4c6c-89db-bc210039a39b"
 +++
 
 [Alexey Nikitin]({{< relref "alexey_nikitin.md" >}}), (<a href="#citeproc_bib_item_1">Nikitin 2019</a>)

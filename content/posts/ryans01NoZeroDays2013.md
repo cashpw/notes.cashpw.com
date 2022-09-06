@@ -2,11 +2,11 @@
 title = "ryans01 | No Zero Days"
 author = ["Cash Weaver"]
 date = 2022-02-12T08:33:00-08:00
-lastmod = 2022-09-05T14:49:59-07:00
+lastmod = 2022-09-05T16:16:37-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/c89158fd-05ac-4c66-8986-05753e15096c"
+slug = "c89158fd-05ac-4c66-8986-05753e15096c"
 +++
 
 (<a href="#citeproc_bib_item_1">ryans01 2013</a>)

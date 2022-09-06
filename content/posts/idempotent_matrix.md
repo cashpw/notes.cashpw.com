@@ -2,11 +2,11 @@
 title = "Idempotent matrix"
 author = ["Cash Weaver"]
 date = 2022-08-19T18:11:00-07:00
-lastmod = 2022-09-05T14:42:44-07:00
+lastmod = 2022-09-05T15:53:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/8ffd5a59-aecd-4482-879a-ecbf2a720043 /posts/idempotent-matrices"
+slug = "8ffd5a59-aecd-4482-879a-ecbf2a720043"
 +++
 
 > In linear algebra, an idempotent matrix is a [Matrix]({{< relref "matrix.md" >}}) which, when multiplied by itself, yields itself. That is, the matrix \\(A\\) is idempotent if and only if \\(A^2 = A\\).

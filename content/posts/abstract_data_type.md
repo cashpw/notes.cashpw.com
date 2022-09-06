@@ -2,11 +2,11 @@
 title = "Abstract data type"
 author = ["Cash Weaver"]
 date = 2022-06-28T14:49:00-07:00
-lastmod = 2022-09-05T14:34:29-07:00
+lastmod = 2022-09-05T15:23:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/2eae74ba-4003-45cf-8425-7291aaa7a537 /posts/abstract-data-types-adt"
+slug = "2eae74ba-4003-45cf-8425-7291aaa7a537"
 +++
 
 > In computer science, an abstract data type (ADT) is a mathematical model for data types. An abstract data type is defined by its behavior (semantics) from the point of view of a user, of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations. This mathematical model contrasts with data structures [[Data structures]({{< relref "data_structures.md" >}})], which are concrete representations of data, and are the point of view of an implementer, not a user.

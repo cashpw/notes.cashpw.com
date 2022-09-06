@@ -2,11 +2,11 @@
 title = "Third-party cookies"
 author = ["Cash Weaver"]
 date = 2022-07-20T10:31:00-07:00
-lastmod = 2022-09-05T14:54:45-07:00
+lastmod = 2022-09-05T16:31:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/2651f5d4-f8db-45b1-9256-aadb99c39575"
+slug = "2651f5d4-f8db-45b1-9256-aadb99c39575"
 +++
 
 > If the domain and scheme are different, the [HTTP cookie]({{< relref "http_cookies.md" >}}) is not considered to be from the same site, and is referred to as a third-party cookie.

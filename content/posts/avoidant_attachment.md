@@ -2,11 +2,11 @@
 title = "Avoidant attachment"
 author = ["Cash Weaver"]
 date = 2022-06-26T13:22:00-07:00
-lastmod = 2022-09-05T14:35:34-07:00
+lastmod = 2022-09-05T15:29:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/e0b22ae5-2b52-4433-8282-ad86037915d4"
+slug = "e0b22ae5-2b52-4433-8282-ad86037915d4"
 +++
 
 An [attachment]({{< relref "attachment_theory.md" >}}) pattern in which the child "gives up" on receiving comfort altogether.

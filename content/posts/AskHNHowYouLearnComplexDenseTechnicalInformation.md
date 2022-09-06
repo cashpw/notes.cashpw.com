@@ -2,10 +2,10 @@
 title = "Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?"
 author = ["Cash Weaver"]
 date = 2022-02-06T14:56:00-08:00
-lastmod = 2022-09-05T14:33:51-07:00
+lastmod = 2022-09-05T15:20:36-07:00
 tags = ["reference"]
 draft = false
-aliases = "/posts/39b74423-8abb-4fd6-8ca1-536539e2d05b"
+slug = "39b74423-8abb-4fd6-8ca1-536539e2d05b"
 +++
 
 (<a href="#citeproc_bib_item_1">“Ask HN: How Do You Learn Complex, Dense Technical Information?” n.d.</a>)

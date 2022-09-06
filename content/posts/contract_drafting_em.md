@@ -2,9 +2,9 @@
 title = "Contract Drafting Em"
 author = ["Cash Weaver"]
 date = 2022-03-14T08:38:00-07:00
-lastmod = 2022-09-05T14:37:46-07:00
+lastmod = 2022-09-05T15:37:09-07:00
 draft = false
-aliases = "/posts/88994b1c-a571-44ba-a667-ad0c07011ba2"
+slug = "88994b1c-a571-44ba-a667-ad0c07011ba2"
 +++
 
 (<a href="#citeproc_bib_item_1">“The Contract Drafting Em” n.d.</a>)

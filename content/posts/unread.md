@@ -1,9 +1,9 @@
 +++
 title = "Unread"
 author = ["cashweaver"]
-lastmod = 2022-09-05T14:56:35-07:00
+lastmod = 2022-09-05T16:36:40-07:00
 draft = false
-aliases = "/posts/c93c0308-2ea5-47d1-b808-b0291b092527"
+slug = "c93c0308-2ea5-47d1-b808-b0291b092527"
 +++
 
 Please sort in order of oldest to youngest.

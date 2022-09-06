@@ -2,11 +2,11 @@
 title = "Duck test"
 author = ["Cash Weaver"]
 date = 2022-06-26T11:26:00-07:00
-lastmod = 2022-09-05T14:39:37-07:00
+lastmod = 2022-09-05T15:43:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/9aade3e8-6ddb-475d-b31f-6e5dccee15a3"
+slug = "9aade3e8-6ddb-475d-b31f-6e5dccee15a3"
 +++
 
 > If it looks like a duck, swims like a duck, and quacks like a duck, then it probably is a duck.

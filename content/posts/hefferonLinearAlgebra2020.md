@@ -2,11 +2,11 @@
 title = "Jim Hefferon | Linear Algebra"
 author = ["Cash Weaver"]
 date = 2022-08-24T08:51:00-07:00
-lastmod = 2022-09-05T14:42:12-07:00
+lastmod = 2022-09-05T15:52:04-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/f62d92d7-7151-46f1-a3e8-bb06cc72f02b"
+slug = "f62d92d7-7151-46f1-a3e8-bb06cc72f02b"
 +++
 
 [Jim Hefferon]({{< relref "jim_hefferon.md" >}}), (<a href="#citeproc_bib_item_1">Hefferon 2020</a>)

@@ -2,11 +2,11 @@
 title = "Dynamic array"
 author = ["Cash Weaver"]
 date = 2022-06-27T19:43:00-07:00
-lastmod = 2022-09-05T14:39:39-07:00
+lastmod = 2022-09-05T15:43:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/546f4f56-6b59-4160-8d2e-6c5c2ba03ec7"
+slug = "546f4f56-6b59-4160-8d2e-6c5c2ba03ec7"
 +++
 
 A dynamic array is an extension of the array [data structure]({{< relref "data_structures.md" >}}) which allows for dynamic resizing. Where a traditional array is of a fixed size and represents a contiguous block of memory and cannot grow or shrink, a dynamic array can.

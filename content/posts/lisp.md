@@ -2,11 +2,11 @@
 title = "Lisp"
 author = ["Cash Weaver"]
 date = 2022-06-29T08:45:00-07:00
-lastmod = 2022-09-05T14:44:36-07:00
+lastmod = 2022-09-05T15:59:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/f6e9082b-3589-448a-9877-b9a2b31d88ba"
+slug = "f6e9082b-3589-448a-9877-b9a2b31d88ba"
 +++
 
 > Lisp (historically LISP) is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.

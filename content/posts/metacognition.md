@@ -2,11 +2,11 @@
 title = "Metacognition"
 author = ["Cash Weaver"]
 date = 2022-03-12T07:21:00-08:00
-lastmod = 2022-09-05T14:45:44-07:00
+lastmod = 2022-09-05T16:03:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/efe31d96-34a6-439a-a34d-fdff9df0e51a"
+slug = "efe31d96-34a6-439a-a34d-fdff9df0e51a"
 +++
 
 > Metacognition is an awareness of one's thought processes and an understanding of the patterns behind them.

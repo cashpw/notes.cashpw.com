@@ -2,11 +2,11 @@
 title = "Tangent (Geometry)"
 author = ["Cash Weaver"]
 date = 2022-08-19T10:46:00-07:00
-lastmod = 2022-09-05T14:53:07-07:00
+lastmod = 2022-09-05T16:26:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/44aea0ad-06fe-4c46-83c3-53b6a78591c3"
+slug = "44aea0ad-06fe-4c46-83c3-53b6a78591c3"
 +++
 
 \\(\begin{aligned}\href{/posts/tangent}{\tan}(\alpha) &= \frac{\text{opposite}}{\text{adjacent}} \\\ &= \frac{\href{/posts/sine}{\sin}(\alpha)}{\href{/posts/cosine}{\cos}(\alpha)}\end{aligned}\\)

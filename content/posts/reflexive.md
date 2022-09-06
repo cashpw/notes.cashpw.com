@@ -2,11 +2,11 @@
 title = "Reflexive relation"
 author = ["Cash Weaver"]
 date = 2022-07-23T17:10:00-07:00
-lastmod = 2022-09-05T14:49:40-07:00
+lastmod = 2022-09-05T16:15:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/48d05562-111f-4e9a-b005-013d54d4419e"
+slug = "48d05562-111f-4e9a-b005-013d54d4419e"
 +++
 
 ##  {#d41d8c}

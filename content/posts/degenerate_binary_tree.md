@@ -2,11 +2,11 @@
 title = "Degenerate binary tree"
 author = ["Cash Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-09-05T14:39:01-07:00
+lastmod = 2022-09-05T15:41:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/a15a6edb-dbe2-496f-bdc7-92b14e1f5566 /posts/pathological-binary-tree"
+slug = "a15a6edb-dbe2-496f-bdc7-92b14e1f5566"
 +++
 
 > A degenerate (or pathological) tree is where each parent node has only one associated child node. This means that the tree will behave like a linked list data structure.

@@ -2,11 +2,11 @@
 title = "Socratic questioning"
 author = ["Cash Weaver"]
 date = 2022-07-18T18:46:00-07:00
-lastmod = 2022-09-05T14:51:18-07:00
+lastmod = 2022-09-05T16:20:45-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/8611a2b5-378e-44ab-b601-6481f170c34a"
+slug = "8611a2b5-378e-44ab-b601-6481f170c34a"
 +++
 
 > Socratic questioning was named after Socrates. He used an educational method that focused on discovering answers by asking questions from his students.

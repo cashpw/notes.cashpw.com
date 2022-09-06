@@ -2,11 +2,11 @@
 title = "Priority queue"
 author = ["Cash Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2022-09-05T14:48:09-07:00
+lastmod = 2022-09-05T16:10:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/6f787120-13bb-405a-bfca-060df6d80b14 /posts/priority-queues"
+slug = "6f787120-13bb-405a-bfca-060df6d80b14"
 +++
 
 > In computer science, a priority queue is an abstract data-type similar to a regular queue [[Queue]({{< relref "queue.md" >}})] or stack data structure in which each element additionally has a "priority" associated with it. In a priority queue, an element with high priority is served before an element with low priority.

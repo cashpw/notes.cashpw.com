@@ -2,11 +2,11 @@
 title = "Secure attachment"
 author = ["Cash Weaver"]
 date = 2022-06-26T11:35:00-07:00
-lastmod = 2022-09-05T14:50:15-07:00
+lastmod = 2022-09-05T16:17:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/4873ac61-c885-41f7-bbba-9269bc91b0a9"
+slug = "4873ac61-c885-41f7-bbba-9269bc91b0a9"
 +++
 
 An [attachment]({{< relref "attachment_theory.md" >}}) pattern in which the child ventures out into the world, encounters a Strange Situation, and returns to the guardian for comfort. The guardian provides the comfort the child seeks and this strengthens the child in future Strange Situations as they know they're supported and protected.

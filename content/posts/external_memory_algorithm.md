@@ -2,11 +2,11 @@
 title = "External memory algorithm"
 author = ["Cash Weaver"]
 date = 2022-07-01T13:02:00-07:00
-lastmod = 2022-09-05T14:40:21-07:00
+lastmod = 2022-09-05T15:46:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/0f240189-7ede-4505-a900-21330b55f4c9"
+slug = "0f240189-7ede-4505-a900-21330b55f4c9"
 +++
 
 > In computing, external memory algorithms or out-of-core algorithms are algorithms that are designed to process data that are too large to fit into a computer's main memory at once. Such algorithms must be optimized to efficiently fetch and access data stored in slow bulk memory (auxiliary memory) such as hard drives or tape drives, or when memory is on a computer network.

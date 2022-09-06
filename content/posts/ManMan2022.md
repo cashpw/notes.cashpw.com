@@ -2,11 +2,11 @@
 title = "Wikipedia | Man After Man"
 author = ["Cash Weaver"]
 date = 2022-02-18T15:08:00-08:00
-lastmod = 2022-09-05T14:34:07-07:00
+lastmod = 2022-09-05T15:22:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/37bbf306-c299-4c06-acac-bb6f34b26b37"
+slug = "37bbf306-c299-4c06-acac-bb6f34b26b37"
 +++
 
 (<a href="#citeproc_bib_item_1">“Man After Man” 2022</a>)

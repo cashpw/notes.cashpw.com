@@ -2,11 +2,11 @@
 title = "Negative rights"
 author = ["Cash Weaver"]
 date = 2022-07-23T09:46:00-07:00
-lastmod = 2022-09-05T14:46:18-07:00
+lastmod = 2022-09-05T16:04:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310 /posts/negative-right"
+slug = "7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310"
 +++
 
 > Negative [...] rights are rights that oblige [...] inaction [...].

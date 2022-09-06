@@ -2,11 +2,11 @@
 title = "Symmetric matrix"
 author = ["Cash Weaver"]
 date = 2022-08-19T18:09:00-07:00
-lastmod = 2022-09-05T14:52:55-07:00
+lastmod = 2022-09-05T16:25:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/30dd1299-0411-4b80-945b-0740cc8b5348 /posts/symmetric-matrices"
+slug = "30dd1299-0411-4b80-945b-0740cc8b5348"
 +++
 
 > In linear algebra, a symmetric matrix is a [Square matrix]({{< relref "square_matrix.md" >}}) that is equal to its [Transpose]({{< relref "transpose.md" >}}). Formally,

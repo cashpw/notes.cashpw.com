@@ -2,11 +2,11 @@
 title = "Binary heap"
 author = ["Cash Weaver"]
 date = 2022-06-29T09:22:00-07:00
-lastmod = 2022-09-05T14:36:00-07:00
+lastmod = 2022-09-05T15:30:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad /posts/binary-heaps"
+slug = "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
 +++
 
 > A binary heap is a [Heap]({{< relref "heap.md" >}}) [Data structure]({{< relref "data_structures.md" >}}) that takes the form of a [Binary tree]({{< relref "binary_tree.md" >}}). Binary heaps are a common way of implementing [Priority queues]({{< relref "priority_queue.md" >}}).

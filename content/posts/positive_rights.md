@@ -2,11 +2,11 @@
 title = "Positive rights"
 author = ["Cash Weaver"]
 date = 2022-07-23T09:49:00-07:00
-lastmod = 2022-09-05T14:47:53-07:00
+lastmod = 2022-09-05T16:09:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/b1b88ef5-f272-47d7-80c3-de9038e2eeb2 /posts/positive-right"
+slug = "b1b88ef5-f272-47d7-80c3-de9038e2eeb2"
 +++
 
 > [...] positive rights are rights that oblige [...] action [...].

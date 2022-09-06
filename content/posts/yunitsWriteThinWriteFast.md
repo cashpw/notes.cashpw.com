@@ -2,11 +2,11 @@
 title = "Breck Yunits | Write Thin to Write Fast"
 author = ["Cash Weaver"]
 date = 2022-02-07T08:20:00-08:00
-lastmod = 2022-09-05T14:58:49-07:00
+lastmod = 2022-09-05T16:41:53-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/5f3247b2-ef62-4279-9794-4adeea0634c7"
+slug = "5f3247b2-ef62-4279-9794-4adeea0634c7"
 +++
 
 [Breck Yunits]({{< relref "breck_yunits.md" >}}), (<a href="#citeproc_bib_item_1">Yunits n.d.</a>)

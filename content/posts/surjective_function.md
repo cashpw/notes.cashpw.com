@@ -2,11 +2,11 @@
 title = "Surjective function"
 author = ["Cash Weaver"]
 date = 2022-08-20T06:43:00-07:00
-lastmod = 2022-09-05T14:52:41-07:00
+lastmod = 2022-09-05T16:25:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/69b3ebf4-c54d-424b-9479-e06e7c905433"
+slug = "69b3ebf4-c54d-424b-9479-e06e7c905433"
 +++
 
 > In mathematics, a surjective function (also known as surjection, or onto function) is a function f that maps an element x to every element y; that is, for every y, there is an x such that f(x) = y. In other words, every element of the function's codomain is the image of at least one element of its domain. It is not required that x be unique; the function f may map one or more elements of X to the same element of Y.

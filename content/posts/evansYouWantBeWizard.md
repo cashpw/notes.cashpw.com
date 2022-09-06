@@ -2,11 +2,11 @@
 title = "Julia Evans | So You Want to Be a Wizard"
 author = ["Cash Weaver"]
 date = 2022-07-21T17:09:00-07:00
-lastmod = 2022-09-05T14:40:09-07:00
+lastmod = 2022-09-05T15:45:22-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/4cb0f7fb-9567-4052-95fa-a57b23a8a54a"
+slug = "4cb0f7fb-9567-4052-95fa-a57b23a8a54a"
 +++
 
 [Julia Evans]({{< relref "julia_evans.md" >}}), (<a href="#citeproc_bib_item_1">Evans n.d.</a>)

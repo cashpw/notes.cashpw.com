@@ -2,9 +2,9 @@
 title = "Works in Progress"
 author = ["Cash Weaver"]
 date = 2022-02-18T17:26:00-08:00
-lastmod = 2022-09-05T14:58:17-07:00
+lastmod = 2022-09-05T16:40:36-07:00
 draft = false
-aliases = "/posts/e5987482-328e-40af-bcec-b69f27a49caa"
+slug = "e5987482-328e-40af-bcec-b69f27a49caa"
 +++
 
 A collection of work-in-progress posts. I will eventually extract these into individual nodes.

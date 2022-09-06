@@ -2,9 +2,9 @@
 title = "Read Gmail in Emacs with notmuch and lieer"
 author = ["Cash Weaver"]
 date = 2021-12-27T19:56:00-08:00
-lastmod = 2022-09-05T14:49:08-07:00
+lastmod = 2022-09-05T16:13:57-07:00
 draft = false
-aliases = "/posts/ada68d10-cec8-4af1-903d-29dfa71d2343"
+slug = "ada68d10-cec8-4af1-903d-29dfa71d2343"
 +++
 
 This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within [Emacs]({{< relref "emacs.md" >}}) ([Doom Emacs]({{< relref "doom_emacs.md" >}})) using [`notmuch`](https://notmuchmail.org/) and [`lieer`](https://github.com/gauteh/lieer).

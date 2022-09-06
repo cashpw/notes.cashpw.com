@@ -2,11 +2,11 @@
 title = "Anki"
 author = ["Cash Weaver"]
 date = 2022-02-08T13:08:00-08:00
-lastmod = 2022-09-05T14:33:50-07:00
+lastmod = 2022-09-05T15:20:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/6472f018-ab80-4c73-b973-adb8417939db"
+slug = "6472f018-ab80-4c73-b973-adb8417939db"
 +++
 
 A software solution for [spaced repetition]({{< relref "spaced_repetition.md" >}}).

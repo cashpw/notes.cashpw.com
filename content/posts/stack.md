@@ -2,11 +2,11 @@
 title = "Stack"
 author = ["Cash Weaver"]
 date = 2022-06-28T20:24:00-07:00
-lastmod = 2022-09-05T14:51:59-07:00
+lastmod = 2022-09-05T16:22:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/5ab783c7-9a13-42d2-920d-95f103ac677c"
+slug = "5ab783c7-9a13-42d2-920d-95f103ac677c"
 +++
 
 > In computer science, a stack is an [Abstract data type]({{< relref "abstract_data_type.md" >}}) that serves as a collection of elements, with two main principal operations:

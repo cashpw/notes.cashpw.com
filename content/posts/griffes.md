@@ -2,11 +2,11 @@
 title = "Milan Griffes | (A)"
 author = ["Cash Weaver"]
 date = 2022-02-06T13:12:00-08:00
-lastmod = 2022-09-05T14:41:44-07:00
+lastmod = 2022-09-05T15:50:32-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/18745aec-fcd1-4dd5-a55f-73fdc409aacb"
+slug = "18745aec-fcd1-4dd5-a55f-73fdc409aacb"
 +++
 
 [Milan Griffes]({{< relref "milan_griffes.md" >}}), (<a href="#citeproc_bib_item_1">Griffes n.d.</a>)

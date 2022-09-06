@@ -2,11 +2,11 @@
 title = "Cargo cult"
 author = ["Cash Weaver"]
 date = 2022-06-23T18:35:00-07:00
-lastmod = 2022-09-05T14:36:49-07:00
+lastmod = 2022-09-05T15:33:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/c5b4e591-7690-49b6-94cb-ab4ab54b68a6"
+slug = "c5b4e591-7690-49b6-94cb-ab4ab54b68a6"
 +++
 
 > A cargo cult is an indigenist millenarian belief system, in which adherents perform rituals which they believe will cause a more technologically advanced society to deliver goods. These cults were first described in Melanesia in the wake of contact with allied military forces during the Second World War.

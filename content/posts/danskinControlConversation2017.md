@@ -2,11 +2,11 @@
 title = "Ian Danskin | Control the Conversation"
 author = ["Cash Weaver"]
 date = 2022-06-25T16:31:00-07:00
-lastmod = 2022-09-05T14:38:16-07:00
+lastmod = 2022-09-05T15:38:59-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/c718f301-2099-48b7-bad5-74fdebea137e"
+slug = "c718f301-2099-48b7-bad5-74fdebea137e"
 +++
 
 [Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2017</a>)

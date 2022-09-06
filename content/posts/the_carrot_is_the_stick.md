@@ -2,11 +2,11 @@
 title = "The Carrot is the Stick"
 author = ["Cash Weaver"]
 date = 2022-03-13T16:34:00-07:00
-lastmod = 2022-09-05T14:53:47-07:00
+lastmod = 2022-09-05T16:28:24-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
-aliases = "/posts/23bf8c2e-5c00-414a-860f-3a6c87ea6283"
+slug = "23bf8c2e-5c00-414a-860f-3a6c87ea6283"
 +++
 
 > The carrot is just the stick by other means.

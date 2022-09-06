@@ -2,11 +2,11 @@
 title = "Breadth-first search"
 author = ["Cash Weaver"]
 date = 2022-06-29T17:20:00-07:00
-lastmod = 2022-09-05T14:36:34-07:00
+lastmod = 2022-09-05T15:32:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/cff4f06c-6179-423d-aa1d-ba54d85615e2 /posts/bfs"
+slug = "cff4f06c-6179-423d-aa1d-ba54d85615e2"
 +++
 
 > Breadth-first search (BFS) is an algorithm for searching a [Tree]({{< relref "tree.md" >}}) [or [Graph]({{< relref "graph.md" >}})] [Data structure]({{< relref "data_structures.md" >}}) for a node that satisfies a given property. It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level. Extra memory, usually a [Queue]({{< relref "queue.md" >}}), is needed to keep track of the child nodes that were encountered but not yet explored.

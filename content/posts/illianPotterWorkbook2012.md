@@ -2,10 +2,10 @@
 title = "Clary Illian | A Potter's Workbook."
 author = ["Cash Weaver"]
 date = 2022-02-06T15:34:00-08:00
-lastmod = 2022-09-05T14:42:54-07:00
+lastmod = 2022-09-05T15:54:21-07:00
 tags = ["reference"]
 draft = false
-aliases = "/posts/3f493f0a-aac1-43b6-be22-9711b921f6d8"
+slug = "3f493f0a-aac1-43b6-be22-9711b921f6d8"
 +++
 
 [Clary Illian]({{< relref "clary_illian.md" >}}), (<a href="#citeproc_bib_item_1">Illian 2012</a>)

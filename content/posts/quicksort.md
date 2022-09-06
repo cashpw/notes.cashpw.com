@@ -2,11 +2,11 @@
 title = "Quicksort"
 author = ["Cash Weaver"]
 date = 2022-06-30T13:45:00-07:00
-lastmod = 2022-09-05T14:48:52-07:00
+lastmod = 2022-09-05T16:13:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/d7bcd831-6a3f-4885-a654-15f0b11c9966"
+slug = "d7bcd831-6a3f-4885-a654-15f0b11c9966"
 +++
 
 > Quicksort is an in-place [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}). [...] It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.

@@ -2,11 +2,11 @@
 title = "Use Plain Language"
 author = ["Cash Weaver"]
 date = 2022-01-17T11:26:00-08:00
-lastmod = 2022-09-05T14:57:11-07:00
+lastmod = 2022-09-05T16:38:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/d65fac7a-c0e4-4f53-95f2-71d7343dc0cf"
+slug = "d65fac7a-c0e4-4f53-95f2-71d7343dc0cf"
 +++
 
 > Plain language makes it easier [...] to read, understand, and use [writing].

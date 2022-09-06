@@ -2,11 +2,11 @@
 title = "Dark forest theory"
 author = ["Cash Weaver"]
 date = 2022-06-26T14:09:00-07:00
-lastmod = 2022-09-05T14:38:46-07:00
+lastmod = 2022-09-05T15:40:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/53a94f95-9ee7-4f8a-92bf-9501d5768a1f"
+slug = "53a94f95-9ee7-4f8a-92bf-9501d5768a1f"
 +++
 
 > The universe is a dark forest. Every civilization is an armed hunter stalking through the trees like a ghost, gently pushing aside branches that block the path and trying to tread without sound. Even breathing is done with care. The hunter has to be careful because everywhere in the forest are stealthy hunters like him. If he finds another life — another hunter, angel, or a demon, a delicate infant to tottering old man, a fairy or demigod — there's only one thing he can do: open fire and eliminate them.

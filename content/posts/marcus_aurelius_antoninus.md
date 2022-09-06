@@ -2,11 +2,11 @@
 title = "Marcus Aurelius Antoninus"
 author = ["Cash Weaver"]
 date = 2022-02-17T06:44:00-08:00
-lastmod = 2022-09-05T14:45:08-07:00
+lastmod = 2022-09-05T16:01:17-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
-aliases = "/posts/759ba2f0-39b0-4d43-a48b-f4997e8178f3"
+slug = "759ba2f0-39b0-4d43-a48b-f4997e8178f3"
 +++
 
 Among other things:

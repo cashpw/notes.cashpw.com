@@ -2,11 +2,11 @@
 title = "Sam Altman | Productivity"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:46:00-08:00
-lastmod = 2022-09-05T14:35:03-07:00
+lastmod = 2022-09-05T15:26:51-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/3626303a-41d6-4d8c-98ee-186e6f59cb44"
+slug = "3626303a-41d6-4d8c-98ee-186e6f59cb44"
 +++
 
 [Sam Altman]({{< relref "sam_altman.md" >}}), (<a href="#citeproc_bib_item_1">Altman 2018</a>)

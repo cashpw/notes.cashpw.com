@@ -2,9 +2,9 @@
 title = "Three Paths in the Tech Industry: Founder, Executive, or Employee"
 author = ["Cash Weaver"]
 date = 2021-11-27T07:00:00-08:00
-lastmod = 2022-09-05T14:55:07-07:00
+lastmod = 2022-09-05T16:32:31-07:00
 draft = true
-aliases = "/posts/548362c8-b5a6-4d50-b459-543d321e49b6"
+slug = "548362c8-b5a6-4d50-b459-543d321e49b6"
 +++
 
 The article begins with:

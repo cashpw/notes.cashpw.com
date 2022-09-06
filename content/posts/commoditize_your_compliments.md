@@ -2,11 +2,11 @@
 title = "Commoditize Your Compliments"
 author = ["Cash Weaver"]
 date = 2022-03-12T10:27:00-08:00
-lastmod = 2022-09-05T14:37:42-07:00
+lastmod = 2022-09-05T15:36:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/f4ce56ce-f473-4f06-b78b-db67aaaa45d2"
+slug = "f4ce56ce-f473-4f06-b78b-db67aaaa45d2"
 +++
 
 Commoditizing your compliments is a business strategy to ensure you maintain a dominant position and capture the majority of the surplus value involved in nearby transactions.

@@ -2,11 +2,11 @@
 title = "John Allspaw"
 author = ["Cash Weaver"]
 date = 2022-02-21T15:31:00-08:00
-lastmod = 2022-09-05T14:43:28-07:00
+lastmod = 2022-09-05T15:56:07-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
-aliases = "/posts/7b38ec01-c3cb-4ea3-9c02-a3be22880118"
+slug = "7b38ec01-c3cb-4ea3-9c02-a3be22880118"
 +++
 
 Among other things:

@@ -2,11 +2,11 @@
 title = "Mainstreaming"
 author = ["Cash Weaver"]
 date = 2022-08-05T15:10:00-07:00
-lastmod = 2022-09-05T14:44:59-07:00
+lastmod = 2022-09-05T16:00:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/111a6e96-cead-445c-8061-2b7498d7f9a3"
+slug = "111a6e96-cead-445c-8061-2b7498d7f9a3"
 +++
 
 The process by which a group or idea from the fringes moves toward the center.

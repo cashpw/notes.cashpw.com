@@ -2,11 +2,11 @@
 title = "Hash function"
 author = ["Cash Weaver"]
 date = 2022-06-29T16:13:00-07:00
-lastmod = 2022-09-05T14:41:52-07:00
+lastmod = 2022-09-05T15:50:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/b5c17ad0-3857-4800-90be-8e79e72897ab"
+slug = "b5c17ad0-3857-4800-90be-8e79e72897ab"
 +++
 
 > A hash function is any function that can be used to map data of arbitrary size to fixed-size values.

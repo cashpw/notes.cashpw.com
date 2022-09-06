@@ -2,11 +2,11 @@
 title = "The map is not the territory"
 author = ["Cash Weaver"]
 date = 2022-08-26T14:42:00-07:00
-lastmod = 2022-09-05T14:54:16-07:00
+lastmod = 2022-09-05T16:29:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/bfc5100c-d70d-4829-9798-7a90b5edea9b"
+slug = "bfc5100c-d70d-4829-9798-7a90b5edea9b"
 +++
 
 > The map of reality is not reality. Even the best maps are imperfect. That's because they are reductions of what they represent. If a map were to represent the territory with perfect fidelity, it would no longer be a reduction and thus would no longer be useful to us. A map can also be a snapshot of a point in time, representing something that no longer exists.

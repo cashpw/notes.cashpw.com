@@ -2,11 +2,11 @@
 title = "Greek alphabet"
 author = ["Cash Weaver"]
 date = 2022-07-03T06:37:00-07:00
-lastmod = 2022-09-05T14:41:36-07:00
+lastmod = 2022-09-05T15:50:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
+slug = "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
 +++
 
 > | Name    | Letter |

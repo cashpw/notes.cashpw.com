@@ -2,11 +2,11 @@
 title = "Passive House"
 author = ["Cash Weaver"]
 date = 2022-01-29T16:52:00-08:00
-lastmod = 2022-09-05T14:47:08-07:00
+lastmod = 2022-09-05T16:07:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = true
-aliases = "/posts/846cdec4-5f6c-4dd9-99a4-d30ea0b61180"
+slug = "846cdec4-5f6c-4dd9-99a4-d30ea0b61180"
 +++
 
 > [...] a voluntary standard for energy efficiency in a building, which reduces the building's ecological footprint.

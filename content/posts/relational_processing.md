@@ -2,11 +2,11 @@
 title = "Relational Processing"
 author = ["Cash Weaver"]
 date = 2021-12-31T11:44:00-08:00
-lastmod = 2022-09-05T14:49:43-07:00
+lastmod = 2022-09-05T16:15:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/9624e845-4338-414c-ae4b-8cdf8adbc0ef"
+slug = "9624e845-4338-414c-ae4b-8cdf8adbc0ef"
 +++
 
 A technique of studying/learning where one emphasizes the relationships between pieces of information.

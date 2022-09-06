@@ -2,11 +2,11 @@
 title = "Scott Alexander | Meditations On Moloch"
 author = ["Cash Weaver"]
 date = 2022-03-13T20:30:00-07:00
-lastmod = 2022-09-05T14:34:46-07:00
+lastmod = 2022-09-05T15:25:06-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/1bba449a-48eb-479a-be4d-a4d7f8095b6a"
+slug = "1bba449a-48eb-479a-be4d-a4d7f8095b6a"
 +++
 
 [Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2014</a>)

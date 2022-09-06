@@ -2,11 +2,11 @@
 title = "Narrative book"
 author = ["Cash Weaver"]
 date = 2022-07-17T09:49:00-07:00
-lastmod = 2022-09-05T14:46:13-07:00
+lastmod = 2022-09-05T16:04:45-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8"
+slug = "4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8"
 +++
 
 > Narrative books are books that tell a story. Examples include biographies, memoirs, and histories.

@@ -2,11 +2,11 @@
 title = "S Keshav | How to Read a Paper"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:58:00-08:00
-lastmod = 2022-09-05T14:43:46-07:00
+lastmod = 2022-09-05T15:57:04-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/e6b1cd50-8293-44a3-bcba-d302d0835470"
+slug = "e6b1cd50-8293-44a3-bcba-d302d0835470"
 +++
 
 (<a href="#citeproc_bib_item_1">Keshav, n.d.</a>)

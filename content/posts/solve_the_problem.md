@@ -2,11 +2,11 @@
 title = "Solve the problem"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:37:00-08:00
-lastmod = 2022-09-05T14:51:23-07:00
+lastmod = 2022-09-05T16:20:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/b00a62dd-b06c-4943-81d7-140b11e15c8b"
+slug = "b00a62dd-b06c-4943-81d7-140b11e15c8b"
 +++
 
 ## Your goal should be solving the problem first and foremost {#your-goal-should-be-solving-the-problem-first-and-foremost}

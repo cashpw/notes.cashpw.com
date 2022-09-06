@@ -2,11 +2,11 @@
 title = "Tim Peck | What Are the Three Types of Fun?"
 author = ["Cash Weaver"]
 date = 2022-02-07T08:09:00-08:00
-lastmod = 2022-09-05T14:34:21-07:00
+lastmod = 2022-09-05T15:23:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/a06d371b-148e-4a49-86bb-f4d04cfcefe7"
+slug = "a06d371b-148e-4a49-86bb-f4d04cfcefe7"
 +++
 
 [Tim Peck]({{< relref "tim_peck.md" >}}), (<a href="#citeproc_bib_item_1">Peck 2017</a>)

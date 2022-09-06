@@ -2,11 +2,11 @@
 title = "Local Minima"
 author = ["Cash Weaver"]
 date = 2022-03-14T07:38:00-07:00
-lastmod = 2022-09-05T14:44:49-07:00
+lastmod = 2022-09-05T16:00:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/b60aaeac-0364-4d7b-8189-4ded082154ff"
+slug = "b60aaeac-0364-4d7b-8189-4ded082154ff"
 +++
 
 The local minima is the smallest value of a function within a given range (<a href="#citeproc_bib_item_1">“Maxima and Minima” 2022</a>).

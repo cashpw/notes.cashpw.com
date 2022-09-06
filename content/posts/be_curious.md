@@ -2,11 +2,11 @@
 title = "Be curious"
 author = ["Cash Weaver"]
 date = 2022-07-21T16:39:00-07:00
-lastmod = 2022-09-05T14:35:41-07:00
+lastmod = 2022-09-05T15:29:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/279afdb0-48ca-4542-94f1-d20add351cae"
+slug = "279afdb0-48ca-4542-94f1-d20add351cae"
 +++
 
 ##  {#d41d8c}

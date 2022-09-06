@@ -2,9 +2,9 @@
 title = "Personal Relationship Manager"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:05:00-08:00
-lastmod = 2022-09-05T14:47:28-07:00
+lastmod = 2022-09-05T16:08:33-07:00
 draft = false
-aliases = "/posts/4938a000-de24-45a9-bb5b-5b8559bc99c3"
+slug = "4938a000-de24-45a9-bb5b-5b8559bc99c3"
 +++
 
 A Customer Relationship Manager (CRM) for personal use.

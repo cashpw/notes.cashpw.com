@@ -2,11 +2,11 @@
 title = "Local Maxima"
 author = ["Cash Weaver"]
 date = 2022-03-14T07:41:00-07:00
-lastmod = 2022-09-05T14:44:48-07:00
+lastmod = 2022-09-05T16:00:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/93680ef4-e95c-4320-8d28-7b60f8453a40"
+slug = "93680ef4-e95c-4320-8d28-7b60f8453a40"
 +++
 
 The local maxima is the largest value of a function within a given range (<a href="#citeproc_bib_item_1">“Maxima and Minima” 2022</a>).

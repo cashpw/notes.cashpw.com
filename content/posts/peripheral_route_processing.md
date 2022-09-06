@@ -2,11 +2,11 @@
 title = "Peripheral route processing"
 author = ["Cash Weaver"]
 date = 2022-06-26T11:17:00-07:00
-lastmod = 2022-09-05T14:47:24-07:00
+lastmod = 2022-09-05T16:08:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/a075c129-c708-4f5b-bbe7-4b5b85f3b475"
+slug = "a075c129-c708-4f5b-bbe7-4b5b85f3b475"
 +++
 
 > [...] persuasion [resulting] from a person's association with positive or negative cues in the stimulus or making a simple inference about the merits of the advocated position. The cues received by the individual under the peripheral route are generally unrelated to the logical quality of the stimulus. These cues will involve factors such as the credibility or attractiveness of the sources of the message, or the production quality of the message.

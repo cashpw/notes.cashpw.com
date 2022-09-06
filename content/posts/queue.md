@@ -2,11 +2,11 @@
 title = "Queue"
 author = ["Cash Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2022-09-05T14:48:31-07:00
+lastmod = 2022-09-05T16:11:50-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/f7ca3e99-0356-4651-996e-542a11d67f50"
+slug = "f7ca3e99-0356-4651-996e-542a11d67f50"
 +++
 
 A queue is an [Abstract data type]({{< relref "abstract_data_type.md" >}}).

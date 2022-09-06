@@ -2,11 +2,11 @@
 title = "Heap"
 author = ["Cash Weaver"]
 date = 2022-06-28T14:46:00-07:00
-lastmod = 2022-09-05T14:42:06-07:00
+lastmod = 2022-09-05T15:51:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/70cbebc9-8936-4d52-885a-76d747c6577f"
+slug = "70cbebc9-8936-4d52-885a-76d747c6577f"
 +++
 
 > In computer science, a heap is a specialized tree-based [[tree]({{< relref "tree.md" >}})] data structure [[data structure]({{< relref "data_structures.md" >}})] which is essentially an almost complete tree that satisfies the heap property [[Heap property]({{< relref "heap_property.md" >}})]: in a max heap [[Max heap]({{< relref "heap_property.md#max-heap" >}})], for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C. In a min heap [[Min heap]({{< relref "heap_property.md#min-heap" >}})], the key of P is less than or equal to the key of C.

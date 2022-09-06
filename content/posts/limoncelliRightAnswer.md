@@ -2,11 +2,11 @@
 title = "Tom Limoncelli | The Right Answer"
 author = ["Cash Weaver"]
 date = 2022-02-21T15:50:00-08:00
-lastmod = 2022-09-05T14:44:18-07:00
+lastmod = 2022-09-05T15:58:40-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/8ed02b38-ffb0-4230-8dd4-3986a74fbe13"
+slug = "8ed02b38-ffb0-4230-8dd4-3986a74fbe13"
 +++
 
 [Tom Limoncelli]({{< relref "tom_limoncelli.md" >}}), (<a href="#citeproc_bib_item_1">Limoncelli n.d.</a>)

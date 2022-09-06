@@ -2,11 +2,11 @@
 title = "Identity matrix"
 author = ["Cash Weaver"]
 date = 2022-08-19T18:21:00-07:00
-lastmod = 2022-09-05T14:42:47-07:00
+lastmod = 2022-09-05T15:53:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/562ca40a-737f-43b5-9ff5-47c5996f9b5c"
+slug = "562ca40a-737f-43b5-9ff5-47c5996f9b5c"
 +++
 
 > In linear algebra, the identity matrix of size \\(n\\) is the \\(n \times n\\) [Square matrix]({{< relref "square_matrix.md" >}}) with ones on the main diagonal and zeros elsewhere.

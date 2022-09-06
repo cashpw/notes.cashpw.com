@@ -2,11 +2,11 @@
 title = "Central route processing"
 author = ["Cash Weaver"]
 date = 2022-06-26T11:13:00-07:00
-lastmod = 2022-09-05T14:36:59-07:00
+lastmod = 2022-09-05T15:34:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/9d43bd11-f7b0-42b3-8621-3f47ce7e08cd"
+slug = "9d43bd11-f7b0-42b3-8621-3f47ce7e08cd"
 +++
 
 > [Pursuasion resulting] from a person's careful and thoughtful consideration of the true merits of the information presented in support of an advocacy.

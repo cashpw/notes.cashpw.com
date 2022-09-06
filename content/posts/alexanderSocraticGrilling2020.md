@@ -2,11 +2,11 @@
 title = "Scott Alexander | Socratic Grilling"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:03:00-08:00
-lastmod = 2022-09-05T14:34:51-07:00
+lastmod = 2022-09-05T15:25:36-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/cb4ba655-dabf-40a2-95e7-0cdbff887074"
+slug = "cb4ba655-dabf-40a2-95e7-0cdbff887074"
 +++
 
 [Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2020</a>)

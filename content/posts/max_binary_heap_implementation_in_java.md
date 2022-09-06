@@ -2,11 +2,11 @@
 title = "Max binary heap implementation in java"
 author = ["Cash Weaver"]
 date = 2022-06-29T12:59:00-07:00
-lastmod = 2022-09-05T14:45:30-07:00
+lastmod = 2022-09-05T16:02:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9"
+slug = "c49251f2-f550-4a7a-96cc-cbc17c5911b9"
 +++
 
 ```java

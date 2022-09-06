@@ -2,11 +2,11 @@
 title = "Tree rotation"
 author = ["Cash Weaver"]
 date = 2022-08-04T16:11:00-07:00
-lastmod = 2022-09-05T14:56:21-07:00
+lastmod = 2022-09-05T16:36:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/f0deaa3b-c3bc-491d-adc3-6e6595cb558e"
+slug = "f0deaa3b-c3bc-491d-adc3-6e6595cb558e"
 +++
 
 > In discrete mathematics, tree rotation is an operation on a [Binary tree]({{< relref "binary_tree.md" >}}) that changes the structure without interfering with the order of the elements. A tree rotation moves one [[Vertex]({{< relref "vertex.md" >}})] up in the tree and one [[Vertex]({{< relref "vertex.md" >}})] down. It is used to change the shape of the tree, and in particular to decrease its height by moving smaller subtrees down and larger subtrees up, resulting in improved performance of many tree operations.

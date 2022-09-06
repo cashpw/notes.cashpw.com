@@ -2,11 +2,11 @@
 title = "Correlation coefficient of vectors"
 author = ["Cash Weaver"]
 date = 2022-08-17T09:45:00-07:00
-lastmod = 2022-09-05T14:37:54-07:00
+lastmod = 2022-09-05T15:37:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/d9f04c73-1238-4e6b-a370-8a23ac755610"
+slug = "d9f04c73-1238-4e6b-a370-8a23ac755610"
 +++
 
 > \\(\rho\_{\vec{a}, \vec{b}} \overset{\Delta}{=} \frac{\tilde{a} \cdot \tilde{b}}{\\|\tilde{a}\\|\\|\tilde{b}\\|}\\)

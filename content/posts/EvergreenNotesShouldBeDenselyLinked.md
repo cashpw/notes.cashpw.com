@@ -2,11 +2,11 @@
 title = "Andy Matuschak | Evergreen Notes Should Be Densely Linked"
 author = ["Cash Weaver"]
 date = 2022-02-22T07:04:00-08:00
-lastmod = 2022-09-05T14:33:59-07:00
+lastmod = 2022-09-05T15:21:24-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/6037800d-34c3-4d62-a33b-3931d694f083"
+slug = "6037800d-34c3-4d62-a33b-3931d694f083"
 +++
 
 [Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)

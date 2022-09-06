@@ -2,11 +2,11 @@
 title = "Wikipedia | Dunning-Kruger Effect"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:07:00-08:00
-lastmod = 2022-09-05T14:33:58-07:00
+lastmod = 2022-09-05T15:21:18-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/393d22dc-fb65-4f8c-9070-6973d6c9668e"
+slug = "393d22dc-fb65-4f8c-9070-6973d6c9668e"
 +++
 
 (<a href="#citeproc_bib_item_1">“DunningKruger Effect” 2022</a>)

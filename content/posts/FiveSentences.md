@@ -2,11 +2,11 @@
 title = "Five Sentences"
 author = ["Cash Weaver"]
 date = 2022-02-15T13:21:00-08:00
-lastmod = 2022-09-05T14:34:02-07:00
+lastmod = 2022-09-05T15:21:35-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/ef3d7a17-747d-485c-83b3-4404c1ab67e8"
+slug = "ef3d7a17-747d-485c-83b3-4404c1ab67e8"
 +++
 
 > ****The Problem****

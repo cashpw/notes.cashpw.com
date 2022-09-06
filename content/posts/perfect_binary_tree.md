@@ -2,11 +2,11 @@
 title = "Perfect binary tree"
 author = ["Cash Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-09-05T14:47:20-07:00
+lastmod = 2022-09-05T16:08:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/de6bcd91-4a80-4ea9-b939-eb7f57077f63"
+slug = "de6bcd91-4a80-4ea9-b939-eb7f57077f63"
 +++
 
 > A perfect binary tree is a binary tree in which all interior nodes have two children and all leaves have the same depth or same level.

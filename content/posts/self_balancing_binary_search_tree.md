@@ -2,11 +2,11 @@
 title = "Self-balancing binary search tree"
 author = ["Cash Weaver"]
 date = 2022-07-23T16:50:00-07:00
-lastmod = 2022-09-05T14:50:27-07:00
+lastmod = 2022-09-05T16:18:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/b3fc99fa-5b7e-4e45-83c2-6d283aecca9a /posts/self-balancing-binary-search-trees"
+slug = "b3fc99fa-5b7e-4e45-83c2-6d283aecca9a"
 +++
 
 > In computer science, a self-balancing binary search tree (BST) is any node-based [Binary search tree]({{< relref "binary_search_tree.md" >}}) that automatically keeps its height (maximal number of levels below the root) small in the face of arbitrary item insertions and deletions.

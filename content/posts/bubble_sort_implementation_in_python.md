@@ -2,11 +2,11 @@
 title = "Bubble sort implementation in Python"
 author = ["Cash Weaver"]
 date = 2022-06-30T10:52:00-07:00
-lastmod = 2022-09-05T14:36:42-07:00
+lastmod = 2022-09-05T15:33:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/af832252-c4a9-4364-bdef-59c1a8ea6ebe"
+slug = "af832252-c4a9-4364-bdef-59c1a8ea6ebe"
 +++
 
 An implementation of [Bubble sort]({{< relref "bubble_sort.md" >}}) in [Python]({{< relref "python.md" >}}).

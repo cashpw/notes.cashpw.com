@@ -2,11 +2,11 @@
 title = "Strongly connected"
 author = ["Cash Weaver"]
 date = 2022-07-23T17:11:00-07:00
-lastmod = 2022-09-05T14:52:09-07:00
+lastmod = 2022-09-05T16:23:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/7703fd24-5fdf-40c0-8b44-4530d303bc6e"
+slug = "7703fd24-5fdf-40c0-8b44-4530d303bc6e"
 +++
 
 ## This relation and others listed in the citation {#this-relation-and-others-listed-in-the-citation}

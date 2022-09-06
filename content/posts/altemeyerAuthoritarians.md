@@ -2,11 +2,11 @@
 title = "Bob Altemeyer | The Authoritarians"
 author = ["Cash Weaver"]
 date = 2022-06-25T19:12:00-07:00
-lastmod = 2022-09-05T14:35:01-07:00
+lastmod = 2022-09-05T15:26:44-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/9e3242c4-62f4-4863-8368-8a4b160c1e76"
+slug = "9e3242c4-62f4-4863-8368-8a4b160c1e76"
 +++
 
 [Robert Altemeyer]({{< relref "robert_altemeyer.md" >}}), (<a href="#citeproc_bib_item_1">Altemeyer, n.d.</a>)

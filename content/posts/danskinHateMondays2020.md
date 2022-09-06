@@ -2,11 +2,11 @@
 title = "Ian Danskin | I Hate Mondays"
 author = ["Cash Weaver"]
 date = 2022-06-26T09:29:00-07:00
-lastmod = 2022-09-05T14:38:26-07:00
+lastmod = 2022-09-05T15:39:33-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/d15c77d7-fde1-4f65-a68d-59a6a51ed7d1"
+slug = "d15c77d7-fde1-4f65-a68d-59a6a51ed7d1"
 +++
 
 [Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2020</a>)

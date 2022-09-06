@@ -2,11 +2,11 @@
 title = "Wikipedia | Deep Time"
 author = ["Cash Weaver"]
 date = 2022-02-18T13:07:00-08:00
-lastmod = 2022-09-05T14:33:55-07:00
+lastmod = 2022-09-05T15:21:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/607e152b-fce5-4e83-a88e-58c0f1f5571d"
+slug = "607e152b-fce5-4e83-a88e-58c0f1f5571d"
 +++
 
 (<a href="#citeproc_bib_item_1">“Deep Time” 2021</a>)

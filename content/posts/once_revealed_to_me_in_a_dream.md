@@ -2,11 +2,11 @@
 title = "Once Revealed to Me in a Dream"
 author = ["Cash Weaver"]
 date = 2022-02-05T12:50:00-08:00
-lastmod = 2022-09-05T14:46:58-07:00
+lastmod = 2022-09-05T16:07:06-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
-aliases = "/posts/27cb520e-f5d5-45b2-b92e-cde08209beef"
+slug = "27cb520e-f5d5-45b2-b92e-cde08209beef"
 +++
 
 > This was once revealed to me in a dream.

@@ -2,11 +2,11 @@
 title = "Scott Alexander | Book Review: The Seven Principles For Making Marriage Work"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:43:00-08:00
-lastmod = 2022-09-05T14:34:40-07:00
+lastmod = 2022-09-05T15:24:37-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/0bbaf0b3-afed-49e2-a5f5-61c0a0cff973"
+slug = "0bbaf0b3-afed-49e2-a5f5-61c0a0cff973"
 +++
 
 [Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2020</a>) , [The Seven Principles for Making Marriage Work](https://books.google.com/books?vid=ISBN9780609805794)

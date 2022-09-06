@@ -2,11 +2,11 @@
 title = "Litany Against Fear"
 author = ["Cash Weaver"]
 date = 2022-02-17T07:03:00-08:00
-lastmod = 2022-09-05T14:44:39-07:00
+lastmod = 2022-09-05T15:59:48-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
-aliases = "/posts/458de7df-08ff-40dc-9a7b-18f2d14520ee"
+slug = "458de7df-08ff-40dc-9a7b-18f2d14520ee"
 +++
 
 <div class="verse">

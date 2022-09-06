@@ -2,11 +2,11 @@
 title = "Depth-first search"
 author = ["Cash Weaver"]
 date = 2022-06-29T16:36:00-07:00
-lastmod = 2022-09-05T14:39:09-07:00
+lastmod = 2022-09-05T15:41:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/81c88eaa-3ec9-486c-bcdf-457dd40b4eba /posts/dfs"
+slug = "81c88eaa-3ec9-486c-bcdf-457dd40b4eba"
 +++
 
 > Depth-first search (DFS) is an algorithm for traversing or searching [Tree]({{< relref "tree.md" >}}) or [Graph]({{< relref "graph.md" >}}) [Data structures]({{< relref "data_structures.md" >}}). The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.

@@ -2,11 +2,11 @@
 title = "Use Serial Commas"
 author = ["Cash Weaver"]
 date = 2022-02-20T13:16:00-08:00
-lastmod = 2022-09-05T14:57:15-07:00
+lastmod = 2022-09-05T16:38:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/5b18fea0-1aab-4ad3-91ef-781a2524f11d"
+slug = "5b18fea0-1aab-4ad3-91ef-781a2524f11d"
 +++
 
 > [...] a serial comma (also called a series comma, Oxford comma, or Harvard comma) is a comma placed immediately after the penultimate term (i.e., before the coordinating conjunction, such as and or or) in a series of three or more terms.

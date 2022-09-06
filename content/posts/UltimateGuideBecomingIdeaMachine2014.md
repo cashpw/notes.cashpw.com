@@ -2,11 +2,11 @@
 title = "James Altucher | The Ultimate Guide for Becoming an Idea Machine"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:16:00-08:00
-lastmod = 2022-09-05T14:34:20-07:00
+lastmod = 2022-09-05T15:22:55-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/876f8d80-902c-427a-9109-bb3bd447715c"
+slug = "876f8d80-902c-427a-9109-bb3bd447715c"
 +++
 
 [James Altucher]({{< relref "james_altucher.md" >}}), (<a href="#citeproc_bib_item_1">Altucher 2014</a>)

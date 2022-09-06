@@ -2,11 +2,11 @@
 title = "Echo Chamber"
 author = ["Cash Weaver"]
 date = 2022-03-12T07:26:00-08:00
-lastmod = 2022-09-05T14:39:43-07:00
+lastmod = 2022-09-05T15:43:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/3657474e-5e72-4f19-8664-c66583f6310d"
+slug = "3657474e-5e72-4f19-8664-c66583f6310d"
 +++
 
 > [...] an echo chamber refers to situations in which beliefs are amplified or reinforced by communication and repetition inside a closed system and insulated from rebuttal.

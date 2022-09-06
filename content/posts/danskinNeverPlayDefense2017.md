@@ -2,11 +2,11 @@
 title = "Ian Danskin | Never Play Defense"
 author = ["Cash Weaver"]
 date = 2022-06-25T17:23:00-07:00
-lastmod = 2022-09-05T14:38:36-07:00
+lastmod = 2022-09-05T15:40:08-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/faa69627-9b11-4e11-ae1a-bcefb66fdedb"
+slug = "faa69627-9b11-4e11-ae1a-bcefb66fdedb"
 +++
 
 [Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2017</a>)

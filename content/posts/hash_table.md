@@ -2,11 +2,11 @@
 title = "Hash table"
 author = ["Cash Weaver"]
 date = 2022-06-29T16:06:00-07:00
-lastmod = 2022-09-05T14:41:56-07:00
+lastmod = 2022-09-05T15:51:13-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/b8f1337e-8231-4ace-b003-bb988b4c39ee /posts/hash-maps /posts/hash-tables-dictionary-hash-map"
+slug = "b8f1337e-8231-4ace-b003-bb988b4c39ee"
 +++
 
 > In computing, a hash table, also known as hash map or dictionary, is a [Data structure]({{< relref "data_structures.md" >}}) that implements a [[Associative array]({{< relref "associative_array.md" >}})], a structure that can map keys to values. A hash table uses a [Hash function]({{< relref "hash_function.md" >}}) to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored.

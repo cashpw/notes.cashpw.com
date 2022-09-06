@@ -2,11 +2,11 @@
 title = "Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater"
 author = ["Cash Weaver"]
 date = 2022-07-22T18:27:00-07:00
-lastmod = 2022-09-05T14:37:32-07:00
+lastmod = 2022-09-05T15:36:26-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/86e4a35a-4b5e-4403-946b-737b4dad1693"
+slug = "86e4a35a-4b5e-4403-946b-737b4dad1693"
 +++
 
 [Citations Needed]({{< relref "CitationsNeeded.md" >}}), (<a href="#citeproc_bib_item_1">Citations Needed 2022</a>)

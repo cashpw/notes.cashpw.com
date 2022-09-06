@@ -2,10 +2,10 @@
 title = "Ben Kuhn | Attention Is Your Scarcest Resource"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:31:00-08:00
-lastmod = 2022-09-05T14:43:55-07:00
+lastmod = 2022-09-05T15:57:31-07:00
 tags = ["reference"]
 draft = false
-aliases = "/posts/4625d068-26fe-47d7-93b3-da12b0151ca1"
+slug = "4625d068-26fe-47d7-93b3-da12b0151ca1"
 +++
 
 [Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn 2020</a>)

@@ -2,11 +2,11 @@
 title = "Aaron Bastani | Fully Automated Luxury Communism: A Manifesto"
 author = ["Cash Weaver"]
 date = 2022-07-21T10:11:00-07:00
-lastmod = 2022-09-05T14:35:39-07:00
+lastmod = 2022-09-05T15:29:25-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/7bd138aa-fe96-40fd-ab4f-45026edfa547"
+slug = "7bd138aa-fe96-40fd-ab4f-45026edfa547"
 +++
 
 [Aaron Bastani]({{< relref "aaron_bastani.md" >}}), (<a href="#citeproc_bib_item_1">Bastani 2019</a>)

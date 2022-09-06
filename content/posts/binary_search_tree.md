@@ -2,11 +2,11 @@
 title = "Binary search tree"
 author = ["Cash Weaver"]
 date = 2022-07-23T16:43:00-07:00
-lastmod = 2022-09-05T14:36:04-07:00
+lastmod = 2022-09-05T15:31:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/dc929031-e15a-4566-a7bd-7331768ee02f /posts/sorted-binary-tree /posts/ordered-search-tree"
+slug = "dc929031-e15a-4566-a7bd-7331768ee02f"
 +++
 
 > In computer science, a binary search tree (BST), also called an ordered or sorted binary tree, is a rooted [Binary tree]({{< relref "binary_tree.md" >}}) [Data structure]({{< relref "data_structures.md" >}}) with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree. The time complexity of operations on the binary search tree is directly proportional to the height of the tree.

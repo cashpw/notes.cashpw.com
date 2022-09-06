@@ -2,11 +2,11 @@
 title = "Ian Danskin | The Ship of Theseus"
 author = ["Cash Weaver"]
 date = 2022-06-25T20:03:00-07:00
-lastmod = 2022-09-05T14:38:40-07:00
+lastmod = 2022-09-05T15:40:19-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/309082e8-abb5-4fdf-9944-fc63d8a8197e"
+slug = "309082e8-abb5-4fdf-9944-fc63d8a8197e"
 +++
 
 [Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2018</a>)

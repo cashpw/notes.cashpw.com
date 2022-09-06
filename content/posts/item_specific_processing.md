@@ -2,11 +2,11 @@
 title = "Item-specific Processing"
 author = ["Cash Weaver"]
 date = 2021-12-31T11:40:00-08:00
-lastmod = 2022-09-05T14:43:15-07:00
+lastmod = 2022-09-05T15:55:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/e860a606-84d0-47a0-8230-a702e86c363a"
+slug = "e860a606-84d0-47a0-8230-a702e86c363a"
 +++
 
 A technique of studying/learning where one emphasizes features of the pieces of information.

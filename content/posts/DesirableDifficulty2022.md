@@ -2,11 +2,11 @@
 title = "Desirable Difficulty"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:03:00-08:00
-lastmod = 2022-09-05T14:33:57-07:00
+lastmod = 2022-09-05T15:21:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/89eb6adc-d8f8-4033-bc46-7fed725c3c01"
+slug = "89eb6adc-d8f8-4033-bc46-7fed725c3c01"
 +++
 
 > A desirable difficulty is a learning task that requires a considerable but desirable amount of effort, thereby improving long-term performance.

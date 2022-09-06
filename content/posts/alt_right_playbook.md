@@ -2,11 +2,11 @@
 title = "Alt-right Playbook"
 author = ["Cash Weaver"]
 date = 2022-06-25T16:33:00-07:00
-lastmod = 2022-09-05T14:35:00-07:00
+lastmod = 2022-09-05T15:26:35-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/913d6ace-03ac-4d34-ae92-5bd8a519236c"
+slug = "913d6ace-03ac-4d34-ae92-5bd8a519236c"
 +++
 
 The Alt-right Playbook is a series produced by [Ian Danskin]({{< relref "ian_danskin.md" >}}) which discusses rhetorical techniques employed by the alt-right. It's primary focus is on building a common language to describe patterns he, and others, observe in the alt-right.

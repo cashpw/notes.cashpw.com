@@ -2,11 +2,11 @@
 title = "A rose by any other name would smell as sweet"
 author = ["Cash Weaver"]
 date = 2022-06-26T11:29:00-07:00
-lastmod = 2022-09-05T14:34:27-07:00
+lastmod = 2022-09-05T15:23:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/8976f641-f94b-488f-8fbf-1679c0185957"
+slug = "8976f641-f94b-488f-8fbf-1679c0185957"
 +++
 
 \\(\href{/posts/tangent}{\tan}(14)\\)

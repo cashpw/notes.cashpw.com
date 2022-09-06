@@ -2,11 +2,11 @@
 title = "Vegetable broth"
 author = ["Cash Weaver"]
 date = 2022-08-31T11:36:00-07:00
-lastmod = 2022-09-05T14:57:38-07:00
+lastmod = 2022-09-05T16:39:18-07:00
 tags = ["ingredient", "ingredient"]
 categories = ["ingredient"]
 draft = false
-aliases = "/posts/b3c5a8d6-11f0-4882-8bd1-dc4a09eca8c5"
+slug = "b3c5a8d6-11f0-4882-8bd1-dc4a09eca8c5"
 +++
 
 ## Quick {#quick}

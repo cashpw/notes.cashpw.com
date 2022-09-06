@@ -2,11 +2,11 @@
 title = "Thought-Terminating Cliché"
 author = ["Cash Weaver"]
 date = 2022-06-26T10:41:00-07:00
-lastmod = 2022-09-05T14:34:19-07:00
+lastmod = 2022-09-05T15:22:50-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/87a90518-0748-4d39-88d6-e18e86a1ff99"
+slug = "87a90518-0748-4d39-88d6-e18e86a1ff99"
 +++
 
 (<a href="#citeproc_bib_item_1">“Thought-Terminating Cliché” 2022</a>)

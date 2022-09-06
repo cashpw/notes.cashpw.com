@@ -2,11 +2,11 @@
 title = "Wizard's First Rule"
 author = ["Cash Weaver"]
 date = 2022-02-22T18:52:00-08:00
-lastmod = 2022-09-05T14:58:14-07:00
+lastmod = 2022-09-05T16:40:30-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
-aliases = "/posts/b1a664cb-c661-4c44-bf55-fc407c528ad1"
+slug = "b1a664cb-c661-4c44-bf55-fc407c528ad1"
 +++
 
 > Wizard's First Rule: people are stupid.

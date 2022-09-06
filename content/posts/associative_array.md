@@ -2,11 +2,11 @@
 title = "Associative array"
 author = ["Cash Weaver"]
 date = 2022-06-29T15:50:00-07:00
-lastmod = 2022-09-05T14:35:25-07:00
+lastmod = 2022-09-05T15:28:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/efd422ba-2509-48c9-b267-265f3c369462"
+slug = "efd422ba-2509-48c9-b267-265f3c369462"
 +++
 
 > In computer science, an associative array, map, symbol table, or dictionary is an [Abstract data type]({{< relref "abstract_data_type.md" >}}) that stores a collection of (key, value) pairs, such that each possible key appears at most once in the collection. In mathematical terms an associative array is a function with finite domain. It supports 'lookup', 'remove', and 'insert' operations.

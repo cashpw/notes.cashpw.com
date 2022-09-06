@@ -2,11 +2,11 @@
 title = "Jim Hefferon"
 author = ["Cash Weaver"]
 date = 2022-08-24T08:34:00-07:00
-lastmod = 2022-09-05T14:43:27-07:00
+lastmod = 2022-09-05T15:56:03-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
-aliases = "/posts/46dd2e05-cb80-4cb6-876e-8bf46551ec2f"
+slug = "46dd2e05-cb80-4cb6-876e-8bf46551ec2f"
 +++
 
 Among other things:

@@ -2,11 +2,11 @@
 title = "Cedric Chin | What Is a Career Moat?"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:53:00-08:00
-lastmod = 2022-09-05T14:37:24-07:00
+lastmod = 2022-09-05T15:35:54-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/bef6464a-d3ae-41c1-b63a-8871326a1d23"
+slug = "bef6464a-d3ae-41c1-b63a-8871326a1d23"
 +++
 
 [Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2018</a>)

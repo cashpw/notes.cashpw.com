@@ -2,11 +2,11 @@
 title = "Spaced Repetition"
 author = ["Cash Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2022-09-05T14:51:36-07:00
+lastmod = 2022-09-05T16:21:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/a72eecfc-c64a-438a-ae26-d18c5725cd5c"
+slug = "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
 +++
 
 > Spaced repetition is an evidence-based learning technique that is usually performed with flashcards. Newly introduced and more difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently in order to exploit the psychological spacing effect. The use of spaced repetition has been proven to increase rate of learning.

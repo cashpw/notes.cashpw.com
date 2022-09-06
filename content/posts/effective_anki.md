@@ -2,11 +2,11 @@
 title = "Effective Anki"
 author = ["Cash Weaver"]
 date = 2022-06-30T08:52:00-07:00
-lastmod = 2022-09-05T14:39:47-07:00
+lastmod = 2022-09-05T15:44:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/047c30fb-6d35-428f-a4d3-e4fd7497c621"
+slug = "047c30fb-6d35-428f-a4d3-e4fd7497c621"
 +++
 
 My recommendations for effective use of [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}}).

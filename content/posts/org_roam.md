@@ -2,9 +2,9 @@
 title = "org-roam"
 author = ["Cash Weaver"]
 date = 2022-02-06T07:22:00-08:00
-lastmod = 2022-09-05T14:47:00-07:00
+lastmod = 2022-09-05T16:07:13-07:00
 draft = false
-aliases = "/posts/1497025f-da3e-4bed-be19-f8f9c9a0e351"
+slug = "1497025f-da3e-4bed-be19-f8f9c9a0e351"
 +++
 
 > Org-roam is a plain-text knowledge management system. It brings some of Roam's more powerful features into the Org-mode ecosystem.

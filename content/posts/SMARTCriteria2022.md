@@ -2,11 +2,11 @@
 title = "Wikipedia | SMART Criteria"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:59:00-08:00
-lastmod = 2022-09-05T14:34:13-07:00
+lastmod = 2022-09-05T15:22:25-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-aliases = "/posts/68f0244e-a6f4-42d5-ac41-2d2001987ea3"
+slug = "68f0244e-a6f4-42d5-ac41-2d2001987ea3"
 +++
 
 (<a href="#citeproc_bib_item_1">“SMART Criteria” 2022</a>)

@@ -2,11 +2,11 @@
 title = "Transpose"
 author = ["Cash Weaver"]
 date = 2022-08-21T05:35:00-07:00
-lastmod = 2022-09-05T14:55:59-07:00
+lastmod = 2022-09-05T16:35:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/df465332-f865-424c-9028-1776dddd1a58"
+slug = "df465332-f865-424c-9028-1776dddd1a58"
 +++
 
 > In linear algebra, the transpose of a matrix is an operator which flips a matrix over its diagonal; that is, it switches the row and column indices of the matrix \\(A\\) by producing another matrix, often denoted by \\(A^{\textsf{T}}\\) (among other notations).

@@ -2,11 +2,11 @@
 title = "Quicksort implementation in Python"
 author = ["Cash Weaver"]
 date = 2022-06-30T13:57:00-07:00
-lastmod = 2022-09-05T14:48:56-07:00
+lastmod = 2022-09-05T16:13:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
-aliases = "/posts/ed982b37-6f8e-4b89-bb51-ac608510325e"
+slug = "ed982b37-6f8e-4b89-bb51-ac608510325e"
 +++
 
 An implementation of [Quicksort]({{< relref "quicksort.md" >}}) in [Python]({{< relref "python.md" >}}).
