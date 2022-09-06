@@ -71,6 +71,17 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
+<h2>Max binary heap implementation in java
+</h2>
+</header>
+<div class=entry-content>
+<p>import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface Heap&lt;T> { boolean add(T value); Optional&lt;T> peek(); Optional&lt;T> poll(); } class MaxHeap&lt;T extends Comparable&lt;? super T>> implements Heap&lt;T> { private ArrayList&lt;T> array; MaxHeap() { this.array = new ArrayList&lt;T>(); } @Override public boolean add(T value) { array.add(value); heapifyUp(array.size() - 1); return true; } @Override public Optional&lt;T> peek() { if (array.isEmpty()) { return Optional.empty(); } return Optional.of(array.get(0)); } @Override public Optional&lt;T> poll() { if (array.isEmpty()) { return Optional....</p>
+</div>
+<footer class=entry-footer><span title="2022-06-29 12:59:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:02:33 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;2 min</footer>
+<a class=entry-link aria-label="post link to Max binary heap implementation in java" href=http://cashweaver.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>Complete binary tree
 </h2>
 </header>
@@ -179,18 +190,6 @@ The name LISP derives from “LISt Processor”. Linked lists are one of Lisp’
 </div>
 <footer class=entry-footer><span title="2022-06-29 08:45:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:59:39 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
 <a class=entry-link aria-label="post link to Lisp" href=http://cashweaver.com/posts/f6e9082b-3589-448a-9877-b9a2b31d88ba/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Atom
-</h2>
-</header>
-<div class=entry-content>
-<p>An atom, in Lisp, is an indivisible thing. Examples include:
-Numbers (e.g. 12) Strings (e.g. foo) Symbols (e.g. + or 'pi) This term comes from the historical meaning of the word atom, which means “indivisible”. As far as Lisp is concerned, the words we have been using in the lists cannot be divided into any smaller parts and still mean the same thing as part of a program; likewise with numbers and single character symbols like ‘+’....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 08:31:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:28:51 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Atom" href=http://cashweaver.com/posts/b37a4585-be03-43ea-a55c-6a5f84e59c77/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

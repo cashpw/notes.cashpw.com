@@ -71,6 +71,20 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
+<h2>Post-order tree traversal
+</h2>
+</header>
+<div class=entry-content>
+<p> Recursively traverse the current node’s left subtree Recursively traverse the current node’s right subtree Visit the current node (in the figure: position blue) (“Tree Traversal” 2022)
+Post-order traversal (blue node): A, C, E, D, B, H, I, G, F
+(“Tree Traversal” 2022)
+References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Tree Traversal.” 2022. Wikipedia, April. https://en.wikipedia.org/w/index.php?title=Tree_traversal&oldid=1083604462. </p>
+</div>
+<footer class=entry-footer><span title="2022-06-29 16:33:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:10:01 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Post-order tree traversal" href=http://cashweaver.com/posts/81611da6-3ea4-45d9-b2db-b96ed95d946d/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>In-order tree traversal
 </h2>
 </header>
@@ -179,17 +193,6 @@ References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Hash Function.
 </div>
 <footer class=entry-footer><span title="2022-06-29 15:23:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:31:35 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
 <a class=entry-link aria-label="post link to Binary tree implementation in java" href=http://cashweaver.com/posts/ccf978f1-5518-49dd-8af1-a856cf6d1084/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Max binary heap implementation in java
-</h2>
-</header>
-<div class=entry-content>
-<p>import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface Heap&lt;T> { boolean add(T value); Optional&lt;T> peek(); Optional&lt;T> poll(); } class MaxHeap&lt;T extends Comparable&lt;? super T>> implements Heap&lt;T> { private ArrayList&lt;T> array; MaxHeap() { this.array = new ArrayList&lt;T>(); } @Override public boolean add(T value) { array.add(value); heapifyUp(array.size() - 1); return true; } @Override public Optional&lt;T> peek() { if (array.isEmpty()) { return Optional.empty(); } return Optional.of(array.get(0)); } @Override public Optional&lt;T> poll() { if (array.isEmpty()) { return Optional....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 12:59:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:02:33 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;2 min</footer>
-<a class=entry-link aria-label="post link to Max binary heap implementation in java" href=http://cashweaver.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

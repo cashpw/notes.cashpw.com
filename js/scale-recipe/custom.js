@@ -50,5 +50,5 @@ if (scalers) {
 maybeAddScaleInput();
 
 document.querySelectorAll('div.ingredients ul li').forEach((ingredientListItem, index) => {
-ingredientListItem.outerHTML = createCheckboxListItem(ingredientListItem.innerHTML, index);
+  ingredientListItem.outerHTML = createCheckboxListItem(ingredientListItem.innerHTML, index);
 });
