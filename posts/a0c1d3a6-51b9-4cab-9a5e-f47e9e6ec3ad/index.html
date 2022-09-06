@@ -1,1 +1,190 @@
-<!doctype html><html><head><title>http://cashweaver.com/posts/binary-heap/</title><link rel=canonical href=http://cashweaver.com/posts/binary-heap/><meta name=robots content="noindex"><meta charset=utf-8><meta http-equiv=refresh content="0; url=http://cashweaver.com/posts/binary-heap/"></head></html>
+<!doctype html><html lang=en dir=auto>
+<head><meta charset=utf-8>
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<meta name=robots content="index, follow">
+<title>Binary heap | Cash Weaver</title>
+<meta name=keywords content="concept,concept">
+<meta name=description content="A binary heap is a Heap Data structure that takes the form of a Binary tree. Binary heaps are a common way of implementing Priority queues.
+[&mldr;]
+A binary heap is defined as a binary tree with two additional constraints:
+ Shape property: a binary heap is a Complete binary tree; that is, all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right.">
+<meta name=author content>
+<link rel=canonical href=http://cashweaver.com/posts/a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad/>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.21b0080c5ce439ce211bd643e62d6ba67aa0addff70509256c7c7abc774e612e.css integrity="sha256-IbAIDFzkOc4hG9ZD5i1rpnqgrd/3BQklbHx6vHdOYS4=" rel="preload stylesheet" as=style>
+<script defer crossorigin=anonymous src=/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5+kdJvBz5iKbt6B5PJI=" onload=hljs.initHighlightingOnLoad()></script>
+<link rel=icon href=http://cashweaver.com/favicon.ico>
+<link rel=icon type=image/png sizes=16x16 href=http://cashweaver.com/favicon-16x16.png>
+<link rel=icon type=image/png sizes=32x32 href=http://cashweaver.com/favicon-32x32.png>
+<link rel=apple-touch-icon href=http://cashweaver.com/apple-touch-icon.png>
+<link rel=mask-icon href=http://cashweaver.com/safari-pinned-tab.svg>
+<meta name=theme-color content="#2e2e33">
+<meta name=msapplication-TileColor content="#2e2e33">
+<meta name=generator content="Hugo 0.89.4">
+<noscript>
+<style>#theme-toggle,.top-link{display:none}</style>
+<style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
+</noscript><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
+<meta property="og:title" content="Binary heap">
+<meta property="og:description" content="A binary heap is a Heap Data structure that takes the form of a Binary tree. Binary heaps are a common way of implementing Priority queues.
+[&mldr;]
+A binary heap is defined as a binary tree with two additional constraints:
+ Shape property: a binary heap is a Complete binary tree; that is, all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://cashweaver.com/posts/a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad/"><meta property="article:section" content="posts">
+<meta property="article:published_time" content="2022-06-29T09:22:00-07:00">
+<meta property="article:modified_time" content="2022-09-05T15:30:46-07:00">
+<meta name=twitter:card content="summary">
+<meta name=twitter:title content="Binary heap">
+<meta name=twitter:description content="A binary heap is a Heap Data structure that takes the form of a Binary tree. Binary heaps are a common way of implementing Priority queues.
+[&mldr;]
+A binary heap is defined as a binary tree with two additional constraints:
+ Shape property: a binary heap is a Complete binary tree; that is, all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right.">
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://cashweaver.com/posts/"},{"@type":"ListItem","position":2,"name":"Binary heap","item":"http://cashweaver.com/posts/a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad/"}]}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Binary heap","name":"Binary heap","description":"A binary heap is a Heap Data structure that takes the form of a Binary tree. Binary heaps are a common way of implementing Priority queues.\n[\u0026hellip;]\nA binary heap is defined as a binary tree with two additional constraints:\n Shape property: a binary heap is a Complete binary tree; that is, all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right.","keywords":["concept","concept"],"articleBody":" A binary heap is a Heap Data structure that takes the form of a Binary tree. Binary heaps are a common way of implementing Priority queues.\n[…]\nA binary heap is defined as a binary tree with two additional constraints:\n Shape property: a binary heap is a Complete binary tree; that is, all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right. Heap property: the key stored in each node is either greater than or equal to (≥; Max heap) or less than or equal to (≤; Min heap) the keys in the node’s children, according to some total order.  […]\nBinary heaps are also commonly employed in the heapsort sorting algorithm, which is an in-place algorithm because binary heaps can be implemented as an Implicit data structure, storing keys in an Array and using their relative positions within that array to represent child–parent relationships.\n[formatting and links added]\n(“Binary Heap” 2022)\n   Example of a Complete binary Max heap.\n  (“Binary Heap” 2022)\n Implementation  Max binary heap implementation in java  Operations Insert   Add the element to the bottom level of the heap at the leftmost open space. Compare the added element with its parent; if they are in the correct order, stop. If not, swap the element with its parent and return to the previous step.  (“Binary Heap” 2022)\n Extract   Replace the root of the heap with the last element on the last level. Compare the new root with its children; if they are in the correct order, stop. If not, swap the element with one of its children and return to the previous step. (Swap with its smaller child in a min-heap and its larger child in a max-heap.)  (“Binary Heap” 2022)\n References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Binary Heap.” 2022. Wikipedia, May. https://en.wikipedia.org/w/index.php?title=Binary_heap\u0026oldid=1087856345.  ","wordCount":"318","inLanguage":"en","datePublished":"2022-06-29T09:22:00-07:00","dateModified":"2022-09-05T15:30:46-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashweaver.com/posts/a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad/"},"publisher":{"@type":"Organization","name":"Cash Weaver","logo":{"@type":"ImageObject","url":"http://cashweaver.com/favicon.ico"}}}</script>
+</head>
+<body id=top>
+<script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
+<header class=header>
+<nav class=nav>
+<div class=logo>
+<a href=http://cashweaver.com/ accesskey=h title="Cash Weaver (Alt + H)">Cash Weaver</a>
+<span class=logo-switches>
+<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+</button>
+</span>
+</div>
+<ul id=menu>
+<li>
+<a href=http://cashweaver.com/archives/ title=Archives>
+<span>Archives</span>
+</a>
+</li>
+<li>
+<a href=http://cashweaver.com/search/ title="Search (Alt + /)" accesskey=/>
+<span>Search</span>
+</a>
+</li>
+<li>
+<a href=http://cashweaver.com/tags/ title=Tags>
+<span>Tags</span>
+</a>
+</li>
+</ul>
+</nav>
+</header>
+<main class=main>
+<article class=post-single>
+<header class=post-header>
+<h1 class=post-title>
+Binary heap
+</h1>
+<div class=post-meta><span title="2022-06-29 09:22:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:30:46 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;2 min
+</div>
+<div class=post-meta><a href=https://github.com/cashweaver/roam/tree/main/binary_heap.org rel="noopener noreferrer" target=_blank>Suggest Changes</a>
+</div>
+<div class="post-meta post-references"></div><div class="post-meta post-stars"></div><div class="post-meta post-tags">
+<span style=margin-right:.5ch>Tags:</span>
+<a href=http://cashweaver.com/tags/concept/>concept</a></div>
+</header> <div class=toc>
+<details>
+<summary accesskey=c title="(Alt + C)">
+<span class=details>Table of Contents</span>
+</summary>
+<div class=inner><ul>
+<li>
+<a href=#implementation aria-label=Implementation>Implementation</a></li>
+<li>
+<a href=#operations aria-label=Operations>Operations</a><ul>
+<li>
+<a href=#insert aria-label=Insert>Insert</a></li>
+<li>
+<a href=#extract aria-label=Extract>Extract</a></li></ul>
+</li>
+<li>
+<a href=#references aria-label=References>References</a>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div class=post-content>
+<blockquote>
+<p>A binary heap is a <a href=/posts/70cbebc9-8936-4d52-885a-76d747c6577f/>Heap</a> <a href=/posts/738c2ba7-a272-417d-9b6d-b6952d765280/>Data structure</a> that takes the form of a <a href=/posts/323bf406-41e6-4e5f-9be6-689e1055b118/>Binary tree</a>. Binary heaps are a common way of implementing <a href=/posts/6f787120-13bb-405a-bfca-060df6d80b14/>Priority queues</a>.</p>
+<p>[&mldr;]</p>
+<p>A binary heap is defined as a binary tree with two additional constraints:</p>
+<ol>
+<li>Shape property: a binary heap is a <a href=/posts/cce89d10-ff69-4756-b9fa-9b713b4cb33b/>Complete binary tree</a>; that is, all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right.</li>
+<li><a href=/posts/4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97/>Heap property</a>: the key stored in each node is either greater than or equal to (≥; <a href=/posts/4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97/#max-heap>Max heap</a>) or less than or equal to (≤; <a href=/posts/4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97/#min-heap>Min heap</a>) the keys in the node&rsquo;s children, according to some total order.</li>
+</ol>
+<p>[&mldr;]</p>
+<p>Binary heaps are also commonly employed in the heapsort sorting algorithm, which is an in-place algorithm because binary heaps can be implemented as an <a href=/posts/650f4577-c1ec-46c9-b7a6-af8d90756bcd/>Implicit data structure</a>, storing keys in an <a href=/posts/79b155d7-5a67-469d-b3f4-b8010cad8b54/>Array</a> and using their relative positions within that array to represent child–parent relationships.</p>
+<p>[formatting and links added]</p>
+<p>(<a href=#citeproc_bib_item_1>“Binary Heap” 2022</a>)</p>
+</blockquote>
+<blockquote>
+<p>Example of a <a href=/posts/cce89d10-ff69-4756-b9fa-9b713b4cb33b/>Complete</a> binary <a href=/posts/4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97/#max-heap>Max heap</a>.</p>
+<figure>
+<img loading=lazy src=/ox-hugo/Max-Heap.svg.png>
+</figure>
+<p>(<a href=#citeproc_bib_item_1>“Binary Heap” 2022</a>)</p>
+</blockquote>
+<h2 id=implementation>Implementation<a hidden class=anchor aria-hidden=true href=#implementation>#</a></h2>
+<ul>
+<li><a href=/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/>Max binary heap implementation in java</a></li>
+</ul>
+<h2 id=operations>Operations<a hidden class=anchor aria-hidden=true href=#operations>#</a></h2>
+<h3 id=insert>Insert<a hidden class=anchor aria-hidden=true href=#insert>#</a></h3>
+<blockquote>
+<ol>
+<li>Add the element to the bottom level of the heap at the leftmost open space.</li>
+<li>Compare the added element with its parent; if they are in the correct order, stop.</li>
+<li>If not, swap the element with its parent and return to the previous step.</li>
+</ol>
+<p>(<a href=#citeproc_bib_item_1>“Binary Heap” 2022</a>)</p>
+</blockquote>
+<h3 id=extract>Extract<a hidden class=anchor aria-hidden=true href=#extract>#</a></h3>
+<blockquote>
+<ol>
+<li>Replace the root of the heap with the last element on the last level.</li>
+<li>Compare the new root with its children; if they are in the correct order, stop.</li>
+<li>If not, swap the element with one of its children and return to the previous step. (Swap with its smaller child in a min-heap and its larger child in a max-heap.)</li>
+</ol>
+<p>(<a href=#citeproc_bib_item_1>“Binary Heap” 2022</a>)</p>
+</blockquote>
+<h2 id=references>References<a hidden class=anchor aria-hidden=true href=#references>#</a></h2>
+<style>.csl-entry{text-indent:-1.5em;margin-left:1.5em}</style><div class=csl-bib-body>
+<div class=csl-entry><a id=citeproc_bib_item_1></a>“Binary Heap.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Binary_heap&oldid=1087856345">https://en.wikipedia.org/w/index.php?title=Binary_heap&oldid=1087856345</a>.</div>
+</div>
+<div class=bl-section>
+<hr>
+<h4>Links to this note</h4>
+<div class=backlinks>
+<ul>
+<li><a href=/posts/70cbebc9-8936-4d52-885a-76d747c6577f/>Heap</a></li>
+</ul>
+</div>
+</div>
+</div>
+<footer class=post-footer>
+</footer>
+</article>
+</main>
+<footer class=footer>
+<span>&copy; 2022 <a href=http://cashweaver.com/>Cash Weaver</a></span>
+<span>
+Powered by
+<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
+        <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a>
+</span>
+</footer>
+<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
+</a>
+<script>let menu=document.getElementById('menu');menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);window.matchMedia('(prefers-reduced-motion: reduce)').matches?document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})</script>
+<script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
+<script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove('dark'),localStorage.setItem("pref-theme",'light')):(document.body.classList.add('dark'),localStorage.setItem("pref-theme",'dark'))})</script>
+<script>document.querySelectorAll('pre > code').forEach(b=>{const c=b.parentNode.parentNode,a=document.createElement('button');a.classList.add('copy-code'),a.innerText='copy';function d(){a.innerText='copied!',setTimeout(()=>{a.innerText='copy'},2e3)}a.addEventListener('click',e=>{if('clipboard'in navigator){navigator.clipboard.writeText(b.textContent),d();return}const a=document.createRange();a.selectNodeContents(b);const c=window.getSelection();c.removeAllRanges(),c.addRange(a);try{document.execCommand('copy'),d()}catch(a){}c.removeRange(a)}),c.classList.contains("highlight")?c.appendChild(a):c.parentNode.firstChild==c||(b.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?b.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(a):b.parentNode.appendChild(a))})</script>
+</body>
+</html>

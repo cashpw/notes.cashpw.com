@@ -77,8 +77,8 @@ concept
 <p>An implementation of Merge sort in Python.
 import math from typing import List, Callable, Tuple def split(ints: List[int]) -> Tuple[List[int], List[int]]: if len(ints) &lt;= 1: return ints, [] split_index = math.floor(len(ints) / 2) return ints[0:split_index], ints[split_index:len(ints)] def merge(a: List[int], b: List[int], comparator: Callable[[int, int], bool]) -> List[int]: a_index = 0 b_index = 0 out = [] for _ in range(len(a) + len(b)): if a_index >= len(a): out.append(b[b_index]) b_index += 1 continue if b_index >= len(b): out....</p>
 </div>
-<footer class=entry-footer><span title="2022-07-01 11:44:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 14:45:42 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Merge sort implementation in Python" href=http://cashweaver.com/posts/merge-sort-implementation-in-python/></a>
+<footer class=entry-footer><span title="2022-07-01 11:44:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:03:10 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Merge sort implementation in Python" href=http://cashweaver.com/posts/d87d7e23-c861-4cec-adf8-c19125cc6327/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
@@ -91,8 +91,8 @@ Divide the unsorted list into n sublists, each containing one element (a list of
 Merge sort is:
 Stable sorting algorithm External memory algorithm Algorithm procedure MergeSort(list) is if length of list &lt;= 1 then return list left, right = split(list) MergeSort(left) MergeSort(right) return Merge(left, right) Implementation Merge sort implementation in Python Complexity Worst-case Best-case Time \(O(n \operatorname{log}(n))\) \(O(n \operatorname{log}(n))\) Space \(O(n)\) \(O(n)\) References ....</p>
 </div>
-<footer class=entry-footer><span title="2022-07-01 11:23:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 14:45:38 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Merge sort" href=http://cashweaver.com/posts/merge-sort/></a>
+<footer class=entry-footer><span title="2022-07-01 11:23:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:02:58 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Merge sort" href=http://cashweaver.com/posts/4ad76968-7e82-4d68-b8fa-ff6059f3c843/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
@@ -104,8 +104,8 @@ Stable sorting algorithm External memory algorithm Algorithm procedure MergeSort
 (“Sorting Algorithm” 2022)
 stable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')]) > [(3, 'c'), (8, 'b'), (8, 'd'), (10, 'a')]) References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Sorting Algorithm.” 2022. Wikipedia, June. https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&oldid=1095879356. </p>
 </div>
-<footer class=entry-footer><span title="2022-07-01 11:08:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 14:51:56 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Stable sorting algorithm" href=http://cashweaver.com/posts/stable-sorting-algorithm/></a>
+<footer class=entry-footer><span title="2022-07-01 11:08:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:22:38 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Stable sorting algorithm" href=http://cashweaver.com/posts/740ce42a-3a80-4ecb-9438-fedff074443b/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
@@ -116,8 +116,8 @@ stable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')]) > [(3, 'c'), (8, 'b'), (8
 <p>An implementation of Quicksort in Python.
 from typing import List, Callable def swap(ints: List[int], indexA: int, indexB: int) -> None: """Swap the values in INTS at INDEXA and INDEXB.""" valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> int: """Sorts sublist into [{&lt;= pivot}, pivot, {> than pivot}]""" pivot_index = high_index i = low_index - 1 for j in range(low_index, high_index): if comparator(ints[j], ints[pivot_index]): i += 1 swap(ints, i, j) i += 1 swap(ints, i, pivot_index) return i def quick_sort_inner(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> List[int]: if low_index >= high_index or low_index &lt; 0: return pivot_index = partition(ints, comparator, 0, high_index) quick_sort_inner(ints, comparator, 0, pivot_index - 1) quick_sort_inner(ints, comparator, pivot_index + 1, high_index) return ints def quick_sort(ints: List[int], comparator: Callable[[int, int], bool]) -> List[int]: return quick_sort_inner(ints, comparator, 0, len(ints) - 1) a = [10, 5, 8, 2, 1, 3] print(quick_sort(a, lambda a, b: a &lt;= b)) </p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 14:48:56 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://cashweaver.com/posts/quicksort-implementation-in-python/></a>
+<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:13:15 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://cashweaver.com/posts/ed982b37-6f8e-4b89-bb51-ac608510325e/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
@@ -130,8 +130,8 @@ from typing import List, Callable def swap(ints: List[int], indexA: int, indexB:
 Quicksort is:
 Unstable sorting algorithm Internal memory algorithm Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 14:48:52 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Quicksort" href=http://cashweaver.com/posts/quicksort/></a>
+<footer class=entry-footer><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:13:01 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Quicksort" href=http://cashweaver.com/posts/d7bcd831-6a3f-4885-a654-15f0b11c9966/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
@@ -142,8 +142,8 @@ Unstable sorting algorithm Internal memory algorithm Algorithm This partition al
 <p>An implementation of Bubble sort in Python.
 from typing import List def bubble_sort(ints: List[int]) -> List[int]: def do_pass() -> bool: sorted = True for i in range(len(ints)-1): if ints[i] > ints[i + 1]: sorted = False swap(i, i+1) return sorted def swap(indexA: int, indexB: int) -> None: valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA sorted = False while not sorted: sorted = do_pass() return ints return bubble_sort([10, 5, 4, 40]) </p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 14:36:42 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Bubble sort implementation in Python" href=http://cashweaver.com/posts/bubble-sort-implementation-in-python/></a>
+<footer class=entry-footer><span title="2022-06-30 10:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:33:26 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Bubble sort implementation in Python" href=http://cashweaver.com/posts/af832252-c4a9-4364-bdef-59c1a8ea6ebe/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
@@ -157,8 +157,8 @@ from typing import List def bubble_sort(ints: List[int]) -> List[int]: def do_pa
 Bubble sort is stable.
 Algorithm while list is not sorted do for i in range(len(list) - 1) do if list[i] > list[i+1] do swap(i, i+1) Implementation Bubble sort implementation in Python Complexity Worst-case Best-case Time \(O(n^2)\) \(O(n)\) Space \(O(n)\) \(O(n)\) References ....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:47:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 14:36:39 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Bubble sort" href=http://cashweaver.com/posts/bubble-sort/></a>
+<footer class=entry-footer><span title="2022-06-30 10:47:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:33:18 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Bubble sort" href=http://cashweaver.com/posts/c6bc266e-1090-492f-bdba-f044e04db3ff/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
@@ -168,8 +168,8 @@ Algorithm while list is not sorted do for i in range(len(list) - 1) do if list[i
 <div class=entry-content>
 <p></p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:46:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 14:51:27 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;0 min</footer>
-<a class=entry-link aria-label="post link to Sorting algorithm" href=http://cashweaver.com/posts/sorting-algorithm/></a>
+<footer class=entry-footer><span title="2022-06-30 10:46:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:21:11 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;0 min</footer>
+<a class=entry-link aria-label="post link to Sorting algorithm" href=http://cashweaver.com/posts/093fae33-1843-4271-b7cd-336553b9aac9/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
@@ -181,8 +181,8 @@ Algorithm while list is not sorted do for i in range(len(list) - 1) do if list[i
 Decks Use a single deck Deck options TODO: Find a source for these points. I discovered and implemented them before I started writing things down.
 New cards Steps In minutes: 15, 2160, 10080, 40320 New Cards Steps In minutes (for android): 15, 2160, 10080, 40320 (eshapard n.d.) For desktop Anki: 15m , 36h, 7d, 28d References ....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 08:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 14:39:47 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Effective Anki" href=http://cashweaver.com/posts/effective-anki/></a>
+<footer class=entry-footer><span title="2022-06-30 08:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:44:03 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Effective Anki" href=http://cashweaver.com/posts/047c30fb-6d35-428f-a4d3-e4fd7497c621/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
@@ -192,8 +192,8 @@ New cards Steps In minutes: 15, 2160, 10080, 40320 New Cards Steps In minutes (f
 <div class=entry-content>
 <p>References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 19:31:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 14:37:52 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Convolution" href=http://cashweaver.com/posts/convolution/></a>
+<footer class=entry-footer><span title="2022-06-29 19:31:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:37:26 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Convolution" href=http://cashweaver.com/posts/4a246de2-16ae-4fa6-abaa-7cfb533eccdb/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
