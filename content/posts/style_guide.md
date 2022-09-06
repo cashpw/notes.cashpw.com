@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2022-09-05T16:24:50-07:00
+lastmod = 2022-09-05T22:54:35-07:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -22,13 +22,15 @@ A style guide for my [personal knowledge management]({{< relref "personal_knowle
 
 ## Node types {#node-types}
 
-| Type      | Tag         | Description                          | Example                                                                                |
-|-----------|-------------|--------------------------------------|----------------------------------------------------------------------------------------|
-| Concept   | `concept`   | A single idea/concept                | [Plans Within Plans]({{< relref "plans_within_plans.md" >}})                           |
-| Reference | `reference` | The node-form of a specific citation | [Dune]({{< relref "herbertDune1999.md" >}})                                            |
-| Quote     | `quote`     | A single quote                       | [Plans within plans within plans]({{< relref "plans_within_plans_within_plans.md" >}}) |
-| Person    | `person`    | About a single person                | [Baron Vladimir Harkonnen]({{< relref "vladimir_harkonnen.md" >}})                     |
-| Poem      | `poem`      | A single poem                        | [Litany Against Fear]({{< relref "litany_against_fear.md" >}})                         |
+| Type       | Tag          | Description                          | Example                                                                                |
+|------------|--------------|--------------------------------------|----------------------------------------------------------------------------------------|
+| Concept    | `concept`    | A single idea/concept                | [Plans Within Plans]({{< relref "plans_within_plans.md" >}})                           |
+| Reference  | `reference`  | The node-form of a specific citation | [Dune]({{< relref "herbertDune1999.md" >}})                                            |
+| Quote      | `quote`      | A single quote                       | [Plans within plans within plans]({{< relref "plans_within_plans_within_plans.md" >}}) |
+| Person     | `person`     | About a single person                | [Baron Vladimir Harkonnen]({{< relref "vladimir_harkonnen.md" >}})                     |
+| Poem       | `poem`       | A single poem                        | [Litany Against Fear]({{< relref "litany_against_fear.md" >}})                         |
+| Recipe     | `recipe`     | A cooking recipe                     | [Cayla's quarantine ramen]({{< relref "cayla_s_quarantine_ramen.md" >}})               |
+| Ingredient | `ingredient` | A cooking ingredient                 | [Seitan]({{< relref "seitan.md" >}})                                                   |
 
 
 ## Tags {#tags}
@@ -45,8 +47,8 @@ Prefer links to tags. Maintain the validity of the tags associated with [node ty
 -   The attribution may, but doesn't have to, be _italicized_.
 -   The form of the attribution should be one of, in order of preference:
     1.  **Ideal**: "&lt;link to person&gt;, &lt;citation&gt;"
-    2.  "&lt;person&gt;, &lt;citation&gt;"
-    3.  "&lt;person&gt;" or "&lt;citation&gt;"
+    2.  "&lt;citation&gt;"
+    3.  "&lt;link to person&gt;"
     4.  "&lt;general link&gt;"
 
 
@@ -86,8 +88,8 @@ There isn't a hard rule on how much quoting is too much. Large quotes [have thei
 Quotes can live in stand-alone single nodes (eg: [The First Lesson]({{< relref "the_first_lesson.md" >}})). This is multi-purpose:
 
 1.  When in doubt, make the node smaller.
-2.  Easier to link to specific quotes: Suppose a reader clicks on a link and arrives on a page with five quotes visible. This may confuse the reader. Which of the visible quotes is the right one?
-3.  Future-proof: We will be able to, eventually, provide hover previews (similar to those used on [gwern.net](https://www.gwern.net/)). Similarly, standalone quote nodes will fit into a transclusion model better than multi-quote nodes.
+2.  Easier to link to specific quotes: Suppose a reader clicks on a link and arrives on a page with five quotes visible. This may confuse the reader. Which of the visible quotes is the one to which the link pointed?
+3.  Works in a transclusion model better than larger nodes
 
 
 ## Links {#links}
@@ -95,7 +97,7 @@ Quotes can live in stand-alone single nodes (eg: [The First Lesson]({{< relref "
 
 ### Show favicons alongside links {#show-favicons-alongside-links}
 
-Favicons are nice additions to links. They provide visual context to where the reader expects the link to take them. Let's include them alongside external links. I've written a [script to make the process easier](https://github.com/cashweaver/basic-favicon-links).
+Favicons are nice additions to links. They provide visual context to where the reader expects the link to take them. Include them alongside external links. I've written a [script to make the process easier](https://github.com/cashweaver/basic-favicon-links).
 
 
 ### Every node must include backlinks {#every-node-must-include-backlinks}

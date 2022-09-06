@@ -44,8 +44,6 @@
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
     {{- partial "backlinks.html" . }}
-  {{- else }}
-    {{- partial "backlinks.html" . }}
   {{- end }}
   </div>
 
@@ -57,6 +55,7 @@
     {{- partial "share_icons.html" . -}}
     {{- end }}
     {{ partial "recipe_support.html" . }}
+    <script src="{{ "js/citations/custom.js" | urlize | relURL }}"></script>
   </footer>
 
   {{- if (.Param "comments") }}
