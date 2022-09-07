@@ -2,7 +2,7 @@
 title = "Jim Hefferon"
 author = ["Cash Weaver"]
 date = 2022-08-24T08:34:00-07:00
-lastmod = 2022-09-05T15:56:03-07:00
+lastmod = 2022-09-06T14:08:09-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

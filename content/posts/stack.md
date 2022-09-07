@@ -2,7 +2,7 @@
 title = "Stack"
 author = ["Cash Weaver"]
 date = 2022-06-28T20:24:00-07:00
-lastmod = 2022-09-05T16:22:48-07:00
+lastmod = 2022-09-06T09:26:50-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

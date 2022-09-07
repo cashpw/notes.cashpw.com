@@ -2,7 +2,7 @@
 title = "Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater"
 author = ["Cash Weaver"]
 date = 2022-07-22T18:27:00-07:00
-lastmod = 2022-09-05T15:36:26-07:00
+lastmod = 2022-09-06T13:30:10-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -123,10 +123,10 @@ Media [Spin]({{< relref "spin.md" >}}) regarding President Biden's visit to Saud
 >
 > [links added]
 
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Citations Needed. 2022. “News Brief: Biden’s Dictator Tour and the Tedium of Our ``Human Rights Concerns’’ Theater.” <i>Medium</i>. <a href="https://citationsneeded.medium.com/news-brief-bidens-dictator-tour-and-the-tedium-of-our-human-rights-concerns-theater-78d59bd700ae">https://citationsneeded.medium.com/news-brief-bidens-dictator-tour-and-the-tedium-of-our-human-rights-concerns-theater-78d59bd700ae</a>.</div>
-</div>
-
 [^fn:1]: [Betty Miller Unterberger | Power Politics and Statecraft: The World According to Kissinger]({{< relref "unterbergerPowerPoliticsStatecraft1995.md" >}})
+
+    ## References
+
+    <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+      <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Citations Needed. 2022. “News Brief: Biden’s Dictator Tour and the Tedium of Our ``Human Rights Concerns’’ Theater.” <i>Medium</i>. <a href="https://citationsneeded.medium.com/news-brief-bidens-dictator-tour-and-the-tedium-of-our-human-rights-concerns-theater-78d59bd700ae">https://citationsneeded.medium.com/news-brief-bidens-dictator-tour-and-the-tedium-of-our-human-rights-concerns-theater-78d59bd700ae</a>.</div>
+    </div>

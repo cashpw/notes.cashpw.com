@@ -2,7 +2,7 @@
 title = "Nothing Gold Can Stay"
 author = ["Cash Weaver"]
 date = 2022-07-20T11:30:00-07:00
-lastmod = 2022-09-05T16:06:55-07:00
+lastmod = 2022-09-06T09:05:13-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Python typing"
 author = ["Cash Weaver"]
 date = 2022-08-25T09:29:00-07:00
-lastmod = 2022-09-05T16:11:34-07:00
+lastmod = 2022-09-06T14:11:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,18 @@ T = TypeVar("T")
 
 def generic_adder(a: T, b: T) -> T:
     return a + b
+```
+
+```python
+from typing import TypeVar, Generic, List
+from dataclasses import dataclass
+
+T = TypeVar("T")
+
+@dataclass
+class Vertex(Generic[T]):
+    children: List[Vertex]
+    value: T
 ```
 
 ## References

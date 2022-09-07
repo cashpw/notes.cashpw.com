@@ -2,7 +2,7 @@
 title = "Peripheral route processing"
 author = ["Cash Weaver"]
 date = 2022-06-26T11:17:00-07:00
-lastmod = 2022-09-05T16:08:18-07:00
+lastmod = 2022-09-06T09:08:13-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

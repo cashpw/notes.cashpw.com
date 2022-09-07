@@ -2,7 +2,7 @@
 title = "Disorganized attachment"
 author = ["Cash Weaver"]
 date = 2022-06-26T13:27:00-07:00
-lastmod = 2022-09-05T15:42:28-07:00
+lastmod = 2022-09-06T13:24:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,24 +22,3 @@ slug = "80396b6d-d572-4437-ab2d-698c62a3038b"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “Endnote 4: How the Alt-Right Is like an Abusive Relationship.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/189431737492/the-newest-installment-of-the-alt-right-playbook">https://innuendostudios.tumblr.com/post/189431737492/the-newest-installment-of-the-alt-right-playbook</a>.</div>
 </div>
-
-
-## Disorganized attachment {#disorganized-attachment}
-
-
-### Context {#context}
-
-Attachment theory
-
-
-### Description {#description}
-
-An unhealthy attachment pattern in which the individual cannot predict when or where comfort and discomfort will come from. They often adapt a maleable worldview which attempts to justify or retroactivly explain the comfort and discomfort when it arrives.
-
-
-### Extra {#extra}
-
-
-### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Danskin 2019</a>)

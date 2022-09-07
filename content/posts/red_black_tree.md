@@ -2,12 +2,16 @@
 title = "Red-black tree"
 author = ["Cash Weaver"]
 date = 2022-07-23T16:54:00-07:00
-lastmod = 2022-09-05T16:15:21-07:00
+lastmod = 2022-09-06T11:33:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "019be402-8bef-48f3-afbf-6441010dd8cf"
 +++
+
+ID: 019be402-8bef-48f3-afbf-6441010dd8cf
+
+    ROAM_REFS: [cite:@RedblackTree2022]
 
 > In computer science, a red–black tree is a kind of [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}}). Each [Vertex]({{< relref "vertex.md" >}}) stores an extra bit representing "color" ("red" or "black"), used to ensure that the [Tree]({{< relref "tree.md" >}}) remains balanced during insertions and deletions.
 >
@@ -17,6 +21,8 @@ slug = "019be402-8bef-48f3-afbf-6441010dd8cf"
 
 
 ## Properties {#properties}
+
+    ID: 265af7fb-38f7-4e99-8f49-07b7461ef5de
 
 > 1.  Every node is either red or black
 > 2.  All `NIL` nodes are considered black

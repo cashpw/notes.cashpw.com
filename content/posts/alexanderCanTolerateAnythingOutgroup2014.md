@@ -2,7 +2,7 @@
 title = "Scott Alexander | I Can Tolerate Anything Except The Outgroup"
 author = ["Cash Weaver"]
 date = 2022-06-23T20:41:00-07:00
-lastmod = 2022-09-05T15:24:47-07:00
+lastmod = 2022-09-06T13:27:20-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -80,13 +80,6 @@ I'm not sure Red and Blue tribes (which seem to approximate Rural and Urban amer
 
 > But I think the situation with "white" is much the same as the situation with "American" – it can either mean what it says, or be a code word for the Red Tribe.
 
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “I Can Tolerate Anything Except The Outgroup.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/">https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Brendan Eich.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Brendan_Eich&oldid=1096478375">https://en.wikipedia.org/w/index.php?title=Brendan_Eich&#38;oldid=1096478375</a>.</div>
-</div>
-
 [^fn:1]: > On March 24, 2014, Mozilla made the decision to appoint Eich as CEO of Mozilla Corporation. The appointment triggered widespread criticism due to Eich's past political donations – specifically, a 2008 donation of \\$1,000 to California Proposition 8, which called for the banning of same-sex marriage in California, and donations in the amount of \\$2,100 to Proposition 8 supporter Tom McClintock between 2008 and 2010. The Wall Street Journal initially reported that, in protest against his coming appointment, half of Mozilla's board (Gary Kovacs, John Lilly, and Ellen Siminoff) stepped down, leaving Mitchell Baker, Reid Hoffman, and Katharina Borchert. CNET later reported that of the three board members who had left, only Lilly left due to Eich's appointment. Lilly told The New York Times, "I left rather than appoint him", and declined to elaborate further.
     >
     > On March 26, 2014, Eich expressed "sorrow for causing pain" and pledged to "work with LGBT communities and allies" at Mozilla. Some of the activists created an online campaign against Eich, with online dating site OkCupid automatically displaying a message to Firefox users with information about Eich's donation, and suggesting that users switch to a different browser (although giving them a link to continue with Firefox). CREDO Mobile collected more than 50,000 signatures demanding that Eich resign.
@@ -94,3 +87,10 @@ I'm not sure Red and Blue tribes (which seem to approximate Rural and Urban amer
     > After 11 days as CEO, Eich resigned on April 3, 2014, and left Mozilla over his opposition to same-sex marriage. In his personal blog, he posted, "under the present circumstances, I cannot be an effective leader". Mozilla made a press release saying that board members tried to get Eich to stay in the company in a different role, but that he had chosen to sever ties for the time being.
     >
     > (<a href="#citeproc_bib_item_2">“Brendan Eich” 2022</a>)
+
+    ## References
+
+    <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+      <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “I Can Tolerate Anything Except The Outgroup.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/">https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/</a>.</div>
+      <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Brendan Eich.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Brendan_Eich&oldid=1096478375">https://en.wikipedia.org/w/index.php?title=Brendan_Eich&#38;oldid=1096478375</a>.</div>
+    </div>

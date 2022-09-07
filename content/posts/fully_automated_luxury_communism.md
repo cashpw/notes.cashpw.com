@@ -2,7 +2,7 @@
 title = "Fully Automated Luxury Communism"
 author = ["Cash Weaver"]
 date = 2022-03-13T17:32:00-07:00
-lastmod = 2022-09-05T15:48:11-07:00
+lastmod = 2022-09-06T14:05:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

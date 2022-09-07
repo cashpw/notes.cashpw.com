@@ -2,7 +2,7 @@
 title = "Ian Danskin | Always a Bigger Fish"
 author = ["Cash Weaver"]
 date = 2022-06-26T08:54:00-07:00
-lastmod = 2022-09-05T15:38:23-07:00
+lastmod = 2022-09-06T14:04:12-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
