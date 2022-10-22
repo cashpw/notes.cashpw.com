@@ -1,9 +1,9 @@
-baseURL = "http://cashweaver.com/"
+baseURL = "http://cashpw.com/"
 enableEmoji = true
 enableRobotsTXT = true
 languageCode = "en-us"
 theme = "PaperMod"
-title = "Cash Weaver"
+title = "Cash Prokop-Weaver"
 
 [[menu.main]]
 identifier = "tags"
@@ -31,7 +31,7 @@ ShowCodeCopyButtons = true
 ShowReadingTime = true
 ShowToc = true
 DateFormat = "2006-01-02"
-author = "Cash Weaver"
+author = "Cash Prokop-Weaver"
 defaultTheme = "auto"
 description = "Blog and notes"
 env = "production"
@@ -42,7 +42,7 @@ showAuthor = false
 enableMathjax = true
 
   [params.editPost]
-  URL = "https://github.com/cashweaver/roam/tree/main"
+  URL = "https://github.com/cashpw/cashpw.com/tree/main"
   Text = "Suggest Changes"
   appendFilePath = true
 
@@ -73,7 +73,7 @@ I also post vegan cooking [recipes](/tags/recipe), [ingredients](/tags/ingredien
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/cashweaver"
+  url = "https://github.com/cashpw"
 
   [[params.socialIcons]]
   name = "twitter"
