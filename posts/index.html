@@ -71,6 +71,17 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
+<h2>Iterative deepening depth-first-search implementation in Python
+</h2>
+</header>
+<div class=entry-content>
+<p>from typing import TypeVar, List, Generic, Optional from dataclasses import dataclass T = TypeVar('T') @dataclass class Vertex(Generic[T]): children: List[Vertex] value: T def iterative_deepening_dfs(target: T, root_vertex: Vertex) -> Optional[Vertex]: """Return vertex with value of TARGET if found.""" def inner_iterative_deepening_dfs(target: T, vertex: Vertex) -> Optional[Vertex]: if vertex in visited: return None visited.add(vertex) if vertex.value == target: return vertex for child in vertex.children: result = inner_iterative_deepening_dfs(target, child) if result is not None: return result return None visited = set() return inner_iterative_deepening_dfs(target, root_vertex) </p>
+</div>
+<footer class=entry-footer><span title="2022-09-06 09:32:00 -0700 -0700">2022-09-06</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-06 09:32:55 -0700 -0700">2022-09-06</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Iterative deepening depth-first-search implementation in Python" href=http://cashweaver.com/posts/7c092555-c1f9-4c9d-9d02-c31d8096ce51/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>Zotero
 </h2>
 </header>
@@ -170,18 +181,6 @@ https://www.mentalnodes.com/ https://anshulkhare.in/ https://www.neilwithdata.co
 </div>
 <footer class=entry-footer><span title="2022-08-26 15:18:00 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:30:04 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;0 min</footer>
 <a class=entry-link aria-label="post link to The medium is the message" href=http://cashweaver.com/posts/91fe1528-88d1-4168-91f1-cf10b175db49/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>The map is not the territory
-</h2>
-</header>
-<div class=entry-content>
-<p>The map of reality is not reality. Even the best maps are imperfect. That’s because they are reductions of what they represent. If a map were to represent the territory with perfect fidelity, it would no longer be a reduction and thus would no longer be useful to us. A map can also be a snapshot of a point in time, representing something that no longer exists.
-(Farnum Street 2015)...</p>
-</div>
-<footer class=entry-footer><span title="2022-08-26 14:42:00 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:29:57 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to The map is not the territory" href=http://cashweaver.com/posts/bfc5100c-d70d-4829-9798-7a90b5edea9b/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
