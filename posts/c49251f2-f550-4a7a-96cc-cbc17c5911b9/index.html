@@ -3,18 +3,18 @@
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
 <meta name=robots content="index, follow">
-<title>Max binary heap implementation in java | Cash Weaver</title>
+<title>Max binary heap implementation in java | Cash Prokop-Weaver</title>
 <meta name=keywords content="concept,concept">
 <meta name=description content="import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface Heap<T> { boolean add(T value); Optional<T> peek(); Optional<T> poll(); } class MaxHeap<T extends Comparable<? super T>> implements Heap<T> { private ArrayList<T> array; MaxHeap() { this.array = new ArrayList<T>(); } @Override public boolean add(T value) { array.add(value); heapifyUp(array.size() - 1); return true; } @Override public Optional<T> peek() { if (array.isEmpty()) { return Optional.empty(); } return Optional.of(array.get(0)); } @Override public Optional<T> poll() { if (array.isEmpty()) { return Optional.">
 <meta name=author content>
-<link rel=canonical href=http://cashweaver.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/>
+<link rel=canonical href=http://cashpw.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/>
 <link crossorigin=anonymous href=/assets/css/stylesheet.min.21b0080c5ce439ce211bd643e62d6ba67aa0addff70509256c7c7abc774e612e.css integrity="sha256-IbAIDFzkOc4hG9ZD5i1rpnqgrd/3BQklbHx6vHdOYS4=" rel="preload stylesheet" as=style>
 <script defer crossorigin=anonymous src=/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5+kdJvBz5iKbt6B5PJI=" onload=hljs.initHighlightingOnLoad()></script>
-<link rel=icon href=http://cashweaver.com/favicon.ico>
-<link rel=icon type=image/png sizes=16x16 href=http://cashweaver.com/favicon-16x16.png>
-<link rel=icon type=image/png sizes=32x32 href=http://cashweaver.com/favicon-32x32.png>
-<link rel=apple-touch-icon href=http://cashweaver.com/apple-touch-icon.png>
-<link rel=mask-icon href=http://cashweaver.com/safari-pinned-tab.svg>
+<link rel=icon href=http://cashpw.com/favicon.ico>
+<link rel=icon type=image/png sizes=16x16 href=http://cashpw.com/favicon-16x16.png>
+<link rel=icon type=image/png sizes=32x32 href=http://cashpw.com/favicon-32x32.png>
+<link rel=apple-touch-icon href=http://cashpw.com/apple-touch-icon.png>
+<link rel=mask-icon href=http://cashpw.com/safari-pinned-tab.svg>
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
 <meta name=generator content="Hugo 0.89.4">
@@ -27,21 +27,21 @@
 <meta property="og:title" content="Max binary heap implementation in java">
 <meta property="og:description" content="import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface Heap<T> { boolean add(T value); Optional<T> peek(); Optional<T> poll(); } class MaxHeap<T extends Comparable<? super T>> implements Heap<T> { private ArrayList<T> array; MaxHeap() { this.array = new ArrayList<T>(); } @Override public boolean add(T value) { array.add(value); heapifyUp(array.size() - 1); return true; } @Override public Optional<T> peek() { if (array.isEmpty()) { return Optional.empty(); } return Optional.of(array.get(0)); } @Override public Optional<T> poll() { if (array.isEmpty()) { return Optional.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://cashweaver.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/"><meta property="article:section" content="posts">
+<meta property="og:url" content="http://cashpw.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/"><meta property="article:section" content="posts">
 <meta property="article:published_time" content="2022-06-29T12:59:00-07:00">
 <meta property="article:modified_time" content="2022-09-05T16:02:33-07:00">
 <meta name=twitter:card content="summary">
 <meta name=twitter:title content="Max binary heap implementation in java">
 <meta name=twitter:description content="import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface Heap<T> { boolean add(T value); Optional<T> peek(); Optional<T> poll(); } class MaxHeap<T extends Comparable<? super T>> implements Heap<T> { private ArrayList<T> array; MaxHeap() { this.array = new ArrayList<T>(); } @Override public boolean add(T value) { array.add(value); heapifyUp(array.size() - 1); return true; } @Override public Optional<T> peek() { if (array.isEmpty()) { return Optional.empty(); } return Optional.of(array.get(0)); } @Override public Optional<T> poll() { if (array.isEmpty()) { return Optional.">
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://cashweaver.com/posts/"},{"@type":"ListItem","position":2,"name":"Max binary heap implementation in java","item":"http://cashweaver.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Max binary heap implementation in java","name":"Max binary heap implementation in java","description":"import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface Heap\u0026lt;T\u0026gt; { boolean add(T value); Optional\u0026lt;T\u0026gt; peek(); Optional\u0026lt;T\u0026gt; poll(); } class MaxHeap\u0026lt;T extends Comparable\u0026lt;? super T\u0026gt;\u0026gt; implements Heap\u0026lt;T\u0026gt; { private ArrayList\u0026lt;T\u0026gt; array; MaxHeap() { this.array = new ArrayList\u0026lt;T\u0026gt;(); } @Override public boolean add(T value) { array.add(value); heapifyUp(array.size() - 1); return true; } @Override public Optional\u0026lt;T\u0026gt; peek() { if (array.isEmpty()) { return Optional.empty(); } return Optional.of(array.get(0)); } @Override public Optional\u0026lt;T\u0026gt; poll() { if (array.isEmpty()) { return Optional.","keywords":["concept","concept"],"articleBody":"import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface HeapT { boolean add(T value); OptionalT peek(); OptionalT poll(); } class MaxHeapT extends Comparable super T implements HeapT { private ArrayListT array; MaxHeap() { this.array = new ArrayListT(); } @Override public boolean add(T value) { array.add(value); heapifyUp(array.size() - 1); return true; } @Override public OptionalT peek() { if (array.isEmpty()) { return Optional.empty(); } return Optional.of(array.get(0)); } @Override public OptionalT poll() { if (array.isEmpty()) { return Optional.empty(); } T max = array.get(0); array.set(0, array.get(array.size() - 1)); array.remove(array.size() - 1); heapifyDown(0); return Optional.of(max); } private boolean heapifyUp(Integer index) { if (index == 0) { return true; } if (!indexInBounds(index)) { return false; } Integer parentIndex = parentIndexOf(index); if (array.get(index).compareTo(array.get(parentIndex))  0) { swap(index, parentIndex); } return heapifyUp(parentIndex); } private boolean heapifyDown(Integer index) { if (!indexInBounds(index)) { return false; } Integer largestChildIndex = -1; OptionalInteger leftChildIndex = leftChildIndexOf(index); OptionalInteger rightChildIndex = rightChildIndexOf(index); if (leftChildIndex.isPresent() \u0026\u0026 array.get(leftChildIndex.get()).compareTo(array.get(index))  0) { largestChildIndex = leftChildIndex.get(); } if (rightChildIndex.isPresent() \u0026\u0026 array.get(rightChildIndex.get()).compareTo(array.get(index))  0) { largestChildIndex = rightChildIndex.get(); } if (largestChildIndex  0) { return true; } swap(index, largestChildIndex); return heapifyDown(largestChildIndex); } private boolean swap(Integer indexA, Integer indexB) { if (!indexInBounds(indexA) || !indexInBounds(indexB)) { return false; } T a = array.get(indexA); array.set(indexA, array.get(indexB)); array.set(indexB, a); return true; } private boolean indexInBounds(Integer index) { return index = 0 \u0026\u0026 index  array.size(); } private OptionalInteger rightChildIndexOf(Integer index) { Integer rightChildIndex = (2*index) + 2; if (!indexInBounds(rightChildIndex)) { return Optional.empty(); } return Optional.of(rightChildIndex); } private OptionalInteger leftChildIndexOf(Integer index) { Integer leftChildIndex = (2*index) + 1; if (!indexInBounds(leftChildIndex)) { return Optional.empty(); } return Optional.of(leftChildIndex); } private static Integer parentIndexOf(Integer index) { return Math.floorDiv((index - 1), 2); } } public class Main { public static void main(String[] args) { MaxHeapInteger maxHeap = new MaxHeapInteger(); maxHeap.add(14); System.out.println(maxHeap.peek()); maxHeap.add(22); System.out.println(maxHeap.peek()); maxHeap.add(5); System.out.println(maxHeap.peek()); maxHeap.add(28); System.out.println(maxHeap.peek()); maxHeap.poll(); System.out.println(maxHeap.peek()); } } ","wordCount":"301","inLanguage":"en","datePublished":"2022-06-29T12:59:00-07:00","dateModified":"2022-09-05T16:02:33-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashweaver.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/"},"publisher":{"@type":"Organization","name":"Cash Weaver","logo":{"@type":"ImageObject","url":"http://cashweaver.com/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://cashpw.com/posts/"},{"@type":"ListItem","position":2,"name":"Max binary heap implementation in java","item":"http://cashpw.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/"}]}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Max binary heap implementation in java","name":"Max binary heap implementation in java","description":"import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface Heap\u0026lt;T\u0026gt; { boolean add(T value); Optional\u0026lt;T\u0026gt; peek(); Optional\u0026lt;T\u0026gt; poll(); } class MaxHeap\u0026lt;T extends Comparable\u0026lt;? super T\u0026gt;\u0026gt; implements Heap\u0026lt;T\u0026gt; { private ArrayList\u0026lt;T\u0026gt; array; MaxHeap() { this.array = new ArrayList\u0026lt;T\u0026gt;(); } @Override public boolean add(T value) { array.add(value); heapifyUp(array.size() - 1); return true; } @Override public Optional\u0026lt;T\u0026gt; peek() { if (array.isEmpty()) { return Optional.empty(); } return Optional.of(array.get(0)); } @Override public Optional\u0026lt;T\u0026gt; poll() { if (array.isEmpty()) { return Optional.","keywords":["concept","concept"],"articleBody":"import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface HeapT { boolean add(T value); OptionalT peek(); OptionalT poll(); } class MaxHeapT extends Comparable super T implements HeapT { private ArrayListT array; MaxHeap() { this.array = new ArrayListT(); } @Override public boolean add(T value) { array.add(value); heapifyUp(array.size() - 1); return true; } @Override public OptionalT peek() { if (array.isEmpty()) { return Optional.empty(); } return Optional.of(array.get(0)); } @Override public OptionalT poll() { if (array.isEmpty()) { return Optional.empty(); } T max = array.get(0); array.set(0, array.get(array.size() - 1)); array.remove(array.size() - 1); heapifyDown(0); return Optional.of(max); } private boolean heapifyUp(Integer index) { if (index == 0) { return true; } if (!indexInBounds(index)) { return false; } Integer parentIndex = parentIndexOf(index); if (array.get(index).compareTo(array.get(parentIndex))  0) { swap(index, parentIndex); } return heapifyUp(parentIndex); } private boolean heapifyDown(Integer index) { if (!indexInBounds(index)) { return false; } Integer largestChildIndex = -1; OptionalInteger leftChildIndex = leftChildIndexOf(index); OptionalInteger rightChildIndex = rightChildIndexOf(index); if (leftChildIndex.isPresent() \u0026\u0026 array.get(leftChildIndex.get()).compareTo(array.get(index))  0) { largestChildIndex = leftChildIndex.get(); } if (rightChildIndex.isPresent() \u0026\u0026 array.get(rightChildIndex.get()).compareTo(array.get(index))  0) { largestChildIndex = rightChildIndex.get(); } if (largestChildIndex  0) { return true; } swap(index, largestChildIndex); return heapifyDown(largestChildIndex); } private boolean swap(Integer indexA, Integer indexB) { if (!indexInBounds(indexA) || !indexInBounds(indexB)) { return false; } T a = array.get(indexA); array.set(indexA, array.get(indexB)); array.set(indexB, a); return true; } private boolean indexInBounds(Integer index) { return index = 0 \u0026\u0026 index  array.size(); } private OptionalInteger rightChildIndexOf(Integer index) { Integer rightChildIndex = (2*index) + 2; if (!indexInBounds(rightChildIndex)) { return Optional.empty(); } return Optional.of(rightChildIndex); } private OptionalInteger leftChildIndexOf(Integer index) { Integer leftChildIndex = (2*index) + 1; if (!indexInBounds(leftChildIndex)) { return Optional.empty(); } return Optional.of(leftChildIndex); } private static Integer parentIndexOf(Integer index) { return Math.floorDiv((index - 1), 2); } } public class Main { public static void main(String[] args) { MaxHeapInteger maxHeap = new MaxHeapInteger(); maxHeap.add(14); System.out.println(maxHeap.peek()); maxHeap.add(22); System.out.println(maxHeap.peek()); maxHeap.add(5); System.out.println(maxHeap.peek()); maxHeap.add(28); System.out.println(maxHeap.peek()); maxHeap.poll(); System.out.println(maxHeap.peek()); } } ","wordCount":"301","inLanguage":"en","datePublished":"2022-06-29T12:59:00-07:00","dateModified":"2022-09-05T16:02:33-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashpw.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://cashpw.com/favicon.ico"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
 <header class=header>
 <nav class=nav>
 <div class=logo>
-<a href=http://cashweaver.com/ accesskey=h title="Cash Weaver (Alt + H)">Cash Weaver</a>
+<a href=http://cashpw.com/ accesskey=h title="Cash Prokop-Weaver (Alt + H)">Cash Prokop-Weaver</a>
 <span class=logo-switches>
 <button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
 </button>
@@ -49,17 +49,17 @@
 </div>
 <ul id=menu>
 <li>
-<a href=http://cashweaver.com/archives/ title=Archives>
+<a href=http://cashpw.com/archives/ title=Archives>
 <span>Archives</span>
 </a>
 </li>
 <li>
-<a href=http://cashweaver.com/search/ title="Search (Alt + /)" accesskey=/>
+<a href=http://cashpw.com/search/ title="Search (Alt + /)" accesskey=/>
 <span>Search</span>
 </a>
 </li>
 <li>
-<a href=http://cashweaver.com/tags/ title=Tags>
+<a href=http://cashpw.com/tags/ title=Tags>
 <span>Tags</span>
 </a>
 </li>
@@ -74,11 +74,11 @@ Max binary heap implementation in java
 </h1>
 <div class=post-meta><span title="2022-06-29 12:59:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:02:33 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;2 min
 </div>
-<div class=post-meta><a href=https://github.com/cashweaver/roam/tree/main/max_binary_heap_implementation_in_java.org rel="noopener noreferrer" target=_blank>Suggest Changes</a>
+<div class=post-meta><a href=https://github.com/cashpw/cashpw.com/tree/main/max_binary_heap_implementation_in_java.org rel="noopener noreferrer" target=_blank>Suggest Changes</a>
 </div>
 <div class="post-meta post-references"></div><div class="post-meta post-stars"></div><div class="post-meta post-tags">
 <span style=margin-right:.5ch>Tags:</span>
-<a href=http://cashweaver.com/tags/concept/>concept</a></div>
+<a href=http://cashpw.com/tags/concept/>concept</a></div>
 </header>
 <div class=post-content>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=color:#f92672>import</span> java.lang.Math<span style=color:#f92672>;</span>
@@ -240,7 +240,7 @@ Max binary heap implementation in java
 </article>
 </main>
 <footer class=footer>
-<span>&copy; 2022 <a href=http://cashweaver.com/>Cash Weaver</a></span>
+<span>&copy; 2022 <a href=http://cashpw.com/>Cash Prokop-Weaver</a></span>
 <span>
 Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
