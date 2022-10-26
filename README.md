@@ -6,13 +6,13 @@ My personal website.
 
 ### Posts
 
-[cashpw/notes](http://github.com/cashweaver/notes)
+[cashpw/notes](http://github.com/cashpw/notes)
 
 Emacs auto-exports posts on save. See my [dotfiles](http://github.com/cashpw/dotfiles/blob/main/config/doom/config.org).
 
 ### Recipe scaling
 
-[cashpw/scale-recipe](http://github.com/cashweaver/scale-recipe)
+[cashpw/scale-recipe](http://github.com/cashpw/scale-recipe)
 
 1.
     ```sh
@@ -22,7 +22,7 @@ Emacs auto-exports posts on save. See my [dotfiles](http://github.com/cashpw/dot
 
 ### Link favicons
 
-[cashpw/basic-favicon-links](https://github.com/cashweaver/basic-favicon-links)
+[cashpw/basic-favicon-links](https://github.com/cashpw/basic-favicon-links)
 
 1. 
     ```sh
