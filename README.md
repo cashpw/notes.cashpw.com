@@ -1,4 +1,4 @@
-# [cashweaver.com](http://cashweaver.com)
+# [cashpw.com](http://cashpw.com)
 
 My personal website.
 
@@ -6,29 +6,29 @@ My personal website.
 
 ### Posts
 
-[cashweaver/notes](http://github.com/cashweaver/notes)
+[cashpw/notes](http://github.com/cashweaver/notes)
 
-Emacs auto-exports posts on save. See my [dotfiles](http://github.com/cashweaver/dotfiles/blob/main/config/doom/config.org).
+Emacs auto-exports posts on save. See my [dotfiles](http://github.com/cashpw/dotfiles/blob/main/config/doom/config.org).
 
 ### Recipe scaling
 
-[cashweaver/scale-recipe](http://github.com/cashweaver/scale-recipe)
+[cashpw/scale-recipe](http://github.com/cashweaver/scale-recipe)
 
 1.
     ```sh
     npm run build:release
-    ./node_modules/.bin/browserify build/src/main.js --standalone scale-recipe -o ~/proj/cashweaver.com/static/js/scale-recipe/bundle.js
+    ./node_modules/.bin/browserify build/src/main.js --standalone scale-recipe -o ~/proj/cashpw.com/static/js/scale-recipe/bundle.js
     ```
 
 ### Link favicons
 
-[cashweaver/basic-favicon-links](https://github.com/cashweaver/basic-favicon-links)
+[cashpw/basic-favicon-links](https://github.com/cashweaver/basic-favicon-links)
 
 1. 
     ```sh
     python3 get_favicons.py \
-      --markdown_directory=$HOME/proj/cashweaver.com/content/posts \
-      --icon_directory=$HOME/proj/cashweaver.com/static/favicons \
-      --favicon_css_outfile_path=$HOME/proj/cashweaver.com/assets/css/extended/favicons.css \
-      --your_site_url=www.cashweaver.com
+      --markdown_directory=$HOME/proj/cashpw.com/content/posts \
+      --icon_directory=$HOME/proj/cashpw.com/static/favicons \
+      --favicon_css_outfile_path=$HOME/proj/cashpw.com/assets/css/extended/favicons.css \
+      --your_site_url=www.cashpw.com
     ```
