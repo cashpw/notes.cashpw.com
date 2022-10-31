@@ -42,7 +42,7 @@ showAuthor = false
 enableMathjax = true
 
   [params.editPost]
-  URL = "https://github.com/cashpw/cashpw.com/tree/main"
+  URL = "https://github.com/cashpw/notes/tree/main"
   Text = "Suggest Changes"
   appendFilePath = true
 
