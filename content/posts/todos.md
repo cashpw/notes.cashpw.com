@@ -2,7 +2,7 @@
 title = "Todos"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2022-11-04T15:33:09-07:00
+lastmod = 2022-11-04T16:11:23-07:00
 draft = false
 slug = "29171a49-1148-45e0-b2d4-26d2066b51b7"
 +++
@@ -284,7 +284,7 @@ I realized when writing this that the whole lot of it is the same as what's post
 ## Node idea: Consistency is a sign of competency; create processes for greater consistency; todo lists are good! {#node-idea-consistency-is-a-sign-of-competency-create-processes-for-greater-consistency-todo-lists-are-good}
 
 
-## Node idea: Prefer information with a long [shelf-life]({{< relref "shelf_life_of_information.md" >}}) to [Do things that compound]({{< relref "do_things_that_compound.md" >}}) {#node-idea-prefer-information-with-a-long-shelf-life--shelf-life-of-information-dot-md--to-do-things-that-compound--do-things-that-compound-dot-md}
-
-
 ## Node idea: if you want to go fast, go alone; if you want to go far, go together and (<a href="#citeproc_bib_item_6">Whitby n.d.</a>) {#node-idea-if-you-want-to-go-fast-go-alone-if-you-want-to-go-far-go-together-and}
+
+
+## Node idea: Prefer information with a long [shelf-life]({{< relref "shelf_life_of_information.md" >}}) to [Do things that compound]({{< relref "do_things_that_compound.md" >}}) {#node-idea-prefer-information-with-a-long-shelf-life--shelf-life-of-information-dot-md--to-do-things-that-compound--do-things-that-compound-dot-md}
