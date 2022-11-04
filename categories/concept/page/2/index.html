@@ -8,7 +8,7 @@
 <meta name=description content="Blog and notes">
 <meta name=author content>
 <link rel=canonical href=http://cashpw.com/categories/concept/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.da22893222dd6a8eeafc02a8fd1e5a1701c6ff63e2e6abdbb9208d8a7cd7625a.css integrity="sha256-2iKJMiLdao7q/AKo/R5aFwHG/2Pi5qvbuSCNinzXYlo=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.942078f84ce240b200662d5ef5b97675e20b946b8a08ac3f52bbe60773208337.css integrity="sha256-lCB4+EziQLIAZi1e9bl2deILlGuKCKw/UrvmB3Mggzc=" rel="preload stylesheet" as=style>
 <link rel=icon href=http://cashpw.com/favicon.ico>
 <link rel=icon type=image/png sizes=16x16 href=http://cashpw.com/favicon-16x16.png>
 <link rel=icon type=image/png sizes=32x32 href=http://cashpw.com/favicon-32x32.png>
@@ -70,123 +70,122 @@ concept
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Bisque (Ceramics)
+<h2>Complete information
 </h2>
 </header>
 <div class=entry-content>
-<p> Biscuit (also known as bisque) refers to any pottery that has been fired in a kiln without a ceramic glaze. This can be a final product such as biscuit porcelain or unglazed earthenware (such as terracotta) or, most commonly, an intermediate stage in a glazed final product.
-(“Biscuit (Pottery)” 2022)
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Biscuit (Pottery).” 2022. Wikipedia, August. https://en.wikipedia.org/w/index.php?title=Biscuit_(pottery)&oldid=1104101079. </p>
+<p>In economics and game theory, complete information is an economic situation or game in which knowledge about other market participants or players is available to all participants. The utility functions (including risk aversion), payoffs, strategies and “types” of players are thus common knowledge.
+[…]
+In a game of complete information, the structure of the game and the payoff functions of the players are commonly known but players may not see all of the moves made by other players (for instance, the initial placement of ships in Battleship); there may also be a chance element (as in most card games)....</p>
 </div>
-<footer class=entry-footer><span title="2022-08-23 08:59:00 -0700 -0700">2022-08-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:31:38 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Bisque (Ceramics)" href=http://cashpw.com/posts/7a78f2f9-4a22-43aa-86a7-11dceb13e96a/></a>
+<footer class=entry-footer><span title="2022-10-22 15:56:00 -0700 -0700">2022-10-22</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:52:03 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Complete information" href=http://cashpw.com/posts/d80fe9f3-c36e-4878-89fc-d7ad8d6e247f/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Plastic clay
+<h2>Binary heap implementation in python
 </h2>
 </header>
 <div class=entry-content>
-<p>Clay which is moist, soft, and bendable. Clay at this state is ready for use on the wheel, under a roller, etc.</p>
+<p>from typing import List, TypeVar, Generic, Tuple, Optional from collections.abc import Callable from math import floor T = TypeVar('T') Comparator = Callable[[T, T], int] class Heap(Generic[T]): def __init__(self, comparator: Comparator) -> None: self.comparator = comparator self.items = [] def add(self, value: T) -> None: """Add the provided value into the heap.""" self.items.append(value) self._heapify_up() def pop(self) -> Optional[T]: """Remove and return the value at the top of the heap""" if len(self.items) == 0: return None value = self....</p>
 </div>
-<footer class=entry-footer><span title="2022-08-23 08:57:00 -0700 -0700">2022-08-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:09:19 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Plastic clay" href=http://cashpw.com/posts/8d874911-f4f8-460f-b20d-90425c53cfa1/></a>
+<footer class=entry-footer><span title="2022-10-21 09:21:00 -0700 -0700">2022-10-21</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:49:37 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;2 min</footer>
+<a class=entry-link aria-label="post link to Binary heap implementation in python" href=http://cashpw.com/posts/8178ba27-6553-4e8e-b7d4-125e72278029/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Bisque firing
+<h2>Heapsort implementation in python
 </h2>
 </header>
 <div class=entry-content>
-<p></p>
+<p>from typing import List, TypeVar, Generic, Tuple from collections.abc import Callable from math import floor T = TypeVar('T') Comparator = Callable[[T,T], int] def get_parent_index(child_index: int) -> int: if child_index == 0: return 0 return floor((child_index - 1) / 2.0) def get_child_indices(parent_index: int) -> Tuple[int, int]: return (parent_index * 2) + 1, (parent_index * 2) + 2 def heapsort(items: List[T], comparator: Comparator) -> List[T]: """Sort ITEMS in-place using heapsort.""" def heapify(heap_range: Tuple[int, int]) -> None: # TODO: Validate indices heap_start, heap_end = heap_range for i in range(heap_start + 1, heap_end + 1): heapify_up((heap_start, i)) def heapify_up(heap_range: Tuple[int, int]) -> None: # TODO: Validate indices _, heap_end = heap_range child_index = heap_end parent_index = get_parent_index(child_index) while True: if child_index == parent_index: break if comparator(items[child_index], items[parent_index]) &lt;= 0: break swap(parent_index, child_index) child_index = parent_index parent_index = get_parent_index(child_index) def heapify_down(heap_range: Tuple[int, int]) -> None: # TODO: Validate indices heap_start, heap_end = heap_range parent_index = heap_start while True: child_a_index, child_b_index = get_child_indices(parent_index) swap_index = parent_index if child_a_index &lt;= heap_end and comparator(items[child_a_index], items[parent_index]) > 0: swap_index = child_a_index if child_b_index &lt;= heap_end and comparator(items[child_b_index], items[parent_index]) > 0 and comparator(items[child_b_index], items[child_a_index]) > 0: swap_index = child_b_index if swap_index == parent_index: break swap(swap_index, parent_index) parent_index = swap_index def swap(index_a: int, index_b: int) -> None: # TODO: Validate indices value_a = items[index_a] items[index_a] = items[index_b] items[index_b] = value_a heapify((0, len(items)-1)) for heap_end in reversed(range(1, len(items))): swap(0, heap_end) heapify_down((0, heap_end-1)) return items print(heapsort([4,2,5,19,1], lambda x,y: 1 if x > y else -1)) print(heapsort([4,2,5,19,1], lambda x,y: 1 if x &lt; y else -1)) # Test get_parent_index #print("Pass" if get_parent_index(1) == 0 else "Fail") #print("Pass" if get_parent_index(2) == 0 else "Fail") #print("Pass" if get_parent_index(3) == 1 else "Fail") #print("Pass" if get_parent_index(4) == 1 else "Fail") #print("Pass" if get_parent_index(5) == 2 else "Fail") #print("Pass" if get_parent_index(0) == 0 else "Fail") # Test get_child_indices #print("Pass" if get_child_indices(0) == (1,2) else ("Fail", get_child_indices(0))) #print("Pass" if get_child_indices(1) == (3,4) else ("Fail", get_child_indices(1))) #print("Pass" if get_child_indices(2) == (5,6) else ("Fail", get_child_indices(1))) </p>
 </div>
-<footer class=entry-footer><span title="2022-08-23 08:56:00 -0700 -0700">2022-08-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:31:41 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;0 min</footer>
-<a class=entry-link aria-label="post link to Bisque firing" href=http://cashpw.com/posts/546a8c28-18bb-4500-bb35-a18ca162ee1f/></a>
+<footer class=entry-footer><span title="2022-10-17 09:22:00 -0700 -0700">2022-10-17</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:00:12 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;2 min</footer>
+<a class=entry-link aria-label="post link to Heapsort implementation in python" href=http://cashpw.com/posts/1866a9ee-480e-4c8e-95d1-549bd30f13dc/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Greenware
+<h2>Yes, and
 </h2>
 </header>
 <div class=entry-content>
-<p> Greenware refers to unfired objects.
-(“Pottery” 2022)
-Greenware is clay before it’s undergone Bisque firing. This includes:
-Raw dry clay Slip Plastic clay Leather-hard clay References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Pottery.” 2022. Wikipedia, August. https://en.wikipedia.org/w/index.php?title=Pottery&oldid=1105629728. </p>
+<p> “Yes, and…”, also referred to as “Yes, and…” thinking, is a rule-of-thumb in improvisational comedy that suggests that a participant should accept what another participant has stated (“yes”) and then expand on that line of thinking (“and”).
+(“Yes, and.” 2022)
+References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Yes, and..” 2022. Wikipedia, August. https://en.wikipedia.org/w/index.php?title=Yes,_and.&oldid=1106480522. </p>
 </div>
-<footer class=entry-footer><span title="2022-08-23 08:50:00 -0700 -0700">2022-08-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:50:23 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Greenware" href=http://cashpw.com/posts/d0d62414-0eb1-4036-aae9-da4db0eb1d52/></a>
+<footer class=entry-footer><span title="2022-10-14 11:20:00 -0700 -0700">2022-10-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:41:06 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Yes, and" href=http://cashpw.com/posts/a2e19c5c-0969-49ae-a0c2-740fc61279c3/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Clay firing stages
+<h2>Selection sort
 </h2>
 </header>
 <div class=entry-content>
-<p> Greenware Bisque firing Bisque Glaze firing Glazeware References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
+<p> </p>
 </div>
-<footer class=entry-footer><span title="2022-08-23 08:49:00 -0700 -0700">2022-08-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:36:42 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Clay firing stages" href=http://cashpw.com/posts/dff0f5e8-e2e5-41dc-a43d-6fd7c39b14be/></a>
+<footer class=entry-footer><span title="2022-10-14 09:51:00 -0700 -0700">2022-10-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:18:21 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;0 min</footer>
+<a class=entry-link aria-label="post link to Selection sort" href=http://cashpw.com/posts/f8918bbe-8164-4105-8489-2f74fd10df6d/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Leather-hard
+<h2>Fixed mindset
 </h2>
 </header>
 <div class=entry-content>
-<p>In pottery, leather-hard is the condition of a clay or clay body when it has been partially dried to the point where all shrinkage has been completed, and it has a consistency similar to leather of the same thickness as the clay. At this stage, the clay object has approximately 15% moisture content. The clay is still visibly damp (normally a darkish grey, if it began whiteish) but has dried enough to be able to be handled without deformation....</p>
+<p>Those with a fixed Mindset believe “intelligence is static” and there is very little to be done to improve ability. Feedback is seen as an “evaluation of their underlying ability” since success is seen only as a result of this innate ability, not the effort put in. Failure is much more intimidating since it “suggests constraints or limits they would not be able to overcome”. Those with a fixed mindset tend to avoid challenges, give up easily, and focus on the outcome....</p>
 </div>
-<footer class=entry-footer><span title="2022-08-23 08:48:00 -0700 -0700">2022-08-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:58:28 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Leather-hard" href=http://cashpw.com/posts/7358ec53-29b1-4b14-b1b5-20a09e40caf1/></a>
+<footer class=entry-footer><span title="2022-10-14 09:44:00 -0700 -0700">2022-10-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:56:58 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Fixed mindset" href=http://cashpw.com/posts/3a203296-7538-4986-a360-0db64356c9f5/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Logit function
+<h2>Mindset
 </h2>
 </header>
 <div class=entry-content>
-<p></p>
+<p>Mindset is an “established set of attitudes, esp. regarded as typical of a particular group’s social or cultural values; the outlook, philosophy, or values of a person; (now also more generally) frame of mind, attitude, [recte: and] disposition.” A mindset may also arise from a person’s world view or philosophy of life.
+A firmly established mindset could create a powerful incentive to adopt or accept prior behaviors, choices, or tools, sometimes referred to as cognitive inertia, or “groupthink....</p>
 </div>
-<footer class=entry-footer><span title="2022-08-23 08:42:00 -0700 -0700">2022-08-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:00:24 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;0 min</footer>
-<a class=entry-link aria-label="post link to Logit function" href=http://cashpw.com/posts/d0545243-563c-4745-8efa-04c0508293e9/></a>
+<footer class=entry-footer><span title="2022-10-14 09:38:00 -0700 -0700">2022-10-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:08:50 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Mindset" href=http://cashpw.com/posts/2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Inferential distance
+<h2>Grit
 </h2>
 </header>
 <div class=entry-content>
-<p>The inferential distance between two people, the teacher and the student, with respect to some concept one is trying to explain is the set of prerequisite knowledge which is (1) necessary to understand the concept and (2) lacked by the student.
-Examples A discussion on gardening requires one be familiar with the concept of life growing, soil, sunlight, heat, etc.
-A philosophy text defining a set of terms before discussing ideas....</p>
+<p>In psychology, grit is a positive, non-cognitive trait based on an individual’s perseverance of effort combined with the passion for a particular long-term goal or end state (a powerful motivation to achieve an objective). This perseverance of effort promotes the overcoming of obstacles or challenges that lie on the path to accomplishment and serves as a driving force in achievement realization.
+(“Grit (Personality Trait)” 2022)
+Grit is closely related to a Growth mindset....</p>
 </div>
-<footer class=entry-footer><span title="2022-08-22 09:53:00 -0700 -0700">2022-08-22</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:54:50 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;2 min</footer>
-<a class=entry-link aria-label="post link to Inferential distance" href=http://cashpw.com/posts/5185ffd0-b643-484a-a69d-85b7579eb38d/></a>
+<footer class=entry-footer><span title="2022-10-14 09:36:00 -0700 -0700">2022-10-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:59:00 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Grit" href=http://cashpw.com/posts/b08bf4f7-76cd-41e9-973f-83d2a60de9aa/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Norm
+<h2>Variance
 </h2>
 </header>
 <div class=entry-content>
-<p>In mathematics, a norm is a function from a real or complex vector space to the non-negative real numbers that behaves in certain ways like the distance from the origin: it commutes with scaling, obeys a form of the triangle inequality, and is zero only at the origin. In particular, the Euclidean distance of a vector from the origin is a norm, called the Euclidean norm, or 2-norm, which may also be defined as the square root of the inner product of a vector with itself....</p>
+<p> </p>
 </div>
-<footer class=entry-footer><span title="2022-08-22 08:35:00 -0700 -0700">2022-08-22</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-06 09:16:21 -0700 -0700">2022-09-06</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Norm" href=http://cashpw.com/posts/d98f1ce2-f350-4be7-a8b1-a5741f908cdd/></a>
+<footer class=entry-footer><span title="2022-10-13 10:35:00 -0700 -0700">2022-10-13</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:39:00 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;0 min</footer>
+<a class=entry-link aria-label="post link to Variance" href=http://cashpw.com/posts/b3a5666f-6e4d-4f31-b825-10531443d2bf/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Transpose
+<h2>Meaningful rest
 </h2>
 </header>
 <div class=entry-content>
-<p>In linear algebra, the transpose of a matrix is an operator which flips a matrix over its diagonal; that is, it switches the row and column indices of the matrix \(A\) by producing another matrix, often denoted by \(A^{\textsf{T}}\) (among other notations).
-(“Transpose” 2022)
-\(A = \begin{bmatrix}1 & 2 \\ 3 & 4 \\ 5 & 6\end{bmatrix}\)
-\(A^{\textsf{T}} = \begin{bmatrix}1 & 3 & 5 \\ 2 & 4 & 6\end{bmatrix}\)...</p>
+<p>Meaningful rest is a type of rest which leaves the individual feeling rejuvenated. It exists in contrast to default actions – “the things that take no activation energy to start, the things [one] reflexively reaches for” (Nanda n.d.).
+The term is from an article by Neel Nanda.
+An exercise: Set a 5 minute timer, and list the things you want to do when you feel tired and low-energy. Then, set another 5 minute timer, and list the things you feel rejuvenated after having done - the things you like doing when low-energy....</p>
 </div>
-<footer class=entry-footer><span title="2022-08-21 05:35:00 -0700 -0700">2022-08-21</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:35:04 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Transpose" href=http://cashpw.com/posts/df465332-f865-424c-9028-1776dddd1a58/></a>
+<footer class=entry-footer><span title="2022-10-12 19:53:00 -0700 -0700">2022-10-12</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:08:00 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;3 min</footer>
+<a class=entry-link aria-label="post link to Meaningful rest" href=http://cashpw.com/posts/ef6148e5-0f53-4535-89fa-1f67b3c557b7/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

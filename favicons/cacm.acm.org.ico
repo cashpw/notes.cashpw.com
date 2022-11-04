@@ -12,7 +12,7 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
 </script>
 
       <script>
-         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("741250032c979667");else{var a=document.createElement("textarea");a.value="741250032c979667";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
+         (function(){if(document.addEventListener){var c=function(){var b=document.getElementById("copy-label");document.getElementById("plain-ray-id");if(navigator.clipboard)navigator.clipboard.writeText("76494a880d08fb2c");else{var a=document.createElement("textarea");a.value="76494a880d08fb2c";a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}b.innerText="Copied"};document.addEventListener("DOMContentLoaded",
 function(){var b=document.getElementById("plain-ray-id"),a=document.getElementById("click-to-copy-btn");"classList"in b&&(b.classList.add("hidden"),a.classList.remove("hidden"),a.addEventListener("click",c))})}})();
       </script>
       <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
@@ -38,10 +38,10 @@ function(){var b=document.getElementById("plain-ray-id"),a=document.getElementBy
             <p class="ray-id-wrapper">
                Ray ID:
                <span class="plain-ray-id" id="plain-ray-id">
-                  741250032c979667
+                  76494a880d08fb2c
                </span>
                <button class="click-to-copy-btn hidden" id="click-to-copy-btn" title="Click to copy Ray ID" type="button">
-                  <span class="ray-id">741250032c979667</span><span class="copy-label" id="copy-label">Copy</span>
+                  <span class="ray-id">76494a880d08fb2c</span><span class="copy-label" id="copy-label">Copy</span>
                </button>
             </p>
             <p>

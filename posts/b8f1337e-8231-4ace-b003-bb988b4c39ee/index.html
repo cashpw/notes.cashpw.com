@@ -8,7 +8,7 @@
 <meta name=description content="In computing, a hash table, also known as hash map or dictionary, is a Data structure that implements a [Associative array], a structure that can map keys to values. A hash table uses a Hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored.">
 <meta name=author content>
 <link rel=canonical href=http://cashpw.com/posts/b8f1337e-8231-4ace-b003-bb988b4c39ee/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.da22893222dd6a8eeafc02a8fd1e5a1701c6ff63e2e6abdbb9208d8a7cd7625a.css integrity="sha256-2iKJMiLdao7q/AKo/R5aFwHG/2Pi5qvbuSCNinzXYlo=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.942078f84ce240b200662d5ef5b97675e20b946b8a08ac3f52bbe60773208337.css integrity="sha256-lCB4+EziQLIAZi1e9bl2deILlGuKCKw/UrvmB3Mggzc=" rel="preload stylesheet" as=style>
 <script defer crossorigin=anonymous src=/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5+kdJvBz5iKbt6B5PJI=" onload=hljs.initHighlightingOnLoad()></script>
 <link rel=icon href=http://cashpw.com/favicon.ico>
 <link rel=icon type=image/png sizes=16x16 href=http://cashpw.com/favicon-16x16.png>
@@ -29,12 +29,12 @@
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://cashpw.com/posts/b8f1337e-8231-4ace-b003-bb988b4c39ee/"><meta property="article:section" content="posts">
 <meta property="article:published_time" content="2022-06-29T16:06:00-07:00">
-<meta property="article:modified_time" content="2022-09-05T15:51:13-07:00">
+<meta property="article:modified_time" content="2022-11-04T14:59:31-07:00">
 <meta name=twitter:card content="summary">
 <meta name=twitter:title content="Hash table">
 <meta name=twitter:description content="In computing, a hash table, also known as hash map or dictionary, is a Data structure that implements a [Associative array], a structure that can map keys to values. A hash table uses a Hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored.">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://cashpw.com/posts/"},{"@type":"ListItem","position":2,"name":"Hash table","item":"http://cashpw.com/posts/b8f1337e-8231-4ace-b003-bb988b4c39ee/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Hash table","name":"Hash table","description":"In computing, a hash table, also known as hash map or dictionary, is a Data structure that implements a [Associative array], a structure that can map keys to values. A hash table uses a Hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored.","keywords":["concept","concept"],"articleBody":" In computing, a hash table, also known as hash map or dictionary, is a Data structure that implements a [Associative array], a structure that can map keys to values. A hash table uses a Hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored.\nIdeally, the hash function will assign each key to a unique bucket, but most hash table designs employ an imperfect hash function, which might cause hash collisions where the hash function generates the same index for more than one key. Such collisions are typically accommodated in some way.\n(“Hash Table” 2022)\n References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Hash Table.” 2022. Wikipedia, June. https://en.wikipedia.org/w/index.php?title=Hash_table\u0026oldid=1095560468.  ","wordCount":"138","inLanguage":"en","datePublished":"2022-06-29T16:06:00-07:00","dateModified":"2022-09-05T15:51:13-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashpw.com/posts/b8f1337e-8231-4ace-b003-bb988b4c39ee/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://cashpw.com/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Hash table","name":"Hash table","description":"In computing, a hash table, also known as hash map or dictionary, is a Data structure that implements a [Associative array], a structure that can map keys to values. A hash table uses a Hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored.","keywords":["concept","concept"],"articleBody":" In computing, a hash table, also known as hash map or dictionary, is a Data structure that implements a [Associative array], a structure that can map keys to values. A hash table uses a Hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored.\nIdeally, the hash function will assign each key to a unique bucket, but most hash table designs employ an imperfect hash function, which might cause hash collisions where the hash function generates the same index for more than one key. Such collisions are typically accommodated in some way.\n(“Hash Table” 2022)\n Collision resolution  A search algorithm that uses hashing consists of two parts. The first part is computing a hash function which transforms the search key into an array index. The ideal case is such that no two search keys hashes to the same array index. However, this is not always the case and is impossible to guarantee for unseen given data. Hence the second part of the algorithm is collision resolution. The two common methods for collision resolution are Separate chaining and Open addressing.\n(“Hash Table” 2022)\n Separate chaining  […] the process involves building a linked list with key–value pair for each search array index. The collided items are chained together through a single linked list, which can be traversed to access the item with a unique search key.\n(“Hash Table” 2022)\n   Open addressing  […] is another collision resolution technique in which every entry records are stored in the bucket array itself, and the hash resolution is performed through probing. When a new entry has to be inserted, the buckets are examined, starting with the hashed-to slot and proceeding in some probe sequence, until an unoccupied slot is found. When searching for an entry, the buckets are scanned in the same sequence, until either the target record is found, or an unused array slot is found, which indicates an unsuccessful search.\n(“Hash Table” 2022)\n    Well-known probe sequences include:\n Linear probing, in which the interval between probes is fixed (usually 1). Quadratic probing, in which the interval between probes is increased by adding the successive outputs of a quadratic polynomial to the value given by the original hash computation. Double hashing, in which the interval between probes is computed by a secondary hash function.  (“Hash Table” 2022)\n References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Hash Table.” 2022. Wikipedia, June. https://en.wikipedia.org/w/index.php?title=Hash_table\u0026oldid=1095560468.  ","wordCount":"424","inLanguage":"en","datePublished":"2022-06-29T16:06:00-07:00","dateModified":"2022-11-04T14:59:31-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashpw.com/posts/b8f1337e-8231-4ace-b003-bb988b4c39ee/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://cashpw.com/favicon.ico"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -72,7 +72,7 @@
 <h1 class=post-title>
 Hash table
 </h1>
-<div class=post-meta><span title="2022-06-29 16:06:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:51:13 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min
+<div class=post-meta><span title="2022-06-29 16:06:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:59:31 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;2 min
 </div>
 <div class=post-meta><a href=https://github.com/cashpw/notes/edit/main/hash_table.org rel="noopener noreferrer" target=_blank>Suggest Changes</a>
 </div>
@@ -86,6 +86,13 @@ Hash table
 </summary>
 <div class=inner><ul>
 <li>
+<a href=#collision-resolution aria-label="Collision resolution">Collision resolution</a><ul>
+<li>
+<a href=#separate-chaining aria-label="Separate chaining">Separate chaining</a></li>
+<li>
+<a href=#open-addressing aria-label="Open addressing">Open addressing</a></li></ul>
+</li>
+<li>
 <a href=#references aria-label=References>References</a>
 </li>
 </ul>
@@ -98,6 +105,36 @@ Hash table
 <p>Ideally, the hash function will assign each key to a unique bucket, but most hash table designs employ an imperfect hash function, which might cause hash collisions where the hash function generates the same index for more than one key. Such collisions are typically accommodated in some way.</p>
 <p>(<a href=#citeproc_bib_item_1>“Hash Table” 2022</a>)</p>
 </blockquote>
+<h2 id=collision-resolution>Collision resolution<a hidden class=anchor aria-hidden=true href=#collision-resolution>#</a></h2>
+<blockquote>
+<p>A search algorithm that uses hashing consists of two parts. The first part is computing a hash function which transforms the search key into an array index. The ideal case is such that no two search keys hashes to the same array index. However, this is not always the case and is impossible to guarantee for unseen given data. Hence the second part of the algorithm is collision resolution. The two common methods for collision resolution are <a href=#separate-chaining>Separate chaining</a> and <a href=#open-addressing>Open addressing</a>.</p>
+<p>(<a href=#citeproc_bib_item_1>“Hash Table” 2022</a>)</p>
+</blockquote>
+<h3 id=separate-chaining>Separate chaining<a hidden class=anchor aria-hidden=true href=#separate-chaining>#</a></h3>
+<blockquote>
+<p>[&mldr;] the process involves building a linked list with key–value pair for each search array index. The collided items are chained together through a single linked list, which can be traversed to access the item with a unique search key.</p>
+<p>(<a href=#citeproc_bib_item_1>“Hash Table” 2022</a>)</p>
+</blockquote>
+<figure>
+<img loading=lazy src=/ox-hugo/2022-10-01_14-23-28_900px-Hash_table_5_0_1_1_1_1_1_LL.svg.png>
+</figure>
+<h3 id=open-addressing>Open addressing<a hidden class=anchor aria-hidden=true href=#open-addressing>#</a></h3>
+<blockquote>
+<p>[&mldr;] is another collision resolution technique in which every entry records are stored in the bucket array itself, and the hash resolution is performed through probing. When a new entry has to be inserted, the buckets are examined, starting with the hashed-to slot and proceeding in some probe sequence, until an unoccupied slot is found. When searching for an entry, the buckets are scanned in the same sequence, until either the target record is found, or an unused array slot is found, which indicates an unsuccessful search.</p>
+<p>(<a href=#citeproc_bib_item_1>“Hash Table” 2022</a>)</p>
+</blockquote>
+<figure>
+<img loading=lazy src=/ox-hugo/2022-10-01_14-24-28_760px-Hash_table_5_0_1_1_1_1_0_SP.svg.png>
+</figure>
+<blockquote>
+<p>Well-known probe sequences include:</p>
+<ol>
+<li>Linear probing, in which the interval between probes is fixed (usually 1).</li>
+<li>Quadratic probing, in which the interval between probes is increased by adding the successive outputs of a quadratic polynomial to the value given by the original hash computation.</li>
+<li>Double hashing, in which the interval between probes is computed by a secondary hash function.</li>
+</ol>
+<p>(<a href=#citeproc_bib_item_1>“Hash Table” 2022</a>)</p>
+</blockquote>
 <h2 id=references>References<a hidden class=anchor aria-hidden=true href=#references>#</a></h2>
 <style>.csl-entry{text-indent:-1.5em;margin-left:1.5em}</style><div class=csl-bib-body>
 <div class=csl-entry><a id=citeproc_bib_item_1></a>“Hash Table.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Hash_table&oldid=1095560468">https://en.wikipedia.org/w/index.php?title=Hash_table&oldid=1095560468</a>.</div>
@@ -107,6 +144,7 @@ Hash table
 <h4>Backlinks</h4>
 <div class=backlinks>
 <ul>
+<li><a href=/posts/16e87858-5bed-40b3-830b-b2596f4d20b4/>Linked hash map</a></li>
 <li><a href=/posts/b5c17ad0-3857-4800-90be-8e79e72897ab/>Hash function</a></li>
 <li><a href=/posts/efd422ba-2509-48c9-b267-265f3c369462/>Associative array</a></li>
 </ul>

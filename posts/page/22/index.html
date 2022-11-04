@@ -8,7 +8,7 @@
 <meta name=description content="Posts - Cash Prokop-Weaver">
 <meta name=author content>
 <link rel=canonical href=http://cashpw.com/posts/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.da22893222dd6a8eeafc02a8fd1e5a1701c6ff63e2e6abdbb9208d8a7cd7625a.css integrity="sha256-2iKJMiLdao7q/AKo/R5aFwHG/2Pi5qvbuSCNinzXYlo=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.942078f84ce240b200662d5ef5b97675e20b946b8a08ac3f52bbe60773208337.css integrity="sha256-lCB4+EziQLIAZi1e9bl2deILlGuKCKw/UrvmB3Mggzc=" rel="preload stylesheet" as=style>
 <link rel=icon href=http://cashpw.com/favicon.ico>
 <link rel=icon type=image/png sizes=16x16 href=http://cashpw.com/favicon-16x16.png>
 <link rel=icon type=image/png sizes=32x32 href=http://cashpw.com/favicon-32x32.png>
@@ -71,139 +71,130 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Ian Danskin | Always a Bigger Fish
+<h2>Quicksort implementation in Python
 </h2>
 </header>
 <div class=entry-content>
-<p>Ian Danskin, (Danskin 2019)
-This is an entry in the Alt-right Playbook.
-Summary Conservatives tend to think in hierarchies – like a capitalist – while liberals tend to think democratically – like an egalitarian.
-Notes See, when you talk to your conservative friend, you operate as though you have the same base assumptions: belief in democracy, “do unto others,” etc. etc. If you didn’t believe your friend shared these assumptions, you’d basically be calling him a fascist or a sadist....</p>
+<p>An implementation of Quicksort in Python.
+from typing import List, Callable def swap(ints: List[int], indexA: int, indexB: int) -> None: """Swap the values in INTS at INDEXA and INDEXB.""" valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> int: """Sorts sublist into [{&lt;= pivot}, pivot, {> than pivot}]""" pivot_index = high_index i = low_index - 1 for j in range(low_index, high_index): if comparator(ints[j], ints[pivot_index]): i += 1 swap(ints, i, j) i += 1 swap(ints, i, pivot_index) return i def quick_sort_inner(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> List[int]: if low_index >= high_index or low_index &lt; 0: return pivot_index = partition(ints, comparator, low_index, high_index) quick_sort_inner(ints, comparator, 0, pivot_index - 1) quick_sort_inner(ints, comparator, pivot_index + 1, high_index) return ints def quick_sort(ints: List[int], comparator: Callable[[int, int], bool]) -> List[int]: return quick_sort_inner(ints, comparator, 0, len(ints) - 1) a = [10, 15, 5, 8, 2, 1, 3, 9] print(quick_sort(a, lambda a, b: a &lt;= b)) </p>
 </div>
-<footer class=entry-footer><span title="2022-06-26 08:54:00 -0700 -0700">2022-06-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-06 14:04:12 -0700 -0700">2022-09-06</span>&nbsp;·&nbsp;10 min</footer>
-<a class=entry-link aria-label="post link to Ian Danskin | Always a Bigger Fish" href=http://cashpw.com/posts/c0564758-b90d-42a6-be58-44d8985330ad/></a>
+<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:15:18 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://cashpw.com/posts/ed982b37-6f8e-4b89-bb51-ac608510325e/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Ian Danskin | The Card Says Moops
+<h2>Quicksort
 </h2>
 </header>
 <div class=entry-content>
-<p>Ian Danskin, (Danskin 2019)
-This is an entry in the Alt-right Playbook.
-Summary Performative irony (see For the lulz) for the dual goals of winning arguments and obfuscating your true beliefs. That is, pretending (and possibly believing, at least at some level) that you just want to watch the world burn and the hiding, from others and yourself, the fact that you only ever seem to go after the Left and what the targets of your ire imply about your underlying beliefs....</p>
+<p>Quicksort is an in-place Sorting algorithm. […] It works by selecting a ‘pivot’ element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
+(“Quicksort” 2022)
+Quicksort is:
+Unstable sorting algorithm Internal memory algorithm Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-26 08:25:00 -0700 -0700">2022-06-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:38:37 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;6 min</footer>
-<a class=entry-link aria-label="post link to Ian Danskin | The Card Says Moops" href=http://cashpw.com/posts/d23a7621-32c5-4cf6-8f2e-e9a84bb55eec/></a>
+<footer class=entry-footer><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:15:09 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Quicksort" href=http://cashpw.com/posts/d7bcd831-6a3f-4885-a654-15f0b11c9966/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Ian Danskin | You Go High, We Go Low
+<h2>Bubble sort implementation in Python
 </h2>
 </header>
 <div class=entry-content>
-<p>Ian Danskin, (Danskin 2018)
-This is an entry in the Alt-right Playbook.
-Summary Going low is a manifestation of playing to win – it’s a focus on the ends justifying the means. It works most effectively when opposed by a group which holds the means as sacred and would rather not focus on the ends.
-Notes You can play this as keeping your integrity, the Democrats seizing the moral high ground....</p>
+<p>An implementation of Bubble sort in Python.
+from typing import List def bubble_sort(ints: List[int]) -> List[int]: def do_pass() -> bool: sorted = True for i in range(len(ints)-1): if ints[i] > ints[i + 1]: sorted = False swap(i, i+1) return sorted def swap(indexA: int, indexB: int) -> None: valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA sorted = False while not sorted: sorted = do_pass() return ints return bubble_sort([10, 5, 4, 40]) </p>
 </div>
-<footer class=entry-footer><span title="2022-06-26 08:11:00 -0700 -0700">2022-06-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:40:33 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;4 min</footer>
-<a class=entry-link aria-label="post link to Ian Danskin | You Go High, We Go Low" href=http://cashpw.com/posts/f39cbb1c-8265-4f3e-9a99-632132ade597/></a>
+<footer class=entry-footer><span title="2022-06-30 10:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:50:33 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Bubble sort implementation in Python" href=http://cashpw.com/posts/af832252-c4a9-4364-bdef-59c1a8ea6ebe/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>You're getting so abstract
+<h2>Bubble sort
 </h2>
 </header>
 <div class=entry-content>
-<p>You start out in 1954 by saying, “Nigger, nigger, nigger.” By 1968 you can’t say “nigger”—that hurts you, backfires. So you say stuff like, uh, forced busing, states' rights, and all that stuff, and you’re getting so abstract. Now, you’re talking about cutting taxes, and all these things you’re talking about are totally economic things and a byproduct of them is, blacks get hurt worse than whites.… “We want to cut this,” is much more abstract than even the busing thing, uh, and a hell of a lot more abstract than “Nigger, nigger....</p>
+<p>Bubble sort, sometimes referred to as sinking sort, is a simple Sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+[links added]
+(“Bubble Sort” 2022)
+Bubble sort is stable.
+Algorithm while list is not sorted do for i in range(len(list) - 1) do if list[i] > list[i+1] do swap(i, i+1) Implementation Bubble sort implementation in Python Complexity Worst-case Best-case Time \(O(n^2)\) \(O(n)\) Space \(O(n)\) \(O(n)\) References ....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-25 20:22:00 -0700 -0700">2022-06-25</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:41:18 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to You're getting so abstract" href=http://cashpw.com/posts/71cd6338-d389-4406-8847-1cbfb2bbb9dc/></a>
+<footer class=entry-footer><span title="2022-06-30 10:47:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:50:30 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Bubble sort" href=http://cashpw.com/posts/c6bc266e-1090-492f-bdba-f044e04db3ff/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Ian Danskin | The Death of a Euphemism
+<h2>Sorting algorithm
 </h2>
 </header>
 <div class=entry-content>
-<p>Ian Danskin, (Danskin 2018)
-This is an entry in the Alt-right Playbook.
-Summary Politicians only let a euphemism die when they don’t need it anymore.
-[…]
-To the Far Right, a euphemism is like a calf: something to be brought into this world or inherited, removed from its original context, raised to adolescence, and then slaughtered when the time is right. Historically, the first sign that things are about to get a lot worse for minorities is when the racism stops being euphemistic....</p>
+<p></p>
 </div>
-<footer class=entry-footer><span title="2022-06-25 20:19:00 -0700 -0700">2022-06-25</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:39:16 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;4 min</footer>
-<a class=entry-link aria-label="post link to Ian Danskin | The Death of a Euphemism" href=http://cashpw.com/posts/42c2aa22-7172-4a1e-a707-e3dc0f3c2684/></a>
+<footer class=entry-footer><span title="2022-06-30 10:46:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:21:33 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;0 min</footer>
+<a class=entry-link aria-label="post link to Sorting algorithm" href=http://cashpw.com/posts/093fae33-1843-4271-b7cd-336553b9aac9/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Ian Danskin | The Ship of Theseus
+<h2>Effective Anki
 </h2>
 </header>
 <div class=entry-content>
-<p>Ian Danskin, (Danskin 2018)
-This is an entry in the Alt-right Playbook.
-Summary How many words can you change in an argument until it’s not the same argument anymore?
-Notes Imagine you’re bouncing around Twitter - a damn fool thing to do, but who am I to judge? - and you come across someone claiming “[Public Figure X] doxxed me.”
-You’re thinking, “Oh no, I’m a fan of Public Figure X!...</p>
+<p>My recommendations for effective use of Anki.
+Decks Use a single deck Deck options TODO: Find a source for these points. I discovered and implemented them before I started writing things down.
+New cards Steps In minutes: 15, 2160, 10080, 40320 New Cards Steps In minutes (for android): 15, 2160, 10080, 40320 (eshapard n.d.) For desktop Anki: 15m , 36h, 7d, 28d References ....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-25 20:03:00 -0700 -0700">2022-06-25</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:40:19 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;5 min</footer>
-<a class=entry-link aria-label="post link to Ian Danskin | The Ship of Theseus" href=http://cashpw.com/posts/309082e8-abb5-4fdf-9944-fc63d8a8197e/></a>
+<footer class=entry-footer><span title="2022-06-30 08:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:44:03 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Effective Anki" href=http://cashpw.com/posts/047c30fb-6d35-428f-a4d3-e4fd7497c621/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Bob Altemeyer | The Authoritarians
+<h2>Convolution
 </h2>
 </header>
 <div class=entry-content>
-<p>Robert Altemeyer, (Altemeyer, n.d.)
-Summary Thoughts Notes […] authoritarian followers place “being normal” substantially higher than most people do.
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}Altemeyer, Bob. n.d. The Authoritarians. http://theauthoritarians.org. </p>
+<p>References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
 </div>
-<footer class=entry-footer><span title="2022-06-25 19:12:00 -0700 -0700">2022-06-25</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:26:44 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Bob Altemeyer | The Authoritarians" href=http://cashpw.com/posts/9e3242c4-62f4-4863-8368-8a4b160c1e76/></a>
+<footer class=entry-footer><span title="2022-06-29 19:31:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:52:15 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Convolution" href=http://cashpw.com/posts/4a246de2-16ae-4fa6-abaa-7cfb533eccdb/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Robert Altemeyer
+<h2>Edge
 </h2>
 </header>
 <div class=entry-content>
-<p>Among other things:
-:noexport: </p>
+<p>An edge is a connection between two or more Vertices.
+References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
 </div>
-<footer class=entry-footer><span title="2022-06-25 19:12:00 -0700 -0700">2022-06-25</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 16:16:04 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Robert Altemeyer" href=http://cashpw.com/posts/bfdb06f3-7e93-4ef6-b28d-939931edfcb4/></a>
+<footer class=entry-footer><span title="2022-06-29 19:15:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:55:29 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Edge" href=http://cashpw.com/posts/7211246e-d3da-491e-a493-e84ba820e63f/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Ian Danskin | Mainstreaming
+<h2>Vertex
 </h2>
 </header>
 <div class=entry-content>
-<p>Ian Danskin, (Danskin 2018)
-This is an entry in the Alt-right Playbook.
-Summary Mainstreaming is the game of moving a concept from fringe to normal. It’s like a hammer in that a hammer is morally neutral and acquires a moral balance through use.
-Thoughts Notes […] two of the most powerful tools for making any marginalized group less marginalized are Language and Visibility.
-[…]
-[…] as a fringe group becomes more visible, and their language becomes commonplace, their presence in society starts to seem normal....</p>
+<p>In mathematics, and more specifically in graph theory, a vertex (plural vertices) or node is the fundamental unit of which Graph are formed: an undirected graph consists of a set of vertices and a set of Edges (unordered pairs of vertices), while a directed graph consists of a set of vertices and a set of arcs (ordered pairs of vertices).
+(“Vertex (Graph Theory)” 2022)
+References .csl-entry{text-indent: -1.5em; margin-left: 1....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-25 18:55:00 -0700 -0700">2022-06-25</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:39:51 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;5 min</footer>
-<a class=entry-link aria-label="post link to Ian Danskin | Mainstreaming" href=http://cashpw.com/posts/de73d179-937a-4d95-9c1b-0ea865d0e469/></a>
+<footer class=entry-footer><span title="2022-06-29 19:13:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:39:26 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Vertex" href=http://cashpw.com/posts/1b2526af-676d-4c0f-aa85-1ba05b8e7a93/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Dog whistle
+<h2>Adjacency list
 </h2>
 </header>
 <div class=entry-content>
-<p>[…] the use of coded or suggestive language in political messaging to garner support from a particular group without provoking opposition. […] Dog whistles use language that appears normal to the majority but communicates specific things to intended audiences. They are generally used to convey messages on issues likely to provoke controversy without attracting negative attention.
-(“Dog Whistle (Politics)” 2022)
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Dog Whistle (Politics).” 2022. Wikipedia, June....</p>
+<p>In graph theory and computer science, an adjacency list is a collection of unordered lists used to represent a finite graph.
+(“Adjacency List” 2022)
+The above graph can be represented as the set \(S\) which contains \(\{B,C\}\), \(\{A,C\}\), \(\{B,A\}\).
+Vertices Edges A B, C B A, C C A, B References .csl-entry{text-indent: -1....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-25 18:26:00 -0700 -0700">2022-06-25</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:42:55 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Dog whistle" href=http://cashpw.com/posts/fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff/></a>
+<footer class=entry-footer><span title="2022-06-29 19:07:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:47:36 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Adjacency list" href=http://cashpw.com/posts/a95ec6df-303d-4a07-a9bd-ac6e4b807679/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

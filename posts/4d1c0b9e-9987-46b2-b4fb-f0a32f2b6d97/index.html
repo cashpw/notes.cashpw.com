@@ -5,12 +5,12 @@
 <meta name=robots content="index, follow">
 <title>Heap property | Cash Prokop-Weaver</title>
 <meta name=keywords content="concept,concept">
-<meta name=description content="Min heap  [&mldr;] for any given node C, if P is a parent node of C, then [&mldr;] the key of P is less than or equal to the key of C.
+<meta name=description content="Min heap property  [&mldr;] for any given node C, if P is a parent node of C, then [&mldr;] the key of P is less than or equal to the key of C.
  \(P \le C \;\forall\; C \;|\; P\;\text{is parent of}\;C\)
-Max heap  [&mldr;] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C">
+Max heap property  [&mldr;] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C">
 <meta name=author content>
 <link rel=canonical href=http://cashpw.com/posts/4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.da22893222dd6a8eeafc02a8fd1e5a1701c6ff63e2e6abdbb9208d8a7cd7625a.css integrity="sha256-2iKJMiLdao7q/AKo/R5aFwHG/2Pi5qvbuSCNinzXYlo=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.942078f84ce240b200662d5ef5b97675e20b946b8a08ac3f52bbe60773208337.css integrity="sha256-lCB4+EziQLIAZi1e9bl2deILlGuKCKw/UrvmB3Mggzc=" rel="preload stylesheet" as=style>
 <script defer crossorigin=anonymous src=/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5+kdJvBz5iKbt6B5PJI=" onload=hljs.initHighlightingOnLoad()></script>
 <link rel=icon href=http://cashpw.com/favicon.ico>
 <link rel=icon type=image/png sizes=16x16 href=http://cashpw.com/favicon-16x16.png>
@@ -27,20 +27,20 @@ Max heap  [&mldr;] for any given node C, if P is a parent node of C, then the ke
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
 <meta property="og:title" content="Heap property">
-<meta property="og:description" content="Min heap  [&mldr;] for any given node C, if P is a parent node of C, then [&mldr;] the key of P is less than or equal to the key of C.
+<meta property="og:description" content="Min heap property  [&mldr;] for any given node C, if P is a parent node of C, then [&mldr;] the key of P is less than or equal to the key of C.
  \(P \le C \;\forall\; C \;|\; P\;\text{is parent of}\;C\)
-Max heap  [&mldr;] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C">
+Max heap property  [&mldr;] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://cashpw.com/posts/4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97/"><meta property="article:section" content="posts">
 <meta property="article:published_time" content="2022-06-28T15:09:00-07:00">
-<meta property="article:modified_time" content="2022-09-05T15:51:52-07:00">
+<meta property="article:modified_time" content="2022-11-04T14:59:55-07:00">
 <meta name=twitter:card content="summary">
 <meta name=twitter:title content="Heap property">
-<meta name=twitter:description content="Min heap  [&mldr;] for any given node C, if P is a parent node of C, then [&mldr;] the key of P is less than or equal to the key of C.
+<meta name=twitter:description content="Min heap property  [&mldr;] for any given node C, if P is a parent node of C, then [&mldr;] the key of P is less than or equal to the key of C.
  \(P \le C \;\forall\; C \;|\; P\;\text{is parent of}\;C\)
-Max heap  [&mldr;] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C">
+Max heap property  [&mldr;] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://cashpw.com/posts/"},{"@type":"ListItem","position":2,"name":"Heap property","item":"http://cashpw.com/posts/4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Heap property","name":"Heap property","description":"Min heap  [\u0026hellip;] for any given node C, if P is a parent node of C, then [\u0026hellip;] the key of P is less than or equal to the key of C.\n \\(P \\le C \\;\\forall\\; C \\;|\\; P\\;\\text{is parent of}\\;C\\)\nMax heap  [\u0026hellip;] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C","keywords":["concept","concept"],"articleBody":"Min heap  […] for any given node C, if P is a parent node of C, then […] the key of P is less than or equal to the key of C.\n \\(P \\le C \\;\\forall\\; C \\;|\\; P\\;\\text{is parent of}\\;C\\)\nMax heap  […] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C\n(“Heap (Data Structure)” 2022)\n \\(P \\ge C \\;\\forall\\; C \\;|\\; P\\;\\text{is parent of}\\;C\\)\n","wordCount":"87","inLanguage":"en","datePublished":"2022-06-28T15:09:00-07:00","dateModified":"2022-09-05T15:51:52-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashpw.com/posts/4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://cashpw.com/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Heap property","name":"Heap property","description":"Min heap property  [\u0026hellip;] for any given node C, if P is a parent node of C, then [\u0026hellip;] the key of P is less than or equal to the key of C.\n \\(P \\le C \\;\\forall\\; C \\;|\\; P\\;\\text{is parent of}\\;C\\)\nMax heap property  [\u0026hellip;] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C","keywords":["concept","concept"],"articleBody":"Min heap property  […] for any given node C, if P is a parent node of C, then […] the key of P is less than or equal to the key of C.\n \\(P \\le C \\;\\forall\\; C \\;|\\; P\\;\\text{is parent of}\\;C\\)\nMax heap property  […] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C\n(“Heap (Data Structure)” 2022)\n \\(P \\ge C \\;\\forall\\; C \\;|\\; P\\;\\text{is parent of}\\;C\\)\nReferences .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Heap (Data Structure).” 2022. Wikipedia, May. https://en.wikipedia.org/w/index.php?title=Heap_(data_structure)\u0026oldid=1088468512.  ","wordCount":"100","inLanguage":"en","datePublished":"2022-06-28T15:09:00-07:00","dateModified":"2022-11-04T14:59:55-07:00","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashpw.com/posts/4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://cashpw.com/favicon.ico"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -78,7 +78,7 @@ Max heap  [&mldr;] for any given node C, if P is a parent node of C, then the ke
 <h1 class=post-title>
 Heap property
 </h1>
-<div class=post-meta><span title="2022-06-28 15:09:00 -0700 -0700">2022-06-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:51:52 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min
+<div class=post-meta><span title="2022-06-28 15:09:00 -0700 -0700">2022-06-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:59:55 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min
 </div>
 <div class=post-meta><a href=https://github.com/cashpw/notes/edit/main/heap_property.org rel="noopener noreferrer" target=_blank>Suggest Changes</a>
 </div>
@@ -92,31 +92,38 @@ Heap property
 </summary>
 <div class=inner><ul>
 <li>
-<a href=#min-heap aria-label="Min heap">Min heap</a></li>
+<a href=#min-heap-property aria-label="Min heap property">Min heap property</a></li>
 <li>
-<a href=#max-heap aria-label="Max heap">Max heap</a>
+<a href=#max-heap-property aria-label="Max heap property">Max heap property</a></li>
+<li>
+<a href=#references aria-label=References>References</a>
 </li>
 </ul>
 </div>
 </details>
 </div>
 <div class=post-content>
-<h2 id=min-heap>Min heap<a hidden class=anchor aria-hidden=true href=#min-heap>#</a></h2>
+<h2 id=min-heap-property>Min heap property<a hidden class=anchor aria-hidden=true href=#min-heap-property>#</a></h2>
 <blockquote>
 <p>[&mldr;] for any given node C, if P is a parent node of C, then [&mldr;] the key of P is less than or equal to the key of C.</p>
 </blockquote>
 <p>\(P \le C \;\forall\; C \;|\; P\;\text{is parent of}\;C\)</p>
-<h2 id=max-heap>Max heap<a hidden class=anchor aria-hidden=true href=#max-heap>#</a></h2>
+<h2 id=max-heap-property>Max heap property<a hidden class=anchor aria-hidden=true href=#max-heap-property>#</a></h2>
 <blockquote>
 <p>[&mldr;] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C</p>
-<p>(“Heap (Data Structure)” 2022)</p>
+<p>(<a href=#citeproc_bib_item_1>“Heap (Data Structure)” 2022</a>)</p>
 </blockquote>
 <p>\(P \ge C \;\forall\; C \;|\; P\;\text{is parent of}\;C\)</p>
+<h2 id=references>References<a hidden class=anchor aria-hidden=true href=#references>#</a></h2>
+<style>.csl-entry{text-indent:-1.5em;margin-left:1.5em}</style><div class=csl-bib-body>
+<div class=csl-entry><a id=citeproc_bib_item_1></a>“Heap (Data Structure).” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Heap_(data_structure)&oldid=1088468512">https://en.wikipedia.org/w/index.php?title=Heap_(data_structure)&oldid=1088468512</a>.</div>
+</div>
 <div class=bl-section>
 <hr>
 <h4>Backlinks</h4>
 <div class=backlinks>
 <ul>
+<li><a href=/posts/cf64c166-6ad5-4dd7-88c6-155a320a7ea3/>Heapsort</a></li>
 <li><a href=/posts/a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad/>Binary heap</a></li>
 <li><a href=/posts/70cbebc9-8936-4d52-885a-76d747c6577f/>Heap</a></li>
 </ul>
