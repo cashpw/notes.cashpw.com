@@ -2,7 +2,7 @@
 title = "Plastic clay"
 author = ["Cash Weaver"]
 date = 2022-08-23T08:57:00-07:00
-lastmod = 2022-09-05T16:09:19-07:00
+lastmod = 2022-11-04T15:12:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

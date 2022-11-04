@@ -2,7 +2,7 @@
 title = "Albert Camus, Justin O'Brien | The Myth of Sisyphus and Other Essays"
 author = ["Cash Weaver"]
 date = 2022-06-21T12:32:00-07:00
-lastmod = 2022-09-05T15:33:39-07:00
+lastmod = 2022-11-04T14:50:40-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

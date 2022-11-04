@@ -2,7 +2,7 @@
 title = "E.B. White"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:31:00-08:00
-lastmod = 2022-09-05T15:43:41-07:00
+lastmod = 2022-11-04T14:55:22-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

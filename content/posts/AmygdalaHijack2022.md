@@ -2,7 +2,7 @@
 title = "Amygdala Hijack"
 author = ["Cash Weaver"]
 date = 2022-06-21T09:56:00-07:00
-lastmod = 2022-09-05T15:20:15-07:00
+lastmod = 2022-11-04T14:46:42-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

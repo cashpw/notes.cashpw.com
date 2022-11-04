@@ -2,7 +2,7 @@
 title = "Queue"
 author = ["Cash Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2022-09-05T16:11:50-07:00
+lastmod = 2022-11-04T15:14:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ A queue is an [Abstract data type]({{< relref "abstract_data_type.md" >}}).
 >
 > [...]
 >
-> The operations of a queue make it a first-in-first-out (FIFO) data structure. In a FIFO data structure, the first element added to the queue will be the first one to be removed. [...] Common implementations are circular buffers and linked lists.
+> The operations of a queue make it a [[First in, first out]({{< relref "first_in_first_out.md" >}})] ([FIFO]({{< relref "first_in_first_out.md" >}})) data structure. In a [FIFO]({{< relref "first_in_first_out.md" >}}) data structure, the first element added to the queue will be the first one to be removed. [...] Common implementations are circular buffers and linked lists.
 >
 > (<a href="#citeproc_bib_item_1">“Queue (Abstract Data Type)” 2022</a>)
 

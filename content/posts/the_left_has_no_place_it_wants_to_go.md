@@ -2,7 +2,7 @@
 title = "The left has no place it wants to go"
 author = ["Cash Weaver"]
 date = 2022-07-07T19:01:00-07:00
-lastmod = 2022-09-05T16:29:45-07:00
+lastmod = 2022-11-04T15:29:23-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

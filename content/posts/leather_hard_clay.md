@@ -2,7 +2,7 @@
 title = "Leather-hard"
 author = ["Cash Weaver"]
 date = 2022-08-23T08:48:00-07:00
-lastmod = 2022-09-05T15:58:28-07:00
+lastmod = 2022-11-04T15:05:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

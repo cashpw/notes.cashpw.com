@@ -4,11 +4,11 @@ title = """
   """
 author = ["Cash Weaver"]
 date = 2022-02-06T16:00:00-08:00
-lastmod = 2022-09-05T16:04:13-07:00
+lastmod = 2022-11-04T15:09:14-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-slug = "86dde162-154f-49fb-98a9-41dddcf60ecb"
+roam_refs = ["https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/"]
 +++
 
 [Dan Moore]({{< relref "dan_moore.md" >}}), (<a href="#citeproc_bib_item_1">Moores 2019</a>)

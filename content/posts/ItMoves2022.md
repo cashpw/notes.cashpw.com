@@ -2,7 +2,7 @@
 title = "Wikipedia | And Yet It Moves"
 author = ["Cash Weaver"]
 date = 2022-02-18T16:30:00-08:00
-lastmod = 2022-09-05T15:21:44-07:00
+lastmod = 2022-11-04T14:47:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

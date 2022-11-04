@@ -2,7 +2,7 @@
 title = "Quicksort"
 author = ["Cash Weaver"]
 date = 2022-06-30T13:45:00-07:00
-lastmod = 2022-09-05T16:13:01-07:00
+lastmod = 2022-11-04T15:15:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,10 +54,10 @@ procedure partition(lowIndex, highIndex, list) is
 
 ## Complexity {#complexity}
 
-|       | Worst-case   | Best-case                        |
-|-------|--------------|----------------------------------|
-| Time  | \\(O(n^2)\\) | \\(O(n \operatorname{log}(n))\\) |
-| Space | \\(O(n)\\)   | \\(O(n)\\)                       |
+|       | Worst-case       | Average-case          | Best-case                            |
+|-------|------------------|-----------------------|--------------------------------------|
+| Time  | \\(\bigo{n^2}\\) | \\(\bigo{n \log n}\\) | \\(\bigo{n \operatorname{log}(n)}\\) |
+| Space | \\(\bigo{n}\\)   |                       | \\(\bigo{n}\\)                       |
 
 ## References
 

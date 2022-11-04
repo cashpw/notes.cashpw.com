@@ -1,8 +1,8 @@
 +++
-title = "Tacit Knowledge"
+title = "Tacit knowledge"
 author = ["Cash Weaver"]
 date = 2022-01-30T13:17:00-08:00
-lastmod = 2022-09-05T16:26:04-07:00
+lastmod = 2022-11-04T15:26:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

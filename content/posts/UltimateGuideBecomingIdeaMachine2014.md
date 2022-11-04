@@ -2,7 +2,7 @@
 title = "James Altucher | The Ultimate Guide for Becoming an Idea Machine"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:16:00-08:00
-lastmod = 2022-09-05T15:22:55-07:00
+lastmod = 2022-11-04T14:47:20-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

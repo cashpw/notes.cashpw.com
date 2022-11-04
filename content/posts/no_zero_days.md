@@ -2,7 +2,7 @@
 title = "No Zero Days"
 author = ["Cash Weaver"]
 date = 2022-02-12T08:30:00-08:00
-lastmod = 2022-09-05T16:06:17-07:00
+lastmod = 2022-11-04T15:10:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

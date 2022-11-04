@@ -2,7 +2,7 @@
 title = "README"
 author = ["Cash Weaver"]
 date = 2021-12-27T20:32:00-08:00
-lastmod = 2022-09-05T16:14:18-07:00
+lastmod = 2022-11-04T15:15:58-07:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false

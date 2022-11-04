@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2022-09-05T22:54:35-07:00
+lastmod = 2022-11-04T15:24:59-07:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -63,7 +63,7 @@ Every quote should contain an attribution unless it meets one of the following c
 
 > I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a theory of change.
 >
-> [Aaron Swartz]({{< relref "aaron_swartz.md" >}}), (<a href="#citeproc_bib_item_2">Swartz 2010</a>)
+> [Aaron Swartz]({{< relref "aaron_swartz.md" >}}), (<a href="#citeproc_bib_item_3">Swartz 2010</a>)
 
 <!--quoteend-->
 
@@ -80,7 +80,7 @@ Every quote should contain an attribution unless it meets one of the following c
 
 ### Large quotes are okay {#large-quotes-are-okay}
 
-There isn't a hard rule on how much quoting is too much. Large quotes [have their benefits]({{< relref "griffes.md" >}}).
+There isn't a hard rule on how much quoting is too much. Large quotes [have their benefits]({{< relref "griffes.md" >}}) and are simple to capture using (<a href="#citeproc_bib_item_2">Porter 2022</a>) bookmarklets.
 
 
 ### Nodes can just be a quote {#nodes-can-just-be-a-quote}
@@ -108,5 +108,6 @@ Backlinks are the backbone of a powerful [zettelkasten]({{< relref "Zettelkasten
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Porter, Adam. 2022. “Org-Protocol-Capture-Html.” <a href="https://github.com/alphapapa/org-protocol-capture-html">https://github.com/alphapapa/org-protocol-capture-html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
 </div>

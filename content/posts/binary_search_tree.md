@@ -2,7 +2,7 @@
 title = "Binary search tree"
 author = ["Cash Weaver"]
 date = 2022-07-23T16:43:00-07:00
-lastmod = 2022-09-05T15:31:01-07:00
+lastmod = 2022-11-04T14:49:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,8 +22,6 @@ slug = "dc929031-e15a-4566-a7bd-7331768ee02f"
 | Search | \\(\bigo{\log n}\\) | \\(\bigo{n}\\) |
 | Insert | \\(\bigo{\log n}\\) | \\(\bigo{n}\\) |
 | Delete | \\(\bigo{\log n}\\) | \\(\bigo{n}\\) |
-
-:ANKI_NOTE_TYPE: Cloze with Source
 
 ## References
 

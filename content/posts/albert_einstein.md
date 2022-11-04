@@ -2,7 +2,7 @@
 title = "Albert Einstein"
 author = ["Cash Weaver"]
 date = 2022-02-11T20:10:00-08:00
-lastmod = 2022-09-05T15:24:28-07:00
+lastmod = 2022-11-04T14:47:45-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Narrative book"
 author = ["Cash Weaver"]
 date = 2022-07-17T09:49:00-07:00
-lastmod = 2022-09-05T16:04:45-07:00
+lastmod = 2022-11-04T15:09:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

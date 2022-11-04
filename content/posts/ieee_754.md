@@ -2,7 +2,7 @@
 title = "IEEE 754"
 author = ["Cash Weaver"]
 date = 2022-07-24T10:52:00-07:00
-lastmod = 2022-09-05T15:54:08-07:00
+lastmod = 2022-11-04T15:01:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

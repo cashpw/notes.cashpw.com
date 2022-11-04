@@ -2,7 +2,7 @@
 title = "moridinamael | The Monthly Newsletter as Thinking Tool"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:19:00-08:00
-lastmod = 2022-09-05T16:04:23-07:00
+lastmod = 2022-11-04T15:09:20-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

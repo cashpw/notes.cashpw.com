@@ -2,7 +2,7 @@
 title = "Scott Alexander | Socratic Grilling"
 author = ["Cash Weaver"]
 date = 2022-02-07T07:03:00-08:00
-lastmod = 2022-09-05T15:25:36-07:00
+lastmod = 2022-11-04T14:48:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

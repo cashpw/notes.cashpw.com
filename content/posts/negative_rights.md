@@ -2,7 +2,7 @@
 title = "Negative rights"
 author = ["Cash Weaver"]
 date = 2022-07-23T09:46:00-07:00
-lastmod = 2022-09-05T16:04:59-07:00
+lastmod = 2022-11-04T15:09:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

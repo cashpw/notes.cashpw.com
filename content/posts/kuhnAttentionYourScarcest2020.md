@@ -2,13 +2,13 @@
 title = "Ben Kuhn | Attention Is Your Scarcest Resource"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:31:00-08:00
-lastmod = 2022-09-05T15:57:31-07:00
+lastmod = 2022-11-04T15:04:33-07:00
 tags = ["reference"]
 draft = false
 slug = "4625d068-26fe-47d7-93b3-da12b0151ca1"
 +++
 
-[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn 2020</a>)
+[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), [<@kuhnAttentionYourScarcestResource2022-01-01T13:00:00Z> |
 
 
 ## Summary {#summary}
@@ -42,5 +42,4 @@ slug = "4625d068-26fe-47d7-93b3-da12b0151ca1"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Attention Is Your Scarcest Resource.” <a href="https://www.benkuhn.net/attention/">https://www.benkuhn.net/attention/</a>.</div>
 </div>

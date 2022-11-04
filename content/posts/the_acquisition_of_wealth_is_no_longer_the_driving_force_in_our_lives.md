@@ -2,7 +2,7 @@
 title = "The acquisition of wealth is no longer the driving force in our lives"
 author = ["Cash Weaver"]
 date = 2022-07-21T10:30:00-07:00
-lastmod = 2022-09-05T16:27:48-07:00
+lastmod = 2022-11-04T15:27:54-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

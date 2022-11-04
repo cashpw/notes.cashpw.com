@@ -2,7 +2,7 @@
 title = "The Onion | `No Way To Prevent This,' Says Only Nation Where This Regularly Happens"
 author = ["Cash Weaver"]
 date = 2022-03-31T14:31:00-07:00
-lastmod = 2022-09-05T15:22:13-07:00
+lastmod = 2022-11-04T14:47:08-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

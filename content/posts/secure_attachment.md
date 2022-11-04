@@ -2,7 +2,7 @@
 title = "Secure attachment"
 author = ["Cash Weaver"]
 date = 2022-06-26T11:35:00-07:00
-lastmod = 2022-09-05T16:17:23-07:00
+lastmod = 2022-11-04T15:18:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,4 +13,10 @@ An [attachment]({{< relref "attachment_theory.md" >}}) pattern in which the chil
 
 > A toddler who is securely attached to his or her parent (or other familiar caregiver) will explore freely while the caregiver is present, typically engages with strangers, is often visibly upset when the caregiver departs, and is generally happy to see the caregiver return. The extent of exploration and of distress are affected, however, by the child's temperamental make-up and by situational factors as well as by attachment status. A child's attachment is largely influenced by their primary caregiver's sensitivity to their needs. Parents who consistently (or almost always) respond to their child's needs will create securely attached children. Such children are certain that their parents will be responsive to their needs and communications.
 >
-> (“Attachment Theory” 2022)
+> (<a href="#citeproc_bib_item_1">“Attachment Theory” 2022</a>)
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attachment Theory.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Attachment_theory&oldid=1094457033">https://en.wikipedia.org/w/index.php?title=Attachment_theory&#38;oldid=1094457033</a>.</div>
+</div>

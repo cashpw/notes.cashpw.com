@@ -2,7 +2,7 @@
 title = "Wikipedia | Serenity Prayer"
 author = ["Cash Weaver"]
 date = 2022-02-17T07:20:00-08:00
-lastmod = 2022-09-05T15:22:29-07:00
+lastmod = 2022-11-04T14:47:13-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

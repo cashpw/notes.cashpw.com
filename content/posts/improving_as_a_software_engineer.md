@@ -2,7 +2,7 @@
 title = "Improving as a Software Engineer"
 author = ["Cash Weaver"]
 date = 2022-01-29T14:08:00-08:00
-lastmod = 2022-09-05T15:54:40-07:00
+lastmod = 2022-11-04T15:02:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = true

@@ -2,7 +2,7 @@
 title = "Stable sorting algorithm"
 author = ["Cash Weaver"]
 date = 2022-07-01T11:08:00-07:00
-lastmod = 2022-09-06T09:10:28-07:00
+lastmod = 2022-11-04T15:22:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,9 +13,9 @@ slug = "740ce42a-3a80-4ecb-9438-fedff074443b"
 >
 > (<a href="#citeproc_bib_item_1">“Sorting Algorithm” 2022</a>)
 
-```text
-stable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')])
-> [(3, 'c'), (8, 'b'), (8, 'd'), (10, 'a')])
+```python
+>>> stable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')])
+[(3, 'c'), (8, 'b'), (8, 'd'), (10, 'a')])
 ```
 
 ## References

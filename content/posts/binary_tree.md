@@ -2,7 +2,7 @@
 title = "Binary tree"
 author = ["Cash Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-09-05T15:31:32-07:00
+lastmod = 2022-11-04T14:49:50-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,6 @@ slug = "323bf406-41e6-4e5f-9be6-689e1055b118"
 
 
 ## Implementation {#implementation}
-
--   [Binary tree implementation in java]({{< relref "binary_tree_implementation_in_java.md" >}})
 
 
 ## Representations {#representations}

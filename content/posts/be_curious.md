@@ -2,7 +2,7 @@
 title = "Be curious"
 author = ["Cash Weaver"]
 date = 2022-07-21T16:39:00-07:00
-lastmod = 2022-09-05T15:29:35-07:00
+lastmod = 2022-11-04T14:49:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

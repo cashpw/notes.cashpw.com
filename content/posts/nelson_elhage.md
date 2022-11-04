@@ -2,7 +2,7 @@
 title = "Nelson Elhage"
 author = ["Cash Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2022-09-05T16:05:05-07:00
+lastmod = 2022-11-04T15:09:40-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

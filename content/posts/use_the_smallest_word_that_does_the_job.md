@@ -2,7 +2,7 @@
 title = "Use The Smallest Word That Does The Job"
 author = ["Cash Weaver"]
 date = 2022-01-17T11:33:00-08:00
-lastmod = 2022-09-05T16:38:28-07:00
+lastmod = 2022-11-04T15:38:20-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Alexey Nikitin | My least favorite Git commit"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:31:00-08:00
-lastmod = 2022-09-05T16:05:53-07:00
+lastmod = 2022-11-04T15:10:10-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

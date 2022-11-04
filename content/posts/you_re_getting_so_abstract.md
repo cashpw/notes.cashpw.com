@@ -2,7 +2,7 @@
 title = "You're getting so abstract"
 author = ["Cash Weaver"]
 date = 2022-06-25T20:22:00-07:00
-lastmod = 2022-09-05T16:41:18-07:00
+lastmod = 2022-11-04T15:41:26-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

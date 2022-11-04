@@ -2,7 +2,7 @@
 title = "Paradox of Tolerance"
 author = ["Cash Weaver"]
 date = 2022-02-15T09:25:00-08:00
-lastmod = 2022-09-05T15:22:22-07:00
+lastmod = 2022-11-04T14:47:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Dark forest theory"
 author = ["Cash Weaver"]
 date = 2022-06-26T14:09:00-07:00
-lastmod = 2022-09-05T15:40:38-07:00
+lastmod = 2022-11-04T14:53:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

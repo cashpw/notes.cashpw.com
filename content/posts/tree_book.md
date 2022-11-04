@@ -2,7 +2,7 @@
 title = "Tree book"
 author = ["Cash Weaver"]
 date = 2022-07-17T09:48:00-07:00
-lastmod = 2022-09-05T16:35:46-07:00
+lastmod = 2022-11-04T15:34:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

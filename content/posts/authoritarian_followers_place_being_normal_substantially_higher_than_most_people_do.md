@@ -4,7 +4,7 @@ title = """
   """
 author = ["Cash Weaver"]
 date = 2022-06-26T09:19:00-07:00
-lastmod = 2022-09-05T15:29:03-07:00
+lastmod = 2022-11-04T14:48:54-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

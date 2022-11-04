@@ -2,7 +2,7 @@
 title = "Robert Frost"
 author = ["Cash Weaver"]
 date = 2022-07-20T11:31:00-07:00
-lastmod = 2022-09-05T16:16:09-07:00
+lastmod = 2022-11-04T15:17:10-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

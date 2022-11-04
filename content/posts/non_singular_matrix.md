@@ -2,7 +2,7 @@
 title = "Non-singular matrix"
 author = ["Cash Weaver"]
 date = 2022-08-24T08:25:00-07:00
-lastmod = 2022-09-05T16:06:30-07:00
+lastmod = 2022-11-04T15:10:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

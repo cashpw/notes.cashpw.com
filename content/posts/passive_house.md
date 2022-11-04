@@ -2,7 +2,7 @@
 title = "Passive House"
 author = ["Cash Weaver"]
 date = 2022-01-29T16:52:00-08:00
-lastmod = 2022-09-05T16:07:33-07:00
+lastmod = 2022-11-04T15:11:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = true

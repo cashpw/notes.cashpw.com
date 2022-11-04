@@ -2,7 +2,7 @@
 title = "Neel Nanda"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:52:00-08:00
-lastmod = 2022-09-05T16:04:50-07:00
+lastmod = 2022-11-04T15:09:30-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

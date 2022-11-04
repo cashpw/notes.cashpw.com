@@ -2,7 +2,7 @@
 title = "Centering matrix"
 author = ["Cash Weaver"]
 date = 2022-08-17T09:48:00-07:00
-lastmod = 2022-09-05T15:34:16-07:00
+lastmod = 2022-11-04T14:50:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Global Minima"
 author = ["Cash Weaver"]
 date = 2022-03-14T07:40:00-07:00
-lastmod = 2022-09-05T15:49:06-07:00
+lastmod = 2022-11-04T14:58:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

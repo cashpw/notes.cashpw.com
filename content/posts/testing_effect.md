@@ -2,7 +2,7 @@
 title = "Testing Effect"
 author = ["Cash Weaver"]
 date = 2021-12-31T11:36:00-08:00
-lastmod = 2022-09-05T16:27:33-07:00
+lastmod = 2022-11-04T15:27:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

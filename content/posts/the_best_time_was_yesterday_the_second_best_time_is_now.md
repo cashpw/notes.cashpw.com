@@ -2,7 +2,7 @@
 title = "The Best Time Was Yesterday, The Second Best Time is Now"
 author = ["Cash Weaver"]
 date = 2022-03-20T15:25:00-07:00
-lastmod = 2022-09-05T16:27:56-07:00
+lastmod = 2022-11-04T15:27:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

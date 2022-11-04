@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Card Says Moops"
 author = ["Cash Weaver"]
 date = 2022-06-26T08:25:00-07:00
-lastmod = 2022-09-05T15:38:37-07:00
+lastmod = 2022-11-04T14:53:02-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -45,7 +45,7 @@ Performative irony (see [For the lulz]({{< relref "for_the_lulz.md" >}})) for th
 >
 > But, like Newtonian physics, this framing is lowercase-a accurate without being capital-T True.
 >
-> In reality, nihilism isn't that popular. People will tell you, "I don't care about anything, I just like triggering the libs," but why is it always libs? It is piss easy (and also hilarious) to upset conservatives, why only go after the SJWs? The easy answer is, well, if you upset a feminist, you might make her cry; if you upset a Nazi, he might stab you, and that has a cooling effect. But the more obvious answer is that they actually agree with the racist, MRA, and TERF talking points they repeat, but would rather not think about it.
+> [[Why is it always the libs?]({{< relref "why_is_it_always_the_libs.md" >}})]
 >
 > So much of conservative rhetoric is about maintaining ignorance of one's own beliefs. To uphold the institution of imperialist white supremacist capitalist patriarchy while thinking you are none of those things. (Well, OK, knowing you're a capitalist, but thinking it's a good thing.) Most people have a baseline of fairly conventional, kindergarten morality, and conservatism often clashes with it. You can rationalize these contradictions - "I'm not a bigot, I just believe in states' rights" - but, as American conservatism gets more radical, it gets harder to square one's politics with what one assumes to be one's beliefs. So you learn, when someone challenges you, to cycle through beliefs until something sticks, just play your hand and trust that you're right, or, in extreme cases, insist you have no beliefs at all, you're just here to watch the world burn.
 >

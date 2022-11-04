@@ -2,7 +2,7 @@
 title = "Man is wolf to man"
 author = ["Cash Weaver"]
 date = 2022-06-26T10:48:00-07:00
-lastmod = 2022-09-05T16:01:00-07:00
+lastmod = 2022-11-04T15:07:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

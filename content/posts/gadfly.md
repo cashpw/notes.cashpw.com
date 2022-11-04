@@ -2,7 +2,7 @@
 title = "Gadfly"
 author = ["Cash Weaver"]
 date = 2022-07-18T18:41:00-07:00
-lastmod = 2022-09-05T15:48:17-07:00
+lastmod = 2022-11-04T14:57:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

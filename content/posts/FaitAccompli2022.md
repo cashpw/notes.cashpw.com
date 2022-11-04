@@ -2,7 +2,7 @@
 title = "Wiktionary | Fait Accompli"
 author = ["Cash Weaver"]
 date = 2022-03-07T09:35:00-08:00
-lastmod = 2022-09-05T15:21:28-07:00
+lastmod = 2022-11-04T14:46:56-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

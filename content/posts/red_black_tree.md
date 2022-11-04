@@ -2,7 +2,7 @@
 title = "Red-black tree"
 author = ["Cash Weaver"]
 date = 2022-07-23T16:54:00-07:00
-lastmod = 2022-09-06T11:33:09-07:00
+lastmod = 2022-11-04T15:16:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -60,32 +60,19 @@ Insertion may invalidate one or more [Properties](#properties) of the [Red-black
 
 #### Cases {#cases}
 
-<!--list-separator-->
-
--  1: Parent is black
-
-    All [Properties](#properties) hold. No further work is necessary.
-
-<!--list-separator-->
-
--  2: Parent and uncle are both red
-
-    The third [Properties](#properties)
-
 
 #### Implementation {#implementation}
 
 ```python
-class red_black_tree():
-    def insert(key, value):
-        inserted_node = binary_tree_insert(key, value)
-        insert_fix(inserted_node)
+def insert(key, value):
+    inserted_node = binary_tree_insert(key, value, root)
+    insert_fix(inserted_node)
 
-    def binary_tree_insert(value):
-        pass
+def binary_tree_insert(value):
+    pass
 
-    def insert_fix(inserted_node):
-        pass
+def insert_fix(inserted_node):
+    pass
 ```
 
 

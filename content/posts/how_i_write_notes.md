@@ -2,7 +2,7 @@
 title = "How I Write Notes"
 author = ["Cash Weaver"]
 date = 2021-12-27T20:21:00-08:00
-lastmod = 2022-09-05T22:48:33-07:00
+lastmod = 2022-11-04T15:00:47-07:00
 draft = false
 slug = "5140bc26-825e-4e26-aec6-3738a5fe2ab1"
 +++

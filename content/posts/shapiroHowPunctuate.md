@@ -2,7 +2,7 @@
 title = "Julian Shapiro | How to Punctuate"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2022-09-05T16:18:19-07:00
+lastmod = 2022-11-04T15:19:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Surjective function"
 author = ["Cash Weaver"]
 date = 2022-08-20T06:43:00-07:00
-lastmod = 2022-09-05T16:25:04-07:00
+lastmod = 2022-11-04T15:25:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

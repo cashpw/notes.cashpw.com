@@ -2,7 +2,7 @@
 title = "Ian Danskin | You Go High, We Go Low"
 author = ["Cash Weaver"]
 date = 2022-06-26T08:11:00-07:00
-lastmod = 2022-09-05T15:40:33-07:00
+lastmod = 2022-11-04T14:53:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

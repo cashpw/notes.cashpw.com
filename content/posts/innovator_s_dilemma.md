@@ -2,7 +2,7 @@
 title = "Innovator's Dilemma"
 author = ["Cash Weaver"]
 date = 2022-03-16T19:44:00-07:00
-lastmod = 2022-09-05T15:54:54-07:00
+lastmod = 2022-11-04T15:02:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

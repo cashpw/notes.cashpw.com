@@ -2,7 +2,7 @@
 title = "A Man Grows Most Tired While Standing Still"
 author = ["Cash Weaver"]
 date = 2022-02-11T17:18:00-08:00
-lastmod = 2022-09-05T15:23:24-07:00
+lastmod = 2022-11-04T14:47:26-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

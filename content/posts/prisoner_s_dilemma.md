@@ -2,7 +2,7 @@
 title = "Prisoner's Dilemma"
 author = ["Cash Weaver"]
 date = 2022-03-14T07:01:00-07:00
-lastmod = 2022-09-05T16:10:58-07:00
+lastmod = 2022-11-04T15:13:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ An example of a [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}}).
 > | A stays silent | A: -1, B: -1   | A: -3, B: 0  |
 > | A betrays      | A: 0, B: -3    | A: -2, B: -2 |
 >
-> (<a href="#citeproc_bib_item_1">“Prisoner’s Dilemma” 2022</a>) (table formatting mine)
+> (<a href="#citeproc_bib_item_1">“Prisoner’s Dilemma” 2022</a>)
 
 ## References
 

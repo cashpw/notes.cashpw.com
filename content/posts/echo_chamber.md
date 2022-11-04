@@ -2,7 +2,7 @@
 title = "Echo Chamber"
 author = ["Cash Weaver"]
 date = 2022-03-12T07:26:00-08:00
-lastmod = 2022-09-05T15:43:47-07:00
+lastmod = 2022-11-04T14:55:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Stages of Problem Solving"
 author = ["Cash Weaver"]
 date = 2022-03-12T08:13:00-08:00
-lastmod = 2022-09-05T16:22:55-07:00
+lastmod = 2022-11-04T15:23:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

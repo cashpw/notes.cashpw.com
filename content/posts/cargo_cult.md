@@ -2,7 +2,7 @@
 title = "Cargo cult"
 author = ["Cash Weaver"]
 date = 2022-06-23T18:35:00-07:00
-lastmod = 2022-09-05T15:33:49-07:00
+lastmod = 2022-11-04T14:50:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

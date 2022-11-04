@@ -2,7 +2,7 @@
 title = "Pedagogy"
 author = ["Cash Weaver"]
 date = 2022-07-18T18:48:00-07:00
-lastmod = 2022-09-05T16:07:54-07:00
+lastmod = 2022-11-04T15:11:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

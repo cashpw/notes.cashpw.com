@@ -2,7 +2,7 @@
 title = "Joseph Gentle"
 author = ["Cash Weaver"]
 date = 2022-03-14T10:07:00-07:00
-lastmod = 2022-09-05T15:56:11-07:00
+lastmod = 2022-11-04T15:03:32-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

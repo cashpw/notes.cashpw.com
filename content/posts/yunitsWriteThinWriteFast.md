@@ -2,7 +2,7 @@
 title = "Breck Yunits | Write Thin to Write Fast"
 author = ["Cash Weaver"]
 date = 2022-02-07T08:20:00-08:00
-lastmod = 2022-09-05T16:41:53-07:00
+lastmod = 2022-11-04T15:41:55-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Shared working sessions"
 author = ["Cash Weaver"]
 date = 2022-03-20T14:42:00-07:00
-lastmod = 2022-09-05T16:18:26-07:00
+lastmod = 2022-11-04T15:19:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

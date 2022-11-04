@@ -2,7 +2,7 @@
 title = "Read Gmail in Emacs with notmuch and lieer"
 author = ["Cash Weaver"]
 date = 2021-12-27T19:56:00-08:00
-lastmod = 2022-09-05T16:13:57-07:00
+lastmod = 2022-11-04T15:15:44-07:00
 draft = false
 slug = "ada68d10-cec8-4af1-903d-29dfa71d2343"
 +++

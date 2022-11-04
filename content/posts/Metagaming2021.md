@@ -2,7 +2,7 @@
 title = "Wikipedia | Metagaming"
 author = ["Cash Weaver"]
 date = 2022-02-21T17:01:00-08:00
-lastmod = 2022-09-05T15:22:10-07:00
+lastmod = 2022-11-04T14:47:07-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

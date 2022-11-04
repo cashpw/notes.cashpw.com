@@ -2,7 +2,7 @@
 title = "Hacker News | Ask HN: What Was the Best Decision You Made in Your Career?"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:01:00-08:00
-lastmod = 2022-09-05T15:20:40-07:00
+lastmod = 2022-11-04T14:46:46-07:00
 tags = ["reference"]
 draft = false
 slug = "77775317-1503-46df-87bb-734d1b000c61"

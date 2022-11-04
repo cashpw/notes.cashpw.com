@@ -2,7 +2,7 @@
 title = "The Riddle of Strider"
 author = ["Cash Weaver"]
 date = 2022-07-20T11:22:00-07:00
-lastmod = 2022-09-05T16:30:32-07:00
+lastmod = 2022-11-04T15:30:03-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false

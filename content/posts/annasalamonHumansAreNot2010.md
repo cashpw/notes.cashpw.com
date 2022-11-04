@@ -2,7 +2,7 @@
 title = "Anna Salamon | Humans Are Not Automatically Strategic"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:45:00-08:00
-lastmod = 2022-09-05T15:27:23-07:00
+lastmod = 2022-11-04T14:48:22-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

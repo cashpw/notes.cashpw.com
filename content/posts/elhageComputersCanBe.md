@@ -2,7 +2,7 @@
 title = "Nelson Elhage | Computers Can Be Understood"
 author = ["Cash Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2022-09-05T15:44:33-07:00
+lastmod = 2022-11-04T14:55:41-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -14,7 +14,9 @@ slug = "19ba13d6-259f-4734-a1be-aaa5d51fcd16"
 
 ## Summary {#summary}
 
-A [Growth Mindset]({{< relref "growth_mindset.md" >}}) oriented approach based on the truth that computer systems are deterministic and can be understood in time that asserts that learning about such systems -- diving into the depths rather than letting systems remain [Black boxes]({{< relref "black_box.md" >}}) -- is worthwhile. Related: [Be curious]({{< relref "be_curious.md" >}}).
+A [Growth Mindset]({{< relref "growth_mindset.md" >}}) oriented approach based on the truth that computer systems are deterministic and can be understood in time that asserts that learning about such systems -- diving into the depths rather than letting systems remain [Black boxes]({{< relref "black_box.md" >}}) -- is worthwhile.
+
+Related: [Be curious]({{< relref "be_curious.md" >}}).
 
 
 ## Notes {#notes}

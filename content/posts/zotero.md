@@ -2,7 +2,7 @@
 title = "Zotero"
 author = ["Cash Weaver"]
 date = 2022-09-05T22:32:00-07:00
-lastmod = 2022-09-05T22:35:45-07:00
+lastmod = 2022-11-04T15:42:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

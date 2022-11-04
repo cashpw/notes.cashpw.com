@@ -2,7 +2,7 @@
 title = "Skills of a Senior Software Engineer"
 author = ["Cash Weaver"]
 date = 2022-02-21T15:20:00-08:00
-lastmod = 2022-09-05T16:20:11-07:00
+lastmod = 2022-11-04T15:20:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

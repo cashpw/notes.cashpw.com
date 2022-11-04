@@ -2,7 +2,7 @@
 title = "Paul Graham | When People Are Naturally Good at Something"
 author = ["Cash Weaver"]
 date = 2022-03-12T05:00:00-08:00
-lastmod = 2022-09-05T15:49:34-07:00
+lastmod = 2022-11-04T14:58:20-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

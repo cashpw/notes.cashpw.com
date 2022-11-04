@@ -2,7 +2,7 @@
 title = "Systems Design"
 author = ["Cash Weaver"]
 date = 2022-03-15T21:20:00-07:00
-lastmod = 2022-09-05T16:25:56-07:00
+lastmod = 2022-11-04T15:26:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

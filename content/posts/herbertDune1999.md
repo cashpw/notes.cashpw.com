@@ -2,7 +2,7 @@
 title = "Herbert | Dune"
 author = ["Cash Weaver"]
 date = 2022-02-05T12:32:00-08:00
-lastmod = 2022-09-05T15:52:26-07:00
+lastmod = 2022-11-04T15:00:29-07:00
 tags = ["reference"]
 draft = false
 slug = "68077361-66a6-4abe-b00f-dfb3d83630f2"

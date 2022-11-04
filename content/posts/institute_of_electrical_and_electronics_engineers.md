@@ -2,7 +2,7 @@
 title = "Institute of electrical and electronics engineers"
 author = ["Cash Weaver"]
 date = 2022-07-24T10:54:00-07:00
-lastmod = 2022-09-05T15:54:58-07:00
+lastmod = 2022-11-04T15:02:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "org-roam"
 author = ["Cash Weaver"]
 date = 2022-02-06T07:22:00-08:00
-lastmod = 2022-09-05T16:07:13-07:00
+lastmod = 2022-11-04T15:11:11-07:00
 draft = false
 slug = "1497025f-da3e-4bed-be19-f8f9c9a0e351"
 +++

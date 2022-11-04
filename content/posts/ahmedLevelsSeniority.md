@@ -2,7 +2,7 @@
 title = "Kamran Ahmed | Levels of Seniority"
 author = ["Cash Weaver"]
 date = 2022-02-06T20:50:00-08:00
-lastmod = 2022-09-05T15:24:21-07:00
+lastmod = 2022-11-04T14:47:44-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

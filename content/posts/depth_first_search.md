@@ -2,7 +2,7 @@
 title = "Depth-first search"
 author = ["Cash Weaver"]
 date = 2022-06-29T16:36:00-07:00
-lastmod = 2022-09-05T15:41:57-07:00
+lastmod = 2022-11-04T14:54:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

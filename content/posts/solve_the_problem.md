@@ -2,7 +2,7 @@
 title = "Solve the problem"
 author = ["Cash Weaver"]
 date = 2022-02-07T16:37:00-08:00
-lastmod = 2022-09-05T16:20:59-07:00
+lastmod = 2022-11-04T15:21:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

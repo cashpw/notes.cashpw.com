@@ -2,7 +2,7 @@
 title = "Big-O notation"
 author = ["Cash Weaver"]
 date = 2022-08-19T18:40:00-07:00
-lastmod = 2022-09-05T15:30:03-07:00
+lastmod = 2022-11-04T14:49:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

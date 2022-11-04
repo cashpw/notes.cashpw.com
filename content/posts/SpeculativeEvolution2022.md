@@ -2,7 +2,7 @@
 title = "Wikipedia | Speculative Evolution"
 author = ["Cash Weaver"]
 date = 2022-02-18T15:04:00-08:00
-lastmod = 2022-09-05T15:22:38-07:00
+lastmod = 2022-11-04T14:47:16-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Ceramists/Potters I Follow"
 author = ["Cash Weaver"]
 date = 2022-01-02T22:39:00-08:00
-lastmod = 2022-09-05T15:35:03-07:00
+lastmod = 2022-11-04T14:51:10-07:00
 draft = false
 slug = "c73727bd-7ed8-4c50-bd08-524ebb2afbea"
 +++

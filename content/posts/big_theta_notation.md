@@ -2,7 +2,7 @@
 title = "Big-Theta notation"
 author = ["Cash Weaver"]
 date = 2022-08-19T19:10:00-07:00
-lastmod = 2022-09-05T15:30:11-07:00
+lastmod = 2022-11-04T14:49:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

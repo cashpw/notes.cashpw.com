@@ -2,7 +2,7 @@
 title = "Strongly connected"
 author = ["Cash Weaver"]
 date = 2022-07-23T17:11:00-07:00
-lastmod = 2022-09-05T16:23:18-07:00
+lastmod = 2022-11-04T15:23:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

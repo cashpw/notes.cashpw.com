@@ -2,7 +2,7 @@
 title = "Desirable difficulty"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:03:00-08:00
-lastmod = 2022-09-06T09:30:38-07:00
+lastmod = 2022-11-04T14:46:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

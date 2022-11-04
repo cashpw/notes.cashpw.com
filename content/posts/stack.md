@@ -2,7 +2,7 @@
 title = "Stack"
 author = ["Cash Weaver"]
 date = 2022-06-28T20:24:00-07:00
-lastmod = 2022-09-06T09:26:50-07:00
+lastmod = 2022-11-04T15:23:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,9 +14,7 @@ slug = "5ab783c7-9a13-42d2-920d-95f103ac677c"
 > 1.  Push, which adds an element to the collection, and
 > 2.  Pop, which removes the most recently added element that was not yet removed.
 >
-> The order in which elements come off a stack gives rise to its alternative name, LIFO (last in, first out). Additionally, a peek operation may give access to the top without modifying the stack.
->
-> [links added]
+> The order in which elements come off a stack gives rise to its alternative name, [LIFO]({{< relref "first_in_last_out.md" >}}) (last in, first out). Additionally, a peek operation may give access to the top without modifying the stack.
 >
 > (<a href="#citeproc_bib_item_1">“Stack (Abstract Data Type)” 2022</a>)
 

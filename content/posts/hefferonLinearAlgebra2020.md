@@ -2,7 +2,7 @@
 title = "Jim Hefferon | Linear Algebra"
 author = ["Cash Weaver"]
 date = 2022-08-24T08:51:00-07:00
-lastmod = 2022-09-06T14:06:15-07:00
+lastmod = 2022-11-04T15:00:16-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

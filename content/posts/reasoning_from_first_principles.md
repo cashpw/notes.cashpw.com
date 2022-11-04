@@ -2,7 +2,7 @@
 title = "Reasoning from first principles"
 author = ["Cash Weaver"]
 date = 2022-03-12T08:18:00-08:00
-lastmod = 2022-09-05T16:14:50-07:00
+lastmod = 2022-11-04T15:16:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

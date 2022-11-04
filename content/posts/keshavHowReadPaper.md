@@ -2,7 +2,7 @@
 title = "S Keshav | How to Read a Paper"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:58:00-08:00
-lastmod = 2022-09-05T15:57:04-07:00
+lastmod = 2022-11-04T15:04:13-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

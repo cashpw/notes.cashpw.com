@@ -2,7 +2,7 @@
 title = "Transpose"
 author = ["Cash Weaver"]
 date = 2022-08-21T05:35:00-07:00
-lastmod = 2022-09-05T16:35:04-07:00
+lastmod = 2022-11-04T15:34:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

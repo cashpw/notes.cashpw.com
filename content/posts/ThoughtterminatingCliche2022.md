@@ -2,7 +2,7 @@
 title = "Thought-Terminating Cliché"
 author = ["Cash Weaver"]
 date = 2022-06-26T10:41:00-07:00
-lastmod = 2022-09-05T15:22:50-07:00
+lastmod = 2022-11-04T14:47:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

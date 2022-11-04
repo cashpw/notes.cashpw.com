@@ -2,7 +2,7 @@
 title = "Metagame"
 author = ["Cash Weaver"]
 date = 2022-02-21T17:05:00-08:00
-lastmod = 2022-09-05T16:30:10-07:00
+lastmod = 2022-11-04T15:29:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

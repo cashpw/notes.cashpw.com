@@ -2,7 +2,7 @@
 title = "Atom"
 author = ["Cash Weaver"]
 date = 2022-06-29T08:31:00-07:00
-lastmod = 2022-09-05T15:28:51-07:00
+lastmod = 2022-11-04T14:48:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

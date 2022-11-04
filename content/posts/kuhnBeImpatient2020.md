@@ -2,13 +2,13 @@
 title = "Ben Kuhn | Be Impatient"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:36:00-08:00
-lastmod = 2022-09-05T15:57:40-07:00
+lastmod = 2022-11-04T15:04:38-07:00
 tags = ["reference"]
 draft = false
 slug = "2149d460-f6e0-4696-b34d-c2cc2228d8db"
 +++
 
-[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn 2020</a>)
+[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), [<@kuhnBeImpatient2022-01-01T13:00:00Z> |
 
 
 ## Summary {#summary}
@@ -38,5 +38,4 @@ slug = "2149d460-f6e0-4696-b34d-c2cc2228d8db"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Be Impatient.” <a href="https://www.benkuhn.net/impatient/">https://www.benkuhn.net/impatient/</a>.</div>
 </div>

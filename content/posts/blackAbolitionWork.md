@@ -2,7 +2,7 @@
 title = "Bob Black | The Abolition of Work"
 author = ["Cash Weaver"]
 date = 2022-03-13T16:25:00-07:00
-lastmod = 2022-09-05T15:31:53-07:00
+lastmod = 2022-11-04T14:49:57-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

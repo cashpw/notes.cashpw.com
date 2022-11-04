@@ -2,7 +2,7 @@
 title = "Anna Salamon"
 author = ["Cash Weaver"]
 date = 2022-02-06T17:49:00-08:00
-lastmod = 2022-09-05T15:27:16-07:00
+lastmod = 2022-11-04T14:48:20-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -1,8 +1,8 @@
 +++
-title = "Blub Studies"
+title = "Blub studies"
 author = ["Cash Weaver"]
 date = 2022-03-12T05:09:00-08:00
-lastmod = 2022-09-05T15:32:26-07:00
+lastmod = 2022-11-04T14:50:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -12,6 +12,11 @@ slug = "ca6fd965-8c9c-470c-b020-8fe0765ceb20"
 Blub studies are the "mundane, ultra-specific-seeming knowledge" (<a href="#citeproc_bib_item_1">Kuhn n.d.</a>) underlying something. It's the "fiddly technical details" (<a href="#citeproc_bib_item_1">Kuhn n.d.</a>). "There's a seemingly infinite amount of it, full of bespoke details for you to stumble over, and that makes it, often, unbelievably frustrating" (<a href="#citeproc_bib_item_1">Kuhn n.d.</a>).
 
 See [Ben Kuhn | In Defense of Blub Studies]({{< relref "kuhnDefenseBlubStudies.md" >}}).
+
+Related:
+
+-   [Do things that compound]({{< relref "do_things_that_compound.md" >}})
+-   [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
 
 ## References
 

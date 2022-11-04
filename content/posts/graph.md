@@ -2,7 +2,7 @@
 title = "Graph"
 author = ["Cash Weaver"]
 date = 2022-06-29T16:42:00-07:00
-lastmod = 2022-09-05T15:49:58-07:00
+lastmod = 2022-11-04T14:58:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

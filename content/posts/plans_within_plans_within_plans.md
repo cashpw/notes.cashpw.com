@@ -2,7 +2,7 @@
 title = "Plans within plans within plans"
 author = ["Cash Weaver"]
 date = 2022-02-03T06:21:00-08:00
-lastmod = 2022-09-05T16:09:13-07:00
+lastmod = 2022-11-04T15:12:43-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

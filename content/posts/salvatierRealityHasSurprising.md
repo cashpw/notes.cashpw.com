@@ -2,7 +2,7 @@
 title = "John Salvatier | Reality Has a Surprising Amount of Detail"
 author = ["Cash Weaver"]
 date = 2022-03-12T04:29:00-08:00
-lastmod = 2022-09-05T16:16:47-07:00
+lastmod = 2022-11-04T15:17:40-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Tangent (Geometry)"
 author = ["Cash Weaver"]
 date = 2022-08-19T10:46:00-07:00
-lastmod = 2022-09-05T16:26:23-07:00
+lastmod = 2022-11-04T15:26:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

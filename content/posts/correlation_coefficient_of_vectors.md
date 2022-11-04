@@ -2,7 +2,7 @@
 title = "Correlation coefficient of vectors"
 author = ["Cash Weaver"]
 date = 2022-08-17T09:45:00-07:00
-lastmod = 2022-09-05T15:37:33-07:00
+lastmod = 2022-11-04T14:52:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

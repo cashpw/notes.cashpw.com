@@ -2,7 +2,7 @@
 title = "Local Minima"
 author = ["Cash Weaver"]
 date = 2022-03-14T07:38:00-07:00
-lastmod = 2022-09-05T16:00:20-07:00
+lastmod = 2022-11-04T15:06:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

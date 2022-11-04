@@ -2,7 +2,7 @@
 title = "Julia Evans"
 author = ["Cash Weaver"]
 date = 2022-07-21T17:12:00-07:00
-lastmod = 2022-09-05T15:56:33-07:00
+lastmod = 2022-11-04T15:03:44-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

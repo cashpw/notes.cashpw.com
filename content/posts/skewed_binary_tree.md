@@ -2,7 +2,7 @@
 title = "Skewed binary tree"
 author = ["Cash Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-09-05T16:19:40-07:00
+lastmod = 2022-11-04T15:20:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

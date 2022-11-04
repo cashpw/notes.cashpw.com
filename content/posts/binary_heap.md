@@ -2,7 +2,7 @@
 title = "Binary heap"
 author = ["Cash Weaver"]
 date = 2022-06-29T09:22:00-07:00
-lastmod = 2022-09-05T15:30:46-07:00
+lastmod = 2022-11-04T14:49:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,7 +16,7 @@ slug = "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
 > A binary heap is defined as a binary tree with two additional constraints:
 >
 > 1.  Shape property: a binary heap is a [Complete binary tree]({{< relref "complete_binary_tree.md" >}}); that is, all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right.
-> 2.  [Heap property]({{< relref "heap_property.md" >}}): the key stored in each node is either greater than or equal to (≥; [Max heap]({{< relref "heap_property.md#max-heap" >}})) or less than or equal to (≤; [Min heap]({{< relref "heap_property.md#min-heap" >}})) the keys in the node's children, according to some total order.
+> 2.  [Heap property]({{< relref "heap_property.md" >}}): the key stored in each node is either greater than or equal to (≥; [Max heap]({{< relref "heap_property.md#max-heap-property" >}})) or less than or equal to (≤; [Min heap]({{< relref "heap_property.md#min-heap-property" >}})) the keys in the node's children, according to some total order.
 >
 > [...]
 >
@@ -28,7 +28,7 @@ slug = "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
 
 <!--quoteend-->
 
-> Example of a [Complete]({{< relref "complete_binary_tree.md" >}}) binary [Max heap]({{< relref "heap_property.md#max-heap" >}}).
+> Example of a [Complete]({{< relref "complete_binary_tree.md" >}}) binary [Max heap]({{< relref "heap_property.md#max-heap-property" >}}).
 >
 > {{< figure src="/ox-hugo/Max-Heap.svg.png" >}}
 >
@@ -38,6 +38,7 @@ slug = "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
 ## Implementation {#implementation}
 
 -   [Max binary heap implementation in java]({{< relref "max_binary_heap_implementation_in_java.md" >}})
+-   [Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
 
 
 ## Operations {#operations}

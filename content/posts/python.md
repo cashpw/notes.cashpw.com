@@ -2,7 +2,7 @@
 title = "Python"
 author = ["Cash Weaver"]
 date = 2022-07-01T11:47:00-07:00
-lastmod = 2022-09-05T16:11:25-07:00
+lastmod = 2022-11-04T15:14:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,3 +13,6 @@ The programming language
 
 
 ##  {#d41d8c}
+
+
+## Dunder (i.e double underscore) methods (e.g. `__init__`) {#dunder--i-dot-e-double-underscore--methods--e-dot-g-dot-init}

@@ -2,7 +2,7 @@
 title = "Contract Drafting Em"
 author = ["Cash Weaver"]
 date = 2022-03-14T08:38:00-07:00
-lastmod = 2022-09-05T15:37:09-07:00
+lastmod = 2022-11-04T14:52:08-07:00
 draft = false
 slug = "88994b1c-a571-44ba-a667-ad0c07011ba2"
 +++

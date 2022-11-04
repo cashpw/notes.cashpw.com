@@ -2,7 +2,7 @@
 title = "Adolph Reed Jr | Nothing Left: The Past Is Always Present: Examining Quotidian Life under Jim Crow to Reveal Its Structures"
 author = ["Cash Weaver"]
 date = 2022-07-07T12:37:00-07:00
-lastmod = 2022-09-05T15:56:28-07:00
+lastmod = 2022-11-04T15:03:40-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

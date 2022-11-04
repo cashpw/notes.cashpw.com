@@ -2,7 +2,7 @@
 title = "Cal Newport | About"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:14:00-08:00
-lastmod = 2022-09-05T16:05:33-07:00
+lastmod = 2022-11-04T15:09:59-07:00
 tags = ["reference"]
 draft = false
 slug = "aa3b22f0-3771-464e-824d-8d0eeb7f331b"

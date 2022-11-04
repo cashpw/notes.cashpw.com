@@ -2,7 +2,7 @@
 title = "Tom Limoncelli | What Makes a Sysadmin a Senior Sysadmin?"
 author = ["Cash Weaver"]
 date = 2022-02-21T17:12:00-08:00
-lastmod = 2022-09-05T15:58:50-07:00
+lastmod = 2022-11-04T15:05:46-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

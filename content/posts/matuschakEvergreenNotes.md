@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Evergreen Notes"
 author = ["Cash Weaver"]
 date = 2022-02-21T17:40:00-08:00
-lastmod = 2022-09-05T16:02:27-07:00
+lastmod = 2022-11-04T15:07:51-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -31,6 +31,9 @@ slug = "eb5965f1-211b-45cb-9f56-b8e85c48bb6d"
 > -   [A reading inbox to capture possibly-useful references](https://notes.andymatuschak.org/z3N113rxPFreW9xUkLkUFomr2LUqfXbdCo3M)
 > -   [A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz)
 > -   [Executable strategy for writing](https://notes.andymatuschak.org/z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8)
+
+
+## Extract links into notes {#extract-links-into-notes}
 
 ## References
 

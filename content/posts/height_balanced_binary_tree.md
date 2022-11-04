@@ -2,7 +2,7 @@
 title = "Height-balanced binary tree"
 author = ["Cash Weaver"]
 date = 2022-07-23T16:52:00-07:00
-lastmod = 2022-09-05T15:52:18-07:00
+lastmod = 2022-11-04T15:00:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

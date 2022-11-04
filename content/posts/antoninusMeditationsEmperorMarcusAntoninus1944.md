@@ -2,7 +2,7 @@
 title = "Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus"
 author = ["Cash Weaver"]
 date = 2022-02-17T06:44:00-08:00
-lastmod = 2022-09-05T15:27:53-07:00
+lastmod = 2022-11-04T14:48:29-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

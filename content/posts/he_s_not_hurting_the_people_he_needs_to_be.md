@@ -2,7 +2,7 @@
 title = "He's not hurting the people he needs to be"
 author = ["Cash Weaver"]
 date = 2022-06-26T09:33:00-07:00
-lastmod = 2022-09-05T15:51:19-07:00
+lastmod = 2022-11-04T14:59:35-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

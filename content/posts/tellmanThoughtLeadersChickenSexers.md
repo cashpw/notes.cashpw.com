@@ -2,7 +2,7 @@
 title = "Zach Tellman | Thought Leaders and Chicken Sexers"
 author = ["Cash Weaver"]
 date = 2022-02-18T16:25:00-08:00
-lastmod = 2022-09-05T16:27:13-07:00
+lastmod = 2022-11-04T15:27:23-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

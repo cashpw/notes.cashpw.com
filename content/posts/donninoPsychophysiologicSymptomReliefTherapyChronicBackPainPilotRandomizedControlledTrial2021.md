@@ -2,7 +2,7 @@
 title = "Michael W. Donnino et al. | Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:48:00-08:00
-lastmod = 2022-09-05T15:43:06-07:00
+lastmod = 2022-11-04T14:55:03-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -11,11 +11,8 @@ slug = "38bba771-d7e5-467f-80bb-ebd79faf793c"
 
 (<a href="#citeproc_bib_item_1">Donnino et al. 2021</a>)
 
-
-## Summary {#summary}
-
-
-## Thoughts {#thoughts}
+-   [Psychophysiologic Symptom Relief Therapy]({{< relref "psychophysiologic_symptom_relief_therapy.md" >}})
+-   [Mindfulness-based Stress Reduction]({{< relref "mindfulness_based_stress_reduction.md" >}})
 
 
 ## Notes {#notes}
@@ -25,7 +22,7 @@ slug = "38bba771-d7e5-467f-80bb-ebd79faf793c"
 
 ### Component 1: Psycophysiologic Pain Education {#component-1-psycophysiologic-pain-education}
 
-> The mainstay of this component is for the participants to recognize their symptoms as a part of a psychophysiologic mind-body syndrome, as opposed to an exclusively physical etiology. This recognition is accomplished by exploring the history of their pain, identifying "inconsistencies" in the physical components of their pain (discrepancies in symptom localization and/or temporal occurrence), and acquiring information on the nature of nonspecific chronic back pain itself. Great focus is placed on the role of the relationship of underlying psychological stressors to physical pain. As participants are encouraged to examine the origin of the pain, they notice patterns in the experience of their pain that reflect the contribution of psychological and stress-related factors (e.g. e xperiencing severe back pain when driving but only when in heavy traffic, pain that occurs with sitting but not when sitting on a chairlift during recreational skiing, pain that is worse while walking into the workplace but fine when walking upon exiting). Hereby, participants gain awareness of the connection between pain and psychological processes and a better understanding of the variety of potentially modifiable factors that contribute to chronic back pain.
+> The mainstay of this component is for the participants to recognize their symptoms as a part of a psychophysiologic mind-body syndrome, as opposed to an exclusively physical etiology. This recognition is accomplished by exploring the history of their pain, identifying "inconsistencies" in the physical components of their pain (discrepancies in symptom localization and/or temporal occurrence), and acquiring information on the nature of nonspecific chronic back pain itself. Great focus is placed on the role of the relationship of underlying psychological stressors to physical pain. As participants are encouraged to examine the origin of the pain, they notice patterns in the experience of their pain that reflect the contribution of psychological and stress-related factors (e.g. experiencing severe back pain when driving but only when in heavy traffic, pain that occurs with sitting but not when sitting on a chairlift during recreational skiing, pain that is worse while walking into the workplace but fine when walking upon exiting). Hereby, participants gain awareness of the connection between pain and psychological processes and a better understanding of the variety of potentially modifiable factors that contribute to chronic back pain.
 >
 > Examples:
 >

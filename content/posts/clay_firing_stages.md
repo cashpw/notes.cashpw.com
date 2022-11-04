@@ -2,7 +2,7 @@
 title = "Clay firing stages"
 author = ["Cash Weaver"]
 date = 2022-08-23T08:49:00-07:00
-lastmod = 2022-09-05T15:36:42-07:00
+lastmod = 2022-11-04T14:51:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

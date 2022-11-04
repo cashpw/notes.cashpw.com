@@ -2,7 +2,7 @@
 title = "James Stuber | Master Boring Fundamentals 01: Boring Is Fun"
 author = ["Cash Weaver"]
 date = 2022-02-06T15:51:00-08:00
-lastmod = 2022-09-05T15:22:06-07:00
+lastmod = 2022-11-04T14:47:06-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

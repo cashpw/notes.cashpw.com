@@ -2,7 +2,7 @@
 title = "Gary Provost"
 author = ["Cash Weaver"]
 date = 2022-02-07T17:10:00-08:00
-lastmod = 2022-09-05T15:48:24-07:00
+lastmod = 2022-11-04T14:57:49-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

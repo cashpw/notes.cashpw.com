@@ -2,7 +2,7 @@
 title = "Cedric Chin | Expertise Is 'Just' Pattern Matching"
 author = ["Cash Weaver"]
 date = 2022-02-06T16:53:00-08:00
-lastmod = 2022-09-05T15:35:20-07:00
+lastmod = 2022-11-04T14:51:19-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

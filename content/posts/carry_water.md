@@ -2,7 +2,7 @@
 title = "Carry water"
 author = ["Cash Weaver"]
 date = 2022-07-23T11:35:00-07:00
-lastmod = 2022-09-05T15:33:53-07:00
+lastmod = 2022-11-04T14:50:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Wikipedia | SMART Criteria"
 author = ["Cash Weaver"]
 date = 2022-02-07T06:59:00-08:00
-lastmod = 2022-09-05T15:22:25-07:00
+lastmod = 2022-11-04T14:47:12-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

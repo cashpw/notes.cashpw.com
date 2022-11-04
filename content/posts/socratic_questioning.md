@@ -2,7 +2,7 @@
 title = "Socratic questioning"
 author = ["Cash Weaver"]
 date = 2022-07-18T18:46:00-07:00
-lastmod = 2022-09-05T16:20:45-07:00
+lastmod = 2022-11-04T15:21:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,7 +15,7 @@ slug = "8611a2b5-378e-44ab-b601-6481f170c34a"
 >
 > Socratic questioning is a form of disciplined questioning that can be used to pursue thought in many directions and for many purposes, including: to explore complex ideas, to get to the truth of things, to open up issues and problems, to uncover assumptions, to analyze concepts, to distinguish what we know from what we do not know, to follow out logical consequences of thought or to control discussions.
 >
-> (“Socratic Questioning” 2022)
+> (<a href="#citeproc_bib_item_1">“Socratic Questioning” 2022</a>)
 
 
 ## Question categories {#question-categories}
@@ -63,3 +63,9 @@ Related: [Bloom's Taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
 -   Why did you ask that question?
 -   Am I making sense?
 -   What else might I ask?
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Socratic Questioning.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Socratic_questioning&oldid=1094473273">https://en.wikipedia.org/w/index.php?title=Socratic_questioning&#38;oldid=1094473273</a>.</div>
+</div>

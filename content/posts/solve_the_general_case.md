@@ -2,7 +2,7 @@
 title = "Solve the general Case"
 author = ["Cash Weaver"]
 date = 2022-02-18T19:23:00-08:00
-lastmod = 2022-09-05T16:20:52-07:00
+lastmod = 2022-11-04T15:21:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

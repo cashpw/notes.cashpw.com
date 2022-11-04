@@ -2,7 +2,7 @@
 title = "Ceramics/Pottery Resources"
 author = ["Cash Weaver"]
 date = 2022-01-02T20:16:00-08:00
-lastmod = 2022-09-05T15:34:51-07:00
+lastmod = 2022-11-04T14:51:06-07:00
 draft = false
 slug = "0b2473da-3953-457c-b68c-4abc7a235d17"
 +++

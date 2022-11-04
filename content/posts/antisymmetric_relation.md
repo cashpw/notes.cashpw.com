@@ -2,16 +2,22 @@
 title = "Antisymmetric relation"
 author = ["Cash Weaver"]
 date = 2022-07-23T17:11:00-07:00
-lastmod = 2022-09-05T15:27:34-07:00
+lastmod = 2022-11-04T14:48:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "875bfbf2-61ad-4f0a-9833-245dc5adc561"
 +++
 
-##  {#d41d8c}
-
-(<a href="#citeproc_bib_item_1">“Antisymmetric Relation” 2022</a>)
+> In mathematics, a binary relation \\(R\\) on a set \\(X\\) is antisymmetric if there is no pair of distinct elements of \\(X\\) each of which is related by \\(R\\) to the other. More formally, \\(R\\) is antisymmetric precisely if for all \\(a,b \in X\\):
+>
+> \\(\text{if }\\,aRb\\,\text{ with }\\,a\neq b\\,\text{ then }\\,bRa\\,\text{ must not hold}\\)
+>
+> or equivalently,
+>
+> \\(\text{if }\\,aRb\\,\text{ and }\\,bRa\\,\text{ then }\\,a=b\\).
+>
+> (<a href="#citeproc_bib_item_1">“Antisymmetric Relation” 2022</a>)
 
 ## References
 

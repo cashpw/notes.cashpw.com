@@ -2,7 +2,7 @@
 title = "Quicksort implementation in Python"
 author = ["Cash Weaver"]
 date = 2022-06-30T13:57:00-07:00
-lastmod = 2022-09-06T08:25:38-07:00
+lastmod = 2022-11-04T15:15:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

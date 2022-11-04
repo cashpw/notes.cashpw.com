@@ -2,7 +2,7 @@
 title = "This is Extremely Dangerous to Our Democracy"
 author = ["Cash Weaver"]
 date = 2022-02-17T08:37:00-08:00
-lastmod = 2022-09-05T16:31:35-07:00
+lastmod = 2022-11-04T15:31:05-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

@@ -2,7 +2,7 @@
 title = "The Carrot is the Stick"
 author = ["Cash Weaver"]
 date = 2022-03-13T16:34:00-07:00
-lastmod = 2022-09-05T16:28:24-07:00
+lastmod = 2022-11-04T15:28:20-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

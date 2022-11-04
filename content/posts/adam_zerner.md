@@ -2,7 +2,7 @@
 title = "Adam Zerner"
 author = ["Cash Weaver"]
 date = 2022-02-07T18:46:00-08:00
-lastmod = 2022-09-05T15:23:51-07:00
+lastmod = 2022-11-04T14:47:35-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

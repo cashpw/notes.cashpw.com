@@ -2,7 +2,7 @@
 title = "Pre-order tree traversal"
 author = ["Cash Weaver"]
 date = 2022-06-29T16:24:00-07:00
-lastmod = 2022-09-05T16:10:22-07:00
+lastmod = 2022-11-04T15:13:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

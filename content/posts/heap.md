@@ -2,20 +2,20 @@
 title = "Heap"
 author = ["Cash Weaver"]
 date = 2022-06-28T14:46:00-07:00
-lastmod = 2022-09-05T15:51:46-07:00
+lastmod = 2022-11-04T14:59:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "70cbebc9-8936-4d52-885a-76d747c6577f"
 +++
 
-> In computer science, a heap is a specialized tree-based [[tree]({{< relref "tree.md" >}})] data structure [[data structure]({{< relref "data_structures.md" >}})] which is essentially an almost complete tree that satisfies the heap property [[Heap property]({{< relref "heap_property.md" >}})]: in a max heap [[Max heap]({{< relref "heap_property.md#max-heap" >}})], for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C. In a min heap [[Min heap]({{< relref "heap_property.md#min-heap" >}})], the key of P is less than or equal to the key of C.
+> In computer science, a [Heap]({{< relref "heap.md" >}}) is a specialized [Tree]({{< relref "tree.md" >}})-based [Data structure]({{< relref "data_structures.md" >}}) which is essentially [a [Complete binary tree]({{< relref "complete_binary_tree.md" >}})] that satisfies the Heap property. In a [Max heap]({{< relref "heap_property.md#max-heap-property" >}}), for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C. In a [Min heap]({{< relref "heap_property.md#min-heap-property" >}}), the key of P is less than or equal to the key of C.
 >
 > (<a href="#citeproc_bib_item_1">“Heap (Data Structure)” 2022</a>)
 
 <!--quoteend-->
 
-> The heap is one maximally efficient implementation of an abstract data type called a priority queue [[Queue]({{< relref "queue.md" >}})].
+> The [Heap]({{< relref "heap.md" >}}) is one maximally efficient implementation of an [Abstract data type]({{< relref "abstract_data_type.md" >}}) called a [Priority queue]({{< relref "priority_queue.md" >}}).
 >
 > (<a href="#citeproc_bib_item_1">“Heap (Data Structure)” 2022</a>)
 
