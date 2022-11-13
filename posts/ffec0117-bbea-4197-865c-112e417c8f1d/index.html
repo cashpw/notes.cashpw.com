@@ -9,7 +9,7 @@
 from typing import List, Optional def swap(ints: List[int], indexA: int, indexB: int) -> None: valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], left_index: int, right_index: int, pivot_index: int) -> int: &#34;&#34;&#34;Partition the subsection of INTS from [LEFT_INDEX, RIGHT_INDEX]. Values left of returned index will be less than the value at the returned index.&#34;&#34;&#34; pivot_value = ints[pivot_index] swap(ints, pivot_index, right_index) i = left_index - 1 for j in range(left_index, right_index): if ints[j] <= pivot_value: i += 1 swap(ints, i, j) i += 1 swap(ints, i, right_index) return i def select_pivot_index(low: int, high: int) -> int: &#34;&#34;&#34;Return a value between [low, high].">
 <meta name=author content>
 <link rel=canonical href=http://cashpw.com/posts/ffec0117-bbea-4197-865c-112e417c8f1d/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.3dd5fc0c6b7c20598373460d5ac7a381c5e529b01751044773f81809e440dad0.css integrity="sha256-PdX8DGt8IFmDc0YNWsejgcXlKbAXUQRHc/gYCeRA2tA=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.8583ff43b6371322904b789d92584c7e57f469341ba83240378e4ede2ca3f75b.css integrity="sha256-hYP/Q7Y3EyKQS3idklhMflf0aTQbqDJAN45O3iyj91s=" rel="preload stylesheet" as=style>
 <link rel=icon href=http://cashpw.com/favicon.ico>
 <link rel=apple-touch-icon href=http://cashpw.com/apple-touch-icon.png>
 <meta name=twitter:title content="Quickselect implementation in Python | Cash Prokop-Weaver">
@@ -128,8 +128,7 @@ print(select_nth_smallest(a, <span style=color:#ae81ff>2</span>))
 <span style=color:#75715e># Expect to print &#34;10&#34;: [1, 2, 4, 5, 10, 15]</span>
 print(select_nth_smallest(a, <span style=color:#ae81ff>4</span>))
 </code></pre></div>
-<div class=bl-section>
-<hr>
+<div class="backlinks toc side right">
 <h4>Backlinks</h4>
 <div class=backlinks>
 <ul>
