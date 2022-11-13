@@ -4,3 +4,9 @@
 [submodule "themes/hugo-bearblog"]
 	path = themes/hugo-bearblog
 	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/jpanther/congo.git
+[submodule "themes/PaperModX"]
+	path = themes/PaperModX
+	url = https://github.com/reorx/hugo-PaperModX.git

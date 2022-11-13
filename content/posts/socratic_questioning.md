@@ -2,7 +2,7 @@
 title = "Socratic questioning"
 author = ["Cash Weaver"]
 date = 2022-07-18T18:46:00-07:00
-lastmod = 2022-11-04T15:21:11-07:00
+lastmod = 2022-11-13T08:07:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -47,8 +47,7 @@ Related: [Bloom's Taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
 ### Consider alternatives {#consider-alternatives}
 
 -   What are other ways of looking at this?
--   Who benefits from this?
--   How are ... and ... similar?
+-   What is the counter-argument?
 
 
 ### Consider implications and consequences {#consider-implications-and-consequences}
@@ -69,3 +68,13 @@ Related: [Bloom's Taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Socratic Questioning.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Socratic_questioning&oldid=1094473273">https://en.wikipedia.org/w/index.php?title=Socratic_questioning&#38;oldid=1094473273</a>.</div>
 </div>
+
+
+## [Mnemonic]({{< relref "mnemonic.md" >}}) {#mnemonic--mnemonic-dot-md}
+
+-   Cats: [Clarifying concepts](#clarifying-concepts)
+-   Always: [Challenge assumptions](#challenge-assumptions)
+-   Eat: [Examine rationale, reasons, and evidence](#examine-rationale-reasons-and-evidence)
+-   Apples: [Consider alternatives](#consider-alternatives)
+-   In: [Consider implications and consequences](#consider-implications-and-consequences)
+-   May: [Meta questioning](#meta-questioning)

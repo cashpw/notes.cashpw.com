@@ -2,7 +2,7 @@ baseURL = "http://cashpw.com/"
 enableEmoji = true
 enableRobotsTXT = true
 languageCode = "en-us"
-theme = "PaperMod"
+theme = "PaperModX"
 title = "Cash Prokop-Weaver"
 
 [[menu.main]]
@@ -30,6 +30,10 @@ home = [ "HTML", "RSS", "JSON" ]
 ShowCodeCopyButtons = true
 ShowReadingTime = true
 ShowToc = true
+TocSide = "right"
+TocOpen = true
+# Instant click breaks some javascript
+EnableInstantClick = false
 DateFormat = "2006-01-02"
 author = "Cash Prokop-Weaver"
 defaultTheme = "auto"

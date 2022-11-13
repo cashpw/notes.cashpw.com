@@ -41,8 +41,10 @@
   {{- if .Content }}
     {{- partial "recipe_meta.html" . -}}
     {{- if not (.Param "disableAnchoredHeadings") }}
-    {{- partial "anchored_headings.html" .Content -}}
-    {{- else }}{{ .Content }}{{ end }}
+      {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}
+      {{ .Content }}
+    {{ end }}
     {{- partial "backlinks.html" . }}
   {{- end }}
   </div>

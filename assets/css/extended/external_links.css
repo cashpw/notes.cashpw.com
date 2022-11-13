@@ -18,11 +18,19 @@ a[target=_blank]:after {
 
 /* Standard link coloring */
 .main a {
-    color: #8ab4f8;
+    color: var(--link-color);
 }
 
 .main a:visited {
-    color: rgb(197, 138, 249);
+    color: var(--primary);
+}
+
+.main .toc a {
+    color: var(--primary);
+}
+
+.main .post-content .toc a
+    color: var(--link-color);
 }
 
 .social-icons a {

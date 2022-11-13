@@ -1,3 +1,11 @@
+:root {
+  --link-color: #f96316;
+  --link-hover-color: #f97316;
+  --link-underline-shadow: 0 1px 0 var(--link-color);
+  --link-hover-underline-color: #f97316;
+  --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+}
+
 /* First and last child are empty. */
 .home-info p+p {
     margin-top: 1rem;
@@ -45,4 +53,10 @@ button.scaler {
 .ingredients ul {
     list-style: none;
     padding-left: 0;
+}
+
+.toc summary h2 {
+    margin: 0;
+    display: inline;
+    font-size: 1.2rem;
 }
