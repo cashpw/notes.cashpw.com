@@ -9,38 +9,31 @@
 I started tracking my time a few months ago so I could have data to back up questions about how much I time I was giving to studying, working, cooking, chores, friends, etc. The solutions I found for tracking personal time didn&rsquo;t mesh with the way I wanted to track time:">
 <meta name=author content>
 <link rel=canonical href=http://cashpw.com/posts/tracking-time-with-tasker-and-google-calendar/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.942078f84ce240b200662d5ef5b97675e20b946b8a08ac3f52bbe60773208337.css integrity="sha256-lCB4+EziQLIAZi1e9bl2deILlGuKCKw/UrvmB3Mggzc=" rel="preload stylesheet" as=style>
-<script defer crossorigin=anonymous src=/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5+kdJvBz5iKbt6B5PJI=" onload=hljs.initHighlightingOnLoad()></script>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.3dd5fc0c6b7c20598373460d5ac7a381c5e529b01751044773f81809e440dad0.css integrity="sha256-PdX8DGt8IFmDc0YNWsejgcXlKbAXUQRHc/gYCeRA2tA=" rel="preload stylesheet" as=style>
 <link rel=icon href=http://cashpw.com/favicon.ico>
-<link rel=icon type=image/png sizes=16x16 href=http://cashpw.com/favicon-16x16.png>
-<link rel=icon type=image/png sizes=32x32 href=http://cashpw.com/favicon-32x32.png>
 <link rel=apple-touch-icon href=http://cashpw.com/apple-touch-icon.png>
-<link rel=mask-icon href=http://cashpw.com/safari-pinned-tab.svg>
-<meta name=theme-color content="#2e2e33">
-<meta name=msapplication-TileColor content="#2e2e33">
-<meta name=generator content="Hugo 0.89.4">
-<noscript>
-<style>#theme-toggle,.top-link{display:none}</style>
-<style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
-</noscript><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
-<meta property="og:title" content="Tracking Time with Tasker and Google Calendar">
+<meta name=twitter:title content="Tracking Time with Tasker and Google Calendar | Cash Prokop-Weaver">
+<meta name=twitter:description content="In the spirit of personal time tracking, I thought I would share my method as well. I&rsquo;ll write a follow-up, or amend this post, with the relevant source code at some point.
+I started tracking my time a few months ago so I could have data to back up questions about how much I time I was giving to studying, working, cooking, chores, friends, etc. The solutions I found for tracking personal time didn&rsquo;t mesh with the way I wanted to track time:">
+<meta property="og:title" content="Tracking Time with Tasker and Google Calendar | Cash Prokop-Weaver">
 <meta property="og:description" content="In the spirit of personal time tracking, I thought I would share my method as well. I&rsquo;ll write a follow-up, or amend this post, with the relevant source code at some point.
 I started tracking my time a few months ago so I could have data to back up questions about how much I time I was giving to studying, working, cooking, chores, friends, etc. The solutions I found for tracking personal time didn&rsquo;t mesh with the way I wanted to track time:">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://cashpw.com/posts/tracking-time-with-tasker-and-google-calendar/"><meta property="article:section" content="posts">
+<meta property="og:url" content="http://cashpw.com/posts/tracking-time-with-tasker-and-google-calendar/">
+<meta property="article:section" content="posts">
 <meta property="article:published_time" content="2021-01-26T00:00:00+00:00">
 <meta property="article:modified_time" content="2021-01-26T00:00:00+00:00">
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="Tracking Time with Tasker and Google Calendar">
-<meta name=twitter:description content="In the spirit of personal time tracking, I thought I would share my method as well. I&rsquo;ll write a follow-up, or amend this post, with the relevant source code at some point.
-I started tracking my time a few months ago so I could have data to back up questions about how much I time I was giving to studying, working, cooking, chores, friends, etc. The solutions I found for tracking personal time didn&rsquo;t mesh with the way I wanted to track time:">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://cashpw.com/posts/"},{"@type":"ListItem","position":2,"name":"Tracking Time with Tasker and Google Calendar","item":"http://cashpw.com/posts/tracking-time-with-tasker-and-google-calendar/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Tracking Time with Tasker and Google Calendar","name":"Tracking Time with Tasker and Google Calendar","description":"In the spirit of personal time tracking, I thought I would share my method as well. I\u0026rsquo;ll write a follow-up, or amend this post, with the relevant source code at some point.\nI started tracking my time a few months ago so I could have data to back up questions about how much I time I was giving to studying, working, cooking, chores, friends, etc. The solutions I found for tracking personal time didn\u0026rsquo;t mesh with the way I wanted to track time:","keywords":[],"articleBody":"In the spirit of personal time tracking, I thought I would share my method as well. I’ll write a follow-up, or amend this post, with the relevant source code at some point.\nI started tracking my time a few months ago so I could have data to back up questions about how much I time I was giving to studying, working, cooking, chores, friends, etc. The solutions I found for tracking personal time didn’t mesh with the way I wanted to track time:\n Interface The UI should be intuitive and simple; after all, there are only a handful of actions I care about. Privacy 1 and Access My data should remain mine and mine alone, accessible whenever I want. Some of the things I track are personal, or at least would give someone else a bit too much insight into my time for my liking. Granularity I want to be able to track things down to the minute. Portability I need to be able to track time wherever I am. The ideal solution would be on my phone or watch.  I ended up implementing my own solution which combines Tasker as a front-end on my Android phone with Google Calendar as a back-end.\nI’ve exposed three functions through Tasker (in order from left to right):\n Time Track: Start Opens a category menu and starts tracking time for the selected category. Notify Queries the calendar and displays the sum length of all events, grouped by category, which ended today between 00:00 and 23:59. This does not include the current time tracking duration. Time Track: Stop Stops tracking time; creates an event in the calendar.  Clicking the first button opens a menu which lists time tracking categories I’ve used before. I can also add a new category, by entering the new category name into the text field in the lower left, or remove an existing category by long-pressing the name.\nThe active time tracking is shown in a notification, which includes the option to move the start time forward or backward in increments of one minute. I’ve also included the notification generated by pressing the second button in this image.\nI also have a script which sends me an email every Sunday evening with a daily breakdown and a reminder notification which is triggered after one minutes, then every 15 minutes, when I’m not tracking time.\nGoing forward, I’d like to analyze the data once I have a solid month or so where I’m using the tool regularly.\n  Whether Google Calendar is private is left as an exercise to the reader. ↩︎\n   ","wordCount":"429","inLanguage":"en","datePublished":"2021-01-26T00:00:00Z","dateModified":"2021-01-26T00:00:00Z","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashpw.com/posts/tracking-time-with-tasker-and-google-calendar/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://cashpw.com/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Tracking Time with Tasker and Google Calendar | Cash Prokop-Weaver","name":"Tracking Time with Tasker and Google Calendar","description":"In the spirit of personal time tracking, I thought I would share my method as well. I\u0026rsquo;ll write a follow-up, or amend this post, with the relevant source code at some point.\nI started tracking my time a few months ago so I could have data to back up questions about how much I time I was giving to studying, working, cooking, chores, friends, etc. The solutions I found for tracking personal time didn\u0026rsquo;t mesh with the way I wanted to track time:","keywords":[],"wordCount":"429","inLanguage":"en","datePublished":"2021-01-26T00:00:00Z","dateModified":"2021-01-26T00:00:00Z","author":[{"@type":"Person","name":"Cash Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://cashpw.com/posts/tracking-time-with-tasker-and-google-calendar/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://cashpw.com/favicon.ico"}}}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
+<noscript>
+<style>#theme-toggle,.top-link{display:none}</style>
+<style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary-bg:rgb(65, 66, 68);--content:rgb(196, 196, 197);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list-page{background:var(--theme)}.list-page:not(.dark)::-webkit-scrollbar-track{background:0 0}.list-page:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
+</noscript>
 </head>
-<body id=top>
-<script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
+<body class="type-posts kind-page layout-" id=top><script data-no-instant>function switchTheme(a){switch(a){case'light':document.body.classList.remove('dark');break;case'dark':document.body.classList.add('dark');break;default:window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')}}function isDarkTheme(){return document.body.className.includes("dark")}function getPrefTheme(){return localStorage.getItem("pref-theme")}function setPrefTheme(a){switchTheme(a),localStorage.setItem("pref-theme",a)}const toggleThemeCallbacks={};toggleThemeCallbacks.main=a=>{a?setPrefTheme('light'):setPrefTheme('dark')},window.addEventListener('toggle-theme',function(){const a=isDarkTheme();for(const b in toggleThemeCallbacks)toggleThemeCallbacks[b](a)});function toggleThemeListener(){window.dispatchEvent(new CustomEvent('toggle-theme'))}</script>
+<script>(function(){const b='auto',a=getPrefTheme(),c=a||b;switchTheme(c)})()</script>
 <header class=header>
 <nav class=nav>
 <div class=logo>
@@ -52,24 +45,21 @@ I started tracking my time a few months ago so I could have data to back up ques
 </div>
 <ul id=menu>
 <li>
-<a href=http://cashpw.com/archives/ title=Archives>
-<span>Archives</span>
+<a href=http://cashpw.com/archives/ title=Archives>Archives
 </a>
 </li>
 <li>
-<a href=http://cashpw.com/search/ title="Search (Alt + /)" accesskey=/>
-<span>Search</span>
+<a href=http://cashpw.com/search/ title="Search (Alt + /)" data-no-instant accesskey=/>Search
 </a>
 </li>
 <li>
-<a href=http://cashpw.com/tags/ title=Tags>
-<span>Tags</span>
+<a href=http://cashpw.com/tags/ title=Tags>Tags
 </a>
 </li>
 </ul>
 </nav>
 </header>
-<main class=main>
+<main class="main post">
 <article class=post-single>
 <header class=post-header>
 <h1 class=post-title>
@@ -95,10 +85,8 @@ I want to be able to track things down to the minute.</li>
 I need to be able to track time wherever I am. The ideal solution would be on my phone or watch.</li>
 </ul>
 <p>I ended up implementing my own solution which combines <a href=https://tasker.joaoapps.com/>Tasker</a> as a front-end on my Android phone with <a href=https://www.google.com/calendar/about/>Google Calendar</a> as a back-end.</p>
-<p><img loading=lazy src=/images/home-2.png alt>
-</p>
-<p><img loading=lazy src=/images/calendar-2.png alt>
-</p>
+<p></p>
+<p></p>
 <p>I&rsquo;ve exposed three functions through Tasker (in order from left to right):</p>
 <ol>
 <li><strong>Time Track: Start</strong>
@@ -108,14 +96,11 @@ Queries the calendar and displays the sum length of all events, grouped by categ
 <li><strong>Time Track: Stop</strong>
 Stops tracking time; creates an event in the calendar.</li>
 </ol>
-<p><img loading=lazy src=/images/home-time-track-highlighted.png alt>
-</p>
-<p><img loading=lazy src=/images//time-tracking-menu.png alt>
-</p>
+<p></p>
+<p></p>
 <p>Clicking the first button opens a menu which lists time tracking categories I&rsquo;ve used before. I can also add a new category, by entering the new category name into the text field in the lower left, or remove an existing category by long-pressing the name.</p>
 <p>The active time tracking is shown in a notification, which includes the option to move the start time forward or backward in increments of one minute. I&rsquo;ve also included the notification generated by pressing the second button in this image.</p>
-<p><img loading=lazy src=/images/time-track-notifications-2.png alt>
-</p>
+<p></p>
 <p>I also have a script which sends me an email every Sunday evening with a daily breakdown and a reminder notification which is triggered after one minutes, then every 15 minutes, when I&rsquo;m not tracking time.</p>
 <p>Going forward, I&rsquo;d like to analyze the data once I have a solid month or so where I&rsquo;m using the tool regularly.</p>
 <section class=footnotes role=doc-endnotes>
@@ -128,23 +113,29 @@ Stops tracking time; creates an event in the calendar.</li>
 </section>
 </div>
 <footer class=post-footer>
+<script>var nextUntil=function(a,d,b){var c=[];for(a=a.nextElementSibling;a;){if(a.matches(d))break;if(b&&!a.matches(b)){a=a.nextElementSibling;continue}c.push(a),a=a.nextElementSibling}return c};const flashcardHeader=document.getElementById("flashcards");if(flashcardHeader){const e=nextUntil(flashcardHeader,"h2"),a=document.createElement('div');a.setAttribute('class','toc');const b=document.createElement('details');a.appendChild(b);const d=document.createElement('summary');b.appendChild(d);const c=document.createElement('div');c.setAttribute('class','inner'),b.appendChild(c),nextUntil(flashcardHeader,"h2").forEach(a=>{c.appendChild(a)}),flashcardHeader.parentNode.insertBefore(document.createElement('hr'),flashcardHeader),flashcardHeader.parentNode.insertBefore(a,flashcardHeader),d.appendChild(flashcardHeader)}</script>
 <script src=/js/citations/custom.js></script>
 </footer>
 </article>
 </main>
 <footer class=footer>
-<span>&copy; 2022 <a href=http://cashpw.com/>Cash Prokop-Weaver</a></span>
-<span>
+<span>&copy; 2022 <a href=http://cashpw.com/>Cash Prokop-Weaver</a></span><span style=display:inline-block;margin-left:1em>
+<a href=https://creativecommons.org/licenses/by-sa/4.0/>CC BY-SA</a>
+</span>
+<span style=display:inline-block;margin-left:1em>
 Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
-        <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a>
+    <a href=https://github.com/reorx/hugo-PaperModX/ rel=noopener target=_blank>PaperModX</a>
 </span>
 </footer>
 <a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
 </a>
-<script>let menu=document.getElementById('menu');menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);window.matchMedia('(prefers-reduced-motion: reduce)').matches?document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})</script>
+<script>(function(){const b=''=='1';if(b)return;let a=document.getElementById("theme-toggle");a.removeEventListener('click',toggleThemeListener),a.addEventListener('click',toggleThemeListener)})()</script>
+<script>(function(){let a=document.getElementById('menu');a&&(a.scrollLeft=localStorage.getItem("menu-scroll-position"),a.onscroll=function(){localStorage.setItem("menu-scroll-position",a.scrollLeft)});const b=''=='1',c=''=='1';if(window.matchMedia('(prefers-reduced-motion: reduce)').matches||b||c)return;document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})})()</script>
 <script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
-<script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove('dark'),localStorage.setItem("pref-theme",'light')):(document.body.classList.add('dark'),localStorage.setItem("pref-theme",'dark'))})</script>
+<script>if(window.scrollListeners)for(const a of scrollListeners)window.removeEventListener('scroll',a);window.scrollListeners=[]</script>
+<script src=/js/medium-zoom.min.js data-no-instant></script>
 <script>document.querySelectorAll('pre > code').forEach(b=>{const c=b.parentNode.parentNode,a=document.createElement('button');a.classList.add('copy-code'),a.innerText='copy';function d(){a.innerText='copied!',setTimeout(()=>{a.innerText='copy'},2e3)}a.addEventListener('click',e=>{if('clipboard'in navigator){navigator.clipboard.writeText(b.textContent),d();return}const a=document.createRange();a.selectNodeContents(b);const c=window.getSelection();c.removeAllRanges(),c.addRange(a);try{document.execCommand('copy'),d()}catch(a){}c.removeRange(a)}),c.classList.contains("highlight")?c.appendChild(a):c.parentNode.firstChild==c||(b.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?b.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(a):b.parentNode.appendChild(a))})</script>
+<script>(function(){const h='1'=='1';if(!h)return;if(!document.querySelector('.toc')){console.log('no toc found, ignore toc scroll');return}const i=window.scrollListeners,c=document.querySelectorAll('h1[id],h2[id],h3[id],h4[id],h5[id]'),d='active';let a=c[0];e(a).classList.add(d);const g=()=>{const b=[];for(const a of c)if(j(a)<5)b.push(a);else break;b.length>0?newActiveHeading=b[b.length-1]:newActiveHeading=c[0],a!=newActiveHeading&&(e(a).classList.remove(d),a=newActiveHeading,e(a).classList.add(d))};let b=null;const f=()=>{b!==null&&clearTimeout(b),b=setTimeout(g,50)};window.addEventListener('scroll',f,!1),i.push(f);function e(a){const b=encodeURI(a.getAttribute('id')).toLowerCase();return document.querySelector(`.toc ul li a[href="#${b}"]`)}function j(a){if(!a.getClientRects().length)return 0;let b=a.getBoundingClientRect();return b.top}})()</script>
 </body>
 </html>

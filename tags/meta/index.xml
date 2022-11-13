@@ -1,3 +1,128 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>meta on Cash Prokop-Weaver</title><link>http://cashpw.com/tags/meta/</link><description>Recent content in meta on Cash Prokop-Weaver</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Feb 2022 13:12:00 -0800</lastBuildDate><atom:link href="http://cashpw.com/tags/meta/index.xml" rel="self" type="application/rss+xml"/><item><title>Style Guide</title><link>http://cashpw.com/posts/05911fff-a79b-4462-bf6d-a3cec4e1c9f2/</link><pubDate>Sat, 05 Feb 2022 13:12:00 -0800</pubDate><guid>http://cashpw.com/posts/05911fff-a79b-4462-bf6d-a3cec4e1c9f2/</guid><description>A style guide for my personal knowledge management system (powered by org-roam):
-General Use Plain Language Use Serial Commas Vary the Length of Sentences Be Explicit Node types Type Tag Description Example Concept concept A single idea/concept Plans Within Plans Reference reference The node-form of a specific citation Dune Quote quote A single quote Plans within plans within plans Person person About a single person Baron Vladimir Harkonnen Poem poem A single poem Litany Against Fear Recipe recipe A cooking recipe Cayla&amp;rsquo;s quarantine ramen Ingredient ingredient A cooking ingredient Seitan Tags Prefer links to tags.</description></item><item><title>README</title><link>http://cashpw.com/posts/eb245ca9-b067-40f3-b220-0dff690e4058/</link><pubDate>Mon, 27 Dec 2021 20:32:00 -0800</pubDate><guid>http://cashpw.com/posts/eb245ca9-b067-40f3-b220-0dff690e4058/</guid><description>The purpose of this README is to explain some of the details in this collection of content. In no particular order:
-How I Write Notes These notes are heavily inspired by others There is a style guide</description></item></channel></rss>
+General Use Plain Language Use Serial Commas Vary the Length of Sentences Be Explicit Node types Type Tag Description Example Concept concept A single idea/concept Plans Within Plans Reference reference The node-form of a specific citation Dune Quote quote A single quote Plans within plans within plans Person person About a single person Baron Vladimir Harkonnen Poem poem A single poem Litany Against Fear Recipe recipe A cooking recipe Cayla&amp;rsquo;s quarantine ramen Ingredient ingredient A cooking ingredient Seitan Tags Prefer links to tags.</description><content:encoded><![CDATA[<p>A style guide for my <a href="/posts/773406e0-fe95-41f4-a254-b2c6ade18ce9/">personal knowledge management</a> system (powered by <a href="/posts/1497025f-da3e-4bed-be19-f8f9c9a0e351/">org-roam</a>):</p>
+<h2 id="general">General</h2>
+<ul>
+<li><a href="/posts/d65fac7a-c0e4-4f53-95f2-71d7343dc0cf/">Use Plain Language</a></li>
+<li><a href="/posts/5b18fea0-1aab-4ad3-91ef-781a2524f11d/">Use Serial Commas</a></li>
+<li><a href="/posts/3e310bff-729b-429b-9e10-769422c75561/">Vary the Length of Sentences</a></li>
+<li><a href="/posts/fd00fbf2-6b65-442f-90b9-b9d5d64a5fde/">Be Explicit</a></li>
+</ul>
+<h2 id="node-types">Node types</h2>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Tag</th>
+<th>Description</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Concept</td>
+<td><code>concept</code></td>
+<td>A single idea/concept</td>
+<td><a href="/posts/a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4/">Plans Within Plans</a></td>
+</tr>
+<tr>
+<td>Reference</td>
+<td><code>reference</code></td>
+<td>The node-form of a specific citation</td>
+<td><a href="/posts/68077361-66a6-4abe-b00f-dfb3d83630f2/">Dune</a></td>
+</tr>
+<tr>
+<td>Quote</td>
+<td><code>quote</code></td>
+<td>A single quote</td>
+<td><a href="/posts/d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76/">Plans within plans within plans</a></td>
+</tr>
+<tr>
+<td>Person</td>
+<td><code>person</code></td>
+<td>About a single person</td>
+<td><a href="/posts/9650cad7-fc51-4d4e-a436-e35bb038a2bf/">Baron Vladimir Harkonnen</a></td>
+</tr>
+<tr>
+<td>Poem</td>
+<td><code>poem</code></td>
+<td>A single poem</td>
+<td><a href="/posts/458de7df-08ff-40dc-9a7b-18f2d14520ee/">Litany Against Fear</a></td>
+</tr>
+<tr>
+<td>Recipe</td>
+<td><code>recipe</code></td>
+<td>A cooking recipe</td>
+<td><a href="/posts/9b56dca0-39e0-4dec-a269-dd7773257c2b/">Cayla&rsquo;s quarantine ramen</a></td>
+</tr>
+<tr>
+<td>Ingredient</td>
+<td><code>ingredient</code></td>
+<td>A cooking ingredient</td>
+<td><a href="/posts/2caa9715-d216-41c4-babb-c6e66364ac6d/">Seitan</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="tags">Tags</h2>
+<p>Prefer links to tags. Maintain the validity of the tags associated with <a href="#node-types">node types</a>.</p>
+<h2 id="quotes">Quotes</h2>
+<h3 id="attribution">Attribution</h3>
+<ul>
+<li>Place attributions on the last line of the quote.</li>
+<li>The attribution may, but doesn&rsquo;t have to, be <em>italicized</em>.</li>
+<li>The form of the attribution should be one of, in order of preference:
+<ol>
+<li><strong>Ideal</strong>: &ldquo;&lt;link to person&gt;, &lt;citation&gt;&rdquo;</li>
+<li>&ldquo;&lt;citation&gt;&rdquo;</li>
+<li>&ldquo;&lt;link to person&gt;&rdquo;</li>
+<li>&ldquo;&lt;general link&gt;&rdquo;</li>
+</ol>
+</li>
+</ul>
+<h4 id="does-it-need-attribution">Does it need attribution?</h4>
+<p>Every quote should contain an attribution unless it meets one of the following criteria:</p>
+<ol>
+<li>The quote is from a cited source which appears in the node&rsquo;s bibliography and this source is the <strong>only</strong> citation present in the node.</li>
+</ol>
+<h4 id="examples">Examples</h4>
+<blockquote>
+<p>I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a theory of change.</p>
+<p><a href="/posts/62152128-36b1-4229-a6ce-a78858975120/">Aaron Swartz</a>, (<a href="#citeproc_bib_item_3">Swartz 2010</a>)</p>
+</blockquote>
+<!--quoteend-->
+<blockquote>
+<p>Muad&rsquo;Dib learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn. It&rsquo;s shocking to find how many people do not believe they can learn, and how many more believe learning to be difficult. Muad&rsquo;Dib knew that every experience carries its lesson.</p>
+<p><em>Princess Irulan, (<a href="#citeproc_bib_item_1">Herbert 1999</a>)</em></p>
+</blockquote>
+<!--quoteend-->
+<blockquote>
+<p>Org is a mode for keeping notes, maintaining TODO lists, and project planning with a fast and effective plain-text markup language. It also is an authoring system with unique support for literate programming and reproducible research.</p>
+<p><em><a href="https://orgmode.org/manual/Summary.html">org-mode Manual: Summary</a></em></p>
+</blockquote>
+<h3 id="large-quotes-are-okay">Large quotes are okay</h3>
+<p>There isn&rsquo;t a hard rule on how much quoting is too much. Large quotes <a href="/posts/18745aec-fcd1-4dd5-a55f-73fdc409aacb/">have their benefits</a> and are simple to capture using (<a href="#citeproc_bib_item_2">Porter 2022</a>) bookmarklets.</p>
+<h3 id="nodes-can-just-be-a-quote">Nodes can just be a quote</h3>
+<p>Quotes can live in stand-alone single nodes (eg: <a href="/posts/7c49d995-a4d4-4c95-84c0-9dae9d8ab498/">The First Lesson</a>). This is multi-purpose:</p>
+<ol>
+<li>When in doubt, make the node smaller.</li>
+<li>Easier to link to specific quotes: Suppose a reader clicks on a link and arrives on a page with five quotes visible. This may confuse the reader. Which of the visible quotes is the one to which the link pointed?</li>
+<li>Works in a transclusion model better than larger nodes</li>
+</ol>
+<h2 id="links">Links</h2>
+<h3 id="show-favicons-alongside-links">Show favicons alongside links</h3>
+<p>Favicons are nice additions to links. They provide visual context to where the reader expects the link to take them. Include them alongside external links. I&rsquo;ve written a <a href="https://github.com/cashweaver/basic-favicon-links">script to make the process easier</a>.</p>
+<h3 id="every-node-must-include-backlinks">Every node must include backlinks</h3>
+<p>Backlinks are the backbone of a powerful <a href="/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710/">zettelkasten</a> system. The published form of these notes <strong>must</strong> include backlinks.</p>
+<h2 id="references">References</h2>
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Porter, Adam. 2022. “Org-Protocol-Capture-Html.” <a href="https://github.com/alphapapa/org-protocol-capture-html">https://github.com/alphapapa/org-protocol-capture-html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
+</div>
+]]></content:encoded></item><item><title>README</title><link>http://cashpw.com/posts/eb245ca9-b067-40f3-b220-0dff690e4058/</link><pubDate>Mon, 27 Dec 2021 20:32:00 -0800</pubDate><guid>http://cashpw.com/posts/eb245ca9-b067-40f3-b220-0dff690e4058/</guid><description>The purpose of this README is to explain some of the details in this collection of content. In no particular order:
+How I Write Notes These notes are heavily inspired by others There is a style guide</description><content:encoded><![CDATA[<p>The purpose of this <code>README</code> is to explain some of the details in this collection of content. In no particular order:</p>
+<ul>
+<li><a href="/posts/5140bc26-825e-4e26-aec6-3738a5fe2ab1/">How I Write Notes</a></li>
+<li>These notes are heavily inspired by <a href="/posts/32438fd5-c050-46a9-9611-97d571512f3e/">others</a></li>
+<li>There is a <a href="/posts/05911fff-a79b-4462-bf6d-a3cec4e1c9f2/">style guide</a></li>
+</ul>
+]]></content:encoded></item></channel></rss>

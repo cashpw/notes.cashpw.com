@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>has-todo on Cash Prokop-Weaver</title><link>http://cashpw.com/tags/has-todo/</link><description>Recent content in has-todo on Cash Prokop-Weaver</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Nov 2022 08:59:00 -0800</lastBuildDate><atom:link href="http://cashpw.com/tags/has-todo/index.xml" rel="self" type="application/rss+xml"/><item><title>Zach Tellman | Standing in the Shadow of Giants</title><link>http://cashpw.com/posts/b6ec05a1-d6cf-4342-9d4a-7ca50521a478/</link><pubDate>Sat, 12 Nov 2022 08:59:00 -0800</pubDate><guid>http://cashpw.com/posts/b6ec05a1-d6cf-4342-9d4a-7ca50521a478/</guid><description>Zach Tellman, (Tellman n.d.)
+Summary Thoughts Notes Consider this excerpt from John Mason Peck&amp;rsquo;s A New Guide For Emigrants to the West, written almost ten years before &amp;ldquo;manifest destiny&amp;rdquo; was invented:
+,#+begin_quote First comes the pioneer, who depends for the subsistence of his family chiefly upon the natural growth of vegetation, called the &amp;ldquo;range,&amp;rdquo; and the proceeds of hunting. His implements of agriculture are rude [and] chiefly of his own make….</description><content:encoded><![CDATA[<p><a href="/posts/d89d29a2-927a-4369-ad45-bc031a2f7266/">Zach Tellman</a>, (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)</p>
+<h2 id="summary">Summary</h2>
+<h2 id="thoughts">Thoughts</h2>
+<h2 id="notes">Notes</h2>
+<blockquote>
+<p>Consider this excerpt from John Mason Peck&rsquo;s A New Guide For Emigrants to the West, written almost ten years before &ldquo;manifest destiny&rdquo; was invented:</p>
+<p>,#+begin_quote
+First comes the pioneer, who depends for the subsistence of his family chiefly upon the natural growth of vegetation, called the &ldquo;range,&rdquo; and the proceeds of hunting. His implements of agriculture are rude [and] chiefly of his own make…. He builds his cabin, gathers around him a few other families of similar tastes and habits, and occupies till the range is somewhat subdued, and hunting a little precarious, or, which is more frequently the case, till the neighbors crowd around, roads, bridges, and fields annoy him, and he lacks elbow room. The preëmption law enables him to dispose of his cabin and cornfield to the next class of emigrants; and, to employ his own figures, he &ldquo;breaks for the high timber,&rdquo; &ldquo;clears out for the New Purchase,&rdquo; or migrates to Arkansas or Texas, to work the same process over…. [T]he real Eldorado is still farther on.
+,#+end_quote</p>
+<p>A similar pattern can be seen in the open source community. There has been, for instance, a consistent migratory pattern from Ruby to node.js to Go, Rust, and Elixir. At first, each community is defined by its potential. But as that potential is realized, the community begins to be defined by its compromises. That change is felt most keenly by the people who were there first, who remember what it was like when anything seemed possible. They feel fenced in and so they move on, in search of their golden city.</p>
+</blockquote>
+<h2 id="references">References</h2>
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Standing in the Shadow of Giants.” Accessed November 12, 2022. <a href="https://ideolalia.com/essays/standing-in-the-shadow-of-giants.html">https://ideolalia.com/essays/standing-in-the-shadow-of-giants.html</a>.</div>
+</div>
+]]></content:encoded></item><item><title>Composability</title><link>http://cashpw.com/posts/5d0c9c41-219f-4330-b2e6-0ae5daaa5355/</link><pubDate>Thu, 10 Nov 2022 18:47:00 -0800</pubDate><guid>http://cashpw.com/posts/5d0c9c41-219f-4330-b2e6-0ae5daaa5355/</guid><description>Composability is a system design principle that deals with the inter-relationships of components. A highly composable system provides components that can be selected and assembled in various combinations to satisfy specific user requirements. In information systems, the essential features that make a component composable are that it be:
+self-contained (modular): it can be deployed independently – note that it may cooperate with other components, but dependent components are replaceable stateless: it treats each request as an independent transaction, unrelated to any previous request.</description><content:encoded><![CDATA[<blockquote>
+<p>Composability is a system design principle that deals with the inter-relationships of components. A highly composable system provides components that can be selected and assembled in various combinations to satisfy specific user requirements. In information systems, the essential features that make a component composable are that it be:</p>
+<ul>
+<li>self-contained (modular): it can be deployed independently – note that it may cooperate with other components, but dependent components are replaceable</li>
+<li>stateless: it treats each request as an independent transaction, unrelated to any previous request. Stateless is just one technique; managed state and transactional systems can also be composable, but with greater difficulty.</li>
+</ul>
+<p>(<a href="#citeproc_bib_item_1">“Composability” 2021</a>)</p>
+</blockquote>
+<h2 id="references">References</h2>
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Composability.” 2021. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Composability&oldid=1030547806">https://en.wikipedia.org/w/index.php?title=Composability&#38;oldid=1030547806</a>.</div>
+</div>
+]]></content:encoded></item><item><title>Biconnected component</title><link>http://cashpw.com/posts/65a0da36-2723-420c-bb3a-80c5fbffc225/</link><pubDate>Thu, 10 Nov 2022 18:37:00 -0800</pubDate><guid>http://cashpw.com/posts/65a0da36-2723-420c-bb3a-80c5fbffc225/</guid><description> References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</description><content:encoded><![CDATA[<h2 id="d41d8c"></h2>
+<h2 id="references">References</h2>
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+]]></content:encoded></item><item><title>James C. Scott | Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed</title><link>http://cashpw.com/posts/893aff24-4682-45e6-8d50-e4d55f0aa0cf/</link><pubDate>Thu, 10 Nov 2022 18:24:00 -0800</pubDate><guid>http://cashpw.com/posts/893aff24-4682-45e6-8d50-e4d55f0aa0cf/</guid><description>James Scott, (Scott 2020)
+Summary Thoughts Notes References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}Scott, James C. 2020. Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed. Veritas paperback edition. New Haven: Yale University Press.</description><content:encoded><![CDATA[<p><a href="/posts/893aff24-4682-45e6-8d50-e4d55f0aa0cf/">James Scott</a>, (<a href="#citeproc_bib_item_1">Scott 2020</a>)</p>
+<h2 id="summary">Summary</h2>
+<h2 id="thoughts">Thoughts</h2>
+<h2 id="notes">Notes</h2>
+<h2 id="references">References</h2>
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Scott, James C. 2020. <i>Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed</i>. Veritas paperback edition. New Haven: Yale University Press.</div>
+</div>
+]]></content:encoded></item><item><title>James Scott</title><link>http://cashpw.com/posts/26795f01-3eeb-4cb0-aa43-291a091916ae/</link><pubDate>Thu, 10 Nov 2022 18:24:00 -0800</pubDate><guid>http://cashpw.com/posts/26795f01-3eeb-4cb0-aa43-291a091916ae/</guid><description>Among other things:
+:noexport:</description><content:encoded>&lt;p>Among other things:&lt;/p>
+&lt;h2 id="noexport">:noexport:&lt;/h2></content:encoded></item><item><title>Mnemonic</title><link>http://cashpw.com/posts/f38ffe48-0117-4338-8bd5-e0b05101e64f/</link><pubDate>Fri, 04 Nov 2022 17:38:00 -0700</pubDate><guid>http://cashpw.com/posts/f38ffe48-0117-4338-8bd5-e0b05101e64f/</guid><description/><content:encoded>&lt;h2 id="d41d8c">&lt;/h2></content:encoded></item></channel></rss>
