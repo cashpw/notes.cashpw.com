@@ -1,4 +1,4 @@
-a:not([href*='www.cashpw.com']):not([href^='#']):not([href^='/']):after {
+a:not([href*='cashpw.com']):not([href^='#']):not([href^='/']):after {
   background-position: 0 center;
   background-repeat: no-repeat;
   background-size: 16px 16px !important;

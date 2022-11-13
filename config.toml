@@ -30,7 +30,7 @@ home = [ "HTML", "RSS", "JSON" ]
 ShowCodeCopyButtons = true
 ShowReadingTime = true
 ShowToc = true
-TocSide = "right"
+TocSide = "left"
 TocOpen = true
 # Instant click breaks some javascript
 EnableInstantClick = false
