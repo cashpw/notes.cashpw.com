@@ -4,6 +4,7 @@ enableRobotsTXT = true
 languageCode = "en-us"
 theme = "PaperModX"
 title = "Cash Prokop-Weaver"
+googleAnalytics = "UA-69408538-1"
 
 [[menu.main]]
 identifier = "tags"
@@ -27,24 +28,22 @@ weight = 20
 home = [ "HTML", "RSS", "JSON" ]
 
 [params]
+DateFormat = "2006-01-02"
+# Instant click breaks some javascript
+EnableInstantClick = false
 ShowCodeCopyButtons = true
 ShowReadingTime = true
 ShowToc = true
-TocSide = "left"
 TocOpen = true
-# Instant click breaks some javascript
-EnableInstantClick = false
-DateFormat = "2006-01-02"
+TocSide = "left"
 author = "Cash Prokop-Weaver"
 defaultTheme = "dark"
 description = "Blog and notes"
-env = "production"
-googleAnalytics = "UA-69408538-1"
-GoogleAnalytics = "UA-69408538-1"
-hideSummary = false
-hideMeta = false
-showAuthor = false
 enableMathjax = true
+env = "production"
+hideMeta = false
+hideSummary = false
+showAuthor = false
 
   [params.editPost]
   URL = "https://github.com/cashpw/notes/edit/main"
