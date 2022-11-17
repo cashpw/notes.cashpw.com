@@ -56,15 +56,18 @@ showAuthor = false
   [params.homeInfoParams]
   Title = "Hi there 👋"
   Content = """
-This website contains my personal notes.
 
-The key component of my notes are the [links and backlinks which connect them](/posts/6037800d-34c3-4d62-a33b-3931d694f083) which appear on every page beneath the \"Backlinks\" heading. Links allow forward movement (e.g. A to B). Backlinks allow backward movement (e.g. B to A). These sorts of interconnected notes are sometimes called [zettelkasten](/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710), a second brain, or a digital garden. They are a type of [personal knowledge management](/posts/773406e0-fe95-41f4-a254-b2c6ade18ce9) system.
+These are my personal notes.
 
-I write these notes for myself and share them online as a way of increasing accountability for myself. The public nature of the notes encourages me to [think carefully about my own thoughts](/posts/efe31d96-34a6-439a-a34d-fdff9df0e51a) and [how I write](/posts/05911fff-a79b-4462-bf6d-a3cec4e1c9f2).
+The key component of my notes are the [links and backlinks which connect them](/posts/6037800d-34c3-4d62-a33b-3931d694f083). These sorts of interconnected notes are a type of [personal knowledge management](/posts/773406e0-fe95-41f4-a254-b2c6ade18ce9) system. They're sometimes called [zettelkasten](/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710), a second brain, or a digital garden.
+
+Related to the [Metagame](/posts/462b9154-2519-45e9-a4f5-35e7c32128c7) of taking notes:
+
+-   [How I write notes](posts/5140bc26-825e-4e26-aec6-3738a5fe2ab1)
+-   [Why I write notes](posts/7add4362-8a4e-4148-ac25-185213327b33)
 
 Check out the [archives](/archives) for a full list of posts or start from one of my favorites:
 
-1. [The Meditations of the Emperor Marcus Antoninus](/posts/84e0e30f-a362-4aae-b540-4541e00af0a8)
 1. [Do things that compound](/posts/92cf48f0-63a6-4d1d-9275-c80f6743ccb9/)
 1. [Tell all the truth but tell it slant](/posts/af1ca7da-bebf-4161-8162-057cae4a0951)
 1. [Play to Win](/posts/4398317e-6aa1-4dd4-b2a5-6334256ca2cc)
