@@ -61,6 +61,44 @@ concept
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
+<h2>Quicksort implementation in Python
+</h2>
+</header>
+<div class=entry-content>
+<p>An implementation of Quicksort in Python.
+from typing import List, Callable def swap(ints: List[int], indexA: int, indexB: int) -> None: """Swap the values in INTS at INDEXA and INDEXB.""" valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> int: """Sorts sublist into [{&lt;= pivot}, pivot, {> than pivot}]""" pivot_index = high_index i = low_index - 1 for j in range(low_index, high_index): if comparator(ints[j], ints[pivot_index]): i += 1 swap(ints, i, j) i += 1 swap(ints, i, pivot_index) return i def quick_sort_inner(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> List[int]: if low_index >= high_index or low_index &lt; 0: return pivot_index = partition(ints, comparator, low_index, high_index) quick_sort_inner(ints, comparator, 0, pivot_index - 1) quick_sort_inner(ints, comparator, pivot_index + 1, high_index) return ints def quick_sort(ints: List[int], comparator: Callable[[int, int], bool]) -> List[int]: return quick_sort_inner(ints, comparator, 0, len(ints) - 1) a = [10, 15, 5, 8, 2, 1, 3, 9] print(quick_sort(a, lambda a, b: a &lt;= b)) </p>
+</div>
+<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:15:18 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://cashpw.com/posts/ed982b37-6f8e-4b89-bb51-ac608510325e/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Quicksort
+</h2>
+</header>
+<div class=entry-content>
+<p>Quicksort is an in-place Sorting algorithm. […] It works by selecting a ‘pivot’ element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
+(“Quicksort” 2022)
+Quicksort is:
+Unstable sorting algorithm Internal memory algorithm Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies....</p>
+</div>
+<footer class=entry-footer><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:15:09 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Quicksort" href=http://cashpw.com/posts/d7bcd831-6a3f-4885-a654-15f0b11c9966/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Bubble sort implementation in Python
+</h2>
+</header>
+<div class=entry-content>
+<p>An implementation of Bubble sort in Python.
+from typing import List def bubble_sort(ints: List[int]) -> List[int]: def do_pass() -> bool: sorted = True for i in range(len(ints)-1): if ints[i] > ints[i + 1]: sorted = False swap(i, i+1) return sorted def swap(indexA: int, indexB: int) -> None: valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA sorted = False while not sorted: sorted = do_pass() return ints return bubble_sort([10, 5, 4, 40]) </p>
+</div>
+<footer class=entry-footer><span title="2022-06-30 10:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:50:33 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Bubble sort implementation in Python" href=http://cashpw.com/posts/af832252-c4a9-4364-bdef-59c1a8ea6ebe/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
 <h2>Bubble sort
 </h2>
 </header>
@@ -147,41 +185,6 @@ Vertices Edges A B, C B A, C C A, B References .csl-entry{text-indent: -1....</p
 </div>
 <footer class=entry-footer><span title="2022-06-29 19:07:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:47:36 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
 <a class=entry-link aria-label="post link to Adjacency list" href=http://cashpw.com/posts/a95ec6df-303d-4a07-a9bd-ac6e4b807679/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Iterative deepening depth-first-search
-</h2>
-</header>
-<div class=entry-content>
-<p>In computer science, iterative deepening search or more specifically iterative deepening depth-first search[2] (IDS or IDDFS) is a state space/graph search strategy in which a depth-limited version of Depth-first search search is run repeatedly with increasing depth limits until the goal is found. IDDFS is optimal like Breadth-first search, but uses much less memory; at each iteration, it visits the nodes in the search tree in the same order as depth-first search, but the cumulative order in which nodes are first visited is effectively breadth-first....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 18:09:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:03:04 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Iterative deepening depth-first-search" href=http://cashpw.com/posts/0ad51c11-995b-4437-a218-82df11697f7a/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Breadth-first search
-</h2>
-</header>
-<div class=entry-content>
-<p>Breadth-first search (BFS) is an algorithm for searching a Tree [or Graph] Data structure for a node that satisfies a given property. It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level. Extra memory, usually a Queue, is needed to keep track of the child nodes that were encountered but not yet explored....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 17:20:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:50:24 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Breadth-first search" href=http://cashpw.com/posts/cff4f06c-6179-423d-aa1d-ba54d85615e2/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Graph
-</h2>
-</header>
-<div class=entry-content>
-<p>In mathematics, and more specifically in Graph Theory, a graph is a structure amounting to a set of objects in which some pairs of the objects are in some sense “related”. The objects correspond to mathematical abstractions called Vertices (also called nodes or points) and each of the related pairs of vertices is called an Edge (also called link or line).
-(“Graph (Discrete Mathematics)” 2022)
-Types Directed graph Undirected graph References ....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 16:42:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:58:30 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Graph" href=http://cashpw.com/posts/8bff4dfc-8073-4d45-ab89-7b3f97323327/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cash Prokop-Weaver</title><link>http://cashpw.com/</link><description>Recent content on Cash Prokop-Weaver</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Nov 2022 08:59:00 -0800</lastBuildDate><atom:link href="http://cashpw.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Zach Tellman | Standing in the Shadow of Giants</title><link>http://cashpw.com/posts/b6ec05a1-d6cf-4342-9d4a-7ca50521a478/</link><pubDate>Sat, 12 Nov 2022 08:59:00 -0800</pubDate><guid>http://cashpw.com/posts/b6ec05a1-d6cf-4342-9d4a-7ca50521a478/</guid><description>Zach Tellman, (Tellman n.d.)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cash Prokop-Weaver</title><link>http://cashpw.com/</link><description>Recent content on Cash Prokop-Weaver</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 08:54:00 -0800</lastBuildDate><atom:link href="http://cashpw.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Why I write notes</title><link>http://cashpw.com/posts/7add4362-8a4e-4148-ac25-185213327b33/</link><pubDate>Wed, 16 Nov 2022 08:54:00 -0800</pubDate><guid>http://cashpw.com/posts/7add4362-8a4e-4148-ac25-185213327b33/</guid><description>Reasons for writing these notes:
+Documenting your work Write to think Remember what I&amp;rsquo;ve learned: I append flashcards (org-fc) to (almost) every note I have a similar private repository for confidential work-related notes Also see How I write notes.
+Flashcards</description><content:encoded><![CDATA[<p>Reasons for writing these notes:</p>
+<ul>
+<li><a href="/posts/c74e3129-38af-45f8-bd2b-8a6fa5a0cad0/">Documenting your work</a></li>
+<li><a href="/posts/7add4362-8a4e-4148-ac25-185213327b33/">Write to think</a></li>
+<li>Remember what I&rsquo;ve learned: I append flashcards (<a href="/posts/4be26817-4ffd-4975-97aa-deda536235a5/">org-fc</a>) to (almost) every note
+<ul>
+<li>I have a similar <a href="/posts/abb1e1cc-12bb-42fe-9004-555145c8faaa/">private</a> repository for confidential work-related notes</li>
+</ul>
+</li>
+</ul>
+<p>Also see <a href="/posts/5140bc26-825e-4e26-aec6-3738a5fe2ab1/">How I write notes</a>.</p>
+<h2 id="flashcards">Flashcards</h2>
+]]></content:encoded></item><item><title>Zach Tellman | Standing in the Shadow of Giants</title><link>http://cashpw.com/posts/b6ec05a1-d6cf-4342-9d4a-7ca50521a478/</link><pubDate>Sat, 12 Nov 2022 08:59:00 -0800</pubDate><guid>http://cashpw.com/posts/b6ec05a1-d6cf-4342-9d4a-7ca50521a478/</guid><description>Zach Tellman, (Tellman n.d.)
 Summary Thoughts Notes Consider this excerpt from John Mason Peck&amp;rsquo;s A New Guide For Emigrants to the West, written almost ten years before &amp;ldquo;manifest destiny&amp;rdquo; was invented:
 ,#+begin_quote First comes the pioneer, who depends for the subsistence of his family chiefly upon the natural growth of vegetation, called the &amp;ldquo;range,&amp;rdquo; and the proceeds of hunting. His implements of agriculture are rude [and] chiefly of his own make….</description><content:encoded><![CDATA[<p><a href="/posts/d89d29a2-927a-4369-ad45-bc031a2f7266/">Zach Tellman</a>, (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)</p>
 <h2 id="summary">Summary</h2>
@@ -121,6 +135,22 @@ Notes In Seeing Like a State, James C. Scott defines &amp;ldquo;legibility&amp;r
 <h2 id="references">References</h2>
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Two Concepts of Legibility.” Accessed November 11, 2022. <a href="https://ideolalia.com/essays/two-concepts-of-legibility.html">https://ideolalia.com/essays/two-concepts-of-legibility.html</a>.</div>
+</div>
+]]></content:encoded></item><item><title>Org mode</title><link>http://cashpw.com/posts/4c8c9bb9-7cba-4a9e-89dc-4d0095438126/</link><pubDate>Mon, 07 Nov 2022 07:41:00 -0800</pubDate><guid>http://cashpw.com/posts/4c8c9bb9-7cba-4a9e-89dc-4d0095438126/</guid><description> Flashcards</description><content:encoded>&lt;h2 id="d41d8c">&lt;/h2>
+&lt;h2 id="flashcards">Flashcards&lt;/h2></content:encoded></item><item><title>Org flashcards</title><link>http://cashpw.com/posts/4be26817-4ffd-4975-97aa-deda536235a5/</link><pubDate>Mon, 07 Nov 2022 07:39:00 -0800</pubDate><guid>http://cashpw.com/posts/4be26817-4ffd-4975-97aa-deda536235a5/</guid><description>Org-fc is a Spaced repetition system for Emacs' org-mode.
+It allows you to mark headlines in a file as &amp;ldquo;flashcards&amp;rdquo;, turning pieces of knowledge you want to learn into a question-answer test.
+These cards are reviewed at regular interval. After each review, the next review interval is calculated based on how well you remembered the contents of the card.
+(Leon 2022)
+Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}Leon. 2022. “Org Flashcards.</description><content:encoded><![CDATA[<blockquote>
+<p>Org-fc is a <a href="/posts/a72eecfc-c64a-438a-ae26-d18c5725cd5c/">Spaced repetition</a> system for <a href="/posts/5ad4f07c-b06a-4dbf-afa5-176f25b0ded7/">Emacs</a>' <a href="/posts/4c8c9bb9-7cba-4a9e-89dc-4d0095438126/">org-mode</a>.</p>
+<p>It allows you to mark headlines in a file as &ldquo;flashcards&rdquo;, turning pieces of knowledge you want to learn into a question-answer test.</p>
+<p>These cards are reviewed at regular interval. After each review, the next review interval is calculated based on how well you remembered the contents of the card.</p>
+<p>(<a href="#citeproc_bib_item_1">Leon 2022</a>)</p>
+</blockquote>
+<h2 id="flashcards">Flashcards</h2>
+<h2 id="references">References</h2>
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Leon. 2022. “Org Flashcards.” <a href="https://github.com/l3kn/org-fc">https://github.com/l3kn/org-fc</a>.</div>
 </div>
 ]]></content:encoded></item><item><title>Mnemonic</title><link>http://cashpw.com/posts/f38ffe48-0117-4338-8bd5-e0b05101e64f/</link><pubDate>Fri, 04 Nov 2022 17:38:00 -0700</pubDate><guid>http://cashpw.com/posts/f38ffe48-0117-4338-8bd5-e0b05101e64f/</guid><description/><content:encoded>&lt;h2 id="d41d8c">&lt;/h2></content:encoded></item><item><title>Why is it always the libs?</title><link>http://cashpw.com/posts/d8ff4c8c-4032-473b-9060-8bd7903784c8/</link><pubDate>Tue, 01 Nov 2022 08:54:00 -0700</pubDate><guid>http://cashpw.com/posts/d8ff4c8c-4032-473b-9060-8bd7903784c8/</guid><description>People will tell you, &amp;ldquo;I don&amp;rsquo;t care about anything, I just like triggering the libs,&amp;rdquo; but why is it always libs? It is piss easy (and also hilarious) to upset conservatives, why only go after the SJWs? The easy answer is, well, if you upset a feminist, you might make her cry; if you upset a Nazi, he might stab you, and that has a cooling effect. But the more obvious answer is that they actually agree with the racist, MRA, and TERF talking points they repeat, but would rather not think about it.</description><content:encoded><![CDATA[<blockquote>
 <p>People will tell you, &ldquo;I don&rsquo;t care about anything, I just like triggering the libs,&rdquo; but why is it always libs? It is piss easy (and also hilarious) to upset conservatives, why only go after the SJWs? The easy answer is, well, if you upset a feminist, you might make her cry; if you upset a Nazi, he might stab you, and that has a cooling effect. But the more obvious answer is that they actually agree with the racist, MRA, and TERF talking points they repeat, but would rather not think about it.</p>
@@ -10161,9 +10191,9 @@ Thoughts I enjoyed the personality that this essay had. A more direct essay coul
 ]]></content:encoded></item><item><title>Bloom's Taxonomy</title><link>http://cashpw.com/posts/5fbaa05c-666f-4d45-b798-ff36ace22126/</link><pubDate>Sun, 06 Feb 2022 15:38:00 -0800</pubDate><guid>http://cashpw.com/posts/5fbaa05c-666f-4d45-b798-ff36ace22126/</guid><description>Bloom&amp;rsquo;s taxonomy is a set of three hierarchical models used to classify educational learning objectives into levels of complexity and specificity. &amp;hellip; The cognitive domain list has been the primary focus of most traditional education and is frequently used to structure curriculum learning objectives, assessments and activities.
 (“Bloom’s Taxonomy” 2022)
 In order from least complex to most complex:
-Knowledge Comprehension Application Analysis Synthesis Evaluation Anderson proposed proposed a revision of Bloom&amp;rsquo;s cognitive taxomomy (in order from least complex to most complex):</description><content:encoded><![CDATA[<blockquote>
+Knowledge Comprehension Application Analysis Synthesis Evaluation Revised taxonomy Bloom proposed a revision in 2001 ((Anderson and Krathwohl 2001)).</description><content:encoded><![CDATA[<blockquote>
 <p>Bloom&rsquo;s taxonomy is a set of three hierarchical models used to classify educational learning objectives into levels of complexity and specificity. &hellip; The cognitive domain list has been the primary focus of most traditional education and is frequently used to structure curriculum learning objectives, assessments and activities.</p>
-<p>(<a href="#citeproc_bib_item_1">“Bloom’s Taxonomy” 2022</a>)</p>
+<p>(<a href="#citeproc_bib_item_3">“Bloom’s Taxonomy” 2022</a>)</p>
 </blockquote>
 <p>In order from least complex to most complex:</p>
 <ol>
@@ -10178,7 +10208,67 @@ Knowledge Comprehension Application Analysis Synthesis Evaluation Anderson propo
     <img loading="lazy" src="/ox-hugo/2021-12-31_12-30-10_BloomsTaxonomy.png"/> 
 </figure>
 
-<p>Anderson proposed <a href="https://books.google.com/books?vid=ISBN978-0-8013-1903-7">proposed a revision of Bloom&rsquo;s cognitive taxomomy</a> (in order from least complex to most complex):</p>
+<h2 id="revised-taxonomy">Revised taxonomy</h2>
+<p>Bloom proposed a revision in 2001 ((<a href="#citeproc_bib_item_1">Anderson and Krathwohl 2001</a>)).</p>
+<blockquote>
+<figure>
+    <img loading="lazy" src="/ox-hugo/2022-11-15_06-48-11_Blooms-Taxonomy-650x366.jpg"/> 
+</figure>
+
+<p>(<a href="#citeproc_bib_item_2">Armstrong n.d.</a>)</p>
+</blockquote>
+<h3 id="remember--bloom-s-taxonomy-bloomtaxonomy2022-dot-md">Remember (<a href="/posts/5fbaa05c-666f-4d45-b798-ff36ace22126/">Bloom&rsquo;s Taxonomy</a>)</h3>
+<p>Recall facts and basic concepts</p>
+<h3 id="understand--bloom-s-taxonomy-bloomtaxonomy2022-dot-md">Understand (<a href="/posts/5fbaa05c-666f-4d45-b798-ff36ace22126/">Bloom&rsquo;s Taxonomy</a>)</h3>
+<p>Explain ideas or concepts</p>
+<h3 id="apply--bloom-s-taxonomy-bloomtaxonomy2022-dot-md">Apply (<a href="/posts/5fbaa05c-666f-4d45-b798-ff36ace22126/">Bloom&rsquo;s Taxonomy</a>)</h3>
+<p>Use information in new situations</p>
+<h3 id="analyze--bloom-s-taxonomy-bloomtaxonomy2022-dot-md">Analyze (<a href="/posts/5fbaa05c-666f-4d45-b798-ff36ace22126/">Bloom&rsquo;s Taxonomy</a>)</h3>
+<p>Draw connections among ideas</p>
+<h3 id="evaluate--bloom-s-taxonomy-bloomtaxonomy2022-dot-md">Evaluate (<a href="/posts/5fbaa05c-666f-4d45-b798-ff36ace22126/">Bloom&rsquo;s Taxonomy</a>)</h3>
+<h3 id="create--bloom-s-taxonomy-bloomtaxonomy2022-dot-md">Create (<a href="/posts/5fbaa05c-666f-4d45-b798-ff36ace22126/">Bloom&rsquo;s Taxonomy</a>)</h3>
+<h2 id="mnemonic--mnemonic-dot-md"><a href="/posts/f38ffe48-0117-4338-8bd5-e0b05101e64f/">Mnemonic</a></h2>
+<blockquote>
+<p>Red undies attract all evil cats</p>
+<p>(<a href="#citeproc_bib_item_4">“mnemonics.co - Bloom’s Taxonomy” n.d.</a>)</p>
+</blockquote>
+<h2 id="related">Related</h2>
+<ul>
+<li><a href="/posts/85cfa8c4-9c7b-47d9-a593-8548385027f7/">Pedagogy</a></li>
+</ul>
+<h2 id="flashcards">Flashcards</h2>
+<h3 id="describe">Describe</h3>
+<table>
+<thead>
+<tr>
+<th>position</th>
+<th>ease</th>
+<th>box</th>
+<th>interval</th>
+<th>due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>front</td>
+<td>2.5</td>
+<td>-1</td>
+<td>0</td>
+<td>2022-11-07T16:49:13Z</td>
+</tr>
+<tr>
+<td>back</td>
+<td>2.5</td>
+<td>-1</td>
+<td>0</td>
+<td>2022-11-07T16:49:13Z</td>
+</tr>
+</tbody>
+</table>
+<p><a href="/posts/5fbaa05c-666f-4d45-b798-ff36ace22126/">Bloom&rsquo;s Taxonomy</a></p>
+<h4 id="back">Back</h4>
+<p>A set of hierarchical models used to classify educational learning objectives into levels of complexity and specificity. The cognitive model has been the primary focus of most traditional education.</p>
+<p>In order from least complex to most complex:</p>
 <ol>
 <li>Remember</li>
 <li>Understand</li>
@@ -10187,9 +10277,81 @@ Knowledge Comprehension Application Analysis Synthesis Evaluation Anderson propo
 <li>Evaluate</li>
 <li>Create</li>
 </ol>
+<h4 id="source">Source</h4>
+<p>(<a href="#citeproc_bib_item_3">“Bloom’s Taxonomy” 2022</a>)</p>
+<h3 id="image">Image</h3>
+<table>
+<thead>
+<tr>
+<th>position</th>
+<th>ease</th>
+<th>box</th>
+<th>interval</th>
+<th>due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>front</td>
+<td>2.5</td>
+<td>-1</td>
+<td>0</td>
+<td>2022-11-07T16:49:46Z</td>
+</tr>
+<tr>
+<td>back</td>
+<td>2.5</td>
+<td>-1</td>
+<td>0</td>
+<td>2022-11-07T16:49:46Z</td>
+</tr>
+</tbody>
+</table>
+<p><a href="/posts/5fbaa05c-666f-4d45-b798-ff36ace22126/">Bloom&rsquo;s Taxonomy</a></p>
+<h4 id="back">Back</h4>
+<figure>
+    <img loading="lazy" src="/ox-hugo/2021-12-31_12-30-10_BloomsTaxonomy.png"/> 
+</figure>
+
+<h4 id="source">Source</h4>
+<p>(<a href="#citeproc_bib_item_3">“Bloom’s Taxonomy” 2022</a>)</p>
+<h3 id="mnemonic--mnemonic-dot-md--for-bloom-s-taxonomy--bloomtaxonomy2022-dot-md"><a href="/posts/f38ffe48-0117-4338-8bd5-e0b05101e64f/">Mnemonic</a> for <a href="/posts/5fbaa05c-666f-4d45-b798-ff36ace22126/">Bloom&rsquo;s Taxonomy</a></h3>
+<table>
+<thead>
+<tr>
+<th>position</th>
+<th>ease</th>
+<th>box</th>
+<th>interval</th>
+<th>due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>front</td>
+<td>2.50</td>
+<td>0</td>
+<td>0.00</td>
+<td>2022-11-12T02:41:31Z</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Red: Remember</li>
+<li>Undies: Understand</li>
+<li>Attract: Apply</li>
+<li>All: Analyze</li>
+<li>Evil: Evaluate</li>
+<li>Cats: Create</li>
+</ul>
+<h4 id="source">Source</h4>
+<p>(<a href="#citeproc_bib_item_4">“mnemonics.co - Bloom’s Taxonomy” n.d.</a>)</p>
 <h2 id="references">References</h2>
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bloom’s Taxonomy.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Bloom%27s_taxonomy&oldid=1069354181">https://en.wikipedia.org/w/index.php?title=Bloom%27s_taxonomy&#38;oldid=1069354181</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Anderson, Lorin W., and David R. Krathwohl, eds. 2001. <i>A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives</i>. Complete ed. New York: Longman.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Armstrong, Patricia. n.d. “Bloom’s Taxonomy.” <i>Vanderbilt University</i>. Accessed November 15, 2022. <a href="https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/">https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Bloom’s Taxonomy.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Bloom%27s_taxonomy&oldid=1069354181">https://en.wikipedia.org/w/index.php?title=Bloom%27s_taxonomy&#38;oldid=1069354181</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“mnemonics.co - Bloom’s Taxonomy.” n.d. Accessed November 7, 2022. <a href="https://www.mnemonics.co/education/bloom-s-taxonomy">https://www.mnemonics.co/education/bloom-s-taxonomy</a>.</div>
 </div>
 ]]></content:encoded></item><item><title>Ben Kuhn | Be Impatient</title><link>http://cashpw.com/posts/2149d460-f6e0-4696-b34d-c2cc2228d8db/</link><pubDate>Sun, 06 Feb 2022 15:36:00 -0800</pubDate><guid>http://cashpw.com/posts/2149d460-f6e0-4696-b34d-c2cc2228d8db/</guid><description>Ben Kuhn, [&amp;lt;@kuhnBeImpatient2022-01-01T13:00:00Z&amp;gt; |
 Summary Thoughts Notes Being impatient is the best way to get faster at things. And across a surprising number of domains, being really fast correlates strongly with being effective.

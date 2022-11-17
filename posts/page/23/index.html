@@ -61,6 +61,45 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
+<h2>Merge sort
+</h2>
+</header>
+<div class=entry-content>
+<p>Conceptually, a merge sort works as follows:
+Divide the unsorted list into n sublists, each containing one element (a list of one element is considered sorted). Repeatedly merge sublists to produce new sorted sublists until there is only one sublist remaining. This will be the sorted list. (“Merge Sort” 2022)
+Merge sort is:
+Stable sorting algorithm External memory algorithm Algorithm procedure MergeSort(list) is if length of list &lt;= 1 then return list left, right = split(list) MergeSort(left) MergeSort(right) return Merge(left, right) Implementation Merge sort implementation in Python Complexity Worst-case Best-case Time \(O(n \operatorname{log}(n))\) \(O(n \operatorname{log}(n))\) Space \(O(n)\) \(O(n)\) References ....</p>
+</div>
+<footer class=entry-footer><span title="2022-07-01 11:23:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:08:14 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Merge sort" href=http://cashpw.com/posts/4ad76968-7e82-4d68-b8fa-ff6059f3c843/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Stable sorting algorithm
+</h2>
+</header>
+<div class=entry-content>
+<p> Stable sort algorithms sort equal elements in the same order that they appear in the input.
+(“Sorting Algorithm” 2022)
+>>> stable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')]) [(3, 'c'), (8, 'b'), (8, 'd'), (10, 'a')]) References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Sorting Algorithm.” 2022. Wikipedia, June. https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&oldid=1095879356. </p>
+</div>
+<footer class=entry-footer><span title="2022-07-01 11:08:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:22:52 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Stable sorting algorithm" href=http://cashpw.com/posts/740ce42a-3a80-4ecb-9438-fedff074443b/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Quicksort implementation in Python
+</h2>
+</header>
+<div class=entry-content>
+<p>An implementation of Quicksort in Python.
+from typing import List, Callable def swap(ints: List[int], indexA: int, indexB: int) -> None: """Swap the values in INTS at INDEXA and INDEXB.""" valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> int: """Sorts sublist into [{&lt;= pivot}, pivot, {> than pivot}]""" pivot_index = high_index i = low_index - 1 for j in range(low_index, high_index): if comparator(ints[j], ints[pivot_index]): i += 1 swap(ints, i, j) i += 1 swap(ints, i, pivot_index) return i def quick_sort_inner(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> List[int]: if low_index >= high_index or low_index &lt; 0: return pivot_index = partition(ints, comparator, low_index, high_index) quick_sort_inner(ints, comparator, 0, pivot_index - 1) quick_sort_inner(ints, comparator, pivot_index + 1, high_index) return ints def quick_sort(ints: List[int], comparator: Callable[[int, int], bool]) -> List[int]: return quick_sort_inner(ints, comparator, 0, len(ints) - 1) a = [10, 15, 5, 8, 2, 1, 3, 9] print(quick_sort(a, lambda a, b: a &lt;= b)) </p>
+</div>
+<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:15:18 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://cashpw.com/posts/ed982b37-6f8e-4b89-bb51-ac608510325e/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>Quicksort
 </h2>
 </header>
@@ -146,44 +185,6 @@ References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
 </div>
 <footer class=entry-footer><span title="2022-06-29 19:15:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:55:29 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
 <a class=entry-link aria-label="post link to Edge" href=http://cashpw.com/posts/7211246e-d3da-491e-a493-e84ba820e63f/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Vertex
-</h2>
-</header>
-<div class=entry-content>
-<p>In mathematics, and more specifically in graph theory, a vertex (plural vertices) or node is the fundamental unit of which Graph are formed: an undirected graph consists of a set of vertices and a set of Edges (unordered pairs of vertices), while a directed graph consists of a set of vertices and a set of arcs (ordered pairs of vertices).
-(“Vertex (Graph Theory)” 2022)
-References .csl-entry{text-indent: -1.5em; margin-left: 1....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 19:13:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:39:26 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Vertex" href=http://cashpw.com/posts/1b2526af-676d-4c0f-aa85-1ba05b8e7a93/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Adjacency list
-</h2>
-</header>
-<div class=entry-content>
-<p>In graph theory and computer science, an adjacency list is a collection of unordered lists used to represent a finite graph.
-(“Adjacency List” 2022)
-The above graph can be represented as the set \(S\) which contains \(\{B,C\}\), \(\{A,C\}\), \(\{B,A\}\).
-Vertices Edges A B, C B A, C C A, B References .csl-entry{text-indent: -1....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 19:07:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:47:36 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Adjacency list" href=http://cashpw.com/posts/a95ec6df-303d-4a07-a9bd-ac6e4b807679/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Iterative deepening depth-first-search
-</h2>
-</header>
-<div class=entry-content>
-<p>In computer science, iterative deepening search or more specifically iterative deepening depth-first search[2] (IDS or IDDFS) is a state space/graph search strategy in which a depth-limited version of Depth-first search search is run repeatedly with increasing depth limits until the goal is found. IDDFS is optimal like Breadth-first search, but uses much less memory; at each iteration, it visits the nodes in the search tree in the same order as depth-first search, but the cumulative order in which nodes are first visited is effectively breadth-first....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 18:09:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:03:04 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Iterative deepening depth-first-search" href=http://cashpw.com/posts/0ad51c11-995b-4437-a218-82df11697f7a/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

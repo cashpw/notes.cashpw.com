@@ -61,6 +61,40 @@ concept
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
+<h2>Ibuprofen
+</h2>
+</header>
+<div class=entry-content>
+<p></p>
+</div>
+<footer class=entry-footer><span title="2022-07-05 17:08:00 -0700 -0700">2022-07-05</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:01:21 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;0 min</footer>
+<a class=entry-link aria-label="post link to Ibuprofen" href=http://cashpw.com/posts/f438ab7b-6518-4806-8e2f-f591376677f8/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Greek alphabet
+</h2>
+</header>
+<div class=entry-content>
+<p>Name Letter Alpha Αα Beta Ββ Chi Χχ Delta Δδ Epsilon Εε Eta Ηη Gamma Γγ Iota Ιι Kappa Κκ Lambda Λλ Mu Μμ Nu Νν Omega Ωω Omicron Οο Phi Φφ Pi Ππ Psi Ψψ Rho Ρρ Sigma Σσς Tau Ττ Theta Θθ Upsilon Υυ Xi Ξξ Zeta Ζζ (“Greek Alphabet” 2022)...</p>
+</div>
+<footer class=entry-footer><span title="2022-07-03 06:37:00 -0700 -0700">2022-07-03</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:58:44 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
+<a class=entry-link aria-label="post link to Greek alphabet" href=http://cashpw.com/posts/a7c4fe3e-5372-4c00-a66c-5a40c4057a6e/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Quickselect implementation in Python
+</h2>
+</header>
+<div class=entry-content>
+<p>An implementation of Quickselect in Python.
+from typing import List, Optional def swap(ints: List[int], indexA: int, indexB: int) -> None: valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], left_index: int, right_index: int, pivot_index: int) -> int: """Partition the subsection of INTS from [LEFT_INDEX, RIGHT_INDEX]. Values left of returned index will be less than the value at the returned index.""" pivot_value = ints[pivot_index] swap(ints, pivot_index, right_index) i = left_index - 1 for j in range(left_index, right_index): if ints[j] &lt;= pivot_value: i += 1 swap(ints, i, j) i += 1 swap(ints, i, right_index) return i def select_pivot_index(low: int, high: int) -> int: """Return a value between [low, high]....</p>
+</div>
+<footer class=entry-footer><span title="2022-07-01 16:54:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:14:55 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;2 min</footer>
+<a class=entry-link aria-label="post link to Quickselect implementation in Python" href=http://cashpw.com/posts/ffec0117-bbea-4197-865c-112e417c8f1d/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
 <h2>Selection algorithm
 </h2>
 </header>
@@ -146,44 +180,6 @@ Stable sorting algorithm External memory algorithm Algorithm procedure MergeSort
 </div>
 <footer class=entry-footer><span title="2022-07-01 11:08:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:22:52 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
 <a class=entry-link aria-label="post link to Stable sorting algorithm" href=http://cashpw.com/posts/740ce42a-3a80-4ecb-9438-fedff074443b/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Quicksort implementation in Python
-</h2>
-</header>
-<div class=entry-content>
-<p>An implementation of Quicksort in Python.
-from typing import List, Callable def swap(ints: List[int], indexA: int, indexB: int) -> None: """Swap the values in INTS at INDEXA and INDEXB.""" valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> int: """Sorts sublist into [{&lt;= pivot}, pivot, {> than pivot}]""" pivot_index = high_index i = low_index - 1 for j in range(low_index, high_index): if comparator(ints[j], ints[pivot_index]): i += 1 swap(ints, i, j) i += 1 swap(ints, i, pivot_index) return i def quick_sort_inner(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> List[int]: if low_index >= high_index or low_index &lt; 0: return pivot_index = partition(ints, comparator, low_index, high_index) quick_sort_inner(ints, comparator, 0, pivot_index - 1) quick_sort_inner(ints, comparator, pivot_index + 1, high_index) return ints def quick_sort(ints: List[int], comparator: Callable[[int, int], bool]) -> List[int]: return quick_sort_inner(ints, comparator, 0, len(ints) - 1) a = [10, 15, 5, 8, 2, 1, 3, 9] print(quick_sort(a, lambda a, b: a &lt;= b)) </p>
-</div>
-<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:15:18 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://cashpw.com/posts/ed982b37-6f8e-4b89-bb51-ac608510325e/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Quicksort
-</h2>
-</header>
-<div class=entry-content>
-<p>Quicksort is an in-place Sorting algorithm. […] It works by selecting a ‘pivot’ element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
-(“Quicksort” 2022)
-Quicksort is:
-Unstable sorting algorithm Internal memory algorithm Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:15:09 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Quicksort" href=http://cashpw.com/posts/d7bcd831-6a3f-4885-a654-15f0b11c9966/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Bubble sort implementation in Python
-</h2>
-</header>
-<div class=entry-content>
-<p>An implementation of Bubble sort in Python.
-from typing import List def bubble_sort(ints: List[int]) -> List[int]: def do_pass() -> bool: sorted = True for i in range(len(ints)-1): if ints[i] > ints[i + 1]: sorted = False swap(i, i+1) return sorted def swap(indexA: int, indexB: int) -> None: valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA sorted = False while not sorted: sorted = do_pass() return ints return bubble_sort([10, 5, 4, 40]) </p>
-</div>
-<footer class=entry-footer><span title="2022-06-30 10:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:50:33 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Bubble sort implementation in Python" href=http://cashpw.com/posts/af832252-c4a9-4364-bdef-59c1a8ea6ebe/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
