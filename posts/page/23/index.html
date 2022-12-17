@@ -8,7 +8,7 @@
 <meta name=description content="Posts - Cash Prokop-Weaver">
 <meta name=author content>
 <link rel=canonical href=http://cashpw.com/posts/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.8583ff43b6371322904b789d92584c7e57f469341ba83240378e4ede2ca3f75b.css integrity="sha256-hYP/Q7Y3EyKQS3idklhMflf0aTQbqDJAN45O3iyj91s=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.b29398f29a599d5e3004230f1be93c6d0e635ee0513a370a3f70268eb91bd59d.css integrity="sha256-spOY8ppZnV4wBCMPG+k8bQ5jXuBROjcKP3Amjrkb1Z0=" rel="preload stylesheet" as=style>
 <link rel=icon href=http://cashpw.com/favicon.ico>
 <link rel=apple-touch-icon href=http://cashpw.com/apple-touch-icon.png>
 <link rel=alternate type=application/rss+xml href=http://cashpw.com/posts/index.xml>
@@ -61,130 +61,136 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Merge sort
+<h2>Carol Dweck
 </h2>
 </header>
 <div class=entry-content>
-<p>Conceptually, a merge sort works as follows:
-Divide the unsorted list into n sublists, each containing one element (a list of one element is considered sorted). Repeatedly merge sublists to produce new sorted sublists until there is only one sublist remaining. This will be the sorted list. (“Merge Sort” 2022)
-Merge sort is:
-Stable sorting algorithm External memory algorithm Algorithm procedure MergeSort(list) is if length of list &lt;= 1 then return list left, right = split(list) MergeSort(left) MergeSort(right) return Merge(left, right) Implementation Merge sort implementation in Python Complexity Worst-case Best-case Time \(O(n \operatorname{log}(n))\) \(O(n \operatorname{log}(n))\) Space \(O(n)\) \(O(n)\) References ....</p>
+<p>Among other things:
+:noexport: Flashcards Backlinks Growth mindset Fixed mindset </p>
 </div>
-<footer class=entry-footer><span title="2022-07-01 11:23:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:08:14 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Merge sort" href=http://cashpw.com/posts/4ad76968-7e82-4d68-b8fa-ff6059f3c843/></a>
+<footer class=entry-footer><span title="2022-10-14 09:45:00 -0700 -0700">2022-10-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:37:23 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/carol_dweck.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Carol Dweck" href=http://cashpw.com/posts/e1dbf248-511f-4518-aba6-8eeb1c6bbeb3/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Stable sorting algorithm
+<h2>Fixed mindset
 </h2>
 </header>
 <div class=entry-content>
-<p> Stable sort algorithms sort equal elements in the same order that they appear in the input.
-(“Sorting Algorithm” 2022)
->>> stable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')]) [(3, 'c'), (8, 'b'), (8, 'd'), (10, 'a')]) References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Sorting Algorithm.” 2022. Wikipedia, June. https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&oldid=1095879356. </p>
+<p>Those with a fixed Mindset believe “intelligence is static” and there is very little to be done to improve ability. Feedback is seen as an “evaluation of their underlying ability” since success is seen only as a result of this innate ability, not the effort put in. Failure is much more intimidating since it “suggests constraints or limits they would not be able to overcome”. Those with a fixed mindset tend to avoid challenges, give up easily, and focus on the outcome....</p>
 </div>
-<footer class=entry-footer><span title="2022-07-01 11:08:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:22:52 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Stable sorting algorithm" href=http://cashpw.com/posts/740ce42a-3a80-4ecb-9438-fedff074443b/></a>
+<footer class=entry-footer><span title="2022-10-14 09:44:00 -0700 -0700">2022-10-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:43:52 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/fixed_mindset.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Fixed mindset" href=http://cashpw.com/posts/3a203296-7538-4986-a360-0db64356c9f5/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Quicksort implementation in Python
+<h2>Mindset
 </h2>
 </header>
 <div class=entry-content>
-<p>An implementation of Quicksort in Python.
-from typing import List, Callable def swap(ints: List[int], indexA: int, indexB: int) -> None: """Swap the values in INTS at INDEXA and INDEXB.""" valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> int: """Sorts sublist into [{&lt;= pivot}, pivot, {> than pivot}]""" pivot_index = high_index i = low_index - 1 for j in range(low_index, high_index): if comparator(ints[j], ints[pivot_index]): i += 1 swap(ints, i, j) i += 1 swap(ints, i, pivot_index) return i def quick_sort_inner(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> List[int]: if low_index >= high_index or low_index &lt; 0: return pivot_index = partition(ints, comparator, low_index, high_index) quick_sort_inner(ints, comparator, 0, pivot_index - 1) quick_sort_inner(ints, comparator, pivot_index + 1, high_index) return ints def quick_sort(ints: List[int], comparator: Callable[[int, int], bool]) -> List[int]: return quick_sort_inner(ints, comparator, 0, len(ints) - 1) a = [10, 15, 5, 8, 2, 1, 3, 9] print(quick_sort(a, lambda a, b: a &lt;= b)) </p>
+<p>Mindset is an “established set of attitudes, esp. regarded as typical of a particular group’s social or cultural values; the outlook, philosophy, or values of a person; (now also more generally) frame of mind, attitude, [recte: and] disposition.” A mindset may also arise from a person’s world view or philosophy of life.
+A firmly established mindset could create a powerful incentive to adopt or accept prior behaviors, choices, or tools, sometimes referred to as cognitive inertia, or “groupthink....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:15:18 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://cashpw.com/posts/ed982b37-6f8e-4b89-bb51-ac608510325e/></a>
+<footer class=entry-footer><span title="2022-10-14 09:38:00 -0700 -0700">2022-10-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:56:38 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/mindset.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Mindset" href=http://cashpw.com/posts/2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Quicksort
+<h2>Grit
 </h2>
 </header>
 <div class=entry-content>
-<p>Quicksort is an in-place Sorting algorithm. […] It works by selecting a ‘pivot’ element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
-(“Quicksort” 2022)
-Quicksort is:
-Unstable sorting algorithm Internal memory algorithm Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies....</p>
+<p>In psychology, grit is a positive, non-cognitive trait based on an individual’s perseverance of effort combined with the passion for a particular long-term goal or end state (a powerful motivation to achieve an objective). This perseverance of effort promotes the overcoming of obstacles or challenges that lie on the path to accomplishment and serves as a driving force in achievement realization.
+(“Grit (Personality Trait)” 2022)
+Grit is closely related to a Growth mindset....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:15:09 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Quicksort" href=http://cashpw.com/posts/d7bcd831-6a3f-4885-a654-15f0b11c9966/></a>
+<footer class=entry-footer><span title="2022-10-14 09:36:00 -0700 -0700">2022-10-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:46:16 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/grit.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Grit" href=http://cashpw.com/posts/b08bf4f7-76cd-41e9-973f-83d2a60de9aa/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Bubble sort implementation in Python
+<h2>Variance
 </h2>
 </header>
 <div class=entry-content>
-<p>An implementation of Bubble sort in Python.
-from typing import List def bubble_sort(ints: List[int]) -> List[int]: def do_pass() -> bool: sorted = True for i in range(len(ints)-1): if ints[i] > ints[i + 1]: sorted = False swap(i, i+1) return sorted def swap(indexA: int, indexB: int) -> None: valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA sorted = False while not sorted: sorted = do_pass() return ints return bubble_sort([10, 5, 4, 40]) </p>
+<p> Flashcards </p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:50:33 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Bubble sort implementation in Python" href=http://cashpw.com/posts/af832252-c4a9-4364-bdef-59c1a8ea6ebe/></a>
+<footer class=entry-footer><span title="2022-10-13 10:35:00 -0700 -0700">2022-10-13</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:21:59 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/variance.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Variance" href=http://cashpw.com/posts/b3a5666f-6e4d-4f31-b825-10531443d2bf/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Bubble sort
+<h2>Meaningful rest
 </h2>
 </header>
 <div class=entry-content>
-<p>Bubble sort, sometimes referred to as sinking sort, is a simple Sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
-[links added]
-(“Bubble Sort” 2022)
-Bubble sort is stable.
-Algorithm while list is not sorted do for i in range(len(list) - 1) do if list[i] > list[i+1] do swap(i, i+1) Implementation Bubble sort implementation in Python Complexity Worst-case Best-case Time \(O(n^2)\) \(O(n)\) Space \(O(n)\) \(O(n)\) References ....</p>
+<p>Meaningful rest is a type of rest which leaves the individual feeling rejuvenated. It exists in contrast to default actions – “the things that take no activation energy to start, the things [one] reflexively reaches for” (Nanda n.d.-b). Be conscious of your defaults.
+The term is from Neel Nanda | Post 29: Meaningful Rest.
+Things I want to do when I feel tired and low energy Watch youtube videos (Doom)Scroll on Reddit Play a video game Continue doing whatever is making me tired in defiance of my own bodily limits Lay on the floor Try to read, “be productive”, or some other mentally demanding activity which is different than the one which I was previously doing Eat, sometimes Things that I feel rejuvenated after having done Going for a walk; be outside in general Get up, away from computer/etc, and talk with my wife, family, friends, etc Meditate Nap / sleep Play with the cats Stretch / flexibility work Zone out and let my mind wander Drink water Switch from sitting desk to standing desk If I’m working; taking any form of break where I let myself think about not-work Work out Flashcards Definition position ease box interval due front 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:47:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:50:30 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Bubble sort" href=http://cashpw.com/posts/c6bc266e-1090-492f-bdba-f044e04db3ff/></a>
+<footer class=entry-footer><span title="2022-10-12 19:53:00 -0700 -0700">2022-10-12</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:55:22 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/meaningful_rest.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Meaningful rest" href=http://cashpw.com/posts/ef6148e5-0f53-4535-89fa-1f67b3c557b7/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Sorting algorithm
+<h2>Third place
 </h2>
 </header>
 <div class=entry-content>
-<p></p>
+<p>In sociology, the third place refers to the social surroundings that are separate from the two usual social environments of home (“first place” [First place]) and the workplace (“second place” [Second place]). Examples of third places include churches, cafes, clubs, public libraries, bookstores or parks.
+(“Third Place” 2022)
+Oldenburg calls one’s “first place” the home and the people the person lives with. The “second place” is the workplace—where people may actually spend most of their time....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:46:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:21:33 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;0 min</footer>
-<a class=entry-link aria-label="post link to Sorting algorithm" href=http://cashpw.com/posts/093fae33-1843-4271-b7cd-336553b9aac9/></a>
+<footer class=entry-footer><span title="2022-10-12 19:48:00 -0700 -0700">2022-10-12</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:17:27 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/third_place.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Third place" href=http://cashpw.com/posts/34fb63b5-5a47-436f-b123-a1d6ffbf4fab/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Effective Anki
+<h2>Tribalism (Politics)
 </h2>
 </header>
 <div class=entry-content>
-<p>My recommendations for effective use of Anki.
-Decks Use a single deck Deck options TODO: Find a source for these points. I discovered and implemented them before I started writing things down.
-New cards Steps In minutes: 15, 2160, 10080, 40320 New Cards Steps In minutes (for android): 15, 2160, 10080, 40320 (eshapard n.d.) For desktop Anki: 15m , 36h, 7d, 28d References ....</p>
+<p>Tribalism is the state of being organized by, or advocating for, tribes or tribal lifestyles. Human evolution has primarily occurred in small hunter-gatherer groups, as opposed to in larger and more recently settled agricultural societies or civilizations. With a negative connotation and in a political context, tribalism can also mean discriminatory behavior or attitudes towards out-groups, based on in-group loyalty.
+(“Tribalism” 2022)
+Flashcards Describe position ease box interval due front 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 08:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:44:03 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Effective Anki" href=http://cashpw.com/posts/047c30fb-6d35-428f-a4d3-e4fd7497c621/></a>
+<footer class=entry-footer><span title="2022-10-12 11:24:00 -0700 -0700">2022-10-12</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:19:54 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/tribalism.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Tribalism (Politics)" href=http://cashpw.com/posts/4cb7f185-7fc0-47aa-8a6a-9454de9a999c/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Convolution
+<h2>Switching barrier
 </h2>
 </header>
 <div class=entry-content>
-<p>References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
+<p>Switching costs or switching barriers […] may be defined as the disadvantages or expenses consumers feel they experience, along with the economic and psychological costs of switching from one alternative to another.
+(“Switching Barriers” 2022)
+Also see Network effect.
+Flashcards Definition position ease box interval due front 2.50 4 15.21 2022-12-23T23:03:57Z back 2.20 4 13.91 2022-12-28T16:42:08Z Switching barrier...</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 19:31:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:52:15 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Convolution" href=http://cashpw.com/posts/4a246de2-16ae-4fa6-abaa-7cfb533eccdb/></a>
+<footer class=entry-footer><span title="2022-10-12 11:00:00 -0700 -0700">2022-10-12</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:13:06 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/switching_barriers.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Switching barrier" href=http://cashpw.com/posts/ffff7383-e701-4fca-ad82-4e1a0ac3d509/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Edge
+<h2>Network effect
 </h2>
 </header>
 <div class=entry-content>
-<p>An edge is a connection between two or more Vertices.
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
+<p>In economics, a network effect (also called network externality or demand-side economies of scale) is the phenomenon by which the value or utility a user derives from a good or service depends on the number of users of compatible products. Network effects are typically positive, resulting in a given user deriving more value from a product as more users join the same network. The adoption of a product by an additional user can be broken into two effects: an increase in the value to all other users ( “total effect”) and also the enhancement of other non-users' motivation for using the product (“marginal effect”)....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 19:15:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:55:29 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Edge" href=http://cashpw.com/posts/7211246e-d3da-491e-a493-e84ba820e63f/></a>
+<footer class=entry-footer><span title="2022-10-12 10:43:00 -0700 -0700">2022-10-12</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:57:59 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/network_effect.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Network effect" href=http://cashpw.com/posts/877f3321-faac-463a-8619-787467251655/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

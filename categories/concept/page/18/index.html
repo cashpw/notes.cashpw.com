@@ -8,7 +8,7 @@
 <meta name=description content="Blog and notes">
 <meta name=author content>
 <link rel=canonical href=http://cashpw.com/categories/concept/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.8583ff43b6371322904b789d92584c7e57f469341ba83240378e4ede2ca3f75b.css integrity="sha256-hYP/Q7Y3EyKQS3idklhMflf0aTQbqDJAN45O3iyj91s=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.b29398f29a599d5e3004230f1be93c6d0e635ee0513a370a3f70268eb91bd59d.css integrity="sha256-spOY8ppZnV4wBCMPG+k8bQ5jXuBROjcKP3Amjrkb1Z0=" rel="preload stylesheet" as=style>
 <link rel=icon href=http://cashpw.com/favicon.ico>
 <link rel=apple-touch-icon href=http://cashpw.com/apple-touch-icon.png>
 <link rel=alternate type=application/rss+xml href=http://cashpw.com/categories/concept/index.xml>
@@ -61,130 +61,141 @@ concept
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Quicksort implementation in Python
+<h2>Chicken (game)
 </h2>
 </header>
 <div class=entry-content>
-<p>An implementation of Quicksort in Python.
-from typing import List, Callable def swap(ints: List[int], indexA: int, indexB: int) -> None: """Swap the values in INTS at INDEXA and INDEXB.""" valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> int: """Sorts sublist into [{&lt;= pivot}, pivot, {> than pivot}]""" pivot_index = high_index i = low_index - 1 for j in range(low_index, high_index): if comparator(ints[j], ints[pivot_index]): i += 1 swap(ints, i, j) i += 1 swap(ints, i, pivot_index) return i def quick_sort_inner(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> List[int]: if low_index >= high_index or low_index &lt; 0: return pivot_index = partition(ints, comparator, low_index, high_index) quick_sort_inner(ints, comparator, 0, pivot_index - 1) quick_sort_inner(ints, comparator, pivot_index + 1, high_index) return ints def quick_sort(ints: List[int], comparator: Callable[[int, int], bool]) -> List[int]: return quick_sort_inner(ints, comparator, 0, len(ints) - 1) a = [10, 15, 5, 8, 2, 1, 3, 9] print(quick_sort(a, lambda a, b: a &lt;= b)) </p>
+<p>The game of chicken, also known as the hawk–dove game or snowdrift game, is a model of conflict for two players in Game theory. The principle of the game is that while the ideal outcome is for one player to yield (to avoid the worst outcome if neither yields), the individuals try to avoid it out of pride for not wanting to look like a “chicken”. Each player taunts the other to increase the risk of shame in yielding....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:15:18 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://cashpw.com/posts/ed982b37-6f8e-4b89-bb51-ac608510325e/></a>
+<footer class=entry-footer><span title="2022-09-30 14:28:00 -0700 -0700">2022-09-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:37:49 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/chicken.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Chicken (game)" href=http://cashpw.com/posts/f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Quicksort
+<h2>Sequential game
 </h2>
 </header>
 <div class=entry-content>
-<p>Quicksort is an in-place Sorting algorithm. […] It works by selecting a ‘pivot’ element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
-(“Quicksort” 2022)
-Quicksort is:
-Unstable sorting algorithm Internal memory algorithm Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies....</p>
+<p>In Game theory, a Sequential game is a game where one player chooses their action before the others choose theirs. The other players must have information on the first player’s choice so that the difference in time has no strategic effect. Sequential games are governed by the time axis and represented in the form of decision trees.
+(“Sequential Game” 2021)
+Contrast with a Simultaneous game.
+Examples Many board games, including chess and checkers Flashcards Example(s) position ease box interval due 0 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:15:09 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Quicksort" href=http://cashpw.com/posts/d7bcd831-6a3f-4885-a654-15f0b11c9966/></a>
+<footer class=entry-footer><span title="2022-09-28 07:47:00 -0700 -0700">2022-09-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:09:25 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/sequential_game.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Sequential game" href=http://cashpw.com/posts/bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Bubble sort implementation in Python
+<h2>Imperfect information
 </h2>
 </header>
 <div class=entry-content>
-<p>An implementation of Bubble sort in Python.
-from typing import List def bubble_sort(ints: List[int]) -> List[int]: def do_pass() -> bool: sorted = True for i in range(len(ints)-1): if ints[i] > ints[i + 1]: sorted = False swap(i, i+1) return sorted def swap(indexA: int, indexB: int) -> None: valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA sorted = False while not sorted: sorted = do_pass() return ints return bubble_sort([10, 5, 4, 40]) </p>
+<p>Games where some aspect of play is hidden from opponents - such as the cards in poker and bridge - are examples of games with imperfect information.
+(“Perfect Information” 2022)
+Also see Game theory, Perfect information, and Complete information.
+Flashcards Example(s) (information) position ease box interval due front 2.65 5 41.34 2023-01-24T02:33:12Z back 2.65 5 42.12 2023-01-26T23:41:44Z Imperfect information...</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:50:33 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Bubble sort implementation in Python" href=http://cashpw.com/posts/af832252-c4a9-4364-bdef-59c1a8ea6ebe/></a>
+<footer class=entry-footer><span title="2022-09-28 07:46:00 -0700 -0700">2022-09-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:48:43 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/imperfect_information.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Imperfect information" href=http://cashpw.com/posts/f9c7b1f9-0cb3-4de2-93c0-be1497fd47ff/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Bubble sort
+<h2>Perfect information
 </h2>
 </header>
 <div class=entry-content>
-<p>Bubble sort, sometimes referred to as sinking sort, is a simple Sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
-[links added]
-(“Bubble Sort” 2022)
-Bubble sort is stable.
-Algorithm while list is not sorted do for i in range(len(list) - 1) do if list[i] > list[i+1] do swap(i, i+1) Implementation Bubble sort implementation in Python Complexity Worst-case Best-case Time \(O(n^2)\) \(O(n)\) Space \(O(n)\) \(O(n)\) References ....</p>
+<p>In economics, perfect information (sometimes referred to as “no hidden information”) is a feature of perfect competition. With perfect information in a market, all consumers and producers have complete and instantaneous knowledge of all market prices, their own utility, and own cost functions.
+(“Perfect Information” 2022)
+Also see Game theory, Imperfect information, and Complete information.
+Examples Chess Flashcards Example(s) (information) position ease box interval due front 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:47:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:50:30 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Bubble sort" href=http://cashpw.com/posts/c6bc266e-1090-492f-bdba-f044e04db3ff/></a>
+<footer class=entry-footer><span title="2022-09-28 07:46:00 -0700 -0700">2022-09-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:01:45 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/perfect_information.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Perfect information" href=http://cashpw.com/posts/ec797dab-adc7-4a83-bc31-7daeab0d4ffc/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Sorting algorithm
+<h2>Simultaneous game
 </h2>
 </header>
 <div class=entry-content>
-<p></p>
+<p>In Game theory, a Simultaneous game or Static game is a game where each player chooses their action without knowledge of the actions chosen by other players.
+Contrast with a Sequential game.
+Examples Prisoner’s Dilemma Flashcards AKA position ease box interval due 0 2.50 4 16.39 2023-01-02T03:19:19Z 1 2.5 -1 0 2022-09-30T22:38:57Z {{Simultaneous game}@0} {{Static game}@1} Source (“Simultaneous Game” 2022)...</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:46:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:21:33 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;0 min</footer>
-<a class=entry-link aria-label="post link to Sorting algorithm" href=http://cashpw.com/posts/093fae33-1843-4271-b7cd-336553b9aac9/></a>
+<footer class=entry-footer><span title="2022-09-28 07:46:00 -0700 -0700">2022-09-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:09:50 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/simultaneous_game.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Simultaneous game" href=http://cashpw.com/posts/98aa84db-bb35-46c2-ae0e-c73b2a9c1666/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Effective Anki
+<h2>Asymmetric game
 </h2>
 </header>
 <div class=entry-content>
-<p>My recommendations for effective use of Anki.
-Decks Use a single deck Deck options TODO: Find a source for these points. I discovered and implemented them before I started writing things down.
-New cards Steps In minutes: 15, 2160, 10080, 40320 New Cards Steps In minutes (for android): 15, 2160, 10080, 40320 (eshapard n.d.) For desktop Anki: 15m , 36h, 7d, 28d References ....</p>
+<p>In Game theory, an Asymmetric game is a game in which the identities of the players are non-fungible. Opposite of a Symmetric game.
+Examples Ultimatum game Dictator game Flashcards Describe position ease box interval due front 2.95 5 47.87 2023-01-19T16:29:05Z back 2.05 5 26.51 2023-01-07T08:01:57Z Asymmetric game
+Back A game in which the identities of the players are non-fungible; the players have non-symmetric payoffs, abilities, etc....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 08:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-09-05 15:44:03 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Effective Anki" href=http://cashpw.com/posts/047c30fb-6d35-428f-a4d3-e4fd7497c621/></a>
+<footer class=entry-footer><span title="2022-09-28 07:41:00 -0700 -0700">2022-09-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:35:18 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/asymmetric_game.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Asymmetric game" href=http://cashpw.com/posts/ad6e2800-e722-4fc0-90e7-a6f895c16100/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Convolution
+<h2>Non-cooperative game
 </h2>
 </header>
 <div class=entry-content>
-<p>References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
+<p>In Game theory, a Non-cooperative game is a game with competition between individual players, as opposed to cooperative games, and in which alliances can only operate if self-enforcing (e.g. through credible threats). However, ‘cooperative’ and ‘non-cooperative’ are only technical terms to describe the theory used to model a game, so it is possible to use cooperative game theory to model competition and using non-cooperative game theory to model cooperation....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 19:31:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:52:15 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Convolution" href=http://cashpw.com/posts/4a246de2-16ae-4fa6-abaa-7cfb533eccdb/></a>
+<footer class=entry-footer><span title="2022-09-28 07:41:00 -0700 -0700">2022-09-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:58:49 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/non_cooperative_game.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Non-cooperative game" href=http://cashpw.com/posts/e826003f-a13e-4cce-9b80-30f8bd802374/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Edge
+<h2>Symmetric game
 </h2>
 </header>
 <div class=entry-content>
-<p>An edge is a connection between two or more Vertices.
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
+<p>In Game theory, a Symmetric game is a game where the payoffs for playing a particular strategy depend only on the other strategies employed, not on who is playing them. If one can change the identities of the players without changing the payoff to the strategies, then a game is symmetric.
+A 2x2 game is symmetric if and only if the payout matrix is of the form:
+E F E a,a b,c F c,b d,d Examples Chicken Prisoner’s Dilemma Stag hunt Flashcards Definition (Game theory) position ease box interval due front 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 19:15:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:55:29 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Edge" href=http://cashpw.com/posts/7211246e-d3da-491e-a493-e84ba820e63f/></a>
+<footer class=entry-footer><span title="2022-09-28 07:41:00 -0700 -0700">2022-09-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:13:13 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/symmetric_game.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Symmetric game" href=http://cashpw.com/posts/50751f5a-e3b9-48cb-9745-26b79a3d3fe9/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Vertex
+<h2>Cooperative game
 </h2>
 </header>
 <div class=entry-content>
-<p>In mathematics, and more specifically in graph theory, a vertex (plural vertices) or node is the fundamental unit of which Graph are formed: an undirected graph consists of a set of vertices and a set of Edges (unordered pairs of vertices), while a directed graph consists of a set of vertices and a set of arcs (ordered pairs of vertices).
-(“Vertex (Graph Theory)” 2022)
-References .csl-entry{text-indent: -1.5em; margin-left: 1....</p>
+<p>In Game theory, a Cooperative game (or coalitional game) is a game with competition between groups of players (“coalitions”) due to the possibility of external enforcement of cooperative behavior (e.g. through contract law). Those are opposed to Non-cooperative game in which there is either no possibility to forge alliances or all agreements need to be self-enforcing (e.g. through credible threats).
+(“Cooperative Game Theory” 2022)
+Flashcards Define position ease box interval due front 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 19:13:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 15:39:26 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Vertex" href=http://cashpw.com/posts/1b2526af-676d-4c0f-aa85-1ba05b8e7a93/></a>
+<footer class=entry-footer><span title="2022-09-28 07:40:00 -0700 -0700">2022-09-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:38:54 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/cooperative_game.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Cooperative game" href=http://cashpw.com/posts/31a42b11-aca6-41e8-a41a-5fb97006ddc2/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Adjacency list
+<h2>Basis
 </h2>
 </header>
 <div class=entry-content>
-<p>In graph theory and computer science, an adjacency list is a collection of unordered lists used to represent a finite graph.
-(“Adjacency List” 2022)
-The above graph can be represented as the set \(S\) which contains \(\{B,C\}\), \(\{A,C\}\), \(\{B,A\}\).
-Vertices Edges A B, C B A, C C A, B References .csl-entry{text-indent: -1....</p>
+<p>In mathematics, a set B of vectors in a vector space V is called a basis if every element of V may be written in a unique way as a finite linear combination of elements of B. The coefficients of this linear combination are referred to as components or coordinates of the vector with respect to B. The elements of a basis are called basis vectors.
+(“Basis (Linear Algebra)” 2022)...</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 19:07:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch>Updated:</span><span title="2022-11-04 14:47:36 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min</footer>
-<a class=entry-link aria-label="post link to Adjacency list" href=http://cashpw.com/posts/a95ec6df-303d-4a07-a9bd-ac6e4b807679/></a>
+<footer class=entry-footer><span title="2022-09-27 20:37:00 -0700 -0700">2022-09-27</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:35:37 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/basis.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Basis" href=http://cashpw.com/posts/90dcfc79-6808-48ab-8193-2b040295574c/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
