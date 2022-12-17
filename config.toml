@@ -47,7 +47,7 @@ showAuthor = false
 
   [params.editPost]
   URL = "https://github.com/cashpw/notes/edit/main"
-  Text = "Suggest Changes"
+  Text = "Edit"
   appendFilePath = true
 
   [params.fuseOpts]

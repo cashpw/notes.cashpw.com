@@ -41,7 +41,7 @@ if (flashcardHeader) {
   const flashcards = nextUntil(flashcardHeader, "h2");
 
   const wrapper = document.createElement('div');
-  wrapper.setAttribute('class', 'toc');
+  wrapper.setAttribute('class', 'toc flashcards');
 
   const details = document.createElement('details');
   wrapper.appendChild(details);

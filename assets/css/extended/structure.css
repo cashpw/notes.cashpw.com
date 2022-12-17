@@ -3,7 +3,7 @@
 }
 
 .post-footer {
-    border-bottom: none;
+    border-bottom: none !important;
 }
 
 @media screen and (min-width: 1350px) {
