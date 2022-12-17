@@ -1,8 +1,8 @@
 +++
 title = "Dark forest theory"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T14:09:00-07:00
-lastmod = 2022-11-04T14:53:54-07:00
+lastmod = 2022-12-17T11:09:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,13 +20,43 @@ The dark forest theory is derived, in (<a href="#citeproc_bib_item_1">Liu 2015</
 
 Further conclusions relative to these axioms:
 
-1.  Chain of suspicion: Communication between civilizations is slow due to interstellar distances and complex due to differing cultures and biology.
+1.  [Chain of suspicion]({{< relref "chain_of_suspicion.md" >}}): Communication between civilizations is slow due to interstellar distances and complex due to differing cultures and biology.
 2.  Technological explosion: Rapid technological progress can change the balance of power between two civilizations.
 
 These combine to a single conclusion: The only winning move is striking first and wiping out any other intelligent life you discover. If you don't, then they could do the same to you (chain of suspicion). Your technological prowess is no deterrent as they could develop the necessary technologies to destroy you in the time between rounds of communication at light speed.
+
+Related: [Moloch]({{< relref "moloch.md" >}})
+
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 2   | 2.00     | 2022-12-17T20:26:06Z |
+| back     | 2.50 | 2   | 2.00     | 2022-12-18T17:35:56Z |
+
+[Dark forest theory]({{< relref "dark_forest_theory.md" >}})
+
+
+#### Back {#back}
+
+Civilizations are compelled to eliminate any other civilization they find in the universe lest the others eliminate them first.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Liu 2015</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Liu, Cixin. 2015. <i>Dark Forest</i>. London: Head of Zeus. <a href="https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=1531969">https://search.ebscohost.com/login.aspx?direct=true&#38;scope=site&#38;db=nlebk&#38;db=nlabk&#38;AN=1531969</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})

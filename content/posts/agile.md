@@ -1,8 +1,8 @@
 +++
 title = "Agile (Software development)"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T16:32:00-07:00
-lastmod = 2022-11-04T14:47:42-07:00
+lastmod = 2022-12-17T11:04:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,8 +46,42 @@ slug = "5664432e-6bb3-4670-9669-08ee70b5ca6d"
 >
 > (<a href="#citeproc_bib_item_1">“Agile Software Development” 2022</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 5   | 37.77    | 2023-01-21T12:43:54Z |
+| back     | 2.35 | 3   | 6.00     | 2022-12-12T14:53:10Z |
+
+[Agile (Software development)]({{< relref "agile.md" >}})
+
+
+#### Back {#back}
+
+A set of guiding principles for how to manage software development teams which prioritizes (among other things):
+
+-   working software
+-   empowering individual contributors
+-   flexibility to respond to changing requirements
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Agile Software Development” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Agile Software Development.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Agile_software_development&oldid=1118312171">https://en.wikipedia.org/w/index.php?title=Agile_software_development&#38;oldid=1118312171</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Timeboxing]({{< relref "timeboxing.md" >}})
+-   [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+-   [Feedback loop]({{< relref "kileBusyPersonPatterns2006.md#feedback-loop" >}})

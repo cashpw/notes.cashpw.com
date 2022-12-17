@@ -1,8 +1,8 @@
 +++
-title = "Five Sentences"
-author = ["Cash Weaver"]
+title = "Five sentences"
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-15T13:21:00-08:00
-lastmod = 2022-11-04T14:46:58-07:00
+lastmod = 2022-12-17T11:03:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -19,8 +19,16 @@ slug = "ef3d7a17-747d-485c-83b3-4404c1ab67e8"
 >
 > (<a href="#citeproc_bib_item_1">“Five Sentences” n.d.</a>)
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Five Sentences.” n.d. Accessed February 15, 2022. <a href="http://five.sentenc.es/">http://five.sentenc.es/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Use plain language]({{< relref "use_plain_language.md" >}})

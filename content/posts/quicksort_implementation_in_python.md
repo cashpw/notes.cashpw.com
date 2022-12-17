@@ -1,8 +1,8 @@
 +++
 title = "Quicksort implementation in Python"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T13:57:00-07:00
-lastmod = 2022-11-04T15:15:18-07:00
+lastmod = 2022-12-17T11:26:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,8 +20,9 @@ def swap(ints: List[int], indexA: int, indexB: int) -> None:
     ints[indexA] = ints[indexB]
     ints[indexB] = valueA
 
-def partition(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> int:
+def partition(ints: List[int], comparator: Callable[[id:int, int], bool], low_index: int, high_index: int) -> int:
     """Sorts sublist into [{<= pivot}, pivot, {> than pivot}]"""
+
     pivot_index = high_index
     i = low_index - 1
 
@@ -34,7 +35,7 @@ def partition(ints: List[int], comparator: Callable[[int, int], bool], low_index
 
     return i
 
-def quick_sort_inner(ints: List[int], comparator: Callable[[int, int], bool], low_index: int, high_index: int) -> List[int]:
+def quick_sort_inner(ints: List[int], comparator: Callable[[id:int, int], bool], low_index: int, high_index: int) -> List[int]:
     if low_index >= high_index or low_index < 0:
         return
 
@@ -45,10 +46,20 @@ def quick_sort_inner(ints: List[int], comparator: Callable[[int, int], bool], lo
 
     return ints
 
-def quick_sort(ints: List[int], comparator: Callable[[int, int], bool]) -> List[int]:
+def quick_sort(ints: List[int], comparator: Callable[[id:int, int], bool]) -> List[int]:
        return quick_sort_inner(ints, comparator, 0, len(ints) - 1)
 
 
 a = [10, 15, 5, 8, 2, 1, 3, 9]
 print(quick_sort(a, lambda a, b: a <= b))
 ```
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Quicksort]({{< relref "quicksort.md" >}})
+-   [Quicksort's `partition` function iterates `j` from `{{range(low_index, high_index)}@0}`]({{< relref "quicksort.md#id-d7bcd831-6a3f-4885-a654-15f0b11c9966-quicksort-s-partition-function-iterates-j-from-range--low-index-high-index--0" >}})
+-   [Implement Quicksort in Python]({{< relref "quicksort.md#implement-id-d7bcd831-6a3f-4885-a654-15f0b11c9966-quicksort-in-python" >}})

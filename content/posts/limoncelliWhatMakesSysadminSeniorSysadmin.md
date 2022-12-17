@@ -1,10 +1,10 @@
 +++
 title = "Tom Limoncelli | What Makes a Sysadmin a Senior Sysadmin?"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:12:00-08:00
-lastmod = 2022-11-04T15:05:46-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-12-17T11:19:15-08:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "7af2ca45-ca0d-452d-83b3-a700057009d7"
 +++
@@ -24,8 +24,16 @@ slug = "7af2ca45-ca0d-452d-83b3-a700057009d7"
 >
 > The old way is to maintain your "status" by hoarding information. You are the only person that knows how to do things and that is your power base. The new way is you maintain your "status" by sharing information. Everyone looks up to you because it is your documentation that taught them how to do their job. As they learn by following documentation that you wrote they get better at what they do and soon they are senior too. However now you are the senior person that helped everyone get to where they are today. In terms of corporate status, there is nothing better than that!
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Limoncelli, Tom. n.d. “What Makes a Sysadmin a ‘Senior Sysadmin’?” Accessed February 21, 2022. <a href="https://everythingsysadmin.com/2012/09/seniorsysadmins.html">https://everythingsysadmin.com/2012/09/seniorsysadmins.html</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})

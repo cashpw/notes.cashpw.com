@@ -1,8 +1,8 @@
 +++
 title = "First in, first out"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-09-07T06:52:00-07:00
-lastmod = 2022-11-04T14:56:39-07:00
+lastmod = 2022-12-17T11:12:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,23 @@ slug = "dfa2ce8d-63c1-44ad-a16f-52777f4abbac"
 
 Related: [Last in, first out]({{< relref "first_in_last_out.md" >}})
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“FIFO (Computing and Electronics).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=FIFO_(computing_and_electronics)&oldid=1104188471">https://en.wikipedia.org/w/index.php?title=FIFO_(computing_and_electronics)&#38;oldid=1104188471</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Last in, first out]({{< relref "first_in_last_out.md" >}})
+-   [Last in, first out]({{< relref "first_in_last_out.md" >}})
+-   [Queue]({{< relref "queue.md" >}})
+-   [Queue]({{< relref "queue.md" >}})
+-   [Queue]({{< relref "queue.md" >}})
+-   [A Queue follows {{First in, first out}{ordering}@1}]({{< relref "queue.md#a-id-f7ca3e99-0356-4651-996e-542a11d67f50-queue-follows-id-dfa2ce8d-63c1-44ad-a16f-52777f4abbac-first-in-first-out-ordering-1" >}})
+-   [Compare/Contrast]({{< relref "queue.md#compare-contrast" >}})
+-   [A {{Queue}@0} is the opposite of a {{Stack}@1}]({{< relref "queue.md#a-id-f7ca3e99-0356-4651-996e-542a11d67f50-queue-0-is-the-opposite-of-a-id-5ab783c7-9a13-42d2-920d-95f103ac677c-stack-1" >}})

@@ -1,8 +1,8 @@
 +++
 title = "Ian Danskin | The Death of a Euphemism"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T20:19:00-07:00
-lastmod = 2022-11-04T14:53:15-07:00
+lastmod = 2022-12-17T11:09:03-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -53,8 +53,19 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 >
 > To the Far Right, a euphemism is like a calf: something to be brought into this world or inherited, removed from its original context, raised to adolescence, and then slaughtered when the time is right. Historically, the first sign that things are about to get a lot worse for minorities is when the racism stops being euphemistic.
 
+
+## Flashcards {#flashcards}
+
+
+### [Death of a euphamism]({{< relref "the_death_of_a_euphamism.md" >}}) {#death-of-a-euphamism--the-death-of-a-euphamism-dot-md}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2018. “The Death of a Euphemism.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/174432447847/the-newest-installment-of-the-alt-right-playbook">https://innuendostudios.tumblr.com/post/174432447847/the-newest-installment-of-the-alt-right-playbook</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Death of a euphamism]({{< relref "the_death_of_a_euphamism.md" >}})

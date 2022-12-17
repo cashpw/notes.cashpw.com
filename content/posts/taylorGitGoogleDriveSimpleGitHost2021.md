@@ -1,8 +1,8 @@
 +++
 title = "Laura Taylor | Git + Google Drive = Simple Git Host"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-04-18T08:20:00-07:00
-lastmod = 2022-11-04T15:26:54-07:00
+lastmod = 2022-12-17T11:33:18-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -42,8 +42,18 @@ Laura Taylor, (<a href="#citeproc_bib_item_1">Taylor 2021</a>)
 
 5.  Push/pull project as you usually would from github/gitlab/etc
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Taylor, Laura. 2021. “Git + Google Drive = Simple Git Host.” <i>Medium</i>. <a href="https://techstreams.medium.com/git-google-drive-simple-git-host-3a84db4fc1fd">https://techstreams.medium.com/git-google-drive-simple-git-host-3a84db4fc1fd</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [org-roam]({{< relref "org_roam.md" >}})
+-   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

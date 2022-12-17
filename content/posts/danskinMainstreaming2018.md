@@ -1,8 +1,8 @@
 +++
 title = "Ian Danskin | Mainstreaming"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:55:00-07:00
-lastmod = 2022-11-04T14:53:27-07:00
+lastmod = 2022-12-17T11:09:10-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -15,8 +15,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 
 
 ## Summary {#summary}
-
-Mainstreaming is the game of moving a concept from fringe to normal. It's like a hammer in that a hammer is morally neutral and acquires a moral balance through use.
 
 
 ## Thoughts {#thoughts}
@@ -36,11 +34,11 @@ Mainstreaming is the game of moving a concept from fringe to normal. It's like a
 
 <!--quoteend-->
 
-> Culture is plastic. Any fringe group or idea can become normalized, regardless of its inherent worth. And, for a certain subset of extremely online people with fringe beliefs, who understand the ways mainstreaming has evolved in the attention economy, it can be a weapon.
+> [Culture is plastic]({{< relref "culture_is_plastic.md" >}}). Any fringe group or idea can become normalized, regardless of its inherent worth. And, for a certain subset of extremely online people with fringe beliefs, who understand the ways mainstreaming has evolved in the attention economy, it can be a weapon.
 
 <!--quoteend-->
 
-> Mainstreaming is not a wholly organic process, because usually the people who get mainstreamed are actively working to become so. But people usually have only so much control over how and how fast this happens: A group expands its language and visibility; if this leads to larger numbers and greater mainstream acceptance, the process repeats, this time with a bigger group and a bigger audience; so long as there is growth, each cycle is more impactful, as the bigger a group is the faster it gets even bigger and the more common language becomes the faster it proliferates.
+> [Mainstreaming]({{< relref "mainstreaming.md" >}}) is not a wholly organic process, because usually the people who get mainstreamed are actively working to become so. But people usually have only so much control over how and how fast this happens: A group expands its language and visibility; if this leads to larger numbers and greater mainstream acceptance, the process repeats, this time with a bigger group and a bigger audience; so long as there is growth, each cycle is more impactful, as the bigger a group is the faster it gets even bigger and the more common language becomes the faster it proliferates.
 
 <!--quoteend-->
 
@@ -60,8 +58,19 @@ Mainstreaming is the game of moving a concept from fringe to normal. It's like a
 
 > Much as we'd like to believe people are driven by morality, most people are driven by the desire to be normal [[Bob Altemeyer | The Authoritarians]({{< relref "altemeyerAuthoritarians.md" >}})]. And when the news is filled with images of swastikas, iron crosses, and tiki torches, the guy in the suit with the fashy haircut looks pretty normal by comparison. And that's why he wears the suit.
 
+
+## Flashcards {#flashcards}
+
+
+### [Mainstreaming]({{< relref "mainstreaming.md" >}}) {#mainstreaming--mainstreaming-dot-md}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2018. “Mainstreaming.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/172589201372/the-newest-installment-of-the-alt-right-playbook">https://innuendostudios.tumblr.com/post/172589201372/the-newest-installment-of-the-alt-right-playbook</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Mainstreaming]({{< relref "mainstreaming.md" >}})

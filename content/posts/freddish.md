@@ -1,8 +1,8 @@
 +++
 title = "Freddish"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:59:00-07:00
-lastmod = 2022-11-04T14:57:30-07:00
+lastmod = 2022-12-17T11:13:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,8 +37,84 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
 >
 > (<a href="#citeproc_bib_item_1">King 2018</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### {{[Freddish]({{< relref "freddish.md" >}})}@0} is the language {{[Fred Rogers]({{< relref "fred_rogers.md" >}})}@1} would use when speaking with children {#freddish--freddish-dot-md--0-is-the-language-fred-rogers--fred-rogers-dot-md--1-would-use-when-speaking-with-children}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 5   | 32.74    | 2022-12-29T08:44:02Z |
+| 1        | 2.80 | 4   | 16.90    | 2022-12-30T15:38:16Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">King 2018</a>)
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.35 | 5   | 32.60    | 2023-01-14T17:14:09Z |
+| back     | 2.80 | 4   | 18.00    | 2022-12-18T17:56:45Z |
+
+[Freddish]({{< relref "freddish.md" >}})
+
+
+#### Back {#back}
+
+A set of language patterns for talking with children which anticipated and protected against the ways in which the listener (the child) might misinterpret the intended message.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">King 2018</a>)
+
+
+### Example(s) {#example--s}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 1.90 | 3   | 6.00     | 2022-12-19T02:50:48Z |
+| back     | 2.50 | 2   | 2.00     | 2022-12-03T15:52:52Z |
+
+[Freddish]({{< relref "freddish.md" >}})
+
+
+#### Back {#back}
+
+-   It is dangerous to play in the street -&gt; Your favorite grown-ups can tell you where it is safe to play.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">King 2018</a>)
+
+
+### The purpose of {{[Freddish]({{< relref "freddish.md" >}})}@0} is to {{anticipate and protect against the ways in which a child may misinterpret the intended message}@1} {#the-purpose-of-freddish--freddish-dot-md--0-is-to-anticipate-and-protect-against-the-ways-in-which-a-child-may-misinterpret-the-intended-message-1}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.35 | 5   | 31.92    | 2023-01-11T15:55:04Z |
+| 1        | 2.50 | 4   | 15.91    | 2022-12-13T16:11:50Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">King 2018</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>King, Maxwell. 2018. “Mister Rogers Had a Simple Set of Rules for Talking to Children.” <i>The Atlantic</i>. <a href="https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/">https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
+-   [Todos]({{< relref "todos.md" >}})
+-   [Rewriting and Editing]({{< relref "julian_shapiro_writing_well_handbook.md#rewriting-and-editing" >}})

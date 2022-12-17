@@ -1,8 +1,8 @@
 +++
 title = "Zach Tellman | Thought Leaders and Chicken Sexers"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T16:25:00-08:00
-lastmod = 2022-11-13T08:07:23-08:00
+lastmod = 2022-12-17T11:33:38-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -56,8 +56,36 @@ slug = "89af4069-9f38-4f2b-bdb4-491c2ae85a9c"
 >
 > This is all to say that Paul Graham is an effective marketer and practitioner, but a profoundly unserious public intellectual. His attempts to grapple with the major issues of the present, especially as they intersect with his personal legacy, are so mired in intuition and incuriosity that they're at best a distraction, and worst a real obstacle to understanding our paths forward.
 
+
+## Flashcards {#flashcards}
+
+
+### Compare and contrast {#compare-and-contrast}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 4   | 15.22    | 2022-12-25T23:36:51Z |
+
+Thought leaders and chicken sexers ([Zach Tellman]({{< relref "zach_tellman.md" >}}))
+
+
+#### Back {#back}
+
+-   Thought leaders: [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
+-   Chicken sexers: [Implicit knowledge]({{< relref "tacit_knowledge.md" >}})
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Tellman n.d.</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Thought Leaders and Chicken Sexers.” Accessed February 19, 2022. <a href="https://ideolalia.com/essays/thought-leaders-and-chicken-sexers.html">https://ideolalia.com/essays/thought-leaders-and-chicken-sexers.html</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Blogroll]({{< relref "blogroll.md" >}})

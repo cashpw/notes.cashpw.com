@@ -1,10 +1,10 @@
 +++
 title = "Python typing"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-08-25T09:29:00-07:00
-lastmod = 2022-11-04T15:14:16-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:25:57-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "7667a3b3-727e-42e4-a2e6-a3d7c7169366"
 +++
@@ -34,6 +34,9 @@ class Vertex(Generic[T]):
     children: List[Vertex]
     value: T
 ```
+
+
+## Flashcards {#flashcards}
 
 ## References
 

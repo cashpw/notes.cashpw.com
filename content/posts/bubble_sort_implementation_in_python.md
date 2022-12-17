@@ -1,8 +1,8 @@
 +++
 title = "Bubble sort implementation in Python"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T10:52:00-07:00
-lastmod = 2022-11-04T14:50:33-07:00
+lastmod = 2022-12-17T11:06:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -38,3 +38,12 @@ def bubble_sort(ints: List[int]) -> List[int]:
 
 return bubble_sort([10, 5, 4, 40])
 ```
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Bubble sort]({{< relref "bubble_sort.md" >}})
+-   [Implement Bubble sort in Python]({{< relref "bubble_sort.md#implement-id-c6bc266e-1090-492f-bdba-f044e04db3ff-bubble-sort-in-python" >}})

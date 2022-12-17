@@ -1,10 +1,10 @@
 +++
 title = "John Salvatier | Reality Has a Surprising Amount of Detail"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:29:00-08:00
-lastmod = 2022-11-04T15:17:40-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-12-17T11:27:56-08:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "16937276-fd62-4d50-90ef-cdf5ab036442"
 +++
@@ -31,6 +31,9 @@ slug = "16937276-fd62-4d50-90ef-cdf5ab036442"
 <!--quoteend-->
 
 > You might also hope that the important details will be obvious when you run into them, but not so. Such details aren't automatically visible, even when you're directly running up against them. Things can just seem messy and noisy instead.
+
+
+## Flashcards {#flashcards}
 
 ## References
 

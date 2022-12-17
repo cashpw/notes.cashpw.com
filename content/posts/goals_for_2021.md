@@ -1,8 +1,8 @@
 +++
 title = "Goals for 2021"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2021-01-02T13:04:00-08:00
-lastmod = 2022-11-04T14:58:11-07:00
+lastmod = 2022-12-17T11:14:16-08:00
 draft = false
 slug = "60abd5dd-30f8-482c-8de7-421e25ed847e"
 +++
@@ -24,3 +24,12 @@ These are vague goals, in no particular order, for myself in 2021. I think it wo
 -   [Remember](https://apps.ankiweb.net/) what I've learned.
 -   Continue [studying math](https://news.ycombinator.com/item?id=25595583) and, eventually, ML/AI.
 -   Continue [lifting](https://docs.google.com/spreadsheets/d/1y0rATMeou3hKTt7yDgbNwvtOitZSVFEbjeZBH3AZ5Gs/edit?usp=sharing) and working out generally.
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Goals for 2022]({{< relref "goals_for_2022.md" >}})
+-   [Goals for 2022]({{< relref "goals_for_2022.md" >}})

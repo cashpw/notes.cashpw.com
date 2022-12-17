@@ -1,8 +1,8 @@
 +++
 title = "Alexey Nikitin | My least favorite Git commit"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:31:00-08:00
-lastmod = 2022-11-04T15:10:10-07:00
+lastmod = 2022-12-17T11:22:21-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -13,6 +13,8 @@ slug = "89fb44ee-8994-4c6c-89db-bc210039a39b"
 
 
 ## Summary {#summary}
+
+A response to [David Thompson | My Favourite Git Commit]({{< relref "thompsonMyFavouriteGitCommit2019.md" >}}) which asserts that git commit messages are less useful when compared to testing and more-accessible documentation (e.g. a README).
 
 
 ## Thoughts {#thoughts}
@@ -52,8 +54,16 @@ The essay isn't written in English. I've used Google Translate to read and quote
 >
 > If you are tempted to write a whole story in a commit message, you should think about how you can provide this story in another way - tests or documentation are much better. Having to read commit messages in order to find and fix a problem is not a sign of good code.
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nikitin, Alexey. 2019. “My least favorite Git commit.” <i>Alexey Nikitin</i>. <a href="https://www.nikialeksey.com/2019/10/26/long-commit-message.html">https://www.nikialeksey.com/2019/10/26/long-commit-message.html</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Documenting your work]({{< relref "documenting_your_work.md" >}})

@@ -1,8 +1,8 @@
 +++
 title = "Ian Danskin | I Hate Mondays"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:29:00-07:00
-lastmod = 2022-11-04T14:53:21-07:00
+lastmod = 2022-12-17T11:09:06-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -53,8 +53,19 @@ I hate mondays is an embrace of coping strategies and a refusal to address a pro
 >
 > This is a secular view. It can be reconciled with spirituality, but not with reactionary fundamentalism, which is the point. And it can be kind of baffling to have to assert that, when bad things happen, maybe we should do something about it? But you just can't take for granted that, when someone agrees a thing is bad, they're agreeing it's a problem.
 
+
+## Flashcards {#flashcards}
+
+
+### [I hate mondays]({{< relref "i_hate_mondays.md" >}}) {#i-hate-mondays--i-hate-mondays-dot-md}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2020. “I Hate Mondays.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/614651531972788224/the-alt-right-playbook-returns-triumphantly-with-a">https://innuendostudios.tumblr.com/post/614651531972788224/the-alt-right-playbook-returns-triumphantly-with-a</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [I hate mondays]({{< relref "i_hate_mondays.md" >}})

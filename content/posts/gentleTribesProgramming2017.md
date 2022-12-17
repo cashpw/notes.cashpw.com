@@ -1,8 +1,8 @@
 +++
 title = "Joseph Gentle | Three Tribes of Programming"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T10:06:00-07:00
-lastmod = 2022-11-04T14:57:54-07:00
+lastmod = 2022-12-17T11:14:00-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -17,7 +17,7 @@ slug = "2f62e8c7-6d64-4820-9b12-3949627c2386"
 > Programs, obviously, hold all of these properties. But I think there's fundamentally 3 architypes of programmers, divided by which ideals we hold in highest esteem:
 >
 > 1.  You are a poet and a mathematician. Programming is your poetry
-> 2.  You are a hacker. You make hardware dance to your tune
+> 2.  You are a hacker. You make hardware dance to your tune [[Technologist]({{< relref "technologist.md" >}})]
 > 3.  You are a maker. You build things for people to use
 >
 > We self-select into communities of our peers based on these ideals. We use coded language to express these ideals to our peers.
@@ -68,6 +68,100 @@ slug = "2f62e8c7-6d64-4820-9b12-3949627c2386"
 > I can't help but feel that this place is a touch soulless. Taken to the extreme, this world view doesn't value the beauty in the engineering itself. Although you could probably make the opposite criticism against the other groups - they don't value how their software can impact the world.
 
 Also see [Moloch]({{< relref "moloch.md" >}}).
+
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 2   | 2.00     | 2022-12-15T18:18:31Z |
+| back     | 2.5  | -1  | 0        | 2022-11-22T22:51:25Z |
+
+[Joseph Gentle | Three Tribes of Programming]({{< relref "gentleTribesProgramming2017.md" >}})
+
+
+#### Back {#back}
+
+1.  Poets and mathematicians: [Programming as applied mathematics](#programming-as-applied-mathematics)
+2.  Hackers: [Programming as hardware hacking](#programming-as-hardware-hacking)
+3.  Makers: [Programming as a tool to make things](#programming-as-a-tool-to-make-things)
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Gentle 2017</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 4   | 16.41    | 2022-12-30T03:46:32Z |
+| back     | 2.50 | 2   | 2.00     | 2022-12-13T19:30:15Z |
+
+[Programming as applied mathematics](#programming-as-applied-mathematics)
+
+
+#### Back {#back}
+
+> -   Source code: The source should read like poetry - dense, with very few lines of code needed to express an idea.
+> -   Execution: How the program is executed by the computer is an implementation detail of the compiler.
+> -   Correctness: A program is correct if it implements the spec exactly.
+> -   UI: Beautiful code is more important than beautiful UI.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Gentle 2017</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 4   | 15.60    | 2022-12-29T08:52:18Z |
+| back     | 2.50 | 4   | 15.23    | 2022-12-31T02:01:21Z |
+
+[Programming as hardware hacking](#programming-as-hardware-hacking)
+
+
+#### Back {#back}
+
+> -   Source code: The code should be clean, but clean code is less important than a clean execution.
+> -   Execution: How the computer executes your code is paramount.
+> -   Correctness: A program is correct if it runs the way you expect it to run, given normal parameters.
+> -   UI: How the code interacts with humans is a separate consideration from its implementation.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Gentle 2017</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.35 | 3   | 6.00     | 2022-12-17T19:16:37Z |
+| back     | 2.35 | 3   | 6.00     | 2022-12-19T02:27:39Z |
+
+[Programming as a tool to make things](#programming-as-a-tool-to-make-things)
+
+
+#### Back {#back}
+
+> -   Source code: The code should be clean, but only because cleaner code is easier to iterate on.
+> -   Execution: The program only has to be fast enough for the users.
+> -   Correctness: Bugs are bad only in proportion to their impact.
+> -   UI: The UI is more important than anything else.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Gentle 2017</a>)
 
 ## References
 

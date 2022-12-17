@@ -1,8 +1,8 @@
 +++
 title = "Ben Kuhn | To Listen Well, Get Curious"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:22:00-08:00
-lastmod = 2022-11-04T15:05:04-07:00
+lastmod = 2022-12-17T11:18:40-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -14,7 +14,7 @@ slug = "617eec3a-89c3-4b9f-9074-47d4bf4e69fd"
 
 ## Summary {#summary}
 
-Curiosity should underlie a listener's behavior in conversations.
+[Curiosity]({{< relref "be_curious.md" >}}) should underlie a listener's behavior in conversations.
 
 
 ## Thoughts {#thoughts}
@@ -35,6 +35,21 @@ I find that my misunderstandings are the result of premature and ill-founded ass
 <!--quoteend-->
 
 > It often feels like I understand enough to be helpful without knowing all those details. But when I think that, I'm usually wrong: I end up giving bad advice, based on bad assumptions, and the person I'm talking to ends up having to do a bunch of work to argue with me and correct my bad assumptions. That makes the conversation feel disfluent and adversarial instead of collaborative.
+
+
+## Flashcards {#flashcards}
+
+
+### To listen well, {{get curious}@0} {#to-listen-well-get-curious-0}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.80 | 4   | 16.24    | 2022-12-23T21:41:32Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kuhn n.d.</a>)
 
 ## References
 

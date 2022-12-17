@@ -1,8 +1,8 @@
 +++
 title = "Main diagonal"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:25:00-07:00
-lastmod = 2022-11-04T15:06:51-07:00
+lastmod = 2022-12-17T11:19:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,6 +14,29 @@ slug = "a61c410c-f8ea-4bdd-92c8-2f8d037dfe6a"
 > \\(\begin{bmatrix}1&0&0\\\0&1&0\\\0&0&1\end{bmatrix}\qquad\\)\\(\begin{bmatrix}1&0&0&0\\\0&1&0&0\\\0&0&1&0\end{bmatrix}\qquad\\)\\(\begin{bmatrix}1&0&0\\\0&1&0\\\0&0&1\\\0&0&0\end{bmatrix}\qquad\\)\\(\begin{bmatrix}1&0&0&0\\\0&1&0&0\\\0&0&1&0\\\0&0&0&1\end{bmatrix}\qquad\\)
 >
 > (<a href="#citeproc_bib_item_1">“Main Diagonal” 2022</a>)
+
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 3   | 6.00     | 2022-12-07T17:43:10Z |
+| back     | 2.5  | -1  | 0        | 2022-11-22T19:08:58Z |
+
+[Main diagonal]({{< relref "main_diagonal.md" >}})
+
+
+#### Back {#back}
+
+\\(A\_{i,j} \\; \forall \\; i = j \\; \in A\\)
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Main Diagonal” 2022</a>)
 
 ## References
 

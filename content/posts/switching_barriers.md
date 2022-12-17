@@ -1,19 +1,42 @@
 +++
-title = "Switching barriers"
-author = ["Cash Weaver"]
+title = "Switching barrier"
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T11:00:00-07:00
-lastmod = 2022-11-04T15:25:35-07:00
+lastmod = 2022-12-17T11:32:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "ffff7383-e701-4fca-ad82-4e1a0ac3d509"
 +++
 
-## TODO {#todo}
-
-(<a href="#citeproc_bib_item_1">“Switching Barriers” 2022</a>)
+> Switching costs or switching barriers [...] may be defined as the disadvantages or expenses consumers feel they experience, along with the economic and psychological costs of switching from one alternative to another.
+>
+> (<a href="#citeproc_bib_item_1">“Switching Barriers” 2022</a>)
 
 Also see [Network effect]({{< relref "network_effect.md" >}}).
+
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 4   | 15.21    | 2022-12-23T23:03:57Z |
+| back     | 2.20 | 4   | 13.91    | 2022-12-28T16:42:08Z |
+
+[Switching barrier]({{< relref "switching_barriers.md" >}})
+
+
+#### Back {#back}
+
+Disadvantages or expenses incurred by changing from one alternative to another.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Switching Barriers” 2022</a>)
 
 ## References
 

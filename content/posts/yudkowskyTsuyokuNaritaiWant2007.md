@@ -1,8 +1,8 @@
 +++
 title = "Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:06:00-08:00
-lastmod = 2022-11-04T15:41:45-07:00
+lastmod = 2022-12-17T11:52:31-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -11,11 +11,7 @@ slug = "9bbe0740-9dff-4d2a-908e-535e96ea4e59"
 
 [Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}}), (<a href="#citeproc_bib_item_1">Yudkowsky 2007</a>)
 
-
-## Summary {#summary}
-
-
-## Thoughts {#thoughts}
+Similar: [Eliezer Yudkowsky | Something to Protect]({{< relref "eliezer_yudkowsky_something_to_protect.md" >}})
 
 
 ## Notes {#notes}
@@ -31,6 +27,9 @@ slug = "9bbe0740-9dff-4d2a-908e-535e96ea4e59"
 > [...]
 >
 > Never confess to me that you are just as flawed as I am unless you can tell me what you plan to do about it. Afterward you will still have plenty of flaws left, but that's not the point; the important thing is to do better, to keep moving ahead, to take one more step forward. Tsuyoku naritai!
+
+
+## Flashcards {#flashcards}
 
 ## References
 

@@ -1,8 +1,8 @@
 +++
 title = "Anna Salamon | Humans Are Not Automatically Strategic"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:45:00-08:00
-lastmod = 2022-11-04T14:48:22-07:00
+lastmod = 2022-12-17T11:04:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -14,8 +14,12 @@ slug = "3bac7cee-9146-45df-be28-bb51ac48be68"
 
 ## Summary {#summary}
 
+> [...] we mostly just do things. We act from habit; we act from impulse or convenience when primed by the activities in front of us; we remember our goal and choose an action that feels associated with our goal. We do any number of things. But we do not systematically choose the narrow sets of actions that would effectively optimize for our claimed goals, or for any other goals.
+
 
 ## Thoughts {#thoughts}
+
+We don't automatically seek out a [Theory of change]({{< relref "theory_of_change.md" >}}). Instead, we see the greatest improvements through increased [pattern matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}}) such that our [default]({{< relref "be_concious_of_your_defaults.md" >}}) habits and instincts are better aligned with the optimal strategy.
 
 
 ## Notes {#notes}
@@ -28,18 +32,47 @@ slug = "3bac7cee-9146-45df-be28-bb51ac48be68"
 >
 > But there are clearly also heuristics that would be useful to goal-achievement (or that would be part of what it means to "have goals" at all) that we do not automatically carry out. We do not automatically:
 >
-> (a) Ask ourselves what we're trying to achieve;
-> (b) Ask ourselves how we could tell if we achieved it ("what does it look like to be a good comedian?") and how we can track progress;
-> (c) Find ourselves strongly, intrinsically curious about information that would help us achieve our goal;
-> (d) Gather that information (e.g., by asking as how folks commonly achieve our goal, or similar goals, or by tallying which strategies have and haven't worked for us in the past);
-> (e) Systematically test many different conjectures for how to achieve the goals, including methods that aren't habitual for us, while tracking which ones do and don't work;
-> (f) Focus most of the energy that **isn't** going into systematic exploration, on the methods that work best;
-> (g) Make sure that our "goal" is really our goal, that we coherently want it and are not constrained by fears or by uncertainty as to whether it is worth the effort, and that we have thought through any questions and decisions in advance so they won't continually sap our energies;
-> (h) Use environmental cues and social contexts to bolster our motivation, so we can keep working effectively in the face of intermittent frustrations, or temptations based in hyperbolic discounting;
+> -   (a) Ask ourselves what we're trying to achieve;
+> -   (b) Ask ourselves how we could tell if we achieved it ("what does it look like to be a good comedian?") and how we can track progress;
+> -   (c) Find ourselves strongly, intrinsically curious about information that would help us achieve our goal;
+> -   (d) Gather that information (e.g., by asking as how folks commonly achieve our goal, or similar goals, or by tallying which strategies have and haven't worked for us in the past);
+> -   (e) Systematically test many different conjectures for how to achieve the goals, including methods that aren't habitual for us, while tracking which ones do and don't work;
+> -   (f) Focus most of the energy that **isn't** going into systematic exploration, on the methods that work best;
+> -   (g) Make sure that our "goal" is really our goal, that we coherently want it and are not constrained by fears or by uncertainty as to whether it is worth the effort, and that we have thought through any questions and decisions in advance so they won't continually sap our energies;
+> -   (h) Use environmental cues and social contexts to bolster our motivation, so we can keep working effectively in the face of intermittent frustrations, or temptations based in hyperbolic discounting;
+>
 > .... or carry out any number of other useful techniques. Instead, we mostly just do things. We act from habit; we act from impulse or convenience when primed by the activities in front of us; we remember our goal and choose an action that feels associated with our goal. We do any number of things. But we do not systematically choose the narrow sets of actions that would effectively optimize for our claimed goals, or for any other goals.
+
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 2   | 2.00     | 2022-12-13T19:36:40Z |
+| back     | 2.50 | 1   | 1.00     | 2022-12-14T18:19:01Z |
+
+[Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
+
+
+#### Back {#back}
+
+People "mostly just do things. We act from habit; we act from impulse ... but we do not systematically choose the narrow set of actions that would effectively optimize for our claimed goals ..."
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Salamon 2010</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. 2010. “Humans Are Not Automatically Strategic.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic">https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Todos]({{< relref "todos.md" >}})

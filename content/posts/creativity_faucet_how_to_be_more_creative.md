@@ -1,8 +1,8 @@
 +++
 title = "Julian Shapiro | Creativity Faucet: How to Be More Creative"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-26T09:24:00-07:00
-lastmod = 2022-11-04T14:52:43-07:00
+lastmod = 2022-12-17T11:08:37-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -36,8 +36,16 @@ slug = "bbb82ce2-0bab-4746-acc1-7bb95da9bb72"
 >
 > Your work starts as a weak imitation. You identify what makes the imitation weak. You iterate the imitation until it's original.
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Creativity Faucet: How to Be More Creative.” n.d. Accessed October 24, 2022. <a href="https://www.julian.com/blog/creativity-faucet">https://www.julian.com/blog/creativity-faucet</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [How to be more creative]({{< relref "how_to_be_more_creative.md" >}})

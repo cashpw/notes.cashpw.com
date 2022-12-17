@@ -1,8 +1,10 @@
 +++
 title = "Works in Progress"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T17:26:00-08:00
-lastmod = 2022-11-04T15:40:45-07:00
+lastmod = 2022-12-17T11:51:47-08:00
+tags = ["has-todo", "has-todo"]
+categories = ["has-todo"]
 draft = false
 slug = "e5987482-328e-40af-bcec-b69f27a49caa"
 +++
@@ -94,9 +96,6 @@ Understand how your work will depend on external services.
 
 1.  It doesn't exist unless you can measure it.
     -   Your feature isn't "live" unless you have a metric/heartbeat/etc which indicates as such.
-    -
 
-## References
 
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-</div>
+## Flashcards {#flashcards}

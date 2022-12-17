@@ -1,8 +1,8 @@
 +++
 title = "Julian Shapiro | How to Punctuate"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2022-11-04T15:19:00-07:00
+lastmod = 2022-12-17T11:29:02-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -12,16 +12,22 @@ slug = "7f8365a4-bafd-4ab1-9034-957f76b904a0"
 [Julian Shapiro]({{< relref "julian_shapiro.md" >}}), (<a href="#citeproc_bib_item_1">Shapiro n.d.</a>)
 
 
-## Incorporate points I agree with into [Style Guide]({{< relref "style_guide.md" >}}) {#incorporate-points-i-agree-with-into-style-guide--style-guide-dot-md}
-
-
 ## Summary {#summary}
 
+1.  Separate danglers with a comma
+2.  If you can, use a period instead of a comma
+3.  [In a list, use a comma before the final "and"]({{< relref "use_serial_commas.md" >}})
+4.  Use a comma before introducing a question
+5.  Don't use a comma to represent vocal pauses
+6.  Don't use ellipses
+7.  Avoid semicolons
+8.  Only use colons for standalone sentences
+9.  Place ending punctuation inside quotation marks
+10. Punctuate within full-sentence parentheses
+11. Don't use exclamation marks outside of dialogue
 
-## Thoughts {#thoughts}
 
-
-## Notes {#notes}
+## Flashcards {#flashcards}
 
 ## References
 

@@ -1,8 +1,8 @@
 +++
 title = "Ian Danskin | The Cost of Doing Business"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-09-26T19:06:00-07:00
-lastmod = 2022-11-04T14:53:51-07:00
+lastmod = 2022-12-17T11:09:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -16,7 +16,7 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 
 ## Summary {#summary}
 
-White people -- both those who profess to be non-racist and otherwise -- tend to view racism as "tolerable" or else "easy to disregard". It's okay to [sacrifice](https://knowyourmeme.com/memes/some-of-you-may-die) minorities in order to win.
+White people -- both those who profess to be non-racist and otherwise -- tend to view racism as "tolerable" or else "easy to disregard". It's okay to [sacrifice](https://knowyourmeme.com/memes/some-of-you-may-die) minorities in order to win. This applies to more than just racism and is termed the cost of doing business.
 
 
 ## Notes {#notes}
@@ -75,6 +75,23 @@ See also:
 <!--quoteend-->
 
 > They don't care about ideas. They care about power.
+
+See [Realpolitik]({{< relref "real_politic.md" >}}), [Power politics]({{< relref "power_politics.md" >}}), [Moloch]({{< relref "moloch.md" >}}).
+
+
+## Flashcards {#flashcards}
+
+
+### The fascist goal is {{to harness and redirect class resentment toward a scapegoat}{socioeconomic class}@0}. {#the-fascist-goal-is-to-harness-and-redirect-class-resentment-toward-a-scapegoat-socioeconomic-class-0-dot}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 4   | 14.38    | 2022-12-20T09:31:22Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Danskin 2022</a>)
 
 ## References
 

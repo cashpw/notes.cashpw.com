@@ -1,8 +1,10 @@
 +++
 title = "Read Gmail in Emacs with notmuch and lieer"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T19:56:00-08:00
-lastmod = 2022-11-04T15:15:44-07:00
+lastmod = 2022-12-17T11:26:43-08:00
+tags = ["has-todo", "has-todo"]
+categories = ["has-todo"]
 draft = false
 slug = "ada68d10-cec8-4af1-903d-29dfa71d2343"
 +++
@@ -129,7 +131,7 @@ These steps are pulled from `lieer`'s own [documentation](https://github.com/gau
     ```
 
 
-## Set up Cronjob to Sync Email {#set-up-cronjob-to-sync-email}
+## Sync emails periodically {#sync-emails-periodically}
 
 You could also use a `systemd` timer for this.
 
@@ -164,3 +166,11 @@ You could also use a `systemd` timer for this.
 ## Done! {#done}
 
 For those of you using [`doom emacs`](https://github.com/hlissner/doom-emacs), you can open notmuch from anywhere with `SPC o m`.
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Email in emacs]({{< relref "email_in_emacs.md" >}})

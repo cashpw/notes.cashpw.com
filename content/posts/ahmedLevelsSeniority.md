@@ -1,8 +1,8 @@
 +++
 title = "Kamran Ahmed | Levels of Seniority"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:50:00-08:00
-lastmod = 2022-11-04T14:47:44-07:00
+lastmod = 2022-12-17T11:04:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -65,8 +65,16 @@ slug = "e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e"
 > -   They have respect for the code that was written before them. They are generous when passing judgment on the architecture or the design decisions made in the codebase. They approach inheriting legacy code with an "opportunity mindset" rather than a complaining one.
 > -   They know how to give feedback without hurting anyone.
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ahmed, Kamran. n.d. “Levels of Seniority.” <i>Https://Roadmap.Sh/Guides/Levels-of-Seniority</i>. Accessed February 7, 2022. <a href="https://roadmap.sh">https://roadmap.sh</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})

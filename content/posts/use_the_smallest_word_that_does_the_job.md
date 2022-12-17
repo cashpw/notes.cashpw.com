@@ -1,8 +1,8 @@
 +++
-title = "Use The Smallest Word That Does The Job"
-author = ["Cash Weaver"]
+title = "Use the smallest word that does the job"
+author = ["Cash Prokop-Weaver"]
 date = 2022-01-17T11:33:00-08:00
-lastmod = 2022-11-04T15:38:20-07:00
+lastmod = 2022-12-17T11:49:30-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -12,3 +12,11 @@ slug = "7bfd0762-1ab3-4797-bdd1-483370601434"
 > Use the smallest word that does the job.
 >
 > _[E.B. White]({{< relref "e_b_white.md" >}})_
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Use plain language]({{< relref "use_plain_language.md" >}})

@@ -1,8 +1,8 @@
 +++
 title = "Zach Tellman | Two Concepts of Legibility"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:23:00-08:00
-lastmod = 2022-11-13T08:07:06-08:00
+lastmod = 2022-12-17T11:53:01-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -58,6 +58,9 @@ This dichotomy reminds me of [Unix philosophy]({{< relref "unix_philosophy.md" >
 > As we compose our abstractions, we must ensure we create, at regular intervals, interfaces which fully separate our upstream and downstream components. These interfaces not only delineate subgraphs which can be understood in isolation [[Black boxes]({{< relref "black_box.md" >}})], they represent decision points in our design process. From any given articulation point, we can branch off in a dozen different directions, perhaps even all at once. These are separate interpretations of what the interface represents, each of which can be considered or ignored in isolation.
 >
 > This is more easily said than done. Countless decisions go into every bit of software, but not all of them deserve to be enshrined as an interface. Once used, interfaces ossify. They allow the code on either side to drift apart, to lose consistency in idiom and purpose. If we don't expect an interface to require multiple interpretations, it shouldn't exist. To make the right decision, we must predict the future.
+
+
+## Flashcards {#flashcards}
 
 ## References
 

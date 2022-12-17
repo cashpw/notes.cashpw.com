@@ -1,8 +1,8 @@
 +++
 title = "Paul Graham | How to Write Usefully"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:42:00-08:00
-lastmod = 2022-11-04T14:46:59-07:00
+lastmod = 2022-12-17T11:03:54-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -63,8 +63,41 @@ Additionally, for Graham, a useful essay is one which says things as simply as p
 
 > Sometimes the reason people don't know something is because they don't want to know it.
 
+
+## Flashcards {#flashcards}
+
+
+### [Paul Graham]({{< relref "paul_graham.md" >}}) considers a useful essay as one which is {{novel, correct, important, and strong}@0} {#paul-graham--paul-graham-dot-md--considers-a-useful-essay-as-one-which-is-novel-correct-important-and-strong-0}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 1   | 1.00     | 2022-12-11T00:11:45Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Graham n.d.</a>)
+
+
+### [Paul Graham]({{< relref "paul_graham.md" >}}) considers a strong essay to be one which {{can afford to omit qualification (e.g. "perhaps")}@0} {#paul-graham--paul-graham-dot-md--considers-a-strong-essay-to-be-one-which-can-afford-to-omit-qualification--e-dot-g-dot-perhaps--0}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.20 | 4   | 13.35    | 2022-12-30T02:31:05Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Graham n.d.</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Graham, Paul. n.d. “How to Write Usefully.” Accessed February 7, 2022. <a href="http://paulgraham.com/useful.html">http://paulgraham.com/useful.html</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Style Guide]({{< relref "style_guide.md" >}})
+-   [Avoid qualifying language]({{< relref "avoid_qualifying_language.md" >}})

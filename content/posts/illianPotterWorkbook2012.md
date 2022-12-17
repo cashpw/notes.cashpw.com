@@ -1,9 +1,10 @@
 +++
 title = "Clary Illian | A Potter's Workbook."
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:34:00-08:00
-lastmod = 2022-11-04T15:01:47-07:00
-tags = ["reference"]
+lastmod = 2022-12-17T11:16:33-08:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "3f493f0a-aac1-43b6-be22-9711b921f6d8"
 +++
@@ -105,8 +106,16 @@ slug = "3f493f0a-aac1-43b6-be22-9711b921f6d8"
 
 #### Notes {#notes}
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Illian, Clary. 2012. <i>A Potter’s Workbook.</i> Iowa: University of Iowa Press. <a href="http://public.eblib.com/choice/publicfullrecord.aspx?p=951113">http://public.eblib.com/choice/publicfullrecord.aspx?p=951113</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Books]({{< relref "ceramics_pottery_resources.md#books" >}})

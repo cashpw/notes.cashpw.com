@@ -1,8 +1,8 @@
 +++
 title = "Adversarial interoperability"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:35:00-07:00
-lastmod = 2022-11-04T14:47:40-07:00
+lastmod = 2022-12-17T11:04:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,9 +23,57 @@ A type of [Interoperability]({{< relref "interoperability.md" >}}).
 >
 > (<a href="#citeproc_bib_item_1">Doctorow 2019a</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.80 | 4   | 17.38    | 2022-12-21T04:59:09Z |
+| back     | 2.65 | 3   | 6.00     | 2022-12-19T18:23:17Z |
+
+[Adversarial interoperability]({{< relref "adversarial_interoperability.md" >}})
+
+
+#### Back {#back}
+
+[Interoperability]({{< relref "interoperability.md" >}}) achieved without the permission or support of, and sometimes in spite of resistance on the part of, the makers of the original thing.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_2">Doctorow 2019b</a>)
+
+
+### Example(s) {#example--s}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.95 | 5   | 51.30    | 2023-01-16T22:07:59Z |
+| back     | 2.80 | 4   | 16.98    | 2022-12-18T15:19:34Z |
+
+[Adversarial interoperability]({{< relref "adversarial_interoperability.md" >}})
+
+
+#### Back {#back}
+
+-   Apple's office suite recognizing Microsoft's Word/etc file formats
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Doctorow 2019a</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Doctorow, Cory. 2019a. “Adversarial Interoperability: Reviving an Elegant Weapon From a More Civilized Age to Slay Today’s Monopolies.” <i>Electronic Frontier Foundation</i>. <a href="https://www.eff.org/deeplinks/2019/06/adversarial-interoperability-reviving-elegant-weapon-more-civilized-age-slay">https://www.eff.org/deeplinks/2019/06/adversarial-interoperability-reviving-elegant-weapon-more-civilized-age-slay</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2019b. “Adversarial Interoperability.” <i>Electronic Frontier Foundation</i>. <a href="https://www.eff.org/deeplinks/2019/10/adversarial-interoperability">https://www.eff.org/deeplinks/2019/10/adversarial-interoperability</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Interoperability]({{< relref "interoperability.md" >}})

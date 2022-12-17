@@ -1,10 +1,26 @@
 +++
 title = "Acetaminophen"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:08:00-07:00
-lastmod = 2022-11-04T14:47:33-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:04:15-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "2e981d20-0244-4ff1-ad21-4024fc24630f"
 +++
+
+## Flashcards {#flashcards}
+
+
+### AKA {#aka}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 7   | 137.74   | 2023-04-23T09:28:44Z |
+| 1        | 2.65 | 8   | 84.45    | 2023-01-07T02:42:51Z |
+
+-   {{[Acetaminophen]({{< relref "acetaminophen.md" >}})}@0}
+-   {{Tylenol}@1}
+
+
+#### Source {#source}

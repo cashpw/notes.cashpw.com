@@ -1,20 +1,23 @@
 +++
 title = "Ben Kuhn | Attention Is Your Scarcest Resource"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:31:00-08:00
-lastmod = 2022-11-04T15:04:33-07:00
-tags = ["reference"]
+lastmod = 2022-12-17T11:18:30-08:00
+tags = ["reference", "reference"]
+categories = ["reference"]
 draft = false
 slug = "4625d068-26fe-47d7-93b3-da12b0151ca1"
 +++
 
-[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), [<@kuhnAttentionYourScarcestResource2022-01-01T13:00:00Z> |
+[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn 2020</a>)
 
 
 ## Summary {#summary}
 
 
 ## Thoughts {#thoughts}
+
+[Attention capital theory]({{< relref "attention_capital_theory.md" >}})
 
 
 ## Notes {#notes}
@@ -39,7 +42,16 @@ slug = "4625d068-26fe-47d7-93b3-da12b0151ca1"
 >
 > In the short term, this made me less efficient, because I'd spend less time programming and more time staring vacantly at the ceiling. But if I stared vacantly for long enough, I'd eventually get mad enough to, e.g., reverse-engineer the partner's API in a fit of rage. This resulted in me shipping my most important projects faster, hence getting faster compounding growth.
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Attention Is Your Scarcest Resource.” <a href="https://www.benkuhn.net/attention/">https://www.benkuhn.net/attention/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Blogroll]({{< relref "blogroll.md" >}})

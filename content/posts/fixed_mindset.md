@@ -1,8 +1,8 @@
 +++
 title = "Fixed mindset"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:44:00-07:00
-lastmod = 2022-11-04T14:56:58-07:00
+lastmod = 2022-12-17T11:12:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,37 @@ slug = "3a203296-7538-4986-a360-0db64356c9f5"
 >
 > (<a href="#citeproc_bib_item_1">“Mindset” 2022</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.95 | 5   | 46.74    | 2023-01-07T19:57:16Z |
+| back     | 2.80 | 4   | 18.16    | 2023-01-01T21:57:52Z |
+
+[Fixed mindset]({{< relref "fixed_mindset.md" >}})
+
+
+#### Back {#back}
+
+A [Mindset]({{< relref "mindset.md" >}}) which holds that there is little one can do to improve ability; you're stuck with what you're born with.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Mindset” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindset.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Mindset&oldid=1114760560#Fixed_and_growth_mindset">https://en.wikipedia.org/w/index.php?title=Mindset&#38;oldid=1114760560#Fixed_and_growth_mindset</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Growth mindset]({{< relref "growth_mindset.md" >}})
+-   [The first lesson]({{< relref "the_first_lesson.md" >}})

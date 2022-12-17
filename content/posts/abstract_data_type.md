@@ -1,8 +1,8 @@
 +++
 title = "Abstract data type"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:49:00-07:00
-lastmod = 2022-11-04T14:47:32-07:00
+lastmod = 2022-12-17T11:04:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,8 +13,121 @@ slug = "2eae74ba-4003-45cf-8425-7291aaa7a537"
 >
 > (<a href="#citeproc_bib_item_1">“Abstract Data Type” 2022</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Definition (Computer science) {#definition--computer-science}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| back     | 2.65 | 7   | 119.27   | 2023-02-17T21:54:23Z |
+| front    | 2.50 | 7   | 205.35   | 2023-07-09T04:54:49Z |
+
+[Abstract data type]({{< relref "abstract_data_type.md" >}})
+
+
+#### Back {#back}
+
+A mathematical model for data types which is defined by its behavior from the point of view of the user (i.e. analogous to an interface or API).
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Abstract Data Type” 2022</a>)
+
+
+### Compare/Contrast {#compare-contrast}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 6   | 85.01    | 2023-01-03T16:35:20Z |
+
+[Abstract data type]({{< relref "abstract_data_type.md" >}}) and [Data structure]({{< relref "data_structures.md" >}})
+
+
+#### Back {#back}
+
+Both concepts relate to how the system stores and interacts with data.
+
+-   [Abstract data type]({{< relref "abstract_data_type.md" >}}): Defined in terms of how the system interacts with the data type (i.e. interface or API)
+-   [Data structures]({{< relref "data_structures.md" >}}): Defined in terms of their implementation
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Abstract Data Type” 2022</a>)
+
+
+### Example(s) {#example--s}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 6   | 109.02   | 2023-02-10T14:46:20Z |
+| back     | 2.80 | 6   | 101.29   | 2023-02-14T07:21:46Z |
+
+[Abstract data type]({{< relref "abstract_data_type.md" >}})
+
+
+#### Back {#back}
+
+-   Queue
+-   Stack
+-   List
+-   Map
+-   Set
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Abstract Data Type” 2022</a>)
+
+
+### [Abstract data types]({{< relref "abstract_data_type.md" >}}) are analogous to {{an interface or API}@0} {#abstract-data-types--abstract-data-type-dot-md--are-analogous-to-an-interface-or-api-0}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.35 | 3   | 6.00     | 2022-12-17T15:22:53Z |
+
+
+#### Extra {#extra}
+
+
+#### Source {#source}
+
+
+### AKA (Computer science) {#aka--computer-science}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 6   | 41.59    | 2022-12-03T04:47:25Z |
+| 1        | 2.35 | 1   | 1.00     | 2022-11-11T17:28:51Z |
+
+-   {{[Abstract data type]({{< relref "abstract_data_type.md" >}})}@0}
+-   {{[ADT]({{< relref "abstract_data_type.md" >}})}@1}
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Abstract Data Type” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Abstract Data Type.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Abstract_data_type&oldid=1093187237">https://en.wikipedia.org/w/index.php?title=Abstract_data_type&#38;oldid=1093187237</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Tree]({{< relref "tree.md" >}})
+-   [Definition (Computer science)]({{< relref "tree.md#definition--computer-science" >}})
+-   [Definition (Computer science)]({{< relref "priority_queue.md#definition--computer-science" >}})
+-   [A {{Priority queue}{Abstract data type}@0} is often implemented with a {{Heap}@1}]({{< relref "priority_queue.md#a-id-6f787120-13bb-405a-bfca-060df6d80b14-priority-queue-id-2eae74ba-4003-45cf-8425-7291aaa7a537-abstract-data-type-0-is-often-implemented-with-a-id-70cbebc9-8936-4d52-885a-76d747c6577f-heap-1" >}})
+-   [Stack]({{< relref "stack.md" >}})
+-   [Describe (Abstract data type)]({{< relref "stack.md#describe--id-2eae74ba-4003-45cf-8425-7291aaa7a537-abstract-data-type" >}})
+-   [Heap]({{< relref "heap.md" >}})
+-   [Queue]({{< relref "queue.md" >}})
+-   [Definition (Computer science)]({{< relref "queue.md#definition--computer-science" >}})
+-   [Associative array]({{< relref "associative_array.md" >}})
+-   [Definition (Computer science)]({{< relref "associative_array.md#definition--computer-science" >}})

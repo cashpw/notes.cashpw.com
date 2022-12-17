@@ -1,8 +1,8 @@
 +++
 title = "Scott Alexander | Book Review: The Seven Principles For Making Marriage Work"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:43:00-08:00
-lastmod = 2022-11-04T14:47:48-07:00
+lastmod = 2022-12-17T11:04:26-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -47,6 +47,9 @@ I enjoyed the personality that this essay had. A more direct essay could have st
 <!--quoteend-->
 
 > In marriage, as in other forms of politics, sometimes exit &gt; voice. Which is probably not something marriage counselors want to think about very much.
+
+
+## Flashcards {#flashcards}
 
 ## References
 

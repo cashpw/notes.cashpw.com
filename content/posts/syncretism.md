@@ -1,0 +1,43 @@
++++
+title = "Syncretism"
+author = ["Cash Prokop-Weaver"]
+date = 2022-11-18T15:32:00-08:00
+lastmod = 2022-12-17T11:32:41-08:00
+tags = ["concept", "concept"]
+categories = ["concept"]
+draft = false
+slug = "089751fe-6770-4c69-8cb3-699c072a65dd"
++++
+
+> Syncretism (_ˈsɪŋkrəˌtɪzəm, ˈsɪn-_)[1] is the practice of combining different beliefs and various schools of thought. Syncretism involves the merging or assimilation of several originally discrete traditions, especially in the theology and mythology of religion, thus asserting an underlying unity and allowing for an inclusive approach to other faiths. Syncretism also occurs commonly in expressions of art and culture, known as eclecticism, as well as in politics, known as syncretic politics.
+>
+> (<a href="#citeproc_bib_item_1">“Syncretism” 2022</a>)
+
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 1   | 1.00     | 2022-12-16T20:18:15Z |
+| back     | 2.5  | -1  | 0        | 2022-11-18T23:34:12Z |
+
+[Syncretism]({{< relref "syncretism.md" >}})
+
+
+#### Back {#back}
+
+The practice of combining different beliefs and schools of thought; the assimilation of originally discrete traditions with particular regard to religion and culture.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Syncretism” 2022</a>)
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Syncretism.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Syncretism&oldid=1119235527">https://en.wikipedia.org/w/index.php?title=Syncretism&#38;oldid=1119235527</a>.</div>
+</div>

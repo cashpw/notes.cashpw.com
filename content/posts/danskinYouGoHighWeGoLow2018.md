@@ -1,8 +1,8 @@
 +++
 title = "Ian Danskin | You Go High, We Go Low"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:11:00-07:00
-lastmod = 2022-11-04T14:53:44-07:00
+lastmod = 2022-12-17T11:09:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -55,8 +55,20 @@ Going low is a manifestation of [playing to win]({{< relref "play_to_win.md" >}}
 
 > An action has no intrinsic value wholly separate from its outcome. A Kentucky clerk breaking the law by refusing to sign a legal gay marriage license is wrong. And a California clerk breaking the law by signing an illegal gay marriage license is right. There is a moral imperative to disobey rules when following does not lead to justice.
 
+
+## Flashcards {#flashcards}
+
+
+### [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}}) {#you-go-high-we-go-low--you-go-high-we-go-low-dot-md}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2018. “You Go High, We Go Low.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/179749702607/new-video-essay-this-one-is-about-how">https://innuendostudios.tumblr.com/post/179749702607/new-video-essay-this-one-is-about-how</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Ian Danskin | I Hate Mondays]({{< relref "danskinHateMondays2020.md" >}})
+-   [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})

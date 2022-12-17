@@ -1,8 +1,8 @@
 +++
 title = "Dynamic array"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-27T19:43:00-07:00
-lastmod = 2022-11-04T14:55:18-07:00
+lastmod = 2022-12-17T11:11:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -118,3 +118,6 @@ class DynamicArray<T>{
     }
 }
 ```
+
+
+## Flashcards {#flashcards}

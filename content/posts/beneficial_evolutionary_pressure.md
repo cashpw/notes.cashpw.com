@@ -1,10 +1,10 @@
 +++
 title = "Beneficial evolutionary pressure"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T10:16:00-07:00
-lastmod = 2022-11-04T14:49:16-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:05:48-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "7ad4b787-5657-4dfb-ae93-a50f843e670e"
 +++
@@ -12,7 +12,17 @@ slug = "7ad4b787-5657-4dfb-ae93-a50f843e670e"
 Related:
 
 -   [A person needs new experiences]({{< relref "a_person_needs_new_experiences.md" >}})
--   [There should be a science of discontent]({{< relref "there_should_be_a_science_of_discontent.md" >}})
+-   [Science of discontent]({{< relref "science_of_discontent.md" >}})
+-   Having a rival/etc who's competition drives you to greater achievement than you would see without them
 
 
 ## Is there a better name for this concept? {#is-there-a-better-name-for-this-concept}
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

@@ -1,8 +1,8 @@
 +++
 title = "Atom"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:31:00-07:00
-lastmod = 2022-11-04T14:48:48-07:00
+lastmod = 2022-12-17T11:05:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,37 @@ An atom, in [Lisp]({{< relref "lisp.md" >}}), is an indivisible thing. Examples 
 >
 > (<a href="#citeproc_bib_item_1">“Lisp Atoms” n.d.</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Definition ([Lisp]({{< relref "lisp.md" >}})) {#definition--lisp-lisp-dot-md}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| back     | 2.65 | 6   | 116.67   | 2023-02-06T06:39:16Z |
+| front    | 2.35 | 7   | 142.75   | 2023-04-17T08:40:38Z |
+
+[Atom]({{< relref "atom.md" >}})
+
+
+#### Back {#back}
+
+Everything that isn't a list; an indivisible thing. Examples include numbers, strings, symbols, etc.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Lisp Atoms” n.d.</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lisp Atoms.” n.d. Accessed June 29, 2022. <a href="https://www.gnu.org/software/emacs/manual/html_node/eintr/Lisp-Atoms.html">https://www.gnu.org/software/emacs/manual/html_node/eintr/Lisp-Atoms.html</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Symbolic expression]({{< relref "symbolic_expression.md" >}})
+-   [Definition (Lisp)]({{< relref "symbolic_expression.md#definition--id-f6e9082b-3589-448a-9877-b9a2b31d88ba-lisp" >}})

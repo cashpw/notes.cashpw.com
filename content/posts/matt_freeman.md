@@ -1,8 +1,8 @@
 +++
 title = "Matt Freeman"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:20:00-08:00
-lastmod = 2022-11-04T15:07:46-07:00
+lastmod = 2022-12-17T11:20:24-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -12,3 +12,11 @@ slug = "edc893d8-ed7d-4b34-aa48-d1bb8239ec0c"
 Among other things:
 
 -   [moridinamael on Lesswrong](https://www.lesswrong.com/users/moridinamael)
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [moridinamael | The Monthly Newsletter as Thinking Tool]({{< relref "moridinamaelMonthlyNewsletterThinking2018.md" >}})

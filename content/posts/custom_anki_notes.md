@@ -1,11 +1,13 @@
 +++
 title = "Custom Anki Notes"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-11T11:30:00-08:00
-lastmod = 2022-11-04T14:52:46-07:00
+lastmod = 2022-12-17T11:08:43-08:00
 draft = false
 slug = "a32b0bd9-5555-4630-b486-4d070fb5c7f0"
 +++
+
+Note: I've since [migrated](https://github.com/l3kn/org-fc/issues/84) to [org-fc]({{< relref "org_flashcards.md" >}}).
 
 I use [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}}) to help myself remember the things I learn. I found creating cards, as well as managing existing cards, was easier after creating custom note types to represent specific information.
 
@@ -120,3 +122,6 @@ For mathematical equivalencies: `A = B = C`.
 The `Equivalence` note includes six pairs of fields for an expression and label: `Expression1`, `Label1`, `Expression2`, `Label2`, etc. The labels are used to imitate the appearance of a labeled Cloze deletion (eg: "The quick [color] fox jumps over the lazy dog"). Up to 30 cards are created for each instance of this note to account for all combinations of the six pairs of fields.
 
 [Download Equivalence note](https://drive.google.com/file/d/1pF_iPI5bSd7xfmgyVj1D6T4Xb7P1Wmtm/view?usp=sharing)
+
+
+## Flashcards {#flashcards}

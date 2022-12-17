@@ -1,8 +1,8 @@
 +++
 title = "Nick Bostrom | The Fable of the Dragon Tyrant"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-20T20:17:00-07:00
-lastmod = 2022-11-04T14:50:14-07:00
+lastmod = 2022-12-17T11:06:34-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -133,8 +133,50 @@ slug = "2a13c6a7-c74c-408b-b30e-69a18c9ad9ab"
 >
 > The king stepped off the platform and walked up to the young man in handcuffs, who was sitting on the ground. There he fell down on his knees. "Forgive me! Oh my God, please forgive me!"
 
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 6   | 106.67   | 2023-02-02T07:16:49Z |
+| back     | 2.65 | 6   | 106.79   | 2023-02-15T11:17:35Z |
+
+[The Fable of the Dragon Tyrant]({{< relref "bostromFableDragonTyrant2005.md" >}})
+
+
+#### Back {#back}
+
+A parable which contextualizes human death as something to be defeated.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Bostrom 2005</a>)
+
+
+### Source {#source}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.80 | 6   | 95.69    | 2023-03-08T12:09:40Z |
+
+[The Fable of the Dragon Tyrant]({{< relref "bostromFableDragonTyrant2005.md" >}})
+
+
+#### Back {#back}
+
+[Nick Bostrom]({{< relref "nick_bostrom.md" >}})
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Bostrom, N. 2005. “The Fable of the Dragon Tyrant.” <i>Journal of Medical Ethics</i> 31 (5): 273–77. <a href="https://doi.org/10.1136/jme.2004.009035">https://doi.org/10.1136/jme.2004.009035</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Example(s)]({{< relref "i_hate_mondays.md#example--s" >}})

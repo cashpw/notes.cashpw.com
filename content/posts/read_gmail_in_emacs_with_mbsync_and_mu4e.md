@@ -1,8 +1,8 @@
 +++
 title = "Read Gmail in Emacs with mbsync and mu4e"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T20:01:00-08:00
-lastmod = 2022-11-04T15:15:30-07:00
+lastmod = 2022-12-17T11:26:40-08:00
 draft = false
 slug = "5e8b11e4-9600-44b7-8cd4-1be85f359948"
 +++
@@ -157,7 +157,7 @@ This step is written for those using [`doom emacs`](https://github.com/hlissner/
 3.  Reload `doom emacs` by either killing `emacs` and restarting, or by running `doom/reload` (`SPC : doom/reload` or `SPC h r r`).
 
 
-## Sync and Index Your Email {#sync-and-index-your-email}
+## Sync and index your email {#sync-and-index-your-email}
 
 Follow the steps documented by [doom emacs' mu4e section](https://github.com/hlissner/doom-emacs/blob/develop/modules/email/mu4e/README.org).
 
@@ -184,3 +184,11 @@ Follow the steps documented by [doom emacs' mu4e section](https://github.com/hli
                         (smtpmail-smtp-user     . "<you>@gmail.com")
                         (mu4e-compose-signature . "<Your signature here>"))
     ```
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Email in emacs]({{< relref "email_in_emacs.md" >}})

@@ -1,8 +1,8 @@
 +++
 title = "Identity matrix"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:21:00-07:00
-lastmod = 2022-11-04T15:01:31-07:00
+lastmod = 2022-12-17T11:16:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,6 +14,46 @@ slug = "562ca40a-737f-43b5-9ff5-47c5996f9b5c"
 > \\(\href{/posts/identity_matrix}{I\_{1}}=\begin{bmatrix}1\end{bmatrix}, \\; \href{/posts/identity_matrix}{I\_{2}}=\begin{bmatrix}1&0\\\0&1\end{bmatrix}, \\; \href{/posts/identity_matrix}{I\_{3}}=\begin{bmatrix}1&0&0\\\0&1&0\\\0&0&1\end{bmatrix}, \\; \dots , \\; \href{/posts/identity_matrix}{I\_{n}}=\begin{bmatrix}1&0&0&\cdots &0\\\0&1&0&\cdots &0\\\0&0&1&\cdots &0\\\ \vdots &\vdots &\vdots &\ddots &\vdots \\\0&0&0&\cdots &1\end{bmatrix}.\\)
 >
 > (<a href="#citeproc_bib_item_1">“Identity Matrix” 2022</a>)
+
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 7   | 92.43    | 2022-12-24T00:03:46Z |
+| back     | 2.35 | 9   | 138.63   | 2023-03-12T05:05:30Z |
+
+[Identity matrix]({{< relref "identity_matrix.md" >}})
+
+
+#### Back {#back}
+
+-   A square binary matrix
+-   Has exactly one entry of 1 in each row and column, with 0s elsewhere
+-   The result of multiplying it (in either direction) with another matrix (\\(\pmb{A}\\)) is that same matrix (\\(\pmb{A}\\))
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Identity Matrix” 2022</a>)
+
+
+### Denotes {#denotes}
+
+| position | ease | box | interval | due |
+|----------|------|-----|----------|-----|
+
+-   \\(I\_n\\)
+
+[Identity matrix]({{< relref "identity_matrix.md" >}})
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Identity Matrix” 2022</a>)
 
 ## References
 

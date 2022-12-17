@@ -1,0 +1,42 @@
++++
+title = "If you're explaining, you're losing"
+author = ["Cash Prokop-Weaver"]
+date = 2022-11-11T08:23:00-08:00
+lastmod = 2022-12-17T11:16:30-08:00
+tags = ["quote", "quote"]
+categories = ["quote"]
+draft = false
+slug = "87a63cc1-4240-44f9-b4f7-7771173d6350"
++++
+
+> If you're explaining, you're losing.
+>
+> _[Ronald Reagan]({{< relref "ronald_reagan.md" >}})_, (<a href="#citeproc_bib_item_1">Reagan n.d.</a>)
+
+An example of [Never play defense]({{< relref "never_play_defense.md" >}}).
+
+
+## Flashcards {#flashcards}
+
+
+### {{[Ronald Reagan]({{< relref "ronald_reagan.md" >}})}@0} said [If you're explaining, you're losing]({{< relref "if_you_re_explaining_you_re_losing.md" >}}) {#ronald-reagan--ronald-reagan-dot-md--0-said-if-you-re-explaining-you-re-losing--if-you-re-explaining-you-re-losing-dot-md}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.80 | 4   | 15.12    | 2022-12-16T20:28:18Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Reagan n.d.</a>)
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Reagan, Ronald. n.d. “If You’re Explaining, You’re Losing.” Accessed November 11, 2022. <a href="https://www.goodreads.com/quotes/464895-if-you-re-explaining-you-re-losing">https://www.goodreads.com/quotes/464895-if-you-re-explaining-you-re-losing</a>.</div>
+</div>
+
+
+## Backlinks {#backlinks}
+
+-   [Example(s)]({{< relref "never_play_defense.md#example--s" >}})

@@ -1,8 +1,8 @@
 +++
 title = "Network effect"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:43:00-07:00
-lastmod = 2022-11-04T15:09:44-07:00
+lastmod = 2022-12-17T11:22:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,8 +13,60 @@ slug = "877f3321-faac-463a-8619-787467251655"
 >
 > (<a href="#citeproc_bib_item_1">“Network Effect” 2022</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.35 | 3   | 6.00     | 2022-12-21T20:08:13Z |
+| back     | 2.50 | 1   | 1.00     | 2022-12-17T17:37:12Z |
+
+[Network effect]({{< relref "network_effect.md" >}})
+
+
+#### Back {#back}
+
+Situation in which the value or utility which a user derives from a good or service depends on the number of users of compatible products.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Network Effect” 2022</a>)
+
+
+### Example(s) {#example--s}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.35 | 3   | 6.00     | 2022-12-16T18:12:24Z |
+| back     | 2.50 | 2   | 2.00     | 2022-12-17T20:44:13Z |
+
+[Network effect]({{< relref "network_effect.md" >}})
+
+
+#### Back {#back}
+
+The following share a property:
+
+-   Social media
+-   App stores
+-   Language speakers
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Network Effect” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Network Effect.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Network_effect&oldid=1113646462">https://en.wikipedia.org/w/index.php?title=Network_effect&#38;oldid=1113646462</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Switching barrier]({{< relref "switching_barriers.md" >}})

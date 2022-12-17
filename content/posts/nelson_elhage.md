@@ -1,8 +1,8 @@
 +++
 title = "Nelson Elhage"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2022-11-04T15:09:40-07:00
+lastmod = 2022-12-17T11:22:06-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -13,3 +13,11 @@ Among other things:
 
 -   [Personal website](https://nelhage.com/)
 -   [Personal blog](https://blog.nelhage.com/)
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})

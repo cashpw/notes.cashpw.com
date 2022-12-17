@@ -1,8 +1,8 @@
 +++
 title = "Last in, first out"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-09-07T06:49:00-07:00
-lastmod = 2022-11-04T14:56:43-07:00
+lastmod = 2022-12-17T11:12:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,21 @@ slug = "21c0c229-16c5-4eb8-bd12-e1947c5c47f3"
 
 Related: [First in, first out]({{< relref "first_in_first_out.md" >}})
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“FIFO (Computing and Electronics).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=FIFO_(computing_and_electronics)&oldid=1104188471">https://en.wikipedia.org/w/index.php?title=FIFO_(computing_and_electronics)&#38;oldid=1104188471</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [First in, first out]({{< relref "first_in_first_out.md" >}})
+-   [Stack]({{< relref "stack.md" >}})
+-   [A Stack follows {{First in, last out}{ordering}@0}]({{< relref "stack.md#a-id-5ab783c7-9a13-42d2-920d-95f103ac677c-stack-follows-id-21c0c229-16c5-4eb8-bd12-e1947c5c47f3-first-in-last-out-ordering-0" >}})
+-   [Describe (Abstract data type)]({{< relref "stack.md#describe--id-2eae74ba-4003-45cf-8425-7291aaa7a537-abstract-data-type" >}})
+-   [Compare/Contrast]({{< relref "queue.md#compare-contrast" >}})
+-   [A {{Queue}@0} is the opposite of a {{Stack}@1}]({{< relref "queue.md#a-id-f7ca3e99-0356-4651-996e-542a11d67f50-queue-0-is-the-opposite-of-a-id-5ab783c7-9a13-42d2-920d-95f103ac677c-stack-1" >}})

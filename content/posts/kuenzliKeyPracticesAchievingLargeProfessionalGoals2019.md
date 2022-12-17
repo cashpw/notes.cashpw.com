@@ -1,8 +1,8 @@
 +++
 title = "Stephen Kuenzli | Key Practices for Achieving Large Professional Goals"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:49:00-08:00
-lastmod = 2022-11-04T15:04:28-07:00
+lastmod = 2022-12-17T11:18:28-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -16,8 +16,8 @@ slug = "3e7f1498-0d7c-4794-99c3-c22d6e316c52"
 
 > I attribute much of my success in 2019 to the practices of:
 >
-> 1.  writing to develop my thoughts
-> 2.  learning to focus
+> 1.  writing to develop my thoughts [[Writing to think]({{< relref "writing_to_think.md" >}})]
+> 2.  learning to focus [[Deep work]({{< relref "deep_work.md" >}})]
 
 <!--quoteend-->
 
@@ -28,7 +28,7 @@ slug = "3e7f1498-0d7c-4794-99c3-c22d6e316c52"
 
 Kuenzli mentions that they "really learned how to focus and extract much more value out of the time I have available". They specifically call attention to four ways they pursued [Deep Work]({{< relref "deep_work.md" >}}):
 
-1.  Removing social media from their daily routine
+1.  Removing social media from their daily routine ([Attention capital theory]({{< relref "attention_capital_theory.md" >}}))
 
     > Two 'surprising' things happened when I reduced the Twitter app timer limit to 30 then 5 minutes:
     >
@@ -36,7 +36,7 @@ Kuenzli mentions that they "really learned how to focus and extract much more va
     > 2.  My stress level dropped and mood improved significantly
 
 2.  Scheduling their work day using pen and paper
-3.  Scheduling important work for the beginning of the day
+3.  Scheduling important work for the beginning of the day ([Strike when you are hot]({{< relref "kileBusyPersonPatterns2006.md#strike-when-you-are-hot" >}}))
 
     > It's only possible to work at peak levels sustainably for 3-4 hours per day. So, I pack writing, product management, product development, and planning into the morning. The most creative and intense work of the day is usually done by the time I go to lunch.
 
@@ -44,7 +44,7 @@ Kuenzli mentions that they "really learned how to focus and extract much more va
 
     > At 15 minutes to 5, I start getting my work to a good stopping point, check my email for urgent issues, then I say this mantra out loud to recognize myself for the day's efforts and combat my perfectionist, always on tendencies:
     >
-    > "That's good for today."
+    > "That's good for today." [[Good enough]({{< relref "kileBusyPersonPatterns2006.md#good-enough" >}})]
 
 
 ## Thoughts {#thoughts}
@@ -52,7 +52,7 @@ Kuenzli mentions that they "really learned how to focus and extract much more va
 I've added an "End the Day" event to my calendar for the last 15 minutes of the day.
 
 
-## Notes {#notes}
+## Flashcards {#flashcards}
 
 ## References
 

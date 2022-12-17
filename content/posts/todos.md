@@ -1,8 +1,10 @@
 +++
 title = "Todos"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2022-11-04T16:11:23-07:00
+lastmod = 2022-12-17T12:05:32-08:00
+tags = ["has-todo", "has-todo"]
+categories = ["has-todo"]
 draft = false
 slug = "29171a49-1148-45e0-b2d4-26d2066b51b7"
 +++
@@ -32,6 +34,15 @@ slug = "29171a49-1148-45e0-b2d4-26d2066b51b7"
 
 
 ## Node idea: Akido/etc as a metaphor for redirecting unhelpful thoughts. "I must be productive at all times" can become helpful by redefining what it means to be productive and the types of activities which are productive. {#node-idea-akido-etc-as-a-metaphor-for-redirecting-unhelpful-thoughts-dot-i-must-be-productive-at-all-times-can-become-helpful-by-redefining-what-it-means-to-be-productive-and-the-types-of-activities-which-are-productive-dot}
+
+
+## Node idea: Pursuasion {#node-idea-pursuasion}
+
+-   [Wizard's First Rule]({{< relref "wizard_s_first_rule.md" >}})
+-   [When their salary depends on their not understanding]({{< relref "when_their_salary_depends_on_their_not_understanding.md" >}})
+
+
+## Amusing ourselves to death; the book and the comic {#amusing-ourselves-to-death-the-book-and-the-comic}
 
 
 ## Node idea: Hard truths I've learned and (hopefully) internalized - or - things I read when I was young and just started "getting" recently; tacit knowledge {#node-idea-hard-truths-i-ve-learned-and--hopefully--internalized-or-things-i-read-when-i-was-young-and-just-started-getting-recently-tacit-knowledge}
@@ -148,18 +159,7 @@ Related
 
 -   [Pure Functions]({{< relref "pure_functions.md" >}})
 -   "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Linus Torvalds
--   (<a href="#citeproc_bib_item_5">Smith n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>matthewsaltz. 2020. “Understand First, Critique Later.” <i>Ø$\Delta$</i>. <a href="https://matthewsaltz.wordpress.com/2020/05/21/understand-first-critique-later/">https://matthewsaltz.wordpress.com/2020/05/21/understand-first-critique-later/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Potter, Brian. 2021a. “How to Design a House to Last 1000 Years (Part I).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———. 2021b. “How to Design a House to Last 1000 Years (Part II).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000-a85">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000-a85</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———. 2022. “How to Design a House to Last for 1000 Years (Part III).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Smith, Brandon. n.d. “Write Code. Not Too Much. Mostly Functions.” Accessed March 15, 2022. <a href="https://www.brandons.me/blog/write-code-not-too-much-mostly-functions">https://www.brandons.me/blog/write-code-not-too-much-mostly-functions</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>Whitby, Andrew. n.d. “Who First Said: If You Want to Go Fast, Go Alone; If You Want to Go Far, Go Together? | Andrew Whitby.” Accessed October 28, 2022. <a href="https://andrewwhitby.com/2020/12/25/if-you-want-to-go-fast/">https://andrewwhitby.com/2020/12/25/if-you-want-to-go-fast/</a>.</div>
-</div>
+-   (<a href="#citeproc_bib_item_13">Smith n.d.</a>)
 
 
 ## Note idea: Bread and circus {#note-idea-bread-and-circus}
@@ -170,7 +170,7 @@ Related
 Related:
 
 -   [Chesterton's Fence]({{< relref "chesterton_s_fence.md" >}})
--   (<a href="#citeproc_bib_item_1">matthewsaltz 2020</a>)
+-   (<a href="#citeproc_bib_item_8">matthewsaltz 2020</a>)
 
 
 ## Node idea: Picking a place to live based on climate change {#node-idea-picking-a-place-to-live-based-on-climate-change}
@@ -180,9 +180,9 @@ Related:
 
 Related:
 
--   (<a href="#citeproc_bib_item_2">Potter 2021a</a>)
--   (<a href="#citeproc_bib_item_3">Potter 2021b</a>)
--   (<a href="#citeproc_bib_item_4">Potter 2022</a>)
+-   (<a href="#citeproc_bib_item_10">Potter 2021a</a>)
+-   (<a href="#citeproc_bib_item_11">Potter 2021b</a>)
+-   (<a href="#citeproc_bib_item_12">Potter 2022</a>)
 
 
 ## Node idea: My dear boy, why don't you try acting? {#node-idea-my-dear-boy-why-don-t-you-try-acting}
@@ -284,7 +284,199 @@ I realized when writing this that the whole lot of it is the same as what's post
 ## Node idea: Consistency is a sign of competency; create processes for greater consistency; todo lists are good! {#node-idea-consistency-is-a-sign-of-competency-create-processes-for-greater-consistency-todo-lists-are-good}
 
 
-## Node idea: if you want to go fast, go alone; if you want to go far, go together and (<a href="#citeproc_bib_item_6">Whitby n.d.</a>) {#node-idea-if-you-want-to-go-fast-go-alone-if-you-want-to-go-far-go-together-and}
+## Node idea: if you want to go fast, go alone; if you want to go far, go together and (<a href="#citeproc_bib_item_18">Whitby n.d.</a>) {#node-idea-if-you-want-to-go-fast-go-alone-if-you-want-to-go-far-go-together-and}
 
 
 ## Node idea: Prefer information with a long [shelf-life]({{< relref "shelf_life_of_information.md" >}}) to [Do things that compound]({{< relref "do_things_that_compound.md" >}}) {#node-idea-prefer-information-with-a-long-shelf-life--shelf-life-of-information-dot-md--to-do-things-that-compound--do-things-that-compound-dot-md}
+
+
+## Topic idea: What does an idealized effective education program look like -- not necessarily a "this would work for every child in the USA/World"-style approach; useful for planning the education of my children {#topic-idea-what-does-an-idealized-effective-education-program-look-like-not-necessarily-a-this-would-work-for-every-child-in-the-usa-world-style-approach-useful-for-planning-the-education-of-my-children}
+
+
+## Node idea: On writing code {#node-idea-on-writing-code}
+
+-   [Brandon Smith | Write Code. Not Too Much. Mostly Functions.]({{< relref "brandon_smith_write_code_not_too_much_mostly_functions.md" >}})
+-   [Pure functions]({{< relref "pure_functions.md" >}})
+
+
+## Node idea: Don't punish, prevent {#node-idea-don-t-punish-prevent}
+
+-   Make the behavior you want easy and the behavior you don't want hard
+-   Have your barking dog bring visitors a pillow. They won't be able to bark with the pillow in their mouth.
+
+
+## Techne : [Explicit knowledge]({{< relref "explicit_knowledge.md" >}}) :: Metis : [Implicit knowledge]({{< relref "tacit_knowledge.md" >}}); all items in closures {#techne-explicit-knowledge--explicit-knowledge-dot-md--metis-implicit-knowledge--tacit-knowledge-dot-md--all-items-in-closures}
+
+
+## The games where the best strategy is not talking about the game you're playing or the way you're playing it {#the-games-where-the-best-strategy-is-not-talking-about-the-game-you-re-playing-or-the-way-you-re-playing-it}
+
+-   Lying, or at best not telling the whole truth, but different in the situations in which its applied
+-   You want to be president of the USA
+    -   Better to not go around expressing "I want to be president" from the get-go. Instead, say you're focused on whatever your current role is and continue to climb.
+-   You need to downsize your company and don't want to worry current employees or pay severance
+    -   Remove the work from home policy and let people leave on their own
+
+
+## (<a href="#citeproc_bib_item_9">“Modern Monetary Theory” 2022</a>) {#d25d6b}
+
+
+## (<a href="#citeproc_bib_item_16">“The Second Coming (Poem)” 2022</a>) {#bf59cd}
+
+
+## (<a href="#citeproc_bib_item_15">“The Colossus (Painting)” 2022</a>) {#1c81e3}
+
+
+## (<a href="#citeproc_bib_item_14">Sophie from Mars 2022</a>) {#fe6ef5}
+
+
+## 5/3/1 {#5-3-1}
+
+
+## <https://commoncog.com/start-here/> {#https-commoncog-dot-com-start-here}
+
+
+## Consider merging [Beneficial evolutionary pressure]({{< relref "beneficial_evolutionary_pressure.md" >}}) and [Science of discontent]({{< relref "science_of_discontent.md" >}}) {#consider-merging-beneficial-evolutionary-pressure--beneficial-evolutionary-pressure-dot-md--and-science-of-discontent--science-of-discontent-dot-md}
+
+
+## Node idea: How to be more strategic {#node-idea-how-to-be-more-strategic}
+
+Based on [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
+
+-   Develop a [Theory of change]({{< relref "theory_of_change.md" >}})
+-   [Be conscious of your defaults]({{< relref "be_concious_of_your_defaults.md" >}})
+-   Improve your ability to [pattern match]({{< relref "chinExpertiseJustPatternMatching2020.md" >}})
+-   Develop processes that _are_ strategic which you can follow
+    -   [Project intake form]({{< relref "project_intake_form.md" >}})
+    -   [Improving as a software engineer]({{< relref "improving_as_a_software_engineer.md" >}})
+-   [Notice the taste of lotus]({{< relref "valentineNoticingTasteLotus2018.md" >}})
+
+
+## <https://thesephist.com/> {#https-thesephist-dot-com}
+
+
+## (<a href="#citeproc_bib_item_2">Alexander 2014</a>) and (<a href="#citeproc_bib_item_1">Alexander 2013</a>) {#c09171}
+
+
+## (<a href="#citeproc_bib_item_20">Yudkowsky n.d.</a>) {#8fedd4}
+
+
+## (<a href="#citeproc_bib_item_21">Zvi n.d.</a>) {#cf8a76}
+
+
+## Law of total probability {#law-of-total-probability}
+
+
+## Node idea: Read deeply, read widely (maybe two nodes?) {#node-idea-read-deeply-read-widely--maybe-two-nodes}
+
+-   Read deeply: For learning
+    -   Dive deep on a topic, and author, a publication, to get a multi-dimensional view of the subject
+-   Read widely: For discovery
+    -   Asynchronous [Continuous partial attention]({{< relref "continuous_partial_attention.md" >}}) via RSS feeds
+    -   Twitter recommendations
+    -   Aggregation boards/communities like Reddit, Hacker News
+
+
+## Deep dive: (<a href="#citeproc_bib_item_5">Branwen 2009</a>), (<a href="#citeproc_bib_item_6">Branwen 2010</a>) {#deep-dive}
+
+
+## RPCs {#rpcs}
+
+
+## Protobuffers {#protobuffers}
+
+
+## gRPC {#grpc}
+
+
+## Tail latency {#tail-latency}
+
+
+## Read through best of (<a href="#citeproc_bib_item_7">Luu n.d.</a>) {#read-through-best-of}
+
+
+## <https://www.lesswrong.com/s/ix7grGajtrJJYXsY3> {#https-www-dot-lesswrong-dot-com-s-ix7grgajtrjjyxsy3}
+
+
+## <https://www.lesswrong.com/highlights> {#https-www-dot-lesswrong-dot-com-highlights}
+
+
+## Air quality in homes / rooms: CO2, particulate matter, etc {#air-quality-in-homes-rooms-co2-particulate-matter-etc}
+
+-   (<a href="#citeproc_bib_item_19">WTFwhatthehell 2021</a>)
+-   (<a href="#citeproc_bib_item_3">Alexander 2018</a>)
+-   (<a href="#citeproc_bib_item_17">“Training My Sense of CO2 Ppm” n.d.</a>)
+-   (<a href="#citeproc_bib_item_4">“Ask HN: Do You Measure and/or Mitigate CO2 in Your Living Space? | Hacker News” n.d.</a>)
+
+
+## Make a checklist {#make-a-checklist}
+
+Make the process explicit.
+
+-   [Make implicit knowledge explicit]({{< relref "make_implicit_knowledge_explicit.md" >}}) by enumerating it
+-   [Documenting your work]({{< relref "documenting_your_work.md" >}})
+-   [Write to think]({{< relref "writing_to_think.md" >}})
+
+
+## Mesa (related to meta) {#mesa--related-to-meta}
+
+
+## Domain specific language {#domain-specific-language}
+
+
+## Load shedding {#load-shedding}
+
+<https://g3doc.corp.google.com/production/uniformity/g3doc/library/service/load-shedding-principles.md?cl=head>
+
+
+## Functional programming patterns and methods {#functional-programming-patterns-and-methods}
+
+-   Map
+-   Reduce
+-   Filter
+
+
+## Copyleft {#copyleft}
+
+
+## Lame duck behavior {#lame-duck-behavior}
+
+
+## What is a servlet? {#what-is-a-servlet}
+
+
+## Big five personality traits; one page for each of them {#big-five-personality-traits-one-page-for-each-of-them}
+
+
+## What is ReactiveX? What are the observer and iterator patterns? {#what-is-reactivex-what-are-the-observer-and-iterator-patterns}
+
+
+## How does authentication work; oauth2 for example? {#how-does-authentication-work-oauth2-for-example}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2013. “Poor Folks Do SmileFor Now.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2013/04/06/poor-folks-do-smile-for-now/">https://slatestarcodex.com/2013/04/06/poor-folks-do-smile-for-now/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2014. “Growing Children For Bostrom’s Disneyland.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/07/13/growing-children-for-bostroms-disneyland/">https://slatestarcodex.com/2014/07/13/growing-children-for-bostroms-disneyland/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———. 2018. “Carbon Dioxide: An Open Door Policy.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2018/08/23/carbon-dioxide-an-open-door-policy/">https://slatestarcodex.com/2018/08/23/carbon-dioxide-an-open-door-policy/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Ask HN: Do You Measure and/or Mitigate CO2 in Your Living Space? | Hacker News.” n.d. Accessed December 6, 2022. <a href="https://news.ycombinator.com/item?id=33864195">https://news.ycombinator.com/item?id=33864195</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Branwen, Gwern. 2009. “Essays,” January. <a href="https://www.gwern.net/index">https://www.gwern.net/index</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>———. 2010. “About This Website,” October. <a href="https://www.gwern.net/About">https://www.gwern.net/About</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Luu, Dan. n.d. “Home.” Accessed December 2, 2022. <a href="https://danluu.com/">https://danluu.com/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>matthewsaltz. 2020. “Understand First, Critique Later.” <i>Ø$\Delta$</i>. <a href="https://matthewsaltz.wordpress.com/2020/05/21/understand-first-critique-later/">https://matthewsaltz.wordpress.com/2020/05/21/understand-first-critique-later/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>“Modern Monetary Theory.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Modern_Monetary_Theory&oldid=1122667486">https://en.wikipedia.org/w/index.php?title=Modern_Monetary_Theory&#38;oldid=1122667486</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Potter, Brian. 2021a. “How to Design a House to Last 1000 Years (Part I).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>———. 2021b. “How to Design a House to Last 1000 Years (Part II).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000-a85">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000-a85</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>———. 2022. “How to Design a House to Last for 1000 Years (Part III).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>Smith, Brandon. n.d. “Write Code. Not Too Much. Mostly Functions.” Accessed March 15, 2022. <a href="https://www.brandons.me/blog/write-code-not-too-much-mostly-functions">https://www.brandons.me/blog/write-code-not-too-much-mostly-functions</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Sophie from Mars. 2022. “Kaiju | Monster Men.” <a href="https://www.youtube.com/watch?v=C6kc6hXm3LA">https://www.youtube.com/watch?v=C6kc6hXm3LA</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>“The Colossus (Painting).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=The_Colossus_(painting)&oldid=1116045661">https://en.wikipedia.org/w/index.php?title=The_Colossus_(painting)&#38;oldid=1116045661</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>“The Second Coming (Poem).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=The_Second_Coming_(poem)&oldid=1122659758">https://en.wikipedia.org/w/index.php?title=The_Second_Coming_(poem)&#38;oldid=1122659758</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>“Training My Sense of CO2 Ppm.” n.d. <i>Interconnected, a Blog by Matt Webb</i>. Accessed December 6, 2022. <a href="https://interconnected.org/home/2022/07/14/co2">https://interconnected.org/home/2022/07/14/co2</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>Whitby, Andrew. n.d. “Who First Said: If You Want to Go Fast, Go Alone; If You Want to Go Far, Go Together? | Andrew Whitby.” Accessed October 28, 2022. <a href="https://andrewwhitby.com/2020/12/25/if-you-want-to-go-fast/">https://andrewwhitby.com/2020/12/25/if-you-want-to-go-fast/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>WTFwhatthehell. 2021. “Stale Air, CO2 and Cognitive Function.” Reddit Post. <i>R/Slatestarcodex</i>. <a href="www.reddit.com/r/slatestarcodex/comments/mlevx6/stale_air_co2_and_cognitive_function/">www.reddit.com/r/slatestarcodex/comments/mlevx6/stale_air_co2_and_cognitive_function/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>Yudkowsky, Eliezer. n.d. “Inadequate Equilibria: Table of Contents.” <i>Inadequate Equilibria</i>. Accessed November 23, 2022. <a href="https://equilibriabook.com/toc/">https://equilibriabook.com/toc/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>Zvi. n.d. “Moloch Hasn’t Won.” Accessed November 23, 2022. <a href="https://www.lesswrong.com/posts/ham9i5wf4JCexXnkN/moloch-hasn-t-won">https://www.lesswrong.com/posts/ham9i5wf4JCexXnkN/moloch-hasn-t-won</a>.</div>
+</div>
+
+
+## Flashcards {#flashcards}

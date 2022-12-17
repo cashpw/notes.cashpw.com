@@ -1,8 +1,8 @@
 +++
 title = "Secure attachment"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:35:00-07:00
-lastmod = 2022-11-04T15:18:06-07:00
+lastmod = 2022-12-17T11:28:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,6 +14,49 @@ An [attachment]({{< relref "attachment_theory.md" >}}) pattern in which the chil
 > A toddler who is securely attached to his or her parent (or other familiar caregiver) will explore freely while the caregiver is present, typically engages with strangers, is often visibly upset when the caregiver departs, and is generally happy to see the caregiver return. The extent of exploration and of distress are affected, however, by the child's temperamental make-up and by situational factors as well as by attachment status. A child's attachment is largely influenced by their primary caregiver's sensitivity to their needs. Parents who consistently (or almost always) respond to their child's needs will create securely attached children. Such children are certain that their parents will be responsive to their needs and communications.
 >
 > (<a href="#citeproc_bib_item_1">“Attachment Theory” 2022</a>)
+
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 6   | 64.24    | 2022-12-24T20:59:57Z |
+| back     | 2.65 | 6   | 78.86    | 2023-01-15T12:17:27Z |
+
+[Secure attachment]({{< relref "secure_attachment.md" >}})
+
+
+#### Back {#back}
+
+A healthy attachment pattern between a child and their guardian(s) in which the child is able to encounter greater and greater Strange Situations, confident that they're supported and protected by their guardian(s).
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Attachment Theory” 2022</a>)
+
+
+### Example(s) {#example--s}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.80 | 6   | 75.86    | 2023-01-15T12:40:32Z |
+| back     | 2.80 | 6   | 80.40    | 2023-02-02T00:55:38Z |
+
+[Secure attachment]({{< relref "secure_attachment.md" >}})
+
+
+#### Back {#back}
+
+-   A dog jumps up on a child. The child is scared and seeks comfort from their guardian(s). Their guardian(s) comfort and reassure them. The child is more resilient the next time a dog jumps up on them.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Attachment Theory” 2022</a>)
 
 ## References
 

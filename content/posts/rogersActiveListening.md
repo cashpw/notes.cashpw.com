@@ -1,10 +1,10 @@
 +++
 title = "Carl R Rogers, Richard E Farson | Active Listening"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T03:46:00-08:00
-lastmod = 2022-11-04T15:17:18-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-12-17T11:27:44-08:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "cf76d35e-d0df-434b-ab27-2792f4fd3d79"
 +++
@@ -19,6 +19,9 @@ slug = "cf76d35e-d0df-434b-ab27-2792f4fd3d79"
 
 
 ## Notes {#notes}
+
+
+## Flashcards {#flashcards}
 
 ## References
 

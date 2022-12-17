@@ -1,14 +1,15 @@
 +++
 title = "Effective communication"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:27:00-08:00
-lastmod = 2022-11-04T14:55:32-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:11:19-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "af59804b-3199-476f-89c0-0ad1e5b6cd6e"
 +++
 
-##  {#d41d8c}
+-   [Be curious]({{< relref "be_curious.md" >}})
 
--   [Ben Kuhn | To Listen Well, Get Curious]({{< relref "kuhnListenWellGet.md" >}})
+
+## Flashcards {#flashcards}

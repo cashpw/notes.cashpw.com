@@ -1,8 +1,8 @@
 +++
 title = "Black box"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T16:37:00-07:00
-lastmod = 2022-11-04T14:49:59-07:00
+lastmod = 2022-12-17T11:06:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,8 +13,37 @@ slug = "ab1c1113-290b-4715-b2d7-94f2af485b2e"
 >
 > (<a href="#citeproc_bib_item_1">“Black Box” 2022</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.80 | 4   | 16.68    | 2023-01-01T12:25:04Z |
+| back     | 2.50 | 2   | 2.00     | 2022-12-10T18:19:39Z |
+
+[Black box]({{< relref "black_box.md" >}})
+
+
+#### Back {#back}
+
+A system which is viewed in terms of its inputs and outputs without any knowledge of its internal workings.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Black Box” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Black Box.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Black_box&oldid=1109398572">https://en.wikipedia.org/w/index.php?title=Black_box&#38;oldid=1109398572</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})
+-   [Zach Tellman | Two Concepts of Legibility]({{< relref "zach_tellman_two_concepts_of_legibility.md" >}})

@@ -1,10 +1,10 @@
 +++
 title = "Farnam Street | Compounding Knowledge"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T15:36:00-07:00
-lastmod = 2022-11-04T14:56:32-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-12-17T11:12:21-08:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "9afd6912-da96-4ba5-adc4-b3081116cea8"
 +++
@@ -23,6 +23,9 @@ Related:
 
 
 ## Notes {#notes}
+
+
+## Flashcards {#flashcards}
 
 ## References
 

@@ -1,8 +1,8 @@
 +++
 title = "Stag hunt"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:29:00-07:00
-lastmod = 2022-11-04T15:23:13-07:00
+lastmod = 2022-12-17T11:31:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,8 +20,55 @@ See also: [Prisoner's Dilemma]({{< relref "prisoner_s_dilemma.md" >}}).
 
 -   Social cooperation; international agreements regarding climate change
 
+
+## Flashcards {#flashcards}
+
+
+### Example(s) {#example--s}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.65 | 3   | 6.00     | 2022-12-09T19:56:23Z |
+| 1        | 2.5  | -1  | 0        | 2022-09-30T21:36:06Z |
+
+{{[Stag hunt]({{< relref "stag_hunt.md" >}})}@0} ([Game theory]({{< relref "game_theory.md" >}}))
+
+-   {{Social cooperation; international agreements regarding climate change}@1}
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Stag Hunt” 2022</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 4   | 15.00    | 2022-12-25T16:17:10Z |
+| back     | 2.50 | 1   | 1.00     | 2022-12-15T18:21:14Z |
+
+[Stag hunt]({{< relref "stag_hunt.md" >}})
+
+
+#### Back {#back}
+
+-   Players can gain more through cooperation than they can on their own
+-   Sometimes involves deciding whether or not to cooperate with [Imperfect information]({{< relref "imperfect_information.md" >}})
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Stag Hunt” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Stag Hunt.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Stag_hunt&oldid=1112697312">https://en.wikipedia.org/w/index.php?title=Stag_hunt&#38;oldid=1112697312</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Symmetric game]({{< relref "symmetric_game.md" >}})
+-   [Example(s) (Game theory)]({{< relref "symmetric_game.md#example--s----id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})

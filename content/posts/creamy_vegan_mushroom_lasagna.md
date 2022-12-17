@@ -1,8 +1,8 @@
 +++
 title = "Creamy vegan mushroom lasagna"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-31T08:21:00-07:00
-lastmod = 2022-11-04T14:52:39-07:00
+lastmod = 2022-12-17T11:08:33-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -43,6 +43,9 @@ This recipe is from (<a href="#citeproc_bib_item_1">Murnane 2017</a>) and (<a hr
 4.  Prepare the lasagna noodles according to the package instructions. Make sure to do this after your mushroom sauce is ready to go, so the noodles don't sit for too long and start sticking together.
 5.  Spread a third of the marinara sauce on the bottom of an 8-by-11-inch baking dish. Add a layer of noodles. Cover the noodles with half of the mushroom cream. Add a layer of noodles. Use another third of the marinara to cover these noodles. Add the remaining mushroom cream. Add the last layer of noodles and cover it with the remaining marinara sauce.
 6.  Cover the lasagna with aluminum foil and bake for 30 minutes. Remove the foil, add a sprinkle of nutritional yeast over the top, if you like, and bake for another 15 minutes. Let the lasagna rest for 5 minutes before serving.
+
+
+## Flashcards {#flashcards}
 
 ## References
 

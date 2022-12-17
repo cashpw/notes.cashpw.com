@@ -1,8 +1,8 @@
 +++
-title = "Three Components of Emotion"
-author = ["Cash Weaver"]
+title = "Three components of emotion"
+author = ["Cash Prokop-Weaver"]
 date = 2021-12-13T01:03:00-08:00
-lastmod = 2022-11-04T15:31:53-07:00
+lastmod = 2022-12-17T11:36:40-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -11,9 +11,34 @@ slug = "449940d4-8cd4-4b71-bf71-5bd719c7a6d0"
 
 (<a href="#citeproc_bib_item_1">“The Science of Emotion: Exploring the Basics of Emotional Psychology” 2019</a>)
 
-1.  A subjective experience.
-2.  A physiological response.
-3.  A behavioral, or expressive, response.
+1.  A subjective experience
+2.  A physiological response
+3.  A behavioral, or expressive, response
+
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 2   | 2.00     | 2022-12-15T01:52:37Z |
+| back     | 2.50 | 1   | 1.00     | 2022-12-14T17:55:53Z |
+
+[Three components of emotion]({{< relref "three_components_of_emotion.md" >}})
+
+
+#### Back {#back}
+
+1.  A subjective experience
+2.  A physiological response
+3.  A behavioral, or expressive, response
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“The Science of Emotion: Exploring the Basics of Emotional Psychology” 2019</a>)
 
 ## References
 

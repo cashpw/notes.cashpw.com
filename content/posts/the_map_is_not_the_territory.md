@@ -1,8 +1,8 @@
 +++
 title = "The map is not the territory"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-08-26T14:42:00-07:00
-lastmod = 2022-11-04T15:29:31-07:00
+lastmod = 2022-12-17T11:34:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,27 @@ slug = "bfc5100c-d70d-4829-9798-7a90b5edea9b"
 >
 > (<a href="#citeproc_bib_item_1">Farnum Street 2015</a>)
 
-Related: [The medium is the message]({{< relref "the_medium_is_the_message.md" >}})
+A [Mental model]({{< relref "mental_model.md" >}}).
+
+Related: [The medium is the message]({{< relref "the_medium_is_the_message.md" >}}), [All models are wrong]({{< relref "all_models_are_wrong.md" >}})
+
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 7   | 147.69   | 2023-03-15T08:28:16Z |
+| back     | 2.35 | 7   | 116.81   | 2023-02-18T09:49:17Z |
+
+[The map is not the territory]({{< relref "the_map_is_not_the_territory.md" >}})
+
+
+#### Back {#back}
+
+A description of a thing is not the thing itself.
 
 ## References
 

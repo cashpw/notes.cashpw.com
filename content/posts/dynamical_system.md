@@ -1,8 +1,8 @@
 +++
 title = "Dynamical system"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-09-21T19:46:00-07:00
-lastmod = 2022-11-04T14:55:20-07:00
+lastmod = 2022-12-17T11:11:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -12,6 +12,54 @@ slug = "62420d13-e41f-46c0-a3b2-345fc4d8d4c1"
 > In mathematics, a dynamical system is a system in which a function describes the time dependence of a point in an ambient space. Examples include the mathematical models that describe the swinging of a clock pendulum, the flow of water in a pipe, the random motion of particles in the air, and the number of fish each springtime in a lake.
 >
 > (<a href="#citeproc_bib_item_1">“Dynamical System” 2022</a>)
+
+
+## Flashcards {#flashcards}
+
+
+### Definition (Math) {#definition--math}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| back     | 2.65 | 9   | 253.30   | 2023-08-16T07:46:44Z |
+| front    | 2.05 | 5   | 28.98    | 2023-01-12T17:29:04Z |
+
+[Dynamical system]({{< relref "dynamical_system.md" >}})
+
+
+#### Back {#back}
+
+A system in which a function describes the time dependence of a point in geometrical space.
+
+
+#### Extra {#extra}
+
+eg: A model that describes the swinging of a clock pendulum or the flow of water in a pipe.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Dynamical System” 2022</a>)
+
+
+### Example(s) {#example--s}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 5   | 41.93    | 2022-12-24T01:04:59Z |
+
+[Dynamical system]({{< relref "dynamical_system.md" >}})
+
+
+#### Back {#back}
+
+-   A swinging clock pendulum
+-   The flow of water through a pipe
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Dynamical System” 2022</a>)
 
 ## References
 

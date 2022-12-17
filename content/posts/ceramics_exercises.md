@@ -1,8 +1,8 @@
 +++
 title = "Ceramics Exercises"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-01-10T19:13:00-08:00
-lastmod = 2022-11-04T14:51:02-07:00
+lastmod = 2022-12-17T11:07:21-08:00
 draft = false
 slug = "a500c749-aab9-4150-876f-6f40c76bba35"
 +++
@@ -22,3 +22,11 @@ slug = "a500c749-aab9-4150-876f-6f40c76bba35"
 11. [... first draw a silhouette, whatever type of piece and shape you want, and try to make that shape. That will get you in the mode of visualizing before working, and also hones your skills in general so you can make the shapes you want.](https://www.reddit.com/r/Pottery/comments/47wf90/comment/d0g0qxj/?utm_source=share&utm_medium=web2x&context=3)
 12. Cut your form in half after throwing it. How consistent are the walls?
 13. [At Least Two of the Same]({{< relref "at_least_two_of_the_same.md" >}})
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Ceramics/Pottery Resources]({{< relref "ceramics_pottery_resources.md" >}})

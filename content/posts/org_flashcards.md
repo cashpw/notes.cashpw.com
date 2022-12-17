@@ -2,7 +2,7 @@
 title = "Org flashcards"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:39:00-08:00
-lastmod = 2022-11-17T08:58:11-08:00
+lastmod = 2022-12-17T11:23:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,3 +25,10 @@ slug = "4be26817-4ffd-4975-97aa-deda536235a5"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Leon. 2022. “Org Flashcards.” <a href="https://github.com/l3kn/org-fc">https://github.com/l3kn/org-fc</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Custom Anki Notes]({{< relref "custom_anki_notes.md" >}})
+-   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
+-   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

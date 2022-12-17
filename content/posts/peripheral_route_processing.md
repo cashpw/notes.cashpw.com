@@ -1,8 +1,8 @@
 +++
 title = "Peripheral route processing"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:17:00-07:00
-lastmod = 2022-11-04T15:12:11-07:00
+lastmod = 2022-12-17T11:24:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,62 @@ slug = "a075c129-c708-4f5b-bbe7-4b5b85f3b475"
 
 A way of processing an argument by looking at secondary characteristics. Usually employed when the person processing an argument isn't famliar with or doesn't understand the facts (primary characteristics). Contrasted by [Central route processing]({{< relref "central_route_processing.md" >}}).
 
+
+## Flashcards {#flashcards}
+
+
+### Definition (Psychology, pursuasion) {#definition--psychology-pursuasion}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| back     | 2.60 | 16  | 93.78    | 2023-02-06T19:03:13Z |
+| front    | 2.65 | 6   | 85.98    | 2022-12-17T14:56:15Z |
+
+[Peripheral route processing]({{< relref "peripheral_route_processing.md" >}})
+
+
+#### Back {#back}
+
+A person's consideration of the secondary characteristics of an argument (i.e framing, emotions, presentation); proxy characteristics for authenticity or correctness.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Elaboration Likelihood Model” 2022</a>)
+
+
+### Example(s) {#example--s}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 6   | 107.94   | 2023-02-23T13:12:46Z |
+| back     | 2.80 | 6   | 103.95   | 2023-02-12T15:12:29Z |
+
+[Peripheral route processing]({{< relref "peripheral_route_processing.md" >}})
+
+
+#### Back {#back}
+
+-   Deciding which car to purchase based on:
+    -   the cool-factor
+    -   whether or not its more expensive than your neighbor's car
+    -   whether the engine is loud and impressive
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Elaboration Likelihood Model” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Elaboration Likelihood Model.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&oldid=1091358254">https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&#38;oldid=1091358254</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Central route processing]({{< relref "central_route_processing.md" >}})
+-   [Definition (Alt-right Playbook)]({{< relref "control_the_conversation.md#definition--id-913d6ace-03ac-4d34-ae92-5bd8a519236c-alt-right-playbook" >}})
+-   [Never play defense]({{< relref "never_play_defense.md" >}})
+-   [Describe (Alt-right Playbook)]({{< relref "never_play_defense.md#describe--id-913d6ace-03ac-4d34-ae92-5bd8a519236c-alt-right-playbook" >}})

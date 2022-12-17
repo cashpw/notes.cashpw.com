@@ -1,8 +1,8 @@
 +++
-title = "Zone of Proximal Development"
-author = ["Cash Weaver"]
+title = "Zone of proximal development"
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T18:48:00-07:00
-lastmod = 2022-11-04T15:42:32-07:00
+lastmod = 2022-12-17T11:53:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -12,6 +12,35 @@ slug = "d85e93d5-5a6b-449e-b39e-e0f2609fd532"
 > The zone of proximal development is the distance between what a learner is capable of doing unsupported, and what they can do supported.
 >
 > (<a href="#citeproc_bib_item_1">“Zone of Proximal Development” 2022</a>)
+
+<!--quoteend-->
+
+> The zone of proximal development is an area of learning that occurs when a person is assisted by a teacher or peer with a higher skill set. The person learning the skill set cannot complete it without the assistance of the teacher or peer. The teacher then helps the student attain the skill the student is trying to master, until the teacher is no longer needed for that task.
+>
+> (<a href="#citeproc_bib_item_1">“Zone of Proximal Development” 2022</a>)
+
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.80 | 4   | 16.89    | 2022-12-19T15:14:18Z |
+| back     | 2.50 | 0   | 0.00     | 2022-12-15T20:12:19Z |
+
+[Zone of proximal development]({{< relref "zone_of_proximal_development.md" >}})
+
+
+#### Back {#back}
+
+The distance between what a learner is able to do unsupported and what they can do when supported.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Zone of Proximal Development” 2022</a>)
 
 ## References
 

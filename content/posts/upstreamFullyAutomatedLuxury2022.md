@@ -1,8 +1,8 @@
 +++
 title = "Upstream | Fully Automated Luxury Communism"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T09:40:00-07:00
-lastmod = 2022-11-04T15:37:38-07:00
+lastmod = 2022-12-17T11:49:05-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -14,20 +14,20 @@ slug = "4bb6597c-bbcb-431e-8639-9c64d41412e1"
 
 ## Summary {#summary}
 
-A discussion of [Fully Automated Luxury Communism]({{< relref "fully_automated_luxury_communism.md" >}}).
+A discussion of [Fully automated luxury communism]({{< relref "fully_automated_luxury_communism.md" >}}).
 
 
 ## Notes {#notes}
 
 > [Della Z Duncan]
 >
-> And so what about this term, fully automated luxury communism? How might you introduce that to someone who's never heard of the term like, what might you say by way of introduction?
+> And so what about this term, [Fully automated luxury communism]({{< relref "fully_automated_luxury_communism.md" >}}) communism? How might you introduce that to someone who's never heard of the term like, what might you say by way of introduction?
 >
 > [Eric Wycoff Rogers]
 >
 > Yeah, I would say essentially, it's a position that insists that with the advent of automation, and robotization -- in other words, machines doing much of the work without human assistance or with as little human assistance as possible -- our society should leave most work to robots to produce abundance; that you can get away from a scarcity oriented economy towards an abundance oriented economy, and that we should equitably distribute what's produced in that economic system in some kind of a post capitalist economy where everyone is taken care of no matter what.
 >
-> I should also say it really pushes back on the image and stereotype of a sort of bleak drab, sort of breadline poverty that many people associate with the term communism and tries to reinvent that term, from a position of abundance. So fully automated luxury. Communism really emphasizes communism instead of capitalism to because capitalism has these internal mechanisms that prevent it from generating abundance, it really relies on scarcity. Moreover, in a world where human labor is largely valueless in the production process -- that is a world where robots can do it so much better -- wages no longer makes sense. So you just gain either an income or some version of access to material benefits without necessarily putting in working hours.
+> I should also say it really pushes back on the image and stereotype of a sort of bleak drab, sort of breadline poverty that many people associate with the term communism and tries to reinvent that term, from a position of abundance. So fully automated luxury communism really emphasizes communism instead of capitalism to because capitalism has these internal mechanisms that prevent it from generating abundance, it really relies on scarcity. Moreover, in a world where human labor is largely valueless in the production process -- that is a world where robots can do it so much better -- wages no longer makes sense. So you just gain either an income or some version of access to material benefits without necessarily putting in working hours.
 >
 > It's also worth mentioning and we can talk maybe more about this later, there's actually a manifesto style book that explains the concept by [Aaron Bastani]({{< relref "aaron_bastani.md" >}}), entitled [[Aaron Bastani | Fully Automated Luxury Communism: A Manifesto]({{< relref "bastaniFullyAutomatedLuxury2019.md" >}})], published by verso in 2019. But those are the broad strokes of the term, I'd say.
 >
@@ -64,6 +64,9 @@ A discussion of [Fully Automated Luxury Communism]({{< relref "fully_automated_l
 > [Zarinah Agnew]
 >
 > Yeah, there's one other thing I want to mention, which is, I think important, because I think when people think of communism, they think a lot of austerity and bleak equality, where everyone has access to the same things, but the things that they have access to a kind of rubbish. And I wanted to mention something from David Graeber, his most recent book, in which they reference indigenous and native forms of economics. And they talk about, you know, in these early forms of economic societies, people still had private ownership, they could have trinkets and objects and symbols, things that they use to denote the individualism, things that they gifted to others to sort of, say, thank you, and so on, and so forth. But crucially, the things that were privately owned, could not be turned into power over others. And the resources that were fundamental for collective survival, like land couldn't be privately owned. And so I think what luxury communism points to is both the ability to make sure that everybody's needs are met, and we have a good life. And also the sort of luxury and quality of being able to have our own aesthetic and our own ways of being and adorning our lives, I think is really important.
+
+
+## Flashcards {#flashcards}
 
 ## References
 

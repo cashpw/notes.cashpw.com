@@ -1,8 +1,8 @@
 +++
 title = "Tom Limoncelli"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:50:00-08:00
-lastmod = 2022-11-04T15:33:16-07:00
+lastmod = 2022-12-17T11:46:59-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,10 +15,19 @@ slug = "d2129f29-f3a1-4e10-8a25-25ae81b949a5"
 
 Among other things:
 
--   everythingsysadmin.com
+-   [everythingsysadmin.com](http://everythingsysadmin.com)
+
+
+## Flashcards {#flashcards}
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tom Limoncelli.” 2021. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Tom_Limoncelli&oldid=1037850468">https://en.wikipedia.org/w/index.php?title=Tom_Limoncelli&#38;oldid=1037850468</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Tom Limoncelli | What Makes a Sysadmin a Senior Sysadmin?]({{< relref "limoncelliWhatMakesSysadminSeniorSysadmin.md" >}})
+-   [Tom Limoncelli | The Right Answer]({{< relref "limoncelliRightAnswer.md" >}})

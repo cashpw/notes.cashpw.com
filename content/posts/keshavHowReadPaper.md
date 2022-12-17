@@ -1,10 +1,10 @@
 +++
 title = "S Keshav | How to Read a Paper"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:58:00-08:00
-lastmod = 2022-11-04T15:04:13-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-12-17T11:18:21-08:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "e6b1cd50-8293-44a3-bcba-d302d0835470"
 +++
@@ -14,8 +14,17 @@ slug = "e6b1cd50-8293-44a3-bcba-d302d0835470"
 
 ## Notes {#notes}
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Keshav, S. n.d. “How to Read a Paper.”</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
+-   [Pedagogy]({{< relref "pedagogy.md" >}})

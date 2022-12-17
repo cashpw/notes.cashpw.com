@@ -1,17 +1,22 @@
 +++
-title = "We Do Not Fund Anything That We Don't Control"
-author = ["Cash Weaver"]
+title = "We do not fund anything that we don't control"
+author = ["Cash Prokop-Weaver"]
 date = 2022-04-08T18:09:00-07:00
-lastmod = 2022-11-04T15:39:56-07:00
+lastmod = 2022-12-17T11:50:48-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
 slug = "2d9b95fd-f885-44c5-9723-c5071157949d"
 +++
 
-> We do not fund anything that we don't control
+> We do not fund anything that we don't control.
 >
 > Frank C. Erwin, (<a href="#citeproc_bib_item_1">Hicks 2013</a>)
+
+See also: [Capitalism]({{< relref "capitalism.md" >}}).
+
+
+## Flashcards {#flashcards}
 
 ## References
 

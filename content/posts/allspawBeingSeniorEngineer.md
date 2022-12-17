@@ -1,8 +1,8 @@
 +++
 title = "John Allspaw | On Being A Senior Engineer"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:31:00-08:00
-lastmod = 2022-11-04T14:48:07-07:00
+lastmod = 2022-12-17T11:04:40-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -76,8 +76,8 @@ A list of what [John Allspaw]({{< relref "john_allspaw.md" >}}) sees as qualitie
 
 Allspaw distinguishes between "mentorship" and "sponsorship":
 
--   [Mentors Face Inward]({{< relref "mentors_face_inward.md" >}})
--   [Sponsors Face Outward]({{< relref "sponsors_face_outward.md" >}})
+-   [Mentors face inward]({{< relref "mentors_face_inward.md" >}})
+-   [Sponsors face outward]({{< relref "sponsors_face_outward.md" >}})
 
 > Engineers who find that the visibility of their own work is increasing acknowledge that a fundamental of wielding influence in your local community (both inside and outside your organization) is developing and maintaining awareness of opportunities to sponsor those around them that would benefit. It is not a secret that the tech industry is seriously challenged when it comes to supporting underrepresented and/or marginalized groups.
 >
@@ -138,8 +138,17 @@ I disagree with this point. I consider a lot of the documentation and design wor
 > 9.  **Don't be "the coder in the corner."** Don't be the person in the dark office emerging only for soda. The coder in the corner is out of sight, out of touch, and out of control. This person has no voice in an open, collaborative environment. Get involved in conversations, and be a participant in your office community.
 > 10. **Critique code instead of people -- be kind to the coder, not to the code.** As much as possible, make all of your comments positive and oriented to improving the code. Relate comments to local standards, program specs, increased performance, etc.
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allspaw, John. n.d. “On Being A Senior Engineer.” <i>Kitchen Soap</i>. Accessed February 21, 2022. <a href="https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [Notes]({{< relref "tellmanSeniorEngineersReduceRisk.md#notes" >}})

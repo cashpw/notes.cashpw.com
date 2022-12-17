@@ -1,22 +1,23 @@
 +++
 title = "Shared working sessions"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T14:42:00-07:00
-lastmod = 2022-11-04T15:19:06-07:00
+lastmod = 2022-12-17T11:29:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "e5dbb7e0-0946-4bae-a9d7-b8aad9124c88"
 +++
 
-##  {#d41d8c}
-
-Shared working sessions, as I use the term, is a defined time period where you and one or more people work alongside each other.
+Shared working sessions, as I use the term, is a defined time period where you and one or more people work alongside each other in person or over a video call.
 
 Related:
 
--   Deep work
--   Time boxing
+-   [Deep work]({{< relref "deep_work.md" >}})
+-   [Timeboxing]({{< relref "timeboxing.md" >}})
 -   Accountability
 -   Planning ahead / thinking about what you'll work on / mini-sprints
 -   Pomodoros
+
+
+## Flashcards {#flashcards}

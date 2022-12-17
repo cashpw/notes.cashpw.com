@@ -1,10 +1,10 @@
 +++
 title = "Collaborate for better results"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T09:14:00-07:00
-lastmod = 2022-11-04T14:51:53-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:07:56-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "428fd541-a67b-4fe4-8af2-acdae574c992"
 +++
@@ -16,3 +16,11 @@ General idea: An individual acting on their own an producing for a wider audienc
 Related:
 
 -   [Feedback]({{< relref "julian_shapiro_writing_well_handbook.md#feedback" >}})
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [What to Write About]({{< relref "julian_shapiro_writing_well_handbook.md#what-to-write-about" >}})

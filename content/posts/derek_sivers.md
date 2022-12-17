@@ -1,15 +1,17 @@
 +++
 title = "Derek Sivers"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:34:00-08:00
-lastmod = 2022-11-04T14:54:25-07:00
+lastmod = 2022-12-17T11:10:06-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "699c0a4b-7bcf-4175-851c-8dd5deac8e84"
 +++
 
-Among other things:
+## Flashcards {#flashcards}
 
 
-## :noexport: {#noexport}
+## Backlinks {#backlinks}
+
+-   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})

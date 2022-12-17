@@ -1,18 +1,21 @@
 +++
 title = "Blogroll"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-01-30T11:59:00-08:00
-lastmod = 2022-11-04T14:50:04-07:00
+lastmod = 2022-12-17T11:06:26-08:00
+tags = ["has-todo", "has-todo"]
+categories = ["has-todo"]
 draft = false
 slug = "30768696-732a-485c-8919-43aa5de3b516"
 +++
 
 A list of blogs I've found informative/useful/fun in no particular order:
 
-| Who                                              | Where                                   | Recommendations                                                                                                                                                                    |
-|--------------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Ben Kuhn]({{< relref "ben_kuhn.md" >}})         | [benkuhn.net](https://www.benkuhn.net/) | [Attention Is Your Scarcest Resource]({{< relref "kuhnAttentionYourScarcest2020.md" >}}), [Be Impatient]({{< relref "kuhnBeImpatient2020.md" >}})                                  |
-| [Zach Tellman]({{< relref "zach_tellman.md" >}}) | [ideolalia.com](https://ideolalia.com/) | [Senior Engineers Reduce Risk]({{< relref "tellmanSeniorEngineersReduceRisk.md" >}}), [Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}}) |
+| Who                                              | Recommendations                                                                                                                                                                    |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Ben Kuhn]({{< relref "ben_kuhn.md" >}})         | [Attention Is Your Scarcest Resource]({{< relref "kuhnAttentionYourScarcest2020.md" >}}), [Be Impatient]({{< relref "kuhnBeImpatient2020.md" >}})                                  |
+| [Zach Tellman]({{< relref "zach_tellman.md" >}}) | [Senior Engineers Reduce Risk]({{< relref "tellmanSeniorEngineersReduceRisk.md" >}}), [Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}}) |
+| [Neel Nanda]({{< relref "neel_nanda.md" >}})     | [Meaningful Rest]({{< relref "neel_nanda_post_29_meaningful_rest.md" >}})                                                                                                          |
 
 
-## Add more {#add-more}
+## Flashcards {#flashcards}

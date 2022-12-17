@@ -1,8 +1,8 @@
 +++
 title = "Hunger stone"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T09:05:00-07:00
-lastmod = 2022-11-04T15:01:10-07:00
+lastmod = 2022-12-17T11:16:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,37 @@ slug = "07e3fd1d-8aa7-4fe4-9a65-bf10654c9552"
 >
 > (<a href="#citeproc_bib_item_1">“Hunger Stone” 2022</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 4   | 15.51    | 2022-11-23T02:53:56Z |
+| back     | 2.65 | 3   | 6.00     | 2022-11-20T16:30:10Z |
+
+[Hunger stone]({{< relref "hunger_stone.md" >}})
+
+
+#### Back {#back}
+
+A type of hydrological landmark common in Central Europe which serve as famine memorials and warnings. Past humans placed the stones into rivers to mark the water level during droughts and communicate the hardships to future generations.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Hunger Stone” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Hunger Stone.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Hunger_stone&oldid=1110092878">https://en.wikipedia.org/w/index.php?title=Hunger_stone&#38;oldid=1110092878</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [If you see me, then weep]({{< relref "if_you_see_me_then_weep.md" >}})
+-   [Describe]({{< relref "if_you_see_me_then_weep.md#describe" >}})

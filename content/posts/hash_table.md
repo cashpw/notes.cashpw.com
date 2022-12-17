@@ -1,8 +1,8 @@
 +++
 title = "Hash table"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:06:00-07:00
-lastmod = 2022-11-04T14:59:31-07:00
+lastmod = 2022-12-17T11:15:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,8 +48,155 @@ slug = "b8f1337e-8231-4ace-b003-bb988b4c39ee"
 >
 > (<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Definition (Computer science) {#definition--computer-science}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| back     | 2.80 | 7   | 105.09   | 2023-02-16T18:16:03Z |
+| front    | 2.80 | 6   | 82.14    | 2023-01-24T20:07:27Z |
+
+[Hash table]({{< relref "hash_table.md" >}})
+
+
+#### Back {#back}
+
+An implementation of an [Associative array]({{< relref "associative_array.md" >}}) which uses a function to relate the `key` to a specific location in an array of buckets or slots.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
+
+
+### A {{hash collision}@0} is when {{two pieces of data in a [Hash table]({{< relref "hash_table.md" >}}) share the same hash value}@1}. {#a-hash-collision-0-is-when-two-pieces-of-data-in-a-hash-table--hash-table-dot-md--share-the-same-hash-value-1-dot}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 1        | 2.65 | 6   | 93.72    | 2023-01-15T10:53:22Z |
+| 0        | 2.65 | 6   | 71.27    | 2023-01-10T22:49:59Z |
+
+
+#### Extra {#extra}
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
+
+
+### {{[Hash tables]({{< relref "hash_table.md" >}})}@1} are, on average, {{more}@0} efficient than search trees. {#hash-tables--hash-table-dot-md--1-are-on-average-more-0-efficient-than-search-trees-dot}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 1        | 2.95 | 5   | 52.29    | 2022-12-30T22:35:44Z |
+| 0        | 2.95 | 5   | 54.30    | 2023-01-07T23:02:46Z |
+
+
+#### Extra {#extra}
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
+
+
+### A {{[Hash map]({{< relref "hash_table.md" >}})}@0} is composed of {{a [Hash function]({{< relref "hash_function.md" >}}) and a [Collision resolution](#collision-resolution) strategy}@1}. {#a-hash-map--hash-table-dot-md--0-is-composed-of-a-hash-function--hash-function-dot-md--and-a-collision-resolution--org826ec64--strategy-1-dot}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.95 | 5   | 49.42    | 2023-01-24T10:30:29Z |
+| 1        | 2.35 | 5   | 29.55    | 2023-01-10T08:42:31Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
+
+
+### Definition ([Hash table]({{< relref "hash_table.md" >}})) {#definition--hash-table-hash-table-dot-md}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.95 | 5   | 45.14    | 2023-01-17T22:29:48Z |
+| back     | 2.35 | 3   | 6.00     | 2022-12-21T20:39:59Z |
+
+[Separate chaining](#separate-chaining)
+
+
+#### Back {#back}
+
+A collision resolution algorithm in which each bucket in the [Hash table]({{< relref "hash_table.md" >}}) is a linked list. The list is extended upon every collision and is traversed in order to find the target key.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
+
+
+### Definition ([Hash table]({{< relref "hash_table.md" >}})) {#definition--hash-table-hash-table-dot-md}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.95 | 5   | 47.85    | 2023-01-17T12:34:06Z |
+| back     | 2.80 | 4   | 16.28    | 2022-11-30T22:26:43Z |
+
+[Open addressing](#open-addressing)
+
+
+#### Back {#back}
+
+A collision resolution algorithm which uses a probing sequence (i.e. linear, quadratic, another [Hash function]({{< relref "hash_function.md" >}})) to move along the array in search of the target key.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
+
+
+### Compare/Contrast ([Hash table]({{< relref "hash_table.md" >}})) {#compare-contrast--hash-table-hash-table-dot-md}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.80 | 4   | 16.44    | 2023-01-02T04:35:10Z |
+
+[Separate chaining](#separate-chaining) and [Open addressing](#open-addressing)
+
+
+#### Back {#back}
+
+-   [Open addressing](#open-addressing) stores collision values within the original array while [Separate chaining](#separate-chaining) stores collision values in a linked list.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
+
+
+### Common [Open addressing](#open-addressing) probing schedules include {{linear, quadratic, and double hashing}@0}. {#common-open-addressing--orgbd9a21f--probing-schedules-include-linear-quadratic-and-double-hashing-0-dot}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.35 | 5   | 27.66    | 2022-12-23T07:21:35Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Hash Table.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Hash_table&oldid=1095560468">https://en.wikipedia.org/w/index.php?title=Hash_table&#38;oldid=1095560468</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Hash function]({{< relref "hash_function.md" >}})
+-   [Linked hash map]({{< relref "linked_hash_map.md" >}})
+-   [AKA]({{< relref "linked_hash_map.md#aka" >}})
+-   [Associative array]({{< relref "associative_array.md" >}})

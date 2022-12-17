@@ -1,12 +1,38 @@
 +++
 title = "Don't feed the trolls"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:15:00-07:00
-lastmod = 2022-11-04T14:54:58-07:00
+lastmod = 2022-12-17T11:10:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "a6d989de-a309-479e-91ab-9327b8fdf874"
 +++
 
-Trolls seek to derail conversations, inject negativity, and generally be a nuisance [for the lulz]({{< relref "for_the_lulz.md" >}}). How do you deal with them? How do you refute their bullshit or drive them out of your communities? Ignore them. Their goal is attention -- don't give it to them.
+Trolls seek to derail conversations, inject negativity, and generally be a nuisance [for the lulz]({{< relref "for_the_lulz.md" >}}). How do you deal with them? How do you refute their bullshit or drive them out of your communities? Ignore them. Their goal is attention -- don't give it to them. This isn't a foolproof plan. It'll reduce the number of trolls but not all the way to zero.
+
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.35 | 3   | 6.00     | 2022-12-16T18:20:29Z |
+| back     | 2.50 | 1   | 1.00     | 2022-12-16T20:38:14Z |
+
+[Don't feed the trolls]({{< relref "don_t_feed_the_trolls.md" >}})
+
+
+#### Back {#back}
+
+Trolls seek attention -- don't give it to them. It's not a foolproof plan for dealing with them but it's a necessary component.
+
+
+#### Source {#source}
+
+
+## Backlinks {#backlinks}
+
+-   [Speak directly to the audience]({{< relref "speak_directly_to_the_audience.md" >}})

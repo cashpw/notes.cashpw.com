@@ -1,8 +1,8 @@
 +++
 title = "Breck Yunits | Write Thin to Write Fast"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:20:00-08:00
-lastmod = 2022-11-04T15:41:55-07:00
+lastmod = 2022-12-17T11:52:38-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -12,7 +12,12 @@ slug = "5f3247b2-ef62-4279-9794-4adeea0634c7"
 [Breck Yunits]({{< relref "breck_yunits.md" >}}), (<a href="#citeproc_bib_item_1">Yunits n.d.</a>)
 
 
-## Summary {#summary}
+## Thoughts {#thoughts}
+
+I've seem content width discussed often when it comes to reading. A width of 72 characters comes to mind, though I'm not sure where I picked that up. I haven't seen content width discussed as often when it comes to writing. That said, there are tools provided within, or as addons for, text editors (like [zen for Doom Emacs](https://github.com/hlissner/doom-emacs/blob/develop/modules/ui/zen/README.org)) which constrict the writing space.
+
+
+## Notes {#notes}
 
 > Set your editor's column width very low ... 36 characters for me, [your mileage may vary].
 
@@ -21,9 +26,7 @@ slug = "5f3247b2-ef62-4279-9794-4adeea0634c7"
 > Thinner columns help you read faster. Writing speed is dominated by reading speed. If you read faster, you write faster.
 
 
-## Thoughts {#thoughts}
-
-I've seem content width discussed often when it comes to reading. A width of 72 characters comes to mind, though I'm not sure where I picked that up. I haven't seen content width discussed as often when it comes to writing. That said, there are tools provided within, or as addons for, text editors (like [zen for Doom Emacs](https://github.com/hlissner/doom-emacs/blob/develop/modules/ui/zen/README.org)) which constrict the writing space.
+## Flashcards {#flashcards}
 
 ## References
 

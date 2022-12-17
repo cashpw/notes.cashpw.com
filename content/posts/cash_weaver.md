@@ -1,8 +1,8 @@
 +++
 title = "Cash Prokop-Weaver"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T09:01:00-08:00
-lastmod = 2022-11-04T14:50:49-07:00
+lastmod = 2022-12-17T11:07:10-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -13,3 +13,6 @@ Among other things:
 
 -   Myself
 -   Author of [cashpw.com](http://cashpw.com)
+
+
+## Flashcards {#flashcards}

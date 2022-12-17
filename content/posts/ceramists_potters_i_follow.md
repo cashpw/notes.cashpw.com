@@ -1,8 +1,8 @@
 +++
-title = "Ceramists/Potters I Follow"
-author = ["Cash Weaver"]
+title = "Ceramists I follow"
+author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T22:39:00-08:00
-lastmod = 2022-11-04T14:51:10-07:00
+lastmod = 2022-12-17T11:07:24-08:00
 draft = false
 slug = "c73727bd-7ed8-4c50-bd08-524ebb2afbea"
 +++
@@ -16,3 +16,12 @@ slug = "c73727bd-7ed8-4c50-bd08-524ebb2afbea"
 -   [Lilly Maetzig](https://youtube.com/c/MaeCeramics)
 -   [Ingleton Pottery](https://www.youtube.com/c/IngletonPottery)
 -   [Ei Iwarmura]({{< relref "ei_iwarmura.md" >}})
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Ceramics/Pottery Resources]({{< relref "ceramics_pottery_resources.md" >}})
+-   [Art inspiration]({{< relref "art_inspiration.md" >}})

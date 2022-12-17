@@ -1,15 +1,15 @@
 +++
 title = "Wash the flour seitan"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T19:45:00-07:00
-lastmod = 2022-11-04T15:39:48-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:50:43-08:00
+tags = ["recipe", "recipe"]
+categories = ["recipe"]
 draft = false
 slug = "aec8ffce-c854-4800-8a3d-bf8ac3616eef"
 +++
 
-[Wash the flour method]({{< relref "wash_the_flour_seitan.md" >}}) is a way to make [Seitan]({{< relref "seitan.md" >}}) from high-gluten flour.
+Wash the flour method is a way to make [Seitan]({{< relref "seitan.md" >}}) from high-gluten flour.
 
 <div class="ingredients">
 
@@ -92,9 +92,38 @@ slug = "aec8ffce-c854-4800-8a3d-bf8ac3616eef"
     >
     > (<a href="#citeproc_bib_item_2">Seitan Society n.d.</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Describe the steps to make [Wash the flour seitan]({{< relref "wash_the_flour_seitan.md" >}}) {#describe-the-steps-to-make-wash-the-flour-seitan--wash-the-flour-seitan-dot-md}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.35 | 5   | 37.33    | 2023-01-22T02:42:41Z |
+
+1.  Combine flour and water
+2.  Cover dough ball with water and let rest for \\(1<x<8\\) hours
+3.  Wash flour repeatedly until you achieve desired water clarity
+4.  Add seasonings
+5.  Let rest for \\(>1\\) hour(s)
+6.  Braid the dough
+7.  Simmer dough in broth
+8.  Let dough rest for \\(>8\\) hours
+
+
+#### Source {#source}
+
+[Wash the flour method]({{< relref "wash_the_flour_seitan.md" >}})
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Le, Lisa. 2021. “Washed Flour Seitan Method.” <i>The Viet Vegan</i>. <a href="https://thevietvegan.com/washed-flour-seitan-method/">https://thevietvegan.com/washed-flour-seitan-method/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Seitan Society. n.d. “‘Wash the Flour’ Method.” <i>Seitan Society</i>. Accessed September 2, 2022. <a href="https://seitansociety.com/wash-the-flour-method/">https://seitansociety.com/wash-the-flour-method/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Seitan]({{< relref "seitan.md" >}})

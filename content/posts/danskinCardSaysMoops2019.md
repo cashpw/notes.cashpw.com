@@ -1,8 +1,8 @@
 +++
 title = "Ian Danskin | The Card Says Moops"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:25:00-07:00
-lastmod = 2022-11-04T14:53:02-07:00
+lastmod = 2022-12-17T11:08:56-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -55,8 +55,25 @@ Performative irony (see [For the lulz]({{< relref "for_the_lulz.md" >}})) for th
 
 > If you operate as though there is no truth, just competing opinions, and as though opinions aren't sincere, just tools to be picked up and dropped depending on their utility, then what are you operating under? Self-interest. The desire to win. You'll defend the Holocaust just to feel smarter than someone, superior. Think about how beautifully that maps onto the in-group/out-group mentality of dominance and bigotry. Think how incompatible it is with liberal ideas of tolerance. I think this is why we don't see a lot of these "I'm just here to fuck shit up" types on the Left. Don't get me wrong, the Left has gotten on some bullshit, but (excepting politicians, whom you should never assume to mean anything they say) it's sincerely-believed bullshit! We don't build identities around saying things just to piss people off.
 
+
+## Flashcards {#flashcards}
+
+:PROPERTIES:
+
+
+### [The card says moops]({{< relref "the_card_says_moops.md" >}}) {#the-card-says-moops--the-card-says-moops-dot-md}
+
+:ANKI_DECK: Default
+
+:END:
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “The Card Says Moops.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as">https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [The card says moops]({{< relref "the_card_says_moops.md" >}})

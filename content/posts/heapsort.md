@@ -1,8 +1,8 @@
 +++
 title = "Heapsort"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:32:00-07:00
-lastmod = 2022-11-04T15:00:09-07:00
+lastmod = 2022-12-17T11:15:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,6 +29,33 @@ slug = "cf64c166-6ad5-4dd7-88c6-155a320a7ea3"
 ## Implementation {#implementation}
 
 [Heapsort implementation in python]({{< relref "heapsort_in_python.md" >}})
+
+
+## Flashcards {#flashcards}
+
+
+### Algorithm {#algorithm}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 4   | 13.73    | 2022-12-22T13:14:01Z |
+
+[Heapsort]({{< relref "heapsort.md" >}})
+
+
+#### Back {#back}
+
+For a given list, `items`, and a comparator function, `comparator`:
+
+1.  Heapify `items` by `comparator`
+2.  For `len(items) - 1` to `1` as `i`:
+    1.  Swap `items[0]` and `items[i]`
+    2.  Heapify `items[0:i-1]` by `comparator`
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Heapsort” 2022</a>)
 
 ## References
 

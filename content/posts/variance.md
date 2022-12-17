@@ -1,12 +1,15 @@
 +++
 title = "Variance"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-13T10:35:00-07:00
-lastmod = 2022-11-04T15:39:00-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:49:54-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "b3a5666f-6e4d-4f31-b825-10531443d2bf"
 +++
 
 ##  {#d41d8c}
+
+
+## Flashcards {#flashcards}

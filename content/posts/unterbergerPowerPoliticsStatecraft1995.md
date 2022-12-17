@@ -1,8 +1,8 @@
 +++
 title = "Betty Miller Unterberger | Power Politics and Statecraft: The World According to Kissinger"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T11:03:00-07:00
-lastmod = 2022-11-04T15:37:11-07:00
+lastmod = 2022-12-17T11:48:52-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -18,8 +18,16 @@ slug = "5bd36ce8-9786-483e-8f1b-51fcc1fd7cc7"
 >
 > [links added]
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Unterberger, Betty Miller. 1995. “Power Politics and Statecraft: The World According to Kissinger.” Edited by Henry Kissinger. <i>Reviews in American History</i> 23 (4): 723–28. <a href="https://www.jstor.org/stable/2703000">https://www.jstor.org/stable/2703000</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater]({{< relref "citationsneededNewsBriefBiden2022.md" >}})

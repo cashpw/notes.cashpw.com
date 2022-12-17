@@ -1,8 +1,8 @@
 +++
 title = "Style Guide"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2022-11-04T15:24:59-07:00
+lastmod = 2022-12-17T11:32:04-08:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -12,19 +12,27 @@ slug = "05911fff-a79b-4462-bf6d-a3cec4e1c9f2"
 A style guide for my [personal knowledge management]({{< relref "personal_knowledge_management.md" >}}) system (powered by [org-roam]({{< relref "org_roam.md" >}})):
 
 
-## General {#general}
+## Prose {#prose}
 
--   [Use Plain Language]({{< relref "use_plain_language.md" >}})
--   [Use Serial Commas]({{< relref "use_serial_commas.md" >}})
--   [Vary the Length of Sentences]({{< relref "this_sentence_has_five_words.md" >}})
--   [Be Explicit]({{< relref "be_explicit.md" >}})
+I try to write with an emphasis on clear communication.
+
+-   [Use plain language]({{< relref "use_plain_language.md" >}})
+-   [Use serial commas]({{< relref "use_serial_commas.md" >}})
+-   [Vary the length of sentences]({{< relref "this_sentence_has_five_words.md" >}})
+-   [Be useful]({{< relref "HowWriteUsefully.md" >}})
+-   [Be explicit]({{< relref "be_explicit.md" >}})
+
+
+### Use sentence case in headings and titles {#use-sentence-case-in-headings-and-titles}
+
+Use "Sentence case", rather than "Title Case" in headings and titles.
 
 
 ## Node types {#node-types}
 
 | Type       | Tag          | Description                          | Example                                                                                |
 |------------|--------------|--------------------------------------|----------------------------------------------------------------------------------------|
-| Concept    | `concept`    | A single idea/concept                | [Plans Within Plans]({{< relref "plans_within_plans.md" >}})                           |
+| Concept    | `concept`    | A single idea/concept/term           | [Plans Within Plans]({{< relref "plans_within_plans.md" >}})                           |
 | Reference  | `reference`  | The node-form of a specific citation | [Dune]({{< relref "herbertDune1999.md" >}})                                            |
 | Quote      | `quote`      | A single quote                       | [Plans within plans within plans]({{< relref "plans_within_plans_within_plans.md" >}}) |
 | Person     | `person`     | About a single person                | [Baron Vladimir Harkonnen]({{< relref "vladimir_harkonnen.md" >}})                     |
@@ -33,9 +41,11 @@ A style guide for my [personal knowledge management]({{< relref "personal_knowle
 | Ingredient | `ingredient` | A cooking ingredient                 | [Seitan]({{< relref "seitan.md" >}})                                                   |
 
 
-## Tags {#tags}
+## Prefer links to tags {#prefer-links-to-tags}
 
-Prefer links to tags. Maintain the validity of the tags associated with [node types](#node-types).
+See [Andy Matuschak | Prefer Associative Ontologies to Hierarchical Taxonomies]({{< relref "andy_matuschak_prefer_associative_ontologies_to_hierarchical_taxonomies.md" >}}).
+
+Tags identify the [Node type](#node-types) -- not its content.
 
 
 ## Quotes {#quotes}
@@ -92,6 +102,12 @@ Quotes can live in stand-alone single nodes (eg: [The First Lesson]({{< relref "
 3.  Works in a transclusion model better than larger nodes
 
 
+### Links {#links}
+
+1.  Preserve links in the original quote to point to the original location or to a node representing the same idea.
+2.  Wrap added links with square brackets just as you would with additional text.
+
+
 ## Links {#links}
 
 
@@ -104,6 +120,9 @@ Favicons are nice additions to links. They provide visual context to where the r
 
 Backlinks are the backbone of a powerful [zettelkasten]({{< relref "Zettelkasten2021.md" >}}) system. The published form of these notes **must** include backlinks.
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
@@ -111,3 +130,10 @@ Backlinks are the backbone of a powerful [zettelkasten]({{< relref "Zettelkasten
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Porter, Adam. 2022. “Org-Protocol-Capture-Html.” <a href="https://github.com/alphapapa/org-protocol-capture-html">https://github.com/alphapapa/org-protocol-capture-html</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Lint your prose]({{< relref "lint_your_prose.md" >}})
+-   [How I write notes]({{< relref "how_i_write_notes.md" >}})
+-   [Julian Shapiro | Writing Well Handbook]({{< relref "julian_shapiro_writing_well_handbook.md" >}})

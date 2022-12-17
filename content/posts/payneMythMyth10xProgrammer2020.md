@@ -1,8 +1,8 @@
 +++
 title = "Andy Payne | The Myth of the Myth of the 10x Programmer"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:33:00-08:00
-lastmod = 2022-11-04T15:11:37-07:00
+lastmod = 2022-12-17T11:23:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -31,6 +31,9 @@ This reminds me of a way of conceptualizing a "10x" programmer (though I no long
 > The most productive developers are solving big problems, and are bringing judgment and experience to bear on essential design, architecture, and "build vs use existing library" decisions. They're designing key abstractions that will pay dividends through the life of the project. They're finding massive shortcuts that aren't in the CS textbook, such as Infocom's use of a virtual machine to port their text adventure games to a range of early PC platforms. (Or, writing code to write CPU tests).
 >
 > I think 10x developers, like world-class athletes, musicians, and authors, absolutely do exist. You're just not going to find them with a coding test.
+
+
+## Flashcards {#flashcards}
 
 ## References
 

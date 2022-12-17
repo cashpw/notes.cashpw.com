@@ -1,8 +1,8 @@
 +++
 title = "Sound bite"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:26:00-07:00
-lastmod = 2022-11-04T15:21:39-07:00
+lastmod = 2022-12-17T11:30:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,16 @@ slug = "1553a4d1-a2eb-489e-9f02-a0866f8f008c"
 >
 > (<a href="#citeproc_bib_item_1">“Sound Bite” 2022</a>)
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sound Bite.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Sound_bite&oldid=1095886562">https://en.wikipedia.org/w/index.php?title=Sound_bite&#38;oldid=1095886562</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Example(s)]({{< relref "never_play_defense.md#example--s" >}})

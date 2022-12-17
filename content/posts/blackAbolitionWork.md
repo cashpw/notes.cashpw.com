@@ -1,8 +1,8 @@
 +++
 title = "Bob Black | The Abolition of Work"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:25:00-07:00
-lastmod = 2022-11-04T14:49:57-07:00
+lastmod = 2022-12-17T11:06:20-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -14,7 +14,7 @@ slug = "671f6f60-5e17-4830-b6a2-a002ce52a6da"
 
 ## Summary {#summary}
 
-We --- humans --- should abolish forced labor and replace it, and related systems, with un-forced labor: play.
+We -- humans -- should abolish forced labor and replace it, and related systems, with un-forced labor: play.
 
 
 ## Thoughts {#thoughts}
@@ -61,6 +61,9 @@ Perhaps the answer is just more automation.
 > Work makes a mockery of freedom. The official line is that we all have rights and live in a democracy. Other unfortunates who aren't free like we are have to live in police states. These victims obey orders or-else, no matter how arbitrary. The authorities keep them under regular surveillance. State bureaucrats control even the smaller details of everyday life. The officials who push them around are answerable only to higher-ups, public or private. Either way, dissent and disobedience are punished. Informers report regularly to the authorities. All this is supposed to be a very bad thing.
 >
 > And so it is, although it is nothing but a description of the modern workplace.
+
+
+## Flashcards {#flashcards}
 
 ## References
 

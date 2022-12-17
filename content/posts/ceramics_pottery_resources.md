@@ -1,8 +1,8 @@
 +++
 title = "Ceramics/Pottery Resources"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T20:16:00-08:00
-lastmod = 2022-11-04T14:51:06-07:00
+lastmod = 2022-12-17T11:07:23-08:00
 draft = false
 slug = "0b2473da-3953-457c-b68c-4abc7a235d17"
 +++
@@ -67,3 +67,6 @@ slug = "0b2473da-3953-457c-b68c-4abc7a235d17"
 
 -   [Forms](https://www.pinterest.com/cashbweaver/ceramics/forms/)
 -   [Glaze and decor](https://www.pinterest.com/cashbweaver/ceramics/glazes-and-decor/)
+
+
+## Flashcards {#flashcards}

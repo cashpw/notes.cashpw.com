@@ -1,8 +1,8 @@
 +++
-title = "Chicken"
-author = ["Cash Weaver"]
+title = "Chicken (game)"
+author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:28:00-07:00
-lastmod = 2022-11-04T14:51:14-07:00
+lastmod = 2022-12-17T11:07:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,37 @@ slug = "f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a"
 >
 > (<a href="#citeproc_bib_item_1">“Chicken (Game)” 2022</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 5   | 46.20    | 2023-01-15T21:13:50Z |
+| back     | 2.80 | 4   | 16.93    | 2022-12-20T18:12:19Z |
+
+[Chicken]({{< relref "chicken.md" >}}) ([Game theory]({{< relref "game_theory.md" >}}))
+
+
+#### Back {#back}
+
+A game modeling conflict between two players in which they both achieve the best outcome when one of them yields. However, neither wants to yield as doing so is shameful or embarrassing. The worst outcome occurs when neither yields.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Chicken (Game)” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Chicken (Game).” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Chicken_(game)&oldid=1100739850">https://en.wikipedia.org/w/index.php?title=Chicken_(game)&#38;oldid=1100739850</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Symmetric game]({{< relref "symmetric_game.md" >}})
+-   [Example(s) (Game theory)]({{< relref "symmetric_game.md#example--s----id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})

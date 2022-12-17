@@ -1,8 +1,8 @@
 +++
 title = "Goals for 2022"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T13:34:00-08:00
-lastmod = 2022-11-04T14:58:17-07:00
+lastmod = 2022-12-17T11:14:19-08:00
 draft = false
 slug = "f8a6ddda-eefa-4559-9f2f-a4ea26c7a223"
 +++
@@ -16,3 +16,6 @@ I think I could improve on [last year's goals]({{< relref "goals_for_2021.md" >}
 3.  making the list private
 
 Keeping the list private is less for actually privacy concerns and more-so to ensure that I'm brutally honest and open when writing and reviewing these goals.
+
+
+## Flashcards {#flashcards}

@@ -1,15 +1,15 @@
 +++
 title = "Systems Design"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T21:20:00-07:00
-lastmod = 2022-11-04T15:26:30-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:32:54-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "30263770-541e-4e5a-acbe-f194ab7c121e"
 +++
 
-Systems design, insofar as I understand it, is difficult to define. It's difficult to define not because no one has thought to define it --- they have:
+Systems design, insofar as I understand it, is difficult to define. It's difficult not because no one has thought to define it --- they have:
 
 > Systems design is the process of defining the architecture, product design, modules, interfaces, and data for a system to satisfy specified requirements.
 >
@@ -18,6 +18,12 @@ Systems design, insofar as I understand it, is difficult to define. It's difficu
 Rather, I say it's difficult to define because the descriptions I have read (like above) have done little to help me really understand what systems design is to the point that I could explain it in my own words to another person.
 
 My mind tends to move toward [graphs]({{< relref "graph_theory.md" >}}) when I think about systems design. The system being the sum of the individual nodes and the edges which connect them. The output of a system for a given input would be the result of walking the graph from some point until reaching something defined as an end.
+
+
+## :noexport: {#noexport}
+
+
+## Flashcards {#flashcards}
 
 ## References
 

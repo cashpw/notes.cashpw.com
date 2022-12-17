@@ -1,8 +1,8 @@
 +++
 title = "James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-04-25T18:07:00-07:00
-lastmod = 2022-11-04T15:04:19-07:00
+lastmod = 2022-12-17T11:18:24-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -29,7 +29,7 @@ This isn't the first time I've seen these concepts (e.g. [Deep work]({{< relref 
 #### Busy Person Patterns – An Introduction {#busy-person-patterns-an-introduction}
 
 
-#### Just Start {#just-start}
+#### Just start {#just-start}
 
 > You have a task that cannot wait until you have all the information about it to begin. It may be time sensitive, you may have a deadline, or part of the task may be to identify its parts. Most important, you feel internal or external pressure to begin and have some level of confidence about the task's overall direction.
 >
@@ -66,7 +66,7 @@ This isn't the first time I've seen these concepts (e.g. [Deep work]({{< relref 
 -  Examples
 
 
-#### Contiguous Time Blocks {#contiguous-time-blocks}
+#### Contiguous time blocks {#contiguous-time-blocks}
 
 Related: [Deep work]({{< relref "deep_work.md" >}})
 
@@ -102,7 +102,7 @@ Related: [Deep work]({{< relref "deep_work.md" >}})
 -  Examples
 
 
-#### Single-Task Important Items {#single-task-important-items}
+#### Single-Task important items {#single-task-important-items}
 
 > You have a task to do that you and/or others consider important. Performing this task simultaneously with other tasks breaks your concentration and you find that quality is suffering. You feel that the task warrants a quality level that is impossible to produce if you perform it with other tasks.
 >
@@ -137,7 +137,7 @@ Related: [Deep work]({{< relref "deep_work.md" >}})
 -  Examples
 
 
-#### Put It Off {#put-it-off}
+#### Put it off {#put-it-off}
 
 > You have a task to complete and you are having trouble concentrating on it either because it is complex, you are fatigued, or it is large. You find that you are having difficulty advancing the task or that the task itself is becoming more confusing. Most important, you feel you do not have a good handle on how to organize the task, its output, or both.
 >
@@ -173,7 +173,7 @@ Related: [Deep work]({{< relref "deep_work.md" >}})
 -  Examples
 
 
-#### Seek Clarification {#seek-clarification}
+#### Seek clarification {#seek-clarification}
 
 > You have a task to complete which is vague or has vague instructions. The task may have an aggressive deadline. Just starting the task to learn its direction does not appear to be an option. Most significant, you feel that you cannot begin the task unless you have clear instructions or you obtain additional information.
 >
@@ -207,7 +207,7 @@ Related: [Deep work]({{< relref "deep_work.md" >}})
 -  Examples
 
 
-#### Batch the Simple Stuff {#batch-the-simple-stuff}
+#### Batch the simple stuff {#batch-the-simple-stuff}
 
 > You have many tasks to complete and a number of them are relatively small. The tasks relate to each other. You have a sense that you are not making much progress and you have a block of time to invest in completing small, simple tasks.
 >
@@ -241,7 +241,7 @@ Related: [Deep work]({{< relref "deep_work.md" >}})
 -  Examples
 
 
-#### Task Jar {#task-jar}
+#### Task jar {#task-jar}
 
 > You have many tasks to complete and some of them are relatively small, well known, and not urgent. You also have several larger tasks, which require larger blocks of time or are complex. You do not have a block of time to complete these small tasks, but there is time available between other more important or larger tasks.
 >
@@ -282,7 +282,7 @@ Related: [Deep work]({{< relref "deep_work.md" >}})
 -  Examples
 
 
-#### Strike When You Are Hot {#strike-when-you-are-hot}
+#### Strike when you are hot {#strike-when-you-are-hot}
 
 > You have a task to do and need to progress through it quickly or make significant progress. You have times of the day when you feel you are more productive – times when you are at your intellectual, emotional, or physical best. To make significant progress or complete the task, you feel that you need to be at your best to maintain your focus..
 >
@@ -318,7 +318,7 @@ Related: [Deep work]({{< relref "deep_work.md" >}})
 -  Examples
 
 
-#### Feedback Loop {#feedback-loop}
+#### Feedback loop {#feedback-loop}
 
 Related: [Agile]({{< relref "agile.md" >}})
 
@@ -418,7 +418,7 @@ Related: [Drop Unimportant Tasks](#drop-unimportant-tasks)
 -  Examples
 
 
-#### Drop Unimportant Tasks {#drop-unimportant-tasks}
+#### Drop unimportant tasks {#drop-unimportant-tasks}
 
 > You have several tasks you need to complete. Some of these tasks are unimportant and may never need action. The task may have been on the bottom of your list of things to do for a very long time and may no longer be required. In addition, you may have had past experience with the requestor and can judge whether it is truly required or not.
 >
@@ -448,7 +448,7 @@ Related: [Drop Unimportant Tasks](#drop-unimportant-tasks)
 -  Examples
 
 
-#### Good Enough {#good-enough}
+#### Good enough {#good-enough}
 
 > You have several tasks you need to complete. You know that not everything that you do has to be perfect. You recognize that the level of quality for a task can be reduced, and still satisfy the requestor. You may be spending time on things that add little value.
 >
@@ -493,6 +493,319 @@ Related: [Drop Unimportant Tasks](#drop-unimportant-tasks)
 
 
 #### References {#references}
+
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.80 | 4   | 17.19    | 2022-12-17T20:34:47Z |
+| back     | 2.35 | 0   | 0.00     | 2022-12-16T17:50:51Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Just start](#just-start)
+
+
+#### Back {#back}
+
+Start work on a task if it's initially vague and see if the steps you need to take to complete it emerge.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 5   | 42.38    | 2023-01-14T03:52:17Z |
+| back     | 2.20 | 2   | 2.00     | 2022-12-15T17:30:59Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Contiguous time blocks](#contiguous-time-blocks)
+
+
+#### Back {#back}
+
+Isolate important tasks and perform them separately -- eliminating distraction as much as is possible -- so you can concentrate and produce high quality output in the required amount of time.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.95 | 5   | 48.64    | 2023-01-26T11:12:37Z |
+| back     | 2.20 | 4   | 13.19    | 2022-12-26T21:51:52Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Single-task important items](#single-task-important-items)
+
+
+#### Back {#back}
+
+Isolate important tasks and perform them separately, without multitasking, so you can concentrate and produce high quality output.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 4   | 16.12    | 2022-12-27T22:10:02Z |
+| back     | 2.50 | 1   | 1.00     | 2022-12-14T02:17:34Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Put it off](#put-it-off)
+
+
+#### Back {#back}
+
+-   You only have so much energy. It may be better to temporarily stop working on a task so you can collect your thoughts and re-focus.
+-   Be careful that it doesn't become procrastination
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 5   | 40.18    | 2023-01-22T22:33:28Z |
+| back     | 2.05 | 1   | 1.00     | 2022-12-16T20:14:29Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Seek clarification](#seek-clarification)
+
+
+#### Back {#back}
+
+Ensure you have the requisite information to start the task. This doesn't mean you'll have answers for _everything_ related to the task -- there will still be some level of ambiguity.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.95 | 5   | 46.82    | 2023-01-21T20:01:25Z |
+| back     | 2.20 | 5   | 33.61    | 2023-01-19T08:29:13Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Batch the simple stuff](#batch-the-simple-stuff)
+
+
+#### Back {#back}
+
+Batching small related tasks together ensures you maintain context between the tasks and gives an improved sense of accomplishment when compared to a [Task Jar](#task-jar)-style approach.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Compare and contrast {#compare-and-contrast}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.80 | 4   | 18.32    | 2022-12-21T06:27:55Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Batch the simple stuff](#batch-the-simple-stuff) and [Task jar](#task-jar)
+
+
+#### Back {#back}
+
+-   [Batch the simple stuff](#batch-the-simple-stuff) groups tasks which are related and somewhat urgent
+-   [Task jar](#task-jar) serves to fill the gaps between [Contiguous time blocks](#contiguous-time-blocks) with tasks which are neither related nor urgent
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.95 | 5   | 49.17    | 2023-02-01T22:56:10Z |
+| back     | 2.80 | 4   | 15.21    | 2022-12-30T23:49:08Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Task jar](#task-jar)
+
+
+#### Back {#back}
+
+Intersperse simple unrelated and non-urgent tasks between larger tasks
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.80 | 4   | 16.46    | 2022-12-17T04:53:18Z |
+| back     | 2.80 | 4   | 15.82    | 2022-12-21T20:08:09Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Strike when you are hot](#strike-when-you-are-hot)
+
+
+#### Back {#back}
+
+Schedule important work for the time of day when you are most productive/alert/etc.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 4   | 16.46    | 2022-12-18T03:14:27Z |
+| back     | 2.35 | 3   | 6.00     | 2022-12-16T18:02:33Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Feedback loop](#feedback-loop)
+
+
+#### Back {#back}
+
+-   Set a time limit, start working, and see how far you are into the task when the time limit is up
+-   Break a large task down and perform short sprints to assess the complexity and time requirements of the overall task.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.35 | 5   | 36.44    | 2023-01-21T07:16:10Z |
+| back     | 2.65 | 3   | 6.00     | 2022-12-11T17:07:49Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Prioritize](#prioritize)
+
+
+#### Back {#back}
+
+When you have more than one tasks with different levels of importance: do the work from the most important to the least important.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 5   | 46.71    | 2023-01-26T09:55:24Z |
+| back     | 2.50 | 4   | 15.81    | 2022-12-28T21:40:01Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Delegate](#delegate)
+
+
+#### Back {#back}
+
+Consider [Comparative advantage]({{< relref "comparative_advantage.md" >}}) when selecting tasks to complete and [...] when advantageous.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.35 | 5   | 34.80    | 2023-01-16T21:52:26Z |
+| back     | 2.50 | 4   | 15.61    | 2022-12-16T07:37:03Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Drop unimportant tasks](#drop-unimportant-tasks)
+
+
+#### Back {#back}
+
+Don't put time into tasks which will make no difference to anyone. Additionally, you may need to drop important tasks if even-more-important tasks are threatened.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 4   | 14.25    | 2022-12-27T23:24:09Z |
+| back     | 2.50 | 2   | 2.00     | 2022-12-18T17:39:44Z |
+
+[James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
+
+[Good enough](#good-enough)
+
+
+#### Back {#back}
+
+Reduce the quality of your output to a level that will satisfy the requestor and meet their expectations when possible to protect against perfectionism and to give yourself time to dedicate to tasks where the extra effort will reap the greatest gains.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Kile, Little, and Shah 2006</a>)
 
 ## References
 

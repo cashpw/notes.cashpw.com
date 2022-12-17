@@ -1,8 +1,8 @@
 +++
 title = "Contract Drafting Em"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T08:38:00-07:00
-lastmod = 2022-11-04T14:52:08-07:00
+lastmod = 2022-12-17T11:08:16-08:00
 draft = false
 slug = "88994b1c-a571-44ba-a667-ad0c07011ba2"
 +++
@@ -70,8 +70,22 @@ To service my employers!<br />
 
 </div>
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“The Contract Drafting Em.” n.d. Accessed March 14, 2022. <a href="https://secularsolstice.github.io/Contract_Drafting_Em/gen/">https://secularsolstice.github.io/Contract_Drafting_Em/gen/</a>.</div>
 </div>
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“The Contract Drafting Em.” n.d. Accessed March 14, 2022. <a href="https://secularsolstice.github.io/Contract_Drafting_Em/gen/">https://secularsolstice.github.io/Contract_Drafting_Em/gen/</a>.</div>
+</div>
+
+
+## Backlinks {#backlinks}
+
+-   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})

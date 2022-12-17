@@ -1,8 +1,8 @@
 +++
-title = "Chop Wood, Carry Water"
-author = ["Cash Weaver"]
+title = "Chop wood, carry water"
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:01:00-07:00
-lastmod = 2022-11-04T14:51:32-07:00
+lastmod = 2022-12-17T11:07:41-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -12,3 +12,21 @@ slug = "465e012a-7d64-4f19-8f52-f872ba68680c"
 > Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
 >
 > Zen Proverb
+
+
+## Flashcards {#flashcards}
+
+
+### Before enlightenment, {{chop wood, carry water. After enlightenment, chop wood, carry water.}{full}@0} {#before-enlightenment-chop-wood-carry-water-dot-after-enlightenment-chop-wood-carry-water-dot-full-0}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.35 | 3   | 6.00     | 2022-12-17T15:14:29Z |
+
+
+#### Source {#source}
+
+
+## Backlinks {#backlinks}
+
+-   [The journey is what matters]({{< relref "the_journey_is_what_matters.md" >}})

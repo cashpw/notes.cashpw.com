@@ -1,8 +1,8 @@
 +++
 title = "Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T21:10:00-08:00
-lastmod = 2022-11-04T15:07:34-07:00
+lastmod = 2022-12-17T11:20:10-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -23,20 +23,20 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Marsh and Butler 2013</a>)
 
 ## Terms {#terms}
 
--   [Testing Effect]({{< relref "testing_effect.md" >}})
--   [Item-specific Processing]({{< relref "item_specific_processing.md" >}})
--   [Relational Processing]({{< relref "relational_processing.md" >}})
+-   [Testing effect]({{< relref "testing_effect.md" >}})
+-   [Item-specific processing]({{< relref "item_specific_processing.md" >}})
+-   [Relational processing]({{< relref "relational_processing.md" >}})
 -   [Permastore]({{< relref "permastore.md" >}})
 
 
 ## Thoughts {#thoughts}
 
-[Anki](https://apps.ankiweb.net/) seems highly relevant here; it combines [spaced repetition]({{< relref "spaced_repetition.md" >}}) and the benefits of the [testing effect]({{< relref "testing_effect.md" >}}). However, I think it would be easy to create flashcards which aid in memorizing a fact but not in understanding or application. For instance: I could imagine a card which asks you to recall the abstract steps required to multiply a `IxJ` matrix by a `JxK` matrix. I think this card, on its own, would not be sufficient to maintain understanding or the ability to perform matrix multiplication. Perhaps you could supplement the card with others which ask:
+[Spaced repetition]({{< relref "spaced_repetition.md" >}}), which incorporates the [Testing effect]({{< relref "testing_effect.md" >}}), seems like a great fit. However, I think it would be easy to create flashcards which aid in memorizing a fact but not in understanding or application. For instance: I could imagine a card which asks you to recall the abstract steps required to multiply a `IxJ` matrix by a `JxK` matrix. I think this card, on its own, would not be sufficient to maintain understanding or the ability to perform matrix multiplication. Perhaps you could supplement the card with others which ask:
 
 -   What conditions are necessary to multiply two matrices (`AxB` and `CxD`)?
 -   A card, or several, which provide specific examples using numbers rather than generalizations? Perhaps there is a script or addon which allows for this sort of thing.
 
-I worry that Anki wouldn't be enough to maintain understanding and the ability to apply this knowledge even with these, and more, cards. It would certainly reduce the barrier to re-entry. I used to understand much more calculus than I could prove to you now after letting it fall out of my mind since college. Keeping up with calculus topics, example problems, definitions, etc, through Anki would at least make it easier for me to jump back in should the need arise. I wouldn't expect to be as "on the ball" as I would if I were actively using and practicing calculus regularly, but I would be at a better place than I am now.
+I worry that it wouldn't be enough to maintain understanding and the ability to apply this knowledge even with these, and more, cards. It would certainly reduce the barrier to re-entry. I used to understand much more calculus than I could prove to you now after letting it fall out of my mind since college. Keeping up with calculus topics, example problems, definitions, etc, through it would at least make it easier for me to jump back in should the need arise. I wouldn't expect to be as "on the ball" as I would if I were actively using and practicing calculus regularly, but I would be at a better place than I am now.
 
 
 ## Memory in Educational Settings {#memory-in-educational-settings}
@@ -105,7 +105,7 @@ I worry that Anki wouldn't be enough to maintain understanding and the ability t
 
 #### Note Taking {#note-taking}
 
-> Although note taking yields memorial benefits, the type of notes naturally taken may not be the most powerful mnemonic possible. One issue involves how much note taking involves going beyond the to-be-remembered information (versus simply copying; see Marsh &amp; Sink, 2010), including paraphrasing the to-be-remembered information and connecting it to stored knowledge. Returning to the levels of processing framework, the key issue is the depth of processing note taking naturally affords. We have just reviewed evidence that note taking encourages relational processing that affords transfer. Nevertheless, additional benefit may come from techniques that encourage the reader or listener to process the material even more deeply. For example, King (1992) trained students to summarize material, specifically how to identify and encapsulate the main idea. This group of students was compared to another group who took notes naturally, and who later had a chance to review those notes. Students who summarized the lecture performed better on both immediate and delayed comprehension tests than students who took notes (see Bretzing &amp; Kulhavy, 1979, for similar results). Similarly, the note-taking group did not do as well as a group of students trained to ask themselves (and answer) questions about the material. Students might benefit from incorporating some of these deep processing techniques into their notes; in other words, training might help students to take notes that include more of the generative processing thought to be key for transfer (e.g., Peper &amp; Mayer, 1978).
+> Although note taking yields memorial benefits, the type of notes naturally taken may not be the most powerful [Mnemonic]({{< relref "mnemonic.md" >}}) possible. One issue involves how much note taking involves going beyond the to-be-remembered information (versus simply copying; see Marsh &amp; Sink, 2010), including paraphrasing the to-be-remembered information and connecting it to stored knowledge. Returning to the levels of processing framework, the key issue is the depth of processing note taking naturally affords. We have just reviewed evidence that note taking encourages relational processing that affords transfer. Nevertheless, additional benefit may come from techniques that encourage the reader or listener to process the material even more deeply. For example, King (1992) trained students to summarize material, specifically how to identify and encapsulate the main idea. This group of students was compared to another group who took notes naturally, and who later had a chance to review those notes. Students who summarized the lecture performed better on both immediate and delayed comprehension tests than students who took notes (see Bretzing &amp; Kulhavy, 1979, for similar results). Similarly, the note-taking group did not do as well as a group of students trained to ask themselves (and answer) questions about the material. Students might benefit from incorporating some of these deep processing techniques into their notes; in other words, training might help students to take notes that include more of the generative processing thought to be key for transfer (e.g., Peper &amp; Mayer, 1978).
 
 
 ### Learning Strategies for Poststudy {#learning-strategies-for-poststudy}
@@ -117,7 +117,7 @@ I worry that Anki wouldn't be enough to maintain understanding and the ability t
 
 <!--quoteend-->
 
-> The finding that retrieval practice produces superior long-term retention has been termed the testing effect
+> The finding that retrieval practice produces superior long-term retention has been termed the [Testing effect]({{< relref "testing_effect.md" >}})
 
 <!--quoteend-->
 
@@ -141,7 +141,7 @@ I worry that Anki wouldn't be enough to maintain understanding and the ability t
 > knowledge needs to be retained after the last practice (i.e., the retention interval).
 > Cepeda and colleagues (2006; see also Cepeda, Vul, Rohrer, Wixted, &amp; Pashler, 2008)
 > performed a meta-analysis that included 317 experiments from 184 articles on the
-> spacing effect. They found that the optimal spacing interval is approximately 10%–20% of
+> [Spacing effect]({{< relref "spacing_effect.md" >}}). They found that the optimal spacing interval is approximately 10%–20% of
 > the retention interval. Thus, if the goal is to retain the material for 5 days, then practice
 > should be spaced over intervals between 12 and 24 hours
 
@@ -157,7 +157,7 @@ I worry that Anki wouldn't be enough to maintain understanding and the ability t
 
 #### Learning Beyond Facts {#learning-beyond-facts}
 
-> ... [I]n the classroom, educators have many different goals for their students, and these goals vary as a function of the level of education, the type of course, and the time frame given for learning, among many other factors. One way of categorizing these goals is through Bloom's (1956) taxonomy of educational objectives, which conceptualizes learning as a hierarchy in which the various levels must be mastered in sequential order. The cognitive domain is comprised of six levels (from lowest to highest):
+> ... [I]n the classroom, educators have many different goals for their students, and these goals vary as a function of the level of education, the type of course, and the time frame given for learning, among many other factors. One way of categorizing these goals is through [Bloom's Taxonomy]({{< relref "BloomTaxonomy2022.md" >}}) (1956) of educational objectives, which conceptualizes learning as a hierarchy in which the various levels must be mastered in sequential order. The cognitive domain is comprised of six levels (from lowest to highest):
 >
 > 1.  knowledge (e.g., learning facts, concepts, etc.)
 > 2.  comprehension (e.g., understanding the relationship between ideas)
@@ -170,6 +170,9 @@ I worry that Anki wouldn't be enough to maintain understanding and the ability t
 
 
 ### The Relativity of Memory {#the-relativity-of-memory}
+
+
+## Flashcards {#flashcards}
 
 ## References
 

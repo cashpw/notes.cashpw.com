@@ -1,10 +1,10 @@
 +++
 title = "Pedagogy"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T18:48:00-07:00
-lastmod = 2022-11-04T15:11:42-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:24:01-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "85cfa8c4-9c7b-47d9-a593-8548385027f7"
 +++
@@ -13,8 +13,53 @@ slug = "85cfa8c4-9c7b-47d9-a593-8548385027f7"
 >
 > (<a href="#citeproc_bib_item_1">“Pedagogy” 2022</a>)
 
+
+## Related {#related}
+
+-   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
+-   [S Keshav | How to Read a Paper]({{< relref "keshavHowReadPaper.md" >}})
+-   [Spaced Repetition]({{< relref "spaced_repetition.md" >}})
+
+
+## Expand {#expand}
+
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| back     | 2.50 | 5   | 41.92    | 2023-01-17T12:49:26Z |
+| front    | 2.20 | 0   | 0.00     | 2022-12-15T20:44:04Z |
+
+[Pedagogy]({{< relref "pedagogy.md" >}})
+
+
+#### Back {#back}
+
+The theory and practice of learning
+
+
+#### Extra {#extra}
+
+The theory and practice of learning, and how this process influences and is influenced by the development of learners.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Pedagogy” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pedagogy.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Pedagogy&oldid=1094565911">https://en.wikipedia.org/w/index.php?title=Pedagogy&#38;oldid=1094565911</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [The first lesson]({{< relref "the_first_lesson.md" >}})
+-   [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
+-   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

@@ -1,8 +1,8 @@
 +++
 title = "Disorganized attachment"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T13:27:00-07:00
-lastmod = 2022-11-04T14:54:44-07:00
+lastmod = 2022-12-17T11:10:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,9 +13,33 @@ slug = "80396b6d-d572-4437-ab2d-698c62a3038b"
 >
 > According to Stein, cults foster Disorganized Attachment by being intensely unpredictable. In a cult, you may be praised for your commitment on Monday and have your commitment questioned on Tuesday, with no change in behavior. You may be assigned a romantic partner, who may, at any point, be taken away, assigned to someone else. Your children may be taken from you to be raised by a different family. You may be told the cult leader wants to sleep with you, which may make you incredibly happy or be terrifying, but you won't be given a choice. And the rules you are expected to follow will be rewritten without warning.
 >
-> This creates a kind of emotional chaos, where you can't predict when you will be given good feelings and when you will be given bad ones. But you're so enmeshed in the community you have noplace else to go for good feelings; hurting you just draws you in deeper, because they are also where you seek comfort. And your pain is always your fault: you wouldn't feel so shitty if you were more committed. Trying to make sense of this causes so much confusion and anguish that you eventually just stop thinking for yourself. These are the rules now? OK. He's not my brother anymore? OK. This is my life now? OK.
+> This creates a kind of emotional chaos, where you can't predict when you will be given good feelings and when you will be given bad ones. But you're so enmeshed in the community you have no place else to go for good feelings; hurting you just draws you in deeper, because they are also where you seek comfort. And your pain is always your fault: you wouldn't feel so shitty if you were more committed. Trying to make sense of this causes so much confusion and anguish that you eventually just stop thinking for yourself. These are the rules now? OK. He's not my brother anymore? OK. This is my life now? OK.
 >
 > (<a href="#citeproc_bib_item_1">Danskin 2019</a>)
+
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.95 | 7   | 76.76    | 2023-02-08T21:06:25Z |
+| back     | 2.50 | 4   | 16.27    | 2022-12-18T00:07:42Z |
+
+[Disorganized attachment]({{< relref "disorganized_attachment.md" >}})
+
+
+#### Back {#back}
+
+-   An unhealthy attachment pattern in which the individual cannot predict when or where comfort and discomfort will come from.
+-   They often adapt a malleable worldview which attempts to justify or retroactively explain the comfort and discomfort when it arrives.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Danskin 2019</a>)
 
 ## References
 

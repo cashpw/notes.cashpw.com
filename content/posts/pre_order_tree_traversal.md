@@ -1,8 +1,8 @@
 +++
 title = "Pre-order tree traversal"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:24:00-07:00
-lastmod = 2022-11-04T15:13:27-07:00
+lastmod = 2022-12-17T11:25:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,42 @@ slug = "2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9"
 >
 > (<a href="#citeproc_bib_item_1">“Tree Traversal” 2022</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 6   | 83.97    | 2023-01-18T14:45:26Z |
+| back     | 2.65 | 6   | 90.56    | 2023-02-02T05:31:54Z |
+
+[Pre-order tree traversal]({{< relref "pre_order_tree_traversal.md" >}})
+
+
+#### Back {#back}
+
+Priority order for traversing the list:
+
+1.  Node: Visit the current node
+2.  Left: Recursively traverse the current node's left subtree, if possible
+3.  Right: Recursively traverse the current node's right subtree, if possible
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Tree Traversal” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree Traversal.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Tree_traversal&oldid=1083604462">https://en.wikipedia.org/w/index.php?title=Tree_traversal&#38;oldid=1083604462</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Tree]({{< relref "tree.md" >}})
+-   [Describe]({{< relref "depth_first_search.md" >}})
+-   [Depth-first search follows {{Pre-order tree traversal}{traversal order}@0}]({{< relref "depth_first_search.md" >}})

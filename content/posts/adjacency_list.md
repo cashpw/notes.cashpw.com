@@ -1,8 +1,8 @@
 +++
 title = "Adjacency list"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:07:00-07:00
-lastmod = 2022-11-04T14:47:36-07:00
+lastmod = 2022-12-17T11:04:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,38 @@ The above graph can be represented as the set \\(S\\) which contains \\(\\{B,C\\
 | B        | A, C  |
 | C        | A, B  |
 
+Also see [Adjacency matrix]({{< relref "adjacency_matrix.md" >}}).
+
+
+## Flashcards {#flashcards}
+
+
+### Definition (Computer science) {#definition--computer-science}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| back     | 2.65 | 6   | 66.05    | 2022-12-22T16:24:40Z |
+| front    | 2.65 | 6   | 78.01    | 2023-01-11T15:10:20Z |
+
+[Adjacency list]({{< relref "adjacency_list.md" >}})
+
+
+#### Back {#back}
+
+A representation of a [Graph]({{< relref "graph.md" >}}) using a collection of unordered lists.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Adjacency List” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Adjacency List.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Adjacency_list&oldid=1083389776">https://en.wikipedia.org/w/index.php?title=Adjacency_list&#38;oldid=1083389776</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Adjacency matrix]({{< relref "adjacency_matrix.md" >}})

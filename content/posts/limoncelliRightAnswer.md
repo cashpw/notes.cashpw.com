@@ -1,8 +1,8 @@
 +++
 title = "Tom Limoncelli | The Right Answer"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:50:00-08:00
-lastmod = 2022-11-04T15:05:40-07:00
+lastmod = 2022-12-17T11:19:11-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -13,6 +13,9 @@ slug = "8ed02b38-ffb0-4230-8dd4-3986a74fbe13"
 
 
 ## Summary {#summary}
+
+-   [Ask the right questions]({{< relref "ask_the_right_questions.md" >}})
+-   [Give the right answers]({{< relref "ask_the_right_questions_give_the_right_answers.md" >}})
 
 
 ## Thoughts {#thoughts}
@@ -53,6 +56,15 @@ slug = "8ed02b38-ffb0-4230-8dd4-3986a74fbe13"
 > "My boss said so." Short. Simple. It works.
 >
 > The important thing is that we play dumb. You have to be pretty smart to do that.
+
+
+## Flashcards {#flashcards}
+
+
+### [Ask the right questions]({{< relref "ask_the_right_questions.md" >}}) {#ask-the-right-questions--ask-the-right-questions-dot-md}
+
+
+### [Give the right answers]({{< relref "ask_the_right_questions_give_the_right_answers.md" >}}) {#give-the-right-answers--ask-the-right-questions-give-the-right-answers-dot-md}
 
 ## References
 

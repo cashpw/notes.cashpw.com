@@ -1,8 +1,8 @@
 +++
 title = "Binary heap implementation in python"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-21T09:21:00-07:00
-lastmod = 2022-11-04T14:49:37-07:00
+lastmod = 2022-12-17T11:06:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,7 +15,7 @@ from collections.abc import Callable
 from math import floor
 
 T = TypeVar('T')
-Comparator = Callable[[T, T], int]
+Comparator = Callable[[id:T, T], int]
 
 class Heap(Generic[T]):
     def __init__(self, comparator: Comparator) -> None:
@@ -116,3 +116,12 @@ print(h.peek())
 print(h.pop())
 print(h.peek())
 ```
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Implementation]({{< relref "binary_heap.md#implementation" >}})
+-   [Implement a Binary heap in Python]({{< relref "binary_heap.md#implement-a-id-a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad-binary-heap-in-id-27b0e33a-6754-40b8-99d8-46650e8626aa-python" >}})

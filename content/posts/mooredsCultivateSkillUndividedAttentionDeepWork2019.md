@@ -2,13 +2,13 @@
 title = """
   Dan Moore | Cultivate the Skill of Undivided Attention, or "Deep Work"
   """
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:00:00-08:00
-lastmod = 2022-11-04T15:09:14-07:00
+lastmod = 2022-12-17T11:21:44-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
-roam_refs = ["https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/"]
+slug = "86dde162-154f-49fb-98a9-41dddcf60ecb"
 +++
 
 [Dan Moore]({{< relref "dan_moore.md" >}}), (<a href="#citeproc_bib_item_1">Moores 2019</a>)
@@ -18,6 +18,8 @@ roam_refs = ["https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-
 
 
 ## Thoughts {#thoughts}
+
+-   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
 
 
 ## Notes {#notes}
@@ -34,7 +36,7 @@ roam_refs = ["https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-
 
 <!--quoteend-->
 
-> We should not target improving lagging indicators, we should improve leading indicators.
+> We should not target improving [Lagging indicator]({{< relref "lagging_indicator.md" >}}), we should improve [Leading indicator]({{< relref "leading_indicator.md" >}}).
 
 <!--quoteend-->
 
@@ -43,6 +45,9 @@ roam_refs = ["https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-
 <!--quoteend-->
 
 > Do more deep work, and over a year or two years, your skills will grow much faster than those doing less deep work. Eventually, you might find that you're doing the work of a senior developer!
+
+
+## Flashcards {#flashcards}
 
 ## References
 

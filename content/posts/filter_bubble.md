@@ -1,8 +1,8 @@
 +++
-title = "Filter Bubble"
-author = ["Cash Weaver"]
+title = "Filter bubble"
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:26:00-08:00
-lastmod = 2022-11-04T14:56:36-07:00
+lastmod = 2022-12-17T11:12:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,10 +15,38 @@ slug = "895e6fb7-8503-486a-978f-9c1dc155d373"
 
 Related:
 
--   [Echo Chamber]({{< relref "echo_chamber.md" >}})
+-   [Echo chamber]({{< relref "echo_chamber.md" >}})
+
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.35 | 3   | 6.00     | 2022-12-17T19:49:19Z |
+| back     | 2.5  | -1  | 0        | 2022-11-22T23:07:32Z |
+
+[Filter bubble]({{< relref "filter_bubble.md" >}})
+
+
+#### Back {#back}
+
+A state of intellectual isolation that can result from personalization algorithms which control the content you're shown.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Filter Bubble” 2022</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Filter Bubble.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Filter_bubble&oldid=1074161056">https://en.wikipedia.org/w/index.php?title=Filter_bubble&#38;oldid=1074161056</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Echo chamber]({{< relref "echo_chamber.md" >}})

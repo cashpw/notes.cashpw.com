@@ -1,10 +1,10 @@
 +++
 title = "Better than bullion: Seasoned vegetable base"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-09-02T14:18:00-07:00
-lastmod = 2022-11-04T14:49:19-07:00
-tags = ["ingredient", "ingredient"]
-categories = ["ingredient"]
+lastmod = 2022-12-17T11:05:53-08:00
+tags = ["recipe", "recipe"]
+categories = ["recipe"]
 draft = false
 servings = "1 cup"
 slug = "94acace5-6bbb-44ee-9cb9-fef318283d57"
@@ -18,3 +18,11 @@ slug = "94acace5-6bbb-44ee-9cb9-fef318283d57"
 -   1 cup water
 
 </div>
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Vegetable broth]({{< relref "vegetable_broth.md" >}})

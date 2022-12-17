@@ -1,8 +1,8 @@
 +++
-title = "Lint Your Prose"
-author = ["Cash Weaver"]
+title = "Lint your prose"
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T10:04:00-08:00
-lastmod = 2022-11-04T15:06:07-07:00
+lastmod = 2022-12-17T11:19:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,3 +17,6 @@ I use prose linters to:
 2.  catch spelling mistakes
 
 I prefer [proselint](https://github.com/amperser/proselint) because it includes rules that I already try to follow. There's also [textlint](https://github.com/textlint/textlint) if you're interested in specifying your own rules.
+
+
+## Flashcards {#flashcards}

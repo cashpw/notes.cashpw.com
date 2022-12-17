@@ -1,8 +1,8 @@
 +++
 title = "Define Abbreviations"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:00:00-08:00
-lastmod = 2022-11-04T14:54:12-07:00
+lastmod = 2022-12-17T11:09:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,7 @@ Abbreviations, initialisms, and other short-forms can be can confuse those witho
 
 1.  Use the long-form once, followed by the abbreviation in parenthesis, then use the short-form.
 
-    > Arrakis, also known as (AKA) Dune, is the desert world at the center of the Dune series by [Frank Herbert]({{< relref "frank_herbert.md" >}}).
+    > Arrakis, also known as (AKA) Dune, ...
     >
     > ...
     >
@@ -25,8 +25,16 @@ Abbreviations, initialisms, and other short-forms can be can confuse those witho
 
 3.  Avoid the short-form. Instead, use the long-form exclusively.
 
-    > Arrakis, also known as Dune, is the desert world at the center of the Dune series by [Frank Herbert]({{< relref "frank_herbert.md" >}}).
+    > Arrakis, also known as Dune, ...
     >
     > ...
     >
     > Leto Atreides the Second, also known as God-Emperor, ...
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Be explicit]({{< relref "be_explicit.md" >}})

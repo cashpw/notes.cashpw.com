@@ -1,8 +1,8 @@
 +++
 title = "Ultimatum game"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:51:00-07:00
-lastmod = 2022-11-04T15:35:33-07:00
+lastmod = 2022-12-17T11:48:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,41 @@ slug = "d88f63c9-296b-4b0c-9757-00cc1e891e16"
 
 {{< figure src="/ox-hugo/ultimatum-game.png" >}}
 
+
+## Flashcards {#flashcards}
+
+
+### Describe ([Game theory]({{< relref "game_theory.md" >}})) {#describe--game-theory-game-theory-dot-md}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 5   | 50.84    | 2023-01-29T19:01:10Z |
+| back     | 2.80 | 4   | 15.88    | 2023-01-01T14:46:30Z |
+
+[Ultimatum game]({{< relref "ultimatum_game.md" >}})
+
+
+#### Back {#back}
+
+A two-player game in which the first player makes a proposal which the second player can accept or reject. Rejecting often means neither player receives anything (`0,0`).
+
+
+#### Source {#source}
+
+[Ultimatum game]({{< relref "ultimatum_game.md" >}})
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ultimatum Game.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Ultimatum_game&oldid=1101687322">https://en.wikipedia.org/w/index.php?title=Ultimatum_game&#38;oldid=1101687322</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Dictator game]({{< relref "dictator_game.md" >}})
+-   [The {{Dictator game}@0} is a derivative of the {{Ultimatum game}@1}]({{< relref "dictator_game.md#the-id-4c05e5da-c14c-45b8-9284-af1dda8dd3a6-dictator-game-0-is-a-derivative-of-the-id-d88f63c9-296b-4b0c-9757-00cc1e891e16-ultimatum-game-1" >}})
+-   [Compare/Contrast]({{< relref "dictator_game.md#compare-contrast" >}})
+-   [Compare/Contrast]({{< relref "dictator_game.md#compare-contrast" >}})
+-   [Asymmetric game]({{< relref "asymmetric_game.md" >}})
+-   [Example(s)]({{< relref "asymmetric_game.md#example--s" >}})

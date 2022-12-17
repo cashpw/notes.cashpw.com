@@ -1,8 +1,8 @@
 +++
 title = "Ben Kuhn | In Defense of Blub Studies"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T05:25:00-08:00
-lastmod = 2022-11-04T15:04:53-07:00
+lastmod = 2022-12-17T11:18:36-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -58,8 +58,18 @@ Related:
 >
 > The second part of my blub flywheel is to pay attention to magic. Whenever I'm working with something new, I try to continuously update my best-guess mental model of how it's implemented. "Okay, the docs are telling me to create an Ingress, I guess this is probably the widget that provisions a load balancer to talk to my backend containers?" If I realize I'm wrong, I'll dig in and update. "Hmm, I can't ping those pods from outside the cluster, so how could the load balancer be talking to them? Aha—it's talking to the nodes, and there's a NodePort Service as a second layer of indirection." If I have no idea at all how something could work, that usually means it's time to read a book.
 
+
+## Flashcards {#flashcards}
+
+See [Blub studies]({{< relref "blub_studies.md" >}})
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. n.d. “In Defense of Blub Studies.” <i>Benkuhn.Net</i>. Accessed March 12, 2022. <a href="https://www.benkuhn.net/blub/">https://www.benkuhn.net/blub/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Blub studies]({{< relref "blub_studies.md" >}})

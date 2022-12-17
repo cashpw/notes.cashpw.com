@@ -1,10 +1,10 @@
 +++
 title = "Stephen P. Boyd, Lieven Vandenberghe | Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T20:30:00-07:00
-lastmod = 2022-11-04T14:50:16-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-12-17T11:06:35-08:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "7dc661e4-ea71-4280-b6bc-20a32da8b49e"
 +++
@@ -14,6 +14,25 @@ slug = "7dc661e4-ea71-4280-b6bc-20a32da8b49e"
 (<a href="#citeproc_bib_item_1">Boyd and Vandenberghe 2018</a>)
 
 Say something
+
+
+## Flashcards {#flashcards}
+
+
+### Authors of [Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares]({{< relref "boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018.md" >}}) {#authors-of-introduction-to-applied-linear-algebra-vectors-matrices-and-least-squares--boydintroductionappliedlinearalgebravectorsmatricesleastsquares2018-dot-md}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 2   | 2.00     | 2022-12-16T17:21:19Z |
+| back     | 2.50 | 1   | 1.00     | 2022-12-16T20:36:35Z |
+
+-   Stephen Boyd
+-   Lieven Vandenberghe
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Boyd and Vandenberghe 2018</a>)
 
 ## References
 

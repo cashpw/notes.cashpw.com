@@ -1,10 +1,10 @@
 +++
 title = "Andy Matuschak | Knowledge Work Should Accrete"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-11T20:02:00-08:00
-lastmod = 2022-11-04T14:47:02-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-12-17T11:03:56-08:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "3abdd6f0-2229-4f83-a0ac-078af4571f8c"
 +++
@@ -30,8 +30,16 @@ slug = "3abdd6f0-2229-4f83-a0ac-078af4571f8c"
 
 ## Extract links into notes {#extract-links-into-notes}
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Knowledge Work Should Accrete.” <i>Andy’s Working Notes</i>. Accessed February 12, 2022. <a href="https://notes.andymatuschak.org/Knowledge_work_should_accrete">https://notes.andymatuschak.org/Knowledge_work_should_accrete</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})

@@ -1,8 +1,8 @@
 +++
 title = "Leather-hard"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:48:00-07:00
-lastmod = 2022-11-04T15:05:24-07:00
+lastmod = 2022-12-17T11:18:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,8 +13,36 @@ slug = "7358ec53-29b1-4b14-b1b5-20a09e40caf1"
 >
 > (<a href="#citeproc_bib_item_1">“Leather-Hard” 2020</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.20 | 1   | 1.00     | 2022-12-16T20:37:52Z |
+| back     | 2.65 | 3   | 6.00     | 2022-12-22T17:50:38Z |
+
+[Leather-hard clay]({{< relref "leather_hard_clay.md" >}})
+
+
+#### Back {#back}
+
+The condition of clay when it has been partially dried to the point where shrinkage is complete.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Leather-Hard” 2020</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Leather-Hard.” 2020. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Leather-hard&oldid=991801984">https://en.wikipedia.org/w/index.php?title=Leather-hard&#38;oldid=991801984</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Greenware]({{< relref "greenware.md" >}})

@@ -1,8 +1,8 @@
 +++
 title = "Inferential distance"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-08-22T09:53:00-07:00
-lastmod = 2022-11-04T15:02:19-07:00
+lastmod = 2022-12-17T11:16:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,6 +23,49 @@ The inferential distance between two people, the teacher and the student, with r
     > There is a short inferential distance between you and the physicist; there is a very long inferential distance between you and the person without any science background.
     >
     > (<a href="#citeproc_bib_item_1">“Inferential Distance” n.d.</a>)
+
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.35 | 5   | 32.56    | 2022-12-30T07:41:31Z |
+| back     | 2.50 | 6   | 74.51    | 2023-02-23T06:40:18Z |
+
+[Inferential distance]({{< relref "inferential_distance.md" >}})
+
+
+#### Back {#back}
+
+The set of prerequisite knowledge required to understand a new concept lacked by the learner.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Inferential Distance” n.d.</a>)
+
+
+### Example(s) {#example--s}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 6   | 75.44    | 2023-01-08T00:37:41Z |
+| back     | 2.35 | 5   | 34.30    | 2023-01-04T23:54:40Z |
+
+[Inferential distance]({{< relref "inferential_distance.md" >}})
+
+
+#### Back {#back}
+
+-   Explaining evolution to a physicist versus someone without a background in science
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Inferential Distance” n.d.</a>)
 
 ## References
 

@@ -1,8 +1,8 @@
 +++
 title = "David Thompson | My Favourite Git Commit"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:26:00-08:00
-lastmod = 2022-11-04T15:31:37-07:00
+lastmod = 2022-12-17T11:36:32-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -10,9 +10,6 @@ slug = "ffc0d2f1-9a41-4562-8625-a669a5110836"
 +++
 
 [David Thompson]({{< relref "david_thompson.md" >}}), (<a href="#citeproc_bib_item_1">Thompson 2019</a>)
-
-
-## Summary {#summary}
 
 
 ## Thoughts {#thoughts}
@@ -75,18 +72,25 @@ Now the tests work! One hour of my life I won't get back..
 
 > One of the first things in this commit message is the error message that inspired the change:
 >
-> ```nil
 > ArgumentError:
 >   invalid byte sequence in US-ASCII
-> ```
 
 
 ### It tells a story {#it-tells-a-story}
 
 > This commit message goes into a lot of detail about what the problem looked like, what the process of investigating it looked like, and what the process of fixing it looked like.
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Thompson, David. 2019. “My Favourite Git Commit.” <i>Dhwthompson.Com</i>. <a href="https://dhwthompson.com/2019/my-favourite-git-commit">https://dhwthompson.com/2019/my-favourite-git-commit</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Alexey Nikitin | My least favorite Git commit]({{< relref "nikitinMyLeastFavoriteGitCommit2019.md" >}})
+-   [Documenting your work]({{< relref "documenting_your_work.md" >}})

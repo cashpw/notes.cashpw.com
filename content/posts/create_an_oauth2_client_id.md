@@ -1,8 +1,8 @@
 +++
 title = "Create an OAuth2 Client ID"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T19:48:00-08:00
-lastmod = 2022-11-04T14:52:41-07:00
+lastmod = 2022-12-17T11:08:35-08:00
 draft = false
 slug = "486b286b-8806-4282-af4e-cfbac4fb0990"
 +++
@@ -104,3 +104,12 @@ These steps are based on the [steps outlined by ccrusius](https://github.com/ccr
     05:55.59 < * OK [HIGHESTMODSEQ 65647480]
     05:55.59 < OKBC2 OK [READ-WRITE] INBOX selected. (Success)
     ```
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Read Gmail in Emacs with notmuch and lieer]({{< relref "read_gmail_in_emacs_with_notmuch_and_lieer.md" >}})
+-   [Read Gmail in Emacs with mbsync and mu4e]({{< relref "read_gmail_in_emacs_with_mbsync_and_mu4e.md" >}})

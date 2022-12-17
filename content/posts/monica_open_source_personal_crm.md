@@ -1,10 +1,18 @@
 +++
-title = "Monica"
-author = ["Cash Weaver"]
+title = "Monica (Personal relationship manager)"
+author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T22:51:00-08:00
-lastmod = 2022-11-04T15:09:05-07:00
+lastmod = 2022-12-17T11:21:37-08:00
 draft = false
-roam_refs = ["https://www.monicahq.com/"]
+slug = "d047a069-d533-4767-b847-4c00a9d7029e"
 +++
 
-Monica is a [Personal Relationship Manager]({{< relref "personal_relationship_manager.md" >}}). I have a hard time keeping track of birthdays, etc. Perhaps this would be a helpful tool.
+Monica is a [Personal relationship manager]({{< relref "personal_relationship_manager.md" >}}). I have a hard time keeping track of birthdays, etc. Perhaps this would be a helpful tool.
+
+
+## Flashcards {#flashcards}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

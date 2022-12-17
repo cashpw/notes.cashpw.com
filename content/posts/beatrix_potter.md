@@ -1,20 +1,28 @@
 +++
 title = "Beatrix Potter"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:34:00-08:00
-lastmod = 2022-11-04T14:49:13-07:00
+lastmod = 2022-12-17T11:05:44-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "664e547c-e250-4fbf-9050-a245db80c1c4"
 +++
 
-> an English writer, illustrator, natural scientist and conservationist; she was best known for her children's books featuring animals, such as The Tale of Peter Rabbit.
+> [...] an English writer, illustrator, natural scientist and conservationist; she was best known for her children's books featuring animals, such as The Tale of Peter Rabbit.
 >
 > (<a href="#citeproc_bib_item_1">“Beatrix Potter” 2022</a>)
+
+
+## Flashcards {#flashcards}
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Beatrix Potter.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Beatrix_Potter&oldid=1070259835">https://en.wikipedia.org/w/index.php?title=Beatrix_Potter&#38;oldid=1070259835</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [The shorter and plainer the better]({{< relref "the_shorter_and_plainer_the_better.md" >}})

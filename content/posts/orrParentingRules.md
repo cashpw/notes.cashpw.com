@@ -1,10 +1,10 @@
 +++
 title = "Dave Orr | Parenting Rules"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T18:52:00-07:00
-lastmod = 2022-11-04T15:11:15-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-12-17T11:23:31-08:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "cc8635c1-ea8a-4d60-a3c3-4a08b00c51ce"
 +++
@@ -49,8 +49,17 @@ slug = "cc8635c1-ea8a-4d60-a3c3-4a08b00c51ce"
 >
 > You have to be age appropriate -- when talking about where babies come from, I don't talk about penises in vaginas to a 5 year old -- but they can handle a lot more than most adults give them credit for.
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Orr, Dave. n.d. “Parenting Rules.” Accessed March 14, 2022. <a href="https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules">https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

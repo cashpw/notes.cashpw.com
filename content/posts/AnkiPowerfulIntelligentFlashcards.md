@@ -1,8 +1,8 @@
 +++
 title = "Anki"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T13:08:00-08:00
-lastmod = 2022-11-04T14:46:43-07:00
+lastmod = 2022-12-17T11:03:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,12 +15,20 @@ A software solution for [spaced repetition]({{< relref "spaced_repetition.md" >}
 >
 > (<a href="#citeproc_bib_item_1">“Anki - Powerful, Intelligent Flashcards” n.d.</a>)
 
-See also:
 
--   [Testing Effect]({{< relref "testing_effect.md" >}})
+## Flashcards {#flashcards}
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Anki - Powerful, Intelligent Flashcards.” n.d. Accessed February 8, 2022. <a href="https://apps.ankiweb.net/">https://apps.ankiweb.net/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Do things that compound]({{< relref "do_things_that_compound.md" >}})
+-   [Custom Anki Notes]({{< relref "custom_anki_notes.md" >}})
+-   [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
+-   [Todos]({{< relref "todos.md" >}})
+-   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

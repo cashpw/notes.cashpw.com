@@ -1,8 +1,8 @@
 +++
 title = "Aaron Swartz | Theory of Change"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T12:06:00-08:00
-lastmod = 2022-11-04T15:25:24-07:00
+lastmod = 2022-12-17T11:32:19-08:00
 draft = false
 slug = "6d2276f9-4b72-46be-a4dc-9cdd41997122"
 +++
@@ -12,11 +12,14 @@ slug = "6d2276f9-4b72-46be-a4dc-9cdd41997122"
 
 ## Notes {#notes}
 
-> I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a theory of change.
+> I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a [Theory of change]({{< relref "theory_of_change.md" >}}). Theory of change is a funny phrase — I first heard it in the nonprofit community, but it's also widespread in politics and really applies to just about everything. Unfortunately, very few people seem to be very good at it.
+>
+> Let's take a concrete example. Imagine you want to decrease the size of the defense budget. The typical way you might approach this is to look around at the things you know how to do and do them on the issue of decreasing the defense budget. So, if you have a blog, you might write a blog post about why the defense budget should be decreased and tell your friends about it on Facebook and Twitter. If you're a professional writer, you might write a book on the subject. If you're an academic, you might publish some papers. Let's call this strategy a "theory of action": you work forwards from what you know how to do to try to find things you can do that will accomplish your goal.
+>
+> A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, "Concretely, how does one achieve that?" A decrease in the defense budget: how does one achieve that?
 
-<!--quoteend-->
 
-> A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, "Concretely, how does one achieve that?"
+## Flashcards {#flashcards}
 
 ## References
 

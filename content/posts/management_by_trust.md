@@ -1,15 +1,18 @@
 +++
-title = "Management By Trust"
-author = ["Cash Weaver"]
+title = "Management by trust"
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T03:38:00-08:00
-lastmod = 2022-11-04T15:07:11-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:19:58-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "295eeb2d-4265-481a-affe-2009f7f33a3a"
 +++
 
 -   (<a href="#citeproc_bib_item_1">Ard n.d.</a>)
+
+
+## Flashcards {#flashcards}
 
 ## References
 

@@ -1,8 +1,8 @@
 +++
 title = "Allen Ginsberg | Howl"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:20:00-07:00
-lastmod = 2022-11-04T14:58:02-07:00
+lastmod = 2022-12-17T11:14:09-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -167,6 +167,29 @@ I'm with you in Rockland<br />
 </div>
 
 [Footnote to Howl]({{< relref "footnote_to_howl.md" >}})
+
+
+## Flashcards {#flashcards}
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.35 | 3   | 6.00     | 2022-12-19T01:53:38Z |
+| back     | 2.65 | 3   | 6.00     | 2022-12-19T18:24:51Z |
+
+[Howl (Poem)]({{< relref "ginsbergHowl2022.md" >}})
+
+
+#### Back {#back}
+
+-   Poem about [Moloch]({{< relref "moloch.md" >}})
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Ginsberg 2022</a>)
 
 ## References
 

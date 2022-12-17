@@ -1,15 +1,17 @@
 +++
 title = "E.B. White"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:31:00-08:00
-lastmod = 2022-11-04T14:55:22-07:00
+lastmod = 2022-12-17T11:11:09-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "5374a3c9-1d18-458f-9f0b-7d06381690ef"
 +++
 
-Among other things:
+## Flashcards {#flashcards}
 
 
-## :noexport: {#noexport}
+## Backlinks {#backlinks}
+
+-   [Use the smallest word that does the job]({{< relref "use_the_smallest_word_that_does_the_job.md" >}})

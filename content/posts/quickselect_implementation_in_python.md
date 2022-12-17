@@ -1,8 +1,8 @@
 +++
 title = "Quickselect implementation in Python"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:54:00-07:00
-lastmod = 2022-11-04T15:14:55-07:00
+lastmod = 2022-12-17T11:26:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,14 +54,21 @@ def select_nth_smallest_inner(ints: List[int], target_index: int, left_index: in
 
 def select_nth_smallest(ints: List[int], n: int) -> Optional[int]:
     """Return the N-th smallest value from a list of integers, INTS."""
-    if n >= len(ints) || n < 0:
+    if n >= len(ints) or n < 0:
         return None
 
     return select_nth_smallest_inner(ints, n, 0, len(ints) - 1)
 
 a = [10, 4, 2, 1, 5, 15]
-# Expect to print "4": [1, 2, 4, 5, 10, 15]
-print(select_nth_smallest(a, 2))
-# Expect to print "10": [1, 2, 4, 5, 10, 15]
-print(select_nth_smallest(a, 4))
+print(select_nth_smallest(a, 2), "should be 4")
+print(select_nth_smallest(a, 4), "should be 10")
 ```
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Quickselect]({{< relref "quickselect.md" >}})
+-   [Basic with Source]({{< relref "quickselect.md#basic-with-source" >}})

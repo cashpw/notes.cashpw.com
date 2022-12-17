@@ -1,8 +1,8 @@
 +++
 title = "Merge sort implementation in Python"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:44:00-07:00
-lastmod = 2022-11-04T15:08:23-07:00
+lastmod = 2022-12-17T11:21:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,7 @@ def split(ints: List[int]) -> Tuple[List[int], List[int]]:
 
     return ints[0:split_index], ints[split_index:len(ints)]
 
-def merge(a: List[int], b: List[int], comparator: Callable[[int, int], bool]) -> List[int]:
+def merge(a: List[int], b: List[int], comparator: Callable[[id:int, int], bool]) -> List[int]:
     a_index = 0
     b_index = 0
     out = []
@@ -49,7 +49,7 @@ def merge(a: List[int], b: List[int], comparator: Callable[[int, int], bool]) ->
     return out
 
 
-def merge_sort(ints: List[int], comparator: Callable[[int, int], bool]) -> None:
+def merge_sort(ints: List[int], comparator: Callable[[id:int, int], bool]) -> None:
     if len(ints) <= 1:
         return ints
 
@@ -62,3 +62,12 @@ def merge_sort(ints: List[int], comparator: Callable[[int, int], bool]) -> None:
 a = [10, 5, 2, 20, 1]
 print(merge_sort(a, lambda x, y: x <= y))
 ```
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Merge sort]({{< relref "merge_sort.md" >}})
+-   [Basic with Source]({{< relref "merge_sort.md#basic-with-source" >}})

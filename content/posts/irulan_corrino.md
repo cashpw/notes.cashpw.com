@@ -1,15 +1,19 @@
 +++
 title = "Irulan Corrino"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T10:33:00-08:00
-lastmod = 2022-11-04T15:02:47-07:00
+lastmod = 2022-12-17T11:17:16-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "a0503d43-fe6f-4dfb-838c-4fc3ad2d64ea"
 +++
 
-Among other things:
+## Flashcards {#flashcards}
 
 
-## :noexport: {#noexport}
+## Backlinks {#backlinks}
+
+-   [The first lesson]({{< relref "the_first_lesson.md" >}})
+-   [Arrakis teaches the attitude of the knife]({{< relref "arrakis_teaches_the_attitude_of_the_knife.md" >}})
+-   [A beginning]({{< relref "a_beginning.md" >}})

@@ -1,16 +1,26 @@
 +++
-title = "Guidelines for Parenting"
-author = ["Cash Weaver"]
+title = "Guidelines for parenting"
+author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T19:19:00-07:00
-lastmod = 2022-11-04T14:59:15-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:15:03-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "06156007-ba51-4934-9df5-b923e2030026"
 +++
 
-##  {#d41d8c}
+I've titled this "Guidelines" as opposed to "Rules" because:
 
-"Guidelines" because sometimes you need to respond to unpredictable or uncommon conditions.
+1.  No two children are the same and they each benefit from an individualized approach. That said, [most of this is applicable to most children]({{< relref "pareto_principle.md" >}}).
+2.  You need to respond to unpredictable or uncommon conditions and rules are too brittle
 
--
+References
+
+-   [Freddish]({{< relref "freddish.md" >}})
+-   [Dave Orr | Parenting Rules]({{< relref "orrParentingRules.md" >}})
+
+
+## Expand {#expand}
+
+
+## Flashcards {#flashcards}

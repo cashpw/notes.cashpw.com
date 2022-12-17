@@ -1,8 +1,8 @@
 +++
 title = "Spin"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T11:40:00-07:00
-lastmod = 2022-11-04T15:22:33-07:00
+lastmod = 2022-12-17T11:30:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,8 +13,36 @@ slug = "f80c2ae6-6786-4eae-93aa-57feebf02c39"
 >
 > (<a href="#citeproc_bib_item_1">“Spin (Propaganda)” 2022</a>)
 
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| back     | 2.65 | 6   | 92.09    | 2023-03-13T21:43:37Z |
+| front    | 2.50 | 5   | 36.92    | 2022-12-31T11:36:35Z |
+
+[Spin]({{< relref "spin.md" >}})
+
+
+#### Back {#back}
+
+A form of propaganda which implies the use of disingenuous, deceptive, or manipulative tactics
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Spin (Propaganda)” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Spin (Propaganda).” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Spin_(propaganda)&oldid=1087371370">https://en.wikipedia.org/w/index.php?title=Spin_(propaganda)&#38;oldid=1087371370</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater]({{< relref "citationsneededNewsBriefBiden2022.md" >}})

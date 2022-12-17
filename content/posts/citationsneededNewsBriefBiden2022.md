@@ -1,8 +1,8 @@
 +++
 title = "Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-07-22T18:27:00-07:00
-lastmod = 2022-11-04T14:51:41-07:00
+lastmod = 2022-12-17T11:07:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -15,6 +15,8 @@ slug = "86e4a35a-4b5e-4403-946b-737b4dad1693"
 ## Summary {#summary}
 
 Media [Spin]({{< relref "spin.md" >}}) regarding President Biden's visit to Saudi Arabia and meeting with Mohammed bin Salman as reluctantly performed or as a necessary evil [Carry water]({{< relref "carry_water.md" >}}) for the underlying ([Realpolitik]({{< relref "real_politic.md" >}})) truth: Biden, and United States foreign policy in general dating back to well before Biden, engage willingly with Saudi Arabia. The purpose of the media spin is to provide a narrative for liberals to latch on to which explains why the United States is doing bad things, engaging with bad people, etc.
+
+> Nima: The lie is that Biden is meeting with an enemy. He's not.
 
 
 ## Notes {#notes}
@@ -123,10 +125,13 @@ Media [Spin]({{< relref "spin.md" >}}) regarding President Biden's visit to Saud
 >
 > [links added]
 
+
+## Flashcards {#flashcards}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Citations Needed. 2022. “News Brief: Biden’s Dictator Tour and the Tedium of Our ``Human Rights Concerns’’ Theater.” <i>Medium</i>. <a href="https://citationsneeded.medium.com/news-brief-bidens-dictator-tour-and-the-tedium-of-our-human-rights-concerns-theater-78d59bd700ae">https://citationsneeded.medium.com/news-brief-bidens-dictator-tour-and-the-tedium-of-our-human-rights-concerns-theater-78d59bd700ae</a>.</div>
+</div>
+
 [^fn:1]: [Betty Miller Unterberger | Power Politics and Statecraft: The World According to Kissinger]({{< relref "unterbergerPowerPoliticsStatecraft1995.md" >}})
-
-    ## References
-
-    <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-      <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Citations Needed. 2022. “News Brief: Biden’s Dictator Tour and the Tedium of Our ``Human Rights Concerns’’ Theater.” <i>Medium</i>. <a href="https://citationsneeded.medium.com/news-brief-bidens-dictator-tour-and-the-tedium-of-our-human-rights-concerns-theater-78d59bd700ae">https://citationsneeded.medium.com/news-brief-bidens-dictator-tour-and-the-tedium-of-our-human-rights-concerns-theater-78d59bd700ae</a>.</div>
-    </div>

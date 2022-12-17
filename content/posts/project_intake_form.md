@@ -1,10 +1,10 @@
 +++
 title = "Project intake form"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T10:06:00-07:00
-lastmod = 2022-11-04T15:13:54-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:25:31-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "ba1c8bfe-7353-4fac-9202-768763ba4692"
 +++
@@ -34,3 +34,12 @@ Include things like:
     -   Can more than one person work on the milestones in parallel?
 
 Also see [Split "Lessons learned" into nodes]({{< relref "todos.md#split-lessons-learned-into-nodes" >}}).
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Split "Lessons learned" into nodes]({{< relref "todos.md#split-lessons-learned-into-nodes" >}})
+-   [Todos]({{< relref "todos.md" >}})

@@ -1,8 +1,8 @@
 +++
 title = "Michael W. Donnino et al. | Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:48:00-08:00
-lastmod = 2022-11-04T14:55:03-07:00
+lastmod = 2022-12-17T11:10:51-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -55,8 +55,16 @@ slug = "38bba771-d7e5-467f-80bb-ebd79faf793c"
 
 > As stress is an underlying component of MBS, the final arm of the program is to engage in stress-reduction techniques. By starting this program with the PSRT portion, participants are often already seeing improvements before embarking on this last portion of the program. MBSR was developed by Jon Kabat-Zinn at the Center for Mindfulness at the University of Massachusetts Medical Center for the prevention and treatment of stress related disorders (4). MBSR has been linked to significant improvements in overall health and well-being, leading to reductions in stress, anxiety, depression, and chronic pain (5, 6, 7). MBSR is an 8-week educational program which includes weekly sessions and mindful practice. Students are encouraged to perform daily home practice, which is explored throughout the program. Our MBSR classes adhered to the original protocol of the Center for Mindfulness at the University of Massachusetts. Our mindfulness sessions entail a series of strategies for cultivating present moment awareness - the ability to experience what is arising in the present moment. This allows for the observation of thoughts (past or future), the disengagement from emotional reactivity and the ability to stay with the sensate experience in the body - the outcome of which is a deeper sense of ease, emotional balance and general well-being.
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Donnino, Michael W., Garrett S. Thompson, Shivani Mehta, Myrella Paschali, Patricia Howard, Sofie B. Antonsen, Lakshman Balaji, et al. 2021. “Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial.” <i>Pain Reports</i> 6 (3): e959. <a href="https://doi.org/10.1097/PR9.0000000000000959">https://doi.org/10.1097/PR9.0000000000000959</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Psychophysiologic symptom relief therapy]({{< relref "psychophysiologic_symptom_relief_therapy.md" >}})

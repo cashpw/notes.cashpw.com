@@ -1,8 +1,8 @@
 +++
 title = "Julian Shapiro | Writing Well Handbook"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:13:00-08:00
-lastmod = 2022-11-04T15:04:06-07:00
+lastmod = 2022-12-17T11:18:11-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -348,8 +348,6 @@ Also see:
 >
 > (<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
 
-[Tweet test]({{< relref "tweet_test.md" >}})
-
 
 #### Feedback {#feedback}
 
@@ -446,6 +444,22 @@ I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't mean
 > I find that writers who post frequently (say, twice weekly) are rarely worth reading consistently. I read for insights. And no writer can generate profound insights on a fixed schedule. I aggregate writers who publish sporadically. When they post, they truly have something to say.
 >
 > (<a href="#citeproc_bib_item_2">Shapiro n.d.-b</a>)
+
+
+## Flashcards {#flashcards}
+
+
+### [Julian Shapiro]({{< relref "julian_shapiro.md" >}}) defines a {{novel idea}@0} as {{new to the reader, significant, and not easily intuited}@1}. {#julian-shapiro--julian-shapiro-dot-md--defines-a-novel-idea-0-as-new-to-the-reader-significant-and-not-easily-intuited-1-dot}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.95 | 5   | 54.26    | 2023-01-24T22:53:57Z |
+| 1        | 2.50 | 2   | 2.00     | 2022-12-16T18:24:00Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_4">Shapiro n.d.-d</a>)
 
 ## References
 

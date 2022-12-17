@@ -1,8 +1,8 @@
 +++
 title = "moridinamael | The Monthly Newsletter as Thinking Tool"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:19:00-08:00
-lastmod = 2022-11-04T15:09:20-07:00
+lastmod = 2022-12-17T11:21:49-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -16,6 +16,8 @@ slug = "da8376c0-7849-47fd-9f79-fca821651232"
 
 
 ## Thoughts {#thoughts}
+
+-   [Writing to think]({{< relref "writing_to_think.md" >}})
 
 
 ## Notes {#notes}
@@ -33,8 +35,16 @@ slug = "da8376c0-7849-47fd-9f79-fca821651232"
 
 > And the final and most important distinction between a monthly newsletter and a blog -- and, I think, the place where all the value of this practice comes in -- is the time-locked nature of it. You have a month to jot down thoughts, then at the end of the month you have to "finish" those thoughts.
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>moridinamael. 2018. “The Monthly Newsletter as Thinking Tool.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool">https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Monthly newsletter]({{< relref "monthly_newsletter.md" >}})

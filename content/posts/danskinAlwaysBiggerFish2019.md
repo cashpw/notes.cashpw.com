@@ -1,8 +1,8 @@
 +++
 title = "Ian Danskin | Always a Bigger Fish"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:54:00-07:00
-lastmod = 2022-11-04T14:52:56-07:00
+lastmod = 2022-12-17T11:08:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -77,8 +77,81 @@ Conservatives tend to think in hierarchies -- like a capitalist -- while liberal
 >
 > If you want to fight fascism, move left.
 
+
+## Flashcards {#flashcards}
+
+
+### Conservatives tend to think {{like a capitalist; in hierarchies}@0} {#conservatives-tend-to-think-like-a-capitalist-in-hierarchies-0}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 6   | 77.42    | 2023-01-18T02:45:24Z |
+
+
+#### Extra {#extra}
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Danskin 2019</a>)
+
+
+### Liberals tend to think {{democratically; like an egalitarian}@0} {#liberals-tend-to-think-democratically-like-an-egalitarian-0}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.80 | 6   | 92.50    | 2023-02-01T04:25:34Z |
+
+
+#### Extra {#extra}
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Danskin 2019</a>)
+
+
+### Hierarchies are {{self-similar}@0} on many scales {#hierarchies-are-self-similar-0-on-many-scales}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.80 | 6   | 109.12   | 2023-02-20T19:43:16Z |
+
+
+#### Extra {#extra}
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Danskin 2019</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 5   | 39.03    | 2022-12-15T22:44:22Z |
+| back     | 2.95 | 5   | 46.44    | 2023-01-18T08:44:37Z |
+
+Hierarchies are recursive
+
+
+#### Back {#back}
+
+Those at the top of the hierarchy have power over those lower in the hierarchy. This relationship is recursive. Those in the middle have power over those lower than themselves, etc.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Danskin 2019</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “Always a Bigger Fish.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called">https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})

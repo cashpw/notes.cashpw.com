@@ -1,8 +1,8 @@
 +++
-title = "Use Plain Language"
-author = ["Cash Weaver"]
+title = "Use plain language"
+author = ["Cash Prokop-Weaver"]
 date = 2022-01-17T11:26:00-08:00
-lastmod = 2022-11-04T15:38:03-07:00
+lastmod = 2022-12-17T11:49:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,7 +16,15 @@ slug = "d65fac7a-c0e4-4f53-95f2-71d7343dc0cf"
 
 ## Relevant {#relevant}
 
--   [The Shorter and Plainer the Better]({{< relref "the_shorter_and_plainer_the_better.md" >}})
--   [Use The Smallest Word That Does The Job]({{< relref "use_the_smallest_word_that_does_the_job.md" >}})
--   [If I Had More Time, I Would Have Written A Shorter Letter]({{< relref "if_i_had_more_time_i_would_have_written_a_shorter_letter.md" >}})
--   [Five Sentences]({{< relref "FiveSentences.md" >}})
+-   [The shorter and plainer the better]({{< relref "the_shorter_and_plainer_the_better.md" >}})
+-   [Use the smallest word that does the job]({{< relref "use_the_smallest_word_that_does_the_job.md" >}})
+-   [If I had more time, I would have written a shorter letter]({{< relref "if_i_had_more_time_i_would_have_written_a_shorter_letter.md" >}})
+-   [Five sentences]({{< relref "FiveSentences.md" >}})
+
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Style Guide]({{< relref "style_guide.md" >}})

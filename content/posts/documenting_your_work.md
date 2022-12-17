@@ -1,10 +1,10 @@
 +++
-title = "Documenting Your Work"
-author = ["Cash Weaver"]
+title = "Documenting your work"
+author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T14:37:00-08:00
-lastmod = 2022-11-04T14:54:53-07:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T11:10:41-08:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "c74e3129-38af-45f8-bd2b-8a6fa5a0cad0"
 +++
@@ -23,10 +23,22 @@ slug = "c74e3129-38af-45f8-bd2b-8a6fa5a0cad0"
 -   <https://www.variance.com/posts/6-rules-of-good-documentation>
 -   <https://idratherbewriting.com/simplifying-complexity/discoverability-through-metadata.html>
 -   (<a href="#citeproc_bib_item_1">“Readme Driven Development” n.d.</a>)
--   Synthesize [David Thompson | My Favourite Git Commit]({{< relref "thompsonMyFavouriteGitCommit2019.md" >}})
+-   Synthesize [David Thompson | My Favourite Git Commit]({{< relref "thompsonMyFavouriteGitCommit2019.md" >}}) and [Alexey Nikitin | My least favorite Git commit]({{< relref "nikitinMyLeastFavoriteGitCommit2019.md" >}})
+-   Explicitly list the alternatives you considered and why you decided against them
+
+
+## Flashcards {#flashcards}
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Readme Driven Development.” n.d. Accessed February 14, 2022. <a href="https://tom.preston-werner.com/2010/08/23/readme-driven-development.html">https://tom.preston-werner.com/2010/08/23/readme-driven-development.html</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [David Thompson | My Favourite Git Commit]({{< relref "thompsonMyFavouriteGitCommit2019.md" >}})
+-   [Alexey Nikitin | My least favorite Git commit]({{< relref "nikitinMyLeastFavoriteGitCommit2019.md" >}})
+-   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

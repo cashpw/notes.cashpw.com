@@ -1,10 +1,10 @@
 +++
 title = "Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus"
-author = ["Cash Weaver"]
+author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T06:44:00-08:00
-lastmod = 2022-11-04T14:48:29-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2022-12-17T11:05:04-08:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "84e0e30f-a362-4aae-b540-4541e00af0a8"
 +++
@@ -120,8 +120,16 @@ I've come to appreciate the use of phrases, mantras, hymns, etc --- [focusing te
 
 ### About {#about}
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Antoninus, Marcus Aurelius. 1944. <i>The Meditations of the Emperor Marcus Antoninus</i>. Arthur Spenser Loat Farquharson. Oxford: Oxford University Press.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Example(s) (Cedric Chin)]({{< relref "tree_book.md#example--s----id-4c9b1bbf-2a4b-43fa-a266-b559c018d80e-cedric-chin" >}})
