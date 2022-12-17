@@ -2,7 +2,7 @@
 title = "The medium is the message"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-26T15:18:00-07:00
-lastmod = 2022-12-17T11:34:35-08:00
+lastmod = 2022-12-17T14:15:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

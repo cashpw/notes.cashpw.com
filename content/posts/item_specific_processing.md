@@ -2,7 +2,7 @@
 title = "Item-specific processing"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:40:00-08:00
-lastmod = 2022-12-17T11:17:23-08:00
+lastmod = 2022-12-17T13:49:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

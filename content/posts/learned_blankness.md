@@ -2,7 +2,7 @@
 title = "Learned blankness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T08:38:00-08:00
-lastmod = 2022-12-17T11:18:55-08:00
+lastmod = 2022-12-17T13:52:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,5 +49,4 @@ A state of mind characterized by the lack of a drive to understand. Those exhibi
 
 ## Backlinks {#backlinks}
 
--   [Anna Salamon | Learned Blankness]({{< relref "annasalamonLearnedBlankness2011.md" >}})
 -   [Anna Salamon | Learned Blankness]({{< relref "annasalamonLearnedBlankness2011.md" >}})

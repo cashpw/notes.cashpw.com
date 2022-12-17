@@ -2,7 +2,7 @@
 title = "Deep time"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T13:07:00-08:00
-lastmod = 2022-12-17T11:03:48-08:00
+lastmod = 2022-12-17T13:33:45-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -67,6 +67,5 @@ Term referring to geologic scales of time.
 
 ## Backlinks {#backlinks}
 
--   [Time is long]({{< relref "time_is_long.md" >}})
 -   [Time is long]({{< relref "time_is_long.md" >}})
 -   [Speculative evolution]({{< relref "SpeculativeEvolution2022.md" >}})

@@ -2,7 +2,7 @@
 title = "Undirected graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:35:00-07:00
-lastmod = 2022-12-17T11:48:31-08:00
+lastmod = 2022-12-17T14:20:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

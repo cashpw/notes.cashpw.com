@@ -2,7 +2,7 @@
 title = "Greeks (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:38:00-08:00
-lastmod = 2022-12-17T11:14:47-08:00
+lastmod = 2022-12-17T13:46:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

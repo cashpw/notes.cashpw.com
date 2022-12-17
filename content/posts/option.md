@@ -2,7 +2,7 @@
 title = "Option (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:29:00-08:00
-lastmod = 2022-12-17T11:23:11-08:00
+lastmod = 2022-12-17T13:59:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Most of what you read on the internet is written by insane people"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:24:00-08:00
-lastmod = 2022-12-17T11:10:21-08:00
+lastmod = 2022-12-17T13:41:06-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

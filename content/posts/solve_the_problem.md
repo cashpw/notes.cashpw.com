@@ -2,7 +2,7 @@
 title = "Solve the problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:37:00-08:00
-lastmod = 2022-12-17T11:30:05-08:00
+lastmod = 2022-12-17T14:10:41-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

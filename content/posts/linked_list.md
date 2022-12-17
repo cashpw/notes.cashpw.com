@@ -2,7 +2,7 @@
 title = "Linked list"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T15:41:00-07:00
-lastmod = 2022-12-17T11:19:19-08:00
+lastmod = 2022-12-17T13:52:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Asymmetric game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2022-12-17T11:05:16-08:00
+lastmod = 2022-12-17T13:35:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

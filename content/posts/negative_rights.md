@@ -2,7 +2,7 @@
 title = "Negative rights"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T09:46:00-07:00
-lastmod = 2022-12-17T11:22:04-08:00
+lastmod = 2022-12-17T13:57:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

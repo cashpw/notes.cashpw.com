@@ -2,7 +2,7 @@
 title = "Acetaminophen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:08:00-07:00
-lastmod = 2022-12-17T11:04:15-08:00
+lastmod = 2022-12-17T13:34:11-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Volatility (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:06:00-08:00
-lastmod = 2022-12-17T11:50:32-08:00
+lastmod = 2022-12-17T14:22:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -67,5 +67,4 @@ The degree of variation in a trading price series over time.
 
 ## Backlinks {#backlinks}
 
--   [Vega (finance)]({{< relref "vega_finance.md" >}})
 -   [Vega (finance)]({{< relref "vega_finance.md" >}})

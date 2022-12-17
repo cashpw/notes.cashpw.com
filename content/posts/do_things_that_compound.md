@@ -2,7 +2,7 @@
 title = "Do things that compound"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-11T20:09:00-08:00
-lastmod = 2022-12-17T11:10:36-08:00
+lastmod = 2022-12-17T13:41:23-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -22,10 +22,9 @@ slug = "92cf48f0-63a6-4d1d-9275-c80f6743ccb9"
 ## Backlinks {#backlinks}
 
 -   [Ben Kuhn | In Defense of Blub Studies]({{< relref "kuhnDefenseBlubStudies.md" >}})
--   [Ben Kuhn | In Defense of Blub Studies]({{< relref "kuhnDefenseBlubStudies.md" >}})
 -   [Learn things with a long shelf-life]({{< relref "learn_things_with_a_long_shelf_life.md" >}})
 -   [Farnam Street | Compounding Knowledge]({{< relref "farnam_street_compounding_knowledge.md" >}})
 -   [Blub studies]({{< relref "blub_studies.md" >}})
 -   [Andy Matuschak | Knowledge Work Should Accrete]({{< relref "KnowledgeWorkShouldAccrete.md" >}})
--   [Todos]({{< relref "todos.md" >}})
 -   [No zero days]({{< relref "no_zero_days.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

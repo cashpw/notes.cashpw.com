@@ -2,7 +2,7 @@
 title = "Regulatory capture"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T15:28:00-08:00
-lastmod = 2022-12-17T11:27:18-08:00
+lastmod = 2022-12-17T14:07:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Crital path method"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T17:45:00-08:00
-lastmod = 2022-12-17T11:08:39-08:00
+lastmod = 2022-12-17T13:39:16-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

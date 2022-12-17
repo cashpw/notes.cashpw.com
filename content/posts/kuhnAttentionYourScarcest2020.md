@@ -2,7 +2,7 @@
 title = "Ben Kuhn | Attention Is Your Scarcest Resource"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:31:00-08:00
-lastmod = 2022-12-17T11:18:30-08:00
+lastmod = 2022-12-17T13:51:36-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "This sentence has five words"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T17:05:00-08:00
-lastmod = 2022-12-17T11:36:27-08:00
+lastmod = 2022-12-17T14:17:47-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

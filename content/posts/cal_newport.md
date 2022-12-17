@@ -2,7 +2,7 @@
 title = "Cal Newport"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:18:00-08:00
-lastmod = 2022-12-17T11:06:54-08:00
+lastmod = 2022-12-17T13:37:09-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

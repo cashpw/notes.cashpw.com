@@ -2,7 +2,7 @@
 title = "Hegemony"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:22:00-07:00
-lastmod = 2022-12-17T11:15:38-08:00
+lastmod = 2022-12-17T13:47:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

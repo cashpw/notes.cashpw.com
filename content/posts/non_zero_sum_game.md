@@ -2,7 +2,7 @@
 title = "Non-zero-sum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T10:51:00-07:00
-lastmod = 2022-12-17T11:22:42-08:00
+lastmod = 2022-12-17T13:59:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

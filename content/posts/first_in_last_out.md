@@ -2,7 +2,7 @@
 title = "Last in, first out"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-07T06:49:00-07:00
-lastmod = 2022-12-17T11:12:34-08:00
+lastmod = 2022-12-17T13:43:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

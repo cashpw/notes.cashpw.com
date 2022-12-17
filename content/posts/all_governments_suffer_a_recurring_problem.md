@@ -2,7 +2,7 @@
 title = "All governments suffer a recurring problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:31:00-08:00
-lastmod = 2022-12-17T11:04:36-08:00
+lastmod = 2022-12-17T13:34:33-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

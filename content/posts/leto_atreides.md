@@ -2,7 +2,7 @@
 title = "Leto Atreides"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T10:23:00-07:00
-lastmod = 2022-12-17T11:19:04-08:00
+lastmod = 2022-12-17T13:52:27-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

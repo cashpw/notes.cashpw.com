@@ -2,7 +2,7 @@
 title = "Ask the right questions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:41:00-08:00
-lastmod = 2022-12-17T11:05:12-08:00
+lastmod = 2022-12-17T13:35:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -67,5 +67,4 @@ Questions as a [Play to win]({{< relref "play_to_win.md" >}}) for achieving goal
 
 ## Backlinks {#backlinks}
 
--   [Tom Limoncelli | The Right Answer]({{< relref "limoncelliRightAnswer.md" >}})
 -   [Tom Limoncelli | The Right Answer]({{< relref "limoncelliRightAnswer.md" >}})

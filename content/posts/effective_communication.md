@@ -2,7 +2,7 @@
 title = "Effective communication"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:27:00-08:00
-lastmod = 2022-12-17T11:11:19-08:00
+lastmod = 2022-12-17T13:42:14-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

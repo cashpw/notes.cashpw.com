@@ -2,7 +2,7 @@
 title = "Network effect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:43:00-07:00
-lastmod = 2022-12-17T11:22:09-08:00
+lastmod = 2022-12-17T13:57:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

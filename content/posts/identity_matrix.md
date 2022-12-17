@@ -2,7 +2,7 @@
 title = "Identity matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:21:00-07:00
-lastmod = 2022-12-17T11:16:18-08:00
+lastmod = 2022-12-17T13:48:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

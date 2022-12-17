@@ -2,7 +2,7 @@
 title = "Spaced repetition"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2022-12-17T11:30:30-08:00
+lastmod = 2022-12-17T14:11:08-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -76,8 +76,6 @@ An evidence-based learning technique, usually performed with flashcards, which e
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
 -   [Forgetting curve]({{< relref "forgetting_curve.md" >}})
 -   [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}})
--   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
--   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
 -   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
 -   [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
 -   [Pedagogy]({{< relref "pedagogy.md" >}})

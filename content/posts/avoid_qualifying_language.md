@@ -2,7 +2,7 @@
 title = "Avoid qualifying language"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-20T08:51:00-08:00
-lastmod = 2022-12-17T11:05:27-08:00
+lastmod = 2022-12-17T13:35:30-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

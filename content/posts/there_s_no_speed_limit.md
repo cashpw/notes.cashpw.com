@@ -2,7 +2,7 @@
 title = "There's no speed limit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T13:27:00-08:00
-lastmod = 2022-12-17T11:35:44-08:00
+lastmod = 2022-12-17T14:17:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

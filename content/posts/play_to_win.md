@@ -2,7 +2,7 @@
 title = "Play to win"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-16T19:22:00-08:00
-lastmod = 2022-12-17T11:24:43-08:00
+lastmod = 2022-12-17T14:02:50-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

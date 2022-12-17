@@ -2,7 +2,7 @@
 title = "Tim Peck"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:09:00-08:00
-lastmod = 2022-12-17T11:46:46-08:00
+lastmod = 2022-12-17T14:18:14-08:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false

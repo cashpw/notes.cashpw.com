@@ -2,7 +2,7 @@
 title = "Blind men and an elephant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-16T18:43:00-08:00
-lastmod = 2022-12-17T11:06:22-08:00
+lastmod = 2022-12-17T13:36:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

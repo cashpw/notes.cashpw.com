@@ -2,7 +2,7 @@
 title = "Symbolic expression"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:13:00-07:00
-lastmod = 2022-12-17T11:32:26-08:00
+lastmod = 2022-12-17T14:13:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

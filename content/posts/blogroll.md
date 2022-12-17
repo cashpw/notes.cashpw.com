@@ -2,7 +2,7 @@
 title = "Blogroll"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-30T11:59:00-08:00
-lastmod = 2022-12-17T11:06:26-08:00
+lastmod = 2022-12-17T13:36:36-08:00
 tags = ["has-todo", "has-todo"]
 categories = ["has-todo"]
 draft = false

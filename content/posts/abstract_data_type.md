@@ -2,7 +2,7 @@
 title = "Abstract data type"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:49:00-07:00
-lastmod = 2022-12-17T11:04:14-08:00
+lastmod = 2022-12-17T13:34:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -127,7 +127,7 @@ Both concepts relate to how the system stores and interacts with data.
 -   [Stack]({{< relref "stack.md" >}})
 -   [Describe (Abstract data type)]({{< relref "stack.md#describe--id-2eae74ba-4003-45cf-8425-7291aaa7a537-abstract-data-type" >}})
 -   [Heap]({{< relref "heap.md" >}})
--   [Queue]({{< relref "queue.md" >}})
--   [Definition (Computer science)]({{< relref "queue.md#definition--computer-science" >}})
 -   [Associative array]({{< relref "associative_array.md" >}})
 -   [Definition (Computer science)]({{< relref "associative_array.md#definition--computer-science" >}})
+-   [Queue]({{< relref "queue.md" >}})
+-   [Definition (Computer science)]({{< relref "queue.md#definition--computer-science" >}})

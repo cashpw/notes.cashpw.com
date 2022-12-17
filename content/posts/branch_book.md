@@ -2,7 +2,7 @@
 title = "Branch book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:50:00-07:00
-lastmod = 2022-12-17T11:06:36-08:00
+lastmod = 2022-12-17T13:36:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Seitan"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-02T15:39:00-07:00
-lastmod = 2022-12-17T11:28:41-08:00
+lastmod = 2022-12-17T14:09:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,9 +46,4 @@ Food made from gluten.
 ## Backlinks {#backlinks}
 
 -   [Node types]({{< relref "style_guide.md#node-types" >}})
--   [Wash the flour seitan]({{< relref "wash_the_flour_seitan.md" >}})
--   [Wash the flour seitan]({{< relref "wash_the_flour_seitan.md" >}})
--   [Wash the flour seitan]({{< relref "wash_the_flour_seitan.md" >}})
--   [Wash the flour seitan]({{< relref "wash_the_flour_seitan.md" >}})
--   [Wash the flour seitan]({{< relref "wash_the_flour_seitan.md" >}})
 -   [Wash the flour seitan]({{< relref "wash_the_flour_seitan.md" >}})

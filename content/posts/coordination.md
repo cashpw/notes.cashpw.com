@@ -2,7 +2,7 @@
 title = "Coordination"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-10T08:42:00-07:00
-lastmod = 2022-12-17T11:08:28-08:00
+lastmod = 2022-12-17T13:39:02-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

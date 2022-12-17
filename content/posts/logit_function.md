@@ -2,7 +2,7 @@
 title = "Logit function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:42:00-07:00
-lastmod = 2022-12-17T11:19:42-08:00
+lastmod = 2022-12-17T13:53:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Polyphasic Sleep: 40 Day Trial Results"
 author = ["Cash Prokop-Weaver"]
 date = 2021-07-11T12:15:00-07:00
-lastmod = 2022-12-17T11:24:49-08:00
+lastmod = 2022-12-17T14:03:01-08:00
 draft = false
 slug = "6a214828-bea5-47be-bac7-0f0235b0ff3c"
 +++

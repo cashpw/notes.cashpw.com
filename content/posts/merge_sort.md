@@ -2,7 +2,7 @@
 title = "Merge sort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:23:00-07:00
-lastmod = 2022-12-17T11:20:57-08:00
+lastmod = 2022-12-17T13:55:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

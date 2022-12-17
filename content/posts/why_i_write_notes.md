@@ -2,7 +2,7 @@
 title = "Why I write notes"
 author = ["Cash Weaver"]
 date = 2022-11-16T08:54:00-08:00
-lastmod = 2022-12-17T11:51:16-08:00
+lastmod = 2022-12-17T14:23:09-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

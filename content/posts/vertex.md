@@ -2,7 +2,7 @@
 title = "Vertex"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:13:00-07:00
-lastmod = 2022-12-17T11:50:15-08:00
+lastmod = 2022-12-17T14:22:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -64,8 +64,6 @@ The fundamental unit of a [Graph]({{< relref "graph.md" >}}).
 -   [Graph theory]({{< relref "graph_theory.md" >}})
 -   [Graph]({{< relref "graph.md" >}})
 -   [Tree rotation]({{< relref "tree_rotation.md" >}})
--   [Tree rotation]({{< relref "tree_rotation.md" >}})
--   [Definition (Graph theory)]({{< relref "tree_rotation.md#definition--id-5bc61709-6612-4287-921f-3e2509bd2261-graph-theory" >}})
 -   [Definition (Graph theory)]({{< relref "tree_rotation.md#definition--id-5bc61709-6612-4287-921f-3e2509bd2261-graph-theory" >}})
 -   [Tree]({{< relref "tree.md" >}})
 -   [Definition (Computer science)]({{< relref "tree.md#definition--computer-science" >}})
@@ -80,16 +78,9 @@ The fundamental unit of a [Graph]({{< relref "graph.md" >}}).
 -   [Red-black tree]({{< relref "red_black_tree.md" >}})
 -   [Depth-first search]({{< relref "depth_first_search.md" >}})
 -   [B-tree]({{< relref "b_tree.md" >}})
--   [B-tree]({{< relref "b_tree.md" >}})
--   [B-tree]({{< relref "b_tree.md" >}})
--   [B-tree]({{< relref "b_tree.md" >}})
--   [B-tree]({{< relref "b_tree.md" >}})
--   [B-tree]({{< relref "b_tree.md" >}})
--   [B-tree]({{< relref "b_tree.md" >}})
 -   [{{Inner Vertices}@0} in B-trees of order \\(m\\) have between {{\\(\lceil \frac{m}{2} \rceil\\) and \\(m\\)}@1} children]({{< relref "b_tree.md#inner-id-1b2526af-676d-4c0f-aa85-1ba05b8e7a93-vertices-0-in-id-170cf2cd-adb9-4a26-8793-1b31b2ef40c2-b-trees-of-order-m-have-between-lceil-frac-m-2-rceil-and-m-1-children" >}})
 -   [{{Vertices}@0} in B-trees with \\(k\\) children have {{\\(k-1\\)}@1} keys]({{< relref "b_tree.md#id-1b2526af-676d-4c0f-aa85-1ba05b8e7a93-vertices-0-in-id-170cf2cd-adb9-4a26-8793-1b31b2ef40c2-b-trees-with-k-children-have-k-1-1-keys" >}})
 -   [B-tree {{leaf Vertices}@0} are {{all on the same level}{level}@1}]({{< relref "b_tree.md#id-170cf2cd-adb9-4a26-8793-1b31b2ef40c2-b-tree-leaf-id-1b2526af-676d-4c0f-aa85-1ba05b8e7a93-vertices-0-are-all-on-the-same-level-level-1" >}})
 -   [The root Vertex of a B-tree has {{\\(\ge 2\\)}@0} children unless {{it's a leaf}@1}]({{< relref "b_tree.md#the-root-id-1b2526af-676d-4c0f-aa85-1ba05b8e7a93-vertex-of-a-id-170cf2cd-adb9-4a26-8793-1b31b2ef40c2-b-tree-has-ge-2-0-children-unless-it-s-a-leaf-1" >}})
--   [B-tree {{internal Vertices}@2} store {{keys}@0} and {{pointers to child Vertices}@1}]({{< relref "b_tree.md#id-170cf2cd-adb9-4a26-8793-1b31b2ef40c2-b-tree-internal-id-1b2526af-676d-4c0f-aa85-1ba05b8e7a93-vertices-2-store-keys-0-and-pointers-to-child-id-1b2526af-676d-4c0f-aa85-1ba05b8e7a93-vertices-1" >}})
 -   [B-tree {{internal Vertices}@2} store {{keys}@0} and {{pointers to child Vertices}@1}]({{< relref "b_tree.md#id-170cf2cd-adb9-4a26-8793-1b31b2ef40c2-b-tree-internal-id-1b2526af-676d-4c0f-aa85-1ba05b8e7a93-vertices-2-store-keys-0-and-pointers-to-child-id-1b2526af-676d-4c0f-aa85-1ba05b8e7a93-vertices-1" >}})
 -   [B-tree {{leaf}@0} Vertices store {{data}@1}]({{< relref "b_tree.md#id-170cf2cd-adb9-4a26-8793-1b31b2ef40c2-b-tree-leaf-0-id-1b2526af-676d-4c0f-aa85-1ba05b8e7a93-vertices-store-data-1" >}})

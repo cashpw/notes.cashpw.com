@@ -2,7 +2,7 @@
 title = "Imperfect information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2022-12-17T11:16:39-08:00
+lastmod = 2022-12-17T13:48:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Queue"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2022-12-17T11:26:00-08:00
+lastmod = 2022-12-17T14:05:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -136,5 +136,4 @@ Common API of a [Queue]({{< relref "queue.md" >}})
 ## Backlinks {#backlinks}
 
 -   [Priority queue]({{< relref "priority_queue.md" >}})
--   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})

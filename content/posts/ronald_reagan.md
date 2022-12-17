@@ -2,7 +2,7 @@
 title = "Ronald Reagan"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-11T08:23:00-08:00
-lastmod = 2022-12-17T11:27:46-08:00
+lastmod = 2022-12-17T14:07:51-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

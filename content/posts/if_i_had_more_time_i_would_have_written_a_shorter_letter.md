@@ -2,7 +2,7 @@
 title = "If I had more time, I would have written a shorter letter"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-17T11:30:00-08:00
-lastmod = 2022-12-17T11:16:25-08:00
+lastmod = 2022-12-17T13:48:21-08:00
 draft = false
 roam_refs = ["https://quoteinvestigator.com/2012/04/28/shorter-letter"]
 +++

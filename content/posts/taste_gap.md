@@ -2,7 +2,7 @@
 title = "Taste gap"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-16T14:16:00-08:00
-lastmod = 2022-12-17T11:33:13-08:00
+lastmod = 2022-12-17T14:13:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

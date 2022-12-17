@@ -2,7 +2,7 @@
 title = "Systems"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-26T19:14:00-07:00
-lastmod = 2022-12-17T11:32:50-08:00
+lastmod = 2022-12-17T14:13:36-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Evidence-based education"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-01T08:16:00-08:00
-lastmod = 2022-12-17T11:11:59-08:00
+lastmod = 2022-12-17T13:43:00-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

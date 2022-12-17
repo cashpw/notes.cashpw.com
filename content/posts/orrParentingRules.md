@@ -2,7 +2,7 @@
 title = "Dave Orr | Parenting Rules"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T18:52:00-07:00
-lastmod = 2022-12-17T11:23:31-08:00
+lastmod = 2022-12-17T14:00:28-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Explicit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:07:00-08:00
-lastmod = 2022-12-17T11:12:09-08:00
+lastmod = 2022-12-17T13:43:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -77,9 +77,7 @@ Knowledge which can be readily articulated, codified, stored, and accessed.
 
 ## Backlinks {#backlinks}
 
--   [Todos]({{< relref "todos.md" >}})
 -   [Compare and contrast]({{< relref "tacit_knowledge.md#compare-and-contrast" >}})
--   [Compare and contrast]({{< relref "tacit_knowledge.md#compare-and-contrast" >}})
--   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
 -   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
 -   [Compare and contrast]({{< relref "tellmanThoughtLeadersChickenSexers.md#compare-and-contrast" >}})
+-   [Todos]({{< relref "todos.md" >}})

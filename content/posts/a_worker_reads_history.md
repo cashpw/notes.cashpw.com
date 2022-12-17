@@ -2,7 +2,7 @@
 title = "Bertolt Brecht | A worker reads history"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T07:12:00-08:00
-lastmod = 2022-12-17T11:04:11-08:00
+lastmod = 2022-12-17T13:34:07-08:00
 tags = ["has-todo", "poem", "has-todo", "poem"]
 categories = ["has-todo", "poem"]
 draft = false

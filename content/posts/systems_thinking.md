@@ -2,7 +2,7 @@
 title = "Systems thinking"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:13:00-08:00
-lastmod = 2022-12-17T11:32:57-08:00
+lastmod = 2022-12-17T14:13:44-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

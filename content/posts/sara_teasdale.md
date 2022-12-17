@@ -2,7 +2,7 @@
 title = "Sara Teasdale"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T10:40:00-07:00
-lastmod = 2022-12-17T11:28:04-08:00
+lastmod = 2022-12-17T14:08:18-08:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false

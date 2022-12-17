@@ -2,7 +2,7 @@
 title = "Jason Fried"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:53:00-08:00
-lastmod = 2022-12-17T11:17:41-08:00
+lastmod = 2022-12-17T13:50:18-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

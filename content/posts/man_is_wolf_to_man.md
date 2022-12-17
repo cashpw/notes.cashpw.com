@@ -2,7 +2,7 @@
 title = "Man is wolf to man"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T10:48:00-07:00
-lastmod = 2022-12-17T11:19:54-08:00
+lastmod = 2022-12-17T13:53:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

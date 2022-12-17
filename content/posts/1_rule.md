@@ -2,7 +2,7 @@
 title = "1% rule"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-27T13:26:00-08:00
-lastmod = 2022-12-17T11:03:41-08:00
+lastmod = 2022-12-17T13:33:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Reasoning from first principles"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:18:00-08:00
-lastmod = 2022-12-17T11:26:58-08:00
+lastmod = 2022-12-17T14:06:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -62,5 +62,4 @@ A way of thinking which builds higher-order assertions from fundamental proven a
 
 -   [Ben Kuhn | To Listen Well, Get Curious]({{< relref "kuhnListenWellGet.md" >}})
 -   [Reasoning from analogies]({{< relref "reasoning_from_analogy.md" >}})
--   [Compare and contrast]({{< relref "reasoning_from_analogy.md#compare-and-contrast" >}})
 -   [Compare and contrast]({{< relref "reasoning_from_analogy.md#compare-and-contrast" >}})

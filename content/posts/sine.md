@@ -2,7 +2,7 @@
 title = "Sine"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T09:55:00-07:00
-lastmod = 2022-12-17T11:29:24-08:00
+lastmod = 2022-12-17T14:09:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

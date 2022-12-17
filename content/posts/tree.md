@@ -2,7 +2,7 @@
 title = "Tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:47:00-07:00
-lastmod = 2022-12-17T11:47:38-08:00
+lastmod = 2022-12-17T14:19:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,7 +58,6 @@ slug = "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
 -   [AKA (Graph Theory)]({{< relref "forest.md#aka--id-5bc61709-6612-4287-921f-3e2509bd2261-graph-theory" >}})
 -   [Heap]({{< relref "heap.md" >}})
 -   [Definition (Computer science)]({{< relref "heap.md#definition--computer-science" >}})
--   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Binary tree]({{< relref "binary_tree.md" >}})
 -   [Definition (Computer science)]({{< relref "binary_tree.md#definition--computer-science" >}})

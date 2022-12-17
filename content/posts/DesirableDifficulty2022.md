@@ -2,7 +2,7 @@
 title = "Desirable difficulty"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:03:00-08:00
-lastmod = 2022-12-17T11:03:49-08:00
+lastmod = 2022-12-17T13:33:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Art inspiration"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-08T15:58:00-08:00
-lastmod = 2022-12-17T11:05:11-08:00
+lastmod = 2022-12-17T13:35:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

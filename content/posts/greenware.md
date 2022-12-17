@@ -2,7 +2,7 @@
 title = "Greenware"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:50:00-07:00
-lastmod = 2022-12-17T11:14:50-08:00
+lastmod = 2022-12-17T13:46:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

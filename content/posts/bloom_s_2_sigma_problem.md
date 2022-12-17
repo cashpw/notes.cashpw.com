@@ -2,7 +2,7 @@
 title = "Bloom's 2 sigma problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:16:00-08:00
-lastmod = 2022-12-17T11:06:27-08:00
+lastmod = 2022-12-17T13:36:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

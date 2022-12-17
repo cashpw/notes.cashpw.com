@@ -2,7 +2,7 @@
 title = "If there is no enemy, one must be invented"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:36:00-08:00
-lastmod = 2022-12-17T11:16:27-08:00
+lastmod = 2022-12-17T13:48:24-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

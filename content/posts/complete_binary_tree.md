@@ -2,7 +2,7 @@
 title = "Complete binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T11:22:00-07:00
-lastmod = 2022-12-17T11:08:05-08:00
+lastmod = 2022-12-17T13:38:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -100,5 +100,4 @@ Also: [Balanced binary tree]({{< relref "balanced_binary_tree.md" >}})
 -   [Heap]({{< relref "heap.md" >}})
 -   [Definition (Computer science)]({{< relref "heap.md#definition--computer-science" >}})
 -   [Binary tree]({{< relref "binary_tree.md" >}})
--   [Binary heap]({{< relref "binary_heap.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})

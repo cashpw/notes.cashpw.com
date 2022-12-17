@@ -1,7 +1,7 @@
 +++
 title = "Notes on Neel Nanda, Meaningful Rest"
 author = ["Cash Prokop-Weaver"]
-lastmod = 2022-12-17T11:21:53-08:00
+lastmod = 2022-12-17T13:57:30-08:00
 tags = ["has-todo", "has-todo"]
 categories = ["has-todo"]
 draft = false

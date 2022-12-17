@@ -2,7 +2,7 @@
 title = "November 2022"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-06T08:06:00-08:00
-lastmod = 2022-12-17T11:22:53-08:00
+lastmod = 2022-12-17T13:59:21-08:00
 tags = ["has-todo", "has-todo"]
 categories = ["has-todo"]
 draft = false

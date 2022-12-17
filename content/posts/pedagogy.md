@@ -2,7 +2,7 @@
 title = "Pedagogy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T18:48:00-07:00
-lastmod = 2022-12-17T11:24:01-08:00
+lastmod = 2022-12-17T14:01:26-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

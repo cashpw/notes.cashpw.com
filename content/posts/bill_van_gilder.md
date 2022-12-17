@@ -2,7 +2,7 @@
 title = "Bill van Gilder"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:58:00-08:00
-lastmod = 2022-12-17T11:05:59-08:00
+lastmod = 2022-12-17T13:36:06-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

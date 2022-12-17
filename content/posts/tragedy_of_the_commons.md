@@ -2,7 +2,7 @@
 title = "Tragedy of the commons"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T08:05:00-07:00
-lastmod = 2022-12-17T11:47:13-08:00
+lastmod = 2022-12-17T14:19:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -66,7 +66,6 @@ A situation in which individuals who have access to a shared resource, acting in
 
 ## Backlinks {#backlinks}
 
--   [Compare/Contrast]({{< relref "moloch.md#compare-contrast" >}})
 -   [Compare/Contrast]({{< relref "moloch.md#compare-contrast" >}})
 -   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
 -   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})

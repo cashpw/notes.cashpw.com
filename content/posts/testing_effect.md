@@ -2,7 +2,7 @@
 title = "Testing effect"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:36:00-08:00
-lastmod = 2022-12-17T11:33:48-08:00
+lastmod = 2022-12-17T14:14:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -62,7 +62,6 @@ Long term memory is increased when some of the learning period is devoted to ret
 ## Backlinks {#backlinks}
 
 -   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
--   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
 -   [Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md#memory-in-educational-settings" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

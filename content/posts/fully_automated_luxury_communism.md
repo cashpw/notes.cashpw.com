@@ -2,7 +2,7 @@
 title = "Fully automated luxury communism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:32:00-07:00
-lastmod = 2022-12-17T11:13:32-08:00
+lastmod = 2022-12-17T13:44:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,7 +43,6 @@ A vision of a [Post-scarcity Society]({{< relref "post_scarcity_society.md" >}})
 
 ## Backlinks {#backlinks}
 
--   [Upstream | Fully Automated Luxury Communism]({{< relref "upstreamFullyAutomatedLuxury2022.md" >}})
 -   [Upstream | Fully Automated Luxury Communism]({{< relref "upstreamFullyAutomatedLuxury2022.md" >}})
 -   [The acquisition of wealth is no longer the driving force in our lives]({{< relref "the_acquisition_of_wealth_is_no_longer_the_driving_force_in_our_lives.md" >}})
 -   [The challenge is to improve yourself]({{< relref "the_challenge_is_to_improve_yourself.md" >}})

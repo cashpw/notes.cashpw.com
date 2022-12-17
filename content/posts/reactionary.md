@@ -2,7 +2,7 @@
 title = "Reactionary"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:19:00-08:00
-lastmod = 2022-12-17T11:26:37-08:00
+lastmod = 2022-12-17T14:06:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

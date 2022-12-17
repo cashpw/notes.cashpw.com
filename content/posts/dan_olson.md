@@ -2,7 +2,7 @@
 title = "Dan Olson"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:27:00-08:00
-lastmod = 2022-12-17T11:08:49-08:00
+lastmod = 2022-12-17T13:39:28-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

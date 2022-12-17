@@ -2,7 +2,7 @@
 title = "Scott Alexander"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:44:00-08:00
-lastmod = 2022-12-17T11:28:21-08:00
+lastmod = 2022-12-17T14:08:45-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,7 +21,6 @@ Author of [Slate Star Codex](https://slatestarcodex.com/) and [Astral Star Codex
 -   [Scott Alexander | Book Review: The Seven Principles For Making Marriage Work]({{< relref "alexanderBookReviewSevenPrinciplesMakingMarriageWork2020.md" >}})
 -   [Scott Alexander | I Can Tolerate Anything Except The Outgroup]({{< relref "alexanderCanTolerateAnythingOutgroup2014.md" >}})
 -   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
--   [Scott Alexander | Socratic Grilling]({{< relref "alexanderSocraticGrilling2020.md" >}})
 -   [Scott Alexander | Socratic Grilling]({{< relref "alexanderSocraticGrilling2020.md" >}})
 -   [Scott Alexander | For, Then Against, High-Saturated-Fat Diets]({{< relref "alexanderThenHighSaturatedFatDiets2020.md" >}})
 -   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})

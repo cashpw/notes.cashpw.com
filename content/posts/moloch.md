@@ -2,7 +2,7 @@
 title = "Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:24:00-07:00
-lastmod = 2022-12-17T11:21:34-08:00
+lastmod = 2022-12-17T13:56:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -103,7 +103,6 @@ Systems which compel the individuals within them to race to the bottom; to choos
 -   [We live in a society]({{< relref "we_live_in_a_society.md" >}})
 -   [Capitalism]({{< relref "capitalism.md" >}})
 -   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
--   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
 -   [Describe]({{< relref "the_opposite_of_a_trap_is_a_garden.md#describe" >}})
 -   [Describe]({{< relref "ginsbergHowl2022.md#describe" >}})
 -   [Example(s)]({{< relref "tragedy_of_the_commons.md#example--s" >}})
@@ -118,5 +117,5 @@ Systems which compel the individuals within them to race to the bottom; to choos
 -   [Describe]({{< relref "alexanderMeditationsMoloch2014.md#describe" >}})
 -   [Describe]({{< relref "alexanderMeditationsMoloch2014.md#describe" >}})
 -   [Programming as a tool to make things]({{< relref "gentleTribesProgramming2017.md#programming-as-a-tool-to-make-things" >}})
--   [Todos]({{< relref "todos.md" >}})
 -   [Dark forest theory]({{< relref "dark_forest_theory.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

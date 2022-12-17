@@ -2,7 +2,7 @@
 title = "Fait accompli"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-07T09:35:00-08:00
-lastmod = 2022-12-17T11:03:52-08:00
+lastmod = 2022-12-17T13:33:49-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

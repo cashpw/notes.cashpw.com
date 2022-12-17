@@ -2,7 +2,7 @@
 title = "Give the right answers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:04:00-08:00
-lastmod = 2022-12-17T11:05:13-08:00
+lastmod = 2022-12-17T13:35:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -75,5 +75,4 @@ A [Play to Win]({{< relref "play_to_win.md" >}}) strategy which employs question
 
 ## Backlinks {#backlinks}
 
--   [Tom Limoncelli | The Right Answer]({{< relref "limoncelliRightAnswer.md" >}})
 -   [Tom Limoncelli | The Right Answer]({{< relref "limoncelliRightAnswer.md" >}})

@@ -2,7 +2,7 @@
 title = "Stack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T20:24:00-07:00
-lastmod = 2022-12-17T11:31:04-08:00
+lastmod = 2022-12-17T14:11:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -90,9 +90,7 @@ A collection of elements, maintained in [Last in, first out]({{< relref "first_i
 
 ## Backlinks {#backlinks}
 
--   [Compare/Contrast]({{< relref "queue.md#compare-contrast" >}})
--   [Compare/Contrast]({{< relref "queue.md#compare-contrast" >}})
--   [A {{Queue}@0} is the opposite of a {{Stack}@1}]({{< relref "queue.md#a-id-f7ca3e99-0356-4651-996e-542a11d67f50-queue-0-is-the-opposite-of-a-id-5ab783c7-9a13-42d2-920d-95f103ac677c-stack-1" >}})
--   [A {{Queue}@0} is the opposite of a {{Stack}@1}]({{< relref "queue.md#a-id-f7ca3e99-0356-4651-996e-542a11d67f50-queue-0-is-the-opposite-of-a-id-5ab783c7-9a13-42d2-920d-95f103ac677c-stack-1" >}})
 -   [Describe]({{< relref "depth_first_search.md" >}})
 -   [The iterative version of Depth-first search uses a {{Stack}@0}]({{< relref "depth_first_search.md" >}})
+-   [Compare/Contrast]({{< relref "queue.md#compare-contrast" >}})
+-   [A {{Queue}@0} is the opposite of a {{Stack}@1}]({{< relref "queue.md#a-id-f7ca3e99-0356-4651-996e-542a11d67f50-queue-0-is-the-opposite-of-a-id-5ab783c7-9a13-42d2-920d-95f103ac677c-stack-1" >}})

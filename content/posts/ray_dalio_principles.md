@@ -2,7 +2,7 @@
 title = "Ray Dalio | Principles"
 author = ["Cash Weaver"]
 date = 2022-11-25T07:25:00-08:00
-lastmod = 2022-12-17T11:26:32-08:00
+lastmod = 2022-12-17T14:05:58-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Footnote to Howl"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T08:54:00-07:00
-lastmod = 2022-12-17T11:12:57-08:00
+lastmod = 2022-12-17T13:44:06-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false

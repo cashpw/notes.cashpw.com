@@ -2,7 +2,7 @@
 title = "Greatness is a transitory experience"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:44:00-08:00
-lastmod = 2022-12-17T11:14:41-08:00
+lastmod = 2022-12-17T13:45:56-08:00
 tags = ["has-todo", "quote", "has-todo", "quote"]
 categories = ["has-todo", "quote"]
 draft = false

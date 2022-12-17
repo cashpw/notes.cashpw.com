@@ -2,7 +2,7 @@
 title = "Julian Shapiro | Creativity Faucet: How to Be More Creative"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-26T09:24:00-07:00
-lastmod = 2022-12-17T11:08:37-08:00
+lastmod = 2022-12-17T13:39:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

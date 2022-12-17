@@ -2,7 +2,7 @@
 title = "Eliezer Yudkowsky | Politics Is the Mind-Killer"
 author = ["Cash Weaver"]
 date = 2022-12-05T17:15:00-08:00
-lastmod = 2022-12-17T11:11:32-08:00
+lastmod = 2022-12-17T13:42:29-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

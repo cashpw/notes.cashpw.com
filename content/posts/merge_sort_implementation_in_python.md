@@ -2,7 +2,7 @@
 title = "Merge sort implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:44:00-07:00
-lastmod = 2022-12-17T11:21:01-08:00
+lastmod = 2022-12-17T13:55:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

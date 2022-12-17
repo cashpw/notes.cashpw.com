@@ -2,7 +2,7 @@
 title = "Pure functions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T14:54:00-07:00
-lastmod = 2022-12-17T11:25:40-08:00
+lastmod = 2022-12-17T14:04:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -64,6 +64,4 @@ A function in computer programming which (1) has no side effects and (2) is dete
 ## Backlinks {#backlinks}
 
 -   [Brandon Smith | Write Code. Not Too Much. Mostly Functions.]({{< relref "brandon_smith_write_code_not_too_much_mostly_functions.md" >}})
--   [Brandon Smith | Write Code. Not Too Much. Mostly Functions.]({{< relref "brandon_smith_write_code_not_too_much_mostly_functions.md" >}})
--   [Todos]({{< relref "todos.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

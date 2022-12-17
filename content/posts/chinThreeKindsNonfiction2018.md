@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Three Kinds of Non-Fiction Books"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:36:00-08:00
-lastmod = 2022-12-17T11:07:37-08:00
+lastmod = 2022-12-17T13:37:58-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

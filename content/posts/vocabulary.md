@@ -2,7 +2,7 @@
 title = "Vocabulary"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-15T10:24:00-08:00
-lastmod = 2022-12-17T11:50:26-08:00
+lastmod = 2022-12-17T14:22:25-08:00
 tags = ["has-todo", "has-todo"]
 categories = ["has-todo"]
 draft = false

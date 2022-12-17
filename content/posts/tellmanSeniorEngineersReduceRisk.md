@@ -2,7 +2,7 @@
 title = "Zach Tellman | Senior Engineers Reduce Risk"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T19:25:00-08:00
-lastmod = 2022-12-17T11:33:33-08:00
+lastmod = 2022-12-17T14:14:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

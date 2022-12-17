@@ -2,7 +2,7 @@
 title = "Season a cast iron skillet"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T18:51:00-07:00
-lastmod = 2022-12-17T11:28:24-08:00
+lastmod = 2022-12-17T14:08:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

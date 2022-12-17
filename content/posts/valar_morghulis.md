@@ -2,7 +2,7 @@
 title = "Valar morghulis"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:01:00-07:00
-lastmod = 2022-12-17T11:49:43-08:00
+lastmod = 2022-12-17T14:21:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

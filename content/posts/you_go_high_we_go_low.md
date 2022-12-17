@@ -2,7 +2,7 @@
 title = "You go high, we go low"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:05:00-07:00
-lastmod = 2022-12-17T11:52:14-08:00
+lastmod = 2022-12-17T14:24:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

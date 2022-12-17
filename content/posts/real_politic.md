@@ -2,7 +2,7 @@
 title = "Realpolitik"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T11:20:00-07:00
-lastmod = 2022-12-17T11:26:51-08:00
+lastmod = 2022-12-17T14:06:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,7 +48,6 @@ Informally: A pejorative used to signal the public-facing rationale for a politi
 ## Backlinks {#backlinks}
 
 -   [The game]({{< relref "the_game.md" >}})
--   [Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater]({{< relref "citationsneededNewsBriefBiden2022.md" >}})
 -   [Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater]({{< relref "citationsneededNewsBriefBiden2022.md" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
 -   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})

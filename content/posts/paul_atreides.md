@@ -2,7 +2,7 @@
 title = "Paul Atreides"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T10:22:00-07:00
-lastmod = 2022-12-17T11:23:51-08:00
+lastmod = 2022-12-17T14:01:08-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

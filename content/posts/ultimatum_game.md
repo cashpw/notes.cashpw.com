@@ -2,7 +2,7 @@
 title = "Ultimatum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:51:00-07:00
-lastmod = 2022-12-17T11:48:24-08:00
+lastmod = 2022-12-17T14:20:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,7 +49,6 @@ A two-player game in which the first player makes a proposal which the second pl
 
 -   [Dictator game]({{< relref "dictator_game.md" >}})
 -   [The {{Dictator game}@0} is a derivative of the {{Ultimatum game}@1}]({{< relref "dictator_game.md#the-id-4c05e5da-c14c-45b8-9284-af1dda8dd3a6-dictator-game-0-is-a-derivative-of-the-id-d88f63c9-296b-4b0c-9757-00cc1e891e16-ultimatum-game-1" >}})
--   [Compare/Contrast]({{< relref "dictator_game.md#compare-contrast" >}})
 -   [Compare/Contrast]({{< relref "dictator_game.md#compare-contrast" >}})
 -   [Asymmetric game]({{< relref "asymmetric_game.md" >}})
 -   [Example(s)]({{< relref "asymmetric_game.md#example--s" >}})

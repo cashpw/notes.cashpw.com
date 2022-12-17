@@ -2,7 +2,7 @@
 title = "John Green"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:46:00-08:00
-lastmod = 2022-12-17T11:17:54-08:00
+lastmod = 2022-12-17T13:50:39-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

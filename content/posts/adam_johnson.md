@@ -2,7 +2,7 @@
 title = "Adam Johnson"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T11:12:00-07:00
-lastmod = 2022-12-17T11:04:15-08:00
+lastmod = 2022-12-17T13:34:12-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

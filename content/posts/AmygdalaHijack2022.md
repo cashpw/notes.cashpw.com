@@ -2,7 +2,7 @@
 title = "Amygdala hijack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T09:56:00-07:00
-lastmod = 2022-12-17T11:03:42-08:00
+lastmod = 2022-12-17T13:33:39-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

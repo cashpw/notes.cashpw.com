@@ -2,7 +2,7 @@
 title = "Scott Alexander | Book Review: The Seven Principles For Making Marriage Work"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:43:00-08:00
-lastmod = 2022-12-17T11:04:26-08:00
+lastmod = 2022-12-17T13:34:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

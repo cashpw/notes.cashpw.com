@@ -2,7 +2,7 @@
 title = "Comparative advantage"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T16:48:00-07:00
-lastmod = 2022-12-17T11:08:00-08:00
+lastmod = 2022-12-17T13:38:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

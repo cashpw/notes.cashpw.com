@@ -2,7 +2,7 @@
 title = "Emily Dickinson"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-28T21:13:00-07:00
-lastmod = 2022-12-17T11:11:50-08:00
+lastmod = 2022-12-17T13:42:50-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

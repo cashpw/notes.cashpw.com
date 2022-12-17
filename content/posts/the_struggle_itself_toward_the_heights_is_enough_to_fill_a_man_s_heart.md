@@ -2,7 +2,7 @@
 title = "The struggle itself toward the heights is enough to fill a man's heart"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T12:34:00-07:00
-lastmod = 2022-12-17T11:35:26-08:00
+lastmod = 2022-12-17T14:16:44-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

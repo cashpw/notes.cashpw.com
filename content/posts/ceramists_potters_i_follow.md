@@ -2,7 +2,7 @@
 title = "Ceramists I follow"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T22:39:00-08:00
-lastmod = 2022-12-17T11:07:24-08:00
+lastmod = 2022-12-17T13:37:43-08:00
 draft = false
 slug = "c73727bd-7ed8-4c50-bd08-524ebb2afbea"
 +++

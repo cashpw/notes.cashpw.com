@@ -2,7 +2,7 @@
 title = "Citar"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T08:38:00-08:00
-lastmod = 2022-12-17T11:07:43-08:00
+lastmod = 2022-12-17T13:38:05-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Scott Alexander | Should You Reverse Any Advice You Hear?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:31:00-08:00
-lastmod = 2022-12-17T11:04:31-08:00
+lastmod = 2022-12-17T13:34:28-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

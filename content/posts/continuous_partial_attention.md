@@ -2,7 +2,7 @@
 title = "Continuous partial attention"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T14:46:00-08:00
-lastmod = 2022-12-17T12:03:55-08:00
+lastmod = 2022-12-17T13:38:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,5 +45,5 @@ Multi-tasking and [Continuous partial attention]({{< relref "continuous_partial_
 
 ## Backlinks {#backlinks}
 
--   [Todos]({{< relref "todos.md" >}})
 -   [Attention economy]({{< relref "attention_capital_theory.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

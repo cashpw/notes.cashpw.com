@@ -2,7 +2,7 @@
 title = "Hunger stone"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T09:05:00-07:00
-lastmod = 2022-12-17T11:16:06-08:00
+lastmod = 2022-12-17T13:47:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

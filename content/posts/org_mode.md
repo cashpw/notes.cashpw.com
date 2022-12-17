@@ -2,7 +2,7 @@
 title = "Org mode"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:41:00-08:00
-lastmod = 2022-12-17T11:23:19-08:00
+lastmod = 2022-12-17T14:00:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

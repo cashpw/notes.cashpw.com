@@ -2,7 +2,7 @@
 title = "David Foster Wallace | This Is Water"
 author = ["Cash Weaver"]
 date = 2022-11-23T10:56:00-08:00
-lastmod = 2022-12-17T11:09:38-08:00
+lastmod = 2022-12-17T13:40:20-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

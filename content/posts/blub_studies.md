@@ -2,7 +2,7 @@
 title = "Blub studies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T05:09:00-08:00
-lastmod = 2022-12-17T11:06:29-08:00
+lastmod = 2022-12-17T13:36:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -71,6 +71,5 @@ The study of the nitty-gritty in boring, everyday systems -- the kind that peopl
 
 ## Backlinks {#backlinks}
 
--   [Ben Kuhn | In Defense of Blub Studies]({{< relref "kuhnDefenseBlubStudies.md" >}})
 -   [Ben Kuhn | In Defense of Blub Studies]({{< relref "kuhnDefenseBlubStudies.md" >}})
 -   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})

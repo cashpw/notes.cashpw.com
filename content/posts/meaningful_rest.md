@@ -2,7 +2,7 @@
 title = "Meaningful rest"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:53:00-07:00
-lastmod = 2022-12-17T11:20:41-08:00
+lastmod = 2022-12-17T13:55:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -92,5 +92,4 @@ A type of rest which rejuvenates the individual.
 
 ## Backlinks {#backlinks}
 
--   [Neel Nanda | Post 29: Meaningful Rest]({{< relref "neel_nanda_post_29_meaningful_rest.md" >}})
 -   [Neel Nanda | Post 29: Meaningful Rest]({{< relref "neel_nanda_post_29_meaningful_rest.md" >}})

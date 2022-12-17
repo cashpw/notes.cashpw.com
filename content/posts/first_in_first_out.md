@@ -2,7 +2,7 @@
 title = "First in, first out"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-07T06:52:00-07:00
-lastmod = 2022-12-17T11:12:31-08:00
+lastmod = 2022-12-17T13:43:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,9 +28,6 @@ Related: [Last in, first out]({{< relref "first_in_last_out.md" >}})
 ## Backlinks {#backlinks}
 
 -   [Last in, first out]({{< relref "first_in_last_out.md" >}})
--   [Last in, first out]({{< relref "first_in_last_out.md" >}})
--   [Queue]({{< relref "queue.md" >}})
--   [Queue]({{< relref "queue.md" >}})
 -   [Queue]({{< relref "queue.md" >}})
 -   [A Queue follows {{First in, first out}{ordering}@1}]({{< relref "queue.md#a-id-f7ca3e99-0356-4651-996e-542a11d67f50-queue-follows-id-dfa2ce8d-63c1-44ad-a16f-52777f4abbac-first-in-first-out-ordering-1" >}})
 -   [Compare/Contrast]({{< relref "queue.md#compare-contrast" >}})

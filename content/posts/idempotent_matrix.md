@@ -2,7 +2,7 @@
 title = "Idempotent matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:11:00-07:00
-lastmod = 2022-12-17T11:16:15-08:00
+lastmod = 2022-12-17T13:48:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

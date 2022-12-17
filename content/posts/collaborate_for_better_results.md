@@ -2,7 +2,7 @@
 title = "Collaborate for better results"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T09:14:00-07:00
-lastmod = 2022-12-17T11:07:56-08:00
+lastmod = 2022-12-17T13:38:22-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

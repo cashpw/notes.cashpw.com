@@ -2,7 +2,7 @@
 title = "Michael Seibel | Three Paths in the Tech Industry: Founder, Executive, or Employee"
 author = ["Cash Prokop-Weaver"]
 date = 2021-11-27T07:00:00-08:00
-lastmod = 2022-12-17T11:46:42-08:00
+lastmod = 2022-12-17T14:18:09-08:00
 draft = true
 slug = "548362c8-b5a6-4d50-b459-543d321e49b6"
 +++

@@ -2,7 +2,7 @@
 title = "Reverse cargo cult"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-23T15:45:00-07:00
-lastmod = 2022-12-17T11:27:34-08:00
+lastmod = 2022-12-17T14:07:31-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Ian Danskin | Never Play Defense"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T17:23:00-07:00
-lastmod = 2022-12-17T11:09:13-08:00
+lastmod = 2022-12-17T13:39:55-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

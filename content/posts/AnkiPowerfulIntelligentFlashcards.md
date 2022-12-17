@@ -2,7 +2,7 @@
 title = "Anki"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T13:08:00-08:00
-lastmod = 2022-12-17T11:03:43-08:00
+lastmod = 2022-12-17T13:33:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,5 +30,5 @@ A software solution for [spaced repetition]({{< relref "spaced_repetition.md" >}
 -   [Do things that compound]({{< relref "do_things_that_compound.md" >}})
 -   [Custom Anki Notes]({{< relref "custom_anki_notes.md" >}})
 -   [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
--   [Todos]({{< relref "todos.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

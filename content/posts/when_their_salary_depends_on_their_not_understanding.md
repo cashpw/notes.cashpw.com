@@ -2,7 +2,7 @@
 title = "When their salary depends on their not understanding"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-14T06:59:00-08:00
-lastmod = 2022-12-17T11:51:07-08:00
+lastmod = 2022-12-17T14:23:02-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

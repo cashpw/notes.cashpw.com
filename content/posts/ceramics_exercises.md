@@ -2,7 +2,7 @@
 title = "Ceramics Exercises"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-10T19:13:00-08:00
-lastmod = 2022-12-17T11:07:21-08:00
+lastmod = 2022-12-17T13:37:38-08:00
 draft = false
 slug = "a500c749-aab9-4150-876f-6f40c76bba35"
 +++

@@ -2,7 +2,7 @@
 title = "Florian Gadsby | How I Recycle My Stoneware Pottery Reclaim"
 author = ["Cash Weaver"]
 date = 2022-12-15T09:27:00-08:00
-lastmod = 2022-12-17T11:12:51-08:00
+lastmod = 2022-12-17T13:43:58-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Derivative (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:21:00-08:00
-lastmod = 2022-12-17T11:10:11-08:00
+lastmod = 2022-12-17T13:40:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,6 +46,5 @@ A contract which is valued based on the performance of an underlying entity.
 ## Backlinks {#backlinks}
 
 -   [Put option]({{< relref "put_option.md" >}})
--   [Describe]({{< relref "vega_finance.md#describe" >}})
 -   [Describe]({{< relref "vega_finance.md#describe" >}})
 -   [Definition]({{< relref "theta_finance.md#definition" >}})

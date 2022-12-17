@@ -2,7 +2,7 @@
 title = "Iterative deepening depth-first-search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T18:09:00-07:00
-lastmod = 2022-12-17T11:17:25-08:00
+lastmod = 2022-12-17T13:49:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

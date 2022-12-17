@@ -2,7 +2,7 @@
 title = "Non-cooperative game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2022-12-17T11:22:36-08:00
+lastmod = 2022-12-17T13:58:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,5 +48,4 @@ A game with competition between individual players and in which alliances must b
 ## Backlinks {#backlinks}
 
 -   [Cooperative game]({{< relref "cooperative_game.md" >}})
--   [Compare/Contrast]({{< relref "cooperative_game.md#compare-contrast" >}})
 -   [Compare/Contrast]({{< relref "cooperative_game.md#compare-contrast" >}})

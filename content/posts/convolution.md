@@ -2,7 +2,7 @@
 title = "Convolution"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:31:00-07:00
-lastmod = 2022-12-17T11:08:20-08:00
+lastmod = 2022-12-17T13:38:52-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

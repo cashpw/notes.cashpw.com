@@ -2,7 +2,7 @@
 title = "There should be a science of discontent"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T10:22:00-07:00
-lastmod = 2022-12-17T11:35:49-08:00
+lastmod = 2022-12-17T14:17:10-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

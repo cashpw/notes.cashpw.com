@@ -2,7 +2,7 @@
 title = "Use short, descriptive, link text"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-08T15:26:00-08:00
-lastmod = 2022-12-17T11:49:11-08:00
+lastmod = 2022-12-17T14:21:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

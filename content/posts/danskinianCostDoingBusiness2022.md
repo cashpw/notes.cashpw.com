@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Cost of Doing Business"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-26T19:06:00-07:00
-lastmod = 2022-12-17T11:09:23-08:00
+lastmod = 2022-12-17T13:40:06-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

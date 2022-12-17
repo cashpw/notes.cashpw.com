@@ -2,7 +2,7 @@
 title = "Karl Marx"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-02T08:34:00-08:00
-lastmod = 2022-12-17T11:18:16-08:00
+lastmod = 2022-12-17T13:51:15-08:00
 tags = ["has-todo", "quote", "has-todo", "quote"]
 categories = ["has-todo", "quote"]
 draft = false

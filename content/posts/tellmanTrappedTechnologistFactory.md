@@ -2,7 +2,7 @@
 title = "Zach Tellman | Trapped in the Technologist Factory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-19T09:32:00-08:00
-lastmod = 2022-12-17T11:33:44-08:00
+lastmod = 2022-12-17T14:14:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

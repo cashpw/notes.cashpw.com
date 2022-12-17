@@ -2,7 +2,7 @@
 title = "Literate programming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T14:41:00-07:00
-lastmod = 2022-12-17T11:19:37-08:00
+lastmod = 2022-12-17T13:53:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

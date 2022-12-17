@@ -2,7 +2,7 @@
 title = "Connected relationship"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:11:00-07:00
-lastmod = 2022-12-17T11:31:54-08:00
+lastmod = 2022-12-17T14:12:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

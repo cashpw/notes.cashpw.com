@@ -2,7 +2,7 @@
 title = "Mainstreaming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:10:00-07:00
-lastmod = 2022-12-17T11:19:49-08:00
+lastmod = 2022-12-17T13:53:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -65,5 +65,4 @@ The process by which a group or idea from the fringes moves toward the center.
 
 ## Backlinks {#backlinks}
 
--   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})
 -   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})

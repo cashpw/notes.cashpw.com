@@ -2,7 +2,7 @@
 title = "John Allspaw"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:31:00-08:00
-lastmod = 2022-12-17T11:17:50-08:00
+lastmod = 2022-12-17T13:50:34-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -19,5 +19,4 @@ Among other things:
 
 ## Backlinks {#backlinks}
 
--   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})
 -   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})

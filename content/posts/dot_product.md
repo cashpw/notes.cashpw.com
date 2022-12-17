@@ -2,7 +2,7 @@
 title = "Dot product"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T11:41:00-07:00
-lastmod = 2022-12-17T11:10:57-08:00
+lastmod = 2022-12-17T13:41:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

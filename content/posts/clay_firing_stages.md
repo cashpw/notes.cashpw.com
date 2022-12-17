@@ -2,7 +2,7 @@
 title = "Clay firing stages"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:49:00-07:00
-lastmod = 2022-12-17T11:07:49-08:00
+lastmod = 2022-12-17T13:38:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

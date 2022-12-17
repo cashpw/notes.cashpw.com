@@ -2,7 +2,7 @@
 title = "The Riddle of Strider"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T11:22:00-07:00
-lastmod = 2022-12-17T11:35:13-08:00
+lastmod = 2022-12-17T14:16:32-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false

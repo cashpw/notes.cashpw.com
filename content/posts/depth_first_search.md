@@ -2,7 +2,7 @@
 title = "Depth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:36:00-07:00
-lastmod = 2022-12-17T11:10:03-08:00
+lastmod = 2022-12-17T13:40:47-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -223,9 +223,6 @@ TODO
 
 ## Backlinks {#backlinks}
 
--   [Compare and contrast: Breadth-first search and Depth-first search]({{< relref "breadth_first_search.md#compare-and-contrast-id-cff4f06c-6179-423d-aa1d-ba54d85615e2-breadth-first-search-and-id-81c88eaa-3ec9-486c-bcdf-457dd40b4eba-depth-first-search" >}})
--   [Compare and contrast: Breadth-first search and Depth-first search]({{< relref "breadth_first_search.md#compare-and-contrast-id-cff4f06c-6179-423d-aa1d-ba54d85615e2-breadth-first-search-and-id-81c88eaa-3ec9-486c-bcdf-457dd40b4eba-depth-first-search" >}})
--   [Compare and contrast: Breadth-first search and Depth-first search]({{< relref "breadth_first_search.md#compare-and-contrast-id-cff4f06c-6179-423d-aa1d-ba54d85615e2-breadth-first-search-and-id-81c88eaa-3ec9-486c-bcdf-457dd40b4eba-depth-first-search" >}})
 -   [Compare and contrast: Breadth-first search and Depth-first search]({{< relref "breadth_first_search.md#compare-and-contrast-id-cff4f06c-6179-423d-aa1d-ba54d85615e2-breadth-first-search-and-id-81c88eaa-3ec9-486c-bcdf-457dd40b4eba-depth-first-search" >}})
 -   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 -   [{{Iterative deepening depth-first-search}@1} is {{optimal}@0}, unlike Depth-first search]({{< relref "iterative_deepening_depth_first_search.md#id-0ad51c11-995b-4437-a218-82df11697f7a-iterative-deepening-depth-first-search-1-is-optimal-0-unlike-id-81c88eaa-3ec9-486c-bcdf-457dd40b4eba-depth-first-search" >}})

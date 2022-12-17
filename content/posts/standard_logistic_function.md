@@ -2,7 +2,7 @@
 title = "Logistic function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:11:00-08:00
-lastmod = 2022-12-17T11:31:23-08:00
+lastmod = 2022-12-17T14:12:04-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

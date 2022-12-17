@@ -2,7 +2,7 @@
 title = "Game theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T07:02:00-07:00
-lastmod = 2022-12-17T11:13:45-08:00
+lastmod = 2022-12-17T13:44:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -62,7 +62,6 @@ Study of mathematical models of strategic interactions among rational agents.
 -   [Definition (Game theory)]({{< relref "non_zero_sum_game.md#definition--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
 -   [Example(s)]({{< relref "stag_hunt.md#example--s" >}})
 -   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
--   [Describe (Game theory)]({{< relref "prisoner_s_dilemma.md#describe--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
 -   [Describe (Game theory)]({{< relref "prisoner_s_dilemma.md#describe--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
 -   [Imperfect information]({{< relref "imperfect_information.md" >}})
 -   [Asymmetric game]({{< relref "asymmetric_game.md" >}})

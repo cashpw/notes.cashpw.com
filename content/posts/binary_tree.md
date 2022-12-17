@@ -2,7 +2,7 @@
 title = "Binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-12-17T11:06:15-08:00
+lastmod = 2022-12-17T13:36:23-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -115,7 +115,6 @@ A [Tree]({{< relref "tree.md" >}}) [Data structure]({{< relref "data_structures.
 -   [Describe]({{< relref "tree_rotation.md#describe" >}})
 -   [Definition (Computer science)]({{< relref "perfect_binary_tree.md#definition--computer-science" >}})
 -   [Height-balanced binary tree]({{< relref "height_balanced_binary_tree.md" >}})
--   [Definition (Binary tree)]({{< relref "height_balanced_binary_tree.md#definition--id-323bf406-41e6-4e5f-9be6-689e1055b118-binary-tree" >}})
 -   [Definition (Binary tree)]({{< relref "height_balanced_binary_tree.md#definition--id-323bf406-41e6-4e5f-9be6-689e1055b118-binary-tree" >}})
 -   [Definition (Computer science)]({{< relref "complete_binary_tree.md#definition--computer-science" >}})
 -   [Definition (Computer science)]({{< relref "balanced_binary_tree.md#definition--computer-science" >}})

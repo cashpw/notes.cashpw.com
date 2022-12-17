@@ -2,7 +2,7 @@
 title = "This is extremely dangerous to our democracy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T08:37:00-08:00
-lastmod = 2022-12-17T11:36:13-08:00
+lastmod = 2022-12-17T14:17:32-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

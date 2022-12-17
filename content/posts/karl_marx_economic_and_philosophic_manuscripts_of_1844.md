@@ -2,7 +2,7 @@
 title = "Karl Marx | Economic and Philosophic Manuscripts of 1844"
 author = ["Cash Weaver"]
 date = 2022-12-02T08:34:00-08:00
-lastmod = 2022-12-17T11:18:19-08:00
+lastmod = 2022-12-17T13:51:19-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

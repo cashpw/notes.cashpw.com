@@ -2,7 +2,7 @@
 title = "Symmetric game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2022-12-17T11:32:29-08:00
+lastmod = 2022-12-17T14:13:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

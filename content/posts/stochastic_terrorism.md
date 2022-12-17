@@ -2,7 +2,7 @@
 title = "Stochastic terrorism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-25T09:42:00-07:00
-lastmod = 2022-12-17T11:31:36-08:00
+lastmod = 2022-12-17T14:12:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

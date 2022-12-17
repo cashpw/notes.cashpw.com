@@ -2,7 +2,7 @@
 title = "Tangent (Trigonometry)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T10:46:00-07:00
-lastmod = 2022-12-17T11:33:09-08:00
+lastmod = 2022-12-17T14:13:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Goals for 2021"
 author = ["Cash Prokop-Weaver"]
 date = 2021-01-02T13:04:00-08:00
-lastmod = 2022-12-17T11:14:16-08:00
+lastmod = 2022-12-17T13:45:31-08:00
 draft = false
 slug = "60abd5dd-30f8-482c-8de7-421e25ed847e"
 +++
@@ -31,5 +31,4 @@ These are vague goals, in no particular order, for myself in 2021. I think it wo
 
 ## Backlinks {#backlinks}
 
--   [Goals for 2022]({{< relref "goals_for_2022.md" >}})
 -   [Goals for 2022]({{< relref "goals_for_2022.md" >}})

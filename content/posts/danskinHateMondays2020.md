@@ -2,7 +2,7 @@
 title = "Ian Danskin | I Hate Mondays"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:29:00-07:00
-lastmod = 2022-12-17T11:09:06-08:00
+lastmod = 2022-12-17T13:39:48-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

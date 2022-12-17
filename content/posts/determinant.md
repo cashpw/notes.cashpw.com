@@ -2,7 +2,7 @@
 title = "Determinant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-29T07:35:00-07:00
-lastmod = 2022-12-17T11:10:16-08:00
+lastmod = 2022-12-17T13:41:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

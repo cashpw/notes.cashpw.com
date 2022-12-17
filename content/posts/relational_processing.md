@@ -2,7 +2,7 @@
 title = "Relational processing"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:44:00-08:00
-lastmod = 2022-12-17T11:27:22-08:00
+lastmod = 2022-12-17T14:07:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -72,6 +72,5 @@ A studying/learning technique in which one emphasizes the relationships between 
 ## Backlinks {#backlinks}
 
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
--   [Compare and contrast]({{< relref "item_specific_processing.md#compare-and-contrast" >}})
 -   [Compare and contrast]({{< relref "item_specific_processing.md#compare-and-contrast" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

@@ -2,7 +2,7 @@
 title = "Mnemonic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-04T17:38:00-07:00
-lastmod = 2022-12-17T11:21:26-08:00
+lastmod = 2022-12-17T13:56:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

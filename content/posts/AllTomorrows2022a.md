@@ -2,7 +2,7 @@
 title = "C. M. Kosemen | All Tomorrows"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T15:06:00-08:00
-lastmod = 2022-12-17T11:03:42-08:00
+lastmod = 2022-12-17T13:33:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

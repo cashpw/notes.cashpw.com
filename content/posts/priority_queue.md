@@ -2,7 +2,7 @@
 title = "Priority queue"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2022-12-17T11:25:19-08:00
+lastmod = 2022-12-17T14:04:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -66,6 +66,6 @@ An [Abstract data type]({{< relref "abstract_data_type.md" >}}) which maintains 
 ## Backlinks {#backlinks}
 
 -   [Heap]({{< relref "heap.md" >}})
--   [Queue]({{< relref "queue.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
 -   [{{Binary heaps}@0} are a common way of implementing {{Priority queues}@1}]({{< relref "binary_heap.md#id-a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad-binary-heaps-0-are-a-common-way-of-implementing-id-6f787120-13bb-405a-bfca-060df6d80b14-priority-queues-1" >}})
+-   [Queue]({{< relref "queue.md" >}})

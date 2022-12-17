@@ -2,7 +2,7 @@
 title = "The periphery is where the future reveals itself"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-14T09:42:00-08:00
-lastmod = 2022-12-17T11:35:00-08:00
+lastmod = 2022-12-17T14:16:22-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

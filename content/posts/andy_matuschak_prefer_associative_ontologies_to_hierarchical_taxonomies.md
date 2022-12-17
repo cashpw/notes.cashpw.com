@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Prefer Associative Ontologies to Hierarchical Taxonomies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:38:00-08:00
-lastmod = 2022-12-17T11:04:55-08:00
+lastmod = 2022-12-17T13:34:55-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Sequential game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:47:00-07:00
-lastmod = 2022-12-17T11:28:56-08:00
+lastmod = 2022-12-17T14:09:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "org-noter"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T08:34:00-08:00
-lastmod = 2022-12-17T11:23:21-08:00
+lastmod = 2022-12-17T14:00:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

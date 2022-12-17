@@ -2,7 +2,7 @@
 title = "Complete information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-22T15:56:00-07:00
-lastmod = 2022-12-17T11:08:07-08:00
+lastmod = 2022-12-17T13:38:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -76,6 +76,5 @@ A game in which the structure is known to all players but they may not see all m
 ## Backlinks {#backlinks}
 
 -   [Perfect information]({{< relref "perfect_information.md" >}})
--   [Compare and contrast]({{< relref "perfect_information.md#compare-and-contrast" >}})
 -   [Compare and contrast]({{< relref "perfect_information.md#compare-and-contrast" >}})
 -   [Imperfect information]({{< relref "imperfect_information.md" >}})

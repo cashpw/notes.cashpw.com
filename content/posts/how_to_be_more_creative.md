@@ -2,7 +2,7 @@
 title = "How to be more creative"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T11:27:00-07:00
-lastmod = 2022-12-17T11:16:00-08:00
+lastmod = 2022-12-17T13:47:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Directed acyclic graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:25:00-08:00
-lastmod = 2022-12-17T11:10:23-08:00
+lastmod = 2022-12-17T13:41:09-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

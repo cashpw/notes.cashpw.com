@@ -2,7 +2,7 @@
 title = "Xanatos gambit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-09T08:27:00-08:00
-lastmod = 2022-12-17T11:04:05-08:00
+lastmod = 2022-12-17T13:34:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

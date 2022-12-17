@@ -2,7 +2,7 @@
 title = "Metacognition"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:21:00-08:00
-lastmod = 2022-12-17T11:21:03-08:00
+lastmod = 2022-12-17T13:56:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

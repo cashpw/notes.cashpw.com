@@ -2,7 +2,7 @@
 title = "S Keshav | How to Read a Paper"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:58:00-08:00
-lastmod = 2022-12-17T11:18:21-08:00
+lastmod = 2022-12-17T13:51:23-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-22T18:27:00-07:00
-lastmod = 2022-12-17T11:07:46-08:00
+lastmod = 2022-12-17T13:38:09-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

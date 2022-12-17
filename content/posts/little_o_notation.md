@@ -2,7 +2,7 @@
 title = "Little-o notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:06:00-07:00
-lastmod = 2022-12-17T11:19:39-08:00
+lastmod = 2022-12-17T13:53:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Alt-right Playbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T16:33:00-07:00
-lastmod = 2022-12-17T11:04:46-08:00
+lastmod = 2022-12-17T13:34:45-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

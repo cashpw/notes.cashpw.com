@@ -2,7 +2,7 @@
 title = "James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-25T18:07:00-07:00
-lastmod = 2022-12-17T11:18:24-08:00
+lastmod = 2022-12-17T13:51:28-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

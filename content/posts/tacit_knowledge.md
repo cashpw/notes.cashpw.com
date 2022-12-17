@@ -2,7 +2,7 @@
 title = "Tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-30T13:17:00-08:00
-lastmod = 2022-12-17T11:33:04-08:00
+lastmod = 2022-12-17T14:13:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -112,8 +112,6 @@ Knowledge which is difficult to express or extract and is thus more difficult to
 -   [Blub studies]({{< relref "blub_studies.md" >}})
 -   [Paul Graham | When People Are Naturally Good at Something]({{< relref "grahamWhenPeopleAre2022.md" >}})
 -   [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}})
--   [Todos]({{< relref "todos.md" >}})
--   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
--   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
 -   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
 -   [Compare and contrast]({{< relref "tellmanThoughtLeadersChickenSexers.md#compare-and-contrast" >}})
+-   [Todos]({{< relref "todos.md" >}})

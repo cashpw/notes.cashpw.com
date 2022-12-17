@@ -2,7 +2,7 @@
 title = "Height-balanced binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:52:00-07:00
-lastmod = 2022-12-17T11:15:41-08:00
+lastmod = 2022-12-17T13:47:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,5 +45,4 @@ A [Binary tree]({{< relref "binary_tree.md" >}}) for which the height is guarant
 
 ## Backlinks {#backlinks}
 
--   [Compare/Contrast]({{< relref "self_balancing_binary_search_tree.md" >}})
 -   [Compare/Contrast]({{< relref "self_balancing_binary_search_tree.md" >}})

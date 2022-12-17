@@ -2,7 +2,7 @@
 title = "Sponsor"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-03T11:19:00-08:00
-lastmod = 2022-12-17T11:30:46-08:00
+lastmod = 2022-12-17T14:11:24-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

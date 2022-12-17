@@ -2,7 +2,7 @@
 title = "David Foster Wallace"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T10:58:00-08:00
-lastmod = 2022-12-17T11:09:36-08:00
+lastmod = 2022-12-17T13:40:18-08:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false

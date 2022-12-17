@@ -2,7 +2,7 @@
 title = "The first lesson"
 author = ["Cash Prokop-Weaver"]
 date = 2021-05-30T12:44:00-07:00
-lastmod = 2022-12-17T11:34:12-08:00
+lastmod = 2022-12-17T14:15:23-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

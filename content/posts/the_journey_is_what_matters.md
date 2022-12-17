@@ -2,7 +2,7 @@
 title = "The journey is what matters"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T19:02:00-07:00
-lastmod = 2022-12-17T11:34:20-08:00
+lastmod = 2022-12-17T14:15:36-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

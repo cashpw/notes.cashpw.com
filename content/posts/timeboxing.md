@@ -2,7 +2,7 @@
 title = "Timeboxing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T13:51:00-08:00
-lastmod = 2022-12-17T11:46:54-08:00
+lastmod = 2022-12-17T14:18:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

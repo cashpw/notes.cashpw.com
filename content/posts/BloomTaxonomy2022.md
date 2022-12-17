@@ -2,7 +2,7 @@
 title = "Bloom's taxonomy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:38:00-08:00
-lastmod = 2022-12-17T11:03:47-08:00
+lastmod = 2022-12-17T13:33:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

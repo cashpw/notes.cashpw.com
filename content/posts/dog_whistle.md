@@ -2,7 +2,7 @@
 title = "Dog whistle"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:26:00-07:00
-lastmod = 2022-12-17T11:10:43-08:00
+lastmod = 2022-12-17T13:41:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Speak directly to the audience"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:07:00-07:00
-lastmod = 2022-12-17T11:30:39-08:00
+lastmod = 2022-12-17T14:11:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

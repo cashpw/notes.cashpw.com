@@ -2,7 +2,7 @@
 title = "Metaphysics"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:35:00-08:00
-lastmod = 2022-12-17T11:21:06-08:00
+lastmod = 2022-12-17T13:56:06-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

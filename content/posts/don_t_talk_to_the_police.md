@@ -2,7 +2,7 @@
 title = "Don't talk to the police"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-02T14:25:00-08:00
-lastmod = 2022-12-17T11:10:48-08:00
+lastmod = 2022-12-17T13:41:37-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

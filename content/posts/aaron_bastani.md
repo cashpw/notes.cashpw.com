@@ -2,7 +2,7 @@
 title = "Aaron Bastani"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T10:11:00-07:00
-lastmod = 2022-12-17T11:04:11-08:00
+lastmod = 2022-12-17T13:34:08-08:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false

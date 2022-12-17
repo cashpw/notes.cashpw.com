@@ -2,7 +2,7 @@
 title = "Elie Wiesel"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-03T11:45:00-07:00
-lastmod = 2022-12-17T11:11:26-08:00
+lastmod = 2022-12-17T13:42:22-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

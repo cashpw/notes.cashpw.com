@@ -2,7 +2,7 @@
 title = "Binary heap"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:22:00-07:00
-lastmod = 2022-12-17T11:06:04-08:00
+lastmod = 2022-12-17T13:36:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

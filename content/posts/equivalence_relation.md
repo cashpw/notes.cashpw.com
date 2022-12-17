@@ -2,7 +2,7 @@
 title = "Equivalence relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-06T06:58:00-08:00
-lastmod = 2022-12-17T11:11:54-08:00
+lastmod = 2022-12-17T13:42:54-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

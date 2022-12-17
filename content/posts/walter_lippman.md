@@ -2,7 +2,7 @@
 title = "Walter Lippman"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:13:00-08:00
-lastmod = 2022-12-17T11:50:37-08:00
+lastmod = 2022-12-17T14:22:34-08:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false

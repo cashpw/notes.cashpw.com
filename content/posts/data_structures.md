@@ -2,7 +2,7 @@
 title = "Data structures"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-27T19:44:00-07:00
-lastmod = 2022-12-17T11:09:34-08:00
+lastmod = 2022-12-17T13:40:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -79,7 +79,6 @@ A collection of data values, the relationships among them, and the functions or 
 -   [Array]({{< relref "array.md" >}})
 -   [Definition (Data structure)]({{< relref "array.md#definition--id-738c2ba7-a272-417d-9b6d-b6952d765280-data-structure" >}})
 -   [Abstract data type]({{< relref "abstract_data_type.md" >}})
--   [Compare/Contrast]({{< relref "abstract_data_type.md#compare-contrast" >}})
 -   [Compare/Contrast]({{< relref "abstract_data_type.md#compare-contrast" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
 -   [Definition (Computer science)]({{< relref "binary_heap.md#definition--computer-science" >}})

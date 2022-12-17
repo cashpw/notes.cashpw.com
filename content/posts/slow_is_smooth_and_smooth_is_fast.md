@@ -2,7 +2,7 @@
 title = "Slow is smooth, smooth is fast"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-30T11:21:00-08:00
-lastmod = 2022-12-17T11:29:45-08:00
+lastmod = 2022-12-17T14:10:20-08:00
 draft = false
 slug = "2ce563d9-0186-4f86-8037-be6d71452925"
 +++

@@ -2,7 +2,7 @@
 title = "Chesterton's fence"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:11:00-08:00
-lastmod = 2022-12-17T11:07:28-08:00
+lastmod = 2022-12-17T13:37:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,5 +45,5 @@ The principle that reforms shouldn't be made until the reasoning behind the exis
 
 ## Backlinks {#backlinks}
 
--   [Todos]({{< relref "todos.md" >}})
 -   [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

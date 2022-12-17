@@ -2,7 +2,7 @@
 title = "Lou Keep | The Uruk Series"
 author = ["Cash Weaver"]
 date = 2022-11-23T09:17:00-08:00
-lastmod = 2022-12-17T11:19:44-08:00
+lastmod = 2022-12-17T13:53:40-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

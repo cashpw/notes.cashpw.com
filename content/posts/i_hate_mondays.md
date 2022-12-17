@@ -2,7 +2,7 @@
 title = "I hate mondays"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:07:00-07:00
-lastmod = 2022-12-17T11:16:10-08:00
+lastmod = 2022-12-17T13:48:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

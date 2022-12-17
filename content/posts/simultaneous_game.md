@@ -2,7 +2,7 @@
 title = "Simultaneous game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2022-12-17T11:29:19-08:00
+lastmod = 2022-12-17T14:09:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -78,7 +78,6 @@ A game in which all players choose their actions without knowledge of the action
 
 ## Backlinks {#backlinks}
 
--   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
 -   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
 -   [Describe (Game theory)]({{< relref "prisoner_s_dilemma.md#describe--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
 -   [Sequential game]({{< relref "sequential_game.md" >}})

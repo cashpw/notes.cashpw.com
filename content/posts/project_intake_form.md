@@ -2,7 +2,7 @@
 title = "Project intake form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T10:06:00-07:00
-lastmod = 2022-12-17T11:25:31-08:00
+lastmod = 2022-12-17T14:04:24-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -33,7 +33,7 @@ Include things like:
     -   How do we define success for this milestone?
     -   Can more than one person work on the milestones in parallel?
 
-Also see [Split "Lessons learned" into nodes]({{< relref "todos.md#split-lessons-learned-into-nodes" >}}).
+Also see [Split "Lessons learned" into nodes]({{< relref "todos.md#remove-explicit-dir-property" >}}).
 
 
 ## Flashcards {#flashcards}
@@ -41,5 +41,5 @@ Also see [Split "Lessons learned" into nodes]({{< relref "todos.md#split-lessons
 
 ## Backlinks {#backlinks}
 
--   [Split "Lessons learned" into nodes]({{< relref "todos.md#split-lessons-learned-into-nodes" >}})
+-   [Split "Lessons learned" into nodes]({{< relref "todos.md#remove-explicit-dir-property" >}})
 -   [Todos]({{< relref "todos.md" >}})

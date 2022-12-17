@@ -2,7 +2,7 @@
 title = "Reduced row echelon form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-22T06:28:00-07:00
-lastmod = 2022-12-17T11:27:11-08:00
+lastmod = 2022-12-17T14:06:56-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

@@ -2,9 +2,8 @@
 title = "Atom"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:31:00-07:00
-lastmod = 2022-12-17T11:05:20-08:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2022-12-17T13:35:22-08:00
+tags = ["concept"]
 draft = false
 slug = "b37a4585-be03-43ea-a55c-6a5f84e59c77"
 +++

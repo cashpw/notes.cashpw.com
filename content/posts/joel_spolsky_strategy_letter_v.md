@@ -2,7 +2,7 @@
 title = "Joel Spolsky | Strategy Letter V"
 author = ["Cash Weaver"]
 date = 2022-11-22T16:12:00-08:00
-lastmod = 2022-12-17T11:17:48-08:00
+lastmod = 2022-12-17T13:50:31-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

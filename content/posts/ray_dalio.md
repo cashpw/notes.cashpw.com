@@ -2,7 +2,7 @@
 title = "Ray Dalio"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T07:25:00-08:00
-lastmod = 2022-12-17T11:26:29-08:00
+lastmod = 2022-12-17T14:05:53-08:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false

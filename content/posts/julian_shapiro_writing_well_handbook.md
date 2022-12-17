@@ -2,7 +2,7 @@
 title = "Julian Shapiro | Writing Well Handbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:13:00-08:00
-lastmod = 2022-12-17T11:18:11-08:00
+lastmod = 2022-12-17T13:51:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

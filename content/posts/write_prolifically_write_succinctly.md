@@ -2,7 +2,7 @@
 title = "Write prolifically, write succinctly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-17T07:28:00-08:00
-lastmod = 2022-12-17T11:51:53-08:00
+lastmod = 2022-12-17T14:23:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

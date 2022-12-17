@@ -2,7 +2,7 @@
 title = "Freddish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:59:00-07:00
-lastmod = 2022-12-17T11:13:22-08:00
+lastmod = 2022-12-17T13:44:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -116,5 +116,5 @@ A set of language patterns for talking with children which anticipated and prote
 ## Backlinks {#backlinks}
 
 -   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
--   [Todos]({{< relref "todos.md" >}})
 -   [Rewriting and Editing]({{< relref "julian_shapiro_writing_well_handbook.md#rewriting-and-editing" >}})
+-   [Todos]({{< relref "todos.md" >}})

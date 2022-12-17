@@ -2,7 +2,7 @@
 title = "Internal memory algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T16:17:00-07:00
-lastmod = 2022-12-17T11:17:03-08:00
+lastmod = 2022-12-17T13:49:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

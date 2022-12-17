@@ -2,7 +2,7 @@
 title = "Edge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:15:00-07:00
-lastmod = 2022-12-17T11:11:17-08:00
+lastmod = 2022-12-17T13:42:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

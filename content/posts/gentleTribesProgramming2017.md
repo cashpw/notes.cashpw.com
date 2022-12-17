@@ -2,7 +2,7 @@
 title = "Joseph Gentle | Three Tribes of Programming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T10:06:00-07:00
-lastmod = 2022-12-17T11:14:00-08:00
+lastmod = 2022-12-17T13:45:11-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Beatrix Potter"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:34:00-08:00
-lastmod = 2022-12-17T11:05:44-08:00
+lastmod = 2022-12-17T13:35:49-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

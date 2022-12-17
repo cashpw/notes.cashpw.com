@@ -2,7 +2,7 @@
 title = "Socratic questioning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T18:46:00-07:00
-lastmod = 2022-12-17T11:29:55-08:00
+lastmod = 2022-12-17T14:10:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

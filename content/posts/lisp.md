@@ -2,7 +2,7 @@
 title = "Lisp"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:45:00-07:00
-lastmod = 2022-12-17T11:19:30-08:00
+lastmod = 2022-12-17T13:53:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

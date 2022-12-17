@@ -2,7 +2,7 @@
 title = "Albert Camus, Justin O'Brien | The Myth of Sisyphus and Other Essays"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T12:32:00-07:00
-lastmod = 2022-12-17T11:07:00-08:00
+lastmod = 2022-12-17T13:37:14-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

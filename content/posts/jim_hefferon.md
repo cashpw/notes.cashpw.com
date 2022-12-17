@@ -2,7 +2,7 @@
 title = "Jim Hefferon"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-24T08:34:00-07:00
-lastmod = 2022-12-17T11:17:46-08:00
+lastmod = 2022-12-17T13:50:27-08:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false

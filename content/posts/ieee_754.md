@@ -2,7 +2,7 @@
 title = "IEEE 754"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T10:52:00-07:00
-lastmod = 2022-12-17T11:16:21-08:00
+lastmod = 2022-12-17T13:48:16-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -55,7 +55,7 @@ slug = "23e97230-9b73-4232-a76e-a1223b9bb70e"
 (<a href="#citeproc_bib_item_2">“IEEE 754” 2022</a>)
 
 
-### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Double-precision floating-point number](#double-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--double-precision-floating-point-number--org2d0d5b3--0-are-composed-of}
+### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Double-precision floating-point number](#double-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--double-precision-floating-point-number--org3eff986--0-are-composed-of}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
@@ -77,7 +77,7 @@ slug = "23e97230-9b73-4232-a76e-a1223b9bb70e"
 (<a href="#citeproc_bib_item_2">“IEEE 754” 2022</a>)
 
 
-### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Single-precision floating-point numbers](#single-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--single-precision-floating-point-numbers--org7a050a5--0-are-composed-of}
+### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Single-precision floating-point numbers](#single-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--single-precision-floating-point-numbers--orgcba2f1d--0-are-composed-of}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|

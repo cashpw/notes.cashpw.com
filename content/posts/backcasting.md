@@ -2,7 +2,7 @@
 title = "Backcasting"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T07:54:00-08:00
-lastmod = 2022-12-17T11:05:31-08:00
+lastmod = 2022-12-17T13:35:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,7 +45,6 @@ A planning method which starts from a desirable future and works backward to ide
 
 ## Backlinks {#backlinks}
 
--   [Theory of change]({{< relref "theory_of_change.md" >}})
 -   [Theory of change]({{< relref "theory_of_change.md" >}})
 -   [Describe]({{< relref "theory_of_change.md#describe" >}})
 -   [Describe]({{< relref "theory_of_change.md#describe" >}})

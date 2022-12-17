@@ -2,7 +2,7 @@
 title = "Get good"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:40:00-08:00
-lastmod = 2022-12-17T11:14:06-08:00
+lastmod = 2022-12-17T13:45:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

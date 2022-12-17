@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Evergreen Notes Should Be Densely Linked"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-22T07:04:00-08:00
-lastmod = 2022-12-17T11:03:51-08:00
+lastmod = 2022-12-17T13:33:48-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

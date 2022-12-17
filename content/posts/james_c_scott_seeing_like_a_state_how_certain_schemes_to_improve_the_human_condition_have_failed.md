@@ -2,7 +2,7 @@
 title = "James C. Scott | Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:24:00-08:00
-lastmod = 2022-12-17T11:17:35-08:00
+lastmod = 2022-12-17T13:50:08-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Fallacy of gray"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T10:32:00-08:00
-lastmod = 2022-12-17T11:12:16-08:00
+lastmod = 2022-12-17T13:43:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -53,6 +53,5 @@ The assertion that since nothing is black and white that all things are equal.
 
 ## Backlinks {#backlinks}
 
--   [Eliezer Yudkowsky | The Fallacy of Gray]({{< relref "yudkowskyFallacyGray.md" >}})
 -   [Eliezer Yudkowsky | The Fallacy of Gray]({{< relref "yudkowskyFallacyGray.md" >}})
 -   [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}})

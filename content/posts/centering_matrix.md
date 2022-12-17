@@ -2,7 +2,7 @@
 title = "Centering matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T09:48:00-07:00
-lastmod = 2022-12-17T11:07:18-08:00
+lastmod = 2022-12-17T13:37:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -108,5 +108,4 @@ A symmetric and idempotent matrix which, when multiplied by a vector, has the sa
 
 ## Backlinks {#backlinks}
 
--   [De-meaned vector]({{< relref "de_meaned_vector.md" >}})
 -   [De-meaned vector]({{< relref "de_meaned_vector.md" >}})

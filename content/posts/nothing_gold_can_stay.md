@@ -2,7 +2,7 @@
 title = "Robert Frost | Nothing Gold Can Stay"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T11:30:00-07:00
-lastmod = 2022-12-17T11:22:50-08:00
+lastmod = 2022-12-17T13:59:15-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false

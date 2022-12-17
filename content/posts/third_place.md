@@ -2,7 +2,7 @@
 title = "Third place"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:48:00-07:00
-lastmod = 2022-12-17T11:36:08-08:00
+lastmod = 2022-12-17T14:17:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

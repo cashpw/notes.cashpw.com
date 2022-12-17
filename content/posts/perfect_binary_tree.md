@@ -2,7 +2,7 @@
 title = "Perfect binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-12-17T11:24:08-08:00
+lastmod = 2022-12-17T14:01:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -72,6 +72,5 @@ A [Binary tree]({{< relref "binary_tree.md" >}}) in which (1) all interior nodes
 
 ## Backlinks {#backlinks}
 
--   [Compare/Contrast]({{< relref "complete_binary_tree.md#compare-contrast" >}})
 -   [Compare/Contrast]({{< relref "complete_binary_tree.md#compare-contrast" >}})
 -   [Binary tree]({{< relref "binary_tree.md" >}})

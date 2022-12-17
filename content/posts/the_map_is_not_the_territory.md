@@ -2,7 +2,7 @@
 title = "The map is not the territory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-26T14:42:00-07:00
-lastmod = 2022-12-17T11:34:30-08:00
+lastmod = 2022-12-17T14:15:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

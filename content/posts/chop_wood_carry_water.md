@@ -2,7 +2,7 @@
 title = "Chop wood, carry water"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:01:00-07:00
-lastmod = 2022-12-17T11:07:41-08:00
+lastmod = 2022-12-17T13:38:04-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

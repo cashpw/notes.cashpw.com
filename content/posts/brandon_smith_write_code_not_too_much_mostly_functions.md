@@ -2,7 +2,7 @@
 title = "Brandon Smith | Write Code. Not Too Much. Mostly Functions."
 author = ["Cash Weaver"]
 date = 2022-11-16T14:45:00-08:00
-lastmod = 2022-12-17T11:06:40-08:00
+lastmod = 2022-12-17T13:36:52-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

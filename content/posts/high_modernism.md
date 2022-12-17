@@ -2,7 +2,7 @@
 title = "High modernism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T06:22:00-08:00
-lastmod = 2022-12-17T11:15:49-08:00
+lastmod = 2022-12-17T13:47:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Frank Herbert | Dune"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T12:32:00-08:00
-lastmod = 2022-12-17T11:15:47-08:00
+lastmod = 2022-12-17T13:47:26-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

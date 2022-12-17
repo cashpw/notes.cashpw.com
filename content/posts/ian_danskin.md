@@ -2,7 +2,7 @@
 title = "Ian Danskin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T16:31:00-07:00
-lastmod = 2022-12-17T11:16:12-08:00
+lastmod = 2022-12-17T13:48:02-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -45,5 +45,4 @@ Among other things:
 -   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
 -   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
--   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})

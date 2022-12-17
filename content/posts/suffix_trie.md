@@ -2,7 +2,7 @@
 title = "Suffix tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T09:43:00-08:00
-lastmod = 2022-12-17T11:32:12-08:00
+lastmod = 2022-12-17T14:12:54-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

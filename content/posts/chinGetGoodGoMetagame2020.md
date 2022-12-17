@@ -2,7 +2,7 @@
 title = "Cedric Chin | To Get Good, Go After The Metagame"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:01:00-08:00
-lastmod = 2022-12-17T11:07:35-08:00
+lastmod = 2022-12-17T13:37:56-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

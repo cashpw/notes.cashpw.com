@@ -2,7 +2,7 @@
 title = "Syntopical"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-29T08:37:00-07:00
-lastmod = 2022-12-17T11:32:43-08:00
+lastmod = 2022-12-17T14:13:29-08:00
 tags = ["term", "term"]
 categories = ["term"]
 draft = false

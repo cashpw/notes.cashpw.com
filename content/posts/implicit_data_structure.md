@@ -2,7 +2,7 @@
 title = "Implicit data structure"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:32:00-07:00
-lastmod = 2022-12-17T11:16:42-08:00
+lastmod = 2022-12-17T13:48:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

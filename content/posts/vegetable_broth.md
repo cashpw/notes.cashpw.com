@@ -2,7 +2,7 @@
 title = "Vegetable broth"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-31T11:36:00-07:00
-lastmod = 2022-12-17T11:50:08-08:00
+lastmod = 2022-12-17T14:22:11-08:00
 tags = ["has-todo", "recipe", "has-todo", "recipe"]
 categories = ["has-todo", "recipe"]
 draft = false

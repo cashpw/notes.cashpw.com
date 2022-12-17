@@ -2,7 +2,7 @@
 title = "Option time value"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:44:00-08:00
-lastmod = 2022-12-17T11:46:52-08:00
+lastmod = 2022-12-17T14:18:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -64,5 +64,4 @@ The part of an [Option (finance)]({{< relref "option.md" >}})'s value based on t
 ## Backlinks {#backlinks}
 
 -   [Intrinsic value (finance)]({{< relref "intrinsic_value.md" >}})
--   [Theta (finance)]({{< relref "theta_finance.md" >}})
 -   [Theta (finance)]({{< relref "theta_finance.md" >}})

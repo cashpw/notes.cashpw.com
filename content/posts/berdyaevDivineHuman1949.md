@@ -2,7 +2,7 @@
 title = "Nikolai Berdyaev | From The Divine and the Human"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-04T08:10:00-08:00
-lastmod = 2022-12-17T11:05:50-08:00
+lastmod = 2022-12-17T13:35:56-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

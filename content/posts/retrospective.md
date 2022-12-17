@@ -2,7 +2,7 @@
 title = "Retrospective"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T12:27:00-08:00
-lastmod = 2022-12-17T11:27:31-08:00
+lastmod = 2022-12-17T14:07:26-08:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
