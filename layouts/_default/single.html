@@ -45,7 +45,6 @@
     {{- else }}
       {{ .Content }}
     {{ end }}
-    {{- partial "backlinks.html" . }}
   {{- end }}
   </div>
 
@@ -57,6 +56,8 @@
     {{- partial "share_icons.html" . -}}
     {{- end }}
     {{ partial "recipe_support.html" . }}
+    {{ partial "flashcards.html" . }}
+    {{ partial "backlinks.html" . }}
     <script src="{{ "js/citations/custom.js" | urlize | relURL }}"></script>
   </footer>
 
