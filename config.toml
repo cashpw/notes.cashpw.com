@@ -1,4 +1,4 @@
-baseURL = "http://cashpw.com/"
+baseURL = "http://notes.cashpw.com/"
 enableEmoji = true
 enableRobotsTXT = true
 languageCode = "en-us"
