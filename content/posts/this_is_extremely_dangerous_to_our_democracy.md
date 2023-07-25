@@ -2,7 +2,7 @@
 title = "This is extremely dangerous to our democracy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T08:37:00-08:00
-lastmod = 2022-12-17T14:17:32-08:00
+lastmod = 2023-07-25T12:35:41-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -27,8 +27,8 @@ slug = "812da5d9-2917-4f0c-bf2f-36acf64af2c5"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 3   | 6.00     | 2022-12-17T15:25:53Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-18T17:47:05Z |
+| front    | 2.80 | 7   | 309.67   | 2024-04-08T20:20:31Z |
+| back     | 2.35 | 7   | 174.92   | 2023-10-28T15:43:58Z |
 
 [This is extremely dangerous to our democracy]({{< relref "this_is_extremely_dangerous_to_our_democracy.md" >}})
 

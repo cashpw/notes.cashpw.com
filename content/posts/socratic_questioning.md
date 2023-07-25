@@ -2,7 +2,7 @@
 title = "Socratic questioning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T18:46:00-07:00
-lastmod = 2022-12-17T14:10:31-08:00
+lastmod = 2023-07-25T12:28:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -81,8 +81,8 @@ Related: [Bloom's Taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 5   | 30.57    | 2023-01-06T03:32:37Z |
-| front    | 2.80 | 4   | 18.10    | 2023-01-03T20:00:48Z |
+| back     | 2.50 | 7   | 186.50   | 2023-09-23T04:22:26Z |
+| front    | 2.80 | 7   | 403.79   | 2024-08-20T19:51:57Z |
 
 [Socratic questioning]({{< relref "socratic_questioning.md" >}})
 
@@ -101,7 +101,7 @@ A form of disciplined questioning credited to Socrates's teaching style.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2022-11-17T13:48:50Z |
+| front    | 1.75 | 6   | 36.69    | 2023-08-28T20:24:03Z |
 
 1.  [Clarifying concepts](#clarifying-concepts)
 2.  [Challenge assumptions](#challenge-assumptions)
@@ -115,12 +115,12 @@ A form of disciplined questioning credited to Socrates's teaching style.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 3   | 6.00     | 2022-12-22T17:42:31Z |
-| 1        | 2.50 | 4   | 16.49    | 2022-12-27T04:44:41Z |
-| 2        | 2.5  | -1  | 0        | 2022-10-17T15:24:35Z |
-| 3        | 2.5  | -1  | 0        | 2022-10-17T15:24:35Z |
-| 4        | 2.5  | -1  | 0        | 2022-10-17T15:24:35Z |
-| 5        | 2.5  | -1  | 0        | 2022-10-17T15:24:35Z |
+| 0        | 1.90 | 5   | 23.09    | 2023-04-14T16:10:06Z |
+| 1        | 2.50 | 6   | 110.34   | 2023-06-03T01:49:32Z |
+| 2        | 2.05 | 6   | 44.96    | 2023-04-06T20:20:33Z |
+| 3        | 2.20 | 6   | 52.14    | 2023-04-22T07:22:26Z |
+| 4        | 2.20 | 6   | 84.19    | 2023-06-12T20:51:23Z |
+| 5        | 2.65 | 6   | 118.92   | 2023-07-28T13:43:46Z |
 
 1.  {{[Clarifying concepts](#clarifying-concepts)}@0}
 2.  {{[Challenge assumptions](#challenge-assumptions)}@1}
@@ -134,8 +134,8 @@ A form of disciplined questioning credited to Socrates's teaching style.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 38.91    | 2023-01-13T15:37:38Z |
-| back     | 2.65 | 5   | 39.58    | 2023-01-21T16:13:24Z |
+| front    | 2.80 | 7   | 307.41   | 2024-03-03T04:42:50Z |
+| back     | 2.80 | 7   | 298.20   | 2024-03-09T19:34:29Z |
 
 [Clarifying concepts](#clarifying-concepts)
 
@@ -156,8 +156,8 @@ A form of disciplined questioning credited to Socrates's teaching style.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 5   | 27.06    | 2023-01-07T16:44:15Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-21T20:31:04Z |
+| front    | 2.20 | 8   | 292.38   | 2024-05-02T23:20:29Z |
+| back     | 1.30 | 7   | 16.18    | 2023-07-24T19:23:08Z |
 
 [Challenge assumptions](#challenge-assumptions)
 
@@ -178,8 +178,8 @@ A form of disciplined questioning credited to Socrates's teaching style.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 14.22    | 2022-12-21T20:46:48Z |
-| back     | 2.20 | 4   | 12.82    | 2022-12-27T13:54:33Z |
+| front    | 2.50 | 7   | 221.94   | 2023-12-09T21:42:38Z |
+| back     | 2.05 | 8   | 236.55   | 2024-03-03T04:57:05Z |
 
 [Examine rationale, reasons, and evidence](#examine-rationale-reasons-and-evidence)
 
@@ -200,8 +200,8 @@ A form of disciplined questioning credited to Socrates's teaching style.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 17.69    | 2022-12-25T07:58:59Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-22T17:48:49Z |
+| front    | 2.80 | 7   | 407.43   | 2024-08-16T14:26:56Z |
+| back     | 2.20 | 7   | 160.33   | 2023-10-29T21:39:12Z |
 
 [Consider alternatives](#consider-alternatives)
 
@@ -221,8 +221,8 @@ A form of disciplined questioning credited to Socrates's teaching style.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.06    | 2022-12-20T16:09:20Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-03T18:47:57Z |
+| front    | 2.80 | 7   | 277.09   | 2024-02-18T14:43:45Z |
+| back     | 2.95 | 6   | 147.63   | 2023-08-04T18:24:58Z |
 
 [Consider implications and consequences](#consider-implications-and-consequences)
 
@@ -243,8 +243,8 @@ A form of disciplined questioning credited to Socrates's teaching style.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-21T20:47:14Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-18T18:03:48Z |
+| front    | 2.50 | 7   | 170.67   | 2023-10-16T14:35:50Z |
+| back     | 2.20 | 7   | 141.93   | 2023-09-22T20:07:17Z |
 
 [Meta questioning](#meta-questioning)
 
@@ -265,7 +265,7 @@ A form of disciplined questioning credited to Socrates's teaching style.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 13.82    | 2022-12-26T22:13:17Z |
+| front    | 2.35 | 7   | 134.15   | 2023-08-14T01:12:26Z |
 
 -   Cats: [Clarifying concepts](#clarifying-concepts)
 -   Always: [Challenge assumptions](#challenge-assumptions)
@@ -288,5 +288,5 @@ Me
 
 ## Backlinks {#backlinks}
 
+-   [Socratic grilling]({{< relref "socratic_grilling.md" >}})
 -   [Scott Alexander | Socratic Grilling]({{< relref "alexanderSocraticGrilling2020.md" >}})
--   [Definition]({{< relref "socratic_grilling.md#definition" >}})

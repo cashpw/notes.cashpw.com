@@ -2,7 +2,7 @@
 title = "James Altucher | The Ultimate Guide for Becoming an Idea Machine"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:16:00-08:00
-lastmod = 2022-12-17T13:34:00-08:00
+lastmod = 2023-07-25T08:31:34-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -44,5 +44,4 @@ slug = "876f8d80-902c-427a-9109-bb3bd447715c"
 
 ## Backlinks {#backlinks}
 
--   [Ceramics Exercises]({{< relref "ceramics_exercises.md" >}})
--   [How to be more creative]({{< relref "how_to_be_more_creative.md" >}})
+-   [Creativity is a product of volume]({{< relref "how_to_be_more_creative.md" >}})

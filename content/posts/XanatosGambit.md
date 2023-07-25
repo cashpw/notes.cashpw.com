@@ -2,7 +2,7 @@
 title = "Xanatos gambit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-09T08:27:00-08:00
-lastmod = 2022-12-17T13:34:01-08:00
+lastmod = 2023-07-25T08:31:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "8710324a-ceda-4590-86ee-ad11c3eb36b9"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.11    | 2022-12-29T22:47:58Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-22T17:58:36Z |
+| front    | 2.50 | 7   | 241.76   | 2024-01-05T11:31:00Z |
+| back     | 2.20 | 7   | 151.63   | 2023-09-29T09:54:41Z |
 
 [Xanatos gambit]({{< relref "XanatosGambit.md" >}})
 
@@ -46,5 +46,5 @@ A plan for which all forseeable outcomes benefit the creator. This includes outc
 ## Backlinks {#backlinks}
 
 -   [Plans within plans]({{< relref "plans_within_plans.md" >}})
+-   [Sophie from Mars | Ye West The Fascists Who Love Him | Sophie From Mars]({{< relref "sophie_from_mars_ye_west_the_fascists_who_love_him_sophie_from_mars.md" >}})
 -   [Ask the right questions]({{< relref "ask_the_right_questions.md" >}})
--   [Example(s)]({{< relref "ask_the_right_questions.md#example--s" >}})

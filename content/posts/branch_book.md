@@ -2,7 +2,7 @@
 title = "Branch book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:50:00-07:00
-lastmod = 2022-12-17T13:36:48-08:00
+lastmod = 2023-07-25T08:45:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,13 @@ slug = "065a0303-c2d3-40a0-a8fb-793f19f02526"
 
 > Branch books are the most common type of book you'll find in the non-fiction section. These are books that consist of a single idea. The rest of the book is then padded out with examples, extrapolations, and implications of that single idea. A good example of this is Nicholas Nassem Taleb's Antifragile, which can be summarised in a single sentence: "the world consists of systems that are fragile (break easily), robust (are difficult to break) and are antifragile (gets stronger the more you try to break it e.g. like democracy)." The rest of the book explores the full implications of seeing systems as 'fragile/robust/antifragile'.
 >
+> [...]
+>
+> The key feature of branch books, for me, is that you can easily summarise them. Which then implies that if someone has written a good summary of a branch book, you can read the summary instead of reading the full book.
+>
 > (<a href="#citeproc_bib_item_1">Chin 2018</a>)
+
+Related: [Narrative book]({{< relref "narrative_book.md" >}}), [Tree book]({{< relref "tree_book.md" >}})
 
 
 ## Flashcards {#flashcards}
@@ -21,8 +27,8 @@ slug = "065a0303-c2d3-40a0-a8fb-793f19f02526"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 123.19   | 2023-02-14T20:06:03Z |
-| front    | 2.35 | 7   | 103.13   | 2023-02-03T22:35:05Z |
+| back     | 2.80 | 8   | 312.00   | 2023-12-24T04:52:26Z |
+| front    | 2.35 | 8   | 237.46   | 2023-10-03T04:36:26Z |
 
 ([Cedric Chin]({{< relref "cedric_chin.md" >}})) [Branch book]({{< relref "branch_book.md" >}})
 
@@ -45,5 +51,10 @@ Books which consist of a single idea which is padded out with examples, extrapol
 
 ## Backlinks {#backlinks}
 
+-   [Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "kevin_simler_robin_hanson_the_elephant_in_the_brain_hidden_motives_in_everyday_life.md" >}})
 -   [Cedric Chin | The Three Kinds of Non-Fiction Books]({{< relref "chinThreeKindsNonfiction2018.md" >}})
--   [{{Cedric Chin}@0} separates books into {{Narrative book}@1}, {{Tree book}@2}, and {{Branch book}@3} books]({{< relref "chinThreeKindsNonfiction2018.md#id-4c9b1bbf-2a4b-43fa-a266-b559c018d80e-cedric-chin-0-separates-books-into-id-4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8-narrative-book-1-id-3784b9a9-ad2f-4537-864a-7362f21cd014-tree-book-2-and-id-065a0303-c2d3-40a0-a8fb-793f19f02526-branch-book-3-books" >}})
+-   [Narrative book]({{< relref "narrative_book.md" >}})
+-   [Tree book]({{< relref "tree_book.md" >}})
+-   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
+-   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "branch_book.md" >}})
+-   [On reading]({{< relref "on_reading.md" >}})

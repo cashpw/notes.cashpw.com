@@ -2,7 +2,7 @@
 title = "Matt Eding | Sparse Matrices"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T18:33:00-07:00
-lastmod = 2022-12-17T13:33:58-08:00
+lastmod = 2023-07-25T08:31:25-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

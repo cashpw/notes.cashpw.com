@@ -2,7 +2,7 @@
 title = "Never play defense"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:11:00-07:00
-lastmod = 2022-12-17T13:58:07-08:00
+lastmod = 2023-07-25T11:14:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ See [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.m
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.30 | 13  | 84.85    | 2023-03-03T13:19:07Z |
-| back     | 2.05 | 3   | 6.00     | 2022-12-19T18:21:36Z |
+| front    | 2.30 | 14  | 181.62   | 2023-09-02T05:57:21Z |
+| back     | 2.35 | 7   | 191.95   | 2023-11-18T14:37:38Z |
 
 [Never play defense]({{< relref "never_play_defense.md" >}})
 
@@ -41,8 +41,8 @@ A method for winning arguments where you seek to convince the audience you won o
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 16  | 21.84    | 2022-12-03T12:38:30Z |
-| back     | 2.05 | 3   | 6.00     | 2022-12-03T18:10:21Z |
+| front    | 1.60 | 20  | 162.81   | 2023-12-06T11:45:07Z |
+| back     | 2.05 | 8   | 165.16   | 2023-10-30T19:14:23Z |
 
 [Never play defense]({{< relref "never_play_defense.md" >}})
 
@@ -77,6 +77,21 @@ A method for winning arguments where you seek to convince the audience you won o
 
 (<a href="#citeproc_bib_item_1">Danskin 2017</a>)
 
+
+### Cloze {#cloze}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 6   | 87.24    | 2023-10-06T18:52:47Z |
+| 1        | 2.50 | 6   | 113.25   | 2023-08-30T22:53:14Z |
+
+{{[Never play defense]({{< relref "never_play_defense.md" >}})}{argument}@0} relies on {{[Peripheral route processing]({{< relref "peripheral_route_processing.md" >}})}@1}.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Danskin 2017</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
@@ -86,5 +101,7 @@ A method for winning arguments where you seek to convince the audience you won o
 
 ## Backlinks {#backlinks}
 
--   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
+-   [Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?]({{< relref "nathan_robinson_is_there_a_principled_distinction_between_refusing_to_watch_american_sniper_and_refusing_to_read_fun_home.md" >}})
 -   [If you're explaining, you're losing]({{< relref "if_you_re_explaining_you_re_losing.md" >}})
+-   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})

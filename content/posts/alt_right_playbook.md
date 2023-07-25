@@ -2,7 +2,7 @@
 title = "Alt-right Playbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T16:33:00-07:00
-lastmod = 2022-12-17T13:34:45-08:00
+lastmod = 2023-07-25T08:36:33-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -24,27 +24,24 @@ While [Danskin]({{< relref "ian_danskin.md" >}}) hasn't formally proposed soluti
 
 ## Backlinks {#backlinks}
 
--   [Author]({{< relref "ian_danskin.md#author" >}})
--   [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow2018.md" >}})
--   [Ian Danskin | The Ship of Theseus]({{< relref "danskinShipTheseus2018.md" >}})
--   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
--   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})
--   [Ian Danskin | I Hate Mondays]({{< relref "danskinHateMondays2020.md" >}})
--   [Ian Danskin | The Death of a Euphemism]({{< relref "danskinDeathEuphemism2018.md" >}})
--   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})
--   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
--   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
--   [Ship of Theseus (argument)]({{< relref "ship_of_theseus.md" >}})
--   [Mainstreaming]({{< relref "mainstreaming.md" >}})
--   [I hate mondays]({{< relref "i_hate_mondays.md" >}})
--   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
--   [Death of a euphamism]({{< relref "the_death_of_a_euphamism.md" >}})
--   [Control the conversation]({{< relref "control_the_conversation.md" >}})
--   [Definition (Alt-right Playbook)]({{< relref "control_the_conversation.md#definition--id-913d6ace-03ac-4d34-ae92-5bd8a519236c-alt-right-playbook" >}})
--   [Definition (Alt-right Playbook)]({{< relref "control_the_conversation.md#definition--id-913d6ace-03ac-4d34-ae92-5bd8a519236c-alt-right-playbook" >}})
--   [Never play defense]({{< relref "never_play_defense.md" >}})
--   [Describe (Alt-right Playbook)]({{< relref "never_play_defense.md#describe--id-913d6ace-03ac-4d34-ae92-5bd8a519236c-alt-right-playbook" >}})
--   [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})
--   [Describe (Alt-right Playbook)]({{< relref "you_go_high_we_go_low.md#describe--id-913d6ace-03ac-4d34-ae92-5bd8a519236c-alt-right-playbook" >}})
--   [Why is it always the libs? relates to {{The card says moops}{Alt-right Playbook}@0}]({{< relref "why_is_it_always_the_libs.md#id-d8ff4c8c-4032-473b-9060-8bd7903784c8-why-is-it-always-the-libs-relates-to-id-7e543b7d-8335-45e9-94ec-1392c0c91ce0-the-card-says-moops-id-913d6ace-03ac-4d34-ae92-5bd8a519236c-alt-right-playbook-0" >}})
 -   [The card says moops]({{< relref "the_card_says_moops.md" >}})
+-   [Ian Danskin | The Ship of Theseus]({{< relref "danskinShipTheseus2018.md" >}})
+-   [Ian Danskin | I Hate Mondays]({{< relref "danskinHateMondays2020.md" >}})
+-   [Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?]({{< relref "nathan_robinson_is_there_a_principled_distinction_between_refusing_to_watch_american_sniper_and_refusing_to_read_fun_home.md" >}})
+-   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
+-   [Ian Danskin]({{< relref "ian_danskin.md" >}})
+-   [Mainstreaming]({{< relref "mainstreaming.md" >}})
+-   [Death of a euphamism]({{< relref "the_death_of_a_euphamism.md" >}})
+-   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
+-   [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow2018.md" >}})
+-   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
+-   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})
+-   [Why is it always the libs?]({{< relref "why_is_it_always_the_libs.md" >}})
+-   [Control the conversation]({{< relref "control_the_conversation.md" >}})
+-   [Ship of Theseus (argument)]({{< relref "ship_of_theseus.md" >}})
+-   [Never play defense]({{< relref "never_play_defense.md" >}})
+-   [I hate mondays]({{< relref "i_hate_mondays.md" >}})
+-   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})
+-   [Ian Danskin | The Death of a Euphemism]({{< relref "danskinDeathEuphemism2018.md" >}})
+-   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
+-   [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})

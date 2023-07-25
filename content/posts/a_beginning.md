@@ -2,7 +2,7 @@
 title = "A beginning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T07:03:00-08:00
-lastmod = 2022-12-17T13:34:04-08:00
+lastmod = 2023-07-25T08:31:55-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ slug = "9032f4f9-c2f4-4af5-9f69-4840c3bbbce8"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2022-12-17T20:24:03Z |
+| 0        | 1.75 | 8   | 178.99   | 2024-01-05T15:30:23Z |
 
 
 #### Source {#source}
@@ -37,5 +37,5 @@ slug = "9032f4f9-c2f4-4af5-9f69-4840c3bbbce8"
 
 ## Backlinks {#backlinks}
 
--   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md#2-dot-1" >}})
 -   [Focusing techniques]({{< relref "focusing_techniques.md" >}})
+-   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md" >}})

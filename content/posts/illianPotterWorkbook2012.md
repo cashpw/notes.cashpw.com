@@ -1,8 +1,8 @@
 +++
-title = "Clary Illian | A Potter's Workbook."
+title = "Clary Illian | A Potter's Workbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:34:00-08:00
-lastmod = 2022-12-17T13:48:35-08:00
+lastmod = 2023-07-25T10:47:14-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -118,4 +118,5 @@ slug = "3f493f0a-aac1-43b6-be22-9711b921f6d8"
 
 ## Backlinks {#backlinks}
 
+-   [Ceramics exercises]({{< relref "ceramics_exercises.md" >}})
 -   [Books]({{< relref "ceramics_pottery_resources.md#books" >}})

@@ -2,7 +2,7 @@
 title = "Theory of change"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:28:00-08:00
-lastmod = 2022-12-17T14:16:57-08:00
+lastmod = 2023-07-25T12:35:11-07:00
 draft = false
 slug = "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
 +++
@@ -53,15 +53,16 @@ Based on (<a href="#citeproc_bib_item_4">Tyrrel 2019</a>) and (<a href="#citepro
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 3   | 6.00     | 2022-11-25T16:32:11Z |
-| back     | 2.5  | -1  | 0        | 2022-11-16T16:22:42Z |
+| front    | 3.10 | 7   | 411.39   | 2024-08-25T01:02:57Z |
+| back     | 2.95 | 6   | 161.02   | 2023-08-25T13:44:44Z |
 
 [Theory of change]({{< relref "theory_of_change.md" >}})
 
 
 #### Back {#back}
 
-A plan for enacting change built by [Backcasting]({{< relref "backcasting.md" >}}) from the desired goal to the present.
+-   A model of how change in the direction of a goal or destination happens within a system
+-   A plan for enacting change built by [Backcasting]({{< relref "backcasting.md" >}}) from the desired goal to the present.
 
 
 #### Source {#source}
@@ -73,8 +74,8 @@ A plan for enacting change built by [Backcasting]({{< relref "backcasting.md" >}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 3   | 6.00     | 2022-12-22T17:39:15Z |
-| back     | 2.5  | -1  | 0        | 2022-11-16T16:23:46Z |
+| front    | 2.65 | 7   | 304.35   | 2024-04-11T01:39:40Z |
+| back     | 2.50 | 7   | 218.53   | 2023-12-27T02:38:12Z |
 
 Steps to create a [Theory of change]({{< relref "theory_of_change.md" >}})
 
@@ -115,7 +116,7 @@ Steps to create a [Theory of change]({{< relref "theory_of_change.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 15.67    | 2022-12-19T11:43:39Z |
+| front    | 3.10 | 7   | 378.01   | 2024-07-06T13:39:10Z |
 
 [Theory of change]({{< relref "theory_of_change.md" >}}) and [Theory of action]({{< relref "theory_of_action.md" >}})
 
@@ -135,12 +136,14 @@ Steps to create a [Theory of change]({{< relref "theory_of_change.md" >}})
 (<a href="#citeproc_bib_item_4">Tyrrel 2019</a>)
 
 
-### A [Theory of change]({{< relref "theory_of_change.md" >}}) explicitly notes {{assumptions}@0} and {{ways to measure progress}@1} {#a-theory-of-change--theory-of-change-dot-md--explicitly-notes-assumptions-0-and-ways-to-measure-progress-1}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2022-12-17T20:32:34Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-29T17:50:40Z |
+| 0        | 2.80 | 7   | 321.17   | 2024-04-21T18:56:12Z |
+| 1        | 2.65 | 7   | 283.86   | 2024-04-01T22:04:51Z |
+
+A [Theory of change]({{< relref "theory_of_change.md" >}}) explicitly notes {{assumptions}@0} and {{ways to measure progress}@1}.
 
 
 #### Source {#source}
@@ -159,6 +162,8 @@ Steps to create a [Theory of change]({{< relref "theory_of_change.md" >}})
 
 ## Backlinks {#backlinks}
 
--   [Aaron Swartz | Theory of Change]({{< relref "swartzTheoryChange2010.md" >}})
+-   [Theory of action]({{< relref "theory_of_action.md" >}})
 -   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Aaron Swartz | Theory of Change]({{< relref "swartzTheoryChange2010.md" >}})

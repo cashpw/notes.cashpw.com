@@ -2,7 +2,7 @@
 title = "Avoidant attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T13:22:00-07:00
-lastmod = 2022-12-17T13:35:30-08:00
+lastmod = 2023-07-25T08:39:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ An [attachment]({{< relref "attachment_theory.md" >}}) pattern in which the chil
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 8   | 164.08   | 2023-05-24T21:18:01Z |
-| back     | 2.65 | 6   | 66.07    | 2022-12-19T03:00:20Z |
+| front    | 2.50 | 9   | 374.58   | 2024-06-03T04:05:00Z |
+| back     | 2.35 | 8   | 339.34   | 2024-04-24T21:05:03Z |
 
 [Avoidant attachment]({{< relref "avoidant_attachment.md" >}})
 
@@ -47,8 +47,8 @@ An unhealthy attachment pattern in which the child "gives up" on receiving comfo
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.60 | 4   | 9.54     | 2022-12-26T06:46:26Z |
-| back     | 2.35 | 5   | 41.02    | 2023-01-20T16:27:47Z |
+| front    | 1.45 | 9   | 116.78   | 2023-11-16T22:26:42Z |
+| back     | 2.05 | 7   | 158.87   | 2023-09-19T10:12:56Z |
 
 [Avoidant attachment]({{< relref "avoidant_attachment.md" >}})
 

@@ -2,7 +2,7 @@
 title = "Vega (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:40:00-08:00
-lastmod = 2022-12-17T14:22:05-08:00
+lastmod = 2023-07-25T12:40:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,12 +25,16 @@ slug = "f54153f5-fc44-41ce-b4dd-4274c95fbcec"
 ## Flashcards {#flashcards}
 
 
-### {{\\(\mathcal{V}\\)}@0} \\(=\\) {{\\(\frac{\partial V}{\partial\sigma}\\)}@1} {#mathcal-v-0-frac-partial-v-partial-sigma-1}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 5   | 29.83    | 2023-01-12T14:20:37Z |
-| 1        | 2.20 | 1   | 1.00     | 2022-12-04T19:48:31Z |
+| 0        | 2.05 | 8   | 220.76   | 2024-02-08T19:16:53Z |
+| 1        | 1.30 | 8   | 20.11    | 2023-08-03T03:40:13Z |
+
+(finance)
+
+{{\\(\mathcal{V}\\)}@0} \\(=\\) {{\\(\frac{\partial V}{\partial\sigma}\\)}@1}
 
 
 #### Source {#source}
@@ -42,8 +46,8 @@ slug = "f54153f5-fc44-41ce-b4dd-4274c95fbcec"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-21T20:33:41Z |
-| back     | 2.5  | -1  | 0        | 2022-11-07T02:02:16Z |
+| front    | 2.50 | 7   | 195.69   | 2023-11-27T09:54:58Z |
+| back     | 2.20 | 7   | 175.97   | 2023-11-15T19:26:52Z |
 
 [Vega (finance)]({{< relref "vega_finance.md" >}})
 
@@ -61,11 +65,13 @@ slug = "f54153f5-fc44-41ce-b4dd-4274c95fbcec"
 (<a href="#citeproc_bib_item_1">“Greeks (Finance)” 2022</a>)
 
 
-### [Option (finance)]({{< relref "option.md" >}}) value and volatility are {{positively}{+/-}@0} correlated {#option--finance----option-dot-md--value-and-volatility-are-positively-plus-0-correlated}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 34.81    | 2023-01-10T10:53:15Z |
+| 0        | 2.20 | 7   | 148.13   | 2023-08-16T20:35:53Z |
+
+[Option (finance)]({{< relref "option.md" >}}) value and volatility are {{positively}{+/-}@0} correlated
 
 
 #### Source {#source}

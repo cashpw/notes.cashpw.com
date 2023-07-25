@@ -2,7 +2,7 @@
 title = "Positive rights"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T09:49:00-07:00
-lastmod = 2022-12-17T14:03:06-08:00
+lastmod = 2023-07-25T11:28:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,22 +25,14 @@ Also see [Negative rights]({{< relref "negative_rights.md" >}}).
 ## Flashcards {#flashcards}
 
 
-### Definition {#definition}
+### [Positive right]({{< relref "positive_rights.md" >}}) {#positive-right--positive-rights-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 174.94   | 2023-04-30T15:29:01Z |
-| front    | 2.80 | 7   | 215.53   | 2023-07-07T07:54:43Z |
-
-[Positive right]({{< relref "positive_rights.md" >}})
-
-
-#### Back {#back}
+| back     | 2.80 | 7   | 466.99   | 2024-08-12T21:39:08Z |
+| front    | 2.65 | 8   | 593.36   | 2025-02-20T08:48:29Z |
 
 A right which obliges action.
-
-
-#### Extra {#extra}
 
 
 #### Source {#source}
@@ -52,8 +44,8 @@ A right which obliges action.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 107.89   | 2023-03-04T11:47:35Z |
-| back     | 2.80 | 6   | 96.76    | 2023-03-02T08:45:21Z |
+| front    | 2.80 | 7   | 293.88   | 2023-12-23T12:16:54Z |
+| back     | 2.80 | 7   | 240.80   | 2023-12-17T11:15:22Z |
 
 [Positive rights]({{< relref "positive_rights.md" >}})
 
@@ -79,5 +71,5 @@ A right which obliges action.
 
 ## Backlinks {#backlinks}
 
--   [Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater]({{< relref "citationsneededNewsBriefBiden2022.md" >}})
 -   [Negative rights]({{< relref "negative_rights.md" >}})
+-   [Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater]({{< relref "citationsneededNewsBriefBiden2022.md" >}})

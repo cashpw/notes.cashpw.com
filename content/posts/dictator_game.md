@@ -2,7 +2,7 @@
 title = "Dictator game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T15:04:00-07:00
-lastmod = 2022-12-17T13:41:04-08:00
+lastmod = 2023-07-25T10:28:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "4c05e5da-c14c-45b8-9284-af1dda8dd3a6"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 49.05    | 2023-01-20T21:07:30Z |
-| back     | 2.80 | 4   | 18.43    | 2022-12-19T02:55:01Z |
+| front    | 3.10 | 7   | 462.66   | 2024-09-14T07:22:51Z |
+| back     | 2.95 | 7   | 372.90   | 2024-07-27T12:57:08Z |
 
 [Dictator game]({{< relref "dictator_game.md" >}})
 
@@ -41,8 +41,8 @@ A two-player game in which the first player decides how to split an amount of mo
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 39.86    | 2023-01-17T12:30:00Z |
-| 1        | 2.50 | 4   | 15.88    | 2022-12-30T14:57:17Z |
+| 0        | 2.95 | 7   | 331.33   | 2024-03-30T05:44:03Z |
+| 1        | 2.80 | 7   | 351.95   | 2024-06-12T15:12:34Z |
 
 
 #### Source {#source}
@@ -54,7 +54,7 @@ A two-player game in which the first player decides how to split an amount of mo
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 45.09    | 2023-01-02T18:41:24Z |
+| front    | 2.80 | 7   | 320.83   | 2024-03-15T10:26:24Z |
 
 [Ultimatum game]({{< relref "ultimatum_game.md" >}}) and [Dictator game]({{< relref "dictator_game.md" >}})
 
@@ -79,4 +79,3 @@ A two-player game in which the first player decides how to split an amount of mo
 ## Backlinks {#backlinks}
 
 -   [Asymmetric game]({{< relref "asymmetric_game.md" >}})
--   [Example(s)]({{< relref "asymmetric_game.md#example--s" >}})

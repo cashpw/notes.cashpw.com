@@ -2,9 +2,9 @@
 title = "Implicit data structure"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:32:00-07:00
-lastmod = 2022-12-17T13:48:46-08:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2023-07-25T10:48:18-07:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "650f4577-c1ec-46c9-b7a6-af8d90756bcd"
 +++
@@ -17,12 +17,12 @@ slug = "650f4577-c1ec-46c9-b7a6-af8d90756bcd"
 ## Flashcards {#flashcards}
 
 
-### Definition (Computer science) {#definition--computer-science}
+### Definition {#definition}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 100.97   | 2023-01-30T00:54:00Z |
-| front    | 2.35 | 0   | 0.00     | 2022-12-16T18:02:07Z |
+| back     | 2.80 | 8   | 288.43   | 2023-11-14T13:01:50Z |
+| front    | 1.90 | 7   | 80.31    | 2023-08-18T23:40:35Z |
 
 [Implicit data structure]({{< relref "implicit_data_structure.md" >}})
 
@@ -41,8 +41,8 @@ A [Data structure]({{< relref "data_structures.md" >}}) that requires \\(Z + O(1
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.75 | 5   | 19.62    | 2023-01-03T09:43:40Z |
-| 1        | 2.65 | 11  | 41.63    | 2022-12-22T08:38:55Z |
+| 0        | 2.05 | 8   | 168.25   | 2023-10-21T23:41:37Z |
+| 1        | 1.90 | 6   | 51.34    | 2023-08-21T09:56:36Z |
 
 -   {{[Implicit data structure]({{< relref "implicit_data_structure.md" >}})}@0}
 -   {{[Space-efficient data structure]({{< relref "implicit_data_structure.md" >}})}@1}
@@ -57,8 +57,8 @@ A [Data structure]({{< relref "data_structures.md" >}}) that requires \\(Z + O(1
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 106.91   | 2023-03-08T00:22:20Z |
-| back     | 2.65 | 5   | 40.31    | 2023-01-10T23:40:44Z |
+| front    | 2.95 | 7   | 319.60   | 2024-01-23T17:41:39Z |
+| back     | 2.80 | 7   | 272.67   | 2024-02-05T09:23:30Z |
 
 [Implicit data structure]({{< relref "implicit_data_structure.md" >}})
 

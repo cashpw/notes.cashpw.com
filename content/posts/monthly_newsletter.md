@@ -2,7 +2,7 @@
 title = "Monthly newsletter"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-06T08:00:00-08:00
-lastmod = 2022-12-17T13:57:05-08:00
+lastmod = 2023-07-25T11:12:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,3 +18,4 @@ Based on [The Monthly Newsletter as Thinking Tool]({{< relref "moridinamaelMonth
 ## Backlinks {#backlinks}
 
 -   [November 2022]({{< relref "november_2022.md" >}})
+-   [December 2022]({{< relref "december_2022.md" >}})

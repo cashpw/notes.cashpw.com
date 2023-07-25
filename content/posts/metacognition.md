@@ -2,7 +2,7 @@
 title = "Metacognition"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:21:00-08:00
-lastmod = 2022-12-17T13:56:01-08:00
+lastmod = 2023-07-25T11:09:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "efe31d96-34a6-439a-a34d-fdff9df0e51a"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-20T18:45:36Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-21T18:38:02Z |
+| front    | 2.50 | 7   | 209.66   | 2023-11-26T10:29:25Z |
+| back     | 2.35 | 7   | 182.96   | 2023-11-09T15:15:20Z |
 
 [Metacognition]({{< relref "metacognition.md" >}})
 
@@ -46,3 +46,4 @@ An awareness of one's thought processes with an understanding of the patterns be
 ## Backlinks {#backlinks}
 
 -   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
+-   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})

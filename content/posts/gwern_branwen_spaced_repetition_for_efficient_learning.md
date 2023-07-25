@@ -2,7 +2,7 @@
 title = "Gwern Branwen | Spaced Repetition for Efficient Learning"
 author = ["Cash Weaver"]
 date = 2022-12-11T15:33:00-08:00
-lastmod = 2022-12-17T13:46:35-08:00
+lastmod = 2023-07-25T10:44:13-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -10,6 +10,11 @@ slug = "14d26509-1c1c-4983-8f00-0c481fe918d5"
 +++
 
 [Gwern Branwen]({{< relref "gwern_branwen.md" >}}), (<a href="#citeproc_bib_item_1">Branwen 2009</a>)
+
+
+## Summary {#summary}
+
+On [Spaced repetition]({{< relref "spaced_repetition.md" >}}).
 
 
 ## Notes {#notes}

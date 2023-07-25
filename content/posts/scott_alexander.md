@@ -2,9 +2,9 @@
 title = "Scott Alexander"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:44:00-08:00
-lastmod = 2022-12-17T14:08:45-08:00
-tags = ["person", "person"]
-categories = ["person"]
+lastmod = 2023-07-25T12:27:13-07:00
+tags = ["has-todo", "person", "has-todo", "person"]
+categories = ["has-todo", "person"]
 draft = false
 slug = "e7e4bd59-fa63-49a8-bfca-6c767d1c2330"
 +++
@@ -12,16 +12,42 @@ slug = "e7e4bd59-fa63-49a8-bfca-6c767d1c2330"
 Author of [Slate Star Codex](https://slatestarcodex.com/) and [Astral Star Codex](https://astralcodexten.substack.com/).
 
 
+## <https://astralcodexten.substack.com/p/men-will-literally-have-completely> {#https-astralcodexten-dot-substack-dot-com-p-men-will-literally-have-completely}
+
+
+## <https://slatestarcodex.com/2020/05/12/studies-on-slack/> {#https-slatestarcodex-dot-com-2020-05-12-studies-on-slack}
+
+
+## Create standalone note? {#create-standalone-note}
+
+I've engaged with their writing as much as I have because:
+
+-   Their posts have introduced me to concepts and ways of thinking I hadn't previously known about
+-   Their writing style is enjoyable to read, for me at least. It feels conversational.
+-   They came broadly recommended by groups I had previously frequented (e.g. hackernews)
+
+That said, I want to emphasize both that (1) my enjoyment of _some_ of their work doesn't imply that I agree with their _entire_ body of work and (2) I don't identify with the community they broadly fit into (Rationalists; related: [LessWrong]({{< relref "lesswrong.md" >}})). I'd say this is true for everything I document in this notebook. The authors I've found which appear to sit beneath the "Rationalist" banner have been the source of a lot of good learning for me:
+
+-   [Notice the taste of lotus]({{< relref "valentineNoticingTasteLotus2018.md" >}})
+-   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
+-   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Akrasia]({{< relref "akrasia.md" >}})
+-   Etc
+
+
 ## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander proposes that the opposite of a {{trap}@1} is a {{garden}@0}.]({{< relref "the_opposite_of_a_trap_is_a_garden.md#id-e7e4bd59-fa63-49a8-bfca-6c767d1c2330-scott-alexander-proposes-that-the-opposite-of-a-trap-1-is-a-garden-0-dot" >}})
 -   [Scott Alexander | Book Review: The Seven Principles For Making Marriage Work]({{< relref "alexanderBookReviewSevenPrinciplesMakingMarriageWork2020.md" >}})
--   [Scott Alexander | I Can Tolerate Anything Except The Outgroup]({{< relref "alexanderCanTolerateAnythingOutgroup2014.md" >}})
 -   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
--   [Scott Alexander | Socratic Grilling]({{< relref "alexanderSocraticGrilling2020.md" >}})
+-   [Scott Alexander | I Can Tolerate Anything Except The Outgroup]({{< relref "alexanderCanTolerateAnythingOutgroup2014.md" >}})
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
+-   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
 -   [Scott Alexander | For, Then Against, High-Saturated-Fat Diets]({{< relref "alexanderThenHighSaturatedFatDiets2020.md" >}})
+-   [Scott Alexander | Book Review: The Secret Of Our Success]({{< relref "scott_alexander_book_review_the_secret_of_our_success.md" >}})
+-   [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}})
+-   [Scott Alexander | Epistemic Learned Helplessness]({{< relref "scott_alexander_epistemic_learned_helplessness.md" >}})
 -   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})
--   [Ways Scott Alexander sees for resisting Moloch]({{< relref "alexanderMeditationsMoloch2014.md#ways-id-e7e4bd59-fa63-49a8-bfca-6c767d1c2330-scott-alexander-sees-for-resisting-id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
+-   [Scott Alexander | Socratic Grilling]({{< relref "alexanderSocraticGrilling2020.md" >}})

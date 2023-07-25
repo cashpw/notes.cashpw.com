@@ -2,7 +2,7 @@
 title = "Alpha (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:36:00-08:00
-lastmod = 2022-12-17T13:34:39-08:00
+lastmod = 2023-07-25T08:36:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ slug = "c3e94338-47df-4fa4-9e2b-1bdd7069f032"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.97    | 2022-12-31T19:46:03Z |
-| back     | 2.5  | -1  | 0        | 2022-11-23T15:58:49Z |
+| front    | 2.80 | 7   | 313.50   | 2024-04-13T11:56:34Z |
+| back     | 2.50 | 7   | 216.98   | 2023-12-22T16:05:54Z |
 
 [Alpha (finance)]({{< relref "alpha_finance.md" >}})
 
@@ -39,7 +39,7 @@ A measure of the performance of an investment compared against a suitable market
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-17T15:18:59Z |
+| 0        | 2.50 | 7   | 192.33   | 2023-10-21T00:19:34Z |
 
 
 #### Source {#source}

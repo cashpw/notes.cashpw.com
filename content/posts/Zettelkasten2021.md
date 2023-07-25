@@ -2,7 +2,7 @@
 title = "Zettelkasten"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T18:03:00-08:00
-lastmod = 2022-12-17T13:34:03-08:00
+lastmod = 2023-07-25T08:31:49-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -32,6 +32,6 @@ Related: [Personal knowledge management]({{< relref "personal_knowledge_manageme
 ## Backlinks {#backlinks}
 
 -   [Examples of Zettelkasten Notes]({{< relref "examples_of_zettelkasten_notes.md" >}})
--   [README]({{< relref "readme.md" >}})
 -   [Style Guide]({{< relref "style_guide.md" >}})
+-   [README]({{< relref "readme.md" >}})
 -   [Andy Matuschak]({{< relref "andy_matuschak.md" >}})

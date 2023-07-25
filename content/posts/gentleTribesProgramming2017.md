@@ -2,7 +2,7 @@
 title = "Joseph Gentle | Three Tribes of Programming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T10:06:00-07:00
-lastmod = 2022-12-17T13:45:11-08:00
+lastmod = 2023-07-25T10:42:27-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -77,8 +77,8 @@ Also see [Moloch]({{< relref "moloch.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-15T18:18:31Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T22:51:25Z |
+| front    | 2.35 | 7   | 232.94   | 2024-02-03T11:58:56Z |
+| back     | 2.80 | 7   | 314.68   | 2024-05-28T06:01:43Z |
 
 [Joseph Gentle | Three Tribes of Programming]({{< relref "gentleTribesProgramming2017.md" >}})
 
@@ -99,8 +99,8 @@ Also see [Moloch]({{< relref "moloch.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.41    | 2022-12-30T03:46:32Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-13T19:30:15Z |
+| front    | 2.80 | 7   | 296.24   | 2024-03-28T20:24:42Z |
+| back     | 2.35 | 7   | 177.62   | 2023-11-09T08:15:36Z |
 
 [Programming as applied mathematics](#programming-as-applied-mathematics)
 
@@ -122,8 +122,8 @@ Also see [Moloch]({{< relref "moloch.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.60    | 2022-12-29T08:52:18Z |
-| back     | 2.50 | 4   | 15.23    | 2022-12-31T02:01:21Z |
+| front    | 2.50 | 7   | 237.62   | 2023-12-27T12:59:39Z |
+| back     | 2.35 | 7   | 199.79   | 2023-11-25T11:34:02Z |
 
 [Programming as hardware hacking](#programming-as-hardware-hacking)
 
@@ -145,8 +145,8 @@ Also see [Moloch]({{< relref "moloch.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-17T19:16:37Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-19T02:27:39Z |
+| front    | 2.80 | 7   | 290.11   | 2024-03-18T03:52:04Z |
+| back     | 2.80 | 7   | 330.54   | 2024-05-12T04:28:17Z |
 
 [Programming as a tool to make things](#programming-as-a-tool-to-make-things)
 

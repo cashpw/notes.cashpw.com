@@ -2,7 +2,7 @@
 title = "Delta (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:18:00-08:00
-lastmod = 2022-12-17T13:40:40-08:00
+lastmod = 2023-07-25T10:28:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,8 +34,8 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 39.24    | 2023-01-17T01:39:54Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-22T17:38:36Z |
+| front    | 2.35 | 7   | 250.95   | 2024-01-06T17:32:30Z |
+| back     | 2.65 | 7   | 209.60   | 2023-11-27T13:50:05Z |
 
 [Delta (options)]({{< relref "delta.md" >}})
 
@@ -57,8 +57,8 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.80 | 4   | 18.25    | 2022-12-25T21:30:41Z |
-| 0        | 2.50 | 2   | 2.00     | 2022-12-17T20:25:23Z |
+| 1        | 2.80 | 7   | 402.58   | 2024-08-16T05:30:11Z |
+| 0        | 2.05 | 5   | 31.42    | 2023-07-31T07:00:59Z |
 
 
 #### Source {#source}
@@ -70,8 +70,8 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.80 | 4   | 17.04    | 2022-12-18T17:03:28Z |
-| 0        | 2.20 | 4   | 12.99    | 2022-12-26T02:08:35Z |
+| 1        | 2.80 | 7   | 379.00   | 2024-06-29T14:02:39Z |
+| 0        | 1.75 | 8   | 140.28   | 2023-10-23T06:48:56Z |
 
 
 #### Source {#source}
@@ -83,7 +83,7 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 31.60    | 2023-01-12T05:41:09Z |
+| 0        | 2.35 | 7   | 178.44   | 2023-09-24T01:28:11Z |
 
 
 #### Source {#source}
@@ -95,8 +95,8 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 15.70    | 2022-12-19T12:42:10Z |
-| 1        | 2.35 | 3   | 6.00     | 2022-12-16T16:56:57Z |
+| 0        | 2.95 | 7   | 374.06   | 2024-06-21T01:33:00Z |
+| 1        | 2.35 | 7   | 149.58   | 2023-10-07T05:48:44Z |
 
 
 #### Source {#source}
@@ -115,4 +115,3 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
 
 -   [Greeks (finance)]({{< relref "greeks_finance.md" >}})
 -   [Gamma (finance)]({{< relref "gamma.md" >}})
--   [Describe]({{< relref "gamma.md#describe" >}})

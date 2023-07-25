@@ -2,7 +2,7 @@
 title = "Symmetric matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:09:00-07:00
-lastmod = 2022-12-17T14:13:19-08:00
+lastmod = 2023-07-25T12:32:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "30dd1299-0411-4b80-945b-0740cc8b5348"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 8   | 183.36   | 2023-05-28T00:03:08Z |
-| front    | 2.65 | 10  | 223.46   | 2023-07-13T03:44:16Z |
+| back     | 2.50 | 9   | 471.32   | 2024-09-12T23:54:43Z |
+| front    | 2.65 | 11  | 549.62   | 2025-01-13T15:47:08Z |
 
 [Symmetric matrix]({{< relref "symmetric_matrix.md" >}})
 
@@ -48,6 +48,4 @@ A [Matrix]({{< relref "matrix.md" >}}), \\(A\\), for which \\(A = A^\textsf{T}\\
 ## Backlinks {#backlinks}
 
 -   [Undirected graph]({{< relref "undirected_graph.md" >}})
--   [Definition (Graph Theory)]({{< relref "undirected_graph.md#definition--id-5bc61709-6612-4287-921f-3e2509bd2261-graph-theory" >}})
 -   [Centering matrix]({{< relref "centering_matrix.md" >}})
--   [Properties]({{< relref "centering_matrix.md#properties" >}})

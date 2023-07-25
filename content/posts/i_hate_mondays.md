@@ -2,7 +2,7 @@
 title = "I hate mondays"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:07:00-07:00
-lastmod = 2022-12-17T13:48:00-08:00
+lastmod = 2023-07-25T10:46:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ See [Ian Danskin | I Hate Mondays]({{< relref "danskinHateMondays2020.md" >}}) a
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 38.18    | 2023-01-04T22:40:26Z |
-| back     | 2.20 | 4   | 12.24    | 2022-12-18T21:09:25Z |
+| front    | 2.50 | 7   | 283.49   | 2024-02-08T06:37:53Z |
+| back     | 2.50 | 7   | 211.62   | 2023-11-06T06:01:26Z |
 
 [I hate mondays]({{< relref "i_hate_mondays.md" >}})
 
@@ -46,8 +46,8 @@ Acknowledge a terrible thing is happening, maybe even agree it's bad, but don't 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 118.21   | 2023-02-13T20:13:42Z |
-| back     | 2.65 | 6   | 72.88    | 2023-01-02T12:43:57Z |
+| front    | 2.80 | 7   | 351.64   | 2024-02-03T18:59:53Z |
+| back     | 2.50 | 8   | 434.46   | 2024-09-05T04:21:59Z |
 
 [I hate mondays]({{< relref "i_hate_mondays.md" >}})
 

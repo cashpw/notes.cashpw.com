@@ -2,7 +2,7 @@
 title = "Implied volatility"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:08:00-08:00
-lastmod = 2022-12-17T13:48:49-08:00
+lastmod = 2023-07-25T10:48:22-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "7b2744d7-c760-474b-97ef-120da8b4220f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 14.22    | 2022-12-24T23:05:20Z |
+| 0        | 2.20 | 7   | 124.34   | 2023-09-26T04:41:29Z |
 
 
 #### Source {#source}

@@ -2,7 +2,7 @@
 title = "Lisp"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:45:00-07:00
-lastmod = 2022-12-17T13:53:08-08:00
+lastmod = 2023-07-25T11:02:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "f6e9082b-3589-448a-9877-b9a2b31d88ba"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 160.36   | 2023-04-14T08:49:37Z |
-| 1        | 2.65 | 7   | 189.66   | 2023-05-24T06:02:36Z |
+| 0        | 2.50 | 8   | 419.55   | 2024-06-21T11:54:46Z |
+| 1        | 2.65 | 8   | 466.50   | 2024-09-02T08:27:39Z |
 
 
 #### Extra {#extra}
@@ -43,8 +43,8 @@ slug = "f6e9082b-3589-448a-9877-b9a2b31d88ba"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 98.55    | 2023-01-24T04:07:05Z |
-| 1        | 2.35 | 6   | 86.70    | 2023-01-18T12:27:23Z |
+| 0        | 2.80 | 7   | 261.94   | 2023-10-14T15:33:27Z |
+| 1        | 2.50 | 7   | 230.90   | 2023-09-06T13:01:02Z |
 
 
 #### Extra {#extra}
@@ -64,6 +64,4 @@ slug = "f6e9082b-3589-448a-9877-b9a2b31d88ba"
 ## Backlinks {#backlinks}
 
 -   [Atom]({{< relref "atom.md" >}})
--   [Definition (Lisp)]({{< relref "atom.md#definition--id-f6e9082b-3589-448a-9877-b9a2b31d88ba-lisp" >}})
--   [AKA (Lisp)]({{< relref "symbolic_expression.md#aka--id-f6e9082b-3589-448a-9877-b9a2b31d88ba-lisp" >}})
--   [Definition (Lisp)]({{< relref "symbolic_expression.md#definition--id-f6e9082b-3589-448a-9877-b9a2b31d88ba-lisp" >}})
+-   [Symbolic expression]({{< relref "symbolic_expression.md" >}})

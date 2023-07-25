@@ -2,7 +2,7 @@
 title = "Abstract data type"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:49:00-07:00
-lastmod = 2022-12-17T13:34:11-08:00
+lastmod = 2023-07-25T08:33:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "2eae74ba-4003-45cf-8425-7291aaa7a537"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 119.27   | 2023-02-17T21:54:23Z |
-| front    | 2.50 | 7   | 205.35   | 2023-07-09T04:54:49Z |
+| back     | 2.50 | 8   | 288.11   | 2023-12-05T23:58:21Z |
+| front    | 2.20 | 4   | 13.25    | 2023-08-02T21:26:41Z |
 
 [Abstract data type]({{< relref "abstract_data_type.md" >}})
 
@@ -41,7 +41,7 @@ A mathematical model for data types which is defined by its behavior from the po
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 85.01    | 2023-01-03T16:35:20Z |
+| front    | 2.80 | 7   | 222.36   | 2023-08-17T23:51:04Z |
 
 [Abstract data type]({{< relref "abstract_data_type.md" >}}) and [Data structure]({{< relref "data_structures.md" >}})
 
@@ -63,8 +63,8 @@ Both concepts relate to how the system stores and interacts with data.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 109.02   | 2023-02-10T14:46:20Z |
-| back     | 2.80 | 6   | 101.29   | 2023-02-14T07:21:46Z |
+| front    | 2.80 | 7   | 288.78   | 2023-11-26T19:00:36Z |
+| back     | 2.80 | 7   | 304.02   | 2023-12-16T05:08:41Z |
 
 [Abstract data type]({{< relref "abstract_data_type.md" >}})
 
@@ -87,7 +87,7 @@ Both concepts relate to how the system stores and interacts with data.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-17T15:22:53Z |
+| 0        | 2.50 | 7   | 224.13   | 2023-12-28T18:18:33Z |
 
 
 #### Extra {#extra}
@@ -120,14 +120,9 @@ Both concepts relate to how the system stores and interacts with data.
 
 ## Backlinks {#backlinks}
 
--   [Tree]({{< relref "tree.md" >}})
--   [Definition (Computer science)]({{< relref "tree.md#definition--computer-science" >}})
--   [Definition (Computer science)]({{< relref "priority_queue.md#definition--computer-science" >}})
--   [A {{Priority queue}{Abstract data type}@0} is often implemented with a {{Heap}@1}]({{< relref "priority_queue.md#a-id-6f787120-13bb-405a-bfca-060df6d80b14-priority-queue-id-2eae74ba-4003-45cf-8425-7291aaa7a537-abstract-data-type-0-is-often-implemented-with-a-id-70cbebc9-8936-4d52-885a-76d747c6577f-heap-1" >}})
--   [Stack]({{< relref "stack.md" >}})
--   [Describe (Abstract data type)]({{< relref "stack.md#describe--id-2eae74ba-4003-45cf-8425-7291aaa7a537-abstract-data-type" >}})
 -   [Heap]({{< relref "heap.md" >}})
+-   [Stack]({{< relref "stack.md" >}})
 -   [Associative array]({{< relref "associative_array.md" >}})
--   [Definition (Computer science)]({{< relref "associative_array.md#definition--computer-science" >}})
 -   [Queue]({{< relref "queue.md" >}})
--   [Definition (Computer science)]({{< relref "queue.md#definition--computer-science" >}})
+-   [Priority queue]({{< relref "priority_queue.md" >}})
+-   [Tree]({{< relref "tree.md" >}})

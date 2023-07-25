@@ -2,7 +2,7 @@
 title = "Reflexive relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:10:00-07:00
-lastmod = 2022-12-17T14:07:01-08:00
+lastmod = 2023-07-25T12:26:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "48d05562-111f-4e9a-b005-013d54d4419e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.20 | 5   | 26.66    | 2023-01-10T09:22:04Z |
-| front    | 2.65 | 7   | 108.79   | 2023-03-10T21:02:50Z |
+| back     | 2.35 | 7   | 168.27   | 2023-09-02T20:02:28Z |
+| front    | 2.65 | 8   | 312.40   | 2024-01-17T15:09:17Z |
 
 [Reflexive relation]({{< relref "reflexive.md" >}})
 
@@ -50,6 +50,4 @@ Formally: \\(x \\, R \\, x \\; \forall \\; x \in X\\)
 ## Backlinks {#backlinks}
 
 -   [Equivalence relation]({{< relref "equivalence_relation.md" >}})
--   [Definition (Math)]({{< relref "equivalence_relation.md#flashcards" >}})
 -   [Total order]({{< relref "total_order.md" >}})
--   [Describe]({{< relref "total_order.md#describe" >}})

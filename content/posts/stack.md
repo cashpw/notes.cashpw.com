@@ -2,7 +2,7 @@
 title = "Stack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T20:24:00-07:00
-lastmod = 2022-12-17T14:11:44-08:00
+lastmod = 2023-07-25T12:30:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,7 +26,7 @@ slug = "5ab783c7-9a13-42d2-920d-95f103ac677c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 121.59   | 2023-02-19T15:48:33Z |
+| front    | 2.80 | 7   | 327.75   | 2024-01-19T11:28:44Z |
 | back     | 2.65 | 6   | 109.96   | 2023-03-06T13:09:11Z |
 
 Common API of a [Stack]({{< relref "stack.md" >}})
@@ -48,7 +48,7 @@ Common API of a [Stack]({{< relref "stack.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 136.64   | 2023-04-15T07:15:40Z |
+| 0        | 2.65 | 7   | 369.53   | 2024-05-07T10:30:02Z |
 
 
 #### Extra {#extra}
@@ -63,8 +63,8 @@ Common API of a [Stack]({{< relref "stack.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 113.42   | 2023-03-23T04:38:04Z |
-| back     | 2.95 | 6   | 92.09    | 2023-03-04T21:50:26Z |
+| front    | 2.95 | 7   | 337.12   | 2024-02-23T18:38:15Z |
+| back     | 2.95 | 7   | 270.80   | 2023-12-01T12:37:47Z |
 
 [Stack]({{< relref "stack.md" >}})
 
@@ -90,7 +90,5 @@ A collection of elements, maintained in [Last in, first out]({{< relref "first_i
 
 ## Backlinks {#backlinks}
 
--   [Describe]({{< relref "depth_first_search.md" >}})
--   [The iterative version of Depth-first search uses a {{Stack}@0}]({{< relref "depth_first_search.md" >}})
--   [Compare/Contrast]({{< relref "queue.md#compare-contrast" >}})
--   [A {{Queue}@0} is the opposite of a {{Stack}@1}]({{< relref "queue.md#a-id-f7ca3e99-0356-4651-996e-542a11d67f50-queue-0-is-the-opposite-of-a-id-5ab783c7-9a13-42d2-920d-95f103ac677c-stack-1" >}})
+-   [Depth-first search]({{< relref "depth_first_search.md" >}})
+-   [Queue]({{< relref "queue.md" >}})

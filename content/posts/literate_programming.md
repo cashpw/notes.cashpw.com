@@ -2,7 +2,7 @@
 title = "Literate programming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T14:41:00-07:00
-lastmod = 2022-12-17T13:53:23-08:00
+lastmod = 2023-07-25T11:02:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "5c82bd2b-141a-420f-8289-4fff9514b769"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T18:22:32Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-11T16:52:55Z |
+| front    | 2.50 | 7   | 237.37   | 2024-01-03T00:29:14Z |
+| back     | 1.30 | 7   | 20.29    | 2023-07-30T22:46:15Z |
 
 [Literate programming]({{< relref "literate_programming.md" >}})
 

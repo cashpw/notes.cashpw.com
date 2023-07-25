@@ -2,7 +2,7 @@
 title = "Total order"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:04:00-07:00
-lastmod = 2022-12-17T14:19:00-08:00
+lastmod = 2023-07-25T12:37:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,8 +24,8 @@ slug = "131299ef-557c-4421-b021-eebba79aaa59"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 0   | 0.00     | 2022-12-16T18:03:34Z |
-| back     | 2.5  | -1  | 0        | 2022-11-14T23:37:53Z |
+| front    | 1.30 | 7   | 18.85    | 2023-08-10T23:57:16Z |
+| back     | 2.65 | 7   | 326.10   | 2024-06-14T06:23:36Z |
 
 [Total order]({{< relref "total_order.md" >}})
 
@@ -53,4 +53,4 @@ A [Binary relation]({{< relref "binary_relation.md" >}}) \\(\leq\\) on a set, \\
 
 ## Backlinks {#backlinks}
 
--   [Definition]({{< relref "binary_search_tree.md#definition" >}})
+-   [Binary search tree]({{< relref "binary_search_tree.md" >}})

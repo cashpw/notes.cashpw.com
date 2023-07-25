@@ -2,7 +2,7 @@
 title = "Skewed binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-12-17T14:10:09-08:00
+lastmod = 2023-07-25T12:28:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "4c7bf5db-dc29-44a1-bb77-36d560b38688"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 58.64    | 2022-12-21T10:47:12Z |
-| front    | 2.80 | 6   | 111.33   | 2023-02-26T22:22:08Z |
+| back     | 2.50 | 8   | 359.49   | 2024-05-17T08:01:33Z |
+| front    | 2.95 | 7   | 327.96   | 2024-01-23T03:13:23Z |
 
 [Skewed binary tree]({{< relref "skewed_binary_tree.md" >}})
 
@@ -48,8 +48,8 @@ A [Degenerate binary tree]({{< relref "degenerate_binary_tree.md" >}}) in which 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 122.71   | 2023-02-21T07:53:57Z |
-| back     | 1.75 | 5   | 22.55    | 2023-01-06T07:10:17Z |
+| front    | 2.80 | 8   | 362.05   | 2024-02-23T17:09:58Z |
+| back     | 2.05 | 8   | 204.61   | 2023-12-25T19:12:26Z |
 
 [Skewed binary tree]({{< relref "skewed_binary_tree.md" >}})
 
@@ -68,7 +68,7 @@ A [Degenerate binary tree]({{< relref "degenerate_binary_tree.md" >}}) in which 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 54.52    | 2023-01-05T15:26:28Z |
+| 0        | 2.35 | 8   | 308.05   | 2024-03-24T14:21:56Z |
 
 
 #### Extra {#extra}

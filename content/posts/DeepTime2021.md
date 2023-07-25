@@ -2,7 +2,7 @@
 title = "Deep time"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T13:07:00-08:00
-lastmod = 2022-12-17T13:33:45-08:00
+lastmod = 2023-07-25T08:30:18-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -27,8 +27,8 @@ slug = "607e152b-fce5-4e83-a88e-58c0f1f5571d"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.00    | 2022-12-15T16:03:33Z |
-| back     | 2.50 | 4   | 15.30    | 2022-12-29T00:44:55Z |
+| front    | 2.35 | 7   | 195.62   | 2023-11-11T05:27:00Z |
+| back     | 2.50 | 7   | 199.42   | 2023-11-17T09:34:06Z |
 
 [Deep time]({{< relref "DeepTime2021.md" >}})
 
@@ -47,8 +47,8 @@ Term referring to geologic scales of time.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 16.75    | 2022-12-16T09:55:11Z |
-| 1        | 2.80 | 4   | 16.92    | 2022-12-18T14:08:38Z |
+| 0        | 2.80 | 7   | 365.61   | 2024-05-30T06:58:34Z |
+| 1        | 3.10 | 7   | 408.89   | 2024-08-24T10:07:44Z |
 
 -   {{[Geologic time]({{< relref "DeepTime2021.md" >}})}@0}
 -   {{[Deep time]({{< relref "DeepTime2021.md" >}})}@1}
@@ -67,5 +67,5 @@ Term referring to geologic scales of time.
 
 ## Backlinks {#backlinks}
 
--   [Time is long]({{< relref "time_is_long.md" >}})
 -   [Speculative evolution]({{< relref "SpeculativeEvolution2022.md" >}})
+-   [Time is long]({{< relref "time_is_long.md" >}})

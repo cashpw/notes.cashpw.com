@@ -2,7 +2,7 @@
 title = "Unstable sorting algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T16:20:00-07:00
-lastmod = 2022-12-17T14:20:43-08:00
+lastmod = 2023-07-25T12:39:34-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,8 +24,8 @@ unstable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')])
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 6   | 112.31   | 2023-03-03T00:08:23Z |
-| front    | 2.65 | 6   | 127.78   | 2023-03-21T10:04:13Z |
+| back     | 2.35 | 7   | 249.84   | 2023-11-08T10:07:29Z |
+| front    | 2.65 | 7   | 359.58   | 2024-03-15T07:31:05Z |
 
 [Unstable sorting algorithm]({{< relref "unstable_sorting_algorithm.md" >}})
 
@@ -44,8 +44,8 @@ A type of algorithm which **doesn't** sort equal elements in the same order that
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 81.06    | 2023-01-27T15:42:58Z |
-| back     | 2.35 | 6   | 66.09    | 2023-02-15T21:24:05Z |
+| front    | 2.95 | 7   | 216.77   | 2023-09-02T11:17:15Z |
+| back     | 2.50 | 7   | 180.74   | 2023-08-17T08:35:47Z |
 
 [Unstable sorting algorithm]({{< relref "unstable_sorting_algorithm.md" >}})
 
@@ -69,7 +69,5 @@ A type of algorithm which **doesn't** sort equal elements in the same order that
 
 ## Backlinks {#backlinks}
 
--   [Heapsort]({{< relref "heapsort.md" >}})
 -   [Quicksort]({{< relref "quicksort.md" >}})
--   [Describe]({{< relref "quicksort.md#describe" >}})
--   [Quicksort is {{Unstable}{stability}@0}]({{< relref "quicksort.md#id-d7bcd831-6a3f-4885-a654-15f0b11c9966-quicksort-is-id-3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43-unstable-stability-0" >}})
+-   [Heapsort]({{< relref "heapsort.md" >}})

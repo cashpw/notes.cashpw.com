@@ -2,7 +2,7 @@
 title = "You go high, we go low"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:05:00-07:00
-lastmod = 2022-12-17T14:24:03-08:00
+lastmod = 2023-07-25T12:43:34-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,12 +17,12 @@ See [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow20
 ## Flashcards {#flashcards}
 
 
-### Describe ([Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})) {#describe--alt-right-playbook-alt-right-playbook-dot-md}
+### Describe {#describe}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 3   | 6.00     | 2022-12-19T02:39:44Z |
-| back     | 2.35 | 6   | 141.07   | 2023-05-05T22:21:40Z |
+| front    | 2.05 | 8   | 153.89   | 2023-10-15T12:07:47Z |
+| back     | 2.35 | 7   | 301.36   | 2024-03-07T00:51:43Z |
 
 [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})
 
@@ -41,8 +41,8 @@ A victory-oriented, ends justify the means, [Play to win]({{< relref "play_to_wi
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.45 | 9   | 106.29   | 2023-03-16T01:45:36Z |
-| back     | 2.65 | 6   | 81.12    | 2022-12-25T19:06:04Z |
+| front    | 2.45 | 10  | 283.00   | 2023-12-25T14:13:00Z |
+| back     | 2.50 | 2   | 2.00     | 2023-07-26T03:56:35Z |
 
 [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})
 
@@ -65,4 +65,5 @@ A victory-oriented, ends justify the means, [Play to win]({{< relref "play_to_wi
 
 ## Backlinks {#backlinks}
 
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow2018.md" >}})

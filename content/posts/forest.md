@@ -2,7 +2,7 @@
 title = "Forest"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:57:00-07:00
-lastmod = 2022-12-17T13:44:15-08:00
+lastmod = 2023-07-25T10:41:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "326df302-a17b-4f2c-8bcd-027be7a459f5"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 95.10    | 2023-02-08T02:37:18Z |
-| front    | 2.65 | 9   | 82.06    | 2023-02-05T15:08:12Z |
+| back     | 2.50 | 8   | 242.78   | 2023-10-09T13:32:56Z |
+| front    | 2.50 | 10  | 187.12   | 2023-08-13T02:23:04Z |
 
 [Forest]({{< relref "forest.md" >}})
 
@@ -41,8 +41,8 @@ A [Graph]({{< relref "graph.md" >}}) in which any two [Vertices]({{< relref "ver
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 105.86   | 2023-01-19T12:54:04Z |
-| 1        | 2.65 | 6   | 113.05   | 2023-02-04T17:06:46Z |
+| 0        | 2.50 | 8   | 255.94   | 2023-10-02T14:55:19Z |
+| 1        | 2.80 | 7   | 296.37   | 2023-12-01T03:12:56Z |
 
 -   {{[Forest]({{< relref "forest.md" >}})}@0}
 -   {{Disjoint union of [Trees]({{< relref "tree.md" >}})}@1}

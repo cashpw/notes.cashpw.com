@@ -2,7 +2,7 @@
 title = "HTTP Cookies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T09:52:00-07:00
-lastmod = 2022-12-17T13:47:48-08:00
+lastmod = 2023-07-25T10:46:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "023c4857-9ecc-48a8-81b6-4738bab59a4c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 0   | 0.00     | 2022-12-16T17:43:01Z |
-| back     | 2.35 | 6   | 87.80    | 2023-01-18T10:21:34Z |
+| front    | 2.05 | 7   | 149.66   | 2023-09-28T15:26:29Z |
+| back     | 2.50 | 7   | 205.10   | 2023-08-14T16:49:13Z |
 
 Purposes of [HTTP Cookies]({{< relref "http_cookies.md" >}})
 
@@ -49,8 +49,8 @@ Purposes of [HTTP Cookies]({{< relref "http_cookies.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 86.52    | 2023-01-29T04:53:24Z |
-| back     | 2.80 | 6   | 72.97    | 2023-01-17T16:11:30Z |
+| front    | 2.65 | 7   | 230.15   | 2023-09-17T05:54:11Z |
+| back     | 2.65 | 7   | 197.73   | 2023-08-04T08:55:42Z |
 
 [HTTP Cookies]({{< relref "http_cookies.md" >}})
 
@@ -75,7 +75,7 @@ Servers use them for:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 29.92    | 2023-01-04T16:05:03Z |
+| 0        | 2.50 | 7   | 163.92   | 2023-08-28T12:16:08Z |
 
 
 #### Extra {#extra}
@@ -90,7 +90,7 @@ Servers use them for:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.30 | 10  | 51.02    | 2022-12-18T15:56:31Z |
+| 0        | 1.85 | 8   | 154.54   | 2023-12-01T09:51:26Z |
 
 
 #### Extra {#extra}
@@ -105,7 +105,7 @@ Servers use them for:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 114.31   | 2023-02-08T22:45:22Z |
+| 0        | 2.80 | 7   | 301.48   | 2023-12-09T11:13:26Z |
 
 
 #### Extra {#extra}
@@ -120,7 +120,7 @@ Servers use them for:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.15 | 8   | 78.32    | 2023-01-07T23:13:02Z |
+| 0        | 2.15 | 10  | 362.18   | 2024-06-19T05:50:35Z |
 
 
 #### Extra {#extra}
@@ -135,7 +135,7 @@ Servers use them for:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 86.14    | 2023-02-06T17:49:28Z |
+| 0        | 2.35 | 8   | 204.70   | 2023-08-30T16:27:34Z |
 
 
 #### Extra {#extra}
@@ -150,8 +150,8 @@ Servers use them for:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 8   | 71.58    | 2023-01-14T06:05:59Z |
-| back     | 2.50 | 5   | 38.36    | 2022-12-29T01:44:26Z |
+| front    | 2.65 | 9   | 198.16   | 2023-07-31T22:23:27Z |
+| back     | 2.35 | 7   | 197.04   | 2023-10-06T16:50:41Z |
 
 `Set-Cookie` HTTP response headers
 
@@ -176,6 +176,4 @@ Servers use them for:
 ## Backlinks {#backlinks}
 
 -   [Third-party cookies]({{< relref "third_party_cookies.md" >}})
--   [Definition]({{< relref "third_party_cookies.md#definition" >}})
 -   [First-party cookies]({{< relref "first_party_cookies.md" >}})
--   [Definition]({{< relref "first_party_cookies.md#definition" >}})

@@ -2,7 +2,7 @@
 title = "Fallacy of gray"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T10:32:00-08:00
-lastmod = 2022-12-17T13:43:18-08:00
+lastmod = 2023-07-25T10:40:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,8 @@ The fallacy of gray is an assertion, in the face of a lack of a clear black and 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 13.82    | 2022-12-25T14:56:56Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-09T19:56:03Z |
+| front    | 2.50 | 7   | 188.23   | 2023-10-22T21:16:19Z |
+| back     | 2.95 | 7   | 286.79   | 2024-02-23T11:09:32Z |
 
 [Fallacy of gray]({{< relref "fallacy_of_gray.md" >}})
 
@@ -53,5 +53,6 @@ The assertion that since nothing is black and white that all things are equal.
 
 ## Backlinks {#backlinks}
 
+-   [Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?]({{< relref "nathan_robinson_is_there_a_principled_distinction_between_refusing_to_watch_american_sniper_and_refusing_to_read_fun_home.md" >}})
 -   [Eliezer Yudkowsky | The Fallacy of Gray]({{< relref "yudkowskyFallacyGray.md" >}})
 -   [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}})

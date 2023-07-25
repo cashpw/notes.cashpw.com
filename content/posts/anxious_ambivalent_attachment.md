@@ -2,7 +2,7 @@
 title = "Anxious-ambivalent attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:44:00-07:00
-lastmod = 2022-12-17T13:35:07-08:00
+lastmod = 2023-07-25T08:38:14-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

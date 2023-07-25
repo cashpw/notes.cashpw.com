@@ -2,7 +2,7 @@
 title = "Frank Herbert"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:05:00-08:00
-lastmod = 2022-12-17T13:44:25-08:00
+lastmod = 2023-07-25T10:41:24-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,7 +21,7 @@ Among other things:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 3.10 | 6   | 156.06   | 2023-05-06T19:06:38Z |
+| front    | 3.10 | 7   | 513.16   | 2024-10-03T20:30:41Z |
 
 [Frank Herbert]({{< relref "frank_herbert.md" >}})
 

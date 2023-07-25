@@ -2,7 +2,7 @@
 title = "Geometric sequence"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:31:00-08:00
-lastmod = 2022-12-17T13:45:14-08:00
+lastmod = 2023-07-25T10:42:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,8 @@ slug = "0a3c8553-f631-4eca-8e2c-957419ebb8ac"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T18:08:30Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T22:49:13Z |
+| front    | 2.20 | 7   | 128.34   | 2023-08-19T21:33:01Z |
+| back     | 2.80 | 7   | 292.16   | 2024-04-17T00:49:03Z |
 
 [Geometric progression]({{< relref "geometric_progression.md" >}})
 
@@ -49,8 +49,8 @@ A sequence of non-zero numbers where each term is `previous_number * common_rati
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-21T20:46:00Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T22:49:33Z |
+| front    | 2.35 | 7   | 173.55   | 2023-10-21T07:56:22Z |
+| back     | 2.35 | 5   | 32.20    | 2023-08-11T20:25:55Z |
 
 Common ratio
 
@@ -69,8 +69,8 @@ The multiplicative factor in a [Geometric progression]({{< relref "geometric_pro
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-17T19:33:58Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-21T20:06:54Z |
+| front    | 2.20 | 7   | 148.89   | 2023-09-05T13:06:53Z |
+| back     | 2.95 | 7   | 361.99   | 2024-06-27T01:33:27Z |
 
 [Geometric progression]({{< relref "geometric_progression.md" >}})
 

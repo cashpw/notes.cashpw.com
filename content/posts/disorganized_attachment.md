@@ -2,7 +2,7 @@
 title = "Disorganized attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T13:27:00-07:00
-lastmod = 2022-12-17T13:41:18-08:00
+lastmod = 2023-07-25T10:28:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ slug = "80396b6d-d572-4437-ab2d-698c62a3038b"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 7   | 76.76    | 2023-02-08T21:06:25Z |
-| back     | 2.50 | 4   | 16.27    | 2022-12-18T00:07:42Z |
+| front    | 3.10 | 8   | 225.56   | 2023-09-24T13:19:25Z |
+| back     | 2.35 | 7   | 223.08   | 2023-12-21T18:05:52Z |
 
 [Disorganized attachment]({{< relref "disorganized_attachment.md" >}})
 

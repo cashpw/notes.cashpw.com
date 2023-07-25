@@ -2,7 +2,7 @@
 title = "Standard deviation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:08:00-08:00
-lastmod = 2022-12-17T14:12:00-08:00
+lastmod = 2023-07-25T12:30:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,12 +19,12 @@ slug = "f4de9f04-053d-4602-a81a-c4118e6ee3c2"
 ## Flashcards {#flashcards}
 
 
-### Definition (Statistics) {#definition--statistics}
+### Describe (Statistics) {#describe--statistics}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 9   | 210.90   | 2023-06-30T15:09:21Z |
-| front    | 2.00 | 1   | 1.00     | 2022-12-16T20:47:58Z |
+| back     | 2.35 | 10  | 468.17   | 2024-10-11T05:51:17Z |
+| front    | 1.55 | 6   | 23.73    | 2023-08-05T06:31:31Z |
 
 [Standard deviation]({{< relref "standard_deviation.md" >}})
 
@@ -43,7 +43,7 @@ A measure of the amount of variation or dispersion of a set of values.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 121.31   | 2023-01-22T22:19:36Z |
+| 0        | 2.65 | 8   | 305.88   | 2023-11-25T11:23:36Z |
 
 -   {{\\(s\\)}@0}
 
@@ -59,7 +59,7 @@ Sample [Standard deviation]({{< relref "standard_deviation.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 108.16   | 2023-01-30T05:00:23Z |
+| 0        | 2.50 | 8   | 272.47   | 2023-10-31T01:21:41Z |
 
 -   {{\\(\sigma\\)}@0}
 
@@ -75,10 +75,10 @@ Population [Standard deviation]({{< relref "standard_deviation.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-03T18:23:28Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-18T20:23:54Z |
+| 0        | 2.50 | 7   | 236.36   | 2024-01-09T23:53:40Z |
+| 1        | 1.30 | 8   | 33.66    | 2023-08-26T19:51:02Z |
 
-{{\\(\operatorname{stddev}(x)\\)}@0} \\(=\\) {{\\(\sqrt{\frac{1}{n} \sum\_{i = 1}^n (x\_i - \bar{x})^2}\\)}@1}
+{{\\(\operatorname{stddev}(x)\\)}@0} \\(=\\) {{\\(\sqrt{\frac{1}{n} \sum\_{i = 1}^n (x\_i - \bar{x})^2}\\)}{expression}@1}
 
 
 #### Source {#source}

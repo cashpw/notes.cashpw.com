@@ -2,7 +2,7 @@
 title = "Reasoning from analogies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:24:00-08:00
-lastmod = 2022-12-17T14:06:33-08:00
+lastmod = 2023-07-25T12:26:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,7 @@ In contrast to [reasoning from first principles]({{< relref "reasoning_from_firs
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T18:03:54Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T04:19:27Z |
+| front    | 2.80 | 7   | 290.10   | 2024-03-16T18:04:13Z |
 
 [Reasoning from analogies]({{< relref "reasoning_from_analogy.md" >}}) and [Reasoning from first principles]({{< relref "reasoning_from_first_principles.md" >}})
 
@@ -44,8 +43,8 @@ In contrast to [reasoning from first principles]({{< relref "reasoning_from_firs
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.41    | 2022-12-24T08:40:05Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-21T20:44:32Z |
+| front    | 2.80 | 7   | 339.61   | 2024-05-06T16:01:51Z |
+| back     | 2.35 | 7   | 214.11   | 2023-12-21T15:53:50Z |
 
 [Reasoning from analogies]({{< relref "reasoning_from_analogy.md" >}})
 
@@ -61,3 +60,4 @@ The technique of crafting an argument from higher-order principles.
 ## Backlinks {#backlinks}
 
 -   [Ben Kuhn | To Listen Well, Get Curious]({{< relref "kuhnListenWellGet.md" >}})
+-   [Reasoning from first principles]({{< relref "reasoning_from_first_principles.md" >}})

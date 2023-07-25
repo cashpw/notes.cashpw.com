@@ -2,7 +2,7 @@
 title = "Perfect information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2022-12-17T14:01:45-08:00
+lastmod = 2023-07-25T11:25:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,8 +28,8 @@ Also see [Game theory]({{< relref "game_theory.md" >}}), [Imperfect information]
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 17.11    | 2022-12-20T21:47:17Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-20T17:54:00Z |
+| front    | 2.80 | 7   | 368.69   | 2024-06-20T20:42:27Z |
+| back     | 2.95 | 6   | 177.75   | 2023-09-07T08:49:33Z |
 
 [Perfect information]({{< relref "perfect_information.md" >}})
 
@@ -48,8 +48,8 @@ Also see [Game theory]({{< relref "game_theory.md" >}}), [Imperfect information]
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 37.93    | 2023-01-13T13:46:45Z |
-| back     | 2.50 | 4   | 15.14    | 2022-12-26T23:06:47Z |
+| front    | 2.50 | 7   | 217.07   | 2023-12-02T16:18:15Z |
+| back     | 2.35 | 7   | 192.32   | 2023-11-18T00:30:00Z |
 
 [Perfect information]({{< relref "perfect_information.md" >}})
 
@@ -68,7 +68,7 @@ A game in which each player is informed of all the events which have previously 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 47.37    | 2023-01-23T00:34:16Z |
+| front    | 2.80 | 7   | 371.13   | 2024-06-14T18:38:13Z |
 
 -   [Perfect information]({{< relref "perfect_information.md" >}})
 -   [Complete information]({{< relref "complete_information.md" >}})

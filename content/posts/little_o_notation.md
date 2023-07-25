@@ -2,7 +2,7 @@
 title = "Little-o notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:06:00-07:00
-lastmod = 2022-12-17T13:53:29-08:00
+lastmod = 2023-07-25T11:02:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,8 +30,8 @@ To use an analogy:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 7   | 66.03    | 2022-12-29T14:41:14Z |
-| front    | 2.20 | 5   | 30.84    | 2023-01-14T14:53:22Z |
+| back     | 2.20 | 9   | 284.19   | 2024-02-24T19:20:03Z |
+| front    | 2.05 | 7   | 142.71   | 2023-08-15T12:31:30Z |
 
 [Little-o notation]({{< relref "little_o_notation.md" >}})
 
@@ -50,8 +50,8 @@ To use an analogy:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 51.20    | 2023-02-05T01:31:43Z |
-| 1        | 2.50 | 4   | 13.83    | 2022-12-24T14:23:50Z |
+| 0        | 3.10 | 7   | 432.25   | 2024-09-16T18:56:26Z |
+| 1        | 2.80 | 7   | 257.74   | 2024-01-16T15:32:14Z |
 
 -   {{\\(o(n)\\)}@0}
 
@@ -63,11 +63,11 @@ To use an analogy:
 (<a href="#citeproc_bib_item_1">“Big O Notation” 2022</a>)
 
 
-### [Little-o notation]({{< relref "little_o_notation.md" >}}) is a {{stronger}{stronger/weaker}@0} statement than [Big-O notation]({{< relref "big_o_notation.md" >}}) {#little-o-notation--little-o-notation-dot-md--is-a-stronger-stronger-weaker-0-statement-than-big-o-notation--big-o-notation-dot-md}
+### [Little-o notation]({{< relref "little_o_notation.md" >}}) is a {{stronger}{relative strength}@0} statement than [Big-O notation]({{< relref "big_o_notation.md" >}}) {#little-o-notation--little-o-notation-dot-md--is-a-stronger-relative-strength-0-statement-than-big-o-notation--big-o-notation-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 15.93    | 2022-12-10T12:02:57Z |
+| 0        | 2.95 | 7   | 424.32   | 2024-09-06T23:30:17Z |
 
 
 #### Source {#source}

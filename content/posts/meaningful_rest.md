@@ -2,7 +2,7 @@
 title = "Meaningful rest"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:53:00-07:00
-lastmod = 2022-12-17T13:55:22-08:00
+lastmod = 2023-07-25T11:08:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -47,8 +47,8 @@ The term is from [Neel Nanda | Post 29: Meaningful Rest]({{< relref "neel_nanda_
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 46.19    | 2023-01-18T23:52:39Z |
-| back     | 2.80 | 4   | 18.22    | 2022-12-13T20:03:49Z |
+| front    | 2.80 | 7   | 322.49   | 2024-04-11T07:56:25Z |
+| back     | 3.10 | 6   | 164.21   | 2023-07-26T22:42:26Z |
 
 [Meaningful rest]({{< relref "meaningful_rest.md" >}})
 
@@ -67,7 +67,7 @@ A type of rest which rejuvenates the individual.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 40.13    | 2023-01-20T22:35:29Z |
+| front    | 2.50 | 7   | 260.99   | 2024-01-17T23:15:54Z |
 
 [Meaningful rest]({{< relref "meaningful_rest.md" >}}) and default actions
 

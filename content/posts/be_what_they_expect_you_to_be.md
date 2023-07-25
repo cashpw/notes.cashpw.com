@@ -2,7 +2,7 @@
 title = "Be what they expect you to be"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:02:00-08:00
-lastmod = 2022-12-17T13:35:47-08:00
+lastmod = 2023-07-25T08:41:00-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Bertolt Brecht | A worker reads history"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T07:12:00-08:00
-lastmod = 2022-12-17T13:34:07-08:00
+lastmod = 2023-07-25T08:32:42-07:00
 tags = ["has-todo", "poem", "has-todo", "poem"]
 categories = ["has-todo", "poem"]
 draft = false
@@ -54,8 +54,8 @@ So many questions.<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2022-12-18T17:48:33Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-15T15:15:40Z |
+| 0        | 2.35 | 7   | 129.96   | 2023-09-05T21:41:08Z |
+| 1        | 2.35 | 7   | 196.73   | 2023-12-22T09:44:45Z |
 
 
 #### Source {#source}
@@ -63,12 +63,11 @@ So many questions.<br />
 (<a href="#citeproc_bib_item_1">Bertholt n.d.</a>)
 
 
-### {{Bertolt Brecht}@0} wrote {{[A worker reads history]({{< relref "a_worker_reads_history.md" >}})}@1} {#bertolt-brecht-0-wrote-a-worker-reads-history--a-worker-reads-history-dot-md--1}
+### {{[Bertolt Brecht]({{< relref "bertolt_brecht.md" >}})}@0} wrote [A worker reads history]({{< relref "a_worker_reads_history.md" >}}) {#bertolt-brecht--bertolt-brecht-dot-md--0-wrote-a-worker-reads-history--a-worker-reads-history-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2022-12-15T18:21:02Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-15T15:19:35Z |
+| 0        | 2.20 | 7   | 186.10   | 2023-12-03T17:52:44Z |
 
 
 #### Source {#source}
@@ -80,8 +79,8 @@ So many questions.<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2022-12-14T18:19:47Z |
-| back     | 2.5  | -1  | 0        | 2022-12-14T18:19:47Z |
+| front    | 2.65 | 6   | 134.76   | 2023-07-28T09:22:00Z |
+| back     | 2.80 | 6   | 142.50   | 2023-08-15T07:19:59Z |
 
 [A worker reads history]({{< relref "a_worker_reads_history.md" >}})
 

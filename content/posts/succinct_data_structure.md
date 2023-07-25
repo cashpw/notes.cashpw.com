@@ -2,7 +2,7 @@
 title = "Succinct data structure"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:35:00-07:00
-lastmod = 2022-12-17T14:12:50-08:00
+lastmod = 2023-07-25T12:31:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 7   | 74.35    | 2023-01-20T23:22:33Z |
-| front    | 2.05 | 5   | 30.37    | 2023-01-05T09:13:57Z |
+| back     | 1.75 | 3   | 6.00     | 2023-07-24T13:39:19Z |
+| front    | 1.30 | 4   | 7.93     | 2023-07-25T12:09:47Z |
 
 [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
 
@@ -41,8 +41,8 @@ A [Data structure]({{< relref "data_structures.md" >}}) that requires \\(Z + o(Z
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 3   | 6.00     | 2022-12-22T17:52:02Z |
-| back     | 2.80 | 6   | 83.51    | 2023-02-05T03:34:58Z |
+| front    | 1.60 | 0   | 0.00     | 2023-05-03T21:38:29Z |
+| back     | 2.80 | 7   | 245.61   | 2023-10-10T12:36:04Z |
 
 [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
 

@@ -2,7 +2,7 @@
 title = "Andy Payne"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:33:00-08:00
-lastmod = 2022-12-17T13:34:56-08:00
+lastmod = 2023-07-25T08:37:21-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

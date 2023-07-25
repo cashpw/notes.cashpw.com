@@ -2,7 +2,7 @@
 title = "Akrasia"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-14T11:53:00-08:00
-lastmod = 2022-12-17T13:34:21-08:00
+lastmod = 2023-07-25T08:34:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,17 +17,12 @@ slug = "cce498c6-3fd2-40e1-9aee-fbc273d7fb32"
 ## Flashcards {#flashcards}
 
 
-### Definition {#definition}
+### Akrasia {#akrasia}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.15 | 5   | 32.32    | 2023-01-08T23:22:43Z |
-| front    | 2.35 | 8   | 200.28   | 2023-07-03T01:24:49Z |
-
-[Akrasia]({{< relref "akrasia.md" >}})
-
-
-#### Back {#back}
+| back     | 2.30 | 7   | 167.26   | 2023-09-05T20:00:37Z |
+| front    | 2.20 | 9   | 468.77   | 2024-10-14T20:05:32Z |
 
 A lack of self-control or the state of acting against one's better judgment.
 
@@ -45,5 +40,6 @@ A lack of self-control or the state of acting against one's better judgment.
 
 ## Backlinks {#backlinks}
 
+-   [Scott Alexander]({{< relref "scott_alexander.md" >}})
 -   [Notice the taste of lotus]({{< relref "valentineNoticingTasteLotus2018.md" >}})
--   [Describe]({{< relref "valentineNoticingTasteLotus2018.md#describe" >}})
+-   [Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]({{< relref "kaj_sotala_nobody_does_the_thing_that_they_are_supposedly_doing.md" >}})

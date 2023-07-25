@@ -2,7 +2,7 @@
 title = "Cedric Chin | To Get Good, Go After The Metagame"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:01:00-08:00
-lastmod = 2022-12-17T13:37:56-08:00
+lastmod = 2023-07-25T08:52:17-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -62,12 +62,12 @@ Mastering something requires mastering the literal game as well as the [Metagame
 ## Flashcards {#flashcards}
 
 
-### Describe {#describe}
+### Summarize {#summarize}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.19    | 2022-12-31T01:12:42Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-15T01:53:20Z |
+| front    | 2.80 | 6   | 103.51   | 2023-05-27T06:03:44Z |
+| back     | 2.50 | 6   | 83.41    | 2023-05-11T13:28:26Z |
 
 [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
 

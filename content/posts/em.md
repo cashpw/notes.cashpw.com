@@ -2,7 +2,7 @@
 title = "Em"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T09:00:00-07:00
-lastmod = 2022-12-17T13:42:35-08:00
+lastmod = 2023-07-25T10:29:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ Ems are copies of human minds which exist on computers in [Robin Hanson | The Ag
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 34.36    | 2022-12-24T00:55:11Z |
-| back     | 2.80 | 4   | 17.46    | 2022-12-18T04:57:39Z |
+| front    | 2.20 | 7   | 162.93   | 2023-08-27T12:26:50Z |
+| back     | 2.65 | 7   | 310.66   | 2024-04-18T16:03:21Z |
 
 [Em]({{< relref "em.md" >}})
 

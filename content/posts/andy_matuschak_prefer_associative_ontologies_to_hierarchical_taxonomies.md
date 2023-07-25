@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Prefer Associative Ontologies to Hierarchical Taxonomies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:38:00-08:00
-lastmod = 2022-12-17T13:34:55-08:00
+lastmod = 2023-07-25T08:37:17-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -35,5 +35,5 @@ slug = "47b06441-f192-42cf-9c30-9be549d2da95"
 
 ## Backlinks {#backlinks}
 
--   [Style Guide]({{< relref "style_guide.md" >}})
 -   [Andy Matuschak | Evergreen Notes Should Be Densely Linked]({{< relref "EvergreenNotesShouldBeDenselyLinked.md" >}})
+-   [Style Guide]({{< relref "style_guide.md" >}})

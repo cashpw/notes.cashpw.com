@@ -2,9 +2,9 @@
 title = "Bob Altemeyer | The Authoritarians"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T19:12:00-07:00
-lastmod = 2022-12-17T13:34:47-08:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2023-07-25T08:36:38-07:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "9e3242c4-62f4-4863-8368-8a4b160c1e76"
 +++
@@ -23,7 +23,13 @@ slug = "9e3242c4-62f4-4863-8368-8a4b160c1e76"
 [Authoritarian followers place "being normal" substantially higher than most people do]({{< relref "authoritarian_followers_place_being_normal_substantially_higher_than_most_people_do.md" >}})
 
 
+## Create a note for Authoritarianism {#create-a-note-for-authoritarianism}
+
+
 ## Flashcards {#flashcards}
+
+
+### Describe authoritarians from Altemeyer's perspective {#describe-authoritarians-from-altemeyer-s-perspective}
 
 ## References
 

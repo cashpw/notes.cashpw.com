@@ -2,7 +2,7 @@
 title = "Imagine others complexly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T10:05:00-07:00
-lastmod = 2022-12-17T13:48:38-08:00
+lastmod = 2023-07-25T10:47:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,8 @@ It's easy to see yourself complexly. It's more difficult, but also more importan
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-16T17:53:18Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-18T17:36:51Z |
+| front    | 2.65 | 7   | 287.01   | 2024-03-31T04:28:21Z |
+| back     | 2.65 | 7   | 359.61   | 2024-07-07T15:38:07Z |
 
 [Imagine others complexly]({{< relref "imagine_others_complexly.md" >}})
 
@@ -54,4 +54,6 @@ Related: Empathy
 ## Backlinks {#backlinks}
 
 -   [John Green | A Speech I Wrote for the ALAN Conference]({{< relref "john_green_a_speech_i_wrote_for_the_alan_conference.md" >}})
+-   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
+-   [Jennifer Wright | Lessons of a Very Sexy Pirate Costume]({{< relref "jennifer_wright_lessons_of_a_very_sexy_pirate_costume.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})

@@ -2,9 +2,9 @@
 title = "Call option"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:22:00-08:00
-lastmod = 2022-12-17T13:37:12-08:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2023-07-25T08:48:10-07:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "15f1b0b2-6f51-40de-93c9-77980744a483"
 +++
@@ -21,8 +21,8 @@ slug = "15f1b0b2-6f51-40de-93c9-77980744a483"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 8   | 182.32   | 2023-05-29T01:54:59Z |
-| front    | 2.35 | 8   | 217.81   | 2023-07-16T11:28:20Z |
+| back     | 2.35 | 9   | 413.65   | 2024-07-17T07:46:38Z |
+| front    | 2.35 | 9   | 475.30   | 2024-11-02T21:15:59Z |
 
 [Call option]({{< relref "call_option.md" >}})
 
@@ -36,6 +36,26 @@ A contract which allows the holder to buy a specific asset at a stated price wit
 
 (<a href="#citeproc_bib_item_1">“Call Option” 2022</a>)
 
+
+### Definition (Finance) {#definition--finance}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| back     | 2.80 | 8   | 362.33   | 2024-01-20T22:15:53Z |
+| front    | 2.65 | 8   | 240.12   | 2023-08-05T20:47:49Z |
+
+Covered call
+
+
+#### Back {#back}
+
+A financial transaction in which the investor selling call options owns an equivalent amount of the underlying security.
+
+
+#### Source {#source}
+
+<https://www.investopedia.com/terms/c/coveredcall.asp>
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
@@ -45,8 +65,6 @@ A contract which allows the holder to buy a specific asset at a stated price wit
 
 ## Backlinks {#backlinks}
 
--   [Strike price]({{< relref "strike_price.md" >}})
--   [Option (finance)]({{< relref "option.md" >}})
 -   [Delta (finance)]({{< relref "delta.md" >}})
--   [The range of Delta (options) for a {{Call option}@1} is {{[0, 1]}@0}]({{< relref "delta.md#the-range-of-id-ef21ad22-553d-432e-a4e2-bdc404009c87-delta--options--for-a-id-15f1b0b2-6f51-40de-93c9-77980744a483-call-option-1-is-0-1-0" >}})
--   [A Delta (options) of +0.30 for a option implies {{the value of the option will rise 0.30-points for every 1-point rise in the underlying security}@0}]({{< relref "delta.md#a-id-ef21ad22-553d-432e-a4e2-bdc404009c87-delta--options--of-plus-0-dot-30-for-a-id-15f1b0b2-6f51-40de-93c9-77980744a483-option-implies-the-value-of-the-option-will-rise-0-dot-30-points-for-every-1-point-rise-in-the-underlying-security-0" >}})
+-   [Option (finance)]({{< relref "option.md" >}})
+-   [Strike price]({{< relref "strike_price.md" >}})

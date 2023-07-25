@@ -2,7 +2,7 @@
 title = "Cooperative interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:30:00-07:00
-lastmod = 2022-12-17T13:38:56-08:00
+lastmod = 2023-07-25T08:57:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ A form of [Interoperability]({{< relref "interoperability.md" >}}) wherein the m
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 35.28    | 2023-01-12T23:36:14Z |
-| back     | 2.65 | 5   | 45.21    | 2023-01-27T07:36:44Z |
+| front    | 2.80 | 7   | 280.65   | 2024-02-06T15:09:27Z |
+| back     | 2.50 | 7   | 308.16   | 2024-04-03T19:18:09Z |
 
 [Cooperative interoperability]({{< relref "cooperative_interoperability.md" >}})
 
@@ -43,8 +43,8 @@ A form of [Interoperability]({{< relref "interoperability.md" >}}) wherein the m
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 43.91    | 2023-01-16T17:09:08Z |
-| back     | 2.80 | 4   | 15.80    | 2022-12-22T10:46:41Z |
+| front    | 3.10 | 7   | 388.75   | 2024-06-14T07:49:43Z |
+| back     | 3.10 | 7   | 392.80   | 2024-07-22T12:54:38Z |
 
 [Cooperative interoperability]({{< relref "cooperative_interoperability.md" >}})
 
@@ -61,8 +61,8 @@ A form of [Interoperability]({{< relref "interoperability.md" >}}) wherein the m
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 34.00    | 2023-01-05T22:04:43Z |
-| 1        | 2.50 | 4   | 13.81    | 2022-12-25T14:51:41Z |
+| 0        | 2.50 | 7   | 210.24   | 2023-10-23T22:07:59Z |
+| 1        | 2.50 | 7   | 196.90   | 2023-11-22T14:17:28Z |
 
 
 #### Source {#source}

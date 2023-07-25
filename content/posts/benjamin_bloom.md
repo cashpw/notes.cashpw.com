@@ -2,7 +2,7 @@
 title = "Benjamin Bloom"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:17:00-08:00
-lastmod = 2022-12-17T13:35:54-08:00
+lastmod = 2023-07-25T08:41:37-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,7 +21,7 @@ slug = "d449ac76-f230-4922-ab7c-3b65c90a4ea9"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2022-12-14T17:29:34Z |
+| front    | 2.20 | 7   | 141.16   | 2023-11-09T19:34:20Z |
 
 [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})
 
@@ -46,6 +46,6 @@ slug = "d449ac76-f230-4922-ab7c-3b65c90a4ea9"
 
 ## Backlinks {#backlinks}
 
--   [Mastery learning]({{< relref "mastery_learning.md" >}})
 -   [Bloom's 2 sigma problem]({{< relref "bloom_s_2_sigma_problem.md" >}})
 -   [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
+-   [Mastery learning]({{< relref "mastery_learning.md" >}})

@@ -2,7 +2,7 @@
 title = "Hunger stone"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T09:05:00-07:00
-lastmod = 2022-12-17T13:47:54-08:00
+lastmod = 2023-07-25T10:46:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "07e3fd1d-8aa7-4fe4-9a65-bf10654c9552"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.51    | 2022-11-23T02:53:56Z |
-| back     | 2.65 | 3   | 6.00     | 2022-11-20T16:30:10Z |
+| front    | 2.20 | 7   | 176.99   | 2023-10-23T14:28:04Z |
+| back     | 3.10 | 7   | 392.75   | 2024-08-03T18:16:08Z |
 
 [Hunger stone]({{< relref "hunger_stone.md" >}})
 
@@ -48,4 +48,3 @@ A type of hydrological landmark common in Central Europe which serve as famine m
 ## Backlinks {#backlinks}
 
 -   [If you see me, then weep]({{< relref "if_you_see_me_then_weep.md" >}})
--   [Describe]({{< relref "if_you_see_me_then_weep.md#describe" >}})

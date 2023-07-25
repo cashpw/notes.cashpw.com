@@ -2,7 +2,7 @@
 title = "Square matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:23:00-07:00
-lastmod = 2022-12-17T14:11:35-08:00
+lastmod = 2023-07-25T12:30:45-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "09208dbb-8043-4ef2-ac56-be944afb1dfa"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.50    | 2023-01-01T06:00:39Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-07T17:48:00Z |
+| front    | 2.80 | 7   | 322.50   | 2024-04-21T16:21:48Z |
+| back     | 2.95 | 7   | 323.65   | 2024-04-23T15:35:05Z |
 
 [Square matrix]({{< relref "square_matrix.md" >}})
 
@@ -45,7 +45,7 @@ A matrix which has the same number of rows and columns.
 
 ## Backlinks {#backlinks}
 
--   [Identity matrix]({{< relref "identity_matrix.md" >}})
--   [Symmetric matrix]({{< relref "symmetric_matrix.md" >}})
 -   [Adjacency matrix]({{< relref "adjacency_matrix.md" >}})
+-   [Symmetric matrix]({{< relref "symmetric_matrix.md" >}})
+-   [Identity matrix]({{< relref "identity_matrix.md" >}})
 -   [Determinant]({{< relref "determinant.md" >}})

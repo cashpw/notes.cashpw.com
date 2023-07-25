@@ -2,7 +2,7 @@
 title = "Chicken (game)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:28:00-07:00
-lastmod = 2022-12-17T13:37:49-08:00
+lastmod = 2023-07-25T08:51:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 46.20    | 2023-01-15T21:13:50Z |
-| back     | 2.80 | 4   | 16.93    | 2022-12-20T18:12:19Z |
+| front    | 2.80 | 7   | 348.47   | 2024-04-29T01:57:56Z |
+| back     | 2.65 | 7   | 299.68   | 2024-04-07T16:16:38Z |
 
 [Chicken]({{< relref "chicken.md" >}}) ([Game theory]({{< relref "game_theory.md" >}}))
 
@@ -48,4 +48,3 @@ A game modeling conflict between two players in which they both achieve the best
 ## Backlinks {#backlinks}
 
 -   [Symmetric game]({{< relref "symmetric_game.md" >}})
--   [Example(s) (Game theory)]({{< relref "symmetric_game.md#example--s----id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})

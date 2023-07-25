@@ -2,7 +2,7 @@
 title = "Testing effect"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:36:00-08:00
-lastmod = 2022-12-17T14:14:45-08:00
+lastmod = 2023-07-25T12:33:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ Retrieving a piece of information from memory will increase ones ability to reca
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-17T20:39:33Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-17T17:40:19Z |
+| front    | 2.80 | 7   | 316.88   | 2024-05-01T17:49:43Z |
+| back     | 2.65 | 7   | 307.45   | 2024-05-10T11:01:37Z |
 
 [Testing effect]({{< relref "testing_effect.md" >}})
 
@@ -41,8 +41,8 @@ Long term memory is increased when some of the learning period is devoted to ret
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2022-12-18T17:59:02Z |
-| 1        | 2.5  | -1  | 0        | 2022-12-13T18:22:18Z |
+| 0        | 1.45 | 5   | 14.05    | 2023-08-03T16:26:30Z |
+| 1        | 2.95 | 6   | 135.44   | 2023-08-03T02:46:21Z |
 
 -   {{[Active recall]({{< relref "testing_effect.md" >}})}@0}
 -   {{[Testing effect]({{< relref "testing_effect.md" >}})}@1}
@@ -61,9 +61,8 @@ Long term memory is increased when some of the learning period is devoted to ret
 
 ## Backlinks {#backlinks}
 
--   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
 -   [Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md#memory-in-educational-settings" >}})
+-   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
+-   [Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction]({{< relref "jose_luis_ricon_on_bloom_s_two_sigma_problem.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
--   [Definition]({{< relref "spaced_repetition.md#definition" >}})
--   [Cloze]({{< relref "spaced_repetition.md#cloze" >}})

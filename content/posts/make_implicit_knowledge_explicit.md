@@ -2,7 +2,7 @@
 title = "Make implicit knowledge explicit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T16:25:00-08:00
-lastmod = 2022-12-17T13:53:55-08:00
+lastmod = 2023-07-25T11:04:10-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

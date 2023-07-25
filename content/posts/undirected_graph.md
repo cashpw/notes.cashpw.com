@@ -2,7 +2,7 @@
 title = "Undirected graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:35:00-07:00
-lastmod = 2022-12-17T14:20:25-08:00
+lastmod = 2023-07-25T12:39:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ A [Graph]({{< relref "graph.md" >}}) with a [symmetric]({{< relref "symmetric_ma
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 90.25    | 2023-01-12T21:53:35Z |
-| front    | 2.65 | 6   | 70.20    | 2022-12-26T19:46:04Z |
+| back     | 2.50 | 8   | 239.68   | 2023-09-10T09:14:22Z |
+| front    | 2.50 | 8   | 462.11   | 2024-09-30T18:54:01Z |
 
 [Undirected graph]({{< relref "undirected_graph.md" >}})
 
@@ -44,8 +44,8 @@ A [Graph]({{< relref "graph.md" >}}) with a [symmetric]({{< relref "symmetric_ma
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 166.02   | 2023-05-31T18:15:08Z |
-| back     | 2.65 | 6   | 81.07    | 2023-01-15T17:03:54Z |
+| front    | 2.50 | 8   | 384.72   | 2024-06-20T18:30:29Z |
+| back     | 2.80 | 7   | 204.71   | 2023-08-09T19:13:40Z |
 
 [Undirected graph]({{< relref "undirected_graph.md" >}})
 
@@ -68,6 +68,8 @@ A [Graph]({{< relref "graph.md" >}}) with a [symmetric]({{< relref "symmetric_ma
 
 ## Backlinks {#backlinks}
 
--   [Graph theory]({{< relref "graph_theory.md" >}})
--   [Graph]({{< relref "graph.md" >}})
 -   [Forest]({{< relref "forest.md" >}})
+-   [Graph]({{< relref "graph.md" >}})
+-   [Graph theory]({{< relref "graph_theory.md" >}})
+-   [Connectivity (Graph theory)]({{< relref "connectivity_graph_theory.md" >}})
+-   [Component (Graph theory)]({{< relref "component_graph_theory.md" >}})

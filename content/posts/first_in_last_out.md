@@ -2,7 +2,7 @@
 title = "Last in, first out"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-07T06:49:00-07:00
-lastmod = 2022-12-17T13:43:40-08:00
+lastmod = 2023-07-25T10:40:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,9 +27,7 @@ Related: [First in, first out]({{< relref "first_in_first_out.md" >}})
 
 ## Backlinks {#backlinks}
 
--   [First in, first out]({{< relref "first_in_first_out.md" >}})
+-   [Python library: queue]({{< relref "python_library_queue.md" >}})
 -   [Stack]({{< relref "stack.md" >}})
--   [A Stack follows {{First in, last out}{ordering}@0}]({{< relref "stack.md#a-id-5ab783c7-9a13-42d2-920d-95f103ac677c-stack-follows-id-21c0c229-16c5-4eb8-bd12-e1947c5c47f3-first-in-last-out-ordering-0" >}})
--   [Describe (Abstract data type)]({{< relref "stack.md#describe--id-2eae74ba-4003-45cf-8425-7291aaa7a537-abstract-data-type" >}})
--   [Compare/Contrast]({{< relref "queue.md#compare-contrast" >}})
--   [A {{Queue}@0} is the opposite of a {{Stack}@1}]({{< relref "queue.md#a-id-f7ca3e99-0356-4651-996e-542a11d67f50-queue-0-is-the-opposite-of-a-id-5ab783c7-9a13-42d2-920d-95f103ac677c-stack-1" >}})
+-   [Queue]({{< relref "queue.md" >}})
+-   [First in, first out]({{< relref "first_in_first_out.md" >}})

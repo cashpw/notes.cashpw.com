@@ -2,7 +2,7 @@
 title = "Filter bubble"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:26:00-08:00
-lastmod = 2022-12-17T13:43:33-08:00
+lastmod = 2023-07-25T10:40:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ Related:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-17T19:49:19Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T23:07:32Z |
+| front    | 2.50 | 7   | 286.25   | 2024-03-16T10:22:30Z |
+| back     | 2.50 | 7   | 264.60   | 2024-03-18T05:46:33Z |
 
 [Filter bubble]({{< relref "filter_bubble.md" >}})
 

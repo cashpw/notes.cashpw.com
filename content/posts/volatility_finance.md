@@ -2,7 +2,7 @@
 title = "Volatility (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:06:00-08:00
-lastmod = 2022-12-17T14:22:30-08:00
+lastmod = 2023-07-25T12:41:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,15 +23,15 @@ slug = "c6e33b36-3854-48be-9d20-a3ce8b42ebe6"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 4   | 10.33    | 2022-12-27T01:47:28Z |
-| back     | 2.50 | 1   | 1.00     | 2022-11-21T17:10:40Z |
+| front    | 1.75 | 8   | 108.04   | 2023-08-25T17:46:18Z |
+| back     | 2.65 | 7   | 327.52   | 2024-05-30T12:44:42Z |
 
 \\(\sigma\\)
 
 
 #### Back {#back}
 
--   [Volatility (finance)]({{< relref "volatility_finance.md" >}})
+[Volatility (finance)]({{< relref "volatility_finance.md" >}})
 
 
 #### Source {#source}
@@ -43,8 +43,8 @@ slug = "c6e33b36-3854-48be-9d20-a3ce8b42ebe6"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 4   | 10.92    | 2022-12-24T16:12:00Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-10T15:51:36Z |
+| front    | 1.90 | 8   | 104.65   | 2023-07-27T04:50:31Z |
+| back     | 2.65 | 7   | 258.48   | 2024-02-26T11:42:26Z |
 
 [Volatility (finance)]({{< relref "volatility_finance.md" >}})
 

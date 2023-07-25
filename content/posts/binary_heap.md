@@ -2,7 +2,7 @@
 title = "Binary heap"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:22:00-07:00
-lastmod = 2022-12-17T13:36:11-08:00
+lastmod = 2023-07-25T08:42:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -69,8 +69,8 @@ slug = "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 65.89    | 2023-01-09T21:30:19Z |
-| front    | 2.80 | 6   | 106.12   | 2023-02-20T19:23:55Z |
+| back     | 2.80 | 8   | 525.49   | 2024-12-30T15:42:10Z |
+| front    | 2.95 | 7   | 337.24   | 2024-01-27T09:27:50Z |
 
 [Binary heap]({{< relref "binary_heap.md" >}})
 
@@ -89,8 +89,8 @@ A [Heap]({{< relref "heap.md" >}}) [Data structure]({{< relref "data_structures.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.95 | 6   | 111.16   | 2023-03-09T20:03:13Z |
-| 0        | 2.80 | 6   | 115.29   | 2023-03-15T23:53:09Z |
+| 1        | 2.95 | 7   | 348.63   | 2024-02-21T18:18:31Z |
+| 0        | 2.80 | 7   | 352.96   | 2024-03-04T13:06:21Z |
 
 
 #### Extra {#extra}
@@ -105,7 +105,7 @@ A [Heap]({{< relref "heap.md" >}}) [Data structure]({{< relref "data_structures.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 47.37    | 2023-02-01T05:14:30Z |
+| front    | 2.80 | 7   | 364.62   | 2024-06-17T05:15:32Z |
 
 Insertion into a [Binary heap]({{< relref "binary_heap.md" >}})
 
@@ -125,7 +125,7 @@ Insertion into a [Binary heap]({{< relref "binary_heap.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 52.49    | 2023-01-24T09:49:53Z |
+| front    | 2.80 | 7   | 405.87   | 2024-08-01T22:17:37Z |
 
 `Heap.pop` for a [Binary heap]({{< relref "binary_heap.md" >}})
 
@@ -143,24 +143,12 @@ Insertion into a [Binary heap]({{< relref "binary_heap.md" >}})
 (<a href="#citeproc_bib_item_1">“Binary Heap” 2022</a>)
 
 
-### Implement a [Binary heap]({{< relref "binary_heap.md" >}}) in [Python]({{< relref "python.md" >}}) {#implement-a-binary-heap--binary-heap-dot-md--in-python--python-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2022-10-28T16:13:33Z |
-
-
-#### Back {#back}
-
-[Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
-
-
 ### Describe {#describe}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 55.31    | 2023-02-09T03:54:47Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-05T18:45:18Z |
+| front    | 3.10 | 7   | 470.56   | 2024-11-04T17:09:42Z |
+| back     | 2.80 | 7   | 383.23   | 2024-07-27T21:08:22Z |
 
 `Heap.heapify_up` algorithm
 
@@ -185,8 +173,8 @@ Steps:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 5   | 46.10    | 2023-01-21T17:24:34Z |
-| back     | 2.80 | 4   | 17.20    | 2022-12-16T20:35:45Z |
+| front    | 2.65 | 7   | 374.57   | 2024-06-12T18:14:03Z |
+| back     | 2.35 | 7   | 326.83   | 2024-05-06T20:38:26Z |
 
 `Heap.heapify_down` algorithm
 
@@ -216,3 +204,6 @@ Steps:
 ## Backlinks {#backlinks}
 
 -   [Heap]({{< relref "heap.md" >}})
+-   [Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
+-   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
+-   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})

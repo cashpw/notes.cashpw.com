@@ -2,14 +2,14 @@
 title = "Quicksort implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T13:57:00-07:00
-lastmod = 2022-12-17T14:05:39-08:00
+lastmod = 2023-07-25T11:35:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "ed982b37-6f8e-4b89-bb51-ac608510325e"
 +++
 
-An implementation of [Quicksort]({{< relref "quicksort.md" >}}) in [Python]({{< relref "python.md" >}}).
+[Implementation]({{< relref "implementation.md" >}}) of [Quicksort]({{< relref "quicksort.md" >}}) in [Python]({{< relref "python.md" >}}).
 
 ```python
 from typing import List, Callable
@@ -58,8 +58,31 @@ print(quick_sort(a, lambda a, b: a <= b))
 ## Flashcards {#flashcards}
 
 
+### Implement {#implement}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.80 | 7   | 199.36   | 2023-12-28T01:49:39Z |
+
+[Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
+
+
+#### Back {#back}
+
+[Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Quicksort” 2022</a>)
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quicksort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Quicksort&oldid=1093780310">https://en.wikipedia.org/w/index.php?title=Quicksort&#38;oldid=1093780310</a>.</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
 -   [Quicksort]({{< relref "quicksort.md" >}})
--   [Quicksort's `partition` function iterates `j` from `{{range(low_index, high_index)}@0}`]({{< relref "quicksort.md#id-d7bcd831-6a3f-4885-a654-15f0b11c9966-quicksort-s-partition-function-iterates-j-from-range--low-index-high-index--0" >}})
--   [Implement Quicksort in Python]({{< relref "quicksort.md#implement-id-d7bcd831-6a3f-4885-a654-15f0b11c9966-quicksort-in-python" >}})

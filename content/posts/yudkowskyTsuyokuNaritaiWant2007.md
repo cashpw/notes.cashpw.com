@@ -2,7 +2,7 @@
 title = "Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:06:00-08:00
-lastmod = 2022-12-17T14:24:15-08:00
+lastmod = 2023-07-25T12:43:46-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -30,6 +30,21 @@ Similar: [Eliezer Yudkowsky | Something to Protect]({{< relref "eliezer_yudkowsk
 
 
 ## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| back     | 2.80 | 11  | 497.86   | 2024-09-07T19:36:54Z |
+| front    | 2.35 | 8   | 304.29   | 2024-01-01T20:46:55Z |
+
+Tsuyoko naritai
+
+
+#### Back {#back}
+
+I want to become stronger.
 
 ## References
 

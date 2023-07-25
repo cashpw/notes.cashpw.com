@@ -2,7 +2,7 @@
 title = "The best time was yesterday; the second best time is now"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T15:25:00-07:00
-lastmod = 2022-12-17T14:14:53-08:00
+lastmod = 2023-07-25T12:33:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,6 +19,6 @@ The best time for ___[^fn:1] was yesterday. The second best time is now.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-17T19:19:31Z |
+| 0        | 1.90 | 8   | 223.06   | 2024-02-22T02:20:51Z |
 
 [^fn:1]: Where X is most things, behaviors, activities, etc.

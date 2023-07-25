@@ -2,7 +2,7 @@
 title = "B-tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:55:00-07:00
-lastmod = 2022-12-17T13:35:33-08:00
+lastmod = 2023-07-25T08:40:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -93,12 +93,12 @@ Worst case: \\(\bigo{\log n}\\)
 ## Flashcards {#flashcards}
 
 
-### {{Inner [Vertices]({{< relref "vertex.md" >}})}@0} in [B-trees]({{< relref "b_tree.md" >}}) of order \\(m\\) have between {{\\(\lceil \frac{m}{2} \rceil\\) and \\(m\\)}@1} children {#inner-vertices--vertex-dot-md--0-in-b-trees--b-tree-dot-md--of-order-m-have-between-lceil-frac-m-2-rceil-and-m-1-children}
+### {{Inner [Vertices]({{< relref "vertex.md" >}})}@0} in [B-trees]({{< relref "b_tree.md" >}}) of order \\(m\\) have {{between \\(\lceil \frac{m}{2} \rceil\\) and \\(m\\)}@1} children {#inner-vertices--vertex-dot-md--0-in-b-trees--b-tree-dot-md--of-order-m-have-between-lceil-frac-m-2-rceil-and-m-1-children}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.75 | 4   | 10.48    | 2022-12-21T06:03:52Z |
-| 1        | 2.20 | 2   | 2.00     | 2022-12-17T20:18:49Z |
+| 0        | 1.75 | 8   | 117.05   | 2023-08-12T17:12:58Z |
+| 1        | 1.30 | 8   | 21.80    | 2023-08-10T08:56:47Z |
 
 
 #### Source {#source}
@@ -110,8 +110,8 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 5   | 31.00    | 2023-01-10T18:27:41Z |
-| 1        | 2.35 | 5   | 33.91    | 2023-01-19T15:55:38Z |
+| 0        | 2.35 | 7   | 145.75   | 2023-08-13T10:18:14Z |
+| 1        | 2.05 | 7   | 148.07   | 2023-08-31T18:08:47Z |
 
 
 #### Source {#source}
@@ -123,8 +123,8 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 47.30    | 2023-01-07T00:29:06Z |
-| 1        | 2.95 | 5   | 51.99    | 2023-01-17T14:51:41Z |
+| 0        | 2.80 | 7   | 353.47   | 2024-05-01T03:38:34Z |
+| 1        | 2.95 | 7   | 474.40   | 2024-10-16T06:34:30Z |
 
 
 #### Source {#source}
@@ -136,8 +136,8 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.60 | 0   | 0.00     | 2022-12-16T17:48:17Z |
-| 1        | 2.35 | 3   | 6.00     | 2022-12-09T19:43:59Z |
+| 0        | 2.20 | 7   | 131.90   | 2023-08-16T18:19:01Z |
+| 1        | 2.35 | 7   | 190.18   | 2023-11-16T20:20:40Z |
 
 
 #### Source {#source}
@@ -149,9 +149,9 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 2        | 2.65 | 5   | 41.91    | 2023-01-25T15:14:02Z |
-| 0        | 2.80 | 4   | 17.12    | 2022-12-20T01:58:56Z |
-| 1        | 2.50 | 1   | 1.00     | 2022-12-16T20:45:25Z |
+| 2        | 2.50 | 7   | 277.43   | 2024-02-13T01:20:31Z |
+| 0        | 2.65 | 7   | 284.87   | 2024-03-12T22:01:54Z |
+| 1        | 2.65 | 7   | 309.73   | 2024-05-02T08:57:45Z |
 
 
 #### Source {#source}
@@ -163,8 +163,8 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 16.56    | 2022-12-19T07:27:31Z |
-| 1        | 2.65 | 3   | 6.00     | 2022-12-19T18:04:52Z |
+| 0        | 3.10 | 7   | 454.13   | 2024-10-06T18:41:40Z |
+| 1        | 2.80 | 7   | 317.21   | 2024-04-18T19:44:15Z |
 
 
 #### Source {#source}
@@ -176,8 +176,8 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 33.35    | 2022-12-24T10:47:11Z |
-| back     | 2.65 | 5   | 47.97    | 2023-01-16T15:10:27Z |
+| front    | 2.65 | 7   | 262.91   | 2023-12-17T01:08:07Z |
+| back     | 2.80 | 7   | 326.21   | 2024-04-15T01:18:17Z |
 
 [B-tree]({{< relref "b_tree.md" >}})
 
@@ -196,7 +196,7 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 45.95    | 2023-01-04T14:59:41Z |
+| 0        | 2.35 | 7   | 248.51   | 2024-01-10T05:39:00Z |
 
 
 #### Source {#source}
@@ -208,8 +208,8 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 45.25    | 2023-01-02T22:11:57Z |
-| 1        | 2.35 | 5   | 33.23    | 2023-01-15T07:22:18Z |
+| 0        | 3.10 | 7   | 473.36   | 2024-09-10T23:19:20Z |
+| 1        | 2.20 | 7   | 160.42   | 2023-08-31T02:17:28Z |
 
 
 #### Source {#source}
@@ -221,7 +221,7 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 50.60    | 2023-01-19T08:37:24Z |
+| 0        | 2.50 | 7   | 339.97   | 2024-05-07T00:43:20Z |
 
 
 #### Source {#source}
@@ -233,7 +233,7 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 44.67    | 2023-01-21T07:48:33Z |
+| 0        | 2.35 | 7   | 258.08   | 2024-01-27T16:46:13Z |
 
 
 #### Source {#source}
@@ -245,7 +245,7 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 47.96    | 2023-01-01T15:33:06Z |
+| 0        | 2.80 | 7   | 384.86   | 2024-05-31T12:37:41Z |
 
 
 #### Source {#source}
@@ -265,4 +265,3 @@ Worst case: \\(\bigo{\log n}\\)
 ## Backlinks {#backlinks}
 
 -   [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}})
--   [Example(s) (balance)]({{< relref "self_balancing_binary_search_tree.md" >}})

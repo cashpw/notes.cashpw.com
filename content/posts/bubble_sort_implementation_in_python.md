@@ -2,14 +2,14 @@
 title = "Bubble sort implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T10:52:00-07:00
-lastmod = 2022-12-17T13:37:05-08:00
+lastmod = 2023-07-25T08:46:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "af832252-c4a9-4364-bdef-59c1a8ea6ebe"
 +++
 
-An implementation of [Bubble sort]({{< relref "bubble_sort.md" >}}) in [Python]({{< relref "python.md" >}}).
+An [Implementation]({{< relref "implementation.md" >}}) of [Bubble sort]({{< relref "bubble_sort.md" >}}) in [Python]({{< relref "python.md" >}}).
 
 ```python
 from typing import List
@@ -46,4 +46,3 @@ return bubble_sort([10, 5, 4, 40])
 ## Backlinks {#backlinks}
 
 -   [Bubble sort]({{< relref "bubble_sort.md" >}})
--   [Implement Bubble sort in Python]({{< relref "bubble_sort.md#implement-id-c6bc266e-1090-492f-bdba-f044e04db3ff-bubble-sort-in-python" >}})

@@ -2,7 +2,7 @@
 title = "Be curious"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T16:39:00-07:00
-lastmod = 2022-12-17T13:35:43-08:00
+lastmod = 2023-07-25T08:40:47-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -17,6 +17,6 @@ Curiosity is key to expanding your understanding of the world.
 
 ## Backlinks {#backlinks}
 
+-   [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})
 -   [Effective communication]({{< relref "effective_communication.md" >}})
 -   [Ben Kuhn | To Listen Well, Get Curious]({{< relref "kuhnListenWellGet.md" >}})
--   [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})

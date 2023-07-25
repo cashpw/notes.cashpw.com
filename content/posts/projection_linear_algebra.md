@@ -2,7 +2,7 @@
 title = "Projection (Linear algebra)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-14T10:02:00-08:00
-lastmod = 2022-12-17T14:04:31-08:00
+lastmod = 2023-07-25T11:31:31-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.5  | -1  | 0        | 2022-11-19T15:59:28Z |
-| 0        | 2.50 | 4   | 15.57    | 2022-12-05T05:39:16Z |
+| 1        | 2.20 | 7   | 113.38   | 2023-07-24T06:40:32Z |
+| 0        | 2.50 | 7   | 218.22   | 2023-12-08T22:06:28Z |
 
 -   {{\\(\operatorname{proj}\_{\vec{b}}(\vec{a})\\)}@1}
 
@@ -44,8 +44,8 @@ slug = "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | -1  | 0        | 2022-12-14T18:10:50Z |
-| 1        | 2.5  | -1  | 0        | 2022-12-14T18:10:50Z |
+| 0        | 2.95 | 6   | 142.52   | 2023-08-08T02:02:02Z |
+| 1        | 2.35 | 7   | 198.30   | 2023-12-06T21:06:23Z |
 
 {{\\(\operatorname{proj}\_{\vec{b}}(\vec{a})\\)}@0} \\(=\\) {{\\(\frac{\vec{a} \cdot \vec{b}}{\vec{b} \cdot \vec{b}}\vec{b}\\)}@1}
 

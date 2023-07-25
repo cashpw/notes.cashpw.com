@@ -2,7 +2,7 @@
 title = "Heap property"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:09:00-07:00
-lastmod = 2022-12-17T13:46:57-08:00
+lastmod = 2023-07-25T10:44:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,8 +32,8 @@ slug = "4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 124.70   | 2023-03-13T08:43:29Z |
-| front    | 2.80 | 7   | 195.69   | 2023-06-19T16:56:42Z |
+| back     | 2.65 | 7   | 298.30   | 2024-01-05T21:46:50Z |
+| front    | 2.50 | 5   | 32.22    | 2023-08-15T06:06:40Z |
 
 [Min heap property](#min-heap-property)
 
@@ -52,8 +52,8 @@ slug = "4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.20 | 6   | 71.34    | 2023-02-22T10:16:08Z |
-| front    | 2.95 | 5   | 48.48    | 2023-01-21T06:55:02Z |
+| back     | 2.35 | 7   | 160.55   | 2023-08-03T16:58:04Z |
+| front    | 3.10 | 7   | 494.93   | 2024-11-03T13:51:25Z |
 
 [Max heap property](#max-heap-property)
 
@@ -76,6 +76,5 @@ slug = "4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97"
 
 ## Backlinks {#backlinks}
 
+-   [Python library: queue]({{< relref "python_library_queue.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
--   [Describe]({{< relref "binary_heap.md#describe" >}})
--   [Describe]({{< relref "binary_heap.md#describe" >}})

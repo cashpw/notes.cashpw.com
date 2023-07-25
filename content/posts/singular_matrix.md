@@ -2,7 +2,7 @@
 title = "Singular matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-24T08:20:00-07:00
-lastmod = 2022-12-17T14:09:59-08:00
+lastmod = 2023-07-25T12:28:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,9 +19,9 @@ A [Matrix]({{< relref "matrix.md" >}}) \\(A\\) for which there is no \\(B\\) suc
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 5   | 22.99    | 2023-01-08T17:46:20Z |
-| 1        | 2.65 | 7   | 71.74    | 2023-01-10T11:28:51Z |
-| 2        | 2.60 | 11  | 38.92    | 2023-01-04T12:37:04Z |
+| 0        | 2.35 | 8   | 271.42   | 2024-03-24T02:18:08Z |
+| 1        | 2.50 | 9   | 395.05   | 2024-07-28T22:01:52Z |
+| 2        | 2.00 | 6   | 42.17    | 2023-08-08T19:40:22Z |
 
 -   {{[Singular matrix]({{< relref "singular_matrix.md" >}})}@0}
 -   {{[Non-invertible matrix]({{< relref "singular_matrix.md" >}})}@1}
@@ -37,8 +37,8 @@ A [Matrix]({{< relref "matrix.md" >}}) \\(A\\) for which there is no \\(B\\) suc
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-17T19:05:13Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-14T18:21:29Z |
+| front    | 1.90 | 7   | 125.33   | 2023-08-20T23:43:51Z |
+| back     | 2.65 | 7   | 323.63   | 2024-05-21T16:16:16Z |
 
 [Singular matrix]({{< relref "singular_matrix.md" >}})
 
@@ -61,4 +61,4 @@ A [Matrix]({{< relref "matrix.md" >}}) \\(A\\) for which there is no \\(B\\) suc
 
 ## Backlinks {#backlinks}
 
--   [\\(\determinant{A}\\) {{\\(=\\)}@1} \\(0\\) \\(\iff\\) {{\\(A\\) is singular}@0}]({{< relref "determinant.md#determinant-a-1-0-iff-a-is-id-9a804f64-5cb5-4ead-911f-f3c87eedb369-singular-0" >}})
+-   [Determinant]({{< relref "determinant.md" >}})

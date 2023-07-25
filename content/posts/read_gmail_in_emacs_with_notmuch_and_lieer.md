@@ -2,7 +2,7 @@
 title = "Read Gmail in Emacs with notmuch and lieer"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T19:56:00-08:00
-lastmod = 2022-12-17T14:06:14-08:00
+lastmod = 2023-07-25T12:26:18-07:00
 tags = ["has-todo", "has-todo"]
 categories = ["has-todo"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Linked list"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T15:41:00-07:00
-lastmod = 2022-12-17T13:52:50-08:00
+lastmod = 2023-07-25T11:01:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "4e9a8cb2-e817-430b-a63c-0e492022ab79"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 9   | 113.10   | 2023-03-06T18:08:12Z |
-| front    | 2.35 | 6   | 93.99    | 2023-03-04T16:26:07Z |
+| back     | 2.80 | 10  | 324.80   | 2024-01-27T13:49:48Z |
+| front    | 2.35 | 7   | 209.14   | 2023-09-30T20:48:44Z |
 
 [Linked list]({{< relref "linked_list.md" >}})
 
@@ -41,8 +41,8 @@ A sequential collection of nodes composed of data and one or more references to 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.65 | 6   | 89.47    | 2022-12-22T00:56:09Z |
-| 0        | 2.35 | 6   | 176.51   | 2023-05-25T07:04:13Z |
+| 1        | 2.80 | 7   | 238.93   | 2023-08-20T14:25:06Z |
+| 0        | 2.35 | 7   | 400.67   | 2024-06-29T06:11:15Z |
 
 
 #### Extra {#extra}

@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Cost of Doing Business"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-26T19:06:00-07:00
-lastmod = 2022-12-17T13:40:06-08:00
+lastmod = 2023-07-25T10:27:47-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -86,7 +86,7 @@ See [Realpolitik]({{< relref "real_politic.md" >}}), [Power politics]({{< relref
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 14.38    | 2022-12-20T09:31:22Z |
+| 0        | 1.90 | 6   | 39.40    | 2023-07-28T00:08:10Z |
 
 
 #### Source {#source}

@@ -2,7 +2,7 @@
 title = "Plans within plans within plans"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-03T06:21:00-08:00
-lastmod = 2022-12-17T14:02:36-08:00
+lastmod = 2023-07-25T11:27:02-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ slug = "d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 15.62    | 2022-12-28T17:17:49Z |
+| 0        | 2.80 | 7   | 312.27   | 2024-04-20T06:47:16Z |
 
 
 #### Source {#source}

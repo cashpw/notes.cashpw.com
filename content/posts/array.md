@@ -2,7 +2,7 @@
 title = "Array"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:38:00-07:00
-lastmod = 2022-12-17T13:35:11-08:00
+lastmod = 2023-07-25T08:38:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "79b155d7-5a67-469d-b3f4-b8010cad8b54"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.95 | 5   | 53.98    | 2023-01-30T15:18:00Z |
-| front    | 2.50 | 4   | 15.99    | 2022-12-27T19:20:49Z |
+| back     | 2.95 | 7   | 466.22   | 2024-10-09T19:29:11Z |
+| front    | 2.50 | 7   | 197.76   | 2023-11-20T11:53:32Z |
 
 [Array]({{< relref "array.md" >}})
 
@@ -45,6 +45,6 @@ A collection of elements each identified by an index which is stored in such a w
 
 ## Backlinks {#backlinks}
 
--   [{{Linked lists}@1} perform better than Arrays when it comes to {{insertion time}@0}]({{< relref "linked_list.md#id-4e9a8cb2-e817-430b-a63c-0e492022ab79-linked-lists-1-perform-better-than-id-79b155d7-5a67-469d-b3f4-b8010cad8b54-arrays-when-it-comes-to-insertion-time-0" >}})
+-   [Implicit data structure]({{< relref "implicit_data_structure.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
--   [Example(s)]({{< relref "implicit_data_structure.md#example--s" >}})
+-   [Linked list]({{< relref "linked_list.md" >}})

@@ -2,7 +2,7 @@
 title = "Asymmetric game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2022-12-17T13:35:18-08:00
+lastmod = 2023-07-25T08:39:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,15 +25,15 @@ In [Game theory]({{< relref "game_theory.md" >}}), an [Asymmetric game]({{< relr
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 47.87    | 2023-01-19T16:29:05Z |
-| back     | 2.05 | 5   | 26.51    | 2023-01-07T08:01:57Z |
+| front    | 3.10 | 7   | 519.56   | 2024-11-25T02:39:32Z |
+| back     | 2.20 | 8   | 245.16   | 2024-02-21T19:36:06Z |
 
 [Asymmetric game]({{< relref "asymmetric_game.md" >}})
 
 
 #### Back {#back}
 
-A game in which the identities of the players are non-fungible; the players have non-symmetric payoffs, abilities, etc.
+A game in which the identities of the players are non-fungible; the players have distinct payoffs, abilities, etc.
 
 
 #### Source {#source}
@@ -45,8 +45,8 @@ A game in which the identities of the players are non-fungible; the players have
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 13.71    | 2022-12-20T06:51:49Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-21T20:48:22Z |
+| front    | 2.20 | 7   | 131.40   | 2023-07-30T01:54:39Z |
+| back     | 2.35 | 7   | 201.37   | 2023-12-01T01:17:04Z |
 
 [Asymmetric game]({{< relref "asymmetric_game.md" >}})
 

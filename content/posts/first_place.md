@@ -2,7 +2,7 @@
 title = "First place"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-11T11:56:00-08:00
-lastmod = 2022-12-17T13:43:45-08:00
+lastmod = 2023-07-25T10:40:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,4 +46,5 @@ The home and the people with whom one lives.
 
 ## Backlinks {#backlinks}
 
+-   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
 -   [Third place]({{< relref "third_place.md" >}})

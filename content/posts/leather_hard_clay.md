@@ -2,7 +2,7 @@
 title = "Leather-hard"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:48:00-07:00
-lastmod = 2022-12-17T13:52:19-08:00
+lastmod = 2023-07-25T10:59:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "7358ec53-29b1-4b14-b1b5-20a09e40caf1"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 1   | 1.00     | 2022-12-16T20:37:52Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-22T17:50:38Z |
+| front    | 2.20 | 8   | 217.89   | 2024-02-27T01:08:18Z |
+| back     | 3.10 | 7   | 369.23   | 2024-07-09T20:12:32Z |
 
 [Leather-hard clay]({{< relref "leather_hard_clay.md" >}})
 

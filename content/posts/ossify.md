@@ -2,7 +2,7 @@
 title = "Ossify"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:41:00-08:00
-lastmod = 2022-12-17T14:00:34-08:00
+lastmod = 2023-07-25T11:22:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,8 +20,8 @@ slug = "d31a0ca1-d390-4ac5-bada-3a97e769f725"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 44.27    | 2023-01-26T09:03:57Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-22T17:53:13Z |
+| front    | 2.50 | 7   | 283.23   | 2024-03-04T20:07:14Z |
+| back     | 2.50 | 7   | 149.49   | 2023-09-05T02:43:14Z |
 
 [Ossify]({{< relref "ossify.md" >}})
 

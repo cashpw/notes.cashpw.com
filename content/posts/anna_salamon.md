@@ -2,7 +2,7 @@
 title = "Anna Salamon"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:49:00-08:00
-lastmod = 2022-12-17T13:34:57-08:00
+lastmod = 2023-07-25T08:37:26-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -20,5 +20,5 @@ Among other things:
 
 ## Backlinks {#backlinks}
 
--   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 -   [Anna Salamon | Learned Blankness]({{< relref "annasalamonLearnedBlankness2011.md" >}})
+-   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})

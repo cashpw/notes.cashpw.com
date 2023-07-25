@@ -2,7 +2,7 @@
 title = "Will no one rid me of this turbulent priest?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-25T09:41:00-07:00
-lastmod = 2022-12-17T14:23:22-08:00
+lastmod = 2023-07-25T12:42:38-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,8 +21,8 @@ slug = "bf247454-b50e-448c-9c60-cee9b3969983"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 3   | 6.00     | 2022-12-22T17:38:18Z |
-| back     | 2.50 | 0   | 0.00     | 2022-11-25T14:32:21Z |
+| front    | 2.50 | 7   | 230.28   | 2024-01-04T23:15:20Z |
+| back     | 2.65 | 7   | 316.38   | 2024-05-19T09:21:41Z |
 
 [Will no one rid me of this turbulent priest?]({{< relref "will_no_one_rid_me_of_this_turbulent_priest.md" >}})
 
@@ -46,4 +46,3 @@ A call for [Stochastic terrorism]({{< relref "stochastic_terrorism.md" >}}) by H
 ## Backlinks {#backlinks}
 
 -   [Stochastic terrorism]({{< relref "stochastic_terrorism.md" >}})
--   [Example(s)]({{< relref "stochastic_terrorism.md#example--s" >}})

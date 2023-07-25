@@ -2,7 +2,7 @@
 title = "Plastic clay"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:57:00-07:00
-lastmod = 2022-12-17T14:02:42-08:00
+lastmod = 2023-07-25T11:27:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ Clay which is moist, soft, and bendable. Clay at this state is ready for use on 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 16.59    | 2022-12-25T08:17:04Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-19T17:26:36Z |
+| front    | 3.10 | 7   | 413.29   | 2024-08-30T07:50:17Z |
+| back     | 2.80 | 7   | 302.35   | 2024-04-17T05:05:20Z |
 
 [Plastic clay]({{< relref "plastic_clay.md" >}})
 

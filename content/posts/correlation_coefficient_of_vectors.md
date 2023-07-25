@@ -2,7 +2,7 @@
 title = "Correlation coefficient of vectors"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T09:45:00-07:00
-lastmod = 2022-12-17T13:39:04-08:00
+lastmod = 2023-07-25T08:57:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ See [De-meaned vector]({{< relref "de_meaned_vector.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 6   | 67.40    | 2022-12-31T23:52:16Z |
-| 1        | 2.50 | 6   | 107.82   | 2023-02-20T19:43:58Z |
+| 0        | 2.20 | 7   | 136.86   | 2023-09-12T19:16:35Z |
+| 1        | 2.35 | 7   | 250.55   | 2023-11-02T17:01:14Z |
 
 
 #### Source {#source}
@@ -36,8 +36,8 @@ See [De-meaned vector]({{< relref "de_meaned_vector.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 29.05    | 2022-12-21T03:09:11Z |
-| 1        | 2.50 | 1   | 1.00     | 2022-12-16T20:48:19Z |
+| 0        | 2.20 | 7   | 145.76   | 2023-07-27T08:09:56Z |
+| 1        | 1.45 | 7   | 21.03    | 2023-08-08T14:33:23Z |
 
 -   {{\\(\rho\_{\vec{a}, \vec{b}}\\)}@0}
 

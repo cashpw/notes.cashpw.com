@@ -2,7 +2,7 @@
 title = "Use serial commas"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:16:00-08:00
-lastmod = 2022-12-17T14:21:27-08:00
+lastmod = 2023-07-25T12:39:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,5 +32,5 @@ Note that serial commas are not a fix-all for ambigious sentences. They may, in 
 
 ## Backlinks {#backlinks}
 
--   [Julian Shapiro | How to Punctuate]({{< relref "shapiroHowPunctuate.md" >}})
 -   [Style Guide]({{< relref "style_guide.md" >}})
+-   [Julian Shapiro | How to Punctuate]({{< relref "shapiroHowPunctuate.md" >}})

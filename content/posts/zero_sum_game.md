@@ -2,7 +2,7 @@
 title = "Zero-sum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T10:48:00-07:00
-lastmod = 2022-12-17T14:24:43-08:00
+lastmod = 2023-07-25T12:44:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ The opposite of a [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 6   | 91.51    | 2023-03-12T05:06:50Z |
-| front    | 2.95 | 5   | 53.91    | 2023-01-26T17:39:06Z |
+| back     | 2.50 | 7   | 209.94   | 2023-10-09T13:22:43Z |
+| front    | 2.95 | 7   | 424.37   | 2024-08-15T12:59:05Z |
 
 [Zero-sum game]({{< relref "zero_sum_game.md" >}})
 
@@ -43,8 +43,8 @@ A situation involving two or more sides in which any gain by one side is a loss 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 85.43    | 2023-03-06T04:24:14Z |
-| back     | 2.50 | 6   | 100.22   | 2023-03-23T23:49:39Z |
+| front    | 2.35 | 7   | 201.46   | 2023-09-26T05:35:47Z |
+| back     | 2.50 | 7   | 273.67   | 2023-12-23T10:08:40Z |
 
 [Zero-sum game]({{< relref "zero_sum_game.md" >}})
 
@@ -67,5 +67,6 @@ A situation involving two or more sides in which any gain by one side is a loss 
 
 ## Backlinks {#backlinks}
 
--   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
 -   [Power politics]({{< relref "power_politics.md" >}})
+-   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
+-   [Generative adversarial network]({{< relref "generative_adversarial_network.md" >}})

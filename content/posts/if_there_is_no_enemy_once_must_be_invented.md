@@ -2,7 +2,7 @@
 title = "If there is no enemy, one must be invented"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:36:00-08:00
-lastmod = 2022-12-17T13:48:24-08:00
+lastmod = 2023-07-25T10:46:54-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ slug = "ac25c22f-8025-4664-893d-ce98825c25c0"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 5   | 24.34    | 2023-01-08T02:05:37Z |
+| 0        | 1.90 | 8   | 176.13   | 2023-11-23T18:34:31Z |
 
 
 #### Source {#source}
@@ -29,11 +29,11 @@ slug = "ac25c22f-8025-4664-893d-ce98825c25c0"
 (<a href="#citeproc_bib_item_1">Herbert and Herbert 2020</a>)
 
 
-### The military force which is {{denied an external target always turns against its own people.}@0} {#the-military-force-which-is-denied-an-external-target-always-turns-against-its-own-people-dot-0}
+### {{The military force which is denied an external target always turns against its own people.}{Quote: Military turns on its people}@0} {#the-military-force-which-is-denied-an-external-target-always-turns-against-its-own-people-dot-quote-military-turns-on-its-people-0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 3   | 6.00     | 2022-12-21T20:31:12Z |
+| 0        | 1.90 | 6   | 43.70    | 2023-08-28T07:00:35Z |
 
 
 #### Source {#source}

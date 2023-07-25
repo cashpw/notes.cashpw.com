@@ -2,7 +2,7 @@
 title = "Hegemony"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:22:00-07:00
-lastmod = 2022-12-17T13:47:15-08:00
+lastmod = 2023-07-25T10:45:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "eb439041-eb04-415d-a642-9ab8783c68a4"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 8   | 94.24    | 2023-01-26T19:46:38Z |
-| front    | 2.50 | 6   | 62.19    | 2023-01-04T20:55:16Z |
+| back     | 2.80 | 9   | 243.57   | 2023-09-28T03:36:15Z |
+| front    | 2.20 | 8   | 314.39   | 2024-04-22T09:40:14Z |
 
 [Hegemony]({{< relref "hegemony.md" >}})
 

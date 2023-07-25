@@ -2,7 +2,7 @@
 title = "Wizard's first rule"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-22T18:52:00-08:00
-lastmod = 2022-12-17T14:23:29-08:00
+lastmod = 2023-07-25T12:42:41-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -29,14 +29,14 @@ Related:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-17T19:40:39Z |
+| 0        | 2.65 | 7   | 247.33   | 2024-01-27T04:20:23Z |
 
 
 ### [Wizard's first rule]({{< relref "wizard_s_first_rule.md" >}}): {{People are stupid}@0} {#wizard-s-first-rule--wizard-s-first-rule-dot-md--people-are-stupid-0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 4   | 12.54    | 2022-12-21T08:53:06Z |
+| 0        | 2.20 | 7   | 140.99   | 2023-08-07T17:37:43Z |
 
 
 #### Source {#source}

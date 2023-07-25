@@ -2,7 +2,7 @@
 title = "Cedric Chin | Expertise Is 'Just' Pattern Matching"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:53:00-08:00
-lastmod = 2022-12-17T13:37:53-08:00
+lastmod = 2023-07-25T08:52:10-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -53,12 +53,12 @@ The idea rings true to me when I think about how chess masters describe thinking
 ## Flashcards {#flashcards}
 
 
-### Describe {#describe}
+### Summarize {#summarize}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-17T20:22:31Z |
-| back     | 2.5  | -1  | 0        | 2022-11-23T00:26:32Z |
+| front    | 2.05 | 8   | 194.45   | 2024-01-10T03:37:07Z |
+| back     | 2.65 | 7   | 242.23   | 2024-02-15T19:51:20Z |
 
 [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}})
 
@@ -84,7 +84,7 @@ Being an expert at something is a function of:
 
 ## Backlinks {#backlinks}
 
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
--   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 -   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
+-   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})

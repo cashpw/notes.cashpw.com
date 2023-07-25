@@ -2,7 +2,7 @@
 title = "Bloom's taxonomy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:38:00-08:00
-lastmod = 2022-12-17T13:33:44-08:00
+lastmod = 2023-07-25T08:30:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -140,8 +140,8 @@ Bloom proposed a revision in 2001 ((<a href="#citeproc_bib_item_1">Anderson and 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T02:57:06Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-17T20:30:04Z |
+| front    | 2.35 | 7   | 179.81   | 2023-10-28T19:06:44Z |
+| back     | 2.80 | 7   | 412.12   | 2024-08-29T03:42:46Z |
 
 [Bloom's Taxonomy]({{< relref "BloomTaxonomy2022.md" >}}) (Learning)
 
@@ -169,7 +169,7 @@ In order from least complex to most complex:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 3   | 6.00     | 2022-12-17T19:09:41Z |
+| front    | 1.75 | 8   | 116.59   | 2023-09-03T06:55:49Z |
 
 -   Red: [Remember (Bloom's Taxonomy)](#remember--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 -   Undies: [Understand (Bloom's Taxonomy)](#understand--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
@@ -188,8 +188,8 @@ In order from least complex to most complex:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 13.53    | 2022-12-22T05:34:12Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-17T15:22:33Z |
+| front    | 1.90 | 8   | 224.16   | 2024-02-19T19:25:01Z |
+| back     | 2.50 | 7   | 220.44   | 2023-12-11T03:21:51Z |
 
 [Remember (Bloom's Taxonomy)](#remember--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 
@@ -208,8 +208,8 @@ Learning objective concerned with retaining facts, terms, and basic concepts
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 0   | 0.00     | 2022-12-15T20:35:10Z |
-| back     | 2.5  | -1  | 0        | 2022-11-18T21:34:49Z |
+| front    | 2.05 | 7   | 132.05   | 2023-11-10T02:50:00Z |
+| back     | 2.20 | 7   | 123.21   | 2023-09-03T20:47:27Z |
 
 [Understand (Bloom's Taxonomy)](#understand--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 
@@ -228,8 +228,8 @@ Learning objective concerned with organizing, summarizing, translating, generali
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2022-12-14T18:19:21Z |
-| back     | 2.5  | -1  | 0        | 2022-11-18T21:34:49Z |
+| front    | 2.50 | 7   | 305.73   | 2024-05-02T07:40:28Z |
+| back     | 2.65 | 7   | 308.79   | 2024-05-16T07:50:46Z |
 
 [Apply (Bloom's Taxonomy)](#apply--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 
@@ -248,8 +248,8 @@ Learning objective concerned with using acquired knowledge to solve problems in 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 0   | 0.00     | 2022-12-13T17:22:22Z |
-| back     | 2.5  | -1  | 0        | 2022-11-18T21:34:49Z |
+| front    | 1.60 | 5   | 15.45    | 2023-07-26T23:44:14Z |
+| back     | 2.80 | 6   | 129.48   | 2023-07-25T01:47:35Z |
 
 [Analyze (Bloom's Taxonomy)](#analyze--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 
@@ -274,8 +274,8 @@ Learning objective concerned with:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-20T18:41:11Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-14T02:46:24Z |
+| front    | 1.30 | 6   | 11.96    | 2023-07-26T12:10:37Z |
+| back     | 2.50 | 7   | 207.68   | 2023-11-30T10:00:23Z |
 
 [Evaluate (Bloom's Taxonomy)](#evaluate--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 
@@ -298,8 +298,8 @@ Learning objective concerned with:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T02:27:23Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-16T20:46:25Z |
+| front    | 2.50 | 7   | 143.50   | 2023-08-20T02:45:21Z |
+| back     | 2.65 | 3   | 6.00     | 2023-07-26T15:24:35Z |
 
 [Create (Bloom's Taxonomy)](#create--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 
@@ -318,8 +318,8 @@ Learning objective concerned with building a structure or pattern from diverse e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 15.74    | 2022-12-22T07:41:34Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-11T22:32:00Z |
+| front    | 2.80 | 7   | 302.36   | 2024-03-15T23:49:38Z |
+| back     | 1.75 | 8   | 154.57   | 2023-11-15T04:27:31Z |
 
 [Remember (Bloom's Taxonomy)](#remember--bloom-s-taxonomy-bloomtaxonomy2022-dot-md) (Apples)
 
@@ -335,8 +335,8 @@ Learning objective concerned with building a structure or pattern from diverse e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 0   | 0.00     | 2022-11-27T18:14:34Z |
-| back     | 2.5  | -1  | 0        | 2022-11-18T21:40:50Z |
+| front    | 2.35 | 7   | 235.64   | 2024-02-08T19:18:29Z |
+| back     | 2.35 | 7   | 163.23   | 2023-11-10T21:12:15Z |
 
 [Understand (Bloom's Taxonomy)](#understand--bloom-s-taxonomy-bloomtaxonomy2022-dot-md) (Apples)
 
@@ -352,8 +352,8 @@ Learning objective concerned with building a structure or pattern from diverse e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2022-11-18T21:40:50Z |
-| back     | 2.5  | -1  | 0        | 2022-11-18T21:40:50Z |
+| front    | 2.95 | 6   | 133.77   | 2023-08-13T16:02:17Z |
+| back     | 2.80 | 6   | 128.80   | 2023-08-09T12:22:09Z |
 
 [Apply (Bloom's Taxonomy)](#apply--bloom-s-taxonomy-bloomtaxonomy2022-dot-md) (Apples)
 
@@ -369,8 +369,8 @@ Learning objective concerned with building a structure or pattern from diverse e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-11-26T13:45:21Z |
-| back     | 2.5  | -1  | 0        | 2022-11-18T21:40:50Z |
+| front    | 2.05 | 7   | 136.50   | 2023-10-10T02:22:26Z |
+| back     | 2.80 | 7   | 303.15   | 2024-05-22T07:37:25Z |
 
 [Analyze (Bloom's Taxonomy)](#analyze--bloom-s-taxonomy-bloomtaxonomy2022-dot-md) (Apples)
 
@@ -386,8 +386,8 @@ Learning objective concerned with building a structure or pattern from diverse e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2022-11-18T21:40:50Z |
-| back     | 2.5  | -1  | 0        | 2022-11-18T21:40:50Z |
+| front    | 2.65 | 6   | 124.67   | 2023-07-25T05:54:07Z |
+| back     | 2.80 | 6   | 137.45   | 2023-08-04T04:31:11Z |
 
 [Evaluate (Bloom's Taxonomy)](#evaluate--bloom-s-taxonomy-bloomtaxonomy2022-dot-md) (Apples)
 
@@ -403,8 +403,8 @@ Learning objective concerned with building a structure or pattern from diverse e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-11-24T02:12:47Z |
-| back     | 2.5  | -1  | 0        | 2022-11-18T21:40:50Z |
+| front    | 2.95 | 6   | 136.40   | 2023-08-07T01:30:13Z |
+| back     | 2.65 | 7   | 218.36   | 2024-01-11T23:36:05Z |
 
 [Create (Bloom's Taxonomy)](#create--bloom-s-taxonomy-bloomtaxonomy2022-dot-md) (Apples)
 
@@ -414,6 +414,20 @@ Learning objective concerned with building a structure or pattern from diverse e
 > Convert an "unhealthy" recipe for apple pie to a "healthy" recipe by replacing your choice of ingredients. Argue for the health benefits of using the ingredients you chose versus the original ones.
 >
 > (<a href="#citeproc_bib_item_3">“Bloom’s Taxonomy” 2022</a>)
+
+
+### Cloze {#cloze}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.65 | 6   | 121.40   | 2023-09-02T07:11:31Z |
+
+{{[Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})}@0} developed [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_3">“Bloom’s Taxonomy” 2022</a>)
 
 ## References
 
@@ -428,5 +442,8 @@ Learning objective concerned with building a structure or pattern from diverse e
 ## Backlinks {#backlinks}
 
 -   [Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md#memory-in-educational-settings" >}})
--   [Known for]({{< relref "benjamin_bloom.md#known-for" >}})
 -   [Socratic questioning]({{< relref "socratic_questioning.md" >}})
+-   [Higher order questions]({{< relref "higher_order_questions.md" >}})
+-   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})
+-   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
+-   [Lower order questions]({{< relref "lower_order_questions.md" >}})

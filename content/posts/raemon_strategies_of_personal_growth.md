@@ -2,7 +2,7 @@
 title = "Raemon | Strategies of Personal Growth"
 author = ["Cash Weaver"]
 date = 2022-11-22T09:33:00-08:00
-lastmod = 2022-12-17T14:05:48-08:00
+lastmod = 2023-07-25T12:26:12-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Thought-terminating cliché"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T10:43:00-07:00
-lastmod = 2022-12-17T14:17:58-08:00
+lastmod = 2023-07-25T12:35:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "f454378e-9a94-4c15-b8b2-44f486077626"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.90 | 5   | 22.03    | 2022-12-25T20:32:11Z |
-| front    | 2.20 | 2   | 2.00     | 2022-12-16T18:25:03Z |
+| back     | 1.45 | 9   | 149.66   | 2023-12-10T16:44:34Z |
+| front    | 1.30 | 9   | 41.71    | 2023-08-10T13:50:08Z |
 
 [Thought-terminating cliché]({{< relref "thought_terminating_cliche.md" >}})
 
@@ -41,8 +41,8 @@ A form of loaded language, often passing as folk wisdom or common sense, intende
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 8   | 88.38    | 2023-01-17T07:08:43Z |
-| back     | 2.80 | 6   | 104.89   | 2023-02-24T13:02:26Z |
+| front    | 2.80 | 9   | 264.25   | 2023-10-08T20:18:13Z |
+| back     | 2.65 | 7   | 298.28   | 2023-12-21T22:40:48Z |
 
 [Thought-terminating cliché]({{< relref "thought_terminating_cliche.md" >}})
 

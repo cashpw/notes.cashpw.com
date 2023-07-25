@@ -2,7 +2,7 @@
 title = "Once revealed to me in a dream"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T12:50:00-08:00
-lastmod = 2022-12-17T13:59:41-08:00
+lastmod = 2023-07-25T11:20:29-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ slug = "27cb520e-f5d5-45b2-b92e-cde08209beef"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 3   | 6.00     | 2022-12-21T20:44:15Z |
+| 0        | 2.65 | 7   | 263.74   | 2024-02-27T10:03:21Z |
 
 
 #### Source {#source}

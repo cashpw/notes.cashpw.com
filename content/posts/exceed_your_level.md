@@ -2,7 +2,7 @@
 title = "Exceed your Level"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:25:00-08:00
-lastmod = 2022-12-17T13:43:07-08:00
+lastmod = 2023-07-25T10:39:28-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -23,7 +23,7 @@ Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | -1  | 0        | 2022-11-22T23:10:53Z |
+| 0        | 2.35 | 7   | 204.73   | 2023-12-22T09:00:31Z |
 
 
 #### Source {#source}
@@ -35,7 +35,7 @@ Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-21T20:14:32Z |
+| 0        | 2.20 | 7   | 163.57   | 2023-09-28T05:39:22Z |
 
 
 #### Source {#source}
@@ -47,7 +47,7 @@ Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 0   | 0.00     | 2022-12-14T18:15:14Z |
+| 0        | 2.35 | 7   | 202.37   | 2023-11-28T01:41:20Z |
 
 
 #### Source {#source}

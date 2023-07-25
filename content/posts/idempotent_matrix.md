@@ -2,7 +2,7 @@
 title = "Idempotent matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:11:00-07:00
-lastmod = 2022-12-17T13:48:08-08:00
+lastmod = 2023-07-25T10:46:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "8ffd5a59-aecd-4482-879a-ecbf2a720043"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 8   | 141.90   | 2023-03-15T11:38:27Z |
-| front    | 2.65 | 7   | 167.02   | 2023-04-16T17:03:06Z |
+| back     | 2.65 | 9   | 378.49   | 2024-03-28T02:56:02Z |
+| front    | 2.50 | 8   | 455.70   | 2024-07-30T16:25:24Z |
 
 [Idempotent matrix]({{< relref "idempotent_matrix.md" >}})
 
@@ -46,4 +46,3 @@ A matrix, \\(A\\), for which \\(AA = A\\)
 ## Backlinks {#backlinks}
 
 -   [Centering matrix]({{< relref "centering_matrix.md" >}})
--   [Properties]({{< relref "centering_matrix.md#properties" >}})

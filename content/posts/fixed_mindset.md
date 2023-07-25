@@ -2,7 +2,7 @@
 title = "Fixed mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:44:00-07:00
-lastmod = 2022-12-17T13:43:52-08:00
+lastmod = 2023-07-25T10:40:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "3a203296-7538-4986-a360-0db64356c9f5"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 46.74    | 2023-01-07T19:57:16Z |
-| back     | 2.80 | 4   | 18.16    | 2023-01-01T21:57:52Z |
+| front    | 3.10 | 7   | 426.54   | 2024-07-24T09:18:47Z |
+| back     | 3.10 | 6   | 150.38   | 2023-07-24T12:56:15Z |
 
 [Fixed mindset]({{< relref "fixed_mindset.md" >}})
 
@@ -51,5 +51,5 @@ A [Mindset]({{< relref "mindset.md" >}}) which holds that there is little one ca
 
 ## Backlinks {#backlinks}
 
--   [Growth mindset]({{< relref "growth_mindset.md" >}})
 -   [The first lesson]({{< relref "the_first_lesson.md" >}})
+-   [Growth mindset]({{< relref "growth_mindset.md" >}})

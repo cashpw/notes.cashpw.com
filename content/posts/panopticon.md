@@ -2,7 +2,7 @@
 title = "Panopticon"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-08T16:03:00-07:00
-lastmod = 2022-12-17T14:00:43-08:00
+lastmod = 2023-07-25T11:22:34-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "bd91ce7a-9b16-4c0c-9b42-0fac236a1364"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.10    | 2022-12-27T20:47:51Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-12T16:19:19Z |
+| front    | 2.05 | 7   | 143.10   | 2023-09-07T18:15:11Z |
+| back     | 2.95 | 6   | 164.82   | 2023-08-25T10:08:03Z |
 
 [Panopticon]({{< relref "panopticon.md" >}})
 
@@ -43,8 +43,8 @@ A building design and system of control which compels those within it to regulat
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 14.41    | 2022-12-31T03:13:37Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-13T15:14:08Z |
+| front    | 2.50 | 7   | 206.86   | 2023-11-26T18:24:21Z |
+| back     | 2.50 | 7   | 206.61   | 2023-12-11T06:09:55Z |
 
 [Panopticon]({{< relref "panopticon.md" >}})
 

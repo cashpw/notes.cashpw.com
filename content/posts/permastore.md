@@ -2,7 +2,7 @@
 title = "Permastore"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T12:05:00-08:00
-lastmod = 2022-12-17T14:01:54-08:00
+lastmod = 2023-07-25T11:25:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ Bahrick posited the concept in [Fifty years of memory for Spanish learned in sch
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.64    | 2023-01-01T09:07:17Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-14T02:02:56Z |
+| front    | 2.80 | 7   | 306.97   | 2024-04-16T23:54:27Z |
+| back     | 2.95 | 6   | 155.70   | 2023-08-16T07:47:21Z |
 
 [Permastore]({{< relref "permastore.md" >}})
 

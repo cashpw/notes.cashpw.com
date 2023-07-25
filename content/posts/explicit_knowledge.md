@@ -2,7 +2,7 @@
 title = "Explicit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:07:00-08:00
-lastmod = 2022-12-17T13:43:11-08:00
+lastmod = 2023-07-25T10:39:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "19124270-bb87-450d-8726-fe6aae18716f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.31    | 2022-12-20T02:41:23Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-01T14:51:48Z |
+| front    | 2.80 | 7   | 313.78   | 2024-03-30T07:49:50Z |
+| back     | 2.95 | 6   | 164.92   | 2023-08-15T11:52:36Z |
 
 [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
 
@@ -47,8 +47,8 @@ Knowledge which can be readily articulated, codified, stored, and accessed.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 16.71    | 2022-12-17T10:05:23Z |
-| back     | 2.80 | 4   | 15.71    | 2022-12-19T12:50:39Z |
+| front    | 2.80 | 7   | 334.91   | 2024-05-12T21:56:18Z |
+| back     | 2.20 | 5   | 28.25    | 2023-08-13T19:57:39Z |
 
 [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
 
@@ -65,7 +65,9 @@ Knowledge which can be readily articulated, codified, stored, and accessed.
 (<a href="#citeproc_bib_item_1">“Explicit Knowledge” 2022</a>)
 
 
-### [Compare and contrast]({{< relref "tacit_knowledge.md#compare-and-contrast" >}}) {#compare-and-contrast--tacit-knowledge-dot-md}
+### Compare and contrast {#compare-and-contrast}
+
+See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
 
 ## References
 
@@ -77,7 +79,7 @@ Knowledge which can be readily articulated, codified, stored, and accessed.
 
 ## Backlinks {#backlinks}
 
--   [Compare and contrast]({{< relref "tacit_knowledge.md#compare-and-contrast" >}})
+-   [Techne]({{< relref "techne.md" >}})
+-   [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
 -   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
--   [Compare and contrast]({{< relref "tellmanThoughtLeadersChickenSexers.md#compare-and-contrast" >}})
 -   [Todos]({{< relref "todos.md" >}})

@@ -2,9 +2,9 @@
 title = "Lagging indicator"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-28T08:07:00-08:00
-lastmod = 2022-12-17T13:51:55-08:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-07-25T10:57:34-07:00
+tags = ["reference", "reference"]
+categories = ["reference"]
 draft = false
 slug = "c112d0b0-ceef-4a41-9dc8-013a31bd1f49"
 +++
@@ -14,9 +14,6 @@ slug = "c112d0b0-ceef-4a41-9dc8-013a31bd1f49"
 > _(<a href="#citeproc_bib_item_1">“Economic Indicator” 2021</a>)_
 
 
-## Examples {#examples}
-
-
 ## Flashcards {#flashcards}
 
 
@@ -24,8 +21,8 @@ slug = "c112d0b0-ceef-4a41-9dc8-013a31bd1f49"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.84    | 2022-12-26T15:53:57Z |
-| back     | 2.50 | 4   | 14.40    | 2022-12-31T03:25:22Z |
+| front    | 2.65 | 7   | 230.56   | 2023-12-27T05:32:07Z |
+| back     | 2.50 | 6   | 85.58    | 2023-10-14T05:12:21Z |
 
 [Lagging indicator]({{< relref "lagging_indicator.md" >}})
 
@@ -48,4 +45,5 @@ A delayed measure of change.
 
 ## Backlinks {#backlinks}
 
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Dan Moore | Cultivate the Skill of Undivided Attention, or "Deep Work"]({{< relref "mooredsCultivateSkillUndividedAttentionDeepWork2019.md" >}})

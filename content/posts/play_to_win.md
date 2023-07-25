@@ -2,7 +2,7 @@
 title = "Play to win"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-16T19:22:00-08:00
-lastmod = 2022-12-17T14:02:50-08:00
+lastmod = 2023-07-25T11:27:27-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -23,15 +23,11 @@ slug = "4398317e-6aa1-4dd4-b2a5-6334256ca2cc"
 
 ## Backlinks {#backlinks}
 
--   [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow2018.md" >}})
--   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})
--   [Be what they expect you to be]({{< relref "be_what_they_expect_you_to_be.md" >}})
--   [Give the right answers]({{< relref "ask_the_right_questions_give_the_right_answers.md" >}})
--   [Describe]({{< relref "ask_the_right_questions_give_the_right_answers.md#describe" >}})
--   [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})
--   [Describe (Alt-right Playbook)]({{< relref "you_go_high_we_go_low.md#describe--id-913d6ace-03ac-4d34-ae92-5bd8a519236c-alt-right-playbook" >}})
--   [Ask the right questions]({{< relref "ask_the_right_questions.md" >}})
--   [Describe]({{< relref "ask_the_right_questions.md#describe" >}})
 -   [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
+-   [Be what they expect you to be]({{< relref "be_what_they_expect_you_to_be.md" >}})
+-   [Ask the right questions]({{< relref "ask_the_right_questions.md" >}})
+-   [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow2018.md" >}})
 -   [Min-maxing]({{< relref "min_maxing.md" >}})
--   [Describe]({{< relref "min_maxing.md#describe" >}})
+-   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})
+-   [Give the right answers]({{< relref "ask_the_right_questions_give_the_right_answers.md" >}})
+-   [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})

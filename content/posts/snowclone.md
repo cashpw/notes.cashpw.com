@@ -2,7 +2,7 @@
 title = "Snowclone"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T09:11:00-08:00
-lastmod = 2022-12-17T14:10:23-08:00
+lastmod = 2023-07-25T12:28:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,8 +30,8 @@ slug = "d4e2cdbd-7eef-4be4-8457-697115848884"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 13.89    | 2022-12-25T12:42:37Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-09T16:42:37Z |
+| front    | 2.20 | 8   | 272.80   | 2024-04-20T22:58:41Z |
+| back     | 2.95 | 7   | 322.36   | 2024-05-05T12:51:21Z |
 
 [Snowclone]({{< relref "snowclone.md" >}})
 
@@ -50,8 +50,8 @@ A phrasal template that can be used and recognized in multiple variants; a meme 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.54    | 2022-12-27T15:34:55Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-16T18:29:49Z |
+| front    | 2.65 | 7   | 215.06   | 2023-12-04T17:06:11Z |
+| back     | 2.20 | 7   | 150.32   | 2023-10-07T00:28:37Z |
 
 [Snowclone]({{< relref "snowclone.md" >}})
 

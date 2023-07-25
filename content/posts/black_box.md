@@ -2,7 +2,7 @@
 title = "Black box"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T16:37:00-07:00
-lastmod = 2022-12-17T13:36:31-08:00
+lastmod = 2023-07-25T08:44:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "ab1c1113-290b-4715-b2d7-94f2af485b2e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 16.68    | 2023-01-01T12:25:04Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-10T18:19:39Z |
+| front    | 3.10 | 6   | 150.87   | 2023-07-27T12:50:07Z |
+| back     | 2.80 | 7   | 305.54   | 2024-04-23T14:47:36Z |
 
 [Black box]({{< relref "black_box.md" >}})
 

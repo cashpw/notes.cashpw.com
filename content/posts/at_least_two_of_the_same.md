@@ -2,7 +2,7 @@
 title = "At least two of the same"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-02T12:00:00-08:00
-lastmod = 2022-12-17T13:35:21-08:00
+lastmod = 2023-07-25T08:39:20-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -25,8 +25,8 @@ slug = "ce1622e0-9f93-47fd-a5b2-5acd981caabf"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 3   | 6.00     | 2022-12-16T16:06:50Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-14T17:26:26Z |
+| front    | 2.65 | 7   | 302.31   | 2024-04-24T22:57:32Z |
+| back     | 2.65 | 7   | 265.25   | 2024-03-16T23:43:14Z |
 
 Creating [At least two of the same]({{< relref "at_least_two_of_the_same.md" >}})
 
@@ -49,4 +49,4 @@ A way of differentiating intention versus accident in created work.
 
 ## Backlinks {#backlinks}
 
--   [Ceramics Exercises]({{< relref "ceramics_exercises.md" >}})
+-   [Ceramics exercises]({{< relref "ceramics_exercises.md" >}})

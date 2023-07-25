@@ -2,7 +2,7 @@
 title = "And yet It moves"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T16:30:00-08:00
-lastmod = 2022-12-17T13:33:51-08:00
+lastmod = 2023-07-25T08:30:49-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -21,15 +21,15 @@ slug = "62c2da6b-ad55-4802-a334-f984b938b498"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 37.29    | 2023-01-19T08:44:22Z |
-| back     | 2.50 | 4   | 15.87    | 2022-12-24T17:00:14Z |
+| front    | 2.35 | 7   | 227.73   | 2023-12-14T12:16:42Z |
+| back     | 2.20 | 7   | 185.10   | 2023-11-11T18:36:27Z |
 
 [And yet It moves]({{< relref "ItMoves2022.md" >}})
 
 
 #### Back {#back}
 
--   Meaning: Despite recantation, proclamations, or any other conviction or doctrine of man, the Earth does in fact move (around the Sun).
+-   Meaning: Despite recantation, proclamations, or any other conviction or doctrine of man, the Earth does in fact revolve around the Sun.
 -   A phrase attributed to Galileo Galilei after the Church forced him to recant his claims that the Earth moves around the Sun, rather than the converse
 
 

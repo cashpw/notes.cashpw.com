@@ -1,0 +1,17 @@
++++
+title = "Sabrina Leandro"
+author = ["Cash Prokop-Weaver"]
+date = 2023-03-20T16:23:00-07:00
+lastmod = 2023-07-25T12:26:55-07:00
+tags = ["person", "person"]
+categories = ["person"]
+draft = false
+slug = "b94fc39e-6749-4fdc-ade2-0d3880d5e75e"
++++
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Sabrina Leandro | So You're Staff+ ... Now What?]({{< relref "sabrina_leandro_so_you_re_staff_now_what.md" >}})

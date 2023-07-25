@@ -2,7 +2,7 @@
 title = "Echo chamber"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:26:00-08:00
-lastmod = 2022-12-17T13:42:08-08:00
+lastmod = 2023-07-25T10:29:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ Related:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-17T18:49:45Z |
-| back     | 2.5  | -1  | 0        | 2022-11-25T17:06:30Z |
+| front    | 2.05 | 7   | 135.89   | 2023-09-24T12:26:14Z |
+| back     | 2.50 | 7   | 274.46   | 2024-04-02T12:11:35Z |
 
 [Echo chamber]({{< relref "echo_chamber.md" >}})
 
@@ -50,6 +50,5 @@ Situations in which beliefs are amplified or reinforced by communication and rep
 
 ## Backlinks {#backlinks}
 
--   [Filter bubble]({{< relref "filter_bubble.md" >}})
 -   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
--   [Describe]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md#describe" >}})
+-   [Filter bubble]({{< relref "filter_bubble.md" >}})

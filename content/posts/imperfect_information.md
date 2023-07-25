@@ -2,7 +2,7 @@
 title = "Imperfect information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2022-12-17T13:48:43-08:00
+lastmod = 2023-07-25T10:47:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ Also see [Game theory]({{< relref "game_theory.md" >}}), [Perfect information]({
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 41.34    | 2023-01-24T02:33:12Z |
-| back     | 2.65 | 5   | 42.12    | 2023-01-26T23:41:44Z |
+| front    | 2.80 | 7   | 288.24   | 2024-02-22T21:40:47Z |
+| back     | 2.50 | 7   | 260.37   | 2024-02-03T00:26:36Z |
 
 [Imperfect information]({{< relref "imperfect_information.md" >}})
 
@@ -44,8 +44,8 @@ Also see [Game theory]({{< relref "game_theory.md" >}}), [Perfect information]({
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 46.29    | 2023-01-19T02:06:58Z |
-| back     | 2.80 | 4   | 17.56    | 2022-12-23T13:54:23Z |
+| front    | 3.10 | 7   | 364.04   | 2024-05-28T16:48:12Z |
+| back     | 3.10 | 7   | 426.00   | 2024-09-12T00:57:00Z |
 
 [Imperfect information]({{< relref "imperfect_information.md" >}})
 
@@ -69,5 +69,5 @@ A game in which information is hidden from one or more players.
 ## Backlinks {#backlinks}
 
 -   [Perfect information]({{< relref "perfect_information.md" >}})
--   [Describe]({{< relref "stag_hunt.md#describe" >}})
--   [Describe (Game theory)]({{< relref "prisoner_s_dilemma.md#describe--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
+-   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
+-   [Stag hunt]({{< relref "stag_hunt.md" >}})

@@ -2,7 +2,7 @@
 title = "Learn things with a long shelf-life"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T15:57:00-07:00
-lastmod = 2022-12-17T13:52:09-08:00
+lastmod = 2023-07-25T10:58:34-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

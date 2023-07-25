@@ -2,7 +2,7 @@
 title = "Metagame"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:05:00-08:00
-lastmod = 2022-12-17T14:16:03-08:00
+lastmod = 2023-07-25T12:34:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "462b9154-2519-45e9-a4f5-35e7c32128c7"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 16.23    | 2022-12-30T22:33:36Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-17T20:09:39Z |
+| front    | 3.10 | 7   | 422.79   | 2024-09-13T08:32:39Z |
+| back     | 3.10 | 6   | 149.69   | 2023-08-02T09:25:22Z |
 
 [Metagame]({{< relref "the_metagame.md" >}})
 
@@ -47,15 +47,16 @@ slug = "462b9154-2519-45e9-a4f5-35e7c32128c7"
 
 ## Backlinks {#backlinks}
 
--   [README]({{< relref "readme.md" >}})
 -   [The game]({{< relref "the_game.md" >}})
+-   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
 -   [Solve the problem]({{< relref "solve_the_problem.md" >}})
 -   [Metagaming]({{< relref "Metagaming2021.md" >}})
 -   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})
--   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
--   [Describe]({{< relref "chinGetGoodGoMetagame2020.md#describe" >}})
--   [Min-maxing]({{< relref "min_maxing.md" >}})
--   [Describe]({{< relref "min_maxing.md#describe" >}})
--   [Technologist]({{< relref "technologist.md" >}})
--   [Definition]({{< relref "technologist.md#definition" >}})
 -   [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})
+-   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
+-   [README]({{< relref "readme.md" >}})
+-   [Ezra Klein | Why We Can't Build]({{< relref "ezra_klein_why_we_can_t_build.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
+-   [Technologist]({{< relref "technologist.md" >}})
+-   [Object level]({{< relref "object_level.md" >}})
+-   [Min-maxing]({{< relref "min_maxing.md" >}})

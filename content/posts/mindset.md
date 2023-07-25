@@ -2,7 +2,7 @@
 title = "Mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:38:00-07:00
-lastmod = 2022-12-17T13:56:38-08:00
+lastmod = 2023-07-25T11:10:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 0   | 0.00     | 2022-12-16T17:53:08Z |
-| back     | 2.65 | 3   | 6.00     | 2022-11-19T15:40:03Z |
+| front    | 1.45 | 10  | 82.61    | 2023-09-15T04:06:13Z |
+| back     | 2.80 | 7   | 278.47   | 2024-03-12T02:13:24Z |
 
 [Mindset]({{< relref "mindset.md" >}})
 
@@ -49,6 +49,4 @@ slug = "2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783"
 ## Backlinks {#backlinks}
 
 -   [Growth mindset]({{< relref "growth_mindset.md" >}})
--   [Describe]({{< relref "growth_mindset.md#describe" >}})
 -   [Fixed mindset]({{< relref "fixed_mindset.md" >}})
--   [Definition]({{< relref "fixed_mindset.md#definition" >}})

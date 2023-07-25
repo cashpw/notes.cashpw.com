@@ -2,7 +2,7 @@
 title = "Regulatory capture"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T15:28:00-08:00
-lastmod = 2022-12-17T14:07:07-08:00
+lastmod = 2023-07-25T12:26:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,8 @@ Often the ultimate goal is [Rent-seeking]({{< relref "rent_seeking.md" >}}) beha
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-20T18:26:09Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-16T20:25:00Z |
+| front    | 2.80 | 7   | 286.70   | 2024-03-13T08:21:51Z |
+| back     | 2.65 | 6   | 140.62   | 2023-08-02T05:55:33Z |
 
 [Regulatory capture]({{< relref "regulatory_capture.md" >}})
 

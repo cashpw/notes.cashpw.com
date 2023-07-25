@@ -2,7 +2,7 @@
 title = "Compound annual growth rate"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:28:00-08:00
-lastmod = 2022-12-17T13:38:40-08:00
+lastmod = 2023-07-25T08:55:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "1dfb5419-362b-4df4-9833-2381d6d06baa"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-08T14:27:44Z |
-| back     | 2.5  | -1  | 0        | 2022-11-23T00:06:33Z |
+| front    | 2.80 | 7   | 274.19   | 2024-03-11T21:45:11Z |
+| back     | 2.20 | 7   | 203.45   | 2023-12-23T01:09:14Z |
 
 [Compound annual growth rate]({{< relref "compound_annual_growth_rate.md" >}})
 
@@ -47,8 +47,8 @@ The rate of return that would be required for an investment to grow from its beg
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2022-12-08T13:52:23Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-23T00:07:26Z |
+| 0        | 2.80 | 5   | 39.49    | 2023-08-05T03:54:49Z |
+| 1        | 2.80 | 7   | 348.57   | 2024-06-30T03:29:51Z |
 
 -   {{[Compound annual growth rate]({{< relref "compound_annual_growth_rate.md" >}})}@0}
 -   {{[CAGR]({{< relref "compound_annual_growth_rate.md" >}})}@1}

@@ -2,7 +2,7 @@
 title = "Capitalism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-14T10:29:00-08:00
-lastmod = 2022-12-17T13:37:16-08:00
+lastmod = 2023-07-25T08:48:38-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -18,4 +18,5 @@ See also, [Moloch]({{< relref "moloch.md" >}}).
 ## Backlinks {#backlinks}
 
 -   [We live in a society]({{< relref "we_live_in_a_society.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [We do not fund anything that we don't control]({{< relref "we_do_not_fund_anything_that_we_don_t_control.md" >}})

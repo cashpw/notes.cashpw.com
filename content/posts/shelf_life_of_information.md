@@ -2,7 +2,7 @@
 title = "Shelf-life of information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T15:13:00-07:00
-lastmod = 2022-12-17T14:09:41-08:00
+lastmod = 2023-07-25T12:27:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,8 @@ Another way to think of this is to answer "How much will X matter to people 100 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 52.52    | 2023-02-06T09:08:23Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-15T22:47:47Z |
+| front    | 3.10 | 7   | 484.87   | 2024-11-07T09:59:16Z |
+| back     | 2.95 | 7   | 350.14   | 2024-05-20T18:18:26Z |
 
 [Shelf-life of information]({{< relref "shelf_life_of_information.md" >}})
 
@@ -44,8 +44,8 @@ The length of time for which a piece of information is useful.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 45.97    | 2023-01-25T17:11:49Z |
-| 1        | 2.65 | 5   | 43.39    | 2023-01-29T03:18:28Z |
+| 0        | 2.80 | 7   | 383.86   | 2024-06-27T12:10:31Z |
+| 1        | 2.50 | 7   | 267.24   | 2024-02-22T21:27:35Z |
 
 -   {{[Half-life of information]({{< relref "shelf_life_of_information.md" >}})}@0}
 -   {{[Shelf-life of information]({{< relref "shelf_life_of_information.md" >}})}@1}
@@ -58,8 +58,8 @@ The length of time for which a piece of information is useful.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 33.53    | 2023-01-14T08:06:31Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-16T00:12:44Z |
+| front    | 2.20 | 7   | 167.01   | 2023-09-14T16:02:50Z |
+| back     | 2.50 | 7   | 217.81   | 2023-12-15T10:39:16Z |
 
 [Shelf-life of information]({{< relref "shelf_life_of_information.md" >}})
 

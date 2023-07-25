@@ -2,7 +2,7 @@
 title = "Simultaneous game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2022-12-17T14:09:50-08:00
+lastmod = 2023-07-25T12:28:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,8 @@ Contrast with a [Sequential game]({{< relref "sequential_game.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 16.39    | 2023-01-02T03:19:19Z |
-| 1        | 2.5  | -1  | 0        | 2022-09-30T22:38:57Z |
+| 0        | 2.95 | 7   | 413.01   | 2024-08-11T17:43:46Z |
+| 1        | 2.20 | 7   | 196.12   | 2023-12-06T23:24:32Z |
 
 -   {{[Simultaneous game]({{< relref "simultaneous_game.md" >}})}@0}
 -   {{[Static game]({{< relref "simultaneous_game.md" >}})}@1}
@@ -42,8 +42,8 @@ Contrast with a [Sequential game]({{< relref "sequential_game.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 16.28    | 2022-12-30T01:05:47Z |
-| 1        | 2.50 | 4   | 13.97    | 2022-12-28T17:55:03Z |
+| 0        | 2.65 | 7   | 233.64   | 2023-12-29T07:52:42Z |
+| 1        | 2.80 | 7   | 272.17   | 2024-02-13T16:38:25Z |
 
 {{[Simultaneous game]({{< relref "simultaneous_game.md" >}})}@0} ([Game theory]({{< relref "game_theory.md" >}}); turn order)
 
@@ -54,8 +54,8 @@ Contrast with a [Sequential game]({{< relref "sequential_game.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 5   | 49.03    | 2023-01-25T16:28:22Z |
-| back     | 2.95 | 5   | 48.26    | 2023-01-27T22:34:38Z |
+| front    | 2.95 | 7   | 457.18   | 2024-09-25T20:37:08Z |
+| back     | 2.95 | 7   | 432.59   | 2024-09-02T05:47:54Z |
 
 [Simultaneous game]({{< relref "simultaneous_game.md" >}})
 
@@ -78,6 +78,5 @@ A game in which all players choose their actions without knowledge of the action
 
 ## Backlinks {#backlinks}
 
--   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
--   [Describe (Game theory)]({{< relref "prisoner_s_dilemma.md#describe--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
 -   [Sequential game]({{< relref "sequential_game.md" >}})
+-   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})

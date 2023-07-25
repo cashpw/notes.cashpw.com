@@ -2,7 +2,7 @@
 title = "Scott Alexander | I Can Tolerate Anything Except The Outgroup"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-23T20:41:00-07:00
-lastmod = 2022-12-17T13:34:24-08:00
+lastmod = 2023-07-25T08:34:38-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

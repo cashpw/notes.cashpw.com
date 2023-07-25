@@ -2,7 +2,7 @@
 title = "Paradox of tolerance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-15T09:25:00-08:00
-lastmod = 2022-12-17T13:33:56-08:00
+lastmod = 2023-07-25T08:31:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.56    | 2022-12-28T15:48:32Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-19T17:24:39Z |
+| front    | 2.50 | 7   | 252.73   | 2024-01-25T05:55:19Z |
+| back     | 2.50 | 7   | 279.42   | 2024-03-06T01:47:16Z |
 
 [Paradox of tolerance]({{< relref "ParadoxTolerance2021.md" >}})
 
@@ -45,4 +45,5 @@ Maintaining a tolerant society requires intolerance of intolerance. Tolerating i
 
 ## Backlinks {#backlinks}
 
+-   [Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?]({{< relref "nathan_robinson_is_there_a_principled_distinction_between_refusing_to_watch_american_sniper_and_refusing_to_read_fun_home.md" >}})
 -   [Scott Alexander | I Can Tolerate Anything Except The Outgroup]({{< relref "alexanderCanTolerateAnythingOutgroup2014.md" >}})

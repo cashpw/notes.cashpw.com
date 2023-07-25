@@ -2,7 +2,7 @@
 title = "ox-hugo"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T09:06:00-08:00
-lastmod = 2022-12-17T14:00:38-08:00
+lastmod = 2023-07-25T11:22:20-07:00
 draft = false
 slug = "5b40598c-308f-429d-8a0a-9c72bc1653f3"
 +++

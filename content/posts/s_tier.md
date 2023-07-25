@@ -2,7 +2,7 @@
 title = "S-tier"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T15:01:00-08:00
-lastmod = 2022-12-17T14:08:02-08:00
+lastmod = 2023-07-25T12:26:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ The top-tier.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 52.50    | 2023-02-01T04:23:14Z |
-| back     | 2.95 | 5   | 47.84    | 2023-02-02T13:46:57Z |
+| front    | 3.10 | 6   | 174.90   | 2023-07-27T13:28:17Z |
+| back     | 2.80 | 7   | 338.88   | 2024-05-16T21:21:37Z |
 
 [S-tier]({{< relref "s_tier.md" >}})
 
@@ -47,4 +47,4 @@ The top tier, the best of a group
 
 ## Backlinks {#backlinks}
 
--   [Documenting your work]({{< relref "documenting_your_work.md" >}})
+-   [Document your work]({{< relref "documenting_your_work.md" >}})

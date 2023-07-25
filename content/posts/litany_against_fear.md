@@ -2,7 +2,7 @@
 title = "Litany against fear"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:03:00-08:00
-lastmod = 2022-12-17T13:53:16-08:00
+lastmod = 2023-07-25T11:02:13-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -32,14 +32,14 @@ Bene Gesserit, (<a href="#citeproc_bib_item_1">Herbert 1999</a>)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 43.36    | 2023-01-08T23:44:36Z |
-| 1        | 2.95 | 5   | 47.85    | 2023-01-25T16:08:59Z |
-| 2        | 2.50 | 4   | 13.85    | 2022-12-24T12:40:08Z |
-| 3        | 2.50 | 2   | 2.00     | 2022-12-17T20:42:13Z |
-| 4        | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
-| 5        | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
-| 6        | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
-| 7        | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
+| 0        | 3.25 | 7   | 457.68   | 2024-09-03T20:39:12Z |
+| 1        | 3.10 | 7   | 441.46   | 2024-08-30T00:29:22Z |
+| 2        | 2.35 | 7   | 171.50   | 2023-10-17T10:43:21Z |
+| 3        | 2.35 | 7   | 200.98   | 2023-11-26T16:15:52Z |
+| 4        | 2.80 | 7   | 362.58   | 2024-07-16T03:32:19Z |
+| 5        | 2.35 | 7   | 165.36   | 2023-11-02T21:49:32Z |
+| 6        | 2.80 | 6   | 115.26   | 2023-07-24T22:27:26Z |
+| 7        | 3.10 | 6   | 178.60   | 2023-10-09T03:47:16Z |
 
 [Litany Against Fear]({{< relref "litany_against_fear.md" >}})
 
@@ -66,7 +66,7 @@ Bene Gesserit, (<a href="#citeproc_bib_item_1">Herbert 1999</a>)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 17.38    | 2022-11-16T00:32:35Z |
+| front    | 2.95 | 6   | 147.81   | 2023-08-20T14:49:46Z |
 
 [Litany Against Fear]({{< relref "litany_against_fear.md" >}})
 
@@ -100,7 +100,7 @@ Only I will remain.<br />
 
 ## Backlinks {#backlinks}
 
--   [Node types]({{< relref "style_guide.md#node-types" >}})
--   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md#2-dot-1" >}})
 -   [Focusing techniques]({{< relref "focusing_techniques.md" >}})
+-   [Node types]({{< relref "style_guide.md#node-types" >}})
+-   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

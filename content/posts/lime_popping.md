@@ -2,7 +2,7 @@
 title = "Lime popping"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-15T09:43:00-08:00
-lastmod = 2022-12-17T13:52:34-08:00
+lastmod = 2023-07-25T11:00:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "fdb8621b-64af-4d22-a7e6-e83c0a2dd2fa"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2022-12-16T20:38:45Z |
-| back     | 2.5  | -1  | 0        | 2022-12-15T17:45:20Z |
+| front    | 2.05 | 5   | 25.53    | 2023-08-05T04:31:49Z |
+| back     | 2.65 | 6   | 135.15   | 2023-08-03T21:13:06Z |
 
 [Lime popping]({{< relref "lime_popping.md" >}})
 
@@ -45,4 +45,5 @@ A clay body firing problem in which particles of calcium sulphate in the body sl
 
 ## Backlinks {#backlinks}
 
+-   [Damp box]({{< relref "damp_box.md" >}})
 -   [Florian Gadsby | How I Recycle My Stoneware Pottery Reclaim]({{< relref "florian_gadsby_how_i_recycle_my_stoneware_pottery_reclaim.md" >}})

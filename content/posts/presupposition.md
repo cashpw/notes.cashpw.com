@@ -2,7 +2,7 @@
 title = "Presupposition"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T16:11:00-07:00
-lastmod = 2022-12-17T14:03:58-08:00
+lastmod = 2023-07-25T11:29:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,17 +22,12 @@ slug = "e5db0b54-03b5-417a-a4c8-93001958c410"
 ## Flashcards {#flashcards}
 
 
-### Definition {#definition}
+### Presupposition {#presupposition}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.20 | 5   | 33.25    | 2023-01-15T08:15:44Z |
-| front    | 2.80 | 4   | 15.85    | 2022-12-18T16:00:13Z |
-
-[Presupposition]({{< relref "presupposition.md" >}})
-
-
-#### Back {#back}
+| back     | 2.05 | 7   | 128.12   | 2023-07-28T16:46:31Z |
+| front    | 2.50 | 7   | 301.03   | 2024-03-20T21:08:17Z |
 
 An implicit assumption relating to a statement/question/etc whose truth is taken for granted in discourse.
 
@@ -46,8 +41,8 @@ An implicit assumption relating to a statement/question/etc whose truth is taken
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 93.81    | 2023-03-19T15:59:42Z |
-| back     | 2.35 | 5   | 34.06    | 2023-01-19T19:05:44Z |
+| front    | 2.50 | 7   | 254.97   | 2023-11-29T16:44:19Z |
+| back     | 2.35 | 7   | 188.20   | 2023-10-10T21:25:19Z |
 
 [Presupposition]({{< relref "presupposition.md" >}})
 

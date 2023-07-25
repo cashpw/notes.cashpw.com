@@ -2,7 +2,7 @@
 title = "The challenge is to improve yourself"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T10:37:00-07:00
-lastmod = 2022-12-17T14:15:13-08:00
+lastmod = 2023-07-25T12:33:59-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -29,8 +29,8 @@ Related: [Fully Automated Luxury Communism]({{< relref "fully_automated_luxury_c
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.85    | 2022-12-27T16:08:00Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-19T02:15:53Z |
+| front    | 2.35 | 7   | 170.72   | 2023-10-16T16:01:55Z |
+| back     | 2.50 | 7   | 213.62   | 2023-12-06T08:44:17Z |
 
 [The challenge is to improve yourself]({{< relref "the_challenge_is_to_improve_yourself.md" >}})
 

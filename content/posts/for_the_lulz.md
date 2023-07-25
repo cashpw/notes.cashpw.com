@@ -2,7 +2,7 @@
 title = "For the lulz"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:19:00-07:00
-lastmod = 2022-12-17T13:44:10-08:00
+lastmod = 2023-07-25T10:41:13-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,6 +34,6 @@ Also see [The card says moops]({{< relref "the_card_says_moops.md" >}}).
 
 ## Backlinks {#backlinks}
 
--   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})
 -   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
+-   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})
 -   [Don't feed the trolls]({{< relref "don_t_feed_the_trolls.md" >}})

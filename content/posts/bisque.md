@@ -2,7 +2,7 @@
 title = "Bisque (Ceramics)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:59:00-07:00
-lastmod = 2022-12-17T13:36:25-08:00
+lastmod = 2023-07-25T08:43:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "7a78f2f9-4a22-43aa-86a7-11dceb13e96a"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.56    | 2022-12-24T12:13:38Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-19T18:20:00Z |
+| front    | 2.80 | 7   | 272.86   | 2024-02-16T13:01:43Z |
+| back     | 2.95 | 7   | 338.34   | 2024-05-23T04:52:52Z |
 
 [Bisque (Ceramics)]({{< relref "bisque.md" >}})
 
@@ -46,4 +46,3 @@ Ceramic which has been fired in a kiln without a ceramic glaze.
 ## Backlinks {#backlinks}
 
 -   [Clay firing stages]({{< relref "clay_firing_stages.md" >}})
--   [Describe]({{< relref "clay_firing_stages.md#describe" >}})

@@ -2,7 +2,7 @@
 title = "Third-party cookies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T10:31:00-07:00
-lastmod = 2022-12-17T14:17:22-08:00
+lastmod = 2023-07-25T12:35:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "2651f5d4-f8db-45b1-9256-aadb99c39575"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 113.16   | 2023-02-28T01:27:48Z |
-| front    | 2.35 | 6   | 60.92    | 2023-01-10T14:34:52Z |
+| back     | 2.65 | 8   | 303.32   | 2023-12-29T11:44:29Z |
+| front    | 2.05 | 8   | 298.17   | 2024-03-26T18:26:48Z |
 
 [Third-party cookies]({{< relref "third_party_cookies.md" >}})
 

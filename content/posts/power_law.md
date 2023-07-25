@@ -2,7 +2,7 @@
 title = "Power law"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:26:00-08:00
-lastmod = 2022-12-17T14:03:36-08:00
+lastmod = 2023-07-25T11:28:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "29d30938-ecd0-4f44-a86b-5bd7f7734f08"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.32    | 2022-12-21T07:54:54Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-17T20:32:27Z |
+| front    | 2.50 | 7   | 236.74   | 2024-01-04T09:39:06Z |
+| back     | 2.50 | 7   | 163.65   | 2023-10-21T07:34:18Z |
 
 [Power law]({{< relref "power_law.md" >}})
 

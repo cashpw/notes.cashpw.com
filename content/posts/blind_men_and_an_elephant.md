@@ -2,7 +2,7 @@
 title = "Blind men and an elephant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-16T18:43:00-08:00
-lastmod = 2022-12-17T13:36:32-08:00
+lastmod = 2023-07-25T08:44:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -35,8 +35,8 @@ slug = "9948ab6c-23b4-4950-ba95-ee4a27fa2992"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2022-12-17T02:45:29Z |
-| back     | 2.5  | -1  | 0        | 2022-12-17T02:45:29Z |
+| front    | 2.65 | 7   | 313.16   | 2024-05-04T20:18:39Z |
+| back     | 2.95 | 6   | 139.05   | 2023-08-10T19:10:19Z |
 
 [Blind men and an elephant]({{< relref "blind_men_and_an_elephant.md" >}})
 
@@ -58,7 +58,7 @@ Humans tend to:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2022-12-17T02:47:41Z |
+| front    | 2.80 | 6   | 144.24   | 2023-08-09T19:19:15Z |
 
 Tell the parable of the [Blind men and an elephant]({{< relref "blind_men_and_an_elephant.md" >}})
 

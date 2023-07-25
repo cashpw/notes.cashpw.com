@@ -2,7 +2,7 @@
 title = "Sara Teasdale"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T10:40:00-07:00
-lastmod = 2022-12-17T14:08:18-08:00
+lastmod = 2023-07-25T12:27:03-07:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false
@@ -18,4 +18,3 @@ Among other things:
 ## Backlinks {#backlinks}
 
 -   [There will come soft rains]({{< relref "ThereWillComeSoftRainsPoem2022.md" >}})
--   [Source]({{< relref "ThereWillComeSoftRainsPoem2022.md#source" >}})

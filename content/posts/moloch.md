@@ -2,7 +2,7 @@
 title = "Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:24:00-07:00
-lastmod = 2022-12-17T13:56:53-08:00
+lastmod = 2023-07-25T11:11:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,6 +14,7 @@ slug = "3aea1e2f-dd21-4c21-a8c9-7efd610424c4"
 > Since the medieval period, Moloch has often been portrayed as a bull-headed idol with outstretched hands over a fire; this depiction takes the brief mentions of Moloch in the Bible and combines them with various sources, including ancient accounts of Carthaginian child sacrifice and the legend of the Minotaur.
 >
 > "Moloch" has been figuratively used in reference to a person or a thing which demands or requires a very costly sacrifice
+>
 > (<a href="#citeproc_bib_item_3">“Moloch” 2022</a>)
 
 
@@ -58,8 +59,8 @@ Related:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 7   | 135.70   | 2023-03-20T17:10:14Z |
-| front    | 2.65 | 6   | 57.84    | 2022-12-25T11:49:29Z |
+| back     | 2.80 | 8   | 369.87   | 2024-03-25T14:20:37Z |
+| front    | 2.50 | 8   | 366.86   | 2024-05-26T10:54:06Z |
 
 [Moloch]({{< relref "moloch.md" >}})
 
@@ -78,7 +79,7 @@ Systems which compel the individuals within them to race to the bottom; to choos
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 71.57    | 2022-12-21T05:20:15Z |
+| front    | 2.65 | 8   | 533.78   | 2025-01-07T22:42:25Z |
 
 [Moloch]({{< relref "moloch.md" >}}) and [Tragedy of the Commons]({{< relref "tragedy_of_the_commons.md" >}})
 
@@ -100,22 +101,24 @@ Systems which compel the individuals within them to race to the bottom; to choos
 
 ## Backlinks {#backlinks}
 
--   [We live in a society]({{< relref "we_live_in_a_society.md" >}})
--   [Capitalism]({{< relref "capitalism.md" >}})
--   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
--   [Describe]({{< relref "the_opposite_of_a_trap_is_a_garden.md#describe" >}})
--   [Describe]({{< relref "ginsbergHowl2022.md#describe" >}})
--   [Example(s)]({{< relref "tragedy_of_the_commons.md#example--s" >}})
--   [All cops are bastards]({{< relref "all_cops_are_bastards.md" >}})
--   [Excess resources (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#excess-resources--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
--   [Physical limitations (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#physical-limitations--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
--   [Utility maximization (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#utility-maximization--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
--   [Coordination (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#coordination--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
--   [Ways Scott Alexander sees for resisting Moloch]({{< relref "alexanderMeditationsMoloch2014.md#ways-id-e7e4bd59-fa63-49a8-bfca-6c767d1c2330-scott-alexander-sees-for-resisting-id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
--   [Describe]({{< relref "alexanderMeditationsMoloch2014.md#describe" >}})
--   [Describe]({{< relref "alexanderMeditationsMoloch2014.md#describe" >}})
--   [Describe]({{< relref "alexanderMeditationsMoloch2014.md#describe" >}})
--   [Describe]({{< relref "alexanderMeditationsMoloch2014.md#describe" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Programming as a tool to make things]({{< relref "gentleTribesProgramming2017.md#programming-as-a-tool-to-make-things" >}})
--   [Dark forest theory]({{< relref "dark_forest_theory.md" >}})
+-   [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
+-   [Tragedy of the commons]({{< relref "tragedy_of_the_commons.md" >}})
+-   [Capitalism]({{< relref "capitalism.md" >}})
+-   [All cops are bastards]({{< relref "all_cops_are_bastards.md" >}})
+-   [We live in a society]({{< relref "we_live_in_a_society.md" >}})
+-   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
+-   [Collective action problem]({{< relref "collective_action_problem.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Allen Ginsberg | Howl]({{< relref "ginsbergHowl2022.md" >}})
+-   [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}})
+-   [Unread]({{< relref "unread.md" >}})
+-   [Dark forest theory]({{< relref "dark_forest_theory.md" >}})
+-   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
+-   [Excess resources (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Physical limitations (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Utility maximization (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Coordination (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})

@@ -2,7 +2,7 @@
 title = "Adjacency matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:37:00-07:00
-lastmod = 2022-12-17T13:34:15-08:00
+lastmod = 2023-07-25T08:33:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ Also see [Adjacency list]({{< relref "adjacency_list.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 6   | 64.05    | 2023-01-04T17:38:44Z |
-| front    | 2.65 | 7   | 144.85   | 2023-05-09T15:06:47Z |
+| back     | 2.65 | 8   | 385.47   | 2024-07-01T04:40:23Z |
+| front    | 2.65 | 8   | 394.75   | 2024-06-08T10:08:24Z |
 
 [Adjacency matrix]({{< relref "adjacency_matrix.md" >}})
 
@@ -47,8 +47,6 @@ A square matrix used to represent a finite [Graph]({{< relref "graph.md" >}}). E
 
 ## Backlinks {#backlinks}
 
--   [Directed graph]({{< relref "directed_graph.md" >}})
--   [Definition (Graph Theory)]({{< relref "directed_graph.md#definition--id-5bc61709-6612-4287-921f-3e2509bd2261-graph-theory" >}})
 -   [Adjacency list]({{< relref "adjacency_list.md" >}})
 -   [Undirected graph]({{< relref "undirected_graph.md" >}})
--   [Definition (Graph Theory)]({{< relref "undirected_graph.md#definition--id-5bc61709-6612-4287-921f-3e2509bd2261-graph-theory" >}})
+-   [Directed graph]({{< relref "directed_graph.md" >}})

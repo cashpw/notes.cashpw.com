@@ -2,7 +2,7 @@
 title = "Composability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:47:00-08:00
-lastmod = 2022-12-17T13:38:37-08:00
+lastmod = 2023-07-25T08:55:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,8 +24,8 @@ slug = "5d0c9c41-219f-4330-b2e6-0ae5daaa5355"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 0   | 0.00     | 2022-12-13T17:25:27Z |
-| back     | 2.5  | -1  | 0        | 2022-11-11T02:51:36Z |
+| front    | 1.75 | 8   | 102.20   | 2023-08-20T20:51:17Z |
+| back     | 2.05 | 7   | 149.90   | 2023-10-10T13:58:31Z |
 
 [Composability]({{< relref "composability.md" >}})
 
@@ -47,8 +47,8 @@ A design principle relating to distinct, independent, units which can be assembl
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2022-12-14T18:22:59Z |
-| 1        | 2.5  | -1  | 0        | 2022-12-02T19:31:53Z |
+| 0        | 2.20 | 7   | 139.78   | 2023-08-31T07:33:04Z |
+| 1        | 2.05 | 6   | 39.99    | 2023-07-28T14:13:20Z |
 
 
 #### Source {#source}
@@ -64,5 +64,5 @@ A design principle relating to distinct, independent, units which can be assembl
 
 ## Backlinks {#backlinks}
 
--   [Describe]({{< relref "unix_philosophy.md#describe" >}})
 -   [Zach Tellman | Two Concepts of Legibility]({{< relref "zach_tellman_two_concepts_of_legibility.md" >}})
+-   [Unix philosophy]({{< relref "unix_philosophy.md" >}})

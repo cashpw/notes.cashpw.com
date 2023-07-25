@@ -2,7 +2,7 @@
 title = "Notice the taste of lotus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:33:00-08:00
-lastmod = 2022-12-17T14:21:54-08:00
+lastmod = 2023-07-25T12:40:17-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -38,8 +38,8 @@ Related: [Be conscious of your defaults]({{< relref "be_concious_of_your_default
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 15.40    | 2023-01-01T03:34:04Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-12T15:33:52Z |
+| front    | 2.80 | 7   | 300.74   | 2024-04-07T11:13:44Z |
+| back     | 2.50 | 7   | 268.98   | 2024-02-15T13:20:58Z |
 
 [Notice the taste of lotus]({{< relref "valentineNoticingTasteLotus2018.md" >}})
 
@@ -59,4 +59,5 @@ Related: [Be conscious of your defaults]({{< relref "be_concious_of_your_default
 
 ## Backlinks {#backlinks}
 
+-   [Scott Alexander]({{< relref "scott_alexander.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

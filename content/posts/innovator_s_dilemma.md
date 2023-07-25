@@ -2,7 +2,7 @@
 title = "Innovator's dilemma"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-16T19:44:00-07:00
-lastmod = 2022-12-17T13:49:13-08:00
+lastmod = 2023-07-25T10:49:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,8 +28,8 @@ slug = "e3915b9e-665b-4da5-b2ec-42ba090918c9"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2022-11-22T22:19:18Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T22:19:18Z |
+| front    | 2.65 | 7   | 309.58   | 2024-04-30T07:41:09Z |
+| back     | 2.20 | 7   | 167.26   | 2023-10-29T23:29:41Z |
 
 [Innovator's dilemma]({{< relref "innovator_s_dilemma.md" >}})
 

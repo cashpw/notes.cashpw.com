@@ -2,7 +2,7 @@
 title = "David Thompson | My Favourite Git Commit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:26:00-08:00
-lastmod = 2022-12-17T14:17:53-08:00
+lastmod = 2023-07-25T12:35:57-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -93,4 +93,4 @@ Now the tests work! One hour of my life I won't get back..
 ## Backlinks {#backlinks}
 
 -   [Alexey Nikitin | My least favorite Git commit]({{< relref "nikitinMyLeastFavoriteGitCommit2019.md" >}})
--   [Documenting your work]({{< relref "documenting_your_work.md" >}})
+-   [Document your work]({{< relref "documenting_your_work.md" >}})

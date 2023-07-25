@@ -2,7 +2,7 @@
 title = "Zach Tellman | Trapped in the Technologist Factory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-19T09:32:00-08:00
-lastmod = 2022-12-17T14:14:39-08:00
+lastmod = 2023-07-25T12:33:40-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -57,11 +57,11 @@ slug = "1182a8b4-b808-47e2-92e3-f69bb9e57981"
 ## Flashcards {#flashcards}
 
 
-### Describe {#describe}
+### Summarize {#summarize}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-16T18:16:31Z |
+| front    | 1.75 | 8   | 147.91   | 2023-11-01T12:25:47Z |
 
 [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})
 
@@ -75,7 +75,7 @@ slug = "1182a8b4-b808-47e2-92e3-f69bb9e57981"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.19    | 2022-12-27T21:53:56Z |
+| front    | 2.35 | 7   | 190.53   | 2023-11-10T04:29:16Z |
 
 -   [It's a feature, not a bug]({{< relref "it_s_a_feature_not_a_bug.md" >}})
 -   Startups attract [Technologist]({{< relref "technologist.md" >}}) types

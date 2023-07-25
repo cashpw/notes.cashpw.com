@@ -2,7 +2,7 @@
 title = "Symmetric relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-06T07:00:00-08:00
-lastmod = 2022-12-17T14:13:23-08:00
+lastmod = 2023-07-25T12:32:19-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "bc7c3e81-4498-43dd-9f65-b2c0e0cbf521"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 150.50   | 2023-03-10T03:56:42Z |
-| front    | 2.45 | 5   | 31.74    | 2022-12-29T12:02:58Z |
+| back     | 2.65 | 8   | 374.75   | 2024-03-19T23:23:47Z |
+| front    | 2.30 | 7   | 177.24   | 2023-09-05T06:14:15Z |
 
 [Symmetric relation]({{< relref "symmetric_relation.md" >}})
 
@@ -51,4 +51,3 @@ Formally: \\((a \\, R \\, b \iff b \\, R \\, a) \\; \forall \\; a, b \in X\\)
 ## Backlinks {#backlinks}
 
 -   [Equivalence relation]({{< relref "equivalence_relation.md" >}})
--   [Definition (Math)]({{< relref "equivalence_relation.md#flashcards" >}})

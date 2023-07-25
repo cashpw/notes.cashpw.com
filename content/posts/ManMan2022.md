@@ -2,7 +2,7 @@
 title = "Man After Man"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T15:08:00-08:00
-lastmod = 2022-12-17T13:33:53-08:00
+lastmod = 2023-07-25T08:30:59-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

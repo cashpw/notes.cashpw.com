@@ -2,7 +2,7 @@
 title = "Mnemonic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-04T17:38:00-07:00
-lastmod = 2022-12-17T13:56:42-08:00
+lastmod = 2023-07-25T11:10:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ slug = "f38ffe48-0117-4338-8bd5-e0b05101e64f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-20T17:52:11Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-16T18:45:12Z |
+| front    | 2.80 | 7   | 326.69   | 2024-04-26T16:31:32Z |
+| back     | 2.65 | 7   | 233.50   | 2024-01-13T08:30:22Z |
 
 [Mnemonic]({{< relref "mnemonic.md" >}})
 
@@ -49,8 +49,6 @@ A learning technique which aids information retention or retrieval. They're comm
 
 ## Backlinks {#backlinks}
 
--   [Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md#memory-in-educational-settings" >}})
 -   [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
--   [Mnemonic for Bloom's Taxonomy]({{< relref "BloomTaxonomy2022.md#id-f38ffe48-0117-4338-8bd5-e0b05101e64f-mnemonic-for-id-5fbaa05c-666f-4d45-b798-ff36ace22126-bloom-s-taxonomy" >}})
+-   [Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md#memory-in-educational-settings" >}})
 -   [Socratic questioning]({{< relref "socratic_questioning.md" >}})
--   [Mnemonic for Socratic questioning]({{< relref "socratic_questioning.md#id-f38ffe48-0117-4338-8bd5-e0b05101e64f-mnemonic-for-id-8611a2b5-378e-44ab-b601-6481f170c34a-socratic-questioning" >}})

@@ -1,8 +1,8 @@
 +++
-title = "How to be more creative"
+title = "Creativity is a product of volume"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T11:27:00-07:00
-lastmod = 2022-12-17T13:47:44-08:00
+lastmod = 2023-07-25T10:45:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,7 @@ slug = "3619f0c9-baa8-44da-8667-c13b7dc3e3bd"
 2.  Pick the good ones
 3.  If there are no good ideas, go to step 1
 
-Creativity is a product of volume. The best way I know to be creative is to produce a whole bunch of ideas without caring whether or not they're good or bad and then select from what's in front of me.
+The best way I know to be creative is to produce a whole bunch of ideas without caring whether or not they're good or bad and then select from what's in front of me.
 
 References:
 
@@ -28,11 +28,13 @@ Similar ideas:
 ## Flashcards {#flashcards}
 
 
-### Creativity is a product of {{volume}@0} {#creativity-is-a-product-of-volume-0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 51.38    | 2023-01-23T08:14:44Z |
+| 0        | 2.95 | 7   | 511.06   | 2024-11-28T05:34:53Z |
+
+Creativity is a product of {{volume}@0}
 
 
 #### Source {#source}
@@ -48,4 +50,6 @@ Me
 
 ## Backlinks {#backlinks}
 
+-   [Ceramics exercises]({{< relref "ceramics_exercises.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [James Altucher | The Ultimate Guide for Becoming an Idea Machine]({{< relref "UltimateGuideBecomingIdeaMachine2014.md" >}})

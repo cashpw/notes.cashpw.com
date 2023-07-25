@@ -2,7 +2,7 @@
 title = "Attention economy"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:17:00-08:00
-lastmod = 2022-12-17T13:35:26-08:00
+lastmod = 2023-07-25T08:39:40-07:00
 draft = false
 slug = "cd48945d-3cb1-46b1-a4ad-15fe89655d11"
 +++
@@ -29,8 +29,8 @@ Related: [Continuous partial attention]({{< relref "continuous_partial_attention
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 13.80    | 2022-12-28T14:00:02Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-18T17:48:40Z |
+| front    | 2.35 | 7   | 148.72   | 2023-09-04T07:34:15Z |
+| back     | 2.50 | 7   | 179.74   | 2023-11-06T09:50:57Z |
 
 [Attention economy]({{< relref "attention_capital_theory.md" >}})
 
@@ -53,6 +53,7 @@ A view of the management of information which treats human attention as a scarce
 
 ## Backlinks {#backlinks}
 
+-   [Favorites]({{< relref "favorites.md" >}})
 -   [Stephen Kuenzli | Key Practices for Achieving Large Professional Goals]({{< relref "kuenzliKeyPracticesAchievingLargeProfessionalGoals2019.md" >}})
 -   [Cal Newport | About]({{< relref "newport.md" >}})
 -   [Ben Kuhn | Attention Is Your Scarcest Resource]({{< relref "kuhnAttentionYourScarcest2020.md" >}})

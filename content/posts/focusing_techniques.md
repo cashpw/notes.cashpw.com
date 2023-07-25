@@ -2,7 +2,7 @@
 title = "Focusing techniques"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T07:08:00-08:00
-lastmod = 2022-12-17T13:44:04-08:00
+lastmod = 2023-07-25T10:41:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,8 @@ Focusing techniques bridge the gap between a desired state of mind and your pres
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-21T20:13:49Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T23:05:21Z |
+| front    | 2.80 | 7   | 340.79   | 2024-05-26T10:09:03Z |
+| back     | 2.20 | 7   | 186.76   | 2023-11-24T07:14:53Z |
 
 [Focusing techniques]({{< relref "focusing_techniques.md" >}})
 
@@ -42,4 +42,4 @@ Techniques which bridge the gap between a desired state of mind and one's presen
 
 ## Backlinks {#backlinks}
 
--   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md#2-dot-1" >}})
+-   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md" >}})

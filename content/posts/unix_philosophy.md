@@ -2,7 +2,7 @@
 title = "Unix philosophy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:46:00-08:00
-lastmod = 2022-12-17T14:20:35-08:00
+lastmod = 2023-07-25T12:39:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "4ab64054-a7a8-432e-bd5b-da1d8a01ae16"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.19    | 2022-12-16T20:52:57Z |
-| back     | 2.50 | 4   | 14.57    | 2022-12-28T08:04:30Z |
+| front    | 2.20 | 7   | 188.10   | 2023-11-04T21:01:10Z |
+| back     | 2.50 | 7   | 251.92   | 2024-01-31T18:40:59Z |
 
 [Unix philosophy]({{< relref "unix_philosophy.md" >}})
 
@@ -45,5 +45,5 @@ slug = "4ab64054-a7a8-432e-bd5b-da1d8a01ae16"
 
 ## Backlinks {#backlinks}
 
--   [Evergreen notes]({{< relref "evergreen_notes.md" >}})
 -   [Zach Tellman | Two Concepts of Legibility]({{< relref "zach_tellman_two_concepts_of_legibility.md" >}})
+-   [Evergreen notes]({{< relref "evergreen_notes.md" >}})

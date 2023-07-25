@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Evergreen Notes"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:40:00-08:00
-lastmod = 2022-12-17T13:55:00-08:00
+lastmod = 2023-07-25T11:07:21-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -43,3 +43,8 @@ slug = "eb5965f1-211b-45cb-9f56-b8e85c48bb6d"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes.” <i>Andy’s Working Notes</i>. Accessed February 22, 2022. <a href="https://notes.andymatuschak.org/Evergreen_notes">https://notes.andymatuschak.org/Evergreen_notes</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Evergreen notes]({{< relref "evergreen_notes.md" >}})

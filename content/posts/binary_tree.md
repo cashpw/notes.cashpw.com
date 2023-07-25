@@ -2,7 +2,7 @@
 title = "Binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-12-17T13:36:23-08:00
+lastmod = 2023-07-25T08:43:28-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -45,8 +45,8 @@ Assuming a 0-indexed array: child nodes for a node at index \\(i\\) are at \\(\t
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.20 | 3   | 6.00     | 2022-12-19T02:24:46Z |
-| front    | 2.65 | 5   | 32.69    | 2022-11-15T10:03:29Z |
+| back     | 2.05 | 7   | 120.55   | 2023-07-27T16:19:57Z |
+| front    | 2.35 | 7   | 167.49   | 2023-08-20T04:37:00Z |
 
 \\(\operatorname{parent}(i)\\) \\(\forall\\) child indexes, \\(i\\)
 
@@ -65,8 +65,8 @@ Assuming a 0-indexed array: child nodes for a node at index \\(i\\) are at \\(\t
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 79.83    | 2023-01-09T10:39:08Z |
-| front    | 2.65 | 6   | 101.30   | 2023-02-09T23:52:33Z |
+| back     | 2.80 | 8   | 225.63   | 2023-08-23T05:47:14Z |
+| front    | 2.65 | 7   | 275.24   | 2023-11-14T23:14:43Z |
 
 \\(\operatorname{children}(i)\\) \\(\forall\\) parent indexes, \\(i\\)
 
@@ -85,8 +85,8 @@ Assuming a 0-indexed array: child nodes for a node at index \\(i\\) are at \\(\t
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 6   | 71.03    | 2022-12-28T15:58:02Z |
-| front    | 2.80 | 7   | 151.62   | 2023-04-19T07:02:06Z |
+| back     | 2.80 | 8   | 449.99   | 2024-09-17T17:00:12Z |
+| front    | 2.80 | 8   | 417.49   | 2024-06-24T09:50:24Z |
 
 [Binary tree]({{< relref "binary_tree.md" >}})
 
@@ -109,19 +109,13 @@ A [Tree]({{< relref "tree.md" >}}) [Data structure]({{< relref "data_structures.
 
 ## Backlinks {#backlinks}
 
--   [Tree rotation]({{< relref "tree_rotation.md" >}})
--   [Definition (Graph theory)]({{< relref "tree_rotation.md#definition--id-5bc61709-6612-4287-921f-3e2509bd2261-graph-theory" >}})
--   [Describe]({{< relref "tree_rotation.md#describe" >}})
--   [Describe]({{< relref "tree_rotation.md#describe" >}})
--   [Definition (Computer science)]({{< relref "perfect_binary_tree.md#definition--computer-science" >}})
--   [Height-balanced binary tree]({{< relref "height_balanced_binary_tree.md" >}})
--   [Definition (Binary tree)]({{< relref "height_balanced_binary_tree.md#definition--id-323bf406-41e6-4e5f-9be6-689e1055b118-binary-tree" >}})
--   [Definition (Computer science)]({{< relref "complete_binary_tree.md#definition--computer-science" >}})
--   [Definition (Computer science)]({{< relref "balanced_binary_tree.md#definition--computer-science" >}})
--   [Binary search tree]({{< relref "binary_search_tree.md" >}})
--   [Binary heap]({{< relref "binary_heap.md" >}})
--   [Definition (Computer science)]({{< relref "binary_heap.md#definition--computer-science" >}})
+-   [Perfect binary tree]({{< relref "perfect_binary_tree.md" >}})
 -   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
--   [Definition (Computer science)]({{< relref "full_binary_tree.md#definition--computer-science" >}})
--   [Example(s)]({{< relref "succinct_data_structure.md#example--s" >}})
--   [Definition (Computer science)]({{< relref "degenerate_binary_tree.md#definition--computer-science" >}})
+-   [Degenerate binary tree]({{< relref "degenerate_binary_tree.md" >}})
+-   [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
+-   [Binary search tree]({{< relref "binary_search_tree.md" >}})
+-   [Height-balanced binary tree]({{< relref "height_balanced_binary_tree.md" >}})
+-   [Binary heap]({{< relref "binary_heap.md" >}})
+-   [Tree rotation]({{< relref "tree_rotation.md" >}})
+-   [Balanced binary tree]({{< relref "balanced_binary_tree.md" >}})
+-   [Complete binary tree]({{< relref "complete_binary_tree.md" >}})

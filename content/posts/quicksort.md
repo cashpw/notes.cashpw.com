@@ -2,7 +2,7 @@
 title = "Quicksort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T13:45:00-07:00
-lastmod = 2022-12-17T14:05:35-08:00
+lastmod = 2023-07-25T11:35:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -67,10 +67,10 @@ procedure partition(lowIndex, highIndex, list) is
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 87.96    | 2023-02-06T15:45:22Z |
-| 1        | 2.20 | 6   | 54.00    | 2023-01-06T15:01:32Z |
-| 2        | 2.80 | 5   | 36.63    | 2022-12-20T06:37:01Z |
-| 3        | 2.65 | 5   | 47.27    | 2023-01-29T08:22:24Z |
+| 0        | 2.95 | 7   | 282.75   | 2023-11-16T15:42:56Z |
+| 1        | 2.20 | 8   | 267.63   | 2024-02-01T07:40:35Z |
+| 2        | 2.65 | 7   | 304.12   | 2024-02-03T19:17:46Z |
+| 3        | 2.80 | 7   | 337.72   | 2024-05-03T09:02:13Z |
 
 {{[Quicksort]({{< relref "quicksort.md" >}})}@0}
 
@@ -84,11 +84,13 @@ procedure partition(lowIndex, highIndex, list) is
 (<a href="#citeproc_bib_item_1">“Quicksort” 2022</a>)
 
 
-### [Quicksort]({{< relref "quicksort.md" >}})'s `partition` function initializes `i` to `{{low_index - 1}@0}` {#quicksort--quicksort-dot-md--s-partition-function-initializes-i-to-low-index-1-0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 6   | 60.30    | 2023-01-12T22:29:00Z |
+| 0        | 2.20 | 8   | 273.53   | 2024-02-28T05:02:27Z |
+
+[Quicksort]({{< relref "quicksort.md" >}})'s `partition` function initializes `i` to `{{low_index - 1}@0}`
 
 
 #### Extra {#extra}
@@ -97,11 +99,13 @@ procedure partition(lowIndex, highIndex, list) is
 #### Source {#source}
 
 
-### [Quicksort]({{< relref "quicksort.md" >}})'s `partition` function iterates `j` from `{{range(low_index, high_index)}@0}` {#quicksort--quicksort-dot-md--s-partition-function-iterates-j-from-range--low-index-high-index--0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 43.79    | 2023-01-15T13:42:33Z |
+| 0        | 2.80 | 7   | 353.03   | 2024-05-01T15:38:16Z |
+
+[Quicksort]({{< relref "quicksort.md" >}})'s `partition` function iterates `j` from `{{range(low_index, high_index)}@0}`
 
 
 #### Extra {#extra}
@@ -112,11 +116,13 @@ procedure partition(lowIndex, highIndex, list) is
 [Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
 
 
-### [Quicksort]({{< relref "quicksort.md" >}})'s `partition` conditionally swaps elements at `{{i and j}@0}` {#quicksort--quicksort-dot-md--s-partition-conditionally-swaps-elements-at-i-and-j-0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 34.58    | 2023-01-09T07:55:06Z |
+| 0        | 2.20 | 7   | 150.53   | 2023-08-21T04:51:39Z |
+
+[Quicksort]({{< relref "quicksort.md" >}})'s `partition` conditionally swaps elements at `{{i and j}@0}`
 
 
 #### Source {#source}
@@ -124,11 +130,13 @@ procedure partition(lowIndex, highIndex, list) is
 (<a href="#citeproc_bib_item_1">“Quicksort” 2022</a>)
 
 
-### [Quicksort]({{< relref "quicksort.md" >}})'s `partition` compares elements at `{{j and pivot_index}@0}` {#quicksort--quicksort-dot-md--s-partition-compares-elements-at-j-and-pivot-index-0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 30.93    | 2023-01-07T14:05:20Z |
+| 0        | 2.50 | 7   | 164.28   | 2023-09-02T20:38:26Z |
+
+[Quicksort]({{< relref "quicksort.md" >}})'s `partition` compares elements at `{{j and pivot_index}@0}`
 
 
 #### Source {#source}
@@ -140,8 +148,8 @@ procedure partition(lowIndex, highIndex, list) is
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 49.86    | 2023-01-20T14:17:55Z |
-| back     | 2.65 | 5   | 42.80    | 2023-01-14T17:19:12Z |
+| front    | 2.35 | 7   | 290.06   | 2024-02-29T18:38:56Z |
+| back     | 2.50 | 7   | 271.01   | 2024-01-29T21:51:57Z |
 
 [Quicksort]({{< relref "quicksort.md" >}})
 
@@ -168,7 +176,7 @@ A divide-and-conquer sorting algorithm which recursively sorts a list by selecti
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 4   | 15.29    | 2022-12-25T23:44:30Z |
+| front    | 1.90 | 6   | 51.02    | 2023-09-01T13:10:32Z |
 
 Implementation of [Quicksort]({{< relref "quicksort.md" >}})'s `partition` function in [Python]({{< relref "python.md" >}})
 
@@ -176,17 +184,17 @@ Implementation of [Quicksort]({{< relref "quicksort.md" >}})'s `partition` funct
 #### Back {#back}
 
 ```python
-def partition(ints: List[T], comparator: Callable[[id:T, T], int], low_index: int, high_index: int) -> int:
+def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: int, high_index: int) -> int:
     """Sorts sublist into [{<= pivot}, pivot, {> than pivot}]"""
     pivot_index = high_index
     i = low_index - 1
 
     for j in range(low_index, high_index):
-        if comparator(ints[j], ints[pivot_index]) > 0:
+        if comparator(items[j], items[pivot_index]) > 0:
             i += 1
-            swap(ints, i, j)
+            swap(items, i, j)
     i += 1
-    swap(i, pivot_index)
+    swap(items, i, pivot_index)
 
     return i
 ```
@@ -197,14 +205,16 @@ def partition(ints: List[T], comparator: Callable[[id:T, T], int], low_index: in
 (<a href="#citeproc_bib_item_1">“Quicksort” 2022</a>)
 
 
-### {{[Quicksort]({{< relref "quicksort.md" >}})}@0}'s implementation is composed of: {{partition}{function}@1}, {{inner}{function}@2}, and {{swap}{function}@3} {#quicksort--quicksort-dot-md--0-s-implementation-is-composed-of-partition-function-1-inner-function-2-and-swap-function-3}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 3        | 2.65 | 6   | 101.38   | 2023-02-03T23:31:55Z |
-| 2        | 2.65 | 6   | 95.89    | 2023-02-02T14:04:01Z |
-| 1        | 2.35 | 6   | 91.49    | 2023-02-10T04:42:29Z |
-| 0        | 2.50 | 6   | 92.94    | 2023-02-13T13:03:04Z |
+| 3        | 2.80 | 7   | 269.84   | 2023-11-04T18:57:16Z |
+| 2        | 2.65 | 7   | 262.00   | 2023-10-23T16:34:45Z |
+| 1        | 2.50 | 7   | 229.61   | 2023-09-29T05:54:53Z |
+| 0        | 2.50 | 7   | 234.06   | 2023-10-09T16:28:07Z |
+
+{{[Quicksort]({{< relref "quicksort.md" >}})}@0}'s implementation is composed of: {{partition}{function}@1}, {{inner}{function}@2}, and {{swap}{function}@3}
 
 
 #### Extra {#extra}
@@ -213,12 +223,14 @@ def partition(ints: List[T], comparator: Callable[[id:T, T], int], low_index: in
 #### Source {#source}
 
 
-### {{[Quicksort]({{< relref "quicksort.md" >}})}@0}'s implementation is composed of: {{partition, inner, and swap}{functions}@1} {#quicksort--quicksort-dot-md--0-s-implementation-is-composed-of-partition-inner-and-swap-functions-1}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.35 | 6   | 76.86    | 2023-01-23T11:41:42Z |
-| 0        | 2.65 | 7   | 164.18   | 2023-04-30T20:29:30Z |
+| 1        | 2.20 | 8   | 394.99   | 2024-08-22T03:44:44Z |
+| 0        | 2.65 | 8   | 451.10   | 2024-08-04T17:38:21Z |
+
+{{[Quicksort]({{< relref "quicksort.md" >}})}@0}'s implementation is composed of: {{partition, inner, and swap}{functions}@1}
 
 
 #### Extra {#extra}
@@ -227,11 +239,13 @@ def partition(ints: List[T], comparator: Callable[[id:T, T], int], low_index: in
 #### Source {#source}
 
 
-### [Quicksort]({{< relref "quicksort.md" >}}) average time complexity is {{\\(O(n \log n)\\)}@0} {#quicksort--quicksort-dot-md--average-time-complexity-is-o--n-log-n--0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 4   | 14.90    | 2022-12-28T15:57:16Z |
+| 0        | 2.35 | 7   | 167.67   | 2023-09-28T05:22:39Z |
+
+[Quicksort]({{< relref "quicksort.md" >}}) average time complexity is {{\\(O(n \log n)\\)}@0}
 
 
 #### Extra {#extra}
@@ -240,11 +254,13 @@ def partition(ints: List[T], comparator: Callable[[id:T, T], int], low_index: in
 #### Source {#source}
 
 
-### [Quicksort]({{< relref "quicksort.md" >}}) space complexity is {{\\(O(n)\\)}@0} {#quicksort--quicksort-dot-md--space-complexity-is-o--n--0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 57.27    | 2022-12-28T22:32:05Z |
+| 0        | 2.35 | 8   | 335.96   | 2024-04-25T13:12:04Z |
+
+[Quicksort]({{< relref "quicksort.md" >}}) space complexity is {{\\(O(n)\\)}@0}
 
 
 #### Extra {#extra}
@@ -253,28 +269,13 @@ def partition(ints: List[T], comparator: Callable[[id:T, T], int], low_index: in
 #### Source {#source}
 
 
-### [Quicksort]({{< relref "quicksort.md" >}}) is {{[Unstable]({{< relref "unstable_sorting_algorithm.md" >}})}{stability}@0} {#quicksort--quicksort-dot-md--is-unstable--unstable-sorting-algorithm-dot-md--stability-0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 8   | 96.73    | 2023-03-04T11:43:24Z |
+| 0        | 3.10 | 9   | 290.38   | 2023-12-20T00:16:05Z |
 
-
-#### Extra {#extra}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Quicksort” 2022</a>)
-
-
-### Implement [Quicksort]({{< relref "quicksort.md" >}}) in Python {#implement-quicksort--quicksort-dot-md--in-python}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 3   | 6.00     | 2022-12-22T17:35:20Z |
-
-[Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
+[Quicksort]({{< relref "quicksort.md" >}}) is {{[Unstable]({{< relref "unstable_sorting_algorithm.md" >}})}{stability}@0}
 
 
 #### Source {#source}
@@ -282,14 +283,13 @@ def partition(ints: List[T], comparator: Callable[[id:T, T], int], low_index: in
 (<a href="#citeproc_bib_item_1">“Quicksort” 2022</a>)
 
 
-### [Quicksort]({{< relref "quicksort.md" >}}) is {{[Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})}{memory}@0} {#quicksort--quicksort-dot-md--is-internal-memory-algorithm--internal-memory-algorithm-dot-md--memory-0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 6   | 66.58    | 2022-12-27T05:31:09Z |
+| 0        | 2.05 | 8   | 277.25   | 2024-02-07T23:33:21Z |
 
-
-#### Extra {#extra}
+[Quicksort]({{< relref "quicksort.md" >}}) is {{[Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})}{memory}@0}
 
 
 #### Source {#source}
@@ -297,14 +297,6 @@ def partition(ints: List[T], comparator: Callable[[id:T, T], int], low_index: in
 (<a href="#citeproc_bib_item_1">“Quicksort” 2022</a>)
 
 :CREATED: <span class="timestamp-wrapper"><span class="timestamp">[2022-11-05 Sat 09:51]</span></span>
-
-
-### [Quicksort]({{< relref "quicksort.md" >}})'s `partition` conditionally swaps elements at `{{i and j}}` {#quicksort--quicksort-dot-md--s-partition-conditionally-swaps-elements-at-i-and-j}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Quicksort” 2022</a>)
 
 ## References
 
@@ -315,7 +307,7 @@ def partition(ints: List[T], comparator: Callable[[id:T, T], int], low_index: in
 
 ## Backlinks {#backlinks}
 
--   [Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
--   [Example(s) (stability)]({{< relref "unstable_sorting_algorithm.md#example--s----stability" >}})
 -   [Quickselect]({{< relref "quickselect.md" >}})
--   [Example(s)]({{< relref "internal_memory_algorithm.md#example--s" >}})
+-   [Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
+-   [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})
+-   [Unstable sorting algorithm]({{< relref "unstable_sorting_algorithm.md" >}})

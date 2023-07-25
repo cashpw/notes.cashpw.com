@@ -2,7 +2,7 @@
 title = "Binary search tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:43:00-07:00
-lastmod = 2022-12-17T13:36:18-08:00
+lastmod = 2023-07-25T08:43:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,7 +31,7 @@ slug = "dc929031-e15a-4566-a7bd-7331768ee02f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 51.59    | 2023-01-20T08:37:30Z |
+| 0        | 2.80 | 7   | 415.47   | 2024-08-18T08:01:14Z |
 
 
 #### Extra {#extra}
@@ -46,7 +46,7 @@ slug = "dc929031-e15a-4566-a7bd-7331768ee02f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 103.19   | 2023-03-16T00:09:09Z |
+| 0        | 2.95 | 7   | 302.07   | 2024-01-13T15:40:02Z |
 
 
 #### Extra {#extra}
@@ -61,7 +61,7 @@ slug = "dc929031-e15a-4566-a7bd-7331768ee02f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 179.45   | 2023-05-25T01:45:50Z |
+| 0        | 2.80 | 8   | 503.36   | 2024-10-09T22:44:58Z |
 
 
 #### Extra {#extra}
@@ -76,7 +76,7 @@ slug = "dc929031-e15a-4566-a7bd-7331768ee02f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 44.57    | 2023-01-21T05:20:47Z |
+| 0        | 2.65 | 7   | 339.45   | 2024-05-12T01:48:56Z |
 
 
 #### Extra {#extra}
@@ -91,8 +91,8 @@ slug = "dc929031-e15a-4566-a7bd-7331768ee02f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 6   | 71.22    | 2023-01-17T20:18:04Z |
-| front    | 2.50 | 5   | 37.97    | 2022-12-23T14:24:00Z |
+| back     | 2.20 | 8   | 354.07   | 2024-06-29T14:39:10Z |
+| front    | 2.20 | 7   | 107.17   | 2023-11-08T08:09:50Z |
 
 [Binary search tree]({{< relref "binary_search_tree.md" >}})
 
@@ -114,9 +114,9 @@ A binary tree in which satisfies the binary search property. That is, the nodes 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 9   | 109.81   | 2023-02-04T10:25:59Z |
-| 1        | 2.65 | 6   | 83.48    | 2022-12-16T03:36:59Z |
-| 2        | 2.65 | 6   | 69.61    | 2023-01-15T12:17:49Z |
+| 0        | 2.65 | 10  | 272.70   | 2023-11-06T16:47:50Z |
+| 1        | 2.50 | 7   | 228.06   | 2023-08-03T20:04:00Z |
+| 2        | 2.50 | 8   | 356.19   | 2024-06-13T06:21:45Z |
 
 -   {{[Binary search tree]({{< relref "binary_search_tree.md" >}})}@0}
 -   {{[Sorted binary tree]({{< relref "binary_search_tree.md" >}})}@1}
@@ -136,7 +136,6 @@ A binary tree in which satisfies the binary search property. That is, the nodes 
 
 ## Backlinks {#backlinks}
 
--   [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}})
--   [Definition (Computer science)]({{< relref "self_balancing_binary_search_tree.md" >}})
 -   [B-tree]({{< relref "b_tree.md" >}})
--   [{{B-trees}@0} generalize {{Binary search tree}@1}]({{< relref "b_tree.md#id-170cf2cd-adb9-4a26-8793-1b31b2ef40c2-b-trees-0-generalize-id-dc929031-e15a-4566-a7bd-7331768ee02f-binary-search-tree-1" >}})
+-   [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}})
+-   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})

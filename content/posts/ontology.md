@@ -2,7 +2,7 @@
 title = "Ontology"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:33:00-08:00
-lastmod = 2022-12-17T13:59:45-08:00
+lastmod = 2023-07-25T11:20:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "05cb0686-d54a-46c6-90d3-8679156b4139"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 0   | 0.00     | 2022-12-16T17:47:27Z |
-| back     | 2.5  | -1  | 0        | 2022-11-07T17:35:01Z |
+| front    | 1.75 | 7   | 43.60    | 2023-08-16T16:04:10Z |
+| back     | 2.20 | 7   | 210.50   | 2024-01-01T12:06:36Z |
 
 [Ontology]({{< relref "ontology.md" >}})
 

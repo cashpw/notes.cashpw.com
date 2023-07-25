@@ -2,7 +2,7 @@
 title = "String literal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-01T14:49:00-07:00
-lastmod = 2022-12-17T14:12:33-08:00
+lastmod = 2023-07-25T12:31:29-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -21,8 +21,8 @@ slug = "7cf9c5ed-29ac-4f1a-a88c-61253c72c5b8"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 46.30    | 2023-01-16T23:13:24Z |
-| back     | 2.65 | 5   | 41.36    | 2023-01-27T02:42:10Z |
+| front    | 3.25 | 7   | 470.72   | 2024-09-16T21:34:01Z |
+| back     | 2.50 | 7   | 233.42   | 2024-01-02T02:45:53Z |
 
 [String literal]({{< relref "string_literal.md" >}})
 

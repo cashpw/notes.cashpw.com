@@ -2,7 +2,7 @@
 title = "Mental model"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:08:00-08:00
-lastmod = 2022-12-17T13:55:29-08:00
+lastmod = 2023-07-25T11:08:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,15 +21,15 @@ slug = "787214e0-5941-4c6f-9a61-e79b9b40baea"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.03    | 2022-12-27T19:03:06Z |
-| back     | 2.20 | 4   | 13.90    | 2022-12-29T18:17:40Z |
+| front    | 2.35 | 7   | 169.33   | 2023-09-29T20:36:52Z |
+| back     | 1.75 | 8   | 140.99   | 2023-11-06T03:57:17Z |
 
 [Mental model]({{< relref "mental_model.md" >}})
 
 
 #### Back {#back}
 
--   An explanation of how something works
+-   A explanation of how something works
 -   A representation of the world, the relationship between its various parts, and a person's perception of their own acts and their consequences.
 
 
@@ -47,5 +47,8 @@ slug = "787214e0-5941-4c6f-9a61-e79b9b40baea"
 ## Backlinks {#backlinks}
 
 -   [Farnum Street | Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)]({{< relref "farnum_street_mental_models_the_best_way_to_make_intelligent_decisions_109_models_explained.md" >}})
--   [The map is not the territory]({{< relref "the_map_is_not_the_territory.md" >}})
+-   [Legible]({{< relref "legible.md" >}})
 -   [Framing]({{< relref "framing.md" >}})
+-   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "mental_model.md" >}})
+-   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})
+-   [The map is not the territory]({{< relref "the_map_is_not_the_territory.md" >}})

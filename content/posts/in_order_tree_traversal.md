@@ -2,7 +2,7 @@
 title = "In-order tree traversal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:32:00-07:00
-lastmod = 2022-12-17T13:48:56-08:00
+lastmod = 2023-07-25T10:48:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,8 +31,8 @@ slug = "5069eb5e-f5c6-49de-8329-ba07dafe320e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 131.73   | 2023-04-21T11:57:01Z |
-| back     | 2.65 | 6   | 71.07    | 2022-12-22T16:21:38Z |
+| front    | 2.50 | 8   | 336.29   | 2024-03-30T21:39:53Z |
+| back     | 2.80 | 8   | 534.21   | 2025-01-08T09:11:54Z |
 
 [In-order tree traversal]({{< relref "in_order_tree_traversal.md" >}})
 

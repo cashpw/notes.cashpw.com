@@ -2,7 +2,7 @@
 title = "Status quo"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:22:00-08:00
-lastmod = 2022-12-17T14:12:07-08:00
+lastmod = 2023-07-25T12:31:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,12 +19,14 @@ slug = "dd143af0-9e37-4b8c-8d9a-53a96b43cf53"
 ## Flashcards {#flashcards}
 
 
-### {{[Status quo]({{< relref "status_quo.md" >}})}{[Latin]({{< relref "latin.md" >}})}@0} : {{Current state of affairs}{English}@1} {#status-quo--status-quo-dot-md--latin--latin-dot-md--0-current-state-of-affairs-english-1}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 14.78    | 2022-12-29T13:20:12Z |
-| 1        | 2.35 | 3   | 6.00     | 2022-12-22T17:35:40Z |
+| 0        | 2.35 | 7   | 192.15   | 2023-11-16T20:44:08Z |
+| 1        | 2.50 | 7   | 226.18   | 2024-01-11T20:35:15Z |
+
+{{[Status quo]({{< relref "status_quo.md" >}})}{[Latin]({{< relref "latin.md" >}})}@0} : {{Current state of affairs}{English}@1}
 
 
 #### Source {#source}
@@ -40,4 +42,4 @@ slug = "dd143af0-9e37-4b8c-8d9a-53a96b43cf53"
 
 ## Backlinks {#backlinks}
 
--   [Compare and contrast]({{< relref "reactionary.md#compare-and-contrast" >}})
+-   [Reactionary]({{< relref "reactionary.md" >}})

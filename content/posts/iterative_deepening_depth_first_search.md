@@ -2,7 +2,7 @@
 title = "Iterative deepening depth-first-search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T18:09:00-07:00
-lastmod = 2022-12-17T13:49:53-08:00
+lastmod = 2023-07-25T10:50:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,8 +37,8 @@ Worst-case: \\(\bigo{b^d}\\) where \\(b\\) is the branching factor (e.g. 2 for [
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 74.08    | 2022-12-18T03:43:26Z |
-| 1        | 2.50 | 7   | 139.09   | 2023-05-03T22:43:48Z |
+| 0        | 2.35 | 8   | 427.55   | 2024-08-16T02:32:47Z |
+| 1        | 2.20 | 6   | 63.45    | 2023-09-16T00:03:39Z |
 
 
 #### Extra {#extra}
@@ -53,9 +53,9 @@ Worst-case: \\(\bigo{b^d}\\) where \\(b\\) is the branching factor (e.g. 2 for [
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 2        | 2.50 | 6   | 108.49   | 2023-02-24T02:52:33Z |
-| 1        | 2.65 | 6   | 86.73    | 2023-01-07T08:12:30Z |
-| 0        | 2.65 | 6   | 65.88    | 2022-12-25T22:45:12Z |
+| 2        | 2.65 | 7   | 287.40   | 2023-12-11T01:58:01Z |
+| 1        | 2.50 | 7   | 228.28   | 2023-08-23T21:55:51Z |
+| 0        | 2.65 | 8   | 371.74   | 2024-06-12T08:20:15Z |
 
 
 #### Extra {#extra}
@@ -70,8 +70,8 @@ Worst-case: \\(\bigo{b^d}\\) where \\(b\\) is the branching factor (e.g. 2 for [
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 87.42    | 2023-01-23T01:16:40Z |
-| back     | 2.50 | 5   | 38.47    | 2022-12-19T04:55:51Z |
+| front    | 2.95 | 7   | 259.99   | 2023-10-13T14:30:19Z |
+| back     | 2.65 | 7   | 252.48   | 2023-12-05T03:47:35Z |
 
 [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 
@@ -91,7 +91,7 @@ Worst-case: \\(\bigo{b^d}\\) where \\(b\\) is the branching factor (e.g. 2 for [
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 4   | 13.73    | 2022-12-14T10:33:06Z |
+| front    | 1.90 | 1   | 1.00     | 2023-07-02T14:15:50Z |
 
 Implement [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 
@@ -115,4 +115,5 @@ Implement [Iterative deepening depth-first-search]({{< relref "iterative_deepeni
 
 ## Backlinks {#backlinks}
 
+-   [Iterative deepening depth-first-search implementation in Python]({{< relref "iterative_deepening_depth_first_search_implementation_in_python.md" >}})
 -   [Depth-first search]({{< relref "depth_first_search.md" >}})

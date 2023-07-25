@@ -2,7 +2,7 @@
 title = "Nick Bostrom | The Fable of the Dragon Tyrant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-20T20:17:00-07:00
-lastmod = 2022-12-17T13:36:45-08:00
+lastmod = 2023-07-25T08:45:13-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -141,8 +141,8 @@ slug = "2a13c6a7-c74c-408b-b30e-69a18c9ad9ab"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 106.67   | 2023-02-02T07:16:49Z |
-| back     | 2.65 | 6   | 106.79   | 2023-02-15T11:17:35Z |
+| front    | 2.65 | 7   | 294.20   | 2023-11-23T20:33:42Z |
+| back     | 2.80 | 7   | 294.20   | 2023-12-06T20:45:41Z |
 
 [The Fable of the Dragon Tyrant]({{< relref "bostromFableDragonTyrant2005.md" >}})
 
@@ -161,7 +161,7 @@ A parable which contextualizes human death as something to be defeated.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 95.69    | 2023-03-08T12:09:40Z |
+| front    | 2.80 | 7   | 256.21   | 2023-11-21T08:17:50Z |
 
 [The Fable of the Dragon Tyrant]({{< relref "bostromFableDragonTyrant2005.md" >}})
 
@@ -179,4 +179,4 @@ A parable which contextualizes human death as something to be defeated.
 
 ## Backlinks {#backlinks}
 
--   [Example(s)]({{< relref "i_hate_mondays.md#example--s" >}})
+-   [I hate mondays]({{< relref "i_hate_mondays.md" >}})

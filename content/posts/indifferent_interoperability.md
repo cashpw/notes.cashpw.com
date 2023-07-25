@@ -2,7 +2,7 @@
 title = "Indifferent interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:25:00-07:00
-lastmod = 2022-12-17T13:49:07-08:00
+lastmod = 2023-07-25T10:48:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "fba2b035-cd82-46c9-9797-25b0b1419b42"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 57.48    | 2023-02-02T02:58:45Z |
-| back     | 2.65 | 5   | 39.20    | 2023-01-09T20:48:46Z |
+| front    | 3.10 | 7   | 542.71   | 2025-01-13T08:17:54Z |
+| back     | 2.50 | 7   | 287.87   | 2024-02-21T13:37:55Z |
 
 [Indifferent interoperability]({{< relref "indifferent_interoperability.md" >}})
 
@@ -41,8 +41,8 @@ Interoperability between the base product, A, and an interoperable product, B, w
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 47.06    | 2023-01-29T03:54:18Z |
-| back     | 2.35 | 5   | 34.61    | 2023-01-17T08:25:39Z |
+| front    | 2.95 | 7   | 412.36   | 2024-08-03T12:48:31Z |
+| back     | 2.05 | 6   | 55.49    | 2023-08-27T13:05:05Z |
 
 [Indifferent interoperability]({{< relref "indifferent_interoperability.md" >}})
 

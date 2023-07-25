@@ -2,7 +2,7 @@
 title = "Ask the right questions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:41:00-08:00
-lastmod = 2022-12-17T13:35:13-08:00
+lastmod = 2023-07-25T08:38:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,8 @@ A [Play to win]({{< relref "play_to_win.md" >}}) strategy which uses questions a
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-17T19:05:32Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-17T20:40:51Z |
+| front    | 2.20 | 7   | 145.10   | 2023-09-24T02:12:53Z |
+| back     | 2.50 | 7   | 216.05   | 2024-01-02T16:51:57Z |
 
 [Ask the right questions]({{< relref "ask_the_right_questions.md" >}})
 
@@ -49,8 +49,8 @@ Questions as a [Play to win]({{< relref "play_to_win.md" >}}) for achieving goal
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-20T18:42:53Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T19:50:08Z |
+| front    | 2.80 | 7   | 354.67   | 2024-06-21T17:14:44Z |
+| back     | 2.05 | 7   | 104.73   | 2023-10-15T18:53:23Z |
 
 [Ask the right questions]({{< relref "ask_the_right_questions.md" >}})
 

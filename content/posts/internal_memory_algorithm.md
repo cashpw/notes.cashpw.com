@@ -2,7 +2,7 @@
 title = "Internal memory algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T16:17:00-07:00
-lastmod = 2022-12-17T13:49:20-08:00
+lastmod = 2023-07-25T10:49:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ See [External memory algorithm]({{< relref "external_memory_algorithm.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 127.54   | 2023-04-18T08:25:30Z |
-| front    | 2.95 | 5   | 56.72    | 2023-01-11T08:03:50Z |
+| back     | 2.20 | 6   | 71.96    | 2023-09-11T00:47:19Z |
+| front    | 3.10 | 7   | 514.10   | 2024-11-14T23:04:47Z |
 
 [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})
 
@@ -41,8 +41,8 @@ Algorithms designed to process data that can fit into a single computer's main m
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 193.16   | 2023-06-27T00:37:04Z |
-| back     | 2.65 | 6   | 94.44    | 2023-01-23T08:34:08Z |
+| front    | 2.50 | 8   | 467.12   | 2024-10-06T17:53:39Z |
+| back     | 2.50 | 7   | 228.44   | 2023-09-11T03:18:45Z |
 
 [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})
 
@@ -65,8 +65,6 @@ Algorithms designed to process data that can fit into a single computer's main m
 
 ## Backlinks {#backlinks}
 
--   [Heapsort]({{< relref "heapsort.md" >}})
--   [External memory algorithm]({{< relref "external_memory_algorithm.md" >}})
 -   [Quicksort]({{< relref "quicksort.md" >}})
--   [Describe]({{< relref "quicksort.md#describe" >}})
--   [Quicksort is {{Internal memory algorithm}{memory}@0}]({{< relref "quicksort.md#id-d7bcd831-6a3f-4885-a654-15f0b11c9966-quicksort-is-id-8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc-internal-memory-algorithm-memory-0" >}})
+-   [External memory algorithm]({{< relref "external_memory_algorithm.md" >}})
+-   [Heapsort]({{< relref "heapsort.md" >}})

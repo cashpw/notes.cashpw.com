@@ -2,7 +2,7 @@
 title = "Main diagonal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:25:00-07:00
-lastmod = 2022-12-17T13:53:45-08:00
+lastmod = 2023-07-25T11:03:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "a61c410c-f8ea-4bdd-92c8-2f8d037dfe6a"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 3   | 6.00     | 2022-12-07T17:43:10Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T19:08:58Z |
+| front    | 2.80 | 7   | 332.82   | 2024-05-12T20:15:25Z |
+| back     | 2.95 | 7   | 344.31   | 2024-05-29T22:48:42Z |
 
 [Main diagonal]({{< relref "main_diagonal.md" >}})
 

@@ -2,7 +2,7 @@
 title = "J. R. R. Tolkien"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T11:25:00-07:00
-lastmod = 2022-12-17T13:50:00-08:00
+lastmod = 2023-07-25T10:50:35-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,4 +21,3 @@ Among other things:
 ## Backlinks {#backlinks}
 
 -   [The Riddle of Strider]({{< relref "the_riddle_of_strider.md" >}})
--   [Source]({{< relref "the_riddle_of_strider.md#source" >}})

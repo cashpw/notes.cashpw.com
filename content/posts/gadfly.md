@@ -2,7 +2,7 @@
 title = "Gadfly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T18:41:00-07:00
-lastmod = 2022-12-17T13:44:46-08:00
+lastmod = 2023-07-25T10:41:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,19 +17,15 @@ slug = "ef091c65-8db5-40c8-b577-e34b3070143d"
 ## Flashcards {#flashcards}
 
 
-### Definition {#definition}
+### Gadfly {#gadfly}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 9   | 123.92   | 2023-03-17T13:10:13Z |
-| front    | 2.05 | 0   | 0.00     | 2022-12-16T17:50:22Z |
+| back     | 2.50 | 10  | 291.42   | 2024-01-03T00:22:33Z |
+| front    | 2.20 | 7   | 130.85   | 2023-09-11T18:08:08Z |
 
-[Gadfly]({{< relref "gadfly.md" >}})
-
-
-#### Back {#back}
-
-A person who interferes with the status quo of a society or community by posing novel, potentially upsetting, questions, usually directed at authorities.
+-   An annoying person, especially one who provokes others into action by criticism
+-   A person who interferes with the status quo of a society or community by posing novel, potentially upsetting, questions, usually directed at authorities.
 
 
 #### Source {#source}

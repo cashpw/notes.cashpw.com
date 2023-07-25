@@ -2,7 +2,7 @@
 title = "All that you touch You Change"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T09:56:00-07:00
-lastmod = 2022-12-17T13:34:35-08:00
+lastmod = 2023-07-25T08:35:47-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -17,11 +17,13 @@ slug = "5a289064-2f24-4877-88a3-c9825dc2dbbe"
 ## Flashcards {#flashcards}
 
 
-### All that you touch {{You Change. All that you Change Changes you. The only lasting truth is Change. God is Change.}@0} {#all-that-you-touch-you-change-dot-all-that-you-change-changes-you-dot-the-only-lasting-truth-is-change-dot-god-is-change-dot-0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | -1  | 0        | 2022-11-23T17:31:24Z |
+| 0        | 2.95 | 6   | 147.23   | 2023-08-25T21:47:21Z |
+
+All that you touch {{You Change. All that you Change Changes you. The only lasting truth is Change. God is Change.}{full}@0}
 
 
 #### Source {#source}
@@ -29,11 +31,13 @@ slug = "5a289064-2f24-4877-88a3-c9825dc2dbbe"
 (<a href="#citeproc_bib_item_1">Butler 2012</a>)
 
 
-### All that you Change {{Changes you.}@0} {#all-that-you-change-changes-you-dot-0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 13.81    | 2022-12-30T13:22:38Z |
+| 0        | 2.80 | 7   | 287.24   | 2024-03-03T18:37:15Z |
+
+All that you Change {{Changes you.}@0}
 
 
 #### Source {#source}
@@ -41,11 +45,27 @@ slug = "5a289064-2f24-4877-88a3-c9825dc2dbbe"
 (<a href="#citeproc_bib_item_1">Butler 2012</a>)
 
 
-### The only lasting truth {{is Change.}} {#the-only-lasting-truth-is-change-dot}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | -1  | 0        | 2022-11-23T17:32:05Z |
+| 0        | 3.10 | 6   | 157.74   | 2023-09-06T15:20:07Z |
+
+The only lasting truth {{is Change.}@0}
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Butler 2012</a>)
+
+
+### Cloze {#cloze}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 7   | 196.03   | 2023-11-29T13:13:15Z |
+
+All that you touch {{You Change.}{short}@0}
 
 
 #### Source {#source}

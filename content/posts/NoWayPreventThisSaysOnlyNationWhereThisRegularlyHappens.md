@@ -2,7 +2,7 @@
 title = "The Onion | `No Way To Prevent This,' Says Only Nation Where This Regularly Happens"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-31T14:31:00-07:00
-lastmod = 2022-12-17T13:33:55-08:00
+lastmod = 2023-07-25T08:31:09-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -21,8 +21,8 @@ slug = "23e6f659-2519-4228-8813-01f4bc25518c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 18.03    | 2023-01-01T18:43:45Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-07T17:42:15Z |
+| front    | 3.10 | 6   | 168.93   | 2023-08-12T02:15:01Z |
+| back     | 2.50 | 7   | 175.82   | 2023-10-29T13:27:45Z |
 
 [The Onion | \`No Way To Prevent This,' Says Only Nation Where This Regularly Happens]({{< relref "NoWayPreventThisSaysOnlyNationWhereThisRegularlyHappens.md" >}})
 

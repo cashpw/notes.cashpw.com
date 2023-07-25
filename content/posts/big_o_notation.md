@@ -2,7 +2,7 @@
 title = "Big-O notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:40:00-07:00
-lastmod = 2022-12-17T13:36:03-08:00
+lastmod = 2023-07-25T08:42:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ Big O notation is denoted with \\(\bigo{g(n)}\\) and indicates an worst-case asy
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 6   | 92.53    | 2022-12-23T04:21:03Z |
-| front    | 2.50 | 7   | 188.27   | 2023-06-21T00:49:48Z |
+| back     | 2.35 | 8   | 433.35   | 2024-09-23T21:54:39Z |
+| front    | 2.65 | 8   | 455.94   | 2024-09-19T14:15:53Z |
 
 [Big O notation]({{< relref "big_o_notation.md" >}})
 
@@ -44,8 +44,8 @@ The set of functions which have a specific asymptotic upper bound.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 191.20   | 2023-05-26T18:46:19Z |
-| 1        | 2.65 | 7   | 165.21   | 2023-05-02T20:58:34Z |
+| 0        | 2.65 | 7   | 461.31   | 2024-09-02T23:52:39Z |
+| 1        | 2.80 | 8   | 492.23   | 2024-09-12T22:28:41Z |
 
 -   {{\\(O(n)\\)}@0}
 
@@ -65,7 +65,7 @@ The set of functions which have a specific asymptotic upper bound.
 
 ## Backlinks {#backlinks}
 
--   [Data structures]({{< relref "data_structures.md" >}})
--   [Asymptotic Notation]({{< relref "asymptotic_notation.md" >}})
 -   [Little-o notation]({{< relref "little_o_notation.md" >}})
--   [Little-o notation is a {{stronger}{stronger/weaker}@0} statement than Big-O notation]({{< relref "little_o_notation.md#id-96e6cece-bfe4-4f80-b526-9578d2431364-little-o-notation-is-a-stronger-stronger-weaker-0-statement-than-id-7ca69182-2f04-4e4a-b426-ec428409d99c-big-o-notation" >}})
+-   [Data structures]({{< relref "data_structures.md" >}})
+-   [Logarithm]({{< relref "logarithm.md" >}})
+-   [Asymptotic Notation]({{< relref "asymptotic_notation.md" >}})

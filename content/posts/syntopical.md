@@ -2,7 +2,7 @@
 title = "Syntopical"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-29T08:37:00-07:00
-lastmod = 2022-12-17T14:13:29-08:00
+lastmod = 2023-07-25T12:32:22-07:00
 tags = ["term", "term"]
 categories = ["term"]
 draft = false
@@ -19,8 +19,8 @@ Syntopical: Referring to a type of analysis in which different works are compare
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 7   | 118.81   | 2023-02-17T10:36:11Z |
-| front    | 2.65 | 7   | 121.73   | 2023-02-28T09:29:46Z |
+| back     | 2.50 | 8   | 278.81   | 2023-11-23T10:25:09Z |
+| front    | 2.80 | 8   | 338.35   | 2024-02-01T23:23:30Z |
 
 Syntopical
 
@@ -42,7 +42,7 @@ After finishing his syntopical reading of the leaders' speeches, he wrote an ess
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 5   | 24.13    | 2023-01-08T23:40:31Z |
+| front    | 2.20 | 8   | 251.88   | 2024-03-07T18:03:51Z |
 
 [Syntopical]({{< relref "syntopical.md" >}})
 

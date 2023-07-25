@@ -2,7 +2,7 @@
 title = "Julian Shapiro | Creativity Faucet: How to Be More Creative"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-26T09:24:00-07:00
-lastmod = 2022-12-17T13:39:14-08:00
+lastmod = 2023-07-25T08:58:36-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -48,4 +48,4 @@ slug = "bbb82ce2-0bab-4746-acc1-7bb95da9bb72"
 
 ## Backlinks {#backlinks}
 
--   [How to be more creative]({{< relref "how_to_be_more_creative.md" >}})
+-   [Creativity is a product of volume]({{< relref "how_to_be_more_creative.md" >}})

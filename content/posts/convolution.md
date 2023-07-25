@@ -2,7 +2,7 @@
 title = "Convolution"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:31:00-07:00
-lastmod = 2022-12-17T13:38:52-08:00
+lastmod = 2023-07-25T08:57:22-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -19,8 +19,8 @@ slug = "4a246de2-16ae-4fa6-abaa-7cfb533eccdb"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 8   | 153.34   | 2023-04-06T00:37:53Z |
-| 1        | 2.65 | 5   | 35.52    | 2023-01-21T06:10:44Z |
+| 0        | 2.80 | 9   | 454.69   | 2024-07-04T13:03:39Z |
+| 1        | 2.50 | 6   | 86.65    | 2023-10-05T07:21:17Z |
 
 -   {{[Convolution]({{< relref "convolution.md" >}})}@0}
 -   {{[Sliding window]({{< relref "convolution.md" >}})}@1}
@@ -35,8 +35,8 @@ slug = "4a246de2-16ae-4fa6-abaa-7cfb533eccdb"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 14  | 133.07   | 2023-02-15T17:32:08Z |
-| front    | 2.65 | 7   | 138.28   | 2023-03-01T08:07:27Z |
+| back     | 2.80 | 15  | 362.84   | 2024-02-14T23:30:02Z |
+| front    | 2.65 | 8   | 344.17   | 2024-02-09T19:59:13Z |
 
 [Convolution]({{< relref "convolution.md" >}})
 
@@ -60,7 +60,7 @@ An operation on two functions, \\(f\_1\\) and \\(f\_2\\), which produces a third
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 12  | 134.17   | 2023-03-13T21:34:41Z |
+| 0        | 2.65 | 13  | 388.16   | 2024-04-05T19:03:33Z |
 | 1        | 2.35 | 8   | 227.30   | 2023-07-26T00:36:17Z |
 
 
@@ -73,8 +73,8 @@ An operation on two functions, \\(f\_1\\) and \\(f\_2\\), which produces a third
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 18  | 106.65   | 2023-01-06T07:50:45Z |
-| 1        | 2.20 | 4   | 14.13    | 2022-12-20T03:20:46Z |
+| 0        | 2.80 | 19  | 314.84   | 2023-11-17T10:43:51Z |
+| 1        | 2.20 | 7   | 170.15   | 2023-09-25T18:54:21Z |
 
 
 #### Source {#source}
@@ -86,8 +86,8 @@ An operation on two functions, \\(f\_1\\) and \\(f\_2\\), which produces a third
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 32  | 179.29   | 2023-05-03T07:20:58Z |
-| 1        | 2.20 | 4   | 13.16    | 2022-12-22T00:14:14Z |
+| 0        | 2.35 | 6   | 80.69    | 2023-10-03T05:45:54Z |
+| 1        | 1.75 | 8   | 140.88   | 2023-10-09T10:17:39Z |
 
 
 #### Source {#source}

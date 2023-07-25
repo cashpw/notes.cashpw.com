@@ -2,7 +2,7 @@
 title = "Negative rights"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T09:46:00-07:00
-lastmod = 2022-12-17T13:57:49-08:00
+lastmod = 2023-07-25T11:13:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,17 +24,12 @@ Also see [Positive rights]({{< relref "positive_rights.md" >}}).
 ## Flashcards {#flashcards}
 
 
-### Definition {#definition}
+### [Negative right]({{< relref "negative_rights.md" >}}) {#negative-right--negative-rights-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 7   | 119.18   | 2023-03-09T20:48:11Z |
-| front    | 2.65 | 6   | 78.25    | 2022-12-29T20:46:30Z |
-
-[Negative right]({{< relref "negative_rights.md" >}})
-
-
-#### Back {#back}
+| back     | 2.50 | 8   | 294.83   | 2023-12-29T23:16:41Z |
+| front    | 2.35 | 8   | 426.40   | 2024-09-12T10:39:36Z |
 
 A right that obliges inaction.
 
@@ -53,8 +48,8 @@ Example: Freedom of speech
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 37.56    | 2023-01-08T05:46:53Z |
-| back     | 2.65 | 6   | 89.83    | 2022-12-22T11:40:59Z |
+| front    | 2.50 | 7   | 212.92   | 2023-11-08T13:38:23Z |
+| back     | 2.80 | 7   | 246.43   | 2023-08-29T01:35:44Z |
 
 [Negative right]({{< relref "negative_rights.md" >}})
 
@@ -80,5 +75,5 @@ Example: Freedom of speech
 
 ## Backlinks {#backlinks}
 
--   [Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater]({{< relref "citationsneededNewsBriefBiden2022.md" >}})
 -   [Positive rights]({{< relref "positive_rights.md" >}})
+-   [Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater]({{< relref "citationsneededNewsBriefBiden2022.md" >}})

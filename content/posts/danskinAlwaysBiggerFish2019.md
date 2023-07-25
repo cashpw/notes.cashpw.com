@@ -2,7 +2,7 @@
 title = "Ian Danskin | Always a Bigger Fish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:54:00-07:00
-lastmod = 2022-12-17T13:39:33-08:00
+lastmod = 2023-07-25T10:27:36-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -85,7 +85,7 @@ Conservatives tend to think in hierarchies -- like a capitalist -- while liberal
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 77.42    | 2023-01-18T02:45:24Z |
+| 0        | 2.35 | 8   | 425.06   | 2024-09-07T17:13:54Z |
 
 
 #### Extra {#extra}
@@ -100,7 +100,7 @@ Conservatives tend to think in hierarchies -- like a capitalist -- while liberal
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 92.50    | 2023-02-01T04:25:34Z |
+| 0        | 2.65 | 7   | 230.24   | 2023-09-19T22:27:55Z |
 
 
 #### Extra {#extra}
@@ -115,7 +115,7 @@ Conservatives tend to think in hierarchies -- like a capitalist -- while liberal
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 109.12   | 2023-02-20T19:43:16Z |
+| 0        | 2.95 | 7   | 346.56   | 2024-02-06T17:30:51Z |
 
 
 #### Extra {#extra}
@@ -130,8 +130,8 @@ Conservatives tend to think in hierarchies -- like a capitalist -- while liberal
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 39.03    | 2022-12-15T22:44:22Z |
-| back     | 2.95 | 5   | 46.44    | 2023-01-18T08:44:37Z |
+| front    | 2.50 | 7   | 267.27   | 2023-12-28T23:03:29Z |
+| back     | 2.80 | 7   | 362.59   | 2024-05-28T05:45:10Z |
 
 Hierarchies are recursive
 
@@ -139,6 +139,28 @@ Hierarchies are recursive
 #### Back {#back}
 
 Those at the top of the hierarchy have power over those lower in the hierarchy. This relationship is recursive. Those in the middle have power over those lower than themselves, etc.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Danskin 2019</a>)
+
+
+### Summarize {#summarize}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 7   | 237.13   | 2024-02-17T20:28:45Z |
+| back     | 3.10 | 6   | 137.83   | 2023-08-16T11:42:36Z |
+
+[Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
+
+
+#### Back {#back}
+
+-   People (mostly) act based on their beliefs in a genuine way. Someone does X usually (though not always; [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}})) thinks X is a good idea.
+-   It's useful to consider that people actually think and believe different things
+-   A leftist isn't "someone who would be on the right but has made some mistakes in their logic", and similarly for those on the right; they're not "failed leftists". The two groups have different underlying assumptions and theories of the world, human behavior, philosophy, etc, from which they derive their conclusions and policy positions. They're internally consistent (for the most part).
 
 
 #### Source {#source}
@@ -154,4 +176,6 @@ Those at the top of the hierarchy have power over those lower in the hierarchy. 
 
 ## Backlinks {#backlinks}
 
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
+-   [David Chapman | Developing Ethical, Social, and Cognitive Competence]({{< relref "david_chapman_developing_ethical_social_and_cognitive_competence.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})

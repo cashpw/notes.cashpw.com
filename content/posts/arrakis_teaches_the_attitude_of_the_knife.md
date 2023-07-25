@@ -2,7 +2,7 @@
 title = "Arrakis teaches the attitude of the knife"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T17:29:00-08:00
-lastmod = 2022-12-17T13:35:09-08:00
+lastmod = 2023-07-25T08:38:23-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -17,11 +17,11 @@ slug = "d1c3e5ea-068e-457c-92dd-289b5ee04a5a"
 ## Flashcards {#flashcards}
 
 
-### Arrakis teaches {{the attitude of the knife - chopping off what's incomplete and saying: 'Now, it's complete because it's ended here'.}{full}@0} {#arrakis-teaches-the-attitude-of-the-knife-chopping-off-what-s-incomplete-and-saying-now-it-s-complete-because-it-s-ended-here-dot-full-0}
+### {{Arrakis teaches the attitude of the knife - chopping off what's incomplete and saying: 'Now, it's complete because it's ended here'.}{Quote: Attitude of the knife}@0} {#arrakis-teaches-the-attitude-of-the-knife-chopping-off-what-s-incomplete-and-saying-now-it-s-complete-because-it-s-ended-here-dot-quote-attitude-of-the-knife-0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-14T15:52:13Z |
+| 0        | 1.90 | 8   | 148.68   | 2023-10-29T06:36:14Z |
 
 
 #### Source {#source}

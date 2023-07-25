@@ -2,7 +2,7 @@
 title = "Big-Theta notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:10:00-07:00
-lastmod = 2022-12-17T13:36:05-08:00
+lastmod = 2023-07-25T08:42:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ Big Theta notation, written as \\(\bigtheta{g(n)}\\), indicates \\(f\\) is bound
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 5   | 40.41    | 2023-01-25T05:56:06Z |
-| front    | 2.35 | 8   | 81.69    | 2022-12-26T08:36:58Z |
+| back     | 2.05 | 7   | 189.61   | 2023-11-09T12:28:10Z |
+| front    | 2.20 | 10  | 387.05   | 2024-07-04T16:04:12Z |
 
 [Big Theta notation]({{< relref "big_theta_notation.md" >}})
 
@@ -46,8 +46,8 @@ The set of functions which have a specific upper and lower bound (tight bound).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 103.77   | 2023-01-17T10:38:56Z |
-| 1        | 2.65 | 6   | 127.87   | 2023-03-08T13:14:03Z |
+| 0        | 2.50 | 7   | 253.74   | 2023-09-28T08:05:33Z |
+| 1        | 2.50 | 7   | 343.97   | 2024-02-15T17:46:31Z |
 
 
 #### Extra {#extra}
@@ -62,8 +62,8 @@ The set of functions which have a specific upper and lower bound (tight bound).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 123.00   | 2023-02-25T14:58:57Z |
-| 1        | 2.65 | 6   | 84.47    | 2023-01-27T03:45:48Z |
+| 0        | 2.80 | 7   | 349.77   | 2024-02-11T10:43:50Z |
+| 1        | 2.80 | 7   | 248.10   | 2023-10-03T19:12:47Z |
 
 -   {{\\(\Theta(n)\\)}@0}
 

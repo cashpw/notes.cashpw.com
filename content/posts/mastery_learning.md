@@ -2,7 +2,7 @@
 title = "Mastery learning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:23:00-08:00
-lastmod = 2022-12-17T13:54:30-08:00
+lastmod = 2023-07-25T11:06:02-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -33,15 +33,29 @@ slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2022-12-15T17:28:13Z |
-| back     | 2.5  | -1  | 0        | 2022-12-13T03:36:00Z |
+| front    | 2.65 | 7   | 272.52   | 2024-03-19T03:41:42Z |
+| back     | 2.50 | 7   | 196.19   | 2023-11-23T19:45:49Z |
 
 [Mastery learning]({{< relref "mastery_learning.md" >}})
 
 
 #### Back {#back}
 
-... maintains that students must achieve a level of mastery (e.g., 90% on a knowledge test) in prerequisite knowledge before moving forward to learn subsequent information. If a student does not achieve mastery on the test, they are given additional support in learning and reviewing the information and then tested again. This cycle continues until the learner accomplishes mastery, and they may then move on to the next stage.
+... maintains that students must achieve a level of competance (e.g., 90% on a knowledge test) in prerequisite knowledge before moving forward to learn subsequent information. If a student does not achieve success on the test, they are given additional support in learning and reviewing the information and then tested again. This cycle continues until the learner can demonstrate their correct understanding of the material, and they may then move on to the next stage.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Mastery Learning” 2022</a>)
+
+
+### Cloze {#cloze}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.95 | 6   | 131.43   | 2023-09-18T02:58:29Z |
+
+{{[Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})}@0} developed [Mastery learning]({{< relref "mastery_learning.md" >}})
 
 
 #### Source {#source}
@@ -57,6 +71,6 @@ slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
 
 ## Backlinks {#backlinks}
 
--   [Known for]({{< relref "benjamin_bloom.md#known-for" >}})
 -   [Bloom's 2 sigma problem]({{< relref "bloom_s_2_sigma_problem.md" >}})
--   [Describe]({{< relref "bloom_s_2_sigma_problem.md#describe" >}})
+-   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})
+-   [Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction]({{< relref "jose_luis_ricon_on_bloom_s_two_sigma_problem.md" >}})

@@ -2,7 +2,7 @@
 title = "Reasoning from first principles"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:18:00-08:00
-lastmod = 2022-12-17T14:06:37-08:00
+lastmod = 2023-07-25T12:26:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "0b13cdf1-2678-420e-b919-4a349d4ef81a"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 91.01    | 2023-01-26T15:41:08Z |
-| back     | 2.20 | 7   | 94.16    | 2023-03-10T19:37:15Z |
+| front    | 2.65 | 7   | 232.46   | 2023-09-18T03:31:49Z |
+| back     | 2.20 | 8   | 204.01   | 2023-10-01T05:33:02Z |
 
 [Reasoning from first principles]({{< relref "reasoning_from_first_principles.md" >}})
 
@@ -36,8 +36,8 @@ A way of thinking which builds higher-order assertions from fundamental proven a
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 112.99   | 2023-02-08T15:43:20Z |
-| back     | 2.80 | 7   | 204.86   | 2023-06-24T12:20:37Z |
+| front    | 2.65 | 7   | 322.48   | 2023-12-28T05:51:08Z |
+| back     | 2.80 | 8   | 557.29   | 2025-01-01T20:17:33Z |
 
 [Reasoning from first principles]({{< relref "reasoning_from_first_principles.md" >}})
 
@@ -49,7 +49,9 @@ A way of thinking which builds higher-order assertions from fundamental proven a
 -   Reviewing the financial fundamentals of a company rather than listening to pundits
 
 
-### [Compare and contrast]({{< relref "reasoning_from_analogy.md#compare-and-contrast" >}}) {#compare-and-contrast--reasoning-from-analogy-dot-md}
+### Compare and contrast {#compare-and-contrast}
+
+See [Reasoning from analogies]({{< relref "reasoning_from_analogy.md" >}})
 
 ## References
 
@@ -60,6 +62,5 @@ A way of thinking which builds higher-order assertions from fundamental proven a
 
 ## Backlinks {#backlinks}
 
--   [Ben Kuhn | To Listen Well, Get Curious]({{< relref "kuhnListenWellGet.md" >}})
 -   [Reasoning from analogies]({{< relref "reasoning_from_analogy.md" >}})
--   [Compare and contrast]({{< relref "reasoning_from_analogy.md#compare-and-contrast" >}})
+-   [Ben Kuhn | To Listen Well, Get Curious]({{< relref "kuhnListenWellGet.md" >}})

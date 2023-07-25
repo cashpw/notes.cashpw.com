@@ -2,7 +2,7 @@
 title = "Socratic grilling"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T19:05:00-07:00
-lastmod = 2022-12-17T14:10:27-08:00
+lastmod = 2023-07-25T12:28:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "25f5faeb-aeeb-4ae6-998c-08940cb60c3f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 4   | 14.35    | 2022-12-28T02:43:11Z |
-| front    | 2.50 | 4   | 15.52    | 2023-01-01T06:25:12Z |
+| back     | 2.20 | 6   | 56.88    | 2023-08-27T11:30:31Z |
+| front    | 2.80 | 7   | 286.57   | 2024-03-19T04:15:48Z |
 
 [Socratic grilling]({{< relref "socratic_grilling.md" >}})
 

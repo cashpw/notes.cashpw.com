@@ -2,7 +2,7 @@
 title = "Bob Black"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:25:00-07:00
-lastmod = 2022-12-17T13:36:41-08:00
+lastmod = 2023-07-25T08:45:00-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -19,5 +19,5 @@ Among other things:
 
 ## Backlinks {#backlinks}
 
--   [The carrot is the stick]({{< relref "the_carrot_is_the_stick.md" >}})
 -   [Bob Black | The Abolition of Work]({{< relref "blackAbolitionWork.md" >}})
+-   [The carrot is the stick]({{< relref "the_carrot_is_the_stick.md" >}})

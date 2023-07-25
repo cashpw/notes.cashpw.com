@@ -2,7 +2,7 @@
 title = "Determinant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-29T07:35:00-07:00
-lastmod = 2022-12-17T13:41:01-08:00
+lastmod = 2023-07-25T10:28:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -47,9 +47,9 @@ The absolute value of \\(\determinant{A}\\) represents the factor by which \\(A\
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 8   | 183.39   | 2023-05-09T07:21:40Z |
-| 2        | 2.65 | 5   | 41.48    | 2023-01-23T13:54:28Z |
-| 1        | 2.65 | 7   | 128.09   | 2023-03-22T17:50:33Z |
+| 0        | 2.65 | 9   | 487.98   | 2024-09-08T16:10:32Z |
+| 2        | 2.80 | 7   | 339.42   | 2024-04-24T23:11:40Z |
+| 1        | 2.65 | 8   | 352.12   | 2024-03-12T16:24:07Z |
 
 -   {{\\(\determinant{M}\\)}@0}
 -   {{\\(|M|\\)}@2}
@@ -66,8 +66,8 @@ The absolute value of \\(\determinant{A}\\) represents the factor by which \\(A\
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 36.89    | 2022-12-28T23:28:59Z |
-| back     | 2.35 | 6   | 98.80    | 2023-01-29T10:21:13Z |
+| front    | 1.90 | 7   | 98.72    | 2023-10-29T21:08:31Z |
+| back     | 2.50 | 7   | 246.00   | 2023-10-03T02:24:48Z |
 
 Calculate [Determinant]({{< relref "determinant.md" >}}) of a matrix, \\(A\_{n \times m}\\), using Gaussian elimination
 
@@ -87,7 +87,7 @@ Calculate [Determinant]({{< relref "determinant.md" >}}) of a matrix, \\(A\_{n \
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 47.47    | 2023-01-27T05:04:37Z |
+| 0        | 2.65 | 7   | 365.95   | 2024-06-13T13:38:18Z |
 
 -   \\(\determinant{\begin{bmatrix}a & b \\\ c & d\end{bmatrix}}\\) \\(=\\) {{\\(ad - bc\\)}@0}
 
@@ -101,7 +101,7 @@ Calculate [Determinant]({{< relref "determinant.md" >}}) of a matrix, \\(A\_{n \
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 17.89    | 2022-12-18T13:31:57Z |
+| 0        | 2.20 | 7   | 179.89   | 2023-11-28T22:28:56Z |
 
 \\(\determinant{\begin{bmatrix}a & b &c \\\ d & e & f \\\ g & h & i\end{bmatrix}}\\) \\(=\\) {{\\(a \determinant{\begin{bmatrix}e & f \\\ h & i\end{bmatrix}}\\) \\(-\\) \\(b \determinant{\begin{bmatrix}d & f \\\ g & i\end{bmatrix}}\\) \\(+\\) \\(c \determinant{\begin{bmatrix}d & e \\\ g & h\end{bmatrix}}\\)}@0}
 
@@ -115,7 +115,7 @@ Calculate [Determinant]({{< relref "determinant.md" >}}) of a matrix, \\(A\_{n \
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 38.01    | 2023-01-02T15:48:56Z |
+| 0        | 2.05 | 7   | 166.58   | 2023-09-16T07:02:12Z |
 
 -   \\(\determinant{I}\\) \\(=\\) {{\\(1\\)}@0}
 
@@ -125,19 +125,14 @@ Calculate [Determinant]({{< relref "determinant.md" >}}) of a matrix, \\(A\_{n \
 (<a href="#citeproc_bib_item_1">“Determinant” 2022</a>)
 
 
-### Describe {#describe}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 50.15    | 2023-01-27T21:30:56Z |
-| back     | 2.35 | 3   | 6.00     | 2022-11-28T02:00:13Z |
+| 0        | 2.80 | 7   | 347.81   | 2024-04-20T12:34:18Z |
+| 1        | 1.90 | 8   | 162.88   | 2023-12-05T14:23:22Z |
 
-Geometric meaning of [Determinant]({{< relref "determinant.md" >}}).
-
-
-#### Back {#back}
-
-The absolute value of \\(\determinant{A}\\) represents the factor by which \\(A\\) scales areas/volumes.
+{{\\(|\operatorname{det}(A)|\\)}@0} represents {{the factor by which \\(A\\) scales areas/volumes}{geometric}@1}.
 
 
 #### Source {#source}
@@ -149,8 +144,8 @@ The absolute value of \\(\determinant{A}\\) represents the factor by which \\(A\
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.65 | 5   | 49.53    | 2023-01-28T11:27:30Z |
-| 0        | 2.35 | 3   | 6.00     | 2022-12-13T15:41:26Z |
+| 1        | 2.65 | 7   | 348.63   | 2024-05-24T07:04:39Z |
+| 0        | 1.90 | 8   | 160.83   | 2023-11-26T10:13:32Z |
 
 
 #### Source {#source}
@@ -162,8 +157,8 @@ The absolute value of \\(\determinant{A}\\) represents the factor by which \\(A\
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.20 | 4   | 12.22    | 2022-12-22T23:14:37Z |
-| 0        | 2.50 | 4   | 15.18    | 2022-12-31T22:20:14Z |
+| 1        | 2.20 | 7   | 133.08   | 2023-07-28T16:03:23Z |
+| 0        | 2.65 | 5   | 43.44    | 2023-08-13T12:14:18Z |
 
 
 #### Source {#source}

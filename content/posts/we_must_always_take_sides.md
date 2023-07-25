@@ -2,7 +2,7 @@
 title = "We must always take sides"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-03T11:44:00-07:00
-lastmod = 2022-12-17T14:22:53-08:00
+lastmod = 2023-07-25T12:41:57-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,8 +21,8 @@ slug = "ee39d99d-f838-4555-8732-f94bab2f67ee"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.23    | 2022-12-28T07:55:34Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-12T00:33:02Z |
+| front    | 2.35 | 7   | 180.04   | 2023-10-26T00:03:48Z |
+| back     | 2.95 | 6   | 159.38   | 2023-08-11T00:16:35Z |
 
 [We must always take sides]({{< relref "we_must_always_take_sides.md" >}})
 

@@ -2,7 +2,7 @@
 title = "Wash the flour seitan"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T19:45:00-07:00
-lastmod = 2022-12-17T14:22:39-08:00
+lastmod = 2023-07-25T12:41:40-07:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -100,7 +100,7 @@ Wash the flour method is a way to make [Seitan]({{< relref "seitan.md" >}}) from
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 37.33    | 2023-01-22T02:42:41Z |
+| front    | 2.05 | 7   | 172.74   | 2023-10-20T12:35:20Z |
 
 1.  Combine flour and water
 2.  Cover dough ball with water and let rest for \\(1<x<8\\) hours

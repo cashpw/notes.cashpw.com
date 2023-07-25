@@ -2,7 +2,7 @@
 title = "Robert Frost"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T11:31:00-07:00
-lastmod = 2022-12-17T14:07:39-08:00
+lastmod = 2023-07-25T12:26:41-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -18,4 +18,3 @@ Among other things:
 ## Backlinks {#backlinks}
 
 -   [Robert Frost | Nothing Gold Can Stay]({{< relref "nothing_gold_can_stay.md" >}})
--   [Source]({{< relref "nothing_gold_can_stay.md#source" >}})

@@ -2,7 +2,7 @@
 title = "Pareto principle"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T08:05:00-08:00
-lastmod = 2022-12-17T14:00:48-08:00
+lastmod = 2023-07-25T11:22:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ slug = "f49b7372-f38a-470e-8e1f-d26a64ff4992"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 13.51    | 2022-12-25T03:22:39Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-16T17:52:40Z |
+| front    | 2.20 | 7   | 181.07   | 2023-10-31T17:21:15Z |
+| back     | 2.80 | 7   | 374.85   | 2024-07-26T10:23:35Z |
 
 [Pareto principle]({{< relref "pareto_principle.md" >}})
 
@@ -45,8 +45,8 @@ Roughly 80% of consequences come from 20% of causes.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 3   | 6.00     | 2022-12-21T20:07:51Z |
-| 1        | 2.50 | 2   | 2.00     | 2022-12-18T17:35:43Z |
+| 0        | 2.80 | 7   | 276.21   | 2024-03-15T19:46:02Z |
+| 1        | 2.65 | 7   | 334.63   | 2024-06-14T05:17:07Z |
 
 -   {{[Pareto principle]({{< relref "pareto_principle.md" >}})}@0}
 -   {{[80/20]({{< relref "pareto_principle.md" >}})}@1}
@@ -65,6 +65,7 @@ Roughly 80% of consequences come from 20% of causes.
 
 ## Backlinks {#backlinks}
 
--   [Brandon Smith | Write Code. Not Too Much. Mostly Functions.]({{< relref "brandon_smith_write_code_not_too_much_mostly_functions.md" >}})
 -   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
 -   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
+-   [Brandon Smith | Write Code. Not Too Much. Mostly Functions.]({{< relref "brandon_smith_write_code_not_too_much_mostly_functions.md" >}})
+-   [Perfect is the enemy of good]({{< relref "perfect_is_the_enemy_of_good.md" >}})

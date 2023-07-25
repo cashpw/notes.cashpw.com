@@ -2,7 +2,7 @@
 title = "Repugnant conclusion"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T10:38:00-08:00
-lastmod = 2022-12-17T14:07:22-08:00
+lastmod = 2023-07-25T12:26:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,8 +28,8 @@ The repugnant conclusion is problem in utilitarianism. Utilitarianism concerns i
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 13.08    | 2022-12-26T04:55:55Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-17T20:46:09Z |
+| front    | 1.90 | 8   | 198.60   | 2024-01-04T11:07:38Z |
+| back     | 2.50 | 7   | 207.21   | 2023-11-29T22:43:56Z |
 
 [Repugnant conclusion]({{< relref "repugnant_conclusion.md" >}})
 

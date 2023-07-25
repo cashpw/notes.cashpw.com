@@ -2,7 +2,7 @@
 title = "Transitive relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:10:00-07:00
-lastmod = 2022-12-17T14:19:18-08:00
+lastmod = 2023-07-25T12:37:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "57d94e2b-f842-483e-bcdb-c4d8e91a6ab5"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 136.97   | 2023-02-28T00:32:44Z |
-| front    | 2.65 | 7   | 119.28   | 2023-01-19T23:00:57Z |
+| back     | 2.80 | 8   | 381.25   | 2024-03-15T10:40:09Z |
+| front    | 2.80 | 8   | 320.54   | 2023-12-07T06:15:20Z |
 
 [Transitive relation]({{< relref "transitive.md" >}})
 
@@ -48,8 +48,8 @@ Eg: "ancestor of"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.95 | 7   | 113.68   | 2023-03-21T10:40:35Z |
-| front    | 2.20 | 6   | 34.53    | 2023-01-03T04:33:48Z |
+| back     | 2.95 | 8   | 308.72   | 2024-01-24T10:51:41Z |
+| front    | 2.35 | 8   | 206.73   | 2023-10-21T20:42:16Z |
 
 [Transative dependency]({{< relref "transitive.md" >}})
 
@@ -80,6 +80,4 @@ eg: \\((A \to B\\) and \\(B \to C) \implies\\) \\(A \to C\\)
 
 -   [Comparison sorting algorithm]({{< relref "comparison_sorting_algorithm.md" >}})
 -   [Equivalence relation]({{< relref "equivalence_relation.md" >}})
--   [Definition (Math)]({{< relref "equivalence_relation.md#flashcards" >}})
 -   [Total order]({{< relref "total_order.md" >}})
--   [Describe]({{< relref "total_order.md#describe" >}})

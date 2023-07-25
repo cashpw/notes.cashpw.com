@@ -2,7 +2,7 @@
 title = "Speak directly to the audience"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:07:00-07:00
-lastmod = 2022-12-17T14:11:18-08:00
+lastmod = 2023-07-25T12:29:34-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,19 +19,19 @@ Consider a public argument between two individuals. There are three participants
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 62.32    | 2023-01-08T00:24:52Z |
-| back     | 2.35 | 6   | 86.36    | 2023-02-08T00:15:42Z |
+| front    | 2.80 | 8   | 518.09   | 2024-12-07T17:15:59Z |
+| back     | 2.50 | 7   | 229.65   | 2023-09-26T10:24:27Z |
 
 [Speak directly to the audience]({{< relref "speak_directly_to_the_audience.md" >}})
 
 
 #### Back {#back}
 
-A technique which re-frames a discussion between yourself and another group to a discussion between yourself and the audience watching the first discussion. Implicitly redefines the goal of the original discussion from "Convince the person I'm arguing with of something" to "Convince the audience watching us of something", which is often a more correct goal than the former.
+A technique which re-frames a discussion between yourself and another group to a discussion between yourself and the audience watching the first discussion. Implicitly redefines the goal of the original discussion from "Convince the _person I'm arguing with_ of something" to "Convince the _audience watching us_ of something", which is often a more correct goal than the former.
 
 
 ## Backlinks {#backlinks}
 
 -   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
--   [Actors employ {{Never play defense}@0} to {{Speak directly to the audience}@1}]({{< relref "never_play_defense.md#actors-employ-id-f331c0a1-39b2-4752-84a9-f9656d1750c5-never-play-defense-0-to-id-246566c2-5b4b-479a-9e1d-522fd85903d9-speak-directly-to-the-audience-1" >}})
+-   [Never play defense]({{< relref "never_play_defense.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})

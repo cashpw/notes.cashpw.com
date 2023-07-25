@@ -2,7 +2,7 @@
 title = "Dog whistle"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:26:00-07:00
-lastmod = 2022-12-17T13:41:32-08:00
+lastmod = 2023-07-25T10:28:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,15 +21,15 @@ slug = "fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 69.74    | 2023-01-03T08:47:01Z |
-| front    | 2.35 | 6   | 47.64    | 2022-12-26T07:35:26Z |
+| back     | 2.80 | 7   | 206.54   | 2023-07-30T06:50:09Z |
+| front    | 2.20 | 8   | 224.43   | 2023-11-16T02:49:15Z |
 
 [Dog whistle]({{< relref "dog_whistle.md" >}})
 
 
 #### Back {#back}
 
-The use of coded or suggestive language to garner support from a particular group without provoking opposition; appears normal to the majority but communicates speficic things to intended audiences.
+The use of coded or suggestive language to garner support from a particular group without provoking opposition; appears normal to the majority but communicates specific things to intended audiences.
 
 
 #### Source {#source}
@@ -41,8 +41,8 @@ The use of coded or suggestive language to garner support from a particular grou
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 39.82    | 2023-01-11T17:49:36Z |
-| back     | 2.50 | 4   | 14.19    | 2022-12-19T22:24:26Z |
+| front    | 2.95 | 7   | 334.61   | 2024-04-05T08:10:43Z |
+| back     | 2.35 | 7   | 187.84   | 2023-11-13T12:59:43Z |
 
 [Dog whistle]({{< relref "dog_whistle.md" >}})
 
@@ -66,4 +66,5 @@ The use of coded or suggestive language to garner support from a particular grou
 
 ## Backlinks {#backlinks}
 
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
 -   [For the lulz]({{< relref "for_the_lulz.md" >}})

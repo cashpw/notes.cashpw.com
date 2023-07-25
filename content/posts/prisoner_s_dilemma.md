@@ -2,7 +2,7 @@
 title = "Prisoner's dilemma"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T07:01:00-07:00
-lastmod = 2022-12-17T14:04:17-08:00
+lastmod = 2023-07-25T11:30:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,8 +39,8 @@ slug = "780bd825-4c89-4eb6-ba02-de09fefc4694"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.83    | 2022-12-18T13:54:15Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-17T19:09:54Z |
+| front    | 2.65 | 7   | 311.09   | 2024-04-01T16:37:04Z |
+| back     | 2.95 | 7   | 339.35   | 2024-05-21T00:01:36Z |
 
 [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
 
@@ -68,7 +68,7 @@ A game in which two individuals must choose to either (1) cooperate or (2) not, 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 41.84    | 2023-01-25T14:56:00Z |
+| 0        | 2.50 | 7   | 269.58   | 2024-02-04T05:58:22Z |
 
 
 #### Source {#source}
@@ -84,11 +84,10 @@ A game in which two individuals must choose to either (1) cooperate or (2) not, 
 
 ## Backlinks {#backlinks}
 
--   [Symmetric game]({{< relref "symmetric_game.md" >}})
--   [Example(s) (Game theory)]({{< relref "symmetric_game.md#example--s----id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
+-   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
 -   [Tragedy of the commons]({{< relref "tragedy_of_the_commons.md" >}})
--   [Example(s) (Game theory)]({{< relref "non_zero_sum_game.md#example--s----id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
+-   [Symmetric game]({{< relref "symmetric_game.md" >}})
+-   [Simultaneous game]({{< relref "simultaneous_game.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Stag hunt]({{< relref "stag_hunt.md" >}})
 -   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})
--   [Simultaneous game]({{< relref "simultaneous_game.md" >}})
--   [Example(s)]({{< relref "simultaneous_game.md#example--s" >}})

@@ -2,7 +2,7 @@
 title = "Sound bite"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:26:00-07:00
-lastmod = 2022-12-17T14:10:53-08:00
+lastmod = 2023-07-25T12:29:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,4 +27,4 @@ slug = "1553a4d1-a2eb-489e-9f02-a0866f8f008c"
 
 ## Backlinks {#backlinks}
 
--   [Example(s)]({{< relref "never_play_defense.md#example--s" >}})
+-   [Never play defense]({{< relref "never_play_defense.md" >}})

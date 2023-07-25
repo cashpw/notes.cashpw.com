@@ -2,7 +2,7 @@
 title = "Alexey Nikitin | My least favorite Git commit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:31:00-08:00
-lastmod = 2022-12-17T13:58:21-08:00
+lastmod = 2023-07-25T11:17:43-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -66,4 +66,4 @@ The essay isn't written in English. I've used Google Translate to read and quote
 
 ## Backlinks {#backlinks}
 
--   [Documenting your work]({{< relref "documenting_your_work.md" >}})
+-   [Document your work]({{< relref "documenting_your_work.md" >}})

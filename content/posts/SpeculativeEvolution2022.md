@@ -2,7 +2,7 @@
 title = "Speculative evolution"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T15:04:00-08:00
-lastmod = 2022-12-17T13:33:58-08:00
+lastmod = 2023-07-25T08:31:27-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -26,8 +26,8 @@ Related:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 15.86    | 2022-12-29T14:48:46Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-18T17:36:57Z |
+| front    | 2.80 | 7   | 350.22   | 2024-05-24T20:55:16Z |
+| back     | 2.35 | 7   | 150.75   | 2023-09-04T14:35:11Z |
 
 [Speculative evolution]({{< relref "SpeculativeEvolution2022.md" >}})
 

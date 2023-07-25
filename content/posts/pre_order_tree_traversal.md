@@ -2,7 +2,7 @@
 title = "Pre-order tree traversal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:24:00-07:00
-lastmod = 2022-12-17T14:03:52-08:00
+lastmod = 2023-07-25T11:29:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,8 +31,8 @@ slug = "2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 83.97    | 2023-01-18T14:45:26Z |
-| back     | 2.65 | 6   | 90.56    | 2023-02-02T05:31:54Z |
+| front    | 2.80 | 7   | 225.68   | 2023-09-01T07:37:27Z |
+| back     | 2.80 | 7   | 234.60   | 2023-09-26T06:57:14Z |
 
 [Pre-order tree traversal]({{< relref "pre_order_tree_traversal.md" >}})
 
@@ -59,6 +59,6 @@ Priority order for traversing the list:
 
 ## Backlinks {#backlinks}
 
+-   [Depth-first search]({{< relref "depth_first_search.md" >}})
 -   [Tree]({{< relref "tree.md" >}})
--   [Describe]({{< relref "depth_first_search.md" >}})
--   [Depth-first search follows {{Pre-order tree traversal}{traversal order}@0}]({{< relref "depth_first_search.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})

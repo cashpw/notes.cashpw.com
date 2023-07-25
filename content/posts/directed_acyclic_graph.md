@@ -2,16 +2,76 @@
 title = "Directed acyclic graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:25:00-08:00
-lastmod = 2022-12-17T13:41:09-08:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-07-25T10:28:31-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 slug = "ee7fcae8-6322-4b71-91b0-704b7c21ae3a"
 +++
 
-> In mathematics, particularly graph theory, and computer science, a directed acyclic graph (DAG) is a [Directed graph]({{< relref "directed_graph.md" >}}) with no directed cycles. That is, it consists of vertices and edges (also called arcs), with each edge directed from one vertex to another, such that following those directions will never form a closed loop. A directed graph is a DAG if and only if it can be topologically ordered, by arranging the vertices as a linear ordering that is consistent with all edge directions. DAGs have numerous scientific and computational applications, ranging from biology (evolution, family trees, epidemiology) to information science (citation networks) to computation (scheduling).
+> In mathematics, particularly graph theory, and computer science, a directed acyclic graph (DAG) is a Directed graph [[Directed graph]({{< relref "directed_graph.md" >}})] with no directed cycles. That is, it consists of vertices [[Vertices]({{< relref "vertex.md" >}})] and edges [[Edges]({{< relref "edge.md" >}})] (also called arcs), with each edge directed from one vertex to another, such that following those directions will never form a closed loop. A directed graph is a DAG if and only if it can be topologically ordered [[Topological order]({{< relref "topological_order.md" >}})], by arranging the vertices as a linear ordering that is consistent with all edge directions. DAGs have numerous scientific and computational applications, ranging from biology (evolution, family trees, epidemiology) to information science (citation networks) to computation (scheduling).
 >
 > (<a href="#citeproc_bib_item_1">“Directed Acyclic Graph” 2022</a>)
+
+
+## [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}}) {#shortest-path-algorithm--shortest-path-algorithm-dot-md}
+
+> Some algorithms become simpler when used on DAGs instead of general graphs, based on the principle of topological ordering. For example, it is possible to find [shortest paths](https://en.wikipedia.org/wiki/Shortest_path) and [longest paths](https://en.wikipedia.org/wiki/Longest_path_problem) from a given starting vertex in DAGs in linear time by [processing the vertices in a topological order](https://en.wikipedia.org/wiki/Topological_sorting#Application_to_shortest_path_finding), and calculating the path length for each vertex to be the minimum or maximum length obtained via any of its incoming edges. In contrast, for arbitrary graphs the shortest path may require slower algorithms such as Dijkstra's algorithm [[Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})] or the [Bellman--Ford algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm), and longest paths in arbitrary graphs are [NP-hard](https://en.wikipedia.org/wiki/NP-hard) to find.
+>
+> (<a href="#citeproc_bib_item_1">“Directed Acyclic Graph” 2022</a>)
+
+
+## Flashcards {#flashcards}
+
+
+### Definition {#definition}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 7   | 285.97   | 2024-04-28T13:14:55Z |
+| back     | 2.65 | 7   | 346.67   | 2024-06-26T06:17:27Z |
+
+[Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
+
+
+#### Back {#back}
+
+A directed graph which can be topologically sorted.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Directed Acyclic Graph” 2022</a>)
+
+
+### AKA {#aka}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.95 | 6   | 145.90   | 2023-08-06T12:06:42Z |
+| 1        | 2.95 | 6   | 153.54   | 2023-08-21T05:26:23Z |
+
+-   {{[Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})}@0}
+-   {{[DAG]({{< relref "directed_acyclic_graph.md" >}})}@1}
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Directed Acyclic Graph” 2022</a>)
+
+
+### Cloze {#cloze}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.65 | 7   | 296.22   | 2024-04-17T21:30:06Z |
+
+A [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}}) can be {{sorted in [Topological order]({{< relref "topological_order.md" >}})}{order}@0}.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Directed Acyclic Graph” 2022</a>)
 
 ## References
 
@@ -20,4 +80,8 @@ slug = "ee7fcae8-6322-4b71-91b0-704b7c21ae3a"
 </div>
 
 
-## Flashcards {#flashcards}
+## Backlinks {#backlinks}
+
+-   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})
+-   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})

@@ -2,7 +2,7 @@
 title = "Dynamical system"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-21T19:46:00-07:00
-lastmod = 2022-12-17T13:42:01-08:00
+lastmod = 2023-07-25T10:29:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "62420d13-e41f-46c0-a3b2-345fc4d8d4c1"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.65 | 9   | 253.30   | 2023-08-16T07:46:44Z |
-| front    | 2.05 | 5   | 28.98    | 2023-01-12T17:29:04Z |
+| front    | 2.20 | 8   | 291.76   | 2024-05-10T22:19:11Z |
 
 [Dynamical system]({{< relref "dynamical_system.md" >}})
 
@@ -46,7 +46,7 @@ eg: A model that describes the swinging of a clock pendulum or the flow of water
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 41.93    | 2022-12-24T01:04:59Z |
+| front    | 2.50 | 6   | 100.19   | 2023-10-16T19:44:45Z |
 
 [Dynamical system]({{< relref "dynamical_system.md" >}})
 

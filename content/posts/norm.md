@@ -2,7 +2,7 @@
 title = "Norm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-22T08:35:00-07:00
-lastmod = 2022-12-17T13:59:10-08:00
+lastmod = 2023-07-25T11:19:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,6 +19,13 @@ slug = "d98f1ce2-f350-4be7-a8b1-a5741f908cdd"
 The p-norm of the \\(\vec{v}\\) is written as \\(\\|\vec{v}\\|\_p\\).
 
 
+## L-p norm {#l-p-norm}
+
+\\(\\|\vec{x}\\|\_p = (\sum\_{i = 1}^n {\lvert \vec{x}\_i \rvert}^p)^{\frac{1}{p}}\\)
+
+Also see [L-one norm]({{< relref "l_one_norm.md" >}}), [L-two norm]({{< relref "l_two_norm.md" >}}).
+
+
 ## Flashcards {#flashcards}
 
 
@@ -26,42 +33,16 @@ The p-norm of the \\(\vec{v}\\) is written as \\(\\|\vec{v}\\|\_p\\).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.15 | 12  | 115.43   | 2023-03-17T12:21:16Z |
-| 1        | 2.35 | 3   | 6.00     | 2022-12-22T17:49:11Z |
+| 0        | 2.15 | 13  | 245.17   | 2023-11-17T18:18:36Z |
+| 1        | 1.60 | 4   | 9.98     | 2023-07-27T13:31:55Z |
 
 
 ### {{\\(\\|\vec{x}\\|\_{\infty}\\)}{norm}@0} \\(=\\) {{\\(\underset{i}{\text{max}} \\; \vec{x}\_i\\)}@1} {#vec-x-infty-norm-0-underset-i-text-max-vec-x-i-1}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 126.38   | 2023-03-21T01:25:11Z |
-| 1        | 2.50 | 7   | 143.01   | 2023-05-05T18:38:50Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Norm (Mathematics)” 2022</a>)
-
-
-### {{\\(\\|\vec{x}\\|\_1\\)}{norm}@0} \\(=\\) {{\\(\sum |x\_i|\\)}@1} {#vec-x-1-norm-0-sum-x-i-1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 78.61    | 2023-02-08T16:33:01Z |
-| 1        | 2.35 | 6   | 77.91    | 2023-02-22T13:36:27Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Norm (Mathematics)” 2022</a>)
-
-
-### {{\\(\\|\vec{x}\\|\_2\\)}{norm}@0} \\(=\\) {{\\(\sqrt{\vec{x}\cdot\vec{x}}\\)}@1} {#vec-x-2-norm-0-sqrt-vec-x-cdot-vec-x-1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 95.79    | 2023-01-21T09:40:58Z |
-| 1        | 2.65 | 6   | 55.20    | 2022-12-31T21:46:38Z |
+| 0        | 2.80 | 7   | 361.68   | 2024-03-17T09:40:38Z |
+| 1        | 2.50 | 8   | 353.84   | 2024-04-24T14:02:29Z |
 
 
 #### Source {#source}
@@ -73,8 +54,8 @@ The p-norm of the \\(\vec{v}\\) is written as \\(\\|\vec{v}\\|\_p\\).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 33.39    | 2023-01-02T01:09:57Z |
-| 1        | 2.50 | 4   | 15.00    | 2022-12-21T00:21:00Z |
+| 0        | 2.80 | 7   | 237.33   | 2023-11-21T11:11:53Z |
+| 1        | 2.20 | 7   | 186.15   | 2023-11-06T01:37:14Z |
 
 
 #### Source {#source}
@@ -86,20 +67,36 @@ The p-norm of the \\(\vec{v}\\) is written as \\(\\|\vec{v}\\|\_p\\).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 91.28    | 2022-12-23T23:05:05Z |
-| 1        | 2.65 | 6   | 150.63   | 2023-03-26T06:27:54Z |
+| 0        | 2.50 | 7   | 220.20   | 2023-08-02T20:00:04Z |
+| 1        | 2.50 | 7   | 344.32   | 2024-03-04T21:17:54Z |
 
 
 ### Denotes {#denotes}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 8   | 178.70   | 2023-05-15T09:09:03Z |
+| 0        | 2.50 | 9   | 442.43   | 2024-07-31T02:00:51Z |
 | 1        | 2.65 | 8   | 226.63   | 2023-07-30T11:53:34Z |
 
 -   {{\\({\\|\vec{x}\\|}\_p\\)}@0}
 
 {{p-norm of \\(\vec{x}\\)}@1}
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_2">“Norm (Mathematics)” 2022</a>)
+
+
+### AKA {#aka}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.35 | 12  | 312.39   | 2024-01-24T23:01:08Z |
+| 1        | 2.50 | 8   | 341.13   | 2024-01-14T02:40:50Z |
+
+-   {{Norm}@0}
+-   {{Magnitude}@1}
 
 
 #### Source {#source}

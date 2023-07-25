@@ -2,7 +2,7 @@
 title = "Season a cast iron skillet"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T18:51:00-07:00
-lastmod = 2022-12-17T14:08:50-08:00
+lastmod = 2023-07-25T12:27:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -36,8 +36,8 @@ slug = "cf234015-e1ce-4689-97c8-e3848e435742"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 16.56    | 2023-01-02T07:14:51Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-13T19:46:47Z |
+| front    | 2.80 | 6   | 153.74   | 2023-08-01T08:48:45Z |
+| back     | 2.80 | 7   | 346.79   | 2024-06-26T09:14:11Z |
 
 How to [Season a cast iron skillet]({{< relref "season_a_cast_iron_skillet.md" >}})
 
@@ -61,24 +61,14 @@ How to [Season a cast iron skillet]({{< relref "season_a_cast_iron_skillet.md" >
 (<a href="#citeproc_bib_item_1">Canter n.d.</a>)
 
 
-### Use {{flaxseed oil}{oil}@0} to season cast iron {#use-flaxseed-oil-oil-0-to-season-cast-iron}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 16.35    | 2023-01-02T02:12:28Z |
+| 0        | 2.65 | 7   | 309.11   | 2024-04-27T04:12:42Z |
+| 1        | 2.65 | 6   | 136.64   | 2023-08-04T07:49:32Z |
 
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Canter n.d.</a>)
-
-
-### ([Season a cast iron skillet]({{< relref "season_a_cast_iron_skillet.md" >}})) Bake the skillet at {{500°}{degrees}@0} for {{1 hour}{time}@1} {#season-a-cast-iron-skillet-season-a-cast-iron-skillet-dot-md---bake-the-skillet-at-500-degrees-0-for-1-hour-time-1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-22T17:39:37Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-25T14:50:18Z |
+([Season a cast iron skillet]({{< relref "season_a_cast_iron_skillet.md" >}})) Bake the skillet at {{500°}{degrees}@0} for {{1 hour}{time}@1}
 
 
 #### Source {#source}
@@ -90,8 +80,8 @@ How to [Season a cast iron skillet]({{< relref "season_a_cast_iron_skillet.md" >
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 14.19    | 2022-12-28T22:30:57Z |
-| 1        | 2.50 | 2   | 2.00     | 2022-12-05T19:18:01Z |
+| 0        | 2.35 | 6   | 82.47    | 2023-09-25T06:40:07Z |
+| 1        | 2.95 | 7   | 372.55   | 2024-06-30T03:13:47Z |
 
 You should [Season a cast iron skillet]({{< relref "season_a_cast_iron_skillet.md" >}}) with {{flaxseed oil}@0} because {{it is the only edible [Drying oil]({{< relref "drying_oil.md" >}})}@1}
 

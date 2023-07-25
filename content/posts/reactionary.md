@@ -2,7 +2,7 @@
 title = "Reactionary"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:19:00-08:00
-lastmod = 2022-12-17T14:06:06-08:00
+lastmod = 2023-07-25T12:26:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "735e2c4a-52b9-455d-9872-cb897cc0bd54"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 15.40    | 2022-12-21T10:08:47Z |
-| back     | 2.50 | 4   | 14.21    | 2022-12-27T23:25:15Z |
+| front    | 2.20 | 6   | 65.49    | 2023-08-26T03:39:39Z |
+| back     | 2.35 | 7   | 188.68   | 2023-11-08T14:16:00Z |
 
 [Reactionary]({{< relref "reactionary.md" >}}) (adjective)
 
@@ -39,17 +39,12 @@ Points of view and policies meant to restore the [Status quo ante]({{< relref "s
 (<a href="#citeproc_bib_item_1">“Reactionary” 2022</a>)
 
 
-### Definition {#definition}
+### [Reactionary]({{< relref "reactionary.md" >}}) {#reactionary--reactionary-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 14.18    | 2022-12-30T22:27:27Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-12T15:23:01Z |
-
-[Reactionary]({{< relref "reactionary.md" >}}) (noun)
-
-
-#### Back {#back}
+| front    | 2.20 | 7   | 141.67   | 2023-09-22T07:46:54Z |
+| back     | 2.80 | 7   | 291.20   | 2024-03-19T19:16:20Z |
 
 A person who holds political views which favor a return to the [Status quo ante]({{< relref "status_quo_ante.md" >}})
 
@@ -63,15 +58,15 @@ A person who holds political views which favor a return to the [Status quo ante]
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 15.63    | 2023-01-01T09:17:59Z |
-| 1        | 2.50 | 1   | 1.00     | 2022-12-09T20:08:56Z |
+| 0        | 3.10 | 7   | 444.27   | 2024-09-27T19:39:37Z |
+| 1        | 2.80 | 7   | 297.11   | 2024-04-05T02:56:48Z |
 
 
 ### Compare and contrast {#compare-and-contrast}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-16T18:00:38Z |
+| front    | 2.20 | 7   | 120.45   | 2023-07-30T02:20:40Z |
 
 [Reactionary]({{< relref "reactionary.md" >}}) politics with Conservative politics
 

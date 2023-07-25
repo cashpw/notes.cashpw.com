@@ -2,7 +2,7 @@
 title = "Secure attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:35:00-07:00
-lastmod = 2022-12-17T14:09:02-08:00
+lastmod = 2023-07-25T12:27:34-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ An [attachment]({{< relref "attachment_theory.md" >}}) pattern in which the chil
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 64.24    | 2022-12-24T20:59:57Z |
-| back     | 2.65 | 6   | 78.86    | 2023-01-15T12:17:27Z |
+| front    | 2.65 | 8   | 497.99   | 2024-11-06T15:20:42Z |
+| back     | 2.35 | 8   | 440.87   | 2024-09-26T21:45:47Z |
 
 [Secure attachment]({{< relref "secure_attachment.md" >}})
 
@@ -43,8 +43,8 @@ A healthy attachment pattern between a child and their guardian(s) in which the 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 75.86    | 2023-01-15T12:40:32Z |
-| back     | 2.80 | 6   | 80.40    | 2023-02-02T00:55:38Z |
+| front    | 2.95 | 7   | 239.80   | 2023-09-13T21:16:47Z |
+| back     | 2.80 | 7   | 222.46   | 2023-09-18T05:26:56Z |
 
 [Secure attachment]({{< relref "secure_attachment.md" >}})
 

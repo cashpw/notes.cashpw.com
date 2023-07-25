@@ -2,7 +2,7 @@
 title = "Death of a euphamism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:40:00-07:00
-lastmod = 2022-12-17T14:15:18-08:00
+lastmod = 2023-07-25T12:34:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ See [Ian Danskin | The Death of a Euphemism]({{< relref "danskinDeathEuphemism20
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 95.36    | 2023-03-15T07:27:00Z |
-| back     | 2.95 | 6   | 102.15   | 2023-03-20T23:30:21Z |
+| front    | 2.50 | 7   | 261.09   | 2023-12-01T17:18:33Z |
+| back     | 2.95 | 7   | 287.12   | 2024-01-02T20:21:14Z |
 
 [Death of a euphamism]({{< relref "the_death_of_a_euphamism.md" >}})
 
@@ -41,8 +41,8 @@ The point at which those who would have previously used a euphemism instead of s
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 123.85   | 2023-02-14T13:17:50Z |
-| back     | 2.35 | 5   | 30.76    | 2023-01-02T12:07:25Z |
+| front    | 2.80 | 7   | 313.48   | 2023-12-25T16:18:34Z |
+| back     | 2.50 | 7   | 218.70   | 2023-10-31T06:12:30Z |
 
 [Death of a euphamism]({{< relref "the_death_of_a_euphamism.md" >}})
 
@@ -65,4 +65,5 @@ The point at which those who would have previously used a euphemism instead of s
 
 ## Backlinks {#backlinks}
 
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
 -   [Ian Danskin | The Death of a Euphemism]({{< relref "danskinDeathEuphemism2018.md" >}})

@@ -2,7 +2,7 @@
 title = "Trie"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-21T19:18:00-07:00
-lastmod = 2022-12-17T14:20:01-08:00
+lastmod = 2023-07-25T12:38:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "5b235c79-d75b-4e4e-808a-b43f532b6226"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.34    | 2022-12-25T04:11:42Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-21T20:42:02Z |
+| front    | 2.50 | 6   | 118.39   | 2023-08-28T08:47:27Z |
+| back     | 2.35 | 7   | 210.06   | 2023-12-20T21:53:53Z |
 
 [Trie]({{< relref "trie.md" >}})
 
@@ -42,8 +42,8 @@ A k-ary search tree for locating keys within a set.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 39.08    | 2023-01-08T18:36:56Z |
-| back     | 2.65 | 5   | 44.13    | 2023-01-29T21:01:56Z |
+| front    | 2.80 | 7   | 363.42   | 2024-05-07T02:44:45Z |
+| back     | 2.50 | 7   | 271.20   | 2024-02-26T20:09:38Z |
 
 [Trie]({{< relref "trie.md" >}})
 
@@ -57,8 +57,8 @@ A k-ary search tree for locating keys within a set.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 44.00    | 2023-01-23T16:55:24Z |
-| back     | 2.35 | 0   | 0.00     | 2022-12-16T17:40:14Z |
+| front    | 2.05 | 6   | 55.45    | 2023-08-24T07:21:49Z |
+| back     | 2.35 | 7   | 127.77   | 2023-08-12T15:04:58Z |
 
 Applications of a [Trie]({{< relref "trie.md" >}})
 
@@ -74,8 +74,8 @@ Applications of a [Trie]({{< relref "trie.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-22T17:36:29Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-25T18:21:35Z |
+| 0        | 1.90 | 8   | 187.41   | 2023-12-21T00:01:06Z |
+| 1        | 2.20 | 7   | 111.97   | 2023-07-29T14:18:19Z |
 
 
 #### Source {#source}
@@ -91,6 +91,5 @@ Applications of a [Trie]({{< relref "trie.md" >}})
 
 ## Backlinks {#backlinks}
 
--   [Describe]({{< relref "suffix_trie.md" >}})
 -   [Radix tree]({{< relref "radix_tree.md" >}})
--   [Describe]({{< relref "radix_tree.md#describe" >}})
+-   [Suffix tree]({{< relref "suffix_trie.md" >}})

@@ -1,0 +1,37 @@
++++
+title = "Disjunctive normal form"
+author = ["Cash Prokop-Weaver"]
+date = 2023-05-22T09:28:00-07:00
+lastmod = 2023-07-25T10:28:36-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
+draft = false
+slug = "ed008224-2505-48a1-a322-7a410fbf7168"
++++
+
+> In boolean logic, a disjunctive normal form (DNF) is a canonical normal form of a logical formula consisting of a disjunction of conjunctions; it can also be described as an OR of ANDs, [...]
+>
+> (<a href="#citeproc_bib_item_1">“Disjunctive Normal Form” 2023</a>)
+
+
+## Flashcards {#flashcards}
+
+
+### Cloze {#cloze}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.20 | 5   | 30.64    | 2023-07-26T09:11:44Z |
+
+One can also describe [Disjunctive normal form]({{< relref "disjunctive_normal_form.md" >}}) as {{an OR of ANDs}@0}.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Disjunctive Normal Form” 2023</a>)
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Disjunctive Normal Form.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&oldid=1137077528">https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&#38;oldid=1137077528</a>.</div>
+</div>

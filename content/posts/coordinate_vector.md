@@ -2,7 +2,7 @@
 title = "Coordinate vector"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T20:35:00-07:00
-lastmod = 2022-12-17T13:38:59-08:00
+lastmod = 2023-07-25T08:57:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "4b917306-e1fa-4d34-9d2b-5bb1eedab431"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 128.82   | 2023-03-13T19:58:52Z |
-| front    | 2.65 | 7   | 116.14   | 2023-01-16T16:31:43Z |
+| back     | 2.65 | 8   | 325.11   | 2024-02-03T17:51:44Z |
+| front    | 2.80 | 8   | 324.50   | 2023-12-07T13:48:09Z |
 
 Coordinate Vector
 
@@ -48,8 +48,8 @@ eg: \\(\begin{bmatrix}\vec{v}\end{bmatrix}\_{\beta}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 9   | 180.50   | 2023-05-29T06:24:32Z |
-| 1        | 2.35 | 5   | 27.25    | 2022-12-30T00:03:10Z |
+| 0        | 2.35 | 10  | 452.40   | 2024-08-26T01:04:46Z |
+| 1        | 1.75 | 5   | 19.90    | 2023-08-06T11:33:54Z |
 
 -   {{\\(\begin{bmatrix}\vec{v}\end{bmatrix}\_{\beta}\\)}@0}
 

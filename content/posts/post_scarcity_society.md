@@ -2,7 +2,7 @@
 title = "Post-scarcity society"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:59:00-07:00
-lastmod = 2022-12-17T14:03:19-08:00
+lastmod = 2023-07-25T11:28:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "7bb3980d-e901-4f5e-b102-61a0a89de28c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.69    | 2022-12-31T10:05:32Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-11T16:52:36Z |
+| front    | 2.80 | 7   | 277.14   | 2024-03-02T19:24:17Z |
+| back     | 2.80 | 7   | 309.30   | 2024-04-24T21:58:56Z |
 
 [Post-scarcity economy]({{< relref "post_scarcity_society.md" >}})
 
@@ -45,7 +45,6 @@ A theoretical economic situation in which goods can be produced in great abundan
 
 ## Backlinks {#backlinks}
 
--   [Fully automated luxury communism]({{< relref "fully_automated_luxury_communism.md" >}})
--   [Describe]({{< relref "fully_automated_luxury_communism.md#describe" >}})
--   [Describe]({{< relref "the_challenge_is_to_improve_yourself.md#describe" >}})
 -   [Bob Black | The Abolition of Work]({{< relref "blackAbolitionWork.md" >}})
+-   [Fully automated luxury communism]({{< relref "fully_automated_luxury_communism.md" >}})
+-   [The challenge is to improve yourself]({{< relref "the_challenge_is_to_improve_yourself.md" >}})

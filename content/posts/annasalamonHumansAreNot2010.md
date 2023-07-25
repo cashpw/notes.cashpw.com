@@ -2,7 +2,7 @@
 title = "Anna Salamon | Humans Are Not Automatically Strategic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:45:00-08:00
-lastmod = 2022-12-17T13:34:59-08:00
+lastmod = 2023-07-25T08:37:34-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -47,19 +47,20 @@ We don't automatically seek out a [Theory of change]({{< relref "theory_of_chang
 ## Flashcards {#flashcards}
 
 
-### Describe {#describe}
+### Summarize {#summarize}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-13T19:36:40Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-14T18:19:01Z |
+| front    | 2.20 | 7   | 139.32   | 2023-08-25T22:53:23Z |
+| back     | 2.50 | 7   | 209.52   | 2023-12-21T02:46:23Z |
 
 [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 
 
 #### Back {#back}
 
-People "mostly just do things. We act from habit; we act from impulse ... but we do not systematically choose the narrow set of actions that would effectively optimize for our claimed goals ..."
+-   People "mostly just do things. We act from habit; we act from impulse ... but we do not systematically choose the narrow set of actions that would effectively optimize for our claimed goals ..."
+-   We act with thought, but rarely do we act with [Meta]({{< relref "the_metagame.md" >}})-level thought
 
 
 #### Source {#source}
@@ -75,4 +76,6 @@ People "mostly just do things. We act from habit; we act from impulse ... but we
 
 ## Backlinks {#backlinks}
 
+-   [Scott Alexander]({{< relref "scott_alexander.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

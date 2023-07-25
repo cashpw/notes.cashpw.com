@@ -2,7 +2,7 @@
 title = "Serenity prayer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:20:00-08:00
-lastmod = 2022-12-17T13:33:57-08:00
+lastmod = 2023-07-25T08:31:22-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -23,11 +23,11 @@ and wisdom to know the difference.<br />
 ## Flashcards {#flashcards}
 
 
-### God, grant me {{the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.}@0} {#god-grant-me-the-serenity-to-accept-the-things-i-cannot-change-courage-to-change-the-things-i-can-and-wisdom-to-know-the-difference-dot-0}
+### God, grant me {{the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.}{full}@0} {#god-grant-me-the-serenity-to-accept-the-things-i-cannot-change-courage-to-change-the-things-i-can-and-wisdom-to-know-the-difference-dot-full-0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 0   | 0.00     | 2022-12-02T22:52:28Z |
+| 0        | 1.90 | 5   | 20.84    | 2023-08-12T23:53:42Z |
 
 
 #### Source {#source}
@@ -39,7 +39,7 @@ and wisdom to know the difference.<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2022-12-16T20:31:36Z |
+| 0        | 2.20 | 7   | 171.87   | 2023-10-23T13:38:24Z |
 
 
 #### Source {#source}
@@ -51,7 +51,7 @@ and wisdom to know the difference.<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 0   | 0.00     | 2022-12-14T17:27:43Z |
+| 0        | 2.20 | 5   | 31.01    | 2023-08-10T15:55:49Z |
 
 
 #### Source {#source}
@@ -63,7 +63,7 @@ and wisdom to know the difference.<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2022-12-17T18:00:21Z |
+| 0        | 2.50 | 7   | 204.34   | 2023-11-27T01:45:51Z |
 
 
 #### Source {#source}
@@ -79,5 +79,5 @@ and wisdom to know the difference.<br />
 
 ## Backlinks {#backlinks}
 
--   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md#2-dot-1" >}})
 -   [Focusing techniques]({{< relref "focusing_techniques.md" >}})
+-   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md" >}})

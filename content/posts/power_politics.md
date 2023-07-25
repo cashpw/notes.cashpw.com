@@ -2,7 +2,7 @@
 title = "Power politics"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T10:44:00-07:00
-lastmod = 2022-12-17T14:03:45-08:00
+lastmod = 2023-07-25T11:29:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ A [Zero-sum game]({{< relref "zero_sum_game.md" >}}) view of international relat
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 46.63    | 2022-12-24T06:07:39Z |
-| back     | 2.95 | 5   | 46.06    | 2023-01-11T16:29:23Z |
+| front    | 2.80 | 7   | 373.17   | 2024-05-18T19:13:09Z |
+| back     | 2.80 | 7   | 387.00   | 2024-06-13T20:17:13Z |
 
 [Power politics]({{< relref "power_politics.md" >}})
 
@@ -48,7 +48,7 @@ A way of understanding international relations which focuses on power dynamics -
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.45 | 9   | 91.26    | 2023-01-17T21:22:45Z |
+| back     | 2.60 | 10  | 253.69   | 2023-09-29T07:46:36Z |
 | front    | 2.50 | 7   | 223.28   | 2023-07-28T00:28:50Z |
 
 [Power politics]({{< relref "power_politics.md" >}})
@@ -73,5 +73,5 @@ A theory of international relations which contends that distributions of power a
 ## Backlinks {#backlinks}
 
 -   [Betty Miller Unterberger | Power Politics and Statecraft: The World According to Kissinger]({{< relref "unterbergerPowerPoliticsStatecraft1995.md" >}})
--   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
 -   [Realpolitik]({{< relref "real_politic.md" >}})
+-   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})

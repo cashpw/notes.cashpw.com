@@ -2,12 +2,14 @@
 title = "Binary heap implementation in python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-21T09:21:00-07:00
-lastmod = 2022-12-17T13:36:14-08:00
+lastmod = 2023-07-25T08:42:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "8178ba27-6553-4e8e-b7d4-125e72278029"
 +++
+
+An [Implementation]({{< relref "implementation.md" >}}) of a [Binary heap]({{< relref "binary_heap.md" >}}) in [Python]({{< relref "python.md" >}}).
 
 ```python
 from typing import List, TypeVar, Generic, Tuple, Optional
@@ -121,7 +123,18 @@ print(h.peek())
 ## Flashcards {#flashcards}
 
 
+### Implement a [Binary heap]({{< relref "binary_heap.md" >}}) in [Python]({{< relref "python.md" >}}) {#implement-a-binary-heap--binary-heap-dot-md--in-python--python-dot-md}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.65 | 6   | 89.51    | 2023-06-18T04:30:17Z |
+
+
+#### Back {#back}
+
+[Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
+
+
 ## Backlinks {#backlinks}
 
--   [Implementation]({{< relref "binary_heap.md#implementation" >}})
--   [Implement a Binary heap in Python]({{< relref "binary_heap.md#implement-a-id-a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad-binary-heap-in-id-27b0e33a-6754-40b8-99d8-46650e8626aa-python" >}})
+-   [Binary heap]({{< relref "binary_heap.md" >}})

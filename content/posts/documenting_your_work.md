@@ -1,8 +1,8 @@
 +++
-title = "Documenting your work"
+title = "Document your work"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T14:37:00-08:00
-lastmod = 2022-12-17T13:41:29-08:00
+lastmod = 2023-07-25T10:28:41-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -38,7 +38,7 @@ slug = "c74e3129-38af-45f8-bd2b-8a6fa5a0cad0"
 
 ## Backlinks {#backlinks}
 
--   [David Thompson | My Favourite Git Commit]({{< relref "thompsonMyFavouriteGitCommit2019.md" >}})
 -   [Alexey Nikitin | My least favorite Git commit]({{< relref "nikitinMyLeastFavoriteGitCommit2019.md" >}})
+-   [David Thompson | My Favourite Git Commit]({{< relref "thompsonMyFavouriteGitCommit2019.md" >}})
 -   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

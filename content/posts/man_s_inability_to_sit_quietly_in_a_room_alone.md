@@ -2,7 +2,7 @@
 title = "Man's Inability to Sit Quietly in a Room Alone"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:14:00-07:00
-lastmod = 2022-12-17T13:54:03-08:00
+lastmod = 2023-07-25T11:04:20-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ slug = "68e208ad-a4d6-403e-aae3-2ef207499d99"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-21T20:22:50Z |
+| 0        | 2.20 | 7   | 158.07   | 2023-10-08T23:52:06Z |
 
 
 #### Source {#source}

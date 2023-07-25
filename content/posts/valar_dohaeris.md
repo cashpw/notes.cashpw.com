@@ -2,7 +2,7 @@
 title = "Valar dohaeris"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:00:00-07:00
-lastmod = 2022-12-17T14:21:40-08:00
+lastmod = 2023-07-25T12:40:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,11 +21,11 @@ Related: [Valar morghulis]({{< relref "valar_morghulis.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 77.67    | 2023-01-23T09:01:08Z |
-| 1        | 2.50 | 6   | 92.90    | 2023-03-12T20:20:02Z |
+| 0        | 2.65 | 7   | 186.07   | 2023-07-28T16:02:37Z |
+| 1        | 2.50 | 7   | 248.81   | 2023-11-17T10:26:41Z |
 
 
 ## Backlinks {#backlinks}
 
--   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
 -   [Valar morghulis]({{< relref "valar_morghulis.md" >}})
+-   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})

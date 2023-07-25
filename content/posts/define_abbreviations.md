@@ -2,7 +2,7 @@
 title = "Define Abbreviations"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:00:00-08:00
-lastmod = 2022-12-17T13:40:33-08:00
+lastmod = 2023-07-25T10:28:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

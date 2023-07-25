@@ -2,7 +2,7 @@
 title = "Zone of proximal development"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T18:48:00-07:00
-lastmod = 2022-12-17T14:24:47-08:00
+lastmod = 2023-07-25T12:44:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "d85e93d5-5a6b-449e-b39e-e0f2609fd532"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 16.89    | 2022-12-19T15:14:18Z |
-| back     | 2.50 | 0   | 0.00     | 2022-12-15T20:12:19Z |
+| front    | 3.10 | 6   | 159.30   | 2023-07-26T10:39:53Z |
+| back     | 1.90 | 6   | 42.56    | 2023-08-19T13:39:25Z |
 
 [Zone of proximal development]({{< relref "zone_of_proximal_development.md" >}})
 

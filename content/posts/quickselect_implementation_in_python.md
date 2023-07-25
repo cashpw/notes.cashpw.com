@@ -2,14 +2,14 @@
 title = "Quickselect implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:54:00-07:00
-lastmod = 2022-12-17T14:05:26-08:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2023-07-25T11:35:32-07:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "ffec0117-bbea-4197-865c-112e417c8f1d"
 +++
 
-An implementation of [Quickselect]({{< relref "quickselect.md" >}}) in [Python]({{< relref "python.md" >}}).
+[Implementation]({{< relref "implementation.md" >}}) of [Quickselect]({{< relref "quickselect.md" >}}) in [Python]({{< relref "python.md" >}}).
 
 ```python
 from typing import List, Optional
@@ -64,6 +64,11 @@ print(select_nth_smallest(a, 2), "should be 4")
 print(select_nth_smallest(a, 4), "should be 10")
 ```
 
+TIES:
+:ANKI_DECK: Default
+
+:END:
+
 
 ## Flashcards {#flashcards}
 
@@ -71,4 +76,3 @@ print(select_nth_smallest(a, 4), "should be 10")
 ## Backlinks {#backlinks}
 
 -   [Quickselect]({{< relref "quickselect.md" >}})
--   [Basic with Source]({{< relref "quickselect.md#basic-with-source" >}})

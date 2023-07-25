@@ -2,7 +2,7 @@
 title = "Taste gap"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-16T14:16:00-08:00
-lastmod = 2022-12-17T14:13:59-08:00
+lastmod = 2023-07-25T12:33:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,8 +33,8 @@ The gap between a person's ability to recognize "good" work and their ability to
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2022-12-16T22:18:44Z |
-| back     | 2.5  | -1  | 0        | 2022-12-16T22:18:44Z |
+| front    | 2.80 | 7   | 316.47   | 2024-05-01T07:56:59Z |
+| back     | 2.80 | 7   | 390.57   | 2024-08-17T17:41:31Z |
 
 [Taste gap]({{< relref "taste_gap.md" >}})
 
@@ -53,3 +53,8 @@ The gap between a person's ability to recognize "good" work and their ability to
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Glass, Ira. 2009. “On Good Taste.” <a href="https://www.youtube.com/watch?v=X2wLP0izeJE">https://www.youtube.com/watch?v=X2wLP0izeJE</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Get good]({{< relref "get_good.md" >}})

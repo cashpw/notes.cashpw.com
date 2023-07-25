@@ -2,7 +2,7 @@
 title = "Linter"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T10:05:00-08:00
-lastmod = 2022-12-17T13:52:57-08:00
+lastmod = 2023-07-25T11:01:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

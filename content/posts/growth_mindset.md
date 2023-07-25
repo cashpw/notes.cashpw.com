@@ -2,7 +2,7 @@
 title = "Growth mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T15:27:00-07:00
-lastmod = 2022-12-17T13:46:21-08:00
+lastmod = 2023-07-25T10:43:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,15 +29,15 @@ slug = "c19c4cf1-9304-46b7-9441-8fed0ed17a57"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 47.89    | 2023-01-26T20:15:51Z |
-| back     | 2.50 | 4   | 14.60    | 2022-12-27T17:04:50Z |
+| front    | 2.80 | 7   | 350.94   | 2024-05-31T12:19:00Z |
+| back     | 2.20 | 7   | 158.48   | 2023-09-19T00:35:32Z |
 
 [Growth mindset]({{< relref "growth_mindset.md" >}})
 
 
 #### Back {#back}
 
-A [Mindset]({{< relref "mindset.md" >}}) which holds that individuals can enhance/expand/grow their intelligence, ability, aptitude, etc, through the learning process.
+A concept which holds that individuals can enhance/expand/grow their intelligence, ability, aptitude, etc, through the learning process.
 
 
 #### Source {#source}
@@ -53,9 +53,9 @@ A [Mindset]({{< relref "mindset.md" >}}) which holds that individuals can enhanc
 
 ## Backlinks {#backlinks}
 
--   [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})
--   [Describe]({{< relref "elhageComputersCanBe.md#describe" >}})
--   [The first lesson]({{< relref "the_first_lesson.md" >}})
--   [Fixed mindset]({{< relref "fixed_mindset.md" >}})
 -   [Grit]({{< relref "grit.md" >}})
+-   [The first lesson]({{< relref "the_first_lesson.md" >}})
+-   [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})
+-   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})
+-   [Fixed mindset]({{< relref "fixed_mindset.md" >}})
 -   [No zero days]({{< relref "no_zero_days.md" >}})

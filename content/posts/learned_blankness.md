@@ -2,7 +2,7 @@
 title = "Learned blankness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T08:38:00-08:00
-lastmod = 2022-12-17T13:52:13-08:00
+lastmod = 2023-07-25T10:58:45-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ Related: [Cargo cult]({{< relref "cargo_cult.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.36    | 2023-01-02T02:42:29Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-13T19:17:10Z |
+| front    | 2.80 | 7   | 375.35   | 2024-06-29T23:40:00Z |
+| back     | 1.75 | 6   | 27.54    | 2023-07-24T05:18:02Z |
 
 [Learned blankness]({{< relref "learned_blankness.md" >}})
 
@@ -50,3 +50,4 @@ A state of mind characterized by the lack of a drive to understand. Those exhibi
 ## Backlinks {#backlinks}
 
 -   [Anna Salamon | Learned Blankness]({{< relref "annasalamonLearnedBlankness2011.md" >}})
+-   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "learned_blankness.md" >}})

@@ -2,7 +2,7 @@
 title = "Red-black tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:54:00-07:00
-lastmod = 2022-12-17T14:06:47-08:00
+lastmod = 2023-07-25T12:26:29-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -13,7 +13,7 @@ ID: 019be402-8bef-48f3-afbf-6441010dd8cf
 
     ROAM_REFS: [cite:@RedblackTree2022]
 
-    LAST_MODIFIED: [2022-12-16 Fri 09:41]
+    LAST_MODIFIED: [2023-07-23 Sun 21:01]
 
 > In computer science, a red–black tree is a kind of [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}}). Each [Vertex]({{< relref "vertex.md" >}}) stores an extra bit representing "color" ("red" or "black"), used to ensure that the [Tree]({{< relref "tree.md" >}}) remains balanced during insertions and deletions.
 >
@@ -105,7 +105,7 @@ def insert_fix(inserted_node):
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 99.99    | 2023-02-09T16:16:01Z |
+| 0        | 2.95 | 7   | 272.72   | 2023-11-11T08:43:02Z |
 
 
 #### Extra {#extra}
@@ -132,7 +132,7 @@ def insert_fix(inserted_node):
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 3.10 | 5   | 53.46    | 2023-01-25T06:29:48Z |
+| 0        | 2.95 | 7   | 519.95   | 2024-12-11T14:28:42Z |
 
 
 #### Extra {#extra}
@@ -159,7 +159,7 @@ def insert_fix(inserted_node):
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 1   | 1.00     | 2022-12-17T17:41:08Z |
+| 0        | 2.35 | 7   | 197.79   | 2023-11-13T09:19:48Z |
 
 
 #### Extra {#extra}
@@ -186,7 +186,7 @@ def insert_fix(inserted_node):
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 0   | 0.00     | 2022-12-16T17:36:24Z |
+| 0        | 1.90 | 7   | 89.25    | 2023-08-07T21:54:06Z |
 
 
 #### Extra {#extra}
@@ -213,7 +213,7 @@ def insert_fix(inserted_node):
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 48.40    | 2023-01-06T01:42:20Z |
+| 0        | 3.10 | 7   | 464.89   | 2024-09-01T11:32:06Z |
 
 
 #### Extra {#extra}
@@ -242,11 +242,11 @@ def insert_fix(inserted_node):
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 4        | 2.65 | 3   | 6.00     | 2022-11-16T17:30:58Z |
-| 0        | 2.65 | 6   | 40.55    | 2022-11-02T05:26:21Z |
-| 1        | 2.5  | 4   | 12       | 2022-09-16T13:00:00Z |
-| 2        | 2.5  | 4   | 10       | 2022-09-20T13:00:00Z |
-| 3        | 2.5  | 3   | 4        | 2022-09-14T13:00:00Z |
+| 4        | 2.50 | 7   | 342.61   | 2024-06-14T14:52:29Z |
+| 0        | 2.80 | 8   | 323.70   | 2024-03-25T10:21:18Z |
+| 1        | 2.50 | 6   | 103.79   | 2023-10-29T08:56:01Z |
+| 2        | 2.05 | 6   | 64.50    | 2023-09-03T13:35:09Z |
+| 3        | 1.75 | 2   | 2.00     | 2023-07-26T04:01:32Z |
 
 Properties of a {{[Red-black tree]({{< relref "red_black_tree.md" >}})}@4}
 
@@ -277,7 +277,7 @@ Properties of a {{[Red-black tree]({{< relref "red_black_tree.md" >}})}@4}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 18.26    | 2022-12-18T23:13:26Z |
+| 0        | 3.10 | 7   | 471.65   | 2024-10-29T05:42:49Z |
 
 
 #### Source {#source}
@@ -301,8 +301,8 @@ Properties of a {{[Red-black tree]({{< relref "red_black_tree.md" >}})}@4}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 16.53    | 2022-12-16T07:29:24Z |
-| 1        | 2.50 | 2   | 2.00     | 2022-11-29T18:23:09Z |
+| 0        | 2.80 | 7   | 341.27   | 2024-05-01T21:00:18Z |
+| 1        | 2.50 | 7   | 173.58   | 2023-11-04T04:53:25Z |
 
 
 #### Source {#source}
@@ -326,7 +326,7 @@ Properties of a {{[Red-black tree]({{< relref "red_black_tree.md" >}})}@4}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 18.27    | 2022-12-21T01:13:10Z |
+| 0        | 3.10 | 6   | 171.16   | 2023-08-02T21:23:27Z |
 
 
 #### Source {#source}
@@ -350,7 +350,7 @@ Properties of a {{[Red-black tree]({{< relref "red_black_tree.md" >}})}@4}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 16.40    | 2022-12-16T03:48:30Z |
+| 0        | 2.80 | 7   | 300.16   | 2024-03-06T18:59:55Z |
 
 
 #### Source {#source}
@@ -367,4 +367,3 @@ Properties of a {{[Red-black tree]({{< relref "red_black_tree.md" >}})}@4}
 ## Backlinks {#backlinks}
 
 -   [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}})
--   [Example(s) (balance)]({{< relref "self_balancing_binary_search_tree.md" >}})

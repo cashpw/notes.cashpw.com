@@ -2,7 +2,7 @@
 title = "Second place"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-11T11:57:00-08:00
-lastmod = 2022-12-17T14:08:55-08:00
+lastmod = 2023-07-25T12:27:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "734b5d37-a342-4dbe-9e6a-e63df297433a"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-18T17:36:01Z |
-| back     | 2.5  | -1  | 0        | 2022-12-11T20:01:25Z |
+| front    | 2.50 | 7   | 180.14   | 2023-10-27T21:59:17Z |
+| back     | 2.35 | 5   | 34.26    | 2023-08-13T21:59:00Z |
 
 [Second place]({{< relref "second_place.md" >}})
 
@@ -51,4 +51,5 @@ The workplace; where people spend most of their waking time.
 
 ## Backlinks {#backlinks}
 
+-   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
 -   [Third place]({{< relref "third_place.md" >}})

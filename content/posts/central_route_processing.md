@@ -2,7 +2,7 @@
 title = "Central route processing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:13:00-07:00
-lastmod = 2022-12-17T13:37:36-08:00
+lastmod = 2023-07-25T08:50:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,12 +19,12 @@ A way of processing an argument that involves weighing the facts. Requires that 
 ## Flashcards {#flashcards}
 
 
-### Definition (Psychology, pursuasion) {#definition--psychology-pursuasion}
+### Definition (Psychology, persuasion) {#definition--psychology-persuasion}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 7   | 186.33   | 2023-06-16T02:54:36Z |
-| front    | 2.65 | 6   | 114.17   | 2023-02-17T19:29:55Z |
+| back     | 2.20 | 5   | 28.69    | 2023-08-08T08:05:46Z |
+| front    | 2.80 | 7   | 332.85   | 2024-01-17T13:46:17Z |
 
 [Central route processing]({{< relref "central_route_processing.md" >}})
 
@@ -43,8 +43,8 @@ A person's careful and thoughtful consideration of the facts or true merits of a
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 94.53    | 2023-02-19T02:33:49Z |
-| back     | 2.50 | 6   | 91.36    | 2023-03-03T00:18:44Z |
+| front    | 2.95 | 7   | 268.83   | 2023-11-19T23:30:44Z |
+| back     | 2.35 | 7   | 211.24   | 2023-09-30T19:34:19Z |
 
 [Central route processing]({{< relref "central_route_processing.md" >}})
 

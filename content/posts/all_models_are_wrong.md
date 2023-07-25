@@ -2,7 +2,7 @@
 title = "All models are wrong"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:28:00-08:00
-lastmod = 2022-12-17T13:34:34-08:00
+lastmod = 2023-07-25T08:35:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

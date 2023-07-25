@@ -2,7 +2,7 @@
 title = "This sentence has five words"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T17:05:00-08:00
-lastmod = 2022-12-17T14:17:47-08:00
+lastmod = 2023-07-25T12:35:50-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -25,8 +25,8 @@ slug = "3e310bff-729b-429b-9e10-769422c75561"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 3   | 6.00     | 2022-12-09T19:18:24Z |
-| back     | 2.50 | 0   | 0.00     | 2022-12-08T20:20:11Z |
+| front    | 2.95 | 6   | 185.74   | 2023-09-11T20:58:56Z |
+| back     | 2.35 | 7   | 200.36   | 2023-12-19T09:59:10Z |
 
 [This sentence has five words]({{< relref "this_sentence_has_five_words.md" >}})
 

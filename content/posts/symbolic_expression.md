@@ -2,7 +2,7 @@
 title = "Symbolic expression"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:13:00-07:00
-lastmod = 2022-12-17T14:13:10-08:00
+lastmod = 2023-07-25T12:32:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,9 +34,9 @@ slug = "976fb83d-ae8c-427d-b47e-f0089b4d9ce1"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 45.18    | 2022-12-31T18:08:02Z |
-| 1        | 2.65 | 5   | 41.76    | 2023-01-18T09:53:34Z |
-| 2        | 2.35 | 3   | 6.00     | 2022-12-22T18:03:53Z |
+| 0        | 2.95 | 7   | 408.82   | 2024-06-20T12:49:28Z |
+| 1        | 2.50 | 7   | 243.38   | 2023-12-30T03:52:01Z |
+| 2        | 2.50 | 7   | 185.99   | 2023-11-05T21:26:59Z |
 
 -   {{[Symbolic expression]({{< relref "symbolic_expression.md" >}})}@0}
 -   {{[Sexp]({{< relref "symbolic_expression.md" >}})}@1}
@@ -52,8 +52,8 @@ slug = "976fb83d-ae8c-427d-b47e-f0089b4d9ce1"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 5   | 35.34    | 2023-01-15T23:25:27Z |
-| front    | 2.35 | 6   | 94.68    | 2023-01-21T07:24:00Z |
+| back     | 2.35 | 7   | 181.31   | 2023-10-09T23:43:07Z |
+| front    | 2.20 | 7   | 223.47   | 2023-09-02T01:38:18Z |
 
 [Symbolic expression]({{< relref "symbolic_expression.md" >}})
 
@@ -77,4 +77,3 @@ Either an [Atom]({{< relref "atom.md" >}}) or an expression of the form `(x . y)
 ## Backlinks {#backlinks}
 
 -   [Lisp]({{< relref "lisp.md" >}})
--   [Lisp uses {{Symbolic expressions}@0} to represent {{both source code and data}@1}.]({{< relref "lisp.md#id-f6e9082b-3589-448a-9877-b9a2b31d88ba-lisp-uses-id-976fb83d-ae8c-427d-b47e-f0089b4d9ce1-symbolic-expressions-0-to-represent-both-source-code-and-data-1-dot" >}})

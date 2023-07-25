@@ -2,7 +2,7 @@
 title = "Southern strategy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-13T08:02:00-08:00
-lastmod = 2022-12-17T14:10:57-08:00
+lastmod = 2023-07-25T12:29:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,15 +21,15 @@ slug = "04893c03-a45f-4719-9404-ac09b32a5edb"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.21    | 2022-12-16T20:47:44Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-15T02:41:33Z |
+| front    | 2.80 | 7   | 291.85   | 2024-02-19T12:09:47Z |
+| back     | 2.80 | 7   | 266.65   | 2024-02-25T20:07:07Z |
 
 [Southern strategy]({{< relref "southern_strategy.md" >}})
 
 
 #### Back {#back}
 
-A political strategy which sought to increase political support among white voters in the American South by appealing to racism against black people.
+A political plan which sought to increase political support among white voters in the American South by appealing to racism against black people.
 
 
 #### Source {#source}
@@ -45,4 +45,5 @@ A political strategy which sought to increase political support among white vote
 
 ## Backlinks {#backlinks}
 
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
 -   [You're getting so abstract]({{< relref "you_re_getting_so_abstract.md" >}})

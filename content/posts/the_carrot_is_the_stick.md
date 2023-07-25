@@ -2,7 +2,7 @@
 title = "The carrot is the stick"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:34:00-07:00
-lastmod = 2022-12-17T14:15:08-08:00
+lastmod = 2023-07-25T12:33:55-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -23,7 +23,7 @@ The enticing value of an carrot depends on the one-being-enticed's lack of that 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 4   | 13.03    | 2022-12-23T18:58:30Z |
+| 0        | 1.90 | 8   | 180.54   | 2023-12-23T06:34:06Z |
 
 
 #### Source {#source}
@@ -35,8 +35,8 @@ The enticing value of an carrot depends on the one-being-enticed's lack of that 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-16T17:19:44Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-14T18:24:48Z |
+| front    | 2.35 | 7   | 178.80   | 2023-10-29T10:49:23Z |
+| back     | 2.50 | 7   | 261.91   | 2024-03-07T18:34:33Z |
 
 [The carrot is the stick]({{< relref "the_carrot_is_the_stick.md" >}})
 

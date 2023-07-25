@@ -2,7 +2,7 @@
 title = "Eat food. Not too much. Mostly plants."
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T13:54:00-08:00
-lastmod = 2022-12-17T13:42:05-08:00
+lastmod = 2023-07-25T10:29:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "f029d4ec-6c14-4dbc-9782-3aa92783ae91"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-21T20:46:53Z |
+| 0        | 2.50 | 7   | 222.96   | 2024-01-01T19:31:38Z |
 
 
 #### Source {#source}
@@ -37,5 +37,5 @@ slug = "f029d4ec-6c14-4dbc-9782-3aa92783ae91"
 
 ## Backlinks {#backlinks}
 
+-   [Boring fundamentals]({{< relref "boring_fundamentals.md" >}})
 -   [Brandon Smith | Write Code. Not Too Much. Mostly Functions.]({{< relref "brandon_smith_write_code_not_too_much_mostly_functions.md" >}})
--   [Example(s)]({{< relref "boring_fundamentals.md#example--s" >}})

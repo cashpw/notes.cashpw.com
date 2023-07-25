@@ -2,7 +2,7 @@
 title = "Max binary heap implementation in java"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T12:59:00-07:00
-lastmod = 2022-12-17T13:55:05-08:00
+lastmod = 2023-07-25T11:07:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -160,4 +160,4 @@ public class Main {
 
 ## Backlinks {#backlinks}
 
--   [Implementation]({{< relref "binary_heap.md#implementation" >}})
+-   [Binary heap]({{< relref "binary_heap.md" >}})

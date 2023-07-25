@@ -2,7 +2,7 @@
 title = "Blub studies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T05:09:00-08:00
-lastmod = 2022-12-17T13:36:40-08:00
+lastmod = 2023-07-25T08:44:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,8 @@ Related:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 45.33    | 2023-01-22T23:50:01Z |
-| back     | 2.35 | 5   | 33.26    | 2023-01-14T02:04:14Z |
+| front    | 2.50 | 7   | 249.71   | 2024-01-13T10:13:01Z |
+| back     | 2.20 | 7   | 156.62   | 2023-08-30T04:26:03Z |
 
 [Blub studies]({{< relref "blub_studies.md" >}})
 
@@ -46,8 +46,8 @@ The study of the nitty-gritty in boring, everyday systems -- the kind that peopl
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 15.31    | 2022-12-25T06:03:03Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-04T19:54:37Z |
+| front    | 2.80 | 7   | 320.82   | 2024-04-25T11:17:31Z |
+| back     | 2.80 | 6   | 146.82   | 2023-08-02T14:19:47Z |
 
 [Blub studies]({{< relref "blub_studies.md" >}})
 
@@ -71,5 +71,5 @@ The study of the nitty-gritty in boring, everyday systems -- the kind that peopl
 
 ## Backlinks {#backlinks}
 
--   [Ben Kuhn | In Defense of Blub Studies]({{< relref "kuhnDefenseBlubStudies.md" >}})
 -   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
+-   [Ben Kuhn | In Defense of Blub Studies]({{< relref "kuhnDefenseBlubStudies.md" >}})

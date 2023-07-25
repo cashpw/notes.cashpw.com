@@ -2,7 +2,7 @@
 title = "Syncretism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T15:32:00-08:00
-lastmod = 2022-12-17T14:13:26-08:00
+lastmod = 2023-07-25T12:32:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,19 +17,15 @@ slug = "089751fe-6770-4c69-8cb3-699c072a65dd"
 ## Flashcards {#flashcards}
 
 
-### Definition {#definition}
+### [Syncretism]({{< relref "syncretism.md" >}}) {#syncretism--syncretism-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2022-12-16T20:18:15Z |
-| back     | 2.5  | -1  | 0        | 2022-11-18T23:34:12Z |
+| front    | 1.45 | 7   | 33.71    | 2023-08-14T06:02:17Z |
+| back     | 2.35 | 7   | 178.17   | 2023-11-30T04:09:18Z |
 
-[Syncretism]({{< relref "syncretism.md" >}})
-
-
-#### Back {#back}
-
-The practice of combining different beliefs and schools of thought; the assimilation of originally discrete traditions with particular regard to religion and culture.
+-   The practice of combining different beliefs and schools of thought
+-   The assimilation of originally discrete traditions with particular regard to religion and culture
 
 
 #### Source {#source}

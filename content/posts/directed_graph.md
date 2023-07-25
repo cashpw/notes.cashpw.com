@@ -2,7 +2,7 @@
 title = "Directed graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:45:00-07:00
-lastmod = 2022-12-17T13:41:13-08:00
+lastmod = 2023-07-25T10:28:34-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ A [Graph]({{< relref "graph.md" >}}) in which the [Edges]({{< relref "edge.md" >
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 81.07    | 2023-01-14T16:30:10Z |
-| front    | 2.65 | 6   | 78.94    | 2023-01-21T15:03:22Z |
+| back     | 2.50 | 7   | 214.43   | 2023-08-17T04:57:46Z |
+| front    | 2.50 | 7   | 213.92   | 2023-08-24T14:56:06Z |
 
 [Directed graph]({{< relref "directed_graph.md" >}})
 
@@ -44,8 +44,8 @@ A [Graph]({{< relref "graph.md" >}}) in which the [Edges]({{< relref "edge.md" >
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 65.73    | 2022-12-26T08:10:11Z |
-| back     | 2.80 | 6   | 105.06   | 2023-02-10T17:05:01Z |
+| front    | 2.95 | 8   | 586.28   | 2025-02-08T07:53:06Z |
+| back     | 2.95 | 7   | 313.25   | 2023-12-25T10:43:01Z |
 
 [Directed graph]({{< relref "directed_graph.md" >}})
 
@@ -68,6 +68,11 @@ A [Graph]({{< relref "graph.md" >}}) in which the [Edges]({{< relref "edge.md" >
 
 ## Backlinks {#backlinks}
 
--   [Graph theory]({{< relref "graph_theory.md" >}})
--   [Graph]({{< relref "graph.md" >}})
 -   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
+-   [Graph]({{< relref "graph.md" >}})
+-   [Graph theory]({{< relref "graph_theory.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})
+-   [Closure (Graph)]({{< relref "closure_graph.md" >}})
+-   [Weakly connected graph]({{< relref "connectivity_graph_theory.md#weakly-connected-graph" >}})
+-   [Unilaterally connected graph]({{< relref "connectivity_graph_theory.md#unilaterally-connected-graph" >}})
+-   [Strongly connected graph]({{< relref "connectivity_graph_theory.md#strongly-connected-graph" >}})

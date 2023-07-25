@@ -2,8 +2,9 @@
 title = "Atom"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:31:00-07:00
-lastmod = 2022-12-17T13:35:22-08:00
-tags = ["concept"]
+lastmod = 2023-07-25T08:39:25-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 slug = "b37a4585-be03-43ea-a55c-6a5f84e59c77"
 +++
@@ -30,8 +31,8 @@ An atom, in [Lisp]({{< relref "lisp.md" >}}), is an indivisible thing. Examples 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 116.67   | 2023-02-06T06:39:16Z |
-| front    | 2.35 | 7   | 142.75   | 2023-04-17T08:40:38Z |
+| back     | 2.80 | 7   | 350.15   | 2024-01-23T03:44:27Z |
+| front    | 2.35 | 8   | 317.08   | 2024-03-21T18:43:35Z |
 
 [Atom]({{< relref "atom.md" >}})
 
@@ -55,4 +56,3 @@ Everything that isn't a list; an indivisible thing. Examples include numbers, st
 ## Backlinks {#backlinks}
 
 -   [Symbolic expression]({{< relref "symbolic_expression.md" >}})
--   [Definition (Lisp)]({{< relref "symbolic_expression.md#definition--id-f6e9082b-3589-448a-9877-b9a2b31d88ba-lisp" >}})

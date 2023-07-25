@@ -2,7 +2,7 @@
 title = "Cultural hegemony"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-29T10:15:00-08:00
-lastmod = 2022-12-17T13:39:18-08:00
+lastmod = 2023-07-25T10:27:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "7d74c901-41aa-49f6-b8d4-49ef4286479c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-18T18:06:08Z |
-| back     | 2.5  | -1  | 0        | 2022-11-29T18:17:22Z |
+| front    | 2.20 | 8   | 203.85   | 2024-01-16T12:52:02Z |
+| back     | 2.80 | 6   | 141.81   | 2023-08-07T09:13:08Z |
 
 [Cultural hegemony]({{< relref "cultural_hegemony.md" >}})
 

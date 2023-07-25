@@ -2,7 +2,7 @@
 title = "Network effect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:43:00-07:00
-lastmod = 2022-12-17T13:57:59-08:00
+lastmod = 2023-07-25T11:13:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "877f3321-faac-463a-8619-787467251655"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-21T20:08:13Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-17T17:37:12Z |
+| front    | 2.65 | 7   | 347.71   | 2024-06-09T08:15:45Z |
+| back     | 2.50 | 2   | 2.00     | 2023-07-26T03:59:20Z |
 
 [Network effect]({{< relref "network_effect.md" >}})
 
@@ -41,8 +41,8 @@ Situation in which the value or utility which a user derives from a good or serv
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-16T18:12:24Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-17T20:44:13Z |
+| front    | 2.80 | 7   | 289.01   | 2024-03-10T14:51:29Z |
+| back     | 2.65 | 7   | 297.37   | 2024-04-28T13:01:26Z |
 
 [Network effect]({{< relref "network_effect.md" >}})
 

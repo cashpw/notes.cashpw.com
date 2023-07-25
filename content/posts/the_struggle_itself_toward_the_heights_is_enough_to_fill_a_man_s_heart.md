@@ -2,7 +2,7 @@
 title = "The struggle itself toward the heights is enough to fill a man's heart"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T12:34:00-07:00
-lastmod = 2022-12-17T14:16:44-08:00
+lastmod = 2023-07-25T12:35:00-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -17,11 +17,11 @@ slug = "fa7e7f3e-1fb6-4769-81cd-c2a200b2becf"
 ## Flashcards {#flashcards}
 
 
-### The struggle itself {{toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.}{full}@0} {#the-struggle-itself-toward-the-heights-is-enough-to-fill-a-man-s-heart-dot-one-must-imagine-sisyphus-happy-dot-full-0}
+### {{The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.}{Full quote about Sisyphus and struggle}@0} {#the-struggle-itself-toward-the-heights-is-enough-to-fill-a-man-s-heart-dot-one-must-imagine-sisyphus-happy-dot-full-quote-about-sisyphus-and-struggle-0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 4   | 12.99    | 2022-12-26T02:09:28Z |
+| 0        | 1.30 | 11  | 48.79    | 2023-08-31T19:46:03Z |
 
 
 #### Source {#source}

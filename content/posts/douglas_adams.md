@@ -2,7 +2,7 @@
 title = "Douglas Adams"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T15:11:00-08:00
-lastmod = 2022-12-17T13:41:51-08:00
+lastmod = 2023-07-25T10:28:52-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

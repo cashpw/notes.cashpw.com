@@ -2,7 +2,7 @@
 title = "Eliezer Yudkowsky | Something to Protect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T17:19:00-08:00
-lastmod = 2022-12-17T13:42:33-08:00
+lastmod = 2023-07-25T10:29:20-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -50,5 +50,5 @@ slug = "ad3762f0-6d77-4289-baa7-4c3192b9c4b1"
 
 ## Backlinks {#backlinks}
 
--   [Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)]({{< relref "yudkowskyTsuyokuNaritaiWant2007.md" >}})
 -   [Power comes from having something to protect]({{< relref "power_comes_from_having_something_to_protect.md" >}})
+-   [Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)]({{< relref "yudkowskyTsuyokuNaritaiWant2007.md" >}})

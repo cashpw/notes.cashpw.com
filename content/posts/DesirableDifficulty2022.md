@@ -2,7 +2,7 @@
 title = "Desirable difficulty"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:03:00-08:00
-lastmod = 2022-12-17T13:33:46-08:00
+lastmod = 2023-07-25T08:30:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,8 +34,8 @@ Examples include:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.95 | 7   | 95.65    | 2023-02-17T06:50:57Z |
-| front    | 2.35 | 5   | 33.71    | 2023-01-16T10:31:37Z |
+| back     | 3.10 | 8   | 276.83   | 2023-11-21T11:02:35Z |
+| front    | 2.20 | 7   | 180.47   | 2023-10-03T03:48:10Z |
 
 [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
 
@@ -55,13 +55,15 @@ The requisite effort improves long-term performance.
 (<a href="#citeproc_bib_item_1">“Desirable Difficulty” 2022</a>)
 
 
-### For [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}}): the processing at {{encoding}@0} time should be the same as the processing at {{retrieval}@1} and {{during practice}@2}. {#for-desirable-difficulty--desirabledifficulty2022-dot-md--the-processing-at-encoding-0-time-should-be-the-same-as-the-processing-at-retrieval-1-and-during-practice-2-dot}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 110.29   | 2023-02-15T22:39:35Z |
-| 1        | 2.35 | 7   | 55.38    | 2022-12-29T01:48:34Z |
-| 2        | 2.65 | 6   | 76.91    | 2023-01-30T14:06:50Z |
+| 0        | 2.50 | 7   | 301.43   | 2023-12-16T01:17:38Z |
+| 1        | 2.20 | 9   | 263.52   | 2024-01-22T10:19:32Z |
+| 2        | 2.50 | 7   | 202.38   | 2023-08-21T01:23:58Z |
+
+For [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}}): the processing at {{encoding}@0} time should be the same as the processing at {{retrieval}@1} and {{during practice}@2}.
 
 
 #### Extra {#extra}
@@ -72,11 +74,13 @@ The requisite effort improves long-term performance.
 (<a href="#citeproc_bib_item_1">“Desirable Difficulty” 2022</a>)
 
 
-### For [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}}): The performer must be able to {{accomplish}@0} the task {#for-desirable-difficulty--desirabledifficulty2022-dot-md--the-performer-must-be-able-to-accomplish-0-the-task}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 114.22   | 2023-03-25T21:12:09Z |
+| 0        | 2.95 | 7   | 339.69   | 2024-02-29T05:59:57Z |
+
+For [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}}): The performer must be able to {{accomplish}@0} the task
 
 
 #### Extra {#extra}
@@ -93,8 +97,8 @@ Too difficult a task may dissuade the learner and prevent full processing.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 33.42    | 2023-01-18T06:30:26Z |
-| back     | 2.20 | 4   | 14.40    | 2022-12-20T10:00:23Z |
+| front    | 2.50 | 7   | 220.08   | 2023-12-05T00:51:41Z |
+| back     | 2.50 | 7   | 199.72   | 2023-10-30T06:40:21Z |
 
 Guidelines for [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
 
@@ -102,7 +106,7 @@ Guidelines for [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}
 #### Back {#back}
 
 -   The process at encoding should be the same process at both retrieval and during practice.
--   The task must be able to be accomplished -- too difficult a task may dissuade the learner and prevent full learning.
+-   The task must be able to be accomplished -- too hard a task may dissuade the learner and prevent full learning.
 
 
 #### Source {#source}
@@ -118,6 +122,8 @@ Guidelines for [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}
 
 ## Backlinks {#backlinks}
 
--   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
+-   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "DesirableDifficulty2022.md" >}})
+-   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
+-   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

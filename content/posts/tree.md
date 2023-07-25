@@ -2,7 +2,7 @@
 title = "Tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:47:00-07:00
-lastmod = 2022-12-17T14:19:33-08:00
+lastmod = 2023-07-25T12:38:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,8 +28,8 @@ slug = "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 6   | 107.97   | 2023-02-19T15:43:58Z |
-| front    | 2.05 | 4   | 11.89    | 2022-12-07T12:29:33Z |
+| back     | 2.65 | 6   | 97.70    | 2023-08-09T14:26:18Z |
+| front    | 1.60 | 8   | 117.66   | 2023-09-13T07:10:48Z |
 
 [Tree]({{< relref "tree.md" >}})
 
@@ -54,15 +54,14 @@ slug = "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
 
 ## Backlinks {#backlinks}
 
--   [Definition]({{< relref "level_order_tree_traversal.md#definition" >}})
--   [AKA (Graph Theory)]({{< relref "forest.md#aka--id-5bc61709-6612-4287-921f-3e2509bd2261-graph-theory" >}})
+-   [Forest]({{< relref "forest.md" >}})
 -   [Heap]({{< relref "heap.md" >}})
--   [Definition (Computer science)]({{< relref "heap.md#definition--computer-science" >}})
+-   [Spanning tree]({{< relref "spanning_tree.md" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Binary tree]({{< relref "binary_tree.md" >}})
--   [Definition (Computer science)]({{< relref "binary_tree.md#definition--computer-science" >}})
 -   [Trie]({{< relref "trie.md" >}})
--   [Red-black tree]({{< relref "red_black_tree.md" >}})
--   [Depth-first search]({{< relref "depth_first_search.md" >}})
--   [Describe]({{< relref "depth_first_search.md" >}})
 -   [B-tree]({{< relref "b_tree.md" >}})
+-   [Depth-first search]({{< relref "depth_first_search.md" >}})
+-   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})
+-   [Branch and bound]({{< relref "branch_and_bound.md" >}})
+-   [Red-black tree]({{< relref "red_black_tree.md" >}})

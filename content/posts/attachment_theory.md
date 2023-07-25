@@ -2,7 +2,7 @@
 title = "Attachment theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:34:00-07:00
-lastmod = 2022-12-17T13:35:24-08:00
+lastmod = 2023-07-25T08:39:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,7 +25,7 @@ slug = "5f944538-ef8c-464f-b2da-c0f973558eca"
 
 ## Backlinks {#backlinks}
 
--   [Secure attachment]({{< relref "secure_attachment.md" >}})
 -   [Disorganized attachment]({{< relref "disorganized_attachment.md" >}})
--   [Anxious-ambivalent attachment]({{< relref "anxious_ambivalent_attachment.md" >}})
 -   [Avoidant attachment]({{< relref "avoidant_attachment.md" >}})
+-   [Anxious-ambivalent attachment]({{< relref "anxious_ambivalent_attachment.md" >}})
+-   [Secure attachment]({{< relref "secure_attachment.md" >}})

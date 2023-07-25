@@ -2,7 +2,7 @@
 title = "Mentors face inward"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:10:00-08:00
-lastmod = 2022-12-17T13:55:41-08:00
+lastmod = 2023-07-25T11:08:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "40d6bbef-ec19-45e2-9fe2-bf6de3c8aded"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 13.45    | 2022-12-30T04:44:03Z |
+| front    | 2.20 | 7   | 141.17   | 2023-08-21T21:03:07Z |
 
 [Mentors]({{< relref "mentors.md" >}}) and [Sponsors]({{< relref "sponsor.md" >}}) (direction)
 
@@ -39,8 +39,8 @@ slug = "40d6bbef-ec19-45e2-9fe2-bf6de3c8aded"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.34    | 2022-12-26T03:45:46Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-21T20:36:40Z |
+| front    | 2.20 | 7   | 154.18   | 2023-09-18T20:06:53Z |
+| back     | 2.20 | 7   | 146.14   | 2023-09-02T19:03:48Z |
 
 [Mentors face inward]({{< relref "mentors_face_inward.md" >}})
 
@@ -61,5 +61,5 @@ Mentors seek to improve their mentee directly.
 
 ## Backlinks {#backlinks}
 
--   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})
 -   [Sponsors face outward]({{< relref "sponsors_face_outward.md" >}})
+-   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})

@@ -2,7 +2,7 @@
 title = "Continuous partial attention"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T14:46:00-08:00
-lastmod = 2022-12-17T13:38:45-08:00
+lastmod = 2023-07-25T08:56:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "ae7e202d-cab1-4ccf-8041-e76d39f7f698"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-13T19:16:12Z |
+| front    | 2.50 | 7   | 229.81   | 2024-01-07T09:17:17Z |
 
 Multi-tasking and [Continuous partial attention]({{< relref "continuous_partial_attention.md" >}})
 

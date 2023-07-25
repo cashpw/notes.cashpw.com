@@ -1,7 +1,7 @@
 +++
 title = "Notes on Antonio Gramsci, The Old World Is Dying"
 author = ["Cash Prokop-Weaver"]
-lastmod = 2022-12-17T13:45:42-08:00
+lastmod = 2023-03-18T10:42:02-07:00
 tags = ["has-todo", "has-todo"]
 categories = ["has-todo"]
 draft = false

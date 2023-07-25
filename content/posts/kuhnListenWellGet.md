@@ -2,7 +2,7 @@
 title = "Ben Kuhn | To Listen Well, Get Curious"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:22:00-08:00
-lastmod = 2022-12-17T13:51:50-08:00
+lastmod = 2023-07-25T10:57:07-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -19,7 +19,7 @@ slug = "617eec3a-89c3-4b9f-9074-47d4bf4e69fd"
 
 ## Thoughts {#thoughts}
 
-Listening well, and asking curious questions, ensures you [understand the problem]({{< relref "stages_of_problem_solving.md#understand-the-problem" >}}).
+Listening well, and asking curious questions, ensures you [understand the problem]({{< relref "stages_of_problem_solving.md" >}}).
 
 I find that my misunderstandings are the result of premature and ill-founded assumptions on my part. There is a balancing act to maintain between [reasoning from analogy]({{< relref "reasoning_from_analogy.md" >}}) and [reasoning from first principles]({{< relref "reasoning_from_first_principles.md" >}}).
 
@@ -44,7 +44,7 @@ I find that my misunderstandings are the result of premature and ill-founded ass
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 16.24    | 2022-12-23T21:41:32Z |
+| 0        | 2.65 | 5   | 43.93    | 2023-09-06T02:16:59Z |
 
 
 #### Source {#source}
@@ -56,3 +56,8 @@ I find that my misunderstandings are the result of premature and ill-founded ass
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. n.d. “To Listen Well, Get Curious.” <i>Benkuhn.Net</i>. Accessed March 12, 2022. <a href="https://www.benkuhn.net/listen/">https://www.benkuhn.net/listen/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Favorites]({{< relref "favorites.md" >}})

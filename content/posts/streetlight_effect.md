@@ -2,7 +2,7 @@
 title = "Streetlight effect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T16:43:00-08:00
-lastmod = 2022-12-17T14:12:26-08:00
+lastmod = 2023-07-25T12:31:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "d553899d-ac5d-4ecf-bf57-9eabb3407b6e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.90    | 2022-12-27T23:30:41Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-16T20:38:53Z |
+| front    | 2.65 | 7   | 231.27   | 2023-12-19T05:32:11Z |
+| back     | 2.95 | 7   | 338.22   | 2024-05-23T20:33:26Z |
 
 [Streetlight effect]({{< relref "streetlight_effect.md" >}})
 
@@ -43,7 +43,7 @@ Observational bias wherein people tend to only search for something where it is 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T02:23:30Z |
+| front    | 2.80 | 7   | 261.35   | 2024-02-09T04:51:21Z |
 
 [Where the light is]({{< relref "streetlight_effect.md" >}}) (Joke)
 

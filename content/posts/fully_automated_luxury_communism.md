@@ -2,7 +2,7 @@
 title = "Fully automated luxury communism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:32:00-07:00
-lastmod = 2022-12-17T13:44:43-08:00
+lastmod = 2023-07-25T10:41:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ A specific [post-scarcity society]({{< relref "post_scarcity_society.md" >}}) ac
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 109.11   | 2023-03-11T03:17:33Z |
-| back     | 2.65 | 5   | 42.65    | 2022-12-20T06:33:15Z |
+| front    | 2.95 | 7   | 303.02   | 2024-01-08T05:42:51Z |
+| back     | 2.80 | 7   | 283.34   | 2024-01-21T21:38:38Z |
 
 [Fully automated luxury communism]({{< relref "fully_automated_luxury_communism.md" >}})
 
@@ -44,6 +44,6 @@ A vision of a [Post-scarcity Society]({{< relref "post_scarcity_society.md" >}})
 ## Backlinks {#backlinks}
 
 -   [Upstream | Fully Automated Luxury Communism]({{< relref "upstreamFullyAutomatedLuxury2022.md" >}})
--   [The acquisition of wealth is no longer the driving force in our lives]({{< relref "the_acquisition_of_wealth_is_no_longer_the_driving_force_in_our_lives.md" >}})
--   [The challenge is to improve yourself]({{< relref "the_challenge_is_to_improve_yourself.md" >}})
 -   [Aaron Bastani | Fully Automated Luxury Communism: A Manifesto]({{< relref "bastaniFullyAutomatedLuxury2019.md" >}})
+-   [The challenge is to improve yourself]({{< relref "the_challenge_is_to_improve_yourself.md" >}})
+-   [The acquisition of wealth is no longer the driving force in our lives]({{< relref "the_acquisition_of_wealth_is_no_longer_the_driving_force_in_our_lives.md" >}})

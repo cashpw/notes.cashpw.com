@@ -2,7 +2,7 @@
 title = "Clay shrinkage"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T09:07:00-07:00
-lastmod = 2022-12-17T13:38:16-08:00
+lastmod = 2023-07-25T08:53:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,8 +28,8 @@ slug = "ba4b74e8-2d33-43ec-bd03-b9ff320ed65a"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 5   | 39.91    | 2023-01-23T15:39:01Z |
-| front    | 2.65 | 6   | 92.49    | 2023-02-09T03:47:35Z |
+| back     | 2.20 | 7   | 198.15   | 2023-11-17T19:24:55Z |
+| front    | 2.80 | 7   | 266.65   | 2023-11-05T07:12:04Z |
 
 [Clay shrinkage]({{< relref "clay_shrinkage.md" >}})
 
@@ -48,8 +48,8 @@ The volume change in a clay body between [Greenware]({{< relref "greenware.md" >
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 6   | 96.10    | 2023-02-07T18:58:42Z |
-| front    | 2.80 | 6   | 100.31   | 2023-03-16T01:20:54Z |
+| back     | 2.95 | 7   | 259.44   | 2023-10-26T05:12:39Z |
+| front    | 2.80 | 7   | 259.17   | 2023-12-01T18:01:59Z |
 
 [Clay weight loss](#clay-weight-loss)
 
@@ -68,7 +68,7 @@ The weight loss between [Greenware]({{< relref "greenware.md" >}}) and [Glazewar
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 50.18    | 2022-12-25T04:24:30Z |
+| 0        | 2.05 | 6   | 62.42    | 2023-09-08T10:22:37Z |
 
 
 #### Extra {#extra}
@@ -81,8 +81,8 @@ The weight loss between [Greenware]({{< relref "greenware.md" >}}) and [Glazewar
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 80.45    | 2023-01-27T01:48:39Z |
-| 1        | 2.50 | 6   | 87.21    | 2023-02-03T21:23:26Z |
+| 0        | 2.50 | 7   | 214.27   | 2024-02-09T22:09:40Z |
+| 1        | 2.65 | 7   | 217.76   | 2023-09-12T13:05:49Z |
 
 
 #### Extra {#extra}
@@ -95,8 +95,8 @@ The weight loss between [Greenware]({{< relref "greenware.md" >}}) and [Glazewar
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.50 | 6   | 99.49    | 2023-02-09T03:43:59Z |
-| 0        | 2.50 | 6   | 103.08   | 2023-03-07T15:30:27Z |
+| 1        | 2.65 | 7   | 239.74   | 2023-10-08T17:32:00Z |
+| 0        | 2.50 | 7   | 269.50   | 2023-12-04T15:03:43Z |
 
 
 #### Extra {#extra}

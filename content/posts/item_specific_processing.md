@@ -2,7 +2,7 @@
 title = "Item-specific processing"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:40:00-08:00
-lastmod = 2022-12-17T13:49:49-08:00
+lastmod = 2023-07-25T10:50:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ A technique of studying/learning where one emphasizes features of the pieces of 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-15T18:23:50Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T20:56:49Z |
+| front    | 2.50 | 7   | 306.26   | 2024-05-06T01:36:03Z |
+| back     | 2.20 | 7   | 147.67   | 2023-10-05T08:05:23Z |
 
 [Item-specific processing]({{< relref "item_specific_processing.md" >}})
 
@@ -49,8 +49,8 @@ Examples:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2022-12-06T17:47:06Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T20:57:17Z |
+| front    | 2.50 | 7   | 192.57   | 2023-11-17T06:59:23Z |
+| back     | 2.95 | 6   | 149.16   | 2023-08-07T09:12:23Z |
 
 [Item-specific processing]({{< relref "item_specific_processing.md" >}})
 
@@ -71,7 +71,7 @@ Examples:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-16T18:04:23Z |
+| front    | 2.35 | 7   | 191.33   | 2023-11-09T07:32:57Z |
 
 [Item-specific processing]({{< relref "item_specific_processing.md" >}}) and [Relational processing]({{< relref "relational_processing.md" >}})
 

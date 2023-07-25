@@ -2,7 +2,7 @@
 title = "Relational processing"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:44:00-08:00
-lastmod = 2022-12-17T14:07:13-08:00
+lastmod = 2023-07-25T12:26:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,15 +23,15 @@ A technique of studying/learning where one emphasizes the relationships between 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.90    | 2022-12-29T00:24:46Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-16T20:44:09Z |
+| front    | 2.65 | 7   | 348.36   | 2024-06-09T00:51:20Z |
+| back     | 2.95 | 7   | 444.75   | 2024-10-09T21:43:18Z |
 
 [Relational processing]({{< relref "relational_processing.md" >}})
 
 
 #### Back {#back}
 
-A studying/learning technique in which one emphasizes the relationships between pieces of information.
+A studying/learning technique in which one emphasizes the connections between pieces of information.
 
 
 #### Source {#source}
@@ -43,8 +43,8 @@ A studying/learning technique in which one emphasizes the relationships between 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-14T20:07:47Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-15T17:56:37Z |
+| front    | 2.35 | 7   | 218.84   | 2023-12-08T11:44:22Z |
+| back     | 2.35 | 5   | 36.46    | 2023-08-24T00:47:43Z |
 
 [Relational processing]({{< relref "relational_processing.md" >}})
 
@@ -60,7 +60,9 @@ A studying/learning technique in which one emphasizes the relationships between 
 (<a href="#citeproc_bib_item_1">Marsh and Butler 2013</a>)
 
 
-### [Compare and contrast]({{< relref "item_specific_processing.md#compare-and-contrast" >}}) {#compare-and-contrast--item-specific-processing-dot-md}
+### Compare and contrast {#compare-and-contrast}
+
+See [Item-specific processing]({{< relref "item_specific_processing.md" >}})
 
 ## References
 
@@ -72,5 +74,5 @@ A studying/learning technique in which one emphasizes the relationships between 
 ## Backlinks {#backlinks}
 
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
--   [Compare and contrast]({{< relref "item_specific_processing.md#compare-and-contrast" >}})
+-   [Item-specific processing]({{< relref "item_specific_processing.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

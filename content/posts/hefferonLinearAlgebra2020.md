@@ -2,7 +2,7 @@
 title = "Jim Hefferon | Linear Algebra"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-24T08:51:00-07:00
-lastmod = 2022-12-17T13:47:12-08:00
+lastmod = 2023-07-25T10:44:59-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -19,7 +19,7 @@ slug = "f62d92d7-7151-46f1-a3e8-bb06cc72f02b"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 5   | 43.43    | 2023-01-28T06:58:47Z |
+| front    | 2.95 | 7   | 420.58   | 2024-08-11T17:56:20Z |
 
 [Linear Algebra]({{< relref "hefferonLinearAlgebra2020.md" >}}) (book)
 
@@ -37,4 +37,4 @@ slug = "f62d92d7-7151-46f1-a3e8-bb06cc72f02b"
 
 ## Backlinks {#backlinks}
 
--   [Author]({{< relref "jim_hefferon.md#author" >}})
+-   [Jim Hefferon]({{< relref "jim_hefferon.md" >}})

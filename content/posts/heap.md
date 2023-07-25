@@ -2,7 +2,7 @@
 title = "Heap"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:46:00-07:00
-lastmod = 2022-12-17T13:46:54-08:00
+lastmod = 2023-07-25T10:44:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,8 +32,8 @@ slug = "70cbebc9-8936-4d52-885a-76d747c6577f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.90 | 4   | 10.82    | 2022-12-22T15:02:18Z |
-| front    | 2.65 | 6   | 108.48   | 2023-02-25T03:32:17Z |
+| back     | 1.75 | 8   | 114.25   | 2023-08-21T20:31:58Z |
+| front    | 2.50 | 7   | 276.64   | 2023-11-28T19:18:59Z |
 
 [Heap]({{< relref "heap.md" >}})
 
@@ -56,10 +56,6 @@ A specialized [Tree]({{< relref "tree.md" >}})-based [Data structure]({{< relref
 
 ## Backlinks {#backlinks}
 
--   [Priority queue]({{< relref "priority_queue.md" >}})
--   [A {{Priority queue}{Abstract data type}@0} is often implemented with a {{Heap}@1}]({{< relref "priority_queue.md#a-id-6f787120-13bb-405a-bfca-060df6d80b14-priority-queue-id-2eae74ba-4003-45cf-8425-7291aaa7a537-abstract-data-type-0-is-often-implemented-with-a-id-70cbebc9-8936-4d52-885a-76d747c6577f-heap-1" >}})
--   [Heapsort]({{< relref "heapsort.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
--   [Definition (Computer science)]({{< relref "binary_heap.md#definition--computer-science" >}})
--   [Describe]({{< relref "binary_heap.md#describe" >}})
--   [Describe]({{< relref "binary_heap.md#describe" >}})
+-   [Priority queue]({{< relref "priority_queue.md" >}})
+-   [Heapsort]({{< relref "heapsort.md" >}})

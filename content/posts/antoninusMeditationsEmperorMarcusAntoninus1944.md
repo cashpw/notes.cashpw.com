@@ -2,7 +2,7 @@
 title = "Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T06:44:00-08:00
-lastmod = 2022-12-17T13:35:05-08:00
+lastmod = 2023-07-25T08:38:06-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -132,4 +132,4 @@ I've come to appreciate the use of phrases, mantras, hymns, etc --- [focusing te
 
 ## Backlinks {#backlinks}
 
--   [Example(s) (Cedric Chin)]({{< relref "tree_book.md#example--s----id-4c9b1bbf-2a4b-43fa-a266-b559c018d80e-cedric-chin" >}})
+-   [Tree book]({{< relref "tree_book.md" >}})

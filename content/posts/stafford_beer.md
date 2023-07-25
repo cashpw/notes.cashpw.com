@@ -2,7 +2,7 @@
 title = "Stafford Beer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T09:39:00-08:00
-lastmod = 2022-12-17T14:11:48-08:00
+lastmod = 2023-07-25T12:30:54-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

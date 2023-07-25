@@ -2,7 +2,7 @@
 title = "The first lesson"
 author = ["Cash Prokop-Weaver"]
 date = 2021-05-30T12:44:00-07:00
-lastmod = 2022-12-17T14:15:23-08:00
+lastmod = 2023-07-25T12:34:11-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ slug = "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 0   | 0.00     | 2022-12-14T17:52:36Z |
+| 0        | 2.35 | 7   | 160.17   | 2023-10-24T16:36:32Z |
 
 
 #### Source {#source}
@@ -33,7 +33,26 @@ slug = "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2022-12-10T15:51:11Z |
+| 0        | 2.20 | 7   | 134.00   | 2023-08-20T15:01:28Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Herbert 1999</a>)
+
+
+### Normal {#normal}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.50 | 6   | 93.42    | 2023-07-31T09:01:32Z |
+
+(full) [The first lesson]({{< relref "the_first_lesson.md" >}})
+
+
+#### Back {#back}
+
+[Muad'Dib]({{< relref "paul_atreides.md" >}}) learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn.
 
 
 #### Source {#source}
@@ -49,5 +68,6 @@ slug = "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
 
 ## Backlinks {#backlinks}
 
--   [Style Guide]({{< relref "style_guide.md" >}})
 -   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
+-   [Favorites]({{< relref "favorites.md" >}})
+-   [Style Guide]({{< relref "style_guide.md" >}})

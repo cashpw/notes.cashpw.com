@@ -2,7 +2,7 @@
 title = "If you're explaining, you're losing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-11T08:23:00-08:00
-lastmod = 2022-12-17T13:48:28-08:00
+lastmod = 2023-07-25T10:47:00-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -23,7 +23,27 @@ An example of [Never play defense]({{< relref "never_play_defense.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 15.12    | 2022-12-16T20:28:18Z |
+| 0        | 2.50 | 6   | 109.61   | 2023-08-18T09:23:57Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">Reagan n.d.</a>)
+
+
+### Describe {#describe}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| front    | 2.20 | 6   | 67.19    | 2023-09-08T05:46:06Z |
+| back     | 2.65 | 7   | 265.01   | 2024-03-01T16:14:19Z |
+
+[If you're explaining, you're losing]({{< relref "if_you_re_explaining_you_re_losing.md" >}})
+
+
+#### Back {#back}
+
+A quote which embodies the [Never play defense]({{< relref "never_play_defense.md" >}}) attitude.
 
 
 #### Source {#source}
@@ -39,4 +59,4 @@ An example of [Never play defense]({{< relref "never_play_defense.md" >}}).
 
 ## Backlinks {#backlinks}
 
--   [Example(s)]({{< relref "never_play_defense.md#example--s" >}})
+-   [Never play defense]({{< relref "never_play_defense.md" >}})

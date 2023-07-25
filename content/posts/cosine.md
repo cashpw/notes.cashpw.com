@@ -2,7 +2,7 @@
 title = "Cosine"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T10:43:00-07:00
-lastmod = 2022-12-17T13:39:07-08:00
+lastmod = 2023-07-25T08:58:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,8 +30,8 @@ Also see [Sine]({{< relref "sine.md" >}}) and [Tangent (Trigonometry)]({{< relre
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 108.44   | 2023-01-08T02:23:33Z |
-| back     | 2.65 | 7   | 104.57   | 2023-01-06T05:27:46Z |
+| front    | 2.50 | 8   | 288.39   | 2023-10-24T01:04:05Z |
+| back     | 2.50 | 8   | 251.91   | 2023-09-15T12:42:25Z |
 
 Graph \\(f(x) = \href{/posts/cosine}{\cos}(x)\\)
 
@@ -50,8 +50,8 @@ Graph \\(f(x) = \href{/posts/cosine}{\cos}(x)\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 103.63   | 2023-03-15T06:52:17Z |
-| 1        | 2.50 | 4   | 16.11    | 2022-12-05T18:34:23Z |
+| 0        | 2.80 | 7   | 290.78   | 2023-12-31T09:49:49Z |
+| 1        | 2.50 | 7   | 234.44   | 2023-12-22T10:09:14Z |
 
 
 #### Source {#source}
@@ -63,8 +63,21 @@ Graph \\(f(x) = \href{/posts/cosine}{\cos}(x)\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 5   | 27.75    | 2022-12-27T11:45:24Z |
-| 1        | 2.80 | 4   | 17.07    | 2022-12-18T17:48:50Z |
+| 0        | 1.75 | 8   | 129.08   | 2023-09-12T19:38:30Z |
+| 1        | 2.50 | 7   | 251.60   | 2024-01-22T07:41:00Z |
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Sine and Cosine” 2022</a>)
+
+
+### {{\\(\href{/posts/cosine}{\cos}(\theta)\\)}@0} \\(=\\) {{\\(\frac{\href{/posts/sine}{\sin}(\theta)}{\href{/posts/tangent}{\tan}(\theta)}\\)}{function}@1} {#cos--theta--0-frac-sin--theta--tan--theta--function-1}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.35 | 6   | 63.71    | 2023-08-04T18:14:04Z |
+| 1        | 2.50 | 6   | 99.51    | 2023-10-24T02:23:02Z |
 
 
 #### Source {#source}

@@ -2,7 +2,7 @@
 title = "Option time value"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:44:00-08:00
-lastmod = 2022-12-17T14:18:26-08:00
+lastmod = 2023-07-25T12:36:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "f41ce01a-f8d7-4d5e-a7c6-178706176f6c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 39.97    | 2023-01-22T01:59:58Z |
-| back     | 2.50 | 4   | 16.28    | 2022-12-31T00:12:36Z |
+| front    | 2.50 | 7   | 288.69   | 2024-02-22T09:13:13Z |
+| back     | 2.80 | 7   | 379.57   | 2024-07-20T04:18:29Z |
 
 [Option time value]({{< relref "time_value_finance.md" >}})
 
@@ -41,9 +41,9 @@ The part of an [Option (finance)]({{< relref "option.md" >}})'s value based on t
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 14.88    | 2022-12-29T15:09:32Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-15T03:18:45Z |
-| 2        | 2.5  | -1  | 0        | 2022-11-15T03:18:45Z |
+| 0        | 2.20 | 6   | 56.31    | 2023-08-18T09:07:42Z |
+| 1        | 2.35 | 4   | 13.88    | 2023-07-26T09:51:41Z |
+| 2        | 1.30 | 8   | 24.11    | 2023-08-10T16:38:19Z |
 
 -   {{[Option time value]({{< relref "time_value_finance.md" >}})}@0}
 -   {{[Extrinsic value (finance)]({{< relref "time_value_finance.md" >}})}@1} of an option

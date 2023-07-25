@@ -2,7 +2,7 @@
 title = "Complete binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T11:22:00-07:00
-lastmod = 2022-12-17T13:38:32-08:00
+lastmod = 2023-07-25T08:54:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "cce89d10-ff69-4756-b9fa-9b713b4cb33b"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 7   | 161.55   | 2023-05-21T06:03:20Z |
-| front    | 2.80 | 6   | 114.85   | 2023-02-24T12:55:09Z |
+| back     | 2.65 | 8   | 421.13   | 2024-07-15T16:09:25Z |
+| front    | 2.95 | 7   | 361.54   | 2024-02-22T06:22:13Z |
 
 [Complete binary tree]({{< relref "complete_binary_tree.md" >}})
 
@@ -48,8 +48,8 @@ A [Binary tree]({{< relref "binary_tree.md" >}}) in which every level, except po
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 48.47    | 2023-01-20T06:50:55Z |
-| back     | 2.65 | 5   | 45.16    | 2023-01-28T21:46:07Z |
+| front    | 2.65 | 5   | 41.17    | 2023-08-20T19:33:36Z |
+| back     | 2.20 | 6   | 70.97    | 2023-10-03T03:20:37Z |
 
 [Complete binary tree]({{< relref "complete_binary_tree.md" >}})
 
@@ -73,7 +73,7 @@ Also: [Balanced binary tree]({{< relref "balanced_binary_tree.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 84.15    | 2023-01-24T19:46:00Z |
+| front    | 2.80 | 8   | 235.13   | 2023-09-17T20:01:55Z |
 
 [Complete]({{< relref "complete_binary_tree.md" >}}) and [Perfect binary tree]({{< relref "perfect_binary_tree.md" >}})
 
@@ -98,6 +98,5 @@ Also: [Balanced binary tree]({{< relref "balanced_binary_tree.md" >}})
 ## Backlinks {#backlinks}
 
 -   [Heap]({{< relref "heap.md" >}})
--   [Definition (Computer science)]({{< relref "heap.md#definition--computer-science" >}})
 -   [Binary tree]({{< relref "binary_tree.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})

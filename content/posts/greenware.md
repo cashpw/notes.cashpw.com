@@ -2,7 +2,7 @@
 title = "Greenware"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:50:00-07:00
-lastmod = 2022-12-17T13:46:08-08:00
+lastmod = 2023-07-25T10:43:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,8 +28,8 @@ Greenware is clay before it's undergone [Bisque firing]({{< relref "bisque_firin
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.52    | 2022-12-30T09:08:46Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-05T19:21:37Z |
+| front    | 2.50 | 7   | 258.48   | 2024-01-30T02:38:40Z |
+| back     | 2.50 | 7   | 194.55   | 2023-11-20T05:43:05Z |
 
 [Greenware]({{< relref "greenware.md" >}})
 
@@ -52,8 +52,5 @@ Clay which has not undergone [Bisque firing]({{< relref "bisque_firing.md" >}}).
 
 ## Backlinks {#backlinks}
 
+-   [Clay shrinkage]({{< relref "clay_shrinkage.md" >}})
 -   [Clay firing stages]({{< relref "clay_firing_stages.md" >}})
--   [Describe]({{< relref "clay_firing_stages.md#describe" >}})
--   [Definition]({{< relref "clay_shrinkage.md#definition" >}})
--   [Definition]({{< relref "clay_shrinkage.md#definition" >}})
--   [Average clay will lose {{30%}@0} of its weight between Greenware and Glazeware.]({{< relref "clay_shrinkage.md#average-clay-will-lose-30-0-of-its-weight-between-id-d0d62414-0eb1-4036-aae9-da4db0eb1d52-greenware-and-id-c23949a7-63c4-4c3f-9101-8d1d233684f4-glazeware-dot" >}})

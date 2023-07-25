@@ -2,7 +2,7 @@
 title = "Non-singular matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-24T08:25:00-07:00
-lastmod = 2022-12-17T13:58:53-08:00
+lastmod = 2023-07-25T11:18:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,9 +19,9 @@ A [Matrix]({{< relref "matrix.md" >}}) \\(A\\) for which there is a \\(B\\) such
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 12  | 164.84   | 2023-04-22T11:46:54Z |
-| 1        | 2.65 | 7   | 140.10   | 2023-03-06T17:30:40Z |
-| 2        | 2.65 | 7   | 112.22   | 2023-01-12T18:45:34Z |
+| 0        | 2.65 | 13  | 416.52   | 2024-06-18T11:20:41Z |
+| 1        | 2.65 | 8   | 351.40   | 2024-02-24T12:29:32Z |
+| 2        | 2.80 | 8   | 309.67   | 2023-11-19T08:37:55Z |
 
 -   {{[Non-singular matrix]({{< relref "non_singular_matrix.md" >}})}@0}
 -   {{[Invertible matrix]({{< relref "non_singular_matrix.md" >}})}@1}
@@ -37,8 +37,8 @@ A [Matrix]({{< relref "matrix.md" >}}) \\(A\\) for which there is a \\(B\\) such
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-21T20:22:40Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-16T17:26:26Z |
+| front    | 2.20 | 7   | 154.06   | 2023-09-30T15:54:30Z |
+| back     | 2.20 | 7   | 123.21   | 2023-08-06T21:26:04Z |
 
 [Non-singular matrix]({{< relref "non_singular_matrix.md" >}})
 
@@ -62,4 +62,3 @@ A [Matrix]({{< relref "matrix.md" >}}) \\(A\\) for which there is a \\(B\\) such
 ## Backlinks {#backlinks}
 
 -   [Determinant]({{< relref "determinant.md" >}})
--   [\\(\determinant{A}\\) {{\\(\neq\\)}@1} \\(0\\) \\(\iff\\) {{\\(A\\) is an non-singular}@0}]({{< relref "determinant.md#determinant-a-neq-1-0-iff-a-is-an-id-d0894b60-0827-4644-9d21-f6ae9c9e5041-non-singular-0" >}})

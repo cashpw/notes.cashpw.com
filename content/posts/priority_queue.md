@@ -2,7 +2,7 @@
 title = "Priority queue"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2022-12-17T14:04:04-08:00
+lastmod = 2023-07-25T11:30:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ slug = "6f787120-13bb-405a-bfca-060df6d80b14"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 6   | 87.29    | 2023-01-20T21:48:45Z |
-| front    | 2.95 | 6   | 128.70   | 2023-04-01T18:09:32Z |
+| back     | 2.65 | 7   | 210.83   | 2023-08-20T10:13:31Z |
+| front    | 3.10 | 7   | 427.43   | 2024-06-02T08:00:21Z |
 
 [Priority queue]({{< relref "priority_queue.md" >}})
 
@@ -45,8 +45,8 @@ An [Abstract data type]({{< relref "abstract_data_type.md" >}}) which maintains 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 90.87    | 2023-01-30T13:19:00Z |
-| 1        | 2.65 | 6   | 84.48    | 2023-01-25T03:51:56Z |
+| 0        | 2.50 | 8   | 209.10   | 2023-08-27T18:30:57Z |
+| 1        | 2.50 | 7   | 222.24   | 2023-09-06T19:23:58Z |
 
 
 #### Extra {#extra}
@@ -66,6 +66,7 @@ An [Abstract data type]({{< relref "abstract_data_type.md" >}}) which maintains 
 ## Backlinks {#backlinks}
 
 -   [Heap]({{< relref "heap.md" >}})
--   [Binary heap]({{< relref "binary_heap.md" >}})
--   [{{Binary heaps}@0} are a common way of implementing {{Priority queues}@1}]({{< relref "binary_heap.md#id-a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad-binary-heaps-0-are-a-common-way-of-implementing-id-6f787120-13bb-405a-bfca-060df6d80b14-priority-queues-1" >}})
+-   [Python library: queue]({{< relref "python_library_queue.md" >}})
+-   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
 -   [Queue]({{< relref "queue.md" >}})
+-   [Binary heap]({{< relref "binary_heap.md" >}})

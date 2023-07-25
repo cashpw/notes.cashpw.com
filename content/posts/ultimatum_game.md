@@ -2,7 +2,7 @@
 title = "Ultimatum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:51:00-07:00
-lastmod = 2022-12-17T14:20:19-08:00
+lastmod = 2023-07-25T12:39:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "d88f63c9-296b-4b0c-9757-00cc1e891e16"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 50.84    | 2023-01-29T19:01:10Z |
-| back     | 2.80 | 4   | 15.88    | 2023-01-01T14:46:30Z |
+| front    | 2.80 | 7   | 439.92   | 2024-09-12T23:52:27Z |
+| back     | 2.80 | 7   | 341.08   | 2024-05-12T16:37:08Z |
 
 [Ultimatum game]({{< relref "ultimatum_game.md" >}})
 
@@ -48,7 +48,4 @@ A two-player game in which the first player makes a proposal which the second pl
 ## Backlinks {#backlinks}
 
 -   [Dictator game]({{< relref "dictator_game.md" >}})
--   [The {{Dictator game}@0} is a derivative of the {{Ultimatum game}@1}]({{< relref "dictator_game.md#the-id-4c05e5da-c14c-45b8-9284-af1dda8dd3a6-dictator-game-0-is-a-derivative-of-the-id-d88f63c9-296b-4b0c-9757-00cc1e891e16-ultimatum-game-1" >}})
--   [Compare/Contrast]({{< relref "dictator_game.md#compare-contrast" >}})
 -   [Asymmetric game]({{< relref "asymmetric_game.md" >}})
--   [Example(s)]({{< relref "asymmetric_game.md#example--s" >}})

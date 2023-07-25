@@ -2,7 +2,7 @@
 title = "Linked hash map"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-01T14:33:00-07:00
-lastmod = 2022-12-17T13:52:46-08:00
+lastmod = 2023-07-25T11:01:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ A [Linked hash map]({{< relref "linked_hash_map.md" >}}) is a [Hash map]({{< rel
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 45.84    | 2023-01-06T22:23:24Z |
-| 1        | 2.20 | 4   | 12.98    | 2022-12-24T14:46:28Z |
+| 0        | 2.80 | 5   | 46.34    | 2023-08-16T09:44:44Z |
+| 1        | 2.20 | 7   | 142.55   | 2023-08-19T04:13:54Z |
 
 -   {{[Linked hash map]({{< relref "linked_hash_map.md" >}})}@0}
 -   {{[Hash map]({{< relref "hash_table.md" >}}) with [Separate chaining]({{< relref "hash_table.md#separate-chaining" >}})}@1}

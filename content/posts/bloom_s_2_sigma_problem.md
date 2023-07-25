@@ -2,7 +2,7 @@
 title = "Bloom's 2 sigma problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:16:00-08:00
-lastmod = 2022-12-17T13:36:38-08:00
+lastmod = 2023-07-25T08:44:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "6eb6bfde-37f3-4555-bbe2-1bd639b518ec"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2022-12-16T20:41:23Z |
-| back     | 2.5  | -1  | 0        | 2022-12-13T03:23:11Z |
+| front    | 2.95 | 6   | 159.38   | 2023-08-21T00:16:46Z |
+| back     | 2.95 | 6   | 183.81   | 2023-09-25T14:41:47Z |
 
 [Bloom's 2 sigma problem]({{< relref "bloom_s_2_sigma_problem.md" >}})
 
@@ -30,6 +30,20 @@ slug = "6eb6bfde-37f3-4555-bbe2-1bd639b518ec"
 #### Back {#back}
 
 The average student who receives 1-on-1 tutoring, using [Mastery learning]({{< relref "mastery_learning.md" >}}) techniques, perform two standard deviations better than students educated in a many students to one teacher classroom environment (with or without mastery learning).
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Bloom’s 2 Sigma Problem” 2022</a>)
+
+
+### Cloze {#cloze}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.65 | 6   | 113.83   | 2023-08-28T13:45:30Z |
+
+{{[Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})}@0} developed [Bloom's 2 sigma problem]({{< relref "bloom_s_2_sigma_problem.md" >}})
 
 
 #### Source {#source}
@@ -45,5 +59,6 @@ The average student who receives 1-on-1 tutoring, using [Mastery learning]({{< r
 
 ## Backlinks {#backlinks}
 
--   [Known for]({{< relref "benjamin_bloom.md#known-for" >}})
+-   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})

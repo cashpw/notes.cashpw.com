@@ -2,7 +2,7 @@
 title = "Generalized suffix tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:05:00-08:00
-lastmod = 2022-12-17T13:45:06-08:00
+lastmod = 2023-07-25T10:42:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "f9f02ed3-1796-4484-85ae-082664002d54"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T02:51:09Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-22T17:38:10Z |
+| front    | 2.95 | 7   | 368.43   | 2024-06-14T03:26:13Z |
+| back     | 1.75 | 6   | 35.41    | 2023-08-09T05:21:10Z |
 
 [Generalized suffix tree]({{< relref "generalized_suffix_tree.md" >}})
 

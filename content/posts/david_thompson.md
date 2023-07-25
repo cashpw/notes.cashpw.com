@@ -2,7 +2,7 @@
 title = "David Thompson"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:26:00-08:00
-lastmod = 2022-12-17T13:40:23-08:00
+lastmod = 2023-07-25T10:27:55-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

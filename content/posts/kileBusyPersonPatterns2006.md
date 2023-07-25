@@ -2,7 +2,7 @@
 title = "James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-25T18:07:00-07:00
-lastmod = 2022-12-17T13:51:28-08:00
+lastmod = 2023-07-25T10:56:08-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -320,7 +320,7 @@ Related: [Deep work]({{< relref "deep_work.md" >}})
 
 #### Feedback loop {#feedback-loop}
 
-Related: [Agile]({{< relref "agile.md" >}})
+Related: [Agile]({{< relref "agile.md" >}}), [Leo Babauta | Reset Ritual to Come Back to Focus]({{< relref "leo_babauta_reset_ritual_to_come_back_to_focus.md" >}})
 
 > You have a task and are unable to determine how long it will take to complete. You have the information you need to begin the task, but you believe there will be additional information requirements that may emerge as you perform the task. The task itself may be vague, but you do not require clarification. You feel that you need some knowledge of the task's parts to determine how long it will take to complete.
 >
@@ -502,8 +502,8 @@ Related: [Drop Unimportant Tasks](#drop-unimportant-tasks)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 17.19    | 2022-12-17T20:34:47Z |
-| back     | 2.35 | 0   | 0.00     | 2022-12-16T17:50:51Z |
+| front    | 3.10 | 7   | 475.73   | 2024-10-26T08:40:42Z |
+| back     | 2.65 | 7   | 263.95   | 2024-03-09T19:36:30Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -524,8 +524,8 @@ Start work on a task if it's initially vague and see if the steps you need to ta
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 42.38    | 2023-01-14T03:52:17Z |
-| back     | 2.20 | 2   | 2.00     | 2022-12-15T17:30:59Z |
+| front    | 2.50 | 7   | 263.61   | 2024-01-17T13:12:39Z |
+| back     | 1.90 | 8   | 192.17   | 2024-01-14T18:42:53Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -546,8 +546,8 @@ Isolate important tasks and perform them separately -- eliminating distraction a
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 48.64    | 2023-01-26T11:12:37Z |
-| back     | 2.20 | 4   | 13.19    | 2022-12-26T21:51:52Z |
+| front    | 2.80 | 7   | 378.80   | 2024-07-06T09:14:28Z |
+| back     | 2.50 | 7   | 167.77   | 2023-10-24T11:09:35Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -568,8 +568,8 @@ Isolate important tasks and perform them separately, without multitasking, so yo
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.12    | 2022-12-27T22:10:02Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-14T02:17:34Z |
+| front    | 2.80 | 7   | 341.76   | 2024-05-21T19:02:09Z |
+| back     | 1.60 | 6   | 34.66    | 2023-08-03T12:45:27Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -591,8 +591,8 @@ Isolate important tasks and perform them separately, without multitasking, so yo
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 40.18    | 2023-01-22T22:33:28Z |
-| back     | 2.05 | 1   | 1.00     | 2022-12-16T20:14:29Z |
+| front    | 2.80 | 7   | 284.33   | 2024-02-22T00:26:42Z |
+| back     | 1.75 | 8   | 182.29   | 2024-01-12T07:48:41Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -613,8 +613,8 @@ Ensure you have the requisite information to start the task. This doesn't mean y
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 46.82    | 2023-01-21T20:01:25Z |
-| back     | 2.20 | 5   | 33.61    | 2023-01-19T08:29:13Z |
+| front    | 2.80 | 7   | 353.45   | 2024-05-25T01:21:02Z |
+| back     | 1.90 | 7   | 136.02   | 2023-08-14T16:15:52Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -635,7 +635,7 @@ Batching small related tasks together ensures you maintain context between the t
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 18.32    | 2022-12-21T06:27:55Z |
+| front    | 3.10 | 7   | 496.34   | 2024-11-26T21:56:27Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -657,8 +657,8 @@ Batching small related tasks together ensures you maintain context between the t
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 49.17    | 2023-02-01T22:56:10Z |
-| back     | 2.80 | 4   | 15.21    | 2022-12-30T23:49:08Z |
+| front    | 3.10 | 7   | 479.00   | 2024-11-08T13:40:15Z |
+| back     | 3.25 | 7   | 452.61   | 2024-09-30T18:50:06Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -679,8 +679,8 @@ Intersperse simple unrelated and non-urgent tasks between larger tasks
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 16.46    | 2022-12-17T04:53:18Z |
-| back     | 2.80 | 4   | 15.82    | 2022-12-21T20:08:09Z |
+| front    | 3.10 | 7   | 452.70   | 2024-09-17T18:22:10Z |
+| back     | 2.80 | 7   | 315.69   | 2024-04-02T06:28:27Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -701,8 +701,8 @@ Schedule important work for the time of day when you are most productive/alert/e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.46    | 2022-12-18T03:14:27Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-16T18:02:33Z |
+| front    | 2.05 | 7   | 152.94   | 2023-09-17T14:30:32Z |
+| back     | 2.50 | 7   | 210.79   | 2023-12-03T12:56:43Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -724,8 +724,8 @@ Schedule important work for the time of day when you are most productive/alert/e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 36.44    | 2023-01-21T07:16:10Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-11T17:07:49Z |
+| front    | 2.50 | 7   | 254.99   | 2024-01-10T18:33:57Z |
+| back     | 2.80 | 7   | 273.00   | 2024-02-14T12:26:41Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -746,8 +746,8 @@ When you have more than one tasks with different levels of importance: do the wo
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 46.71    | 2023-01-26T09:55:24Z |
-| back     | 2.50 | 4   | 15.81    | 2022-12-28T21:40:01Z |
+| front    | 2.80 | 7   | 345.54   | 2024-05-19T04:46:15Z |
+| back     | 2.50 | 7   | 206.67   | 2023-12-03T08:02:30Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -768,8 +768,8 @@ Consider [Comparative advantage]({{< relref "comparative_advantage.md" >}}) when
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 34.80    | 2023-01-16T21:52:26Z |
-| back     | 2.50 | 4   | 15.61    | 2022-12-16T07:37:03Z |
+| front    | 2.50 | 7   | 210.07   | 2023-11-05T17:21:35Z |
+| back     | 2.35 | 7   | 212.57   | 2023-12-10T04:59:39Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -778,7 +778,7 @@ Consider [Comparative advantage]({{< relref "comparative_advantage.md" >}}) when
 
 #### Back {#back}
 
-Don't put time into tasks which will make no difference to anyone. Additionally, you may need to drop important tasks if even-more-important tasks are threatened.
+Don't put time into tasks which will make no difference to anyone or tasks which distract or are significantly less impactful compared to others.
 
 
 #### Source {#source}
@@ -790,8 +790,8 @@ Don't put time into tasks which will make no difference to anyone. Additionally,
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.25    | 2022-12-27T23:24:09Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-18T17:39:44Z |
+| front    | 2.50 | 7   | 189.78   | 2023-11-05T09:08:27Z |
+| back     | 2.50 | 7   | 218.08   | 2024-01-04T17:45:26Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -812,3 +812,9 @@ Reduce the quality of your output to a level that will satisfy the requestor and
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kile, James F., Donald J. Little, and Samir Shah. 2006. “Busy Person Patterns.” In <i>Proceedings of the 2006 Conference on Pattern Languages of Programs - PLoP ’06</i>, 1. Portland, Oregon: ACM Press. <a href="https://doi.org/10.1145/1415472.1415478">https://doi.org/10.1145/1415472.1415478</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
+-   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})

@@ -2,7 +2,7 @@
 title = "Jim Hefferon"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-24T08:34:00-07:00
-lastmod = 2022-12-17T13:50:27-08:00
+lastmod = 2023-07-25T10:52:09-07:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false
@@ -22,7 +22,7 @@ Among other things:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 5   | 45.85    | 2022-12-30T12:57:34Z |
+| front    | 2.35 | 6   | 77.84    | 2023-09-26T11:49:29Z |
 
 [Jim Hefferon]({{< relref "jim_hefferon.md" >}})
 
@@ -35,4 +35,3 @@ Among other things:
 ## Backlinks {#backlinks}
 
 -   [Jim Hefferon | Linear Algebra]({{< relref "hefferonLinearAlgebra2020.md" >}})
--   [Source]({{< relref "hefferonLinearAlgebra2020.md#source" >}})

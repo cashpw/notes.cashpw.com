@@ -2,7 +2,7 @@
 title = "Data structures"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-27T19:44:00-07:00
-lastmod = 2022-12-17T13:40:15-08:00
+lastmod = 2023-07-25T10:27:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,15 +20,15 @@ slug = "738c2ba7-a272-417d-9b6d-b6952d765280"
 -   [Succinct data structure]({{< relref "succinct_data_structure.md" >}}): \\(Z+o(Z)\\) (see [Little-o notation]({{< relref "little_o_notation.md" >}}))
 
 
-## Flashcardscomputer_science: {#flashcardscomputer-science}
+## Flashcards {#flashcards}
 
 
 ### AKA (Computer science) {#aka--computer-science}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 5   | 35.80    | 2023-01-02T13:23:17Z |
-| 1        | 2.05 | 5   | 26.68    | 2023-01-10T09:46:00Z |
+| 0        | 2.65 | 7   | 289.15   | 2024-01-31T19:33:07Z |
+| 1        | 1.45 | 6   | 19.28    | 2023-07-31T19:34:01Z |
 
 -   {{[Data structure]({{< relref "data_structures.md" >}})}@0}
 -   {{[Concrete data type]({{< relref "data_structures.md" >}})}@1}
@@ -43,8 +43,8 @@ slug = "738c2ba7-a272-417d-9b6d-b6952d765280"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 141.98   | 2023-03-20T15:29:29Z |
-| front    | 2.35 | 6   | 137.40   | 2023-03-28T02:06:48Z |
+| back     | 2.65 | 8   | 394.74   | 2024-04-19T11:24:55Z |
+| front    | 2.35 | 7   | 344.37   | 2024-03-07T12:13:38Z |
 
 [Data structure]({{< relref "data_structures.md" >}})
 
@@ -67,24 +67,19 @@ A collection of data values, the relationships among them, and the functions or 
 
 ## Backlinks {#backlinks}
 
--   [Dynamic array]({{< relref "dynamic_array.md" >}})
--   [Linked list]({{< relref "linked_list.md" >}})
--   [Heapsort]({{< relref "heapsort.md" >}})
 -   [Heap]({{< relref "heap.md" >}})
--   [Definition (Computer science)]({{< relref "heap.md#definition--computer-science" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
--   [Binary search tree]({{< relref "binary_search_tree.md" >}})
 -   [Binary tree]({{< relref "binary_tree.md" >}})
--   [Definition (Computer science)]({{< relref "binary_tree.md#definition--computer-science" >}})
+-   [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
+-   [Dynamic array]({{< relref "dynamic_array.md" >}})
 -   [Array]({{< relref "array.md" >}})
--   [Definition (Data structure)]({{< relref "array.md#definition--id-738c2ba7-a272-417d-9b6d-b6952d765280-data-structure" >}})
--   [Abstract data type]({{< relref "abstract_data_type.md" >}})
--   [Compare/Contrast]({{< relref "abstract_data_type.md#compare-contrast" >}})
--   [Binary heap]({{< relref "binary_heap.md" >}})
--   [Definition (Computer science)]({{< relref "binary_heap.md#definition--computer-science" >}})
 -   [Trie]({{< relref "trie.md" >}})
--   [Definition (Computer science)]({{< relref "succinct_data_structure.md#definition--computer-science" >}})
 -   [Implicit data structure]({{< relref "implicit_data_structure.md" >}})
--   [Definition (Computer science)]({{< relref "implicit_data_structure.md#definition--computer-science" >}})
--   [Hash table]({{< relref "hash_table.md" >}})
+-   [Binary search tree]({{< relref "binary_search_tree.md" >}})
 -   [Depth-first search]({{< relref "depth_first_search.md" >}})
+-   [Binary heap]({{< relref "binary_heap.md" >}})
+-   [C++ struct]({{< relref "c_struct.md" >}})
+-   [Hash table]({{< relref "hash_table.md" >}})
+-   [Heapsort]({{< relref "heapsort.md" >}})
+-   [Linked list]({{< relref "linked_list.md" >}})
+-   [Abstract data type]({{< relref "abstract_data_type.md" >}})

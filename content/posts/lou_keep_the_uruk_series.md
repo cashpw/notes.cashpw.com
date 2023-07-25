@@ -2,14 +2,14 @@
 title = "Lou Keep | The Uruk Series"
 author = ["Cash Weaver"]
 date = 2022-11-23T09:17:00-08:00
-lastmod = 2022-12-17T13:53:40-08:00
+lastmod = 2023-07-25T11:03:21-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
 slug = "b04d5551-2eba-4095-aeb5-c14569f1c930"
 +++
 
-TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Keep 2017</a>)
+[Lou Keep]({{< relref "lou_keep.md" >}}), (<a href="#citeproc_bib_item_1">Keep 2017</a>)
 
 
 ## Summary {#summary}

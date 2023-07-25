@@ -2,7 +2,7 @@
 title = "Allen Ginsberg | Howl"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:20:00-07:00
-lastmod = 2022-12-17T13:45:22-08:00
+lastmod = 2023-07-25T10:42:39-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -176,8 +176,8 @@ I'm with you in Rockland<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T01:53:38Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-19T18:24:51Z |
+| front    | 2.65 | 7   | 299.49   | 2024-04-04T03:19:27Z |
+| back     | 2.65 | 7   | 277.93   | 2024-03-10T12:56:35Z |
 
 [Howl (Poem)]({{< relref "ginsbergHowl2022.md" >}})
 

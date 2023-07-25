@@ -2,9 +2,9 @@
 title = "Breadth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T17:20:00-07:00
-lastmod = 2022-12-17T13:36:57-08:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-07-25T08:46:05-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 slug = "cff4f06c-6179-423d-aa1d-ba54d85615e2"
 +++
@@ -70,7 +70,7 @@ A [Graph]({{< relref "graph.md" >}}) and [Tree]({{< relref "tree.md" >}}) traver
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 44.48    | 2023-01-05T13:36:48Z |
+| front    | 2.50 | 7   | 257.53   | 2024-01-11T11:34:23Z |
 
 
 #### Context {#context}
@@ -93,7 +93,7 @@ Computer science
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 89.67    | 2023-03-14T10:53:00Z |
+| 0        | 2.65 | 7   | 242.45   | 2023-11-12T02:03:55Z |
 
 
 #### Extra {#extra}
@@ -106,8 +106,8 @@ Computer science
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 107.36   | 2023-03-25T00:19:18Z |
-| 1        | 2.50 | 6   | 85.70    | 2023-03-01T10:33:06Z |
+| 0        | 2.80 | 7   | 314.91   | 2024-02-03T17:04:29Z |
+| 1        | 2.50 | 7   | 207.69   | 2023-09-26T08:17:16Z |
 
 
 #### Extra {#extra}
@@ -122,7 +122,7 @@ Computer science
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 18.15    | 2022-12-21T22:49:40Z |
+| 0        | 1.90 | 7   | 73.64    | 2023-08-04T05:13:45Z |
 
 
 #### Extra {#extra}
@@ -137,7 +137,7 @@ Computer science
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 65.36    | 2022-12-25T23:19:46Z |
+| 0        | 2.50 | 8   | 442.15   | 2024-08-24T19:08:09Z |
 
 
 #### Extra {#extra}
@@ -152,7 +152,9 @@ Computer science
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
+| front    | 2.50 | 2   | 2.00     | 2023-07-21T13:38:55Z |
+
+[Breadth-first search in python]({{< relref "breadth_first_search.md" >}})
 
 ## References
 
@@ -165,7 +167,5 @@ Computer science
 
 ## Backlinks {#backlinks}
 
--   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})
 -   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
--   [{{Iterative deepening depth-first-search}@1} {{uses much less memory}@2} than {{Breadth-first search}@0}]({{< relref "iterative_deepening_depth_first_search.md#id-0ad51c11-995b-4437-a218-82df11697f7a-iterative-deepening-depth-first-search-1-uses-much-less-memory-2-than-id-cff4f06c-6179-423d-aa1d-ba54d85615e2-breadth-first-search-0" >}})
--   [Describe]({{< relref "iterative_deepening_depth_first_search.md#describe" >}})
+-   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})

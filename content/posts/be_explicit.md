@@ -2,7 +2,7 @@
 title = "Be explicit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T10:59:00-08:00
-lastmod = 2022-12-17T13:35:46-08:00
+lastmod = 2023-07-25T08:40:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,8 +20,7 @@ slug = "fd00fbf2-6b65-442f-90b9-b9d5d64a5fde"
 
 ## Backlinks {#backlinks}
 
+-   [Style Guide]({{< relref "style_guide.md" >}})
 -   [Define Abbreviations]({{< relref "define_abbreviations.md" >}})
 -   [Wizard's first rule]({{< relref "wizard_s_first_rule.md" >}})
--   [Style Guide]({{< relref "style_guide.md" >}})
 -   [Theory of change]({{< relref "theory_of_change.md" >}})
--   [Describe]({{< relref "theory_of_change.md#describe" >}})

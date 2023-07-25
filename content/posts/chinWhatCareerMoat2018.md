@@ -2,7 +2,7 @@
 title = "Cedric Chin | What Is a Career Moat?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:53:00-08:00
-lastmod = 2022-12-17T13:38:00-08:00
+lastmod = 2023-07-25T08:52:28-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

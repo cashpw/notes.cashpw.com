@@ -2,7 +2,7 @@
 title = "Neel Nanda | Post 29: Meaningful Rest"
 author = ["Cash Weaver"]
 date = 2022-11-29T09:41:00-08:00
-lastmod = 2022-12-17T13:57:44-08:00
+lastmod = 2023-07-25T11:13:34-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -52,5 +52,5 @@ See [Meaningful rest]({{< relref "meaningful_rest.md" >}}).
 
 ## Backlinks {#backlinks}
 
--   [Meaningful rest]({{< relref "meaningful_rest.md" >}})
 -   [Blogroll]({{< relref "blogroll.md" >}})
+-   [Meaningful rest]({{< relref "meaningful_rest.md" >}})

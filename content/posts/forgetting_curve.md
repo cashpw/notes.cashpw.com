@@ -2,7 +2,7 @@
 title = "Forgetting curve"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-11T12:28:00-08:00
-lastmod = 2022-12-17T13:44:19-08:00
+lastmod = 2023-07-25T10:41:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,8 +34,8 @@ slug = "9373ca2c-77ee-4874-8dfd-fb2f8997fb8f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2022-12-11T20:42:26Z |
-| back     | 2.5  | -1  | 0        | 2022-12-11T20:42:26Z |
+| front    | 2.50 | 7   | 177.06   | 2023-10-23T15:59:49Z |
+| back     | 2.35 | 5   | 28.84    | 2023-08-08T11:56:10Z |
 
 [Forgetting curve]({{< relref "forgetting_curve.md" >}})
 
@@ -58,5 +58,5 @@ Graphical representation of recall rate over time.
 
 ## Backlinks {#backlinks}
 
--   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
 -   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})
+-   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

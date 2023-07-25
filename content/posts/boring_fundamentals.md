@@ -2,7 +2,7 @@
 title = "Boring fundamentals"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T13:50:00-08:00
-lastmod = 2022-12-17T13:36:43-08:00
+lastmod = 2023-07-25T08:45:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ slug = "650501e5-3253-46a2-8795-cf09c86edf16"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T02:58:15Z |
-| back     | 2.5  | -1  | 0        | 2022-11-23T21:53:40Z |
+| front    | 2.80 | 7   | 310.32   | 2024-03-31T22:12:29Z |
+| back     | 2.95 | 6   | 169.69   | 2023-08-31T07:42:47Z |
 
 [Boring fundamentals]({{< relref "boring_fundamentals.md" >}})
 
@@ -45,8 +45,8 @@ The set of basic habits, routines, practices, etc, one needs to build a strong f
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-16T17:52:55Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-16T20:39:42Z |
+| front    | 2.50 | 7   | 200.57   | 2023-11-17T08:35:58Z |
+| back     | 2.50 | 7   | 172.55   | 2023-10-30T05:21:07Z |
 
 [Boring fundamentals]({{< relref "boring_fundamentals.md" >}})
 

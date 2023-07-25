@@ -2,7 +2,7 @@
 title = "The purpose of a system is what it does"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T05:29:00-08:00
-lastmod = 2022-12-17T14:16:27-08:00
+lastmod = 2023-07-25T12:34:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ Related: [Duck test]({{< relref "duck_test.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.28    | 2022-12-31T00:15:36Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-16T20:42:37Z |
+| front    | 2.50 | 7   | 221.65   | 2023-12-22T06:24:59Z |
+| back     | 2.65 | 7   | 289.42   | 2024-04-06T01:50:53Z |
 
 [The purpose of a system is what it does]({{< relref "the_purpose_of_a_system_is_what_it_does.md" >}})
 
@@ -44,3 +44,9 @@ Related: [Duck test]({{< relref "duck_test.md" >}})
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“The Purpose of a System Is What It Does.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=The_purpose_of_a_system_is_what_it_does&oldid=1115506480">https://en.wikipedia.org/w/index.php?title=The_purpose_of_a_system_is_what_it_does&#38;oldid=1115506480</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
+-   [Robin Hanson | Politics Isn't about Policy]({{< relref "robin_hanson_politics_isn_t_about_policy.md" >}})

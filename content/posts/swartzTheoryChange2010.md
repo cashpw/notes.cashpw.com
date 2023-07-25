@@ -2,7 +2,7 @@
 title = "Aaron Swartz | Theory of Change"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T12:06:00-08:00
-lastmod = 2022-12-17T14:13:02-08:00
+lastmod = 2023-07-25T12:32:04-07:00
 draft = false
 slug = "6d2276f9-4b72-46be-a4dc-9cdd41997122"
 +++

@@ -2,7 +2,7 @@
 title = "Red Queen's race"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T10:25:00-08:00
-lastmod = 2022-12-17T14:06:53-08:00
+lastmod = 2023-07-25T12:26:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "440b6c99-7394-44d1-8e62-61a15673dd95"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 3   | 6.00     | 2022-12-16T17:28:03Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-16T18:24:04Z |
+| front    | 2.80 | 7   | 289.54   | 2024-03-10T03:11:35Z |
+| back     | 3.10 | 6   | 153.15   | 2023-08-12T03:57:12Z |
 
 [Red Queen's race]({{< relref "red_queen_race.md" >}})
 

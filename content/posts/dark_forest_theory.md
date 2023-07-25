@@ -2,7 +2,7 @@
 title = "Dark forest theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T14:09:00-07:00
-lastmod = 2022-12-17T13:40:08-08:00
+lastmod = 2023-07-25T10:27:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -35,8 +35,8 @@ Related: [Moloch]({{< relref "moloch.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-17T20:26:06Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-18T17:35:56Z |
+| front    | 2.50 | 7   | 232.00   | 2023-12-28T16:07:37Z |
+| back     | 2.50 | 7   | 245.11   | 2024-02-04T07:15:52Z |
 
 [Dark forest theory]({{< relref "dark_forest_theory.md" >}})
 

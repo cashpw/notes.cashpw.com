@@ -2,7 +2,7 @@
 title = "Self-balancing binary search tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:50:00-07:00
-lastmod = 2022-12-17T14:09:21-08:00
+lastmod = 2023-07-25T12:27:43-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "b3fc99fa-5b7e-4e45-83c2-6d283aecca9a"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 2   | 2.00     | 2022-12-09T15:48:51Z |
-| front    | 2.60 | 7   | 35.76    | 2022-11-18T11:47:48Z |
+| back     | 1.45 | 4   | 8.44     | 2023-07-29T01:51:30Z |
+| front    | 2.75 | 9   | 260.60   | 2023-12-10T08:03:53Z |
 
 [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}})
 
@@ -47,8 +47,8 @@ A node-based [Binary search tree]({{< relref "binary_search_tree.md" >}}) which 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 132.53   | 2023-03-16T05:34:35Z |
-| back     | 2.05 | 5   | 25.94    | 2023-01-06T18:14:21Z |
+| front    | 2.35 | 7   | 303.27   | 2024-01-14T20:27:34Z |
+| back     | 2.20 | 8   | 235.67   | 2024-02-16T09:50:02Z |
 
 [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}})
 
@@ -68,7 +68,7 @@ A node-based [Binary search tree]({{< relref "binary_search_tree.md" >}}) which 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 88.68    | 2023-01-24T07:40:02Z |
+| front    | 2.50 | 8   | 233.90   | 2023-09-17T12:37:44Z |
 
 [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}}) and [Height-balanced binary tree]({{< relref "height_balanced_binary_tree.md" >}})
 
@@ -94,6 +94,5 @@ For an arbitrary number of insertions and deletions:
 
 ## Backlinks {#backlinks}
 
--   [Red-black tree]({{< relref "red_black_tree.md" >}})
--   [A Red-black tree is a type of {{Self-balancing binary search tree}@0}]({{< relref "red_black_tree.md" >}})
 -   [B-tree]({{< relref "b_tree.md" >}})
+-   [Red-black tree]({{< relref "red_black_tree.md" >}})

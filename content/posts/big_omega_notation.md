@@ -2,7 +2,7 @@
 title = "Big-Omega notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:08:00-07:00
-lastmod = 2022-12-17T13:36:04-08:00
+lastmod = 2023-07-25T08:42:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ Big Omega notation, written as \\(\bigomega{g(n)}\\), indicates an worst-case as
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.05 | 5   | 27.41    | 2022-12-28T02:58:21Z |
-| front    | 2.50 | 7   | 213.77   | 2023-07-15T12:48:21Z |
+| back     | 1.30 | 2   | 2.00     | 2023-07-26T03:52:18Z |
+| front    | 2.50 | 8   | 532.84   | 2024-12-29T10:19:29Z |
 
 [Big Omega notation]({{< relref "big_omega_notation.md" >}})
 
@@ -44,8 +44,8 @@ The set of functions which have a specific asymptotic lower bound.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 114.20   | 2023-02-27T04:56:56Z |
-| 1        | 2.80 | 6   | 89.83    | 2023-01-25T11:10:42Z |
+| 0        | 2.95 | 7   | 365.20   | 2024-02-29T08:54:49Z |
+| 1        | 2.65 | 7   | 240.78   | 2023-09-25T08:43:11Z |
 
 -   {{\\(\Omega(n)\\)}@0}
 

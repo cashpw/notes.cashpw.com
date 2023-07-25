@@ -2,7 +2,7 @@
 title = "Selection sort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:51:00-07:00
-lastmod = 2022-12-17T14:09:18-08:00
+lastmod = 2023-07-25T12:27:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "f8918bbe-8164-4105-8489-2f74fd10df6d"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 3   | 6.00     | 2022-12-22T17:40:42Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-07T13:56:44Z |
+| front    | 2.65 | 7   | 336.86   | 2024-06-07T11:15:27Z |
+| back     | 2.20 | 7   | 139.65   | 2023-09-15T14:35:40Z |
 
 [Selection sort]({{< relref "selection_sort.md" >}})
 

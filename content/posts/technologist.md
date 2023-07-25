@@ -2,7 +2,7 @@
 title = "Technologist"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-17T07:57:00-08:00
-lastmod = 2022-12-17T14:14:14-08:00
+lastmod = 2023-07-25T12:33:23-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -24,8 +24,8 @@ A technologist is one who:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.78    | 2022-12-27T14:31:14Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-15T02:03:13Z |
+| front    | 2.05 | 7   | 176.27   | 2023-10-22T20:51:09Z |
+| back     | 2.50 | 7   | 183.94   | 2023-11-04T15:29:37Z |
 
 [Technologist]({{< relref "technologist.md" >}}) ([Zach Tellman]({{< relref "zach_tellman.md" >}}))
 
@@ -50,8 +50,8 @@ A technologist is one who:
 
 ## Backlinks {#backlinks}
 
--   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Joseph Gentle | Three Tribes of Programming]({{< relref "gentleTribesProgramming2017.md" >}})
+-   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
 -   [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})
--   [Describe]({{< relref "tellmanTrappedTechnologistFactory.md#describe" >}})
--   [(Zach Tellman) Why startups adopt new technologies]({{< relref "tellmanTrappedTechnologistFactory.md#id-cf4225ad-fa19-419e-90a6-bac3b45d1764-zach-tellman--why-startups-adopt-new-technologies" >}})
+-   [Unread]({{< relref "unread.md" >}})

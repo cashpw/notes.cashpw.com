@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Card Says Moops"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:25:00-07:00
-lastmod = 2022-12-17T13:39:37-08:00
+lastmod = 2023-07-25T10:27:38-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -43,7 +43,7 @@ Performative irony (see [For the lulz]({{< relref "for_the_lulz.md" >}})) for th
 
 > You might now conclude the internet reactionary believes in nothing except winning arguments with liberals. And, like Newtonian physics, if you assume this framing, you will get highly useful results. If you enter conversation with Engelbert and Charlemagne believing they do not mean what they say, they are only entertaining notions, and, on a long enough timeline, they will eventually defend a position fundamentally incompatible with the one they defended earlier in the same argument, you will navigate that conversation much more effectively!
 >
-> But, like Newtonian physics, this framing is lowercase-a accurate without being capital-T True.
+> But, like Newtonian physics, this framing is lowercase-a accurate without being capital-T True [[Lowercase-a accurate without being capital-T True]({{< relref "lowercase_a_accurate_without_being_capital_t_true.md" >}})].
 >
 > [[Why is it always the libs?]({{< relref "why_is_it_always_the_libs.md" >}})]
 >

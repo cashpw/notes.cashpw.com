@@ -2,7 +2,7 @@
 title = "John Allspaw | On Being A Senior Engineer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:31:00-08:00
-lastmod = 2022-12-17T13:34:38-08:00
+lastmod = 2023-07-25T08:36:01-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -150,5 +150,5 @@ I disagree with this point. I consider a lot of the documentation and design wor
 
 ## Backlinks {#backlinks}
 
+-   [Zach Tellman | Senior Engineers Reduce Risk]({{< relref "tellmanSeniorEngineersReduceRisk.md" >}})
 -   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
--   [Notes]({{< relref "tellmanSeniorEngineersReduceRisk.md#notes" >}})

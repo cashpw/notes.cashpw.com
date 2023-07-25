@@ -2,12 +2,14 @@
 title = "Iterative deepening depth-first-search implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-06T09:32:00-07:00
-lastmod = 2022-12-17T13:49:56-08:00
+lastmod = 2023-07-25T10:50:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "7c092555-c1f9-4c9d-9d02-c31d8096ce51"
 +++
+
+An [Implementation]({{< relref "implementation.md" >}}) of [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}}) in [Python]({{< relref "python.md" >}}).
 
 ```python
 from __future__ import annotations
@@ -101,4 +103,3 @@ print(iterative_deepening_dfs('i', a))
 ## Backlinks {#backlinks}
 
 -   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
--   [Implement]({{< relref "iterative_deepening_depth_first_search.md#implement" >}})

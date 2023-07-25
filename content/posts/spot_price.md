@@ -2,7 +2,7 @@
 title = "Spot price"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T06:30:00-08:00
-lastmod = 2022-12-17T14:11:31-08:00
+lastmod = 2023-07-25T12:30:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ The current price of an asset.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-12T16:49:21Z |
-| back     | 2.5  | -1  | 0        | 2022-11-18T20:33:36Z |
+| front    | 2.35 | 7   | 171.41   | 2023-10-19T04:29:34Z |
+| back     | 2.50 | 7   | 250.40   | 2024-02-06T01:10:20Z |
 
 [Spot price]({{< relref "spot_price.md" >}})
 

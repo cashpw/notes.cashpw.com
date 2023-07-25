@@ -2,17 +2,17 @@
 title = "Meaning of life"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:46:00-08:00
-lastmod = 2022-12-17T13:55:17-08:00
+lastmod = 2023-07-25T11:07:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "a3f583df-ed84-4d4c-abaf-2b39ac4f2777"
 +++
 
-Some that I've liked include:
+I agree with "There is no meaning to life -- it just is" but don't agree with the conclusions some (gestures vaguely to the current era) have drawn. Some that I've liked include:
 
--   We make our own meanings.
--   "Other people", [John Green]({{< relref "john_green.md" >}})
+-   We can, should, and do invent our own meanings. These self-made meanings are "true" in every definition that matters.
+-   "Other people" ([John Green]({{< relref "john_green.md" >}}))
 -   [The challenge is to improve yourself]({{< relref "the_challenge_is_to_improve_yourself.md" >}})
 
 
@@ -22,4 +22,3 @@ Some that I've liked include:
 ## Backlinks {#backlinks}
 
 -   [The challenge is to improve yourself]({{< relref "the_challenge_is_to_improve_yourself.md" >}})
--   [Describe]({{< relref "the_challenge_is_to_improve_yourself.md#describe" >}})

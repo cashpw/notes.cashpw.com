@@ -2,7 +2,7 @@
 title = "Quickselect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:09:00-07:00
-lastmod = 2022-12-17T14:05:21-08:00
+lastmod = 2023-07-25T11:35:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -70,7 +70,7 @@ procedure QuickSort(list, targetIndex) is
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 0   | 0.00     | 2022-11-16T14:23:54Z |
+| front    | 2.35 | 4   | 14.23    | 2023-07-22T20:32:25Z |
 
 Implement [Quickselect]({{< relref "quickselect.md" >}}) in [Python]({{< relref "python.md" >}})
 
@@ -84,8 +84,8 @@ Implement [Quickselect]({{< relref "quickselect.md" >}}) in [Python]({{< relref 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 45.71    | 2023-01-27T19:36:11Z |
-| back     | 2.50 | 2   | 2.00     | 2022-11-20T16:12:25Z |
+| front    | 2.80 | 7   | 348.68   | 2024-05-21T07:21:22Z |
+| back     | 2.35 | 7   | 169.52   | 2023-10-20T10:10:15Z |
 
 [Quickselect]({{< relref "quickselect.md" >}})
 
@@ -103,6 +103,5 @@ To find the `k`-th smallest element in a `list`:
 
 ## Backlinks {#backlinks}
 
--   [Quickselect implementation in Python]({{< relref "quickselect_implementation_in_python.md" >}})
 -   [Selection algorithm]({{< relref "selection_algorithm.md" >}})
--   [Example(s)]({{< relref "selection_algorithm.md#example--s" >}})
+-   [Quickselect implementation in Python]({{< relref "quickselect_implementation_in_python.md" >}})

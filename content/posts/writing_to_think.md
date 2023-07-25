@@ -2,7 +2,7 @@
 title = "Writing to think"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-01T09:20:00-08:00
-lastmod = 2022-12-17T14:23:53-08:00
+lastmod = 2023-07-25T12:43:01-07:00
 tags = ["has-todo", "has-todo"]
 categories = ["has-todo"]
 draft = false
@@ -21,8 +21,8 @@ See:
 
 ## Backlinks {#backlinks}
 
--   [Stephen Kuenzli | Key Practices for Achieving Large Professional Goals]({{< relref "kuenzliKeyPracticesAchievingLargeProfessionalGoals2019.md" >}})
--   [moridinamael | The Monthly Newsletter as Thinking Tool]({{< relref "moridinamaelMonthlyNewsletterThinking2018.md" >}})
--   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
 -   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
+-   [moridinamael | The Monthly Newsletter as Thinking Tool]({{< relref "moridinamaelMonthlyNewsletterThinking2018.md" >}})
+-   [Stephen Kuenzli | Key Practices for Achieving Large Professional Goals]({{< relref "kuenzliKeyPracticesAchievingLargeProfessionalGoals2019.md" >}})
+-   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

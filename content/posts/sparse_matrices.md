@@ -2,7 +2,7 @@
 title = "Sparse matrices"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T18:33:00-07:00
-lastmod = 2022-12-17T14:11:15-08:00
+lastmod = 2023-07-25T12:29:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "2c005434-56e2-430d-a4b9-8ad05d052f49"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 137.37   | 2023-03-24T01:26:51Z |
-| front    | 2.65 | 8   | 147.39   | 2023-04-05T01:38:45Z |
+| back     | 2.65 | 8   | 329.17   | 2024-02-17T23:21:52Z |
+| front    | 2.65 | 9   | 378.39   | 2024-04-18T02:00:39Z |
 
 Sparse vector/matrix
 

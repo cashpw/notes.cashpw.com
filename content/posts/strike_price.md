@@ -2,7 +2,7 @@
 title = "Strike price"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T06:30:00-08:00
-lastmod = 2022-12-17T14:12:30-08:00
+lastmod = 2023-07-25T12:31:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "a4a360b0-9898-4d9b-a0f0-c84a6ae07f42"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 152.69   | 2023-03-19T07:50:32Z |
-| front    | 2.65 | 8   | 232.45   | 2023-07-21T03:23:55Z |
+| back     | 2.65 | 8   | 439.83   | 2024-06-01T13:29:07Z |
+| front    | 2.65 | 9   | 636.86   | 2025-04-21T00:45:00Z |
 
 [Strike price]({{< relref "strike_price.md" >}})
 
@@ -41,8 +41,8 @@ The price in a derivative contract at which the owner can buy or sell the underl
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 10  | 111.34   | 2023-01-25T00:00:44Z |
-| 1        | 2.65 | 7   | 124.90   | 2023-02-22T23:17:13Z |
+| 0        | 2.50 | 11  | 286.95   | 2023-11-09T13:55:23Z |
+| 1        | 2.80 | 8   | 337.31   | 2024-01-27T11:22:36Z |
 
 -   {{[Strike price]({{< relref "strike_price.md" >}})}@0}
 -   {{[Exercise price]({{< relref "strike_price.md" >}})}@1}

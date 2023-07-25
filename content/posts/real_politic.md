@@ -2,7 +2,7 @@
 title = "Realpolitik"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T11:20:00-07:00
-lastmod = 2022-12-17T14:06:27-08:00
+lastmod = 2023-07-25T12:26:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ Also see [Power politics]({{< relref "power_politics.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.95 | 5   | 50.37    | 2023-01-20T01:03:57Z |
-| front    | 2.50 | 4   | 15.03    | 2022-12-30T20:49:10Z |
+| back     | 2.65 | 5   | 43.08    | 2023-08-27T16:11:07Z |
+| front    | 2.80 | 7   | 338.21   | 2024-05-18T05:47:37Z |
 
 [Realpolitik]({{< relref "real_politic.md" >}})
 
@@ -48,6 +48,8 @@ Informally: A pejorative used to signal the public-facing rationale for a politi
 ## Backlinks {#backlinks}
 
 -   [The game]({{< relref "the_game.md" >}})
+-   [Robin Hanson | Politics Isn't about Policy]({{< relref "robin_hanson_politics_isn_t_about_policy.md" >}})
+-   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
 -   [Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater]({{< relref "citationsneededNewsBriefBiden2022.md" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
--   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
+-   [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}})

@@ -2,7 +2,7 @@
 title = "Adversarial interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:35:00-07:00
-lastmod = 2022-12-17T13:34:17-08:00
+lastmod = 2023-07-25T08:33:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,8 +31,8 @@ A type of [Interoperability]({{< relref "interoperability.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 17.38    | 2022-12-21T04:59:09Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-19T18:23:17Z |
+| front    | 2.80 | 7   | 380.53   | 2024-07-04T09:02:17Z |
+| back     | 2.80 | 7   | 266.73   | 2024-02-17T07:59:56Z |
 
 [Adversarial interoperability]({{< relref "adversarial_interoperability.md" >}})
 
@@ -51,8 +51,8 @@ A type of [Interoperability]({{< relref "interoperability.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 51.30    | 2023-01-16T22:07:59Z |
-| back     | 2.80 | 4   | 16.98    | 2022-12-18T15:19:34Z |
+| front    | 3.10 | 7   | 465.80   | 2024-10-07T12:13:03Z |
+| back     | 2.80 | 7   | 302.25   | 2024-03-12T23:22:13Z |
 
 [Adversarial interoperability]({{< relref "adversarial_interoperability.md" >}})
 

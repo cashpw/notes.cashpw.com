@@ -2,7 +2,7 @@
 title = "Compound interest is the eighth wonder of the world"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-11T20:10:00-08:00
-lastmod = 2022-12-17T13:38:41-08:00
+lastmod = 2023-07-25T08:55:37-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ slug = "58a0506b-8d6e-4fe5-b0d8-286ebe6a8772"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2022-12-09T16:51:28Z |
+| 0        | 2.50 | 7   | 317.85   | 2024-05-19T00:33:28Z |
 
 
 #### Source {#source}

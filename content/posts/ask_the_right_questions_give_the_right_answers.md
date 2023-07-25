@@ -2,7 +2,7 @@
 title = "Give the right answers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:04:00-08:00
-lastmod = 2022-12-17T13:35:15-08:00
+lastmod = 2023-07-25T08:38:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,8 @@ A [Play to win]({{< relref "play_to_win.md" >}}) strategy which uses answers as 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 65.86    | 2022-12-17T11:03:27Z |
-| back     | 2.80 | 6   | 74.31    | 2023-01-08T22:54:40Z |
+| front    | 2.50 | 8   | 377.38   | 2024-06-06T23:40:38Z |
+| back     | 2.95 | 7   | 207.55   | 2023-08-05T03:32:02Z |
 
 [Give the right answers]({{< relref "ask_the_right_questions_give_the_right_answers.md" >}})
 
@@ -49,8 +49,8 @@ A [Play to Win]({{< relref "play_to_win.md" >}}) strategy which employs question
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.33    | 2022-12-30T01:27:29Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-16T18:25:49Z |
+| front    | 2.80 | 7   | 298.48   | 2024-03-29T11:33:27Z |
+| back     | 2.35 | 7   | 218.11   | 2023-12-25T15:43:47Z |
 
 [Give the right answers]({{< relref "ask_the_right_questions_give_the_right_answers.md" >}})
 

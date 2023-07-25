@@ -2,7 +2,7 @@
 title = "Institute of electrical and electronics engineers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T10:54:00-07:00
-lastmod = 2022-12-17T13:49:16-08:00
+lastmod = 2023-07-25T10:49:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,8 +16,8 @@ slug = "8659234c-fc9e-4d57-9e09-c8f7a81924d9"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 8   | 184.45   | 2023-06-03T04:29:38Z |
-| 1        | 2.65 | 11  | 110.56   | 2023-01-11T05:50:42Z |
+| 0        | 2.35 | 9   | 408.06   | 2024-07-16T06:01:11Z |
+| 1        | 2.80 | 12  | 296.70   | 2023-11-04T07:43:56Z |
 
 -   {{Institute of Electric and Electronics Engineers}@0}
 -   {{IEEE}@1}

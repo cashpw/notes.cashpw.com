@@ -2,7 +2,7 @@
 title = "Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T14:56:00-08:00
-lastmod = 2022-12-17T13:33:41-08:00
+lastmod = 2023-07-25T08:29:58-07:00
 tags = ["reference"]
 draft = false
 slug = "39b74423-8abb-4fd6-8ca1-536539e2d05b"

@@ -2,7 +2,7 @@
 title = "Intrinsic value (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:43:00-08:00
-lastmod = 2022-12-17T13:49:32-08:00
+lastmod = 2023-07-25T10:49:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "04af40d8-212f-471a-acb7-8d68aabfa2ed"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 13.91    | 2022-12-28T15:27:32Z |
-| back     | 2.20 | 1   | 1.00     | 2022-12-16T20:40:12Z |
+| front    | 2.20 | 7   | 138.25   | 2023-08-18T03:43:01Z |
+| back     | 1.30 | 7   | 16.65    | 2023-08-04T05:19:11Z |
 
 [Intrinsic value (finance)]({{< relref "intrinsic_value.md" >}})
 

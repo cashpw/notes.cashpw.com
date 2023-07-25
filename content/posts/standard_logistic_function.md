@@ -2,9 +2,9 @@
 title = "Logistic function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:11:00-08:00
-lastmod = 2022-12-17T14:12:04-08:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-07-25T12:31:01-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 +++
@@ -32,8 +32,8 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 10  | 147.21   | 2023-03-17T20:18:14Z |
-| front    | 2.65 | 7   | 129.35   | 2023-03-03T22:51:30Z |
+| back     | 2.65 | 11  | 359.88   | 2024-03-12T10:51:51Z |
+| front    | 1.90 | 6   | 44.88    | 2023-08-10T13:28:16Z |
 
 [Standard logistic function](#standard-logistic-function)
 
@@ -52,8 +52,8 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.05 | 23  | 90.71    | 2023-03-03T15:10:41Z |
-| front    | 2.35 | 4   | 14.47    | 2022-12-20T05:13:30Z |
+| back     | 2.05 | 24  | 191.99   | 2023-09-12T15:02:40Z |
+| front    | 1.60 | 8   | 100.91   | 2023-08-23T12:38:58Z |
 
 [Logistic function]({{< relref "standard_logistic_function.md" >}})
 
@@ -81,8 +81,8 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 39.36    | 2023-01-24T05:08:56Z |
-| back     | 2.65 | 10  | 171.31   | 2023-05-02T10:08:53Z |
+| front    | 2.20 | 6   | 61.61    | 2023-08-29T07:56:53Z |
+| back     | 2.65 | 11  | 429.87   | 2024-07-13T13:01:58Z |
 
 \\(\operatorname{logistic}(x)\\)
 
@@ -94,33 +94,37 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_1">“Logistic Function” 2022</a>)l
+(<a href="#citeproc_bib_item_1">“Logistic Function” 2022</a>)
 
 
-### {{\\(\operatorname{logistic}(x)\\)}{function}@0} \\(=\\) {{\\(\displaystyle \frac{1}{1 + e^{-x}}\\)}{fraction}@1} {#operatorname-logistic--x--function-0-displaystyle-frac-1-1-plus-e-x-fraction-1}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 6   | 118.55   | 2023-02-17T04:34:19Z |
-| 1        | 2.35 | 6   | 92.75    | 2023-01-25T08:24:30Z |
+| 0        | 2.50 | 7   | 314.12   | 2023-12-28T17:13:44Z |
+| 1        | 2.20 | 7   | 202.69   | 2023-08-16T09:31:19Z |
+
+{{\\(\operatorname{logistic}(x)\\)}{function}@0} \\(=\\) {{\\(\displaystyle \frac{1}{1 + e^{-x}}\\)}{fraction}@1}
 
 
 #### Source {#source}
 
-<https://en.wikipedia.org/wiki/Logistic_function>
+(<a href="#citeproc_bib_item_1">“Logistic Function” 2022</a>)
 
 
-### {{\\(\operatorname{logistic}(x)\\)}{function}@0} \\(=\\) {{\\(\displaystyle \frac{e^x}{e^x + 1}\\)}{fraction}@1} {#operatorname-logistic--x--function-0-displaystyle-frac-e-x-e-x-plus-1-fraction-1}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 180.89   | 2023-05-14T13:37:50Z |
-| 1        | 2.35 | 6   | 80.90    | 2023-01-04T00:52:30Z |
+| 0        | 2.50 | 8   | 445.19   | 2024-08-02T21:56:40Z |
+| 1        | 1.90 | 3   | 6.00     | 2023-07-30T03:56:44Z |
+
+{{\\(\operatorname{logistic}(x)\\)}{function}@0} \\(=\\) {{\\(\displaystyle \frac{e^x}{e^x + 1}\\)}{fraction}@1}
 
 
 #### Source {#source}
 
-<https://en.wikipedia.org/wiki/Logistic_function>
+(<a href="#citeproc_bib_item_1">“Logistic Function” 2022</a>)
 
 ## References
 

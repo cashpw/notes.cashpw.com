@@ -2,7 +2,7 @@
 title = "Sine"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T09:55:00-07:00
-lastmod = 2022-12-17T14:09:55-08:00
+lastmod = 2023-07-25T12:28:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,8 +30,8 @@ Also see [Cosine]({{< relref "cosine.md" >}}) and [Tangent (Trigonometry)]({{< r
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 103.17   | 2023-01-04T19:54:18Z |
-| back     | 2.65 | 7   | 108.82   | 2023-01-10T11:59:08Z |
+| front    | 2.80 | 8   | 313.21   | 2023-12-23T19:12:13Z |
+| back     | 2.65 | 8   | 286.11   | 2024-02-14T00:22:55Z |
 
 Graph \\(f(x) = \href{/posts/sine}{\sin}(x)\\)
 
@@ -46,12 +46,12 @@ Graph \\(f(x) = \href{/posts/sine}{\sin}(x)\\)
 (<a href="#citeproc_bib_item_1">“Sine and Cosine” 2022</a>)
 
 
-### {{\\(\href{/posts/sine}{\sin}(\theta)\\)}@0} \\(=\\) {{\\(\frac{\text{adjacent}}{\text{hypotenuse}}\\)}{sides}@1} {#sin--theta--0-frac-text-adjacent-text-hypotenuse-sides-1}
+### {{\\(\href{/posts/sine}{\sin}(\theta)\\)}@0} \\(=\\) {{\\(\frac{\text{opposite}}{\text{hypotenuse}}\\)}{sides}@1} {#sin--theta--0-frac-text-opposite-text-hypotenuse-sides-1}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 120.87   | 2023-04-06T10:41:54Z |
-| 1        | 2.50 | 4   | 16.11    | 2022-12-05T18:34:23Z |
+| 0        | 2.65 | 7   | 300.01   | 2024-02-05T16:36:48Z |
+| 1        | 2.35 | 6   | 99.67    | 2023-09-18T08:09:22Z |
 
 
 #### Source {#source}
@@ -59,12 +59,12 @@ Graph \\(f(x) = \href{/posts/sine}{\sin}(x)\\)
 (<a href="#citeproc_bib_item_1">“Sine and Cosine” 2022</a>)
 
 
-### {{\\(\href{/posts/cosine}{\cos}(\theta)\\)}@0} \\(=\\) {{\\(\frac{\href{/posts/sine}{\sin}(\theta)}{\href{/posts/tangent}{\tan}(\theta)}\\)}{function}@1} {#cos--theta--0-frac-sin--theta--tan--theta--function-1}
+### {{\\(\href{/posts/sine}{\sin}(\theta)\\)}@0} \\(=\\) {{\\(\frac{\href{/posts/cosine}{\cos}(\theta)}{\href{/posts/tangent}{\tan}(\theta)}\\)}{function}@1} {#sin--theta--0-frac-cos--theta--tan--theta--function-1}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 4   | 12.64    | 2022-11-28T05:43:50Z |
-| 1        | 2.50 | 2   | 2.00     | 2022-11-18T13:51:24Z |
+| 0        | 2.05 | 7   | 107.11   | 2023-10-27T15:29:22Z |
+| 1        | 2.50 | 6   | 100.62   | 2023-10-22T15:55:06Z |
 
 
 #### Source {#source}

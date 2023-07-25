@@ -2,7 +2,7 @@
 title = "Spin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T11:40:00-07:00
-lastmod = 2022-12-17T14:11:21-08:00
+lastmod = 2023-07-25T12:29:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "f80c2ae6-6786-4eae-93aa-57feebf02c39"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 92.09    | 2023-03-13T21:43:37Z |
-| front    | 2.50 | 5   | 36.92    | 2022-12-31T11:36:35Z |
+| back     | 2.65 | 7   | 228.68   | 2023-10-29T07:35:24Z |
+| front    | 2.35 | 7   | 206.26   | 2023-10-21T09:23:01Z |
 
 [Spin]({{< relref "spin.md" >}})
 

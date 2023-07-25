@@ -2,7 +2,7 @@
 title = "Scott Alexander | Should You Reverse Any Advice You Hear?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:31:00-08:00
-lastmod = 2022-12-17T13:34:28-08:00
+lastmod = 2023-07-25T08:34:58-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -53,11 +53,11 @@ A simple bit of [metacognitive]({{< relref "metacognition.md" >}}) advice which 
 ## Flashcards {#flashcards}
 
 
-### Describe {#describe}
+### Summarize {#summarize}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.23    | 2022-12-26T01:09:50Z |
+| front    | 2.20 | 7   | 167.52   | 2023-09-26T04:51:01Z |
 
 [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
 

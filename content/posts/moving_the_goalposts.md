@@ -2,7 +2,7 @@
 title = "Moving the goalposts"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T17:03:00-07:00
-lastmod = 2022-12-17T13:57:25-08:00
+lastmod = 2023-07-25T11:12:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "b2575705-10cd-4523-aaa6-153360d7bd07"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 3   | 6.00     | 2022-12-22T17:51:47Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T18:35:19Z |
+| front    | 3.10 | 6   | 158.33   | 2023-08-05T12:44:25Z |
+| back     | 2.95 | 6   | 156.58   | 2023-08-25T07:24:50Z |
 
 [Moving the goalposts]({{< relref "moving_the_goalposts.md" >}})
 
@@ -45,5 +45,5 @@ A phrase meaning to change the rules or criterion of a process/competition/etc, 
 
 ## Backlinks {#backlinks}
 
+-   [Control the conversation]({{< relref "control_the_conversation.md" >}})
 -   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})
--   [Example(s)]({{< relref "control_the_conversation.md#example--s" >}})

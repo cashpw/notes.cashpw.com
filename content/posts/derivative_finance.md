@@ -2,7 +2,7 @@
 title = "Derivative (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:21:00-08:00
-lastmod = 2022-12-17T13:40:56-08:00
+lastmod = 2023-07-25T10:28:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,15 +21,15 @@ slug = "7edbf731-5e0c-4eda-9803-1b1a88468f71"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-11T22:47:29Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-12T19:26:31Z |
+| front    | 2.80 | 7   | 346.20   | 2024-06-01T20:37:28Z |
+| back     | 2.65 | 7   | 311.23   | 2024-05-04T22:58:06Z |
 
 [Derivative (finance)]({{< relref "derivative_finance.md" >}})
 
 
 #### Back {#back}
 
-A contract which is valued based on the performance of an underlying entity.
+A financial security with a value that is reliant upon an underlying asset or group of assets (the benchmark).
 
 
 #### Source {#source}
@@ -45,6 +45,6 @@ A contract which is valued based on the performance of an underlying entity.
 
 ## Backlinks {#backlinks}
 
+-   [Vega (finance)]({{< relref "vega_finance.md" >}})
 -   [Put option]({{< relref "put_option.md" >}})
--   [Describe]({{< relref "vega_finance.md#describe" >}})
--   [Definition]({{< relref "theta_finance.md#definition" >}})
+-   [Theta (finance)]({{< relref "theta_finance.md" >}})

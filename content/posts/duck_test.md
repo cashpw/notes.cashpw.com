@@ -2,7 +2,7 @@
 title = "Duck test"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:26:00-07:00
-lastmod = 2022-12-17T13:41:56-08:00
+lastmod = 2023-07-25T10:28:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,8 @@ Also see:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 77.41    | 2022-12-22T01:59:00Z |
-| front    | 2.65 | 6   | 107.16   | 2023-02-22T18:49:23Z |
+| back     | 2.80 | 8   | 225.80   | 2023-08-07T11:11:27Z |
+| front    | 2.80 | 7   | 271.92   | 2023-11-23T02:03:34Z |
 
 [Duck test]({{< relref "duck_test.md" >}})
 
@@ -50,6 +50,5 @@ If it looks like a duck, swims like a duck, and quacks like a duck, then it prob
 
 ## Backlinks {#backlinks}
 
--   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})
 -   [The purpose of a system is what it does]({{< relref "the_purpose_of_a_system_is_what_it_does.md" >}})
--   [Describe]({{< relref "the_purpose_of_a_system_is_what_it_does.md#describe" >}})
+-   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})

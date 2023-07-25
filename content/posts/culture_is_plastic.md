@@ -2,7 +2,7 @@
 title = "Culture is plastic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T15:55:00-08:00
-lastmod = 2022-12-17T13:39:19-08:00
+lastmod = 2023-07-25T10:27:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ There isn't a fixed idea of culture. We create Culture and, intentionally or oth
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 133.05   | 2023-02-25T04:31:49Z |
-| back     | 2.35 | 6   | 128.98   | 2023-02-27T14:09:39Z |
+| front    | 2.50 | 7   | 355.66   | 2024-02-17T07:49:42Z |
+| back     | 2.20 | 7   | 258.66   | 2023-11-14T19:56:14Z |
 
 Culture is plastic
 

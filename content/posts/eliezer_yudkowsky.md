@@ -2,7 +2,7 @@
 title = "Eliezer Yudkowsky"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:06:00-08:00
-lastmod = 2022-12-17T13:42:27-08:00
+lastmod = 2023-07-25T10:29:18-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -19,6 +19,6 @@ Among other things:
 
 ## Backlinks {#backlinks}
 
--   [Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)]({{< relref "yudkowskyTsuyokuNaritaiWant2007.md" >}})
 -   [Eliezer Yudkowsky | The Fallacy of Gray]({{< relref "yudkowskyFallacyGray.md" >}})
 -   [Eliezer Yudkowsky | Something to Protect]({{< relref "eliezer_yudkowsky_something_to_protect.md" >}})
+-   [Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)]({{< relref "yudkowskyTsuyokuNaritaiWant2007.md" >}})

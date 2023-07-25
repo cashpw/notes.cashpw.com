@@ -2,10 +2,13 @@
 title = "Ceramics/Pottery Resources"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T20:16:00-08:00
-lastmod = 2022-12-17T13:37:40-08:00
+lastmod = 2023-07-25T08:51:07-07:00
 draft = false
 slug = "0b2473da-3953-457c-b68c-4abc7a235d17"
 +++
+
+A collection of [Ceramics]({{< relref "ceramics_pottery_resources.md" >}}) resources.
+
 
 ## Learn {#learn}
 

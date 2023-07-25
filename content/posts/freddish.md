@@ -2,7 +2,7 @@
 title = "Freddish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:59:00-07:00
-lastmod = 2022-12-17T13:44:33-08:00
+lastmod = 2023-07-25T10:41:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,8 +45,8 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 5   | 32.74    | 2022-12-29T08:44:02Z |
-| 1        | 2.80 | 4   | 16.90    | 2022-12-30T15:38:16Z |
+| 0        | 2.65 | 7   | 255.06   | 2023-12-09T04:37:49Z |
+| 1        | 3.10 | 6   | 152.36   | 2023-07-29T00:45:22Z |
 
 
 #### Source {#source}
@@ -58,15 +58,15 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 32.60    | 2023-01-14T17:14:09Z |
-| back     | 2.80 | 4   | 18.00    | 2022-12-18T17:56:45Z |
+| front    | 2.50 | 7   | 231.39   | 2023-12-16T23:40:46Z |
+| back     | 3.10 | 6   | 168.39   | 2023-07-31T23:30:02Z |
 
 [Freddish]({{< relref "freddish.md" >}})
 
 
 #### Back {#back}
 
-A set of language patterns for talking with children which anticipated and protected against the ways in which the listener (the child) might misinterpret the intended message.
+A set of language patterns for talking with children which anticipates and protects against the ways in which the listener (the child) might misinterpret the intended message.
 
 
 #### Source {#source}
@@ -78,8 +78,8 @@ A set of language patterns for talking with children which anticipated and prote
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 3   | 6.00     | 2022-12-19T02:50:48Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-03T15:52:52Z |
+| front    | 1.60 | 9   | 77.57    | 2023-07-26T06:10:40Z |
+| back     | 2.80 | 7   | 363.73   | 2024-06-23T11:22:42Z |
 
 [Freddish]({{< relref "freddish.md" >}})
 
@@ -98,8 +98,8 @@ A set of language patterns for talking with children which anticipated and prote
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 31.92    | 2023-01-11T15:55:04Z |
-| 1        | 2.50 | 4   | 15.91    | 2022-12-13T16:11:50Z |
+| 0        | 2.65 | 7   | 251.93   | 2023-12-17T14:01:05Z |
+| 1        | 2.20 | 7   | 197.56   | 2023-11-20T07:11:31Z |
 
 
 #### Source {#source}
@@ -116,5 +116,7 @@ A set of language patterns for talking with children which anticipated and prote
 ## Backlinks {#backlinks}
 
 -   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
+-   [Fred Rodgers Institute | When Someone a Child Loves Dies]({{< relref "fred_rodgers_institute_when_someone_a_child_loves_dies.md" >}})
 -   [Rewriting and Editing]({{< relref "julian_shapiro_writing_well_handbook.md#rewriting-and-editing" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Child development stages]({{< relref "child_development_stages.md" >}})

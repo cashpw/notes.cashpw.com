@@ -2,7 +2,7 @@
 title = "Grit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:36:00-07:00
-lastmod = 2022-12-17T13:46:16-08:00
+lastmod = 2023-07-25T10:43:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,19 +19,14 @@ slug = "b08bf4f7-76cd-41e9-973f-83d2a60de9aa"
 ## Flashcards {#flashcards}
 
 
-### Definition {#definition}
+### [Grit]({{< relref "grit.md" >}}) {#grit--grit-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 0   | 0.00     | 2022-12-15T20:06:04Z |
-| back     | 2.5  | -1  | 0        | 2022-10-14T16:42:16Z |
+| front    | 2.50 | 7   | 187.05   | 2023-11-15T17:16:46Z |
+| back     | 2.80 | 6   | 137.96   | 2023-08-03T12:41:19Z |
 
-[Grit]({{< relref "grit.md" >}})
-
-
-#### Back {#back}
-
--   perseverance and passion for long-term goals
+perseverance and passion for long-term goals
 
 
 #### Source {#source}
@@ -47,5 +42,7 @@ slug = "b08bf4f7-76cd-41e9-973f-83d2a60de9aa"
 
 ## Backlinks {#backlinks}
 
--   [Growth mindset]({{< relref "growth_mindset.md" >}})
 -   [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
+-   [Favorites]({{< relref "favorites.md" >}})
+-   [Smart Guy Productivity Pitfalls]({{< relref "smart_guy_productivity_pitfalls.md" >}})
+-   [Growth mindset]({{< relref "growth_mindset.md" >}})

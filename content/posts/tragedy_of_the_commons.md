@@ -2,7 +2,7 @@
 title = "Tragedy of the commons"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T08:05:00-07:00
-lastmod = 2022-12-17T14:19:07-08:00
+lastmod = 2023-07-25T12:37:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ Related: [Prisoner's Dilemma]({{< relref "prisoner_s_dilemma.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 5   | 28.70    | 2023-01-12T10:18:36Z |
-| front    | 2.65 | 3   | 6.00     | 2022-12-07T17:35:11Z |
+| back     | 2.50 | 7   | 164.24   | 2023-08-31T22:07:22Z |
+| front    | 2.80 | 7   | 337.98   | 2024-05-15T23:44:16Z |
 
 [Tragedy of the commons]({{< relref "tragedy_of_the_commons.md" >}})
 
@@ -43,19 +43,17 @@ A situation in which individuals who have access to a shared resource, acting in
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 71.97    | 2023-01-12T15:49:18Z |
-| back     | 2.65 | 6   | 68.30    | 2023-01-11T00:01:07Z |
+| front    | 2.50 | 8   | 497.31   | 2024-11-28T22:52:39Z |
+| back     | 2.50 | 8   | 460.07   | 2024-09-30T18:57:46Z |
 
 [Tragedy of the commons]({{< relref "tragedy_of_the_commons.md" >}})
 
 
 #### Back {#back}
 
--   Overfishing; see [Fish farming story]({{< relref "alexanderMeditationsMoloch2014.md#fish-farming-story" >}})
+-   Overfishing; see [Fish farming story]({{< relref "alexanderMeditationsMoloch2014.md#id-780bd825-4c89-4eb6-ba02-de09fefc4694-prisoner-s-dilemma" >}})
 -   The Earth's climate; see climate change
 -   Everything; see [Moloch]({{< relref "moloch.md" >}})
-
-(<a href="#citeproc_bib_item_1">“Tragedy of the Commons” 2022</a>)
 
 ## References
 
@@ -66,6 +64,8 @@ A situation in which individuals who have access to a shared resource, acting in
 
 ## Backlinks {#backlinks}
 
--   [Compare/Contrast]({{< relref "moloch.md#compare-contrast" >}})
 -   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
+-   [Moloch]({{< relref "moloch.md" >}})
+-   [Collective action problem]({{< relref "collective_action_problem.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})

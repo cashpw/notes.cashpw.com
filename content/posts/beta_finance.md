@@ -2,7 +2,7 @@
 title = "Beta (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:37:00-08:00
-lastmod = 2022-12-17T13:35:58-08:00
+lastmod = 2023-07-25T08:41:50-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ slug = "e9c9e62b-efe6-4348-898f-06ca2e03132c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T02:36:20Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-16T18:14:55Z |
+| front    | 2.35 | 6   | 66.47    | 2023-08-29T01:16:53Z |
+| back     | 1.90 | 6   | 43.32    | 2023-08-22T23:22:16Z |
 
 [Beta (finance)]({{< relref "beta_finance.md" >}})
 

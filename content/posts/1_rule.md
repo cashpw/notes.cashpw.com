@@ -2,7 +2,7 @@
 title = "1% rule"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-27T13:26:00-08:00
-lastmod = 2022-12-17T13:33:38-08:00
+lastmod = 2023-07-25T08:29:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "6db3dc17-f091-4c31-ab22-74d8ec0ebb5e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 15.58    | 2022-12-18T09:21:15Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-22T17:38:26Z |
+| front    | 2.80 | 7   | 326.95   | 2024-04-21T15:03:03Z |
+| back     | 2.50 | 7   | 188.53   | 2023-11-14T05:27:00Z |
 
 [1% rule]({{< relref "1_rule.md" >}})
 

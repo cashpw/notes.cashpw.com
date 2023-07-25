@@ -2,7 +2,7 @@
 title = "Computer cluster"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-01T11:23:00-08:00
-lastmod = 2022-12-17T13:38:43-08:00
+lastmod = 2023-07-25T08:55:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "78cc7b2d-7eb9-4387-aa91-c7fe435b7c35"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-21T18:36:42Z |
-| back     | 2.5  | -1  | 0        | 2022-12-01T19:25:21Z |
+| front    | 2.65 | 7   | 324.07   | 2024-05-04T02:14:55Z |
+| back     | 2.50 | 7   | 223.57   | 2023-12-27T02:04:17Z |
 
 [Computer cluster]({{< relref "computer_cluster.md" >}})
 

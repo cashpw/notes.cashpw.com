@@ -2,7 +2,7 @@
 title = "Don't feed the trolls"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:15:00-07:00
-lastmod = 2022-12-17T13:41:35-08:00
+lastmod = 2023-07-25T10:28:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ Trolls seek to derail conversations, inject negativity, and generally be a nuisa
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-16T18:20:29Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-16T20:38:14Z |
+| front    | 2.50 | 7   | 220.46   | 2023-12-22T04:27:25Z |
+| back     | 2.95 | 6   | 143.65   | 2023-08-04T06:06:49Z |
 
 [Don't feed the trolls]({{< relref "don_t_feed_the_trolls.md" >}})
 

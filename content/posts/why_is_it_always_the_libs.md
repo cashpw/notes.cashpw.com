@@ -2,7 +2,7 @@
 title = "Why is it always the libs?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-01T08:54:00-07:00
-lastmod = 2022-12-17T14:23:16-08:00
+lastmod = 2023-07-25T12:42:22-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,15 +21,15 @@ slug = "d8ff4c8c-4032-473b-9060-8bd7903784c8"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 39.48    | 2023-01-25T05:35:25Z |
+| 0        | 2.20 | 7   | 193.12   | 2023-11-13T00:36:00Z |
 
 
 ### Describe {#describe}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 42.24    | 2023-01-24T08:30:17Z |
-| back     | 2.50 | 4   | 13.92    | 2022-12-24T15:55:35Z |
+| front    | 2.80 | 7   | 271.76   | 2024-02-08T10:11:54Z |
+| back     | 2.20 | 7   | 186.94   | 2023-11-03T17:08:29Z |
 
 [Why is it always the libs?]({{< relref "why_is_it_always_the_libs.md" >}})
 
@@ -52,5 +52,5 @@ A rejection of the phrase "I just like triggering the libs". It's easy and hilar
 
 ## Backlinks {#backlinks}
 
+-   [The card says moops]({{< relref "the_card_says_moops.md" >}})
 -   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
--   [Example(s)]({{< relref "the_card_says_moops.md#example--s" >}})

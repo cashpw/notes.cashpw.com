@@ -2,7 +2,7 @@
 title = "Radix tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:07:00-08:00
-lastmod = 2022-12-17T14:05:44-08:00
+lastmod = 2023-07-25T12:26:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,8 @@ slug = "e00b9c0f-103f-4c55-8938-e777f58d04fb"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-18T17:59:19Z |
-| back     | 2.5  | -1  | 0        | 2022-11-25T18:15:25Z |
+| front    | 1.90 | 3   | 6.00     | 2023-07-24T13:40:32Z |
+| back     | 2.20 | 7   | 151.16   | 2023-10-13T21:11:03Z |
 
 [Radix tree]({{< relref "radix_tree.md" >}})
 
@@ -49,7 +49,7 @@ A space-optimized [Prefix tree]({{< relref "trie.md" >}}) who's edges can be lab
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 4   | 12.68    | 2022-12-25T18:43:23Z |
+| 0        | 2.05 | 7   | 113.95   | 2023-10-10T13:04:38Z |
 
 
 #### Source {#source}
@@ -61,9 +61,9 @@ A space-optimized [Prefix tree]({{< relref "trie.md" >}}) who's edges can be lab
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 2        | 2.50 | 2   | 2.00     | 2022-12-16T18:41:23Z |
-| 0        | 2.50 | 1   | 1.00     | 2022-12-12T19:23:10Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-25T18:18:59Z |
+| 2        | 2.80 | 7   | 304.57   | 2024-04-16T03:41:16Z |
+| 0        | 2.50 | 7   | 223.23   | 2023-12-23T20:12:40Z |
+| 1        | 2.65 | 7   | 311.19   | 2024-05-30T08:27:26Z |
 
 
 #### Source {#source}
@@ -75,7 +75,7 @@ A space-optimized [Prefix tree]({{< relref "trie.md" >}}) who's edges can be lab
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-12T13:48:48Z |
+| 0        | 2.20 | 7   | 157.47   | 2023-10-04T01:49:58Z |
 
 
 #### Source {#source}

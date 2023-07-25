@@ -2,7 +2,7 @@
 title = "Queue"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2022-12-17T14:05:10-08:00
+lastmod = 2023-07-25T11:35:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -36,8 +36,8 @@ A queue is an [Abstract data type]({{< relref "abstract_data_type.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 79.46    | 2023-01-05T02:06:24Z |
-| front    | 2.35 | 6   | 70.87    | 2022-12-31T11:42:32Z |
+| back     | 2.35 | 8   | 476.34   | 2024-11-01T08:56:50Z |
+| front    | 2.20 | 8   | 351.95   | 2024-05-17T14:29:48Z |
 
 [Queue]({{< relref "queue.md" >}})
 
@@ -56,7 +56,7 @@ An [Abstract data type]({{< relref "abstract_data_type.md" >}}) which defines a 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.95 | 6   | 114.80   | 2023-03-10T09:50:56Z |
+| 1        | 2.95 | 7   | 368.17   | 2024-03-13T09:29:52Z |
 
 
 #### Extra {#extra}
@@ -71,7 +71,7 @@ An [Abstract data type]({{< relref "abstract_data_type.md" >}}) which defines a 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 45.49    | 2023-01-27T14:28:32Z |
+| front    | 2.80 | 7   | 395.72   | 2024-07-14T18:02:12Z |
 
 [Queue]({{< relref "queue.md" >}}) and [Stack]({{< relref "stack.md" >}})
 
@@ -91,8 +91,8 @@ An [Abstract data type]({{< relref "abstract_data_type.md" >}}) which defines a 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.65 | 6   | 112.71   | 2023-02-14T07:32:00Z |
-| 0        | 2.65 | 6   | 101.01   | 2023-01-23T15:44:35Z |
+| 1        | 2.80 | 7   | 301.91   | 2023-12-16T01:07:54Z |
+| 0        | 2.50 | 7   | 269.40   | 2023-10-22T02:33:35Z |
 
 
 #### Extra {#extra}
@@ -109,8 +109,8 @@ A [Queue]({{< relref "queue.md" >}}) is [First in, first out]({{< relref "first_
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 130.98   | 2023-03-21T16:36:17Z |
-| back     | 2.65 | 6   | 95.74    | 2023-01-28T08:18:19Z |
+| front    | 2.95 | 7   | 360.55   | 2024-03-16T06:43:46Z |
+| back     | 2.80 | 7   | 260.63   | 2023-10-16T07:38:20Z |
 
 Common API of a [Queue]({{< relref "queue.md" >}})
 
@@ -135,5 +135,6 @@ Common API of a [Queue]({{< relref "queue.md" >}})
 
 ## Backlinks {#backlinks}
 
--   [Priority queue]({{< relref "priority_queue.md" >}})
+-   [Python library: queue]({{< relref "python_library_queue.md" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
+-   [Priority queue]({{< relref "priority_queue.md" >}})

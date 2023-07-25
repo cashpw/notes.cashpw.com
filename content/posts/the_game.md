@@ -2,7 +2,7 @@
 title = "The game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T09:43:00-07:00
-lastmod = 2022-12-17T14:15:29-08:00
+lastmod = 2023-07-25T12:34:14-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

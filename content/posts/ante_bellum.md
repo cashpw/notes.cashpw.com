@@ -2,7 +2,7 @@
 title = "Ante bellum"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:17:00-08:00
-lastmod = 2022-12-17T13:35:02-08:00
+lastmod = 2023-07-25T08:37:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ slug = "7d4a4c55-b66f-447e-8b27-f64eeed59f26"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 15.78    | 2022-12-17T11:23:51Z |
-| 1        | 2.50 | 4   | 16.28    | 2023-01-01T03:32:08Z |
+| 0        | 2.20 | 7   | 155.71   | 2023-09-11T08:03:04Z |
+| 1        | 2.80 | 7   | 299.33   | 2024-04-09T08:32:50Z |
 
 
 #### Source {#source}

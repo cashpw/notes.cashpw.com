@@ -2,7 +2,7 @@
 title = "Law of triviality"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:47:00-08:00
-lastmod = 2022-12-17T13:33:53-08:00
+lastmod = 2023-07-25T08:30:57-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -23,8 +23,8 @@ Also known as [Bike-shedding]({{< relref "LawTriviality2021.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2022-12-17T17:57:37Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-23T22:37:41Z |
+| 0        | 2.50 | 3   | 6.00     | 2023-07-24T13:39:28Z |
+| 1        | 2.50 | 7   | 253.87   | 2024-02-28T17:14:45Z |
 
 -   {{[Law of triviality]({{< relref "LawTriviality2021.md" >}})}@0}
 -   {{[Bike-shedding]({{< relref "LawTriviality2021.md" >}})}@1}
@@ -39,8 +39,8 @@ Also known as [Bike-shedding]({{< relref "LawTriviality2021.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 0   | 0.00     | 2022-12-16T17:43:33Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-03T15:43:34Z |
+| front    | 2.35 | 7   | 141.22   | 2023-09-05T21:09:36Z |
+| back     | 2.80 | 7   | 277.45   | 2024-03-20T02:28:10Z |
 
 [Bike-shedding]({{< relref "LawTriviality2021.md" >}})
 

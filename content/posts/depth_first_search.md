@@ -2,7 +2,7 @@
 title = "Depth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:36:00-07:00
-lastmod = 2022-12-17T13:40:47-08:00
+lastmod = 2023-07-25T10:28:08-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -89,8 +89,8 @@ Where \\(V\\) is the set of [Vertices]({{< relref "vertex.md" >}}) and \\(E\\) i
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 89.85    | 2023-02-02T20:43:44Z |
-| back     | 3.10 | 6   | 143.78   | 2023-05-09T12:42:22Z |
+| front    | 2.95 | 7   | 258.03   | 2023-10-23T04:46:20Z |
+| back     | 3.10 | 7   | 405.26   | 2024-06-18T22:31:34Z |
 
 [Depth-first search]({{< relref "depth_first_search.md" >}})
 
@@ -114,7 +114,7 @@ A [Graph]({{< relref "graph.md" >}}) and [Tree]({{< relref "tree.md" >}}) traver
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 8   | 167.24   | 2023-05-16T23:31:32Z |
+| 0        | 2.50 | 9   | 387.99   | 2024-06-08T12:06:59Z |
 
 
 #### Extra {#extra}
@@ -129,8 +129,8 @@ A [Graph]({{< relref "graph.md" >}}) and [Tree]({{< relref "tree.md" >}}) traver
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 8   | 135.38   | 2023-04-28T03:27:43Z |
-| 1        | 2.65 | 6   | 76.08    | 2023-01-20T01:59:22Z |
+| 0        | 2.65 | 9   | 389.57   | 2024-05-22T12:23:41Z |
+| 1        | 2.80 | 7   | 195.98   | 2023-08-04T16:46:44Z |
 
 -   {{[Depth-first search]({{< relref "depth_first_search.md" >}})}@0}
 -   {{[DFS]({{< relref "depth_first_search.md" >}})}@1}
@@ -145,7 +145,7 @@ A [Graph]({{< relref "graph.md" >}}) and [Tree]({{< relref "tree.md" >}}) traver
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 69.83    | 2022-12-29T21:20:47Z |
+| 0        | 1.90 | 5   | 25.37    | 2023-08-02T09:15:24Z |
 
 
 #### Extra {#extra}
@@ -160,7 +160,7 @@ A [Graph]({{< relref "graph.md" >}}) and [Tree]({{< relref "tree.md" >}}) traver
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 111.21   | 2023-03-13T05:55:13Z |
+| 0        | 2.95 | 7   | 310.68   | 2024-01-18T07:23:22Z |
 
 
 #### Extra {#extra}
@@ -175,7 +175,7 @@ A [Graph]({{< relref "graph.md" >}}) and [Tree]({{< relref "tree.md" >}}) traver
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.75 | 6   | 33.08    | 2023-01-18T19:48:16Z |
+| 0        | 1.90 | 9   | 203.76   | 2024-02-09T09:40:18Z |
 
 
 #### Extra {#extra}
@@ -190,7 +190,7 @@ A [Graph]({{< relref "graph.md" >}}) and [Tree]({{< relref "tree.md" >}}) traver
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 8   | 77.22    | 2023-02-18T01:07:28Z |
+| 0        | 2.05 | 6   | 51.83    | 2023-08-18T11:22:28Z |
 
 
 #### Extra {#extra}
@@ -223,8 +223,8 @@ TODO
 
 ## Backlinks {#backlinks}
 
--   [Compare and contrast: Breadth-first search and Depth-first search]({{< relref "breadth_first_search.md#compare-and-contrast-id-cff4f06c-6179-423d-aa1d-ba54d85615e2-breadth-first-search-and-id-81c88eaa-3ec9-486c-bcdf-457dd40b4eba-depth-first-search" >}})
+-   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
--   [{{Iterative deepening depth-first-search}@1} is {{optimal}@0}, unlike Depth-first search]({{< relref "iterative_deepening_depth_first_search.md#id-0ad51c11-995b-4437-a218-82df11697f7a-iterative-deepening-depth-first-search-1-is-optimal-0-unlike-id-81c88eaa-3ec9-486c-bcdf-457dd40b4eba-depth-first-search" >}})
--   [Describe]({{< relref "iterative_deepening_depth_first_search.md#describe" >}})
 -   [Trie]({{< relref "trie.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})
+-   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})

@@ -2,7 +2,7 @@
 title = "The one place that isn't corrupted by capitalism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T16:30:00-07:00
-lastmod = 2022-12-17T14:16:13-08:00
+lastmod = 2023-07-25T12:34:40-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ slug = "07f76962-f3c9-4b51-bfda-2354c066f713"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 17.18    | 2022-12-24T20:08:44Z |
+| 0        | 2.95 | 7   | 494.44   | 2024-11-26T01:46:47Z |
 
 
 #### Source {#source}

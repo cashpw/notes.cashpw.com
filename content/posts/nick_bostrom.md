@@ -2,7 +2,7 @@
 title = "Nick Bostrom"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-20T20:17:00-07:00
-lastmod = 2022-12-17T13:58:16-08:00
+lastmod = 2023-07-25T11:14:36-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -17,5 +17,5 @@ Among other things:
 
 ## Backlinks {#backlinks}
 
+-   [Nick Bostrom | The Vulnerable World Hypothesis]({{< relref "nick_bostrom_the_vulnerable_world_hypothesis.md" >}})
 -   [Nick Bostrom | The Fable of the Dragon Tyrant]({{< relref "bostromFableDragonTyrant2005.md" >}})
--   [Source]({{< relref "bostromFableDragonTyrant2005.md#source" >}})

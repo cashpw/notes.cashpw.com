@@ -2,7 +2,7 @@
 title = "The opposite of a trap is a garden"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-10T09:13:00-07:00
-lastmod = 2022-12-17T14:16:18-08:00
+lastmod = 2023-07-25T12:34:43-07:00
 tags = ["concept", "quote", "concept", "quote"]
 categories = ["concept", "quote"]
 draft = false
@@ -21,8 +21,8 @@ slug = "d263a9a2-ed45-438b-a390-7f205f383d54"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.35 | 5   | 31.05    | 2022-12-25T14:46:28Z |
-| 0        | 2.80 | 4   | 16.23    | 2022-12-17T22:56:56Z |
+| 1        | 2.35 | 7   | 152.89   | 2023-08-03T11:14:34Z |
+| 0        | 2.65 | 7   | 292.41   | 2024-03-02T00:38:51Z |
 
 
 #### Source {#source}
@@ -34,8 +34,8 @@ slug = "d263a9a2-ed45-438b-a390-7f205f383d54"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 15.37    | 2022-12-24T03:03:15Z |
-| back     | 2.50 | 4   | 16.31    | 2022-12-29T10:03:25Z |
+| front    | 3.10 | 7   | 397.79   | 2024-08-03T19:46:55Z |
+| back     | 2.50 | 7   | 264.93   | 2024-02-10T11:31:52Z |
 
 [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}})
 
@@ -58,6 +58,5 @@ The only way to avoid having all human values gradually ground down by optimizat
 
 ## Backlinks {#backlinks}
 
--   [Coordination (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#coordination--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
+-   [Coordination (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md" >}})
 -   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})
--   [Describe]({{< relref "alexanderMeditationsMoloch2014.md#describe" >}})

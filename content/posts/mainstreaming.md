@@ -2,7 +2,7 @@
 title = "Mainstreaming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:10:00-07:00
-lastmod = 2022-12-17T13:53:49-08:00
+lastmod = 2023-07-25T11:04:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ See [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}}) 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 6   | 61.28    | 2022-12-21T08:21:57Z |
-| front    | 2.35 | 6   | 54.40    | 2022-12-17T04:41:24Z |
+| back     | 2.65 | 8   | 446.87   | 2024-08-25T11:56:32Z |
+| front    | 2.20 | 8   | 302.53   | 2024-02-27T07:20:01Z |
 
 [Mainstreaming]({{< relref "mainstreaming.md" >}})
 
@@ -41,8 +41,8 @@ The process by which a group or idea from the fringes moves toward the center.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 49.06    | 2023-01-17T17:30:46Z |
-| back     | 2.80 | 4   | 16.22    | 2022-12-25T01:26:39Z |
+| front    | 2.80 | 7   | 351.62   | 2024-05-10T11:15:44Z |
+| back     | 2.80 | 7   | 407.44   | 2024-08-13T11:59:25Z |
 
 [Mainstreaming]({{< relref "mainstreaming.md" >}})
 

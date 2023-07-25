@@ -2,7 +2,7 @@
 title = "Basis"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T20:37:00-07:00
-lastmod = 2022-12-17T13:35:37-08:00
+lastmod = 2023-07-25T08:40:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "90dcfc79-6808-48ab-8193-2b040295574c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 11  | 116.50   | 2023-02-16T03:09:47Z |
-| 1        | 2.65 | 5   | 44.64    | 2023-01-16T09:26:19Z |
+| 0        | 2.35 | 12  | 252.63   | 2023-10-28T06:04:59Z |
+| 1        | 2.50 | 7   | 265.85   | 2024-02-01T11:29:19Z |
 
 -   {{\\(\begin{bmatrix}f\end{bmatrix}\_{\beta\_1}^{\beta\_2}\\)}@0}
 
@@ -36,8 +36,8 @@ slug = "90dcfc79-6808-48ab-8193-2b040295574c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 140.91   | 2023-03-22T14:18:38Z |
-| back     | 2.65 | 8   | 228.33   | 2023-07-16T02:20:10Z |
+| front    | 2.65 | 8   | 338.33   | 2024-02-24T23:58:17Z |
+| back     | 2.65 | 9   | 592.18   | 2025-02-27T18:19:39Z |
 
 Describe how to find the basis of the column space of a matrix.
 
@@ -53,8 +53,8 @@ Describe how to find the basis of the column space of a matrix.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 7   | 135.06   | 2023-02-17T17:32:43Z |
-| front    | 2.35 | 8   | 120.45   | 2023-03-08T01:48:52Z |
+| back     | 2.80 | 8   | 389.95   | 2024-03-14T16:11:21Z |
+| front    | 2.35 | 9   | 256.82   | 2023-11-20T13:16:16Z |
 
 Dimension of a vector space
 
@@ -73,8 +73,8 @@ The cardinality of a basis in that vector space.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 116.17   | 2023-01-29T19:51:22Z |
-| 1        | 2.35 | 1   | 1.00     | 2022-12-16T20:48:39Z |
+| 0        | 2.80 | 8   | 354.33   | 2024-01-19T10:27:38Z |
+| 1        | 2.20 | 7   | 153.20   | 2023-10-09T21:25:27Z |
 
 -   {{Canonical basis}@0}
 -   {{Standard basis}@1}
@@ -90,7 +90,7 @@ The cardinality of a basis in that vector space.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.65 | 10  | 238.29   | 2023-08-12T00:54:34Z |
-| front    | 2.65 | 7   | 135.55   | 2023-02-18T04:51:03Z |
+| front    | 2.80 | 8   | 350.57   | 2024-02-04T07:01:11Z |
 
 Basis
 
@@ -114,8 +114,8 @@ A collection of \\(n\\) linearly independent \\(n\text{-vectors}\\).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 9   | 200.95   | 2023-07-02T17:05:44Z |
-| front    | 2.65 | 7   | 132.67   | 2023-02-22T06:39:05Z |
+| back     | 2.20 | 10  | 413.01   | 2024-08-19T01:26:11Z |
+| front    | 2.50 | 8   | 361.68   | 2024-02-22T09:43:40Z |
 
 Canonical basis
 

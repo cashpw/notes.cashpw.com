@@ -2,7 +2,7 @@
 title = "Game theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T07:02:00-07:00
-lastmod = 2022-12-17T13:44:56-08:00
+lastmod = 2023-07-25T10:42:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "e157ee7b-f36c-4ff8-bcb3-643163925c20"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 3   | 6.00     | 2022-12-20T18:47:21Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-14T02:41:31Z |
+| front    | 2.20 | 7   | 146.69   | 2023-09-03T08:07:45Z |
+| back     | 2.80 | 7   | 300.79   | 2024-04-19T09:08:16Z |
 
 [Game theory]({{< relref "game_theory.md" >}})
 
@@ -45,29 +45,21 @@ Study of mathematical models of strategic interactions among rational agents.
 
 ## Backlinks {#backlinks}
 
--   [Coordination]({{< relref "coordination.md" >}})
--   [Non-cooperative game]({{< relref "non_cooperative_game.md" >}})
--   [Chicken (game)]({{< relref "chicken.md" >}})
--   [Describe]({{< relref "chicken.md#describe" >}})
--   [Symmetric game]({{< relref "symmetric_game.md" >}})
--   [Definition (Game theory)]({{< relref "symmetric_game.md#definition--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
--   [Example(s) (Game theory)]({{< relref "symmetric_game.md#example--s----id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
--   [Zero-sum game]({{< relref "zero_sum_game.md" >}})
--   [Definition (Game theory)]({{< relref "zero_sum_game.md#definition--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
--   [Example(s) (Game theory)]({{< relref "zero_sum_game.md#example--s----id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
--   [Describe (Game theory)]({{< relref "dictator_game.md#describe--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
 -   [Perfect information]({{< relref "perfect_information.md" >}})
--   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
--   [Example(s) (Game theory)]({{< relref "non_zero_sum_game.md#example--s----id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
--   [Definition (Game theory)]({{< relref "non_zero_sum_game.md#definition--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
--   [Example(s)]({{< relref "stag_hunt.md#example--s" >}})
--   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
--   [Describe (Game theory)]({{< relref "prisoner_s_dilemma.md#describe--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
--   [Imperfect information]({{< relref "imperfect_information.md" >}})
--   [Asymmetric game]({{< relref "asymmetric_game.md" >}})
--   [Describe (Game theory)]({{< relref "ultimatum_game.md#describe--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
--   [Simultaneous game]({{< relref "simultaneous_game.md" >}})
--   [Example(s)]({{< relref "simultaneous_game.md#example--s" >}})
 -   [Sequential game]({{< relref "sequential_game.md" >}})
--   [Example(s)]({{< relref "sequential_game.md#example--s" >}})
+-   [Zero-sum game]({{< relref "zero_sum_game.md" >}})
+-   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
+-   [Ultimatum game]({{< relref "ultimatum_game.md" >}})
+-   [Symmetric game]({{< relref "symmetric_game.md" >}})
+-   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
+-   [Coordination]({{< relref "coordination.md" >}})
+-   [Simultaneous game]({{< relref "simultaneous_game.md" >}})
+-   [Chicken (game)]({{< relref "chicken.md" >}})
+-   [Dictator game]({{< relref "dictator_game.md" >}})
+-   [Invisible games]({{< relref "invisible_games.md" >}})
+-   [Non-cooperative game]({{< relref "non_cooperative_game.md" >}})
+-   [Stag hunt]({{< relref "stag_hunt.md" >}})
+-   [Imperfect information]({{< relref "imperfect_information.md" >}})
+-   [Matching pennies]({{< relref "matching_pennies.md" >}})
 -   [Cooperative game]({{< relref "cooperative_game.md" >}})
+-   [Asymmetric game]({{< relref "asymmetric_game.md" >}})

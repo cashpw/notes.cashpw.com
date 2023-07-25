@@ -2,7 +2,7 @@
 title = "Ben Kuhn | Be Impatient"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:36:00-08:00
-lastmod = 2022-12-17T13:51:40-08:00
+lastmod = 2023-07-25T10:56:46-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -48,8 +48,8 @@ Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 0   | 0.00     | 2022-12-13T18:07:56Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-22T20:49:01Z |
+| 0        | 2.50 | 7   | 306.09   | 2024-05-05T21:32:58Z |
+| 1        | 2.20 | 7   | 183.91   | 2023-11-17T10:17:22Z |
 
 
 #### Source {#source}
@@ -57,12 +57,12 @@ Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
 (<a href="#citeproc_bib_item_1">Kuhn 2020</a>)
 
 
-### Describe {#describe}
+### Summarize {#summarize}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 13.59    | 2022-12-29T10:17:25Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-18T17:35:49Z |
+| front    | 2.20 | 7   | 161.25   | 2023-09-25T23:22:09Z |
+| back     | 2.50 | 7   | 235.34   | 2024-01-15T22:29:14Z |
 
 [Ben Kuhn | Be Impatient]({{< relref "kuhnBeImpatient2020.md" >}})
 
@@ -85,5 +85,6 @@ The faster you process information, the faster you can incorporate the result in
 
 ## Backlinks {#backlinks}
 
+-   [Favorites]({{< relref "favorites.md" >}})
 -   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Blogroll]({{< relref "blogroll.md" >}})

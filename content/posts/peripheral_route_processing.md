@@ -2,7 +2,7 @@
 title = "Peripheral route processing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:17:00-07:00
-lastmod = 2022-12-17T14:01:50-08:00
+lastmod = 2023-07-25T11:25:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,12 +19,12 @@ A way of processing an argument by looking at secondary characteristics. Usually
 ## Flashcards {#flashcards}
 
 
-### Definition (Psychology, pursuasion) {#definition--psychology-pursuasion}
+### Definition (Psychology, persuasion) {#definition--psychology-persuasion}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.60 | 16  | 93.78    | 2023-02-06T19:03:13Z |
-| front    | 2.65 | 6   | 85.98    | 2022-12-17T14:56:15Z |
+| back     | 2.60 | 17  | 260.53   | 2023-10-25T12:32:10Z |
+| front    | 2.65 | 7   | 278.88   | 2024-03-12T12:11:29Z |
 
 [Peripheral route processing]({{< relref "peripheral_route_processing.md" >}})
 
@@ -43,8 +43,8 @@ A person's consideration of the secondary characteristics of an argument (i.e fr
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 107.94   | 2023-02-23T13:12:46Z |
-| back     | 2.80 | 6   | 103.95   | 2023-02-12T15:12:29Z |
+| front    | 2.65 | 7   | 277.74   | 2023-12-01T09:38:03Z |
+| back     | 2.95 | 7   | 321.92   | 2023-12-31T15:36:22Z |
 
 [Peripheral route processing]({{< relref "peripheral_route_processing.md" >}})
 
@@ -71,6 +71,5 @@ A person's consideration of the secondary characteristics of an argument (i.e fr
 ## Backlinks {#backlinks}
 
 -   [Central route processing]({{< relref "central_route_processing.md" >}})
--   [Definition (Alt-right Playbook)]({{< relref "control_the_conversation.md#definition--id-913d6ace-03ac-4d34-ae92-5bd8a519236c-alt-right-playbook" >}})
+-   [Control the conversation]({{< relref "control_the_conversation.md" >}})
 -   [Never play defense]({{< relref "never_play_defense.md" >}})
--   [Describe (Alt-right Playbook)]({{< relref "never_play_defense.md#describe--id-913d6ace-03ac-4d34-ae92-5bd8a519236c-alt-right-playbook" >}})

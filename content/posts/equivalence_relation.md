@@ -2,7 +2,7 @@
 title = "Equivalence relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-06T06:58:00-08:00
-lastmod = 2022-12-17T13:42:54-08:00
+lastmod = 2023-07-25T10:39:17-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "c9e0ef8d-dace-4826-8d45-83605f4ec7e2"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 9   | 138.44   | 2023-03-16T02:13:55Z |
+| back     | 2.65 | 10  | 399.43   | 2024-04-20T00:25:09Z |
 | front    | 2.65 | 8   | 248.46   | 2023-08-12T02:44:56Z |
 
 [Equivalence relation]({{< relref "equivalence_relation.md" >}})
@@ -29,7 +29,6 @@ slug = "c9e0ef8d-dace-4826-8d45-83605f4ec7e2"
 
 #### Back {#back}
 
-A binary relation \\(R\\) that is symmetric, reflexive, and transitive
 A binary relation that is [reflexive]({{< relref "reflexive.md" >}}), [symmetric]({{< relref "symmetric_relation.md" >}}) and [transitive]({{< relref "transitive.md" >}}).
 
 

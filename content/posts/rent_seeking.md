@@ -2,7 +2,7 @@
 title = "Rent-seeking"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T15:25:00-08:00
-lastmod = 2022-12-17T14:07:18-08:00
+lastmod = 2023-07-25T12:26:35-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "7b600674-2c87-4532-b676-a6e025fca18e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 1   | 1.00     | 2022-12-16T20:43:07Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-09T20:08:51Z |
+| front    | 2.50 | 7   | 232.97   | 2024-01-18T15:41:40Z |
+| back     | 2.80 | 7   | 285.37   | 2024-03-15T13:27:44Z |
 
 [Rent-seeking]({{< relref "rent_seeking.md" >}})
 

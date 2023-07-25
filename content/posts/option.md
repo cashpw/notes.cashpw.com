@@ -2,7 +2,7 @@
 title = "Option (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:29:00-08:00
-lastmod = 2022-12-17T13:59:54-08:00
+lastmod = 2023-07-25T11:21:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -51,7 +51,7 @@ slug = "1263eb22-a819-43e6-9ab4-d45f790b095f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2022-12-17T19:14:17Z |
+| 0        | 2.35 | 7   | 135.06   | 2023-08-16T16:46:07Z |
 
 
 #### Source {#source}
@@ -63,7 +63,7 @@ slug = "1263eb22-a819-43e6-9ab4-d45f790b095f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 36.86    | 2023-01-16T12:52:41Z |
+| front    | 2.80 | 7   | 287.08   | 2024-02-14T23:55:09Z |
 
 [American options](#american-options) and [European options](#european-options)
 
@@ -89,10 +89,9 @@ slug = "1263eb22-a819-43e6-9ab4-d45f790b095f"
 
 ## Backlinks {#backlinks}
 
+-   [Delta (finance)]({{< relref "delta.md" >}})
+-   [Vega (finance)]({{< relref "vega_finance.md" >}})
+-   [Option time value]({{< relref "time_value_finance.md" >}})
+-   [Intrinsic value (finance)]({{< relref "intrinsic_value.md" >}})
 -   [Strike price]({{< relref "strike_price.md" >}})
 -   [Gamma (finance)]({{< relref "gamma.md" >}})
--   [Option time value]({{< relref "time_value_finance.md" >}})
--   [Describe]({{< relref "time_value_finance.md#describe" >}})
--   [Option (finance) value and volatility are {{positively}{+/-}@0} correlated]({{< relref "vega_finance.md#id-1263eb22-a819-43e6-9ab4-d45f790b095f-option--finance--value-and-volatility-are-positively-plus-0-correlated" >}})
--   [Intrinsic value (finance)]({{< relref "intrinsic_value.md" >}})
--   [Delta (finance)]({{< relref "delta.md" >}})

@@ -2,7 +2,7 @@
 title = "Sequential game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:47:00-07:00
-lastmod = 2022-12-17T14:09:25-08:00
+lastmod = 2023-07-25T12:27:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,8 +28,8 @@ Contrast with a [Simultaneous game]({{< relref "simultaneous_game.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 38.81    | 2023-01-21T13:48:24Z |
-| 1        | 2.80 | 4   | 17.77    | 2023-01-02T14:39:34Z |
+| 0        | 2.20 | 7   | 181.80   | 2023-10-28T09:30:30Z |
+| 1        | 3.10 | 6   | 167.29   | 2023-08-12T23:22:23Z |
 
 {{[Sequential game]({{< relref "sequential_game.md" >}})}@0} ([Game theory]({{< relref "game_theory.md" >}}); turn order)
 
@@ -45,8 +45,8 @@ Contrast with a [Simultaneous game]({{< relref "simultaneous_game.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 13.64    | 2022-12-20T07:22:01Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-15T18:05:47Z |
+| front    | 2.50 | 7   | 221.90   | 2023-12-09T21:14:26Z |
+| back     | 2.50 | 7   | 169.90   | 2023-10-20T19:29:45Z |
 
 [Sequential game]({{< relref "sequential_game.md" >}})
 
@@ -65,8 +65,8 @@ A game in which one player chooses their action before the others choose theirs.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 4   | 12.71    | 2022-12-26T11:15:09Z |
-| 1        | 2.50 | 2   | 2.00     | 2022-12-18T17:37:16Z |
+| 0        | 1.90 | 8   | 163.10   | 2023-11-09T18:30:05Z |
+| 1        | 2.80 | 7   | 331.53   | 2024-05-21T02:03:51Z |
 
 -   {{[Sequential game]({{< relref "sequential_game.md" >}})}@0}
 -   {{[Dynamic game]({{< relref "sequential_game.md" >}})}@1}

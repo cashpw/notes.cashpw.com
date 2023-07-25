@@ -2,7 +2,7 @@
 title = "Edge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:15:00-07:00
-lastmod = 2022-12-17T13:42:12-08:00
+lastmod = 2023-07-25T10:29:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ An edge is a connection between two or more [Vertices]({{< relref "vertex.md" >}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 120.81   | 2023-02-18T21:07:10Z |
-| front    | 2.65 | 6   | 88.83    | 2022-12-31T13:58:38Z |
+| back     | 2.50 | 7   | 280.19   | 2023-11-29T19:29:24Z |
+| front    | 2.80 | 7   | 229.72   | 2023-08-19T20:56:42Z |
 
 [Edge]({{< relref "edge.md" >}})
 
@@ -43,9 +43,16 @@ A connection between two or more [Vertices]({{< relref "vertex.md" >}}).
 
 ## Backlinks {#backlinks}
 
--   [Graph theory]({{< relref "graph_theory.md" >}})
--   [Graph]({{< relref "graph.md" >}})
+-   [Widest path problem]({{< relref "widest_path_problem.md" >}})
 -   [Vertex]({{< relref "vertex.md" >}})
--   [Directed graph]({{< relref "directed_graph.md" >}})
--   [Definition (Graph Theory)]({{< relref "directed_graph.md#definition--id-5bc61709-6612-4287-921f-3e2509bd2261-graph-theory" >}})
+-   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
+-   [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})
+-   [Path (graph theory)]({{< relref "path_graph_theory.md" >}})
+-   [Graph]({{< relref "graph.md" >}})
+-   [Graph theory]({{< relref "graph_theory.md" >}})
+-   [Trail (Graph theory)]({{< relref "trail_graph_theory.md" >}})
 -   [Depth-first search]({{< relref "depth_first_search.md" >}})
+-   [Walk (Graph theory)]({{< relref "walk_graph_theory.md" >}})
+-   [Customizable route planning]({{< relref "customizable_route_planning.md" >}})
+-   [Closure (Graph)]({{< relref "closure_graph.md" >}})
+-   [Directed graph]({{< relref "directed_graph.md" >}})

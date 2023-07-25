@@ -2,7 +2,7 @@
 title = "Complete information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-22T15:56:00-07:00
-lastmod = 2022-12-17T13:38:35-08:00
+lastmod = 2023-07-25T08:55:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,8 +30,8 @@ slug = "d80fe9f3-c36e-4878-89fc-d7ad8d6e247f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 39.97    | 2023-01-10T17:03:27Z |
-| back     | 2.80 | 4   | 16.57    | 2022-12-30T08:03:21Z |
+| front    | 2.50 | 7   | 255.56   | 2024-01-09T12:07:43Z |
+| back     | 2.65 | 6   | 109.10   | 2023-08-23T20:05:24Z |
 
 [Complete information]({{< relref "complete_information.md" >}})
 
@@ -50,8 +50,8 @@ A game in which the structure is known to all players but they may not see all m
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 41.39    | 2023-01-27T03:06:16Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-17T15:22:09Z |
+| front    | 2.50 | 7   | 286.12   | 2024-03-02T15:49:24Z |
+| back     | 2.80 | 7   | 325.16   | 2024-04-30T20:00:04Z |
 
 [Complete information]({{< relref "complete_information.md" >}})
 
@@ -76,5 +76,4 @@ A game in which the structure is known to all players but they may not see all m
 ## Backlinks {#backlinks}
 
 -   [Perfect information]({{< relref "perfect_information.md" >}})
--   [Compare and contrast]({{< relref "perfect_information.md#compare-and-contrast" >}})
 -   [Imperfect information]({{< relref "imperfect_information.md" >}})

@@ -2,7 +2,7 @@
 title = "Paul Graham | When People Are Naturally Good at Something"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T05:00:00-08:00
-lastmod = 2022-12-17T13:45:40-08:00
+lastmod = 2023-07-25T10:43:00-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -19,11 +19,13 @@ Related: [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 ## Flashcards {#flashcards}
 
 
-### When people are naturally good at something, {{they tend to be puzzled by how other people are so bad at it.}@0} {#when-people-are-naturally-good-at-something-they-tend-to-be-puzzled-by-how-other-people-are-so-bad-at-it-dot-0}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 4   | 13.76    | 2022-12-26T20:13:03Z |
+| 0        | 2.20 | 7   | 142.60   | 2023-08-26T06:56:14Z |
+
+When people are naturally good at something, {{they tend to be puzzled by how other people are so bad at it.}@0}
 
 
 #### Source {#source}
@@ -35,3 +37,8 @@ Related: [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Graham, Paul. 2022. “When People Are Naturally Good at Something, They Tend to Be Puzzled by How Bad Other People Are at It. So That’s One Way to Figure out What You’re Naturally Good at. What Do Other People Seem Puzzlingly Bad at? (Being Right Doesn’t Count. Everyone Thinks They’re Right.).” Tweet. <i>@Paulg</i>. <a href="https://twitter.com/paulg/status/1502218548617297921">https://twitter.com/paulg/status/1502218548617297921</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})

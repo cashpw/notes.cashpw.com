@@ -2,7 +2,7 @@
 title = "Matthew D. Weaver et al. | Adverse Impact of Polyphasic Sleep Patterns in Humans"
 author = ["Cash Weaver"]
 date = 2022-11-22T09:21:00-08:00
-lastmod = 2022-12-17T13:54:56-08:00
+lastmod = 2023-07-25T11:07:14-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

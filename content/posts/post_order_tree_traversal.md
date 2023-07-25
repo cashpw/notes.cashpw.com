@@ -2,7 +2,7 @@
 title = "Post-order tree traversal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:33:00-07:00
-lastmod = 2022-12-17T14:03:12-08:00
+lastmod = 2023-07-25T11:28:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,8 +31,8 @@ slug = "81611da6-3ea4-45d9-b2db-b96ed95d946d"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 5   | 48.86    | 2022-12-20T13:10:05Z |
-| back     | 2.80 | 5   | 53.35    | 2023-01-03T01:48:14Z |
+| front    | 2.95 | 7   | 453.84   | 2024-08-09T12:46:43Z |
+| back     | 2.95 | 7   | 486.17   | 2024-10-18T00:53:58Z |
 
 [Post-order tree traversal]({{< relref "post_order_tree_traversal.md" >}})
 

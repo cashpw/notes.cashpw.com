@@ -2,7 +2,7 @@
 title = "Reverse cargo cult"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-23T15:45:00-07:00
-lastmod = 2022-12-17T14:07:31-08:00
+lastmod = 2023-07-25T12:26:39-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -35,8 +35,8 @@ Related: [Fallacy of grey]({{< relref "fallacy_of_gray.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 7   | 79.08    | 2023-01-24T18:36:45Z |
-| front    | 2.80 | 6   | 69.09    | 2023-01-15T16:34:54Z |
+| back     | 2.95 | 8   | 228.96   | 2023-09-11T15:40:04Z |
+| front    | 2.65 | 8   | 416.65   | 2024-08-25T19:52:15Z |
 
 [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}})
 

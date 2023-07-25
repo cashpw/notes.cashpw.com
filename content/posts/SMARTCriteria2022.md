@@ -2,7 +2,7 @@
 title = "SMART criteria"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:59:00-08:00
-lastmod = 2022-12-17T13:33:57-08:00
+lastmod = 2023-07-25T08:31:18-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -27,8 +27,8 @@ SMART goals are:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-22T18:06:17Z |
-| back     | 2.5  | -1  | 0        | 2022-11-23T20:29:01Z |
+| front    | 2.20 | 7   | 139.79   | 2023-08-26T10:03:14Z |
+| back     | 2.80 | 7   | 292.00   | 2024-04-06T20:43:30Z |
 
 [SMART criteria]({{< relref "SMARTCriteria2022.md" >}})
 

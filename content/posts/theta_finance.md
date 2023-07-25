@@ -2,7 +2,7 @@
 title = "Theta (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:40:00-08:00
-lastmod = 2022-12-17T14:17:15-08:00
+lastmod = 2023-07-25T12:35:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "52a7a44e-dbca-4eae-974a-b7185c2c97b7"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 12.01    | 2022-12-18T00:43:54Z |
-| back     | 2.50 | 4   | 15.53    | 2022-12-27T04:07:58Z |
+| front    | 2.20 | 7   | 139.97   | 2023-08-16T02:21:13Z |
+| back     | 2.35 | 7   | 171.06   | 2023-10-28T17:35:54Z |
 
 [Theta (finance)]({{< relref "theta_finance.md" >}})
 
@@ -48,8 +48,8 @@ slug = "52a7a44e-dbca-4eae-974a-b7185c2c97b7"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 4   | 12.28    | 2022-12-22T05:22:34Z |
-| 1        | 2.50 | 1   | 1.00     | 2022-12-17T17:39:34Z |
+| 0        | 2.50 | 7   | 173.35   | 2023-09-22T05:58:08Z |
+| 1        | 2.20 | 7   | 146.15   | 2023-12-07T04:28:11Z |
 
 
 #### Source {#source}

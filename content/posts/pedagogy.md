@@ -2,7 +2,7 @@
 title = "Pedagogy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T18:48:00-07:00
-lastmod = 2022-12-17T14:01:26-08:00
+lastmod = 2023-07-25T11:24:14-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -27,17 +27,12 @@ slug = "85cfa8c4-9c7b-47d9-a593-8548385027f7"
 ## Flashcards {#flashcards}
 
 
-### Definition {#definition}
+### [Pedagogy]({{< relref "pedagogy.md" >}}) {#pedagogy--pedagogy-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 5   | 41.92    | 2023-01-17T12:49:26Z |
-| front    | 2.20 | 0   | 0.00     | 2022-12-15T20:44:04Z |
-
-[Pedagogy]({{< relref "pedagogy.md" >}})
-
-
-#### Back {#back}
+| back     | 2.35 | 7   | 240.50   | 2023-12-27T06:50:27Z |
+| front    | 2.05 | 7   | 146.97   | 2023-10-03T16:04:14Z |
 
 The theory and practice of learning
 
@@ -60,6 +55,7 @@ The theory and practice of learning, and how this process influences and is infl
 
 ## Backlinks {#backlinks}
 
--   [The first lesson]({{< relref "the_first_lesson.md" >}})
 -   [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
+-   [The first lesson]({{< relref "the_first_lesson.md" >}})
+-   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "pedagogy.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

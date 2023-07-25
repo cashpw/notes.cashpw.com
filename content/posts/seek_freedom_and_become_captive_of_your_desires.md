@@ -2,7 +2,7 @@
 title = "Seek freedom and become captive of your desires"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:41:00-08:00
-lastmod = 2022-12-17T14:09:05-08:00
+lastmod = 2023-07-25T12:27:35-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -27,7 +27,7 @@ slug = "af8dd2c4-6877-4084-8f87-34a372286926"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2022-12-17T20:29:00Z |
+| 0        | 1.75 | 8   | 169.79   | 2023-12-13T11:25:24Z |
 
 Seek freedom {{and become captive of your desires.}@0}
 
@@ -41,7 +41,7 @@ Seek freedom {{and become captive of your desires.}@0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2022-12-09T15:46:24Z |
+| 0        | 2.20 | 7   | 155.73   | 2023-10-25T07:16:53Z |
 
 Seek discipline {{and find your liberty.}@0}
 
@@ -55,7 +55,7 @@ Seek discipline {{and find your liberty.}@0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | -1  | 0        | 2022-12-15T20:26:54Z |
+| 0        | 2.20 | 7   | 200.30   | 2024-01-13T22:40:43Z |
 
 Seek freedom {{and become captive of your desires. Seek discipline and find your liberty.}{full}@0}
 

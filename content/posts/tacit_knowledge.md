@@ -2,9 +2,9 @@
 title = "Tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-30T13:17:00-08:00
-lastmod = 2022-12-17T14:13:51-08:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2023-07-25T12:32:37-07:00
+tags = ["has-todo", "concept", "has-todo", "concept"]
+categories = ["has-todo", "concept"]
 draft = false
 slug = "d636dfa7-428d-457c-8db6-15fa61e03bef"
 +++
@@ -23,8 +23,8 @@ slug = "d636dfa7-428d-457c-8db6-15fa61e03bef"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 13.89    | 2022-12-20T12:23:48Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-13T19:55:07Z |
+| front    | 2.35 | 7   | 210.16   | 2023-11-26T22:19:58Z |
+| back     | 3.25 | 7   | 462.73   | 2024-10-20T07:43:16Z |
 
 [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
 
@@ -43,8 +43,8 @@ Knowledge which is difficult to express or extract and is thus more difficult to
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 33.79    | 2023-01-17T12:48:38Z |
-| 1        | 2.65 | 5   | 41.68    | 2023-01-27T09:58:26Z |
+| 0        | 2.35 | 7   | 184.94   | 2023-10-02T14:42:35Z |
+| 1        | 2.35 | 7   | 228.89   | 2023-12-24T14:13:09Z |
 
 -   {{[Tacit knowledge]({{< relref "tacit_knowledge.md" >}})}@0}
 -   {{[Implicit knowledge]({{< relref "tacit_knowledge.md" >}})}@1}
@@ -59,8 +59,8 @@ Knowledge which is difficult to express or extract and is thus more difficult to
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.18    | 2022-12-26T19:40:10Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-12T00:39:23Z |
+| front    | 2.50 | 7   | 229.77   | 2023-12-22T12:20:55Z |
+| back     | 2.95 | 7   | 406.80   | 2024-08-14T14:42:51Z |
 
 [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
 
@@ -82,7 +82,7 @@ Knowledge which is difficult to express or extract and is thus more difficult to
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.60    | 2023-01-01T08:23:08Z |
+| front    | 2.95 | 7   | 322.75   | 2024-05-11T08:04:48Z |
 
 [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) and [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
 
@@ -108,10 +108,13 @@ Knowledge which is difficult to express or extract and is thus more difficult to
 
 ## Backlinks {#backlinks}
 
--   [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
+-   [Metis]({{< relref "metis.md" >}})
+-   [Isaac Wilks | It's Time to Build for Good]({{< relref "isaac_wilks_it_s_time_to_build_for_good.md" >}})
+-   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
+-   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
+-   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "tacit_knowledge.md" >}})
+-   [Todos]({{< relref "todos.md" >}})
 -   [Blub studies]({{< relref "blub_studies.md" >}})
 -   [Paul Graham | When People Are Naturally Good at Something]({{< relref "grahamWhenPeopleAre2022.md" >}})
 -   [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}})
--   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
--   [Compare and contrast]({{< relref "tellmanThoughtLeadersChickenSexers.md#compare-and-contrast" >}})
--   [Todos]({{< relref "todos.md" >}})
+-   [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})

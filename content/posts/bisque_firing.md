@@ -2,7 +2,7 @@
 title = "Bisque firing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:56:00-07:00
-lastmod = 2022-12-17T13:36:27-08:00
+lastmod = 2023-07-25T08:43:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,4 +42,3 @@ The practice of pre-firing clayware without claze to make it impervious to water
 
 -   [Bisque (Ceramics)]({{< relref "bisque.md" >}})
 -   [Greenware]({{< relref "greenware.md" >}})
--   [Definition]({{< relref "greenware.md#definition" >}})

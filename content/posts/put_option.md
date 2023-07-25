@@ -2,7 +2,7 @@
 title = "Put option"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:22:00-08:00
-lastmod = 2022-12-17T14:04:45-08:00
+lastmod = 2023-07-25T11:33:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "7b7185c2-db8c-4e53-b9a1-795cc36ab508"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-20T18:42:26Z |
-| back     | 2.5  | -1  | 0        | 2022-11-22T04:38:44Z |
+| front    | 2.95 | 7   | 332.01   | 2024-05-06T15:38:05Z |
+| back     | 2.95 | 6   | 144.86   | 2023-08-13T14:11:28Z |
 
 [Put option]({{< relref "put_option.md" >}})
 
@@ -45,7 +45,6 @@ A contract which allows the holder to sell a specific asset at a stated price wi
 
 ## Backlinks {#backlinks}
 
--   [Strike price]({{< relref "strike_price.md" >}})
--   [Option (finance)]({{< relref "option.md" >}})
 -   [Delta (finance)]({{< relref "delta.md" >}})
--   [The range of Delta (options) for a {{Put option}@1} is {{[-1, 0]}@0}]({{< relref "delta.md#the-range-of-id-ef21ad22-553d-432e-a4e2-bdc404009c87-delta--options--for-a-id-7b7185c2-db8c-4e53-b9a1-795cc36ab508-put-option-1-is-1-0-0" >}})
+-   [Option (finance)]({{< relref "option.md" >}})
+-   [Strike price]({{< relref "strike_price.md" >}})

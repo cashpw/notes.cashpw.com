@@ -2,7 +2,7 @@
 title = "Improving as a software engineer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T14:08:00-08:00
-lastmod = 2022-12-17T13:48:53-08:00
+lastmod = 2023-07-25T10:48:25-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

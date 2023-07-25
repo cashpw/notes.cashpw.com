@@ -2,7 +2,7 @@
 title = "Emily Dickinson | Tell all the truth but tell it slant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-22T07:44:00-07:00
-lastmod = 2022-12-17T14:14:18-08:00
+lastmod = 2023-07-25T12:33:26-07:00
 tags = ["has-todo", "poem", "has-todo", "poem"]
 categories = ["has-todo", "poem"]
 draft = false
@@ -32,14 +32,14 @@ Or every man be blind —<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 6   | 60.53    | 2023-02-08T11:23:36Z |
-| 1        | 2.20 | 4   | 13.96    | 2022-12-24T15:20:02Z |
-| 2        | 2.50 | 1   | 1.00     | 2022-12-16T20:44:25Z |
-| 3        | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
-| 4        | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
-| 5        | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
-| 6        | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
-| 7        | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
+| 0        | 2.35 | 8   | 338.03   | 2024-06-10T15:42:21Z |
+| 1        | 2.50 | 7   | 191.90   | 2023-11-06T20:25:25Z |
+| 2        | 1.75 | 8   | 107.76   | 2023-10-26T09:51:56Z |
+| 3        | 2.20 | 7   | 152.83   | 2023-10-21T09:04:27Z |
+| 4        | 2.80 | 7   | 290.95   | 2024-04-11T16:17:48Z |
+| 5        | 3.10 | 6   | 138.23   | 2023-08-16T21:44:25Z |
+| 6        | 2.80 | 7   | 300.96   | 2024-05-14T12:55:28Z |
+| 7        | 2.80 | 6   | 162.15   | 2023-10-26T16:06:45Z |
 
 [Tell all the truth but tell it slant]({{< relref "tell_all_the_truth_but_tell_it_slant.md" >}})
 
@@ -61,7 +61,7 @@ Or every man be blind —<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2022-11-16T17:33:02Z |
+| front    | 2.35 | 6   | 85.91    | 2023-08-08T12:45:02Z |
 
 [Tell all the truth but tell it slant]({{< relref "tell_all_the_truth_but_tell_it_slant.md" >}})
 
@@ -70,14 +70,14 @@ Or every man be blind —<br />
 
 <div class="verse">
 
-{{Tell all the truth but tell it slant —}@0}<br />
-{{Success in Circuit lies}@1}<br />
-{{Too bright for our infirm Delight}@2}<br />
-{{The Truth's superb surprise}@3}<br />
-{{As Lightning to the Children eased}@4}<br />
-{{With explanation kind}@5}<br />
-{{The Truth must dazzle gradually}@6}<br />
-{{Or every man be blind —}@7}<br />
+Tell all the truth but tell it slant —<br />
+Success in Circuit lies<br />
+Too bright for our infirm Delight<br />
+The Truth's superb surprise<br />
+As Lightning to the Children eased<br />
+With explanation kind<br />
+The Truth must dazzle gradually<br />
+Or every man be blind —<br />
 
 </div>
 
@@ -97,7 +97,7 @@ Or every man be blind —<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 86.61    | 2023-02-12T06:58:26Z |
+| front    | 3.10 | 7   | 264.71   | 2023-11-04T10:35:50Z |
 
 [Tell all the truth but tell it slant]({{< relref "tell_all_the_truth_but_tell_it_slant.md" >}})
 
@@ -111,3 +111,8 @@ Or every man be blind —<br />
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Dickinson, Emily. 2022. “Tell All the Truth but Tell It Slant.” Text/Html. <i>Poetry Foundation</i>. Poetry Foundation. <a href="https://www.poetryfoundation.org/poems/56824/tell-all-the-truth-but-tell-it-slant-1263">https://www.poetryfoundation.org/poems/56824/tell-all-the-truth-but-tell-it-slant-1263</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})

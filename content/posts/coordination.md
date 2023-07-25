@@ -2,7 +2,7 @@
 title = "Coordination"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-10T08:42:00-07:00
-lastmod = 2022-12-17T13:39:02-08:00
+lastmod = 2023-07-25T08:57:53-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -14,7 +14,7 @@ slug = "2e6843f6-0096-4e58-8d86-51126cadca19"
 Related:
 
 -   [Game theory]({{< relref "game_theory.md" >}})
--   [Coordination]({{< relref "alexanderMeditationsMoloch2014.md#coordination--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
+-   [Coordination]({{< relref "alexanderMeditationsMoloch2014.md" >}})
 
 
 ## Flashcards {#flashcards}
@@ -22,4 +22,5 @@ Related:
 
 ## Backlinks {#backlinks}
 
--   [Compare/Contrast]({{< relref "moloch.md#compare-contrast" >}})
+-   [Moloch]({{< relref "moloch.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})

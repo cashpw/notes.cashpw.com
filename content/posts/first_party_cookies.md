@@ -2,7 +2,7 @@
 title = "First-party cookies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T10:40:00-07:00
-lastmod = 2022-12-17T13:43:42-08:00
+lastmod = 2023-07-25T10:40:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "5e91bfb8-05ea-43d3-bfef-fd5d6299138e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.60 | 11  | 100.37   | 2023-02-13T09:12:28Z |
-| front    | 2.05 | 5   | 25.32    | 2022-12-25T01:52:18Z |
+| back     | 2.60 | 12  | 239.62   | 2023-10-12T19:41:19Z |
+| front    | 2.50 | 8   | 302.53   | 2024-04-20T14:25:47Z |
 
 [First-party cookies]({{< relref "first_party_cookies.md" >}})
 

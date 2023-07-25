@@ -2,7 +2,7 @@
 title = "No zero days"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-12T08:30:00-08:00
-lastmod = 2022-12-17T13:58:43-08:00
+lastmod = 2023-07-25T11:18:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ Make at least a little bit of [growth]({{< relref "growth_mindset.md" >}}) every
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 17.85    | 2023-01-01T15:11:11Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-18T17:40:01Z |
+| front    | 3.10 | 6   | 149.77   | 2023-07-26T10:32:19Z |
+| back     | 2.65 | 7   | 240.75   | 2024-02-03T09:01:40Z |
 
 [No zero days]({{< relref "no_zero_days.md" >}})
 

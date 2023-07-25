@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2022-12-17T14:12:46-08:00
+lastmod = 2023-07-25T12:31:44-07:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -20,6 +20,7 @@ I try to write with an emphasis on clear communication.
 -   [Use serial commas]({{< relref "use_serial_commas.md" >}})
 -   [Vary the length of sentences]({{< relref "this_sentence_has_five_words.md" >}})
 -   [Be useful]({{< relref "HowWriteUsefully.md" >}})
+-   [Avoid qualifying language]({{< relref "avoid_qualifying_language.md" >}})
 -   [Be explicit]({{< relref "be_explicit.md" >}})
 
 
@@ -90,7 +91,7 @@ Every quote should contain an attribution unless it meets one of the following c
 
 ### Large quotes are okay {#large-quotes-are-okay}
 
-There isn't a hard rule on how much quoting is too much. Large quotes [have their benefits]({{< relref "griffes.md" >}}) and are simple to capture using (<a href="#citeproc_bib_item_2">Porter 2022</a>) bookmarklets.
+There isn't a hard rule on how much quoting is too much. Large quotes [have their benefits]({{< relref "griffes.md" >}}) and are simple to capture using bookmarklets (<a href="#citeproc_bib_item_2">Porter 2022</a>).
 
 
 ### Nodes can just be a quote {#nodes-can-just-be-a-quote}
@@ -134,6 +135,6 @@ Backlinks are the backbone of a powerful [zettelkasten]({{< relref "Zettelkasten
 
 ## Backlinks {#backlinks}
 
+-   [Julian Shapiro | Writing Well Handbook]({{< relref "julian_shapiro_writing_well_handbook.md" >}})
 -   [Lint your prose]({{< relref "lint_your_prose.md" >}})
 -   [How I write notes]({{< relref "how_i_write_notes.md" >}})
--   [Julian Shapiro | Writing Well Handbook]({{< relref "julian_shapiro_writing_well_handbook.md" >}})

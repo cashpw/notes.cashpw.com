@@ -2,7 +2,7 @@
 title = "Leading indicator"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-28T08:18:00-08:00
-lastmod = 2022-12-17T13:52:05-08:00
+lastmod = 2023-07-25T10:58:25-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -26,8 +26,8 @@ slug = "31eaa796-a578-43ae-a119-a1d8505cbe72"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T17:22:34Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-16T20:24:40Z |
+| front    | 2.80 | 7   | 335.79   | 2024-06-02T19:49:24Z |
+| back     | 2.35 | 7   | 175.17   | 2023-11-01T20:09:05Z |
 
 [Leading indicator]({{< relref "leading_indicator.md" >}})
 

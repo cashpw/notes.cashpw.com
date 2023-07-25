@@ -2,7 +2,7 @@
 title = "Stag hunt"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:29:00-07:00
-lastmod = 2022-12-17T14:11:52-08:00
+lastmod = 2023-07-25T12:30:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,8 +45,8 @@ See also: [Prisoner's Dilemma]({{< relref "prisoner_s_dilemma.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.00    | 2022-12-25T16:17:10Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-15T18:21:14Z |
+| front    | 2.35 | 7   | 162.01   | 2023-10-07T23:03:45Z |
+| back     | 2.20 | 7   | 127.21   | 2023-08-16T21:19:46Z |
 
 [Stag hunt]({{< relref "stag_hunt.md" >}})
 
@@ -71,4 +71,3 @@ See also: [Prisoner's Dilemma]({{< relref "prisoner_s_dilemma.md" >}}).
 ## Backlinks {#backlinks}
 
 -   [Symmetric game]({{< relref "symmetric_game.md" >}})
--   [Example(s) (Game theory)]({{< relref "symmetric_game.md#example--s----id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})

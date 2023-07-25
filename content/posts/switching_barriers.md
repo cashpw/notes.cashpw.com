@@ -2,7 +2,7 @@
 title = "Switching barrier"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T11:00:00-07:00
-lastmod = 2022-12-17T14:13:06-08:00
+lastmod = 2023-07-25T12:32:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ Also see [Network effect]({{< relref "network_effect.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.21    | 2022-12-23T23:03:57Z |
-| back     | 2.20 | 4   | 13.91    | 2022-12-28T16:42:08Z |
+| front    | 2.65 | 7   | 268.65   | 2024-02-16T11:44:49Z |
+| back     | 2.20 | 7   | 135.74   | 2023-08-20T16:17:46Z |
 
 [Switching barrier]({{< relref "switching_barriers.md" >}})
 

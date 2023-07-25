@@ -2,7 +2,7 @@
 title = "External memory algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T13:02:00-07:00
-lastmod = 2022-12-17T13:43:15-08:00
+lastmod = 2023-07-25T10:39:50-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ See [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 105.75   | 2023-02-08T08:23:37Z |
-| front    | 2.65 | 6   | 92.34    | 2023-01-25T23:03:40Z |
+| back     | 2.80 | 7   | 290.55   | 2023-11-26T07:34:43Z |
+| front    | 2.50 | 7   | 224.91   | 2023-09-08T13:02:31Z |
 
 [External memory algorithm]({{< relref "external_memory_algorithm.md" >}})
 
@@ -43,8 +43,8 @@ Algorithms designed to process data that are too large to fit into a single comp
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 85.92    | 2023-01-08T13:35:06Z |
-| back     | 2.65 | 6   | 108.92   | 2023-02-14T13:41:10Z |
+| front    | 2.80 | 7   | 242.53   | 2023-09-08T04:09:35Z |
+| back     | 2.80 | 7   | 282.67   | 2023-11-26T17:48:07Z |
 
 [External memory algorithm]({{< relref "external_memory_algorithm.md" >}})
 
@@ -68,7 +68,5 @@ Algorithms designed to process data that are too large to fit into a single comp
 
 ## Backlinks {#backlinks}
 
--   [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})
 -   [Merge sort]({{< relref "merge_sort.md" >}})
--   [Describe]({{< relref "merge_sort.md#describe" >}})
--   [Merge sort is {{External memory algorithm}{memory}@0}]({{< relref "merge_sort.md#id-4ad76968-7e82-4d68-b8fa-ff6059f3c843-merge-sort-is-id-0f240189-7ede-4505-a900-21330b55f4c9-external-memory-algorithm-memory-0" >}})
+-   [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})

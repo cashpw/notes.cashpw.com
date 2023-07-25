@@ -2,14 +2,14 @@
 title = "Merge sort implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:44:00-07:00
-lastmod = 2022-12-17T13:55:56-08:00
+lastmod = 2023-07-25T11:09:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "d87d7e23-c861-4cec-adf8-c19125cc6327"
 +++
 
-An implementation of [Merge sort]({{< relref "merge_sort.md" >}}) in [Python]({{< relref "python.md" >}}).
+[Implementation]({{< relref "implementation.md" >}}) of [Merge sort]({{< relref "merge_sort.md" >}}) in [Python]({{< relref "python.md" >}}).
 
 ```python
 import math
@@ -70,4 +70,3 @@ print(merge_sort(a, lambda x, y: x <= y))
 ## Backlinks {#backlinks}
 
 -   [Merge sort]({{< relref "merge_sort.md" >}})
--   [Basic with Source]({{< relref "merge_sort.md#basic-with-source" >}})

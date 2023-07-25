@@ -2,7 +2,7 @@
 title = "Control the conversation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:08:00-07:00
-lastmod = 2022-12-17T13:38:50-08:00
+lastmod = 2023-07-25T08:57:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,8 +22,8 @@ See [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversat
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 5   | 52.73    | 2023-02-03T19:53:55Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-17T19:55:29Z |
+| front    | 2.95 | 7   | 468.27   | 2024-10-16T10:42:14Z |
+| back     | 2.80 | 7   | 259.34   | 2024-02-04T21:26:06Z |
 
 [Control the conversation]({{< relref "control_the_conversation.md" >}}) as a narrative strategy
 
@@ -38,12 +38,12 @@ Make sure people are talking about what you want them to talk about and in ways 
 (<a href="#citeproc_bib_item_1">Danskin 2017</a>)
 
 
-### Definition ([Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})) {#definition--alt-right-playbook-alt-right-playbook-dot-md}
+### Definition {#definition}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 38.95    | 2023-01-13T23:26:01Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-17T15:19:16Z |
+| front    | 2.50 | 6   | 98.56    | 2023-10-22T03:47:57Z |
+| back     | 2.35 | 7   | 163.14   | 2023-09-20T18:08:52Z |
 
 [Control the conversation]({{< relref "control_the_conversation.md" >}}) as an argument strategy
 
@@ -62,8 +62,8 @@ Treat your opponent as if they've already agreed to your position and make the n
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 151.94   | 2023-04-23T00:33:31Z |
-| back     | 2.45 | 9   | 74.85    | 2023-02-21T13:26:58Z |
+| front    | 1.90 | 5   | 19.38    | 2023-07-30T00:43:31Z |
+| back     | 2.30 | 10  | 159.29   | 2023-08-02T10:56:46Z |
 
 [Control the conversation]({{< relref "control_the_conversation.md" >}})
 
@@ -83,8 +83,8 @@ Treat your opponent as if they've already agreed to your position and make the n
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-11-27T02:15:47Z |
-| back     | 2.5  | -1  | 0        | 2022-11-11T15:46:51Z |
+| front    | 2.80 | 7   | 327.42   | 2024-04-28T00:40:05Z |
+| back     | 2.65 | 6   | 134.91   | 2023-07-30T12:03:21Z |
 
 [Control the conversation]({{< relref "control_the_conversation.md" >}})
 
@@ -108,5 +108,5 @@ Treat your opponent as if they've already agreed to your position and make the n
 
 ## Backlinks {#backlinks}
 
--   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})
 -   [Scott Alexander | Socratic Grilling]({{< relref "alexanderSocraticGrilling2020.md" >}})
+-   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})

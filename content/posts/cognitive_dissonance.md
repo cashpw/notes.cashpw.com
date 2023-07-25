@@ -2,7 +2,7 @@
 title = "Cognitive dissonance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T17:29:00-07:00
-lastmod = 2022-12-17T13:38:20-08:00
+lastmod = 2023-07-25T08:53:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "097f418c-8af5-498a-a5e3-37bab614556e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.90 | 4   | 11.86    | 2022-12-24T22:54:44Z |
-| front    | 2.50 | 1   | 1.00     | 2022-12-17T18:02:37Z |
+| back     | 1.45 | 9   | 94.04    | 2023-09-17T01:36:27Z |
+| front    | 2.95 | 6   | 160.18   | 2023-08-30T20:09:11Z |
 
 [Cognitive dissonance]({{< relref "cognitive_dissonance.md" >}})
 
@@ -41,8 +41,8 @@ The perception of contradictory information. Typically experienced when individu
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 120.62   | 2023-04-15T11:27:04Z |
-| back     | 2.65 | 7   | 56.31    | 2022-12-24T23:17:12Z |
+| front    | 2.05 | 8   | 237.88   | 2023-12-11T13:05:41Z |
+| back     | 2.50 | 9   | 327.05   | 2024-04-12T14:25:48Z |
 
 [Cognitive dissonance]({{< relref "cognitive_dissonance.md" >}})
 
@@ -67,6 +67,6 @@ The perception of contradictory information. Typically experienced when individu
 ## Backlinks {#backlinks}
 
 -   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
--   [Ian Danskin | The Death of a Euphemism]({{< relref "danskinDeathEuphemism2018.md" >}})
 -   [Thought-terminating cliché]({{< relref "thought_terminating_cliche.md" >}})
--   [Definition]({{< relref "thought_terminating_cliche.md#definition" >}})
+-   [People want to feel like good people]({{< relref "people_want_to_feel_like_good_people.md" >}})
+-   [Ian Danskin | The Death of a Euphemism]({{< relref "danskinDeathEuphemism2018.md" >}})

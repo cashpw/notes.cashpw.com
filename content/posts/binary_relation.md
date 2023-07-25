@@ -2,7 +2,7 @@
 title = "Binary relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:06:00-07:00
-lastmod = 2022-12-17T13:36:15-08:00
+lastmod = 2023-07-25T08:43:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,4 +26,3 @@ slug = "52a0697e-ba3c-47f8-8dfe-cdd82ee6cb44"
 ## Backlinks {#backlinks}
 
 -   [Total order]({{< relref "total_order.md" >}})
--   [Describe]({{< relref "total_order.md#describe" >}})

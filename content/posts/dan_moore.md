@@ -2,7 +2,7 @@
 title = "Dan Moore"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:01:00-08:00
-lastmod = 2022-12-17T13:39:25-08:00
+lastmod = 2023-07-25T10:27:30-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

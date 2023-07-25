@@ -2,7 +2,7 @@
 title = "Autarky"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T13:43:00-07:00
-lastmod = 2022-12-17T13:35:28-08:00
+lastmod = 2023-07-25T08:39:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,17 +17,12 @@ slug = "5d946894-c987-4bf3-9709-290fad48044c"
 ## Flashcards {#flashcards}
 
 
-### Definition {#definition}
+### [Autarky]({{< relref "autarky.md" >}}) {#autarky--autarky-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.32    | 2022-12-25T00:24:43Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-01T16:23:43Z |
-
-[Autarky]({{< relref "autarky.md" >}})
-
-
-#### Back {#back}
+| front    | 2.50 | 7   | 285.10   | 2024-03-03T22:35:25Z |
+| back     | 2.50 | 7   | 206.66   | 2023-12-05T07:57:12Z |
 
 The characteristic of self-sufficiency, usually applied to societies, communities, states, and their economic systems.
 

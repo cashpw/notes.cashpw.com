@@ -2,7 +2,7 @@
 title = "Agile (Software development)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T16:32:00-07:00
-lastmod = 2022-12-17T13:34:19-08:00
+lastmod = 2023-07-25T08:34:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,8 +54,8 @@ slug = "5664432e-6bb3-4670-9669-08ee70b5ca6d"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 37.77    | 2023-01-21T12:43:54Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-12T14:53:10Z |
+| front    | 2.20 | 6   | 66.48    | 2023-09-05T13:08:49Z |
+| back     | 2.50 | 7   | 213.79   | 2023-12-10T11:04:54Z |
 
 [Agile (Software development)]({{< relref "agile.md" >}})
 

@@ -2,7 +2,7 @@
 title = "Goodhart's law"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-29T10:05:00-08:00
-lastmod = 2022-12-17T13:45:36-08:00
+lastmod = 2023-07-25T10:42:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "94518754-f455-406d-a67b-bc01f214a272"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 4   | 15.20    | 2022-12-29T23:35:57Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-04T19:48:35Z |
+| front    | 1.30 | 1   | 1.00     | 2023-07-25T04:00:02Z |
+| back     | 2.35 | 7   | 235.83   | 2024-01-27T10:57:00Z |
 
 [Goodhart's law]({{< relref "goodhart_s_law.md" >}})
 

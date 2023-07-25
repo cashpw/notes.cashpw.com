@@ -2,7 +2,7 @@
 title = "Trigonometry"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T08:21:00-08:00
-lastmod = 2022-12-17T14:20:08-08:00
+lastmod = 2023-07-25T12:38:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "0d69fc06-1179-402b-8231-922986e486fc"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.98    | 2022-12-19T18:43:50Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-15T22:44:12Z |
+| front    | 2.50 | 7   | 256.88   | 2024-02-01T21:46:51Z |
+| back     | 2.50 | 7   | 233.56   | 2024-01-03T04:13:04Z |
 
 [Trigonometry]({{< relref "trigonometry.md" >}})
 

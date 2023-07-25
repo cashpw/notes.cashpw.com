@@ -2,7 +2,7 @@
 title = "If you see me, then weep"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T09:04:00-07:00
-lastmod = 2022-12-17T13:48:32-08:00
+lastmod = 2023-07-25T10:47:03-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,8 +21,8 @@ slug = "c2eafd89-c3ec-43e8-9e06-f937d2b15073"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 36.08    | 2023-01-04T20:38:14Z |
-| back     | 2.50 | 5   | 42.41    | 2023-01-25T03:22:26Z |
+| front    | 2.20 | 7   | 203.66   | 2023-10-23T08:58:13Z |
+| back     | 2.35 | 7   | 230.69   | 2023-12-27T08:39:49Z |
 
 [If you see me, then weep]({{< relref "if_you_see_me_then_weep.md" >}})
 

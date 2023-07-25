@@ -2,7 +2,7 @@
 title = "Fait accompli"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-07T09:35:00-08:00
-lastmod = 2022-12-17T13:33:49-08:00
+lastmod = 2023-07-25T08:30:36-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -22,17 +22,12 @@ slug = "ecc8e89c-b85e-454f-a67a-dded3fbb7587"
 ## Flashcards {#flashcards}
 
 
-### Definition {#definition}
+### [Fait accompli]({{< relref "FaitAccompli2022.md" >}}) {#fait-accompli--faitaccompli2022-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 13.02    | 2022-12-15T19:11:38Z |
-| back     | 2.50 | 0   | 0.00     | 2022-12-13T18:05:30Z |
-
-[Fait accompli]({{< relref "FaitAccompli2022.md" >}})
-
-
-#### Back {#back}
+| front    | 2.20 | 7   | 132.19   | 2023-08-01T18:29:42Z |
+| back     | 1.75 | 6   | 32.88    | 2023-08-15T22:00:11Z |
 
 Term referring to something irreversible and/or performed without going through standard procedure; completed before those affected by it are in a position to query or reverse it.
 
@@ -46,8 +41,8 @@ Term referring to something irreversible and/or performed without going through 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.92    | 2022-12-30T16:49:35Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-11T16:59:18Z |
+| front    | 2.80 | 7   | 313.99   | 2024-04-15T14:24:20Z |
+| back     | 2.65 | 7   | 322.61   | 2024-05-19T04:50:27Z |
 
 [Fait accompli]({{< relref "FaitAccompli2022.md" >}})
 

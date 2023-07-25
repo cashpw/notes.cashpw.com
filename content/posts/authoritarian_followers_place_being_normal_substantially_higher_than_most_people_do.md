@@ -4,7 +4,7 @@ title = """
   """
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:19:00-07:00
-lastmod = 2022-12-17T13:35:29-08:00
+lastmod = 2023-07-25T08:39:48-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -23,7 +23,7 @@ slug = "5d8f2b24-1889-45ee-8613-07f7bc0f2db2"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 119.62   | 2023-02-15T06:47:27Z |
+| 0        | 2.50 | 7   | 280.90   | 2023-11-25T01:17:44Z |
 
 
 #### Extra {#extra}
@@ -42,5 +42,5 @@ slug = "5d8f2b24-1889-45ee-8613-07f7bc0f2db2"
 
 ## Backlinks {#backlinks}
 
+-   [Notes]({{< relref "altemeyerAuthoritarians.md#thoughts" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
--   [Notes]({{< relref "altemeyerAuthoritarians.md#notes" >}})

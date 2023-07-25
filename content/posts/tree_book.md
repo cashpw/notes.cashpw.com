@@ -2,7 +2,7 @@
 title = "Tree book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:48:00-07:00
-lastmod = 2022-12-17T14:19:41-08:00
+lastmod = 2023-07-25T12:38:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,13 @@ slug = "3784b9a9-ad2f-4537-864a-7362f21cd014"
 
 > Tree books are books that lay out a framework of ideas. A good example is Daniel Kahneman's Thinking: Fast and Slow, which lays out his life's work — the entirety of behavioural economics — in a single book. (So an entire field, like a tree of knowledge, in one book. Geddit, geddit?) Other books I can think of in this category are High Output Management by Andy Grove, and Principles by Ray Dalio.
 >
+> [...]
+>
+> [...] tree books and narratives are difficult to summarise. And I'd warn against reading summaries of those books in lieu of reading the actual text: too much gets lost in translation.
+>
 > (<a href="#citeproc_bib_item_1">Chin 2018</a>)
+
+Related: [Narrative book]({{< relref "narrative_book.md" >}}), [Branch book]({{< relref "branch_book.md" >}})
 
 
 ## Flashcards {#flashcards}
@@ -21,8 +27,8 @@ slug = "3784b9a9-ad2f-4537-864a-7362f21cd014"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 9   | 197.70   | 2023-06-18T10:37:38Z |
-| front    | 2.65 | 7   | 114.13   | 2023-02-01T19:38:52Z |
+| back     | 2.65 | 10  | 509.20   | 2024-11-08T19:09:34Z |
+| front    | 2.65 | 8   | 282.25   | 2023-11-16T05:58:53Z |
 
 [Tree book]({{< relref "tree_book.md" >}})
 
@@ -41,8 +47,8 @@ Books that lay out a framework of ideas
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 186.36   | 2023-05-30T23:58:15Z |
-| back     | 2.65 | 6   | 95.10    | 2023-01-08T18:06:16Z |
+| front    | 2.65 | 8   | 453.18   | 2024-08-28T05:41:42Z |
+| back     | 2.80 | 7   | 280.46   | 2023-10-17T01:18:14Z |
 
 [Tree book]({{< relref "tree_book.md" >}})
 
@@ -66,5 +72,8 @@ Books that lay out a framework of ideas
 
 ## Backlinks {#backlinks}
 
+-   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "tree_book.md" >}})
 -   [Cedric Chin | The Three Kinds of Non-Fiction Books]({{< relref "chinThreeKindsNonfiction2018.md" >}})
--   [{{Cedric Chin}@0} separates books into {{Narrative book}@1}, {{Tree book}@2}, and {{Branch book}@3} books]({{< relref "chinThreeKindsNonfiction2018.md#id-4c9b1bbf-2a4b-43fa-a266-b559c018d80e-cedric-chin-0-separates-books-into-id-4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8-narrative-book-1-id-3784b9a9-ad2f-4537-864a-7362f21cd014-tree-book-2-and-id-065a0303-c2d3-40a0-a8fb-793f19f02526-branch-book-3-books" >}})
+-   [Narrative book]({{< relref "narrative_book.md" >}})
+-   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
+-   [Branch book]({{< relref "branch_book.md" >}})

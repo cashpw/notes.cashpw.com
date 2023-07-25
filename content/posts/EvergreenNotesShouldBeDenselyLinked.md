@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Evergreen Notes Should Be Densely Linked"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-22T07:04:00-08:00
-lastmod = 2022-12-17T13:33:48-08:00
+lastmod = 2023-07-25T08:30:33-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -37,5 +37,6 @@ slug = "6037800d-34c3-4d62-a33b-3931d694f083"
 
 ## Backlinks {#backlinks}
 
--   [README]({{< relref "readme.md" >}})
 -   [Andy Matuschak | Evergreen Notes Permit Smooth Incremental Progress in Writing ("Incremental Writing")]({{< relref "andy_matuschak_evergreen_notes_permit_smooth_incremental_progress_in_writing_incremental_writing.md" >}})
+-   [README]({{< relref "readme.md" >}})
+-   [Andy Matuschak | Evergreen Notes Should Be Atomic]({{< relref "andy_matuschak_evergreen_notes_should_be_atomic.md" >}})

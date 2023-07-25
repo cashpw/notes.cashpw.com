@@ -2,7 +2,7 @@
 title = "Heapsort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:32:00-07:00
-lastmod = 2022-12-17T13:47:02-08:00
+lastmod = 2023-07-25T10:44:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -38,7 +38,7 @@ slug = "cf64c166-6ad5-4dd7-88c6-155a320a7ea3"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 13.73    | 2022-12-22T13:14:01Z |
+| front    | 2.50 | 6   | 81.72    | 2023-09-30T08:45:50Z |
 
 [Heapsort]({{< relref "heapsort.md" >}})
 
@@ -62,3 +62,8 @@ For a given list, `items`, and a comparator function, `comparator`:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heapsort.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Heapsort&oldid=1110069153">https://en.wikipedia.org/w/index.php?title=Heapsort&#38;oldid=1110069153</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Heapsort implementation in python]({{< relref "heapsort_in_python.md" >}})

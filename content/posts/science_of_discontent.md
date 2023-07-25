@@ -2,7 +2,7 @@
 title = "Science of discontent"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:25:00-08:00
-lastmod = 2022-12-17T14:08:27-08:00
+lastmod = 2023-07-25T12:27:06-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -22,5 +22,5 @@ A [Science of X]({{< relref "science_of_x.md" >}}).
 ## Backlinks {#backlinks}
 
 -   [Beneficial evolutionary pressure]({{< relref "beneficial_evolutionary_pressure.md" >}})
--   [There should be a science of discontent]({{< relref "there_should_be_a_science_of_discontent.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [There should be a science of discontent]({{< relref "there_should_be_a_science_of_discontent.md" >}})

@@ -2,7 +2,7 @@
 title = "Adjacency list"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:07:00-07:00
-lastmod = 2022-12-17T13:34:14-08:00
+lastmod = 2023-07-25T08:33:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,8 +33,8 @@ Also see [Adjacency matrix]({{< relref "adjacency_matrix.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 66.05    | 2022-12-22T16:24:40Z |
-| front    | 2.65 | 6   | 78.01    | 2023-01-11T15:10:20Z |
+| back     | 2.35 | 7   | 167.24   | 2023-10-24T21:34:08Z |
+| front    | 2.50 | 7   | 206.65   | 2023-08-07T06:41:23Z |
 
 [Adjacency list]({{< relref "adjacency_list.md" >}})
 
@@ -58,3 +58,4 @@ A representation of a [Graph]({{< relref "graph.md" >}}) using a collection of u
 ## Backlinks {#backlinks}
 
 -   [Adjacency matrix]({{< relref "adjacency_matrix.md" >}})
+-   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})

@@ -2,7 +2,7 @@
 title = "Bubble sort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T10:47:00-07:00
-lastmod = 2022-12-17T13:37:03-08:00
+lastmod = 2023-07-25T08:46:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,8 +48,8 @@ while list is not sorted do
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 85.98    | 2023-02-01T14:32:40Z |
-| back     | 2.80 | 7   | 150.64   | 2023-05-08T09:39:05Z |
+| front    | 2.50 | 7   | 232.85   | 2023-09-22T13:10:22Z |
+| back     | 2.65 | 8   | 414.12   | 2024-06-25T20:13:34Z |
 
 [Bubble sort]({{< relref "bubble_sort.md" >}}) algorithm
 
@@ -70,7 +70,7 @@ A [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which repeatedly lo
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 48.81    | 2023-01-20T17:28:34Z |
+| 0        | 3.10 | 7   | 522.20   | 2024-12-11T05:03:16Z |
 
 
 #### Extra {#extra}
@@ -85,7 +85,7 @@ A [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which repeatedly lo
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 50.02    | 2023-01-05T14:56:27Z |
+| 0        | 2.80 | 7   | 406.63   | 2024-07-11T06:47:34Z |
 
 
 #### Extra {#extra}
@@ -100,8 +100,8 @@ A [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which repeatedly lo
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 88.20    | 2022-12-20T18:38:38Z |
-| back     | 2.65 | 6   | 150.07   | 2023-03-30T17:47:41Z |
+| front    | 2.65 | 8   | 511.87   | 2024-12-17T00:47:53Z |
+| back     | 2.80 | 7   | 378.93   | 2024-04-13T14:10:05Z |
 
 [Bubble sort]({{< relref "bubble_sort.md" >}})
 
@@ -121,7 +121,7 @@ A [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which repeatedly lo
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.70 | 3   | 6.00     | 2022-12-20T17:53:01Z |
+| 0        | 1.70 | 9   | 109.02   | 2023-09-10T20:56:25Z |
 
 
 #### Extra {#extra}
@@ -136,7 +136,7 @@ A [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which repeatedly lo
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 41.18    | 2022-12-23T18:45:29Z |
+| front    | 2.95 | 7   | 339.92   | 2024-04-15T13:12:53Z |
 
 [Bubble sort implementation in Python]({{< relref "bubble_sort_implementation_in_python.md" >}})
 
@@ -155,4 +155,4 @@ A [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which repeatedly lo
 ## Backlinks {#backlinks}
 
 -   [Bubble sort implementation in Python]({{< relref "bubble_sort_implementation_in_python.md" >}})
--   [Example(s) (Stability)]({{< relref "stable_sorting_algorithm.md#example--s----stability" >}})
+-   [Stable sorting algorithm]({{< relref "stable_sorting_algorithm.md" >}})

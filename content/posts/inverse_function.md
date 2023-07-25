@@ -2,7 +2,7 @@
 title = "Inverse function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T09:10:00-08:00
-lastmod = 2022-12-17T13:49:36-08:00
+lastmod = 2023-07-25T10:49:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,7 +37,7 @@ slug = "be3d36b2-8fb7-4917-b739-5717643a35b3"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.20    | 2022-12-30T01:36:49Z |
+| front    | 2.35 | 7   | 186.60   | 2023-11-01T13:15:36Z |
 
 How to find the [Inverse function]({{< relref "inverse_function.md" >}}) of \\(f\colon \mathbf{R}\to \mathbf{R}\\), \\(f(x) = y\\)
 

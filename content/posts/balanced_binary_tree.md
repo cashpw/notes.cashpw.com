@@ -2,7 +2,7 @@
 title = "Balanced binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2022-12-17T13:35:36-08:00
+lastmod = 2023-07-25T08:40:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "14876c69-a161-4b59-976a-d659cfe9435c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 5   | 37.31    | 2023-01-13T23:20:05Z |
-| front    | 2.50 | 4   | 16.12    | 2022-12-29T05:01:01Z |
+| back     | 2.05 | 7   | 166.04   | 2023-09-30T16:49:27Z |
+| front    | 2.50 | 7   | 248.40   | 2024-01-16T01:39:26Z |
 
 [Balanced binary tree]({{< relref "balanced_binary_tree.md" >}})
 
@@ -44,12 +44,12 @@ A [Binary tree]({{< relref "binary_tree.md" >}}) in which the left and right sub
 (<a href="#citeproc_bib_item_1">“Binary Tree” 2022</a>)
 
 
-### ImageOf {#imageof}
+### Image {#image}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 94.58    | 2023-01-23T13:27:26Z |
-| back     | 2.65 | 6   | 97.46    | 2023-02-06T03:41:50Z |
+| front    | 2.50 | 7   | 223.28   | 2023-09-05T23:43:28Z |
+| back     | 2.65 | 7   | 283.62   | 2023-11-18T13:37:22Z |
 
 [Balanced binary tree]({{< relref "balanced_binary_tree.md" >}})
 
@@ -72,5 +72,5 @@ A [Binary tree]({{< relref "binary_tree.md" >}}) in which the left and right sub
 
 ## Backlinks {#backlinks}
 
--   [Image]({{< relref "complete_binary_tree.md#image" >}})
 -   [Binary tree]({{< relref "binary_tree.md" >}})
+-   [Complete binary tree]({{< relref "complete_binary_tree.md" >}})

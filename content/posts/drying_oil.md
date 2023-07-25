@@ -2,7 +2,7 @@
 title = "Drying oil"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-29T07:51:00-08:00
-lastmod = 2022-12-17T13:41:54-08:00
+lastmod = 2023-07-25T10:28:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ slug = "ed12d1ad-074f-491b-aa65-74926c83a235"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.67    | 2022-12-29T10:06:00Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-18T17:38:07Z |
+| front    | 2.50 | 7   | 212.02   | 2023-11-27T15:05:31Z |
+| back     | 2.50 | 7   | 274.45   | 2024-03-28T02:12:05Z |
 
 [Drying oil]({{< relref "drying_oil.md" >}})
 
@@ -44,4 +44,3 @@ An oil which hardens to a tough, solid, film after a period of exposure to air a
 ## Backlinks {#backlinks}
 
 -   [Season a cast iron skillet]({{< relref "season_a_cast_iron_skillet.md" >}})
--   [Cloze]({{< relref "season_a_cast_iron_skillet.md#cloze" >}})

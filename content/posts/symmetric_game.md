@@ -2,7 +2,7 @@
 title = "Symmetric game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2022-12-17T14:13:13-08:00
+lastmod = 2023-07-25T12:32:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,8 +33,8 @@ A 2x2 game is [symmetric]({{< relref "symmetric_game.md" >}}) if and only if the
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 42.07    | 2023-01-03T03:45:30Z |
-| back     | 2.50 | 4   | 16.19    | 2022-12-16T22:03:08Z |
+| front    | 2.80 | 7   | 315.25   | 2024-03-18T23:16:51Z |
+| back     | 1.90 | 6   | 37.57    | 2023-07-30T15:30:16Z |
 
 [Symmetric game]({{< relref "symmetric_game.md" >}})
 
@@ -53,8 +53,8 @@ A game where the payoffs are independent of the person playing them -- the strat
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 35.64    | 2023-01-16T10:50:16Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-19T02:40:54Z |
+| front    | 2.50 | 7   | 254.88   | 2024-01-08T19:46:01Z |
+| back     | 2.05 | 7   | 134.94   | 2023-08-26T11:58:00Z |
 
 [Symmetric game]({{< relref "symmetric_game.md" >}})
 
@@ -80,5 +80,4 @@ A game where the payoffs are independent of the person playing them -- the strat
 ## Backlinks {#backlinks}
 
 -   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
--   [Describe (Game theory)]({{< relref "prisoner_s_dilemma.md#describe--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
 -   [Asymmetric game]({{< relref "asymmetric_game.md" >}})

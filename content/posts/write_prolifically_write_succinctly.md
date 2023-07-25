@@ -2,7 +2,7 @@
 title = "Write prolifically, write succinctly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-17T07:28:00-08:00
-lastmod = 2022-12-17T14:23:48-08:00
+lastmod = 2023-07-25T12:42:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,17 +29,19 @@ slug = "d077ef5b-766b-4239-a40f-f775e101e185"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 15.13    | 2022-12-16T20:35:13Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-09T19:43:51Z |
+| front    | 2.65 | 7   | 166.43   | 2023-10-12T09:07:34Z |
+| back     | 2.20 | 7   | 193.52   | 2023-12-03T08:49:40Z |
 
 [Write prolifically, write succinctly]({{< relref "write_prolifically_write_succinctly.md" >}})
 
 
 #### Back {#back}
 
-1.  Lowers the barrier for writing something
-2.  Easier to read
-3.  Forces the writer to distill what they're trying to communicate
+-   For the author
+    -   Lowers the barrier for writing
+    -   Forced to distill what they're trying to communicate
+-   For the reader
+    -   Easier to read
 
 
 #### Source {#source}

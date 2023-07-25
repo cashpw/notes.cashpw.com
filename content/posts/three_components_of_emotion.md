@@ -2,7 +2,7 @@
 title = "Three components of emotion"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-13T01:03:00-08:00
-lastmod = 2022-12-17T14:18:03-08:00
+lastmod = 2023-07-25T12:36:01-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -23,8 +23,8 @@ slug = "449940d4-8cd4-4b71-bf71-5bd719c7a6d0"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-15T01:52:37Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-14T17:55:53Z |
+| front    | 1.90 | 8   | 135.53   | 2023-10-17T16:53:48Z |
+| back     | 2.50 | 7   | 315.16   | 2024-05-16T18:27:22Z |
 
 [Three components of emotion]({{< relref "three_components_of_emotion.md" >}})
 

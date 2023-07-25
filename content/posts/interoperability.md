@@ -2,7 +2,7 @@
 title = "Interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:28:00-07:00
-lastmod = 2022-12-17T13:49:26-08:00
+lastmod = 2023-07-25T10:49:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,8 +28,8 @@ slug = "a41fccc0-fe85-462b-b8e9-5758fd6327b3"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-19T01:53:59Z |
-| back     | 2.50 | 0   | 0.00     | 2022-12-15T20:42:29Z |
+| front    | 2.80 | 7   | 277.37   | 2024-02-23T22:46:47Z |
+| back     | 2.95 | 6   | 135.81   | 2023-07-25T00:59:37Z |
 
 [Interoperability]({{< relref "interoperability.md" >}})
 
@@ -52,8 +52,6 @@ The characteristic of a product or system to work with other products or systems
 
 ## Backlinks {#backlinks}
 
--   [Cooperative interoperability]({{< relref "cooperative_interoperability.md" >}})
--   [Definition]({{< relref "cooperative_interoperability.md#definition" >}})
 -   [Indifferent interoperability]({{< relref "indifferent_interoperability.md" >}})
+-   [Cooperative interoperability]({{< relref "cooperative_interoperability.md" >}})
 -   [Adversarial interoperability]({{< relref "adversarial_interoperability.md" >}})
--   [Definition]({{< relref "adversarial_interoperability.md#definition" >}})

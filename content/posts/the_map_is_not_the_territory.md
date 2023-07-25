@@ -2,7 +2,7 @@
 title = "The map is not the territory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-26T14:42:00-07:00
-lastmod = 2022-12-17T14:15:51-08:00
+lastmod = 2023-07-25T12:34:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ Related: [The medium is the message]({{< relref "the_medium_is_the_message.md" >
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 147.69   | 2023-03-15T08:28:16Z |
-| back     | 2.35 | 7   | 116.81   | 2023-02-18T09:49:17Z |
+| front    | 2.65 | 8   | 360.30   | 2024-03-09T22:24:54Z |
+| back     | 2.20 | 8   | 237.80   | 2023-10-14T13:52:58Z |
 
 [The map is not the territory]({{< relref "the_map_is_not_the_territory.md" >}})
 
@@ -40,3 +40,9 @@ A description of a thing is not the thing itself.
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Farnum Street. 2015. “The Map Is Not the Territory.” <i>Farnam Street</i>. <a href="https://fs.blog/2015/11/map-and-territory/">https://fs.blog/2015/11/map-and-territory/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
+-   [David Chapman | Developing Ethical, Social, and Cognitive Competence]({{< relref "david_chapman_developing_ethical_social_and_cognitive_competence.md" >}})

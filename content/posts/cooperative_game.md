@@ -2,7 +2,7 @@
 title = "Cooperative game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:40:00-07:00
-lastmod = 2022-12-17T13:38:54-08:00
+lastmod = 2023-07-25T08:57:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,15 +21,15 @@ slug = "31a42b11-aca6-41e8-a41a-5fb97006ddc2"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 53.47    | 2023-01-18T02:40:22Z |
-| back     | 2.80 | 4   | 15.26    | 2022-12-11T21:07:28Z |
+| front    | 2.80 | 7   | 358.82   | 2024-06-01T11:30:22Z |
+| back     | 2.80 | 7   | 339.82   | 2024-04-26T09:34:38Z |
 
 [Cooperative game]({{< relref "cooperative_game.md" >}})
 
 
 #### Back {#back}
 
-A game in which there is external authority which enforces cooperative behavior (e.g. a government to enforce contract law).
+A game in which there is external authority which enforces agreements (e.g. a government to enforce contract law).
 
 
 #### Source {#source}
@@ -41,7 +41,7 @@ A game in which there is external authority which enforces cooperative behavior 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 5   | 46.24    | 2023-01-31T23:48:46Z |
+| front    | 2.80 | 7   | 331.60   | 2024-05-08T07:40:00Z |
 
 [Cooperative game]({{< relref "cooperative_game.md" >}}) and [Non-cooperative game]({{< relref "non_cooperative_game.md" >}})
 

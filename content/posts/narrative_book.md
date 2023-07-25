@@ -2,7 +2,7 @@
 title = "Narrative book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:49:00-07:00
-lastmod = 2022-12-17T13:57:34-08:00
+lastmod = 2023-07-25T11:12:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,11 @@ slug = "4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8"
 
 > Narrative books are books that tell a story. Examples include biographies, memoirs, and histories.
 >
+> [...] tree books and narratives are difficult to summarise. And I'd warn against reading summaries of those books in lieu of reading the actual text: too much gets lost in translation.
+>
 > (<a href="#citeproc_bib_item_1">Chin 2018</a>)
+
+Related: [Tree book]({{< relref "tree_book.md" >}}), [Branch book]({{< relref "branch_book.md" >}})
 
 
 ## Flashcards {#flashcards}
@@ -21,8 +25,8 @@ slug = "4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 8   | 161.71   | 2023-04-16T10:05:41Z |
-| front    | 2.65 | 7   | 160.18   | 2023-03-26T19:03:14Z |
+| back     | 2.80 | 9   | 496.12   | 2024-08-25T20:07:53Z |
+| front    | 2.65 | 8   | 463.42   | 2024-07-03T03:18:39Z |
 
 [Narrative book]({{< relref "narrative_book.md" >}})
 
@@ -46,8 +50,8 @@ Examples: biographies, fiction, memoirs, histories
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 88.51    | 2023-01-11T03:35:27Z |
-| back     | 2.65 | 6   | 71.11    | 2023-01-26T16:19:39Z |
+| front    | 2.80 | 8   | 263.86   | 2023-10-02T11:21:28Z |
+| back     | 2.80 | 7   | 192.53   | 2023-08-09T05:24:38Z |
 
 [Narrative book]({{< relref "narrative_book.md" >}})
 
@@ -74,4 +78,5 @@ Examples: biographies, fiction, memoirs, histories
 ## Backlinks {#backlinks}
 
 -   [Cedric Chin | The Three Kinds of Non-Fiction Books]({{< relref "chinThreeKindsNonfiction2018.md" >}})
--   [{{Cedric Chin}@0} separates books into {{Narrative book}@1}, {{Tree book}@2}, and {{Branch book}@3} books]({{< relref "chinThreeKindsNonfiction2018.md#id-4c9b1bbf-2a4b-43fa-a266-b559c018d80e-cedric-chin-0-separates-books-into-id-4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8-narrative-book-1-id-3784b9a9-ad2f-4537-864a-7362f21cd014-tree-book-2-and-id-065a0303-c2d3-40a0-a8fb-793f19f02526-branch-book-3-books" >}})
+-   [Tree book]({{< relref "tree_book.md" >}})
+-   [Branch book]({{< relref "branch_book.md" >}})

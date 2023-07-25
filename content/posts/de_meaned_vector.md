@@ -2,7 +2,7 @@
 title = "De-meaned vector"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T09:17:00-07:00
-lastmod = 2022-12-17T13:40:25-08:00
+lastmod = 2023-07-25T10:27:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,18 +23,20 @@ Note that \\(\mathbf{C}\\) is the [Centering matrix]({{< relref "centering_matri
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 88.42    | 2023-01-11T01:18:22Z |
-| 1        | 2.60 | 9   | 72.58    | 2023-01-18T06:36:09Z |
+| 0        | 2.50 | 7   | 205.84   | 2023-08-05T11:01:01Z |
+| 1        | 2.15 | 3   | 6.00     | 2023-07-26T15:21:21Z |
 
 
 ### Denotes {#denotes}
 
-| position | ease | box | interval | due |
-|----------|------|-----|----------|-----|
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 2   | 2.00     | 2023-07-26T03:51:39Z |
+| 1        | 2.5  | -1  | 0        | 2023-07-27T15:21:39Z |
 
--   {{\\(\tilde{v}\\)}
+-   {{\\(\tilde{v}\\)}@0}
 
-[De-meaned vector]({{< relref "de_meaned_vector.md" >}})
+{{[De-meaned vector]({{< relref "de_meaned_vector.md" >}})}@1}
 
 
 #### Source {#source}
@@ -53,5 +55,5 @@ Note that \\(\mathbf{C}\\) is the [Centering matrix]({{< relref "centering_matri
 
 ## Backlinks {#backlinks}
 
--   [{{\\(\href{/posts/cosine}{\cos}(\theta\_{\vec{x}, \vec{y}})\\)}@0} \\(\\) {{\\(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\\)}@1}]({{< relref "dot_product.md#cos--theta-vec-x-vec-y--0-----frac-vec-x-cdot-vec-y-lvert-vec-x-rvert-lvert-vec-y-rvert-1" >}})
 -   [Correlation coefficient of vectors]({{< relref "correlation_coefficient_of_vectors.md" >}})
+-   [Dot product]({{< relref "dot_product.md" >}})

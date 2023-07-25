@@ -2,7 +2,7 @@
 title = "Dunning-Kruger effect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:07:00-08:00
-lastmod = 2022-12-17T13:33:47-08:00
+lastmod = 2023-07-25T08:30:28-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -21,8 +21,8 @@ slug = "393d22dc-fb65-4f8c-9070-6973d6c9668e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.88    | 2022-12-20T21:26:26Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-16T20:43:11Z |
+| front    | 2.50 | 7   | 242.56   | 2024-01-11T05:52:18Z |
+| back     | 2.20 | 7   | 129.63   | 2023-09-17T07:17:56Z |
 
 [Dunning-Kruger effect]({{< relref "DunningKrugerEffect2022.md" >}})
 

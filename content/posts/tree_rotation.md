@@ -2,7 +2,7 @@
 title = "Tree rotation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-04T16:11:00-07:00
-lastmod = 2022-12-17T14:19:47-08:00
+lastmod = 2023-07-25T12:38:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -55,8 +55,8 @@ slug = "f0deaa3b-c3bc-491d-adc3-6e6595cb558e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.95 | 6   | 112.40   | 2023-03-14T11:59:50Z |
-| front    | 2.80 | 5   | 44.67    | 2022-12-26T18:54:58Z |
+| back     | 2.95 | 7   | 353.90   | 2024-03-02T12:36:02Z |
+| front    | 2.65 | 7   | 264.83   | 2024-01-30T11:56:44Z |
 
 [Tree rotation]({{< relref "tree_rotation.md" >}})
 
@@ -75,8 +75,8 @@ An operation on a [Binary tree]({{< relref "binary_tree.md" >}}) that changes th
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 83.10    | 2023-01-08T17:26:19Z |
-| back     | 2.65 | 6   | 69.92    | 2023-01-10T14:34:02Z |
+| front    | 2.80 | 7   | 211.12   | 2023-08-08T17:03:29Z |
+| back     | 2.35 | 8   | 405.65   | 2024-08-15T06:16:07Z |
 
 How to perform a [Left tree rotation](#left-tree-rotation)
 
@@ -101,8 +101,8 @@ For a given [Binary tree]({{< relref "binary_tree.md" >}}):
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 8   | 125.41   | 2023-03-16T02:49:33Z |
-| back     | 2.65 | 6   | 75.53    | 2023-01-08T03:03:43Z |
+| front    | 2.80 | 9   | 320.41   | 2024-02-01T00:04:28Z |
+| back     | 2.35 | 8   | 418.75   | 2024-08-27T22:10:03Z |
 
 How to perform a [Right tree rotation](#right-tree-rotation)
 

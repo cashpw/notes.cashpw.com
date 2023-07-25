@@ -2,7 +2,7 @@
 title = "Valar morghulis"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:01:00-07:00
-lastmod = 2022-12-17T14:21:47-08:00
+lastmod = 2023-07-25T12:40:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ Related: [Valar dohaeris]({{< relref "valar_dohaeris.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 6   | 102.40   | 2023-02-15T10:05:48Z |
-| front    | 2.80 | 6   | 108.82   | 2023-02-24T10:10:42Z |
+| back     | 2.95 | 7   | 273.63   | 2023-11-16T07:13:10Z |
+| front    | 2.95 | 7   | 327.68   | 2024-01-18T20:00:04Z |
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Merge sort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:23:00-07:00
-lastmod = 2022-12-17T13:55:51-08:00
+lastmod = 2023-07-25T11:09:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -57,7 +57,7 @@ procedure MergeSort(list) is
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 45.87    | 2023-01-14T15:03:16Z |
+| 0        | 2.80 | 7   | 370.27   | 2024-06-03T22:45:34Z |
 
 
 #### Extra {#extra}
@@ -72,7 +72,7 @@ procedure MergeSort(list) is
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 73.12    | 2022-12-22T18:31:46Z |
+| 0        | 2.50 | 9   | 404.77   | 2024-07-30T10:15:47Z |
 
 
 #### Extra {#extra}
@@ -87,8 +87,8 @@ procedure MergeSort(list) is
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 5   | 43.67    | 2023-01-03T09:11:12Z |
-| back     | 2.80 | 4   | 17.75    | 2022-12-19T11:30:27Z |
+| front    | 2.95 | 7   | 389.67   | 2024-06-14T05:00:56Z |
+| back     | 3.10 | 7   | 526.87   | 2024-12-31T00:38:26Z |
 
 [Merge sort]({{< relref "merge_sort.md" >}})
 
@@ -115,7 +115,7 @@ A recursive [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which sor
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 110.69   | 2023-02-23T16:31:23Z |
+| 0        | 2.95 | 7   | 316.09   | 2024-01-06T05:54:35Z |
 
 
 #### Extra {#extra}
@@ -130,7 +130,7 @@ A recursive [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which sor
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 165.89   | 2023-04-21T14:13:36Z |
+| 0        | 2.65 | 7   | 432.54   | 2024-07-04T11:30:16Z |
 
 
 #### Extra {#extra}
@@ -145,10 +145,10 @@ A recursive [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which sor
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 83.42    | 2023-03-01T01:47:18Z |
-| 1        | 2.20 | 6   | 70.34    | 2023-02-24T04:46:34Z |
-| 2        | 2.65 | 5   | 27.56    | 2022-12-17T05:55:08Z |
-| 3        | 2.80 | 5   | 33.81    | 2023-01-19T13:17:03Z |
+| 0        | 2.65 | 7   | 209.06   | 2023-09-27T15:55:46Z |
+| 1        | 2.35 | 7   | 169.12   | 2023-08-13T07:04:13Z |
+| 2        | 2.65 | 7   | 168.66   | 2023-08-11T19:47:34Z |
+| 3        | 3.10 | 7   | 307.70   | 2024-03-12T09:43:40Z |
 
 {{[Merge sort]({{< relref "merge_sort.md" >}})}@0}
 
@@ -166,7 +166,7 @@ A recursive [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which sor
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.78    | 2022-12-27T20:50:54Z |
+| front    | 2.35 | 3   | 6.00     | 2023-07-12T14:36:37Z |
 
 Implement [Merge sort]({{< relref "merge_sort.md" >}}) in [Python]({{< relref "python.md" >}})
 
@@ -190,5 +190,5 @@ Implement [Merge sort]({{< relref "merge_sort.md" >}}) in [Python]({{< relref "p
 ## Backlinks {#backlinks}
 
 -   [Merge sort implementation in Python]({{< relref "merge_sort_implementation_in_python.md" >}})
--   [Example(s) (Memory)]({{< relref "external_memory_algorithm.md#example--s----memory" >}})
--   [Example(s) (Stability)]({{< relref "stable_sorting_algorithm.md#example--s----stability" >}})
+-   [Stable sorting algorithm]({{< relref "stable_sorting_algorithm.md" >}})
+-   [External memory algorithm]({{< relref "external_memory_algorithm.md" >}})

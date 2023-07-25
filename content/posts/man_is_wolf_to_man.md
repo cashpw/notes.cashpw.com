@@ -2,7 +2,7 @@
 title = "Man is wolf to man"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T10:48:00-07:00
-lastmod = 2022-12-17T13:53:59-08:00
+lastmod = 2023-07-25T11:04:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "2537ad51-d76b-4fa1-8d43-7b0be9dd7bb1"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 4   | 14.30    | 2022-12-26T02:58:15Z |
-| 1        | 2.50 | 0   | 0.00     | 2022-12-13T18:05:13Z |
+| 0        | 1.90 | 7   | 122.38   | 2023-08-02T06:42:57Z |
+| 1        | 2.20 | 7   | 156.79   | 2023-10-25T08:13:59Z |
 
 
 #### Source {#source}

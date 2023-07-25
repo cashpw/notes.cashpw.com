@@ -2,7 +2,7 @@
 title = "Non-zero-sum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T10:51:00-07:00
-lastmod = 2022-12-17T13:59:00-08:00
+lastmod = 2023-07-25T11:18:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ The opposite of a [Zero-sum game]({{< relref "zero_sum_game.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 48.40    | 2023-01-29T05:26:26Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-20T18:00:23Z |
+| front    | 2.65 | 7   | 428.67   | 2024-08-29T07:13:05Z |
+| back     | 1.30 | 6   | 14.51    | 2023-07-25T04:02:32Z |
 
 [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
 
@@ -45,8 +45,8 @@ Payoffs
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 5   | 42.89    | 2022-12-21T13:21:32Z |
-| front    | 2.95 | 5   | 54.24    | 2023-01-05T08:43:59Z |
+| back     | 2.50 | 7   | 237.39   | 2023-11-30T07:53:49Z |
+| front    | 3.10 | 7   | 454.23   | 2024-09-09T05:51:55Z |
 
 [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
 
@@ -70,6 +70,5 @@ A situation in which the player's aggregate gains and losses can be less than or
 ## Backlinks {#backlinks}
 
 -   [Zero-sum game]({{< relref "zero_sum_game.md" >}})
+-   [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
 -   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
--   [Describe (Game theory)]({{< relref "prisoner_s_dilemma.md#describe--id-e157ee7b-f36c-4ff8-bcb3-643163925c20-game-theory" >}})
--   [Prisoner's dilemma is a {{Non-zero-sum game}{(non-)zero sum}@0}]({{< relref "prisoner_s_dilemma.md#id-780bd825-4c89-4eb6-ba02-de09fefc4694-prisoner-s-dilemma-is-a-id-9f52c68a-3302-47bc-a4a4-3a4ff20d41be-non-zero-sum-game--non--zero-sum-0" >}})

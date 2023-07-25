@@ -2,7 +2,7 @@
 title = "Stochastic terrorism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-25T09:42:00-07:00
-lastmod = 2022-12-17T14:12:17-08:00
+lastmod = 2023-07-25T12:31:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ See [Will no one rid me of this turbulent priest?]({{< relref "will_no_one_rid_m
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 42.98    | 2023-01-23T14:56:07Z |
-| back     | 2.65 | 5   | 44.90    | 2023-01-30T15:42:54Z |
+| front    | 2.50 | 7   | 267.85   | 2024-01-29T13:56:16Z |
+| back     | 2.50 | 7   | 324.76   | 2024-04-23T22:37:17Z |
 
 [Stochastic terrorism]({{< relref "stochastic_terrorism.md" >}})
 
@@ -38,8 +38,8 @@ See [Will no one rid me of this turbulent priest?]({{< relref "will_no_one_rid_m
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 5   | 48.64    | 2023-01-14T06:28:36Z |
-| front    | 2.20 | 5   | 30.97    | 2023-01-16T17:12:06Z |
+| back     | 2.65 | 7   | 331.26   | 2024-04-26T21:53:11Z |
+| front    | 2.05 | 7   | 143.35   | 2023-08-19T11:32:00Z |
 
 [Stochastic terrorism]({{< relref "stochastic_terrorism.md" >}})
 
@@ -62,4 +62,4 @@ A concept whereby consistently demonizing or dehumanizing a targeted group or in
 
 ## Backlinks {#backlinks}
 
--   [Describe]({{< relref "will_no_one_rid_me_of_this_turbulent_priest.md#describe" >}})
+-   [Will no one rid me of this turbulent priest?]({{< relref "will_no_one_rid_me_of_this_turbulent_priest.md" >}})

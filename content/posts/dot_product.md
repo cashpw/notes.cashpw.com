@@ -2,7 +2,7 @@
 title = "Dot product"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T11:41:00-07:00
-lastmod = 2022-12-17T13:41:48-08:00
+lastmod = 2023-07-25T10:28:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,7 +30,7 @@ The dot product of two vectors defines the lengths of, and angle between, the tw
 \\(\vec{a} \cdot \vec{b} = \\|a\\|\\|b\\|\href{/posts/cosine}{\cos} \theta\\)
 
 -   Vector length: \\(\lVert\vec{x}\rVert\\) \\(=\\) \\(\sqrt{\vec{x} \cdot \vec{x}}\\)
--   Angles (where \\(\theta\\) is the angle between \\(\vec{x}\\) and \\(\vec{y}\\)): \\(\href{/posts/cosine}{\cos}(\theta)\\) \\(=\\) \\(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\\)
+-   Angles (where \\(\theta\\) is the angle between \\(\vec{x}\\) and \\(\vec{y}\\)): \\(\href{/posts/cosine}{\cos}(\theta) = \frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\\)
 
 
 ## Flashcards {#flashcards}
@@ -40,8 +40,8 @@ The dot product of two vectors defines the lengths of, and angle between, the tw
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 13  | 187.87   | 2023-06-14T13:38:31Z |
-| 1        | 2.35 | 8   | 129.34   | 2023-02-27T23:18:05Z |
+| 0        | 2.50 | 14  | 471.87   | 2024-09-28T21:37:17Z |
+| 1        | 2.20 | 9   | 286.75   | 2023-12-12T22:13:04Z |
 
 -   {{[Dot product]({{< relref "dot_product.md" >}})}@0}
 -   {{[Scalar product]({{< relref "dot_product.md" >}})}@1}
@@ -56,8 +56,8 @@ The dot product of two vectors defines the lengths of, and angle between, the tw
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 136.00   | 2023-03-02T14:54:22Z |
-| 1        | 2.65 | 7   | 106.81   | 2023-01-07T11:55:12Z |
+| 0        | 2.80 | 8   | 383.30   | 2024-03-20T20:59:15Z |
+| 1        | 2.80 | 8   | 324.76   | 2023-11-28T09:15:34Z |
 
 -   {{\\(\vec{a} \cdot \vec{b}\\)}@0}
 
@@ -73,8 +73,8 @@ The dot product of two vectors defines the lengths of, and angle between, the tw
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 126.91   | 2023-02-18T13:12:30Z |
-| back     | 2.65 | 7   | 100.07   | 2023-01-25T16:33:57Z |
+| front    | 2.65 | 6   | 117.15   | 2023-08-27T03:12:41Z |
+| back     | 2.50 | 8   | 245.82   | 2023-09-29T10:00:39Z |
 
 [Dot product]({{< relref "dot_product.md" >}})
 
@@ -90,8 +90,8 @@ We can express it:
 
 It defines:
 
--   Vector length: \\(\lVert\vec{x}\rVert\\) \\(=\\) \\(\sqrt{\vec{x} \cdot \vec{x}}\\)
--   Angles (where \\(\theta\\) is the angle between \\(\vec{x}\\) and \\(\vec{y}\\)): \\(\href{/posts/cosine}{\cos}(\theta)\\) \\(=\\) \\(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\\)
+-   Vector length: \\(\lVert\vec{x}\rVert = \sqrt{\vec{x} \cdot \vec{x}}\\)
+-   Angles (where \\(\theta\\) is the angle between \\(\vec{x}\\) and \\(\vec{y}\\)): \\(\href{/posts/cosine}{\cos}(\theta) = \frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\\)
 
 
 #### Source {#source}
@@ -99,12 +99,12 @@ It defines:
 (<a href="#citeproc_bib_item_1">“Dot Product” 2022</a>)
 
 
-### {{\\(\\(\lVert\vec{x}\rVert\\)}@0} \\(=\\) {{\\(\\(\sqrt{\vec{x} \cdot \vec{x}}\\)}@1} {#lvert-vec-x-rvert-0--sqrt-vec-x-cdot-vec-x-1}
+### {{\\(\lVert\vec{x}\rVert\\)}@0} \\(=\\) {{\\(\sqrt{\vec{x} \cdot \vec{x}}\\)}{no summation}@1} {#lvert-vec-x-rvert-0-sqrt-vec-x-cdot-vec-x-no-summation-1}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 78.92    | 2023-01-04T13:12:50Z |
-| 1        | 2.65 | 6   | 69.80    | 2022-12-29T20:47:40Z |
+| 0        | 2.80 | 8   | 226.14   | 2023-08-20T17:58:57Z |
+| 1        | 2.50 | 8   | 472.05   | 2024-10-10T17:28:53Z |
 
 
 #### Source {#source}
@@ -112,14 +112,14 @@ It defines:
 (<a href="#citeproc_bib_item_1">“Dot Product” 2022</a>)
 
 
-### {{\\(\href{/posts/cosine}{\cos}(\theta\_{\vec{x}, \vec{y}})\\)}@0} \\(\\) {{\\(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\\)}@1} {#cos--theta-vec-x-vec-y--0-frac-vec-x-cdot-vec-y-lvert-vec-x-rvert-lvert-vec-y-rvert-1}
+### {{\\(\href{/posts/cosine}{\cos}(\theta\_{\vec{x}, \vec{y}})\\)}@0} \\(=\\) {{\\(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\\)}@1} {#cos--theta-vec-x-vec-y--0-frac-vec-x-cdot-vec-y-lvert-vec-x-rvert-lvert-vec-y-rvert-1}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.5  | 7   | 56       | 2022-11-05T13:00:00Z |
 | 1        | 2.5  | 5   | 42       | 2022-10-11T13:00:00Z |
 
-\\(\theta\_{\vec{x}, \vec{y}}\\) is the angle between \\(\vec{x}\\) and \\(\vec{y}\\)
+&theta;<sub>\vec{x}, \vec{y}</sub>$ is the angle between \\(\vec{x}\\) and \\(\vec{y}\\)
 
 
 #### Source {#source}
@@ -132,9 +132,9 @@ It defines:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 66.03    | 2022-12-29T15:02:05Z |
-| 2        | 2.50 | 6   | 84.78    | 2023-01-28T18:53:02Z |
-| 1        | 2.65 | 6   | 69.04    | 2023-01-14T22:53:30Z |
+| 0        | 2.50 | 8   | 437.12   | 2024-08-28T17:08:28Z |
+| 2        | 2.65 | 7   | 202.21   | 2023-08-20T21:31:45Z |
+| 1        | 2.80 | 7   | 186.51   | 2023-07-21T04:42:20Z |
 
 
 #### Extra {#extra}

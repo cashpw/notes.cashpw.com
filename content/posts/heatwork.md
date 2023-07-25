@@ -2,7 +2,7 @@
 title = "Heatwork"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T07:44:00-08:00
-lastmod = 2022-12-17T13:47:08-08:00
+lastmod = 2023-07-25T10:44:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "68b68eba-1b4b-4fe2-9d8d-334fdbf0802f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-12T15:47:59Z |
-| back     | 2.5  | -1  | 0        | 2022-11-23T15:45:18Z |
+| front    | 2.35 | 7   | 201.89   | 2023-11-24T14:53:20Z |
+| back     | 2.80 | 7   | 313.14   | 2024-04-17T18:57:37Z |
 
 [Heatwork]({{< relref "heatwork.md" >}})
 
@@ -46,4 +46,3 @@ The combined effect of temperature and time.
 ## Backlinks {#backlinks}
 
 -   [Pyrometric cone]({{< relref "pyrometric_cone.md" >}})
--   [{{Pyrometric cones}@0} gauge {{Heatwork}@1} during the firing of ceramic materials.]({{< relref "pyrometric_cone.md#id-36a89fad-7e34-47eb-b8ec-555c2832abbf-pyrometric-cones-0-gauge-id-68b68eba-1b4b-4fe2-9d8d-334fdbf0802f-heatwork-1-during-the-firing-of-ceramic-materials-dot" >}})

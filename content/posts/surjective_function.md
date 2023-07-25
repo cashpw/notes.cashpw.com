@@ -2,7 +2,7 @@
 title = "Surjective function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-20T06:43:00-07:00
-lastmod = 2022-12-17T14:12:58-08:00
+lastmod = 2023-07-25T12:32:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "69b3ebf4-c54d-424b-9479-e06e7c905433"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 8   | 185.78   | 2023-06-04T12:40:11Z |
-| back     | 2.45 | 5   | 32.74    | 2023-01-18T11:20:19Z |
+| front    | 2.65 | 9   | 538.91   | 2024-11-24T21:50:47Z |
+| back     | 2.30 | 7   | 164.64   | 2023-09-18T11:58:03Z |
 
 [Surjective function]({{< relref "surjective_function.md" >}})
 
@@ -38,8 +38,8 @@ slug = "69b3ebf4-c54d-424b-9479-e06e7c905433"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 127.12   | 2023-02-22T17:49:17Z |
-| 1        | 2.65 | 9   | 146.64   | 2023-03-22T06:52:00Z |
+| 0        | 2.20 | 8   | 266.82   | 2023-11-17T23:24:21Z |
+| 1        | 2.65 | 10  | 422.22   | 2024-05-17T19:14:05Z |
 
 -   {{[Surjective function]({{< relref "surjective_function.md" >}})}@0}
 -   {{An "onto" function}@1}
@@ -50,12 +50,12 @@ slug = "69b3ebf4-c54d-424b-9479-e06e7c905433"
 (<a href="#citeproc_bib_item_1">“Surjective Function” 2022</a>)
 
 
-### Definition (Math) {#definition--math}
+### Definition {#definition}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.85 | 5   | 21.43    | 2022-12-30T03:57:08Z |
-| front    | 2.65 | 9   | 146.19   | 2023-04-10T19:05:50Z |
+| back     | 1.30 | 9   | 29.40    | 2023-08-06T09:52:43Z |
+| front    | 2.05 | 6   | 57.55    | 2023-08-26T10:00:39Z |
 
 [Surjective function]({{< relref "surjective_function.md" >}})
 

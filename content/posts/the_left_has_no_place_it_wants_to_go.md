@@ -2,7 +2,7 @@
 title = "The left has no place it wants to go"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-07T19:01:00-07:00
-lastmod = 2022-12-17T14:15:41-08:00
+lastmod = 2023-07-25T12:34:19-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -23,8 +23,8 @@ This is in part (in the context of politics in the US) because those on the left
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 3   | 6.00     | 2022-12-22T17:55:51Z |
-| back     | 2.50 | 1   | 1.00     | 2022-12-04T19:39:49Z |
+| front    | 2.80 | 7   | 305.64   | 2024-04-10T06:47:56Z |
+| back     | 2.35 | 7   | 170.18   | 2023-11-17T20:02:31Z |
 
 [The left has no place it wants to go]({{< relref "the_left_has_no_place_it_wants_to_go.md" >}})
 
@@ -43,7 +43,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2022-12-16T20:46:41Z |
+| 0        | 2.20 | 7   | 133.16   | 2023-09-09T18:08:57Z |
 
 
 #### Source {#source}
@@ -55,7 +55,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 0   | 0.00     | 2022-12-14T17:52:51Z |
+| 0        | 1.30 | 9   | 31.62    | 2023-08-06T19:08:26Z |
 
 
 #### Source {#source}
@@ -67,7 +67,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 15.88    | 2022-12-24T17:09:39Z |
+| 0        | 2.20 | 7   | 126.69   | 2023-09-03T07:12:48Z |
 
 
 #### Source {#source}
@@ -84,3 +84,4 @@ The left has no clear direction -- they careen from this oppressed group or cris
 ## Backlinks {#backlinks}
 
 -   [Adolph Reed Jr | Nothing Left: The Past Is Always Present: Examining Quotidian Life under Jim Crow to Reveal Its Structures]({{< relref "jrNothingLeftAlways2014.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})

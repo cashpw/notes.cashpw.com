@@ -2,7 +2,7 @@
 title = "Mindfulness-based stress reduction"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T05:58:00-08:00
-lastmod = 2022-12-17T13:56:33-08:00
+lastmod = 2023-07-25T11:10:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,7 +25,7 @@ slug = "92eb61e0-5437-4fbf-80aa-d042c0ba6d1e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 4   | 15.92    | 2022-12-18T20:08:18Z |
+| 0        | 2.35 | 7   | 242.00   | 2024-01-15T14:58:20Z |
 
 
 #### Source {#source}
@@ -37,8 +37,8 @@ slug = "92eb61e0-5437-4fbf-80aa-d042c0ba6d1e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 4   | 12.38    | 2022-12-27T02:38:13Z |
-| back     | 2.50 | 1   | 1.00     | 2022-11-14T15:42:11Z |
+| front    | 1.45 | 8   | 36.66    | 2023-08-19T16:44:31Z |
+| back     | 1.75 | 6   | 41.04    | 2023-08-26T14:56:39Z |
 
 [Mindfulness-based stress reduction]({{< relref "mindfulness_based_stress_reduction.md" >}})
 
@@ -64,4 +64,3 @@ An intensive mindfulness training program to assist people with stress, anxiety,
 
 -   [Michael W. Donnino et al. | Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial]({{< relref "donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlledTrial2021.md" >}})
 -   [Psychophysiologic symptom relief therapy]({{< relref "psychophysiologic_symptom_relief_therapy.md" >}})
--   [Describe]({{< relref "psychophysiologic_symptom_relief_therapy.md#describe" >}})

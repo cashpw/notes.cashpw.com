@@ -2,7 +2,7 @@
 title = "Scott Alexander | Meditations On Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:30:00-07:00
-lastmod = 2022-12-17T13:34:27-08:00
+lastmod = 2023-07-25T08:34:51-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -249,7 +249,7 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-12T13:51:24Z |
+| front    | 1.30 | 4   | 8.20     | 2023-07-11T05:59:34Z |
 
 
 #### Back {#back}
@@ -269,8 +269,8 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-17T19:34:57Z |
-| back     | 2.50 | 2   | 2.00     | 2022-12-17T20:24:53Z |
+| front    | 2.80 | 7   | 322.76   | 2024-04-17T10:22:19Z |
+| back     | 2.50 | 7   | 300.95   | 2024-04-12T14:27:20Z |
 
 [Excess resources (Moloch)](#excess-resources--moloch-moloch-dot-md)
 
@@ -289,8 +289,8 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 3   | 6.00     | 2022-12-12T15:34:01Z |
-| back     | 2.5  | -1  | 0        | 2022-11-23T18:14:23Z |
+| front    | 2.95 | 6   | 163.69   | 2023-08-13T08:29:08Z |
+| back     | 2.50 | 7   | 285.41   | 2024-04-14T11:29:29Z |
 
 [Physical limitations (Moloch)](#physical-limitations--moloch-moloch-dot-md)
 
@@ -309,8 +309,8 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.35    | 2022-12-27T02:53:02Z |
-| back     | 2.65 | 3   | 6.00     | 2022-12-20T17:53:51Z |
+| front    | 2.50 | 7   | 303.27   | 2024-03-31T07:30:08Z |
+| back     | 1.60 | 4   | 10.52    | 2023-08-02T16:23:05Z |
 
 [Utility maximization (Moloch)](#utility-maximization--moloch-moloch-dot-md)
 
@@ -329,8 +329,8 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 17.25    | 2023-01-01T00:48:34Z |
-| back     | 2.5  | -1  | 0        | 2022-11-23T18:14:31Z |
+| front    | 2.95 | 7   | 470.00   | 2024-11-05T03:53:24Z |
+| back     | 2.65 | 7   | 303.58   | 2024-04-29T15:35:46Z |
 
 [Coordination (Moloch)](#coordination--moloch-moloch-dot-md)
 
@@ -353,4 +353,7 @@ Only another god can defeat [Moloch]({{< relref "moloch.md" >}}). [The opposite 
 
 ## Backlinks {#backlinks}
 
+-   [Scott Alexander]({{< relref "scott_alexander.md" >}})
+-   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
 -   [Moloch]({{< relref "moloch.md" >}})
+-   [Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]({{< relref "kaj_sotala_nobody_does_the_thing_that_they_are_supposedly_doing.md" >}})

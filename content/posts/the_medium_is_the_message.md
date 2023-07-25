@@ -2,7 +2,7 @@
 title = "The medium is the message"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-26T15:18:00-07:00
-lastmod = 2022-12-17T14:15:57-08:00
+lastmod = 2023-07-25T12:34:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,8 @@ A message must "fit" its medium. That is, a message must conform to the rules of
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.98    | 2022-12-18T21:29:12Z |
-| back     | 2.80 | 4   | 15.64    | 2023-01-01T09:16:46Z |
+| front    | 2.80 | 7   | 320.91   | 2024-04-25T13:24:16Z |
+| back     | 3.25 | 7   | 386.17   | 2024-07-20T00:45:40Z |
 
 [The medium is the message]({{< relref "the_medium_is_the_message.md" >}})
 

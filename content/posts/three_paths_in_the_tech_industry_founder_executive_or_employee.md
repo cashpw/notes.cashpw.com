@@ -2,7 +2,7 @@
 title = "Michael Seibel | Three Paths in the Tech Industry: Founder, Executive, or Employee"
 author = ["Cash Prokop-Weaver"]
 date = 2021-11-27T07:00:00-08:00
-lastmod = 2022-12-17T14:18:09-08:00
+lastmod = 2023-07-25T12:36:03-07:00
 draft = true
 slug = "548362c8-b5a6-4d50-b459-543d321e49b6"
 +++
@@ -150,8 +150,8 @@ Perhaps the nuance I'm attempting to address is somewhere between meaningful wor
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 0   | 0.00     | 2022-11-22T02:02:43Z |
-| back     | 2.5  | -1  | 0        | 2022-11-15T15:56:31Z |
+| front    | 2.80 | 6   | 145.93   | 2023-08-17T16:25:12Z |
+| back     | 3.10 | 6   | 159.85   | 2023-09-02T09:58:15Z |
 
 The three career paths in the tech industry as defined by Michael Seibel
 
@@ -172,7 +172,7 @@ The three career paths in the tech industry as defined by Michael Seibel
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-18T17:38:50Z |
+| front    | 2.50 | 7   | 178.84   | 2023-10-27T19:42:55Z |
 
 [Founder (Tech career pathway)](#founder--tech-career-pathway)
 
@@ -191,7 +191,7 @@ Create a new product/business/etc
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2022-12-21T20:36:22Z |
+| front    | 2.80 | 7   | 278.97   | 2024-03-12T14:16:47Z |
 
 [Executive (Tech career pathway)](#executive--tech-career-pathway)
 
@@ -210,14 +210,14 @@ Drive one or many, but not all, aspect(s) of an existing product/business/etc
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2022-12-12T16:56:34Z |
+| front    | 2.80 | 7   | 315.03   | 2024-04-28T14:58:50Z |
 
 [Employee (Tech career pathway)](#employee--tech-career-pathway)
 
 
 #### Back {#back}
 
-Work on an aspect of an existing product/business/etc under the direction of an Executive
+Work on an aspect of an existing product/business/etc under the direction of an [Executive (Tech career pathway)](#executive--tech-career-pathway).
 
 
 #### Source {#source}

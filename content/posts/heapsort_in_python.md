@@ -2,12 +2,14 @@
 title = "Heapsort implementation in python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-17T09:22:00-07:00
-lastmod = 2022-12-17T13:47:05-08:00
+lastmod = 2023-07-25T10:44:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "1866a9ee-480e-4c8e-95d1-549bd30f13dc"
 +++
+
+An [Implementation]({{< relref "implementation.md" >}}) of [Heapsort]({{< relref "heapsort.md" >}}) in [Python]({{< relref "python.md" >}}).
 
 ```python
 from typing import List, TypeVar, Generic, Tuple

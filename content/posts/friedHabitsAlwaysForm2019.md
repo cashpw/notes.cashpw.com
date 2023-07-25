@@ -2,7 +2,7 @@
 title = "Jason Fried | Habits Always Form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:53:00-08:00
-lastmod = 2022-12-17T13:44:36-08:00
+lastmod = 2023-07-25T10:41:34-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -17,15 +17,19 @@ slug = "02b5bf70-cf7f-49d0-b1f0-60fc0270abb0"
 >
 > So be aware of what you do, what you're doing, and how you're doing it. Every do digs deeper. Every does grips stronger.
 
+Similar: [Life is the sum of all your choices]({{< relref "life_is_the_sum_of_all_your_choices.md" >}})
+
 
 ## Flashcards {#flashcards}
 
 
-### Habits are {{always}@0} forming. {#habits-are-always-0-forming-dot}
+### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2022-12-13T19:26:25Z |
+| 0        | 2.35 | 7   | 158.00   | 2023-10-04T14:35:34Z |
+
+Habits are {{always}@0} forming.
 
 
 #### Source {#source}
@@ -37,3 +41,8 @@ slug = "02b5bf70-cf7f-49d0-b1f0-60fc0270abb0"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Fried, Jason. 2019. “Habits Always Form.” <i>Signal V. Noise</i>. <a href="https://m.signalvnoise.com/habits-always-form/">https://m.signalvnoise.com/habits-always-form/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Leo Babauta | We're Always Training Something]({{< relref "leo_babauta_we_re_always_training_something.md" >}})

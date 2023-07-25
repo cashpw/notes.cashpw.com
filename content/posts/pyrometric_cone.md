@@ -2,7 +2,7 @@
 title = "Pyrometric cone"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T07:40:00-08:00
-lastmod = 2022-12-17T14:04:49-08:00
+lastmod = 2023-07-25T11:33:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "36a89fad-7e34-47eb-b8ec-555c2832abbf"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2022-12-16T18:48:23Z |
-| 1        | 2.5  | -1  | 0        | 2022-11-23T15:44:18Z |
+| 0        | 2.65 | 7   | 242.81   | 2024-01-12T10:16:14Z |
+| 1        | 2.80 | 7   | 320.14   | 2024-05-13T20:42:32Z |
 
 
 #### Source {#source}

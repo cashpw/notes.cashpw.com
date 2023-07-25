@@ -2,7 +2,7 @@
 title = "IEEE 754"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T10:52:00-07:00
-lastmod = 2022-12-17T13:48:16-08:00
+lastmod = 2023-07-25T10:46:44-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -27,9 +27,9 @@ slug = "23e97230-9b73-4232-a76e-a1223b9bb70e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 5   | 40.27    | 2023-01-11T00:08:07Z |
-| 1        | 2.65 | 7   | 131.97   | 2023-03-20T15:22:54Z |
-| 2        | 2.65 | 7   | 162.36   | 2023-04-22T01:59:24Z |
+| 0        | 2.80 | 7   | 338.31   | 2024-04-09T00:58:53Z |
+| 1        | 2.65 | 8   | 356.54   | 2024-03-12T06:35:32Z |
+| 2        | 2.65 | 8   | 468.10   | 2024-08-16T20:12:35Z |
 
 
 #### Extra {#extra}
@@ -55,14 +55,14 @@ slug = "23e97230-9b73-4232-a76e-a1223b9bb70e"
 (<a href="#citeproc_bib_item_2">“IEEE 754” 2022</a>)
 
 
-### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Double-precision floating-point number](#double-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--double-precision-floating-point-number--org3eff986--0-are-composed-of}
+### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Double-precision floating-point number](#double-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--double-precision-floating-point-number--orgc9caf46--0-are-composed-of}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 3        | 2.65 | 9   | 126.04   | 2023-02-17T02:18:55Z |
-| 2        | 2.35 | 7   | 125.37   | 2023-03-09T01:36:49Z |
-| 1        | 2.65 | 8   | 118.85   | 2023-03-05T13:09:22Z |
-| 0        | 2.50 | 4   | 15.12    | 2022-12-15T19:29:12Z |
+| 3        | 2.80 | 10  | 348.19   | 2024-01-31T08:00:30Z |
+| 2        | 2.35 | 8   | 282.72   | 2023-12-17T20:29:06Z |
+| 1        | 2.80 | 9   | 325.23   | 2024-01-24T22:52:02Z |
+| 0        | 2.80 | 7   | 336.23   | 2024-04-21T18:38:24Z |
 
 -   {{1 sign bit}@1}
 -   {{11 exponent bits}@2}
@@ -77,14 +77,14 @@ slug = "23e97230-9b73-4232-a76e-a1223b9bb70e"
 (<a href="#citeproc_bib_item_2">“IEEE 754” 2022</a>)
 
 
-### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Single-precision floating-point numbers](#single-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--single-precision-floating-point-numbers--orgcba2f1d--0-are-composed-of}
+### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Single-precision floating-point numbers](#single-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--single-precision-floating-point-numbers--org5a9e2c6--0-are-composed-of}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 112.72   | 2023-03-01T09:23:26Z |
-| 1        | 2.65 | 8   | 164.27   | 2023-04-14T22:48:17Z |
-| 2        | 2.65 | 12  | 125.84   | 2023-03-01T11:31:18Z |
-| 3        | 2.65 | 8   | 197.41   | 2023-06-11T01:19:24Z |
+| 0        | 2.50 | 7   | 297.98   | 2023-12-25T15:17:26Z |
+| 1        | 2.80 | 9   | 426.68   | 2024-06-30T11:06:08Z |
+| 2        | 2.65 | 13  | 308.84   | 2024-01-06T09:49:05Z |
+| 3        | 2.65 | 9   | 563.70   | 2024-12-26T10:14:22Z |
 
 -   {{1 sign bit}@1}
 -   {{8 exponent bits}@2}
@@ -103,8 +103,8 @@ slug = "23e97230-9b73-4232-a76e-a1223b9bb70e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.45 | 10  | 92.96    | 2023-02-04T15:31:09Z |
-| 1        | 2.65 | 7   | 136.72   | 2023-03-21T17:41:08Z |
+| 0        | 2.60 | 11  | 234.91   | 2023-09-29T21:42:38Z |
+| 1        | 2.65 | 8   | 357.62   | 2024-03-14T04:52:37Z |
 
 -   {{[IEEE 754]({{< relref "ieee_754.md" >}})}@0}
 
@@ -120,8 +120,8 @@ slug = "23e97230-9b73-4232-a76e-a1223b9bb70e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 8   | 144.17   | 2023-03-11T19:18:13Z |
-| back     | 2.35 | 7   | 129.87   | 2023-03-18T13:09:04Z |
+| front    | 2.65 | 9   | 377.64   | 2024-03-23T15:48:07Z |
+| back     | 2.35 | 8   | 296.34   | 2024-01-10T02:01:10Z |
 
 Fixed-point number representation
 
@@ -140,8 +140,8 @@ Represents a fractional number by scaling a stored integer by an implicit specif
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 147.32   | 2023-03-07T00:07:48Z |
-| back     | 2.35 | 9   | 196.20   | 2023-06-20T18:50:31Z |
+| front    | 2.65 | 8   | 421.87   | 2024-05-03T15:21:07Z |
+| back     | 2.50 | 10  | 536.93   | 2024-12-09T14:09:48Z |
 
 Floating-point number representation
 
@@ -160,8 +160,8 @@ Represents a number using a significand and an exponent: \\(\text{significand} \
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 9   | 161.61   | 2023-04-12T07:02:04Z |
-| 1        | 2.65 | 9   | 197.59   | 2023-05-31T06:30:39Z |
+| 0        | 2.65 | 10  | 461.07   | 2024-07-17T14:23:29Z |
+| 1        | 2.65 | 10  | 548.33   | 2024-11-29T23:31:32Z |
 
 -   {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Double-precision floating-point number](#double-precision-floating-point-number)}@0}
 -   {{\\(\texttt{binary64}\\)}@1}
@@ -176,8 +176,8 @@ Represents a number using a significand and an exponent: \\(\text{significand} \
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 5   | 49.07    | 2023-01-19T19:22:08Z |
-| 1        | 2.65 | 3   | 6.00     | 2022-12-14T17:59:09Z |
+| 0        | 3.10 | 7   | 482.27   | 2024-10-09T07:16:29Z |
+| 1        | 2.95 | 7   | 395.08   | 2024-07-30T03:39:38Z |
 
 -   {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Single-precision floating-point number](#single-precision-floating-point-number)}@0}
 -   {{\\(\texttt{binary32}\\)}@1}
@@ -192,8 +192,8 @@ Represents a number using a significand and an exponent: \\(\text{significand} \
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 42.31    | 2023-01-01T00:01:31Z |
-| back     | 2.65 | 5   | 40.33    | 2023-01-20T00:06:52Z |
+| front    | 2.50 | 7   | 278.61   | 2024-02-01T13:19:14Z |
+| back     | 2.50 | 7   | 268.25   | 2024-01-25T05:31:55Z |
 
 [Single-precision floating-point number](#single-precision-floating-point-number)
 
@@ -216,8 +216,8 @@ Represents a number using a significand and an exponent: \\(\text{significand} \
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 89.24    | 2023-01-26T21:37:50Z |
-| back     | 2.80 | 6   | 112.42   | 2023-04-02T04:28:11Z |
+| front    | 2.65 | 7   | 258.39   | 2023-10-12T23:07:26Z |
+| back     | 2.95 | 7   | 303.07   | 2024-01-30T18:43:17Z |
 
 [Double-precision floating-point number](#double-precision-floating-point-number)
 

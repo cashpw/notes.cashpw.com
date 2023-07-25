@@ -2,7 +2,7 @@
 title = "Comparative advantage"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T16:48:00-07:00
-lastmod = 2022-12-17T13:38:26-08:00
+lastmod = 2023-07-25T08:54:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,8 @@ slug = "673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 16.87    | 2022-12-16T12:52:54Z |
-| back     | 2.35 | 2   | 2.00     | 2022-12-16T18:47:01Z |
+| front    | 2.80 | 7   | 338.92   | 2024-05-18T22:49:16Z |
+| back     | 2.35 | 7   | 188.10   | 2023-11-16T18:25:06Z |
 
 [Comparative advantage]({{< relref "comparative_advantage.md" >}})
 
@@ -47,18 +47,20 @@ One's ability to produce a given good or service in a more efficient and economi
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 4   | 15.34    | 2023-01-01T01:45:41Z |
-| back     | 2.5  | -1  | 0        | 2022-10-28T20:43:00Z |
+| front    | 3.10 | 7   | 421.12   | 2024-09-12T16:25:41Z |
+| back     | 2.20 | 7   | 171.71   | 2023-10-20T16:25:33Z |
 
 [Comparative advantage]({{< relref "comparative_advantage.md" >}})
 
 
 #### Back {#back}
 
--   An attorney, with absolute advantage, who can earn $175/hour for legal work and $25/hour for secretarial work
--   A secretary who can earn $0/hour for legal work and $20/hour for secretarial work
+|                  | Attorney | Secretary |
+|------------------|----------|-----------|
+| Legal work       | $25/hr   | $20/hr    |
+| Secretarial work | $175/hr  | $0/hr     |
 
-The attorney is better off hiring the secretary so they can focus on their [...]: legal work.
+The attorney's [...] is legal work. They're better off hiring the secretary so they can focus on legal work.
 
 
 #### Source {#source}
@@ -75,4 +77,4 @@ The attorney is better off hiring the secretary so they can focus on their [...]
 
 ## Backlinks {#backlinks}
 
--   [Describe]({{< relref "kileBusyPersonPatterns2006.md#describe" >}})
+-   [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})

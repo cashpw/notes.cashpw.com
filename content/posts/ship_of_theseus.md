@@ -2,7 +2,7 @@
 title = "Ship of Theseus (argument)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:42:00-07:00
-lastmod = 2022-12-17T14:09:44-08:00
+lastmod = 2023-07-25T12:27:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ See [Ian Danskin | The Ship of Theseus]({{< relref "danskinShipTheseus2018.md" >
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 9   | 92.52    | 2023-01-24T07:36:10Z |
-| back     | 2.65 | 6   | 80.74    | 2023-01-26T15:49:12Z |
+| front    | 1.90 | 7   | 95.67    | 2023-08-19T07:50:30Z |
+| back     | 2.50 | 7   | 195.79   | 2023-08-15T09:24:29Z |
 
 [Ship of Theseus (argument)]({{< relref "ship_of_theseus.md" >}})
 
@@ -46,8 +46,8 @@ How many words can you change in an argument before it's not the same argument a
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 49.58    | 2023-01-25T05:22:19Z |
-| back     | 2.35 | 3   | 6.00     | 2022-12-13T15:50:52Z |
+| front    | 2.80 | 7   | 388.08   | 2024-07-02T17:59:25Z |
+| back     | 1.90 | 8   | 200.01   | 2024-01-17T14:37:05Z |
 
 [Ship of Theseus (argument)]({{< relref "ship_of_theseus.md" >}})
 

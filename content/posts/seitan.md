@@ -2,7 +2,7 @@
 title = "Seitan"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-02T15:39:00-07:00
-lastmod = 2022-12-17T14:09:09-08:00
+lastmod = 2023-07-25T12:27:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "2caa9715-d216-41c4-babb-c6e66364ac6d"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 14.44    | 2022-12-30T06:56:41Z |
-| back     | 2.5  | -1  | 0        | 2022-11-18T23:06:06Z |
+| front    | 2.65 | 7   | 200.69   | 2023-11-15T15:03:49Z |
+| back     | 2.50 | 7   | 195.65   | 2023-11-26T06:26:10Z |
 
 [Seitan]({{< relref "seitan.md" >}})
 
