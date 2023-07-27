@@ -114,7 +114,6 @@ Systems which compel the individuals within them to race to the bottom; to choos
 -   [Todos]({{< relref "todos.md" >}})
 -   [Allen Ginsberg | Howl]({{< relref "ginsbergHowl2022.md" >}})
 -   [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}})
--   [Unread]({{< relref "unread.md" >}})
 -   [Dark forest theory]({{< relref "dark_forest_theory.md" >}})
 -   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
 -   [Excess resources (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md" >}})

@@ -1,0 +1,131 @@
++++
+title = "Helen Rosenau, Etienne Louis Boullée | Boullée and Visionary Architecture"
+author = ["Cash Weaver"]
+date = 2023-07-25T16:00:00-07:00
+lastmod = 2023-07-25T16:19:39-07:00
+tags = ["reference", "reference"]
+categories = ["reference"]
+draft = false
+slug = "cc620b2e-2070-49b0-8d4c-a5892731faa6"
++++
+
+[Helen Rosenau]({{< relref "helen_rosenau.md" >}}), (NO_ITEM_DATA:rosenauBoulleeVisionaryArchitecture1976)
+
+
+## Summary {#summary}
+
+On the subject of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) and containing the illustrations of [Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}}).
+
+
+## Thoughts {#thoughts}
+
+
+## Notes {#notes}
+
+
+### Architecture, Essay on Art {#architecture-essay-on-art}
+
+
+#### Introduction {#introduction}
+
+
+#### Consideration {#consideration}
+
+
+#### Programmes intended to establish that the Study of Nature is necessary to architecture {#programmes-intended-to-establish-that-the-study-of-nature-is-necessary-to-architecture}
+
+
+#### Character {#character}
+
+
+#### Basilicas {#basilicas}
+
+> To be reduced to what is called necessity when designing a temple is to forget one's subject.
+
+By [Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}})
+
+
+#### Theatre {#theatre}
+
+
+#### The Palace of the Soverign {#the-palace-of-the-soverign}
+
+
+#### The Palace of Justice {#the-palace-of-justice}
+
+
+#### The National Palace {#the-national-palace}
+
+
+#### Municipal Palace {#municipal-palace}
+
+
+#### Coliseum {#coliseum}
+
+
+#### Public Library {#public-library}
+
+
+#### Memorandum {#memorandum}
+
+
+#### Funary Monuments or Cenotaphs {#funary-monuments-or-cenotaphs}
+
+
+#### To Newton {#to-newton}
+
+
+#### Military Architecture {#military-architecture}
+
+
+#### City Entrance {#city-entrance}
+
+
+#### Inside the City {#inside-the-city}
+
+
+#### Gates of Fortified Cities {#gates-of-fortified-cities}
+
+
+#### Fort {#fort}
+
+
+#### Bridges {#bridges}
+
+
+#### Reflections on Architecture in Particular {#reflections-on-architecture-in-particular}
+
+
+#### Recapitulation {#recapitulation}
+
+
+#### Notes {#notes}
+
+
+#### Memorandum concerning the Restoration of the Château of Versailles {#memorandum-concerning-the-restoration-of-the-château-of-versailles}
+
+
+#### Summary Reflections on the Art of Teaching Architecture {#summary-reflections-on-the-art-of-teaching-architecture}
+
+
+## Flashcards {#flashcards}
+
+
+### Cloze {#cloze}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.5  | -1  | 0        | 2023-07-25T23:17:47Z |
+
+> {{To be reduced to what is called necessity when designing a temple is to forget one's subject.}{Full quote: [Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}}) on temples}@0}
+
+
+#### Source {#source}
+
+(NO_ITEM_DATA:rosenauBoulleeVisionaryArchitecture1976)
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:rosenauBoulleeVisionaryArchitecture1976</div>
+</div>

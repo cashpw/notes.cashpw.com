@@ -2,7 +2,7 @@
 title = "Contraction hierarchies"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T11:57:00-07:00
-lastmod = 2023-07-25T08:57:07-07:00
+lastmod = 2023-07-26T07:52:19-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -510,7 +510,7 @@ Heuristics for choosing the order to contract vertices.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2023-06-16T23:22:44Z |
+| front    | 2.50 | 1   | 1.00     | 2023-07-27T02:54:44Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:22:44Z |
 
 Edge difference
@@ -581,7 +581,7 @@ We should contract vertices with {{fewer}{comparison}@0} contracted neighbors fi
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 4   | 12.69    | 2023-07-24T05:38:20Z |
+| front    | 2.35 | 5   | 28.71    | 2023-08-24T07:54:33Z |
 | back     | 2.50 | 1   | 1.00     | 2023-07-13T12:55:35Z |
 
 Lazy update in the context of vertex ordering

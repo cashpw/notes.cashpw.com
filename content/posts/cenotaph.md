@@ -2,9 +2,9 @@
 title = "Cenotaph"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-24T10:45:00-07:00
-lastmod = 2023-07-25T08:50:30-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-07-25T15:17:56-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 slug = "e8e588ca-1ce4-4c89-b050-44fc595310e7"
 +++
@@ -36,3 +36,8 @@ slug = "e8e588ca-1ce4-4c89-b050-44fc595310e7"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cenotaph.” 2023. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Cenotaph&oldid=1163425010">https://en.wikipedia.org/w/index.php?title=Cenotaph&#38;oldid=1163425010</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Cenotaph for Sir Isaac Newton]({{< relref "cenotaph_for_sir_isaac_newton.md" >}})
