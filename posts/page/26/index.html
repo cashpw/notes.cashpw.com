@@ -61,145 +61,136 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Symmetric game
+<h2>Single-source shortest path with topological sort in Python
 </h2>
 </header>
 <div class=entry-content>
-<p>In Game theory, a Symmetric game is a game where the payoffs for playing a particular strategy depend only on the other strategies employed, not on who is playing them. If one can change the identities of the players without changing the payoff to the strategies, then a game is symmetric.
-A 2x2 game is symmetric if and only if the payout matrix is of the form:
-E F E a,a b,c F c,b d,d Examples Chicken Prisoner’s Dilemma Stag hunt Flashcards Definition (Game theory) position ease box interval due front 2....</p>
+<p>An Implementation of a solution to the Single-source shortest path problem which leverages the Topological order of the underlying graph (in Python).
+import math from typing import List, Mapping, TypeVar, Generic from dataclasses import dataclass, field from itertools import count T = TypeVar('T') NodeId = int EdgeWeight = int Edges = Mapping[NodeId, Mapping[NodeId, EdgeWeight]] Previouses = Mapping[NodeId, NodeId] Distances = Mapping[NodeId, EdgeWeight] @dataclass class Node(Generic[T]): value: T id: NodeId = field(defualt_factory=count()....</p>
 </div>
-<footer class=entry-footer><span title="2022-09-28 07:41:00 -0700 -0700">2022-09-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:13:13 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/symmetric_game.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-01-31 07:08:00 -0800 -0800">2023-01-31</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 12:28:31 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/single_source_shortest_path_with_topological_sort_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Symmetric game" href=http://notes.cashpw.com/posts/50751f5a-e3b9-48cb-9745-26b79a3d3fe9/></a>
+<a class=entry-link aria-label="post link to Single-source shortest path with topological sort in Python" href=http://notes.cashpw.com/posts/3642d973-8af3-4d0f-a446-9ee24c2f85e7/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Cooperative game
+<h2>Implementation
 </h2>
 </header>
 <div class=entry-content>
-<p>In Game theory, a Cooperative game (or coalitional game) is a game with competition between groups of players (“coalitions”) due to the possibility of external enforcement of cooperative behavior (e.g. through contract law). Those are opposed to Non-cooperative game in which there is either no possibility to forge alliances or all agreements need to be self-enforcing (e.g. through credible threats).
-(“Cooperative Game Theory” 2022)
-Flashcards Define position ease box interval due front 2....</p>
+<p> Flashcards Backlinks Merge sort implementation in Python Bubble sort implementation in Python Heapsort implementation in python Binary heap implementation in python Iterative deepening depth-first-search implementation in Python Dijkstra’s algorithm implementation in Python Bellman-Ford implementation in Python Quicksort implementation in Python Pseudo-polynomial time subset sum problem implementation in Python Jarnik’s algorithm implementation in Python Single-source shortest path with topological sort in Python Topological order by Depth-first search in Python Quickselect implementation in Python </p>
 </div>
-<footer class=entry-footer><span title="2022-09-28 07:40:00 -0700 -0700">2022-09-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:38:54 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/cooperative_game.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-01-30 09:52:00 -0800 -0800">2023-01-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 10:48:12 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/implementation.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Cooperative game" href=http://notes.cashpw.com/posts/31a42b11-aca6-41e8-a41a-5fb97006ddc2/></a>
+<a class=entry-link aria-label="post link to Implementation" href=http://notes.cashpw.com/posts/ef37e8fc-651f-4577-8a68-3bdb0c919928/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Basis
+<h2>Topological order by Depth-first search in Python
 </h2>
 </header>
 <div class=entry-content>
-<p>In mathematics, a set B of vectors in a vector space V is called a basis if every element of V may be written in a unique way as a finite linear combination of elements of B. The coefficients of this linear combination are referred to as components or coordinates of the vector with respect to B. The elements of a basis are called basis vectors.
-(“Basis (Linear Algebra)” 2022)...</p>
+<p>An Implementation of a Depth-first search-based algorithm for finding a Topological order for a Directed acyclic graph in Python.
+from random import choice from itertools import count from dataclasses import dataclass, field from typing import Mapping, List, TypeVar, Generic T = TypeVar('T') VertexId = int @dataclass class Vertex(Generic[T]): value: T id: VertexId = field(default_factory=count().__next__) def topological_sort(adjacency_list: Mapping[VertexId, List[VertexId]]) -> List[VertexId]: """Return a topological ordering of ADJACENCY_LIST.""" evaluated = set() evaluating = set() topological_order = [] def visit(id: VertexId) -> None: if id in evaluated: return if id in evaluating: raise Exception(f"Provided adjacency list contains a cycle including {id}") evaluating....</p>
 </div>
-<footer class=entry-footer><span title="2022-09-27 20:37:00 -0700 -0700">2022-09-27</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:35:37 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/basis.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-01-30 09:50:00 -0800 -0800">2023-01-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 12:37:03 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/topological_order_by_depth_first_search_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Basis" href=http://notes.cashpw.com/posts/90dcfc79-6808-48ab-8193-2b040295574c/></a>
+<a class=entry-link aria-label="post link to Topological order by Depth-first search in Python" href=http://notes.cashpw.com/posts/2c232805-4cb3-47ba-8f89-d9090f29f740/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Coordinate vector
+<h2>Computational complexity theory
 </h2>
 </header>
 <div class=entry-content>
-<p>In linear algebra, a Coordinate vector is a representation of a vector as an ordered list of numbers that describes the vector in terms of a particular ordered Basis.
-(“Coordinate Vector” 2022)
-\(\begin{bmatrix}\vec{v}\end{bmatrix}_B\) denotes the coordinate vector \(\vec{v}\) relative to the basis \(B\).
-Flashcards Definition (Linear Algebra) position ease box interval due back 2.65 7 128.82 2023-03-13T19:58:52Z front 2.65 7 116....</p>
+<p> In theoretical computer science and mathematics, computational complexity theory focuses on classifying computational problems according to their resource usage, and relating these classes to each other. A computational problem is a task solved by a computer. A computation problem is solvable by mechanical application of mathematical steps, such as an algorithm.
+(“Computational Complexity Theory” 2022)
+Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Computational Complexity Theory.” 2022. Wikipedia, December. https://en.wikipedia.org/w/index.php?title=Computational_complexity_theory&oldid=1127400092. Backlinks Polynomial time Decision problem Nondeterministic polynomial time Nick’s class </p>
 </div>
-<footer class=entry-footer><span title="2022-09-27 20:35:00 -0700 -0700">2022-09-27</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:38:59 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/coordinate_vector.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-01-30 09:35:00 -0800 -0800">2023-01-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:55:47 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/computational_complexity_theory.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Coordinate vector" href=http://notes.cashpw.com/posts/4b917306-e1fa-4d34-9d2b-5bb1eedab431/></a>
+<a class=entry-link aria-label="post link to Computational complexity theory" href=http://notes.cashpw.com/posts/235c1171-e8bd-4b52-820c-109f34a0bc80/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Stephen P. Boyd, Lieven Vandenberghe | Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares
+<h2>Nick's class
 </h2>
 </header>
 <div class=entry-content>
-<p>(Boyd and Vandenberghe 2018)
-Say something
-Flashcards Authors of Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares position ease box interval due front 2.50 2 2.00 2022-12-16T17:21:19Z back 2.50 1 1.00 2022-12-16T20:36:35Z Stephen Boyd Lieven Vandenberghe Source (Boyd and Vandenberghe 2018)
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}Boyd, Stephen P., and Lieven Vandenberghe. 2018. Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares....</p>
+<p>In computational complexity theory [Computational complexity theory], the class NC (for “Nick’s Class”) is the set of decision problems decidable in polylogarithmic time on a parallel computer with a polynomial number of processors. In other words, a problem with input size \(n\) is in NC if there exist constants \(c\) and \(k\) such that it can be solved in time \(\bigo{\log^c n}\) using \(\bigo{n^k}\) parallel processors. Stephen Cook coined the name “Nick’s class” after Nick Pippenger, who had done extensive research on circuits with polylogarithmic depth and polynomial size....</p>
 </div>
-<footer class=entry-footer><span title="2022-09-27 20:30:00 -0700 -0700">2022-09-27</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:36:46 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-01-30 09:33:00 -0800 -0800">2023-01-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 11:17:35 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/nick_s_class.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Stephen P. Boyd, Lieven Vandenberghe | Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares" href=http://notes.cashpw.com/posts/7dc661e4-ea71-4280-b6bc-20a32da8b49e/></a>
+<a class=entry-link aria-label="post link to Nick's class" href=http://notes.cashpw.com/posts/1a499a31-7ecb-4f80-95a5-22d748a0c634/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Wash the flour seitan
+<h2>Polynomial time
 </h2>
 </header>
 <div class=entry-content>
-<p>Wash the flour method is a way to make Seitan from high-gluten flour.
-3 parts high-gluten flour (>= 11% protein content) 1 part water (may need to be higher depending on the flour you use) Combine ingredients
-(Seitan Society n.d.)
-Place the ball of dough in a bowl and cover it with cool water for at least 1 hour, but not longer than 8-10....</p>
+<p>In computational complexity theory [Computational complexity theory], P, also known as PTIME or DTIME(\(n^{\bigo{1}}\)), is a fundamental complexity class. It contains all decision problems that can be solved by a deterministic Turing machine using a polynomial amount of computation time, or polynomial time.
+Cobham’s thesis holds that P is the class of computational problems that are “efficiently solvable” or “tractable”. This is inexact: in practice, some problems not known to be in P have practical solutions, and some that are in P do not, but this is a useful rule of thumb....</p>
 </div>
-<footer class=entry-footer><span title="2022-09-27 19:45:00 -0700 -0700">2022-09-27</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:22:39 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/wash_the_flour_seitan.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-01-30 09:04:00 -0800 -0800">2023-01-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 11:27:53 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/polynomial_time.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Wash the flour seitan" href=http://notes.cashpw.com/posts/aec8ffce-c854-4800-8a3d-bf8ac3616eef/></a>
+<a class=entry-link aria-label="post link to Polynomial time" href=http://notes.cashpw.com/posts/9abc3978-c42a-42ad-a309-9f50c3698c0f/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Min-maxing
+<h2>Component (Graph theory)
 </h2>
 </header>
 <div class=entry-content>
-<p>Playing The meta, at possible detriment to the story and/or enjoyment of the game.
-(“Glossary of Video Game Terms” 2022)
-A Play to win technique.
-Flashcards Describe position ease box interval due front 2.35 3 6.00 2022-12-22T17:56:05Z back 2.5 -1 0 2022-11-22T18:53:08Z Min-maxing
-Back A Play to win technique which focuses on effectiveness – the Metagame – over enjoyment, exploration, fun, etc....</p>
+<p>In graph theory [Graph theory], a component of an undirected graph [Undirected graph] is a connected [Connected graph] subgraph that is not part of any larger connected subgraph. The components of any graph partition its vertices into disjoint sets, and are the induced subgraphs of those sets. A graph that is itself connected has exactly one component, consisting of the whole graph. Components are sometimes called connected components.
+(“Component (Graph Theory)” 2023)...</p>
 </div>
-<footer class=entry-footer><span title="2022-09-27 12:53:00 -0700 -0700">2022-09-27</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:56:27 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/min_maxing.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-01-28 13:25:00 -0800 -0800">2023-01-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:55:16 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/component_graph_theory.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Min-maxing" href=http://notes.cashpw.com/posts/7ecdf7fa-6b7e-43f9-8268-484b9007ea87/></a>
+<a class=entry-link aria-label="post link to Component (Graph theory)" href=http://notes.cashpw.com/posts/d3439626-492b-4165-836e-efd890096225/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>This is the dreamtime
+<h2>Connectivity (Graph theory)
 </h2>
 </header>
 <div class=entry-content>
-<p> Based on reference: (“Overcoming Bias : This Is the Dream Time” n.d.).
-Related: Min-maxing Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Overcoming Bias : This Is the Dream Time.” n.d. Accessed June 21, 2022. https://www.overcomingbias.com/2009/09/this-is-the-dream-time.html. Backlinks Ian Danskin | The Cost of Doing Business </p>
+<p>In an undirected graph [Undirected graph] \(G\), two vertices \(u\) and \(v\) are called connected if \(G\) contains a path [Path (graph theory)] from \(u\) to \(v\). Otherwise, they are called disconnected. If the two vertices are additionally connected by a path of length 1, i.e. by a single edge, the vertices are called adjacent.
+(“Connectivity (Graph Theory)” 2022)
+Connected graph A graph is said to be connected if every pair of vertices in the graph is connected....</p>
 </div>
-<footer class=entry-footer><span title="2022-09-26 19:22:00 -0700 -0700">2022-09-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:17:37 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/this_is_the_dreamtime.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-01-28 13:17:00 -0800 -0800">2023-01-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:56:16 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/connectivity_graph_theory.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to This is the dreamtime" href=http://notes.cashpw.com/posts/4d1a0eba-1f0f-4634-b574-6d66b7afa9b8/></a>
+<a class=entry-link aria-label="post link to Connectivity (Graph theory)" href=http://notes.cashpw.com/posts/9ee639e1-b92d-4bdb-8d13-9c53e22bf945/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Systems
+<h2>Cut (Graph theory)
 </h2>
 </header>
 <div class=entry-content>
-<p> Flashcards Backlinks No ethical consumption under capitalism Ian Danskin | The Cost of Doing Business All cops are bastards The purpose of a system is what it does Theory of change Compare and contrast Zach Tellman | Trapped in the Technologist Factory Describe </p>
+<p>In graph theory [Graph theory], a cut is a partition of the vertices of a graph into two disjoint subsets. Any cut determines a cut-set, the set of edges that have one endpoint in each subset of the partition. These edges are said to cross the cut. In a connected graph [Connectivity (Graph theory)], each cut-set determines a unique cut, and in some cases cuts are identified with their cut-sets rather than with their vertex partitions....</p>
 </div>
-<footer class=entry-footer><span title="2022-09-26 19:14:00 -0700 -0700">2022-09-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 14:13:36 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/systems.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-01-28 13:15:00 -0800 -0800">2023-01-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 10:27:27 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/cut_graph_theory.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Systems" href=http://notes.cashpw.com/posts/c73b15fa-a2bc-48bc-8f3d-6edffc332da1/></a>
+<a class=entry-link aria-label="post link to Cut (Graph theory)" href=http://notes.cashpw.com/posts/d10d6ecb-87e1-446a-81a0-6afe74eddb78/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Ian Danskin | The Cost of Doing Business
+<h2>Quadratic formula
 </h2>
 </header>
 <div class=entry-content>
-<p>Ian Danskin, (Danskin 2022)
-This is an entry in the Alt-right Playbook.
-Summary White people – both those who profess to be non-racist and otherwise – tend to view racism as “tolerable” or else “easy to disregard”. It’s okay to sacrifice (a) minorities in order to win. This applies to more than just racism and is termed the cost of doing business.
-Notes […] controversy = attention and attention = brand recognition....</p>
+<p>In elementary algebra, the quadratic formula is a formula that provides the solution(s) to a quadratic equation. […]
+Given a general quadratic equation of the form
+\(ax^2+bx+c=0\)
+with x representing an unknown, with a, b and c representing constants, and with a ≠ 0, the quadratic formula is:
+\(x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}\)
+where the plus–minus symbol “±” indicates that the quadratic equation has two solutions.[1] Written separately, they become:...</p>
 </div>
-<footer class=entry-footer><span title="2022-09-26 19:06:00 -0700 -0700">2022-09-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-12-17 13:40:06 -0800 -0800">2022-12-17</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/danskinianCostDoingBusiness2022.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-01-27 16:47:00 -0800 -0800">2023-01-27</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 11:34:50 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/quadratic_formula.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Ian Danskin | The Cost of Doing Business" href=http://notes.cashpw.com/posts/073a3833-8cf1-431e-97df-c87f448b6a12/></a>
+<a class=entry-link aria-label="post link to Quadratic formula" href=http://notes.cashpw.com/posts/9d646383-d4a9-4f9d-ab12-74d45b82d58a/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

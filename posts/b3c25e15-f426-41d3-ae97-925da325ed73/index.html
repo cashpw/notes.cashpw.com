@@ -1,0 +1,323 @@
+<!doctype html><html lang=en dir=auto>
+<head><meta charset=utf-8>
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<meta name=robots content="index, follow">
+<title>C++ class | Cash Prokop-Weaver</title>
+<meta name=keywords content="concept,concept">
+<meta name=description content="A class in C++ represents a user-defined data structure. It&rsquo;s similar to a C++ struct.
+Concrete class  The basic idea of ocncrete classes is that they behave &ldquo;just like built-in types&rdquo;.
+(Stroustrup 2022)
+ Classes without any abstract methods.
+Abstract class Classes with at least one abstract method.
+An example of an abstract class is the following Container:
+class Container { public: virtual double& operator[](int) = 0; virtual int size() const = 0; virtual ˜Container() {} }; See Pure virtual function">
+<meta name=author content>
+<link rel=canonical href=http://notes.cashpw.com/posts/b3c25e15-f426-41d3-ae97-925da325ed73/>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.b29398f29a599d5e3004230f1be93c6d0e635ee0513a370a3f70268eb91bd59d.css integrity="sha256-spOY8ppZnV4wBCMPG+k8bQ5jXuBROjcKP3Amjrkb1Z0=" rel="preload stylesheet" as=style>
+<link rel=icon href=http://notes.cashpw.com/favicon.ico>
+<link rel=apple-touch-icon href=http://notes.cashpw.com/apple-touch-icon.png>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-69408538-1','auto'),ga('send','pageview'))</script>
+<meta name=twitter:title content="C++ class | Cash Prokop-Weaver">
+<meta name=twitter:description content="A class in C++ represents a user-defined data structure. It&rsquo;s similar to a C++ struct.
+Concrete class  The basic idea of ocncrete classes is that they behave &ldquo;just like built-in types&rdquo;.
+(Stroustrup 2022)
+ Classes without any abstract methods.
+Abstract class Classes with at least one abstract method.
+An example of an abstract class is the following Container:
+class Container { public: virtual double& operator[](int) = 0; virtual int size() const = 0; virtual ˜Container() {} }; See Pure virtual function">
+<meta property="og:title" content="C++ class | Cash Prokop-Weaver">
+<meta property="og:description" content="A class in C++ represents a user-defined data structure. It&rsquo;s similar to a C++ struct.
+Concrete class  The basic idea of ocncrete classes is that they behave &ldquo;just like built-in types&rdquo;.
+(Stroustrup 2022)
+ Classes without any abstract methods.
+Abstract class Classes with at least one abstract method.
+An example of an abstract class is the following Container:
+class Container { public: virtual double& operator[](int) = 0; virtual int size() const = 0; virtual ˜Container() {} }; See Pure virtual function">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://notes.cashpw.com/posts/b3c25e15-f426-41d3-ae97-925da325ed73/">
+<meta property="article:section" content="posts">
+<meta property="article:published_time" content="2023-05-11T10:06:00-07:00">
+<meta property="article:modified_time" content="2023-07-25T08:47:04-07:00">
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://notes.cashpw.com/posts/"},{"@type":"ListItem","position":2,"name":"C++ class","item":"http://notes.cashpw.com/posts/b3c25e15-f426-41d3-ae97-925da325ed73/"}]}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"C++ class | Cash Prokop-Weaver","name":"C\u002b\u002b class","description":"A class in C++ represents a user-defined data structure. It\u0026rsquo;s similar to a C++ struct.\nConcrete class  The basic idea of ocncrete classes is that they behave \u0026ldquo;just like built-in types\u0026rdquo;.\n(Stroustrup 2022)\n Classes without any abstract methods.\nAbstract class Classes with at least one abstract method.\nAn example of an abstract class is the following Container:\nclass Container { public: virtual double\u0026amp; operator[](int) = 0; virtual int size() const = 0; virtual ˜Container() {} }; See Pure virtual function","keywords":["concept","concept"],"wordCount":"271","inLanguage":"en","datePublished":"2023-05-11T10:06:00-07:00","dateModified":"2023-07-25T08:47:04-07:00","author":[{"@type":"Person","name":"Cash Prokop-Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://notes.cashpw.com/posts/b3c25e15-f426-41d3-ae97-925da325ed73/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://notes.cashpw.com/favicon.ico"}}}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
+<noscript>
+<style>#theme-toggle,.top-link{display:none}</style>
+</noscript>
+</head>
+<body class="dark type-posts kind-page layout-" id=top><script data-no-instant>function switchTheme(a){switch(a){case'light':document.body.classList.remove('dark');break;case'dark':document.body.classList.add('dark');break;default:window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')}}function isDarkTheme(){return document.body.className.includes("dark")}function getPrefTheme(){return localStorage.getItem("pref-theme")}function setPrefTheme(a){switchTheme(a),localStorage.setItem("pref-theme",a)}const toggleThemeCallbacks={};toggleThemeCallbacks.main=a=>{a?setPrefTheme('light'):setPrefTheme('dark')},window.addEventListener('toggle-theme',function(){const a=isDarkTheme();for(const b in toggleThemeCallbacks)toggleThemeCallbacks[b](a)});function toggleThemeListener(){window.dispatchEvent(new CustomEvent('toggle-theme'))}</script>
+<script>(function(){const b='dark',a=getPrefTheme(),c=a||b;switchTheme(c)})()</script>
+<header class=header>
+<nav class=nav>
+<div class=logo>
+<a href=http://notes.cashpw.com/ accesskey=h title="Cash Prokop-Weaver (Alt + H)">Cash Prokop-Weaver</a>
+<span class=logo-switches>
+<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+</button>
+</span>
+</div>
+<ul id=menu>
+<li>
+<a href=http://notes.cashpw.com/archives/ title=Archives>Archives
+</a>
+</li>
+<li>
+<a href=http://notes.cashpw.com/search/ title="Search (Alt + /)" data-no-instant accesskey=/>Search
+</a>
+</li>
+<li>
+<a href=http://notes.cashpw.com/tags/ title=Tags>Tags
+</a>
+</li>
+</ul>
+</nav>
+</header>
+<main class="main post">
+<article class=post-single>
+<header class=post-header>
+<h1 class=post-title>
+C++ class
+</h1>
+<div class=post-meta><span title="2023-05-11 10:06:00 -0700 -0700">2023-05-11</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:47:04 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/c_class.org rel="noopener noreferrer" target=_blank>Edit</a>
+</div>
+<div class="post-meta post-references"></div><div class="post-meta post-stars"></div>
+</header> <div class="toc side left">
+<details open>
+<summary accesskey=c title="(Alt + C)">
+<span class=details>Table of Contents</span>
+</summary>
+<div class=inner><ul>
+<li>
+<a href=#concrete-class aria-label="Concrete class">Concrete class</a></li>
+<li class=menu-link-abstract-class>
+<a href=#abstract-class aria-label="Abstract class">Abstract class</a></li>
+<li class=menu-link-inheritance-and-implementation>
+<a href=#inheritance-and-implementation aria-label="Inheritance and implementation">Inheritance and implementation</a></li>
+<li class=menu-link-flashcards>
+<a href=#flashcards aria-label=Flashcards>Flashcards</a><ul>
+<li class=menu-link-cloze>
+<a href=#cloze aria-label=Cloze>Cloze</a><ul>
+<li class=menu-link-source>
+<a href=#source aria-label=Source>Source</a></li></ul>
+</li>
+<li class=menu-link-describe>
+<a href=#describe aria-label=Describe>Describe</a><ul>
+<li class=menu-link-back>
+<a href=#back aria-label=Back>Back</a></li>
+<li class=menu-link-source>
+<a href=#source aria-label=Source>Source</a></li></ul>
+</li>
+<li class=menu-link-describe>
+<a href=#describe aria-label=Describe>Describe</a><ul>
+<li class=menu-link-back>
+<a href=#back aria-label=Back>Back</a></li>
+<li class=menu-link-source>
+<a href=#source aria-label=Source>Source</a></li></ul>
+</li>
+<li class=menu-link-cloze>
+<a href=#cloze aria-label=Cloze>Cloze</a><ul>
+<li class=menu-link-source>
+<a href=#source aria-label=Source>Source</a></li></ul>
+</li></ul>
+</li>
+<li class=menu-link-references>
+<a href=#references aria-label=References>References</a></li>
+<li class=menu-link-backlinks>
+<a href=#backlinks aria-label=Backlinks>Backlinks</a>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div class=post-content>
+<p>A <code>class</code> in C++ represents a user-defined data structure. It&rsquo;s similar to a <a href=/posts/77af446a-bdc3-4800-b72e-240b66e69154/>C++ struct</a>.</p>
+<h2 id=concrete-class>Concrete class<a hidden class=anchor aria-hidden=true href=#concrete-class>¶</a></h2>
+<blockquote>
+<p>The basic idea of ocncrete classes is that they behave &ldquo;just like built-in types&rdquo;.</p>
+<p>(<a href=#citeproc_bib_item_1>Stroustrup 2022</a>)</p>
+</blockquote>
+<p>Classes without any abstract methods.</p>
+<h2 id=abstract-class>Abstract class<a hidden class=anchor aria-hidden=true href=#abstract-class>¶</a></h2>
+<p>Classes with at least one abstract method.</p>
+<p>An example of an abstract class is the following <code>Container</code>:</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-C++ data-lang=C++><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Container</span> {
+ <span style=color:#66d9ef>public</span><span style=color:#f92672>:</span>
+  <span style=color:#66d9ef>virtual</span> <span style=color:#66d9ef>double</span><span style=color:#f92672>&amp;</span> <span style=color:#66d9ef>operator</span>[](<span style=color:#66d9ef>int</span>) <span style=color:#f92672>=</span> <span style=color:#ae81ff>0</span>;
+  <span style=color:#66d9ef>virtual</span> <span style=color:#66d9ef>int</span> <span style=color:#a6e22e>size</span>() <span style=color:#66d9ef>const</span> <span style=color:#f92672>=</span> <span style=color:#ae81ff>0</span>;
+  <span style=color:#66d9ef>virtual</span> <span style=color:#960050;background-color:#1e0010>˜</span>Container() {}
+};
+</code></pre></div><p>See <a href=/posts/cbe60cda-fc7d-4188-9cb3-4715ae550b3d/>Pure virtual function</a></p>
+<h2 id=inheritance-and-implementation>Inheritance and implementation<a hidden class=anchor aria-hidden=true href=#inheritance-and-implementation>¶</a></h2>
+<p><code>Foo</code> implements <code>Container</code> in the following example. <code>Container</code> is the base-class and <code>Foo</code> is the derived-class.</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-C++ data-lang=C++><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Container</span> {
+ <span style=color:#66d9ef>public</span><span style=color:#f92672>:</span>
+  <span style=color:#66d9ef>virtual</span> <span style=color:#66d9ef>double</span><span style=color:#f92672>&amp;</span> <span style=color:#66d9ef>operator</span>[](<span style=color:#66d9ef>int</span>) <span style=color:#f92672>=</span> <span style=color:#ae81ff>0</span>;
+  <span style=color:#66d9ef>virtual</span> <span style=color:#66d9ef>int</span> <span style=color:#a6e22e>size</span>() <span style=color:#66d9ef>const</span> <span style=color:#f92672>=</span> <span style=color:#ae81ff>0</span>;
+  <span style=color:#66d9ef>virtual</span> <span style=color:#960050;background-color:#1e0010>˜</span>Container() {}
+};
+
+<span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Foo</span> <span style=color:#f92672>:</span> <span style=color:#66d9ef>public</span> Container {
+  <span style=color:#75715e>// ...
+</span><span style=color:#75715e></span>}
+</code></pre></div><h2 id=flashcards>Flashcards<a hidden class=anchor aria-hidden=true href=#flashcards>¶</a></h2>
+<h3 id=cloze>Cloze<a hidden class=anchor aria-hidden=true href=#cloze>¶</a></h3>
+<table>
+<thead>
+<tr>
+<th>position</th>
+<th>ease</th>
+<th>box</th>
+<th>interval</th>
+<th>due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>2.50</td>
+<td>6</td>
+<td>114.53</td>
+<td>2023-11-15T16:41:20Z</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2.65</td>
+<td>5</td>
+<td>49.87</td>
+<td>2023-08-17T14:12:22Z</td>
+</tr>
+</tbody>
+</table>
+<p>(C++) {{<code>class</code>}@0} members are {{private}{visibility}@1} by default.</p>
+<h4 id=source>Source<a hidden class=anchor aria-hidden=true href=#source>¶</a></h4>
+<p>(<a href=#citeproc_bib_item_1>Stroustrup 2022</a>)</p>
+<h3 id=describe>Describe<a hidden class=anchor aria-hidden=true href=#describe>¶</a></h3>
+<table>
+<thead>
+<tr>
+<th>position</th>
+<th>ease</th>
+<th>box</th>
+<th>interval</th>
+<th>due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>front</td>
+<td>2.80</td>
+<td>5</td>
+<td>42.70</td>
+<td>2023-08-01T13:13:27Z</td>
+</tr>
+<tr>
+<td>back</td>
+<td>2.35</td>
+<td>5</td>
+<td>35.40</td>
+<td>2023-08-05T11:13:21Z</td>
+</tr>
+</tbody>
+</table>
+<p><a href=#concrete-class>Concrete class</a></p>
+<h4 id=back>Back<a hidden class=anchor aria-hidden=true href=#back>¶</a></h4>
+<p>A class which behaves just like built-in types. It has no abstract methods.</p>
+<h4 id=source>Source<a hidden class=anchor aria-hidden=true href=#source>¶</a></h4>
+<p>(<a href=#citeproc_bib_item_1>Stroustrup 2022</a>)</p>
+<h3 id=describe>Describe<a hidden class=anchor aria-hidden=true href=#describe>¶</a></h3>
+<table>
+<thead>
+<tr>
+<th>position</th>
+<th>ease</th>
+<th>box</th>
+<th>interval</th>
+<th>due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>front</td>
+<td>2.50</td>
+<td>5</td>
+<td>37.16</td>
+<td>2023-07-28T19:35:24Z</td>
+</tr>
+<tr>
+<td>back</td>
+<td>2.50</td>
+<td>5</td>
+<td>37.09</td>
+<td>2023-08-07T16:26:44Z</td>
+</tr>
+</tbody>
+</table>
+<p><a href=#abstract-class>Abstract class</a></p>
+<h4 id=back>Back<a hidden class=anchor aria-hidden=true href=#back>¶</a></h4>
+<p>A class with at least one method which another class must implement.</p>
+<h4 id=source>Source<a hidden class=anchor aria-hidden=true href=#source>¶</a></h4>
+<p>(<a href=#citeproc_bib_item_1>Stroustrup 2022</a>)</p>
+<h3 id=cloze>Cloze<a hidden class=anchor aria-hidden=true href=#cloze>¶</a></h3>
+<table>
+<thead>
+<tr>
+<th>position</th>
+<th>ease</th>
+<th>box</th>
+<th>interval</th>
+<th>due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>2.35</td>
+<td>5</td>
+<td>34.86</td>
+<td>2023-08-19T10:59:09Z</td>
+</tr>
+</tbody>
+</table>
+<p><code>Foo</code> implements <code>Bar</code></p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-C++ data-lang=C++><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Foo</span>{{ <span style=color:#f92672>:</span> <span style=color:#66d9ef>public</span> Bar ...}<span style=color:#960050;background-color:#1e0010>@</span><span style=color:#ae81ff>0</span>}
+</code></pre></div><h4 id=source>Source<a hidden class=anchor aria-hidden=true href=#source>¶</a></h4>
+<p>(<a href=#citeproc_bib_item_1>Stroustrup 2022</a>)</p>
+<h2 id=references>References<a hidden class=anchor aria-hidden=true href=#references>¶</a></h2>
+<style>.csl-entry{text-indent:-1.5em;margin-left:1.5em}</style><div class=csl-bib-body>
+<div class=csl-entry><a id=citeproc_bib_item_1></a>Stroustrup, Bjarne. 2022. <i>A Tour of C++</i>. Third. C++ in-Depth Series. Boston: Addison-Wesley.</div>
+</div>
+<h2 id=backlinks>Backlinks<a hidden class=anchor aria-hidden=true href=#backlinks>¶</a></h2>
+<ul>
+<li><a href=/posts/29c58f6a-4c43-45f2-8cf3-86a53cb36978/>Bjarne Stroustrup | A Tour of C++</a></li>
+</ul>
+</div>
+<footer class=post-footer>
+<script>var nextUntil=function(a,d,b){var c=[];for(a=a.nextElementSibling;a;){if(a.matches(d))break;if(b&&!a.matches(b)){a=a.nextElementSibling;continue}c.push(a),a=a.nextElementSibling}return c};const flashcardHeader=document.getElementById("flashcards");if(flashcardHeader){const e=nextUntil(flashcardHeader,"h2"),a=document.createElement('div');a.setAttribute('class','toc flashcards');const b=document.createElement('details');a.appendChild(b);const d=document.createElement('summary');b.appendChild(d);const c=document.createElement('div');c.setAttribute('class','inner'),b.appendChild(c),nextUntil(flashcardHeader,"h2").forEach(a=>{c.appendChild(a)}),flashcardHeader.parentNode.insertBefore(document.createElement('hr'),flashcardHeader),flashcardHeader.parentNode.insertBefore(a,flashcardHeader),d.appendChild(flashcardHeader)}</script>
+<script>const backlinkHeader=document.getElementById("backlinks");if(backlinkHeader){const b=document.createElement('h4');b.innerHTML=backlinkHeader.innerHTML;const c=backlinkHeader.nextElementSibling;console.log(c);const a=document.createElement('aside');a.setAttribute('class','backlinks toc side right'),backlinkHeader.parentNode.insertBefore(a,backlinkHeader),a.appendChild(b),a.appendChild(c),backlinkHeader.remove(),b.id="backlinks"}</script>
+<script src=/js/citations/custom.js></script>
+</footer>
+</article>
+</main>
+<footer class=footer>
+<span>&copy; 2023 <a href=http://notes.cashpw.com/>Cash Prokop-Weaver</a></span><span style=display:inline-block;margin-left:1em>
+<a href=https://creativecommons.org/licenses/by-sa/4.0/>CC BY-SA</a>
+</span>
+<span style=display:inline-block;margin-left:1em>
+Powered by
+<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
+    <a href=https://github.com/reorx/hugo-PaperModX/ rel=noopener target=_blank>PaperModX</a>
+</span>
+</footer>
+<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
+</a>
+<script>(function(){const b=''=='1';if(b)return;let a=document.getElementById("theme-toggle");a.removeEventListener('click',toggleThemeListener),a.addEventListener('click',toggleThemeListener)})()</script>
+<script>(function(){let a=document.getElementById('menu');a&&(a.scrollLeft=localStorage.getItem("menu-scroll-position"),a.onscroll=function(){localStorage.setItem("menu-scroll-position",a.scrollLeft)});const b=''=='1',c=''=='1';if(window.matchMedia('(prefers-reduced-motion: reduce)').matches||b||c)return;document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})})()</script>
+<script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
+<script>if(window.scrollListeners)for(const a of scrollListeners)window.removeEventListener('scroll',a);window.scrollListeners=[]</script>
+<script src=/js/medium-zoom.min.js data-no-instant></script>
+<script>document.querySelectorAll('pre > code').forEach(b=>{const c=b.parentNode.parentNode,a=document.createElement('button');a.classList.add('copy-code'),a.innerText='copy';function d(){a.innerText='copied!',setTimeout(()=>{a.innerText='copy'},2e3)}a.addEventListener('click',e=>{if('clipboard'in navigator){navigator.clipboard.writeText(b.textContent),d();return}const a=document.createRange();a.selectNodeContents(b);const c=window.getSelection();c.removeAllRanges(),c.addRange(a);try{document.execCommand('copy'),d()}catch(a){}c.removeRange(a)}),c.classList.contains("highlight")?c.appendChild(a):c.parentNode.firstChild==c||(b.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?b.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(a):b.parentNode.appendChild(a))})</script>
+<script>(function(){const h='1'=='1';if(!h)return;if(!document.querySelector('.toc')){console.log('no toc found, ignore toc scroll');return}const i=window.scrollListeners,c=document.querySelectorAll('h1[id],h2[id],h3[id],h4[id],h5[id]'),d='active';let a=c[0];e(a).classList.add(d);const g=()=>{const b=[];for(const a of c)if(j(a)<5)b.push(a);else break;b.length>0?newActiveHeading=b[b.length-1]:newActiveHeading=c[0],a!=newActiveHeading&&(e(a).classList.remove(d),a=newActiveHeading,e(a).classList.add(d))};let b=null;const f=()=>{b!==null&&clearTimeout(b),b=setTimeout(g,50)};window.addEventListener('scroll',f,!1),i.push(f);function e(a){const b=encodeURI(a.getAttribute('id')).toLowerCase();return document.querySelector(`.toc ul li a[href="#${b}"]`)}function j(a){if(!a.getClientRects().length)return 0;let b=a.getBoundingClientRect();return b.top}})()</script>
+</body>
+</html>
