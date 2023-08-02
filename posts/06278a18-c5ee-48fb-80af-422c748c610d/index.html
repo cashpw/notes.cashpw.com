@@ -29,9 +29,9 @@
 <meta property="og:url" content="http://notes.cashpw.com/posts/06278a18-c5ee-48fb-80af-422c748c610d/">
 <meta property="article:section" content="posts">
 <meta property="article:published_time" content="2023-05-04T16:20:00-07:00">
-<meta property="article:modified_time" content="2023-07-25T11:21:06-07:00">
+<meta property="article:modified_time" content="2023-08-02T11:51:32-07:00">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://notes.cashpw.com/posts/"},{"@type":"ListItem","position":2,"name":"Operators in C++","item":"http://notes.cashpw.com/posts/06278a18-c5ee-48fb-80af-422c748c610d/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Operators in C++ | Cash Prokop-Weaver","name":"Operators in C\u002b\u002b","description":"\u0026gt;\u0026gt; and \u0026lt;\u0026lt; These double angle-brackets are either:\n Iostreams: \u0026ldquo;Put-to\u0026rdquo; (\u0026lt;\u0026lt;) or \u0026ldquo;get-from\u0026rdquo; (\u0026gt;\u0026gt;) Numbers: Bit-wise left shift (\u0026lt;\u0026lt;) and right shift (\u0026gt;\u0026gt;)  Indirection operator The indirection, or dereference, operator is the asterisk (*).\n#include\u0026lt;iostream\u0026gt; int foo() { int a = 5; int* b = \u0026amp;a; return *b; } int main() { std::cout \u0026lt;\u0026lt; foo(); } Address-of operator The address-of operator is ampersand (\u0026amp;).\n#include\u0026lt;iostream\u0026gt; int foo() { int a = 5; int* b = \u0026amp;a; return *b; } int main() { std::cout \u0026lt;\u0026lt; foo(); } Scope resolution operator The scope resolution operator is ::.","keywords":["has-todo","concept","has-todo","concept"],"wordCount":"710","inLanguage":"en","datePublished":"2023-05-04T16:20:00-07:00","dateModified":"2023-07-25T11:21:06-07:00","author":[{"@type":"Person","name":"Cash Prokop-Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://notes.cashpw.com/posts/06278a18-c5ee-48fb-80af-422c748c610d/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://notes.cashpw.com/favicon.ico"}}}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Operators in C++ | Cash Prokop-Weaver","name":"Operators in C\u002b\u002b","description":"\u0026gt;\u0026gt; and \u0026lt;\u0026lt; These double angle-brackets are either:\n Iostreams: \u0026ldquo;Put-to\u0026rdquo; (\u0026lt;\u0026lt;) or \u0026ldquo;get-from\u0026rdquo; (\u0026gt;\u0026gt;) Numbers: Bit-wise left shift (\u0026lt;\u0026lt;) and right shift (\u0026gt;\u0026gt;)  Indirection operator The indirection, or dereference, operator is the asterisk (*).\n#include\u0026lt;iostream\u0026gt; int foo() { int a = 5; int* b = \u0026amp;a; return *b; } int main() { std::cout \u0026lt;\u0026lt; foo(); } Address-of operator The address-of operator is ampersand (\u0026amp;).\n#include\u0026lt;iostream\u0026gt; int foo() { int a = 5; int* b = \u0026amp;a; return *b; } int main() { std::cout \u0026lt;\u0026lt; foo(); } Scope resolution operator The scope resolution operator is ::.","keywords":["has-todo","concept","has-todo","concept"],"wordCount":"710","inLanguage":"en","datePublished":"2023-05-04T16:20:00-07:00","dateModified":"2023-08-02T11:51:32-07:00","author":[{"@type":"Person","name":"Cash Prokop-Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://notes.cashpw.com/posts/06278a18-c5ee-48fb-80af-422c748c610d/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://notes.cashpw.com/favicon.ico"}}}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
 <noscript>
@@ -71,7 +71,7 @@
 <h1 class=post-title>
 Operators in C++
 </h1>
-<div class=post-meta><span title="2023-05-04 16:20:00 -0700 -0700">2023-05-04</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 11:21:06 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/operators_in_c.org rel="noopener noreferrer" target=_blank>Edit</a>
+<div class=post-meta><span title="2023-05-04 16:20:00 -0700 -0700">2023-05-04</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:51:32 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/operators_in_c.org rel="noopener noreferrer" target=_blank>Edit</a>
 </div>
 <div class="post-meta post-references"></div><div class="post-meta post-stars"></div>
 </header> <div class="toc side left">
@@ -277,10 +277,10 @@ Cat <span style=color:#a6e22e>Foo</span>() { ... }
 <tbody>
 <tr>
 <td>front</td>
-<td>2.50</td>
-<td>5</td>
-<td>34.28</td>
-<td>2023-07-19T20:08:02Z</td>
+<td>2.20</td>
+<td>0</td>
+<td>0.00</td>
+<td>2023-08-01T15:05:15Z</td>
 </tr>
 <tr>
 <td>back</td>
@@ -313,9 +313,9 @@ Cat <span style=color:#a6e22e>Foo</span>() { ... }
 <tr>
 <td>front</td>
 <td>1.90</td>
-<td>1</td>
-<td>1.00</td>
-<td>2023-07-25T04:06:11Z</td>
+<td>2</td>
+<td>2.00</td>
+<td>2023-08-03T01:22:36Z</td>
 </tr>
 <tr>
 <td>back</td>
@@ -356,10 +356,10 @@ Cat <span style=color:#a6e22e>Foo</span>() { ... }
 </tr>
 <tr>
 <td>back</td>
-<td>2.5</td>
-<td>-1</td>
+<td>2.50</td>
 <td>0</td>
-<td>2023-05-04T23:28:36Z</td>
+<td>0.00</td>
+<td>2023-07-26T02:55:14Z</td>
 </tr>
 </tbody>
 </table>
@@ -423,9 +423,9 @@ Cat <span style=color:#a6e22e>Foo</span>() { ... }
 <tr>
 <td>0</td>
 <td>2.20</td>
-<td>4</td>
-<td>14.24</td>
-<td>2023-07-25T18:51:58Z</td>
+<td>5</td>
+<td>34.43</td>
+<td>2023-09-05T01:11:00Z</td>
 </tr>
 <tr>
 <td>1</td>
@@ -496,9 +496,9 @@ Cat <span style=color:#a6e22e>Foo</span>() { ... }
 <tr>
 <td>0</td>
 <td>2.20</td>
-<td>0</td>
-<td>0.00</td>
-<td>2023-07-23T03:34:54Z</td>
+<td>1</td>
+<td>1.00</td>
+<td>2023-07-28T14:13:03Z</td>
 </tr>
 <tr>
 <td>1</td>
@@ -577,9 +577,9 @@ Cat <span style=color:#a6e22e>Foo</span>() { ... }
 <tr>
 <td>front</td>
 <td>2.50</td>
-<td>3</td>
-<td>6.00</td>
-<td>2023-07-22T13:57:49Z</td>
+<td>4</td>
+<td>14.84</td>
+<td>2023-08-14T19:46:58Z</td>
 </tr>
 <tr>
 <td>back</td>
@@ -611,9 +611,9 @@ Cat <span style=color:#a6e22e>Foo</span>() { ... }
 <tr>
 <td>front</td>
 <td>2.50</td>
-<td>4</td>
-<td>13.68</td>
-<td>2023-07-28T05:33:11Z</td>
+<td>5</td>
+<td>31.02</td>
+<td>2023-08-28T15:26:04Z</td>
 </tr>
 <tr>
 <td>back</td>
@@ -645,9 +645,9 @@ Cat <span style=color:#a6e22e>Foo</span>() { ... }
 <tr>
 <td>front</td>
 <td>2.50</td>
-<td>4</td>
-<td>14.67</td>
-<td>2023-07-22T16:12:42Z</td>
+<td>5</td>
+<td>39.69</td>
+<td>2023-09-04T07:30:12Z</td>
 </tr>
 <tr>
 <td>back</td>
@@ -678,17 +678,17 @@ Cat <span style=color:#a6e22e>Foo</span>() { ... }
 <tbody>
 <tr>
 <td>front</td>
-<td>2.20</td>
-<td>3</td>
-<td>6.00</td>
-<td>2023-07-20T13:03:47Z</td>
+<td>2.05</td>
+<td>4</td>
+<td>11.20</td>
+<td>2023-08-09T19:46:06Z</td>
 </tr>
 <tr>
 <td>back</td>
-<td>2.5</td>
-<td>-1</td>
-<td>0</td>
-<td>2023-05-11T15:44:24Z</td>
+<td>2.50</td>
+<td>1</td>
+<td>1.00</td>
+<td>2023-08-02T15:01:11Z</td>
 </tr>
 </tbody>
 </table>
@@ -713,9 +713,9 @@ Cat <span style=color:#a6e22e>Foo</span>() { ... }
 <tr>
 <td>front</td>
 <td>2.50</td>
-<td>2</td>
-<td>2.00</td>
-<td>2023-07-21T13:40:15Z</td>
+<td>3</td>
+<td>6.00</td>
+<td>2023-08-05T23:41:34Z</td>
 </tr>
 <tr>
 <td>back</td>
@@ -779,9 +779,9 @@ Cat <span style=color:#a6e22e>Foo</span>() { ... }
 <tr>
 <td>front</td>
 <td>2.50</td>
-<td>4</td>
-<td>16.30</td>
-<td>2023-07-24T22:07:44Z</td>
+<td>5</td>
+<td>39.04</td>
+<td>2023-09-04T14:42:53Z</td>
 </tr>
 <tr>
 <td>back</td>

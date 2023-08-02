@@ -61,145 +61,138 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
-<h2>The map is not the territory
+<h2>Last in, first out
 </h2>
 </header>
 <div class=entry-content>
-<p>The map of reality is not reality. Even the best maps are imperfect. That’s because they are reductions of what they represent. If a map were to represent the territory with perfect fidelity, it would no longer be a reduction and thus would no longer be useful to us. A map can also be a snapshot of a point in time, representing something that no longer exists.
-(Farnum Street 2015)...</p>
+<p> FIFO’s opposite is LIFO, last-in-first-out, where the youngest entry or “top of the stack” is processed first.
+(“FIFO (Computing and Electronics)” 2022)
+Related: First in, first out
+Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“FIFO (Computing and Electronics).” 2022. Wikipedia, August. https://en.wikipedia.org/w/index.php?title=FIFO_(computing_and_electronics)&oldid=1104188471. Backlinks Python library: queue Stack Queue First in, first out </p>
 </div>
-<footer class=entry-footer><span title="2022-08-26 14:42:00 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 12:34:27 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/the_map_is_not_the_territory.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-09-07 06:49:00 -0700 -0700">2022-09-07</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:56:48 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/first_in_last_out.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to The map is not the territory" href=http://notes.cashpw.com/posts/bfc5100c-d70d-4829-9798-7a90b5edea9b/></a>
+<a class=entry-link aria-label="post link to Last in, first out" href=http://notes.cashpw.com/posts/21c0c229-16c5-4eb8-bd12-e1947c5c47f3/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Stochastic terrorism
+<h2>Level-order tree traversal
 </h2>
 </header>
 <div class=entry-content>
-<p>Since 2018, the term “stochastic terrorism” has become a popular term used when discussing lone wolf attacks. While the exact definition has morphed over time, it has commonly come to refer to a concept whereby consistently demonizing or dehumanizing a targeted group or individual results in violence that is statistically likely, but cannot be easily accurately predicted.
-(“Lone Wolf Attack” 2022)
-See Will no one rid me of this turbulent priest?...</p>
+<p>In Breadth-first search (BFS) or level-order search, the search tree is broadened as much as possible before going to the next depth.
+(“Tree Traversal” 2022)
+Flashcards Definition position ease box interval due front 2.50 7 259.18 2024-02-13T20:26:00Z back 1.90 6 35.76 2023-08-05T19:46:23Z Level-order tree traversal
+Back Navigating a Tree such that you visit all items at the same depth before moving to the next depth....</p>
 </div>
-<footer class=entry-footer><span title="2022-08-25 09:42:00 -0700 -0700">2022-08-25</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 12:31:20 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/stochastic_terrorism.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-09-07 06:37:00 -0700 -0700">2022-09-07</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:28:30 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/level_order_tree_traversal.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Stochastic terrorism" href=http://notes.cashpw.com/posts/774196ec-f2f7-48d1-b3f9-e7c253378746/></a>
+<a class=entry-link aria-label="post link to Level-order tree traversal" href=http://notes.cashpw.com/posts/fe9b846a-00fb-4311-8103-0ab31dd65275/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Will no one rid me of this turbulent priest?
+<h2>Iterative deepening depth-first-search implementation in Python
 </h2>
 </header>
 <div class=entry-content>
-<p>Will no one rid me of this turbulent priest?
-(“Will No One Rid Me of This Turbulent Priest?” 2022)
-Flashcards Describe position ease box interval due front 2.50 7 230.28 2024-01-04T23:15:20Z back 2.65 7 316.38 2024-05-19T09:21:41Z Will no one rid me of this turbulent priest?
-Back A call for Stochastic terrorism by Henry the Second of England against the church....</p>
+<p>An Implementation of Iterative deepening depth-first-search in Python.
+from __future__ import annotations from typing import TypeVar, Generic, List, Optional, Tuple from dataclasses import dataclass T = TypeVar('T') @dataclass(frozen=True, eq=True) class Vertex(Generic[T]): children: List[Vertex] value: T def __hash__(self): return hash(self.value) def depth_limited_dfs(target: T, root_vertex: Vertex, max_depth: int) -> Tuple[Optional[T], bool]: """Perform a depth-limited depth-first search for the TARGET, starting from ROOT_VERTEX. Return a tuple composed of: 1. The target, if found, else None 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-08-25 09:41:00 -0700 -0700">2022-08-25</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 12:42:38 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/will_no_one_rid_me_of_this_turbulent_priest.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-09-06 09:32:00 -0700 -0700">2022-09-06</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:15:37 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/iterative_deepening_depth_first_search_implementation_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Will no one rid me of this turbulent priest?" href=http://notes.cashpw.com/posts/bf247454-b50e-448c-9c60-cee9b3969983/></a>
+<a class=entry-link aria-label="post link to Iterative deepening depth-first-search implementation in Python" href=http://notes.cashpw.com/posts/7c092555-c1f9-4c9d-9d02-c31d8096ce51/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Python typing
+<h2>Zotero
 </h2>
 </header>
 <div class=entry-content>
-<p>Type hints in Python.
-Generics from typing import TypeVar T = TypeVar("T") def generic_adder(a: T, b: T) -> T: return a + b from typing import TypeVar, Generic, List from dataclasses import dataclass T = TypeVar("T") @dataclass class Vertex(Generic[T]): children: List[Vertex] value: T Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} </p>
+<p> Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.
+(“Zotero” n.d.)
+Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Zotero.” n.d. Accessed September 6, 2022. https://www.zotero.org/. Backlinks How I write notes </p>
 </div>
-<footer class=entry-footer><span title="2022-08-25 09:29:00 -0700 -0700">2022-08-25</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 11:34:28 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/python_typing.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-09-05 22:32:00 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 13:09:14 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/zotero.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Python typing" href=http://notes.cashpw.com/posts/7667a3b3-727e-42e4-a2e6-a3d7c7169366/></a>
+<a class=entry-link aria-label="post link to Zotero" href=http://notes.cashpw.com/posts/b9235ad0-ffc3-4141-828e-485be52e89cf/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Jim Hefferon | Linear Algebra
+<h2>::
 </h2>
 </header>
 <div class=entry-content>
-<p>Jim Hefferon, (Hefferon 2020)
-Flashcards Source position ease box interval due front 2.95 7 420.58 2024-08-11T17:56:20Z Linear Algebra (book)
-Back Jim Hefferon
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}Hefferon, Jim. 2020. Linear Algebra. S.l.: ORTHOGONAL PUBLISHING L3C. https://gitlab.com/jim.hefferon/linear-algebra. Backlinks Jim Hefferon </p>
+<p></p>
 </div>
-<footer class=entry-footer><span title="2022-08-24 08:51:00 -0700 -0700">2022-08-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 10:44:59 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/hefferonLinearAlgebra2020.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-09-05 16:15:31 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-09-05 16:15:31 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;0 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018page70.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Jim Hefferon | Linear Algebra" href=http://notes.cashpw.com/posts/f62d92d7-7151-46f1-a3e8-bb06cc72f02b/></a>
+<a class=entry-link aria-label="post link to ::" href=http://notes.cashpw.com/posts/755da260-09e5-4be7-a81a-9e43f12d96a8/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Jim Hefferon
+<h2>Seitan
 </h2>
 </header>
 <div class=entry-content>
-<p>Among other things:
-Flashcards Author position ease box interval due front 2.35 6 77.84 2023-09-26T11:49:29Z Jim Hefferon
-Back Linear Algebra
-Backlinks Jim Hefferon | Linear Algebra </p>
+<p>Seitan is a food made from gluten, the main protein of wheat. […] It is made by washing wheat flour dough with water [Wash the flour seitan] until all the starch granules have been removed, leaving the sticky insoluble gluten as an elastic mass, which is then cooked before being eaten.
+(“Seitan” 2022)
+Flashcards Describe position ease box interval due front 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-08-24 08:34:00 -0700 -0700">2022-08-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 10:52:09 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/jim_hefferon.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-09-02 15:39:00 -0700 -0700">2022-09-02</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:23:00 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/seitan.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Jim Hefferon" href=http://notes.cashpw.com/posts/46dd2e05-cb80-4cb6-876e-8bf46551ec2f/></a>
+<a class=entry-link aria-label="post link to Seitan" href=http://notes.cashpw.com/posts/2caa9715-d216-41c4-babb-c6e66364ac6d/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Non-singular matrix
+<h2>Better than bullion: Seasoned vegetable base
 </h2>
 </header>
 <div class=entry-content>
-<p>A Matrix \(A\) for which there is a \(B\) such that \(AB = BA = \href{/posts/identity_matrix}{I_{n}}\).
-Flashcards AKA position ease box interval due 0 2.65 13 416.52 2024-06-18T11:20:41Z 1 2.65 8 351.40 2024-02-24T12:29:32Z 2 2.80 8 309.67 2023-11-19T08:37:55Z {{Non-singular matrix}@0} {{Invertible matrix}@1} {{Non-degenerate matrix}@2} Source (“Invertible Matrix” 2022)
-Definition position ease box interval due front 2....</p>
+<p>Ingredients 1 teaspoon Better than bullion: Seasoned vegetable base 1 cup water Flashcards Backlinks Vegetable broth </p>
 </div>
-<footer class=entry-footer><span title="2022-08-24 08:25:00 -0700 -0700">2022-08-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 11:18:26 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/non_singular_matrix.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-09-02 14:18:00 -0700 -0700">2022-09-02</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:36:22 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/better_than_bullion_seasoned_vegetable_broth.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Non-singular matrix" href=http://notes.cashpw.com/posts/d0894b60-0827-4644-9d21-f6ae9c9e5041/></a>
+<a class=entry-link aria-label="post link to Better than bullion: Seasoned vegetable base" href=http://notes.cashpw.com/posts/94acace5-6bbb-44ee-9cb9-fef318283d57/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Singular matrix
+<h2>Vegetable broth
 </h2>
 </header>
 <div class=entry-content>
-<p>A Matrix \(A\) for which there is no \(B\) such that \(AB = BA = \href{/posts/identity_matrix}{I_{n}}\).
-Flashcards AKA position ease box interval due 0 2.35 8 271.42 2024-03-24T02:18:08Z 1 2.50 9 395.05 2024-07-28T22:01:52Z 2 2.00 6 42.17 2023-08-08T19:40:22Z {{Singular matrix}@0} {{Non-invertible matrix}@1} {{Degenerate matrix}@2} Source (“Invertible Matrix” 2022)
-Definition position ease box interval due front 1....</p>
+<p>Quick Better than bullion: Seasoned vegetable base From scratch Flashcards Backlinks Cayla’s quarantine ramen </p>
 </div>
-<footer class=entry-footer><span title="2022-08-24 08:20:00 -0700 -0700">2022-08-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 12:28:32 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/singular_matrix.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-08-31 11:36:00 -0700 -0700">2022-08-31</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 13:01:32 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/vegetable_broth.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Singular matrix" href=http://notes.cashpw.com/posts/9a804f64-5cb5-4ead-911f-f3c87eedb369/></a>
+<a class=entry-link aria-label="post link to Vegetable broth" href=http://notes.cashpw.com/posts/b3c5a8d6-11f0-4882-8bd1-dc4a09eca8c5/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Clay shrinkage
+<h2>Cayla's quarantine ramen
 </h2>
 </header>
 <div class=entry-content>
-<p>During drying, clay particles draw together and shrinkage occurs. During firing the matrix densifies and shrinkage continues. More vitreous bodies shrink more.
-(“Firing Shrinkage” n.d.)
-Clay weight loss Average clay contains about 20% water and 9% organic matter, thus, finished pots (bisque or glazed) weigh almost 30% less than the initial clay weight.
-(“Clay Shrinkage During Drying and Firing” n.d.)
-Flashcards Definition position ease box interval due back 2....</p>
+<p>Ingredients Broth 2 dashes Cayenne pepper 2 tablespoons Coconut aminos 2 tablespoons Fresh ginger 5 cloves Fresh garlic 1 teaspoon Hoisin sauce 1 medium onion 1.5 teaspoons Rice vinegar 2 pinches Seaweed 1 tablespoon Spicy bean paste 2 tablespoons Toasted sesame seed oil 8 cups Vegetable broth Mix-ins 1 bunch Baby bok choy 2 packs Tofu as desired Mushrooms as desired Other vegetables enough Ramen noodles Garnish Sesame seeds Lemon juice Steps Chop tofu as desired and fry two sides....</p>
 </div>
-<footer class=entry-footer><span title="2022-08-23 09:07:00 -0700 -0700">2022-08-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:53:25 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/clay_shrinkage.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-08-30 11:30:00 -0700 -0700">2022-08-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:39:51 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/cayla_s_quarantine_ramen.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Clay shrinkage" href=http://notes.cashpw.com/posts/ba4b74e8-2d33-43ec-bd03-b9ff320ed65a/></a>
+<a class=entry-link aria-label="post link to Cayla's quarantine ramen" href=http://notes.cashpw.com/posts/9b56dca0-39e0-4dec-a269-dd7773257c2b/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Glazeware
+<h2>The medium is the message
 </h2>
 </header>
 <div class=entry-content>
-<p>Glaze-covered and fired ceramics.
-Flashcards Backlinks Clay shrinkage Clay firing stages </p>
+<p>[…] the medium through which we choose to communicate holds as much, if not more, value than the message itself.
+(Gross 12AD)
+For McLuhan, it was the medium itself that shaped and controlled “the scale and form of human association and action”.
+(“The Medium Is the Message” 2022)
+A message must “fit” its medium. That is, a message must conform to the rules of the medium it passes through....</p>
 </div>
-<footer class=entry-footer><span title="2022-08-23 09:05:00 -0700 -0700">2022-08-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 10:42:43 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/glazeware.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-08-26 15:18:00 -0700 -0700">2022-08-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:46:51 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/the_medium_is_the_message.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Glazeware" href=http://notes.cashpw.com/posts/c23949a7-63c4-4c3f-9101-8d1d233684f4/></a>
+<a class=entry-link aria-label="post link to The medium is the message" href=http://notes.cashpw.com/posts/91fe1528-88d1-4168-91f1-cf10b175db49/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

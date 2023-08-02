@@ -61,133 +61,140 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Binary tree implementation in java
+<h2>Depth-first search
 </h2>
 </header>
 <div class=entry-content>
-<p> import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface BinaryTree&lt;T> { boolean add(T value); boolean remove(T value); } </p>
+<p>Depth-first search (DFS) is an algorithm for traversing or searching Tree or Graph Data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
+(“Depth-First Search” 2022)
+Algorithm Iterative procedure DepthFirstSearch (graph, rootNode) is define a Stack: stack define a Set: visited stack.push(rootNode) while not stack....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 15:23:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-09-05 15:31:35 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/binary_tree_implementation_in_java.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 16:36:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:48:51 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/depth_first_search.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Binary tree implementation in java" href=http://notes.cashpw.com/posts/ccf978f1-5518-49dd-8af1-a856cf6d1084/></a>
+<a class=entry-link aria-label="post link to Depth-first search" href=http://notes.cashpw.com/posts/81c88eaa-3ec9-486c-bcdf-457dd40b4eba/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Max binary heap implementation in java
+<h2>Post-order tree traversal
 </h2>
 </header>
 <div class=entry-content>
-<p>import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface Heap&lt;T> { boolean add(T value); Optional&lt;T> peek(); Optional&lt;T> poll(); } class MaxHeap&lt;T extends Comparable&lt;? super T>> implements Heap&lt;T> { private ArrayList&lt;T> array; MaxHeap() { this.array = new ArrayList&lt;T>(); } @Override public boolean add(T value) { array.add(value); heapifyUp(array.size() - 1); return true; } @Override public Optional&lt;T> peek() { if (array.isEmpty()) { return Optional.empty(); } return Optional.of(array.get(0)); } @Override public Optional&lt;T> poll() { if (array.isEmpty()) { return Optional....</p>
+<p>Recursively traverse the current node’s left subtree Recursively traverse the current node’s right subtree Visit the current node (in the figure: position blue) (“Tree Traversal” 2022)
+Post-order traversal (blue node): A, C, E, D, B, H, I, G, F
+(“Tree Traversal” 2022)
+Flashcards Describe position ease box interval due front 2.95 7 453.84 2024-08-09T12:46:43Z back 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 12:59:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 11:07:28 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/max_binary_heap_implementation_in_java.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 16:33:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:59:28 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/post_order_tree_traversal.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Max binary heap implementation in java" href=http://notes.cashpw.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/></a>
+<a class=entry-link aria-label="post link to Post-order tree traversal" href=http://notes.cashpw.com/posts/81611da6-3ea4-45d9-b2db-b96ed95d946d/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Complete binary tree
+<h2>In-order tree traversal
 </h2>
 </header>
 <div class=entry-content>
-<p>A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible.
-(“Binary Tree” 2022)
-Flashcards Definition (Computer science) position ease box interval due back 2.65 8 421.13 2024-07-15T16:09:25Z front 2.95 7 361.54 2024-02-22T06:22:13Z Complete binary tree...</p>
+<p>Recursively traverse the current node’s left subtree Visit the current node (in the figure: position green) Recursively traverse the current node’s right subtree (“Tree Traversal” 2022)
+In-order traversal (green node): A, B, C, D, E, F, G, H, I
+(“Tree Traversal” 2022)
+Flashcards Describe position ease box interval due front 2.50 8 336.29 2024-03-30T21:39:53Z back 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 11:22:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:54:54 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/complete_binary_tree.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 16:32:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:12:25 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/in_order_tree_traversal.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Complete binary tree" href=http://notes.cashpw.com/posts/cce89d10-ff69-4756-b9fa-9b713b4cb33b/></a>
+<a class=entry-link aria-label="post link to In-order tree traversal" href=http://notes.cashpw.com/posts/5069eb5e-f5c6-49de-8329-ba07dafe320e/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Asymptotic Notation
+<h2>Pre-order tree traversal
 </h2>
 </header>
 <div class=entry-content>
-<p> Big-O notation Little-o notation Big-Omega notation Big-Theta notation Flashcards Backlinks Little-o notation </p>
+<p>Visit the current node (in the figure: position red) Recursively traverse the current node’s left subtree Recursively traverse the current node’s right subtree (“Tree Traversal” 2022)
+Pre-order traversal (red node): F, B, A, D, C, E, G, I, H
+(“Tree Traversal” 2022)
+Flashcards Describe position ease box interval due front 2.80 7 225.68 2023-09-01T07:37:27Z back 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 09:52:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:39:15 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/asymptotic_notation.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 16:24:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:00:56 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/pre_order_tree_traversal.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Asymptotic Notation" href=http://notes.cashpw.com/posts/adca1b0d-0ebe-4ea9-8b89-b4583f0d74ad/></a>
+<a class=entry-link aria-label="post link to Pre-order tree traversal" href=http://notes.cashpw.com/posts/2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Array
-</h2>
-</header>
-<div class=entry-content>
-<p>In computer science, an array Data structure, or simply an array, is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula.
-(“Array Data Structure” 2022)
-Flashcards Definition (Data structure) position ease box interval due back 2....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 09:38:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:38:30 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/array.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Array" href=http://notes.cashpw.com/posts/79b155d7-5a67-469d-b3f4-b8010cad8b54/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Succinct data structure
-</h2>
-</header>
-<div class=entry-content>
-<p>In computer science, a succinct data structure is a data structure which uses an amount of space that is “close” to the information-theoretic lower bound, but (unlike other compressed representations) still allows for efficient query operations.
-(“Succinct Data Structure” 2021)
-Flashcards Definition (Computer science) position ease box interval due back 1.75 3 6.00 2023-07-24T13:39:19Z front 1.30 4 7.93 2023-07-25T12:09:47Z Succinct data structure...</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 09:35:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 12:31:55 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/succinct_data_structure.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Succinct data structure" href=http://notes.cashpw.com/posts/2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Heapsort
-</h2>
-</header>
-<div class=entry-content>
-<p>In computer science, heapsort is a comparison-based sorting algorithm. Heapsort can be thought of as an improved Selection sort: like selection sort, heapsort divides its input into a sorted and an unsorted region, and it iteratively shrinks the unsorted region by extracting the largest element from it and inserting it into the sorted region. Unlike selection sort, heapsort does not waste time with a linear-time scan of the unsorted region; rather, heap sort maintains the unsorted region in a Heap Data structure to more quickly find the largest element in each step....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 09:32:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 10:44:47 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/heapsort.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Heapsort" href=http://notes.cashpw.com/posts/cf64c166-6ad5-4dd7-88c6-155a320a7ea3/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Implicit data structure
-</h2>
-</header>
-<div class=entry-content>
-<p>In computer science, an implicit data structure or space-efficient data structure is a Data structure that stores very little information other than the main or required data: a data structure that requires low overhead. They are called “implicit” because the position of the elements carries meaning and relationship between elements; this is contrasted with the use of pointers to give an explicit relationship between elements. Definitions of “low overhead” vary, but generally means constant overhead; in big O notation, O(1) overhead....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-29 09:32:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 10:48:18 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/implicit_data_structure.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Implicit data structure" href=http://notes.cashpw.com/posts/650f4577-c1ec-46c9-b7a6-af8d90756bcd/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Priority queues
+<h2>trees
 </h2>
 </header>
 <div class=entry-content>
 <p> TODO_QUOTE source (a)
 </p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 09:24:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-06-29 11:35:51 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/priority_queues.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 16:21:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-06-29 16:21:19 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/trees.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Priority queues" href=http://notes.cashpw.com/posts/priority_queues/></a>
+<a class=entry-link aria-label="post link to trees" href=http://notes.cashpw.com/posts/trees/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Binary heap
+<h2>Hash function
 </h2>
 </header>
 <div class=entry-content>
-<p>A binary heap is a Heap Data structure that takes the form of a Binary tree. Binary heaps are a common way of implementing Priority queues.
-[…]
-A binary heap is defined as a binary tree with two additional constraints:
-Shape property: a binary heap is a Complete binary tree; that is, all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right....</p>
+<p>A hash function is any function that can be used to map data of arbitrary size to fixed-size values.
+(“Hash Function” 2022)
+Hash tables use hash functions to relate keys to a position in an array of buckets/slots holding the values.
+Flashcards Definition (Computer science) position ease box interval due back 2.80 7 428.89 2024-09-14T22:14:19Z front 2.95 7 459.86 2024-10-12T12:30:59Z Hash function...</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 09:22:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:42:54 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/binary_heap.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 16:13:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:04:45 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/hash_function.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Binary heap" href=http://notes.cashpw.com/posts/a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad/></a>
+<a class=entry-link aria-label="post link to Hash function" href=http://notes.cashpw.com/posts/b5c17ad0-3857-4800-90be-8e79e72897ab/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Hash table
+</h2>
+</header>
+<div class=entry-content>
+<p>In computing, a hash table, also known as hash map or dictionary, is a Data structure that implements a [Associative array], a structure that can map keys to values. A hash table uses a Hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored....</p>
+</div>
+<footer class=entry-footer><span title="2022-06-29 16:06:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:04:52 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/hash_table.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Hash table" href=http://notes.cashpw.com/posts/b8f1337e-8231-4ace-b003-bb988b4c39ee/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Associative array
+</h2>
+</header>
+<div class=entry-content>
+<p>In computer science, an associative array, map, symbol table, or dictionary is an Abstract data type that stores a collection of (key, value) pairs, such that each possible key appears at most once in the collection. In mathematical terms an associative array is a function with finite domain. It supports ‘lookup’, ‘remove’, and ‘insert’ operations.
+[…] The two major solutions to the dictionary problem are Hash tables and search trees....</p>
+</div>
+<footer class=entry-footer><span title="2022-06-29 15:50:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:35:11 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/associative_array.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Associative array" href=http://notes.cashpw.com/posts/efd422ba-2509-48c9-b267-265f3c369462/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Linked list
+</h2>
+</header>
+<div class=entry-content>
+<p>In computer science, a linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a Data structure consisting of a collection of nodes which together represent a sequence. In its most basic form, each node contains: data, and a reference (in other words, a link) to the next node in the sequence....</p>
+</div>
+<footer class=entry-footer><span title="2022-06-29 15:41:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:30:08 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/linked_list.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Linked list" href=http://notes.cashpw.com/posts/4e9a8cb2-e817-430b-a63c-0e492022ab79/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Java
+</h2>
+</header>
+<div class=entry-content>
+<p>The programming language.
+Flashcards </p>
+</div>
+<footer class=entry-footer><span title="2022-06-29 15:34:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:17:10 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/java.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Java" href=http://notes.cashpw.com/posts/8c75e487-e975-4408-8b92-876e93cfbc12/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

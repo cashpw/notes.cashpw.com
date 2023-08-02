@@ -61,13 +61,72 @@ concept
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
+<h2>Breadth-first search in python
+</h2>
+</header>
+<div class=entry-content>
+<p>from queue import Queue from itertools import count from typing import TypeVar, Generic, Optional from collections.abc import Mapping from dataclasses import dataclass, field T = TypeVar('T') VertexId = int Adjacencies = Mapping[VertexId, VertexId] @dataclass class Vertex(Generic[T]): value: T id: VertexId = field(default_factory=count().__next__) Vertices = Mapping[VertexId, Vertex] def breadth_first_search(root_id: VertexId, target_id: VertexId, graph: Adjacencies, vertices: Vertices) -> Optional[Vertex]: """Search for TARGET within GRAPH using breadth-first search.""" queue = Queue() queue.put(root_id) visited = set() while not queue....</p>
+</div>
+<footer class=entry-footer><span title="2023-06-26 05:19:00 -0700 -0700">2023-06-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:38:24 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/breadth_first_search_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Breadth-first search in python" href=http://notes.cashpw.com/posts/50d70056-c314-40bd-b9d2-64e254fe3f50/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Vertex-connectivity
+</h2>
+</header>
+<div class=entry-content>
+<p>The vertex-connectivity, or just connectivity, of a graph is the largest k for which the graph is k-vertex-connected [k-vertex-connected graph].
+(“K-Vertex-Connected Graph” 2023)
+Flashcards Definition position ease box interval due front 2.05 3 6.00 2023-08-04T15:00:56Z back 2.05 5 26.91 2023-08-22T13:03:12Z Vertex-connectivity
+Back The largest \(k\) for which a graph is k-vertex-connected.
+Source (“K-Vertex-Connected Graph” 2023)
+References ....</p>
+</div>
+<footer class=entry-footer><span title="2023-06-24 20:29:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 13:02:07 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/vertex_connectivity.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Vertex-connectivity" href=http://notes.cashpw.com/posts/12de8109-6022-476c-ac21-9381115a0bc4/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>k-vertex-connected graph
+</h2>
+</header>
+<div class=entry-content>
+<p>In graph theory, a connected graph [Connected graph] \(G\) is said to be k-vertex-connected (or k-connected) if it has more than k vertices and remains connected whenever fewer than k vertices are removed.
+(“K-Vertex-Connected Graph” 2023)
+Flashcards Definition position ease box interval due front 2.50 5 39.35 2023-09-01T12:20:10Z back 2.20 5 33.78 2023-08-29T09:54:53Z k-vertex-connected graph
+Back A Connected graph of \(>k\) vertices which remains connected after one removes \(&lt;k\) vertices....</p>
+</div>
+<footer class=entry-footer><span title="2023-06-24 20:26:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:21:46 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/k_vertex_connected_graph.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to k-vertex-connected graph" href=http://notes.cashpw.com/posts/78c49f16-1956-4ffb-9207-f72f79025d5b/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Biconnected graph
+</h2>
+</header>
+<div class=entry-content>
+<p>In graph theory [Graph theory], a biconnected graph [Graph] is a connected [Connected graph] and “nonseparable” graph, meaning that if any one vertex were to be removed, the graph will remain connected. Therefore a biconnected graph has no articulation vertices.
+The property of being 2-connected [k-vertex-connected graph] is equivalent to biconnectivity, except that the complete graph of two vertices is usually not regarded as 2-connected.
+(“Biconnected Graph” 2022)
+Flashcards Definition position ease box interval due front 2....</p>
+</div>
+<footer class=entry-footer><span title="2023-06-24 20:23:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:36:30 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/biconnected_graph.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Biconnected graph" href=http://notes.cashpw.com/posts/99d73aa1-ba7a-4906-a9c8-05b4933c0861/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
 <h2>Machine learning
 </h2>
 </header>
 <div class=entry-content>
 <p>Flashcards Backlinks Generative adversarial network </p>
 </div>
-<footer class=entry-footer><span title="2023-06-24 20:20:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 11:03:42 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/machine_learning.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-06-24 20:20:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:32:38 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/machine_learning.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
 <a class=entry-link aria-label="post link to Machine learning" href=http://notes.cashpw.com/posts/a9575c29-595a-4c89-b931-48d86bf1530a/></a>
 </article>
@@ -79,7 +138,7 @@ concept
 <div class=entry-content>
 <p>Flashcards Backlinks Ceramics exercises How to pour plaster Ceramics/Pottery Resources </p>
 </div>
-<footer class=entry-footer><span title="2023-06-24 20:11:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:50:50 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/ceramics.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-06-24 20:11:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:40:52 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/ceramics.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
 <a class=entry-link aria-label="post link to Ceramics" href=http://notes.cashpw.com/posts/eefb478b-2083-4445-884d-755005a26f2f/></a>
 </article>
@@ -91,7 +150,7 @@ concept
 <div class=entry-content>
 <p>Progressive overload is a method of strength training and hypertrophy training that advocates for the gradual increase of the stress placed upon the musculoskeletal and nervous system. The principle of progressive overload suggests that the continual increase in the total workload during training sessions will stimulate muscle growth and strength gain by muscle hypertrophy.This improvement in overall performance will, in turn, allow the athlete to keep increasing the intensity of their training sessions....</p>
 </div>
-<footer class=entry-footer><span title="2023-06-24 19:45:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 11:31:17 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/progressive_overload.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-06-24 19:45:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:03:03 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/progressive_overload.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
 <a class=entry-link aria-label="post link to Progressive overload" href=http://notes.cashpw.com/posts/07bbf4c0-e3bb-4689-9009-2cdb0404944d/></a>
 </article>
@@ -104,7 +163,7 @@ concept
 <p>A Progressive overload program focused on overhead press, bench press, squat, and deadlift.
 Flashcards Backlinks Exercise program </p>
 </div>
-<footer class=entry-footer><span title="2023-06-24 19:43:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:29:38 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/5_3_1.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-06-24 19:43:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:32:53 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/5_3_1.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
 <a class=entry-link aria-label="post link to 5/3/1" href=http://notes.cashpw.com/posts/14049321-7c6d-4b23-a15f-02d2192bbeb8/></a>
 </article>
@@ -115,9 +174,9 @@ Flashcards Backlinks Exercise program </p>
 </header>
 <div class=entry-content>
 <p>Current program My current program is a Concurrent training consisting of Progressive overload resistance training (5/3/1), running, and rowing (Pete Marston | Beginner Training). It’s informed by Keith Baar | Using Molecular Biology to Maximize Concurrent Training to minimize cardio’s negative effect on strength and hypertrophy.
-Day 5am 9am Monday Run Overhead press Tuesday Row Deadlift Wednesday Run Mobility Thursday Row Chest Friday Run Squat Saturday Run Mobility Sunday Rest Rest I’m lifting between the untrained and novice levels as described in ExRx | Weightlifting Performance Standards....</p>
+Day 5am 9am Monday Run Overhead press Tuesday Row Deadlift Wednesday Run Mobility Thursday Row Chest Friday Run Squat Saturday Run Mobility Sunday Rest Rest My goal is to get to the Intermediate level as described in ExRx | Weightlifting Performance Standards....</p>
 </div>
-<footer class=entry-footer><span title="2023-06-24 19:39:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 10:39:34 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/exercise_program.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-06-24 19:39:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:54:29 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/exercise_program.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
 <a class=entry-link aria-label="post link to Exercise program" href=http://notes.cashpw.com/posts/ede98d80-26a5-4b11-8427-9b6fec550c3e/></a>
 </article>
@@ -128,66 +187,13 @@ Day 5am 9am Monday Run Overhead press Tuesday Row Deadlift Wednesday Run Mobilit
 </header>
 <div class=entry-content>
 <p>Concurrent training is a combination of cardio and resistance training.
-Flashcards Definition position ease box interval due front 2.35 5 34.04 2023-08-26T04:45:33Z back 2.05 1 1.00 2023-07-25T04:07:10Z Concurrent training
+Flashcards Definition position ease box interval due front 2.35 5 34.04 2023-08-26T04:45:33Z back 1.90 3 6.00 2023-08-04T15:00:48Z Concurrent training
 Back A fitness program which combines cardio and resistance training to gain the benefits of both.
 Source Backlinks Keith Baar | Using Molecular Biology to Maximize Concurrent Training Exercise program </p>
 </div>
-<footer class=entry-footer><span title="2023-06-24 19:38:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 08:56:03 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/concurrent_training.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-06-24 19:38:00 -0700 -0700">2023-06-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:43:52 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/concurrent_training.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
 <a class=entry-link aria-label="post link to Concurrent training" href=http://notes.cashpw.com/posts/be21c5df-1559-4d50-8efb-6bd1b5db104f/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>DOT in Emacs
-</h2>
-</header>
-<div class=entry-content>
-<p> Flashcards </p>
-</div>
-<footer class=entry-footer><span title="2023-06-23 09:14:00 -0700 -0700">2023-06-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 10:28:50 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/dot_in_emacs.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to DOT in Emacs" href=http://notes.cashpw.com/posts/83f20553-5f34-46d6-b260-decfd8b51e99/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Customizable route planning
-</h2>
-</header>
-<div class=entry-content>
-<p>Customizable route planning is a shortest-path algorithm designed for use on road networks which is capable of handling:
-real-world dynamic costs (e.g. increased edge cost due to traffic jam) varied, custom, cost functions (i.e. more than just distance or time) which we don’t need to prescribe at pre-processing time Terms Topology (Road networks) Metric (Customizable route planning) Cell: A group of Vertices Boundary vertices: Vertices with at least one incident edge to a different cell (e....</p>
-</div>
-<footer class=entry-footer><span title="2023-06-23 08:39:00 -0700 -0700">2023-06-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 10:27:24 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/customizable_route_planning.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Customizable route planning" href=http://notes.cashpw.com/posts/41a0db19-6156-4242-8078-673cbd1e550e/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Metric (Customizable route planning)
-</h2>
-</header>
-<div class=entry-content>
-<p>The metric encodes the actual cost of traversing a road segment or taking a turn. It can often be described compactly, as a function that maps (in constant time) the properties of an edge/turn into a cost.
-(Delling et al. 2011)
-Flashcards Definition (Customizable route planning) position ease box interval due front 2.50 5 39.62 2023-08-29T06:07:34Z back 2.50 4 16....</p>
-</div>
-<footer class=entry-footer><span title="2023-06-23 08:37:00 -0700 -0700">2023-06-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 11:10:01 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/metric_customizable_route_planning.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Metric (Customizable route planning)" href=http://notes.cashpw.com/posts/b349f179-9181-40e6-a6e9-b1f065ba6abe/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Topology (Road networks)
-</h2>
-</header>
-<div class=entry-content>
-<p>The topology is a set of static properties of each road segment or turn, such as physical length, road category, speed limits, and turn types.
-(Delling et al. 2011)
-Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}Delling, Daniel, Andrew V. Goldberg, Thomas Pajor, and Renato F. Werneck. 2011. “Customizable Route Planning.” In Experimental Algorithms, edited by Panos M. Pardalos and Steffen Rebennack, 6630:376–87. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-20662-7\_32. Backlinks Daniel Delling, Andrew V....</p>
-</div>
-<footer class=entry-footer><span title="2023-06-23 07:57:00 -0700 -0700">2023-06-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-07-25 12:45:35 -0700 -0700">2023-07-25</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/topology_road_networks.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Topology (Road networks)" href=http://notes.cashpw.com/posts/80204036-f6a9-4c5e-a02d-0112f517e9a3/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
