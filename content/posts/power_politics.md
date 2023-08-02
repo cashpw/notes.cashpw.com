@@ -2,7 +2,7 @@
 title = "Power politics"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T10:44:00-07:00
-lastmod = 2023-07-25T11:29:00-07:00
+lastmod = 2023-08-02T12:00:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,7 +49,7 @@ A way of understanding international relations which focuses on power dynamics -
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.60 | 10  | 253.69   | 2023-09-29T07:46:36Z |
-| front    | 2.50 | 7   | 223.28   | 2023-07-28T00:28:50Z |
+| front    | 2.35 | 8   | 537.36   | 2025-01-15T23:52:57Z |
 
 [Power politics]({{< relref "power_politics.md" >}})
 

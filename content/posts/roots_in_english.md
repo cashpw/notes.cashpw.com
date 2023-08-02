@@ -2,7 +2,7 @@
 title = "Roots in English"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-20T11:21:00-08:00
-lastmod = 2023-07-25T12:26:50-07:00
+lastmod = 2023-08-02T12:17:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -44,7 +44,7 @@ Ur-
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 109.21   | 2023-07-26T20:04:22Z |
+| front    | 2.20 | 3   | 6.00     | 2023-08-05T23:51:17Z |
 | back     | 2.65 | 6   | 117.23   | 2023-09-15T18:38:15Z |
 
 Ab-, a-
@@ -84,7 +84,7 @@ Movement to or toward; in addition to
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 98.79    | 2023-07-25T10:52:54Z |
+| front    | 2.65 | 7   | 243.77   | 2024-03-25T21:27:14Z |
 | back     | 2.80 | 6   | 127.67   | 2023-09-08T07:51:43Z |
 
 Endo-
@@ -192,7 +192,7 @@ My-
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_6">“List of Greek and Latin Roots in English/M” 2023</a>)
+(<a href="#citeproc_bib_item_4">“List of Greek and Latin Roots in English/H” 2023</a>)
 
 
 ### Definition {#definition}
@@ -213,14 +213,14 @@ Hyper-
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_4">“List of Greek and Latin Roots in English/H” 2023</a>)
+(<a href="#citeproc_bib_item_6">“List of Greek and Latin Roots in English/M” 2023</a>)
 
 
 ### Definition {#definition}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 4   | 14.83    | 2023-07-27T08:49:41Z |
+| front    | 2.35 | 5   | 35.73    | 2023-09-01T07:40:03Z |
 | back     | 2.35 | 7   | 146.83   | 2023-12-14T11:18:32Z |
 
 Hyp-, Hypo-
@@ -234,7 +234,7 @@ Hyp-, Hypo-
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_4">“List of Greek and Latin Roots in English/H” 2023</a>)
+(<a href="#citeproc_bib_item_6">“List of Greek and Latin Roots in English/M” 2023</a>)
 
 
 ### Cloze {#cloze}
@@ -249,14 +249,14 @@ Hyp-, Hypo-
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_4">“List of Greek and Latin Roots in English/H” 2023</a>)
+(<a href="#citeproc_bib_item_6">“List of Greek and Latin Roots in English/M” 2023</a>)
 
 
 ### Definition {#definition}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 90.92    | 2023-07-29T12:34:59Z |
+| front    | 2.50 | 7   | 209.46   | 2024-02-24T01:58:51Z |
 | back     | 2.65 | 6   | 107.69   | 2023-09-10T06:48:15Z |
 
 Iso-
@@ -311,7 +311,7 @@ Morph-, -morph
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_6">“List of Greek and Latin Roots in English/M” 2023</a>)
+(<a href="#citeproc_bib_item_4">“List of Greek and Latin Roots in English/H” 2023</a>)
 
 ## References
 

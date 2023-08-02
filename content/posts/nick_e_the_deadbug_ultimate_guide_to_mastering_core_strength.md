@@ -2,14 +2,14 @@
 title = "Nicholas Elorreaga | The Deadbug: Ultimate Guide to Mastering Core Strength"
 author = ["Cash Weaver"]
 date = 2023-07-06T08:25:00-07:00
-lastmod = 2023-07-25T11:17:27-07:00
+lastmod = 2023-08-02T11:47:19-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "8c39a71d-954c-44e9-9073-cf93cc7788e0"
 +++
 
-[Nicholas Elorreaga]({{< relref "nick_e_the_deadbug_ultimate_guide_to_mastering_core_strength.md" >}}), (<a href="#citeproc_bib_item_1">Nick-E 2018</a>)
+[Nicholas Elorreaga]({{< relref "nicholas_elorreaga.md" >}}), (<a href="#citeproc_bib_item_1">Nick-E 2018</a>)
 
 
 ## Summary {#summary}

@@ -2,7 +2,7 @@
 title = "Minimum cut (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-08T11:03:00-08:00
-lastmod = 2023-07-25T11:10:49-07:00
+lastmod = 2023-08-02T11:41:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

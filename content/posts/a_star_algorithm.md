@@ -2,7 +2,7 @@
 title = "A-star search algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T13:50:00-08:00
-lastmod = 2023-07-25T08:32:39-07:00
+lastmod = 2023-08-02T10:33:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -113,7 +113,7 @@ The time complexity of [A\*]({{< relref "a_star_algorithm.md" >}}) {{depends on 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 261.66   | 2024-03-10T17:14:01Z |
-| back     | 2.95 | 6   | 133.50   | 2023-07-29T01:58:42Z |
+| back     | 2.80 | 7   | 360.27   | 2024-07-23T21:29:29Z |
 
 \\(f(n) = g(n) + h(n)\\) ([A\*]({{< relref "a_star_algorithm.md" >}}))
 
@@ -231,6 +231,6 @@ The time complexity of [A\*]({{< relref "a_star_algorithm.md" >}}) {{depends on 
 -   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
 -   [Dynamic programming]({{< relref "dynamic_programming.md" >}})
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
 -   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
 -   [Branch and bound]({{< relref "branch_and_bound.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})

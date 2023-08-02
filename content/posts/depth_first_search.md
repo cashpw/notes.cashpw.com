@@ -2,7 +2,7 @@
 title = "Depth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:36:00-07:00
-lastmod = 2023-07-25T10:28:08-07:00
+lastmod = 2023-08-02T10:48:51-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -224,7 +224,7 @@ TODO
 ## Backlinks {#backlinks}
 
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
--   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
--   [Trie]({{< relref "trie.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
 -   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
+-   [Trie]({{< relref "trie.md" >}})
+-   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})

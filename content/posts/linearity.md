@@ -2,7 +2,7 @@
 title = "Linearity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:14:00-08:00
-lastmod = 2023-07-25T11:01:24-07:00
+lastmod = 2023-08-02T11:29:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -47,7 +47,7 @@ For all linear systems, the net response caused by two or more stimuli is the su
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.20 | 12  | 254.32   | 2023-10-19T05:20:05Z |
-| front    | 1.75 | 7   | 54.16    | 2023-07-26T05:10:50Z |
+| front    | 1.60 | 8   | 95.08    | 2023-10-29T17:04:31Z |
 
 [Linearity]({{< relref "linearity.md" >}})
 

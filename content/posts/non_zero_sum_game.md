@@ -2,7 +2,7 @@
 title = "Non-zero-sum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T10:51:00-07:00
-lastmod = 2023-07-25T11:18:39-07:00
+lastmod = 2023-08-02T11:48:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ The opposite of a [Zero-sum game]({{< relref "zero_sum_game.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 428.67   | 2024-08-29T07:13:05Z |
-| back     | 1.30 | 6   | 14.51    | 2023-07-25T04:02:32Z |
+| back     | 1.30 | 7   | 17.88    | 2023-08-13T12:15:33Z |
 
 [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
 

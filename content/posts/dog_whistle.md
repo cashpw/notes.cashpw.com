@@ -2,7 +2,7 @@
 title = "Dog whistle"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:26:00-07:00
-lastmod = 2023-07-25T10:28:43-07:00
+lastmod = 2023-08-02T10:50:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.80 | 7   | 206.54   | 2023-07-30T06:50:09Z |
+| back     | 2.80 | 8   | 537.92   | 2025-01-18T21:59:22Z |
 | front    | 2.20 | 8   | 224.43   | 2023-11-16T02:49:15Z |
 
 [Dog whistle]({{< relref "dog_whistle.md" >}})

@@ -2,7 +2,7 @@
 title = "Status quo ante"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:21:00-08:00
-lastmod = 2023-07-25T12:31:08-07:00
+lastmod = 2023-08-02T12:35:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.30 | 6   | 14.13    | 2023-07-26T15:49:15Z |
+| 0        | 1.30 | 7   | 16.92    | 2023-08-13T12:10:12Z |
 | 1        | 2.95 | 6   | 144.13   | 2023-10-01T19:09:02Z |
 
 {{[Status quo ante]({{< relref "status_quo_ante.md" >}})}{[Latin]({{< relref "latin.md" >}})}@0} :: {{The way things were before}{English}@1}

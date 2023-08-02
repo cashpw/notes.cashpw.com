@@ -2,7 +2,7 @@
 title = "Bloom's taxonomy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:38:00-08:00
-lastmod = 2023-07-25T08:30:10-07:00
+lastmod = 2023-08-02T10:32:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -248,8 +248,8 @@ Learning objective concerned with using acquired knowledge to solve problems in 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.60 | 5   | 15.45    | 2023-07-26T23:44:14Z |
-| back     | 2.80 | 6   | 129.48   | 2023-07-25T01:47:35Z |
+| front    | 1.45 | 6   | 20.28    | 2023-08-16T20:51:44Z |
+| back     | 2.65 | 7   | 369.65   | 2024-08-03T15:33:13Z |
 
 [Analyze (Bloom's Taxonomy)](#analyze--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 
@@ -274,7 +274,7 @@ Learning objective concerned with:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 6   | 11.96    | 2023-07-26T12:10:37Z |
+| front    | 1.30 | 7   | 15.10    | 2023-08-13T17:27:18Z |
 | back     | 2.50 | 7   | 207.68   | 2023-11-30T10:00:23Z |
 
 [Evaluate (Bloom's Taxonomy)](#evaluate--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
@@ -299,7 +299,7 @@ Learning objective concerned with:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 143.50   | 2023-08-20T02:45:21Z |
-| back     | 2.65 | 3   | 6.00     | 2023-07-26T15:24:35Z |
+| back     | 2.80 | 4   | 16.33    | 2023-08-13T23:04:47Z |
 
 [Create (Bloom's Taxonomy)](#create--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 
@@ -386,7 +386,7 @@ Learning objective concerned with building a structure or pattern from diverse e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 124.67   | 2023-07-25T05:54:07Z |
+| front    | 2.50 | 7   | 323.02   | 2024-06-13T15:28:13Z |
 | back     | 2.80 | 6   | 137.45   | 2023-08-04T04:31:11Z |
 
 [Evaluate (Bloom's Taxonomy)](#evaluate--bloom-s-taxonomy-bloomtaxonomy2022-dot-md) (Apples)
@@ -442,8 +442,8 @@ Learning objective concerned with building a structure or pattern from diverse e
 ## Backlinks {#backlinks}
 
 -   [Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md#memory-in-educational-settings" >}})
--   [Socratic questioning]({{< relref "socratic_questioning.md" >}})
 -   [Higher order questions]({{< relref "higher_order_questions.md" >}})
 -   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})
 -   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
 -   [Lower order questions]({{< relref "lower_order_questions.md" >}})
+-   [Socratic questioning]({{< relref "socratic_questioning.md" >}})

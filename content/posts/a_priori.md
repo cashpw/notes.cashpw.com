@@ -2,7 +2,7 @@
 title = "A priori"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T11:20:00-08:00
-lastmod = 2023-07-25T08:32:17-07:00
+lastmod = 2023-08-02T10:33:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,7 +58,7 @@ Knowledge which is independent from current experience; self-evident or self-pro
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 135.56   | 2023-07-31T03:31:16Z |
+| front    | 2.65 | 7   | 365.28   | 2024-07-31T08:10:43Z |
 | back     | 2.65 | 7   | 277.33   | 2024-03-19T23:24:10Z |
 
 [A priori]({{< relref "a_priori.md" >}})

@@ -2,7 +2,7 @@
 title = "Calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:53:00-08:00
-lastmod = 2023-07-25T08:48:00-07:00
+lastmod = 2023-08-02T10:39:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -70,11 +70,11 @@ The mathematical study of continuous change.
 
 -   [Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})
 -   [Constant of integration]({{< relref "constant_of_integration.md" >}})
--   [Antiderivative]({{< relref "antiderivative.md" >}})
--   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
 -   [Power rule]({{< relref "power_rule.md" >}})
 -   [Quotient rule]({{< relref "quotient_rule.md" >}})
 -   [Chain rule]({{< relref "chain_rule.md" >}})
 -   [Integral calculus]({{< relref "integral.md" >}})
--   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
 -   [Product rule]({{< relref "product_rule.md" >}})
+-   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Antiderivative]({{< relref "antiderivative.md" >}})

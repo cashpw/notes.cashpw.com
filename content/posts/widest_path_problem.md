@@ -2,7 +2,7 @@
 title = "Widest path problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T09:17:00-08:00
-lastmod = 2023-07-25T12:42:27-07:00
+lastmod = 2023-08-02T13:05:13-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,7 +26,7 @@ slug = "635d6c87-68fe-4fbf-9462-2d86b0ea7f58"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.20 | 7   | 132.26   | 2023-09-08T04:54:09Z |
-| back     | 2.35 | 1   | 1.00     | 2023-07-25T03:57:25Z |
+| back     | 2.20 | 3   | 6.00     | 2023-08-04T14:58:07Z |
 
 [Widest path problem]({{< relref "widest_path_problem.md" >}})
 
@@ -45,7 +45,7 @@ The problem of finding a path between two [Vertices]({{< relref "vertex.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 127.65   | 2023-07-27T09:06:38Z |
+| 0        | 2.65 | 7   | 331.69   | 2024-06-23T06:49:42Z |
 | 1        | 2.50 | 7   | 279.84   | 2024-04-12T20:31:20Z |
 
 Most algorithms which solve the {{[Shortest path problem]({{< relref "shortest_path_algorithm.md" >}})}@0} can, with modifications, also solve the {{[Widest path problem]({{< relref "widest_path_problem.md" >}})}@1}.

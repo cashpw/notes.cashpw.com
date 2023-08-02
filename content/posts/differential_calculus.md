@@ -2,7 +2,7 @@
 title = "Differential calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:57:00-08:00
-lastmod = 2023-07-25T10:28:21-07:00
+lastmod = 2023-08-02T10:49:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,7 +32,7 @@ Differentiation is [linear]({{< relref "linearity.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 86.09    | 2023-07-27T01:50:44Z |
+| front    | 2.35 | 7   | 220.83   | 2024-03-04T09:59:13Z |
 
 Properties of [Differentiation]({{< relref "differential_calculus.md" >}})
 
@@ -70,13 +70,13 @@ Properties of [Differentiation]({{< relref "differential_calculus.md" >}})
 
 ## Backlinks {#backlinks}
 
--   [Antiderivative]({{< relref "antiderivative.md" >}})
--   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
 -   [Power rule]({{< relref "power_rule.md" >}})
--   [Derivative (math)]({{< relref "derivative.md" >}})
 -   [Quotient rule]({{< relref "quotient_rule.md" >}})
 -   [Calculus]({{< relref "calculus.md" >}})
--   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
 -   [Constant term rule]({{< relref "constant_term_rule.md" >}})
 -   [Lagrange's notation]({{< relref "lagrange_s_notation.md" >}})
+-   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
 -   [Product rule]({{< relref "product_rule.md" >}})
+-   [Derivative (math)]({{< relref "derivative.md" >}})
+-   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Antiderivative]({{< relref "antiderivative.md" >}})

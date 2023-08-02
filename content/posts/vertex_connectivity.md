@@ -2,14 +2,14 @@
 title = "Vertex-connectivity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T20:29:00-07:00
-lastmod = 2023-07-25T12:41:04-07:00
+lastmod = 2023-08-02T13:02:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "12de8109-6022-476c-ac21-9381115a0bc4"
 +++
 
-> The vertex-connectivity, or just connectivity, of a graph is the largest k for which the graph is k-vertex-connected [[k-vertex-connected graph]({{< relref "vertex_connectivity.md" >}})].
+> The vertex-connectivity, or just connectivity, of a graph is the largest k for which the graph is k-vertex-connected [[k-vertex-connected graph]({{< relref "k_vertex_connected_graph.md" >}})].
 >
 > (<a href="#citeproc_bib_item_1">“K-Vertex-Connected Graph” 2023</a>)
 
@@ -21,15 +21,15 @@ slug = "12de8109-6022-476c-ac21-9381115a0bc4"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 0   | 0.00     | 2023-07-23T03:40:41Z |
-| back     | 2.20 | 4   | 12.46    | 2023-07-23T02:55:08Z |
+| front    | 2.05 | 3   | 6.00     | 2023-08-04T15:00:56Z |
+| back     | 2.05 | 5   | 26.91    | 2023-08-22T13:03:12Z |
 
 [Vertex-connectivity]({{< relref "vertex_connectivity.md" >}})
 
 
 #### Back {#back}
 
-The largest \\(k\\) for which a graph is [k-vertex-connected]({{< relref "vertex_connectivity.md" >}}).
+The largest \\(k\\) for which a graph is [k-vertex-connected]({{< relref "k_vertex_connected_graph.md" >}}).
 
 
 #### Source {#source}
@@ -45,4 +45,4 @@ The largest \\(k\\) for which a graph is [k-vertex-connected]({{< relref "vertex
 
 ## Backlinks {#backlinks}
 
--   [Biconnected graph]({{< relref "vertex_connectivity.md" >}})
+-   [Biconnected graph]({{< relref "biconnected_graph.md" >}})

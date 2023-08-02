@@ -2,7 +2,7 @@
 title = "Quickselect implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:54:00-07:00
-lastmod = 2023-07-25T11:35:32-07:00
+lastmod = 2023-08-02T12:08:42-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2023-07-25T12:31:44-07:00
+lastmod = 2023-08-02T12:37:28-07:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false

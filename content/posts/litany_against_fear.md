@@ -2,7 +2,7 @@
 title = "Litany against fear"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:03:00-08:00
-lastmod = 2023-07-25T11:02:13-07:00
+lastmod = 2023-08-02T11:30:56-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -38,7 +38,7 @@ Bene Gesserit, (<a href="#citeproc_bib_item_1">Herbert 1999</a>)
 | 3        | 2.35 | 7   | 200.98   | 2023-11-26T16:15:52Z |
 | 4        | 2.80 | 7   | 362.58   | 2024-07-16T03:32:19Z |
 | 5        | 2.35 | 7   | 165.36   | 2023-11-02T21:49:32Z |
-| 6        | 2.80 | 6   | 115.26   | 2023-07-24T22:27:26Z |
+| 6        | 2.80 | 7   | 318.17   | 2024-06-08T19:08:03Z |
 | 7        | 3.10 | 6   | 178.60   | 2023-10-09T03:47:16Z |
 
 [Litany Against Fear]({{< relref "litany_against_fear.md" >}})

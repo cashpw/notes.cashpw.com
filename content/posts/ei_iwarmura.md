@@ -2,7 +2,7 @@
 title = "Ei Iwarmura"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T14:07:00-07:00
-lastmod = 2023-07-25T10:29:13-07:00
+lastmod = 2023-08-02T10:52:30-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "r-value"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-20T05:52:00-07:00
-lastmod = 2023-07-25T11:36:34-07:00
+lastmod = 2023-08-02T12:10:04-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "9256ca69-2a7c-48a8-9c44-3a078e187e20"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 40.71    | 2023-07-29T07:21:12Z |
+| front    | 2.35 | 6   | 86.65    | 2023-10-24T06:29:09Z |
 | back     | 2.35 | 6   | 56.79    | 2023-09-18T22:48:41Z |
 
 [r-value]({{< relref "r_value.md" >}})

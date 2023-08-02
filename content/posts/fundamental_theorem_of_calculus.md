@@ -2,7 +2,7 @@
 title = "Fundamental theorem of calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:59:00-08:00
-lastmod = 2023-07-25T10:41:50-07:00
+lastmod = 2023-08-02T10:59:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -123,7 +123,7 @@ $$
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 110.64   | 2023-07-28T06:20:04Z |
+| 0        | 2.65 | 7   | 271.65   | 2024-04-25T06:34:50Z |
 | 1        | 2.50 | 6   | 115.17   | 2023-08-22T18:39:47Z |
 
 {{[Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})}@0} relates {{[Derivative (math)]({{< relref "derivative.md" >}}) and [Integral]({{< relref "integral.md" >}})}@1}.
@@ -194,6 +194,6 @@ $$
 
 ## Backlinks {#backlinks}
 
--   [Derivative (math)]({{< relref "derivative.md" >}})
 -   [Integral calculus]({{< relref "integral.md" >}})
 -   [Calculus]({{< relref "calculus.md" >}})
+-   [Derivative (math)]({{< relref "derivative.md" >}})

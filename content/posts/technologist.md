@@ -2,7 +2,7 @@
 title = "Technologist"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-17T07:57:00-08:00
-lastmod = 2023-07-25T12:33:23-07:00
+lastmod = 2023-08-02T12:43:51-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -50,7 +50,7 @@ A technologist is one who:
 
 ## Backlinks {#backlinks}
 
--   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Joseph Gentle | Three Tribes of Programming]({{< relref "gentleTribesProgramming2017.md" >}})
 -   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
 -   [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})

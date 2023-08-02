@@ -2,7 +2,7 @@
 title = "Alexey Guzey | It Is Your Responsibility to Follow Up"
 author = ["Cash Weaver"]
 date = 2023-02-18T11:35:00-08:00
-lastmod = 2023-07-25T08:35:18-07:00
+lastmod = 2023-08-02T10:34:08-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

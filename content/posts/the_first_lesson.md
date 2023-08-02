@@ -2,7 +2,7 @@
 title = "The first lesson"
 author = ["Cash Prokop-Weaver"]
 date = 2021-05-30T12:44:00-07:00
-lastmod = 2023-07-25T12:34:11-07:00
+lastmod = 2023-08-02T12:46:01-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -45,7 +45,7 @@ slug = "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 93.42    | 2023-07-31T09:01:32Z |
+| front    | 2.35 | 7   | 239.96   | 2024-03-28T00:20:01Z |
 
 (full) [The first lesson]({{< relref "the_first_lesson.md" >}})
 
@@ -69,5 +69,5 @@ slug = "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
 ## Backlinks {#backlinks}
 
 -   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
--   [Favorites]({{< relref "favorites.md" >}})
 -   [Style Guide]({{< relref "style_guide.md" >}})
+-   [Favorites]({{< relref "favorites.md" >}})

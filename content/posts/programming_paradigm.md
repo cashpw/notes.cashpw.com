@@ -2,7 +2,7 @@
 title = "Programming paradigm"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:47:00-07:00
-lastmod = 2023-07-25T11:31:07-07:00
+lastmod = 2023-08-02T12:02:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -44,6 +44,6 @@ slug = "96f5c67c-bfb2-4089-b80e-7fd70e194778"
 
 ## Backlinks {#backlinks}
 
--   [Functional programming]({{< relref "functional_programming.md" >}})
--   [Declarative programming]({{< relref "declarative_programming.md" >}})
 -   [Imperative programming]({{< relref "imperative_programming.md" >}})
+-   [Declarative programming]({{< relref "declarative_programming.md" >}})
+-   [Functional programming]({{< relref "functional_programming.md" >}})

@@ -2,7 +2,7 @@
 title = "Lou Keep"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T07:21:00-08:00
-lastmod = 2023-07-25T11:03:15-07:00
+lastmod = 2023-08-02T11:32:10-07:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Burton Gordon Malkiel | A Random Walk down Wall Street: The Time-Tested Strategy for Successful Investing"
 author = ["Cash Weaver"]
 date = 2022-12-24T09:51:00-08:00
-lastmod = 2023-07-25T08:46:49-07:00
+lastmod = 2023-08-02T10:38:45-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -28,7 +28,7 @@ slug = "d5216a1b-5838-4518-aab4-f0521ae6fc21"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 9   | 221.24   | 2023-07-28T00:30:49Z |
+| front    | 2.20 | 10  | 504.45   | 2024-12-14T02:05:28Z |
 
 [A Random Walk Down Wall Street]({{< relref "burton_gordon_malkiel_a_random_walk_down_wall_street_the_time_tested_strategy_for_successful_investing.md" >}})
 

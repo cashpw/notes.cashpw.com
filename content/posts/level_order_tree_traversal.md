@@ -2,7 +2,7 @@
 title = "Level-order tree traversal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-07T06:37:00-07:00
-lastmod = 2023-07-25T11:00:18-07:00
+lastmod = 2023-08-02T11:28:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

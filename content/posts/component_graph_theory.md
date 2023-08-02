@@ -2,7 +2,7 @@
 title = "Component (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-28T13:25:00-08:00
-lastmod = 2023-07-25T08:55:16-07:00
+lastmod = 2023-08-02T10:43:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

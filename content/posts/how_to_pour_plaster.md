@@ -2,14 +2,14 @@
 title = "How to pour plaster"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T12:20:00-08:00
-lastmod = 2023-07-25T10:46:02-07:00
+lastmod = 2023-08-02T11:08:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "7b23cb95-12d8-44e3-8caf-5ad91e596e1c"
 +++
 
-Plaster is useful in [Ceramics]({{< relref "how_to_pour_plaster.md" >}}) for drying overly-wet plastic (reclaim) clay.
+Plaster is useful in [Ceramics]({{< relref "ceramics.md" >}}) for drying overly-wet plastic (reclaim) clay.
 
 
 ## Bubbles {#bubbles}

@@ -2,7 +2,7 @@
 title = "Cut (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-28T13:15:00-08:00
-lastmod = 2023-07-25T10:27:27-07:00
+lastmod = 2023-08-02T10:46:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ A partition of vertices in a graph into two disjoint sets.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 4   | 11.46    | 2023-07-27T01:21:58Z |
+| front    | 1.90 | 5   | 22.06    | 2023-08-18T15:37:08Z |
 | back     | 2.50 | 7   | 156.86   | 2023-12-21T10:39:55Z |
 
 Cut-set

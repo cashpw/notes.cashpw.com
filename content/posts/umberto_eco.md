@@ -2,7 +2,7 @@
 title = "Umberto Eco"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-19T08:39:00-07:00
-lastmod = 2023-07-25T12:39:11-07:00
+lastmod = 2023-08-02T12:58:33-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

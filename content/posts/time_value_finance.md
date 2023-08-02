@@ -2,7 +2,7 @@
 title = "Option time value"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:44:00-08:00
-lastmod = 2023-07-25T12:36:15-07:00
+lastmod = 2023-08-02T12:52:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,7 +42,7 @@ The part of an [Option (finance)]({{< relref "option.md" >}})'s value based on t
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.20 | 6   | 56.31    | 2023-08-18T09:07:42Z |
-| 1        | 2.35 | 4   | 13.88    | 2023-07-26T09:51:41Z |
+| 1        | 2.20 | 5   | 31.41    | 2023-08-27T00:46:34Z |
 | 2        | 1.30 | 8   | 24.11    | 2023-08-10T16:38:19Z |
 
 -   {{[Option time value]({{< relref "time_value_finance.md" >}})}@0}

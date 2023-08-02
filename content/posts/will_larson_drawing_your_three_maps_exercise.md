@@ -2,7 +2,7 @@
 title = "Will Larson | 'Drawing Your Three Maps' Exercise"
 author = ["Cash Weaver"]
 date = 2023-06-06T08:06:00-07:00
-lastmod = 2023-07-25T12:42:35-07:00
+lastmod = 2023-08-02T13:05:34-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

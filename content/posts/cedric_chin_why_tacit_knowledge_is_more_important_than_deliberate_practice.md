@@ -2,7 +2,7 @@
 title = "Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice"
 author = ["Cash Weaver"]
 date = 2023-06-30T18:54:00-07:00
-lastmod = 2023-07-25T08:50:26-07:00
+lastmod = 2023-08-02T10:40:35-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -127,7 +127,7 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 >
 > (Wikipedia calls this problem the '[knowledge acquisition problem](https://en.wikipedia.org/wiki/Expert_system#Disadvantages)', which is a nice way of putting it; it was what ultimately caused expert systems to decline in popularity). As people rapidly discovered, it wasn't so easy to get the 'rules' out of experts's heads in the first place.
 >
-> But there are other objections, of course. Klein --- now considered one of the pioneers of the Naturalistic Decision Making (NDM) [[Naturalistic decision making]({{< relref "cedric_chin_why_tacit_knowledge_is_more_important_than_deliberate_practice.md" >}})] branch of psychology --- likes to say that over-reliance on procedures makes human operators fragile (Chapter 15, _[Source of Power](https://www.goodreads.com/book/show/65229.Sources_of_Power)_). In other words, giving people a list of procedures to execute, blindly [or via [Learned blankness]({{< relref "learned_blankness.md" >}})], denies them the ability to build expertise, which in turns prevents them from doing the sorts of creative problem solving that is common amongst expert operators. It also means that when something goes drastically wrong --- and something _always_ goes drastically wrong in the real world --- they would not be able to adapt.
+> But there are other objections, of course. Klein --- now considered one of the pioneers of the Naturalistic Decision Making (NDM) [[Naturalistic decision making]({{< relref "naturalistic_decision_making.md" >}})] branch of psychology --- likes to say that over-reliance on procedures makes human operators fragile (Chapter 15, _[Source of Power](https://www.goodreads.com/book/show/65229.Sources_of_Power)_). In other words, giving people a list of procedures to execute, blindly [or via [Learned blankness]({{< relref "learned_blankness.md" >}})], denies them the ability to build expertise, which in turns prevents them from doing the sorts of creative problem solving that is common amongst expert operators. It also means that when something goes drastically wrong --- and something _always_ goes drastically wrong in the real world --- they would not be able to adapt.
 
 
 ### Learning tacit knowledge {#learning-tacit-knowledge}
@@ -161,7 +161,7 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 14.22    | 2023-07-26T18:08:02Z |
+| 0        | 2.35 | 5   | 30.65    | 2023-08-27T05:18:54Z |
 | 1        | 2.35 | 4   | 12.73    | 2023-08-02T08:46:21Z |
 
 {{[Tacit knowledge]({{< relref "tacit_knowledge.md" >}})}@0} looks like {{an explanation with a list of caveats}@1}.
@@ -176,7 +176,7 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 16.41    | 2023-07-30T10:40:39Z |
+| front    | 2.50 | 5   | 42.16    | 2023-09-11T03:50:56Z |
 
 [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) and [Deliberate practice]({{< relref "deliberate_practice.md" >}})
 

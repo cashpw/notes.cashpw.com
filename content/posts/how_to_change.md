@@ -2,7 +2,7 @@
 title = "How to change"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-14T08:06:00-08:00
-lastmod = 2023-07-25T10:45:58-07:00
+lastmod = 2023-08-02T11:08:22-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

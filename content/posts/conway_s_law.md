@@ -2,7 +2,7 @@
 title = "Conway's law"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-06T19:58:00-08:00
-lastmod = 2023-07-25T08:57:25-07:00
+lastmod = 2023-08-02T10:44:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

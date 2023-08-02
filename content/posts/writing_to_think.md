@@ -2,7 +2,7 @@
 title = "Writing to think"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-01T09:20:00-08:00
-lastmod = 2023-07-25T12:43:01-07:00
+lastmod = 2023-08-02T13:06:37-07:00
 tags = ["has-todo", "has-todo"]
 categories = ["has-todo"]
 draft = false

@@ -2,7 +2,7 @@
 title = "First principles"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:16:00-08:00
-lastmod = 2023-07-25T10:40:50-07:00
+lastmod = 2023-08-02T10:57:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,6 +45,6 @@ A basic proposition or assumption that cannot be deduced from any other proposit
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | Epistemic Learned Helplessness]({{< relref "scott_alexander_epistemic_learned_helplessness.md" >}})
 -   [Reasoning from first principles]({{< relref "reasoning_from_first_principles.md" >}})
 -   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Scott Alexander | Epistemic Learned Helplessness]({{< relref "scott_alexander_epistemic_learned_helplessness.md" >}})

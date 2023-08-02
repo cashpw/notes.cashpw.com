@@ -2,7 +2,7 @@
 title = "Open systems interconnection model"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T08:23:00-07:00
-lastmod = 2023-07-25T11:20:57-07:00
+lastmod = 2023-08-02T11:51:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -127,7 +127,7 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 |----------|------|-----|----------|----------------------|
 | 0        | 2.35 | 6   | 70.06    | 2023-08-11T15:38:34Z |
 | 1        | 2.20 | 6   | 64.76    | 2023-09-11T09:13:37Z |
-| 2        | 2.50 | 4   | 15.71    | 2023-07-28T05:48:15Z |
+| 2        | 2.50 | 5   | 36.46    | 2023-09-07T02:05:40Z |
 | 3        | 2.50 | 0   | 0.00     | 2023-07-19T13:40:56Z |
 | 4        | 2.5  | -1  | 0        | 2023-03-18T14:57:36Z |
 | 5        | 2.5  | -1  | 0        | 2023-03-18T14:57:36Z |
@@ -186,7 +186,7 @@ This layer provides node-to-node data transfer (e.g. network switch to network s
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.20 | 6   | 56.17    | 2023-09-05T17:08:07Z |
-| back     | 2.50 | 3   | 6.00     | 2023-06-21T13:20:35Z |
+| back     | 2.50 | 4   | 15.74    | 2023-08-11T08:35:38Z |
 
 [Network layer (OSI model)](#network-layer--osi-model)
 
@@ -205,7 +205,7 @@ This layer provides functional and procedural means of transferring packets from
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 36.16    | 2023-07-24T07:53:27Z |
+| front    | 2.35 | 6   | 84.13    | 2023-10-19T17:22:50Z |
 
 Nodes and hosts in the [OSI model]({{< relref "open_systems_interconnection_model.md" >}})
 
@@ -225,7 +225,7 @@ Nodes and hosts in the [OSI model]({{< relref "open_systems_interconnection_mode
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2023-05-01T14:22:59Z |
+| front    | 2.20 | 1   | 1.00     | 2023-08-01T00:01:40Z |
 
 [Transport layer (OSI model)](#transport-layer--osi-model) and [Network layer (OSI model)](#network-layer--osi-model)
 
@@ -246,7 +246,7 @@ Nodes and hosts in the [OSI model]({{< relref "open_systems_interconnection_mode
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.20 | 6   | 59.26    | 2023-08-29T07:48:09Z |
-| back     | 2.35 | 3   | 6.00     | 2023-07-26T15:18:20Z |
+| back     | 2.35 | 4   | 13.19    | 2023-08-14T05:59:33Z |
 
 [Session layer (OSI model)](#session-layer--osi-model)
 
@@ -265,7 +265,7 @@ This layer handles setup, teardown, and controls the connections between two or 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 5   | 20.32    | 2023-07-19T00:50:05Z |
+| front    | 1.75 | 6   | 37.31    | 2023-09-01T10:21:59Z |
 | back     | 2.50 | 1   | 1.00     | 2023-07-16T14:14:57Z |
 
 [Presentation layer (OSI model)](#presentation-layer--osi-model)

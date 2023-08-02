@@ -2,7 +2,7 @@
 title = "James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-25T18:07:00-07:00
-lastmod = 2023-07-25T10:56:08-07:00
+lastmod = 2023-08-02T11:23:50-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -816,5 +816,5 @@ Reduce the quality of your output to a level that will satisfy the requestor and
 
 ## Backlinks {#backlinks}
 
--   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})

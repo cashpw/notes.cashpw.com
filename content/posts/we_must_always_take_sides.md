@@ -2,7 +2,7 @@
 title = "We must always take sides"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-03T11:44:00-07:00
-lastmod = 2023-07-25T12:41:57-07:00
+lastmod = 2023-08-02T13:04:22-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

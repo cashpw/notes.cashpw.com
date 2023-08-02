@@ -2,7 +2,7 @@
 title = "Shelf-life of information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T15:13:00-07:00
-lastmod = 2023-07-25T12:27:51-07:00
+lastmod = 2023-08-02T12:24:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

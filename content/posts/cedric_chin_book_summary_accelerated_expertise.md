@@ -2,7 +2,7 @@
 title = "Cedric Chin | Book Summary: Accelerated Expertise"
 author = ["Cash Weaver"]
 date = 2023-06-29T17:49:00-07:00
-lastmod = 2023-07-25T08:49:45-07:00
+lastmod = 2023-08-02T10:40:11-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -37,7 +37,7 @@ slug = "f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb"
 ### What works? {#what-works}
 
 > 1.  Identify the domain experts
-> 2.  Perform cognitive task analysis [[Cognitive task analysis]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})] on these identified experts to extract their expertise
+> 2.  Perform cognitive task analysis [[Cognitive task analysis]({{< relref "cognitive_tasks_analysis.md" >}})] on these identified experts to extract their expertise
 > 3.  As you do step 2, you will be building a case library of difficult cases. Store these cases, and code them according to measures of difficulty.
 > 4.  Turn your case library into a set of training simulations
 >
@@ -55,8 +55,8 @@ slug = "f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb"
 
 #### Why does it work? {#why-does-it-work}
 
--   [Cognitive flexibility theory]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
--   [Cognitive transformation theory]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
+-   [Cognitive flexibility theory]({{< relref "cognitive_flexibility_theory.md" >}})
+-   [Cognitive transformation theory]({{< relref "cognitive_transformation_theory.md" >}})
 
 
 ## Thoughts {#thoughts}
@@ -194,8 +194,8 @@ slug = "f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb"
 
 > In Chapter 11, the authors assert that two core learning theories underpin their training approach, and may be combined:
 >
-> -   Cognitive Flexibility Theory [[Cognitive flexibility theory]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})], or CFT, and
-> -   Cognitive Transformation Theory [[Cognitive transformation theory]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})], or CTT
+> -   Cognitive Flexibility Theory [[Cognitive flexibility theory]({{< relref "cognitive_flexibility_theory.md" >}})], or CFT, and
+> -   Cognitive Transformation Theory [[Cognitive transformation theory]({{< relref "cognitive_transformation_theory.md" >}})], or CTT
 >
 > I've talked about CTT in the past, which you may read about [here](https://commoncog.com/the-hard-thing-about-learning-from-experience/) [ (<a href="#citeproc_bib_item_6">Chin 2021c</a>) ] and [here](https://commoncog.com/business-expertise-cognitive-agility/) [ (<a href="#citeproc_bib_item_4">Chin 2021a</a>) ]. This is the summary of both theories that the book presents:
 >

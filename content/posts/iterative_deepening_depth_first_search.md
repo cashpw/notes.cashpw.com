@@ -2,7 +2,7 @@
 title = "Iterative deepening depth-first-search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T18:09:00-07:00
-lastmod = 2023-07-25T10:50:25-07:00
+lastmod = 2023-08-02T11:15:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -91,7 +91,7 @@ Worst-case: \\(\bigo{b^d}\\) where \\(b\\) is the branching factor (e.g. 2 for [
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 1   | 1.00     | 2023-07-02T14:15:50Z |
+| front    | 1.90 | 3   | 6.00     | 2023-08-04T14:56:04Z |
 
 Implement [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 

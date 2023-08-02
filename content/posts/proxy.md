@@ -2,7 +2,7 @@
 title = "Proxy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T08:18:00-07:00
-lastmod = 2023-07-25T11:31:50-07:00
+lastmod = 2023-08-02T12:03:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

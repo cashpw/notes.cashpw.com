@@ -2,7 +2,7 @@
 title = "Steelmanning"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T11:17:00-08:00
-lastmod = 2023-07-25T12:31:17-07:00
+lastmod = 2023-08-02T12:35:34-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,7 +34,7 @@ However, not all steel men are created equally:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 6   | 142.91   | 2023-09-20T16:41:41Z |
-| back     | 2.35 | 3   | 6.00     | 2023-07-26T15:23:31Z |
+| back     | 2.35 | 4   | 14.93    | 2023-08-11T12:37:34Z |
 
 > ... is the practice of addressing the strongest form of "the other person's argument, even if it's not the one they presented".
 

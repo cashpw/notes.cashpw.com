@@ -2,7 +2,7 @@
 title = "Logarithm"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T09:46:00-08:00
-lastmod = 2023-07-25T11:02:52-07:00
+lastmod = 2023-08-02T11:31:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

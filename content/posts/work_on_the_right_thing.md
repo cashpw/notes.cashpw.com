@@ -2,7 +2,7 @@
 title = "Work on the right thing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:05:00-08:00
-lastmod = 2023-07-25T12:42:45-07:00
+lastmod = 2023-08-02T13:06:00-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

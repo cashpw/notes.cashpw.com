@@ -2,7 +2,7 @@
 title = "Theory of change"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:28:00-08:00
-lastmod = 2023-07-25T12:35:11-07:00
+lastmod = 2023-08-02T12:49:06-07:00
 draft = false
 slug = "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
 +++

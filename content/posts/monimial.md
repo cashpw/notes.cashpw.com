@@ -2,7 +2,7 @@
 title = "Monimial"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T10:35:00-08:00
-lastmod = 2023-07-25T11:11:45-07:00
+lastmod = 2023-08-02T11:42:31-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

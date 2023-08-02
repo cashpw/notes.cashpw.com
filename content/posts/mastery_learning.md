@@ -2,7 +2,7 @@
 title = "Mastery learning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:23:00-08:00
-lastmod = 2023-07-25T11:06:02-07:00
+lastmod = 2023-08-02T11:35:07-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

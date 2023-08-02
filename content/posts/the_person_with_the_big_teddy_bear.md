@@ -2,7 +2,7 @@
 title = "The person with the big teddy bear"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-20T14:13:00-07:00
-lastmod = 2023-07-25T12:45:23-07:00
+lastmod = 2023-08-02T12:47:39-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

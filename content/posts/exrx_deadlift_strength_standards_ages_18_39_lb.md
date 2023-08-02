@@ -2,14 +2,14 @@
 title = "ExRx | Deadlift Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T11:02:00-07:00
-lastmod = 2023-07-25T10:39:44-07:00
+lastmod = 2023-08-02T10:54:55-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "64b0aa9b-de0d-4ebd-b899-fe85cbfad7a3"
 +++
 
-[ExRx]({{< relref "exrx_deadlift_strength_standards_ages_18_39_lb.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
+[ExRx]({{< relref "exrx.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
 
 
 ## Notes {#notes}
@@ -66,4 +66,4 @@ In order for these standards to apply, knees, hips, and upper back must complete
 
 ## Backlinks {#backlinks}
 
--   [ExRx | Weightlifting Performance Standards]({{< relref "exrx_deadlift_strength_standards_ages_18_39_lb.md" >}})
+-   [ExRx | Weightlifting Performance Standards]({{< relref "exrx_weightlifting_performance_standards.md" >}})

@@ -2,7 +2,7 @@
 title = "Disorganized attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T13:27:00-07:00
-lastmod = 2023-07-25T10:28:37-07:00
+lastmod = 2023-08-02T10:50:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

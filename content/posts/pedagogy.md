@@ -2,7 +2,7 @@
 title = "Pedagogy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T18:48:00-07:00
-lastmod = 2023-07-25T11:24:14-07:00
+lastmod = 2023-08-02T11:55:06-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -55,7 +55,7 @@ The theory and practice of learning, and how this process influences and is infl
 
 ## Backlinks {#backlinks}
 
+-   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
+-   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
 -   [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
 -   [The first lesson]({{< relref "the_first_lesson.md" >}})
--   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "pedagogy.md" >}})
--   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

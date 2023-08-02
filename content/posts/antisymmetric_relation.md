@@ -2,7 +2,7 @@
 title = "Antisymmetric relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:11:00-07:00
-lastmod = 2023-07-25T08:37:55-07:00
+lastmod = 2023-08-02T10:34:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,7 +27,7 @@ slug = "875bfbf2-61ad-4f0a-9833-245dc5adc561"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 3   | 6.00     | 2023-07-24T13:49:02Z |
+| front    | 1.30 | 4   | 7.45     | 2023-08-02T13:47:48Z |
 | back     | 2.20 | 7   | 158.46   | 2023-11-06T02:35:11Z |
 
 [Antisymmetric relation]({{< relref "antisymmetric_relation.md" >}})

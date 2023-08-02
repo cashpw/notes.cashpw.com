@@ -2,7 +2,7 @@
 title = "Be conscious of your defaults"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:24:00-08:00
-lastmod = 2023-07-25T08:40:42-07:00
+lastmod = 2023-08-02T10:35:51-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

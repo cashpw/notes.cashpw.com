@@ -2,7 +2,7 @@
 title = "Scott Alexander | Meditations On Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:30:00-07:00
-lastmod = 2023-07-25T08:34:51-07:00
+lastmod = 2023-08-02T10:34:01-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -249,7 +249,7 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 4   | 8.20     | 2023-07-11T05:59:34Z |
+| front    | 1.30 | 3   | 6.00     | 2023-08-05T23:54:20Z |
 
 
 #### Back {#back}

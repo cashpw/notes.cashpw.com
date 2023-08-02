@@ -2,7 +2,7 @@
 title = "Mental model"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:08:00-08:00
-lastmod = 2023-07-25T11:08:26-07:00
+lastmod = 2023-08-02T11:37:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,6 +49,6 @@ slug = "787214e0-5941-4c6f-9a61-e79b9b40baea"
 -   [Farnum Street | Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)]({{< relref "farnum_street_mental_models_the_best_way_to_make_intelligent_decisions_109_models_explained.md" >}})
 -   [Legible]({{< relref "legible.md" >}})
 -   [Framing]({{< relref "framing.md" >}})
--   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "mental_model.md" >}})
--   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})
+-   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
 -   [The map is not the territory]({{< relref "the_map_is_not_the_territory.md" >}})
+-   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})

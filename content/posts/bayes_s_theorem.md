@@ -2,7 +2,7 @@
 title = "Bayes's theorem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T18:45:00-07:00
-lastmod = 2023-07-25T08:40:34-07:00
+lastmod = 2023-08-02T10:35:47-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

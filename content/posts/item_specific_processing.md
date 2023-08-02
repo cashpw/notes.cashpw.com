@@ -2,7 +2,7 @@
 title = "Item-specific processing"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:40:00-08:00
-lastmod = 2023-07-25T10:50:17-07:00
+lastmod = 2023-08-02T11:15:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -97,3 +97,4 @@ Examples:
 
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
+-   [Relational processing]({{< relref "relational_processing.md" >}})

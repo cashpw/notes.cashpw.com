@@ -2,7 +2,7 @@
 title = "Greedy algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T11:27:00-08:00
-lastmod = 2023-07-25T10:43:30-07:00
+lastmod = 2023-08-02T11:02:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,5 +45,5 @@ Any algorithm that follows the problem-solving heuristic of making the locally o
 
 ## Backlinks {#backlinks}
 
--   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
+-   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})

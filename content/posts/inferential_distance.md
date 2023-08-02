@@ -2,7 +2,7 @@
 title = "Inferential distance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-22T09:53:00-07:00
-lastmod = 2023-07-25T10:48:56-07:00
+lastmod = 2023-08-02T11:13:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -52,7 +52,7 @@ The set of prerequisite knowledge required to understand a new concept lacked by
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 198.21   | 2023-07-25T20:30:37Z |
+| front    | 2.65 | 8   | 512.04   | 2024-12-19T04:02:08Z |
 | back     | 2.20 | 7   | 168.58   | 2023-09-12T07:13:22Z |
 
 [Inferential distance]({{< relref "inferential_distance.md" >}})

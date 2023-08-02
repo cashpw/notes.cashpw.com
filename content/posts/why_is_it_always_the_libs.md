@@ -2,7 +2,7 @@
 title = "Why is it always the libs?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-01T08:54:00-07:00
-lastmod = 2023-07-25T12:42:22-07:00
+lastmod = 2023-08-02T13:05:03-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

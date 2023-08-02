@@ -2,7 +2,7 @@
 title = "Akrasia"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-14T11:53:00-08:00
-lastmod = 2023-07-25T08:34:22-07:00
+lastmod = 2023-08-02T10:33:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Row echelon form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T11:02:00-08:00
-lastmod = 2023-07-25T12:26:51-07:00
+lastmod = 2023-08-02T12:17:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -38,7 +38,7 @@ slug = "2b33e0aa-52e7-404b-90f0-34f6468389c0"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.65 | 9   | 525.28   | 2024-12-16T22:27:22Z |
-| front    | 2.65 | 9   | 563.78   | 2024-12-16T20:04:04Z |
+| front    | 2.65 | 9   | 563.78   | 2024-11-16T20:04:04Z |
 
 [Reduced row echelon form](#reduced-row-echelon-form)
 

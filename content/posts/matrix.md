@@ -2,7 +2,7 @@
 title = "Matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:17:00-07:00
-lastmod = 2023-07-25T11:06:49-07:00
+lastmod = 2023-08-02T11:36:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -116,8 +116,8 @@ Two matrices which are matrix equivalent {{\\(A\_{n \times n} = P\_{n \times n}B
 -   [Matrix of ones]({{< relref "matrix_of_ones.md" >}})
 -   [Non-singular matrix]({{< relref "non_singular_matrix.md" >}})
 -   [Transpose]({{< relref "transpose.md" >}})
--   [Determinant]({{< relref "determinant.md" >}})
 -   [Matrix multiplication]({{< relref "matrix_multiplication.md" >}})
 -   [Idempotent matrix]({{< relref "idempotent_matrix.md" >}})
 -   [Diagonal matrix]({{< relref "diagonal_matrix.md" >}})
 -   [Square matrix]({{< relref "square_matrix.md" >}})
+-   [Determinant]({{< relref "determinant.md" >}})

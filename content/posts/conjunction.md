@@ -2,7 +2,7 @@
 title = "Conjunction"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-22T09:35:00-07:00
-lastmod = 2023-07-25T08:56:07-07:00
+lastmod = 2023-08-02T10:43:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "14252b7a-a25c-4531-b701-2d1b074d2728"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 5   | 34.87    | 2023-07-27T22:34:38Z |
+| 0        | 2.35 | 6   | 85.71    | 2023-10-23T07:55:58Z |
 | 1        | 2.80 | 5   | 43.85    | 2023-08-10T11:47:28Z |
 
 -   {{[Conjunction]({{< relref "conjunction.md" >}})}@0}

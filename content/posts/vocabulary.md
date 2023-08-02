@@ -2,7 +2,7 @@
 title = "Vocabulary"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-15T10:24:00-08:00
-lastmod = 2023-07-25T12:41:15-07:00
+lastmod = 2023-08-02T13:02:33-07:00
 draft = false
 slug = "570a3103-cef5-4ce3-9498-fde21020fe22"
 +++
@@ -333,7 +333,7 @@ A person after whom a discovery, invention, place, etc., is named or thought to 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 3   | 6.00     | 2023-07-10T01:33:50Z |
+| front    | 1.90 | 4   | 11.45    | 2023-08-08T00:31:16Z |
 | back     | 2.35 | 5   | 32.35    | 2023-04-14T23:11:01Z |
 
 A conclusion arrived at through deductive reasoning based on two propositions which are either asserted or assumed to be true.
@@ -504,7 +504,7 @@ Portmanteau
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 107.76   | 2023-07-30T07:32:43Z |
+| front    | 2.65 | 7   | 290.74   | 2024-05-16T17:32:28Z |
 | back     | 2.95 | 5   | 50.65    | 2023-04-05T12:53:20Z |
 
 -   A sign of what will happen in the future; an omen
@@ -532,7 +532,7 @@ Portmanteau
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 120.13   | 2023-07-22T21:08:18Z |
+| front    | 2.35 | 1   | 1.00     | 2023-07-29T15:04:26Z |
 | back     | 2.35 | 6   | 72.27    | 2023-05-31T00:31:41Z |
 
 -   Conducive to success; favorable
@@ -558,7 +558,7 @@ Portmanteau
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 2   | 2.00     | 2023-07-16T13:08:42Z |
+| front    | 2.20 | 3   | 6.00     | 2023-08-07T15:00:04Z |
 | back     | 2.80 | 5   | 43.07    | 2023-04-12T16:36:33Z |
 
 Having a harmful effect, especially in a gradual or subtle way
@@ -616,7 +616,7 @@ Grimly mocking or cynical
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 77.64    | 2023-07-18T15:00:32Z |
+| front    | 2.20 | 7   | 180.88   | 2024-01-24T11:21:41Z |
 | back     | 2.65 | 6   | 115.97   | 2023-09-24T14:42:36Z |
 
 -   (of a person, speech, style of writing) using very few words
@@ -633,7 +633,7 @@ Grimly mocking or cynical
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 12.95    | 2023-07-28T12:59:10Z |
+| front    | 2.20 | 5   | 26.64    | 2023-08-26T14:59:16Z |
 | back     | 2.80 | 5   | 55.17    | 2023-05-11T17:59:45Z |
 
 > An [...] is a concise, terse, laconic, or memorable expression of a general truth or principle. [...] are often handed down by tradition from generation to generation.
@@ -664,7 +664,7 @@ Grimly mocking or cynical
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 92.28    | 2023-07-30T21:05:59Z |
+| front    | 2.05 | 0   | 0.00     | 2023-08-01T15:05:08Z |
 | back     | 2.35 | 4   | 15.45    | 2023-03-24T04:14:39Z |
 
 > An amateur, someone who dabbles in a field out of casual interest rather than as a profession or serious interest.
@@ -679,7 +679,7 @@ Grimly mocking or cynical
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 5   | 38.20    | 2023-07-26T08:44:51Z |
+| 0        | 2.35 | 6   | 93.57    | 2023-10-31T04:34:49Z |
 | 1        | 2.50 | 1   | 1.00     | 2023-06-05T04:16:09Z |
 
 {{Aphorisms}@0} are expressions of {{a general truth or principle}@1}.
@@ -694,7 +694,7 @@ Grimly mocking or cynical
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 36.50    | 2023-07-26T08:07:17Z |
+| 0        | 2.35 | 6   | 82.97    | 2023-10-23T00:45:07Z |
 | 1        | 2.50 | 1   | 1.00     | 2023-06-28T15:06:13Z |
 
 {{Aphorisms}@0} are often {{handed down by tradition from generation to generation}@1}.
@@ -709,7 +709,7 @@ Grimly mocking or cynical
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2023-07-20T18:50:45Z |
+| front    | 2.50 | 0   | 0.00     | 2023-07-26T15:11:56Z |
 | back     | 2.5  | -1  | 0        | 2023-07-27T18:50:45Z |
 
 1.  Excessively eager and attentive to please or to obey instructions; fawning, subservient, servile.

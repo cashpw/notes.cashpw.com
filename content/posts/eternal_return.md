@@ -2,7 +2,7 @@
 title = "Eternal return"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:41:00-08:00
-lastmod = 2023-07-25T10:39:18-07:00
+lastmod = 2023-08-02T10:53:43-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

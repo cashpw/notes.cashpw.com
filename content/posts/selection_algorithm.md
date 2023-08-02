@@ -2,7 +2,7 @@
 title = "Selection algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:10:00-07:00
-lastmod = 2023-07-25T12:27:38-07:00
+lastmod = 2023-08-02T12:23:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,7 +27,7 @@ slug = "7fbcef27-68c4-4793-8fc0-e10114318765"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.95 | 8   | 407.67   | 2024-07-11T08:14:43Z |
-| back     | 2.05 | 7   | 145.81   | 2023-08-01T14:04:13Z |
+| back     | 2.05 | 8   | 273.94   | 2024-05-01T13:35:26Z |
 
 [Selection algorithm]({{< relref "selection_algorithm.md" >}})
 

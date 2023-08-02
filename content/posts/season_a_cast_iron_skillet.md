@@ -2,7 +2,7 @@
 title = "Season a cast iron skillet"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T18:51:00-07:00
-lastmod = 2023-07-25T12:27:30-07:00
+lastmod = 2023-08-02T12:22:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -36,7 +36,7 @@ slug = "cf234015-e1ce-4689-97c8-e3848e435742"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 153.74   | 2023-08-01T08:48:45Z |
+| front    | 2.80 | 7   | 427.54   | 2024-10-02T04:05:01Z |
 | back     | 2.80 | 7   | 346.79   | 2024-06-26T09:14:11Z |
 
 How to [Season a cast iron skillet]({{< relref "season_a_cast_iron_skillet.md" >}})

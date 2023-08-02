@@ -2,7 +2,7 @@
 title = "De-meaned vector"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T09:17:00-07:00
-lastmod = 2023-07-25T10:27:56-07:00
+lastmod = 2023-08-02T10:48:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,15 +24,15 @@ Note that \\(\mathbf{C}\\) is the [Centering matrix]({{< relref "centering_matri
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 7   | 205.84   | 2023-08-05T11:01:01Z |
-| 1        | 2.15 | 3   | 6.00     | 2023-07-26T15:21:21Z |
+| 1        | 1.85 | 1   | 1.00     | 2023-07-30T15:02:17Z |
 
 
 ### Denotes {#denotes}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2023-07-26T03:51:39Z |
-| 1        | 2.5  | -1  | 0        | 2023-07-27T15:21:39Z |
+| 0        | 2.80 | 4   | 17.64    | 2023-08-19T06:25:27Z |
+| 1        | 2.50 | 2   | 2.00     | 2023-08-03T01:23:43Z |
 
 -   {{\\(\tilde{v}\\)}@0}
 

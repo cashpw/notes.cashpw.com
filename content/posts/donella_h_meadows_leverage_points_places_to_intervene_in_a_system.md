@@ -2,7 +2,7 @@
 title = "Donella H. Meadows | Leverage Points: Places to Intervene in a System"
 author = ["Cash Weaver"]
 date = 2023-01-13T15:35:00-08:00
-lastmod = 2023-07-25T10:28:46-07:00
+lastmod = 2023-08-02T10:51:01-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

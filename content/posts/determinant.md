@@ -2,7 +2,7 @@
 title = "Determinant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-29T07:35:00-07:00
-lastmod = 2023-07-25T10:28:16-07:00
+lastmod = 2023-08-02T10:49:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -157,7 +157,7 @@ Calculate [Determinant]({{< relref "determinant.md" >}}) of a matrix, \\(A\_{n \
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.20 | 7   | 133.08   | 2023-07-28T16:03:23Z |
+| 1        | 2.05 | 8   | 260.48   | 2024-04-15T02:21:43Z |
 | 0        | 2.65 | 5   | 43.44    | 2023-08-13T12:14:18Z |
 
 

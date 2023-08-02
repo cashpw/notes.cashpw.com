@@ -2,7 +2,7 @@
 title = "Complex adaptive system"
 author = ["Cash Prokop-Weaver"]
 date = 2023-04-06T20:59:00-07:00
-lastmod = 2023-07-25T08:55:07-07:00
+lastmod = 2023-08-02T10:43:18-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Sabrina Leandro | So You're Staff+ … Now What?"
 author = ["Cash Weaver"]
 date = 2023-03-20T16:23:00-07:00
-lastmod = 2023-07-25T12:26:58-07:00
+lastmod = 2023-08-02T12:18:45-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -88,5 +88,5 @@ slug = "b4e207cd-6c52-425c-8b60-a21e8cb1d8c6"
 
 ## Backlinks {#backlinks}
 
--   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})

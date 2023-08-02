@@ -2,7 +2,7 @@
 title = "Stoicism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-14T11:54:00-08:00
-lastmod = 2023-07-25T12:31:22-07:00
+lastmod = 2023-08-02T12:36:03-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

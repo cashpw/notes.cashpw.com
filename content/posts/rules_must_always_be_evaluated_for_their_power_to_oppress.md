@@ -2,7 +2,7 @@
 title = "Rules must always be evaluated for their power to oppress"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-24T12:30:00-08:00
-lastmod = 2023-07-25T12:26:53-07:00
+lastmod = 2023-08-02T12:18:03-07:00
 draft = false
 slug = "5f8f88a2-e975-442c-952e-28dbc54f1eb6"
 +++
@@ -19,7 +19,7 @@ slug = "5f8f88a2-e975-442c-952e-28dbc54f1eb6"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 151.14   | 2023-07-31T17:32:04Z |
+| 0        | 2.80 | 7   | 412.06   | 2024-09-16T02:57:02Z |
 
 
 #### Source {#source}

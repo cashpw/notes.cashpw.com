@@ -2,7 +2,7 @@
 title = "Directed graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:45:00-07:00
-lastmod = 2023-07-25T10:28:34-07:00
+lastmod = 2023-08-02T10:50:13-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -71,8 +71,8 @@ A [Graph]({{< relref "graph.md" >}}) in which the [Edges]({{< relref "edge.md" >
 -   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
 -   [Graph]({{< relref "graph.md" >}})
 -   [Graph theory]({{< relref "graph_theory.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
 -   [Closure (Graph)]({{< relref "closure_graph.md" >}})
 -   [Weakly connected graph]({{< relref "connectivity_graph_theory.md#weakly-connected-graph" >}})
 -   [Unilaterally connected graph]({{< relref "connectivity_graph_theory.md#unilaterally-connected-graph" >}})
 -   [Strongly connected graph]({{< relref "connectivity_graph_theory.md#strongly-connected-graph" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})

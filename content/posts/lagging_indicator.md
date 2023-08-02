@@ -2,7 +2,7 @@
 title = "Lagging indicator"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-28T08:07:00-08:00
-lastmod = 2023-07-25T10:57:34-07:00
+lastmod = 2023-08-02T11:25:25-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -45,5 +45,5 @@ A delayed measure of change.
 
 ## Backlinks {#backlinks}
 
--   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Dan Moore | Cultivate the Skill of Undivided Attention, or "Deep Work"]({{< relref "mooredsCultivateSkillUndividedAttentionDeepWork2019.md" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})

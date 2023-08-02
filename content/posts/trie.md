@@ -2,7 +2,7 @@
 title = "Trie"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-21T19:18:00-07:00
-lastmod = 2023-07-25T12:38:30-07:00
+lastmod = 2023-08-02T12:56:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -75,7 +75,7 @@ Applications of a [Trie]({{< relref "trie.md" >}})
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 1.90 | 8   | 187.41   | 2023-12-21T00:01:06Z |
-| 1        | 2.20 | 7   | 111.97   | 2023-07-29T14:18:19Z |
+| 1        | 2.20 | 8   | 232.73   | 2024-03-18T08:30:36Z |
 
 
 #### Source {#source}

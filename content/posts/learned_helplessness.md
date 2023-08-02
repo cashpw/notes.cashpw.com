@@ -2,7 +2,7 @@
 title = "Learned helplessness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T08:35:00-08:00
-lastmod = 2023-07-25T10:58:52-07:00
+lastmod = 2023-08-02T11:26:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,7 +25,7 @@ slug = "06b5c658-5513-4c18-a24d-9ed3fb4ad23b"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 3.10 | 6   | 164.18   | 2023-07-26T22:01:06Z |
+| front    | 2.80 | 3   | 6.00     | 2023-08-05T23:54:00Z |
 | back     | 2.20 | 7   | 136.58   | 2023-08-15T05:39:16Z |
 
 [Learned helplessness]({{< relref "learned_helplessness.md" >}})
@@ -49,6 +49,6 @@ A behavior characterized by "giving up" which the subject exhibits after endurin
 
 ## Backlinks {#backlinks}
 
--   [Learned blankness]({{< relref "learned_blankness.md" >}})
 -   [Anna Salamon | Learned Blankness]({{< relref "annasalamonLearnedBlankness2011.md" >}})
+-   [Learned blankness]({{< relref "learned_blankness.md" >}})
 -   [Scott Alexander | Epistemic Learned Helplessness]({{< relref "scott_alexander_epistemic_learned_helplessness.md" >}})

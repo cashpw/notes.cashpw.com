@@ -2,7 +2,7 @@
 title = "Quickselect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:09:00-07:00
-lastmod = 2023-07-25T11:35:24-07:00
+lastmod = 2023-08-02T12:08:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -103,5 +103,5 @@ To find the `k`-th smallest element in a `list`:
 
 ## Backlinks {#backlinks}
 
--   [Selection algorithm]({{< relref "selection_algorithm.md" >}})
 -   [Quickselect implementation in Python]({{< relref "quickselect_implementation_in_python.md" >}})
+-   [Selection algorithm]({{< relref "selection_algorithm.md" >}})

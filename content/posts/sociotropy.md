@@ -2,7 +2,7 @@
 title = "Sociotropy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-20T10:36:00-07:00
-lastmod = 2023-07-25T12:28:52-07:00
+lastmod = 2023-08-02T12:29:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "f1b60c4c-6161-435f-ae53-271f01264d7e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-07-25T04:07:24Z |
-| back     | 2.5  | -1  | 0        | 2023-07-27T18:35:56Z |
+| front    | 2.20 | 2   | 2.00     | 2023-08-01T23:58:21Z |
+| back     | 2.50 | 1   | 1.00     | 2023-08-02T01:28:29Z |
 
 > [...] is a personality trait characterized by excessive investment in interpersonal relationships [...]
 >
@@ -40,3 +40,8 @@ slug = "f1b60c4c-6161-435f-ae53-271f01264d7e"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sociotropy.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Sociotropy&oldid=1146321832">https://en.wikipedia.org/w/index.php?title=Sociotropy&#38;oldid=1146321832</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [People pleaser]({{< relref "nice_girl_syndrome.md" >}})

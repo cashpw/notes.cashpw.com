@@ -2,7 +2,7 @@
 title = "The opposite of a trap is a garden"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-10T09:13:00-07:00
-lastmod = 2023-07-25T12:34:43-07:00
+lastmod = 2023-08-02T12:47:23-07:00
 tags = ["concept", "quote", "concept", "quote"]
 categories = ["concept", "quote"]
 draft = false
@@ -58,5 +58,5 @@ The only way to avoid having all human values gradually ground down by optimizat
 
 ## Backlinks {#backlinks}
 
--   [Coordination (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Coordination (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#coordination--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
 -   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})

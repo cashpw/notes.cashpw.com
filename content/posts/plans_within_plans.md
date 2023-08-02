@@ -2,7 +2,7 @@
 title = "Plans within plans"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T10:44:00-08:00
-lastmod = 2023-07-25T11:26:51-07:00
+lastmod = 2023-08-02T11:57:56-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

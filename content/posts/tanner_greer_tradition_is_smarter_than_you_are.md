@@ -2,7 +2,7 @@
 title = "Tanner Greer | Tradition Is Smarter Than You Are"
 author = ["Cash Weaver"]
 date = 2023-01-10T12:08:00-08:00
-lastmod = 2023-07-25T12:32:51-07:00
+lastmod = 2023-08-02T12:42:02-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Best-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T16:34:00-08:00
-lastmod = 2023-07-25T08:41:46-07:00
+lastmod = 2023-08-02T10:36:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Prisoner's dilemma"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T07:01:00-07:00
-lastmod = 2023-07-25T11:30:29-07:00
+lastmod = 2023-08-02T12:02:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -84,10 +84,10 @@ A game in which two individuals must choose to either (1) cooperate or (2) not, 
 
 ## Backlinks {#backlinks}
 
--   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
 -   [Tragedy of the commons]({{< relref "tragedy_of_the_commons.md" >}})
--   [Symmetric game]({{< relref "symmetric_game.md" >}})
 -   [Simultaneous game]({{< relref "simultaneous_game.md" >}})
 -   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Stag hunt]({{< relref "stag_hunt.md" >}})
+-   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
+-   [Symmetric game]({{< relref "symmetric_game.md" >}})
 -   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})

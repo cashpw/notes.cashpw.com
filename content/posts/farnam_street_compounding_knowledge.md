@@ -2,7 +2,7 @@
 title = "Farnam Street | Compounding Knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T15:36:00-07:00
-lastmod = 2023-07-25T10:40:08-07:00
+lastmod = 2023-08-02T10:55:47-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

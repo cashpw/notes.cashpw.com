@@ -2,7 +2,7 @@
 title = "Scott Alexander | Book Review: Seeing Like A State"
 author = ["Cash Weaver"]
 date = 2023-01-09T08:06:00-08:00
-lastmod = 2023-07-25T12:27:18-07:00
+lastmod = 2023-08-02T12:21:01-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

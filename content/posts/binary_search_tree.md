@@ -2,7 +2,7 @@
 title = "Binary search tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:43:00-07:00
-lastmod = 2023-07-25T08:43:12-07:00
+lastmod = 2023-08-02T10:36:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -137,5 +137,5 @@ A binary tree in which satisfies the binary search property. That is, the nodes 
 ## Backlinks {#backlinks}
 
 -   [B-tree]({{< relref "b_tree.md" >}})
--   [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}})
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
+-   [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}})

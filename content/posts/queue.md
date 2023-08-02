@@ -2,7 +2,7 @@
 title = "Queue"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2023-07-25T11:35:05-07:00
+lastmod = 2023-08-02T12:07:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

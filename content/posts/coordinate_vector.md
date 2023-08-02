@@ -2,7 +2,7 @@
 title = "Coordinate vector"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T20:35:00-07:00
-lastmod = 2023-07-25T08:57:42-07:00
+lastmod = 2023-08-02T10:44:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

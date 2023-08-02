@@ -2,19 +2,19 @@
 title = "Keith Baar | Using Molecular Biology to Maximize Concurrent Training"
 author = ["Cash Weaver"]
 date = 2023-06-23T18:04:00-07:00
-lastmod = 2023-07-25T10:55:25-07:00
+lastmod = 2023-08-02T11:22:58-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "dec127fd-bb24-48de-8d07-52906e357792"
 +++
 
-[Keith Baar]({{< relref "keith_baar_using_molecular_biology_to_maximize_concurrent_training.md" >}}), (<a href="#citeproc_bib_item_1">Baar 2014</a>)
+[Keith Baar]({{< relref "keith_baar.md" >}}), (<a href="#citeproc_bib_item_1">Baar 2014</a>)
 
 
 ## Summary {#summary}
 
-Follow these guidelines to avoid the downsides of [Concurrent training]({{< relref "keith_baar_using_molecular_biology_to_maximize_concurrent_training.md" >}}):
+Follow these guidelines to avoid the downsides of [Concurrent training]({{< relref "concurrent_training.md" >}}):
 
 1.  "Any high-intensity endurance training sessions should be performed early in the day. Then, a period of recovery of at least 3 [hours] should be given [before resistance training]."
 2.  "Resistance exercise should be supported by readily digestible, leucine-rich protein as soon as possible after training [...]"
@@ -24,7 +24,7 @@ Follow these guidelines to avoid the downsides of [Concurrent training]({{< relr
 
 ## Thoughts {#thoughts}
 
-I've integrated this into my [Exercise program]({{< relref "keith_baar_using_molecular_biology_to_maximize_concurrent_training.md" >}}).
+I've integrated this into my [Exercise program]({{< relref "exercise_program.md" >}}).
 
 
 ## Notes {#notes}
@@ -68,4 +68,4 @@ I've integrated this into my [Exercise program]({{< relref "keith_baar_using_mol
 
 ## Backlinks {#backlinks}
 
--   [Exercise program]({{< relref "keith_baar_using_molecular_biology_to_maximize_concurrent_training.md" >}})
+-   [Exercise program]({{< relref "exercise_program.md" >}})

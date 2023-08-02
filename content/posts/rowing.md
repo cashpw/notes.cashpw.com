@@ -2,7 +2,7 @@
 title = "Rowing"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-27T16:23:00-07:00
-lastmod = 2023-07-25T12:26:52-07:00
+lastmod = 2023-08-02T12:17:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,4 +25,4 @@ slug = "a9d3410c-d133-4899-8e3a-7e7a9813ab04"
 
 ## Backlinks {#backlinks}
 
--   [Pete Marston | Beginner Training]({{< relref "rowing.md" >}})
+-   [Pete Marston | Beginner Training]({{< relref "pete_marston_beginner_training.md" >}})

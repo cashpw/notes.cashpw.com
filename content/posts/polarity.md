@@ -2,7 +2,7 @@
 title = "Polarity"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-16T19:29:00-07:00
-lastmod = 2023-07-25T11:27:34-07:00
+lastmod = 2023-08-02T11:58:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,7 +45,7 @@ slug = "621bc458-5d22-462d-89df-e3f8e13d6dc4"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 7   | 214.44   | 2023-07-25T02:25:42Z |
+| back     | 2.35 | 8   | 465.94   | 2024-11-03T01:37:06Z |
 | front    | 2.35 | 8   | 415.16   | 2024-08-01T18:43:52Z |
 
 [Polarity]({{< relref "polarity.md" >}})

@@ -2,7 +2,7 @@
 title = "Zero-sum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T10:48:00-07:00
-lastmod = 2023-07-25T12:44:32-07:00
+lastmod = 2023-08-02T13:08:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -67,6 +67,6 @@ A situation involving two or more sides in which any gain by one side is a loss 
 
 ## Backlinks {#backlinks}
 
--   [Power politics]({{< relref "power_politics.md" >}})
--   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
 -   [Generative adversarial network]({{< relref "generative_adversarial_network.md" >}})
+-   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
+-   [Power politics]({{< relref "power_politics.md" >}})

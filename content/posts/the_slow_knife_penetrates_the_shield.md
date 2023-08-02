@@ -2,7 +2,7 @@
 title = "The slow knife penetrates the shield"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-19T12:14:00-07:00
-lastmod = 2023-07-25T12:34:58-07:00
+lastmod = 2023-08-02T12:48:25-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -22,7 +22,7 @@ slug = "0d00d854-02ca-4b2f-bf1d-8321de9378f8"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 5   | 35.86    | 2023-08-29T00:32:04Z |
-| 1        | 2.65 | 4   | 17.07    | 2023-07-21T21:02:28Z |
+| 1        | 2.50 | 5   | 42.37    | 2023-09-06T23:55:48Z |
 
 The {{slow knife}@0} {{penetrates the shield}@1}.
 

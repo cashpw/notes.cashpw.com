@@ -2,7 +2,7 @@
 title = "Homogeneity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:43:00-08:00
-lastmod = 2023-07-25T10:45:32-07:00
+lastmod = 2023-08-02T11:07:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,7 +37,7 @@ slug = "65f61fff-628e-484a-baf5-785b37f7f28e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.75 | 4   | 10.65    | 2023-07-28T05:29:48Z |
+| back     | 1.60 | 5   | 18.16    | 2023-08-15T19:03:03Z |
 | front    | 2.60 | 11  | 319.12   | 2024-03-18T00:35:37Z |
 
 Degree of homogeneity
@@ -58,7 +58,7 @@ The value of \\(k\\) in \\(f(\alpha\vec{x}, \alpha\vec{y}) = \alpha^kf(\vec{x}, 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.20 | 13  | 261.38   | 2023-10-01T00:26:36Z |
-| front    | 1.60 | 6   | 23.37    | 2023-07-31T09:10:01Z |
+| front    | 1.45 | 7   | 34.53    | 2023-09-04T14:08:31Z |
 
 Homogeneous function
 

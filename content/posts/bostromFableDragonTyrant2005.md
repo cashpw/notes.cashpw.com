@@ -2,7 +2,7 @@
 title = "Nick Bostrom | The Fable of the Dragon Tyrant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-20T20:17:00-07:00
-lastmod = 2023-07-25T08:45:13-07:00
+lastmod = 2023-08-02T10:37:58-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

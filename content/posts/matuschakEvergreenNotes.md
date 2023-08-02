@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Evergreen Notes"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:40:00-08:00
-lastmod = 2023-07-25T11:07:21-07:00
+lastmod = 2023-08-02T11:36:46-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

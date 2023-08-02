@@ -2,7 +2,7 @@
 title = "Asymmetric game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2023-07-25T08:39:05-07:00
+lastmod = 2023-08-02T10:35:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,7 +45,7 @@ A game in which the identities of the players are non-fungible; the players have
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 131.40   | 2023-07-30T01:54:39Z |
+| front    | 2.20 | 8   | 276.47   | 2024-05-03T12:34:44Z |
 | back     | 2.35 | 7   | 201.37   | 2023-12-01T01:17:04Z |
 
 [Asymmetric game]({{< relref "asymmetric_game.md" >}})

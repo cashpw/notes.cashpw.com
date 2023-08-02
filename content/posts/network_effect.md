@@ -2,7 +2,7 @@
 title = "Network effect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:43:00-07:00
-lastmod = 2023-07-25T11:13:54-07:00
+lastmod = 2023-08-02T11:46:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "877f3321-faac-463a-8619-787467251655"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 347.71   | 2024-06-09T08:15:45Z |
-| back     | 2.50 | 2   | 2.00     | 2023-07-26T03:59:20Z |
+| back     | 2.65 | 3   | 6.00     | 2023-08-01T15:07:22Z |
 
 [Network effect]({{< relref "network_effect.md" >}})
 

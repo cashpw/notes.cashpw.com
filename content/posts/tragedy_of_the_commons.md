@@ -2,7 +2,7 @@
 title = "Tragedy of the commons"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T08:05:00-07:00
-lastmod = 2023-07-25T12:37:26-07:00
+lastmod = 2023-08-02T12:54:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -51,7 +51,7 @@ A situation in which individuals who have access to a shared resource, acting in
 
 #### Back {#back}
 
--   Overfishing; see [Fish farming story]({{< relref "alexanderMeditationsMoloch2014.md#id-780bd825-4c89-4eb6-ba02-de09fefc4694-prisoner-s-dilemma" >}})
+-   Overfishing; see [Fish farming story]({{< relref "alexanderMeditationsMoloch2014.md#fish-farming-story" >}})
 -   The Earth's climate; see climate change
 -   Everything; see [Moloch]({{< relref "moloch.md" >}})
 

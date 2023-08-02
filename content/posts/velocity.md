@@ -2,7 +2,7 @@
 title = "Velocity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T15:44:00-08:00
-lastmod = 2023-07-25T12:40:36-07:00
+lastmod = 2023-08-02T13:01:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -67,7 +67,7 @@ See [Derivative (math)]({{< relref "derivative.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 111.70   | 2023-07-26T09:17:03Z |
+| 0        | 2.80 | 7   | 303.17   | 2024-05-24T18:54:00Z |
 | 1        | 2.80 | 6   | 115.76   | 2023-08-30T11:51:58Z |
 
 {{[Velocity]({{< relref "velocity.md" >}}) (\\(v\\))}@0} \\(=\\) {{\\(\lim\_{\Delta t \to 0} \frac{\Delta x}{\Delta t} = \frac{dx}{dt}\\)}@1}

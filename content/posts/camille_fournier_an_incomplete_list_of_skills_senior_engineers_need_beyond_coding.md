@@ -2,7 +2,7 @@
 title = "Camille Fournier | An Incomplete List of Skills Senior Engineers Need, beyond Coding"
 author = ["Cash Weaver"]
 date = 2023-03-20T09:44:00-07:00
-lastmod = 2023-07-25T08:48:25-07:00
+lastmod = 2023-08-02T10:39:30-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -64,5 +64,5 @@ slug = "9f7ed9dc-46f1-4f12-a87e-cd03005c06dd"
 
 ## Backlinks {#backlinks}
 
--   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})

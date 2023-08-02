@@ -2,7 +2,7 @@
 title = "Types of practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:58:00-07:00
-lastmod = 2023-07-25T12:38:57-07:00
+lastmod = 2023-08-02T12:58:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

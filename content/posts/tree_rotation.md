@@ -2,7 +2,7 @@
 title = "Tree rotation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-04T16:11:00-07:00
-lastmod = 2023-07-25T12:38:16-07:00
+lastmod = 2023-08-02T12:56:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

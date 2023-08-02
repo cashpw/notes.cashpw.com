@@ -2,7 +2,7 @@
 title = "l-value"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-20T05:51:00-07:00
-lastmod = 2023-07-25T10:57:27-07:00
+lastmod = 2023-08-02T11:25:16-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -20,7 +20,7 @@ An l-value is an object that occupies some identifiable location in memory (i.e.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 80.92    | 2023-10-08T11:47:16Z |
-| back     | 2.35 | 5   | 31.71    | 2023-07-23T08:50:48Z |
+| back     | 2.50 | 6   | 81.24    | 2023-10-15T20:55:56Z |
 
 [l-value]({{< relref "l_value.md" >}})
 

@@ -2,14 +2,14 @@
 title = "Ian Danskin | I Hate Mondays"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:29:00-07:00
-lastmod = 2023-07-25T10:27:41-07:00
+lastmod = 2023-08-02T10:47:16-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "d15c77d7-fde1-4f65-a68d-59a6a51ed7d1"
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2020</a>)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (NO_ITEM_DATA:danskinHateMondays2020)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -62,7 +62,7 @@ I hate mondays is an embrace of coping strategies and a refusal to address a pro
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2020. “I Hate Mondays.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/614651531972788224/the-alt-right-playbook-returns-triumphantly-with-a">https://innuendostudios.tumblr.com/post/614651531972788224/the-alt-right-playbook-returns-triumphantly-with-a</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:danskinHateMondays2020</div>
 </div>
 
 

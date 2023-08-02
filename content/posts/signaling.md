@@ -2,7 +2,7 @@
 title = "Signaling"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-08T19:02:00-08:00
-lastmod = 2023-07-25T12:28:04-07:00
+lastmod = 2023-08-02T12:25:48-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -17,7 +17,7 @@ slug = "0a3904f5-1484-4c12-8abb-005c707401e1"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 7   | 167.15   | 2023-11-09T18:11:41Z |
-| back     | 2.95 | 6   | 122.34   | 2023-07-29T11:24:03Z |
+| back     | 2.80 | 7   | 308.95   | 2024-06-02T13:44:41Z |
 
 [Signaling]({{< relref "signaling.md" >}})
 

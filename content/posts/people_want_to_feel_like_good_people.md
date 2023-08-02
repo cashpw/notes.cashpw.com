@@ -2,7 +2,7 @@
 title = "People want to feel like good people"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T11:00:00-08:00
-lastmod = 2023-07-25T11:24:30-07:00
+lastmod = 2023-08-02T11:55:21-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

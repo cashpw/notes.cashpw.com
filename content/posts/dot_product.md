@@ -2,7 +2,7 @@
 title = "Dot product"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T11:41:00-07:00
-lastmod = 2023-07-25T10:28:51-07:00
+lastmod = 2023-08-02T10:51:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -116,10 +116,13 @@ It defines:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | 7   | 56       | 2022-11-05T13:00:00Z |
-| 1        | 2.5  | 5   | 42       | 2022-10-11T13:00:00Z |
+| 0        | 2.35 | 3   | 6.00     | 2023-08-06T00:00:44Z |
+| 1        | 2.35 | 6   | 90.53    | 2023-10-28T03:39:04Z |
 
-&theta;<sub>\vec{x}, \vec{y}</sub>$ is the angle between \\(\vec{x}\\) and \\(\vec{y}\\)
+
+#### Extra {#extra}
+
+\\(\theta\_{\vec{x}, \vec{y}}\\) is the angle between \\(\vec{x}\\) and \\(\vec{y}\\)
 
 
 #### Source {#source}
@@ -134,7 +137,7 @@ It defines:
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 8   | 437.12   | 2024-08-28T17:08:28Z |
 | 2        | 2.65 | 7   | 202.21   | 2023-08-20T21:31:45Z |
-| 1        | 2.80 | 7   | 186.51   | 2023-07-21T04:42:20Z |
+| 1        | 2.95 | 8   | 545.96   | 2025-01-23T13:19:53Z |
 
 
 #### Extra {#extra}

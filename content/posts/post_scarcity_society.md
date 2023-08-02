@@ -2,7 +2,7 @@
 title = "Post-scarcity society"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:59:00-07:00
-lastmod = 2023-07-25T11:28:27-07:00
+lastmod = 2023-08-02T11:59:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

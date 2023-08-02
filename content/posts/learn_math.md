@@ -2,7 +2,7 @@
 title = "Learn math"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-12T20:42:00-07:00
-lastmod = 2023-07-25T10:58:29-07:00
+lastmod = 2023-08-02T11:26:31-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

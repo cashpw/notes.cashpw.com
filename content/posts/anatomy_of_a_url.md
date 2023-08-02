@@ -2,7 +2,7 @@
 title = "Anatomy of a URL"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T10:48:00-07:00
-lastmod = 2023-07-25T08:36:54-07:00
+lastmod = 2023-08-02T10:34:34-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

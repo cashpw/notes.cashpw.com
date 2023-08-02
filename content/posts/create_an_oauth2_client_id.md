@@ -2,7 +2,7 @@
 title = "Create an OAuth2 Client ID"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T19:48:00-08:00
-lastmod = 2023-07-25T08:58:29-07:00
+lastmod = 2023-08-02T10:45:29-07:00
 draft = false
 slug = "486b286b-8806-4282-af4e-cfbac4fb0990"
 +++

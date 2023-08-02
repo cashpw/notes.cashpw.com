@@ -2,7 +2,7 @@
 title = "Succinct data structure"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:35:00-07:00
-lastmod = 2023-07-25T12:31:55-07:00
+lastmod = 2023-08-02T12:38:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.75 | 3   | 6.00     | 2023-07-24T13:39:19Z |
-| front    | 1.30 | 4   | 7.93     | 2023-07-25T12:09:47Z |
+| back     | 1.60 | 4   | 9.29     | 2023-08-04T09:59:44Z |
+| front    | 1.30 | 5   | 10.79    | 2023-08-07T09:05:49Z |
 
 [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
 

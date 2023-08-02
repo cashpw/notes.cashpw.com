@@ -2,7 +2,7 @@
 title = "Plans are useless, but planning is indispensable"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T09:28:00-08:00
-lastmod = 2023-07-25T11:26:40-07:00
+lastmod = 2023-08-02T11:57:44-07:00
 tags = ["has-todo", "quote", "has-todo", "quote"]
 categories = ["has-todo", "quote"]
 draft = false

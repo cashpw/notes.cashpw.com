@@ -2,7 +2,7 @@
 title = "Connected relationship"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:11:00-07:00
-lastmod = 2023-07-25T12:31:32-07:00
+lastmod = 2023-08-02T12:37:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,8 +32,8 @@ slug = "644adb16-7921-4499-aaf9-6ff29819ed6d"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.45 | 6   | 22.11    | 2023-07-26T22:05:54Z |
-| back     | 1.30 | 3   | 6.00     | 2023-07-26T15:20:21Z |
+| front    | 1.30 | 7   | 27.67    | 2023-08-24T06:25:26Z |
+| back     | 1.30 | 4   | 7.05     | 2023-08-05T16:10:49Z |
 
 [Connected relationship]({{< relref "strongly_connected.md" >}})
 
@@ -55,7 +55,7 @@ A relation \\(R\\) on a set \\(X\\) is called ... when \\(\forall\\; x,y \in X\\
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 201.17   | 2023-10-26T19:09:47Z |
-| back     | 1.45 | 5   | 16.18    | 2023-07-26T19:52:40Z |
+| back     | 1.30 | 6   | 21.43    | 2023-08-19T01:24:04Z |
 
 [Strongly connected](#strongly-connected)
 

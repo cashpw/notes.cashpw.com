@@ -2,7 +2,7 @@
 title = "NATO phonetic alphabet"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-26T07:41:00-07:00
-lastmod = 2023-07-25T10:49:21-07:00
+lastmod = 2023-08-02T11:13:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -77,7 +77,7 @@ slug = "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 197.16   | 2023-07-28T19:02:32Z |
+| 0        | 2.50 | 8   | 505.36   | 2024-12-15T23:34:33Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) F: {{Foxtrot}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---f-foxtrot-0}
@@ -168,7 +168,7 @@ slug = "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.30 | 10  | 31.77    | 2023-07-26T07:47:30Z |
+| 0        | 1.30 | 11  | 38.03    | 2023-09-02T15:45:37Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) S: {{Sierra}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---s-sierra-0}

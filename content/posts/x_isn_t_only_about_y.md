@@ -2,7 +2,7 @@
 title = "X isn't (only) about Y"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T08:10:00-08:00
-lastmod = 2023-07-25T12:43:17-07:00
+lastmod = 2023-08-02T13:06:50-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -58,8 +58,8 @@ Related: [Proximate cause]({{< relref "proximate_cause.md" >}}) and [Ultimate ca
 -   [Tanner Greer | Tradition Is Smarter Than You Are]({{< relref "tanner_greer_tradition_is_smarter_than_you_are.md" >}})
 -   [Bryan Caplan | The Case against Education: Why the Education System Is a Waste of Time and Money]({{< relref "bryan_douglas_caplan_the_case_against_education_why_the_education_system_is_a_waste_of_time_and_money.md" >}})
 -   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
--   [Signaling]({{< relref "signaling.md" >}})
 -   [Robin Hanson | Politics Isn't about Policy]({{< relref "robin_hanson_politics_isn_t_about_policy.md" >}})
 -   [People want to feel like good people]({{< relref "people_want_to_feel_like_good_people.md" >}})
 -   [Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]({{< relref "kaj_sotala_nobody_does_the_thing_that_they_are_supposedly_doing.md" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
+-   [Signaling]({{< relref "signaling.md" >}})

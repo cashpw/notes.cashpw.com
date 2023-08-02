@@ -2,7 +2,7 @@
 title = "We are not descended from fearful men"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-22T09:25:00-08:00
-lastmod = 2023-07-25T12:41:45-07:00
+lastmod = 2023-08-02T13:03:56-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ slug = "764647e5-a75c-42ee-be97-0b56a1bbd8fc"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 113.03   | 2023-07-27T17:18:39Z |
+| front    | 2.65 | 7   | 321.17   | 2024-06-13T19:13:31Z |
 | back     | 2.80 | 6   | 153.49   | 2023-10-04T09:32:31Z |
 
 [We are not descended from fearful men]({{< relref "we_are_not_descended_from_fearful_men.md" >}})

@@ -2,7 +2,7 @@
 title = "Scott Alexander | Epistemic Learned Helplessness"
 author = ["Cash Weaver"]
 date = 2023-01-10T08:59:00-08:00
-lastmod = 2023-07-25T12:27:24-07:00
+lastmod = 2023-08-02T12:21:30-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -58,7 +58,7 @@ Arguments in domains you're not familiar with can _sound_ convincing even if the
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 308.07   | 2024-05-26T05:29:15Z |
-| back     | 1.90 | 3   | 6.00     | 2023-07-30T04:00:41Z |
+| back     | 1.75 | 4   | 11.08    | 2023-08-11T01:47:58Z |
 
 Epistemic [Learned helplessness]({{< relref "learned_helplessness.md" >}})
 

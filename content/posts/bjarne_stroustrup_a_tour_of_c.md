@@ -2,7 +2,7 @@
 title = "Bjarne Stroustrup | A Tour of C++"
 author = ["Cash Weaver"]
 date = 2023-04-25T11:58:00-07:00
-lastmod = 2023-07-25T08:44:15-07:00
+lastmod = 2023-08-02T10:37:26-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -139,7 +139,7 @@ slug = "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
 
 -  3.4 Function Arguments and Return Values
 
-    [Structured binding]({{< relref "operators_in_c.md" >}})
+    [Structured binding]({{< relref "operators_in_c.md#structured-binding" >}})
 
 <!--list-separator-->
 
@@ -792,7 +792,7 @@ Roughly, "I promise not to change this value".
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 5   | 35.77    | 2023-08-03T11:34:44Z |
-| back     | 2.50 | 2   | 2.00     | 2023-07-21T13:40:01Z |
+| back     | 2.20 | 1   | 1.00     | 2023-08-02T01:28:02Z |
 
 `constexpr` (C++)
 
@@ -811,7 +811,7 @@ Roughly, "To be evaluated at compile time"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 4   | 12.82    | 2023-07-25T08:35:51Z |
+| 0        | 2.35 | 5   | 32.55    | 2023-08-27T16:06:57Z |
 | 1        | 2.20 | 4   | 13.20    | 2023-08-06T08:54:26Z |
 
 {{`consteval` and `constexpr`}@0} denote {{C++'s notion of [Pure functions]({{< relref "pure_functions.md" >}})}{functions}@1}
@@ -919,7 +919,7 @@ py == &y;
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 83.48    | 2023-10-14T15:10:44Z |
-| back     | 2.50 | 4   | 13.91    | 2023-07-25T10:53:46Z |
+| back     | 2.50 | 5   | 32.67    | 2023-08-28T07:09:36Z |
 
 Types composed of fundamental types (e.g. `bool`), the `const` modifier, and declarator operators.
 
@@ -948,7 +948,7 @@ Types composed of fundamental types (e.g. `bool`), the `const` modifier, and dec
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 5   | 31.97    | 2023-08-02T13:40:43Z |
-| back     | 2.05 | 3   | 6.00     | 2023-07-29T03:43:49Z |
+| back     | 2.05 | 4   | 13.31    | 2023-08-13T07:23:16Z |
 
 (C++) Declarations
 
@@ -985,8 +985,8 @@ C++'s built-in types reflect {{the capabilities of conventional computer hardwar
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 36.87    | 2023-07-26T17:13:04Z |
-| back     | 2.50 | 3   | 6.00     | 2023-07-20T00:51:36Z |
+| front    | 2.50 | 6   | 98.43    | 2023-11-03T00:25:06Z |
+| back     | 2.35 | 4   | 13.22    | 2023-08-09T19:36:34Z |
 
 User-defined types
 

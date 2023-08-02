@@ -2,7 +2,7 @@
 title = "Exceed your Level"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:25:00-08:00
-lastmod = 2023-07-25T10:39:28-07:00
+lastmod = 2023-08-02T10:54:16-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

@@ -2,7 +2,7 @@
 title = "You go high, we go low"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:05:00-07:00
-lastmod = 2023-07-25T12:43:34-07:00
+lastmod = 2023-08-02T13:07:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,7 +42,7 @@ A victory-oriented, ends justify the means, [Play to win]({{< relref "play_to_wi
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.45 | 10  | 283.00   | 2023-12-25T14:13:00Z |
-| back     | 2.50 | 2   | 2.00     | 2023-07-26T03:56:35Z |
+| back     | 2.50 | 3   | 6.00     | 2023-08-01T15:10:07Z |
 
 [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})
 

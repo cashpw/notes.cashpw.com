@@ -2,7 +2,7 @@
 title = "Ben Kuhn | Be Impatient"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:36:00-08:00
-lastmod = 2023-07-25T10:56:46-07:00
+lastmod = 2023-08-02T11:24:30-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -85,6 +85,6 @@ The faster you process information, the faster you can incorporate the result in
 
 ## Backlinks {#backlinks}
 
--   [Favorites]({{< relref "favorites.md" >}})
 -   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Blogroll]({{< relref "blogroll.md" >}})
+-   [Favorites]({{< relref "favorites.md" >}})

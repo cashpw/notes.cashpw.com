@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Knowledge Work Should Accrete"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-11T20:02:00-08:00
-lastmod = 2023-07-25T08:30:54-07:00
+lastmod = 2023-08-02T10:33:07-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Mathematical programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:52:00-07:00
-lastmod = 2023-07-25T11:06:29-07:00
+lastmod = 2023-08-02T11:35:40-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

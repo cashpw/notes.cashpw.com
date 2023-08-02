@@ -2,14 +2,14 @@
 title = "John Maynard Keynes | Essays in Persuasion"
 author = ["Cash Weaver"]
 date = 2023-06-28T15:36:00-07:00
-lastmod = 2023-07-25T10:52:45-07:00
+lastmod = 2023-08-02T11:18:50-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
 slug = "5098c183-28fd-4392-b9c0-a95a7cb6050d"
 +++
 
-[John Maynard Keynes]({{< relref "john_maynard_keynes_essays_in_persuasion.md" >}}), (<a href="#citeproc_bib_item_1">Keynes 2010</a>)
+[John Maynard Keynes]({{< relref "john_maynard_keynes.md" >}}), (<a href="#citeproc_bib_item_1">Keynes 2010</a>)
 
 
 ## Summary {#summary}
@@ -20,7 +20,7 @@ slug = "5098c183-28fd-4392-b9c0-a95a7cb6050d"
 
 ## Notes {#notes}
 
--   [He does not love his cat, but his cat's kittens]({{< relref "john_maynard_keynes_essays_in_persuasion.md" >}})
+-   [He does not love his cat, but his cat's kittens]({{< relref "he_does_not_love_his_cat_but_his_cat_s_kittnes.md" >}})
 
 > Of course there will still be many people with intense, unsatisfied purposiveness who will blindly pursue wealth-unless they can find some plausible substitute. But the rest of us will no longer be under any obligation to applaud and encourage them. For we shall inquire more curiously than is safe to-day into the true character of this "purposiveness" with which in varying degrees Nature has endowed almost all of us. For purposiveness means that we are more concerned with the remote future results of our actions than with their own quality or their immediate effects on our own environment. The "purposive" man is always trying to secure a spurious and delusive immortality for his acts by pushing his interest in them forward into time. He does not love his cat, but his cat's kittens; nor, in truth, the kittens, but only the kittens' kittens, and so on forward forever to the end of cat-dom. For him jam is not jam unless it is a case of jam to-morrow and never jam to-day. Thus by pushing his jam always forward into the future, he strives to secure for his act of boiling it an immortality.
 >

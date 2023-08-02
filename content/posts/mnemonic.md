@@ -2,7 +2,7 @@
 title = "Mnemonic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-04T17:38:00-07:00
-lastmod = 2023-07-25T11:10:59-07:00
+lastmod = 2023-08-02T11:41:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,6 +49,6 @@ A learning technique which aids information retention or retrieval. They're comm
 
 ## Backlinks {#backlinks}
 
--   [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
 -   [Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md#memory-in-educational-settings" >}})
 -   [Socratic questioning]({{< relref "socratic_questioning.md" >}})
+-   [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})

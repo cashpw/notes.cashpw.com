@@ -2,7 +2,7 @@
 title = "Anna Salamon"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:49:00-08:00
-lastmod = 2023-07-25T08:37:26-07:00
+lastmod = 2023-08-02T10:34:44-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -22,3 +22,4 @@ Among other things:
 
 -   [Anna Salamon | Learned Blankness]({{< relref "annasalamonLearnedBlankness2011.md" >}})
 -   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
+-   [Anna Salamon | The Correct Response to Uncertainty Is **not** Half-Speed]({{< relref "anna_salamon_the_correct_response_to_uncertainty_is_not_half_speed.md" >}})

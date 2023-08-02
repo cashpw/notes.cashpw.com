@@ -2,7 +2,7 @@
 title = "The purpose of a system is what it does"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T05:29:00-08:00
-lastmod = 2023-07-25T12:34:48-07:00
+lastmod = 2023-08-02T12:47:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

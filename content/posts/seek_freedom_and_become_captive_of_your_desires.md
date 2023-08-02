@@ -2,7 +2,7 @@
 title = "Seek freedom and become captive of your desires"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:41:00-08:00
-lastmod = 2023-07-25T12:27:35-07:00
+lastmod = 2023-08-02T12:22:48-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

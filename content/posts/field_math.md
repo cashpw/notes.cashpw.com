@@ -2,7 +2,7 @@
 title = "Field (math)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:48:00-08:00
-lastmod = 2023-07-25T10:40:28-07:00
+lastmod = 2023-08-02T10:56:31-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

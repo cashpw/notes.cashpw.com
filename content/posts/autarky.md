@@ -2,7 +2,7 @@
 title = "Autarky"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T13:43:00-07:00
-lastmod = 2023-07-25T08:39:44-07:00
+lastmod = 2023-08-02T10:35:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

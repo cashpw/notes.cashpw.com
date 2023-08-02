@@ -2,7 +2,7 @@
 title = "Disjunctive normal form"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-22T09:28:00-07:00
-lastmod = 2023-07-25T10:28:36-07:00
+lastmod = 2023-08-02T10:50:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,9 +21,10 @@ slug = "ed008224-2505-48a1-a322-7a410fbf7168"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 5   | 30.64    | 2023-07-26T09:11:44Z |
+| 0        | 1.90 | 3   | 6.00     | 2023-08-05T23:59:00Z |
+| 1        | 2.5  | -1  | 0        | 2023-08-02T15:10:30Z |
 
-One can also describe [Disjunctive normal form]({{< relref "disjunctive_normal_form.md" >}}) as {{an OR of ANDs}@0}.
+One can also describe {{[Disjunctive normal form]({{< relref "disjunctive_normal_form.md" >}})}@1} as {{an OR of ANDs}@0}.
 
 
 #### Source {#source}

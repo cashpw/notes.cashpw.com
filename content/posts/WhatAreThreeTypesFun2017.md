@@ -2,7 +2,7 @@
 title = "Tim Peck | What Are the Three Types of Fun?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:09:00-08:00
-lastmod = 2023-07-25T08:31:37-07:00
+lastmod = 2023-08-02T10:33:17-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

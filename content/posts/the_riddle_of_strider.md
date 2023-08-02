@@ -2,7 +2,7 @@
 title = "The Riddle of Strider"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T11:22:00-07:00
-lastmod = 2023-07-25T12:34:51-07:00
+lastmod = 2023-08-02T12:47:56-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -33,7 +33,7 @@ The crownless again shall be king.<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.60 | 6   | 20.79    | 2023-07-24T20:34:11Z |
+| 0        | 1.45 | 7   | 30.68    | 2023-08-25T19:19:56Z |
 | 1        | 2.65 | 7   | 305.21   | 2024-04-07T20:03:50Z |
 | 2        | 2.65 | 6   | 91.47    | 2023-08-06T05:03:01Z |
 | 3        | 2.95 | 7   | 302.44   | 2024-05-08T02:17:07Z |

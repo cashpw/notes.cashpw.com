@@ -2,7 +2,7 @@
 title = "SMART criteria"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:59:00-08:00
-lastmod = 2023-07-25T08:31:18-07:00
+lastmod = 2023-08-02T10:33:12-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

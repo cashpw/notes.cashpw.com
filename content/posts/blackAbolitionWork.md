@@ -2,7 +2,7 @@
 title = "Bob Black | The Abolition of Work"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:25:00-07:00
-lastmod = 2023-07-25T08:44:22-07:00
+lastmod = 2023-08-02T10:37:31-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

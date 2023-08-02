@@ -2,7 +2,7 @@
 title = "Metagame"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:05:00-08:00
-lastmod = 2023-07-25T12:34:36-07:00
+lastmod = 2023-08-02T12:46:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,5 +58,5 @@ slug = "462b9154-2519-45e9-a4f5-35e7c32128c7"
 -   [Ezra Klein | Why We Can't Build]({{< relref "ezra_klein_why_we_can_t_build.md" >}})
 -   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Technologist]({{< relref "technologist.md" >}})
--   [Object level]({{< relref "object_level.md" >}})
 -   [Min-maxing]({{< relref "min_maxing.md" >}})
+-   [Object level]({{< relref "object_level.md" >}})

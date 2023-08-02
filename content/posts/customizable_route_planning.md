@@ -2,7 +2,7 @@
 title = "Customizable route planning"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-23T08:39:00-07:00
-lastmod = 2023-07-25T10:27:24-07:00
+lastmod = 2023-08-02T10:46:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -133,7 +133,7 @@ Partitions the graph into [Connected components]({{< relref "component_graph_the
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 1   | 1.00     | 2023-07-25T04:06:38Z |
+| front    | 2.20 | 3   | 6.00     | 2023-08-07T14:58:30Z |
 | back     | 2.5  | -1  | 0        | 2023-06-26T14:33:08Z |
 
 Metric customization
@@ -154,7 +154,7 @@ Metric customization
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-07-21T15:27:50Z |
+| front    | 2.50 | 3   | 6.00     | 2023-08-07T01:19:46Z |
 | back     | 2.5  | -1  | 0        | 2023-06-27T22:05:00Z |
 
 Query
@@ -175,7 +175,7 @@ Query
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-07-07T04:04:13Z |
+| front    | 2.35 | 3   | 6.00     | 2023-08-05T23:50:37Z |
 
 Why does [Customizable route planning]({{< relref "customizable_route_planning.md" >}}) handle changing edge weights (due to traffic, etc) better than [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})?
 
@@ -195,7 +195,7 @@ Why does [Customizable route planning]({{< relref "customizable_route_planning.m
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-07-22T13:58:22Z |
+| front    | 2.50 | 4   | 13.57    | 2023-08-13T13:16:52Z |
 | back     | 2.5  | -1  | 0        | 2023-06-27T23:16:26Z |
 
 Nested partitions
@@ -239,7 +239,7 @@ A technique for reducing query latency by building a hierarchical view of the gr
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 3   | 6.00     | 2023-07-25T13:39:54Z |
+| 0        | 2.50 | 4   | 14.08    | 2023-08-09T16:46:14Z |
 | 1        | 2.5  | -1  | 0        | 2023-07-10T01:06:24Z |
 
 A query performs a {{bi-directional [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})}@0} on {{the union of \\(H\\), \\(C\_s\\), and \\(C\_t\\)}@1}.
@@ -254,7 +254,7 @@ A query performs a {{bi-directional [Dijkstra's algorithm]({{< relref "dijkstra_
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2023-07-20T15:27:34Z |
+| front    | 2.50 | 1   | 1.00     | 2023-08-02T15:05:34Z |
 | back     | 2.5  | -1  | 0        | 2023-07-27T15:27:34Z |
 
 \\(C\_s\\) and \\(C\_t\\)
@@ -274,7 +274,7 @@ A query performs a {{bi-directional [Dijkstra's algorithm]({{< relref "dijkstra_
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2023-07-20T15:28:59Z |
+| front    | 2.50 | 1   | 1.00     | 2023-07-27T02:55:06Z |
 | back     | 2.5  | -1  | 0        | 2023-07-27T15:28:59Z |
 
 \\(H\\)

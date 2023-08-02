@@ -2,7 +2,7 @@
 title = "Robin Hanson"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T09:05:00-07:00
-lastmod = 2023-07-25T12:26:46-07:00
+lastmod = 2023-08-02T12:16:49-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

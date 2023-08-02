@@ -2,7 +2,7 @@
 title = "Leverage point"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T10:07:00-08:00
-lastmod = 2023-07-25T11:00:31-07:00
+lastmod = 2023-08-02T11:28:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,7 +42,7 @@ Places within complex systems where a small shift in one thing can produce big c
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 252.91   | 2024-03-09T23:25:42Z |
-| back     | 2.65 | 6   | 112.08   | 2023-07-24T17:08:06Z |
+| back     | 2.65 | 7   | 307.99   | 2024-05-29T14:54:20Z |
 
 [Leverage point]({{< relref "leverage_point.md" >}})
 
@@ -61,3 +61,8 @@ Places within complex systems where a small shift in one thing can produce big c
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Meadows, Donella H. n.d. “Leverage Points: Places to Intervene in a System.” <i>The Academy for Systems Change</i>. Accessed January 13, 2023. <a href="https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/">https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [No half measures]({{< relref "no_half_measures.md" >}})

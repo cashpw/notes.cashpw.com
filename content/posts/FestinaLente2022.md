@@ -2,7 +2,7 @@
 title = "Festina lente"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:50:00-08:00
-lastmod = 2023-07-25T08:30:39-07:00
+lastmod = 2023-08-02T10:33:04-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -23,8 +23,8 @@ slug = "ff009594-d69f-4d33-b0c2-65ed62eaf0b2"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 3.10 | 6   | 168.52   | 2023-07-31T05:58:34Z |
-| 1        | 2.20 | 7   | 114.84   | 2023-07-26T13:16:47Z |
+| 0        | 3.25 | 7   | 585.35   | 2025-03-08T09:52:34Z |
+| 1        | 2.20 | 8   | 277.04   | 2024-04-28T16:01:35Z |
 
 
 #### Source {#source}

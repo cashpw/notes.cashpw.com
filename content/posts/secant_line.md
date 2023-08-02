@@ -2,7 +2,7 @@
 title = "Secant line"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T16:23:00-08:00
-lastmod = 2023-07-25T12:27:31-07:00
+lastmod = 2023-08-02T12:22:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,7 +27,7 @@ slug = "a1a0a03b-2d39-4119-bbec-e32ed8e6852e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 109.55   | 2023-07-25T11:49:07Z |
+| front    | 2.65 | 3   | 6.00     | 2023-08-06T00:00:10Z |
 | back     | 2.80 | 6   | 127.35   | 2023-09-15T00:28:15Z |
 
 [Secant line]({{< relref "secant_line.md" >}})

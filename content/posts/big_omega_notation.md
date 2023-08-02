@@ -2,7 +2,7 @@
 title = "Big-Omega notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:08:00-07:00
-lastmod = 2023-07-25T08:42:24-07:00
+lastmod = 2023-08-02T10:36:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ Big Omega notation, written as \\(\bigomega{g(n)}\\), indicates an worst-case as
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.30 | 2   | 2.00     | 2023-07-26T03:52:18Z |
+| back     | 1.30 | 3   | 6.00     | 2023-08-01T15:08:52Z |
 | front    | 2.50 | 8   | 532.84   | 2024-12-29T10:19:29Z |
 
 [Big Omega notation]({{< relref "big_omega_notation.md" >}})

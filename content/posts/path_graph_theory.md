@@ -2,7 +2,7 @@
 title = "Path (graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T11:58:00-08:00
-lastmod = 2023-07-25T11:23:10-07:00
+lastmod = 2023-08-02T11:54:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "0a8c2a35-590e-4f8b-9d98-40a44e15dfb7"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 5   | 10.49    | 2023-07-31T03:11:05Z |
+| front    | 1.30 | 6   | 13.38    | 2023-08-14T10:32:39Z |
 | back     | 2.80 | 7   | 298.52   | 2024-05-07T13:32:48Z |
 
 [Path (graph theory)]({{< relref "path_graph_theory.md" >}})

@@ -2,7 +2,7 @@
 title = "Focusing techniques"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T07:08:00-08:00
-lastmod = 2023-07-25T10:41:08-07:00
+lastmod = 2023-08-02T10:57:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

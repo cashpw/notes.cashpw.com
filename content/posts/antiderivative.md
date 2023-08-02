@@ -2,7 +2,7 @@
 title = "Antiderivative"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T06:39:00-08:00
-lastmod = 2023-07-25T08:37:49-07:00
+lastmod = 2023-08-02T10:34:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -88,7 +88,7 @@ A differentiable function whose derivative is equal to a particular function.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.20 | 6   | 63.32    | 2023-09-05T09:17:09Z |
-| 1        | 2.35 | 6   | 80.78    | 2023-07-29T11:31:18Z |
+| 1        | 2.05 | 2   | 2.00     | 2023-08-02T00:00:57Z |
 
 {{\\(F(b) - F(a)\\)}@0} \\(=\\) {{\\(\int\_a^b f(x)dx\\), where \\(x\\) is in \\([a,b]\\)}{terms of x}@1}
 
@@ -108,6 +108,6 @@ A differentiable function whose derivative is equal to a particular function.
 ## Backlinks {#backlinks}
 
 -   [Constant of integration]({{< relref "constant_of_integration.md" >}})
+-   [Integral calculus]({{< relref "integral.md" >}})
 -   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
 -   [Derivative (math)]({{< relref "derivative.md" >}})
--   [Integral calculus]({{< relref "integral.md" >}})

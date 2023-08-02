@@ -2,7 +2,7 @@
 title = "Ilya Grigorik | High-Performance Browser Networking"
 author = ["Cash Weaver"]
 date = 2023-03-17T08:23:00-07:00
-lastmod = 2023-07-25T10:47:28-07:00
+lastmod = 2023-08-02T11:10:49-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

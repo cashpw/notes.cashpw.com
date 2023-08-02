@@ -2,7 +2,7 @@
 title = "Per aspera ad astra"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:05:00-07:00
-lastmod = 2023-07-25T11:24:37-07:00
+lastmod = 2023-08-02T11:55:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "668f5429-a1b1-46f3-8df7-758e63cc04b6"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | 6   | 33       | 2022-10-13T13:00:00Z |
-| 1        | 2.5  | 8   | 27       | 2022-10-08T13:00:00Z |
+| 0        | 2.05 | 3   | 6.00     | 2023-08-05T23:51:27Z |
+| 1        | 2.35 | 9   | 61.93    | 2023-09-27T12:30:48Z |
 
 
 #### Source {#source}

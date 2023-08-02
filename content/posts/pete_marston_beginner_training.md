@@ -2,19 +2,19 @@
 title = "Pete Marston | Beginner Training"
 author = ["Cash Weaver"]
 date = 2023-06-27T16:25:00-07:00
-lastmod = 2023-07-25T11:26:19-07:00
+lastmod = 2023-08-02T11:57:19-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "1ee95d06-e879-4f99-915f-3ec9a75ae412"
 +++
 
-[Pete Marston]({{< relref "pete_marston_beginner_training.md" >}}), (<a href="#citeproc_bib_item_1">Marston 2008</a>)
+[Pete Marston]({{< relref "pete_marston.md" >}}), (<a href="#citeproc_bib_item_1">Marston 2008</a>)
 
 
 ## Summary {#summary}
 
-A [Rowing]({{< relref "pete_marston_beginner_training.md" >}}) training routine for beginners.
+A [Rowing]({{< relref "rowing.md" >}}) training routine for beginners.
 
 
 ## Thoughts {#thoughts}
@@ -536,4 +536,4 @@ A [Rowing]({{< relref "pete_marston_beginner_training.md" >}}) training routine 
 
 ## Backlinks {#backlinks}
 
--   [Exercise program]({{< relref "pete_marston_beginner_training.md" >}})
+-   [Exercise program]({{< relref "exercise_program.md" >}})

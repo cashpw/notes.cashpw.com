@@ -2,7 +2,7 @@
 title = "Silvanus Thompson | Calculus Made Easy"
 author = ["Cash Weaver"]
 date = 2023-01-18T06:55:00-08:00
-lastmod = 2023-07-25T12:28:12-07:00
+lastmod = 2023-08-02T12:26:14-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -621,7 +621,7 @@ To {{[Differentiate]({{< relref "differential_calculus.md" >}})}@0} is to find t
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 5   | 11.63    | 2023-07-28T05:13:24Z |
+| front    | 1.30 | 6   | 14.64    | 2023-08-12T06:36:58Z |
 
 How to find the first derivative of \\(y = z \times w\\) with respect to \\(x\\) where \\(z,w\\) are expressions in terms of \\(x\\)
 

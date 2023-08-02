@@ -2,7 +2,7 @@
 title = "Leibniz's notation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:41:00-08:00
-lastmod = 2023-07-25T10:59:36-07:00
+lastmod = 2023-08-02T11:27:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -108,5 +108,5 @@ The \\(n\text{-th}\\) [Derivative (math)]({{< relref "derivative.md" >}}) of \\(
 ## Backlinks {#backlinks}
 
 -   [Chain rule]({{< relref "chain_rule.md" >}})
--   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
 -   [Product rule]({{< relref "product_rule.md" >}})
+-   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})

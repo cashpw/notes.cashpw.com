@@ -2,7 +2,7 @@
 title = "Integral calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:49:00-08:00
-lastmod = 2023-07-25T10:49:11-07:00
+lastmod = 2023-08-02T11:13:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -47,7 +47,7 @@ Integral
 
 ## Backlinks {#backlinks}
 
--   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
 -   [Power rule]({{< relref "power_rule.md" >}})
--   [Derivative (math)]({{< relref "derivative.md" >}})
 -   [Calculus]({{< relref "calculus.md" >}})
+-   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
+-   [Derivative (math)]({{< relref "derivative.md" >}})

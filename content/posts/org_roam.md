@@ -2,7 +2,7 @@
 title = "org-roam"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T07:22:00-08:00
-lastmod = 2023-07-25T11:22:03-07:00
+lastmod = 2023-08-02T11:52:41-07:00
 draft = false
 slug = "1497025f-da3e-4bed-be19-f8f9c9a0e351"
 +++
@@ -28,7 +28,7 @@ I use `org-roam` for:
 
 ## Backlinks {#backlinks}
 
--   [Favorites]({{< relref "favorites.md" >}})
 -   [Style Guide]({{< relref "style_guide.md" >}})
 -   [Zettelkasten]({{< relref "Zettelkasten2021.md" >}})
 -   [How I write notes]({{< relref "how_i_write_notes.md" >}})
+-   [Favorites]({{< relref "favorites.md" >}})

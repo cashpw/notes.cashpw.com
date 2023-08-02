@@ -2,7 +2,7 @@
 title = "Python library: queue"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-08T08:51:00-08:00
-lastmod = 2023-07-25T11:34:20-07:00
+lastmod = 2023-08-02T12:06:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "At least two of the same"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-02T12:00:00-08:00
-lastmod = 2023-07-25T08:39:20-07:00
+lastmod = 2023-08-02T10:35:19-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

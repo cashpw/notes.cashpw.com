@@ -2,7 +2,7 @@
 title = "Spanning tree"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:21:00-08:00
-lastmod = 2023-07-25T12:29:30-07:00
+lastmod = 2023-08-02T12:32:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

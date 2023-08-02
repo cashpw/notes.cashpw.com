@@ -2,7 +2,7 @@
 title = "Ultimatum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:51:00-07:00
-lastmod = 2023-07-25T12:39:07-07:00
+lastmod = 2023-08-02T12:58:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

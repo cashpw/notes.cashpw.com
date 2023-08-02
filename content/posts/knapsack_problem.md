@@ -2,7 +2,7 @@
 title = "Knapsack problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T09:25:00-08:00
-lastmod = 2023-07-25T10:56:18-07:00
+lastmod = 2023-08-02T11:24:03-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -62,7 +62,7 @@ slug = "24b10601-c88f-46fc-bbf9-3f7687c2d2ba"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 6   | 151.49   | 2023-10-08T04:21:44Z |
-| back     | 2.35 | 6   | 77.01    | 2023-07-26T16:12:49Z |
+| back     | 2.20 | 7   | 179.70   | 2024-01-23T07:07:14Z |
 
 [Knapsack problem]({{< relref "knapsack_problem.md" >}})
 

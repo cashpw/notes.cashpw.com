@@ -2,7 +2,7 @@
 title = "Alt-right Playbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T16:33:00-07:00
-lastmod = 2023-07-25T08:36:33-07:00
+lastmod = 2023-08-02T10:34:28-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -34,10 +34,8 @@ While [Danskin]({{< relref "ian_danskin.md" >}}) hasn't formally proposed soluti
 -   [Death of a euphamism]({{< relref "the_death_of_a_euphamism.md" >}})
 -   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
 -   [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow2018.md" >}})
--   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
 -   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})
 -   [Why is it always the libs?]({{< relref "why_is_it_always_the_libs.md" >}})
--   [Control the conversation]({{< relref "control_the_conversation.md" >}})
 -   [Ship of Theseus (argument)]({{< relref "ship_of_theseus.md" >}})
 -   [Never play defense]({{< relref "never_play_defense.md" >}})
 -   [I hate mondays]({{< relref "i_hate_mondays.md" >}})
@@ -45,3 +43,5 @@ While [Danskin]({{< relref "ian_danskin.md" >}}) hasn't formally proposed soluti
 -   [Ian Danskin | The Death of a Euphemism]({{< relref "danskinDeathEuphemism2018.md" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
 -   [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})
+-   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
+-   [Control the conversation]({{< relref "control_the_conversation.md" >}})

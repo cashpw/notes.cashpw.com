@@ -2,7 +2,7 @@
 title = "He does not love his cat, but his cat's kittens"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-28T15:26:00-07:00
-lastmod = 2023-07-25T10:44:27-07:00
+lastmod = 2023-08-02T11:05:01-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ slug = "802975de-8d22-45a7-a0fb-8751ebbce738"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 14.66    | 2023-07-25T07:29:28Z |
+| 0        | 2.50 | 5   | 38.34    | 2023-09-02T23:25:10Z |
 
 {{The "purposive" man is always trying to secure a spurious and delusive immortality for his acts by pushing his interest in them forward into time. He does not love his cat, but his cat's kittens; nor, in truth, the kittens, but only the kittens' kittens, and so on forward forever to the end of cat-dom.}{purposive man}@0}
 
@@ -39,5 +39,5 @@ slug = "802975de-8d22-45a7-a0fb-8751ebbce738"
 
 ## Backlinks {#backlinks}
 
--   [Longtermism]({{< relref "he_does_not_love_his_cat_but_his_cat_s_kittnes.md" >}})
--   [John Maynard Keynes | Essays in Persuasion]({{< relref "he_does_not_love_his_cat_but_his_cat_s_kittnes.md" >}})
+-   [Longtermism]({{< relref "longtermism.md" >}})
+-   [John Maynard Keynes | Essays in Persuasion]({{< relref "john_maynard_keynes_essays_in_persuasion.md" >}})

@@ -2,7 +2,7 @@
 title = "Functional programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:50:00-07:00
-lastmod = 2023-07-25T10:41:44-07:00
+lastmod = 2023-08-02T10:58:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -77,7 +77,7 @@ A [Programming paradigm]({{< relref "programming_paradigm.md" >}}) which models 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 6   | 87.91    | 2023-10-13T11:44:28Z |
-| 1        | 2.35 | 5   | 34.43    | 2023-07-25T01:22:42Z |
+| 1        | 2.20 | 6   | 68.21    | 2023-10-02T20:15:58Z |
 
 The fundamental operation in {{[Functional programming]({{< relref "functional_programming.md" >}})}@0} is {{a reduction}@1}.
 
@@ -97,5 +97,5 @@ The fundamental operation in {{[Functional programming]({{< relref "functional_p
 
 ## Backlinks {#backlinks}
 
--   [Declarative programming]({{< relref "declarative_programming.md" >}})
 -   [Programming paradigm]({{< relref "programming_paradigm.md" >}})
+-   [Declarative programming]({{< relref "declarative_programming.md" >}})

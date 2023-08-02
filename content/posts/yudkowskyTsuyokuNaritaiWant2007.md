@@ -2,7 +2,7 @@
 title = "Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:06:00-08:00
-lastmod = 2023-07-25T12:43:46-07:00
+lastmod = 2023-08-02T13:07:55-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

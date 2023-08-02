@@ -2,7 +2,7 @@
 title = "Richard Feynman"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-13T06:40:00-07:00
-lastmod = 2023-07-25T12:26:40-07:00
+lastmod = 2023-08-02T12:15:47-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

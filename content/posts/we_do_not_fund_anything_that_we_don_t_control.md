@@ -2,7 +2,7 @@
 title = "We do not fund anything that we don't control"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-08T18:09:00-07:00
-lastmod = 2023-07-25T12:41:49-07:00
+lastmod = 2023-08-02T13:04:05-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

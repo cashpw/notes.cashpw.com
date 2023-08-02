@@ -2,7 +2,7 @@
 title = "Bisque (Ceramics)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:59:00-07:00
-lastmod = 2023-07-25T08:43:47-07:00
+lastmod = 2023-08-02T10:37:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

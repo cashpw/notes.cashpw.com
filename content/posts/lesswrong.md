@@ -2,7 +2,7 @@
 title = "LessWrong"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:38:00-08:00
-lastmod = 2023-07-25T11:00:04-07:00
+lastmod = 2023-08-02T11:28:16-07:00
 draft = false
 slug = "820021b3-7576-4516-9fe2-51cbfe263ebe"
 +++

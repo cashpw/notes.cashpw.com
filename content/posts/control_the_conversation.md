@@ -2,7 +2,7 @@
 title = "Control the conversation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:08:00-07:00
-lastmod = 2023-07-25T08:57:17-07:00
+lastmod = 2023-08-02T10:44:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -62,7 +62,7 @@ Treat your opponent as if they've already agreed to your position and make the n
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 5   | 19.38    | 2023-07-30T00:43:31Z |
+| front    | 1.90 | 6   | 38.08    | 2023-09-08T03:18:03Z |
 | back     | 2.30 | 10  | 159.29   | 2023-08-02T10:56:46Z |
 
 [Control the conversation]({{< relref "control_the_conversation.md" >}})
@@ -84,7 +84,7 @@ Treat your opponent as if they've already agreed to your position and make the n
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 327.42   | 2024-04-28T00:40:05Z |
-| back     | 2.65 | 6   | 134.91   | 2023-07-30T12:03:21Z |
+| back     | 2.65 | 7   | 327.31   | 2024-06-22T07:26:18Z |
 
 [Control the conversation]({{< relref "control_the_conversation.md" >}})
 

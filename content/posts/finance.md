@@ -2,7 +2,7 @@
 title = "Finance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T14:46:00-08:00
-lastmod = 2023-07-25T10:40:31-07:00
+lastmod = 2023-08-02T10:56:36-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -50,7 +50,7 @@ An investment plan wherein money is paid to a person by some entity, usually the
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.65 | 10  | 380.47   | 2024-03-25T16:35:33Z |
-| front    | 2.65 | 8   | 238.40   | 2023-07-26T03:48:33Z |
+| front    | 2.50 | 9   | 604.96   | 2025-03-22T14:06:48Z |
 
 Defined contribution plan
 

@@ -2,7 +2,7 @@
 title = "Toupee fallacy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T14:33:00-08:00
-lastmod = 2023-07-25T12:37:19-07:00
+lastmod = 2023-08-02T12:54:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

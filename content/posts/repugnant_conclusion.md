@@ -2,7 +2,7 @@
 title = "Repugnant conclusion"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T10:38:00-08:00
-lastmod = 2023-07-25T12:26:35-07:00
+lastmod = 2023-08-02T12:15:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

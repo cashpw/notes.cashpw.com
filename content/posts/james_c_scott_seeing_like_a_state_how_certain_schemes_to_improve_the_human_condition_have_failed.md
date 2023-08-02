@@ -2,7 +2,7 @@
 title = "James C. Scott | Seeing like a State"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:24:00-08:00
-lastmod = 2023-07-25T10:50:59-07:00
+lastmod = 2023-08-02T11:16:21-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

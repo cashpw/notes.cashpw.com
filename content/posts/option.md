@@ -2,7 +2,7 @@
 title = "Option (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:29:00-08:00
-lastmod = 2023-07-25T11:21:22-07:00
+lastmod = 2023-08-02T11:51:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -89,9 +89,9 @@ slug = "1263eb22-a819-43e6-9ab4-d45f790b095f"
 
 ## Backlinks {#backlinks}
 
--   [Delta (finance)]({{< relref "delta.md" >}})
 -   [Vega (finance)]({{< relref "vega_finance.md" >}})
--   [Option time value]({{< relref "time_value_finance.md" >}})
 -   [Intrinsic value (finance)]({{< relref "intrinsic_value.md" >}})
 -   [Strike price]({{< relref "strike_price.md" >}})
 -   [Gamma (finance)]({{< relref "gamma.md" >}})
+-   [Option time value]({{< relref "time_value_finance.md" >}})
+-   [Delta (finance)]({{< relref "delta.md" >}})

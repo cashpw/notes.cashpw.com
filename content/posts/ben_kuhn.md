@@ -2,7 +2,7 @@
 title = "Ben Kuhn"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:31:00-08:00
-lastmod = 2023-07-25T08:41:29-07:00
+lastmod = 2023-08-02T10:36:10-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

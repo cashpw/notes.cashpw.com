@@ -2,7 +2,7 @@
 title = "The challenge is to improve yourself"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T10:37:00-07:00
-lastmod = 2023-07-25T12:33:59-07:00
+lastmod = 2023-08-02T12:45:40-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

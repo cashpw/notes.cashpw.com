@@ -2,7 +2,7 @@
 title = "Charles van Doren"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:14:00-08:00
-lastmod = 2023-07-25T08:51:32-07:00
+lastmod = 2023-08-02T10:41:15-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

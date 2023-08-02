@@ -2,7 +2,7 @@
 title = "Pete Marston"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-27T16:22:00-07:00
-lastmod = 2023-07-25T11:26:11-07:00
+lastmod = 2023-08-02T11:57:07-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -14,4 +14,4 @@ slug = "72a651cb-0c8b-4b2f-b625-6878032f151f"
 
 ## Backlinks {#backlinks}
 
--   [Pete Marston | Beginner Training]({{< relref "pete_marston.md" >}})
+-   [Pete Marston | Beginner Training]({{< relref "pete_marston_beginner_training.md" >}})

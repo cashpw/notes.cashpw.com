@@ -2,7 +2,7 @@
 title = "Sigmoid function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-14T10:34:00-08:00
-lastmod = 2023-07-25T12:28:01-07:00
+lastmod = 2023-08-02T12:25:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Power law"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:26:00-08:00
-lastmod = 2023-07-25T11:28:48-07:00
+lastmod = 2023-08-02T12:00:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Nonviolent communication"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-05T17:13:00-08:00
-lastmod = 2023-07-25T11:18:58-07:00
+lastmod = 2023-08-02T11:49:12-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

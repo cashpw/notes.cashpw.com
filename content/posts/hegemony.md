@@ -2,7 +2,7 @@
 title = "Hegemony"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:22:00-07:00
-lastmod = 2023-07-25T10:45:02-07:00
+lastmod = 2023-08-02T11:06:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,5 +45,5 @@ The political, economic, and military predominance of one state over other state
 
 ## Backlinks {#backlinks}
 
--   [Unipolarity]({{< relref "polarity.md#unipolarity" >}})
 -   [Cultural hegemony]({{< relref "cultural_hegemony.md" >}})
+-   [Unipolarity]({{< relref "polarity.md#unipolarity" >}})

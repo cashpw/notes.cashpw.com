@@ -2,7 +2,7 @@
 title = "Presupposition"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T16:11:00-07:00
-lastmod = 2023-07-25T11:29:31-07:00
+lastmod = 2023-08-02T12:01:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,7 +26,7 @@ slug = "e5db0b54-03b5-417a-a4c8-93001958c410"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.05 | 7   | 128.12   | 2023-07-28T16:46:31Z |
+| back     | 2.05 | 8   | 268.68   | 2024-04-23T07:18:25Z |
 | front    | 2.50 | 7   | 301.03   | 2024-03-20T21:08:17Z |
 
 An implicit assumption relating to a statement/question/etc whose truth is taken for granted in discourse.

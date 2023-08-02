@@ -2,7 +2,7 @@
 title = "Vladimir Harkonnen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T10:45:00-08:00
-lastmod = 2023-07-25T12:41:12-07:00
+lastmod = 2023-08-02T13:02:24-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

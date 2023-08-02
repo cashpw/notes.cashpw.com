@@ -2,14 +2,14 @@
 title = "Robert R. Hoffman | Accelerated Expertise: Training for High Proficiency in a Complex World"
 author = ["Cash Weaver"]
 date = 2023-06-30T16:49:00-07:00
-lastmod = 2023-07-25T12:26:43-07:00
+lastmod = 2023-08-02T12:16:29-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
 slug = "abd1debc-f9fa-4e67-bccb-d5bc4c7a7f6c"
 +++
 
-[Robert Hoffman]({{< relref "robert_r_hoffman_accelerated_expertise_training_for_high_proficiency_in_a_complex_world.md" >}}), (<a href="#citeproc_bib_item_1">Hoffman 2013</a>)
+[Robert Hoffman]({{< relref "robert_hoffman.md" >}}), (<a href="#citeproc_bib_item_1">Hoffman 2013</a>)
 
 
 ## Summary {#summary}

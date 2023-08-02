@@ -2,7 +2,7 @@
 title = "Minimum spanning tree"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:20:00-08:00
-lastmod = 2023-07-25T11:10:54-07:00
+lastmod = 2023-08-02T11:41:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -177,7 +177,7 @@ A graph has {{more than one}{count}@0} [Minimum spanning tree]({{< relref "minim
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 6   | 135.01   | 2023-09-12T18:50:23Z |
-| back     | 1.60 | 5   | 17.70    | 2023-07-23T21:07:34Z |
+| back     | 1.60 | 6   | 30.20    | 2023-08-25T07:49:53Z |
 
 Algorithms which generate a [Minimum spanning tree]({{< relref "minimum_spanning_tree.md" >}})
 

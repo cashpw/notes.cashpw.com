@@ -2,7 +2,7 @@
 title = "Todos"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2023-07-25T12:36:42-07:00
+lastmod = 2023-08-02T12:52:56-07:00
 tags = ["has-todo", "has-todo"]
 categories = ["has-todo"]
 draft = false

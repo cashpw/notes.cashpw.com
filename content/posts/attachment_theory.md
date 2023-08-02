@@ -2,7 +2,7 @@
 title = "Attachment theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:34:00-07:00
-lastmod = 2023-07-25T08:39:31-07:00
+lastmod = 2023-08-02T10:35:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

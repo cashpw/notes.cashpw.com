@@ -2,7 +2,7 @@
 title = "Solipsism"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T07:35:00-08:00
-lastmod = 2023-07-25T12:28:57-07:00
+lastmod = 2023-08-02T12:29:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "8bd2ca47-4972-4869-89c3-b4e82a23042b"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 6   | 122.16   | 2023-08-13T16:38:02Z |
-| back     | 1.90 | 1   | 1.00     | 2023-07-25T04:00:21Z |
+| back     | 1.90 | 3   | 6.00     | 2023-08-04T15:00:37Z |
 
 [Solipsism]({{< relref "solipsism.md" >}})
 

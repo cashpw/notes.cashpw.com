@@ -2,7 +2,7 @@
 title = "Feynman technique"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-13T06:34:00-07:00
-lastmod = 2023-07-25T10:40:25-07:00
+lastmod = 2023-08-02T10:56:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,7 +29,7 @@ slug = "166a96a1-466f-43dd-a9f6-ec18d2ba9b36"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 82.39    | 2023-10-04T22:40:14Z |
-| back     | 2.50 | 5   | 41.64    | 2023-07-30T05:49:07Z |
+| back     | 2.65 | 6   | 114.68   | 2023-11-22T16:18:48Z |
 
 [Feynman technique]({{< relref "feynman_technique.md" >}})
 
@@ -55,5 +55,5 @@ slug = "166a96a1-466f-43dd-a9f6-ec18d2ba9b36"
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Problems with Deliberate Practice]({{< relref "feynman_technique.md" >}})
+-   [Cedric Chin | The Problems with Deliberate Practice]({{< relref "cedric_chin_the_problems_with_deliberate_practice.md" >}})
 -   [First 100 days in a new software engineer role]({{< relref "first_100_days_in_a_new_software_engineer_role.md" >}})

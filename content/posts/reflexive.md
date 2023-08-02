@@ -2,7 +2,7 @@
 title = "Reflexive relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:10:00-07:00
-lastmod = 2023-07-25T12:26:30-07:00
+lastmod = 2023-08-02T12:13:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

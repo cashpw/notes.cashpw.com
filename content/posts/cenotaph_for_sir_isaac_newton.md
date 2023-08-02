@@ -2,7 +2,7 @@
 title = "Cenotaph for Sir Isaac Newton"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-25T13:02:00-07:00
-lastmod = 2023-07-25T16:25:13-07:00
+lastmod = 2023-08-02T10:40:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,7 +54,7 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2023-07-25T23:24:13Z |
+| front    | 2.50 | 3   | 6.00     | 2023-08-04T14:59:54Z |
 | back     | 2.5  | -1  | 0        | 2023-08-01T23:24:13Z |
 
 [Cenotaph for Sir Isaac Newton]({{< relref "cenotaph_for_sir_isaac_newton.md" >}})
@@ -72,10 +72,16 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 
 ### Cloze {#cloze}
 
-{{[Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}})}} is the creator of [Cenotaph for Sir Isaac Newton]({{< relref "cenotaph_for_sir_isaac_newton.md" >}})
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 2   | 2.00     | 2023-08-02T00:00:08Z |
+
+{{[Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}})}@0} is the creator of [Cenotaph for Sir Isaac Newton]({{< relref "cenotaph_for_sir_isaac_newton.md" >}})
 
 
 #### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Étienne-Louis Boullée” 2023</a>)
 
 ## References
 

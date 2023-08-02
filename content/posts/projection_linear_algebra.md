@@ -2,7 +2,7 @@
 title = "Projection (Linear algebra)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-14T10:02:00-08:00
-lastmod = 2023-07-25T11:31:31-07:00
+lastmod = 2023-08-02T12:03:26-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -27,7 +27,7 @@ slug = "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.20 | 7   | 113.38   | 2023-07-24T06:40:32Z |
+| 1        | 2.20 | 8   | 230.04   | 2024-03-12T03:49:34Z |
 | 0        | 2.50 | 7   | 218.22   | 2023-12-08T22:06:28Z |
 
 -   {{\\(\operatorname{proj}\_{\vec{b}}(\vec{a})\\)}@1}

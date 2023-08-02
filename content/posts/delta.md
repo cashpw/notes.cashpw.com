@@ -2,7 +2,7 @@
 title = "Delta (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:18:00-08:00
-lastmod = 2023-07-25T10:28:05-07:00
+lastmod = 2023-08-02T10:48:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,7 +58,7 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 1        | 2.80 | 7   | 402.58   | 2024-08-16T05:30:11Z |
-| 0        | 2.05 | 5   | 31.42    | 2023-07-31T07:00:59Z |
+| 0        | 2.20 | 6   | 74.96    | 2023-10-15T00:29:58Z |
 
 
 #### Source {#source}

@@ -2,7 +2,7 @@
 title = "Binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2023-07-25T08:43:28-07:00
+lastmod = 2023-08-02T10:37:02-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -45,7 +45,7 @@ Assuming a 0-indexed array: child nodes for a node at index \\(i\\) are at \\(\t
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.05 | 7   | 120.55   | 2023-07-27T16:19:57Z |
+| back     | 1.90 | 8   | 231.10   | 2024-03-15T17:19:26Z |
 | front    | 2.35 | 7   | 167.49   | 2023-08-20T04:37:00Z |
 
 \\(\operatorname{parent}(i)\\) \\(\forall\\) child indexes, \\(i\\)
@@ -110,12 +110,12 @@ A [Tree]({{< relref "tree.md" >}}) [Data structure]({{< relref "data_structures.
 ## Backlinks {#backlinks}
 
 -   [Perfect binary tree]({{< relref "perfect_binary_tree.md" >}})
--   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 -   [Degenerate binary tree]({{< relref "degenerate_binary_tree.md" >}})
--   [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
 -   [Binary search tree]({{< relref "binary_search_tree.md" >}})
 -   [Height-balanced binary tree]({{< relref "height_balanced_binary_tree.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
 -   [Tree rotation]({{< relref "tree_rotation.md" >}})
 -   [Balanced binary tree]({{< relref "balanced_binary_tree.md" >}})
 -   [Complete binary tree]({{< relref "complete_binary_tree.md" >}})
+-   [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
+-   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})

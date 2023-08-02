@@ -2,7 +2,7 @@
 title = "Deliberate practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:37:00-07:00
-lastmod = 2023-07-25T10:28:04-07:00
+lastmod = 2023-08-02T10:48:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -101,7 +101,7 @@ Ericson
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "deliberate_practice.md" >}})
 -   [Types of practice]({{< relref "types_of_practice.md" >}})
--   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "deliberate_practice.md" >}})
+-   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
+-   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "cedric_chin_why_tacit_knowledge_is_more_important_than_deliberate_practice.md" >}})

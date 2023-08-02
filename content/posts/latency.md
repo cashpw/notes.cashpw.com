@@ -2,7 +2,7 @@
 title = "Latency"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T08:41:00-07:00
-lastmod = 2023-07-25T10:57:51-07:00
+lastmod = 2023-08-02T11:25:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -121,8 +121,8 @@ Amount of time required for a message to travel from the sender to receiver, whi
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 12.90    | 2023-07-28T11:49:24Z |
-| back     | 2.50 | 1   | 1.00     | 2023-06-03T01:23:42Z |
+| front    | 2.05 | 5   | 26.41    | 2023-08-25T00:44:35Z |
+| back     | 2.50 | 1   | 1.00     | 2023-07-28T14:18:20Z |
 
 ([Latency]({{< relref "latency.md" >}})) Transmission delay
 
@@ -166,7 +166,7 @@ Amount of time required to:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 6   | 90.37    | 2023-09-11T08:55:13Z |
-| back     | 2.50 | 5   | 39.86    | 2023-07-31T12:22:03Z |
+| back     | 2.50 | 6   | 94.88    | 2023-11-03T22:36:24Z |
 
 ([Latency]({{< relref "latency.md" >}})) Queuing delay
 

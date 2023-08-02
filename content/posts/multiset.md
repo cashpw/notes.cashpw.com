@@ -2,7 +2,7 @@
 title = "Multiset"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:34:00-08:00
-lastmod = 2023-07-25T11:12:39-07:00
+lastmod = 2023-08-02T11:44:13-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,7 +49,7 @@ A [Set]({{< relref "set.md" >}}) which allows for duplicate values.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 104.13   | 2023-07-26T16:01:38Z |
+| front    | 2.05 | 3   | 6.00     | 2023-08-05T23:53:55Z |
 | back     | 2.65 | 7   | 236.98   | 2024-02-25T00:39:20Z |
 
 Multiplicity ([Multiset]({{< relref "multiset.md" >}}))

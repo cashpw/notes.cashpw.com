@@ -2,7 +2,7 @@
 title = "Singular matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-24T08:20:00-07:00
-lastmod = 2023-07-25T12:28:32-07:00
+lastmod = 2023-08-02T12:27:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

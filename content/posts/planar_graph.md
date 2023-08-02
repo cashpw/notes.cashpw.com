@@ -2,7 +2,7 @@
 title = "Planar graph"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-12T05:37:00-07:00
-lastmod = 2023-07-25T11:26:34-07:00
+lastmod = 2023-08-02T11:57:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "d03ccb7a-a338-4fc4-9669-f4ffc1572132"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 90.67    | 2023-08-11T08:15:01Z |
-| back     | 2.35 | 6   | 75.88    | 2023-07-28T13:38:39Z |
+| back     | 2.20 | 7   | 170.33   | 2024-01-14T23:01:08Z |
 
 [Planar graph]({{< relref "planar_graph.md" >}})
 

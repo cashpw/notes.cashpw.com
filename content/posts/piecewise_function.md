@@ -2,7 +2,7 @@
 title = "Piecewise function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T06:53:00-08:00
-lastmod = 2023-07-25T11:26:28-07:00
+lastmod = 2023-08-02T11:57:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,7 +46,7 @@ A function defined by multiple sub-functions, where each sub-function applies to
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 10  | 217.24   | 2023-07-27T21:17:03Z |
+| 0        | 2.35 | 11  | 470.76   | 2024-11-10T09:20:40Z |
 | 1        | 1.60 | 9   | 143.24   | 2023-11-11T21:33:40Z |
 | 2        | 1.30 | 10  | 47.64    | 2023-08-06T12:07:05Z |
 

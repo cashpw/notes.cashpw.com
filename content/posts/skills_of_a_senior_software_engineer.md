@@ -2,7 +2,7 @@
 title = "Skills of a senior software engineer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:20:00-08:00
-lastmod = 2023-07-25T12:28:42-07:00
+lastmod = 2023-08-02T12:28:19-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

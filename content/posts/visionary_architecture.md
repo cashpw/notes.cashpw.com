@@ -2,7 +2,7 @@
 title = "Visionary architecture"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-24T10:39:00-07:00
-lastmod = 2023-07-25T12:41:07-07:00
+lastmod = 2023-08-02T13:02:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "0b177377-113b-43c9-83aa-319703d38fb8"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2023-07-24T17:41:06Z |
+| front    | 2.50 | 3   | 6.00     | 2023-08-07T01:24:19Z |
 | back     | 2.5  | -1  | 0        | 2023-07-31T17:41:06Z |
 
 [Visionary architecture]({{< relref "visionary_architecture.md" >}})
@@ -46,3 +46,6 @@ Designs which only exist on paper, or those which display idealistic or impracti
 ## Backlinks {#backlinks}
 
 -   [Tsutomu Nihei, Melissa Tanaka | Blame!]({{< relref "tsutomu_nihei_melissa_tanaka_blame.md" >}})
+-   [Monument to the Supreme Being]({{< relref "monument_to_the_supreme_being.md" >}})
+-   [Helen Rosenau, Etienne Louis Boullée | Boullée and Visionary Architecture]({{< relref "helen_rosenau_etienne_louis_boullee_boullee_and_visionary_architecture.md" >}})
+-   [Cenotaph for Sir Isaac Newton]({{< relref "cenotaph_for_sir_isaac_newton.md" >}})

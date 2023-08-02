@@ -2,7 +2,7 @@
 title = "Captain Jean-Luc Picard"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T10:37:00-07:00
-lastmod = 2023-07-25T08:48:43-07:00
+lastmod = 2023-08-02T10:39:39-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

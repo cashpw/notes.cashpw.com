@@ -2,7 +2,7 @@
 title = "Farnam Street"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T15:37:00-07:00
-lastmod = 2023-07-25T10:40:06-07:00
+lastmod = 2023-08-02T10:55:44-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

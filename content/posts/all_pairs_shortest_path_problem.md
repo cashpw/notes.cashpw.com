@@ -2,7 +2,7 @@
 title = "All-pairs shortest path problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T09:11:00-08:00
-lastmod = 2023-07-25T08:35:44-07:00
+lastmod = 2023-08-02T10:34:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ Find the [shortest path]({{< relref "shortest_path_algorithm.md" >}}) between al
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 108.93   | 2023-07-26T13:27:14Z |
+| front    | 2.20 | 8   | 225.94   | 2024-03-08T13:33:30Z |
 | back     | 2.20 | 7   | 107.29   | 2023-08-22T00:38:51Z |
 
 [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})

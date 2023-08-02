@@ -2,7 +2,7 @@
 title = "Dynamic programming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T16:26:00-08:00
-lastmod = 2023-07-25T10:29:00-07:00
+lastmod = 2023-08-02T10:51:49-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -48,5 +48,5 @@ slug = "48e26e71-a0e3-4086-99f2-53e2fa6f7fc8"
 ## Backlinks {#backlinks}
 
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
--   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
 -   [Subset sum problem]({{< relref "subset_sum_problem.md" >}})
+-   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})

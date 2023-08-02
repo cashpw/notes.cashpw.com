@@ -2,7 +2,7 @@
 title = "Damp box"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T12:06:00-08:00
-lastmod = 2023-07-25T10:27:29-07:00
+lastmod = 2023-08-02T10:46:31-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

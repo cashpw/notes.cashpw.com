@@ -2,7 +2,7 @@
 title = "B-tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:55:00-07:00
-lastmod = 2023-07-25T08:40:05-07:00
+lastmod = 2023-08-02T10:35:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

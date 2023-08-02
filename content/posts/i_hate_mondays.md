@@ -2,7 +2,7 @@
 title = "I hate mondays"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:07:00-07:00
-lastmod = 2023-07-25T10:46:26-07:00
+lastmod = 2023-08-02T11:09:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ Acknowledge a terrible thing is happening, maybe even agree it's bad, but don't 
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_1">Danskin 2020</a>)
+(NO_ITEM_DATA:danskinHateMondays2020)
 
 
 ### Example(s) {#example--s}
@@ -60,12 +60,12 @@ Acknowledge a terrible thing is happening, maybe even agree it's bad, but don't 
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_1">Danskin 2020</a>)
+(NO_ITEM_DATA:danskinHateMondays2020)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2020. “I Hate Mondays.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/614651531972788224/the-alt-right-playbook-returns-triumphantly-with-a">https://innuendostudios.tumblr.com/post/614651531972788224/the-alt-right-playbook-returns-triumphantly-with-a</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:danskinHateMondays2020</div>
 </div>
 
 

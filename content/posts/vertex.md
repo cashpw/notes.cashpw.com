@@ -2,7 +2,7 @@
 title = "Vertex"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:13:00-07:00
-lastmod = 2023-07-25T12:40:59-07:00
+lastmod = 2023-08-02T13:01:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -61,18 +61,13 @@ The fundamental unit of a [Graph]({{< relref "graph.md" >}}).
 
 ## Backlinks {#backlinks}
 
--   [Widest path problem]({{< relref "widest_path_problem.md" >}})
 -   [Adjacency matrix]({{< relref "adjacency_matrix.md" >}})
 -   [Forest]({{< relref "forest.md" >}})
--   [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})
 -   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
 -   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
 -   [Spanning tree]({{< relref "spanning_tree.md" >}})
--   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
 -   [Undirected graph]({{< relref "undirected_graph.md" >}})
 -   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
--   [Path (graph theory)]({{< relref "path_graph_theory.md" >}})
--   [Trie]({{< relref "trie.md" >}})
 -   [Graph]({{< relref "graph.md" >}})
 -   [B-tree]({{< relref "b_tree.md" >}})
 -   [Graph theory]({{< relref "graph_theory.md" >}})
@@ -81,10 +76,15 @@ The fundamental unit of a [Graph]({{< relref "graph.md" >}}).
 -   [Tree rotation]({{< relref "tree_rotation.md" >}})
 -   [Cycle (Graph theory)]({{< relref "cycle.md" >}})
 -   [Tree]({{< relref "tree.md" >}})
--   [Customizable route planning]({{< relref "customizable_route_planning.md" >}})
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
 -   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
 -   [Closure (Graph)]({{< relref "closure_graph.md" >}})
 -   [Edge]({{< relref "edge.md" >}})
+-   [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})
 -   [Red-black tree]({{< relref "red_black_tree.md" >}})
+-   [Widest path problem]({{< relref "widest_path_problem.md" >}})
+-   [Trie]({{< relref "trie.md" >}})
+-   [Path (graph theory)]({{< relref "path_graph_theory.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})
+-   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
+-   [Customizable route planning]({{< relref "customizable_route_planning.md" >}})

@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Cost of Doing Business"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-26T19:06:00-07:00
-lastmod = 2023-07-25T10:27:47-07:00
+lastmod = 2023-08-02T10:47:38-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -82,11 +82,11 @@ See [Realpolitik]({{< relref "real_politic.md" >}}), [Power politics]({{< relref
 ## Flashcards {#flashcards}
 
 
-### The fascist goal is {{to harness and redirect class resentment toward a scapegoat}{socioeconomic class}@0}. {#the-fascist-goal-is-to-harness-and-redirect-class-resentment-toward-a-scapegoat-socioeconomic-class-0-dot}
+### The fascist goal is {{to harness and redirect class resentment toward a scapegoat}@0}. {#the-fascist-goal-is-to-harness-and-redirect-class-resentment-toward-a-scapegoat-0-dot}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 6   | 39.40    | 2023-07-28T00:08:10Z |
+| 0        | 1.75 | 7   | 71.54    | 2023-10-08T04:13:35Z |
 
 
 #### Source {#source}

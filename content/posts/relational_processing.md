@@ -2,7 +2,7 @@
 title = "Relational processing"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:44:00-08:00
-lastmod = 2023-07-25T12:26:32-07:00
+lastmod = 2023-08-02T12:14:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

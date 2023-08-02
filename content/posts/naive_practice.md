@@ -2,7 +2,7 @@
 title = "Naive practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:57:00-07:00
-lastmod = 2023-07-25T11:12:47-07:00
+lastmod = 2023-08-02T11:44:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,4 +46,4 @@ Practice through repetition alone.
 ## Backlinks {#backlinks}
 
 -   [Types of practice]({{< relref "types_of_practice.md" >}})
--   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "naive_practice.md" >}})
+-   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})

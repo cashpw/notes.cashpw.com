@@ -2,7 +2,7 @@
 title = "Truth resists simplicity"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:49:00-08:00
-lastmod = 2023-07-25T12:38:42-07:00
+lastmod = 2023-08-02T12:57:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

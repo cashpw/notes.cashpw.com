@@ -2,7 +2,7 @@
 title = "Binomial coefficient"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:53:00-08:00
-lastmod = 2023-07-25T08:43:38-07:00
+lastmod = 2023-08-02T10:37:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,7 +34,7 @@ slug = "be5ebd31-6655-4f99-9325-2c41becd4dab"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 263.52   | 2024-04-02T13:23:27Z |
-| back     | 2.65 | 6   | 111.04   | 2023-07-29T16:29:42Z |
+| back     | 2.65 | 7   | 281.35   | 2024-05-08T09:44:07Z |
 
 [Binomial coefficient]({{< relref "binomial_coefficient.md" >}})
 
@@ -69,7 +69,7 @@ slug = "be5ebd31-6655-4f99-9325-2c41becd4dab"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.80 | 7   | 277.41   | 2024-04-17T23:59:51Z |
-| 1        | 1.90 | 4   | 10.29    | 2023-07-30T22:22:12Z |
+| 1        | 1.90 | 5   | 20.99    | 2023-08-20T23:39:38Z |
 
 {{\\(\binom{n}{k}\\)}@0} \\(=\\) {{\\(\binom{n-1}{k} + \binom{n-1}{k-1}\\)}{binomial, recursive}@1}
 

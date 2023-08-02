@@ -2,7 +2,7 @@
 title = "Robin Hanson | Politics Isn't about Policy"
 author = ["Cash Weaver"]
 date = 2023-01-08T19:35:00-08:00
-lastmod = 2023-07-25T12:26:47-07:00
+lastmod = 2023-08-02T12:17:06-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

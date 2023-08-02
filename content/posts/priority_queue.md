@@ -2,7 +2,7 @@
 title = "Priority queue"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2023-07-25T11:30:07-07:00
+lastmod = 2023-08-02T12:01:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -67,6 +67,6 @@ An [Abstract data type]({{< relref "abstract_data_type.md" >}}) which maintains 
 
 -   [Heap]({{< relref "heap.md" >}})
 -   [Python library: queue]({{< relref "python_library_queue.md" >}})
--   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
 -   [Queue]({{< relref "queue.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
+-   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})

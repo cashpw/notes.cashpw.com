@@ -2,7 +2,7 @@
 title = "Disjunction"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-22T09:31:00-07:00
-lastmod = 2023-07-25T10:28:35-07:00
+lastmod = 2023-08-02T10:50:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

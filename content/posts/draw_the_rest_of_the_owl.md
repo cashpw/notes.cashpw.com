@@ -2,7 +2,7 @@
 title = "Draw the rest of the owl"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-18T11:20:00-08:00
-lastmod = 2023-07-25T10:28:54-07:00
+lastmod = 2023-08-02T10:51:31-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

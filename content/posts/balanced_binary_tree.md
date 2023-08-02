@@ -2,7 +2,7 @@
 title = "Balanced binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2023-07-25T08:40:16-07:00
+lastmod = 2023-08-02T10:35:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -72,5 +72,5 @@ A [Binary tree]({{< relref "binary_tree.md" >}}) in which the left and right sub
 
 ## Backlinks {#backlinks}
 
--   [Binary tree]({{< relref "binary_tree.md" >}})
 -   [Complete binary tree]({{< relref "complete_binary_tree.md" >}})
+-   [Binary tree]({{< relref "binary_tree.md" >}})

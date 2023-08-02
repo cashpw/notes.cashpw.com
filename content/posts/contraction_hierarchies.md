@@ -2,7 +2,7 @@
 title = "Contraction hierarchies"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T11:57:00-07:00
-lastmod = 2023-07-26T07:52:19-07:00
+lastmod = 2023-08-02T10:44:34-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -376,7 +376,7 @@ A speed up method for calculating the shortest path between nodes in a graph bas
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-06-17T15:30:12Z |
+| front    | 2.50 | 0   | 0.00     | 2023-07-30T23:31:34Z |
 | back     | 2.5  | -1  | 0        | 2023-06-15T15:20:40Z |
 
 Node contraction in [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
@@ -425,7 +425,7 @@ Steps:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-07-21T15:13:21Z |
+| front    | 2.50 | 0   | 0.00     | 2023-07-30T23:36:59Z |
 | back     | 2.5  | -1  | 0        | 2023-06-15T15:30:07Z |
 
 When do we contract a vertex, \\(v\\)?
@@ -469,7 +469,7 @@ Perform a local [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2023-06-16T23:05:25Z |
+| front    | 2.50 | 2   | 2.00     | 2023-07-31T14:56:16Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:05:25Z |
 
 How to extract the shortest path through an added shortcut?
@@ -489,7 +489,7 @@ We store a pointer to the interim vertex, \\(v\\), when we contract \\(u, v, w\\
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-07-29T03:39:52Z |
+| front    | 2.50 | 4   | 15.55    | 2023-08-17T04:08:49Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:19:16Z |
 
 Heuristics for choosing the order to contract vertices.
@@ -532,7 +532,7 @@ Edge difference
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-07-14T14:52:47Z |
+| front    | 2.35 | 4   | 15.24    | 2023-08-12T20:39:46Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:23:36Z |
 
 Contracted neighbors
@@ -624,7 +624,7 @@ Query phase
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 0   | 0.00     | 2023-06-26T16:12:51Z |
+| 0        | 2.50 | 1   | 1.00     | 2023-08-02T01:19:52Z |
 | 1        | 2.5  | -1  | 0        | 2023-06-20T15:38:35Z |
 
 {{\\(G\_{up}\\)}@0}, a subgraph of \\(G\\), contains only edges from \\(v\\) to \\(w\\) {{where we contracted \\(w\\) **after** \\(v\\)}{condition}@1}
@@ -639,7 +639,7 @@ Query phase
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | -1  | 0        | 2023-06-20T15:39:08Z |
+| 0        | 2.50 | 1   | 1.00     | 2023-07-29T15:04:20Z |
 | 1        | 2.5  | -1  | 0        | 2023-06-20T15:39:08Z |
 
 {{\\(G\_{down}\\)}@0}, a subgraph of \\(G\\), contains only edges from \\(v\\) to \\(w\\) {{where we contracted \\(v\\) **before** \\(w\\)}{condition}@1}
@@ -654,7 +654,7 @@ Query phase
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-06-29T17:14:09Z |
+| front    | 2.50 | 2   | 2.00     | 2023-08-01T23:41:25Z |
 | back     | 2.5  | -1  | 0        | 2023-06-20T15:42:14Z |
 
 How to unpack the shortest path from a shortcut

@@ -2,7 +2,7 @@
 title = "Tanya Reilly | The Staff Engineer's Path"
 author = ["Cash Weaver"]
 date = 2023-03-18T13:26:00-07:00
-lastmod = 2023-07-25T12:33:05-07:00
+lastmod = 2023-08-02T12:42:46-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -2220,7 +2220,7 @@ Pillars of staff engineering, according to [Tanya Reilly]({{< relref "tanya_reil
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 5   | 25.68    | 2023-07-26T18:07:09Z |
+| 0        | 1.90 | 6   | 49.48    | 2023-09-15T01:41:35Z |
 
 {{[Tanya Reilly]({{< relref "tanya_reilly.md" >}})}@0} wrote [The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}}).
 

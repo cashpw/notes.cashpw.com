@@ -2,7 +2,7 @@
 title = "Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:24:00-07:00
-lastmod = 2023-07-25T11:11:28-07:00
+lastmod = 2023-08-02T11:42:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -101,7 +101,6 @@ Systems which compel the individuals within them to race to the bottom; to choos
 
 ## Backlinks {#backlinks}
 
--   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Programming as a tool to make things]({{< relref "gentleTribesProgramming2017.md#programming-as-a-tool-to-make-things" >}})
 -   [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
 -   [Tragedy of the commons]({{< relref "tragedy_of_the_commons.md" >}})
@@ -115,9 +114,10 @@ Systems which compel the individuals within them to race to the bottom; to choos
 -   [Allen Ginsberg | Howl]({{< relref "ginsbergHowl2022.md" >}})
 -   [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}})
 -   [Dark forest theory]({{< relref "dark_forest_theory.md" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
--   [Excess resources (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md" >}})
--   [Physical limitations (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md" >}})
--   [Utility maximization (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md" >}})
--   [Coordination (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Excess resources (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#excess-resources--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
+-   [Physical limitations (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#physical-limitations--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
+-   [Utility maximization (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#utility-maximization--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
+-   [Coordination (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#coordination--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
 -   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})

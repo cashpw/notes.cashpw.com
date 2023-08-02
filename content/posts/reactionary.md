@@ -2,7 +2,7 @@
 title = "Reactionary"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:19:00-08:00
-lastmod = 2023-07-25T12:26:15-07:00
+lastmod = 2023-08-02T12:11:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -66,7 +66,7 @@ A person who holds political views which favor a return to the [Status quo ante]
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 120.45   | 2023-07-30T02:20:40Z |
+| front    | 2.20 | 8   | 277.65   | 2024-05-03T15:39:13Z |
 
 [Reactionary]({{< relref "reactionary.md" >}}) politics with Conservative politics
 

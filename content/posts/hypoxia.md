@@ -2,7 +2,7 @@
 title = "Hypoxia"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-25T11:29:00-08:00
-lastmod = 2023-07-25T10:46:14-07:00
+lastmod = 2023-08-02T11:08:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,7 +27,7 @@ slug = "244280a6-947c-4c8e-91b7-197f6856f79b"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 86.60    | 2023-07-29T06:05:06Z |
+| front    | 2.35 | 7   | 205.97   | 2024-02-20T14:17:06Z |
 | back     | 2.65 | 6   | 106.35   | 2023-08-25T00:26:40Z |
 
 > [...] is a condition in which the body or a region of the body is deprived of adequate oxygen supply at the tissue level.

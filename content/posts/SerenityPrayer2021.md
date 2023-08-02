@@ -2,7 +2,7 @@
 title = "Serenity prayer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:20:00-08:00
-lastmod = 2023-07-25T08:31:22-07:00
+lastmod = 2023-08-02T10:33:13-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

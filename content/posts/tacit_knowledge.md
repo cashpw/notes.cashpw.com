@@ -2,7 +2,7 @@
 title = "Tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-30T13:17:00-08:00
-lastmod = 2023-07-25T12:32:37-07:00
+lastmod = 2023-08-02T12:40:48-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -112,9 +112,9 @@ Knowledge which is difficult to express or extract and is thus more difficult to
 -   [Isaac Wilks | It's Time to Build for Good]({{< relref "isaac_wilks_it_s_time_to_build_for_good.md" >}})
 -   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
 -   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
--   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "tacit_knowledge.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
 -   [Blub studies]({{< relref "blub_studies.md" >}})
 -   [Paul Graham | When People Are Naturally Good at Something]({{< relref "grahamWhenPeopleAre2022.md" >}})
 -   [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}})
 -   [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
+-   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "cedric_chin_why_tacit_knowledge_is_more_important_than_deliberate_practice.md" >}})

@@ -2,7 +2,7 @@
 title = "Polynomial time"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:04:00-08:00
-lastmod = 2023-07-25T11:27:53-07:00
+lastmod = 2023-08-02T11:59:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -63,6 +63,6 @@ A fundamental complexity class for problems which can be solved in \\(\bigo{n^{\
 ## Backlinks {#backlinks}
 
 -   [Nondeterministic polynomial time]({{< relref "nondeterministic_polynomial_time.md" >}})
--   [P versus NP problem]({{< relref "p_versus_np_problem.md" >}})
 -   [Pseudo-polynomial time]({{< relref "pseudo_polynomial_time.md" >}})
 -   [Nick's class]({{< relref "nick_s_class.md" >}})
+-   [P versus NP problem]({{< relref "p_versus_np_problem.md" >}})

@@ -2,7 +2,7 @@
 title = "Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T06:44:00-08:00
-lastmod = 2023-07-25T08:38:06-07:00
+lastmod = 2023-08-02T10:34:57-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

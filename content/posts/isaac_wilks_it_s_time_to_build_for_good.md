@@ -2,7 +2,7 @@
 title = "Isaac Wilks | It's Time to Build for Good"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:23:00-08:00
-lastmod = 2023-07-25T10:50:00-07:00
+lastmod = 2023-08-02T11:14:52-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

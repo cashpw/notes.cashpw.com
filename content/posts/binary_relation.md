@@ -2,7 +2,7 @@
 title = "Binary relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:06:00-07:00
-lastmod = 2023-07-25T08:43:03-07:00
+lastmod = 2023-08-02T10:36:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

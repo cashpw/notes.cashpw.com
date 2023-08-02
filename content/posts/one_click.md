@@ -2,7 +2,7 @@
 title = "One-click"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:39:00-07:00
-lastmod = 2023-07-25T11:20:37-07:00
+lastmod = 2023-08-02T11:51:00-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

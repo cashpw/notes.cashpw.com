@@ -2,14 +2,14 @@
 title = "r/bodyweightfitness | Recommended Routine"
 author = ["Cash Weaver"]
 date = 2023-07-06T09:13:00-07:00
-lastmod = 2023-07-25T11:36:25-07:00
+lastmod = 2023-08-02T12:09:56-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "f2387c39-de20-48be-9733-7498f51672de"
 +++
 
-[r/bodyweightfitness]({{< relref "r_bodyweightfitness_recommended_routine.md" >}}), (<a href="#citeproc_bib_item_1">r/bodyweightfitness n.d.</a>)
+[r/bodyweightfitness]({{< relref "r_bodyweightfitness.md" >}}), (<a href="#citeproc_bib_item_1">r/bodyweightfitness n.d.</a>)
 
 
 ## Summary {#summary}
@@ -78,4 +78,4 @@ slug = "f2387c39-de20-48be-9733-7498f51672de"
 
 ## Backlinks {#backlinks}
 
--   [Exercise program]({{< relref "r_bodyweightfitness_recommended_routine.md" >}})
+-   [Exercise program]({{< relref "exercise_program.md" >}})

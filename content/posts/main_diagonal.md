@@ -2,7 +2,7 @@
 title = "Main diagonal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:25:00-07:00
-lastmod = 2023-07-25T11:03:56-07:00
+lastmod = 2023-08-02T11:32:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

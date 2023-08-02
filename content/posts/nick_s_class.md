@@ -2,7 +2,7 @@
 title = "Nick's class"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:33:00-08:00
-lastmod = 2023-07-25T11:17:35-07:00
+lastmod = 2023-08-02T11:47:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ slug = "1a499a31-7ecb-4f80-95a5-22d748a0c634"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 6   | 139.22   | 2023-09-22T22:47:09Z |
-| back     | 2.50 | 6   | 86.80    | 2023-07-26T14:12:04Z |
+| back     | 2.50 | 7   | 216.95   | 2024-02-28T13:54:48Z |
 
 [NC (Complexity)]({{< relref "nick_s_class.md" >}}) (informal)
 

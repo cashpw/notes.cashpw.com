@@ -2,7 +2,7 @@
 title = "Object level"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:32:00-08:00
-lastmod = 2023-07-25T11:19:40-07:00
+lastmod = 2023-08-02T11:50:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "47d756da-f670-4377-83ae-3ea0fc25bc1b"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 116.80   | 2023-07-23T22:22:13Z |
+| front    | 2.80 | 7   | 301.59   | 2024-05-23T05:06:48Z |
 | back     | 2.35 | 7   | 166.86   | 2023-11-07T17:04:52Z |
 
 [Object level]({{< relref "object_level.md" >}})

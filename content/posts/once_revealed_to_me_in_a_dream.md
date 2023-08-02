@@ -2,7 +2,7 @@
 title = "Once revealed to me in a dream"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T12:50:00-08:00
-lastmod = 2023-07-25T11:20:29-07:00
+lastmod = 2023-08-02T11:50:53-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

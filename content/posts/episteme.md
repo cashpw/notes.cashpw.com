@@ -2,7 +2,7 @@
 title = "Episteme"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T07:49:00-08:00
-lastmod = 2023-07-25T10:39:15-07:00
+lastmod = 2023-08-02T10:53:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "dc7e525e-967c-48e5-b1c5-d83394571cb5"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.60 | 5   | 12.55    | 2023-07-25T02:02:52Z |
+| front    | 1.60 | 6   | 19.46    | 2023-08-15T02:01:02Z |
 | back     | 2.65 | 7   | 263.16   | 2024-03-29T19:41:44Z |
 
 Refers to a principle system of understanding such as scientific or physical knowledge

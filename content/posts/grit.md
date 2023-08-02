@@ -2,7 +2,7 @@
 title = "Grit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:36:00-07:00
-lastmod = 2023-07-25T10:43:48-07:00
+lastmod = 2023-08-02T11:03:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,6 +43,6 @@ perseverance and passion for long-term goals
 ## Backlinks {#backlinks}
 
 -   [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
--   [Favorites]({{< relref "favorites.md" >}})
 -   [Smart Guy Productivity Pitfalls]({{< relref "smart_guy_productivity_pitfalls.md" >}})
 -   [Growth mindset]({{< relref "growth_mindset.md" >}})
+-   [Favorites]({{< relref "favorites.md" >}})

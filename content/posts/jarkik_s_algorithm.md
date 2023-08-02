@@ -2,7 +2,7 @@
 title = "Jarnik's algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:41:00-08:00
-lastmod = 2023-07-25T10:51:24-07:00
+lastmod = 2023-08-02T11:16:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -74,7 +74,7 @@ Discovery of [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 2   | 2.00     | 2023-07-26T03:52:13Z |
+| front    | 1.30 | 3   | 6.00     | 2023-08-01T14:59:29Z |
 | back     | 2.65 | 6   | 145.57   | 2023-10-02T06:35:44Z |
 
 Time complexity of [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})

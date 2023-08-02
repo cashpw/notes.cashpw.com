@@ -2,7 +2,7 @@
 title = "Floyd-Warshall algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T10:12:00-08:00
-lastmod = 2023-07-25T10:41:03-07:00
+lastmod = 2023-08-02T10:57:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -173,5 +173,5 @@ for k from 1 to |V|
 
 ## Backlinks {#backlinks}
 
--   [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})
 -   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
+-   [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})

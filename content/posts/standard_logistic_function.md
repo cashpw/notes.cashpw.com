@@ -2,7 +2,7 @@
 title = "Logistic function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:11:00-08:00
-lastmod = 2023-07-25T12:31:01-07:00
+lastmod = 2023-08-02T12:34:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -117,7 +117,7 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 8   | 445.19   | 2024-08-02T21:56:40Z |
-| 1        | 1.90 | 3   | 6.00     | 2023-07-30T03:56:44Z |
+| 1        | 1.75 | 4   | 11.27    | 2023-08-11T06:27:44Z |
 
 {{\\(\operatorname{logistic}(x)\\)}{function}@0} \\(=\\) {{\\(\displaystyle \frac{e^x}{e^x + 1}\\)}{fraction}@1}
 

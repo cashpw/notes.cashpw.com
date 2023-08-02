@@ -2,7 +2,7 @@
 title = "Consistent heuristic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T14:22:00-08:00
-lastmod = 2023-07-25T08:56:21-07:00
+lastmod = 2023-08-02T10:44:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,7 +42,7 @@ A heuristic function whose estimate is always less than or equal to the estimate
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.20 | 7   | 208.19   | 2024-01-15T20:21:58Z |
-| 1        | 1.75 | 5   | 19.03    | 2023-07-27T00:59:16Z |
+| 1        | 1.90 | 6   | 33.01    | 2023-08-29T14:29:00Z |
 
 -   {{[Consistent heuristic]({{< relref "consistent_heuristic.md" >}})}@0}
 -   {{[Monotone heuristic]({{< relref "consistent_heuristic.md" >}})}@1}

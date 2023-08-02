@@ -2,7 +2,7 @@
 title = "Strike price"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T06:30:00-08:00
-lastmod = 2023-07-25T12:31:27-07:00
+lastmod = 2023-08-02T12:36:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

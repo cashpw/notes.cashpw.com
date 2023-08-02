@@ -2,7 +2,7 @@
 title = "std::initializer_list"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T09:18:00-07:00
-lastmod = 2023-07-25T12:31:10-07:00
+lastmod = 2023-08-02T12:35:09-07:00
 draft = false
 slug = "a707abfd-b17d-40d0-a1c2-1caa14e2de47"
 +++
@@ -57,7 +57,7 @@ std::vector v = {1, 2, 3};
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 5   | 40.22    | 2023-07-28T19:40:27Z |
+| 0        | 2.20 | 2   | 2.00     | 2023-08-01T23:52:30Z |
 
 ```C++
 std::vector v = {1, 2, 3};

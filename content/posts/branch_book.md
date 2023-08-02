@@ -2,7 +2,7 @@
 title = "Branch book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:50:00-07:00
-lastmod = 2023-07-25T08:45:37-07:00
+lastmod = 2023-08-02T10:38:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -56,5 +56,5 @@ Books which consist of a single idea which is padded out with examples, extrapol
 -   [Narrative book]({{< relref "narrative_book.md" >}})
 -   [Tree book]({{< relref "tree_book.md" >}})
 -   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
--   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "branch_book.md" >}})
+-   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
 -   [On reading]({{< relref "on_reading.md" >}})

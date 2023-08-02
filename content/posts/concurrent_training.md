@@ -2,7 +2,7 @@
 title = "Concurrent training"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T19:38:00-07:00
-lastmod = 2023-07-25T08:56:03-07:00
+lastmod = 2023-08-02T10:43:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,7 +20,7 @@ Concurrent training is a combination of cardio and resistance training.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 5   | 34.04    | 2023-08-26T04:45:33Z |
-| back     | 2.05 | 1   | 1.00     | 2023-07-25T04:07:10Z |
+| back     | 1.90 | 3   | 6.00     | 2023-08-04T15:00:48Z |
 
 [Concurrent training]({{< relref "concurrent_training.md" >}})
 
@@ -35,5 +35,5 @@ A fitness program which combines cardio and resistance training to gain the bene
 
 ## Backlinks {#backlinks}
 
--   [Keith Baar | Using Molecular Biology to Maximize Concurrent Training]({{< relref "concurrent_training.md" >}})
--   [Exercise program]({{< relref "concurrent_training.md" >}})
+-   [Keith Baar | Using Molecular Biology to Maximize Concurrent Training]({{< relref "keith_baar_using_molecular_biology_to_maximize_concurrent_training.md" >}})
+-   [Exercise program]({{< relref "exercise_program.md" >}})

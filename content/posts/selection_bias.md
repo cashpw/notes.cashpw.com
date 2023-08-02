@@ -2,7 +2,7 @@
 title = "Selection bias"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T14:38:00-08:00
-lastmod = 2023-07-25T12:27:39-07:00
+lastmod = 2023-08-02T12:23:22-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

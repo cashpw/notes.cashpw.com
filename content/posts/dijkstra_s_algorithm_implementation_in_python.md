@@ -2,7 +2,7 @@
 title = "Dijkstra's algorithm implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T12:19:00-08:00
-lastmod = 2023-07-25T10:28:28-07:00
+lastmod = 2023-08-02T10:49:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -96,7 +96,7 @@ print(dijkstra_single_pair_shortest_path(b.id, a.id, adjacency_list), 'should be
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2023-07-01T16:57:27Z |
+| front    | 2.50 | 3   | 6.00     | 2023-08-02T14:06:39Z |
 
 Implement [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) in [Python]({{< relref "python.md" >}}) to solve the [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
 

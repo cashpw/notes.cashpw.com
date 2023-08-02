@@ -2,7 +2,7 @@
 title = "Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:47:00-07:00
-lastmod = 2023-07-25T11:34:00-07:00
+lastmod = 2023-08-02T12:06:30-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -189,7 +189,7 @@ The programming language
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.65 | 6   | 123.43   | 2023-07-27T05:37:36Z |
+| 1        | 2.65 | 7   | 324.65   | 2024-06-16T05:21:25Z |
 | 2        | 2.35 | 7   | 252.19   | 2024-03-01T06:09:52Z |
 | 0        | 1.30 | 7   | 24.19    | 2023-08-01T19:45:30Z |
 
@@ -268,7 +268,7 @@ class Foo:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.05 | 7   | 134.73   | 2023-11-17T21:43:02Z |
-| 1        | 2.95 | 6   | 138.38   | 2023-07-29T23:39:50Z |
+| 1        | 2.95 | 7   | 413.54   | 2024-09-16T13:01:55Z |
 
 ```python
 >>> s = 'foo\nbar'
@@ -369,7 +369,7 @@ Infinity in [Python]({{< relref "python.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 128.94   | 2023-07-25T12:20:53Z |
+| 0        | 2.80 | 7   | 357.04   | 2024-07-17T03:58:05Z |
 | 1        | 2.20 | 7   | 163.68   | 2023-11-11T07:50:39Z |
 
 ```python
@@ -443,7 +443,7 @@ Names with two leading and two trailing underscores (e.g. `__init__`).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.35 | 7   | 181.16   | 2023-12-13T17:35:10Z |
-| 1        | 2.35 | 3   | 6.00     | 2023-07-26T15:23:56Z |
+| 1        | 2.35 | 4   | 13.35    | 2023-08-09T22:46:05Z |
 
 {{`random.randint(a, b)`}{[Python]({{< relref "python.md" >}})}@0} returns a random integer in the range {{\\([a, b]\\)}@1}
 
@@ -519,15 +519,15 @@ Names with two leading and two trailing underscores (e.g. `__init__`).
 -   [Bubble sort implementation in Python]({{< relref "bubble_sort_implementation_in_python.md" >}})
 -   [Heapsort implementation in python]({{< relref "heapsort_in_python.md" >}})
 -   [Asterisk in Python function arguments]({{< relref "asterisk_in_python_function_arguments.md" >}})
--   [Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
 -   [Iterative deepening depth-first-search implementation in Python]({{< relref "iterative_deepening_depth_first_search_implementation_in_python.md" >}})
--   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
 -   [Bellman-Ford implementation in Python]({{< relref "bellman_ford_implementation_in_python.md" >}})
 -   [Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
 -   [Pseudo-polynomial time subset sum problem implementation in Python]({{< relref "pseudo_polynomial_time_sumbset_sum_problem_implementation_in_python.md" >}})
 -   [Python typing]({{< relref "python_typing.md" >}})
--   [Jarnik's algorithm implementation in Python]({{< relref "jarnik_s_algorithm_implementation_in_python.md" >}})
 -   [Single-source shortest path with topological sort in Python]({{< relref "single_source_shortest_path_with_topological_sort_in_python.md" >}})
 -   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
 -   [Jessica Leung, Dmytro Matsypura | Python Language Companion to Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares]({{< relref "jessica_leung_dmytro_matsypura_python_language_companion_to_introduction_to_applied_linear_algebra_vectors_matrices_and_least_squares.md" >}})
 -   [Quickselect implementation in Python]({{< relref "quickselect_implementation_in_python.md" >}})
+-   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
+-   [Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
+-   [Jarnik's algorithm implementation in Python]({{< relref "jarnik_s_algorithm_implementation_in_python.md" >}})

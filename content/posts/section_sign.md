@@ -2,7 +2,7 @@
 title = "Section sign"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-16T15:39:00-08:00
-lastmod = 2023-07-25T12:27:33-07:00
+lastmod = 2023-08-02T12:22:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "0c397989-6d1f-430c-97a9-1d088a0270b8"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 140.59   | 2023-07-24T07:02:20Z |
-| 1        | 2.95 | 6   | 138.52   | 2023-07-26T15:26:38Z |
+| 0        | 2.95 | 7   | 428.18   | 2024-09-26T07:14:56Z |
+| 1        | 2.80 | 7   | 388.27   | 2024-08-18T20:35:06Z |
 
 {{[Section sign]({{< relref "section_sign.md" >}})}@0}
 

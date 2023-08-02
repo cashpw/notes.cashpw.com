@@ -2,7 +2,7 @@
 title = "Creamy vegan mushroom lasagna"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-31T08:21:00-07:00
-lastmod = 2023-07-25T08:58:22-07:00
+lastmod = 2023-08-02T10:45:24-07:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -13,7 +13,7 @@ slug = "0905eaa4-16e9-4abb-b78c-0b00f855e60d"
 stars = 5
 +++
 
-This recipe is from (<a href="#citeproc_bib_item_1">Murnane 2017</a>) and (<a href="#citeproc_bib_item_2">Murnane n.d.</a>).
+This recipe is from (<a href="#citeproc_bib_item_1">Murnane 2017</a>) and (NO_ITEM_DATA:murnaneCreamyVeganMushroomLasagnaa).
 
 
 ## Ingredients {#ingredients}
@@ -51,5 +51,5 @@ This recipe is from (<a href="#citeproc_bib_item_1">Murnane 2017</a>) and (<a hr
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Murnane, Jessica. 2017. <i>One Part Plant: A Simple Guide to Eating Real, One Meal at a Time</i>. First edition. New York, NY: Harper Wave, an imprint of HarperCollinsPublishers.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d. “Creamy Vegan Mushroom Lasagna.” <i>Epicurious</i>. Accessed October 31, 2022. <a href="https://www.epicurious.com/recipes/food/views/creamy-mushroom-lasagna">https://www.epicurious.com/recipes/food/views/creamy-mushroom-lasagna</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:murnaneCreamyVeganMushroomLasagnaa</div>
 </div>

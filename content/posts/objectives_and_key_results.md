@@ -2,7 +2,7 @@
 title = "Objectives and key results"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T07:37:00-08:00
-lastmod = 2023-07-25T11:19:57-07:00
+lastmod = 2023-08-02T11:50:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -65,7 +65,7 @@ An objective and 3-5 key results comprise a single OKR:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 121.47   | 2023-07-24T04:20:04Z |
+| 0        | 2.80 | 7   | 320.51   | 2024-06-10T15:13:28Z |
 
 Organizations should set key results for an [OKR]({{< relref "objectives_and_key_results.md" >}}) such that the success rate is {{70%}{percent}@0}.
 

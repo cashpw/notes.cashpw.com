@@ -2,7 +2,7 @@
 title = "Radix tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:07:00-08:00
-lastmod = 2023-07-25T12:26:12-07:00
+lastmod = 2023-08-02T12:10:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,7 +29,7 @@ slug = "e00b9c0f-103f-4c55-8938-e777f58d04fb"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 3   | 6.00     | 2023-07-24T13:40:32Z |
+| front    | 1.90 | 4   | 11.42    | 2023-08-06T13:03:46Z |
 | back     | 2.20 | 7   | 151.16   | 2023-10-13T21:11:03Z |
 
 [Radix tree]({{< relref "radix_tree.md" >}})

@@ -2,7 +2,7 @@
 title = "Procedural programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:44:00-07:00
-lastmod = 2023-07-25T11:30:44-07:00
+lastmod = 2023-08-02T12:02:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Negative partisanship"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T15:00:00-08:00
-lastmod = 2023-07-25T11:13:40-07:00
+lastmod = 2023-08-02T11:45:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ slug = "ac618a25-545b-48af-90dd-c777fce9cbed"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 119.62   | 2023-07-24T04:24:07Z |
-| back     | 2.20 | 3   | 6.00     | 2023-07-30T03:56:54Z |
+| front    | 2.95 | 7   | 319.96   | 2024-06-10T13:56:03Z |
+| back     | 2.20 | 4   | 13.41    | 2023-08-13T09:49:14Z |
 
 [Negative partisanship]({{< relref "negative_partisanship.md" >}})
 

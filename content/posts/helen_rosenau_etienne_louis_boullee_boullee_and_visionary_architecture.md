@@ -2,14 +2,14 @@
 title = "Helen Rosenau, Etienne Louis Boullée | Boullée and Visionary Architecture"
 author = ["Cash Weaver"]
 date = 2023-07-25T16:00:00-07:00
-lastmod = 2023-07-25T16:19:39-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2023-08-02T11:06:37-07:00
+tags = ["has-todo", "reference", "has-todo", "reference"]
+categories = ["has-todo", "reference"]
 draft = false
 slug = "cc620b2e-2070-49b0-8d4c-a5892731faa6"
 +++
 
-[Helen Rosenau]({{< relref "helen_rosenau.md" >}}), (NO_ITEM_DATA:rosenauBoulleeVisionaryArchitecture1976)
+[Helen Rosenau]({{< relref "helen_rosenau.md" >}}), (<a href="#citeproc_bib_item_1">Rosenau and Boullée 1976</a>)
 
 
 ## Summary {#summary}
@@ -115,17 +115,17 @@ By [Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | -1  | 0        | 2023-07-25T23:17:47Z |
+| 0        | 2.50 | 2   | 2.00     | 2023-08-01T23:36:11Z |
 
 > {{To be reduced to what is called necessity when designing a temple is to forget one's subject.}{Full quote: [Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}}) on temples}@0}
 
 
 #### Source {#source}
 
-(NO_ITEM_DATA:rosenauBoulleeVisionaryArchitecture1976)
+(<a href="#citeproc_bib_item_1">Rosenau and Boullée 1976</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:rosenauBoulleeVisionaryArchitecture1976</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Rosenau, Helen, and Etienne Louis Boullée. 1976. <i>Boullée and Visionary Architecture</i>. London, New York: Academy Editions ; Harmony Books.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "ryans01 | No zero days"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-12T08:33:00-08:00
-lastmod = 2023-07-25T12:26:54-07:00
+lastmod = 2023-08-02T12:18:11-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

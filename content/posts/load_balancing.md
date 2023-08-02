@@ -2,7 +2,7 @@
 title = "Load balancing"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T08:31:00-07:00
-lastmod = 2023-07-25T11:02:32-07:00
+lastmod = 2023-08-02T11:31:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

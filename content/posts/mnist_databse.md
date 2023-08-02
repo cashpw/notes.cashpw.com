@@ -2,7 +2,7 @@
 title = "MNIST databse"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T15:32:00-08:00
-lastmod = 2023-07-25T11:11:03-07:00
+lastmod = 2023-08-02T11:41:34-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

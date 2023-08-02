@@ -2,7 +2,7 @@
 title = "Python keyword argument"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-08T09:35:00-08:00
-lastmod = 2023-07-25T11:34:10-07:00
+lastmod = 2023-08-02T12:06:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,7 +29,7 @@ Also see [Asterisk in Python function arguments]({{< relref "asterisk_in_python_
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 6   | 138.42   | 2023-09-16T04:52:31Z |
-| back     | 2.35 | 6   | 79.55    | 2023-07-28T06:01:18Z |
+| back     | 2.35 | 7   | 188.37   | 2024-02-02T00:08:17Z |
 
 [Python keyword arguments]({{< relref "python_keyword_argument.md" >}})
 

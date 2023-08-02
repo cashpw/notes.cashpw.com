@@ -2,7 +2,7 @@
 title = "Matrix of ones"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:27:00-07:00
-lastmod = 2023-07-25T11:07:00-07:00
+lastmod = 2023-08-02T11:36:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

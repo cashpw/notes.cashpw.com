@@ -2,7 +2,7 @@
 title = "Invisible games"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T14:56:00-08:00
-lastmod = 2023-07-25T10:49:48-07:00
+lastmod = 2023-08-02T11:14:34-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

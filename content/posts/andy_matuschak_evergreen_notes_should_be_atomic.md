@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Evergreen Notes Should Be Atomic"
 author = ["Cash Weaver"]
 date = 2023-04-11T16:49:00-07:00
-lastmod = 2023-07-25T08:37:14-07:00
+lastmod = 2023-08-02T10:34:40-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

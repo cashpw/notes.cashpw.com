@@ -2,7 +2,7 @@
 title = "Paul Graham | What You (Want to)* Want"
 author = ["Cash Weaver"]
 date = 2023-01-14T07:57:00-08:00
-lastmod = 2023-07-25T11:23:50-07:00
+lastmod = 2023-08-02T11:54:46-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

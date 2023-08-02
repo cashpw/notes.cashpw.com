@@ -2,7 +2,7 @@
 title = "dynomight"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-03T11:00:00-08:00
-lastmod = 2023-07-25T10:29:01-07:00
+lastmod = 2023-08-02T10:51:55-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

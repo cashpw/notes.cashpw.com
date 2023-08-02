@@ -2,7 +2,7 @@
 title = "Cosine"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T10:43:00-07:00
-lastmod = 2023-07-25T08:58:08-07:00
+lastmod = 2023-08-02T10:45:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Black box"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T16:37:00-07:00
-lastmod = 2023-07-25T08:44:27-07:00
+lastmod = 2023-08-02T10:37:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,11 +17,11 @@ slug = "ab1c1113-290b-4715-b2d7-94f2af485b2e"
 ## Flashcards {#flashcards}
 
 
-### Describe {#describe}
+### Describe (Systems) {#describe--systems}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 3.10 | 6   | 150.87   | 2023-07-27T12:50:07Z |
+| front    | 3.25 | 7   | 476.02   | 2024-11-14T14:37:23Z |
 | back     | 2.80 | 7   | 305.54   | 2024-04-23T14:47:36Z |
 
 [Black box]({{< relref "black_box.md" >}})

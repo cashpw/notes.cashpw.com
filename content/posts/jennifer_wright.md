@@ -2,7 +2,7 @@
 title = "Jennifer Wright"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-04T08:03:00-08:00
-lastmod = 2023-07-25T10:51:45-07:00
+lastmod = 2023-08-02T11:17:22-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

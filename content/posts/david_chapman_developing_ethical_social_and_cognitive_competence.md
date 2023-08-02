@@ -2,7 +2,7 @@
 title = "David Chapman | Developing Ethical, Social, and Cognitive Competence"
 author = ["Cash Weaver"]
 date = 2023-01-12T08:15:00-08:00
-lastmod = 2023-07-25T10:27:53-07:00
+lastmod = 2023-08-02T10:47:57-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

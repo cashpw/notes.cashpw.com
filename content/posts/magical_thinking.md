@@ -2,7 +2,7 @@
 title = "Magical thinking"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T07:55:00-08:00
-lastmod = 2023-07-25T11:03:49-07:00
+lastmod = 2023-08-02T11:32:45-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

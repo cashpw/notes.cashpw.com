@@ -2,7 +2,7 @@
 title = "Norm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-22T08:35:00-07:00
-lastmod = 2023-07-25T11:19:04-07:00
+lastmod = 2023-08-02T11:49:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,7 +34,7 @@ Also see [L-one norm]({{< relref "l_one_norm.md" >}}), [L-two norm]({{< relref "
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.15 | 13  | 245.17   | 2023-11-17T18:18:36Z |
-| 1        | 1.60 | 4   | 9.98     | 2023-07-27T13:31:55Z |
+| 1        | 1.60 | 5   | 16.83    | 2023-08-13T10:06:34Z |
 
 
 ### {{\\(\\|\vec{x}\\|\_{\infty}\\)}{norm}@0} \\(=\\) {{\\(\underset{i}{\text{max}} \\; \vec{x}\_i\\)}@1} {#vec-x-infty-norm-0-underset-i-text-max-vec-x-i-1}
@@ -76,7 +76,7 @@ Also see [L-one norm]({{< relref "l_one_norm.md" >}}), [L-two norm]({{< relref "
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 9   | 442.43   | 2024-07-31T02:00:51Z |
-| 1        | 2.65 | 8   | 226.63   | 2023-07-30T11:53:34Z |
+| 1        | 2.65 | 9   | 642.26   | 2025-05-03T06:04:24Z |
 
 -   {{\\({\\|\vec{x}\\|}\_p\\)}@0}
 

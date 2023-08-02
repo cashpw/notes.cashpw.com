@@ -2,7 +2,7 @@
 title = "Andy Matuschak"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T07:35:00-08:00
-lastmod = 2023-07-25T08:37:07-07:00
+lastmod = 2023-08-02T10:34:38-07:00
 draft = false
 slug = "df479fb9-f7b0-4e3a-a7eb-41849fbc190e"
 +++

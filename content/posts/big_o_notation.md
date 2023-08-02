@@ -2,7 +2,7 @@
 title = "Big-O notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:40:00-07:00
-lastmod = 2023-07-25T08:42:21-07:00
+lastmod = 2023-08-02T10:36:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -66,6 +66,6 @@ The set of functions which have a specific asymptotic upper bound.
 ## Backlinks {#backlinks}
 
 -   [Little-o notation]({{< relref "little_o_notation.md" >}})
--   [Data structures]({{< relref "data_structures.md" >}})
 -   [Logarithm]({{< relref "logarithm.md" >}})
 -   [Asymptotic Notation]({{< relref "asymptotic_notation.md" >}})
+-   [Data structures]({{< relref "data_structures.md" >}})

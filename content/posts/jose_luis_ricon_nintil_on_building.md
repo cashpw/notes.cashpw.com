@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon | On Building"
 author = ["Cash Weaver"]
 date = 2023-01-11T09:34:00-08:00
-lastmod = 2023-07-25T10:52:58-07:00
+lastmod = 2023-08-02T11:19:15-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

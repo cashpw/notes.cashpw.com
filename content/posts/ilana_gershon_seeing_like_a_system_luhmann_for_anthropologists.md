@@ -2,7 +2,7 @@
 title = "Ilana Gershon | Seeing like a System: Luhmann for Anthropologists"
 author = ["Cash Weaver"]
 date = 2023-01-02T10:13:00-08:00
-lastmod = 2023-07-25T10:47:06-07:00
+lastmod = 2023-08-02T11:10:30-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

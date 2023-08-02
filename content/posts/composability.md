@@ -2,7 +2,7 @@
 title = "Composability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:47:00-08:00
-lastmod = 2023-07-25T08:55:23-07:00
+lastmod = 2023-08-02T10:43:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,7 +48,7 @@ A design principle relating to distinct, independent, units which can be assembl
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.20 | 7   | 139.78   | 2023-08-31T07:33:04Z |
-| 1        | 2.05 | 6   | 39.99    | 2023-07-28T14:13:20Z |
+| 1        | 1.90 | 7   | 70.48    | 2023-10-07T02:45:15Z |
 
 
 #### Source {#source}

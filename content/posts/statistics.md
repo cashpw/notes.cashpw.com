@@ -2,7 +2,7 @@
 title = "Statistics"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T15:05:00-08:00
-lastmod = 2023-07-25T12:31:04-07:00
+lastmod = 2023-08-02T12:34:45-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -267,7 +267,7 @@ Follow these steps:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 4   | 14.00    | 2023-07-17T00:54:44Z |
+| 0        | 2.20 | 5   | 33.77    | 2023-08-30T08:45:04Z |
 
 Clusters are represented by {{representative vectors}@0}.
 
@@ -412,7 +412,7 @@ A series of data points indexed in time-order.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.35 | 9   | 319.67   | 2024-02-03T08:24:41Z |
-| front    | 2.65 | 7   | 141.48   | 2023-04-05T03:52:01Z |
+| front    | 2.65 | 8   | 350.33   | 2024-07-10T10:51:55Z |
 
 Base rate
 
@@ -629,7 +629,7 @@ Parametric model
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.05 | 8   | 168.20   | 2023-11-05T17:45:08Z |
-| 1        | 2.20 | 7   | 101.58   | 2023-05-10T06:44:26Z |
+| 1        | 1.90 | 1   | 1.00     | 2023-07-30T15:02:05Z |
 
 
 #### Source {#source}
@@ -641,7 +641,7 @@ Parametric model
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 188.58   | 2023-07-28T07:13:45Z |
+| 0        | 2.65 | 8   | 451.52   | 2024-10-22T03:34:07Z |
 | 1        | 2.80 | 7   | 245.03   | 2023-10-18T05:32:39Z |
 
 
@@ -1220,7 +1220,7 @@ A finite-dimensional model whose parameters encode all the information about its
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.65 | 14  | 524.13   | 2024-10-29T23:27:23Z |
-| front    | 2.50 | 6   | 116.17   | 2023-05-11T20:26:33Z |
+| front    | 2.35 | 7   | 284.37   | 2024-05-06T22:59:26Z |
 
 Probability distribution
 
@@ -1312,7 +1312,7 @@ A mathematical construct that provides a formal model of a random process or "ex
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.60 | 15  | 253.91   | 2023-09-26T14:06:09Z |
-| 1        | 1.90 | 7   | 109.35   | 2023-07-15T00:43:52Z |
+| 1        | 1.90 | 8   | 193.10   | 2024-02-10T03:44:04Z |
 
 -   {{Non-parametric model}@0}
 -   {{Infinite-dimensional model}@1}
@@ -1513,7 +1513,7 @@ The difference between an estimator's expected value and the true value of the p
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 1.60 | 7   | 50.25    | 2023-09-05T19:49:30Z |
-| front    | 2.35 | 6   | 75.13    | 2023-04-23T00:36:10Z |
+| front    | 2.35 | 7   | 168.76   | 2024-01-11T09:07:52Z |
 
 Correlation
 
@@ -1532,7 +1532,7 @@ Any statistical relationship, whether causal or not, between two random variable
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.30 | 6   | 11.51    | 2023-07-30T01:48:40Z |
+| back     | 1.30 | 7   | 13.72    | 2023-08-13T17:14:48Z |
 | front    | 1.60 | 7   | 54.66    | 2023-05-07T06:44:21Z |
 
 Covariance
@@ -1571,7 +1571,7 @@ Covariance
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 8   | 373.57   | 2024-04-21T02:27:59Z |
-| 1        | 2.65 | 8   | 230.88   | 2023-07-19T13:18:14Z |
+| 1        | 2.65 | 9   | 617.66   | 2025-04-08T15:29:50Z |
 
 -   {{\\(\operatorname{P}(A|B)\\)}@0}
 

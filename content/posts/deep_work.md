@@ -2,7 +2,7 @@
 title = "Deep work"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:12:00-08:00
-lastmod = 2023-07-25T10:28:01-07:00
+lastmod = 2023-08-02T10:48:26-07:00
 draft = false
 slug = "82d1d3b6-dd55-43bf-828e-b34508ac136c"
 +++

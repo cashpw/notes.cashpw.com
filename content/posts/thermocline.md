@@ -2,7 +2,7 @@
 title = "Thermocline"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-13T14:55:00-08:00
-lastmod = 2023-07-25T12:35:27-07:00
+lastmod = 2023-08-02T12:49:52-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

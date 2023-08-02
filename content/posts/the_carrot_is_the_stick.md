@@ -2,7 +2,7 @@
 title = "The carrot is the stick"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:34:00-07:00
-lastmod = 2023-07-25T12:33:55-07:00
+lastmod = 2023-08-02T12:45:33-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

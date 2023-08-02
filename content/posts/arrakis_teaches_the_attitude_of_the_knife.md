@@ -2,7 +2,7 @@
 title = "Arrakis teaches the attitude of the knife"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T17:29:00-08:00
-lastmod = 2023-07-25T08:38:23-07:00
+lastmod = 2023-08-02T10:35:02-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

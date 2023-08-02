@@ -2,7 +2,7 @@
 title = "Imperative programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:46:00-07:00
-lastmod = 2023-07-25T10:47:48-07:00
+lastmod = 2023-08-02T11:11:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -47,6 +47,6 @@ A [Programming paradigm]({{< relref "programming_paradigm.md" >}}) in which the 
 
 ## Backlinks {#backlinks}
 
--   [Declarative programming]({{< relref "declarative_programming.md" >}})
 -   [Programming paradigm]({{< relref "programming_paradigm.md" >}})
 -   [Procedural programming]({{< relref "procedural_programming.md" >}})
+-   [Declarative programming]({{< relref "declarative_programming.md" >}})

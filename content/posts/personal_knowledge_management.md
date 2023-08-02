@@ -2,7 +2,7 @@
 title = "Personal knowledge management"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T07:20:00-08:00
-lastmod = 2023-07-25T11:25:49-07:00
+lastmod = 2023-08-02T11:56:38-07:00
 draft = false
 slug = "773406e0-fe95-41f4-a254-b2c6ade18ce9"
 +++

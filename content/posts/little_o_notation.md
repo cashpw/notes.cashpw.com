@@ -2,7 +2,7 @@
 title = "Little-o notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:06:00-07:00
-lastmod = 2023-07-25T11:02:27-07:00
+lastmod = 2023-08-02T11:31:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -83,5 +83,5 @@ To use an analogy:
 
 ## Backlinks {#backlinks}
 
--   [Data structures]({{< relref "data_structures.md" >}})
 -   [Asymptotic Notation]({{< relref "asymptotic_notation.md" >}})
+-   [Data structures]({{< relref "data_structures.md" >}})

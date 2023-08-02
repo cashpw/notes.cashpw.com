@@ -2,7 +2,7 @@
 title = "Favorites"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T13:56:00-08:00
-lastmod = 2023-07-25T10:40:18-07:00
+lastmod = 2023-08-02T10:56:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -36,6 +36,11 @@ Some of my favorite things.
 ## Quotes {#quotes}
 
 -   [The first lesson]({{< relref "the_first_lesson.md" >}})
+
+
+## Manga {#manga}
+
+-   [Tsutomu Nihei, Melissa Tanaka | Blame!]({{< relref "tsutomu_nihei_melissa_tanaka_blame.md" >}})
 
 
 ## Flashcards {#flashcards}

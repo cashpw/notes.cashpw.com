@@ -2,7 +2,7 @@
 title = "Works in Progress"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T17:26:00-08:00
-lastmod = 2023-07-25T12:42:50-07:00
+lastmod = 2023-08-02T13:06:17-07:00
 tags = ["has-todo", "has-todo"]
 categories = ["has-todo"]
 draft = false

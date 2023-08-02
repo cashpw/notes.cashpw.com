@@ -2,7 +2,7 @@
 title = "Imperative mood"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-03T15:17:00-07:00
-lastmod = 2023-07-25T10:47:42-07:00
+lastmod = 2023-08-02T11:11:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,7 +32,7 @@ slug = "39f7e92f-c7df-4d0d-94cd-ef7f39437ec1"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 93.24    | 2023-10-09T20:34:25Z |
-| back     | 2.50 | 5   | 41.62    | 2023-07-28T06:25:31Z |
+| back     | 2.35 | 6   | 92.87    | 2023-10-29T12:07:10Z |
 
 [Imperative mood]({{< relref "imperative_mood.md" >}})
 

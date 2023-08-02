@@ -2,7 +2,7 @@
 title = "Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?"
 author = ["Cash Weaver"]
 date = 2023-01-12T08:39:00-08:00
-lastmod = 2023-07-25T11:13:14-07:00
+lastmod = 2023-08-02T11:44:54-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

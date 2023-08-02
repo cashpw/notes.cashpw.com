@@ -2,7 +2,7 @@
 title = "Product rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:18:00-08:00
-lastmod = 2023-07-25T11:30:57-07:00
+lastmod = 2023-08-02T12:02:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,7 +31,7 @@ This is one of the rules of [Differentiation]({{< relref "differential_calculus.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 88.11    | 2023-07-27T21:15:07Z |
+| front    | 2.20 | 7   | 198.39   | 2024-02-12T00:26:13Z |
 | back     | 2.50 | 6   | 90.73    | 2023-08-05T11:23:27Z |
 
 [Product rule]({{< relref "product_rule.md" >}})

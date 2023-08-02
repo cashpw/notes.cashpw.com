@@ -2,7 +2,7 @@
 title = "John Salvatier | Reality Has a Surprising Amount of Detail"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:29:00-08:00
-lastmod = 2023-07-25T12:27:01-07:00
+lastmod = 2023-08-02T12:18:59-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -85,7 +85,7 @@ These details are difficult to identify since they are mostly-invisible before a
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 6   | 85.01    | 2023-07-24T18:53:39Z |
+| 0        | 2.20 | 7   | 169.81   | 2024-01-12T10:20:11Z |
 
 > If you wish to not get stuck, {{seek to perceive what you have not yet perceived}@0}.
 
@@ -99,7 +99,7 @@ These details are difficult to identify since they are mostly-invisible before a
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 84.35    | 2023-07-27T05:59:38Z |
+| front    | 2.50 | 7   | 203.04   | 2024-02-15T15:19:51Z |
 | back     | 2.65 | 6   | 113.04   | 2023-09-09T17:24:46Z |
 
 [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})

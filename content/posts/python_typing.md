@@ -2,7 +2,7 @@
 title = "Python typing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-25T09:29:00-07:00
-lastmod = 2023-07-25T11:34:28-07:00
+lastmod = 2023-08-02T12:07:10-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Motives in Everyday Life"
 author = ["Cash Weaver"]
 date = 2023-01-12T14:46:00-08:00
-lastmod = 2023-07-25T10:55:48-07:00
+lastmod = 2023-08-02T11:23:28-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

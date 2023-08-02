@@ -2,7 +2,7 @@
 title = "Full binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2023-07-25T10:41:37-07:00
+lastmod = 2023-08-02T10:58:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

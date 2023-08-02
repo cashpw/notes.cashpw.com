@@ -2,7 +2,7 @@
 title = "Binary heap implementation in python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-21T09:21:00-07:00
-lastmod = 2023-07-25T08:42:59-07:00
+lastmod = 2023-08-02T10:36:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -127,7 +127,7 @@ print(h.peek())
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 89.51    | 2023-06-18T04:30:17Z |
+| front    | 2.65 | 7   | 244.66   | 2024-04-01T17:07:02Z |
 
 
 #### Back {#back}

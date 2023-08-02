@@ -2,7 +2,7 @@
 title = "Red-black tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:54:00-07:00
-lastmod = 2023-07-25T12:26:29-07:00
+lastmod = 2023-08-02T12:13:40-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -13,7 +13,7 @@ ID: 019be402-8bef-48f3-afbf-6441010dd8cf
 
     ROAM_REFS: [cite:@RedblackTree2022]
 
-    LAST_MODIFIED: [2023-07-23 Sun 21:01]
+    LAST_MODIFIED: [2023-07-26 Wed 08:08]
 
 > In computer science, a red–black tree is a kind of [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}}). Each [Vertex]({{< relref "vertex.md" >}}) stores an extra bit representing "color" ("red" or "black"), used to ensure that the [Tree]({{< relref "tree.md" >}}) remains balanced during insertions and deletions.
 >
@@ -246,7 +246,7 @@ def insert_fix(inserted_node):
 | 0        | 2.80 | 8   | 323.70   | 2024-03-25T10:21:18Z |
 | 1        | 2.50 | 6   | 103.79   | 2023-10-29T08:56:01Z |
 | 2        | 2.05 | 6   | 64.50    | 2023-09-03T13:35:09Z |
-| 3        | 1.75 | 2   | 2.00     | 2023-07-26T04:01:32Z |
+| 3        | 1.60 | 3   | 6.00     | 2023-08-01T15:08:38Z |
 
 Properties of a {{[Red-black tree]({{< relref "red_black_tree.md" >}})}@4}
 

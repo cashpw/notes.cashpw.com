@@ -2,7 +2,7 @@
 title = "If you see me, then weep"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T09:04:00-07:00
-lastmod = 2023-07-25T10:47:03-07:00
+lastmod = 2023-08-02T11:10:25-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Cargo cult"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-23T18:35:00-07:00
-lastmod = 2023-07-25T08:48:50-07:00
+lastmod = 2023-08-02T10:39:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,5 +54,5 @@ A belief system in which adherents perform rituals which they believe will cause
 
 ## Backlinks {#backlinks}
 
--   [Learned blankness]({{< relref "learned_blankness.md" >}})
 -   [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}})
+-   [Learned blankness]({{< relref "learned_blankness.md" >}})

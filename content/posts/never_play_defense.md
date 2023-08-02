@@ -2,7 +2,7 @@
 title = "Never play defense"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:11:00-07:00
-lastmod = 2023-07-25T11:14:12-07:00
+lastmod = 2023-08-02T11:46:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

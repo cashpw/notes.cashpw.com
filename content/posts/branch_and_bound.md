@@ -2,7 +2,7 @@
 title = "Branch and bound"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T09:43:00-08:00
-lastmod = 2023-07-25T08:45:24-07:00
+lastmod = 2023-08-02T10:38:03-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -44,7 +44,7 @@ An algorithm design paradigm which explores the [Tree]({{< relref "tree.md" >}})
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 6   | 123.47   | 2023-08-02T03:00:05Z |
-| back     | 2.35 | 6   | 85.36    | 2023-07-31T02:17:37Z |
+| back     | 2.35 | 7   | 212.90   | 2024-02-29T23:02:44Z |
 
 [Branch and bound]({{< relref "branch_and_bound.md" >}})
 

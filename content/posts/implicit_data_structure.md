@@ -2,7 +2,7 @@
 title = "Implicit data structure"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:32:00-07:00
-lastmod = 2023-07-25T10:48:18-07:00
+lastmod = 2023-08-02T11:12:02-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -81,5 +81,5 @@ A [Data structure]({{< relref "data_structures.md" >}}) that requires \\(Z + O(1
 
 ## Backlinks {#backlinks}
 
--   [Data structures]({{< relref "data_structures.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
+-   [Data structures]({{< relref "data_structures.md" >}})

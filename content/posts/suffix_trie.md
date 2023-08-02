@@ -2,7 +2,7 @@
 title = "Suffix tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T09:43:00-08:00
-lastmod = 2023-07-25T12:31:57-07:00
+lastmod = 2023-08-02T12:38:11-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -52,7 +52,7 @@ slug = "2a01a221-0aa9-493b-b690-c15c11f16831"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 7   | 119.54   | 2023-07-30T10:28:19Z |
+| front    | 1.75 | 2   | 2.00     | 2023-08-03T01:23:57Z |
 | back     | 2.50 | 7   | 216.29   | 2023-12-15T23:29:58Z |
 
 [Suffix tree]({{< relref "suffix_trie.md" >}})

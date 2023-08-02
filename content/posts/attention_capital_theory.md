@@ -2,7 +2,7 @@
 title = "Attention economy"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:17:00-08:00
-lastmod = 2023-07-25T08:39:40-07:00
+lastmod = 2023-08-02T10:35:26-07:00
 draft = false
 slug = "cd48945d-3cb1-46b1-a4ad-15fe89655d11"
 +++
@@ -53,7 +53,7 @@ A view of the management of information which treats human attention as a scarce
 
 ## Backlinks {#backlinks}
 
--   [Favorites]({{< relref "favorites.md" >}})
 -   [Stephen Kuenzli | Key Practices for Achieving Large Professional Goals]({{< relref "kuenzliKeyPracticesAchievingLargeProfessionalGoals2019.md" >}})
 -   [Cal Newport | About]({{< relref "newport.md" >}})
 -   [Ben Kuhn | Attention Is Your Scarcest Resource]({{< relref "kuhnAttentionYourScarcest2020.md" >}})
+-   [Favorites]({{< relref "favorites.md" >}})

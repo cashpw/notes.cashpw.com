@@ -2,7 +2,7 @@
 title = "Tangent (Trigonometry)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T10:46:00-07:00
-lastmod = 2023-07-25T12:32:40-07:00
+lastmod = 2023-08-02T12:41:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,7 +32,7 @@ The tangent of a function is the [Instantaneous rate of change]({{< relref "deri
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.55 | 3   | 6.00     | 2023-07-26T15:14:28Z |
+| front    | 1.40 | 4   | 8.54     | 2023-08-05T03:14:37Z |
 | back     | 2.80 | 8   | 420.44   | 2024-04-24T14:39:50Z |
 
 Graph \\(f(x) = \href{/posts/tangent}{\tan}(x)\\)
@@ -48,7 +48,7 @@ Graph \\(f(x) = \href{/posts/tangent}{\tan}(x)\\)
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 7   | 197.45   | 2023-10-01T00:05:24Z |
-| 1        | 1.90 | 7   | 119.10   | 2023-07-30T19:31:44Z |
+| 1        | 1.90 | 8   | 227.98   | 2024-03-14T23:20:10Z |
 
 {{\\(\href{/posts/tangent}{\tan}(\theta)\\)}{function}@0} \\(=\\) {{\\(\frac{\text{opposite}}{\text{adjacent}}\\)}{sides}@1}
 

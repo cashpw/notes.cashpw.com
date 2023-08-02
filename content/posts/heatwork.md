@@ -2,7 +2,7 @@
 title = "Heatwork"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T07:44:00-08:00
-lastmod = 2023-07-25T10:44:56-07:00
+lastmod = 2023-08-02T11:06:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

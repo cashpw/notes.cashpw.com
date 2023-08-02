@@ -2,7 +2,7 @@
 title = "Spaced repetition"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2023-07-25T12:29:25-07:00
+lastmod = 2023-08-02T12:31:52-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -129,11 +129,9 @@ An evidence-based learning technique, usually performed with flashcards, which e
 
 ## Backlinks {#backlinks}
 
--   [Remember (Bloom's Taxonomy)]({{< relref "BloomTaxonomy2022.md#remember--id-5fbaa05c-666f-4d45-b798-ff36ace22126-bloom-s-taxonomy" >}})
 -   [Forgetting curve]({{< relref "forgetting_curve.md" >}})
 -   [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
--   [Favorites]({{< relref "favorites.md" >}})
 -   [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}})
 -   [Pedagogy]({{< relref "pedagogy.md" >}})
 -   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
@@ -142,3 +140,5 @@ An evidence-based learning technique, usually performed with flashcards, which e
 -   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})
 -   [Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction]({{< relref "jose_luis_ricon_on_bloom_s_two_sigma_problem.md" >}})
 -   [Michael Nielsen | Augmenting Long-term Memory]({{< relref "michael_nielsen_augmenting_long_term_memory.md" >}})
+-   [Favorites]({{< relref "favorites.md" >}})
+-   [Remember (Bloom's Taxonomy)]({{< relref "BloomTaxonomy2022.md#remember--id-5fbaa05c-666f-4d45-b798-ff36ace22126-bloom-s-taxonomy" >}})

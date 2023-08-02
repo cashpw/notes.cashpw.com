@@ -2,7 +2,7 @@
 title = "Interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:28:00-07:00
-lastmod = 2023-07-25T10:49:30-07:00
+lastmod = 2023-08-02T11:13:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,7 +29,7 @@ slug = "a41fccc0-fe85-462b-b8e9-5758fd6327b3"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 277.37   | 2024-02-23T22:46:47Z |
-| back     | 2.95 | 6   | 135.81   | 2023-07-25T00:59:37Z |
+| back     | 2.95 | 7   | 375.58   | 2024-08-05T04:55:03Z |
 
 [Interoperability]({{< relref "interoperability.md" >}})
 

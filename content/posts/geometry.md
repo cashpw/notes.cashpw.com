@@ -2,7 +2,7 @@
 title = "Geometry"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T08:23:00-08:00
-lastmod = 2023-07-25T10:42:32-07:00
+lastmod = 2023-08-02T11:00:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -51,6 +51,6 @@ A branch of math focused on properties of space such as distance, shape, size, a
 
 ## Backlinks {#backlinks}
 
--   [Secant line]({{< relref "secant_line.md" >}})
--   [Derivative (math)]({{< relref "derivative.md" >}})
 -   [Topology (Math)]({{< relref "topology.md" >}})
+-   [Derivative (math)]({{< relref "derivative.md" >}})
+-   [Secant line]({{< relref "secant_line.md" >}})

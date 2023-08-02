@@ -2,7 +2,7 @@
 title = "Linear algebra"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T11:12:00-08:00
-lastmod = 2023-07-25T11:01:06-07:00
+lastmod = 2023-08-02T11:29:34-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -117,7 +117,7 @@ eg: \\(x+y\\), \\(y\\)
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_18">“Linear Subspace” 2022</a>)
+(<a href="#citeproc_bib_item_17">“Linear Subspace” 2022</a>)
 
 
 ### AKA {#aka}
@@ -167,7 +167,7 @@ All other properties of a vector space are inherited from \\(V\\).
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_30">“Vector Space” 2022</a>)
+(<a href="#citeproc_bib_item_28">“Vector Space” 2022</a>)
 
 
 ### Definition (Vector spaces; Linear algebra) {#definition--vector-spaces-linear-algebra}
@@ -192,7 +192,7 @@ A property of a set of vectors which indicates at least one can be defined as a 
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_16">“Linear Independence” 2022</a>)
+(<a href="#citeproc_bib_item_15">“Linear Independence” 2022</a>)
 
 
 ### Definition {#definition}
@@ -210,7 +210,7 @@ A property of a set of vectors which indicates none of the vectors can be define
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_16">“Linear Independence” 2022</a>)
+(<a href="#citeproc_bib_item_15">“Linear Independence” 2022</a>)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
@@ -265,7 +265,7 @@ Matrices which are interreducible by elementary row operations.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_24">“Row Equivalence” 2022</a>)
+(<a href="#citeproc_bib_item_22">“Row Equivalence” 2022</a>)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
@@ -285,14 +285,14 @@ A collection of linear equations which share the same set of variables.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_15">“Linear Equation” 2022</a>)
+(<a href="#citeproc_bib_item_14">“Linear Equation” 2022</a>)
 
 
 ### Definition {#definition}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 8   | 129.84   | 2023-02-21T11:11:36Z |
+| back     | 2.65 | 9   | 370.96   | 2024-07-31T01:58:03Z |
 | front    | 2.35 | 8   | 208.39   | 2023-07-13T03:06:07Z |
 
 Additive inverse
@@ -310,7 +310,7 @@ Denoted \\(-x\\).
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_12">“Inverse Element” 2022</a>)
+(<a href="#citeproc_bib_item_11">“Inverse Element” 2022</a>)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
@@ -330,7 +330,7 @@ The span of the column vectors of the matrix.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_23">“Row and Column Spaces” 2022</a>)
+(<a href="#citeproc_bib_item_21">“Row and Column Spaces” 2022</a>)
 
 
 ### Definition (Math) {#definition--math}
@@ -365,14 +365,14 @@ Using elementary row operations to convert a matrix into reduced row echelon for
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_9">“Gaussian Elimination” 2022</a>)
+(<a href="#citeproc_bib_item_8">“Gaussian Elimination” 2022</a>)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 9   | 226.80   | 2023-07-27T21:16:15Z |
+| back     | 2.35 | 10  | 578.53   | 2025-03-02T03:42:13Z |
 | front    | 2.35 | 8   | 220.24   | 2023-07-27T00:36:44Z |
 
 Interreducible Matrices
@@ -385,7 +385,7 @@ Matrices which are equal given appropriate elementary row and column operations.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_11">Hefferon 2020</a>)
+(<a href="#citeproc_bib_item_10">Hefferon 2020</a>)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
@@ -410,7 +410,7 @@ An expression constructed from a set of terms by multiplying each term by a cons
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_14">“Linear Combination” 2022</a>)
+(<a href="#citeproc_bib_item_13">“Linear Combination” 2022</a>)
 
 
 ### Definition {#definition}
@@ -425,7 +425,7 @@ An equation that can be written as \\(a\_1{x\_1}+ \cdots +a\_n{x\_n}=0\\).
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_15">“Linear Equation” 2022</a>)
+(<a href="#citeproc_bib_item_14">“Linear Equation” 2022</a>)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
@@ -445,7 +445,7 @@ The set of all linear combinations of a set of vectors.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_17">“Linear Span” 2022</a>)
+(<a href="#citeproc_bib_item_16">“Linear Span” 2022</a>)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
@@ -465,7 +465,7 @@ A vector space that is a subset of some larger vector space.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_18">“Linear Subspace” 2022</a>)
+(<a href="#citeproc_bib_item_17">“Linear Subspace” 2022</a>)
 
 
 ### Describe {#describe}
@@ -525,8 +525,8 @@ The quantities which must be known to find an equation that represents the effec
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | 5   | 43       | 2022-10-09T13:00:00Z |
-| 1        | 2.5  | 5   | 32       | 2022-09-27T13:00:00Z |
+| 0        | 2.35 | 6   | 104.42   | 2023-11-08T23:51:38Z |
+| 1        | 2.35 | 6   | 76.20    | 2023-10-15T04:43:02Z |
 | 2        | 2.5  | 5   | 23       | 2022-09-22T13:00:00Z |
 | 3        | 2.5  | 5   | 35       | 2022-10-16T13:00:00Z |
 | 10       | 2.5  | 4   | 16       | 2022-09-16T13:00:00Z |
@@ -537,8 +537,8 @@ The quantities which must be known to find an equation that represents the effec
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | 5   | 23       | 2022-09-22T13:00:00Z |
-| 1        | 2.5  | 5   | 35       | 2022-10-16T13:00:00Z |
+| 0        | 2.35 | 6   | 56.04    | 2023-09-23T15:29:28Z |
+| 1        | 2.50 | 6   | 84.52    | 2023-10-25T03:41:28Z |
 
 
 ### Denotes {#denotes}
@@ -590,7 +590,7 @@ A vector/matrix in which most of the values are non-zero.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_25">“Sparse Matrix” 2022</a>)
+(<a href="#citeproc_bib_item_23">“Sparse Matrix” 2022</a>)
 
 
 ### Definition {#definition}
@@ -610,7 +610,7 @@ A set of eigenvectors of a vector space, \\(V\\), which span \\(V\\).
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_7">“Eigenvalues and Eigenvectors” 2022</a>)
+(NO_ITEM_DATA:EigenvaluesEigenvectors2022)
 
 
 ### Definition {#definition}
@@ -630,7 +630,7 @@ The factor by which an associated eigenvector is scaled.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_7">“Eigenvalues and Eigenvectors” 2022</a>)
+(NO_ITEM_DATA:EigenvaluesEigenvectors2022)
 
 
 ### Definition {#definition}
@@ -657,7 +657,7 @@ Formally: \\(T(\vec{v}) = {\lambda}\vec{v}\\) \\(V\\) is a vector space, \\(T: V
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_7">“Eigenvalues and Eigenvectors” 2022</a>)
+(NO_ITEM_DATA:EigenvaluesEigenvectors2022)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
@@ -677,7 +677,7 @@ A property of a matrix whose rank equals the number of columns.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_21">“Rank (Linear Algebra)” 2022</a>)
+(<a href="#citeproc_bib_item_19">“Rank (Linear Algebra)” 2022</a>)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
@@ -697,7 +697,7 @@ A matrix whose rank equals the largest possible for a matrix of its dimensions; 
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_21">“Rank (Linear Algebra)” 2022</a>)
+(<a href="#citeproc_bib_item_19">“Rank (Linear Algebra)” 2022</a>)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
@@ -717,7 +717,7 @@ A property of a matrix whose rank equals the number of rows.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_21">“Rank (Linear Algebra)” 2022</a>)
+(<a href="#citeproc_bib_item_19">“Rank (Linear Algebra)” 2022</a>)
 
 
 ### Definition {#definition}
@@ -737,7 +737,7 @@ A method for orthonormalizing a linearly independent set of vectors.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_10">“GramSchmidt Process” 2022</a>)
+(<a href="#citeproc_bib_item_9">“GramSchmidt Process” 2022</a>)
 
 
 ### Definition {#definition}
@@ -757,7 +757,7 @@ A vector, \\(\mathbf{\hat{v}}\\), for which \\(\\| \mathbf{\hat{v}} \\| = 1\\)
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_27">“Unit Vector” 2022</a>)
+(<a href="#citeproc_bib_item_25">“Unit Vector” 2022</a>)
 
 
 ### Definition {#definition}
@@ -777,14 +777,14 @@ Converting a given vector, \\(\vec{v}\\), to a unit vector in the direction of \
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_27">“Unit Vector” 2022</a>)
+(<a href="#citeproc_bib_item_25">“Unit Vector” 2022</a>)
 
 
 ### Definition {#definition}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 6   | 81.73    | 2023-07-25T10:16:25Z |
+| back     | 2.50 | 7   | 218.31   | 2024-02-29T22:24:01Z |
 | front    | 2.65 | 9   | 438.65   | 2024-06-13T13:06:14Z |
 
 Orthonormal Basis
@@ -797,7 +797,7 @@ A basis whose vectors are orthogonal unit vectors.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_19">“Orthonormal Basis” 2022</a>)
+(<a href="#citeproc_bib_item_18">“Orthonormal Basis” 2022</a>)
 
 
 ### Definition {#definition}
@@ -822,7 +822,7 @@ An operation on two vectors which produces a matrix.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_20">“Outer Product” 2022</a>)
+(NO_ITEM_DATA:OuterProduct2022)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
@@ -842,7 +842,7 @@ A matrix that does not have full rank; whose rank is less than the lesser of the
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_21">“Rank (Linear Algebra)” 2022</a>)
+(<a href="#citeproc_bib_item_19">“Rank (Linear Algebra)” 2022</a>)
 
 
 ### Definition (Linear algebra) {#definition--linear-algebra}
@@ -862,7 +862,7 @@ The span of the row vectors of a matrix.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_23">“Row and Column Spaces” 2022</a>)
+(<a href="#citeproc_bib_item_21">“Row and Column Spaces” 2022</a>)
 
 
 ### Definition (Math) {#definition--math}
@@ -905,7 +905,7 @@ A matrix that is interpreted as having been broken into sections or submatrices.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_23">“Row and Column Spaces” 2022</a>)
+(<a href="#citeproc_bib_item_21">“Row and Column Spaces” 2022</a>)
 
 
 ### AKA {#aka}
@@ -935,7 +935,7 @@ A matrix that is interpreted as having been broken into sections or submatrices.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_27">“Unit Vector” 2022</a>)
+(<a href="#citeproc_bib_item_25">“Unit Vector” 2022</a>)
 
 
 ### Definition {#definition}
@@ -960,7 +960,7 @@ The sum of elements along the main diagonal of a matrix.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_26">“Trace (Linear Algebra)” 2022</a>)
+(<a href="#citeproc_bib_item_24">“Trace (Linear Algebra)” 2022</a>)
 
 
 ### Denotes {#denotes}
@@ -977,7 +977,7 @@ The sum of elements along the main diagonal of a matrix.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_27">“Unit Vector” 2022</a>)
+(<a href="#citeproc_bib_item_25">“Unit Vector” 2022</a>)
 
 
 ### Denotes {#denotes}
@@ -994,7 +994,7 @@ The sum of elements along the main diagonal of a matrix.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_29">“Vector Projection” 2022</a>)
+(<a href="#citeproc_bib_item_27">“Vector Projection” 2022</a>)
 
 
 ### Denotes {#denotes}
@@ -1011,7 +1011,7 @@ The sum of elements along the main diagonal of a matrix.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_26">“Trace (Linear Algebra)” 2022</a>)
+(<a href="#citeproc_bib_item_24">“Trace (Linear Algebra)” 2022</a>)
 
 
 ### Denotes {#denotes}
@@ -1045,7 +1045,7 @@ The sum of elements along the main diagonal of a matrix.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_28">“Vector Notation” 2022</a>)
+(<a href="#citeproc_bib_item_26">“Vector Notation” 2022</a>)
 
 
 ### Denotes {#denotes}
@@ -1062,7 +1062,7 @@ The sum of elements along the main diagonal of a matrix.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_20">“Outer Product” 2022</a>)
+(NO_ITEM_DATA:OuterProduct2022)
 
 
 ### Algorithm {#algorithm}
@@ -1134,7 +1134,7 @@ How to find the row space of a matrix
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 5   | 31.43    | 2023-07-16T23:34:41Z |
+| front    | 2.35 | 6   | 79.08    | 2023-10-19T03:11:48Z |
 | back     | 2.80 | 11  | 237.47   | 2023-10-12T13:18:33Z |
 
 How to parameterize the solution set for a system of linear equations
@@ -1308,7 +1308,7 @@ Permutation matrix
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.05 | 2   | 2.00     | 2023-07-26T03:53:34Z |
+| back     | 1.90 | 3   | 6.00     | 2023-08-03T15:06:24Z |
 | front    | 2.65 | 8   | 386.50   | 2024-04-18T15:07:38Z |
 
 Endomorphism
@@ -1321,7 +1321,7 @@ A morphism from a mathematical object to itself.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_8">“Endomorphism” 2022</a>)
+(<a href="#citeproc_bib_item_7">“Endomorphism” 2022</a>)
 
 
 ### Describe {#describe}
@@ -1373,8 +1373,8 @@ Axioms of a vector space, \\(V\\), over a field, \\(F\\)
 
 #### Source {#source}
 
--   (<a href="#citeproc_bib_item_13">“Linear Algebra/Definition and Examples of Vector Spaces - Wikibooks, Open Books for an Open World” n.d.</a>)
--   (<a href="#citeproc_bib_item_11">Hefferon 2020</a>)
+-   (<a href="#citeproc_bib_item_12">“Linear Algebra/Definition and Examples of Vector Spaces - Wikibooks, Open Books for an Open World” n.d.</a>)
+-   (<a href="#citeproc_bib_item_10">Hefferon 2020</a>)
 
 
 ### Describe {#describe}
@@ -1394,7 +1394,7 @@ General = Particular + Homogeneous
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_11">Hefferon 2020</a>)
+(<a href="#citeproc_bib_item_10">Hefferon 2020</a>)
 
 
 ### {{rotation matrix in \\(\mathbb{R}^2\\)}@0} \\(=\\) {{\\(\begin{bmatrix} \href{/posts/cosine}{\cos}\theta & -\href{/posts/sine}{\sin}\theta \\\ \href{/posts/sine}{\sin}\theta & \href{/posts/cosine}{\cos}\theta \end{bmatrix}\\)}@1} {#rotation-matrix-in-mathbb-r-2-0-begin-bmatrix-cos-theta-and-sin-theta-sin-theta-and-cos-theta-end-bmatrix-1}
@@ -1407,7 +1407,7 @@ General = Particular + Homogeneous
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_22">“Rotation Matrix” 2022</a>)
+(<a href="#citeproc_bib_item_20">“Rotation Matrix” 2022</a>)
 
 
 ### Example(s) {#example--s}
@@ -1468,30 +1468,30 @@ Types of morphisms
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Degree of a Polynomial.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&oldid=1095664596">https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&#38;oldid=1095664596</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_5"></a>“Dimension (Vector Space).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Dimension_(vector_space)&oldid=1107784209">https://en.wikipedia.org/w/index.php?title=Dimension_(vector_space)&#38;oldid=1107784209</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_6"></a>“Dot Product.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Dot_product&oldid=1096253368">https://en.wikipedia.org/w/index.php?title=Dot_product&#38;oldid=1096253368</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>“Eigenvalues and Eigenvectors.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Eigenvalues_and_eigenvectors&oldid=1128514137">https://en.wikipedia.org/w/index.php?title=Eigenvalues_and_eigenvectors&#38;oldid=1128514137</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>“Endomorphism.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Endomorphism&oldid=1125958805">https://en.wikipedia.org/w/index.php?title=Endomorphism&#38;oldid=1125958805</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>“Gaussian Elimination.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Gaussian_elimination&oldid=1100872918">https://en.wikipedia.org/w/index.php?title=Gaussian_elimination&#38;oldid=1100872918</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>“GramSchmidt Process.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Gram%E2%80%93Schmidt_process&oldid=1122448200">https://en.wikipedia.org/w/index.php?title=Gram%E2%80%93Schmidt_process&#38;oldid=1122448200</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Hefferon, Jim. 2020. <i>Linear Algebra</i>. S.l.: ORTHOGONAL PUBLISHING L3C. <a href="https://gitlab.com/jim.hefferon/linear-algebra">https://gitlab.com/jim.hefferon/linear-algebra</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>“Inverse Element.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Inverse_element&oldid=1124406106">https://en.wikipedia.org/w/index.php?title=Inverse_element&#38;oldid=1124406106</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>“Linear Algebra/Definition and Examples of Vector Spaces - Wikibooks, Open Books for an Open World.” n.d. Accessed January 2, 2023. <a href="https://en.wikibooks.org/wiki/Linear_Algebra/Definition_and_Examples_of_Vector_Spaces">https://en.wikibooks.org/wiki/Linear_Algebra/Definition_and_Examples_of_Vector_Spaces</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>“Linear Combination.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Linear_combination&oldid=1068914093">https://en.wikipedia.org/w/index.php?title=Linear_combination&#38;oldid=1068914093</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>“Linear Equation.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Linear_equation&oldid=1097099852">https://en.wikipedia.org/w/index.php?title=Linear_equation&#38;oldid=1097099852</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>“Linear Independence.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Linear_independence&oldid=1125881893">https://en.wikipedia.org/w/index.php?title=Linear_independence&#38;oldid=1125881893</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>“Linear Span.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Linear_span&oldid=1090990394">https://en.wikipedia.org/w/index.php?title=Linear_span&#38;oldid=1090990394</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>“Linear Subspace.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Linear_subspace&oldid=1110049597">https://en.wikipedia.org/w/index.php?title=Linear_subspace&#38;oldid=1110049597</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>“Orthonormal Basis.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Orthonormal_basis&oldid=1119698453">https://en.wikipedia.org/w/index.php?title=Orthonormal_basis&#38;oldid=1119698453</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>“Outer Product.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Outer_product&oldid=1123707614">https://en.wikipedia.org/w/index.php?title=Outer_product&#38;oldid=1123707614</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>“Rank (Linear Algebra).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Rank_(linear_algebra)&oldid=1126228665">https://en.wikipedia.org/w/index.php?title=Rank_(linear_algebra)&#38;oldid=1126228665</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>“Rotation Matrix.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Rotation_matrix&oldid=1130370942">https://en.wikipedia.org/w/index.php?title=Rotation_matrix&#38;oldid=1130370942</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>“Row and Column Spaces.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Row_and_column_spaces&oldid=1084198129">https://en.wikipedia.org/w/index.php?title=Row_and_column_spaces&#38;oldid=1084198129</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>“Row Equivalence.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Row_equivalence&oldid=1124360784">https://en.wikipedia.org/w/index.php?title=Row_equivalence&#38;oldid=1124360784</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>“Sparse Matrix.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Sparse_matrix&oldid=1091166610">https://en.wikipedia.org/w/index.php?title=Sparse_matrix&#38;oldid=1091166610</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>“Trace (Linear Algebra).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Trace_(linear_algebra)&oldid=1121214869">https://en.wikipedia.org/w/index.php?title=Trace_(linear_algebra)&#38;oldid=1121214869</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>“Unit Vector.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Unit_vector&oldid=1123600565">https://en.wikipedia.org/w/index.php?title=Unit_vector&#38;oldid=1123600565</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>“Vector Notation.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Vector_notation&oldid=1111185098">https://en.wikipedia.org/w/index.php?title=Vector_notation&#38;oldid=1111185098</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>“Vector Projection.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Vector_projection&oldid=1127295943">https://en.wikipedia.org/w/index.php?title=Vector_projection&#38;oldid=1127295943</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>“Vector Space.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Vector_space&oldid=1123043369#Subspaces_and_quotient_spaces">https://en.wikipedia.org/w/index.php?title=Vector_space&#38;oldid=1123043369#Subspaces_and_quotient_spaces</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>“Endomorphism.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Endomorphism&oldid=1125958805">https://en.wikipedia.org/w/index.php?title=Endomorphism&#38;oldid=1125958805</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>“Gaussian Elimination.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Gaussian_elimination&oldid=1100872918">https://en.wikipedia.org/w/index.php?title=Gaussian_elimination&#38;oldid=1100872918</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>“GramSchmidt Process.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Gram%E2%80%93Schmidt_process&oldid=1122448200">https://en.wikipedia.org/w/index.php?title=Gram%E2%80%93Schmidt_process&#38;oldid=1122448200</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Hefferon, Jim. 2020. <i>Linear Algebra</i>. S.l.: ORTHOGONAL PUBLISHING L3C. <a href="https://gitlab.com/jim.hefferon/linear-algebra">https://gitlab.com/jim.hefferon/linear-algebra</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>“Inverse Element.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Inverse_element&oldid=1124406106">https://en.wikipedia.org/w/index.php?title=Inverse_element&#38;oldid=1124406106</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>“Linear Algebra/Definition and Examples of Vector Spaces - Wikibooks, Open Books for an Open World.” n.d. Accessed January 2, 2023. <a href="https://en.wikibooks.org/wiki/Linear_Algebra/Definition_and_Examples_of_Vector_Spaces">https://en.wikibooks.org/wiki/Linear_Algebra/Definition_and_Examples_of_Vector_Spaces</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>“Linear Combination.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Linear_combination&oldid=1068914093">https://en.wikipedia.org/w/index.php?title=Linear_combination&#38;oldid=1068914093</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>“Linear Equation.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Linear_equation&oldid=1097099852">https://en.wikipedia.org/w/index.php?title=Linear_equation&#38;oldid=1097099852</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>“Linear Independence.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Linear_independence&oldid=1125881893">https://en.wikipedia.org/w/index.php?title=Linear_independence&#38;oldid=1125881893</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>“Linear Span.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Linear_span&oldid=1090990394">https://en.wikipedia.org/w/index.php?title=Linear_span&#38;oldid=1090990394</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>“Linear Subspace.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Linear_subspace&oldid=1110049597">https://en.wikipedia.org/w/index.php?title=Linear_subspace&#38;oldid=1110049597</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>“Orthonormal Basis.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Orthonormal_basis&oldid=1119698453">https://en.wikipedia.org/w/index.php?title=Orthonormal_basis&#38;oldid=1119698453</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>“Rank (Linear Algebra).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Rank_(linear_algebra)&oldid=1126228665">https://en.wikipedia.org/w/index.php?title=Rank_(linear_algebra)&#38;oldid=1126228665</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>“Rotation Matrix.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Rotation_matrix&oldid=1130370942">https://en.wikipedia.org/w/index.php?title=Rotation_matrix&#38;oldid=1130370942</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>“Row and Column Spaces.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Row_and_column_spaces&oldid=1084198129">https://en.wikipedia.org/w/index.php?title=Row_and_column_spaces&#38;oldid=1084198129</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>“Row Equivalence.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Row_equivalence&oldid=1124360784">https://en.wikipedia.org/w/index.php?title=Row_equivalence&#38;oldid=1124360784</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>“Sparse Matrix.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Sparse_matrix&oldid=1091166610">https://en.wikipedia.org/w/index.php?title=Sparse_matrix&#38;oldid=1091166610</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>“Trace (Linear Algebra).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Trace_(linear_algebra)&oldid=1121214869">https://en.wikipedia.org/w/index.php?title=Trace_(linear_algebra)&#38;oldid=1121214869</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>“Unit Vector.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Unit_vector&oldid=1123600565">https://en.wikipedia.org/w/index.php?title=Unit_vector&#38;oldid=1123600565</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>“Vector Notation.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Vector_notation&oldid=1111185098">https://en.wikipedia.org/w/index.php?title=Vector_notation&#38;oldid=1111185098</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>“Vector Projection.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Vector_projection&oldid=1127295943">https://en.wikipedia.org/w/index.php?title=Vector_projection&#38;oldid=1127295943</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>“Vector Space.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Vector_space&oldid=1123043369#Subspaces_and_quotient_spaces">https://en.wikipedia.org/w/index.php?title=Vector_space&#38;oldid=1123043369#Subspaces_and_quotient_spaces</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:EigenvaluesEigenvectors2022</div>
+  <div class="csl-entry">NO_ITEM_DATA:OuterProduct2022</div>
 </div>
 
 

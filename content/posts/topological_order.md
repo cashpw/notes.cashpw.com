@@ -2,7 +2,7 @@
 title = "Topological order"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T07:31:00-08:00
-lastmod = 2023-07-25T12:36:58-07:00
+lastmod = 2023-08-02T12:53:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -119,7 +119,7 @@ One can use a topological ordering to reduce the time complexity of the [Single-
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.45 | 4   | 8.42     | 2023-07-29T01:22:08Z |
+| 0        | 1.30 | 5   | 10.74    | 2023-08-09T08:37:04Z |
 
 Time complexity for constructing a [Topological order]({{< relref "topological_order.md" >}}) using [Depth-first search]({{< relref "depth_first_search.md" >}}) is {{\\(\bigo{|V|+|E|}\\)}@0}.
 
@@ -145,7 +145,7 @@ Implementing [Topological sorting]({{< relref "topological_order.md" >}}) marks 
 
 ## Backlinks {#backlinks}
 
--   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
 -   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
 -   [Single-source shortest path with topological sort in Python]({{< relref "single_source_shortest_path_with_topological_sort_in_python.md" >}})
 -   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
+-   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})

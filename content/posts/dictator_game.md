@@ -2,7 +2,7 @@
 title = "Dictator game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T15:04:00-07:00
-lastmod = 2023-07-25T10:28:18-07:00
+lastmod = 2023-08-02T10:49:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

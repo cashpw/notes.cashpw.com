@@ -2,7 +2,7 @@
 title = "Org flashcards"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:39:00-08:00
-lastmod = 2023-07-25T11:21:35-07:00
+lastmod = 2023-08-02T11:52:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,7 +29,7 @@ slug = "4be26817-4ffd-4975-97aa-deda536235a5"
 
 ## Backlinks {#backlinks}
 
--   [Favorites]({{< relref "favorites.md" >}})
 -   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
 -   [Custom Anki Notes]({{< relref "custom_anki_notes.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
+-   [Favorites]({{< relref "favorites.md" >}})

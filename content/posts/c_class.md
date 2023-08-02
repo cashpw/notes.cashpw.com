@@ -2,7 +2,7 @@
 title = "C++ class"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:06:00-07:00
-lastmod = 2023-07-25T08:47:04-07:00
+lastmod = 2023-08-02T10:38:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -79,7 +79,7 @@ class Foo : public Container {
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 5   | 42.70    | 2023-08-01T13:13:27Z |
+| front    | 2.80 | 6   | 117.91   | 2023-11-27T12:59:28Z |
 | back     | 2.35 | 5   | 35.40    | 2023-08-05T11:13:21Z |
 
 [Concrete class](#concrete-class)
@@ -99,7 +99,7 @@ A class which behaves just like built-in types. It has no abstract methods.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 37.16    | 2023-07-28T19:35:24Z |
+| front    | 2.50 | 6   | 90.70    | 2023-10-28T07:42:49Z |
 | back     | 2.50 | 5   | 37.09    | 2023-08-07T16:26:44Z |
 
 [Abstract class](#abstract-class)

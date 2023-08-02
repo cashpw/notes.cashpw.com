@@ -2,7 +2,7 @@
 title = "HTTP Cookies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T09:52:00-07:00
-lastmod = 2023-07-25T10:46:05-07:00
+lastmod = 2023-08-02T11:08:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -150,7 +150,7 @@ Servers use them for:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 9   | 198.16   | 2023-07-31T22:23:27Z |
+| front    | 2.65 | 10  | 539.52   | 2025-01-21T13:53:31Z |
 | back     | 2.35 | 7   | 197.04   | 2023-10-06T16:50:41Z |
 
 `Set-Cookie` HTTP response headers

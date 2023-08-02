@@ -2,7 +2,7 @@
 title = "Ian Danskin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T16:31:00-07:00
-lastmod = 2023-07-25T10:46:29-07:00
+lastmod = 2023-08-02T11:09:16-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -40,9 +40,9 @@ Among other things:
 -   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
 -   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
 -   [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow2018.md" >}})
--   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
 -   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})
 -   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})
 -   [Ian Danskin | The Death of a Euphemism]({{< relref "danskinDeathEuphemism2018.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
+-   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})

@@ -2,7 +2,7 @@
 title = "Convolution"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:31:00-07:00
-lastmod = 2023-07-25T08:57:22-07:00
+lastmod = 2023-08-02T10:44:44-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -61,7 +61,7 @@ An operation on two functions, \\(f\_1\\) and \\(f\_2\\), which produces a third
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 13  | 388.16   | 2024-04-05T19:03:33Z |
-| 1        | 2.35 | 8   | 227.30   | 2023-07-26T00:36:17Z |
+| 1        | 2.05 | 3   | 6.00     | 2023-08-06T00:00:34Z |
 
 
 #### Source {#source}

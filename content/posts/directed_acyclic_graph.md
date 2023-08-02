@@ -2,7 +2,7 @@
 title = "Directed acyclic graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:25:00-08:00
-lastmod = 2023-07-25T10:28:31-07:00
+lastmod = 2023-08-02T10:50:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -82,6 +82,6 @@ A [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}}) can be {{
 
 ## Backlinks {#backlinks}
 
--   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
 -   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})
+-   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})

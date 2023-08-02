@@ -2,7 +2,7 @@
 title = "Mentors face inward"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:10:00-08:00
-lastmod = 2023-07-25T11:08:49-07:00
+lastmod = 2023-08-02T11:38:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -61,5 +61,5 @@ Mentors seek to improve their mentee directly.
 
 ## Backlinks {#backlinks}
 
--   [Sponsors face outward]({{< relref "sponsors_face_outward.md" >}})
 -   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})
+-   [Sponsors face outward]({{< relref "sponsors_face_outward.md" >}})

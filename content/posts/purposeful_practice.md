@@ -2,7 +2,7 @@
 title = "Purposeful practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:41:00-07:00
-lastmod = 2023-07-25T11:32:59-07:00
+lastmod = 2023-08-02T12:05:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -56,5 +56,5 @@ Practice which is:
 ## Backlinks {#backlinks}
 
 -   [Types of practice]({{< relref "types_of_practice.md" >}})
--   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "purposeful_practice.md" >}})
+-   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
 -   [Deliberate practice]({{< relref "deliberate_practice.md" >}})

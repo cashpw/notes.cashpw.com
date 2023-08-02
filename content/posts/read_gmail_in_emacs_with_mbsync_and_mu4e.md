@@ -2,7 +2,7 @@
 title = "Read Gmail in Emacs with mbsync and mu4e"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T20:01:00-08:00
-lastmod = 2023-07-25T12:26:16-07:00
+lastmod = 2023-08-02T12:11:48-07:00
 draft = false
 slug = "5e8b11e4-9600-44b7-8cd4-1be85f359948"
 +++

@@ -2,7 +2,7 @@
 title = "Binary heap"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:22:00-07:00
-lastmod = 2023-07-25T08:42:54-07:00
+lastmod = 2023-08-02T10:36:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -204,6 +204,6 @@ Steps:
 ## Backlinks {#backlinks}
 
 -   [Heap]({{< relref "heap.md" >}})
--   [Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
--   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
+-   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
+-   [Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})

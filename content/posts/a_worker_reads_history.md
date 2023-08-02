@@ -2,7 +2,7 @@
 title = "Bertolt Brecht | A worker reads history"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T07:12:00-08:00
-lastmod = 2023-07-25T08:32:42-07:00
+lastmod = 2023-08-02T10:33:29-07:00
 tags = ["has-todo", "poem", "has-todo", "poem"]
 categories = ["has-todo", "poem"]
 draft = false
@@ -79,7 +79,7 @@ So many questions.<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 134.76   | 2023-07-28T09:22:00Z |
+| front    | 2.65 | 7   | 388.74   | 2024-08-20T08:55:59Z |
 | back     | 2.80 | 6   | 142.50   | 2023-08-15T07:19:59Z |
 
 [A worker reads history]({{< relref "a_worker_reads_history.md" >}})

@@ -2,7 +2,7 @@
 title = "Single-source shortest path problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T11:48:00-08:00
-lastmod = 2023-07-25T12:28:28-07:00
+lastmod = 2023-08-02T12:27:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -68,11 +68,11 @@ Algorithm(s) which solve the [Single-source shortest path problem]({{< relref "s
 
 ## Backlinks {#backlinks}
 
--   [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})
--   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
 -   [Bellman-Ford implementation in Python]({{< relref "bellman_ford_implementation_in_python.md" >}})
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
 -   [Single-source shortest path with topological sort in Python]({{< relref "single_source_shortest_path_with_topological_sort_in_python.md" >}})
 -   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
+-   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
+-   [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})
 -   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})

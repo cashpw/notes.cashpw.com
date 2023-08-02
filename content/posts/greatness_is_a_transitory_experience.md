@@ -2,7 +2,7 @@
 title = "Greatness is a transitory experience"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:44:00-08:00
-lastmod = 2023-07-25T10:43:27-07:00
+lastmod = 2023-08-02T11:02:44-07:00
 tags = ["has-todo", "quote", "has-todo", "quote"]
 categories = ["has-todo", "quote"]
 draft = false
@@ -49,7 +49,7 @@ The person who experiences greatness must {{have a feeling for the myth they are
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 3   | 6.00     | 2023-07-24T13:47:24Z |
+| 0        | 1.75 | 3   | 6.00     | 2023-08-05T23:53:13Z |
 
 {{The person who experiences greatness must have a feeling for the myth they are in. They must reflect what is projected upon them. And they must have a strong sense of the sardonic}{greatness (full); Dune}@0}.
 

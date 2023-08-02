@@ -2,7 +2,7 @@
 title = "Julian Shapiro"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:20:00-08:00
-lastmod = 2023-07-25T10:54:18-07:00
+lastmod = 2023-08-02T11:21:16-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

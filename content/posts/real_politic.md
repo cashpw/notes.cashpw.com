@@ -2,7 +2,7 @@
 title = "Realpolitik"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T11:20:00-07:00
-lastmod = 2023-07-25T12:26:21-07:00
+lastmod = 2023-08-02T12:12:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,7 +49,7 @@ Informally: A pejorative used to signal the public-facing rationale for a politi
 
 -   [The game]({{< relref "the_game.md" >}})
 -   [Robin Hanson | Politics Isn't about Policy]({{< relref "robin_hanson_politics_isn_t_about_policy.md" >}})
--   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
 -   [Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater]({{< relref "citationsneededNewsBriefBiden2022.md" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
 -   [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}})
+-   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})

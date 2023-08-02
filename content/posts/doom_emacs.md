@@ -2,7 +2,7 @@
 title = "Doom Emacs"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T09:04:00-08:00
-lastmod = 2023-07-25T10:28:50-07:00
+lastmod = 2023-08-02T10:51:16-07:00
 draft = false
 slug = "983095a2-2f92-46a9-868b-c79fa11fbcbb"
 +++

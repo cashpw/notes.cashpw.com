@@ -2,7 +2,7 @@
 title = "Derivative (math)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:20:00-08:00
-lastmod = 2023-07-25T10:28:13-07:00
+lastmod = 2023-08-02T10:49:07-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -137,7 +137,7 @@ The slope of the tangent line to the graph of the function at a particular point
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.95 | 6   | 129.25   | 2023-08-20T18:50:58Z |
-| 1        | 2.05 | 5   | 26.48    | 2023-07-28T01:55:40Z |
+| 1        | 1.90 | 6   | 52.97    | 2023-09-19T14:17:57Z |
 
 -   {{[Derivative (math)]({{< relref "derivative.md" >}})}@0}
 -   {{[Instantaneous rate of change]({{< relref "derivative.md" >}})}@1}
@@ -173,10 +173,10 @@ For \\(f(x)\\), {{the [Derivative (math)]({{< relref "derivative.md" >}})}@0} is
 
 -   [Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})
 -   [Vega (finance)]({{< relref "vega_finance.md" >}})
--   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
--   [Instantaneous velocity]({{< relref "velocity.md#instantaneous-velocity" >}})
 -   [Quotient rule]({{< relref "quotient_rule.md" >}})
 -   [Chain rule]({{< relref "chain_rule.md" >}})
 -   [Acceleration]({{< relref "acceleration.md" >}})
+-   [Instantaneous velocity]({{< relref "velocity.md#instantaneous-velocity" >}})
+-   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
 -   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
 -   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})

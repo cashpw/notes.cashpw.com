@@ -2,7 +2,7 @@
 title = "The difference between knowing the name of something and knowing something"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-13T06:39:00-07:00
-lastmod = 2023-07-25T12:34:04-07:00
+lastmod = 2023-08-02T12:45:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -47,5 +47,5 @@ Knowledge enough to identify something isn't the same as understanding enough to
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "the_difference_between_knowing_the_name_of_something_and_knowing_something.md" >}})
+-   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

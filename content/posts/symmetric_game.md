@@ -2,7 +2,7 @@
 title = "Symmetric game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2023-07-25T12:32:14-07:00
+lastmod = 2023-08-02T12:39:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,7 +34,7 @@ A 2x2 game is [symmetric]({{< relref "symmetric_game.md" >}}) if and only if the
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 315.25   | 2024-03-18T23:16:51Z |
-| back     | 1.90 | 6   | 37.57    | 2023-07-30T15:30:16Z |
+| back     | 1.90 | 7   | 65.55    | 2023-10-04T13:05:59Z |
 
 [Symmetric game]({{< relref "symmetric_game.md" >}})
 

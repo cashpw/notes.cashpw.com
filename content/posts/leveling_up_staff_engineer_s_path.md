@@ -2,7 +2,7 @@
 title = "Leveling up (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T09:34:00-07:00
-lastmod = 2023-07-25T11:00:24-07:00
+lastmod = 2023-08-02T11:28:38-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

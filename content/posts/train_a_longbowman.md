@@ -2,7 +2,7 @@
 title = "Train a longbowman"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-03T06:48:00-08:00
-lastmod = 2023-07-25T12:37:34-07:00
+lastmod = 2023-08-02T12:55:03-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

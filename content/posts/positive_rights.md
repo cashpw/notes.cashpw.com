@@ -2,7 +2,7 @@
 title = "Positive rights"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T09:49:00-07:00
-lastmod = 2023-07-25T11:28:07-07:00
+lastmod = 2023-08-02T11:59:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

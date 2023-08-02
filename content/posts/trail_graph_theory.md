@@ -2,7 +2,7 @@
 title = "Trail (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T11:59:00-08:00
-lastmod = 2023-07-25T12:37:32-07:00
+lastmod = 2023-08-02T12:54:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,6 +43,6 @@ A [Walk (Graph theory)]({{< relref "walk_graph_theory.md" >}}) in which all [Edg
 
 ## Backlinks {#backlinks}
 
--   [Path (graph theory)]({{< relref "path_graph_theory.md" >}})
 -   [Cycle (Graph theory)]({{< relref "cycle.md" >}})
 -   [Circuit (Graph theory)]({{< relref "circuit_graph_theory.md" >}})
+-   [Path (graph theory)]({{< relref "path_graph_theory.md" >}})

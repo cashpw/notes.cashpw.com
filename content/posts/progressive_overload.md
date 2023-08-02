@@ -2,7 +2,7 @@
 title = "Progressive overload"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T19:45:00-07:00
-lastmod = 2023-07-25T11:31:17-07:00
+lastmod = 2023-08-02T12:03:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "07bbf4c0-e3bb-4689-9009-2cdb0404944d"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 5   | 39.59    | 2023-08-31T17:54:39Z |
-| back     | 2.50 | 4   | 13.64    | 2023-07-24T07:07:19Z |
+| back     | 2.50 | 5   | 33.09    | 2023-08-28T17:15:39Z |
 
 [Progressive overload]({{< relref "progressive_overload.md" >}})
 
@@ -45,5 +45,5 @@ slug = "07bbf4c0-e3bb-4689-9009-2cdb0404944d"
 
 ## Backlinks {#backlinks}
 
--   [5/3/1]({{< relref "progressive_overload.md" >}})
--   [Exercise program]({{< relref "progressive_overload.md" >}})
+-   [5/3/1]({{< relref "5_3_1.md" >}})
+-   [Exercise program]({{< relref "exercise_program.md" >}})

@@ -2,7 +2,7 @@
 title = "Matrix multiplication"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T08:57:00-08:00
-lastmod = 2023-07-25T11:06:56-07:00
+lastmod = 2023-08-02T11:36:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

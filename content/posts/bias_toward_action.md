@@ -2,7 +2,7 @@
 title = "Bias toward action"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T12:10:00-08:00
-lastmod = 2023-07-25T08:42:03-07:00
+lastmod = 2023-08-02T10:36:25-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

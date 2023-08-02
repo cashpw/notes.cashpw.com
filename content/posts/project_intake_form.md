@@ -2,7 +2,7 @@
 title = "Project intake form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T10:06:00-07:00
-lastmod = 2023-07-25T11:31:25-07:00
+lastmod = 2023-08-02T12:03:15-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

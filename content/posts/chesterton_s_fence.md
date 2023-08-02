@@ -2,7 +2,7 @@
 title = "Chesterton's fence"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:11:00-08:00
-lastmod = 2023-07-25T08:51:42-07:00
+lastmod = 2023-08-02T10:41:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

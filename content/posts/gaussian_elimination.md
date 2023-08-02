@@ -2,7 +2,7 @@
 title = "Gaussian elimination"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T11:06:00-08:00
-lastmod = 2023-07-25T10:42:16-07:00
+lastmod = 2023-08-02T11:00:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,8 +48,8 @@ It reduces a given matrix to [Row echelon form]({{< relref "row_echelon_form.md"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 8   | 191.52   | 2023-06-10T05:46:59Z |
-| front    | 2.65 | 8   | 196.84   | 2023-06-01T09:58:05Z |
+| back     | 2.35 | 9   | 484.44   | 2024-11-22T01:38:52Z |
+| front    | 2.50 | 9   | 482.82   | 2024-11-22T10:56:01Z |
 
 Reduced row echelon form
 

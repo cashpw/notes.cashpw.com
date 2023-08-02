@@ -2,7 +2,7 @@
 title = "C++ struct"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:04:00-07:00
-lastmod = 2023-07-25T08:47:18-07:00
+lastmod = 2023-08-02T10:38:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ A `struct` in C++ colloquially represents a "pure" [Data structure]({{< relref "
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 36.16    | 2023-07-21T04:32:05Z |
+| front    | 2.50 | 6   | 91.72    | 2023-10-26T08:26:19Z |
 
 `struct` and `class`
 
@@ -62,7 +62,7 @@ A `struct` in C++ colloquially represents a "pure" [Data structure]({{< relref "
 
 ## Backlinks {#backlinks}
 
--   [C++ class]({{< relref "c_class.md" >}})
 -   [Composite data type]({{< relref "composite_data_type.md" >}})
--   [Bjarne Stroustrup | A Tour of C++]({{< relref "bjarne_stroustrup_a_tour_of_c.md" >}})
 -   [C++ union]({{< relref "c_union.md" >}})
+-   [Bjarne Stroustrup | A Tour of C++]({{< relref "bjarne_stroustrup_a_tour_of_c.md" >}})
+-   [C++ class]({{< relref "c_class.md" >}})

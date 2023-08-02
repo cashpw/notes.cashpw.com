@@ -2,7 +2,7 @@
 title = "Tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:47:00-07:00
-lastmod = 2023-07-25T12:38:02-07:00
+lastmod = 2023-08-02T12:55:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,10 +58,10 @@ slug = "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
 -   [Heap]({{< relref "heap.md" >}})
 -   [Spanning tree]({{< relref "spanning_tree.md" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
--   [Binary tree]({{< relref "binary_tree.md" >}})
--   [Trie]({{< relref "trie.md" >}})
 -   [B-tree]({{< relref "b_tree.md" >}})
 -   [Depth-first search]({{< relref "depth_first_search.md" >}})
 -   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})
--   [Branch and bound]({{< relref "branch_and_bound.md" >}})
 -   [Red-black tree]({{< relref "red_black_tree.md" >}})
+-   [Binary tree]({{< relref "binary_tree.md" >}})
+-   [Trie]({{< relref "trie.md" >}})
+-   [Branch and bound]({{< relref "branch_and_bound.md" >}})

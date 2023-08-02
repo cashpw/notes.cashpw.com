@@ -2,7 +2,7 @@
 title = "The shorter and plainer the better"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-18T07:21:00-08:00
-lastmod = 2023-07-25T12:34:56-07:00
+lastmod = 2023-08-02T12:48:15-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

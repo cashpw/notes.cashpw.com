@@ -2,7 +2,7 @@
 title = "Math"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T11:15:00-08:00
-lastmod = 2023-07-25T11:06:22-07:00
+lastmod = 2023-08-02T11:35:30-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -586,7 +586,7 @@ Informally: A transformation between two vector spaces consisting of a linear tr
 |----------|------|-----|----------|----------------------|
 | 0        | 2.15 | 14  | 191.08   | 2023-09-03T05:39:17Z |
 | 1        | 2.20 | 7   | 149.87   | 2023-08-02T14:23:57Z |
-| 2        | 2.80 | 6   | 127.85   | 2023-06-15T19:25:49Z |
+| 2        | 2.80 | 7   | 388.46   | 2024-08-17T14:00:37Z |
 
 -   {{Step function}@0}
 -   {{Staircase function}@1}
@@ -1135,7 +1135,7 @@ Addition, subtraction, multiplication, and division
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.80 | 10  | 303.54   | 2023-11-15T05:25:38Z |
-| 1        | 2.20 | 8   | 187.34   | 2023-07-04T00:34:39Z |
+| 1        | 1.90 | 1   | 1.00     | 2023-07-28T14:18:24Z |
 | 2        | 2.35 | 8   | 284.60   | 2023-12-21T14:44:33Z |
 
 -   {{Moving average}@0}
@@ -1186,7 +1186,7 @@ Addition, subtraction, multiplication, and division
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 9   | 224.50   | 2023-07-27T05:27:14Z |
+| 0        | 2.35 | 10  | 525.41   | 2025-01-08T00:55:53Z |
 | 1        | 2.50 | 8   | 263.99   | 2023-10-28T21:13:48Z |
 
 -   {{Prefix notation}@0}
@@ -1309,7 +1309,7 @@ A step function whose value is zero for all negative arguments and one for all p
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 2   | 2.00     | 2023-07-10T00:11:04Z |
+| back     | 2.20 | 3   | 6.00     | 2023-08-04T14:56:09Z |
 | front    | 2.50 | 8   | 282.96   | 2023-11-16T22:45:49Z |
 
 Homomorphism
@@ -1610,7 +1610,7 @@ A structure-preserving map from one mathematical structure to another of the sam
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.35 | 9   | 308.27   | 2024-01-12T09:32:53Z |
-| front    | 3.10 | 6   | 132.00   | 2023-05-15T16:28:21Z |
+| front    | 3.10 | 7   | 372.33   | 2024-08-07T22:49:07Z |
 
 Moving average
 
@@ -1629,7 +1629,7 @@ A calculation over a series of data points creating a series of averages of diff
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.05 | 7   | 125.62   | 2023-07-19T06:05:44Z |
+| back     | 2.05 | 8   | 249.47   | 2024-04-02T01:20:31Z |
 | front    | 2.65 | 7   | 279.63   | 2024-02-28T11:24:46Z |
 
 Natural numbers
@@ -1845,7 +1845,7 @@ A function whose domain is the real numbers, \\(\mathbb{R}\\), or a subset of \\
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.45 | 12  | 393.72   | 2024-06-18T06:15:59Z |
-| front    | 2.80 | 6   | 136.72   | 2023-07-10T21:10:38Z |
+| front    | 2.65 | 7   | 342.01   | 2024-07-04T15:18:38Z |
 
 Rectangular function
 
@@ -2388,7 +2388,7 @@ A function that maps from events to real numbers which represent the "cost" asso
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | 5   | 23       | 2022-09-27T13:00:00Z |
+| 0        | 2.50 | 6   | 57.53    | 2023-09-26T12:33:30Z |
 | 1        | 2.5  | 5   | 23       | 2022-10-02T13:00:00Z |
 
 
@@ -2396,7 +2396,7 @@ A function that maps from events to real numbers which represent the "cost" asso
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | 5   | 59       | 2022-11-01T13:00:00Z |
+| 0        | 2.50 | 6   | 133.70   | 2023-12-07T07:36:12Z |
 | 1        | 2.5  | 5   | 32       | 2022-09-18T13:00:00Z |
 
 
@@ -2802,7 +2802,7 @@ Where
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 1   | 1.00     | 2023-07-19T13:50:02Z |
+| back     | 2.35 | 2   | 2.00     | 2023-08-03T01:20:39Z |
 | front    | 2.20 | 6   | 75.15    | 2023-04-04T19:58:25Z |
 
 Subadditivity

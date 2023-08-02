@@ -2,7 +2,7 @@
 title = "Pure virtual function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T09:37:00-07:00
-lastmod = 2023-07-25T11:32:47-07:00
+lastmod = 2023-08-02T12:05:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,7 +28,7 @@ class Container {
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 2   | 2.00     | 2023-07-26T03:56:07Z |
+| front    | 2.35 | 3   | 6.00     | 2023-08-01T15:06:16Z |
 | back     | 2.80 | 5   | 45.98    | 2023-08-16T01:19:30Z |
 
 [Pure virtual function]({{< relref "pure_virtual_function.md" >}})
@@ -48,8 +48,8 @@ class Container {
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 43.02    | 2023-07-31T04:27:14Z |
-| back     | 1.90 | 2   | 2.00     | 2023-07-22T15:24:11Z |
+| front    | 2.65 | 6   | 115.50   | 2023-11-24T13:25:54Z |
+| back     | 1.90 | 3   | 6.00     | 2023-08-02T14:16:39Z |
 
 [Pure virtual function]({{< relref "pure_virtual_function.md" >}})
 
@@ -72,5 +72,5 @@ class Container {
 
 ## Backlinks {#backlinks}
 
--   [Abstract class]({{< relref "c_class.md#abstract-class" >}})
 -   [Bjarne Stroustrup | A Tour of C++]({{< relref "bjarne_stroustrup_a_tour_of_c.md" >}})
+-   [Abstract class]({{< relref "c_class.md#abstract-class" >}})

@@ -2,7 +2,7 @@
 title = "Socratic questioning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T18:46:00-07:00
-lastmod = 2023-07-25T12:28:56-07:00
+lastmod = 2023-08-02T12:29:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -157,7 +157,7 @@ A form of disciplined questioning credited to Socrates's teaching style.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.20 | 8   | 292.38   | 2024-05-02T23:20:29Z |
-| back     | 1.30 | 7   | 16.18    | 2023-07-24T19:23:08Z |
+| back     | 1.30 | 8   | 21.74    | 2023-08-16T20:53:08Z |
 
 [Challenge assumptions](#challenge-assumptions)
 

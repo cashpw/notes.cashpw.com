@@ -2,7 +2,7 @@
 title = "Ranked voting"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T10:12:00-08:00
-lastmod = 2023-07-25T12:26:13-07:00
+lastmod = 2023-08-02T12:10:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "7f753c5a-aba6-4128-9434-b27d5e960145"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 123.96   | 2023-07-26T16:49:06Z |
+| front    | 2.65 | 7   | 316.52   | 2024-06-08T02:12:10Z |
 | back     | 2.35 | 7   | 166.67   | 2023-11-16T06:31:41Z |
 
 [Ranked voting]({{< relref "ranked_voting.md" >}})

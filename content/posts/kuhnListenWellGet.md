@@ -2,7 +2,7 @@
 title = "Ben Kuhn | To Listen Well, Get Curious"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:22:00-08:00
-lastmod = 2023-07-25T10:57:07-07:00
+lastmod = 2023-08-02T11:24:52-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

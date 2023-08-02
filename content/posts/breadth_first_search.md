@@ -2,7 +2,7 @@
 title = "Breadth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T17:20:00-07:00
-lastmod = 2023-07-25T08:46:05-07:00
+lastmod = 2023-08-02T10:38:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -154,7 +154,7 @@ Computer science
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 2   | 2.00     | 2023-07-21T13:38:55Z |
 
-[Breadth-first search in python]({{< relref "breadth_first_search.md" >}})
+[Breadth-first search in python]({{< relref "breadth_first_search_in_python.md" >}})
 
 ## References
 
@@ -167,5 +167,5 @@ Computer science
 
 ## Backlinks {#backlinks}
 
--   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 -   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})
+-   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})

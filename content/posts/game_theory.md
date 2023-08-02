@@ -2,7 +2,7 @@
 title = "Game theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T07:02:00-07:00
-lastmod = 2023-07-25T10:42:03-07:00
+lastmod = 2023-08-02T10:59:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,9 +48,7 @@ Study of mathematical models of strategic interactions among rational agents.
 -   [Perfect information]({{< relref "perfect_information.md" >}})
 -   [Sequential game]({{< relref "sequential_game.md" >}})
 -   [Zero-sum game]({{< relref "zero_sum_game.md" >}})
--   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
 -   [Ultimatum game]({{< relref "ultimatum_game.md" >}})
--   [Symmetric game]({{< relref "symmetric_game.md" >}})
 -   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
 -   [Coordination]({{< relref "coordination.md" >}})
 -   [Simultaneous game]({{< relref "simultaneous_game.md" >}})
@@ -60,6 +58,8 @@ Study of mathematical models of strategic interactions among rational agents.
 -   [Non-cooperative game]({{< relref "non_cooperative_game.md" >}})
 -   [Stag hunt]({{< relref "stag_hunt.md" >}})
 -   [Imperfect information]({{< relref "imperfect_information.md" >}})
--   [Matching pennies]({{< relref "matching_pennies.md" >}})
 -   [Cooperative game]({{< relref "cooperative_game.md" >}})
+-   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
+-   [Symmetric game]({{< relref "symmetric_game.md" >}})
 -   [Asymmetric game]({{< relref "asymmetric_game.md" >}})
+-   [Matching pennies]({{< relref "matching_pennies.md" >}})

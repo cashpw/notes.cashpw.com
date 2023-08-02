@@ -2,7 +2,7 @@
 title = "Global service load balancer"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T08:34:00-07:00
-lastmod = 2023-07-25T10:42:46-07:00
+lastmod = 2023-08-02T11:01:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

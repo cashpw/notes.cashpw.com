@@ -2,7 +2,7 @@
 title = "Leather-hard"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:48:00-07:00
-lastmod = 2023-07-25T10:59:14-07:00
+lastmod = 2023-08-02T11:27:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

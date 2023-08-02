@@ -2,7 +2,7 @@
 title = "Binomial theorem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-19T09:49:00-08:00
-lastmod = 2023-07-25T08:43:42-07:00
+lastmod = 2023-08-02T10:37:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,7 +54,7 @@ slug = "e3806f4b-94b7-443e-8e7e-278fe8a2781c"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 1.75 | 7   | 54.57    | 2023-09-09T03:38:12Z |
-| back     | 2.35 | 6   | 87.41    | 2023-07-30T07:48:17Z |
+| back     | 2.20 | 7   | 207.64   | 2024-02-23T15:21:23Z |
 
 [Binomial theorem]({{< relref "binomial_theorem.md" >}})
 

@@ -2,7 +2,7 @@
 title = "Biconnected graph"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T20:23:00-07:00
-lastmod = 2023-07-25T08:42:14-07:00
+lastmod = 2023-08-02T10:36:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "99d73aa1-ba7a-4906-a9c8-05b4933c0861"
 
 > In graph theory [[Graph theory]({{< relref "graph_theory.md" >}})], a biconnected graph [[Graph]({{< relref "graph.md" >}})] is a connected [[Connected graph]({{< relref "connectivity_graph_theory.md#connected-graph" >}})] and "nonseparable" graph, meaning that if any one vertex were to be removed, the graph will remain connected. Therefore a biconnected graph has no articulation vertices.
 >
-> The property of being 2-connected [[k-vertex-connected graph]({{< relref "biconnected_graph.md" >}})] is equivalent to biconnectivity, except that the complete graph of two vertices is usually not regarded as 2-connected.
+> The property of being 2-connected [[k-vertex-connected graph]({{< relref "k_vertex_connected_graph.md" >}})] is equivalent to biconnectivity, except that the complete graph of two vertices is usually not regarded as 2-connected.
 >
 > (<a href="#citeproc_bib_item_1">“Biconnected Graph” 2022</a>)
 
@@ -24,7 +24,7 @@ slug = "99d73aa1-ba7a-4906-a9c8-05b4933c0861"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 5   | 40.89    | 2023-09-03T01:23:19Z |
-| back     | 2.35 | 4   | 13.57    | 2023-07-24T05:20:45Z |
+| back     | 2.35 | 5   | 30.76    | 2023-08-26T09:28:08Z |
 
 [Biconnected graph]({{< relref "biconnected_graph.md" >}})
 
@@ -32,7 +32,7 @@ slug = "99d73aa1-ba7a-4906-a9c8-05b4933c0861"
 #### Back {#back}
 
 -   A [connected]({{< relref "connectivity_graph_theory.md#connected-graph" >}}) and non-seperable graph; the graph is still connected even after removing any one vertex.
--   A graph with a [Vertex-connectivity]({{< relref "biconnected_graph.md" >}}) of 2
+-   A graph with a [Vertex-connectivity]({{< relref "vertex_connectivity.md" >}}) of 2
 
 
 #### Source {#source}

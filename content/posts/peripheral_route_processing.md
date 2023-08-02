@@ -2,7 +2,7 @@
 title = "Peripheral route processing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:17:00-07:00
-lastmod = 2023-07-25T11:25:22-07:00
+lastmod = 2023-08-02T11:56:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -71,5 +71,5 @@ A person's consideration of the secondary characteristics of an argument (i.e fr
 ## Backlinks {#backlinks}
 
 -   [Central route processing]({{< relref "central_route_processing.md" >}})
--   [Control the conversation]({{< relref "control_the_conversation.md" >}})
 -   [Never play defense]({{< relref "never_play_defense.md" >}})
+-   [Control the conversation]({{< relref "control_the_conversation.md" >}})

@@ -2,7 +2,7 @@
 title = "Cultural change; slow, then fast"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T14:14:00-08:00
-lastmod = 2023-07-25T10:27:19-07:00
+lastmod = 2023-08-02T10:45:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

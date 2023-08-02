@@ -2,7 +2,7 @@
 title = "String literal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-01T14:49:00-07:00
-lastmod = 2023-07-25T12:31:29-07:00
+lastmod = 2023-08-02T12:36:39-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

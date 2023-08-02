@@ -2,7 +2,7 @@
 title = "Solve the problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:37:00-08:00
-lastmod = 2023-07-25T12:29:01-07:00
+lastmod = 2023-08-02T12:30:08-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -38,5 +38,5 @@ The goal isn't to [Metagame]({{< relref "the_metagame.md" >}}) the problem (i.e.
 
 ## Backlinks {#backlinks}
 
--   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})

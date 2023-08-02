@@ -2,7 +2,7 @@
 title = "Systems Design"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T21:20:00-07:00
-lastmod = 2023-07-25T12:32:29-07:00
+lastmod = 2023-08-02T12:40:22-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

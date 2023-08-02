@@ -2,7 +2,7 @@
 title = "The map is not the territory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-26T14:42:00-07:00
-lastmod = 2023-07-25T12:34:27-07:00
+lastmod = 2023-08-02T12:46:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -44,5 +44,5 @@ A description of a thing is not the thing itself.
 
 ## Backlinks {#backlinks}
 
--   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [David Chapman | Developing Ethical, Social, and Cognitive Competence]({{< relref "david_chapman_developing_ethical_social_and_cognitive_competence.md" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})

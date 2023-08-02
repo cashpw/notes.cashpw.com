@@ -2,7 +2,7 @@
 title = "Put option"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:22:00-08:00
-lastmod = 2023-07-25T11:33:08-07:00
+lastmod = 2023-08-02T12:05:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,6 +45,6 @@ A contract which allows the holder to sell a specific asset at a stated price wi
 
 ## Backlinks {#backlinks}
 
--   [Delta (finance)]({{< relref "delta.md" >}})
 -   [Option (finance)]({{< relref "option.md" >}})
 -   [Strike price]({{< relref "strike_price.md" >}})
+-   [Delta (finance)]({{< relref "delta.md" >}})

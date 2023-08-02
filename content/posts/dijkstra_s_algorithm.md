@@ -2,7 +2,7 @@
 title = "Dijkstra's algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T07:30:00-08:00
-lastmod = 2023-07-25T10:28:26-07:00
+lastmod = 2023-08-02T10:49:45-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -262,13 +262,13 @@ Benefit(s) of only queuing a single item at the start of [Dijkstra's algorithm](
 
 -   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
 -   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
--   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
 -   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
--   [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})
--   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
 -   [Dynamic programming]({{< relref "dynamic_programming.md" >}})
--   [Customizable route planning]({{< relref "customizable_route_planning.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
 -   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
--   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
+-   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
+-   [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})
 -   [Branch and bound]({{< relref "branch_and_bound.md" >}})
+-   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})
+-   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
+-   [Customizable route planning]({{< relref "customizable_route_planning.md" >}})

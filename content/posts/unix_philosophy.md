@@ -2,7 +2,7 @@
 title = "Unix philosophy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:46:00-08:00
-lastmod = 2023-07-25T12:39:30-07:00
+lastmod = 2023-08-02T12:59:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

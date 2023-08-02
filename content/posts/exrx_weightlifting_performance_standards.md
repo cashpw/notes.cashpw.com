@@ -2,14 +2,14 @@
 title = "ExRx | Weightlifting Performance Standards"
 author = ["Cash Weaver"]
 date = 2023-07-06T10:50:00-07:00
-lastmod = 2023-07-25T10:39:48-07:00
+lastmod = 2023-08-02T10:55:10-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "7b52ebd6-f673-4db3-b9ca-49bce7acee56"
 +++
 
-[ExRx]({{< relref "exrx_weightlifting_performance_standards.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
+[ExRx]({{< relref "exrx.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
 
 
 ## Notes {#notes}
@@ -34,10 +34,10 @@ slug = "7b52ebd6-f673-4db3-b9ca-49bce7acee56"
 >
 > [formatting mine]
 
--   [ExRx | Bench Press Strength Standards (Ages 18-39, Lb)]({{< relref "exrx_weightlifting_performance_standards.md" >}})
--   [ExRx | Deadlift Strength Standards (Ages 18-39, Lb)]({{< relref "exrx_weightlifting_performance_standards.md" >}})
--   [ExRx | Press Strength Standards (Ages 18-39, Lb)]({{< relref "exrx_weightlifting_performance_standards.md" >}})
--   [ExRx | Squat Strength Standards (Ages 18-39, Lb)]({{< relref "exrx_weightlifting_performance_standards.md" >}})
+-   [ExRx | Bench Press Strength Standards (Ages 18-39, Lb)]({{< relref "exrx_bench_press_strength_standards_ages_18_39_lb.md" >}})
+-   [ExRx | Deadlift Strength Standards (Ages 18-39, Lb)]({{< relref "exrx_deadlift_strength_standards_ages_18_39_lb.md" >}})
+-   [ExRx | Press Strength Standards (Ages 18-39, Lb)]({{< relref "exrx_press_strength_standards_ages_18_39_lb.md" >}})
+-   [ExRx | Squat Strength Standards (Ages 18-39, Lb)]({{< relref "exrx_squat_strength_standards_ages_18_39_lb.md" >}})
 
 
 ## Flashcards {#flashcards}
@@ -51,4 +51,4 @@ slug = "7b52ebd6-f673-4db3-b9ca-49bce7acee56"
 
 ## Backlinks {#backlinks}
 
--   [Exercise program]({{< relref "exrx_weightlifting_performance_standards.md" >}})
+-   [Exercise program]({{< relref "exercise_program.md" >}})

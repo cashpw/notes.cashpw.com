@@ -2,7 +2,7 @@
 title = "Strongerfastr | L-Sit Progression"
 author = ["Cash Weaver"]
 date = 2023-07-06T08:04:00-07:00
-lastmod = 2023-07-25T12:31:31-07:00
+lastmod = 2023-08-02T12:36:54-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

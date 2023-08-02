@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon | Notes on The Case Against Education"
 author = ["Cash Weaver"]
 date = 2023-01-11T10:44:00-08:00
-lastmod = 2023-07-25T10:53:03-07:00
+lastmod = 2023-08-02T11:19:22-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
@@ -32,5 +32,5 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Ricon n.d.</a>)
 
 ## Backlinks {#backlinks}
 
--   [Signaling]({{< relref "signaling.md" >}})
 -   [Jose Luis Ricon | On Building]({{< relref "jose_luis_ricon_nintil_on_building.md" >}})
+-   [Signaling]({{< relref "signaling.md" >}})

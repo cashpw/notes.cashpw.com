@@ -2,7 +2,7 @@
 title = "DOT in Emacs"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-23T09:14:00-07:00
-lastmod = 2023-07-25T10:28:50-07:00
+lastmod = 2023-08-02T10:51:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

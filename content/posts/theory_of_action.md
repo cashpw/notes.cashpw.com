@@ -2,7 +2,7 @@
 title = "Theory of action"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-03T11:25:00-08:00
-lastmod = 2023-07-25T12:35:05-07:00
+lastmod = 2023-08-02T12:48:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

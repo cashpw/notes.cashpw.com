@@ -2,7 +2,7 @@
 title = "Ceramics exercises"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-10T19:13:00-08:00
-lastmod = 2023-07-25T08:51:00-07:00
+lastmod = 2023-08-02T10:40:57-07:00
 draft = false
 slug = "a500c749-aab9-4150-876f-6f40c76bba35"
 +++
@@ -11,7 +11,7 @@ slug = "a500c749-aab9-4150-876f-6f40c76bba35"
 >
 > (<a href="#citeproc_bib_item_2">SinkingJunk 2016</a>)
 
-Also see [Clary Illian | A Potter's Workbook]({{< relref "illianPotterWorkbook2012.md" >}}) and [Ceramics]({{< relref "ceramics_exercises.md" >}}).
+Also see [Clary Illian | A Potter's Workbook]({{< relref "illianPotterWorkbook2012.md" >}}) and [Ceramics]({{< relref "ceramics.md" >}}).
 
 
 ## Improve technique and consistency {#improve-technique-and-consistency}

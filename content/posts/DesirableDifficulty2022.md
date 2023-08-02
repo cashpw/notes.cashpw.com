@@ -2,7 +2,7 @@
 title = "Desirable difficulty"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:03:00-08:00
-lastmod = 2023-07-25T08:30:24-07:00
+lastmod = 2023-08-02T10:33:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -123,7 +123,7 @@ Guidelines for [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}
 ## Backlinks {#backlinks}
 
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
--   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "DesirableDifficulty2022.md" >}})
+-   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
 -   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

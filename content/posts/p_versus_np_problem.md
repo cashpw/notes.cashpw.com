@@ -2,7 +2,7 @@
 title = "P versus NP problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T09:29:00-08:00
-lastmod = 2023-07-25T11:22:27-07:00
+lastmod = 2023-08-02T11:53:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "ed88423b-621f-4581-9601-40e631bb4f62"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 6   | 106.25   | 2023-08-15T00:39:05Z |
-| back     | 2.50 | 6   | 85.84    | 2023-07-28T18:08:15Z |
+| back     | 2.50 | 7   | 209.70   | 2024-02-24T07:46:30Z |
 
 [P versus NP problem]({{< relref "p_versus_np_problem.md" >}})
 

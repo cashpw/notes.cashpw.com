@@ -2,14 +2,14 @@
 title = "ExRx | Squat Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T11:07:00-07:00
-lastmod = 2023-07-25T10:39:47-07:00
+lastmod = 2023-08-02T10:55:05-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "c4df15c4-fbdc-4de5-b072-cce83d5d76e3"
 +++
 
-[ExRx]({{< relref "exrx_squat_strength_standards_ages_18_39_lb.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
+[ExRx]({{< relref "exrx.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
 
 
 ## Notes {#notes}
@@ -51,4 +51,4 @@ Numbers are in pounds.
 
 ## Backlinks {#backlinks}
 
--   [ExRx | Weightlifting Performance Standards]({{< relref "exrx_squat_strength_standards_ages_18_39_lb.md" >}})
+-   [ExRx | Weightlifting Performance Standards]({{< relref "exrx_weightlifting_performance_standards.md" >}})

@@ -2,7 +2,7 @@
 title = "Walk (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T12:00:00-08:00
-lastmod = 2023-07-25T12:41:34-07:00
+lastmod = 2023-08-02T13:03:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,5 +45,5 @@ A finite, or infinite, sequence of [Edges]({{< relref "edge.md" >}}) which join 
 
 ## Backlinks {#backlinks}
 
--   [Path (graph theory)]({{< relref "path_graph_theory.md" >}})
 -   [Trail (Graph theory)]({{< relref "trail_graph_theory.md" >}})
+-   [Path (graph theory)]({{< relref "path_graph_theory.md" >}})

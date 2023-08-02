@@ -2,7 +2,7 @@
 title = "Blub studies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T05:09:00-08:00
-lastmod = 2023-07-25T08:44:56-07:00
+lastmod = 2023-08-02T10:37:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

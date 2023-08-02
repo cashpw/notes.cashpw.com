@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T10:08:00-08:00
-lastmod = 2023-07-25T10:52:51-07:00
+lastmod = 2023-08-02T11:19:01-07:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false

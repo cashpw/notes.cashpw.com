@@ -2,7 +2,7 @@
 title = "Mortimer J Adler"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:17:00-08:00
-lastmod = 2023-07-25T11:12:22-07:00
+lastmod = 2023-08-02T11:43:43-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

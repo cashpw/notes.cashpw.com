@@ -2,7 +2,7 @@
 title = "Metric (Customizable route planning)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-23T08:37:00-07:00
-lastmod = 2023-07-25T11:10:01-07:00
+lastmod = 2023-08-02T11:39:46-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "b349f179-9181-40e6-a6e9-b1f065ba6abe"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 5   | 39.62    | 2023-08-29T06:07:34Z |
-| back     | 2.50 | 4   | 16.26    | 2023-07-26T22:08:24Z |
+| back     | 2.35 | 5   | 35.23    | 2023-08-31T19:46:37Z |
 
 [Metric (Customizable route planning)]({{< relref "metric_customizable_route_planning.md" >}})
 

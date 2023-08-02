@@ -2,7 +2,7 @@
 title = "Bellman-Ford algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T10:49:00-08:00
-lastmod = 2023-07-25T08:41:15-07:00
+lastmod = 2023-08-02T10:36:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -100,7 +100,7 @@ slug = "2fe284fb-7fbc-4956-9857-db90b66e504e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 133.28   | 2023-07-29T20:12:26Z |
+| 0        | 2.65 | 7   | 349.26   | 2024-07-14T06:16:22Z |
 | 1        | 2.65 | 7   | 269.55   | 2024-03-20T02:35:03Z |
 
 Failure cases for {{[Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})}@0} are {{[Negative cycles]({{< relref "cycle.md#negative-cycle" >}})}@1}, but not negative edges.
@@ -129,7 +129,7 @@ Failure cases for {{[Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.60 | 6   | 25.44    | 2023-07-24T03:57:13Z |
+| 0        | 1.60 | 7   | 39.67    | 2023-09-03T18:59:01Z |
 
 Time complexity of [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}}) is {{\\(\bigtheta{|V||E|}\\)}@0}.
 

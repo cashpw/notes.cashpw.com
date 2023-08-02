@@ -2,7 +2,7 @@
 title = "Lagrange's notation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:05:00-08:00
-lastmod = 2023-07-25T10:57:43-07:00
+lastmod = 2023-08-02T11:25:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -77,5 +77,5 @@ The first derivative of \\(f(x)\\).
 ## Backlinks {#backlinks}
 
 -   [Chain rule]({{< relref "chain_rule.md" >}})
--   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
 -   [Product rule]({{< relref "product_rule.md" >}})
+-   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})

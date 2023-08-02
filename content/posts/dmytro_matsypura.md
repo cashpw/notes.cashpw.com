@@ -2,7 +2,7 @@
 title = "Dmytro Matsypura"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:34:00-08:00
-lastmod = 2023-07-25T10:28:37-07:00
+lastmod = 2023-08-02T10:50:27-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

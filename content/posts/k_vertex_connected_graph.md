@@ -2,7 +2,7 @@
 title = "k-vertex-connected graph"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T20:26:00-07:00
-lastmod = 2023-07-25T10:54:37-07:00
+lastmod = 2023-08-02T11:21:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "78c49f16-1956-4ffb-9207-f72f79025d5b"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 5   | 39.35    | 2023-09-01T12:20:10Z |
-| back     | 2.35 | 4   | 14.60    | 2023-07-22T14:43:32Z |
+| back     | 2.20 | 5   | 33.78    | 2023-08-29T09:54:53Z |
 
 [k-vertex-connected graph]({{< relref "k_vertex_connected_graph.md" >}})
 
@@ -45,5 +45,5 @@ A [Connected graph]({{< relref "connectivity_graph_theory.md#connected-graph" >}
 
 ## Backlinks {#backlinks}
 
--   [Biconnected graph]({{< relref "k_vertex_connected_graph.md" >}})
--   [Vertex-connectivity]({{< relref "k_vertex_connected_graph.md" >}})
+-   [Biconnected graph]({{< relref "biconnected_graph.md" >}})
+-   [Vertex-connectivity]({{< relref "vertex_connectivity.md" >}})

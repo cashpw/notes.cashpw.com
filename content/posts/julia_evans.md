@@ -2,7 +2,7 @@
 title = "Julia Evans"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T17:12:00-07:00
-lastmod = 2023-07-25T10:54:11-07:00
+lastmod = 2023-08-02T11:21:06-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Ask the right questions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:41:00-08:00
-lastmod = 2023-07-25T08:38:41-07:00
+lastmod = 2023-08-02T10:35:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

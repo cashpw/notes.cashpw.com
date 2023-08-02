@@ -2,7 +2,7 @@
 title = "Centering matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T09:48:00-07:00
-lastmod = 2023-07-25T08:50:37-07:00
+lastmod = 2023-08-02T10:40:45-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,7 +42,7 @@ slug = "87b4549f-d8f7-44ec-b11e-4fa14166f157"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.80 | 8   | 482.23   | 2024-08-28T22:19:22Z |
-| 1        | 1.45 | 10  | 70.94    | 2023-07-24T13:24:34Z |
+| 1        | 1.30 | 11  | 97.09    | 2023-11-01T16:18:42Z |
 
 
 ### Definition (Statistics) {#definition--statistics}
@@ -91,8 +91,8 @@ A symmetric and idempotent matrix which, when multiplied by a vector, has the sa
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
-| 1        | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
+| 0        | 2.35 | 3   | 6.00     | 2023-08-05T23:51:13Z |
+| 1        | 2.50 | 3   | 6.00     | 2023-08-07T01:24:04Z |
 
 
 #### Source {#source}

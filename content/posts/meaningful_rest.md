@@ -2,7 +2,7 @@
 title = "Meaningful rest"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:53:00-07:00
-lastmod = 2023-07-25T11:08:07-07:00
+lastmod = 2023-08-02T11:37:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,7 +48,7 @@ The term is from [Neel Nanda | Post 29: Meaningful Rest]({{< relref "neel_nanda_
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 322.49   | 2024-04-11T07:56:25Z |
-| back     | 3.10 | 6   | 164.21   | 2023-07-26T22:42:26Z |
+| back     | 3.10 | 7   | 511.95   | 2024-12-20T13:03:50Z |
 
 [Meaningful rest]({{< relref "meaningful_rest.md" >}})
 

@@ -2,7 +2,7 @@
 title = "std::variant"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:19:00-07:00
-lastmod = 2023-07-25T12:31:15-07:00
+lastmod = 2023-08-02T12:35:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -50,7 +50,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 6   | 87.18    | 2023-10-11T18:23:17Z |
-| 1        | 2.50 | 5   | 42.79    | 2023-07-31T09:17:50Z |
+| 1        | 2.50 | 6   | 97.01    | 2023-11-06T01:35:13Z |
 
 Prefer {{[std::variant]({{< relref "std_variant.md" >}})}@0} to {{naked [C++ union]({{< relref "c_union.md" >}})}@1}.
 
@@ -64,8 +64,8 @@ Prefer {{[std::variant]({{< relref "std_variant.md" >}})}@0} to {{naked [C++ uni
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 5   | 24.57    | 2023-07-26T04:02:04Z |
-| 1        | 2.50 | 5   | 39.84    | 2023-07-26T11:40:21Z |
+| 0        | 2.05 | 6   | 49.49    | 2023-09-14T02:48:12Z |
+| 1        | 2.35 | 6   | 48.32    | 2023-09-13T21:46:06Z |
 
 Use {{`std::holds_alternative<type>`}@0} to test the type held in a {{[std::variant]({{< relref "std_variant.md" >}})}@1}.
 

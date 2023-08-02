@@ -2,7 +2,7 @@
 title = "Subset sum problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:30:00-08:00
-lastmod = 2023-07-25T12:31:52-07:00
+lastmod = 2023-08-02T12:37:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -94,5 +94,5 @@ Determine whether any subset of values in a [Multiset]({{< relref "multiset.md" 
 -   [2sum linear time solution in Python]({{< relref "2sum_linear_time_solution_in_python.md" >}})
 -   [2sum]({{< relref "2sum.md" >}})
 -   [Pseudo-polynomial time subset sum problem implementation in Python]({{< relref "pseudo_polynomial_time_sumbset_sum_problem_implementation_in_python.md" >}})
--   [Knapsack problem]({{< relref "knapsack_problem.md" >}})
 -   [Three sum]({{< relref "three_sum.md" >}})
+-   [Knapsack problem]({{< relref "knapsack_problem.md" >}})

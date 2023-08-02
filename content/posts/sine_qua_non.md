@@ -2,7 +2,7 @@
 title = "Sine qua non"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-13T11:32:00-08:00
-lastmod = 2023-07-25T12:28:20-07:00
+lastmod = 2023-08-02T12:26:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "d216377f-00fe-45d5-8ed3-e3bef88eae70"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.30 | 8   | 19.98    | 2023-07-26T03:45:09Z |
+| 0        | 1.30 | 9   | 26.66    | 2023-08-22T06:55:05Z |
 | 1        | 2.65 | 6   | 116.27   | 2023-09-02T23:28:37Z |
 
 {{[Sine qua non]({{< relref "sine_qua_non.md" >}})}{[Latin]({{< relref "latin.md" >}})}@0} :: {{A thing which is absolutely necessary}{English}@1}

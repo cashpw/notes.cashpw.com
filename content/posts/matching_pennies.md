@@ -2,7 +2,7 @@
 title = "Matching pennies"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T12:10:00-08:00
-lastmod = 2023-07-25T11:06:10-07:00
+lastmod = 2023-08-02T11:35:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "24c39c95-3f91-4e42-81e6-7eb87eb24546"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.95 | 6   | 136.99   | 2023-08-20T16:24:59Z |
-| back     | 2.35 | 4   | 15.49    | 2023-07-30T01:07:43Z |
+| back     | 2.20 | 5   | 33.80    | 2023-09-02T19:09:36Z |
 
 [Matching pennies]({{< relref "matching_pennies.md" >}})
 

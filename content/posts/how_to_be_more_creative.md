@@ -2,7 +2,7 @@
 title = "Creativity is a product of volume"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T11:27:00-07:00
-lastmod = 2023-07-25T10:45:53-07:00
+lastmod = 2023-08-02T11:08:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Discipline is more effective than motivation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:21:00-08:00
-lastmod = 2023-07-25T10:28:35-07:00
+lastmod = 2023-08-02T10:50:16-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

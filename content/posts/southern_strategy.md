@@ -2,7 +2,7 @@
 title = "Southern strategy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-13T08:02:00-08:00
-lastmod = 2023-07-25T12:29:14-07:00
+lastmod = 2023-08-02T12:31:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

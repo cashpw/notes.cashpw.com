@@ -2,7 +2,7 @@
 title = "Mortimer Jerome Adler, Charles Van Doren | How to Read a Book"
 author = ["Cash Weaver"]
 date = 2022-12-24T09:16:00-08:00
-lastmod = 2023-07-25T11:12:27-07:00
+lastmod = 2023-08-02T11:43:53-07:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

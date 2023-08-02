@@ -2,7 +2,7 @@
 title = "Declarative programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:49:00-07:00
-lastmod = 2023-07-25T10:27:59-07:00
+lastmod = 2023-08-02T10:48:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,7 +30,7 @@ slug = "f234a51d-23e4-4050-bf2c-60895a99ee12"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 92.28    | 2023-10-14T07:31:38Z |
-| back     | 1.45 | 2   | 2.00     | 2023-07-25T03:47:02Z |
+| back     | 1.60 | 3   | 6.00     | 2023-08-01T03:04:50Z |
 
 [Declarative programming]({{< relref "declarative_programming.md" >}})
 
@@ -53,6 +53,6 @@ A [Programming paradigm]({{< relref "programming_paradigm.md" >}}) in which the 
 
 ## Backlinks {#backlinks}
 
--   [Functional programming]({{< relref "functional_programming.md" >}})
 -   [Programming paradigm]({{< relref "programming_paradigm.md" >}})
 -   [Imperative programming]({{< relref "imperative_programming.md" >}})
+-   [Functional programming]({{< relref "functional_programming.md" >}})

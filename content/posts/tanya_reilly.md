@@ -2,7 +2,7 @@
 title = "Tanya Reilly"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T13:26:00-07:00
-lastmod = 2023-07-25T12:32:53-07:00
+lastmod = 2023-08-02T12:42:14-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

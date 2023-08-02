@@ -2,7 +2,7 @@
 title = "Better than bullion: Seasoned vegetable base"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-02T14:18:00-07:00
-lastmod = 2023-07-25T08:41:54-07:00
+lastmod = 2023-08-02T10:36:22-07:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false

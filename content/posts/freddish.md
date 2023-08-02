@@ -2,7 +2,7 @@
 title = "Freddish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:59:00-07:00
-lastmod = 2023-07-25T10:41:31-07:00
+lastmod = 2023-08-02T10:58:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,7 +46,7 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 7   | 255.06   | 2023-12-09T04:37:49Z |
-| 1        | 3.10 | 6   | 152.36   | 2023-07-29T00:45:22Z |
+| 1        | 3.10 | 7   | 440.64   | 2024-10-12T06:25:50Z |
 
 
 #### Source {#source}
@@ -59,7 +59,7 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 231.39   | 2023-12-16T23:40:46Z |
-| back     | 3.10 | 6   | 168.39   | 2023-07-31T23:30:02Z |
+| back     | 3.25 | 7   | 557.37   | 2025-02-08T10:13:00Z |
 
 [Freddish]({{< relref "freddish.md" >}})
 
@@ -78,7 +78,7 @@ A set of language patterns for talking with children which anticipates and prote
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.60 | 9   | 77.57    | 2023-07-26T06:10:40Z |
+| front    | 1.60 | 10  | 136.43   | 2023-12-10T01:21:12Z |
 | back     | 2.80 | 7   | 363.73   | 2024-06-23T11:22:42Z |
 
 [Freddish]({{< relref "freddish.md" >}})

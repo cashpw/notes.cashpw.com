@@ -2,7 +2,7 @@
 title = "Growth mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T15:27:00-07:00
-lastmod = 2023-07-25T10:43:56-07:00
+lastmod = 2023-08-02T11:03:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,8 +54,8 @@ A concept which holds that individuals can enhance/expand/grow their intelligenc
 ## Backlinks {#backlinks}
 
 -   [Grit]({{< relref "grit.md" >}})
--   [The first lesson]({{< relref "the_first_lesson.md" >}})
 -   [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})
--   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})
--   [Fixed mindset]({{< relref "fixed_mindset.md" >}})
 -   [No zero days]({{< relref "no_zero_days.md" >}})
+-   [Fixed mindset]({{< relref "fixed_mindset.md" >}})
+-   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})
+-   [The first lesson]({{< relref "the_first_lesson.md" >}})

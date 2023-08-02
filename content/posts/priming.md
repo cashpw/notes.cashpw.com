@@ -2,7 +2,7 @@
 title = "Priming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-24T19:59:00-08:00
-lastmod = 2023-07-25T11:29:38-07:00
+lastmod = 2023-08-02T12:01:15-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

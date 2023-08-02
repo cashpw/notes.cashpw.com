@@ -2,7 +2,7 @@
 title = "Intrinsic value (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:43:00-08:00
-lastmod = 2023-07-25T10:49:39-07:00
+lastmod = 2023-08-02T11:14:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,5 +45,5 @@ The value of an asset calculated on simplified assumptions.
 
 ## Backlinks {#backlinks}
 
--   [Option time value]({{< relref "time_value_finance.md" >}})
 -   [Theta (finance)]({{< relref "theta_finance.md" >}})
+-   [Option time value]({{< relref "time_value_finance.md" >}})

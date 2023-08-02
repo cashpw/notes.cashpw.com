@@ -2,7 +2,7 @@
 title = "Third place"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:48:00-07:00
-lastmod = 2023-07-25T12:35:39-07:00
+lastmod = 2023-08-02T12:50:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -55,7 +55,7 @@ slug = "34fb63b5-5a47-436f-b123-a1d6ffbf4fab"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 314.05   | 2024-04-11T02:19:55Z |
-| back     | 2.65 | 3   | 6.00     | 2023-07-29T03:49:03Z |
+| back     | 2.80 | 4   | 18.06    | 2023-08-16T16:33:04Z |
 
 [Third place]({{< relref "third_place.md" >}})
 

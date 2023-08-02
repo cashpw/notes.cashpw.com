@@ -2,7 +2,7 @@
 title = "Donella Meadows"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T15:35:00-08:00
-lastmod = 2023-07-25T10:28:47-07:00
+lastmod = 2023-08-02T10:51:04-07:00
 tags = ["has-todo", "person", "has-todo", "person"]
 categories = ["has-todo", "person"]
 draft = false

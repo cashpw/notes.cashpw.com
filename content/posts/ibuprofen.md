@@ -2,7 +2,7 @@
 title = "Ibuprofen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:08:00-07:00
-lastmod = 2023-07-25T10:46:32-07:00
+lastmod = 2023-08-02T11:09:21-07:00
 tags = ["has-todo", "concept", "has-todo", "concept"]
 categories = ["has-todo", "concept"]
 draft = false

@@ -2,14 +2,14 @@
 title = "ExRx | Press Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T11:04:00-07:00
-lastmod = 2023-07-25T10:39:45-07:00
+lastmod = 2023-08-02T10:55:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "98db4092-29da-45aa-b2a8-5837a5f0697a"
 +++
 
-[ExRx]({{< relref "exrx_press_strength_standards_ages_18_39_lb.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
+[ExRx]({{< relref "exrx.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
 
 
 ## Notes {#notes}
@@ -66,4 +66,4 @@ Numbers are in pounds.
 
 ## Backlinks {#backlinks}
 
--   [ExRx | Weightlifting Performance Standards]({{< relref "exrx_press_strength_standards_ages_18_39_lb.md" >}})
+-   [ExRx | Weightlifting Performance Standards]({{< relref "exrx_weightlifting_performance_standards.md" >}})

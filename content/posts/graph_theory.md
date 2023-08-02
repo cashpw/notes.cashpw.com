@@ -2,7 +2,7 @@
 title = "Graph theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T21:24:00-07:00
-lastmod = 2023-07-25T10:43:25-07:00
+lastmod = 2023-08-02T11:02:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,16 +28,16 @@ slug = "5bc61709-6612-4287-921f-3e2509bd2261"
 -   [Adjacency matrix]({{< relref "adjacency_matrix.md" >}})
 -   [Forest]({{< relref "forest.md" >}})
 -   [Vertex]({{< relref "vertex.md" >}})
--   [Biconnected graph]({{< relref "graph_theory.md" >}})
 -   [Systems Design]({{< relref "systems_design.md" >}})
 -   [Spanning tree]({{< relref "spanning_tree.md" >}})
 -   [Undirected graph]({{< relref "undirected_graph.md" >}})
 -   [Graph]({{< relref "graph.md" >}})
 -   [Tree rotation]({{< relref "tree_rotation.md" >}})
 -   [Cycle (Graph theory)]({{< relref "cycle.md" >}})
--   [Cut (Graph theory)]({{< relref "cut_graph_theory.md" >}})
 -   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
 -   [Closure (Graph)]({{< relref "closure_graph.md" >}})
 -   [Edge]({{< relref "edge.md" >}})
 -   [Component (Graph theory)]({{< relref "component_graph_theory.md" >}})
 -   [Directed graph]({{< relref "directed_graph.md" >}})
+-   [Biconnected graph]({{< relref "biconnected_graph.md" >}})
+-   [Cut (Graph theory)]({{< relref "cut_graph_theory.md" >}})

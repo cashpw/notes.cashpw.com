@@ -2,7 +2,7 @@
 title = "Tanner Greer | Culture Wars Are Long Wars"
 author = ["Cash Weaver"]
 date = 2023-01-10T13:37:00-08:00
-lastmod = 2023-07-25T12:32:46-07:00
+lastmod = 2023-08-02T12:41:35-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

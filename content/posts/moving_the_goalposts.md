@@ -2,7 +2,7 @@
 title = "Moving the goalposts"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T17:03:00-07:00
-lastmod = 2023-07-25T11:12:31-07:00
+lastmod = 2023-08-02T11:44:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,5 +45,5 @@ A phrase meaning to change the rules or criterion of a process/competition/etc, 
 
 ## Backlinks {#backlinks}
 
--   [Control the conversation]({{< relref "control_the_conversation.md" >}})
 -   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})
+-   [Control the conversation]({{< relref "control_the_conversation.md" >}})

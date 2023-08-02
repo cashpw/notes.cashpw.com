@@ -2,7 +2,7 @@
 title = "How I write notes"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T20:21:00-08:00
-lastmod = 2023-07-25T10:45:45-07:00
+lastmod = 2023-08-02T11:08:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

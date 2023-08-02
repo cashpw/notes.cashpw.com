@@ -2,7 +2,7 @@
 title = "Ontology"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:33:00-08:00
-lastmod = 2023-07-25T11:20:43-07:00
+lastmod = 2023-08-02T11:51:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

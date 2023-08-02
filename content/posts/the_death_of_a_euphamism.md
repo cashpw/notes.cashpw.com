@@ -2,7 +2,7 @@
 title = "Death of a euphamism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:40:00-07:00
-lastmod = 2023-07-25T12:34:02-07:00
+lastmod = 2023-08-02T12:45:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

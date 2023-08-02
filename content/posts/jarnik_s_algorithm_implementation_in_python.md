@@ -2,7 +2,7 @@
 title = "Jarnik's algorithm implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:52:00-08:00
-lastmod = 2023-07-25T10:51:29-07:00
+lastmod = 2023-08-02T11:16:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,8 +22,6 @@ T = TypeVar('T')
 VertexId = int
 EdgeWeight = int
 WeightedEdges = Mapping[VertexId, Mapping[VertexId, EdgeWeight]]
-UnweightedEdges = Mapping[VertexId, List[VertexId]]
-WeightedAdjacencyList = List[Tuple[VertexId, VertexId, EdgeWeight]]
 AdjacencyList = List[Tuple[VertexId, VertexId]]
 
 @dataclass
@@ -106,7 +104,7 @@ print(sorted(jarniks_minimum_spanning_tree(edges)), 'should be [(a,b), (a,e), (a
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 2   | 2.00     | 2023-06-29T15:17:08Z |
+| front    | 1.90 | 2   | 2.00     | 2023-08-03T15:00:10Z |
 
 Implement [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}}) in [Python]({{< relref "python.md" >}})
 
