@@ -56,22 +56,9 @@ showAuthor = false
   [params.homeInfoParams]
   Title = "Hi there 👋"
   Content = """
-These are my personal notes.
+These are my [interlinked](/posts/6037800d-34c3-4d62-a33b-3931d694f083) [personal](/posts/2c8acd36-620a-47a7-8d3a-63594fd2065c) notes ([how](/posts/5140bc26-825e-4e26-aec6-3738a5fe2ab1), [why](/posts/7add4362-8a4e-4148-ac25-185213327b33)). These sorts of interconnected notes are a type of [personal knowledge management](/posts/773406e0-fe95-41f4-a254-b2c6ade18ce9) system. They're sometimes called [zettelkasten](/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710), a second brain, or a digital garden.
 
-The key component of my notes are the [links and backlinks which connect them](/posts/6037800d-34c3-4d62-a33b-3931d694f083). These sorts of interconnected notes are a type of [personal knowledge management](/posts/773406e0-fe95-41f4-a254-b2c6ade18ce9) system. They're sometimes called [zettelkasten](/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710), a second brain, or a digital garden.
-
-Related to the [Metagame](/posts/462b9154-2519-45e9-a4f5-35e7c32128c7) of taking notes:
-
--   [How I write notes](posts/5140bc26-825e-4e26-aec6-3738a5fe2ab1)
--   [Why I write notes](posts/7add4362-8a4e-4148-ac25-185213327b33)
-
-Check out the [archives](/archives) for a full list of posts or start from one of my favorites:
-
-1. [Do things that compound](/posts/92cf48f0-63a6-4d1d-9275-c80f6743ccb9/)
-1. [Tell all the truth but tell it slant](/posts/af1ca7da-bebf-4161-8162-057cae4a0951)
-1. [Play to Win](/posts/4398317e-6aa1-4dd4-b2a5-6334256ca2cc)
-
-I also post vegan cooking [recipes](/tags/recipe), [ingredients](/tags/ingredient), techniques, etc.
+Check out the [archives](/archives) for a full list of posts or start from one of my [favorites](/posts/2a586a0e-eddc-4903-9c90-7e3a91e3204c) or a (vegan) [recipe](/tags/recipe)/[ingredient](/tags/ingredient).
 """
 
   [[params.socialIcons]]
