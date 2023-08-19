@@ -61,6 +61,19 @@ concept
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
+<h2>Heapsort implementation in python
+</h2>
+</header>
+<div class=entry-content>
+<p>An Implementation of Heapsort in Python.
+from typing import List, TypeVar, Generic, Tuple from collections.abc import Callable from math import floor T = TypeVar('T') Comparator = Callable[[id:T,T], int] def get_parent_index(child_index: int) -> int: if child_index == 0: return 0 return floor((child_index - 1) / 2.0) def get_child_indices(parent_index: int) -> Tuple[int, int]: return (parent_index * 2) + 1, (parent_index * 2) + 2 def heapsort(items: List[T], comparator: Comparator) -> List[T]: """Sort ITEMS in-place using heapsort....</p>
+</div>
+<footer class=entry-footer><span title="2022-10-17 09:22:00 -0700 -0700">2022-10-17</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:05:49 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/heapsort_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Heapsort implementation in python" href=http://notes.cashpw.com/posts/1866a9ee-480e-4c8e-95d1-549bd30f13dc/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
 <h2>Yes, and
 </h2>
 </header>
@@ -177,21 +190,6 @@ Tribalism or Coalitional Instincts is closely connected to the concept of in/out
 <footer class=entry-footer><span title="2022-10-12 11:24:00 -0700 -0700">2022-10-12</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:56:37 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/tribalism.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
 <a class=entry-link aria-label="post link to Tribalism" href=http://notes.cashpw.com/posts/4cb7f185-7fc0-47aa-8a6a-9454de9a999c/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Switching barrier
-</h2>
-</header>
-<div class=entry-content>
-<p>Switching costs or switching barriers […] may be defined as the disadvantages or expenses consumers feel they experience, along with the economic and psychological costs of switching from one alternative to another.
-(“Switching Barriers” 2022)
-Also see Network effect.
-Flashcards Definition position ease box interval due front 2.65 7 268.65 2024-02-16T11:44:49Z back 2.20 7 135.74 2023-08-20T16:17:46Z Switching barrier...</p>
-</div>
-<footer class=entry-footer><span title="2022-10-12 11:00:00 -0700 -0700">2022-10-12</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:38:56 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/switching_barriers.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Switching barrier" href=http://notes.cashpw.com/posts/ffff7383-e701-4fca-ad82-4e1a0ac3d509/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
