@@ -61,6 +61,33 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
+<h2>Pure virtual function
+</h2>
+</header>
+<div class=entry-content>
+<p>A virtual function which the implementing class must implement. They’re denoted with =0; (see the first and second virtual functions in Container).
+class Container { public: virtual double& operator[](int) = 0; virtual int size() const = 0; virtual ˜Container() {} }; Flashcards Denotes position ease box interval due front 2.35 3 6.00 2023-08-01T15:06:16Z back 2.80 5 45.98 2023-08-16T01:19:30Z Pure virtual function...</p>
+</div>
+<footer class=entry-footer><span title="2023-05-18 09:37:00 -0700 -0700">2023-05-18</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:05:03 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/pure_virtual_function.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Pure virtual function" href=http://notes.cashpw.com/posts/cbe60cda-fc7d-4188-9cb3-4715ae550b3d/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>std::initializer_list
+</h2>
+</header>
+<div class=entry-content>
+<p>A part of the Standard Library (C++).
+std::vector v = {1, 2, 3}; {1, 2, 3} in the code above is an example of an std::initializer_list.
+#include&lt;initializer_list> class Vector { Vector(std::initializer_list&lt;double> list) : elements_(new double[list.size()]), size(list.size()) { std::copy(list.begin(), list.end(), elements); } } Flashcards Example(s) position ease box interval due front 2.35 6 82.69 2023-10-11T07:42:46Z back 2.50 5 41.44 2023-08-04T23:53:54Z std::initializer_list...</p>
+</div>
+<footer class=entry-footer><span title="2023-05-18 09:18:00 -0700 -0700">2023-05-18</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:35:09 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/std_initializer_list.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to std::initializer_list" href=http://notes.cashpw.com/posts/a707abfd-b17d-40d0-a1c2-1caa14e2de47/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>Richard Feynman
 </h2>
 </header>
@@ -172,33 +199,6 @@ Back Default member access: struct: Members are public by default class: Members
 <footer class=entry-footer><span title="2023-05-11 10:04:00 -0700 -0700">2023-05-11</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:38:58 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/c_struct.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
 <a class=entry-link aria-label="post link to C++ struct" href=http://notes.cashpw.com/posts/77af446a-bdc3-4800-b72e-240b66e69154/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Operators in C++
-</h2>
-</header>
-<div class=entry-content>
-<p>>> and &lt;&lt; These double angle-brackets are either:
-Iostreams: “Put-to” (&lt;&lt;) or “get-from” (>>) Numbers: Bit-wise left shift (&lt;&lt;) and right shift (>>) Indirection operator The indirection, or dereference, operator is the asterisk (*).
-#include&lt;iostream> int foo() { int a = 5; int* b = &amp;a; return *b; } int main() { std::cout &lt;&lt; foo(); } Address-of operator The address-of operator is ampersand (&).
-#include&lt;iostream> int foo() { int a = 5; int* b = &amp;a; return *b; } int main() { std::cout &lt;&lt; foo(); } Scope resolution operator The scope resolution operator is ::....</p>
-</div>
-<footer class=entry-footer><span title="2023-05-04 16:20:00 -0700 -0700">2023-05-04</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:51:32 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/operators_in_c.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Operators in C++" href=http://notes.cashpw.com/posts/06278a18-c5ee-48fb-80af-422c748c610d/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Lambda calculus
-</h2>
-</header>
-<div class=entry-content>
-<p>Flashcards Backlinks Functional programming </p>
-</div>
-<footer class=entry-footer><span title="2023-05-03 15:30:00 -0700 -0700">2023-05-03</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:25:43 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/lambda_calculus.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Lambda calculus" href=http://notes.cashpw.com/posts/a81fbc80-350e-4c7a-8332-09861e34b5bf/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

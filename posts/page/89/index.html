@@ -61,6 +61,30 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
+<h2>Acetaminophen
+</h2>
+</header>
+<div class=entry-content>
+<p>Flashcards AKA position ease box interval due 0 1.90 4 10.30 2023-06-09T23:25:51Z 1 2.50 9 225.57 2023-08-21T04:39:08Z {{Acetaminophen}@0} {{Tylenol}@1} Source </p>
+</div>
+<footer class=entry-footer><span title="2022-07-05 17:08:00 -0700 -0700">2022-07-05</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:33:35 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/acetaminophen.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Acetaminophen" href=http://notes.cashpw.com/posts/2e981d20-0244-4ff1-ad21-4024fc24630f/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Ibuprofen
+</h2>
+</header>
+<div class=entry-content>
+<p>Expand Flashcards AKA position ease box interval due 0 1.85 7 114.43 2023-09-04T02:11:52Z 1 1.30 1 1.00 2023-06-01T15:46:15Z {{Ibuprofen}@0} {{Advil}@1} </p>
+</div>
+<footer class=entry-footer><span title="2022-07-05 17:08:00 -0700 -0700">2022-07-05</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:09:21 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/ibuprofen.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Ibuprofen" href=http://notes.cashpw.com/posts/f438ab7b-6518-4806-8e2f-f591376677f8/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>Greek alphabet
 </h2>
 </header>
@@ -164,33 +188,6 @@ Stable sorting algorithm External memory algorithm Algorithm procedure MergeSort
 <footer class=entry-footer><span title="2022-07-01 11:23:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:38:39 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/merge_sort.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
 <a class=entry-link aria-label="post link to Merge sort" href=http://notes.cashpw.com/posts/4ad76968-7e82-4d68-b8fa-ff6059f3c843/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Stable sorting algorithm
-</h2>
-</header>
-<div class=entry-content>
-<p>Stable sort algorithms sort equal elements in the same order that they appear in the input.
-(“Sorting Algorithm” 2022)
->>> stable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')]) [(3, 'c'), (8, 'b'), (8, 'd'), (10, 'a')]) Flashcards Definition (Computer science) position ease box interval due back 1.75 8 87.02 2023-08-28T01:32:05Z front 2.65 7 330.75 2024-02-13T11:32:04Z Stable sorting algorithm...</p>
-</div>
-<footer class=entry-footer><span title="2022-07-01 11:08:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:33:32 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/stable_sorting_algorithm.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Stable sorting algorithm" href=http://notes.cashpw.com/posts/740ce42a-3a80-4ecb-9438-fedff074443b/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Quicksort implementation in Python
-</h2>
-</header>
-<div class=entry-content>
-<p>Implementation of Quicksort in Python.
-from typing import List, Callable def swap(ints: List[int], indexA: int, indexB: int) -> None: """Swap the values in INTS at INDEXA and INDEXB.""" valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], comparator: Callable[[id:int, int], bool], low_index: int, high_index: int) -> int: """Sorts sublist into [{&lt;= pivot}, pivot, {> than pivot}]""" pivot_index = high_index i = low_index - 1 for j in range(low_index, high_index): if comparator(ints[j], ints[pivot_index]): i += 1 swap(ints, i, j) i += 1 swap(ints, i, pivot_index) return i def quick_sort_inner(ints: List[int], comparator: Callable[[id:int, int], bool], low_index: int, high_index: int) -> List[int]: if low_index >= high_index or low_index &lt; 0: return pivot_index = partition(ints, comparator, low_index, high_index) quick_sort_inner(ints, comparator, 0, pivot_index - 1) quick_sort_inner(ints, comparator, pivot_index + 1, high_index) return ints def quick_sort(ints: List[int], comparator: Callable[[id:int, int], bool]) -> List[int]: return quick_sort_inner(ints, comparator, 0, len(ints) - 1) a = [10, 15, 5, 8, 2, 1, 3, 9] print(quick_sort(a, lambda a, b: a &lt;= b)) Flashcards Implement position ease box interval due front 2....</p>
-</div>
-<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:09:18 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/quicksort_implementation_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://notes.cashpw.com/posts/ed982b37-6f8e-4b89-bb51-ac608510325e/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

@@ -61,6 +61,32 @@ concept
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
+<h2>3sum solution in Python
+</h2>
+</header>
+<div class=entry-content>
+<p>from typing import List, Optional, Mapping def three_sum(numbers: List[float], target: float) -> Optional[List[float]]: """Return a subset of NUMBERS of length 3 which sum to TARGET if one exists; else None. Assumes that floats in NUMBERS can repeat.""" # Mapping from float to the number of times we've seen that float previous_numbers: Mapping[float, int] = {} for i in range(len(numbers)): if numbers[i] in previous_numbers: previous_numbers[numbers[i]] += 1 else: previous_numbers[numbers[i]] = 1 for j in range(len(numbers)): if j == i: continue difference = target - (numbers[i] + numbers[j]) if difference in previous_numbers: subset = set([numbers[i], numbers[j], difference]) subset_as_list = [numbers[i], numbers[j], difference] if len(subset) == 3: return subset_as_list if len(subset) == 2: if numbers[i] == numbers[j] or previous_numbers[difference] > 1: return subset_as_list if len(subset) == 1: if previous_numbers[difference] > 2: return subset_as_list return None print(three_sum([2,3,4,5,6], 12), 'should be [2,4,6] or [3,4,5]') print(three_sum([2,3,4,5,-6], 0), 'should be [2,4,-6]') print(three_sum([2,3,4,2,2], 6), 'should be [2,2,2]') print(three_sum([2,3,4,5,2], 6), 'should be None') Flashcards Solve position ease box interval due front 2....</p>
+</div>
+<footer class=entry-footer><span title="2023-02-07 16:26:00 -0800 -0800">2023-02-07</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:32:53 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/3sum_solution_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to 3sum solution in Python" href=http://notes.cashpw.com/posts/8940a6c3-151a-4bbd-8264-fc4cecd7ba5a/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Three sum
+</h2>
+</header>
+<div class=entry-content>
+<p>In computational complexity theory, the 3SUM problem asks if a given set of \(n\) real numbers contains three elements that sum to zero. A generalized version, k-SUM, asks the same question on k numbers. 3SUM can be easily solved in \(\bigo{n^2}\) time, \({\bigomega{n^{\lceil k/2\rceil }}}\) lower bounds are known in some specialized models of computation (Erickson 1999).
+(“3SUM” 2022)
+Three sum is a Technical interview question and a variant of the Subset sum problem....</p>
+</div>
+<footer class=entry-footer><span title="2023-02-07 16:24:00 -0800 -0800">2023-02-07</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:51:56 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/three_sum.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Three sum" href=http://notes.cashpw.com/posts/f6dc97ab-0ff3-4751-9742-b8ce764c99cb/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
 <h2>2sum linear time solution in Python
 </h2>
 </header>
@@ -163,31 +189,6 @@ This month Next month Flashcards </p>
 <footer class=entry-footer><span title="2023-02-03 08:57:00 -0800 -0800">2023-02-03</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:36:14 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/matrix_multiplication.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
 <a class=entry-link aria-label="post link to Matrix multiplication" href=http://notes.cashpw.com/posts/a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Pascal's triangle
-</h2>
-</header>
-<div class=entry-content>
-<p> References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} Flashcards </p>
-</div>
-<footer class=entry-footer><span title="2023-02-03 07:35:00 -0800 -0800">2023-02-03</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-02-05 14:16:29 -0800 -0800">2023-02-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/pascal_s_triangle.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Pascal's triangle" href=http://notes.cashpw.com/posts/3c74978f-4379-47ae-92af-7001d657ef61/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Permutation
-</h2>
-</header>
-<div class=entry-content>
-<p>In mathematics, a permutation of a set is, loosely speaking, an arrangement of its members into a sequence or linear order, or if the set is already ordered, a rearrangement of its elements. The word “permutation” also refers to the act or process of changing the linear order of an ordered set.
-Permutations differ from combinations [Combination], which are selections of some members of a set regardless of order. For example, written as tuples, there are six permutations of the set {1, 2, 3}, namely (1, 2, 3), (1, 3, 2), (2, 1, 3), (2, 3, 1), (3, 1, 2), and (3, 2, 1)....</p>
-</div>
-<footer class=entry-footer><span title="2023-02-03 07:35:00 -0800 -0800">2023-02-03</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:56:25 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/permutation.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Permutation" href=http://notes.cashpw.com/posts/cf4068b9-bda6-49c1-812a-0314945c4425/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

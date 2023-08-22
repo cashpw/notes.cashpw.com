@@ -61,6 +61,36 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
+<h2>Little-o notation
+</h2>
+</header>
+<div class=entry-content>
+<p>Little-o notation, written as \(\littleo{g(n)}\), is a stronger statement than Big O notation. It implies that \(g(x)\) grows much faster than \(f(x)\). It’s defined as:
+\[f(x) = \littleo{g(x)} \overset{\Delta}{=} \lim_{x \to \infty} \frac{f(x)}{g(x)} = 0\]
+Relationship with Big-O notation \[\begin{align}3n^3 &= \bigo{n^3} \\ 3n^3 &\ne \littleo{n^3} \\ 3n^3 &= \littleo{n^4}\end{align}\]
+To use an analogy:
+\[\begin{align}f(n) &\in \bigo{g(n)} &\implies f(n) &\le g(n) \\ f(n) &\in \littleo{g(n)} &\implies f(n) &&lt; g(n)\end{align}\]
+Flashcards Definition (Computer science) position ease box interval due back 2....</p>
+</div>
+<footer class=entry-footer><span title="2022-08-19 19:06:00 -0700 -0700">2022-08-19</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:31:12 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/little_o_notation.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Little-o notation" href=http://notes.cashpw.com/posts/96e6cece-bfe4-4f80-b526-9578d2431364/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Big-O notation
+</h2>
+</header>
+<div class=entry-content>
+<p>Big O notation is denoted with \(\bigo{g(n)}\) and indicates an worst-case asymptotic upper bound. While \(2n^2\) is in \(\bigo{n^9}\), it’s preferred to be as precise as possible and state the lowest valid case: \(2n^2 = \bigo{n^2}\).
+Flashcards Definition (Computer science) position ease box interval due back 2.35 8 433.35 2024-09-23T21:54:39Z front 2.65 8 455.94 2024-09-19T14:15:53Z Big O notation...</p>
+</div>
+<footer class=entry-footer><span title="2022-08-19 18:40:00 -0700 -0700">2022-08-19</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:36:33 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/big_o_notation.org rel="noopener noreferrer" target=_blank>Edit</a>
+</footer>
+<a class=entry-link aria-label="post link to Big-O notation" href=http://notes.cashpw.com/posts/7ca69182-2f04-4e4a-b426-ec428409d99c/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>Matrix of ones
 </h2>
 </header>
@@ -187,34 +217,6 @@ unstable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')]) > [(3, 'c'), (8, 'd'), 
 <footer class=entry-footer><span title="2022-08-17 16:20:00 -0700 -0700">2022-08-17</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:59:18 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/unstable_sorting_algorithm.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
 <a class=entry-link aria-label="post link to Unstable sorting algorithm" href=http://notes.cashpw.com/posts/3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Internal memory algorithm
-</h2>
-</header>
-<div class=entry-content>
-<p>Internal memory algorithms are designed to process data that fits into a single computer’s main memory.
-See External memory algorithm.
-Flashcards Definition (Computer science) position ease box interval due back 2.20 6 71.96 2023-09-11T00:47:19Z front 3.10 7 514.10 2024-11-14T23:04:47Z Internal memory algorithm
-Back Algorithms designed to process data that can fit into a single computer’s main memory at once....</p>
-</div>
-<footer class=entry-footer><span title="2022-08-17 16:17:00 -0700 -0700">2022-08-17</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:13:39 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/internal_memory_algorithm.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Internal memory algorithm" href=http://notes.cashpw.com/posts/8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Presupposition
-</h2>
-</header>
-<div class=entry-content>
-<p>[…] a presupposition is an implicit assumption about the world or background belief relating to an utterance whose truth is taken for granted in discourse. Examples of presuppositions include:
-Jane no longer writes fiction. Presupposition: Jane once wrote fiction. Have you stopped eating meat? Presupposition: you had once eaten meat. Have you talked to Hans? Presupposition: Hans exists. Flashcards Presupposition position ease box interval due back 2....</p>
-</div>
-<footer class=entry-footer><span title="2022-08-17 16:11:00 -0700 -0700">2022-08-17</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:01:07 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/presupposition.org rel="noopener noreferrer" target=_blank>Edit</a>
-</footer>
-<a class=entry-link aria-label="post link to Presupposition" href=http://notes.cashpw.com/posts/e5db0b54-03b5-417a-a4c8-93001958c410/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
