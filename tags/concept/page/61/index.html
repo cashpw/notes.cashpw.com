@@ -61,144 +61,149 @@ concept
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Stable sorting algorithm
+<h2>Non-zero-sum game
 </h2>
 </header>
 <div class=entry-content>
-<p>Stable sort algorithms sort equal elements in the same order that they appear in the input.
-(“Sorting Algorithm” 2022)
->>> stable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')]) [(3, 'c'), (8, 'b'), (8, 'd'), (10, 'a')]) Flashcards Definition (Computer science) position ease box interval due back 1.75 8 87.02 2023-08-28T01:32:05Z front 2.65 7 330.75 2024-02-13T11:32:04Z Stable sorting algorithm...</p>
+<p>[…] non-zero-sum describes a situation [(Game theory)] in which the interacting parties' aggregate gains and losses can be less than or more than zero.
+(“Zero-Sum Game” 2022)
+The opposite of a Zero-sum game.
+Flashcards Example(s) (Game theory) position ease box interval due front 2.65 7 428.67 2024-08-29T07:13:05Z back 1.30 2 2.00 2023-09-21T23:57:14Z Non-zero-sum game
+Back Payoffs...</p>
 </div>
-<footer class=entry-footer><span title="2022-07-01 11:08:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:33:32 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/stable_sorting_algorithm.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-23 10:51:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:35:14 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/non_zero_sum_game.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Stable sorting algorithm" href=http://notes.cashpw.com/posts/740ce42a-3a80-4ecb-9438-fedff074443b/></a>
+<a class=entry-link aria-label="post link to Non-zero-sum game" href=http://notes.cashpw.com/posts/9f52c68a-3302-47bc-a4a4-3a4ff20d41be/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Quicksort implementation in Python
+<h2>Zero-sum game
 </h2>
 </header>
 <div class=entry-content>
-<p>Implementation of Quicksort in Python.
-from typing import List, Callable def swap(ints: List[int], indexA: int, indexB: int) -> None: """Swap the values in INTS at INDEXA and INDEXB.""" valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], comparator: Callable[[id:int, int], bool], low_index: int, high_index: int) -> int: """Sorts sublist into [{&lt;= pivot}, pivot, {> than pivot}]""" pivot_index = high_index i = low_index - 1 for j in range(low_index, high_index): if comparator(ints[j], ints[pivot_index]): i += 1 swap(ints, i, j) i += 1 swap(ints, i, pivot_index) return i def quick_sort_inner(ints: List[int], comparator: Callable[[id:int, int], bool], low_index: int, high_index: int) -> List[int]: if low_index >= high_index or low_index &lt; 0: return pivot_index = partition(ints, comparator, low_index, high_index) quick_sort_inner(ints, comparator, 0, pivot_index - 1) quick_sort_inner(ints, comparator, pivot_index + 1, high_index) return ints def quick_sort(ints: List[int], comparator: Callable[[id:int, int], bool]) -> List[int]: return quick_sort_inner(ints, comparator, 0, len(ints) - 1) a = [10, 15, 5, 8, 2, 1, 3, 9] print(quick_sort(a, lambda a, b: a &lt;= b)) Flashcards Implement position ease box interval due front 2....</p>
+<p>Zero-sum game is a mathematical representation in Game theory and economic theory of a situation which involves two sides, where the result is an advantage for one side and an equivalent loss for the other. In other words, player one’s gain is equivalent to player two’s loss, therefore the net improvement in benefit of the game is zero.
+(“Zero-Sum Game” 2022)
+The opposite of a Non-zero-sum game.
+Flashcards Definition (Game theory) position ease box interval due back 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:09:18 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/quicksort_implementation_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-23 10:48:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:57:40 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/zero_sum_game.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://notes.cashpw.com/posts/ed982b37-6f8e-4b89-bb51-ac608510325e/></a>
+<a class=entry-link aria-label="post link to Zero-sum game" href=http://notes.cashpw.com/posts/4d1bdced-1025-4985-8bef-3e34109fb47d/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Quicksort
+<h2>Power politics
 </h2>
 </header>
 <div class=entry-content>
-<p>Quicksort is an in-place Sorting algorithm. […] It works by selecting a ‘pivot’ element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
-(“Quicksort” 2022)
-Quicksort is:
-Unstable sorting algorithm Internal memory algorithm Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies....</p>
+<p>Power politics is a theory in international relations which contends that distributions of power and national interests, or changes to those distributions, are fundamental causes of war and of system stability.
+The concept of power politics provides a way of understanding systems of international relations: in this view, states compete for the world’s limited resources, and it is to an individual state’s advantage to be manifestly able to harm others....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:09:05 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/quicksort.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-23 10:44:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:38:24 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/power_politics.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Quicksort" href=http://notes.cashpw.com/posts/d7bcd831-6a3f-4885-a654-15f0b11c9966/></a>
+<a class=entry-link aria-label="post link to Power politics" href=http://notes.cashpw.com/posts/2e9a36f6-43e0-4f9a-af7e-64a4ef069a19/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Bubble sort implementation in Python
+<h2>Positive rights
 </h2>
 </header>
 <div class=entry-content>
-<p>An Implementation of Bubble sort in Python.
-from typing import List def bubble_sort(ints: List[int]) -> List[int]: def do_pass() -> bool: sorted = True for i in range(len(ints)-1): if ints[i] > ints[i + 1]: sorted = False swap(i, i+1) return sorted def swap(indexA: int, indexB: int) -> None: valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA sorted = False while not sorted: sorted = do_pass() return ints return bubble_sort([10, 5, 4, 40]) Flashcards Backlinks Bubble sort </p>
+<p>[…] positive rights are rights that oblige […] action […].
+(“Negative and Positive Rights” 2022)
+Also see Negative rights.
+Examples Right to counsel Right to unemployment benefits Flashcards Positive right position ease box interval due back 2.80 7 466.99 2024-08-12T21:39:08Z front 2.65 8 593.36 2025-02-20T08:48:29Z A right which obliges action.
+Source (“Negative and Positive Rights” 2022)...</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:38:42 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/bubble_sort_implementation_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-23 09:49:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:38:08 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/positive_rights.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Bubble sort implementation in Python" href=http://notes.cashpw.com/posts/af832252-c4a9-4364-bdef-59c1a8ea6ebe/></a>
+<a class=entry-link aria-label="post link to Positive rights" href=http://notes.cashpw.com/posts/b1b88ef5-f272-47d7-80c3-de9038e2eeb2/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Bubble sort
+<h2>Negative rights
 </h2>
 </header>
 <div class=entry-content>
-<p>Bubble sort, sometimes referred to as sinking sort, is a simple Sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
-[links added]
-(“Bubble Sort” 2022)
-Bubble sort is stable.
-Algorithm while list is not sorted do for i in range(len(list) - 1) do if list[i] > list[i+1] do swap(i, i+1) Implementation Bubble sort implementation in Python Complexity Worst-case Best-case Time \(O(n^2)\) \(O(n)\) Space \(O(n)\) \(O(n)\) Flashcards Describe position ease box interval due front 2....</p>
+<p>Negative […] rights are rights that oblige […] inaction […].
+(“Negative and Positive Rights” 2022)
+Also see Positive rights.
+Examples Freedom of speech: “Freedom of speech is usually seen as a negative right. This means that the government is legally obliged to take no action against the speaker based on the speaker’s views, but that no one is obliged to help any speakers publish their views, and no one is required to listen to, agree with, or acknowledge the speaker or the speaker’s views....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:47:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:38:39 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/bubble_sort.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-23 09:46:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:34:11 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/negative_rights.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Bubble sort" href=http://notes.cashpw.com/posts/c6bc266e-1090-492f-bdba-f044e04db3ff/></a>
+<a class=entry-link aria-label="post link to Negative rights" href=http://notes.cashpw.com/posts/7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Sorting algorithm
+<h2>Be curious
 </h2>
 </header>
 <div class=entry-content>
-<p>Flashcards Backlinks Merge sort Comparison sorting algorithm Quickselect Quicksort Selection sort Bubble sort Selection algorithm </p>
+<p>Curiosity is key to expanding your understanding of the world.
+Flashcards Backlinks Nelson Elhage | Computers Can Be Understood Effective communication Ben Kuhn | To Listen Well, Get Curious </p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 10:46:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:31:04 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/sorting_algorithm.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-21 16:39:00 -0700 -0700">2022-07-21</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 09:55:01 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/be_curious.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Sorting algorithm" href=http://notes.cashpw.com/posts/093fae33-1843-4271-b7cd-336553b9aac9/></a>
+<a class=entry-link aria-label="post link to Be curious" href=http://notes.cashpw.com/posts/279afdb0-48ca-4542-94f1-d20add351cae/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Effective Anki
+<h2>Black box
 </h2>
 </header>
 <div class=entry-content>
-<p>My recommendations for effective use of Anki.
-Decks Use a single deck Deck options TODO: Find a source for these points. I discovered and implemented them before I started writing things down.
-New cards Steps In minutes: 15, 2160, 10080, 40320 New Cards Steps In minutes (for android): 15, 2160, 10080, 40320 (eshapard n.d.) For desktop Anki: 15m , 36h, 7d, 28d References ....</p>
+<p>In science, computing, and engineering, a black box is a system which can be viewed in terms of its inputs and outputs (or transfer characteristics), without any knowledge of its internal workings.
+(“Black Box” 2022)
+Flashcards Describe (Systems) position ease box interval due front 3.25 7 476.02 2024-11-14T14:37:23Z back 2.80 7 305.54 2024-04-23T14:47:36Z Black box
+Back A system which is viewed in terms of its inputs and outputs without any knowledge of its internal workings....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-30 08:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-09-05 15:44:03 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/effective_anki.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-21 16:37:00 -0700 -0700">2022-07-21</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 09:56:35 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/black_box.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Effective Anki" href=http://notes.cashpw.com/posts/047c30fb-6d35-428f-a4d3-e4fd7497c621/></a>
+<a class=entry-link aria-label="post link to Black box" href=http://notes.cashpw.com/posts/ab1c1113-290b-4715-b2d7-94f2af485b2e/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Convolution
+<h2>Anatomy of a URL
 </h2>
 </header>
 <div class=entry-content>
-<p>Flashcards AKA (Math) position ease box interval due 0 2.80 9 454.69 2024-07-04T13:03:39Z 1 2.50 6 86.65 2023-10-05T07:21:17Z {{Convolution}@0} {{Sliding window}@1} Source (“Convolution” 2022)
-Definition (Math) position ease box interval due back 2.80 15 362.84 2024-02-14T23:30:02Z front 2.65 8 344.17 2024-02-09T19:59:13Z Convolution
-Back An operation on two functions, \(f_1\) and \(f_2\), which produces a third function that expresses how the shape of one is modified by the other....</p>
+<p>Using http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats as an example (MDN n.d.-b):
+Name From the example Scheme http Authority www.example.com:8080 Host www.example.com Port 8080 Path /foo/bar Parameters ?baz=boo&color=blue Anchor #cats Flashcards Describe position ease box interval due front 1.30 9 36.69 2023-09-29T09:13:29Z back 2.80 8 497....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 19:31:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:44:44 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/convolution.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-20 10:48:00 -0700 -0700">2022-07-20</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 09:53:14 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/anatomy_of_a_url.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Convolution" href=http://notes.cashpw.com/posts/4a246de2-16ae-4fa6-abaa-7cfb533eccdb/></a>
+<a class=entry-link aria-label="post link to Anatomy of a URL" href=http://notes.cashpw.com/posts/56aebaa3-d4d6-4a06-98a2-186ed655d11e/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Edge
+<h2>First-party cookies
 </h2>
 </header>
 <div class=entry-content>
-<p>An edge is a connection between two or more Vertices.
-Flashcards Definition (Graph theory) position ease box interval due back 2.50 7 280.19 2023-11-29T19:29:24Z front 2.80 7 229.72 2023-08-19T20:56:42Z Edge
-Back A connection between two or more Vertices.
-Source (“Tree (Graph Theory)” 2022)
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Tree (Graph Theory).” 2022. Wikipedia, May. https://en.wikipedia.org/w/index.php?title=Tree_(graph_theory)&oldid=1086807538. Backlinks Vertex Directed acyclic graph Graph Graph theory Trail (Graph theory) Depth-first search Walk (Graph theory) Closure (Graph) Directed graph Widest path problem Path (graph theory) Bellman-Ford algorithm Customizable route planning </p>
+<p>If the HTTP Cookie domain and scheme match the current page, the cookie is considered to be from the same site as the page, and is referred to as a first-party cookie.
+(MDN n.d.)
+Flashcards Definition position ease box interval due back 2.60 12 239.62 2023-10-12T19:41:19Z front 2.50 8 302.53 2024-04-20T14:25:47Z First-party cookies
+Back HTTP Cookies whose Domain and scheme are the same as the page....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 19:15:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:52:21 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/edge.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-20 10:40:00 -0700 -0700">2022-07-20</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:10:46 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/first_party_cookies.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Edge" href=http://notes.cashpw.com/posts/7211246e-d3da-491e-a493-e84ba820e63f/></a>
+<a class=entry-link aria-label="post link to First-party cookies" href=http://notes.cashpw.com/posts/5e91bfb8-05ea-43d3-bfef-fd5d6299138e/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Vertex
+<h2>Third-party cookies
 </h2>
 </header>
 <div class=entry-content>
-<p>In mathematics, and more specifically in graph theory, a vertex (plural vertices) or node is the fundamental unit of which Graph are formed: an undirected graph consists of a set of vertices and a set of Edges (unordered pairs of vertices), while a directed graph consists of a set of vertices and a set of arcs (ordered pairs of vertices).
-(“Vertex (Graph Theory)” 2022)
-Flashcards Definition (Graph theory) position ease box interval due back 2....</p>
+<p>If the domain and scheme are different, the HTTP cookie is not considered to be from the same site, and is referred to as a third-party cookie.
+(MDN n.d.)
+Flashcards Definition position ease box interval due back 2.65 8 303.32 2023-12-29T11:44:29Z front 2.05 8 298.17 2024-03-26T18:26:48Z Third-party cookies
+Back HTTP Cookies whose Domain and scheme are not the same as the page....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 19:13:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 13:01:57 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/vertex.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-20 10:31:00 -0700 -0700">2022-07-20</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:51:55 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/third_party_cookies.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Vertex" href=http://notes.cashpw.com/posts/1b2526af-676d-4c0f-aa85-1ba05b8e7a93/></a>
+<a class=entry-link aria-label="post link to Third-party cookies" href=http://notes.cashpw.com/posts/2651f5d4-f8db-45b1-9256-aadb99c39575/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

@@ -26,9 +26,9 @@
 <meta property="og:url" content="http://notes.cashpw.com/posts/0f240189-7ede-4505-a900-21330b55f4c9/">
 <meta property="article:section" content="posts">
 <meta property="article:published_time" content="2022-07-01T13:02:00-07:00">
-<meta property="article:modified_time" content="2023-08-02T10:55:16-07:00">
+<meta property="article:modified_time" content="2023-09-24T10:09:50-07:00">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://notes.cashpw.com/posts/"},{"@type":"ListItem","position":2,"name":"External memory algorithm","item":"http://notes.cashpw.com/posts/0f240189-7ede-4505-a900-21330b55f4c9/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"External memory algorithm | Cash Prokop-Weaver","name":"External memory algorithm","description":"In computing, external memory algorithms or out-of-core algorithms are algorithms that are designed to process data that are too large to fit into a computer\u0026rsquo;s main memory at once. Such algorithms must be optimized to efficiently fetch and access data stored in slow bulk memory (auxiliary memory) such as hard drives or tape drives, or when memory is on a computer network.\n(“External Memory Algorithm” 2021)\n See Internal memory algorithm.","keywords":["concept","concept"],"wordCount":"180","inLanguage":"en","datePublished":"2022-07-01T13:02:00-07:00","dateModified":"2023-08-02T10:55:16-07:00","author":[{"@type":"Person","name":"Cash Prokop-Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://notes.cashpw.com/posts/0f240189-7ede-4505-a900-21330b55f4c9/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://notes.cashpw.com/favicon.ico"}}}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"External memory algorithm | Cash Prokop-Weaver","name":"External memory algorithm","description":"In computing, external memory algorithms or out-of-core algorithms are algorithms that are designed to process data that are too large to fit into a computer\u0026rsquo;s main memory at once. Such algorithms must be optimized to efficiently fetch and access data stored in slow bulk memory (auxiliary memory) such as hard drives or tape drives, or when memory is on a computer network.\n(“External Memory Algorithm” 2021)\n See Internal memory algorithm.","keywords":["concept","concept"],"wordCount":"180","inLanguage":"en","datePublished":"2022-07-01T13:02:00-07:00","dateModified":"2023-09-24T10:09:50-07:00","author":[{"@type":"Person","name":"Cash Prokop-Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://notes.cashpw.com/posts/0f240189-7ede-4505-a900-21330b55f4c9/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://notes.cashpw.com/favicon.ico"}}}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
 <noscript>
@@ -68,7 +68,7 @@
 <h1 class=post-title>
 External memory algorithm
 </h1>
-<div class=post-meta><span title="2022-07-01 13:02:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:55:16 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/external_memory_algorithm.org rel="noopener noreferrer" target=_blank>Edit</a>
+<div class=post-meta><span title="2022-07-01 13:02:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:09:50 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/external_memory_algorithm.org rel="noopener noreferrer" target=_blank>Edit</a>
 </div>
 <div class="post-meta post-references"></div><div class="post-meta post-stars"></div>
 </header> <div class="toc side left">
@@ -78,7 +78,7 @@ External memory algorithm
 </summary>
 <div class=inner><ul>
 <li>
-<a href=#flashcardscomputer-science aria-label=Flashcardscomputer_science:>Flashcardscomputer_science:</a><ul>
+<a href=#flashcards aria-label=Flashcards>Flashcards</a><ul>
 <li class=menu-link-definition--computer-science>
 <a href=#definition--computer-science aria-label="Definition (Computer science)">Definition (Computer science)</a><ul>
 <li class=menu-link-back>
@@ -109,7 +109,7 @@ External memory algorithm
 <p>(<a href=#citeproc_bib_item_1>“External Memory Algorithm” 2021</a>)</p>
 </blockquote>
 <p>See <a href=/posts/8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc/>Internal memory algorithm</a>.</p>
-<h2 id=flashcardscomputer-science>Flashcardscomputer_science:<a hidden class=anchor aria-hidden=true href=#flashcardscomputer-science>¶</a></h2>
+<h2 id=flashcards>Flashcards<a hidden class=anchor aria-hidden=true href=#flashcards>¶</a></h2>
 <h3 id=definition--computer-science>Definition (Computer science)<a hidden class=anchor aria-hidden=true href=#definition--computer-science>¶</a></h3>
 <table>
 <thead>
@@ -131,10 +131,10 @@ External memory algorithm
 </tr>
 <tr>
 <td>front</td>
-<td>2.50</td>
-<td>7</td>
-<td>224.91</td>
-<td>2023-09-08T13:02:31Z</td>
+<td>2.35</td>
+<td>8</td>
+<td>566.73</td>
+<td>2025-03-29T16:43:46Z</td>
 </tr>
 </tbody>
 </table>
@@ -158,9 +158,9 @@ External memory algorithm
 <tr>
 <td>front</td>
 <td>2.80</td>
-<td>7</td>
-<td>242.53</td>
-<td>2023-09-08T04:09:35Z</td>
+<td>8</td>
+<td>614.11</td>
+<td>2025-05-14T18:52:15Z</td>
 </tr>
 <tr>
 <td>back</td>
@@ -180,8 +180,8 @@ External memory algorithm
 <p>(<a href=#citeproc_bib_item_2>“Merge Sort” 2022</a>)</p>
 <h2 id=references>References<a hidden class=anchor aria-hidden=true href=#references>¶</a></h2>
 <style>.csl-entry{text-indent:-1.5em;margin-left:1.5em}</style><div class=csl-bib-body>
-<div class=csl-entry><a id=citeproc_bib_item_1></a>“External Memory Algorithm.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&oldid=1059605968">https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&oldid=1059605968</a>.</div>
-<div class=csl-entry><a id=citeproc_bib_item_2></a>“Merge Sort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Merge_sort&oldid=1095865966">https://en.wikipedia.org/w/index.php?title=Merge_sort&oldid=1095865966</a>.</div>
+<div class=csl-entry><a id=citeproc_bib_item_1></a>“External Memory Algorithm.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&oldid=1059605968">https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&oldid=1059605968</a>.</div>
+<div class=csl-entry><a id=citeproc_bib_item_2></a>“Merge Sort.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Merge_sort&oldid=1095865966">https://en.wikipedia.org/w/index.php?title=Merge_sort&oldid=1095865966</a>.</div>
 </div>
 <h2 id=backlinks>Backlinks<a hidden class=anchor aria-hidden=true href=#backlinks>¶</a></h2>
 <ul>

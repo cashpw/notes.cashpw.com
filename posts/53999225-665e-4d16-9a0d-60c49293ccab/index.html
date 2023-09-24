@@ -29,9 +29,9 @@
 <meta property="og:url" content="http://notes.cashpw.com/posts/53999225-665e-4d16-9a0d-60c49293ccab/">
 <meta property="article:section" content="posts">
 <meta property="article:published_time" content="2023-03-17T08:41:00-07:00">
-<meta property="article:modified_time" content="2023-08-02T11:25:49-07:00">
+<meta property="article:modified_time" content="2023-09-24T10:24:45-07:00">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://notes.cashpw.com/posts/"},{"@type":"ListItem","position":2,"name":"Latency","item":"http://notes.cashpw.com/posts/53999225-665e-4d16-9a0d-60c49293ccab/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Latency | Cash Prokop-Weaver","name":"Latency","description":"The time from the source sending a packet to the destination receiving it.\n[\u0026hellip;]\n(Grigorik n.d.)\n Components  Latency is the time it takes for a message, or a packet, to travel from its point of origin to the point of destination. That is a simple and useful definition, but it often hides a lot of useful information — every system contains multiple sources, or components, contributing to the overall time it takes for a message to be delivered, and it is important to understand what these components are and what dictates their performance.","keywords":["concept","concept"],"wordCount":"478","inLanguage":"en","datePublished":"2023-03-17T08:41:00-07:00","dateModified":"2023-08-02T11:25:49-07:00","author":[{"@type":"Person","name":"Cash Prokop-Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://notes.cashpw.com/posts/53999225-665e-4d16-9a0d-60c49293ccab/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://notes.cashpw.com/favicon.ico"}}}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Latency | Cash Prokop-Weaver","name":"Latency","description":"The time from the source sending a packet to the destination receiving it.\n[\u0026hellip;]\n(Grigorik n.d.)\n Components  Latency is the time it takes for a message, or a packet, to travel from its point of origin to the point of destination. That is a simple and useful definition, but it often hides a lot of useful information — every system contains multiple sources, or components, contributing to the overall time it takes for a message to be delivered, and it is important to understand what these components are and what dictates their performance.","keywords":["concept","concept"],"wordCount":"478","inLanguage":"en","datePublished":"2023-03-17T08:41:00-07:00","dateModified":"2023-09-24T10:24:45-07:00","author":[{"@type":"Person","name":"Cash Prokop-Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://notes.cashpw.com/posts/53999225-665e-4d16-9a0d-60c49293ccab/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://notes.cashpw.com/favicon.ico"}}}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
 <noscript>
@@ -71,7 +71,7 @@
 <h1 class=post-title>
 Latency
 </h1>
-<div class=post-meta><span title="2023-03-17 08:41:00 -0700 -0700">2023-03-17</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:25:49 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/latency.org rel="noopener noreferrer" target=_blank>Edit</a>
+<div class=post-meta><span title="2023-03-17 08:41:00 -0700 -0700">2023-03-17</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:24:45 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/latency.org rel="noopener noreferrer" target=_blank>Edit</a>
 </div>
 <div class="post-meta post-references"></div><div class="post-meta post-stars"></div>
 </header> <div class="toc side left">
@@ -107,29 +107,29 @@ Latency
 <li class=menu-link-source>
 <a href=#source aria-label=Source>Source</a></li></ul>
 </li>
-<li class=menu-link-definition>
-<a href=#definition aria-label=Definition>Definition</a><ul>
+<li class=menu-link-definition--latency-latency-dot-md>
+<a href=#definition--latency-latency-dot-md aria-label="Definition (Latency)">Definition (<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>)</a><ul>
 <li class=menu-link-back>
 <a href=#back aria-label=Back>Back</a></li>
 <li class=menu-link-source>
 <a href=#source aria-label=Source>Source</a></li></ul>
 </li>
-<li class=menu-link-definition>
-<a href=#definition aria-label=Definition>Definition</a><ul>
+<li class=menu-link-definition--latency-latency-dot-md>
+<a href=#definition--latency-latency-dot-md aria-label="Definition (Latency)">Definition (<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>)</a><ul>
 <li class=menu-link-back>
 <a href=#back aria-label=Back>Back</a></li>
 <li class=menu-link-source>
 <a href=#source aria-label=Source>Source</a></li></ul>
 </li>
-<li class=menu-link-definition>
-<a href=#definition aria-label=Definition>Definition</a><ul>
+<li class=menu-link-definition--latency-latency-dot-md>
+<a href=#definition--latency-latency-dot-md aria-label="Definition (Latency)">Definition (<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>)</a><ul>
 <li class=menu-link-back>
 <a href=#back aria-label=Back>Back</a></li>
 <li class=menu-link-source>
 <a href=#source aria-label=Source>Source</a></li></ul>
 </li>
-<li class=menu-link-definition>
-<a href=#definition aria-label=Definition>Definition</a><ul>
+<li class=menu-link-definition--latency-latency-dot-md>
+<a href=#definition--latency-latency-dot-md aria-label="Definition (Latency)">Definition (<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>)</a><ul>
 <li class=menu-link-back>
 <a href=#back aria-label=Back>Back</a></li>
 <li class=menu-link-source>
@@ -191,10 +191,10 @@ Latency
 <tbody>
 <tr>
 <td>front</td>
-<td>2.35</td>
-<td>6</td>
-<td>78.23</td>
-<td>2023-08-21T09:53:30Z</td>
+<td>2.20</td>
+<td>7</td>
+<td>171.24</td>
+<td>2024-02-08T19:12:22Z</td>
 </tr>
 <tr>
 <td>back</td>
@@ -248,7 +248,7 @@ Latency
 </ul>
 <h4 id=source>Source<a hidden class=anchor aria-hidden=true href=#source>¶</a></h4>
 <p>(<a href=#citeproc_bib_item_1>Grigorik n.d.</a>)</p>
-<h3 id=definition>Definition<a hidden class=anchor aria-hidden=true href=#definition>¶</a></h3>
+<h3 id=definition--latency-latency-dot-md>Definition (<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>)<a hidden class=anchor aria-hidden=true href=#definition--latency-latency-dot-md>¶</a></h3>
 <table>
 <thead>
 <tr>
@@ -263,25 +263,25 @@ Latency
 <tr>
 <td>front</td>
 <td>2.20</td>
-<td>5</td>
-<td>30.13</td>
-<td>2023-08-09T18:39:23Z</td>
+<td>6</td>
+<td>65.08</td>
+<td>2023-10-14T02:33:40Z</td>
 </tr>
 <tr>
 <td>back</td>
-<td>2.20</td>
-<td>4</td>
-<td>12.90</td>
-<td>2023-07-25T10:25:57Z</td>
+<td>2.05</td>
+<td>6</td>
+<td>55.95</td>
+<td>2023-11-09T13:55:19Z</td>
 </tr>
 </tbody>
 </table>
-<p>(<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>) Propagation delay</p>
+<p>Propagation delay</p>
 <h4 id=back>Back<a hidden class=anchor aria-hidden=true href=#back>¶</a></h4>
 <p>Amount of time required for a message to travel from the sender to receiver, which is a function of distance over speed with which the signal travels.</p>
 <h4 id=source>Source<a hidden class=anchor aria-hidden=true href=#source>¶</a></h4>
 <p>(<a href=#citeproc_bib_item_1>Grigorik n.d.</a>)</p>
-<h3 id=definition>Definition<a hidden class=anchor aria-hidden=true href=#definition>¶</a></h3>
+<h3 id=definition--latency-latency-dot-md>Definition (<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>)<a hidden class=anchor aria-hidden=true href=#definition--latency-latency-dot-md>¶</a></h3>
 <table>
 <thead>
 <tr>
@@ -296,25 +296,25 @@ Latency
 <tr>
 <td>front</td>
 <td>2.05</td>
-<td>5</td>
-<td>26.41</td>
-<td>2023-08-25T00:44:35Z</td>
+<td>6</td>
+<td>50.23</td>
+<td>2023-10-15T20:20:12Z</td>
 </tr>
 <tr>
 <td>back</td>
-<td>2.50</td>
+<td>2.20</td>
 <td>1</td>
 <td>1.00</td>
-<td>2023-07-28T14:18:20Z</td>
+<td>2023-09-21T00:00:09Z</td>
 </tr>
 </tbody>
 </table>
-<p>(<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>) Transmission delay</p>
+<p>Transmission delay</p>
 <h4 id=back>Back<a hidden class=anchor aria-hidden=true href=#back>¶</a></h4>
 <p>Amount of time required to push all the packet&rsquo;s bits into the link, which is a function of the packet&rsquo;s length and data rate of the link.</p>
 <h4 id=source>Source<a hidden class=anchor aria-hidden=true href=#source>¶</a></h4>
 <p>(<a href=#citeproc_bib_item_1>Grigorik n.d.</a>)</p>
-<h3 id=definition>Definition<a hidden class=anchor aria-hidden=true href=#definition>¶</a></h3>
+<h3 id=definition--latency-latency-dot-md>Definition (<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>)<a hidden class=anchor aria-hidden=true href=#definition--latency-latency-dot-md>¶</a></h3>
 <table>
 <thead>
 <tr>
@@ -336,13 +336,13 @@ Latency
 <tr>
 <td>back</td>
 <td>2.35</td>
-<td>5</td>
-<td>35.70</td>
-<td>2023-08-11T07:20:49Z</td>
+<td>6</td>
+<td>75.86</td>
+<td>2023-11-11T10:18:30Z</td>
 </tr>
 </tbody>
 </table>
-<p>(<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>) Processing delay</p>
+<p>Processing delay</p>
 <h4 id=back>Back<a hidden class=anchor aria-hidden=true href=#back>¶</a></h4>
 <p>Amount of time required to:</p>
 <ul>
@@ -352,7 +352,7 @@ Latency
 </ul>
 <h4 id=source>Source<a hidden class=anchor aria-hidden=true href=#source>¶</a></h4>
 <p>(<a href=#citeproc_bib_item_1>Grigorik n.d.</a>)</p>
-<h3 id=definition>Definition<a hidden class=anchor aria-hidden=true href=#definition>¶</a></h3>
+<h3 id=definition--latency-latency-dot-md>Definition (<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>)<a hidden class=anchor aria-hidden=true href=#definition--latency-latency-dot-md>¶</a></h3>
 <table>
 <thead>
 <tr>
@@ -367,9 +367,9 @@ Latency
 <tr>
 <td>front</td>
 <td>2.35</td>
-<td>6</td>
-<td>90.37</td>
-<td>2023-09-11T08:55:13Z</td>
+<td>7</td>
+<td>226.55</td>
+<td>2024-04-26T01:48:32Z</td>
 </tr>
 <tr>
 <td>back</td>
@@ -380,14 +380,14 @@ Latency
 </tr>
 </tbody>
 </table>
-<p>(<a href=/posts/53999225-665e-4d16-9a0d-60c49293ccab/>Latency</a>) Queuing delay</p>
+<p>Queuing delay</p>
 <h4 id=back>Back<a hidden class=anchor aria-hidden=true href=#back>¶</a></h4>
 <p>Amount of time the packet is waiting in the queue until it can be processed.</p>
 <h4 id=source>Source<a hidden class=anchor aria-hidden=true href=#source>¶</a></h4>
 <p>(<a href=#citeproc_bib_item_1>Grigorik n.d.</a>)</p>
 <h2 id=references>References<a hidden class=anchor aria-hidden=true href=#references>¶</a></h2>
 <style>.csl-entry{text-indent:-1.5em;margin-left:1.5em}</style><div class=csl-bib-body>
-<div class=csl-entry><a id=citeproc_bib_item_1></a>Grigorik, Ilya. n.d. “Networking 101: Primer on Latency and Bandwidth - High Performance Browser Networking.” <i>High Performance Browser Networking</i>. Accessed March 17, 2023. <a href=https://hpbn.co/primer-on-latency-and-bandwidth/>https://hpbn.co/primer-on-latency-and-bandwidth/</a>.</div>
+<div class=csl-entry><a id=citeproc_bib_item_1></a>Grigorik, Ilya. n.d. “Networking 101: Primer on Latency and Bandwidth - High Performance Browser Networking.” High Performance Browser Networking. Accessed March 17, 2023. <a href=https://hpbn.co/primer-on-latency-and-bandwidth/>https://hpbn.co/primer-on-latency-and-bandwidth/</a>.</div>
 </div>
 <h2 id=backlinks>Backlinks<a hidden class=anchor aria-hidden=true href=#backlinks>¶</a></h2>
 <ul>

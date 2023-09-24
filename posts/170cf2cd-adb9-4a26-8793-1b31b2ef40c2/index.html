@@ -20,9 +20,9 @@
 <meta property="og:url" content="http://notes.cashpw.com/posts/170cf2cd-adb9-4a26-8793-1b31b2ef40c2/">
 <meta property="article:section" content="posts">
 <meta property="article:published_time" content="2022-07-23T16:55:00-07:00">
-<meta property="article:modified_time" content="2023-08-02T10:35:36-07:00">
+<meta property="article:modified_time" content="2023-09-24T09:54:40-07:00">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://notes.cashpw.com/posts/"},{"@type":"ListItem","position":2,"name":"B-tree","item":"http://notes.cashpw.com/posts/170cf2cd-adb9-4a26-8793-1b31b2ef40c2/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"B-tree | Cash Prokop-Weaver","name":"B-tree","description":"In computer science, a B-tree is a self-balancing Tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time. The B-tree generalizes the Binary search tree, allowing for nodes with more than two children. Unlike other Self-balancing binary search trees, the B-tree is well suited for storage systems that read and write relatively large blocks of data, such as databases and file systems.","keywords":["concept","concept"],"wordCount":"948","inLanguage":"en","datePublished":"2022-07-23T16:55:00-07:00","dateModified":"2023-08-02T10:35:36-07:00","author":[{"@type":"Person","name":"Cash Prokop-Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://notes.cashpw.com/posts/170cf2cd-adb9-4a26-8793-1b31b2ef40c2/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://notes.cashpw.com/favicon.ico"}}}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"B-tree | Cash Prokop-Weaver","name":"B-tree","description":"In computer science, a B-tree is a self-balancing Tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time. The B-tree generalizes the Binary search tree, allowing for nodes with more than two children. Unlike other Self-balancing binary search trees, the B-tree is well suited for storage systems that read and write relatively large blocks of data, such as databases and file systems.","keywords":["concept","concept"],"wordCount":"948","inLanguage":"en","datePublished":"2022-07-23T16:55:00-07:00","dateModified":"2023-09-24T09:54:40-07:00","author":[{"@type":"Person","name":"Cash Prokop-Weaver"}],"mainEntityOfPage":{"@type":"WebPage","@id":"http://notes.cashpw.com/posts/170cf2cd-adb9-4a26-8793-1b31b2ef40c2/"},"publisher":{"@type":"Organization","name":"Cash Prokop-Weaver","logo":{"@type":"ImageObject","url":"http://notes.cashpw.com/favicon.ico"}}}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
 <noscript>
@@ -62,7 +62,7 @@
 <h1 class=post-title>
 B-tree
 </h1>
-<div class=post-meta><span title="2022-07-23 16:55:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:35:36 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/b_tree.org rel="noopener noreferrer" target=_blank>Edit</a>
+<div class=post-meta><span title="2022-07-23 16:55:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 09:54:40 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/b_tree.org rel="noopener noreferrer" target=_blank>Edit</a>
 </div>
 <div class="post-meta post-references"></div><div class="post-meta post-stars"></div>
 </header> <div class="toc side left">
@@ -246,17 +246,17 @@ B-tree
 <tbody>
 <tr>
 <td>0</td>
-<td>1.75</td>
-<td>8</td>
-<td>117.05</td>
-<td>2023-08-12T17:12:58Z</td>
+<td>1.60</td>
+<td>9</td>
+<td>181.76</td>
+<td>2024-02-21T10:47:52Z</td>
 </tr>
 <tr>
 <td>1</td>
 <td>1.30</td>
-<td>8</td>
-<td>21.80</td>
-<td>2023-08-10T08:56:47Z</td>
+<td>10</td>
+<td>37.29</td>
+<td>2023-10-17T06:09:17Z</td>
 </tr>
 </tbody>
 </table>
@@ -276,17 +276,17 @@ B-tree
 <tbody>
 <tr>
 <td>0</td>
-<td>2.35</td>
-<td>7</td>
-<td>145.75</td>
-<td>2023-08-13T10:18:14Z</td>
+<td>2.20</td>
+<td>8</td>
+<td>328.63</td>
+<td>2024-07-13T14:37:31Z</td>
 </tr>
 <tr>
 <td>1</td>
-<td>2.05</td>
-<td>7</td>
-<td>148.07</td>
-<td>2023-08-31T18:08:47Z</td>
+<td>1.90</td>
+<td>8</td>
+<td>308.97</td>
+<td>2024-07-05T18:01:02Z</td>
 </tr>
 </tbody>
 </table>
@@ -336,10 +336,10 @@ B-tree
 <tbody>
 <tr>
 <td>0</td>
-<td>2.20</td>
-<td>7</td>
-<td>131.90</td>
-<td>2023-08-16T18:19:01Z</td>
+<td>1.90</td>
+<td>5</td>
+<td>22.90</td>
+<td>2023-10-12T21:31:20Z</td>
 </tr>
 <tr>
 <td>1</td>
@@ -499,9 +499,9 @@ B-tree
 <tr>
 <td>1</td>
 <td>2.20</td>
-<td>7</td>
-<td>160.42</td>
-<td>2023-08-31T02:17:28Z</td>
+<td>8</td>
+<td>322.37</td>
+<td>2024-07-23T02:53:31Z</td>
 </tr>
 </tbody>
 </table>
@@ -578,7 +578,7 @@ B-tree
 <p>(<a href=#citeproc_bib_item_1>“B-Tree” 2022</a>)</p>
 <h2 id=references>References<a hidden class=anchor aria-hidden=true href=#references>¶</a></h2>
 <style>.csl-entry{text-indent:-1.5em;margin-left:1.5em}</style><div class=csl-bib-body>
-<div class=csl-entry><a id=citeproc_bib_item_1></a>“B-Tree.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=B-tree&oldid=1106759183">https://en.wikipedia.org/w/index.php?title=B-tree&oldid=1106759183</a>.</div>
+<div class=csl-entry><a id=citeproc_bib_item_1></a>“B-Tree.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=B-tree&oldid=1106759183">https://en.wikipedia.org/w/index.php?title=B-tree&oldid=1106759183</a>.</div>
 <div class=csl-entry><a id=citeproc_bib_item_2></a>“B-Trees.” n.d. Accessed September 22, 2022. <a href=https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html>https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html</a>.</div>
 <div class=csl-entry><a id=citeproc_bib_item_3></a>“Insertion into a B-tree.” n.d. Accessed September 22, 2022. <a href=https://www.programiz.com/dsa/insertion-into-a-b-tree>https://www.programiz.com/dsa/insertion-into-a-b-tree</a>.</div>
 <div class=csl-entry><a id=citeproc_bib_item_4></a>Programiz. n.d. “B-Tree.” Accessed September 22, 2022. <a href=https://www.programiz.com/dsa/b-tree>https://www.programiz.com/dsa/b-tree</a>.</div>

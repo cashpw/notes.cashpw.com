@@ -61,142 +61,141 @@ concept
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Implicit data structure
+<h2>External memory algorithm
 </h2>
 </header>
 <div class=entry-content>
-<p>In computer science, an implicit data structure or space-efficient data structure is a Data structure that stores very little information other than the main or required data: a data structure that requires low overhead. They are called “implicit” because the position of the elements carries meaning and relationship between elements; this is contrasted with the use of pointers to give an explicit relationship between elements. Definitions of “low overhead” vary, but generally means constant overhead; in big O notation, O(1) overhead....</p>
+<p>In computing, external memory algorithms or out-of-core algorithms are algorithms that are designed to process data that are too large to fit into a computer’s main memory at once. Such algorithms must be optimized to efficiently fetch and access data stored in slow bulk memory (auxiliary memory) such as hard drives or tape drives, or when memory is on a computer network.
+(“External Memory Algorithm” 2021)
+See Internal memory algorithm....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 09:32:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:12:02 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/implicit_data_structure.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-01 13:02:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:09:50 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/external_memory_algorithm.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Implicit data structure" href=http://notes.cashpw.com/posts/650f4577-c1ec-46c9-b7a6-af8d90756bcd/></a>
+<a class=entry-link aria-label="post link to External memory algorithm" href=http://notes.cashpw.com/posts/0f240189-7ede-4505-a900-21330b55f4c9/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Binary heap
+<h2>Python
 </h2>
 </header>
 <div class=entry-content>
-<p>A binary heap is a Heap Data structure that takes the form of a Binary tree. Binary heaps are a common way of implementing Priority queues.
-[…]
-A binary heap is defined as a binary tree with two additional constraints:
-Shape property: a binary heap is a Complete binary tree; that is, all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right....</p>
+<p>The programming language
+Flashcards Cloze position ease box interval due 1 2.20 8 362.45 2024-08-08T09:29:45Z 0 2.50 7 228.92 2023-09-24T16:29:06Z >>> a = ["A", "B", "C", "D"] >>> a[{{:2}@0}] {{["A", "B"]}@1} Extra Source Cloze position ease box interval due 1 2.65 3 6.00 2023-09-27T14:17:55Z 0 2.65 8 300.40 2023-12-31T03:00:51Z >>> a = ["A", "B", "C", "D"] >>> a[{{1:2}{n:n}@0}] {{["B"]}@1} Extra Source Cloze position ease box interval due 0 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 09:22:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:36:47 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/binary_heap.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-01 11:47:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:39:44 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/python.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Binary heap" href=http://notes.cashpw.com/posts/a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad/></a>
+<a class=entry-link aria-label="post link to Python" href=http://notes.cashpw.com/posts/27b0e33a-6754-40b8-99d8-46650e8626aa/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Lisp
+<h2>Merge sort implementation in Python
 </h2>
 </header>
 <div class=entry-content>
-<p>Lisp (historically LISP) is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.
-[…]
-The name LISP derives from “LISt Processor”. Linked lists are one of Lisp’s major data structures, and Lisp source code is made of lists. Thus, Lisp programs can manipulate source code as a data structure, giving rise to the macro systems that allow programmers to create new syntax or new domain-specific languages embedded in Lisp....</p>
+<p>Implementation of Merge sort in Python.
+import math from typing import List, Callable, Tuple def split(ints: List[int]) -> Tuple[List[int], List[int]]: if len(ints) &lt;= 1: return ints, [] split_index = math.floor(len(ints) / 2) return ints[0:split_index], ints[split_index:len(ints)] def merge(a: List[int], b: List[int], comparator: Callable[[id:int, int], bool]) -> List[int]: a_index = 0 b_index = 0 out = [] for _ in range(len(a) + len(b)): if a_index >= len(a): out.append(b[b_index]) b_index += 1 continue if b_index >= len(b): out....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 08:45:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:30:45 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/lisp.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-01 11:44:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:30:54 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/merge_sort_implementation_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Lisp" href=http://notes.cashpw.com/posts/f6e9082b-3589-448a-9877-b9a2b31d88ba/></a>
+<a class=entry-link aria-label="post link to Merge sort implementation in Python" href=http://notes.cashpw.com/posts/d87d7e23-c861-4cec-adf8-c19125cc6327/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Atom
+<h2>Merge sort
 </h2>
 </header>
 <div class=entry-content>
-<p>An atom, in Lisp, is an indivisible thing. Examples include:
-Numbers (e.g. 12) Strings (e.g. foo) Symbols (e.g. + or 'pi) This term comes from the historical meaning of the word atom, which means “indivisible”. As far as Lisp is concerned, the words we have been using in the lists cannot be divided into any smaller parts and still mean the same thing as part of a program; likewise with numbers and single character symbols like ‘+’....</p>
+<p>Conceptually, a merge sort works as follows:
+Divide the unsorted list into n sublists, each containing one element (a list of one element is considered sorted). Repeatedly merge sublists to produce new sorted sublists until there is only one sublist remaining. This will be the sorted list. (“Merge Sort” 2022)
+Merge sort is:
+Stable sorting algorithm External memory algorithm Algorithm procedure MergeSort(list) is if length of list &lt;= 1 then return list left, right = split(list) MergeSort(left) MergeSort(right) return Merge(left, right) Implementation Merge sort implementation in Python Complexity Worst-case Best-case Time \(O(n \operatorname{log}(n))\) \(O(n \operatorname{log}(n))\) Space \(O(n)\) \(O(n)\) Flashcards Merge sort space complexity: {{\(O(n)\)}@0} position ease box interval due 0 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 08:31:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:35:20 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/atom.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-01 11:23:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:30:53 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/merge_sort.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Atom" href=http://notes.cashpw.com/posts/b37a4585-be03-43ea-a55c-6a5f84e59c77/></a>
+<a class=entry-link aria-label="post link to Merge sort" href=http://notes.cashpw.com/posts/4ad76968-7e82-4d68-b8fa-ff6059f3c843/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Symbolic expression
+<h2>Stable sorting algorithm
 </h2>
 </header>
 <div class=entry-content>
-<p>In computer programming, an S-expression (or symbolic expression, abbreviated as sexpr or sexp) is an expression in a like-named notation for nested list (tree-structured) data. S-expressions were invented for and popularized by the programming language Lisp, which uses them for source code as well as data.
-In the usual parenthesized syntax of Lisp, an S-expression is classically defined as:
-an atom [Atom], or an expression of the form (x ....</p>
+<p>Stable sort algorithms sort equal elements in the same order that they appear in the input.
+(“Sorting Algorithm” 2022)
+>>> stable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')]) [(3, 'c'), (8, 'b'), (8, 'd'), (10, 'a')]) Flashcards Definition (Computer science) position ease box interval due back 1.60 9 151.60 2024-01-27T03:20:00Z front 2.65 7 330.75 2024-02-13T11:32:04Z Stable sorting algorithm...</p>
 </div>
-<footer class=entry-footer><span title="2022-06-29 08:13:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:39:05 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/symbolic_expression.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-07-01 11:08:00 -0700 -0700">2022-07-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:47:22 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/stable_sorting_algorithm.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Symbolic expression" href=http://notes.cashpw.com/posts/976fb83d-ae8c-427d-b47e-f0089b4d9ce1/></a>
+<a class=entry-link aria-label="post link to Stable sorting algorithm" href=http://notes.cashpw.com/posts/740ce42a-3a80-4ecb-9438-fedff074443b/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Stack
+<h2>Quicksort implementation in Python
 </h2>
 </header>
 <div class=entry-content>
-<p>In computer science, a stack is an Abstract data type that serves as a collection of elements, with two main principal operations:
-Push, which adds an element to the collection, and Pop, which removes the most recently added element that was not yet removed. The order in which elements come off a stack gives rise to its alternative name, LIFO (last in, first out). Additionally, a peek operation may give access to the top without modifying the stack....</p>
+<p>Implementation of Quicksort in Python.
+from typing import List, Callable def swap(ints: List[int], indexA: int, indexB: int) -> None: """Swap the values in INTS at INDEXA and INDEXB.""" valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA def partition(ints: List[int], comparator: Callable[[id:int, int], bool], low_index: int, high_index: int) -> int: """Sorts sublist into [{&lt;= pivot}, pivot, {> than pivot}]""" pivot_index = high_index i = low_index - 1 for j in range(low_index, high_index): if comparator(ints[j], ints[pivot_index]): i += 1 swap(ints, i, j) i += 1 swap(ints, i, pivot_index) return i def quick_sort_inner(ints: List[int], comparator: Callable[[id:int, int], bool], low_index: int, high_index: int) -> List[int]: if low_index >= high_index or low_index &lt; 0: return pivot_index = partition(ints, comparator, low_index, high_index) quick_sort_inner(ints, comparator, 0, pivot_index - 1) quick_sort_inner(ints, comparator, pivot_index + 1, high_index) return ints def quick_sort(ints: List[int], comparator: Callable[[id:int, int], bool]) -> List[int]: return quick_sort_inner(ints, comparator, 0, len(ints) - 1) a = [10, 15, 5, 8, 2, 1, 3, 9] print(quick_sort(a, lambda a, b: a &lt;= b)) Flashcards Implement position ease box interval due front 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-28 20:24:00 -0700 -0700">2022-06-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:33:43 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/stack.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-30 13:57:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:40:19 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/quicksort_implementation_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Stack" href=http://notes.cashpw.com/posts/5ab783c7-9a13-42d2-920d-95f103ac677c/></a>
+<a class=entry-link aria-label="post link to Quicksort implementation in Python" href=http://notes.cashpw.com/posts/ed982b37-6f8e-4b89-bb51-ac608510325e/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Priority queue
+<h2>Quicksort
 </h2>
 </header>
 <div class=entry-content>
-<p>In computer science, a priority queue is an abstract data-type similar to a regular queue [Queue] or stack data structure in which each element additionally has a “priority” associated with it. In a priority queue, an element with high priority is served before an element with low priority.
-[…]
-To improve performance, priority queues are typically based on a heap [Heap], giving O(log n) performance for inserts and removals, and O(n) to build the heap initially from a set of n elements....</p>
+<p>Quicksort is an in-place Sorting algorithm. […] It works by selecting a ‘pivot’ element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
+(“Quicksort” 2022)
+Quicksort is:
+Unstable sorting algorithm Internal memory algorithm Algorithm This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-28 17:37:00 -0700 -0700">2022-06-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:01:40 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/priority_queue.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-30 13:45:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:40:16 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/quicksort.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Priority queue" href=http://notes.cashpw.com/posts/6f787120-13bb-405a-bfca-060df6d80b14/></a>
+<a class=entry-link aria-label="post link to Quicksort" href=http://notes.cashpw.com/posts/d7bcd831-6a3f-4885-a654-15f0b11c9966/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Queue
+<h2>Bubble sort implementation in Python
 </h2>
 </header>
 <div class=entry-content>
-<p>A queue is an Abstract data type.
-In computer science, a queue is a collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence.
-[…]
-The operation of adding an element to the rear of the queue is known as enqueue, and the operation of removing an element from the front is known as dequeue....</p>
+<p>An Implementation of Bubble sort in Python.
+from typing import List def bubble_sort(ints: List[int]) -> List[int]: def do_pass() -> bool: sorted = True for i in range(len(ints)-1): if ints[i] > ints[i + 1]: sorted = False swap(i, i+1) return sorted def swap(indexA: int, indexB: int) -> None: valueA = ints[indexA] ints[indexA] = ints[indexB] ints[indexB] = valueA sorted = False while not sorted: sorted = do_pass() return ints return bubble_sort([10, 5, 4, 40]) Flashcards Backlinks Bubble sort </p>
 </div>
-<footer class=entry-footer><span title="2022-06-28 17:37:00 -0700 -0700">2022-06-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:07:59 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/queue.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-30 10:52:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 09:57:29 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/bubble_sort_implementation_in_python.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Queue" href=http://notes.cashpw.com/posts/f7ca3e99-0356-4651-996e-542a11d67f50/></a>
+<a class=entry-link aria-label="post link to Bubble sort implementation in Python" href=http://notes.cashpw.com/posts/af832252-c4a9-4364-bdef-59c1a8ea6ebe/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Balanced binary tree
+<h2>Bubble sort
 </h2>
 </header>
 <div class=entry-content>
-<p>A balanced binary tree is a binary tree structure in which the left and right subtrees of every node differ in height by no more than 1.
-(“Binary Tree” 2022)
-Flashcards Definition (Computer science) position ease box interval due back 2.05 7 166.04 2023-09-30T16:49:27Z front 2.50 7 248.40 2024-01-16T01:39:26Z Balanced binary tree
-Back A Binary tree in which the left and right subtrees of every node differ in height by no more than 1....</p>
+<p>Bubble sort, sometimes referred to as sinking sort, is a simple Sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+[links added]
+(“Bubble Sort” 2022)
+Bubble sort is stable.
+Algorithm while list is not sorted do for i in range(len(list) - 1) do if list[i] > list[i+1] do swap(i, i+1) Implementation Bubble sort implementation in Python Complexity Worst-case Best-case Time \(O(n^2)\) \(O(n)\) Space \(O(n)\) \(O(n)\) Flashcards Describe position ease box interval due front 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-06-28 15:26:00 -0700 -0700">2022-06-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:35:39 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/balanced_binary_tree.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-30 10:47:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 09:57:28 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/bubble_sort.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Balanced binary tree" href=http://notes.cashpw.com/posts/14876c69-a161-4b59-976a-d659cfe9435c/></a>
+<a class=entry-link aria-label="post link to Bubble sort" href=http://notes.cashpw.com/posts/c6bc266e-1090-492f-bdba-f044e04db3ff/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Binary tree
+<h2>Sorting algorithm
 </h2>
 </header>
 <div class=entry-content>
-<p>In computer science, a binary tree is a Tree Data structure in which each node has at most two children, which are referred to as the left child and the right child.
-(“Binary Tree” 2022)
-Types Complete binary tree Full binary tree Perfect binary tree Balanced binary tree Degenerate binary tree Skewed binary tree Implementation Representations Array Indexing Assuming a 0-indexed array: child nodes for a node at index \(i\) are at \(\text{left}=2i+1\) and \(\text{right}=2i+2\)....</p>
+<p>Flashcards Backlinks Comparison sorting algorithm Quickselect Merge sort Bubble sort Selection algorithm Quicksort Selection sort </p>
 </div>
-<footer class=entry-footer><span title="2022-06-28 15:26:00 -0700 -0700">2022-06-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:37:02 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/binary_tree.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-30 10:46:00 -0700 -0700">2022-06-30</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:46:38 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/sorting_algorithm.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Binary tree" href=http://notes.cashpw.com/posts/323bf406-41e6-4e5f-9be6-689e1055b118/></a>
+<a class=entry-link aria-label="post link to Sorting algorithm" href=http://notes.cashpw.com/posts/093fae33-1843-4271-b7cd-336553b9aac9/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

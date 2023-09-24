@@ -61,144 +61,131 @@ Posts
 </header>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Global Minima
+<h2>Java
 </h2>
 </header>
 <div class=entry-content>
-<p>The global minima is the smallest value of a function on the entire domain (“Maxima and Minima” 2022).
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Maxima and Minima.” 2022. Wikipedia, March. https://en.wikipedia.org/w/index.php?title=Maxima_and_minima&oldid=1076973581. </p>
+<p>The programming language.
+Flashcards </p>
 </div>
-<footer class=entry-footer><span title="2022-03-14 07:40:00 -0700 -0700">2022-03-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-11-04 14:58:09 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/global_minima.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 15:34:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:21:04 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/java.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Global Minima" href=http://notes.cashpw.com/posts/48db2ef9-4ac8-4c80-bc81-01f87be81943/></a>
+<a class=entry-link aria-label="post link to Java" href=http://notes.cashpw.com/posts/8c75e487-e975-4408-8b92-876e93cfbc12/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Local Minima
+<h2>Binary tree implementation in java
 </h2>
 </header>
 <div class=entry-content>
-<p>The local minima is the smallest value of a function within a given range (“Maxima and Minima” 2022).
-Examples References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Maxima and Minima.” 2022. Wikipedia, March. https://en.wikipedia.org/w/index.php?title=Maxima_and_minima&oldid=1076973581. </p>
+<p> import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface BinaryTree&lt;T> { boolean add(T value); boolean remove(T value); } </p>
 </div>
-<footer class=entry-footer><span title="2022-03-14 07:38:00 -0700 -0700">2022-03-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-11-04 15:06:44 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/local_minima.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 15:23:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-09-05 15:31:35 -0700 -0700">2022-09-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/binary_tree_implementation_in_java.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Local Minima" href=http://notes.cashpw.com/posts/b60aaeac-0364-4d7b-8189-4ded082154ff/></a>
+<a class=entry-link aria-label="post link to Binary tree implementation in java" href=http://notes.cashpw.com/posts/ccf978f1-5518-49dd-8af1-a856cf6d1084/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Extrema
+<h2>Max binary heap implementation in java
 </h2>
 </header>
 <div class=entry-content>
-<p> Global Minima Local Minima Global Maxima Local Maxima Etymology Extrema refer to both minima and maxima collectively (“Maxima and Minima” 2022).
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Maxima and Minima.” 2022. Wikipedia, March. https://en.wikipedia.org/w/index.php?title=Maxima_and_minima&oldid=1076973581. </p>
+<p>import java.lang.Math; import java.util.Optional; import java.util.ArrayList; interface Heap&lt;T> { boolean add(T value); Optional&lt;T> peek(); Optional&lt;T> poll(); } class MaxHeap&lt;T extends Comparable&lt;? super T>> implements Heap&lt;T> { private ArrayList&lt;T> array; MaxHeap() { this.array = new ArrayList&lt;T>(); } @Override public boolean add(T value) { array.add(value); heapifyUp(array.size() - 1); return true; } @Override public Optional&lt;T> peek() { if (array.isEmpty()) { return Optional.empty(); } return Optional.of(array.get(0)); } @Override public Optional&lt;T> poll() { if (array.isEmpty()) { return Optional....</p>
 </div>
-<footer class=entry-footer><span title="2022-03-14 07:31:00 -0700 -0700">2022-03-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-11-04 14:56:23 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/extrema.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 12:59:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:36:53 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/max_binary_heap_implementation_in_java.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Extrema" href=http://notes.cashpw.com/posts/0318ca22-3322-437d-916e-4a4724cd52b8/></a>
+<a class=entry-link aria-label="post link to Max binary heap implementation in java" href=http://notes.cashpw.com/posts/c49251f2-f550-4a7a-96cc-cbc17c5911b9/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Game theory
+<h2>Complete binary tree
 </h2>
 </header>
 <div class=entry-content>
-<p>Game theory is the study of mathematical models of strategic interactions among rational agents.
-(“Game Theory” 2022)
-Flashcards Describe position ease box interval due front 2.20 7 146.69 2023-09-03T08:07:45Z back 2.80 7 300.79 2024-04-19T09:08:16Z Game theory
-Back Study of mathematical models of strategic interactions among rational agents.
-Source (“Game Theory” 2022)
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Game Theory....</p>
+<p>A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible.
+(“Binary Tree” 2022)
+Flashcards Definition (Computer science) position ease box interval due back 2.65 8 421.13 2024-07-15T16:09:25Z front 2.95 7 361.54 2024-02-22T06:22:13Z Complete binary tree...</p>
 </div>
-<footer class=entry-footer><span title="2022-03-14 07:02:00 -0700 -0700">2022-03-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:59:37 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/game_theory.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 11:22:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:01:53 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/complete_binary_tree.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Game theory" href=http://notes.cashpw.com/posts/e157ee7b-f36c-4ff8-bcb3-643163925c20/></a>
+<a class=entry-link aria-label="post link to Complete binary tree" href=http://notes.cashpw.com/posts/cce89d10-ff69-4756-b9fa-9b713b4cb33b/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Prisoner's dilemma
+<h2>Asymptotic Notation
 </h2>
 </header>
 <div class=entry-content>
-<p>The prisoner’s dilemma is a standard example of a game analyzed in Game theory that shows why two completely rational individuals might not cooperate, even if it appears that it is in their best interests to do so.
-(“Prisoner’s Dilemma” 2022)
-Two members of a criminal organization are arrested and imprisoned. Each prisoner is in solitary confinement with no means of communicating with the other. The prosecutors lack sufficient evidence to convict the pair on the principal charge, but they have enough to convict both on a lesser charge....</p>
+<p> Big-O notation Little-o notation Big-Omega notation Big-Theta notation Flashcards Backlinks Little-o notation </p>
 </div>
-<footer class=entry-footer><span title="2022-03-14 07:01:00 -0700 -0700">2022-03-14</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:02:06 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/prisoner_s_dilemma.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 09:52:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 09:54:19 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/asymptotic_notation.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Prisoner's dilemma" href=http://notes.cashpw.com/posts/780bd825-4c89-4eb6-ba02-de09fefc4694/></a>
+<a class=entry-link aria-label="post link to Asymptotic Notation" href=http://notes.cashpw.com/posts/adca1b0d-0ebe-4ea9-8b89-b4583f0d74ad/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Scott Alexander | Meditations On Moloch
+<h2>Array
 </h2>
 </header>
 <div class=entry-content>
-<p>Scott Alexander, (Alexander 2014)
-Summary Systems compel the individuals within them to act within the rules of the system rather than by a globally optimal set of rules.
-Related:
-Tragedy of the Commons Notes I See Howl.
-A lot of the commentators say Moloch represents capitalism. This is definitely a piece of it, even a big piece. But it doesn’t quite fit. Capitalism, whose fate is a cloud of sexless hydrogen?...</p>
+<p>In computer science, an array Data structure, or simply an array, is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula.
+(“Array Data Structure” 2022)
+Flashcards Definition (Data structure) position ease box interval due back 2....</p>
 </div>
-<footer class=entry-footer><span title="2022-03-13 20:30:00 -0700 -0700">2022-03-13</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:34:01 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;20 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/alexanderMeditationsMoloch2014.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 09:38:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 09:54:00 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/array.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Scott Alexander | Meditations On Moloch" href=http://notes.cashpw.com/posts/1bba449a-48eb-479a-be4d-a4d7f8095b6a/></a>
+<a class=entry-link aria-label="post link to Array" href=http://notes.cashpw.com/posts/79b155d7-5a67-469d-b3f4-b8010cad8b54/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Moloch
+<h2>Succinct data structure
 </h2>
 </header>
 <div class=entry-content>
-<p>Carthaginian demon Since the medieval period, Moloch has often been portrayed as a bull-headed idol with outstretched hands over a fire; this depiction takes the brief mentions of Moloch in the Bible and combines them with various sources, including ancient accounts of Carthaginian child sacrifice and the legend of the Minotaur.
-“Moloch” has been figuratively used in reference to a person or a thing which demands or requires a very costly sacrifice...</p>
+<p>In computer science, a succinct data structure is a data structure which uses an amount of space that is “close” to the information-theoretic lower bound, but (unlike other compressed representations) still allows for efficient query operations.
+(“Succinct Data Structure” 2021)
+Flashcards Definition (Computer science) position ease box interval due back 1.30 3 6.00 2023-09-23T23:07:53Z front 1.30 8 23.45 2023-10-13T10:38:20Z Succinct data structure...</p>
 </div>
-<footer class=entry-footer><span title="2022-03-13 20:24:00 -0700 -0700">2022-03-13</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:42:00 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/moloch.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 09:35:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:48:40 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/succinct_data_structure.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Moloch" href=http://notes.cashpw.com/posts/3aea1e2f-dd21-4c21-a8c9-7efd610424c4/></a>
+<a class=entry-link aria-label="post link to Succinct data structure" href=http://notes.cashpw.com/posts/2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Allen Ginsberg | Howl
+<h2>Heapsort
 </h2>
 </header>
 <div class=entry-content>
-<p>Allen Ginsberg, (Ginsberg 2022)
-I I saw the best minds of my generation destroyed by madness, starving hysterical naked,
-dragging themselves through the negro streets at dawn looking for an angry fix,
-angelheaded hipsters burning for the ancient heavenly connection to the starry dynamo in the machinery of night,
-who poverty and tatters and hollow-eyed and high sat up smoking in the supernatural darkness of cold-water flats floating across the tops of cities contemplating jazz,...</p>
+<p>In computer science, heapsort is a comparison-based sorting algorithm. Heapsort can be thought of as an improved Selection sort: like selection sort, heapsort divides its input into a sorted and an unsorted region, and it iteratively shrinks the unsorted region by extracting the largest element from it and inserting it into the sorted region. Unlike selection sort, heapsort does not waste time with a linear-time scan of the unsorted region; rather, heap sort maintains the unsorted region in a Heap Data structure to more quickly find the largest element in each step....</p>
 </div>
-<footer class=entry-footer><span title="2022-03-13 20:20:00 -0700 -0700">2022-03-13</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:01:03 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;14 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/ginsbergHowl2022.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 09:32:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:15:51 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/heapsort.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Allen Ginsberg | Howl" href=http://notes.cashpw.com/posts/de31b59e-2fed-49c0-82ff-22d6f86fc48d/></a>
+<a class=entry-link aria-label="post link to Heapsort" href=http://notes.cashpw.com/posts/cf64c166-6ad5-4dd7-88c6-155a320a7ea3/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Chop wood, carry water
+<h2>Implicit data structure
 </h2>
 </header>
 <div class=entry-content>
-<p> Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
-Zen Proverb
-Flashcards Before enlightenment, {{chop wood, carry water. After enlightenment, chop wood, carry water.}{full}@0} position ease box interval due 0 1.90 8 180.22 2024-01-06T20:54:34Z Source Backlinks The journey is what matters </p>
+<p>In computer science, an implicit data structure or space-efficient data structure is a Data structure that stores very little information other than the main or required data: a data structure that requires low overhead. They are called “implicit” because the position of the elements carries meaning and relationship between elements; this is contrasted with the use of pointers to give an explicit relationship between elements. Definitions of “low overhead” vary, but generally means constant overhead; in big O notation, O(1) overhead....</p>
 </div>
-<footer class=entry-footer><span title="2022-03-13 20:01:00 -0700 -0700">2022-03-13</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:41:51 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/chop_wood_carry_water.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 09:32:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:18:41 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/implicit_data_structure.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Chop wood, carry water" href=http://notes.cashpw.com/posts/465e012a-7d64-4f19-8f52-f872ba68680c/></a>
+<a class=entry-link aria-label="post link to Implicit data structure" href=http://notes.cashpw.com/posts/650f4577-c1ec-46c9-b7a6-af8d90756bcd/></a>
 </article>
 <article class=post-entry>
 <header class=entry-header>
-<h2>The journey is what matters
+<h2>Priority queues
 </h2>
 </header>
 <div class=entry-content>
-<p> Chop Wood, Carry Water Flashcards </p>
+<p> TODO_QUOTE source (a)
+</p>
 </div>
-<footer class=entry-footer><span title="2022-03-13 19:02:00 -0700 -0700">2022-03-13</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:46:20 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/the_journey_is_what_matters.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2022-06-29 09:24:00 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-06-29 11:35:51 -0700 -0700">2022-06-29</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/priority_queues.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to The journey is what matters" href=http://notes.cashpw.com/posts/1ca0d9f2-27ec-4297-95e4-395c8713618f/></a>
+<a class=entry-link aria-label="post link to Priority queues" href=http://notes.cashpw.com/posts/priority_queues/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

@@ -61,140 +61,138 @@ concept
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Speed of light
+<h2>C++ class
 </h2>
 </header>
 <div class=entry-content>
-<p>The speed of light in vacuum, commonly denoted \(c\), is a universal physical constant that is exactly equal to 299,792,458 metres per second (approximately 300,000 kilometres per second; 186,000 miles per second; 671 million miles per hour).
-(“Speed of Light” 2023)
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Speed of Light.” 2023. Wikipedia, March. https://en.wikipedia.org/w/index.php?title=Speed_of_light&oldid=1144915324. Flashcards Cloze position ease box interval due 0 2....</p>
+<p>A class in C++ represents a user-defined data structure. It’s similar to a C++ struct.
+Concrete class The basic idea of ocncrete classes is that they behave “just like built-in types”.
+(Stroustrup 2022)
+Classes without any abstract methods.
+Abstract class Classes with at least one abstract method.
+An example of an abstract class is the following Container:
+class Container { public: virtual double& operator[](int) = 0; virtual int size() const = 0; virtual ˜Container() {} }; See Pure virtual function...</p>
 </div>
-<footer class=entry-footer><span title="2023-03-17 09:06:00 -0700 -0700">2023-03-17</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:32:39 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/speed_of_light.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-05-11 10:06:00 -0700 -0700">2023-05-11</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 09:57:38 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/c_class.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Speed of light" href=http://notes.cashpw.com/posts/e20ac0c6-f1ba-420d-9afb-c9f031264a2b/></a>
+<a class=entry-link aria-label="post link to C++ class" href=http://notes.cashpw.com/posts/b3c25e15-f426-41d3-ae97-925da325ed73/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Latency
+<h2>C++ struct
 </h2>
 </header>
 <div class=entry-content>
-<p>The time from the source sending a packet to the destination receiving it.
-[…]
-(Grigorik n.d.)
-Components Latency is the time it takes for a message, or a packet, to travel from its point of origin to the point of destination. That is a simple and useful definition, but it often hides a lot of useful information — every system contains multiple sources, or components, contributing to the overall time it takes for a message to be delivered, and it is important to understand what these components are and what dictates their performance....</p>
+<p>A struct in C++ colloquially represents a “pure” Data structure in that it is only a composite data type.
+Flashcards Compare and contrast (C++) position ease box interval due front 2.50 6 91.72 2023-10-26T08:26:19Z struct and class
+Back Default member access: struct: Members are public by default class: Members are private by default Usage struct: Typically used for “simple” or “pure” data structures classes: Everything else; Object-oriented programming Source (Stroustrup 2022) and ChatGPT...</p>
 </div>
-<footer class=entry-footer><span title="2023-03-17 08:41:00 -0700 -0700">2023-03-17</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:25:49 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/latency.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-05-11 10:04:00 -0700 -0700">2023-05-11</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 09:57:44 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/c_struct.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Latency" href=http://notes.cashpw.com/posts/53999225-665e-4d16-9a0d-60c49293ccab/></a>
+<a class=entry-link aria-label="post link to C++ struct" href=http://notes.cashpw.com/posts/77af446a-bdc3-4800-b72e-240b66e69154/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Internet protocol suite
+<h2>Operators in C++
 </h2>
 </header>
 <div class=entry-content>
-<p>The Internet protocol suite, commonly known as TCP/IP, is a framework for organizing the set of communication protocols used in the Internet and similar computer networks according to functional criteria. The foundational protocols in the suite are the Transmission Control Protocol (TCP), the User Datagram Protocol (UDP), and the Internet Protocol (IP).
-(“Internet Protocol Suite” 2023)
-Layers (“Internet Protocol Suite” 2023)
-Link layer Internet layer Transport layer Application layer Flashcards References ....</p>
+<p>>> and &lt;&lt; These double angle-brackets are either:
+Iostreams: “Put-to” (&lt;&lt;) or “get-from” (>>) Numbers: Bit-wise left shift (&lt;&lt;) and right shift (>>) Indirection operator The indirection, or dereference, operator is the asterisk (*).
+#include&lt;iostream> int foo() { int a = 5; int* b = &amp;a; return *b; } int main() { std::cout &lt;&lt; foo(); } Address-of operator The address-of operator is ampersand (&).
+#include&lt;iostream> int foo() { int a = 5; int* b = &amp;a; return *b; } int main() { std::cout &lt;&lt; foo(); } Scope resolution operator The scope resolution operator is ::....</p>
 </div>
-<footer class=entry-footer><span title="2023-03-17 08:23:00 -0700 -0700">2023-03-17</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:13:52 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/internet_protocol_suite.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-05-04 16:20:00 -0700 -0700">2023-05-04</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:36:06 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/operators_in_c.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Internet protocol suite" href=http://notes.cashpw.com/posts/b691f9f9-f9ac-4c1c-95ef-7d04a3b777af/></a>
+<a class=entry-link aria-label="post link to Operators in C++" href=http://notes.cashpw.com/posts/06278a18-c5ee-48fb-80af-422c748c610d/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Open systems interconnection model
+<h2>Lambda calculus
 </h2>
 </header>
 <div class=entry-content>
-<p>The Open Systems Interconnection model (OSI model) is a conceptual model, originally conceived as the 7 layer onion skin architecture by Jack Houldsworth of ICL that ‘provides a common basis for the coordination of [ISO] standards development for the purpose of systems interconnection’. In the OSI reference model, the communications between a computing system are split into seven different abstraction layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application....</p>
+<p>Flashcards Backlinks Functional programming </p>
 </div>
-<footer class=entry-footer><span title="2023-03-17 08:23:00 -0700 -0700">2023-03-17</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:51:23 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/open_systems_interconnection_model.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-05-03 15:30:00 -0700 -0700">2023-05-03</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:24:40 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/lambda_calculus.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Open systems interconnection model" href=http://notes.cashpw.com/posts/582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6/></a>
+<a class=entry-link aria-label="post link to Lambda calculus" href=http://notes.cashpw.com/posts/a81fbc80-350e-4c7a-8332-09861e34b5bf/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Heat death of the universe
+<h2>Imperative mood
 </h2>
 </header>
 <div class=entry-content>
-<p>The heat death of the universe (also known as the Big Chill or Big Freeze)[1] is a hypothesis on the ultimate fate of the universe, which suggests the universe will evolve to a state of no thermodynamic free energy, and will therefore be unable to sustain processes that increase entropy.
-(“Heat Death of the Universe” 2023)
-Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Heat Death of the Universe.” 2023. Wikipedia, February....</p>
+<p>The imperative mood is a grammatical mood that forms a command or request.
+The imperative mood is used to demand or require that an action be performed. It is usually found only in the present tense, second person. They are sometimes called directives, as they include a feature that encodes directive force, and another feature that encodes modality of unrealized interpretation.
+An example of a verb used in the imperative mood is the English phrase “Go....</p>
 </div>
-<footer class=entry-footer><span title="2023-03-13 07:50:00 -0700 -0700">2023-03-13</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:05:55 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/heat_death_of_the_universe.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-05-03 15:17:00 -0700 -0700">2023-05-03</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:18:26 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/imperative_mood.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Heat death of the universe" href=http://notes.cashpw.com/posts/e549e41e-1a12-41a9-8547-540eefac6d81/></a>
+<a class=entry-link aria-label="post link to Imperative mood" href=http://notes.cashpw.com/posts/39f7e92f-c7df-4d0d-94cd-ef7f39437ec1/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Planar graph
+<h2>Logic programming
 </h2>
 </header>
 <div class=entry-content>
-<p>In graph theory, a planar graph is a graph that can be embedded in the plane, i.e., it can be drawn on the plane in such a way that its edges intersect only at their endpoints. In other words, it can be drawn in such a way that no edges cross each other.
-(“Planar Graph” 2023)
-Flashcards Definition position ease box interval due front 2....</p>
+<p> Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} Backlinks Programming paradigm Declarative programming </p>
 </div>
-<footer class=entry-footer><span title="2023-03-12 05:37:00 -0700 -0700">2023-03-12</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:57:36 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/planar_graph.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-05-01 17:53:00 -0700 -0700">2023-05-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:27:58 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/logic_programming.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Planar graph" href=http://notes.cashpw.com/posts/d03ccb7a-a338-4fc4-9669-f4ffc1572132/></a>
+<a class=entry-link aria-label="post link to Logic programming" href=http://notes.cashpw.com/posts/6890c22d-7dc3-4ce9-ae3a-a9d7d288fa14/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Gross domestic product
+<h2>Mathematical programming
 </h2>
 </header>
 <div class=entry-content>
-<p> Gross domestic product (GDP) is the total monetary or market value of all the finished goods and services produced within a country’s borders in a specific time period.
-(“Gross Domestic Product (GDP): Formula and How to Use It” n.d.)
-Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Gross Domestic Product (GDP): Formula and How to Use It.” n.d. Investopedia. Accessed March 12, 2023. https://www.investopedia.com/terms/g/gdp.asp. Backlinks Recession </p>
+<p> Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} Backlinks Programming paradigm </p>
 </div>
-<footer class=entry-footer><span title="2023-03-11 16:38:00 -0800 -0800">2023-03-11</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:03:42 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/gross_domestic_product.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-05-01 17:52:00 -0700 -0700">2023-05-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:29:35 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/mathematical_programming.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Gross domestic product" href=http://notes.cashpw.com/posts/205c075c-2da8-42a2-854a-c7981591e4bd/></a>
+<a class=entry-link aria-label="post link to Mathematical programming" href=http://notes.cashpw.com/posts/a4e065dd-3bcc-41e8-a26f-09e6fdf929d7/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Recession
+<h2>Functional programming
 </h2>
 </header>
 <div class=entry-content>
-<p>A recession is a significant, widespread, and prolonged downturn in economic activity. A common rule of thumb is that two consecutive quarters of negative gross domestic product [Gross domestic product] (GDP) growth mean recession, although more complex formulas are also used.
-(“Recession: What Is It and What Causes It” n.d.)
-Flashcards Recession position ease box interval due front 2.35 6 95.89 2023-08-25T10:13:31Z back 2....</p>
+<p>In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program.
+In functional programming, functions are treated as first-class citizens, meaning that they can be bound to names (including local identifiers), passed as arguments, and returned from other functions, just as any other data type can....</p>
 </div>
-<footer class=entry-footer><span title="2023-03-11 16:36:00 -0800 -0800">2023-03-11</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 12:13:07 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/recession.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-05-01 17:50:00 -0700 -0700">2023-05-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:12:14 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/functional_programming.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Recession" href=http://notes.cashpw.com/posts/6be77fc0-00f0-4b41-b14a-380968182a0c/></a>
+<a class=entry-link aria-label="post link to Functional programming" href=http://notes.cashpw.com/posts/f690a8ad-4069-4e96-a707-2a57f638c493/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Criminals still have rights
+<h2>Reactive programming
 </h2>
 </header>
 <div class=entry-content>
-<p>Flashcards Backlinks John Ehrlichman | You want to know what this was really all about? </p>
+<p> Flashcards References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;} Backlinks Programming paradigm </p>
 </div>
-<footer class=entry-footer><span title="2023-03-06 06:30:00 -0800 -0800">2023-03-06</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 10:45:38 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/criminals_still_have_rights.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-05-01 17:50:00 -0700 -0700">2023-05-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:40:53 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/reactive_programming.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Criminals still have rights" href=http://notes.cashpw.com/posts/c0e03db8-0858-48f1-ba88-9485d7773d10/></a>
+<a class=entry-link aria-label="post link to Reactive programming" href=http://notes.cashpw.com/posts/f75ac439-6ecc-427c-ad1c-3d3428bc430a/></a>
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>Mind upload
+<h2>Declarative programming
 </h2>
 </header>
 <div class=entry-content>
-<p>See also: Transhumanism.
-Flashcards Backlinks qntm | Lena </p>
+<p>Declarative programming is often defined as any style of programming that is not imperative [Imperative programming]. A number of other common definitions attempt to define it by simply contrasting it with imperative programming. For example:
+A high-level program that describes what a computation should perform. Any programming language that lacks side effects (or more specifically, is referentially transparent) A language with a clear correspondence to mathematical logic. These definitions overlap substantially....</p>
 </div>
-<footer class=entry-footer><span title="2023-03-02 19:01:00 -0800 -0800">2023-03-02</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-08-02 11:40:43 -0700 -0700">2023-08-02</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/mind_upload.org rel="noopener noreferrer" target=_blank>Edit</a>
+<footer class=entry-footer><span title="2023-05-01 17:49:00 -0700 -0700">2023-05-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-09-24 10:05:24 -0700 -0700">2023-09-24</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/declarative_programming.org rel="noopener noreferrer" target=_blank>Edit</a>
 </footer>
-<a class=entry-link aria-label="post link to Mind upload" href=http://notes.cashpw.com/posts/4c189b5c-9f16-45ea-9c3d-093e96c4d33e/></a>
+<a class=entry-link aria-label="post link to Declarative programming" href=http://notes.cashpw.com/posts/f234a51d-23e4-4050-bf2c-60895a99ee12/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
