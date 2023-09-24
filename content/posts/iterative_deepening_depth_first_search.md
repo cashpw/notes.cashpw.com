@@ -2,7 +2,7 @@
 title = "Iterative deepening depth-first-search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T18:09:00-07:00
-lastmod = 2023-08-02T11:15:29-07:00
+lastmod = 2023-09-24T10:20:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,7 +54,7 @@ Worst-case: \\(\bigo{b^d}\\) where \\(b\\) is the branching factor (e.g. 2 for [
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 2        | 2.65 | 7   | 287.40   | 2023-12-11T01:58:01Z |
-| 1        | 2.50 | 7   | 228.28   | 2023-08-23T21:55:51Z |
+| 1        | 2.35 | 8   | 520.79   | 2025-01-28T09:52:49Z |
 | 0        | 2.65 | 8   | 371.74   | 2024-06-12T08:20:15Z |
 
 
@@ -91,7 +91,7 @@ Worst-case: \\(\bigo{b^d}\\) where \\(b\\) is the branching factor (e.g. 2 for [
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 3   | 6.00     | 2023-08-04T14:56:04Z |
+| front    | 1.60 | 0   | 0.00     | 2023-09-11T12:42:52Z |
 
 Implement [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 
@@ -108,8 +108,8 @@ Implement [Iterative deepening depth-first-search]({{< relref "iterative_deepeni
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Depth-First Search.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Depth-first_search&oldid=1091833357">https://en.wikipedia.org/w/index.php?title=Depth-first_search&#38;oldid=1091833357</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Iterative Deepening Depth-First Search.” 2021. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Iterative_deepening_depth-first_search&oldid=1001650193">https://en.wikipedia.org/w/index.php?title=Iterative_deepening_depth-first_search&#38;oldid=1001650193</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Depth-First Search.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Depth-first_search&oldid=1091833357">https://en.wikipedia.org/w/index.php?title=Depth-first_search&#38;oldid=1091833357</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Iterative Deepening Depth-First Search.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Iterative_deepening_depth-first_search&oldid=1001650193">https://en.wikipedia.org/w/index.php?title=Iterative_deepening_depth-first_search&#38;oldid=1001650193</a>.</div>
 </div>
 
 

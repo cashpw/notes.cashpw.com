@@ -2,9 +2,9 @@
 title = "Draw the rest of the owl"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-18T11:20:00-08:00
-lastmod = 2023-08-02T10:51:31-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:07:32-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "ac7ecc0f-8a56-48c8-ab7a-809962db31ae"
 +++

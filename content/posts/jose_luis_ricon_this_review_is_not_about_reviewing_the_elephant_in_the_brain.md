@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain"
 author = ["Cash Weaver"]
 date = 2023-01-11T20:52:00-08:00
-lastmod = 2023-08-02T11:20:00-07:00
+lastmod = 2023-09-24T10:22:10-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -95,7 +95,7 @@ How the aristocratic and religious origin of education may have influenced subje
 
 #### Back {#back}
 
-> In the past, if you wanted to become a blacksmith, you just learned from your father or became an apprentice at the local guild. Aristocrats had to learn their signaling subjects. Men of religion had to learn grammar, and logic, rhetoric, and latin to engage in theology. When education was then extended to the masses, elites wanted them to have proper values and morals, etc. People might also have been looking upwards at what the elites were doing, and seeing those things as being high status, they became engrained into what education was becoming. Fast forward to the present and we still have some of that present.
+> In the past, if you wanted to become a blacksmith, you just learned from your father or became an apprentice at the local guild. Aristocrats had to learn their signaling subjects. Men of religion had to learn grammar, and logic, rhetoric, and latin to engage in theology. When education was then extended to the masses, elites wanted them to have proper values and morals, etc. People might also have been looking upwards at what the elites were doing, and seeing those things as being high status, they became ingrained into what education was becoming. Fast forward to the present and we still have some of that present.
 
 
 #### Source {#source}

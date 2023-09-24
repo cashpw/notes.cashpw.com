@@ -2,7 +2,7 @@
 title = "Sama Vritti Pranayama"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-31T10:32:00-08:00
-lastmod = 2023-08-02T12:19:16-07:00
+lastmod = 2023-09-24T10:42:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,7 +26,7 @@ The practitioner should perform each part for the same duration (eg: inhale four
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 168.35   | 2023-09-21T00:51:12Z |
+| front    | 2.35 | 8   | 428.32   | 2024-11-22T22:00:06Z |
 | back     | 2.65 | 7   | 231.96   | 2024-01-01T13:49:53Z |
 
 [Box breathing]({{< relref "sama_vritti_pranayama.md" >}})

@@ -2,7 +2,7 @@
 title = "No zero days"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-12T08:30:00-08:00
-lastmod = 2023-08-02T11:48:20-07:00
+lastmod = 2023-09-24T10:35:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,7 +37,7 @@ Make at least a little bit of progress every day. Don't let a day go by without 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>ryans01. 2013. “No Zero Days.” Reddit Comment. <i>R/Getdisciplined</i>. <a href="www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/">www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>ryans01. 2013. “No Zero Days.” Reddit Comment. r/getdisciplined. November 9, 2013. <a href="www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/">www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/</a>.</div>
 </div>
 
 

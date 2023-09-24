@@ -2,7 +2,7 @@
 title = "Composability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:47:00-08:00
-lastmod = 2023-08-02T10:43:29-07:00
+lastmod = 2023-09-24T10:02:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ slug = "5d0c9c41-219f-4330-b2e6-0ae5daaa5355"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 8   | 102.20   | 2023-08-20T20:51:17Z |
+| front    | 1.60 | 9   | 161.92   | 2024-01-30T11:04:19Z |
 | back     | 2.05 | 7   | 149.90   | 2023-10-10T13:58:31Z |
 
 [Composability]({{< relref "composability.md" >}})
@@ -47,7 +47,7 @@ A design principle relating to distinct, independent, units which can be assembl
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 139.78   | 2023-08-31T07:33:04Z |
+| 0        | 2.35 | 8   | 311.08   | 2024-07-07T20:21:31Z |
 | 1        | 1.90 | 7   | 70.48    | 2023-10-07T02:45:15Z |
 
 
@@ -58,7 +58,7 @@ A design principle relating to distinct, independent, units which can be assembl
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Composability.” 2021. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Composability&oldid=1030547806">https://en.wikipedia.org/w/index.php?title=Composability&#38;oldid=1030547806</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Composability.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Composability&oldid=1030547806">https://en.wikipedia.org/w/index.php?title=Composability&#38;oldid=1030547806</a>.</div>
 </div>
 
 

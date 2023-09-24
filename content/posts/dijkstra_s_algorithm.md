@@ -2,7 +2,7 @@
 title = "Dijkstra's algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T07:30:00-08:00
-lastmod = 2023-08-02T10:49:45-07:00
+lastmod = 2023-09-24T10:06:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -65,7 +65,7 @@ Same as the single-source solution, but stop when you've found the target node.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.20 | 7   | 148.09   | 2023-10-11T17:07:24Z |
-| back     | 2.05 | 7   | 131.38   | 2023-09-07T23:48:19Z |
+| back     | 2.05 | 8   | 285.37   | 2024-06-20T01:25:53Z |
 
 [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) for solving the [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
 
@@ -93,7 +93,7 @@ Algorithm:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 149.30   | 2023-08-16T23:31:45Z |
+| 0        | 2.95 | 7   | 445.20   | 2024-11-07T04:14:07Z |
 | 1        | 2.50 | 7   | 176.01   | 2023-10-31T17:21:58Z |
 
 {{[Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})}@0} can solve the [Shortest path problem]({{< relref "shortest_path_algorithm.md" >}}) for {{non-negative}{positive/negative}@1} edge weights.
@@ -142,7 +142,7 @@ Time complexity of [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.30 | 8   | 20.46    | 2023-08-09T00:48:05Z |
+| 0        | 1.30 | 6   | 11.80    | 2023-09-26T10:13:43Z |
 | 1        | 2.50 | 7   | 179.35   | 2024-01-19T12:22:11Z |
 
 Time complexity for [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) is {{\\(\bigtheta{(|E| + |V|)\log(|V|)}\\), or \\(\bigtheta{|E|\log(|V|)}\\) for a connected graph}@0} when {{implemented with a [Binary heap]({{< relref "binary_heap.md" >}}) or [Binary search tree]({{< relref "binary_search_tree.md" >}})}@1}.
@@ -157,8 +157,8 @@ Time complexity for [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 146.91   | 2023-08-11T12:03:31Z |
-| 1        | 2.20 | 6   | 79.19    | 2023-08-04T17:10:16Z |
+| 0        | 2.80 | 7   | 373.50   | 2024-08-31T04:42:46Z |
+| 1        | 2.20 | 7   | 171.99   | 2024-01-24T15:41:53Z |
 
 Time complexity for [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) is {{\\(\bigtheta{|E| + |V|\log(|V|)}\\)}@0} when {{implemented with a [Fibonacci heap]({{< relref "fibonacci_heap.md" >}})}@1}.
 
@@ -187,7 +187,7 @@ Failure cases for {{[Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 160.93   | 2023-08-29T15:39:04Z |
+| front    | 2.95 | 7   | 488.42   | 2024-12-30T22:52:22Z |
 | back     | 2.80 | 7   | 326.58   | 2024-05-27T18:07:29Z |
 
 Why does [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) fail with negative weights?
@@ -221,7 +221,7 @@ Why does [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) fail w
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 128.55   | 2023-09-09T04:57:19Z |
+| front    | 2.80 | 7   | 372.89   | 2024-09-16T20:31:27Z |
 
 Benefit(s) of only queuing a single item at the start of [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}).
 
@@ -253,22 +253,22 @@ Benefit(s) of only queuing a single item at the start of [Dijkstra's algorithm](
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A* Search Algorithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&oldid=1127312005">https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&#38;oldid=1127312005</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Dijkstra’s Algorithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&oldid=1127202995">https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&#38;oldid=1127202995</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A* Search Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&oldid=1127312005">https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&#38;oldid=1127312005</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Dijkstra’s Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&oldid=1127202995">https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&#38;oldid=1127202995</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
--   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
 -   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
--   [Dynamic programming]({{< relref "dynamic_programming.md" >}})
--   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
+-   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
 -   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
--   [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})
 -   [Branch and bound]({{< relref "branch_and_bound.md" >}})
+-   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
+-   [Dynamic programming]({{< relref "dynamic_programming.md" >}})
+-   [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})
 -   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
+-   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
 -   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})
 -   [Customizable route planning]({{< relref "customizable_route_planning.md" >}})

@@ -2,7 +2,7 @@
 title = "Load balancing"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T08:31:00-07:00
-lastmod = 2023-08-02T11:31:17-07:00
+lastmod = 2023-09-24T10:27:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,8 +32,8 @@ slug = "44890929-fa24-4a69-b261-04107a005903"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 87.44    | 2023-09-02T01:03:00Z |
-| back     | 1.90 | 6   | 40.77    | 2023-08-13T20:09:56Z |
+| front    | 2.50 | 7   | 216.71   | 2024-04-08T06:34:07Z |
+| back     | 1.90 | 7   | 79.18    | 2023-11-07T20:15:45Z |
 
 [Load balancing]({{< relref "load_balancing.md" >}})
 
@@ -72,7 +72,7 @@ Sending all of a user's requests (either entirely or for a single session) to th
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 101.05   | 2023-09-16T15:56:40Z |
+| 0        | 2.50 | 7   | 269.56   | 2024-06-13T12:31:31Z |
 | 1        | 2.80 | 6   | 136.43   | 2023-12-07T14:21:37Z |
 
 -   {{[Persistence (Load balancing)](#persistence--load-balancing-load-balancing-dot-md)}@0}
@@ -86,7 +86,7 @@ Sending all of a user's requests (either entirely or for a single session) to th
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Load Balancing (Computing).” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Load_balancing_(computing)&oldid=1143711216">https://en.wikipedia.org/w/index.php?title=Load_balancing_(computing)&#38;oldid=1143711216</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Load Balancing (Computing).” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Load_balancing_(computing)&oldid=1143711216">https://en.wikipedia.org/w/index.php?title=Load_balancing_(computing)&#38;oldid=1143711216</a>.</div>
 </div>
 
 

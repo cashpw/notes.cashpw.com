@@ -2,7 +2,7 @@
 title = "Admissible heuristic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T14:13:00-08:00
-lastmod = 2023-08-02T10:33:42-07:00
+lastmod = 2023-09-24T09:52:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ See also [Consistent heuristic]({{< relref "consistent_heuristic.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 7   | 184.06   | 2023-11-21T02:03:30Z |
-| back     | 1.90 | 6   | 45.24    | 2023-08-08T19:08:22Z |
+| back     | 1.90 | 7   | 84.77    | 2023-11-02T19:03:15Z |
 
 [Admissible heuristic]({{< relref "admissible_heuristic.md" >}})
 
@@ -41,11 +41,11 @@ A heuristic function which never overestimates the cost of reaching the goal.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Admissible Heuristic.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&oldid=1109959567">https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&#38;oldid=1109959567</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Admissible Heuristic.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&oldid=1109959567">https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&#38;oldid=1109959567</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Consistent heuristic]({{< relref "consistent_heuristic.md" >}})
 -   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
+-   [Consistent heuristic]({{< relref "consistent_heuristic.md" >}})

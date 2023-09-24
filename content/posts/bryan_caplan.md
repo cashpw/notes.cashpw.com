@@ -2,9 +2,9 @@
 title = "Bryan Caplan"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:18:00-08:00
-lastmod = 2023-08-02T10:38:30-07:00
-tags = ["has-todo", "person", "has-todo", "person"]
-categories = ["has-todo", "person"]
+lastmod = 2023-09-24T09:57:22-07:00
+tags = ["hastodo", "person", "hastodo", "person"]
+categories = ["hastodo", "person"]
 draft = false
 slug = "d6819447-2213-4cc1-8b82-23a63cc1d995"
 +++

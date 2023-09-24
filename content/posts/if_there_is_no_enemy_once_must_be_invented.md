@@ -2,7 +2,7 @@
 title = "If there is no enemy, one must be invented"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:36:00-08:00
-lastmod = 2023-08-02T11:10:04-07:00
+lastmod = 2023-09-24T10:17:53-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -33,7 +33,7 @@ slug = "ac25c22f-8025-4664-893d-ce98825c25c0"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 6   | 43.70    | 2023-08-28T07:00:35Z |
+| 0        | 1.75 | 7   | 77.62    | 2023-11-15T05:56:27Z |
 
 
 #### Source {#source}

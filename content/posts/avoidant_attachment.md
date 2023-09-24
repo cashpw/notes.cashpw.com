@@ -2,7 +2,7 @@
 title = "Avoidant attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T13:22:00-07:00
-lastmod = 2023-08-02T10:35:31-07:00
+lastmod = 2023-09-24T09:54:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,7 +48,7 @@ An unhealthy attachment pattern in which the child "gives up" on receiving comfo
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 1.45 | 9   | 116.78   | 2023-11-16T22:26:42Z |
-| back     | 2.05 | 7   | 158.87   | 2023-09-19T10:12:56Z |
+| back     | 1.75 | 2   | 2.00     | 2023-09-23T14:17:34Z |
 
 [Avoidant attachment]({{< relref "avoidant_attachment.md" >}})
 
@@ -65,5 +65,5 @@ An unhealthy attachment pattern in which the child "gives up" on receiving comfo
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attachment Theory.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Attachment_theory&oldid=1094457033">https://en.wikipedia.org/w/index.php?title=Attachment_theory&#38;oldid=1094457033</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attachment Theory.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Attachment_theory&oldid=1094457033">https://en.wikipedia.org/w/index.php?title=Attachment_theory&#38;oldid=1094457033</a>.</div>
 </div>

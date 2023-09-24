@@ -2,7 +2,7 @@
 title = "Valar dohaeris"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:00:00-07:00
-lastmod = 2023-08-02T13:00:44-07:00
+lastmod = 2023-09-24T10:54:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

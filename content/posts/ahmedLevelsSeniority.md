@@ -2,7 +2,7 @@
 title = "Kamran Ahmed | Levels of Seniority"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:50:00-08:00
-lastmod = 2023-08-02T10:33:52-07:00
+lastmod = 2023-09-24T09:52:22-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -71,7 +71,7 @@ slug = "e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ahmed, Kamran. n.d. “Levels of Seniority.” <i>Https://Roadmap.Sh/Guides/Levels-of-Seniority</i>. Accessed February 7, 2022. <a href="https://roadmap.sh">https://roadmap.sh</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ahmed, Kamran. n.d. “Levels of Seniority.” https://roadmap.sh/guides/levels-of-seniority. Accessed February 7, 2022. <a href="https://roadmap.sh">https://roadmap.sh</a>.</div>
 </div>
 
 

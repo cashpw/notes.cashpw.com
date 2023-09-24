@@ -2,7 +2,7 @@
 title = "Tribalism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T11:24:00-07:00
-lastmod = 2023-08-02T12:56:37-07:00
+lastmod = 2023-09-24T10:53:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,7 +58,7 @@ Discriminatory behavior or attitudes towards out-groups based on in-group loyalt
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.80 | 7   | 340.45   | 2024-06-28T14:44:29Z |
-| 1        | 2.20 | 6   | 83.28    | 2023-08-05T21:40:17Z |
+| 1        | 1.45 | 6   | 21.28    | 2023-10-12T21:02:45Z |
 
 -   {{[Tribalism]({{< relref "tribalism.md" >}})}@0}
 -   {{[Coalitional instincts]({{< relref "tribalism.md" >}})}@1}
@@ -73,7 +73,7 @@ Discriminatory behavior or attitudes towards out-groups based on in-group loyalt
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Lesswrong. n.d. “Tribalism.” Accessed January 14, 2023. <a href="https://www.lesswrong.com/tag/tribalism">https://www.lesswrong.com/tag/tribalism</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Tooby, John. n.d. “Coalitional Instincts.” Accessed January 14, 2023. <a href="https://www.edge.org/response-detail/27168">https://www.edge.org/response-detail/27168</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Tribalism.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Tribalism&oldid=1107945141">https://en.wikipedia.org/w/index.php?title=Tribalism&#38;oldid=1107945141</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Tribalism.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Tribalism&oldid=1107945141">https://en.wikipedia.org/w/index.php?title=Tribalism&#38;oldid=1107945141</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Cognitive dissonance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T17:29:00-07:00
-lastmod = 2023-08-02T10:42:35-07:00
+lastmod = 2023-09-24T10:01:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "097f418c-8af5-498a-a5e3-37bab614556e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.45 | 9   | 94.04    | 2023-09-17T01:36:27Z |
-| front    | 2.95 | 6   | 160.18   | 2023-08-30T20:09:11Z |
+| back     | 1.45 | 10  | 129.62   | 2024-01-25T13:59:23Z |
+| front    | 2.95 | 7   | 483.29   | 2024-12-27T01:30:23Z |
 
 [Cognitive dissonance]({{< relref "cognitive_dissonance.md" >}})
 
@@ -60,7 +60,7 @@ The perception of contradictory information. Typically experienced when individu
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cognitive Dissonance.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Cognitive_dissonance&oldid=1088686297">https://en.wikipedia.org/w/index.php?title=Cognitive_dissonance&#38;oldid=1088686297</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cognitive Dissonance.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Cognitive_dissonance&oldid=1088686297">https://en.wikipedia.org/w/index.php?title=Cognitive_dissonance&#38;oldid=1088686297</a>.</div>
 </div>
 
 

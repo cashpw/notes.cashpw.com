@@ -2,9 +2,9 @@
 title = "Reverse cargo cult"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-23T15:45:00-07:00
-lastmod = 2023-08-02T12:15:38-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:42:02-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "0a9fac5c-2919-4dc1-b75b-ccab89d31a52"
 +++
@@ -35,7 +35,7 @@ Related: [Fallacy of grey]({{< relref "fallacy_of_gray.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.95 | 8   | 228.96   | 2023-09-11T15:40:04Z |
+| back     | 2.80 | 9   | 645.53   | 2025-06-19T01:18:04Z |
 | front    | 2.65 | 8   | 416.65   | 2024-08-25T19:52:15Z |
 
 [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}})
@@ -63,8 +63,8 @@ When they build the straw airstrip, it isn't because they are hoping for the sam
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cargo Cult.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Cargo_cult&oldid=1093591507">https://en.wikipedia.org/w/index.php?title=Cargo_cult&#38;oldid=1093591507</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Howe, Hans. 2017. “Trump and the Reverse Cargo Cult.” <i>Hans Howe</i>. <a href="https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/">https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cargo Cult.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Cargo_cult&oldid=1093591507">https://en.wikipedia.org/w/index.php?title=Cargo_cult&#38;oldid=1093591507</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Howe, Hans. 2017. “Trump and the Reverse Cargo Cult.” Hans Howe. February 4, 2017. <a href="https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/">https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/</a>.</div>
 </div>
 
 

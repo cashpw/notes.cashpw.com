@@ -2,7 +2,7 @@
 title = "Innovator's dilemma"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-16T19:44:00-07:00
-lastmod = 2023-08-02T11:13:17-07:00
+lastmod = 2023-09-24T10:19:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -64,5 +64,5 @@ Key parts of the [Innovator's dilemma]({{< relref "innovator_s_dilemma.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“The Innovator’s Dilemma.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=The_Innovator%27s_Dilemma&oldid=1073785387">https://en.wikipedia.org/w/index.php?title=The_Innovator%27s_Dilemma&#38;oldid=1073785387</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“The Innovator’s Dilemma.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=The_Innovator%27s_Dilemma&oldid=1073785387">https://en.wikipedia.org/w/index.php?title=The_Innovator%27s_Dilemma&#38;oldid=1073785387</a>.</div>
 </div>

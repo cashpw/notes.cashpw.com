@@ -2,7 +2,7 @@
 title = "Basis"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T20:37:00-07:00
-lastmod = 2023-08-02T10:35:44-07:00
+lastmod = 2023-09-24T09:54:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -89,7 +89,7 @@ The cardinality of a basis in that vector space.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 10  | 238.29   | 2023-08-12T00:54:34Z |
+| back     | 2.65 | 11  | 598.55   | 2025-04-10T05:09:19Z |
 | front    | 2.80 | 8   | 350.57   | 2024-02-04T07:01:11Z |
 
 Basis
@@ -137,8 +137,8 @@ The set of unit vectors pointing in the direction of the axes of a cartesian coo
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Basis (Linear Algebra).” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Basis_(linear_algebra)&oldid=1108991299">https://en.wikipedia.org/w/index.php?title=Basis_(linear_algebra)&#38;oldid=1108991299</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Dimension.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Dimension&oldid=1104896229">https://en.wikipedia.org/w/index.php?title=Dimension&#38;oldid=1104896229</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Basis (Linear Algebra).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Basis_(linear_algebra)&oldid=1108991299">https://en.wikipedia.org/w/index.php?title=Basis_(linear_algebra)&#38;oldid=1108991299</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Dimension.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Dimension&oldid=1104896229">https://en.wikipedia.org/w/index.php?title=Dimension&#38;oldid=1104896229</a>.</div>
 </div>
 
 

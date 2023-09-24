@@ -2,7 +2,7 @@
 title = "Reactionary"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:19:00-08:00
-lastmod = 2023-08-02T12:11:30-07:00
+lastmod = 2023-09-24T10:40:50-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,7 @@ slug = "735e2c4a-52b9-455d-9872-cb897cc0bd54"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 6   | 65.49    | 2023-08-26T03:39:39Z |
+| front    | 2.20 | 7   | 139.23   | 2024-01-12T20:16:31Z |
 | back     | 2.35 | 7   | 188.68   | 2023-11-08T14:16:00Z |
 
 [Reactionary]({{< relref "reactionary.md" >}}) (adjective)
@@ -86,5 +86,5 @@ In practice there's a lot of overlap.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Reactionary.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Reactionary&oldid=1118842590">https://en.wikipedia.org/w/index.php?title=Reactionary&#38;oldid=1118842590</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Reactionary.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Reactionary&oldid=1118842590">https://en.wikipedia.org/w/index.php?title=Reactionary&#38;oldid=1118842590</a>.</div>
 </div>

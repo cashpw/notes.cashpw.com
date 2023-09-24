@@ -2,7 +2,7 @@
 title = "There will come soft rains"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T10:39:00-07:00
-lastmod = 2023-08-02T10:33:15-07:00
+lastmod = 2023-09-24T09:51:28-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -44,15 +44,15 @@ Would scarcely know that we were gone.<br />
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.20 | 8   | 238.57   | 2024-03-02T13:46:06Z |
-| 1        | 2.20 | 6   | 50.35    | 2023-08-27T23:31:50Z |
-| 2        | 1.45 | 8   | 71.27    | 2023-09-09T02:58:01Z |
-| 3        | 1.45 | 1   | 1.00     | 2023-08-02T01:28:19Z |
-| 4        | 2.05 | 6   | 52.49    | 2023-09-01T03:24:32Z |
-| 5        | 2.50 | 6   | 109.09   | 2023-09-09T22:32:54Z |
-| 6        | 1.30 | 5   | 11.01    | 2023-08-08T15:17:27Z |
-| 7        | 2.20 | 6   | 63.20    | 2023-09-18T18:45:13Z |
+| 1        | 2.20 | 7   | 104.74   | 2023-12-11T06:29:39Z |
+| 2        | 1.45 | 9   | 105.28   | 2023-12-24T20:22:46Z |
+| 3        | 1.30 | 6   | 12.94    | 2023-09-24T11:18:30Z |
+| 4        | 1.90 | 7   | 103.33   | 2023-12-13T22:13:49Z |
+| 5        | 2.35 | 7   | 277.60   | 2024-06-18T05:36:14Z |
+| 6        | 1.30 | 4   | 7.88     | 2023-09-27T21:07:25Z |
+| 7        | 2.20 | 7   | 129.89   | 2024-01-29T11:44:21Z |
 | 8        | 2.05 | 5   | 26.16    | 2023-08-21T18:53:31Z |
-| 9        | 2.50 | 3   | 6.00     | 2023-08-05T23:58:50Z |
+| 9        | 2.35 | 4   | 14.52    | 2023-08-23T03:48:07Z |
 | 10       | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
 | 11       | 2.5  | -1  | 0        | 2022-01-01T13:00:00Z |
 
@@ -123,7 +123,7 @@ Would scarcely know that we were gone.<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 128.40   | 2023-09-05T00:16:54Z |
+| front    | 1.90 | 3   | 6.00     | 2023-09-24T15:47:30Z |
 
 [There Will Come Soft Rains (poem)]({{< relref "ThereWillComeSoftRainsPoem2022.md" >}})
 
@@ -135,5 +135,5 @@ Would scarcely know that we were gone.<br />
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“There Will Come Soft Rains.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=There_Will_Come_Soft_Rains_(poem)&oldid=1077004299">https://en.wikipedia.org/w/index.php?title=There_Will_Come_Soft_Rains_(poem)&#38;oldid=1077004299</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“There Will Come Soft Rains.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=There_Will_Come_Soft_Rains_(poem)&oldid=1077004299">https://en.wikipedia.org/w/index.php?title=There_Will_Come_Soft_Rains_(poem)&#38;oldid=1077004299</a>.</div>
 </div>

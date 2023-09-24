@@ -2,7 +2,7 @@
 title = "Perfect is the enemy of good"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T09:00:00-07:00
-lastmod = 2023-08-02T11:56:01-07:00
+lastmod = 2023-09-24T10:37:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

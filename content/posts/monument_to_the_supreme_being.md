@@ -2,7 +2,7 @@
 title = "Monument to the Supreme Being"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-25T15:44:00-07:00
-lastmod = 2023-08-02T11:43:07-07:00
+lastmod = 2023-09-24T10:32:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,7 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2023-08-07T01:25:45Z |
+| 0        | 1.75 | 5   | 15.78    | 2023-10-04T10:27:01Z |
 
 {{[Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}})}@0} created [Monument to the Supreme Being]({{< relref "monument_to_the_supreme_being.md" >}})
 
@@ -35,8 +35,8 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-08-05T23:55:34Z |
-| back     | 2.5  | -1  | 0        | 2023-08-01T23:28:23Z |
+| front    | 2.35 | 5   | 34.99    | 2023-09-25T13:02:18Z |
+| back     | 2.20 | 4   | 11.97    | 2023-09-23T12:14:20Z |
 
 [Monument to the Supreme Being]({{< relref "monument_to_the_supreme_being.md" >}})
 

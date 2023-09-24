@@ -2,7 +2,7 @@
 title = "Tree rotation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-04T16:11:00-07:00
-lastmod = 2023-08-02T12:56:18-07:00
+lastmod = 2023-09-24T10:53:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -75,7 +75,7 @@ An operation on a [Binary tree]({{< relref "binary_tree.md" >}}) that changes th
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 211.12   | 2023-08-08T17:03:29Z |
+| front    | 2.65 | 8   | 505.80   | 2024-12-27T20:05:41Z |
 | back     | 2.35 | 8   | 405.65   | 2024-08-15T06:16:07Z |
 
 How to perform a [Left tree rotation](#left-tree-rotation)
@@ -125,7 +125,7 @@ For a given [Binary tree]({{< relref "binary_tree.md" >}}):
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree Rotation.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Tree_rotation&oldid=1099813959">https://en.wikipedia.org/w/index.php?title=Tree_rotation&#38;oldid=1099813959</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree Rotation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Tree_rotation&oldid=1099813959">https://en.wikipedia.org/w/index.php?title=Tree_rotation&#38;oldid=1099813959</a>.</div>
 </div>
 
 

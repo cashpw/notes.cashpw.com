@@ -2,7 +2,7 @@
 title = "Array"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:38:00-07:00
-lastmod = 2023-08-02T10:35:04-07:00
+lastmod = 2023-09-24T09:54:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ A collection of elements each identified by an index which is stored in such a w
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Array Data Structure.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Array_data_structure&oldid=1097738827">https://en.wikipedia.org/w/index.php?title=Array_data_structure&#38;oldid=1097738827</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Array Data Structure.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Array_data_structure&oldid=1097738827">https://en.wikipedia.org/w/index.php?title=Array_data_structure&#38;oldid=1097738827</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "C++ class"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:06:00-07:00
-lastmod = 2023-08-02T10:38:51-07:00
+lastmod = 2023-09-24T09:57:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -65,7 +65,7 @@ class Foo : public Container {
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 6   | 114.53   | 2023-11-15T16:41:20Z |
-| 1        | 2.65 | 5   | 49.87    | 2023-08-17T14:12:22Z |
+| 1        | 2.50 | 6   | 116.25   | 2023-12-19T21:17:04Z |
 
 (C++) {{`class`}@0} members are {{private}{visibility}@1} by default.
 
@@ -80,7 +80,7 @@ class Foo : public Container {
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 6   | 117.91   | 2023-11-27T12:59:28Z |
-| back     | 2.35 | 5   | 35.40    | 2023-08-05T11:13:21Z |
+| back     | 2.35 | 6   | 80.39    | 2023-10-25T01:03:14Z |
 
 [Concrete class](#concrete-class)
 
@@ -100,7 +100,7 @@ A class which behaves just like built-in types. It has no abstract methods.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 90.70    | 2023-10-28T07:42:49Z |
-| back     | 2.50 | 5   | 37.09    | 2023-08-07T16:26:44Z |
+| back     | 2.35 | 6   | 79.03    | 2023-10-26T15:53:21Z |
 
 [Abstract class](#abstract-class)
 
@@ -119,7 +119,7 @@ A class with at least one method which another class must implement.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 34.86    | 2023-08-19T10:59:09Z |
+| 0        | 2.20 | 6   | 82.22    | 2023-11-13T22:00:57Z |
 
 `Foo` implements `Bar`
 

@@ -2,7 +2,7 @@
 title = "Secure attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:35:00-07:00
-lastmod = 2023-08-02T12:22:41-07:00
+lastmod = 2023-09-24T10:43:50-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,8 +43,8 @@ A healthy attachment pattern between a child and their guardian(s) in which the 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 7   | 239.80   | 2023-09-13T21:16:47Z |
-| back     | 2.80 | 7   | 222.46   | 2023-09-18T05:26:56Z |
+| front    | 2.95 | 8   | 758.72   | 2025-10-12T08:14:26Z |
+| back     | 2.65 | 8   | 569.79   | 2025-04-10T10:47:36Z |
 
 [Secure attachment]({{< relref "secure_attachment.md" >}})
 
@@ -61,5 +61,5 @@ A healthy attachment pattern between a child and their guardian(s) in which the 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attachment Theory.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Attachment_theory&oldid=1094457033">https://en.wikipedia.org/w/index.php?title=Attachment_theory&#38;oldid=1094457033</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attachment Theory.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Attachment_theory&oldid=1094457033">https://en.wikipedia.org/w/index.php?title=Attachment_theory&#38;oldid=1094457033</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Relational processing"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:44:00-08:00
-lastmod = 2023-08-02T12:14:21-07:00
+lastmod = 2023-09-24T10:41:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -44,7 +44,7 @@ A studying/learning technique in which one emphasizes the connections between pi
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 7   | 218.84   | 2023-12-08T11:44:22Z |
-| back     | 2.35 | 5   | 36.46    | 2023-08-24T00:47:43Z |
+| back     | 2.20 | 6   | 72.30    | 2023-11-05T22:26:41Z |
 
 [Relational processing]({{< relref "relational_processing.md" >}})
 

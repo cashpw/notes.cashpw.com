@@ -2,9 +2,9 @@
 title = "Improving as a software engineer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T14:08:00-08:00
-lastmod = 2023-08-02T11:12:17-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:18:50-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "3442bdf5-97f0-496e-9d8c-3c368e9ea517"
 +++

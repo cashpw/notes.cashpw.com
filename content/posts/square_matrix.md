@@ -2,7 +2,7 @@
 title = "Square matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:23:00-07:00
-lastmod = 2023-08-02T12:33:21-07:00
+lastmod = 2023-09-24T10:47:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ A matrix which has the same number of rows and columns.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Square Matrix.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Square_matrix&oldid=1058664666">https://en.wikipedia.org/w/index.php?title=Square_matrix&#38;oldid=1058664666</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Square Matrix.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Square_matrix&oldid=1058664666">https://en.wikipedia.org/w/index.php?title=Square_matrix&#38;oldid=1058664666</a>.</div>
 </div>
 
 

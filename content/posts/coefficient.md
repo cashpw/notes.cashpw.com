@@ -2,7 +2,7 @@
 title = "Coefficient"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:33:00-08:00
-lastmod = 2023-08-02T10:42:27-07:00
+lastmod = 2023-09-24T10:01:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ slug = "8163639a-02be-4d0e-9aad-b2f4c676f125"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.50 | 11  | 253.24   | 2023-10-26T21:53:21Z |
-| front    | 2.05 | 7   | 148.06   | 2023-09-02T00:05:23Z |
+| front    | 2.05 | 8   | 289.81   | 2024-06-20T08:59:45Z |
 
 Coefficient
 
@@ -41,7 +41,7 @@ A multiplicative factor in some term of an expression; usually a number though i
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Coefficient.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Coefficient&oldid=1122490476">https://en.wikipedia.org/w/index.php?title=Coefficient&#38;oldid=1122490476</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Coefficient.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Coefficient&oldid=1122490476">https://en.wikipedia.org/w/index.php?title=Coefficient&#38;oldid=1122490476</a>.</div>
 </div>
 
 

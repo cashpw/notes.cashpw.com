@@ -2,7 +2,7 @@
 title = "Pre-order tree traversal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:24:00-07:00
-lastmod = 2023-08-02T12:00:56-07:00
+lastmod = 2023-09-24T10:38:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,7 +31,7 @@ slug = "2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 225.68   | 2023-09-01T07:37:27Z |
+| front    | 2.80 | 8   | 633.26   | 2025-05-26T20:34:42Z |
 | back     | 2.80 | 7   | 234.60   | 2023-09-26T06:57:14Z |
 
 [Pre-order tree traversal]({{< relref "pre_order_tree_traversal.md" >}})
@@ -53,7 +53,7 @@ Priority order for traversing the list:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree Traversal.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Tree_traversal&oldid=1083604462">https://en.wikipedia.org/w/index.php?title=Tree_traversal&#38;oldid=1083604462</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree Traversal.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Tree_traversal&oldid=1083604462">https://en.wikipedia.org/w/index.php?title=Tree_traversal&#38;oldid=1083604462</a>.</div>
 </div>
 
 

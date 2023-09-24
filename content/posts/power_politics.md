@@ -2,7 +2,7 @@
 title = "Power politics"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T10:44:00-07:00
-lastmod = 2023-08-02T12:00:25-07:00
+lastmod = 2023-09-24T10:38:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -66,7 +66,7 @@ A theory of international relations which contends that distributions of power a
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Power Politics.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Power_politics&oldid=1096371889">https://en.wikipedia.org/w/index.php?title=Power_politics&#38;oldid=1096371889</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Power Politics.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Power_politics&oldid=1096371889">https://en.wikipedia.org/w/index.php?title=Power_politics&#38;oldid=1096371889</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Cultural evolution"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T09:25:00-08:00
-lastmod = 2023-08-02T10:45:51-07:00
+lastmod = 2023-09-24T10:03:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,7 +26,7 @@ slug = "b74a709a-ff6f-425e-8a45-9f6acf47cbad"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 265.87   | 2024-03-18T13:11:23Z |
-| back     | 2.80 | 6   | 130.79   | 2023-08-12T10:14:50Z |
+| back     | 2.65 | 7   | 331.65   | 2024-07-20T08:12:15Z |
 
 [Cultural evolution]({{< relref "cultural_evolution.md" >}})
 
@@ -43,7 +43,7 @@ Cultural changes based on a process similar to genetic evolution.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cultural Evolution.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Cultural_evolution&oldid=1127035681">https://en.wikipedia.org/w/index.php?title=Cultural_evolution&#38;oldid=1127035681</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cultural Evolution.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Cultural_evolution&oldid=1127035681">https://en.wikipedia.org/w/index.php?title=Cultural_evolution&#38;oldid=1127035681</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Jarnik's algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:41:00-08:00
-lastmod = 2023-08-02T11:16:51-07:00
+lastmod = 2023-09-24T10:20:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -74,7 +74,7 @@ Discovery of [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 3   | 6.00     | 2023-08-01T14:59:29Z |
+| front    | 1.45 | 7   | 14.89    | 2023-09-24T20:33:40Z |
 | back     | 2.65 | 6   | 145.57   | 2023-10-02T06:35:44Z |
 
 Time complexity of [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
@@ -111,7 +111,7 @@ Time complexity of [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 6   | 58.64    | 2023-08-20T16:53:43Z |
+| front    | 2.05 | 7   | 129.83   | 2023-12-29T08:49:59Z |
 | back     | 2.80 | 6   | 137.37   | 2023-09-25T00:52:09Z |
 
 [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}}) in pseudocode
@@ -131,11 +131,11 @@ Time complexity of [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prim’s Algorithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&oldid=1127278141">https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&#38;oldid=1127278141</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prim’s Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&oldid=1127278141">https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&#38;oldid=1127278141</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Minimum spanning tree]({{< relref "minimum_spanning_tree.md" >}})
 -   [Jarnik's algorithm implementation in Python]({{< relref "jarnik_s_algorithm_implementation_in_python.md" >}})
+-   [Minimum spanning tree]({{< relref "minimum_spanning_tree.md" >}})

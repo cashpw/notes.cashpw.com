@@ -2,7 +2,7 @@
 title = "Composite data type"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:07:00-07:00
-lastmod = 2023-08-02T10:43:31-07:00
+lastmod = 2023-09-24T10:02:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,5 +45,5 @@ A data type composed of the programming language's primitive data types, and oth
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Composite Data Type.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Composite_data_type&oldid=1137851946">https://en.wikipedia.org/w/index.php?title=Composite_data_type&#38;oldid=1137851946</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Composite Data Type.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Composite_data_type&oldid=1137851946">https://en.wikipedia.org/w/index.php?title=Composite_data_type&#38;oldid=1137851946</a>.</div>
 </div>

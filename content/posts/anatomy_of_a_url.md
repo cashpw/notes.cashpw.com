@@ -2,7 +2,7 @@
 title = "Anatomy of a URL"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T10:48:00-07:00
-lastmod = 2023-08-02T10:34:34-07:00
+lastmod = 2023-09-24T09:53:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,8 @@ Using `http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats` as an exampl
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.45 | 8   | 29.09    | 2023-08-12T03:00:21Z |
-| back     | 2.95 | 7   | 185.57   | 2023-08-22T04:13:27Z |
+| front    | 1.30 | 9   | 36.69    | 2023-09-29T09:13:29Z |
+| back     | 2.80 | 8   | 497.92   | 2025-01-05T13:03:34Z |
 
 [Anatomy of a URL]({{< relref "anatomy_of_a_url.md" >}})
 
@@ -122,7 +122,7 @@ Using `http://www.a.com:8080/b/c?d=e&f=g#h` as an example:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 8   | 459.28   | 2024-10-16T20:54:59Z |
-| 1        | 2.65 | 7   | 218.36   | 2023-09-13T08:18:39Z |
+| 1        | 2.65 | 8   | 538.71   | 2025-03-06T08:14:24Z |
 
 
 #### Extra {#extra}
@@ -137,7 +137,7 @@ Using `http://www.a.com:8080/b/c?d=e&f=g#h` as an example:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 165.41   | 2023-08-29T23:51:09Z |
+| 0        | 2.20 | 8   | 370.81   | 2024-09-04T08:05:27Z |
 | 1        | 2.35 | 7   | 234.25   | 2023-12-31T21:00:26Z |
 
 

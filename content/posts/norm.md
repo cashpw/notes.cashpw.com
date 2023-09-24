@@ -2,7 +2,7 @@
 title = "Norm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-22T08:35:00-07:00
-lastmod = 2023-08-02T11:49:20-07:00
+lastmod = 2023-09-24T10:35:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,7 +34,7 @@ Also see [L-one norm]({{< relref "l_one_norm.md" >}}), [L-two norm]({{< relref "
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.15 | 13  | 245.17   | 2023-11-17T18:18:36Z |
-| 1        | 1.60 | 5   | 16.83    | 2023-08-13T10:06:34Z |
+| 1        | 1.45 | 7   | 33.74    | 2023-10-18T09:11:00Z |
 
 
 ### {{\\(\\|\vec{x}\\|\_{\infty}\\)}{norm}@0} \\(=\\) {{\\(\underset{i}{\text{max}} \\; \vec{x}\_i\\)}@1} {#vec-x-infty-norm-0-underset-i-text-max-vec-x-i-1}
@@ -67,7 +67,7 @@ Also see [L-one norm]({{< relref "l_one_norm.md" >}}), [L-two norm]({{< relref "
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 220.20   | 2023-08-02T20:00:04Z |
+| 0        | 2.35 | 8   | 554.81   | 2025-02-09T10:37:59Z |
 | 1        | 2.50 | 7   | 344.32   | 2024-03-04T21:17:54Z |
 
 
@@ -107,5 +107,5 @@ Also see [L-one norm]({{< relref "l_one_norm.md" >}}), [L-two norm]({{< relref "
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Boyd, Stephen P., and Lieven Vandenberghe. 2018. <i>Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares</i>. Cambridge, UK ; New York, NY: Cambridge University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Norm (Mathematics).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&oldid=1103683806">https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&#38;oldid=1103683806</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Norm (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&oldid=1103683806">https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&#38;oldid=1103683806</a>.</div>
 </div>

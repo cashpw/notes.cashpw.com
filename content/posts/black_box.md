@@ -2,7 +2,7 @@
 title = "Black box"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T16:37:00-07:00
-lastmod = 2023-08-02T10:37:35-07:00
+lastmod = 2023-09-24T09:56:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ A system which is viewed in terms of its inputs and outputs without any knowledg
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Black Box.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Black_box&oldid=1109398572">https://en.wikipedia.org/w/index.php?title=Black_box&#38;oldid=1109398572</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Black Box.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Black_box&oldid=1109398572">https://en.wikipedia.org/w/index.php?title=Black_box&#38;oldid=1109398572</a>.</div>
 </div>
 
 

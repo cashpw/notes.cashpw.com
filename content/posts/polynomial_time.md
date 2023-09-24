@@ -2,7 +2,7 @@
 title = "Polynomial time"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:04:00-08:00
-lastmod = 2023-08-02T11:59:02-07:00
+lastmod = 2023-09-24T10:38:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -56,13 +56,13 @@ A fundamental complexity class for problems which can be solved in \\(\bigo{n^{\
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“P (Complexity).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=P_(complexity)&oldid=1113888801">https://en.wikipedia.org/w/index.php?title=P_(complexity)&#38;oldid=1113888801</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“P (Complexity).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=P_(complexity)&oldid=1113888801">https://en.wikipedia.org/w/index.php?title=P_(complexity)&#38;oldid=1113888801</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Nondeterministic polynomial time]({{< relref "nondeterministic_polynomial_time.md" >}})
--   [Pseudo-polynomial time]({{< relref "pseudo_polynomial_time.md" >}})
--   [Nick's class]({{< relref "nick_s_class.md" >}})
 -   [P versus NP problem]({{< relref "p_versus_np_problem.md" >}})
+-   [Nick's class]({{< relref "nick_s_class.md" >}})
+-   [Pseudo-polynomial time]({{< relref "pseudo_polynomial_time.md" >}})

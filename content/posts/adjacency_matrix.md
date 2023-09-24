@@ -2,7 +2,7 @@
 title = "Adjacency matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:37:00-07:00
-lastmod = 2023-08-02T10:33:41-07:00
+lastmod = 2023-09-24T09:52:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -41,12 +41,12 @@ A square matrix used to represent a finite [Graph]({{< relref "graph.md" >}}). E
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Adjacency Matrix.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Adjacency_matrix&oldid=1091931889">https://en.wikipedia.org/w/index.php?title=Adjacency_matrix&#38;oldid=1091931889</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Adjacency Matrix.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Adjacency_matrix&oldid=1091931889">https://en.wikipedia.org/w/index.php?title=Adjacency_matrix&#38;oldid=1091931889</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Adjacency list]({{< relref "adjacency_list.md" >}})
--   [Undirected graph]({{< relref "undirected_graph.md" >}})
 -   [Directed graph]({{< relref "directed_graph.md" >}})
+-   [Undirected graph]({{< relref "undirected_graph.md" >}})

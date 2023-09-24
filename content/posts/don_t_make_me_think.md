@@ -2,7 +2,7 @@
 title = "Don't make me think"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:44:00-07:00
-lastmod = 2023-08-02T10:50:54-07:00
+lastmod = 2023-09-24T10:07:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ slug = "335314f6-0958-4d7e-a0bd-76b83bee3044"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 36.95    | 2023-08-08T23:49:54Z |
-| back     | 2.50 | 5   | 42.83    | 2023-08-16T15:15:05Z |
+| front    | 2.50 | 6   | 85.04    | 2023-11-03T01:35:43Z |
+| back     | 2.35 | 6   | 92.78    | 2023-11-26T09:55:52Z |
 
 [Don't make me think]({{< relref "don_t_make_me_think.md" >}})
 
@@ -39,7 +39,7 @@ You should set up the correct way to do X to also be the most obvious, simplest,
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Don’t Make Me Think.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Don%27t_Make_Me_Think&oldid=1134816680">https://en.wikipedia.org/w/index.php?title=Don%27t_Make_Me_Think&#38;oldid=1134816680</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Don’t Make Me Think.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Don%27t_Make_Me_Think&oldid=1134816680">https://en.wikipedia.org/w/index.php?title=Don%27t_Make_Me_Think&#38;oldid=1134816680</a>.</div>
 </div>
 
 

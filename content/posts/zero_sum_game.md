@@ -2,7 +2,7 @@
 title = "Zero-sum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T10:48:00-07:00
-lastmod = 2023-08-02T13:08:56-07:00
+lastmod = 2023-09-24T10:57:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -61,12 +61,12 @@ A situation involving two or more sides in which any gain by one side is a loss 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Zero-Sum Game.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Zero-sum_game&oldid=1094118821">https://en.wikipedia.org/w/index.php?title=Zero-sum_game&#38;oldid=1094118821</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Zero-Sum Game.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Zero-sum_game&oldid=1094118821">https://en.wikipedia.org/w/index.php?title=Zero-sum_game&#38;oldid=1094118821</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Generative adversarial network]({{< relref "generative_adversarial_network.md" >}})
--   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
 -   [Power politics]({{< relref "power_politics.md" >}})
+-   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})

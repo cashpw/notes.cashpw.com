@@ -2,7 +2,7 @@
 title = "Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:24:00-07:00
-lastmod = 2023-08-02T11:42:00-07:00
+lastmod = 2023-09-24T10:32:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -92,10 +92,10 @@ Systems which compel the individuals within them to race to the bottom; to choos
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Ginsberg, Allen. 2022. “Howl.” Text/Html. <i>Poetry Foundation</i>. Poetry Foundation. <a href="https://www.poetryfoundation.org/poems/49303/howl">https://www.poetryfoundation.org/poems/49303/howl</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Moloch.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Moloch&oldid=1120361822">https://en.wikipedia.org/w/index.php?title=Moloch&#38;oldid=1120361822</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Moloch.” n.d. <i>Lesswrong</i>. Accessed November 23, 2022. <a href="https://www.lesswrong.com/tag/moloch">https://www.lesswrong.com/tag/moloch</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” Slate Star Codex. July 30, 2014. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Ginsberg, Allen. 2022. “Howl.” Text/html. Poetry Foundation; Poetry Foundation. March 13, 2022. <a href="https://www.poetryfoundation.org/poems/49303/howl">https://www.poetryfoundation.org/poems/49303/howl</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Moloch.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Moloch&oldid=1120361822">https://en.wikipedia.org/w/index.php?title=Moloch&#38;oldid=1120361822</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Moloch.” n.d. LessWrong. Accessed November 23, 2022. <a href="https://www.lesswrong.com/tag/moloch">https://www.lesswrong.com/tag/moloch</a>.</div>
 </div>
 
 
@@ -108,14 +108,14 @@ Systems which compel the individuals within them to race to the bottom; to choos
 -   [All cops are bastards]({{< relref "all_cops_are_bastards.md" >}})
 -   [We live in a society]({{< relref "we_live_in_a_society.md" >}})
 -   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
--   [Collective action problem]({{< relref "collective_action_problem.md" >}})
--   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
--   [Allen Ginsberg | Howl]({{< relref "ginsbergHowl2022.md" >}})
 -   [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}})
 -   [Dark forest theory]({{< relref "dark_forest_theory.md" >}})
--   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
+-   [Allen Ginsberg | Howl]({{< relref "ginsbergHowl2022.md" >}})
 -   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
+-   [Collective action problem]({{< relref "collective_action_problem.md" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Excess resources (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#excess-resources--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
 -   [Physical limitations (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#physical-limitations--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
 -   [Utility maximization (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#utility-maximization--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})

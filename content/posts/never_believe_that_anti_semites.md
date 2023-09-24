@@ -2,9 +2,9 @@
 title = "Never believe that anti-Semites"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-01T18:15:00-07:00
-lastmod = 2023-08-02T11:46:12-07:00
-tags = ["has-todo", "quote", "has-todo", "quote"]
-categories = ["has-todo", "quote"]
+lastmod = 2023-09-24T10:34:21-07:00
+tags = ["hastodo", "quote", "hastodo", "quote"]
+categories = ["hastodo", "quote"]
 draft = false
 slug = "a991edbf-1372-4296-ab3e-c45dadcfdc20"
 +++

@@ -2,7 +2,7 @@
 title = "Kitchen work triangle"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:42:00-08:00
-lastmod = 2023-08-02T11:23:56-07:00
+lastmod = 2023-09-24T10:23:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,5 +48,5 @@ The triangle made up from three points in a kitchen: the cook top, refrigerator,
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Kitchen Work Triangle.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Kitchen_work_triangle&oldid=1094372884">https://en.wikipedia.org/w/index.php?title=Kitchen_work_triangle&#38;oldid=1094372884</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Kitchen Work Triangle.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Kitchen_work_triangle&oldid=1094372884">https://en.wikipedia.org/w/index.php?title=Kitchen_work_triangle&#38;oldid=1094372884</a>.</div>
 </div>

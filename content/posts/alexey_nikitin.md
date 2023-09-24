@@ -2,7 +2,7 @@
 title = "Alexey Nikitin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:31:00-08:00
-lastmod = 2023-08-02T10:34:09-07:00
+lastmod = 2023-09-24T09:52:46-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

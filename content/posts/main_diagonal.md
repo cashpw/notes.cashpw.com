@@ -2,7 +2,7 @@
 title = "Main diagonal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:25:00-07:00
-lastmod = 2023-08-02T11:32:53-07:00
+lastmod = 2023-09-24T10:28:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -41,5 +41,5 @@ slug = "a61c410c-f8ea-4bdd-92c8-2f8d037dfe6a"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Main Diagonal.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Main_diagonal&oldid=1083853471">https://en.wikipedia.org/w/index.php?title=Main_diagonal&#38;oldid=1083853471</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Main Diagonal.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Main_diagonal&oldid=1083853471">https://en.wikipedia.org/w/index.php?title=Main_diagonal&#38;oldid=1083853471</a>.</div>
 </div>

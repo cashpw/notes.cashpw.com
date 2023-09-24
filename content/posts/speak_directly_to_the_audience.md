@@ -2,7 +2,7 @@
 title = "Speak directly to the audience"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:07:00-07:00
-lastmod = 2023-08-02T12:32:31-07:00
+lastmod = 2023-09-24T10:47:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,5 +33,5 @@ A technique which re-frames a discussion between yourself and another group to a
 ## Backlinks {#backlinks}
 
 -   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
--   [Never play defense]({{< relref "never_play_defense.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})
+-   [Never play defense]({{< relref "never_play_defense.md" >}})

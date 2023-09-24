@@ -2,7 +2,7 @@
 title = "Steelmanning"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T11:17:00-08:00
-lastmod = 2023-08-02T12:35:34-07:00
+lastmod = 2023-09-24T10:48:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,7 +34,7 @@ However, not all steel men are created equally:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 6   | 142.91   | 2023-09-20T16:41:41Z |
-| back     | 2.35 | 4   | 14.93    | 2023-08-11T12:37:34Z |
+| back     | 2.20 | 6   | 71.26    | 2023-11-28T05:29:48Z |
 
 > ... is the practice of addressing the strongest form of "the other person's argument, even if it's not the one they presented".
 
@@ -61,6 +61,6 @@ However, not all steel men are created equally:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>blakestaceyprime. 2022. “If I Were an Ungener.” Reddit Comment. <i>R/Sneerclub</i>. <a href="www.reddit.com/r/SneerClub/comments/t9kye6/scott_applying_the_principle_of_charity/i00gybv/">www.reddit.com/r/SneerClub/comments/t9kye6/scott_applying_the_principle_of_charity/i00gybv/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Straw Man.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Straw_man&oldid=1132548349">https://en.wikipedia.org/w/index.php?title=Straw_man&#38;oldid=1132548349</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>blakestaceyprime. 2022. “If I Were an Ungener….” Reddit Comment. r/SneerClub. March 9, 2022. <a href="www.reddit.com/r/SneerClub/comments/t9kye6/scott_applying_the_principle_of_charity/i00gybv/">www.reddit.com/r/SneerClub/comments/t9kye6/scott_applying_the_principle_of_charity/i00gybv/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Straw Man.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Straw_man&oldid=1132548349">https://en.wikipedia.org/w/index.php?title=Straw_man&#38;oldid=1132548349</a>.</div>
 </div>

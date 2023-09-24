@@ -2,7 +2,7 @@
 title = "Episteme"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T07:49:00-08:00
-lastmod = 2023-08-02T10:53:32-07:00
+lastmod = 2023-09-24T10:08:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "dc7e525e-967c-48e5-b1c5-d83394571cb5"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.60 | 6   | 19.46    | 2023-08-15T02:01:02Z |
+| front    | 1.45 | 8   | 37.81    | 2023-10-29T09:44:25Z |
 | back     | 2.65 | 7   | 263.16   | 2024-03-29T19:41:44Z |
 
 Refers to a principle system of understanding such as scientific or physical knowledge
@@ -32,7 +32,7 @@ Refers to a principle system of understanding such as scientific or physical kno
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Episteme.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Episteme&oldid=1119185332">https://en.wikipedia.org/w/index.php?title=Episteme&#38;oldid=1119185332</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Episteme.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Episteme&oldid=1119185332">https://en.wikipedia.org/w/index.php?title=Episteme&#38;oldid=1119185332</a>.</div>
 </div>
 
 

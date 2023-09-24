@@ -2,7 +2,7 @@
 title = "Agile (Software development)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T16:32:00-07:00
-lastmod = 2023-08-02T10:33:50-07:00
+lastmod = 2023-09-24T09:52:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,7 +54,7 @@ slug = "5664432e-6bb3-4670-9669-08ee70b5ca6d"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 6   | 66.48    | 2023-09-05T13:08:49Z |
+| front    | 2.20 | 7   | 154.24   | 2024-02-06T21:02:36Z |
 | back     | 2.50 | 7   | 213.79   | 2023-12-10T11:04:54Z |
 
 [Agile (Software development)]({{< relref "agile.md" >}})
@@ -76,7 +76,7 @@ A set of guiding principles for how to manage software development teams which p
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Agile Software Development.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Agile_software_development&oldid=1118312171">https://en.wikipedia.org/w/index.php?title=Agile_software_development&#38;oldid=1118312171</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Agile Software Development.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Agile_software_development&oldid=1118312171">https://en.wikipedia.org/w/index.php?title=Agile_software_development&#38;oldid=1118312171</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Open systems interconnection model"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T08:23:00-07:00
-lastmod = 2023-08-02T11:51:23-07:00
+lastmod = 2023-09-24T10:36:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -86,7 +86,7 @@ From bottom-to-top:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 112.50   | 2023-10-15T01:22:35Z |
-| back     | 2.20 | 3   | 6.00     | 2023-07-29T03:41:13Z |
+| back     | 2.20 | 5   | 31.72    | 2023-10-12T06:54:39Z |
 
 [OSI model]({{< relref "open_systems_interconnection_model.md" >}})
 
@@ -105,8 +105,8 @@ A conceptual model for abstract network connections.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 92.36    | 2023-09-12T01:47:14Z |
-| back     | 2.50 | 1   | 1.00     | 2023-07-09T00:20:59Z |
+| front    | 2.50 | 7   | 251.94   | 2024-05-28T22:20:54Z |
+| back     | 2.50 | 0   | 0.00     | 2023-08-26T14:43:06Z |
 
 [Physical layer (OSI model)](#physical-layer--osi-model)
 
@@ -125,9 +125,9 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 6   | 70.06    | 2023-08-11T15:38:34Z |
-| 1        | 2.20 | 6   | 64.76    | 2023-09-11T09:13:37Z |
-| 2        | 2.50 | 5   | 36.46    | 2023-09-07T02:05:40Z |
+| 0        | 2.20 | 7   | 142.95   | 2024-01-01T21:20:43Z |
+| 1        | 2.20 | 7   | 149.63   | 2024-02-14T14:11:26Z |
+| 2        | 2.35 | 6   | 78.53    | 2023-12-09T03:00:19Z |
 | 3        | 2.50 | 0   | 0.00     | 2023-07-19T13:40:56Z |
 | 4        | 2.5  | -1  | 0        | 2023-03-18T14:57:36Z |
 | 5        | 2.5  | -1  | 0        | 2023-03-18T14:57:36Z |
@@ -165,8 +165,8 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 40.23    | 2023-08-05T21:42:38Z |
-| back     | 2.50 | 3   | 6.00     | 2023-07-24T13:40:58Z |
+| front    | 2.35 | 6   | 100.64   | 2023-11-17T06:21:18Z |
+| back     | 2.20 | 2   | 2.00     | 2023-09-10T16:18:09Z |
 
 [Data link layer (OSI model)](#data-link-layer--osi-model)
 
@@ -185,7 +185,7 @@ This layer provides node-to-node data transfer (e.g. network switch to network s
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 6   | 56.17    | 2023-09-05T17:08:07Z |
+| front    | 2.20 | 7   | 125.39   | 2024-01-18T00:13:01Z |
 | back     | 2.50 | 4   | 15.74    | 2023-08-11T08:35:38Z |
 
 [Network layer (OSI model)](#network-layer--osi-model)
@@ -225,15 +225,15 @@ Nodes and hosts in the [OSI model]({{< relref "open_systems_interconnection_mode
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 1   | 1.00     | 2023-08-01T00:01:40Z |
+| front    | 2.20 | 4   | 12.25    | 2023-09-17T21:17:40Z |
 
 [Transport layer (OSI model)](#transport-layer--osi-model) and [Network layer (OSI model)](#network-layer--osi-model)
 
 
 #### Back {#back}
 
--   [Transport layer (OSI model)](#transport-layer--osi-model): Provides a **reliable** connection between two hosts; also flow and congestion control
 -   [Network layer (OSI model)](#network-layer--osi-model): Provides _a_ connection between two hosts
+-   [Transport layer (OSI model)](#transport-layer--osi-model): Provides a **reliable** connection between two hosts; also flow and congestion control
 
 
 #### Source {#source}
@@ -245,7 +245,7 @@ Nodes and hosts in the [OSI model]({{< relref "open_systems_interconnection_mode
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 6   | 59.26    | 2023-08-29T07:48:09Z |
+| front    | 2.20 | 7   | 127.77   | 2024-01-06T12:59:55Z |
 | back     | 2.35 | 4   | 13.19    | 2023-08-14T05:59:33Z |
 
 [Session layer (OSI model)](#session-layer--osi-model)
@@ -265,8 +265,8 @@ This layer handles setup, teardown, and controls the connections between two or 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 6   | 37.31    | 2023-09-01T10:21:59Z |
-| back     | 2.50 | 1   | 1.00     | 2023-07-16T14:14:57Z |
+| front    | 1.75 | 7   | 65.23    | 2023-11-05T19:48:12Z |
+| back     | 2.50 | 1   | 1.00     | 2023-09-19T15:55:40Z |
 
 [Presentation layer (OSI model)](#presentation-layer--osi-model)
 
@@ -285,8 +285,8 @@ The [...] handles protocol conversion, data encryption, data decryption, data co
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.60 | 6   | 26.22    | 2023-08-12T19:05:20Z |
-| back     | 2.50 | 2   | 2.00     | 2023-07-06T19:24:44Z |
+| front    | 1.60 | 7   | 41.09    | 2023-09-30T17:58:40Z |
+| back     | 2.05 | 5   | 29.48    | 2023-10-09T10:37:29Z |
 
 [Application layer (OSI model)](#application-layer--osi-model)
 
@@ -303,6 +303,6 @@ Layer which provides protocols that allow software to send and receive informati
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“OSI Model.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=OSI_model&oldid=1145147911">https://en.wikipedia.org/w/index.php?title=OSI_model&#38;oldid=1145147911</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“What Is OSI Model | 7 Layers Explained | Imperva.” n.d. <i>Learning Center</i>. Accessed March 20, 2023. <a href="https://www.imperva.com/learn/application-security/osi-model/">https://www.imperva.com/learn/application-security/osi-model/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“OSI Model.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=OSI_model&oldid=1145147911">https://en.wikipedia.org/w/index.php?title=OSI_model&#38;oldid=1145147911</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“What Is OSI Model | 7 Layers Explained | Imperva.” n.d. Learning Center. Accessed March 20, 2023. <a href="https://www.imperva.com/learn/application-security/osi-model/">https://www.imperva.com/learn/application-security/osi-model/</a>.</div>
 </div>

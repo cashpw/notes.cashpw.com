@@ -2,7 +2,7 @@
 title = "Panopticon"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-08T16:03:00-07:00
-lastmod = 2023-08-02T11:53:25-07:00
+lastmod = 2023-09-24T10:36:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "bd91ce7a-9b16-4c0c-9b42-0fac236a1364"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 7   | 143.10   | 2023-09-07T18:15:11Z |
-| back     | 2.95 | 6   | 164.82   | 2023-08-25T10:08:03Z |
+| front    | 2.05 | 8   | 290.82   | 2024-06-25T12:05:34Z |
+| back     | 2.80 | 7   | 495.94   | 2025-01-02T13:46:29Z |
 
 [Panopticon]({{< relref "panopticon.md" >}})
 
@@ -62,5 +62,5 @@ A building design and system of control which compels those within it to regulat
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Panopticon.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Panopticon&oldid=1117862219">https://en.wikipedia.org/w/index.php?title=Panopticon&#38;oldid=1117862219</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Panopticon.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Panopticon&oldid=1117862219">https://en.wikipedia.org/w/index.php?title=Panopticon&#38;oldid=1117862219</a>.</div>
 </div>

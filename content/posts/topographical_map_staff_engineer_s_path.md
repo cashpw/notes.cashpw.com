@@ -2,9 +2,9 @@
 title = "Topographical map (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T19:57:00-07:00
-lastmod = 2023-08-02T12:53:18-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:52:53-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "49d0c976-126c-4612-82ad-bebd079dd200"
 +++
@@ -13,14 +13,14 @@ slug = "49d0c976-126c-4612-82ad-bebd079dd200"
 >
 > (<a href="#citeproc_bib_item_1">Reilly 2022</a>)
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Reilly, Tanya. 2022. <i>The Staff Engineer’s Path: A Guide for Individual Contributors Navigating Growth and Change</i>. Sebastopol, CA: O’Reilly Media.</div>
 </div>
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

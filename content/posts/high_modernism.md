@@ -2,7 +2,7 @@
 title = "High modernism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T06:22:00-08:00
-lastmod = 2023-08-02T11:07:14-07:00
+lastmod = 2023-09-24T10:16:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,7 +30,7 @@ slug = "94f5d6dd-a97a-45af-be05-4e7096dea51a"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.80 | 13  | 279.50   | 2023-10-06T04:56:19Z |
-| front    | 2.20 | 6   | 58.31    | 2023-08-30T08:34:52Z |
+| front    | 2.20 | 7   | 132.94   | 2024-01-10T11:13:55Z |
 
 [High modernism]({{< relref "high_modernism.md" >}})
 
@@ -47,8 +47,8 @@ A form of modernity, characterized by an unfaltering confidence in science and t
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2017. “Book Review: Seeing Like A State.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/">https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“High Modernism.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=High_modernism&oldid=1114803292">https://en.wikipedia.org/w/index.php?title=High_modernism&#38;oldid=1114803292</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2017. “Book Review: Seeing Like A State.” Slate Star Codex. March 16, 2017. <a href="https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/">https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“High Modernism.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=High_modernism&oldid=1114803292">https://en.wikipedia.org/w/index.php?title=High_modernism&#38;oldid=1114803292</a>.</div>
 </div>
 
 

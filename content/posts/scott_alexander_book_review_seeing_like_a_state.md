@@ -2,9 +2,9 @@
 title = "Scott Alexander | Book Review: Seeing Like A State"
 author = ["Cash Weaver"]
 date = 2023-01-09T08:06:00-08:00
-lastmod = 2023-08-02T12:21:01-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:43:17-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "e1b0e31a-4039-4b09-8dbd-8c3587562cca"
 +++
@@ -177,7 +177,7 @@ See [James C. Scott | Seeing like a State: How Certain Schemes to Improve the Hu
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2017. “Book Review: Seeing Like A State.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/">https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2017. “Book Review: Seeing Like A State.” Slate Star Codex. March 16, 2017. <a href="https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/">https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Scott, James C. 2020. <i>Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed</i>. Veritas paperback edition. New Haven: Yale University Press.</div>
 </div>
 

@@ -2,9 +2,9 @@
 title = "Project intake form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T10:06:00-07:00
-lastmod = 2023-08-02T12:03:15-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:39:02-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "ba1c8bfe-7353-4fac-9202-768763ba4692"
 +++

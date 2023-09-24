@@ -2,7 +2,7 @@
 title = "Jason Fried | Habits Always Form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:53:00-08:00
-lastmod = 2023-08-02T10:58:38-07:00
+lastmod = 2023-09-24T10:12:01-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -39,7 +39,7 @@ Habits are {{always}@0} forming.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Fried, Jason. 2019. “Habits Always Form.” <i>Signal V. Noise</i>. <a href="https://m.signalvnoise.com/habits-always-form/">https://m.signalvnoise.com/habits-always-form/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Fried, Jason. 2019. “Habits Always Form.” Signal v. Noise. May 22, 2019. <a href="https://m.signalvnoise.com/habits-always-form/">https://m.signalvnoise.com/habits-always-form/</a>.</div>
 </div>
 
 

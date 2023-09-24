@@ -2,9 +2,9 @@
 title = "Cedric Chin | What Is a Career Moat?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:53:00-08:00
-lastmod = 2023-08-02T10:41:45-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:00:40-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "bef6464a-d3ae-41c1-b63a-8871326a1d23"
 +++
@@ -31,5 +31,5 @@ slug = "bef6464a-d3ae-41c1-b63a-8871326a1d23"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “What Is a Career Moat?” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/what-is-a-career-moat/">https://commoncog.com/blog/what-is-a-career-moat/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “What Is a Career Moat?” Commonplace - The Commoncog Blog. June 5, 2018. <a href="https://commoncog.com/blog/what-is-a-career-moat/">https://commoncog.com/blog/what-is-a-career-moat/</a>.</div>
 </div>

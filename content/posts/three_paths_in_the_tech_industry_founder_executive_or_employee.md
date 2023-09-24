@@ -2,7 +2,7 @@
 title = "Michael Seibel | Three Paths in the Tech Industry: Founder, Executive, or Employee"
 author = ["Cash Prokop-Weaver"]
 date = 2021-11-27T07:00:00-08:00
-lastmod = 2023-08-02T12:51:48-07:00
+lastmod = 2023-09-24T10:52:23-07:00
 draft = true
 slug = "548362c8-b5a6-4d50-b459-543d321e49b6"
 +++
@@ -150,8 +150,8 @@ Perhaps the nuance I'm attempting to address is somewhere between meaningful wor
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 145.93   | 2023-08-17T16:25:12Z |
-| back     | 3.10 | 6   | 159.85   | 2023-09-02T09:58:15Z |
+| front    | 2.65 | 7   | 389.95   | 2024-09-12T22:25:43Z |
+| back     | 3.10 | 7   | 506.81   | 2025-01-23T13:29:26Z |
 
 The three career paths in the tech industry as defined by Michael Seibel
 
@@ -227,5 +227,5 @@ Work on an aspect of an existing product/business/etc under the direction of an 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Seibel, Michael. n.d. “Three Paths in the Tech Industry: Founder, Executive, or Employee.” <i>Y Combinator</i>. Accessed November 15, 2022. <a href="https://www.ycombinator.com/blog/three-paths-in-the-tech-industry-founder-executive-or-employee">https://www.ycombinator.com/blog/three-paths-in-the-tech-industry-founder-executive-or-employee</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Seibel, Michael. n.d. “Three Paths in the Tech Industry: Founder, Executive, or Employee.” Y Combinator. Accessed November 15, 2022. <a href="https://www.ycombinator.com/blog/three-paths-in-the-tech-industry-founder-executive-or-employee">https://www.ycombinator.com/blog/three-paths-in-the-tech-industry-founder-executive-or-employee</a>.</div>
 </div>

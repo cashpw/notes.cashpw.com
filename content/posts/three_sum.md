@@ -2,7 +2,7 @@
 title = "Three sum"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T16:24:00-08:00
-lastmod = 2023-08-02T12:51:56-07:00
+lastmod = 2023-09-24T10:52:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,5 +26,5 @@ slug = "f6dc97ab-0ff3-4751-9742-b8ce764c99cb"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“3SUM.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=3SUM&oldid=1111084529">https://en.wikipedia.org/w/index.php?title=3SUM&#38;oldid=1111084529</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“3SUM.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=3SUM&oldid=1111084529">https://en.wikipedia.org/w/index.php?title=3SUM&#38;oldid=1111084529</a>.</div>
 </div>

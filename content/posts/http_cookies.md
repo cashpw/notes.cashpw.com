@@ -2,7 +2,7 @@
 title = "HTTP Cookies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T09:52:00-07:00
-lastmod = 2023-08-02T11:08:37-07:00
+lastmod = 2023-09-24T10:17:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,7 +28,7 @@ slug = "023c4857-9ecc-48a8-81b6-4738bab59a4c"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.05 | 7   | 149.66   | 2023-09-28T15:26:29Z |
-| back     | 2.50 | 7   | 205.10   | 2023-08-14T16:49:13Z |
+| back     | 2.35 | 8   | 440.23   | 2024-11-03T18:26:27Z |
 
 Purposes of [HTTP Cookies]({{< relref "http_cookies.md" >}})
 
@@ -49,8 +49,8 @@ Purposes of [HTTP Cookies]({{< relref "http_cookies.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 230.15   | 2023-09-17T05:54:11Z |
-| back     | 2.65 | 7   | 197.73   | 2023-08-04T08:55:42Z |
+| front    | 2.65 | 8   | 650.25   | 2025-06-29T05:10:00Z |
+| back     | 2.50 | 8   | 459.83   | 2024-11-06T11:09:26Z |
 
 [HTTP Cookies]({{< relref "http_cookies.md" >}})
 
@@ -75,7 +75,7 @@ Servers use them for:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 163.92   | 2023-08-28T12:16:08Z |
+| 0        | 2.35 | 8   | 403.59   | 2024-10-05T03:00:55Z |
 
 
 #### Extra {#extra}
@@ -135,7 +135,7 @@ Servers use them for:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 8   | 204.70   | 2023-08-30T16:27:34Z |
+| 0        | 2.35 | 9   | 507.68   | 2025-01-20T10:49:48Z |
 
 
 #### Extra {#extra}

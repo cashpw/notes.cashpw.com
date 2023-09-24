@@ -2,7 +2,7 @@
 title = "Fait accompli"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-07T09:35:00-08:00
-lastmod = 2023-08-02T10:33:04-07:00
+lastmod = 2023-09-24T09:51:02-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -26,8 +26,8 @@ slug = "ecc8e89c-b85e-454f-a67a-dded3fbb7587"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 132.19   | 2023-08-01T18:29:42Z |
-| back     | 1.75 | 6   | 32.88    | 2023-08-15T22:00:11Z |
+| front    | 2.05 | 8   | 261.30   | 2024-04-21T22:31:56Z |
+| back     | 1.60 | 7   | 55.94    | 2023-10-22T12:15:12Z |
 
 Term referring to something irreversible and/or performed without going through standard procedure; completed before those affected by it are in a position to query or reverse it.
 
@@ -57,5 +57,5 @@ Term referring to something irreversible and/or performed without going through 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Fait Accompli.” 2022. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=fait_accompli&oldid=65295730">https://en.wiktionary.org/w/index.php?title=fait_accompli&#38;oldid=65295730</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Fait Accompli.” 2022. In <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=fait_accompli&oldid=65295730">https://en.wiktionary.org/w/index.php?title=fait_accompli&#38;oldid=65295730</a>.</div>
 </div>

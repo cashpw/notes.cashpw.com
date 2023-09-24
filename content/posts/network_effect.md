@@ -2,7 +2,7 @@
 title = "Network effect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:43:00-07:00
-lastmod = 2023-08-02T11:46:01-07:00
+lastmod = 2023-09-24T10:34:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "877f3321-faac-463a-8619-787467251655"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 347.71   | 2024-06-09T08:15:45Z |
-| back     | 2.65 | 3   | 6.00     | 2023-08-01T15:07:22Z |
+| back     | 2.50 | 5   | 37.85    | 2023-09-30T13:05:13Z |
 
 [Network effect]({{< relref "network_effect.md" >}})
 
@@ -63,7 +63,7 @@ The following share a property:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Network Effect.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Network_effect&oldid=1113646462">https://en.wikipedia.org/w/index.php?title=Network_effect&#38;oldid=1113646462</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Network Effect.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Network_effect&oldid=1113646462">https://en.wikipedia.org/w/index.php?title=Network_effect&#38;oldid=1113646462</a>.</div>
 </div>
 
 

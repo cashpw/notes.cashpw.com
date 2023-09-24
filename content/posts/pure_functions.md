@@ -2,7 +2,7 @@
 title = "Pure functions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T14:54:00-07:00
-lastmod = 2023-08-02T12:04:51-07:00
+lastmod = 2023-09-24T10:39:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -57,7 +57,7 @@ A function in computer programming which (1) has no side effects and (2) is dete
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pure Function.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Pure_function&oldid=1065003790">https://en.wikipedia.org/w/index.php?title=Pure_function&#38;oldid=1065003790</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pure Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Pure_function&oldid=1065003790">https://en.wikipedia.org/w/index.php?title=Pure_function&#38;oldid=1065003790</a>.</div>
 </div>
 
 

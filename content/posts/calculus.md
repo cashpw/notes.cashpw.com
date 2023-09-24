@@ -2,7 +2,7 @@
 title = "Calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:53:00-08:00
-lastmod = 2023-08-02T10:39:18-07:00
+lastmod = 2023-09-24T09:57:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,7 +45,7 @@ Two major branches of [Calculus]({{< relref "calculus.md" >}})
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 6   | 125.38   | 2023-11-19T22:57:56Z |
-| back     | 2.95 | 6   | 120.62   | 2023-08-07T05:58:00Z |
+| back     | 3.10 | 7   | 383.05   | 2024-08-25T16:24:48Z |
 
 [Calculus]({{< relref "calculus.md" >}})
 
@@ -62,19 +62,19 @@ The mathematical study of continuous change.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Calculus.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Calculus&oldid=1134005550">https://en.wikipedia.org/w/index.php?title=Calculus&#38;oldid=1134005550</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Calculus.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Calculus&oldid=1134005550">https://en.wikipedia.org/w/index.php?title=Calculus&#38;oldid=1134005550</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})
--   [Constant of integration]({{< relref "constant_of_integration.md" >}})
 -   [Power rule]({{< relref "power_rule.md" >}})
--   [Quotient rule]({{< relref "quotient_rule.md" >}})
--   [Chain rule]({{< relref "chain_rule.md" >}})
--   [Integral calculus]({{< relref "integral.md" >}})
--   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
 -   [Product rule]({{< relref "product_rule.md" >}})
+-   [Integral calculus]({{< relref "integral.md" >}})
+-   [Quotient rule]({{< relref "quotient_rule.md" >}})
+-   [Constant of integration]({{< relref "constant_of_integration.md" >}})
+-   [Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})
+-   [Chain rule]({{< relref "chain_rule.md" >}})
 -   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
 -   [Antiderivative]({{< relref "antiderivative.md" >}})
+-   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})

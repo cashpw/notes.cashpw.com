@@ -2,7 +2,7 @@
 title = "Latency"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T08:41:00-07:00
-lastmod = 2023-08-02T11:25:49-07:00
+lastmod = 2023-09-24T10:24:45-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,7 +58,7 @@ slug = "53999225-665e-4d16-9a0d-60c49293ccab"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 78.23    | 2023-08-21T09:53:30Z |
+| front    | 2.20 | 7   | 171.24   | 2024-02-08T19:12:22Z |
 | back     | 2.35 | 6   | 81.48    | 2023-09-22T12:52:39Z |
 
 [Latency]({{< relref "latency.md" >}})
@@ -97,14 +97,14 @@ Components of [Latency]({{< relref "latency.md" >}})
 (<a href="#citeproc_bib_item_1">Grigorik n.d.</a>)
 
 
-### Definition {#definition}
+### Definition ([Latency]({{< relref "latency.md" >}})) {#definition--latency-latency-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 5   | 30.13    | 2023-08-09T18:39:23Z |
-| back     | 2.20 | 4   | 12.90    | 2023-07-25T10:25:57Z |
+| front    | 2.20 | 6   | 65.08    | 2023-10-14T02:33:40Z |
+| back     | 2.05 | 6   | 55.95    | 2023-11-09T13:55:19Z |
 
-([Latency]({{< relref "latency.md" >}})) Propagation delay
+Propagation delay
 
 
 #### Back {#back}
@@ -117,14 +117,14 @@ Amount of time required for a message to travel from the sender to receiver, whi
 (<a href="#citeproc_bib_item_1">Grigorik n.d.</a>)
 
 
-### Definition {#definition}
+### Definition ([Latency]({{< relref "latency.md" >}})) {#definition--latency-latency-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 5   | 26.41    | 2023-08-25T00:44:35Z |
-| back     | 2.50 | 1   | 1.00     | 2023-07-28T14:18:20Z |
+| front    | 2.05 | 6   | 50.23    | 2023-10-15T20:20:12Z |
+| back     | 2.20 | 1   | 1.00     | 2023-09-21T00:00:09Z |
 
-([Latency]({{< relref "latency.md" >}})) Transmission delay
+Transmission delay
 
 
 #### Back {#back}
@@ -137,14 +137,14 @@ Amount of time required to push all the packet's bits into the link, which is a 
 (<a href="#citeproc_bib_item_1">Grigorik n.d.</a>)
 
 
-### Definition {#definition}
+### Definition ([Latency]({{< relref "latency.md" >}})) {#definition--latency-latency-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 87.73    | 2023-09-22T09:51:40Z |
-| back     | 2.35 | 5   | 35.70    | 2023-08-11T07:20:49Z |
+| back     | 2.35 | 6   | 75.86    | 2023-11-11T10:18:30Z |
 
-([Latency]({{< relref "latency.md" >}})) Processing delay
+Processing delay
 
 
 #### Back {#back}
@@ -161,14 +161,14 @@ Amount of time required to:
 (<a href="#citeproc_bib_item_1">Grigorik n.d.</a>)
 
 
-### Definition {#definition}
+### Definition ([Latency]({{< relref "latency.md" >}})) {#definition--latency-latency-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 90.37    | 2023-09-11T08:55:13Z |
+| front    | 2.35 | 7   | 226.55   | 2024-04-26T01:48:32Z |
 | back     | 2.50 | 6   | 94.88    | 2023-11-03T22:36:24Z |
 
-([Latency]({{< relref "latency.md" >}})) Queuing delay
+Queuing delay
 
 
 #### Back {#back}
@@ -183,7 +183,7 @@ Amount of time the packet is waiting in the queue until it can be processed.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Grigorik, Ilya. n.d. “Networking 101: Primer on Latency and Bandwidth - High Performance Browser Networking.” <i>High Performance Browser Networking</i>. Accessed March 17, 2023. <a href="https://hpbn.co/primer-on-latency-and-bandwidth/">https://hpbn.co/primer-on-latency-and-bandwidth/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Grigorik, Ilya. n.d. “Networking 101: Primer on Latency and Bandwidth - High Performance Browser Networking.” High Performance Browser Networking. Accessed March 17, 2023. <a href="https://hpbn.co/primer-on-latency-and-bandwidth/">https://hpbn.co/primer-on-latency-and-bandwidth/</a>.</div>
 </div>
 
 

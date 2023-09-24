@@ -2,9 +2,9 @@
 title = "Contraction hierarchies"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T11:57:00-07:00
-lastmod = 2023-08-02T10:44:34-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:02:58-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
 +++
@@ -342,7 +342,7 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 5   | 41.24    | 2023-07-29T09:53:25Z |
+| 0        | 2.50 | 6   | 100.09   | 2023-11-16T17:18:03Z |
 
 [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}}) speed up {{finding the shortest-path in a graph}@0}.
 
@@ -352,7 +352,7 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
 (<a href="#citeproc_bib_item_1">“Contraction Hierarchies” 2023</a>)
 
 
-### Describe {#describe}
+## Describe {#describe}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
@@ -376,7 +376,7 @@ A speed up method for calculating the shortest path between nodes in a graph bas
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 0   | 0.00     | 2023-07-30T23:31:34Z |
+| front    | 2.50 | 1   | 1.00     | 2023-08-07T14:40:50Z |
 | back     | 2.5  | -1  | 0        | 2023-06-15T15:20:40Z |
 
 Node contraction in [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
@@ -425,7 +425,7 @@ Steps:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 0   | 0.00     | 2023-07-30T23:36:59Z |
+| front    | 2.50 | 2   | 2.00     | 2023-08-22T14:56:40Z |
 | back     | 2.5  | -1  | 0        | 2023-06-15T15:30:07Z |
 
 When do we contract a vertex, \\(v\\)?
@@ -469,7 +469,7 @@ Perform a local [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2023-07-31T14:56:16Z |
+| front    | 2.35 | 4   | 14.80    | 2023-09-05T08:02:06Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:05:25Z |
 
 How to extract the shortest path through an added shortcut?
@@ -510,7 +510,7 @@ Heuristics for choosing the order to contract vertices.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-07-27T02:54:44Z |
+| front    | 2.50 | 4   | 14.86    | 2023-09-20T12:05:54Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:22:44Z |
 
 Edge difference
@@ -532,7 +532,7 @@ Edge difference
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 4   | 15.24    | 2023-08-12T20:39:46Z |
+| front    | 2.20 | 5   | 33.78    | 2023-10-01T07:33:09Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:23:36Z |
 
 Contracted neighbors
@@ -553,7 +553,7 @@ Contracted neighbors
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2023-06-25T13:17:39Z |
+| 0        | 2.50 | 2   | 2.00     | 2023-08-12T00:43:31Z |
 
 We should contract vertices in {{ascending order}{direction}@0} of edge difference.
 
@@ -567,7 +567,7 @@ We should contract vertices in {{ascending order}{direction}@0} of edge differen
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2023-07-10T00:11:12Z |
+| 0        | 2.50 | 3   | 6.00     | 2023-09-07T14:14:53Z |
 
 We should contract vertices with {{fewer}{comparison}@0} contracted neighbors first.
 
@@ -581,8 +581,8 @@ We should contract vertices with {{fewer}{comparison}@0} contracted neighbors fi
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 28.71    | 2023-08-24T07:54:33Z |
-| back     | 2.50 | 1   | 1.00     | 2023-07-13T12:55:35Z |
+| front    | 2.20 | 6   | 64.72    | 2023-11-04T11:54:34Z |
+| back     | 2.50 | 2   | 2.00     | 2023-08-25T16:36:13Z |
 
 Lazy update in the context of vertex ordering
 
@@ -602,7 +602,7 @@ Lazy update in the context of vertex ordering
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-07-16T14:19:06Z |
+| front    | 2.50 | 3   | 6.00     | 2023-09-14T16:16:05Z |
 | back     | 2.5  | -1  | 0        | 2023-06-20T15:35:52Z |
 
 Query phase
@@ -624,7 +624,7 @@ Query phase
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2023-08-02T01:19:52Z |
+| 0        | 2.50 | 2   | 2.00     | 2023-09-12T13:28:53Z |
 | 1        | 2.5  | -1  | 0        | 2023-06-20T15:38:35Z |
 
 {{\\(G\_{up}\\)}@0}, a subgraph of \\(G\\), contains only edges from \\(v\\) to \\(w\\) {{where we contracted \\(w\\) **after** \\(v\\)}{condition}@1}
@@ -639,7 +639,7 @@ Query phase
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2023-07-29T15:04:20Z |
+| 0        | 2.50 | 1   | 1.00     | 2023-09-13T12:36:52Z |
 | 1        | 2.5  | -1  | 0        | 2023-06-20T15:39:08Z |
 
 {{\\(G\_{down}\\)}@0}, a subgraph of \\(G\\), contains only edges from \\(v\\) to \\(w\\) {{where we contracted \\(v\\) **before** \\(w\\)}{condition}@1}
@@ -654,7 +654,7 @@ Query phase
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2023-08-01T23:41:25Z |
+| front    | 2.20 | 5   | 28.98    | 2023-10-06T13:50:08Z |
 | back     | 2.5  | -1  | 0        | 2023-06-20T15:42:14Z |
 
 How to unpack the shortest path from a shortcut
@@ -674,7 +674,7 @@ Store a pointer to the contracted node, \\(v\\), whenever we contract \\(u, v, w
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-07-30T03:51:57Z |
+| front    | 2.50 | 5   | 37.37    | 2023-10-25T07:51:37Z |
 | back     | 2.5  | -1  | 0        | 2023-06-20T15:44:41Z |
 
 A path \\(u, \dots, w\\) around \\(v\\) with cost smaller than the cost of \\(u, v, w\\).
@@ -701,13 +701,13 @@ Contraction is {{iterative}{process}@0}
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Contraction Hierarchies.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Contraction_hierarchies&oldid=1153438478">https://en.wikipedia.org/w/index.php?title=Contraction_hierarchies&#38;oldid=1153438478</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Geisberger, Robert, Peter Sanders, Dominik Schultes, and Daniel Delling. 2008. “Contraction Hierarchies: Faster and Simpler Hierarchical Routing in Road Networks.” In <i>Experimental Algorithms</i>, edited by Catherine C. McGeoch, 5038:319–33. Berlin, Heidelberg: Springer Berlin Heidelberg. <a href="https://doi.org/10.1007/978-3-540-68552-4\_24">https://doi.org/10.1007/978-3-540-68552-4\_24</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Contraction Hierarchies.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Contraction_hierarchies&oldid=1153438478">https://en.wikipedia.org/w/index.php?title=Contraction_hierarchies&#38;oldid=1153438478</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Geisberger, Robert, Peter Sanders, Dominik Schultes, and Daniel Delling. 2008. “Contraction Hierarchies: Faster and Simpler Hierarchical Routing in Road Networks.” In <i>Experimental Algorithms</i>, edited by Catherine C. McGeoch, 5038:319–33. Berlin, Heidelberg: Springer Berlin Heidelberg. <a href="https://doi.org/10.1007/978-3-540-68552-4_24">https://doi.org/10.1007/978-3-540-68552-4_24</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Harabor, Daniel, and Peter Stuckey. 2021. “Forward Search in Contraction Hierarchies.” <i>Proceedings of the International Symposium on Combinatorial Search</i> 9 (1): 55–62. <a href="https://doi.org/10.1609/socs.v9i1.18454">https://doi.org/10.1609/socs.v9i1.18454</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Harabor, Daniel D. n.d. “An Introduction to Contraction Hierarchies.”</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Lazarsfeld, John. n.d.-a. “Core Components of CH: Choosing a Node Order.” <i>Contraction Hierarchies Guide</i>. Accessed June 16, 2023. <a href="https://jlazarsfeld.github.io//ch.150.project/sections/12-node-order/">https://jlazarsfeld.github.io//ch.150.project/sections/12-node-order/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>———. n.d.-b. “Core Components of CH: Node Contraction.” <i>Contraction Hierarchies Guide</i>. Accessed June 15, 2023. <a href="https://jlazarsfeld.github.io//ch.150.project/sections/8-contraction/">https://jlazarsfeld.github.io//ch.150.project/sections/8-contraction/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>———. n.d.-c. “Core Components of CH: The Modified, Bidirectional Query.” <i>Contraction Hierarchies Guide</i>. Accessed June 15, 2023. <a href="https://jlazarsfeld.github.io//ch.150.project/sections/10-ch-query/">https://jlazarsfeld.github.io//ch.150.project/sections/10-ch-query/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Lazarsfeld, John. n.d.-a. “Core Components of CH: Choosing a Node Order.” Contraction Hierarchies Guide. Accessed June 16, 2023. <a href="https://jlazarsfeld.github.io//ch.150.project/sections/12-node-order/">https://jlazarsfeld.github.io//ch.150.project/sections/12-node-order/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>———. n.d.-b. “Core Components of CH: Node Contraction.” Contraction Hierarchies Guide. Accessed June 15, 2023. <a href="https://jlazarsfeld.github.io//ch.150.project/sections/8-contraction/">https://jlazarsfeld.github.io//ch.150.project/sections/8-contraction/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>———. n.d.-c. “Core Components of CH: The Modified, Bidirectional Query.” Contraction Hierarchies Guide. Accessed June 15, 2023. <a href="https://jlazarsfeld.github.io//ch.150.project/sections/10-ch-query/">https://jlazarsfeld.github.io//ch.150.project/sections/10-ch-query/</a>.</div>
 </div>
 
 

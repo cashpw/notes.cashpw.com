@@ -2,7 +2,7 @@
 title = "Data structures"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-27T19:44:00-07:00
-lastmod = 2023-08-02T10:47:51-07:00
+lastmod = 2023-09-24T10:05:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,7 +28,7 @@ slug = "738c2ba7-a272-417d-9b6d-b6952d765280"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 7   | 289.15   | 2024-01-31T19:33:07Z |
-| 1        | 1.30 | 7   | 26.78    | 2023-08-27T20:14:58Z |
+| 1        | 1.30 | 8   | 31.53    | 2023-09-29T01:37:24Z |
 
 -   {{[Data structure]({{< relref "data_structures.md" >}})}@0}
 -   {{[Concrete data type]({{< relref "data_structures.md" >}})}@1}
@@ -61,7 +61,7 @@ A collection of data values, the relationships among them, and the functions or 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Data Structure.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Data_structure&oldid=1094193368">https://en.wikipedia.org/w/index.php?title=Data_structure&#38;oldid=1094193368</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Data Structure.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Data_structure&oldid=1094193368">https://en.wikipedia.org/w/index.php?title=Data_structure&#38;oldid=1094193368</a>.</div>
 </div>
 
 
@@ -69,17 +69,17 @@ A collection of data values, the relationships among them, and the functions or 
 
 -   [Heap]({{< relref "heap.md" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
--   [Dynamic array]({{< relref "dynamic_array.md" >}})
+-   [Binary tree]({{< relref "binary_tree.md" >}})
 -   [Array]({{< relref "array.md" >}})
+-   [Dynamic array]({{< relref "dynamic_array.md" >}})
+-   [Trie]({{< relref "trie.md" >}})
 -   [Implicit data structure]({{< relref "implicit_data_structure.md" >}})
 -   [Binary search tree]({{< relref "binary_search_tree.md" >}})
 -   [Depth-first search]({{< relref "depth_first_search.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
--   [Heapsort]({{< relref "heapsort.md" >}})
--   [Linked list]({{< relref "linked_list.md" >}})
--   [Abstract data type]({{< relref "abstract_data_type.md" >}})
 -   [C++ struct]({{< relref "c_struct.md" >}})
--   [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
--   [Binary tree]({{< relref "binary_tree.md" >}})
--   [Trie]({{< relref "trie.md" >}})
+-   [Heapsort]({{< relref "heapsort.md" >}})
+-   [Abstract data type]({{< relref "abstract_data_type.md" >}})
+-   [Linked list]({{< relref "linked_list.md" >}})
 -   [Hash table]({{< relref "hash_table.md" >}})
+-   [Succinct data structure]({{< relref "succinct_data_structure.md" >}})

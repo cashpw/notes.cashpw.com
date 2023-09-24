@@ -2,7 +2,7 @@
 title = "Hugo Cisneros"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:46:00-08:00
-lastmod = 2023-08-02T11:08:43-07:00
+lastmod = 2023-09-24T10:17:14-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,9 +2,9 @@
 title = "David Chapman"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T08:16:00-08:00
-lastmod = 2023-08-02T10:47:54-07:00
-tags = ["has-todo", "person", "has-todo", "person"]
-categories = ["has-todo", "person"]
+lastmod = 2023-09-24T10:05:05-07:00
+tags = ["hastodo", "person", "hastodo", "person"]
+categories = ["hastodo", "person"]
 draft = false
 slug = "13a2657b-425e-4a42-bd65-8b5c31a847af"
 +++

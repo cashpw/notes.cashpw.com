@@ -2,9 +2,9 @@
 title = "Be what they expect you to be"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:02:00-08:00
-lastmod = 2023-08-02T10:35:58-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T09:55:04-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "bcc5414e-4ad7-4a7d-ac84-75e08c02b017"
 +++

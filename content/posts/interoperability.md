@@ -2,7 +2,7 @@
 title = "Interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:28:00-07:00
-lastmod = 2023-08-02T11:13:57-07:00
+lastmod = 2023-09-24T10:19:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,7 +46,7 @@ The characteristic of a product or system to work with other products or systems
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Interoperability.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Interoperability&oldid=1115245899">https://en.wikipedia.org/w/index.php?title=Interoperability&#38;oldid=1115245899</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Interoperability.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Interoperability&oldid=1115245899">https://en.wikipedia.org/w/index.php?title=Interoperability&#38;oldid=1115245899</a>.</div>
 </div>
 
 

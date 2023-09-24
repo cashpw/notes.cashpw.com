@@ -2,7 +2,7 @@
 title = "Never play defense"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:11:00-07:00
-lastmod = 2023-08-02T11:46:28-07:00
+lastmod = 2023-09-24T10:34:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ See [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.m
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.30 | 14  | 181.62   | 2023-09-02T05:57:21Z |
+| front    | 2.30 | 15  | 431.10   | 2024-11-08T16:04:04Z |
 | back     | 2.35 | 7   | 191.95   | 2023-11-18T14:37:38Z |
 
 [Never play defense]({{< relref "never_play_defense.md" >}})
@@ -83,7 +83,7 @@ A method for winning arguments where you seek to convince the audience you won o
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 6   | 87.24    | 2023-10-06T18:52:47Z |
-| 1        | 2.50 | 6   | 113.25   | 2023-08-30T22:53:14Z |
+| 1        | 2.20 | 4   | 11.96    | 2023-09-29T22:23:37Z |
 
 {{[Never play defense]({{< relref "never_play_defense.md" >}})}{argument}@0} relies on {{[Peripheral route processing]({{< relref "peripheral_route_processing.md" >}})}@1}.
 
@@ -95,13 +95,13 @@ A method for winning arguments where you seek to convince the audience you won o
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2017. “Never Play Defense.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/168011929487/the-next-video-in-my-series-on-alt-right">https://innuendostudios.tumblr.com/post/168011929487/the-next-video-in-my-series-on-alt-right</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2017. “Never Play Defense.” Tumblr. Innuendo Studios. November 29, 2017. <a href="https://innuendostudios.tumblr.com/post/168011929487/the-next-video-in-my-series-on-alt-right">https://innuendostudios.tumblr.com/post/168011929487/the-next-video-in-my-series-on-alt-right</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
+-   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
 -   [Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?]({{< relref "nathan_robinson_is_there_a_principled_distinction_between_refusing_to_watch_american_sniper_and_refusing_to_read_fun_home.md" >}})
 -   [If you're explaining, you're losing]({{< relref "if_you_re_explaining_you_re_losing.md" >}})
--   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
 -   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})

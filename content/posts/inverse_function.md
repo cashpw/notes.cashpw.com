@@ -2,7 +2,7 @@
 title = "Inverse function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T09:10:00-08:00
-lastmod = 2023-08-02T11:14:24-07:00
+lastmod = 2023-09-24T10:19:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -57,7 +57,7 @@ For \\(f(x) = \dots x\\):
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Inverse Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Inverse_function&oldid=1121855971">https://en.wikipedia.org/w/index.php?title=Inverse_function&#38;oldid=1121855971</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Inverse Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Inverse_function&oldid=1121855971">https://en.wikipedia.org/w/index.php?title=Inverse_function&#38;oldid=1121855971</a>.</div>
 </div>
 
 

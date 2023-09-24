@@ -2,7 +2,7 @@
 title = "All that you touch You Change"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T09:56:00-07:00
-lastmod = 2023-08-02T10:34:16-07:00
+lastmod = 2023-09-24T09:52:57-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ slug = "5a289064-2f24-4877-88a3-c9825dc2dbbe"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 147.23   | 2023-08-25T21:47:21Z |
+| 0        | 2.80 | 7   | 413.73   | 2024-10-14T07:02:21Z |
 
 All that you touch {{You Change. All that you Change Changes you. The only lasting truth is Change. God is Change.}{full}@0}
 
@@ -49,7 +49,7 @@ All that you Change {{Changes you.}@0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 3.10 | 6   | 157.74   | 2023-09-06T15:20:07Z |
+| 0        | 3.10 | 7   | 521.86   | 2025-02-10T11:32:30Z |
 
 The only lasting truth {{is Change.}@0}
 

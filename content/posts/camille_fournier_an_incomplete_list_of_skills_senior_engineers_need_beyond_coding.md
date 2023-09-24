@@ -2,7 +2,7 @@
 title = "Camille Fournier | An Incomplete List of Skills Senior Engineers Need, beyond Coding"
 author = ["Cash Weaver"]
 date = 2023-03-20T09:44:00-07:00
-lastmod = 2023-08-02T10:39:30-07:00
+lastmod = 2023-09-24T09:58:09-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -46,19 +46,13 @@ slug = "9f7ed9dc-46f1-4f12-a87e-cd03005c06dd"
 > 22. How to tell someone they're wrong without making them feel ashamed
 > 23. How to take negative feedback gracefully
 
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Fournier, Camille. 2021. “An Incomplete List of Skills Senior Engineers Need, beyond Coding.” <i>Medium</i>. <a href="https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f">https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f</a>.</div>
-</div>
-
 
 ## Flashcards {#flashcards}
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Fournier, Camille. 2021. “An Incomplete List of Skills Senior Engineers Need, beyond Coding.” <i>Medium</i>. <a href="https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f">https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Fournier, Camille. 2021. “An Incomplete List of Skills Senior Engineers Need, beyond Coding.” Medium. June 6, 2021. <a href="https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f">https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f</a>.</div>
 </div>
 
 

@@ -2,9 +2,9 @@
 title = "Implicit data structure"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:32:00-07:00
-lastmod = 2023-08-02T11:12:02-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:18:41-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "650f4577-c1ec-46c9-b7a6-af8d90756bcd"
 +++
@@ -22,7 +22,7 @@ slug = "650f4577-c1ec-46c9-b7a6-af8d90756bcd"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.80 | 8   | 288.43   | 2023-11-14T13:01:50Z |
-| front    | 1.90 | 7   | 80.31    | 2023-08-18T23:40:35Z |
+| front    | 1.75 | 8   | 154.25   | 2024-01-27T20:49:55Z |
 
 [Implicit data structure]({{< relref "implicit_data_structure.md" >}})
 
@@ -42,7 +42,7 @@ A [Data structure]({{< relref "data_structures.md" >}}) that requires \\(Z + O(1
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.05 | 8   | 168.25   | 2023-10-21T23:41:37Z |
-| 1        | 1.90 | 6   | 51.34    | 2023-08-21T09:56:36Z |
+| 1        | 1.90 | 7   | 104.37   | 2023-12-12T21:49:43Z |
 
 -   {{[Implicit data structure]({{< relref "implicit_data_structure.md" >}})}@0}
 -   {{[Space-efficient data structure]({{< relref "implicit_data_structure.md" >}})}@1}
@@ -75,11 +75,11 @@ A [Data structure]({{< relref "data_structures.md" >}}) that requires \\(Z + O(1
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Implicit Data Structure.” 2021. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Implicit_data_structure&oldid=1036275140">https://en.wikipedia.org/w/index.php?title=Implicit_data_structure&#38;oldid=1036275140</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Implicit Data Structure.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Implicit_data_structure&oldid=1036275140">https://en.wikipedia.org/w/index.php?title=Implicit_data_structure&#38;oldid=1036275140</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Binary heap]({{< relref "binary_heap.md" >}})
 -   [Data structures]({{< relref "data_structures.md" >}})
+-   [Binary heap]({{< relref "binary_heap.md" >}})

@@ -2,7 +2,7 @@
 title = "Velocity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T15:44:00-08:00
-lastmod = 2023-08-02T13:01:41-07:00
+lastmod = 2023-09-24T10:55:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,8 +32,8 @@ See [Derivative (math)]({{< relref "derivative.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 126.16   | 2023-09-02T18:26:13Z |
-| back     | 2.50 | 6   | 96.19    | 2023-08-13T21:27:48Z |
+| front    | 2.80 | 7   | 347.55   | 2024-08-17T02:41:12Z |
+| back     | 2.50 | 7   | 240.72   | 2024-04-25T06:04:44Z |
 
 [Velocity]({{< relref "velocity.md" >}})
 
@@ -53,7 +53,7 @@ See [Derivative (math)]({{< relref "derivative.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 124.80   | 2023-08-31T17:47:53Z |
+| 0        | 2.80 | 7   | 357.59   | 2024-08-23T08:43:56Z |
 
 {{Speed and direction}@0} define velocity.
 
@@ -68,7 +68,7 @@ See [Derivative (math)]({{< relref "derivative.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.80 | 7   | 303.17   | 2024-05-24T18:54:00Z |
-| 1        | 2.80 | 6   | 115.76   | 2023-08-30T11:51:58Z |
+| 1        | 2.80 | 7   | 322.35   | 2024-07-17T21:11:42Z |
 
 {{[Velocity]({{< relref "velocity.md" >}}) (\\(v\\))}@0} \\(=\\) {{\\(\lim\_{\Delta t \to 0} \frac{\Delta x}{\Delta t} = \frac{dx}{dt}\\)}@1}
 
@@ -80,7 +80,7 @@ See [Derivative (math)]({{< relref "derivative.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Velocity.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Velocity&oldid=1120894507">https://en.wikipedia.org/w/index.php?title=Velocity&#38;oldid=1120894507</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Velocity.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Velocity&oldid=1120894507">https://en.wikipedia.org/w/index.php?title=Velocity&#38;oldid=1120894507</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Continuous partial attention"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T14:46:00-08:00
-lastmod = 2023-08-02T10:44:18-07:00
+lastmod = 2023-09-24T10:02:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ Multi-tasking and [Continuous partial attention]({{< relref "continuous_partial_
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Continuous Partial Attention.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Continuous_partial_attention&oldid=1087641342">https://en.wikipedia.org/w/index.php?title=Continuous_partial_attention&#38;oldid=1087641342</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Continuous Partial Attention.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Continuous_partial_attention&oldid=1087641342">https://en.wikipedia.org/w/index.php?title=Continuous_partial_attention&#38;oldid=1087641342</a>.</div>
 </div>
 
 

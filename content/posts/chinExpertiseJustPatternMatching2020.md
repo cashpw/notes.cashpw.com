@@ -2,7 +2,7 @@
 title = "Cedric Chin | Expertise Is 'Just' Pattern Matching"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:53:00-08:00
-lastmod = 2023-08-02T10:41:36-07:00
+lastmod = 2023-09-24T10:00:25-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -78,7 +78,7 @@ Being an expert at something is a function of:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “Expertise Is ’Just’ Pattern Matching.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/expertise-is-just-pattern-matching/">https://commoncog.com/blog/expertise-is-just-pattern-matching/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “Expertise Is ’Just’ Pattern Matching.” Commonplace - The Commoncog Blog. January 21, 2020. <a href="https://commoncog.com/blog/expertise-is-just-pattern-matching/">https://commoncog.com/blog/expertise-is-just-pattern-matching/</a>.</div>
 </div>
 
 
@@ -88,3 +88,6 @@ Being an expert at something is a function of:
 -   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
 -   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}})
+-   [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

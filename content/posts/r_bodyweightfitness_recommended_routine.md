@@ -2,7 +2,7 @@
 title = "r/bodyweightfitness | Recommended Routine"
 author = ["Cash Weaver"]
 date = 2023-07-06T09:13:00-07:00
-lastmod = 2023-08-02T12:09:56-07:00
+lastmod = 2023-09-24T10:40:27-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

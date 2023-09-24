@@ -2,9 +2,9 @@
 title = "Helen Rosenau, Etienne Louis Boullée | Boullée and Visionary Architecture"
 author = ["Cash Weaver"]
 date = 2023-07-25T16:00:00-07:00
-lastmod = 2023-08-02T11:06:37-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:16:17-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "cc620b2e-2070-49b0-8d4c-a5892731faa6"
 +++
@@ -115,7 +115,7 @@ By [Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2023-08-01T23:36:11Z |
+| 0        | 2.20 | 5   | 32.09    | 2023-10-01T14:53:15Z |
 
 > {{To be reduced to what is called necessity when designing a temple is to forget one's subject.}{Full quote: [Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}}) on temples}@0}
 

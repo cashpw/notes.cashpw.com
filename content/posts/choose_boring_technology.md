@@ -2,9 +2,9 @@
 title = "Choose boring technology"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:21:00-08:00
-lastmod = 2023-08-02T10:41:48-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:00:44-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "81ca2b65-51ee-4244-9845-7dbbd03d31ae"
 +++

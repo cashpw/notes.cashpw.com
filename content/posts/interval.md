@@ -2,7 +2,7 @@
 title = "Interval"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T08:40:00-08:00
-lastmod = 2023-08-02T11:14:03-07:00
+lastmod = 2023-09-24T10:19:45-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 8   | 259.17   | 2023-09-15T18:12:17Z |
+| front    | 2.50 | 9   | 649.28   | 2025-06-28T05:57:24Z |
 | back     | 2.35 | 8   | 265.22   | 2023-11-30T08:20:49Z |
 
 Closed interval
@@ -58,7 +58,7 @@ Closed interval
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 8   | 242.02   | 2023-08-25T17:04:25Z |
+| 0        | 2.80 | 9   | 680.05   | 2025-07-06T16:03:18Z |
 | 1        | 2.65 | 9   | 408.95   | 2024-05-04T12:47:58Z |
 
 -   {{\\([0, 1]\\)}@0}
@@ -143,7 +143,7 @@ An interval which includes all its limit points.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Interval (Mathematics).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Interval_(mathematics)&oldid=1128544570">https://en.wikipedia.org/w/index.php?title=Interval_(mathematics)&#38;oldid=1128544570</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Interval (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Interval_(mathematics)&oldid=1128544570">https://en.wikipedia.org/w/index.php?title=Interval_(mathematics)&#38;oldid=1128544570</a>.</div>
 </div>
 
 

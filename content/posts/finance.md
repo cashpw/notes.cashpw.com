@@ -2,9 +2,9 @@
 title = "Finance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T14:46:00-08:00
-lastmod = 2023-08-02T10:56:36-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:10:34-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "fbc554fe-c7ba-479d-a23f-20917476fc19"
 +++
@@ -34,8 +34,8 @@ A period of generally rising prices in a market.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.90 | 4   | 12.33    | 2023-08-01T23:08:38Z |
-| front    | 2.45 | 6   | 95.78    | 2023-08-10T12:33:37Z |
+| back     | 1.75 | 6   | 40.44    | 2023-10-07T23:28:14Z |
+| front    | 2.30 | 7   | 240.07   | 2024-04-06T16:13:35Z |
 
 Defined benefit plan
 
@@ -65,7 +65,7 @@ An investment plan wherein money is contributed to an investment vehicle by an i
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.80 | 11  | 354.38   | 2024-01-06T11:04:28Z |
-| front    | 2.35 | 8   | 235.14   | 2023-08-08T00:00:45Z |
+| front    | 1.90 | 5   | 21.31    | 2023-10-02T20:06:49Z |
 
 Earnings per share
 
@@ -84,7 +84,7 @@ Earnings per share
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.45 | 9   | 62.08    | 2023-09-16T15:48:28Z |
+| back     | 1.45 | 10  | 96.63    | 2023-12-23T14:05:33Z |
 | front    | 2.65 | 9   | 339.29   | 2024-02-12T09:48:35Z |
 
 P/E ratio
@@ -97,7 +97,7 @@ P/E ratio
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_4">“Price Earnings Ratio” 2022</a>)
+(<a href="#citeproc_bib_item_4">“Price–Earnings Ratio” 2022</a>)
 
 
 ### Definition (Finance) {#definition--finance}
@@ -144,7 +144,7 @@ Eg: cash, stock, options, mortgages
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 3.10 | 6   | 176.25   | 2023-08-06T06:13:14Z |
+| back     | 3.25 | 7   | 628.83   | 2025-04-26T10:32:58Z |
 | front    | 2.95 | 7   | 414.79   | 2024-08-20T19:48:35Z |
 
 401(k)
@@ -199,8 +199,8 @@ A huge company with an excellent reputation.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Blue Chip (Stock Market).” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Blue_chip_(stock_market)&oldid=1099290881">https://en.wikipedia.org/w/index.php?title=Blue_chip_(stock_market)&#38;oldid=1099290881</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Earnings per Share.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Earnings_per_share&oldid=1092754900">https://en.wikipedia.org/w/index.php?title=Earnings_per_share&#38;oldid=1092754900</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Financial Instrument.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Financial_instrument&oldid=1089002882">https://en.wikipedia.org/w/index.php?title=Financial_instrument&#38;oldid=1089002882</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Price Earnings Ratio.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Price%E2%80%93earnings_ratio&oldid=1107421814">https://en.wikipedia.org/w/index.php?title=Price%E2%80%93earnings_ratio&#38;oldid=1107421814</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Blue Chip (Stock Market).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Blue_chip_(stock_market)&oldid=1099290881">https://en.wikipedia.org/w/index.php?title=Blue_chip_(stock_market)&#38;oldid=1099290881</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Earnings per Share.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Earnings_per_share&oldid=1092754900">https://en.wikipedia.org/w/index.php?title=Earnings_per_share&#38;oldid=1092754900</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Financial Instrument.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Financial_instrument&oldid=1089002882">https://en.wikipedia.org/w/index.php?title=Financial_instrument&#38;oldid=1089002882</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Price–Earnings Ratio.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Price%E2%80%93earnings_ratio&oldid=1107421814">https://en.wikipedia.org/w/index.php?title=Price%E2%80%93earnings_ratio&#38;oldid=1107421814</a>.</div>
 </div>

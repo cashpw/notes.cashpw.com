@@ -2,7 +2,7 @@
 title = "Write prolifically, write succinctly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-17T07:28:00-08:00
-lastmod = 2023-08-02T13:06:26-07:00
+lastmod = 2023-09-24T10:56:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -51,7 +51,7 @@ slug = "d077ef5b-766b-4239-a40f-f775e101e185"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Crittenden, Mike. 2020. “Write 5x More but Write 5x Less.” <i>Mike Crittenden</i>. <a href="https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/">https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Crittenden, Mike. 2020. “Write 5x More but Write 5x Less.” Mike Crittenden. October 2, 2020. <a href="https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/">https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Write More, but Less.” n.d. Accessed November 13, 2022. <a href="https://azdavis.net/posts/write-more-but-less/">https://azdavis.net/posts/write-more-but-less/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Write More, but Shorter.” n.d. Accessed November 13, 2022. <a href="https://blog.kewah.com/2021/write-more-but-shorter/">https://blog.kewah.com/2021/write-more-but-shorter/</a>.</div>
 </div>

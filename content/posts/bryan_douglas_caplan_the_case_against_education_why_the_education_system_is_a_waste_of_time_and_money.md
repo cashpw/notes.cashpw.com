@@ -2,9 +2,9 @@
 title = "Bryan Caplan | The Case against Education: Why the Education System Is a Waste of Time and Money"
 author = ["Cash Weaver"]
 date = 2023-01-12T10:18:00-08:00
-lastmod = 2023-08-02T10:38:35-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T09:57:25-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "8ecb934d-da88-40f4-851b-1fd5f2efd0ad"
 +++

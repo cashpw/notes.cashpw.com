@@ -2,7 +2,7 @@
 title = "Scott Alexander | Socratic Grilling"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:03:00-08:00
-lastmod = 2023-08-02T10:34:05-07:00
+lastmod = 2023-09-24T09:52:42-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -70,7 +70,7 @@ The learning done through [Socratic questioning]({{< relref "socratic_questionin
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2020. “Socratic Grilling.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2020/03/06/socratic-grilling/">https://slatestarcodex.com/2020/03/06/socratic-grilling/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2020. “Socratic Grilling.” Slate Star Codex. March 6, 2020. <a href="https://slatestarcodex.com/2020/03/06/socratic-grilling/">https://slatestarcodex.com/2020/03/06/socratic-grilling/</a>.</div>
 </div>
 
 

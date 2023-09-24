@@ -2,7 +2,7 @@
 title = "This is water"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T10:53:00-08:00
-lastmod = 2023-08-02T12:50:58-07:00
+lastmod = 2023-09-24T10:52:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,7 +25,7 @@ slug = "44df8020-9272-455c-91ea-268daf7c08d5"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 1.90 | 8   | 209.94   | 2024-02-11T12:37:42Z |
-| back     | 2.65 | 5   | 49.38    | 2023-09-08T00:36:16Z |
+| back     | 2.65 | 6   | 119.39   | 2024-01-06T01:50:42Z |
 
 [This is water]({{< relref "this_is_water.md" >}})
 

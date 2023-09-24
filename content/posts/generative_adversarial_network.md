@@ -2,7 +2,7 @@
 title = "Generative adversarial network"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T11:04:00-08:00
-lastmod = 2023-08-02T11:00:27-07:00
+lastmod = 2023-09-24T10:13:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ slug = "0f560f37-8170-46a9-8ec3-160de418eb7d"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 43.51    | 2023-09-04T15:56:08Z |
-| back     | 2.50 | 5   | 37.41    | 2023-08-30T13:56:24Z |
+| front    | 2.50 | 6   | 117.89   | 2024-01-01T12:55:48Z |
+| back     | 2.50 | 6   | 91.00    | 2023-11-30T18:34:19Z |
 
 [Generative adversarial network]({{< relref "generative_adversarial_network.md" >}})
 
@@ -43,7 +43,7 @@ A machine learning framework which pits two agents against each other in a [Zero
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Generative Adversarial Network.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Generative_adversarial_network&oldid=1132368875">https://en.wikipedia.org/w/index.php?title=Generative_adversarial_network&#38;oldid=1132368875</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Generative Adversarial Network.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Generative_adversarial_network&oldid=1132368875">https://en.wikipedia.org/w/index.php?title=Generative_adversarial_network&#38;oldid=1132368875</a>.</div>
 </div>
 
 

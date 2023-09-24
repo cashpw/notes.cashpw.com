@@ -2,9 +2,9 @@
 title = "Systems Design"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T21:20:00-07:00
-lastmod = 2023-08-02T12:40:22-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:49:21-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "30263770-541e-4e5a-acbe-f194ab7c121e"
 +++
@@ -28,5 +28,5 @@ My mind tends to move toward [graphs]({{< relref "graph_theory.md" >}}) when I t
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Systems Design.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Systems_design&oldid=1060468175">https://en.wikipedia.org/w/index.php?title=Systems_design&#38;oldid=1060468175</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Systems Design.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Systems_design&oldid=1060468175">https://en.wikipedia.org/w/index.php?title=Systems_design&#38;oldid=1060468175</a>.</div>
 </div>

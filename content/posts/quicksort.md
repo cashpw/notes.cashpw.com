@@ -2,7 +2,7 @@
 title = "Quicksort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T13:45:00-07:00
-lastmod = 2023-08-02T12:09:05-07:00
+lastmod = 2023-09-24T10:40:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -120,7 +120,7 @@ procedure partition(lowIndex, highIndex, list) is
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 150.53   | 2023-08-21T04:51:39Z |
+| 0        | 2.05 | 8   | 332.01   | 2024-07-18T13:19:04Z |
 
 [Quicksort]({{< relref "quicksort.md" >}})'s `partition` conditionally swaps elements at `{{i and j}@0}`
 
@@ -134,7 +134,7 @@ procedure partition(lowIndex, highIndex, list) is
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 164.28   | 2023-09-02T20:38:26Z |
+| 0        | 2.50 | 8   | 426.68   | 2024-11-05T07:45:35Z |
 
 [Quicksort]({{< relref "quicksort.md" >}})'s `partition` compares elements at `{{j and pivot_index}@0}`
 
@@ -176,7 +176,7 @@ A divide-and-conquer sorting algorithm which recursively sorts a list by selecti
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 6   | 51.02    | 2023-09-01T13:10:32Z |
+| front    | 1.60 | 4   | 10.22    | 2023-09-28T04:28:01Z |
 
 Implementation of [Quicksort]({{< relref "quicksort.md" >}})'s `partition` function in [Python]({{< relref "python.md" >}})
 
@@ -301,7 +301,7 @@ def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: i
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quicksort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Quicksort&oldid=1093780310">https://en.wikipedia.org/w/index.php?title=Quicksort&#38;oldid=1093780310</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quicksort.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Quicksort&oldid=1093780310">https://en.wikipedia.org/w/index.php?title=Quicksort&#38;oldid=1093780310</a>.</div>
 </div>
 
 
@@ -309,5 +309,5 @@ def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: i
 
 -   [Quickselect]({{< relref "quickselect.md" >}})
 -   [Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
--   [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})
 -   [Unstable sorting algorithm]({{< relref "unstable_sorting_algorithm.md" >}})
+-   [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})

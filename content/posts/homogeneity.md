@@ -2,7 +2,7 @@
 title = "Homogeneity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:43:00-08:00
-lastmod = 2023-08-02T11:07:33-07:00
+lastmod = 2023-09-24T10:16:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,12 +23,6 @@ slug = "65f61fff-628e-484a-baf5-785b37f7f28e"
 >
 > (<a href="#citeproc_bib_item_1">“Homogeneous Function” 2022</a>)
 
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Homogeneous Function.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Homogeneous_function&oldid=1127194795">https://en.wikipedia.org/w/index.php?title=Homogeneous_function&#38;oldid=1127194795</a>.</div>
-</div>
-
 
 ## Flashcards {#flashcards}
 
@@ -37,7 +31,7 @@ slug = "65f61fff-628e-484a-baf5-785b37f7f28e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.60 | 5   | 18.16    | 2023-08-15T19:03:03Z |
+| back     | 1.45 | 7   | 37.23    | 2023-10-25T04:42:35Z |
 | front    | 2.60 | 11  | 319.12   | 2024-03-18T00:35:37Z |
 
 Degree of homogeneity
@@ -58,7 +52,7 @@ The value of \\(k\\) in \\(f(\alpha\vec{x}, \alpha\vec{y}) = \alpha^kf(\vec{x}, 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.20 | 13  | 261.38   | 2023-10-01T00:26:36Z |
-| front    | 1.45 | 7   | 34.53    | 2023-09-04T14:08:31Z |
+| front    | 1.45 | 8   | 53.18    | 2023-10-28T19:43:12Z |
 
 Homogeneous function
 
@@ -80,7 +74,7 @@ A function with multiplicative scaling behaviour; if all its arguments are multi
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Homogeneous Function.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Homogeneous_function&oldid=1127194795">https://en.wikipedia.org/w/index.php?title=Homogeneous_function&#38;oldid=1127194795</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Homogeneous Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Homogeneous_function&oldid=1127194795">https://en.wikipedia.org/w/index.php?title=Homogeneous_function&#38;oldid=1127194795</a>.</div>
 </div>
 
 

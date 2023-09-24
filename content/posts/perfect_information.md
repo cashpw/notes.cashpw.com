@@ -2,7 +2,7 @@
 title = "Perfect information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2023-08-02T11:55:53-07:00
+lastmod = 2023-09-24T10:37:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,7 +29,7 @@ Also see [Game theory]({{< relref "game_theory.md" >}}), [Imperfect information]
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 368.69   | 2024-06-20T20:42:27Z |
-| back     | 2.95 | 6   | 177.75   | 2023-09-07T08:49:33Z |
+| back     | 2.95 | 7   | 525.08   | 2025-02-14T18:19:37Z |
 
 [Perfect information]({{< relref "perfect_information.md" >}})
 
@@ -88,8 +88,8 @@ A game in which each player is informed of all the events which have previously 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Complete Information.” 2021. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Complete_information&oldid=1045048457">https://en.wikipedia.org/w/index.php?title=Complete_information&#38;oldid=1045048457</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Perfect Information.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Perfect_information&oldid=1107320001">https://en.wikipedia.org/w/index.php?title=Perfect_information&#38;oldid=1107320001</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Complete Information.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Complete_information&oldid=1045048457">https://en.wikipedia.org/w/index.php?title=Complete_information&#38;oldid=1045048457</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Perfect Information.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Perfect_information&oldid=1107320001">https://en.wikipedia.org/w/index.php?title=Perfect_information&#38;oldid=1107320001</a>.</div>
 </div>
 
 

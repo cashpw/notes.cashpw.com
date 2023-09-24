@@ -2,7 +2,7 @@
 title = "Fixed mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:44:00-07:00
-lastmod = 2023-08-02T10:57:15-07:00
+lastmod = 2023-09-24T10:11:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,11 +45,11 @@ A [Mindset]({{< relref "mindset.md" >}}) which holds that there is little one ca
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindset.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Mindset&oldid=1114760560#Fixed_and_growth_mindset">https://en.wikipedia.org/w/index.php?title=Mindset&#38;oldid=1114760560#Fixed_and_growth_mindset</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindset.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Mindset&oldid=1114760560#Fixed_and_growth_mindset">https://en.wikipedia.org/w/index.php?title=Mindset&#38;oldid=1114760560#Fixed_and_growth_mindset</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Growth mindset]({{< relref "growth_mindset.md" >}})
 -   [The first lesson]({{< relref "the_first_lesson.md" >}})
+-   [Growth mindset]({{< relref "growth_mindset.md" >}})

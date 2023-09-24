@@ -2,7 +2,7 @@
 title = "Leo Babauta | Reset Ritual to Come Back to Focus"
 author = ["Cash Weaver"]
 date = 2023-03-03T10:56:00-08:00
-lastmod = 2023-08-02T11:27:58-07:00
+lastmod = 2023-09-24T10:25:50-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -35,7 +35,7 @@ slug = "b785c042-ed23-44c0-b25a-91294ed9b8d0"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Babauta, Leo. 2022. “Reset Ritual to Come Back to Focus.” <i>Zen Habits</i>. <a href="https://zenhabits.net/reset-ritual/">https://zenhabits.net/reset-ritual/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Babauta, Leo. 2022. “Reset Ritual to Come Back to Focus.” zen habits. April 21, 2022. <a href="https://zenhabits.net/reset-ritual/">https://zenhabits.net/reset-ritual/</a>.</div>
 </div>
 
 

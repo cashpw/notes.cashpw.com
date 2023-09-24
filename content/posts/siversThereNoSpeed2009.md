@@ -2,7 +2,7 @@
 title = "Derek Sivers | There's No Speed Limit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:34:00-08:00
-lastmod = 2023-08-02T12:27:56-07:00
+lastmod = 2023-09-24T10:45:47-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -15,6 +15,11 @@ slug = "e02451fc-c9d5-4c02-849b-d9b7d4cc95a7"
 ## Summary {#summary}
 
 [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}}).
+
+
+## Thoughts {#thoughts}
+
+This is one of my [Favorites]({{< relref "favorites.md" >}}).
 
 
 ## Notes {#notes}
@@ -45,10 +50,5 @@ slug = "e02451fc-c9d5-4c02-849b-d9b7d4cc95a7"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Sivers, Derek. 2009. “There’s No Speed Limit.” <a href="https://sive.rs/kimo">https://sive.rs/kimo</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Sivers, Derek. 2009. “There’s No Speed Limit.” December 1, 2009. <a href="https://sive.rs/kimo">https://sive.rs/kimo</a>.</div>
 </div>
-
-
-## Backlinks {#backlinks}
-
--   [Favorites]({{< relref "favorites.md" >}})

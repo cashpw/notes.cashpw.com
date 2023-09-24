@@ -2,7 +2,7 @@
 title = "Bloom's 2 sigma problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:16:00-08:00
-lastmod = 2023-08-02T10:37:45-07:00
+lastmod = 2023-09-24T09:56:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "6eb6bfde-37f3-4555-bbe2-1bd639b518ec"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 159.38   | 2023-08-21T00:16:46Z |
+| front    | 2.80 | 7   | 406.01   | 2024-09-30T12:52:16Z |
 | back     | 2.95 | 6   | 183.81   | 2023-09-25T14:41:47Z |
 
 [Bloom's 2 sigma problem]({{< relref "bloom_s_2_sigma_problem.md" >}})
@@ -41,7 +41,7 @@ The average student who receives 1-on-1 tutoring, using [Mastery learning]({{< r
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 113.83   | 2023-08-28T13:45:30Z |
+| 0        | 2.65 | 7   | 295.40   | 2024-06-20T22:23:20Z |
 
 {{[Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})}@0} developed [Bloom's 2 sigma problem]({{< relref "bloom_s_2_sigma_problem.md" >}})
 
@@ -53,12 +53,12 @@ The average student who receives 1-on-1 tutoring, using [Mastery learning]({{< r
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bloom’s 2 Sigma Problem.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Bloom%27s_2_sigma_problem&oldid=1126729534">https://en.wikipedia.org/w/index.php?title=Bloom%27s_2_sigma_problem&#38;oldid=1126729534</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bloom’s 2 Sigma Problem.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Bloom%27s_2_sigma_problem&oldid=1126729534">https://en.wikipedia.org/w/index.php?title=Bloom%27s_2_sigma_problem&#38;oldid=1126729534</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})
--   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})

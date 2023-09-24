@@ -2,9 +2,9 @@
 title = "Red-black tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:54:00-07:00
-lastmod = 2023-08-02T12:13:40-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:41:21-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "019be402-8bef-48f3-afbf-6441010dd8cf"
 +++
@@ -13,7 +13,7 @@ ID: 019be402-8bef-48f3-afbf-6441010dd8cf
 
     ROAM_REFS: [cite:@RedblackTree2022]
 
-    LAST_MODIFIED: [2023-07-26 Wed 08:08]
+    LAST_MODIFIED: [2023-09-19 Tue 16:55]
 
 > In computer science, a red–black tree is a kind of [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}}). Each [Vertex]({{< relref "vertex.md" >}}) stores an extra bit representing "color" ("red" or "black"), used to ensure that the [Tree]({{< relref "tree.md" >}}) remains balanced during insertions and deletions.
 >
@@ -186,7 +186,7 @@ def insert_fix(inserted_node):
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 7   | 89.25    | 2023-08-07T21:54:06Z |
+| 0        | 1.75 | 8   | 169.49   | 2024-01-25T03:10:10Z |
 
 
 #### Extra {#extra}
@@ -245,8 +245,8 @@ def insert_fix(inserted_node):
 | 4        | 2.50 | 7   | 342.61   | 2024-06-14T14:52:29Z |
 | 0        | 2.80 | 8   | 323.70   | 2024-03-25T10:21:18Z |
 | 1        | 2.50 | 6   | 103.79   | 2023-10-29T08:56:01Z |
-| 2        | 2.05 | 6   | 64.50    | 2023-09-03T13:35:09Z |
-| 3        | 1.60 | 3   | 6.00     | 2023-08-01T15:08:38Z |
+| 2        | 2.05 | 7   | 137.91   | 2024-01-24T14:16:35Z |
+| 3        | 1.45 | 5   | 12.17    | 2023-09-22T03:17:48Z |
 
 Properties of a {{[Red-black tree]({{< relref "red_black_tree.md" >}})}@4}
 
@@ -310,7 +310,7 @@ Properties of a {{[Red-black tree]({{< relref "red_black_tree.md" >}})}@4}
 (<a href="#citeproc_bib_item_1">“Red-Black Tree” 2022</a>)
 
 
-### ([Red-black tree]({{< relref "red_black_tree.md" >}})) Red nodes {{cannot}{can/can't}@0} have red children {#red-black-tree-red-black-tree-dot-md---red-nodes-cannot-can-can-t-0-have-red-children}
+### ([Red-black tree]({{< relref "red_black_tree.md" >}})) {{Red}@1} nodes {{cannot}{can/can't}@0} have red children {#red-black-tree-red-black-tree-dot-md---red-1-nodes-cannot-can-can-t-0-have-red-children}
 
     CREATED: [2022-11-11 Fri 07:50]
 
@@ -320,13 +320,14 @@ Properties of a {{[Red-black tree]({{< relref "red_black_tree.md" >}})}@4}
 
     ID: 4e3440f5-ce7a-43e3-ba81-046d16d0f3ae
 
-    FC_CLOZE_MAX: 0
+    FC_CLOZE_MAX: 1
 
     FC_CLOZE_TYPE: deletion
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 3.10 | 6   | 171.16   | 2023-08-02T21:23:27Z |
+| 1        | 2.20 | 5   | 26.19    | 2023-09-30T17:59:12Z |
+| 0        | 3.10 | 7   | 554.82   | 2025-02-09T10:50:07Z |
 
 
 #### Source {#source}
@@ -357,10 +358,37 @@ Properties of a {{[Red-black tree]({{< relref "red_black_tree.md" >}})}@4}
 
 (<a href="#citeproc_bib_item_1">“Red-Black Tree” 2022</a>)
 
+
+### Cloze {#cloze}
+
+    CREATED: [2023-08-04 Fri 08:16]
+
+    FC_CREATED: 2023-08-04T15:17:14Z
+
+    FC_TYPE: cloze
+
+    ID: 0d169b28-a31c-4ed9-b5fb-b0b496712e93
+
+    FC_CLOZE_MAX: 1
+
+    FC_CLOZE_TYPE: deletion
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 5   | 40.61    | 2023-10-22T03:21:43Z |
+| 1        | 2.35 | 5   | 29.38    | 2023-10-19T09:03:45Z |
+
+{{Black}@0} nodes {{can}{can/can't}@1} have red children.
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_1">“Red-Black Tree” 2022</a>)
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Red-Black Tree.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Red%E2%80%93black_tree&oldid=1100748306">https://en.wikipedia.org/w/index.php?title=Red%E2%80%93black_tree&#38;oldid=1100748306</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Red-Black Tree.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Red%E2%80%93black_tree&oldid=1100748306">https://en.wikipedia.org/w/index.php?title=Red%E2%80%93black_tree&#38;oldid=1100748306</a>.</div>
 </div>
 
 

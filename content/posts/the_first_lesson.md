@@ -2,7 +2,7 @@
 title = "The first lesson"
 author = ["Cash Prokop-Weaver"]
 date = 2021-05-30T12:44:00-07:00
-lastmod = 2023-08-02T12:46:01-07:00
+lastmod = 2023-09-24T10:50:42-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -33,7 +33,7 @@ slug = "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 134.00   | 2023-08-20T15:01:28Z |
+| 0        | 1.90 | 5   | 24.83    | 2023-10-14T19:45:25Z |
 
 
 #### Source {#source}

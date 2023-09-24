@@ -2,7 +2,7 @@
 title = "Abstract data type"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:49:00-07:00
-lastmod = 2023-08-02T10:33:33-07:00
+lastmod = 2023-09-24T09:51:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "2eae74ba-4003-45cf-8425-7291aaa7a537"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.50 | 8   | 288.11   | 2023-12-05T23:58:21Z |
-| front    | 2.20 | 4   | 13.25    | 2023-08-02T21:26:41Z |
+| front    | 2.05 | 6   | 54.30    | 2023-10-29T01:06:04Z |
 
 [Abstract data type]({{< relref "abstract_data_type.md" >}})
 
@@ -41,7 +41,7 @@ A mathematical model for data types which is defined by its behavior from the po
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 222.36   | 2023-08-17T23:51:04Z |
+| front    | 2.80 | 8   | 597.96   | 2025-04-09T15:10:14Z |
 
 [Abstract data type]({{< relref "abstract_data_type.md" >}}) and [Data structure]({{< relref "data_structures.md" >}})
 
@@ -114,7 +114,7 @@ Both concepts relate to how the system stores and interacts with data.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Abstract Data Type.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Abstract_data_type&oldid=1093187237">https://en.wikipedia.org/w/index.php?title=Abstract_data_type&#38;oldid=1093187237</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Abstract Data Type.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Abstract_data_type&oldid=1093187237">https://en.wikipedia.org/w/index.php?title=Abstract_data_type&#38;oldid=1093187237</a>.</div>
 </div>
 
 
@@ -122,7 +122,7 @@ Both concepts relate to how the system stores and interacts with data.
 
 -   [Heap]({{< relref "heap.md" >}})
 -   [Stack]({{< relref "stack.md" >}})
--   [Associative array]({{< relref "associative_array.md" >}})
 -   [Queue]({{< relref "queue.md" >}})
+-   [Associative array]({{< relref "associative_array.md" >}})
 -   [Priority queue]({{< relref "priority_queue.md" >}})
 -   [Tree]({{< relref "tree.md" >}})

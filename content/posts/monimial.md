@@ -2,9 +2,9 @@
 title = "Monimial"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T10:35:00-08:00
-lastmod = 2023-08-02T11:42:31-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:32:28-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "7c1b8d71-ef5c-4530-b5a4-edf7ee7ab5c0"
 +++
@@ -25,5 +25,5 @@ slug = "7c1b8d71-ef5c-4530-b5a4-edf7ee7ab5c0"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Monomial.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Monomial&oldid=1127097293">https://en.wikipedia.org/w/index.php?title=Monomial&#38;oldid=1127097293</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Monomial.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Monomial&oldid=1127097293">https://en.wikipedia.org/w/index.php?title=Monomial&#38;oldid=1127097293</a>.</div>
 </div>

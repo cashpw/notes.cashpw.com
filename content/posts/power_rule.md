@@ -2,7 +2,7 @@
 title = "Power rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-21T06:33:00-08:00
-lastmod = 2023-08-02T12:00:39-07:00
+lastmod = 2023-09-24T10:38:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -99,7 +99,7 @@ $$
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Power Rule.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Power_rule&oldid=1119651193">https://en.wikipedia.org/w/index.php?title=Power_rule&#38;oldid=1119651193</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Power Rule.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Power_rule&oldid=1119651193">https://en.wikipedia.org/w/index.php?title=Power_rule&#38;oldid=1119651193</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Thompson, Silvanus. 1914. <i>Calculus Made Easy</i>.</div>
 </div>
 

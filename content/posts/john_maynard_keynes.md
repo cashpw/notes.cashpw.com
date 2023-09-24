@@ -2,7 +2,7 @@
 title = "John Maynard Keynes"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-28T15:36:00-07:00
-lastmod = 2023-08-02T11:18:44-07:00
+lastmod = 2023-09-24T10:21:41-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,14 +2,19 @@
 title = "Evidence-based education"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-01T08:16:00-08:00
-lastmod = 2023-08-02T10:54:05-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:09:10-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "b26b15e5-48c4-4968-a645-5743b571021e"
 +++
 
 ## Flashcards {#flashcards}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

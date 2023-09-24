@@ -2,9 +2,9 @@
 title = "Management by trust"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T03:38:00-08:00
-lastmod = 2023-08-02T11:33:25-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:28:42-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "295eeb2d-4265-481a-affe-2009f7f33a3a"
 +++

@@ -2,7 +2,7 @@
 title = "Single-source shortest path with topological sort in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:08:00-08:00
-lastmod = 2023-08-02T12:27:33-07:00
+lastmod = 2023-09-24T10:45:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -84,7 +84,7 @@ Implement a solution to the [Single-source shortest path problem]({{< relref "si
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Topological Sorting.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Topological_sorting&oldid=1123299686">https://en.wikipedia.org/w/index.php?title=Topological_sorting&#38;oldid=1123299686</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Topological Sorting.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Topological_sorting&oldid=1123299686">https://en.wikipedia.org/w/index.php?title=Topological_sorting&#38;oldid=1123299686</a>.</div>
 </div>
 
 

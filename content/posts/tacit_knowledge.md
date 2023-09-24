@@ -2,9 +2,9 @@
 title = "Tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-30T13:17:00-08:00
-lastmod = 2023-08-02T12:40:48-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:49:26-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "d636dfa7-428d-457c-8db6-15fa61e03bef"
 +++
@@ -101,20 +101,23 @@ Knowledge which is difficult to express or extract and is thus more difficult to
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Explicit Knowledge.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Explicit_knowledge&oldid=1113170575">https://en.wikipedia.org/w/index.php?title=Explicit_knowledge&#38;oldid=1113170575</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Tacit Knowledge.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&oldid=1066406863">https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&#38;oldid=1066406863</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Explicit Knowledge.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Explicit_knowledge&oldid=1113170575">https://en.wikipedia.org/w/index.php?title=Explicit_knowledge&#38;oldid=1113170575</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Tacit Knowledge.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&oldid=1066406863">https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&#38;oldid=1066406863</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Metis]({{< relref "metis.md" >}})
 -   [Isaac Wilks | It's Time to Build for Good]({{< relref "isaac_wilks_it_s_time_to_build_for_good.md" >}})
+-   [Metis]({{< relref "metis.md" >}})
 -   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
--   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
--   [Blub studies]({{< relref "blub_studies.md" >}})
+-   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
+-   [Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})
 -   [Paul Graham | When People Are Naturally Good at Something]({{< relref "grahamWhenPeopleAre2022.md" >}})
--   [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}})
 -   [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
+-   [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}})
+-   [Blub studies]({{< relref "blub_studies.md" >}})
+-   [Cedric Chin | The Tricky Thing About Creating Training Programs]({{< relref "cedric_chin_the_tricky_thing_about_creating_training_programs.md" >}})
 -   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "cedric_chin_why_tacit_knowledge_is_more_important_than_deliberate_practice.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

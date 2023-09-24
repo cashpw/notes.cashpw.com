@@ -2,7 +2,7 @@
 title = "Symmetric matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:09:00-07:00
-lastmod = 2023-08-02T12:39:28-07:00
+lastmod = 2023-09-24T10:49:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -41,7 +41,7 @@ A [Matrix]({{< relref "matrix.md" >}}), \\(A\\), for which \\(A = A^\textsf{T}\\
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Symmetric Matrix.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Symmetric_matrix&oldid=1093954131">https://en.wikipedia.org/w/index.php?title=Symmetric_matrix&#38;oldid=1093954131</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Symmetric Matrix.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Symmetric_matrix&oldid=1093954131">https://en.wikipedia.org/w/index.php?title=Symmetric_matrix&#38;oldid=1093954131</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Vega (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:40:00-08:00
-lastmod = 2023-08-02T13:01:22-07:00
+lastmod = 2023-09-24T10:55:13-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,7 +30,7 @@ slug = "f54153f5-fc44-41ce-b4dd-4274c95fbcec"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.05 | 8   | 220.76   | 2024-02-08T19:16:53Z |
-| 1        | 1.30 | 8   | 20.11    | 2023-08-03T03:40:13Z |
+| 1        | 1.30 | 6   | 12.67    | 2023-10-01T07:56:49Z |
 
 (finance)
 
@@ -69,7 +69,7 @@ slug = "f54153f5-fc44-41ce-b4dd-4274c95fbcec"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 148.13   | 2023-08-16T20:35:53Z |
+| 0        | 2.05 | 8   | 323.13   | 2024-07-11T19:39:20Z |
 
 [Option (finance)]({{< relref "option.md" >}}) value and volatility are {{positively}{+/-}@0} correlated
 
@@ -81,7 +81,7 @@ slug = "f54153f5-fc44-41ce-b4dd-4274c95fbcec"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greeks (Finance).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&oldid=1119146188">https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&#38;oldid=1119146188</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greeks (Finance).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&oldid=1119146188">https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&#38;oldid=1119146188</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Joseph Patrick Henrich | The Secret of Our Success"
 author = ["Cash Weaver"]
 date = 2023-01-10T10:27:00-08:00
-lastmod = 2023-08-02T11:20:45-07:00
+lastmod = 2023-09-24T10:22:32-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -34,7 +34,7 @@ See [Scott Alexander | Book Review: The Secret Of Our Success]({{< relref "scott
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 138.55   | 2023-08-19T06:10:45Z |
+| front    | 2.95 | 7   | 416.18   | 2024-10-10T17:05:50Z |
 | back     | 2.50 | 7   | 270.43   | 2024-04-19T14:28:40Z |
 
 [Joseph Patrick Henrich | The Secret of Our Success]({{< relref "joseph_patrick_henrich_the_secret_of_our_success.md" >}})
@@ -56,7 +56,7 @@ See [Scott Alexander | Book Review: The Secret Of Our Success]({{< relref "scott
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 237.02   | 2024-02-26T02:15:26Z |
-| back     | 2.05 | 4   | 12.13    | 2023-08-01T18:30:28Z |
+| back     | 1.90 | 6   | 43.71    | 2023-10-12T08:16:28Z |
 
 ([Joseph Patrick Henrich | The Secret of Our Success]({{< relref "joseph_patrick_henrich_the_secret_of_our_success.md" >}})) Bone divination, augury
 
@@ -87,7 +87,7 @@ The secret of humanity's success is {{culture}@0}.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Book Review: The Secret Of Our Success.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/">https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Book Review: The Secret Of Our Success.” Slate Star Codex. June 5, 2019. <a href="https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/">https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Henrich, Joseph Patrick. 2016. <i>The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter</i>. Princeton: Princeton University Press.</div>
 </div>
 

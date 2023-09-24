@@ -2,7 +2,7 @@
 title = "Greek alphabet"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-03T06:37:00-07:00
-lastmod = 2023-08-02T11:02:57-07:00
+lastmod = 2023-09-24T10:14:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -94,7 +94,7 @@ Pronounced: _bee-tah_
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 3   | 6.00     | 2023-08-07T01:26:30Z |
+| 0        | 2.05 | 6   | 57.11    | 2023-11-16T02:24:15Z |
 | 1        | 2.65 | 9   | 399.86   | 2024-05-15T13:03:50Z |
 
 
@@ -111,7 +111,7 @@ Pronounced: _bee-tah_
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 1        | 2.50 | 8   | 331.09   | 2024-01-08T02:25:36Z |
-| 0        | 2.20 | 10  | 211.69   | 2023-08-27T06:19:44Z |
+| 0        | 2.05 | 11  | 452.62   | 2024-11-25T03:51:37Z |
 
 
 #### Extra {#extra}
@@ -175,7 +175,7 @@ Pronounced: _ehp-sil-on_
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 1        | 2.20 | 9   | 463.34   | 2024-09-23T12:10:46Z |
-| 0        | 1.90 | 8   | 114.07   | 2023-09-10T17:57:20Z |
+| 0        | 1.90 | 9   | 237.93   | 2024-05-06T11:08:09Z |
 
 
 #### Extra {#extra}
@@ -207,7 +207,7 @@ Pronounced: _ee-tah_
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 1        | 2.80 | 8   | 371.31   | 2024-03-01T11:11:21Z |
-| 0        | 2.20 | 6   | 61.00    | 2023-09-13T01:01:01Z |
+| 0        | 2.20 | 7   | 134.38   | 2024-01-30T08:19:46Z |
 
 
 #### Extra {#extra}
@@ -446,7 +446,7 @@ Pronounced: _fee_
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.65 | 8   | 267.09   | 2023-09-14T16:14:24Z |
+| 1        | 2.65 | 9   | 720.28   | 2025-09-07T22:35:57Z |
 | 0        | 2.50 | 8   | 252.73   | 2023-10-14T09:08:30Z |
 
 
@@ -527,7 +527,7 @@ Pronounced: _row_
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 8   | 382.21   | 2024-04-03T18:43:28Z |
-| 1        | 2.20 | 6   | 62.94    | 2023-09-09T13:40:02Z |
+| 1        | 2.35 | 7   | 141.99   | 2024-01-29T23:07:22Z |
 
 
 #### Extra {#extra}
@@ -622,7 +622,7 @@ Pronounced: _thee-tah, th-ay-tah_
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 100.84   | 2023-08-12T17:52:07Z |
+| 0        | 2.65 | 7   | 261.09   | 2024-05-07T01:41:55Z |
 | 1        | 2.65 | 8   | 321.48   | 2024-01-12T15:37:34Z |
 
 
@@ -638,7 +638,7 @@ Pronounced: _up-sil-on_
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.35 | 8   | 233.38   | 2023-08-09T03:57:42Z |
+| 1        | 2.20 | 9   | 479.04   | 2024-12-01T01:35:07Z |
 | 0        | 2.20 | 8   | 271.52   | 2023-11-23T16:10:16Z |
 
 
@@ -655,7 +655,7 @@ Pronounced: _up-sil-on_
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 1        | 2.20 | 9   | 467.33   | 2024-11-09T07:27:46Z |
-| 0        | 1.30 | 10  | 38.60    | 2023-08-11T16:06:57Z |
+| 0        | 1.30 | 11  | 45.17    | 2023-09-26T03:19:44Z |
 
 
 #### Extra {#extra}
@@ -702,7 +702,7 @@ Pronounced: _zee-tah_
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 1.30 | 10  | 45.24    | 2023-09-14T05:24:07Z |
+| 1        | 1.30 | 11  | 55.25    | 2023-11-08T21:02:46Z |
 | 0        | 2.00 | 16  | 322.11   | 2024-05-11T16:00:15Z |
 
 
@@ -716,5 +716,5 @@ Pronounced: _zee-tah_
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greek Alphabet.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Greek_alphabet&oldid=1091244116">https://en.wikipedia.org/w/index.php?title=Greek_alphabet&#38;oldid=1091244116</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greek Alphabet.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Greek_alphabet&oldid=1091244116">https://en.wikipedia.org/w/index.php?title=Greek_alphabet&#38;oldid=1091244116</a>.</div>
 </div>

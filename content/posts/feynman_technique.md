@@ -2,7 +2,7 @@
 title = "Feynman technique"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-13T06:34:00-07:00
-lastmod = 2023-08-02T10:56:24-07:00
+lastmod = 2023-09-24T10:10:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,7 +49,7 @@ slug = "166a96a1-466f-43dd-a9f6-ec18d2ba9b36"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Street, Farnam. 2012. “The Feynman Technique: The Best Way to Learn Anything.” <i>Farnam Street</i>. <a href="https://fs.blog/feynman-technique/">https://fs.blog/feynman-technique/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Street, Farnam. 2012. “The Feynman Technique: The Best Way to Learn Anything.” Farnam Street. April 26, 2012. <a href="https://fs.blog/feynman-technique/">https://fs.blog/feynman-technique/</a>.</div>
 </div>
 
 

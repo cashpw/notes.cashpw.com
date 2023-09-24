@@ -2,7 +2,7 @@
 title = "A priori"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T11:20:00-08:00
-lastmod = 2023-08-02T10:33:24-07:00
+lastmod = 2023-09-24T09:51:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -44,7 +44,7 @@ Knowledge which is independent from current experience; self-evident or self-pro
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.05 | 7   | 168.35   | 2023-11-02T23:43:02Z |
-| 1        | 1.75 | 7   | 86.64    | 2023-09-16T07:04:24Z |
+| 1        | 1.60 | 8   | 145.13   | 2024-02-10T19:00:25Z |
 
 {{[A priori]({{< relref "a_priori.md" >}})}{[Latin]({{< relref "latin.md" >}})}@0} : {{From the earlier}{English}@1}
 
@@ -77,7 +77,7 @@ Knowledge which is independent from current experience; self-evident or self-pro
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A Priori and a Posteriori.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=A_priori_and_a_posteriori&oldid=1113103532">https://en.wikipedia.org/w/index.php?title=A_priori_and_a_posteriori&#38;oldid=1113103532</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A Priori and a Posteriori.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=A_priori_and_a_posteriori&oldid=1113103532">https://en.wikipedia.org/w/index.php?title=A_priori_and_a_posteriori&#38;oldid=1113103532</a>.</div>
 </div>
 
 

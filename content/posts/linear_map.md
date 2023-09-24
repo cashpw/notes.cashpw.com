@@ -2,9 +2,9 @@
 title = "Linear map"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:45:00-08:00
-lastmod = 2023-08-02T11:29:50-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:26:57-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "f68f9024-150b-404f-9c9c-54fe8b720e53"
 +++
@@ -92,14 +92,14 @@ A mapping, \\(V \to W\\), between two modules (eg: vector spaces) which preserve
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 9   | 409.19   | 2024-05-06T21:33:25Z |
-| back     | 2.50 | 6   | 99.40    | 2023-08-09T09:14:06Z |
+| back     | 2.35 | 7   | 252.85   | 2024-04-18T21:08:15Z |
 
 The dimension of the null space of a linear map.
 
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_4">“Rank Nullity Theorem” 2022</a>)
+(<a href="#citeproc_bib_item_4">“Rank–Nullity Theorem” 2022</a>)
 
 
 ### Definition {#definition}
@@ -132,7 +132,7 @@ The set of vectors in the domain, \\(V\\), which are mapped to the zero vector i
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 8   | 310.04   | 2023-12-01T18:01:14Z |
-| 1        | 2.05 | 7   | 88.20    | 2023-09-16T01:33:54Z |
+| 1        | 2.05 | 8   | 187.16   | 2024-03-23T03:03:55Z |
 
 -   {{Kernel of a linear map}@0}
 -   {{Null space}@1}
@@ -145,7 +145,7 @@ The set of vectors in the domain, \\(V\\), which are mapped to the zero vector i
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 8   | 243.32   | 2023-09-02T23:01:15Z |
+| 0        | 2.50 | 9   | 661.96   | 2025-06-27T17:00:51Z |
 | 1        | 2.80 | 8   | 298.21   | 2023-11-11T07:12:22Z |
 
 -   {{\\(\mathcal{L}(V, W)\\)}@0}
@@ -160,10 +160,10 @@ The set of vectors in the domain, \\(V\\), which are mapped to the zero vector i
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Degree of a Polynomial.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&oldid=1095664596">https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&#38;oldid=1095664596</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Kernel (Linear Algebra).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Kernel_(linear_algebra)&oldid=1130150512">https://en.wikipedia.org/w/index.php?title=Kernel_(linear_algebra)&#38;oldid=1130150512</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Linear Map.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Linear_map&oldid=1101683889">https://en.wikipedia.org/w/index.php?title=Linear_map&#38;oldid=1101683889</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Rank Nullity Theorem.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Rank%E2%80%93nullity_theorem&oldid=1105378670">https://en.wikipedia.org/w/index.php?title=Rank%E2%80%93nullity_theorem&#38;oldid=1105378670</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Degree of a Polynomial.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&oldid=1095664596">https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&#38;oldid=1095664596</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Kernel (Linear Algebra).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Kernel_(linear_algebra)&oldid=1130150512">https://en.wikipedia.org/w/index.php?title=Kernel_(linear_algebra)&#38;oldid=1130150512</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Linear Map.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Linear_map&oldid=1101683889">https://en.wikipedia.org/w/index.php?title=Linear_map&#38;oldid=1101683889</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Rank–Nullity Theorem.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Rank%E2%80%93nullity_theorem&oldid=1105378670">https://en.wikipedia.org/w/index.php?title=Rank%E2%80%93nullity_theorem&#38;oldid=1105378670</a>.</div>
 </div>
 
 

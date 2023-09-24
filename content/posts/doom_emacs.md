@@ -2,14 +2,14 @@
 title = "Doom Emacs"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T09:04:00-08:00
-lastmod = 2023-08-02T10:51:16-07:00
+lastmod = 2023-09-24T10:07:26-07:00
 draft = false
 slug = "983095a2-2f92-46a9-868b-c79fa11fbcbb"
 +++
 
 > Doom is a configuration framework for GNU Emacs tailored for Emacs bankruptcy veterans who want less framework in their frameworks, a modicum of stability (and reproducibility) from their package manager, and the performance of a hand rolled config (or better). It can be a foundation for your own config or a resource for Emacs enthusiasts to learn more about our favorite operating system.
 >
-> (<a href="#citeproc_bib_item_1">“Doom Emacs” 2022</a>)
+> (<a href="#citeproc_bib_item_1">“Doom Emacs” [2014] 2022</a>)
 
 See [Emacs]({{< relref "emacs.md" >}}).
 
@@ -19,7 +19,7 @@ See [Emacs]({{< relref "emacs.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Doom Emacs.” 2022. Doom Emacs. <a href="https://github.com/doomemacs/doomemacs">https://github.com/doomemacs/doomemacs</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Doom Emacs.” (2014) 2022. Doom Emacs. <a href="https://github.com/doomemacs/doomemacs">https://github.com/doomemacs/doomemacs</a>.</div>
 </div>
 
 

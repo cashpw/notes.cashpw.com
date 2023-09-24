@@ -2,9 +2,9 @@
 title = "If you can't fly then run"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:52:00-07:00
-lastmod = 2023-08-02T11:10:10-07:00
-tags = ["has-todo", "quote", "has-todo", "quote"]
-categories = ["has-todo", "quote"]
+lastmod = 2023-09-24T10:17:57-07:00
+tags = ["hastodo", "quote", "hastodo", "quote"]
+categories = ["hastodo", "quote"]
 draft = false
 slug = "2158d636-d703-44fc-bf67-c0f6ee7c56b1"
 +++

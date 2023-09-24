@@ -2,7 +2,7 @@
 title = "Indifferent interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:25:00-07:00
-lastmod = 2023-08-02T11:13:03-07:00
+lastmod = 2023-09-24T10:19:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,7 +42,7 @@ Interoperability between the base product, A, and an interoperable product, B, w
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.95 | 7   | 412.36   | 2024-08-03T12:48:31Z |
-| back     | 2.05 | 6   | 55.49    | 2023-08-27T13:05:05Z |
+| back     | 1.90 | 7   | 106.71   | 2023-12-12T06:47:16Z |
 
 [Indifferent interoperability]({{< relref "indifferent_interoperability.md" >}})
 
@@ -57,7 +57,7 @@ Interoperability between the base product, A, and an interoperable product, B, w
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Doctorow, Cory. 2019. “Interoperability: Fix the Internet, Not the Tech Companies.” <i>Electronic Frontier Foundation</i>. <a href="https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-companies">https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-companies</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Doctorow, Cory. 2019. “Interoperability: Fix the Internet, Not the Tech Companies.” Electronic Frontier Foundation. July 11, 2019. <a href="https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-companies">https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-companies</a>.</div>
 </div>
 
 

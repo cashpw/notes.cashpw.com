@@ -2,7 +2,7 @@
 title = "Associative array"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T15:50:00-07:00
-lastmod = 2023-08-02T10:35:11-07:00
+lastmod = 2023-09-24T09:54:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ slug = "efd422ba-2509-48c9-b267-265f3c369462"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.50 | 8   | 232.83   | 2023-09-24T12:35:22Z |
-| front    | 2.05 | 7   | 113.68   | 2023-08-05T05:26:17Z |
+| front    | 1.90 | 8   | 215.48   | 2024-03-08T03:26:21Z |
 
 [Associative array]({{< relref "associative_array.md" >}})
 
@@ -63,7 +63,7 @@ Common API of an [Associative array]({{< relref "associative_array.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Associative Array.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Associative_array&oldid=1086435023">https://en.wikipedia.org/w/index.php?title=Associative_array&#38;oldid=1086435023</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Associative Array.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Associative_array&oldid=1086435023">https://en.wikipedia.org/w/index.php?title=Associative_array&#38;oldid=1086435023</a>.</div>
 </div>
 
 

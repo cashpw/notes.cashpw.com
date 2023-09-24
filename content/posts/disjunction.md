@@ -2,7 +2,7 @@
 title = "Disjunction"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-22T09:31:00-07:00
-lastmod = 2023-08-02T10:50:19-07:00
+lastmod = 2023-09-24T10:06:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "2b16ef01-2da2-4de8-ae0f-eb694367a7f7"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 5   | 27.10    | 2023-08-11T16:30:24Z |
-| 1        | 2.65 | 5   | 44.48    | 2023-08-09T05:21:15Z |
+| 0        | 2.05 | 6   | 55.70    | 2023-10-06T16:00:32Z |
+| 1        | 2.65 | 6   | 128.21   | 2023-12-16T05:53:03Z |
 
 -   {{[Disjunction]({{< relref "disjunction.md" >}})}@0}
 -   {{Or}@1}
@@ -35,5 +35,5 @@ slug = "2b16ef01-2da2-4de8-ae0f-eb694367a7f7"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Logical Disjunction.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Logical_disjunction&oldid=1147207887">https://en.wikipedia.org/w/index.php?title=Logical_disjunction&#38;oldid=1147207887</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Logical Disjunction.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Logical_disjunction&oldid=1147207887">https://en.wikipedia.org/w/index.php?title=Logical_disjunction&#38;oldid=1147207887</a>.</div>
 </div>

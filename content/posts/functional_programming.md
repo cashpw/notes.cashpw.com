@@ -2,7 +2,7 @@
 title = "Functional programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:50:00-07:00
-lastmod = 2023-08-02T10:58:56-07:00
+lastmod = 2023-09-24T10:12:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,7 +42,7 @@ slug = "f690a8ad-4069-4e96-a707-2a57f638c493"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 6   | 75.44    | 2023-10-07T14:35:12Z |
-| 1        | 2.50 | 5   | 35.37    | 2023-08-03T02:06:37Z |
+| 1        | 2.35 | 6   | 81.61    | 2023-10-25T05:55:12Z |
 
 {{[Functional programming]({{< relref "functional_programming.md" >}})}@0} evolved from {{[Lambda calculus]({{< relref "lambda_calculus.md" >}})}@1}.
 
@@ -57,7 +57,7 @@ slug = "f690a8ad-4069-4e96-a707-2a57f638c493"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 6   | 88.19    | 2023-10-12T18:30:42Z |
-| back     | 2.50 | 5   | 44.38    | 2023-08-13T05:52:38Z |
+| back     | 2.35 | 6   | 104.59   | 2023-12-08T05:25:25Z |
 
 [Functional programming]({{< relref "functional_programming.md" >}})
 
@@ -89,7 +89,7 @@ The fundamental operation in {{[Functional programming]({{< relref "functional_p
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Functional Programming.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Functional_programming&oldid=1149919082">https://en.wikipedia.org/w/index.php?title=Functional_programming&#38;oldid=1149919082</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Functional Programming.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Functional_programming&oldid=1149919082">https://en.wikipedia.org/w/index.php?title=Functional_programming&#38;oldid=1149919082</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Functional Programming - HaskellWiki.” n.d. Accessed May 4, 2023. <a href="https://wiki.haskell.org/Functional_programming">https://wiki.haskell.org/Functional_programming</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“There Are Exactly Three Paradigms.” n.d. Accessed May 4, 2023. <a href="http://wiki.c2.com/?ThereAreExactlyThreeParadigms">http://wiki.c2.com/?ThereAreExactlyThreeParadigms</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Tree book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:48:00-07:00
-lastmod = 2023-08-02T12:56:07-07:00
+lastmod = 2023-09-24T10:53:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -66,14 +66,14 @@ Books that lay out a framework of ideas
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “The Three Kinds of Non-Fiction Books.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/">https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “The Three Kinds of Non-Fiction Books.” Commonplace - The Commoncog Blog. May 16, 2018. <a href="https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/">https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
+-   [Narrative book]({{< relref "narrative_book.md" >}})
 -   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
 -   [Cedric Chin | The Three Kinds of Non-Fiction Books]({{< relref "chinThreeKindsNonfiction2018.md" >}})
--   [Narrative book]({{< relref "narrative_book.md" >}})
 -   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
 -   [Branch book]({{< relref "branch_book.md" >}})

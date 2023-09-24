@@ -2,7 +2,7 @@
 title = "Litany against fear"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:03:00-08:00
-lastmod = 2023-08-02T11:30:56-07:00
+lastmod = 2023-09-24T10:27:29-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -66,7 +66,7 @@ Bene Gesserit, (<a href="#citeproc_bib_item_1">Herbert 1999</a>)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 147.81   | 2023-08-20T14:49:46Z |
+| front    | 2.65 | 4   | 15.01    | 2023-09-26T12:56:32Z |
 
 [Litany Against Fear]({{< relref "litany_against_fear.md" >}})
 
@@ -100,7 +100,7 @@ Only I will remain.<br />
 
 ## Backlinks {#backlinks}
 
--   [Focusing techniques]({{< relref "focusing_techniques.md" >}})
 -   [Node types]({{< relref "style_guide.md#node-types" >}})
--   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md" >}})
+-   [Focusing techniques]({{< relref "focusing_techniques.md" >}})
+-   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md#2-dot-1" >}})
 -   [Todos]({{< relref "todos.md" >}})

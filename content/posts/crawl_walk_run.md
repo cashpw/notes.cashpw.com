@@ -2,7 +2,7 @@
 title = "Crawl, walk, run"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:22:00-07:00
-lastmod = 2023-08-02T10:45:21-07:00
+lastmod = 2023-09-24T10:03:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -10,6 +10,8 @@ slug = "3f33e96a-915a-4561-be68-4cef17b84792"
 +++
 
 Crawl, walk, run emphasizes iterative development as way to progressively build a solution as opposed to building it all-at-once. The phrase originates, as far as I can tell, from child development stages though some directly cite (<a href="#citeproc_bib_item_1">King n.d.</a>).
+
+Related: [Shuhari]({{< relref "crawl_walk_run.md" >}}).
 
 
 ## Example(s) {#example--s}
@@ -36,8 +38,8 @@ Answering these follow-up questions ensures you and your team don't burn time so
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 43.09    | 2023-08-16T03:56:00Z |
-| back     | 2.35 | 5   | 31.61    | 2023-08-05T10:07:07Z |
+| front    | 2.50 | 6   | 109.71   | 2023-12-09T05:58:58Z |
+| back     | 2.35 | 6   | 75.40    | 2023-10-20T01:30:24Z |
 
 [Crawl, walk, run]({{< relref "crawl_walk_run.md" >}})
 

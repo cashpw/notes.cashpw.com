@@ -2,7 +2,7 @@
 title = "Scott Alexander | I Can Tolerate Anything Except The Outgroup"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-23T20:41:00-07:00
-lastmod = 2023-08-02T10:33:58-07:00
+lastmod = 2023-09-24T09:52:33-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -86,8 +86,8 @@ I'm not sure Red and Blue tribes (which seem to approximate Rural and Urban amer
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “I Can Tolerate Anything Except The Outgroup.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/">https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Brendan Eich.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Brendan_Eich&oldid=1096478375">https://en.wikipedia.org/w/index.php?title=Brendan_Eich&#38;oldid=1096478375</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “I Can Tolerate Anything Except The Outgroup.” Slate Star Codex. October 1, 2014. <a href="https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/">https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Brendan Eich.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Brendan_Eich&oldid=1096478375">https://en.wikipedia.org/w/index.php?title=Brendan_Eich&#38;oldid=1096478375</a>.</div>
 </div>
 
 [^fn:1]: > On March 24, 2014, Mozilla made the decision to appoint Eich as CEO of Mozilla Corporation. The appointment triggered widespread criticism due to Eich's past political donations – specifically, a 2008 donation of \\$1,000 to California Proposition 8, which called for the banning of same-sex marriage in California, and donations in the amount of \\$2,100 to Proposition 8 supporter Tom McClintock between 2008 and 2010. The Wall Street Journal initially reported that, in protest against his coming appointment, half of Mozilla's board (Gary Kovacs, John Lilly, and Ellen Siminoff) stepped down, leaving Mitchell Baker, Reid Hoffman, and Katharina Borchert. CNET later reported that of the three board members who had left, only Lilly left due to Eich's appointment. Lilly told The New York Times, "I left rather than appoint him", and declined to elaborate further.

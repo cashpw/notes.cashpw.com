@@ -2,7 +2,7 @@
 title = "Tragedy of the commons"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T08:05:00-07:00
-lastmod = 2023-08-02T12:54:42-07:00
+lastmod = 2023-09-24T10:53:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,7 @@ Related: [Prisoner's Dilemma]({{< relref "prisoner_s_dilemma.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 7   | 164.24   | 2023-08-31T22:07:22Z |
+| back     | 2.35 | 8   | 409.45   | 2024-10-15T01:01:40Z |
 | front    | 2.80 | 7   | 337.98   | 2024-05-15T23:44:16Z |
 
 [Tragedy of the commons]({{< relref "tragedy_of_the_commons.md" >}})
@@ -58,7 +58,7 @@ A situation in which individuals who have access to a shared resource, acting in
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tragedy of the Commons.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Tragedy_of_the_commons&oldid=1076616212">https://en.wikipedia.org/w/index.php?title=Tragedy_of_the_commons&#38;oldid=1076616212</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tragedy of the Commons.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Tragedy_of_the_commons&oldid=1076616212">https://en.wikipedia.org/w/index.php?title=Tragedy_of_the_commons&#38;oldid=1076616212</a>.</div>
 </div>
 
 

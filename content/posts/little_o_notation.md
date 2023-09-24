@@ -2,7 +2,7 @@
 title = "Little-o notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:06:00-07:00
-lastmod = 2023-08-02T11:31:12-07:00
+lastmod = 2023-09-24T10:27:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,7 +31,7 @@ To use an analogy:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.20 | 9   | 284.19   | 2024-02-24T19:20:03Z |
-| front    | 2.05 | 7   | 142.71   | 2023-08-15T12:31:30Z |
+| front    | 1.75 | 5   | 18.08    | 2023-10-09T16:16:08Z |
 
 [Little-o notation]({{< relref "little_o_notation.md" >}})
 
@@ -77,11 +77,11 @@ To use an analogy:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Big O Notation.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Big_O_notation&oldid=1093535234">https://en.wikipedia.org/w/index.php?title=Big_O_notation&#38;oldid=1093535234</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Big O Notation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Big_O_notation&oldid=1093535234">https://en.wikipedia.org/w/index.php?title=Big_O_notation&#38;oldid=1093535234</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Asymptotic Notation]({{< relref "asymptotic_notation.md" >}})
 -   [Data structures]({{< relref "data_structures.md" >}})
+-   [Asymptotic Notation]({{< relref "asymptotic_notation.md" >}})

@@ -2,9 +2,9 @@
 title = "Power comes from having something to protect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T17:35:00-08:00
-lastmod = 2023-08-02T11:59:57-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:38:17-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "e1705b21-a504-452f-b809-4d8cbf1ec3d8"
 +++

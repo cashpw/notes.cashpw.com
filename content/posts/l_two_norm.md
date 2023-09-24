@@ -2,7 +2,7 @@
 title = "L-two norm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T08:45:00-08:00
-lastmod = 2023-08-02T11:25:10-07:00
+lastmod = 2023-09-24T10:24:26-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -50,8 +50,8 @@ slug = "a5079f3d-9926-4de1-8b60-5d5e64396a01"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 3.10 | 5   | 57.97    | 2023-08-28T13:27:17Z |
-| 1        | 2.65 | 5   | 39.27    | 2023-08-11T07:52:58Z |
+| 0        | 3.10 | 6   | 183.27   | 2024-02-28T21:29:37Z |
+| 1        | 2.65 | 6   | 106.32   | 2023-11-26T06:46:36Z |
 
 
 #### Source {#source}
@@ -61,11 +61,11 @@ slug = "a5079f3d-9926-4de1-8b60-5d5e64396a01"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Norm (Mathematics).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&oldid=1103683806">https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&#38;oldid=1103683806</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Norm (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&oldid=1103683806">https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&#38;oldid=1103683806</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [L-p norm]({{< relref "norm.md#l-p-norm" >}})
 -   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
+-   [L-p norm]({{< relref "norm.md#l-p-norm" >}})

@@ -2,7 +2,7 @@
 title = "Ben Kuhn | Be Impatient"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:36:00-08:00
-lastmod = 2023-08-02T11:24:30-07:00
+lastmod = 2023-09-24T10:24:07-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -79,12 +79,12 @@ The faster you process information, the faster you can incorporate the result in
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Be Impatient.” <a href="https://www.benkuhn.net/impatient/">https://www.benkuhn.net/impatient/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Be Impatient.” July 23, 2020. <a href="https://www.benkuhn.net/impatient/">https://www.benkuhn.net/impatient/</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Blogroll]({{< relref "blogroll.md" >}})
+-   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Favorites]({{< relref "favorites.md" >}})

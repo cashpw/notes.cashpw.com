@@ -2,7 +2,7 @@
 title = "Ontology"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:33:00-08:00
-lastmod = 2023-08-02T11:51:07-07:00
+lastmod = 2023-09-24T10:35:59-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,7 @@ slug = "05cb0686-d54a-46c6-90d3-8679156b4139"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 7   | 43.60    | 2023-08-16T16:04:10Z |
+| front    | 1.60 | 8   | 76.14    | 2023-11-04T19:16:53Z |
 | back     | 2.20 | 7   | 210.50   | 2024-01-01T12:06:36Z |
 
 [Ontology]({{< relref "ontology.md" >}})
@@ -42,5 +42,5 @@ slug = "05cb0686-d54a-46c6-90d3-8679156b4139"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ontology.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Ontology&oldid=1119358980">https://en.wikipedia.org/w/index.php?title=Ontology&#38;oldid=1119358980</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ontology.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Ontology&oldid=1119358980">https://en.wikipedia.org/w/index.php?title=Ontology&#38;oldid=1119358980</a>.</div>
 </div>

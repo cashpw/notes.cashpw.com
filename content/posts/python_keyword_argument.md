@@ -2,7 +2,7 @@
 title = "Python keyword argument"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-08T09:35:00-08:00
-lastmod = 2023-08-02T12:06:43-07:00
+lastmod = 2023-09-24T10:39:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,7 +28,7 @@ Also see [Asterisk in Python function arguments]({{< relref "asterisk_in_python_
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 138.42   | 2023-09-16T04:52:31Z |
+| front    | 2.80 | 7   | 379.64   | 2024-10-01T14:34:05Z |
 | back     | 2.35 | 7   | 188.37   | 2024-02-02T00:08:17Z |
 
 [Python keyword arguments]({{< relref "python_keyword_argument.md" >}})
@@ -49,7 +49,7 @@ Arguments to a function which are either:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Python Documentation. n.d. “Glossary.” <i>Python Documentation</i>. Accessed February 8, 2023. <a href="https://docs.python.org/3/glossary.html">https://docs.python.org/3/glossary.html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Python Documentation. n.d. “Glossary.” Python documentation. Accessed February 8, 2023. <a href="https://docs.python.org/3/glossary.html">https://docs.python.org/3/glossary.html</a>.</div>
 </div>
 
 

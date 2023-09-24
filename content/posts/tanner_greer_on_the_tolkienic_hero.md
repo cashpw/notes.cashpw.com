@@ -2,7 +2,7 @@
 title = "Tanner Greer | On The Tolkienic Hero"
 author = ["Cash Weaver"]
 date = 2023-01-11T19:32:00-08:00
-lastmod = 2023-08-02T12:41:51-07:00
+lastmod = 2023-09-24T10:49:41-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -32,13 +32,6 @@ slug = "b382d13b-7da2-475a-93e4-a02c03558342"
 >
 > The first point: An aversion to glory is not just the defining character trait of the novel's central hero. **The distinction between greatness and power as goods to be strived for versus greatness and power as burdens to be carried is the distinction that sets apart almost of all of the novel's protagonists from their foils.** It is the defining difference between Frodo and Smeagol, Faramir and Boromir, Aragorn and Denethor, and Gandalf and Saruman. The second trait saves Galadriel in exile; the first corrupts Sauron anew after his master's defeat. If one is allowed to describe objects as foils, this same distinction sets Sauron's rings, key to his strategy for corrupting Middle Earth, as a foil to the methods of the 'wizards' sent from Western lands to save Middle Earth.
 
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2019. “On The Tolkienic Hero.” <i>The Scholar’s Stage</i>. <a href="https://scholars-stage.org/on-the-tolkienic-hero/">https://scholars-stage.org/on-the-tolkienic-hero/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Tolkien, J. R. R. 1994. <i>The Return of the King</i>. The Lord of the Rings, part 3. Boston: Mariner Books.</div>
-</div>
-
 
 ## Flashcards {#flashcards}
 
@@ -47,7 +40,7 @@ slug = "b382d13b-7da2-475a-93e4-a02c03558342"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 128.45   | 2023-08-07T02:52:29Z |
+| front    | 2.80 | 7   | 349.71   | 2024-07-23T08:19:43Z |
 
 Tolkienic heroes and their foils (greatness and power)
 
@@ -65,6 +58,6 @@ Tolkienic heroes and their foils (greatness and power)
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2019. “On The Tolkienic Hero.” <i>The Scholar’s Stage</i>. <a href="https://scholars-stage.org/on-the-tolkienic-hero/">https://scholars-stage.org/on-the-tolkienic-hero/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2019. “On The Tolkienic Hero.” The Scholar’s Stage. March 22, 2019. <a href="https://scholars-stage.org/on-the-tolkienic-hero/">https://scholars-stage.org/on-the-tolkienic-hero/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Tolkien, J. R. R. 1994. <i>The Return of the King</i>. The Lord of the Rings, part 3. Boston: Mariner Books.</div>
 </div>

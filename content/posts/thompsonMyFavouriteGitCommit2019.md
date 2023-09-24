@@ -2,7 +2,7 @@
 title = "David Thompson | My Favourite Git Commit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:26:00-08:00
-lastmod = 2023-08-02T12:51:24-07:00
+lastmod = 2023-09-24T10:52:14-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -86,7 +86,7 @@ Now the tests work! One hour of my life I won't get back..
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Thompson, David. 2019. “My Favourite Git Commit.” <i>Dhwthompson.Com</i>. <a href="https://dhwthompson.com/2019/my-favourite-git-commit">https://dhwthompson.com/2019/my-favourite-git-commit</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Thompson, David. 2019. “My Favourite Git Commit.” dhwthompson.com. August 30, 2019. <a href="https://dhwthompson.com/2019/my-favourite-git-commit">https://dhwthompson.com/2019/my-favourite-git-commit</a>.</div>
 </div>
 
 

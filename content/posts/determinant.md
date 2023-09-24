@@ -2,7 +2,7 @@
 title = "Determinant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-29T07:35:00-07:00
-lastmod = 2023-08-02T10:49:17-07:00
+lastmod = 2023-09-24T10:06:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -115,7 +115,7 @@ Calculate [Determinant]({{< relref "determinant.md" >}}) of a matrix, \\(A\_{n \
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 7   | 166.58   | 2023-09-16T07:02:12Z |
+| 0        | 1.90 | 8   | 297.65   | 2024-07-11T14:33:18Z |
 
 -   \\(\determinant{I}\\) \\(=\\) {{\\(1\\)}@0}
 
@@ -158,7 +158,7 @@ Calculate [Determinant]({{< relref "determinant.md" >}}) of a matrix, \\(A\_{n \
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 1        | 2.05 | 8   | 260.48   | 2024-04-15T02:21:43Z |
-| 0        | 2.65 | 5   | 43.44    | 2023-08-13T12:14:18Z |
+| 0        | 2.50 | 6   | 102.80   | 2023-12-06T10:22:54Z |
 
 
 #### Source {#source}
@@ -168,5 +168,5 @@ Calculate [Determinant]({{< relref "determinant.md" >}}) of a matrix, \\(A\_{n \
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Determinant.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Determinant&oldid=1099706940">https://en.wikipedia.org/w/index.php?title=Determinant&#38;oldid=1099706940</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Determinant.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Determinant&oldid=1099706940">https://en.wikipedia.org/w/index.php?title=Determinant&#38;oldid=1099706940</a>.</div>
 </div>

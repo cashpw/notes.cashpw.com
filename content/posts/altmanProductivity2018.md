@@ -2,7 +2,7 @@
 title = "Sam Altman | Productivity"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:46:00-08:00
-lastmod = 2023-08-02T10:34:33-07:00
+lastmod = 2023-09-24T09:53:13-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -62,5 +62,5 @@ The [Technologist]({{< relref "technologist.md" >}})'s trap; [Solve the problem]
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altman, Sam. 2018. “Productivity.” <i>Sam Altman</i>. <a href="https://blog.samaltman.com/productivity">https://blog.samaltman.com/productivity</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altman, Sam. 2018. “Productivity.” Sam Altman. April 10, 2018. <a href="https://blog.samaltman.com/productivity">https://blog.samaltman.com/productivity</a>.</div>
 </div>

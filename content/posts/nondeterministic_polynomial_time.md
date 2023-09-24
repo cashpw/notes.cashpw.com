@@ -2,7 +2,7 @@
 title = "Nondeterministic polynomial time"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T07:50:00-08:00
-lastmod = 2023-08-02T11:49:04-07:00
+lastmod = 2023-09-24T10:35:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "afffc2b8-0f87-4c45-814c-f0fc7b337339"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 142.98   | 2023-09-03T12:47:54Z |
-| 1        | 2.05 | 7   | 95.98    | 2023-09-03T15:54:12Z |
+| 0        | 2.95 | 7   | 384.68   | 2024-09-23T05:47:23Z |
+| 1        | 2.20 | 8   | 227.85   | 2024-04-20T11:55:40Z |
 
 {{[NP]({{< relref "nondeterministic_polynomial_time.md" >}})}@0} stands for {{[Nondeterministic polynomial time]({{< relref "nondeterministic_polynomial_time.md" >}})}@1}
 
@@ -36,8 +36,8 @@ slug = "afffc2b8-0f87-4c45-814c-f0fc7b337339"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 114.14   | 2023-08-22T22:17:35Z |
-| back     | 2.50 | 6   | 103.30   | 2023-08-15T05:19:38Z |
+| front    | 2.65 | 7   | 302.77   | 2024-06-21T11:05:38Z |
+| back     | 2.35 | 7   | 245.12   | 2024-04-27T17:46:01Z |
 
 [Nondeterministic polynomial time]({{< relref "nondeterministic_polynomial_time.md" >}})
 
@@ -54,7 +54,7 @@ A complexity class of problems which have solutions that are verifiable in [Poly
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“NP (Complexity).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=NP_(complexity)&oldid=1119703601">https://en.wikipedia.org/w/index.php?title=NP_(complexity)&#38;oldid=1119703601</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“NP (Complexity).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=NP_(complexity)&oldid=1119703601">https://en.wikipedia.org/w/index.php?title=NP_(complexity)&#38;oldid=1119703601</a>.</div>
 </div>
 
 

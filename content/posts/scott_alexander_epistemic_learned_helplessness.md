@@ -2,7 +2,7 @@
 title = "Scott Alexander | Epistemic Learned Helplessness"
 author = ["Cash Weaver"]
 date = 2023-01-10T08:59:00-08:00
-lastmod = 2023-08-02T12:21:30-07:00
+lastmod = 2023-09-24T10:43:28-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -58,7 +58,7 @@ Arguments in domains you're not familiar with can _sound_ convincing even if the
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 308.07   | 2024-05-26T05:29:15Z |
-| back     | 1.75 | 4   | 11.08    | 2023-08-11T01:47:58Z |
+| back     | 1.75 | 6   | 30.83    | 2023-09-30T08:43:43Z |
 
 Epistemic [Learned helplessness]({{< relref "learned_helplessness.md" >}})
 
@@ -75,7 +75,7 @@ A condition in which the person is unable to discern a convincing argument from 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Epistemic Learned Helplessness.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/">https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Epistemic Learned Helplessness.” Slate Star Codex. June 4, 2019. <a href="https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/">https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/</a>.</div>
 </div>
 
 

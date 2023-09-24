@@ -2,9 +2,9 @@
 title = "Tim Peck"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:09:00-08:00
-lastmod = 2023-08-02T12:52:05-07:00
-tags = ["has-todo", "person", "has-todo", "person"]
-categories = ["has-todo", "person"]
+lastmod = 2023-09-24T10:52:28-07:00
+tags = ["hastodo", "person", "hastodo", "person"]
+categories = ["hastodo", "person"]
 draft = false
 slug = "de4c984b-79f6-49b6-bc23-1272eb110559"
 +++

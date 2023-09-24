@@ -2,7 +2,7 @@
 title = "Duplex"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:20:00-07:00
-lastmod = 2023-08-02T10:51:42-07:00
+lastmod = 2023-09-24T10:07:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -53,7 +53,7 @@ A [Duplex]({{< relref "duplex.md" >}}) system in which both parties can communic
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 79.59    | 2023-09-05T18:20:07Z |
+| front    | 2.35 | 7   | 168.41   | 2024-02-23T00:26:25Z |
 | back     | 2.65 | 6   | 94.62    | 2023-10-20T04:49:38Z |
 
 [Duplex]({{< relref "duplex.md" >}})
@@ -73,7 +73,7 @@ A point-to-point communication system composed of two or more parties which can 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 6   | 75.13    | 2023-09-17T04:50:16Z |
+| front    | 2.20 | 7   | 158.71   | 2024-02-23T16:12:24Z |
 | back     | 2.20 | 6   | 87.46    | 2023-09-30T06:34:41Z |
 
 [Half-duplex](#half-duplex)
@@ -93,7 +93,7 @@ A [Duplex]({{< relref "duplex.md" >}}) system in which the parties cannot commun
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 6   | 67.91    | 2023-08-21T22:30:46Z |
+| front    | 2.20 | 7   | 163.33   | 2024-02-03T00:36:53Z |
 | back     | 2.35 | 6   | 89.12    | 2023-10-17T18:24:18Z |
 
 [Full-duplex](#full-duplex)
@@ -131,5 +131,5 @@ A [Duplex]({{< relref "duplex.md" >}}) system in which the parties cannot commun
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Duplex (Telecommunications).” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Duplex_(telecommunications)&oldid=1144701632#HALF-DUPLEX">https://en.wikipedia.org/w/index.php?title=Duplex_(telecommunications)&#38;oldid=1144701632#HALF-DUPLEX</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Duplex (Telecommunications).” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Duplex_(telecommunications)&oldid=1144701632#HALF-DUPLEX">https://en.wikipedia.org/w/index.php?title=Duplex_(telecommunications)&#38;oldid=1144701632#HALF-DUPLEX</a>.</div>
 </div>

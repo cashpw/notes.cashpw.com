@@ -2,7 +2,7 @@
 title = "Give the right answers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:04:00-08:00
-lastmod = 2023-08-02T10:35:10-07:00
+lastmod = 2023-09-24T09:54:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,17 +27,14 @@ A [Play to win]({{< relref "play_to_win.md" >}}) strategy which uses answers as 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 8   | 377.38   | 2024-06-06T23:40:38Z |
-| back     | 2.95 | 7   | 207.55   | 2023-08-05T03:32:02Z |
+| back     | 2.95 | 8   | 652.58   | 2025-05-19T05:47:50Z |
 
 [Give the right answers]({{< relref "ask_the_right_questions_give_the_right_answers.md" >}})
 
 
 #### Back {#back}
 
-A [Play to Win]({{< relref "play_to_win.md" >}}) strategy which employs questions and answers as tools to achieve specific ends.
-
--   The right questions is usually an authentic one, but not always.
--   The right answer is usually a true one, but not always.
+A [Play to Win]({{< relref "play_to_win.md" >}}) strategy which employs answers as tools to achieve specific ends.
 
 
 #### Source {#source}
@@ -69,7 +66,7 @@ A [Play to Win]({{< relref "play_to_win.md" >}}) strategy which employs question
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Limoncelli, Tom. n.d. “The Right Answer.” Accessed February 21, 2022. <a href="https://everythingsysadmin.com/2004/12/the-right-answer.html">https://everythingsysadmin.com/2004/12/the-right-answer.html</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Shut the Fuck Up Friday.” n.d. <i>Know Your Meme</i>. Accessed November 30, 2022. <a href="https://knowyourmeme.com/memes/shut-the-fuck-up-friday">https://knowyourmeme.com/memes/shut-the-fuck-up-friday</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Shut the Fuck Up Friday.” n.d. Know Your Meme. Accessed November 30, 2022. <a href="https://knowyourmeme.com/memes/shut-the-fuck-up-friday">https://knowyourmeme.com/memes/shut-the-fuck-up-friday</a>.</div>
 </div>
 
 

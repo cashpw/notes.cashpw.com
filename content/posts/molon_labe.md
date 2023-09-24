@@ -2,7 +2,7 @@
 title = "Molon labe"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-22T09:23:00-08:00
-lastmod = 2023-08-02T11:42:09-07:00
+lastmod = 2023-09-24T10:32:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "51bbc6a1-382e-4827-97ea-75534856341f"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 7   | 239.78   | 2024-02-28T20:30:22Z |
-| 1        | 2.95 | 6   | 129.42   | 2023-09-07T04:55:59Z |
+| 1        | 2.95 | 7   | 358.91   | 2024-08-31T12:42:49Z |
 
 {{[Molon labe]({{< relref "molon_labe.md" >}})}{Ancient greek}@0} :: {{Come and take [them]}{English}@1}
 
@@ -34,5 +34,5 @@ slug = "51bbc6a1-382e-4827-97ea-75534856341f"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Molon Labe.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Molon_labe&oldid=1131324700">https://en.wikipedia.org/w/index.php?title=Molon_labe&#38;oldid=1131324700</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Molon Labe.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Molon_labe&oldid=1131324700">https://en.wikipedia.org/w/index.php?title=Molon_labe&#38;oldid=1131324700</a>.</div>
 </div>

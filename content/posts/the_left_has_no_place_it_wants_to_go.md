@@ -2,7 +2,7 @@
 title = "The left has no place it wants to go"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-07T19:01:00-07:00
-lastmod = 2023-08-02T12:46:27-07:00
+lastmod = 2023-09-24T10:50:47-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -43,7 +43,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 133.16   | 2023-09-09T18:08:57Z |
+| 0        | 2.20 | 8   | 304.38   | 2024-07-10T08:26:06Z |
 
 
 #### Source {#source}
@@ -55,7 +55,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.30 | 9   | 31.62    | 2023-08-06T19:08:26Z |
+| 0        | 1.30 | 11  | 55.31    | 2023-11-12T23:12:46Z |
 
 
 #### Source {#source}
@@ -67,7 +67,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 126.69   | 2023-09-03T07:12:48Z |
+| 0        | 2.20 | 8   | 284.81   | 2024-06-15T09:08:50Z |
 
 
 #### Source {#source}
@@ -77,7 +77,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Reed, Adolph. 2014. “Nothing Left: The Past Is Always Present: Examining Quotidian Life under Jim Crow to Reveal Its Structures Read More.” <i>Harper’s Magazine</i> March 2014 (March). <a href="https://harpers.org/archive/2014/03/nothing-left-2/">https://harpers.org/archive/2014/03/nothing-left-2/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Reed, Adolph. 2014. “Nothing Left: The Past Is Always Present: Examining Quotidian Life under Jim Crow to Reveal Its Structures.” <i>Harper’s Magazine</i>, March 1, 2014. <a href="https://harpers.org/archive/2014/03/nothing-left-2/">https://harpers.org/archive/2014/03/nothing-left-2/</a>.</div>
 </div>
 
 

@@ -2,9 +2,9 @@
 title = "Bayes's theorem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T18:45:00-07:00
-lastmod = 2023-08-02T10:35:47-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T09:54:57-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "b07a1490-3847-4b65-80bb-17e3f4927cfb"
 +++
@@ -40,7 +40,7 @@ slug = "b07a1490-3847-4b65-80bb-17e3f4927cfb"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.80 | 7   | 280.98   | 2023-11-14T16:57:30Z |
-| 1        | 2.35 | 7   | 184.02   | 2023-08-02T03:08:52Z |
+| 1        | 1.60 | 6   | 19.42    | 2023-10-11T00:24:58Z |
 
 
 #### Source {#source}
@@ -68,7 +68,7 @@ slug = "b07a1490-3847-4b65-80bb-17e3f4927cfb"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 9   | 241.23   | 2023-08-17T22:12:48Z |
+| 0        | 2.20 | 10  | 525.29   | 2025-01-27T20:09:50Z |
 | 1        | 2.80 | 8   | 300.63   | 2023-10-31T07:42:42Z |
 
 -   {{\\(\operatorname{P}(M)\\)}@0}
@@ -82,5 +82,5 @@ slug = "b07a1490-3847-4b65-80bb-17e3f4927cfb"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bayes’ Theorem.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Bayes%27_theorem&oldid=1078611835">https://en.wikipedia.org/w/index.php?title=Bayes%27_theorem&#38;oldid=1078611835</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bayes’ Theorem.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Bayes%27_theorem&oldid=1078611835">https://en.wikipedia.org/w/index.php?title=Bayes%27_theorem&#38;oldid=1078611835</a>.</div>
 </div>

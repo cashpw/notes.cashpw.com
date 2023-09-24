@@ -2,9 +2,9 @@
 title = "Retrospective"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T12:27:00-08:00
-lastmod = 2023-08-02T12:15:30-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:41:59-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "0b3c28aa-ab9a-4a99-8dbf-4f22a6e7dee9"
 +++

@@ -2,7 +2,7 @@
 title = "Marc Andreessen | It's Time to Build"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:19:00-08:00
-lastmod = 2023-08-02T11:34:11-07:00
+lastmod = 2023-09-24T10:28:51-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -14,7 +14,7 @@ slug = "c0cb9a04-2e57-4da8-b221-03d84508e801"
 
 ## Summary {#summary}
 
-The first step in problem solving is to [Understand and agree about the problem]({{< relref "stages_of_problem_solving.md" >}}). This essay puts forward a good, albeit vague and almost-too-encompasing, definition of one of our problems: America isn't building enough and we're suffering because of it. The next steps are identifying why we aren't building, what we need to build, how we can build it, and generally constructing a [Theory of change]({{< relref "theory_of_change.md" >}}) for the future in which we can and do build.
+The first step in problem solving is to [Understand and agree about the problem]({{< relref "stages_of_problem_solving.md#understand-and-agree-about-the-problem" >}}). This essay puts forward a good, albeit vague and almost-too-encompasing, definition of one of our problems: America isn't building enough and we're suffering because of it. The next steps are identifying why we aren't building, what we need to build, how we can build it, and generally constructing a [Theory of change]({{< relref "theory_of_change.md" >}}) for the future in which we can and do build.
 
 
 ## Responses {#responses}
@@ -117,7 +117,7 @@ There are systemic reasons underlying the difficulty the American left has with 
 
 Good conversations about progress are ones in which people both critique existing ideas and contribute new ideas. People will -- or at least I tend to -- leave conversations in which criticism dominates. Think of brainstorming, etc, and "there are no bad ideas". [Creativity is a product of volume]({{< relref "how_to_be_more_creative.md" >}}) or, in this context, good ideas are the result of picking through lots of bad ideas.
 
-The first step in problem solving is to [Understand and agree about the problem]({{< relref "stages_of_problem_solving.md" >}}). This essay puts forward a good, albeit vague and almost-too-encompasing, definition of one of our problems: America isn't building enough and we're suffering because of it. The next steps are identifying why we aren't building, what we need to build, how we can build it, and generally constructing a [Theory of change]({{< relref "theory_of_change.md" >}}) for the future in which we can and do build.
+The first step in problem solving is to [Understand and agree about the problem]({{< relref "stages_of_problem_solving.md#understand-and-agree-about-the-problem" >}}). This essay puts forward a good, albeit vague and almost-too-encompasing, definition of one of our problems: America isn't building enough and we're suffering because of it. The next steps are identifying why we aren't building, what we need to build, how we can build it, and generally constructing a [Theory of change]({{< relref "theory_of_change.md" >}}) for the future in which we can and do build.
 
 As for specifics, insofar as a direction is specific, I agree with [Ezra Klein's response]({{< relref "ezra_klein_why_we_can_t_build.md" >}}):
 
@@ -134,7 +134,7 @@ As for specifics, insofar as a direction is specific, I agree with [Ezra Klein's
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.95 | 6   | 176.26   | 2023-10-01T21:20:28Z |
-| back     | 2.80 | 6   | 158.86   | 2023-09-17T13:10:38Z |
+| back     | 2.80 | 7   | 478.57   | 2025-01-08T12:46:46Z |
 
 [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 
@@ -155,7 +155,7 @@ As for specifics, insofar as a direction is specific, I agree with [Ezra Klein's
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 306.46   | 2024-05-22T02:15:33Z |
-| back     | 2.95 | 6   | 141.02   | 2023-08-28T15:59:37Z |
+| back     | 2.65 | 4   | 16.25    | 2023-09-27T18:46:41Z |
 
 ([Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})) Why is it difficult to build?
 
@@ -175,9 +175,9 @@ As for specifics, insofar as a direction is specific, I agree with [Ezra Klein's
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“1978 California Proposition 13.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=1978_California_Proposition_13&oldid=1116476452">https://en.wikipedia.org/w/index.php?title=1978_California_Proposition_13&#38;oldid=1116476452</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Andreessen, Marc. 2020. “It’s Time to Build.” <i>Andreessen Horowitz</i>. <a href="https://a16z.com/2020/04/18/its-time-to-build/">https://a16z.com/2020/04/18/its-time-to-build/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Klein, Ezra. 2020. “Why We Can’t Build.” <i>Vox</i>. <a href="https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus">https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“1978 California Proposition 13.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=1978_California_Proposition_13&oldid=1116476452">https://en.wikipedia.org/w/index.php?title=1978_California_Proposition_13&#38;oldid=1116476452</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Andreessen, Marc. 2020. “It’s Time to Build.” Andreessen Horowitz. April 18, 2020. <a href="https://a16z.com/2020/04/18/its-time-to-build/">https://a16z.com/2020/04/18/its-time-to-build/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Klein, Ezra. 2020. “Why We Can’t Build.” Vox. April 22, 2020. <a href="https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus">https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus</a>.</div>
 </div>
 
 

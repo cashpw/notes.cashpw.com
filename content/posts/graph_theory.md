@@ -2,7 +2,7 @@
 title = "Graph theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T21:24:00-07:00
-lastmod = 2023-08-02T11:02:38-07:00
+lastmod = 2023-09-24T10:14:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "5bc61709-6612-4287-921f-3e2509bd2261"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Graph Theory.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Graph_theory&oldid=1112717140">https://en.wikipedia.org/w/index.php?title=Graph_theory&#38;oldid=1112717140</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Graph Theory.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Graph_theory&oldid=1112717140">https://en.wikipedia.org/w/index.php?title=Graph_theory&#38;oldid=1112717140</a>.</div>
 </div>
 
 
@@ -27,17 +27,17 @@ slug = "5bc61709-6612-4287-921f-3e2509bd2261"
 
 -   [Adjacency matrix]({{< relref "adjacency_matrix.md" >}})
 -   [Forest]({{< relref "forest.md" >}})
+-   [Biconnected graph]({{< relref "biconnected_graph.md" >}})
 -   [Vertex]({{< relref "vertex.md" >}})
 -   [Systems Design]({{< relref "systems_design.md" >}})
--   [Spanning tree]({{< relref "spanning_tree.md" >}})
--   [Undirected graph]({{< relref "undirected_graph.md" >}})
 -   [Graph]({{< relref "graph.md" >}})
--   [Tree rotation]({{< relref "tree_rotation.md" >}})
--   [Cycle (Graph theory)]({{< relref "cycle.md" >}})
--   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
--   [Closure (Graph)]({{< relref "closure_graph.md" >}})
--   [Edge]({{< relref "edge.md" >}})
--   [Component (Graph theory)]({{< relref "component_graph_theory.md" >}})
 -   [Directed graph]({{< relref "directed_graph.md" >}})
--   [Biconnected graph]({{< relref "biconnected_graph.md" >}})
+-   [Tree rotation]({{< relref "tree_rotation.md" >}})
+-   [Edge]({{< relref "edge.md" >}})
+-   [Cycle (Graph theory)]({{< relref "cycle.md" >}})
+-   [Closure (Graph)]({{< relref "closure_graph.md" >}})
+-   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
 -   [Cut (Graph theory)]({{< relref "cut_graph_theory.md" >}})
+-   [Undirected graph]({{< relref "undirected_graph.md" >}})
+-   [Spanning tree]({{< relref "spanning_tree.md" >}})
+-   [Component (Graph theory)]({{< relref "component_graph_theory.md" >}})

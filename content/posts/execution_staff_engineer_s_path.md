@@ -2,9 +2,9 @@
 title = "Execution (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T09:33:00-07:00
-lastmod = 2023-08-02T10:54:20-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:09:18-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "66f9b635-a07d-43c0-963b-46878ded5183"
 +++
@@ -24,8 +24,8 @@ slug = "66f9b635-a07d-43c0-963b-46878ded5183"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 32.05    | 2023-08-09T01:31:18Z |
-| back     | 2.50 | 5   | 38.69    | 2023-08-24T06:32:33Z |
+| front    | 2.20 | 6   | 69.19    | 2023-10-18T05:10:31Z |
+| back     | 2.50 | 6   | 92.43    | 2023-11-26T01:28:56Z |
 
 [Execution (Staff Engineer's Path)]({{< relref "execution_staff_engineer_s_path.md" >}})
 

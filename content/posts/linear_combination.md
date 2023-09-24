@@ -2,9 +2,9 @@
 title = "Linear combination"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T10:21:00-08:00
-lastmod = 2023-08-02T11:29:42-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:26:52-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "ef6a5f11-0991-4fff-8453-5006362138e6"
 +++

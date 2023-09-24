@@ -2,7 +2,7 @@
 title = "Leather-hard"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:48:00-07:00
-lastmod = 2023-08-02T11:27:15-07:00
+lastmod = 2023-09-24T10:25:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ The condition of clay when it has been partially dried to the point where shrink
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Leather-Hard.” 2020. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Leather-hard&oldid=991801984">https://en.wikipedia.org/w/index.php?title=Leather-hard&#38;oldid=991801984</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Leather-Hard.” 2020. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Leather-hard&oldid=991801984">https://en.wikipedia.org/w/index.php?title=Leather-hard&#38;oldid=991801984</a>.</div>
 </div>
 
 

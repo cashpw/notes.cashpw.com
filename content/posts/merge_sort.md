@@ -2,7 +2,7 @@
 title = "Merge sort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:23:00-07:00
-lastmod = 2023-08-02T11:38:39-07:00
+lastmod = 2023-09-24T10:30:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -146,8 +146,8 @@ A recursive [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which sor
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 7   | 209.06   | 2023-09-27T15:55:46Z |
-| 1        | 2.35 | 7   | 169.12   | 2023-08-13T07:04:13Z |
-| 2        | 2.65 | 7   | 168.66   | 2023-08-11T19:47:34Z |
+| 1        | 2.35 | 8   | 377.51   | 2024-09-04T04:57:18Z |
+| 2        | 2.65 | 8   | 410.99   | 2024-09-25T22:52:36Z |
 | 3        | 3.10 | 7   | 307.70   | 2024-03-12T09:43:40Z |
 
 {{[Merge sort]({{< relref "merge_sort.md" >}})}@0}
@@ -166,7 +166,7 @@ A recursive [Sorting algorithm]({{< relref "sorting_algorithm.md" >}}) which sor
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2023-07-12T14:36:37Z |
+| front    | 2.50 | 5   | 31.85    | 2023-10-12T10:03:27Z |
 
 Implement [Merge sort]({{< relref "merge_sort.md" >}}) in [Python]({{< relref "python.md" >}})
 
@@ -183,7 +183,7 @@ Implement [Merge sort]({{< relref "merge_sort.md" >}}) in [Python]({{< relref "p
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Merge Sort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Merge_sort&oldid=1095865966">https://en.wikipedia.org/w/index.php?title=Merge_sort&#38;oldid=1095865966</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Merge Sort.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Merge_sort&oldid=1095865966">https://en.wikipedia.org/w/index.php?title=Merge_sort&#38;oldid=1095865966</a>.</div>
 </div>
 
 

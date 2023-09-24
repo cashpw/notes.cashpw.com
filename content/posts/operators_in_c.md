@@ -2,9 +2,9 @@
 title = "Operators in C++"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-04T16:20:00-07:00
-lastmod = 2023-08-02T11:51:32-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:36:06-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "06278a18-c5ee-48fb-80af-422c748c610d"
 +++
@@ -87,8 +87,8 @@ auto [weight, age] = Foo();
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 0   | 0.00     | 2023-08-01T15:05:15Z |
-| back     | 2.5  | -1  | 0        | 2023-05-04T23:26:53Z |
+| front    | 2.05 | 5   | 25.40    | 2023-10-10T00:34:30Z |
+| back     | 2.50 | 1   | 1.00     | 2023-09-02T14:21:57Z |
 
 Bitwise left shift operator (C++)
 
@@ -111,7 +111,7 @@ int foo(int bar) {
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 2   | 2.00     | 2023-08-03T01:22:36Z |
+| front    | 1.90 | 5   | 21.94    | 2023-10-11T22:26:50Z |
 | back     | 2.5  | -1  | 0        | 2023-05-04T23:28:36Z |
 
 [Put-to operator](#and) (C++)
@@ -137,8 +137,8 @@ int main() {
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 4   | 12.98    | 2023-07-28T13:47:53Z |
-| back     | 2.50 | 0   | 0.00     | 2023-07-26T02:55:14Z |
+| front    | 2.35 | 6   | 59.35    | 2023-11-10T20:51:06Z |
+| back     | 2.35 | 3   | 6.00     | 2023-09-06T18:32:46Z |
 
 [Get-from operator](#and)
 
@@ -166,7 +166,7 @@ int main() {
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 5   | 33.30    | 2023-08-25T10:50:51Z |
+| 0        | 2.20 | 6   | 66.19    | 2023-11-03T19:35:28Z |
 | 1        | 2.5  | -1  | 0        | 2023-05-04T23:31:57Z |
 
 -   {{[Get-from operator](#and)}@0}
@@ -180,7 +180,7 @@ int main() {
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 5   | 34.43    | 2023-09-05T01:11:00Z |
+| 0        | 2.20 | 6   | 80.20    | 2023-11-29T03:56:11Z |
 | 1        | 2.5  | -1  | 0        | 2023-05-04T23:34:22Z |
 
 -   {{[Put-to operator](#and)}@0}
@@ -194,7 +194,7 @@ int main() {
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 5   | 26.37    | 2023-08-12T22:45:52Z |
+| front    | 2.05 | 6   | 50.11    | 2023-10-09T18:43:43Z |
 | back     | 2.5  | -1  | 0        | 2023-05-05T15:14:13Z |
 
 [Indirection operator](#indirection-operator) (C++)
@@ -224,7 +224,7 @@ int main() {
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 1   | 1.00     | 2023-07-28T14:13:03Z |
+| 0        | 1.75 | 2   | 2.00     | 2023-09-23T14:15:08Z |
 | 1        | 2.5  | -1  | 0        | 2023-05-05T15:14:31Z |
 
 -   {{[Indirection operator](#indirection-operator)}@0}
@@ -265,7 +265,7 @@ int main() {
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 35.69    | 2023-08-19T05:52:21Z |
+| front    | 2.50 | 6   | 94.71    | 2023-11-22T16:31:21Z |
 | back     | 2.5  | -1  | 0        | 2023-05-11T15:36:27Z |
 
 `[]` in the following:
@@ -289,7 +289,7 @@ char v[6];
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.84    | 2023-08-14T19:46:58Z |
+| front    | 2.35 | 5   | 36.76    | 2023-09-27T06:53:01Z |
 | back     | 2.5  | -1  | 0        | 2023-05-11T15:37:08Z |
 
 `*` in:
@@ -313,7 +313,7 @@ char* p;
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 31.02    | 2023-08-28T15:26:04Z |
+| front    | 2.20 | 2   | 2.00     | 2023-09-16T15:04:11Z |
 | back     | 2.5  | -1  | 0        | 2023-05-11T15:38:30Z |
 
 `*` in:
@@ -337,8 +337,8 @@ char x = *p;
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 39.69    | 2023-09-04T07:30:12Z |
-| back     | 2.5  | -1  | 0        | 2023-05-11T15:40:41Z |
+| front    | 2.50 | 6   | 103.30   | 2023-12-30T06:12:28Z |
+| back     | 2.50 | 1   | 1.00     | 2023-08-11T14:25:33Z |
 
 `&` in:
 
@@ -361,7 +361,7 @@ char* p = &v[1];
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 4   | 11.20    | 2023-08-09T19:46:06Z |
+| front    | 1.60 | 1   | 1.00     | 2023-09-05T17:59:58Z |
 | back     | 2.50 | 1   | 1.00     | 2023-08-02T15:01:11Z |
 
 `&` in:
@@ -385,7 +385,7 @@ char& p = v[5];
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-08-05T23:41:34Z |
+| front    | 2.35 | 5   | 31.08    | 2023-09-25T17:04:56Z |
 | back     | 2.50 | 1   | 1.00     | 2023-07-21T15:17:24Z |
 
 Function definition with an argument which isn't copied, but also isn't modified.
@@ -407,7 +407,7 @@ void sort(const std::vector<double>& numbers);
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 31.05    | 2023-08-18T14:48:25Z |
+| front    | 2.50 | 6   | 74.50    | 2023-11-04T01:26:16Z |
 | back     | 2.5  | -1  | 0        | 2023-05-11T16:51:29Z |
 
 [Scope resolution operator](#scope-resolution-operator)
@@ -423,11 +423,11 @@ void sort(const std::vector<double>& numbers);
 (<a href="#citeproc_bib_item_2">Stroustrup 2022</a>)
 
 
-### Denotes {#denotes}
+### Denotes (C++) {#denotes--c-plus-plus}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 39.04    | 2023-09-04T14:42:53Z |
+| front    | 2.50 | 6   | 105.64   | 2023-12-22T05:38:16Z |
 | back     | 2.5  | -1  | 0        | 2023-05-12T19:14:53Z |
 
 [Structured binding](#structured-binding)
@@ -447,7 +447,7 @@ void sort(const std::vector<double>& numbers);
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-07-09T01:16:39Z |
+| front    | 2.50 | 5   | 34.03    | 2023-10-09T16:00:24Z |
 
 -   [Structured binding](#structured-binding) (C++)
 -   Destructured binding (Javascript)
@@ -466,7 +466,7 @@ ChatGPT
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Operators in C and C++.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Operators_in_C_and_C%2B%2B&oldid=1152745998">https://en.wikipedia.org/w/index.php?title=Operators_in_C_and_C%2B%2B&#38;oldid=1152745998</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Operators in C and C++.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Operators_in_C_and_C%2B%2B&oldid=1152745998">https://en.wikipedia.org/w/index.php?title=Operators_in_C_and_C%2B%2B&#38;oldid=1152745998</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Stroustrup, Bjarne. 2022. <i>A Tour of C++</i>. Third. C++ in-Depth Series. Boston: Addison-Wesley.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Structured Binding Declaration (since C++17).” n.d. Accessed May 12, 2023. <a href="https://en.cppreference.com/w/cpp/language/structured_binding">https://en.cppreference.com/w/cpp/language/structured_binding</a>.</div>
 </div>

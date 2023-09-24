@@ -2,7 +2,7 @@
 title = "Gamma (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:29:00-08:00
-lastmod = 2023-08-02T10:59:44-07:00
+lastmod = 2023-09-24T10:12:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,8 @@ slug = "258a5932-07d8-4d5c-8442-ef08e3f8d45d"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 6   | 49.88    | 2023-08-15T13:23:42Z |
-| back     | 2.20 | 7   | 146.33   | 2023-08-30T00:26:42Z |
+| front    | 1.60 | 5   | 16.04    | 2023-09-30T15:59:38Z |
+| back     | 2.05 | 8   | 292.95   | 2024-06-18T11:42:20Z |
 
 [Gamma (finance)]({{< relref "gamma.md" >}})
 
@@ -77,8 +77,8 @@ slug = "258a5932-07d8-4d5c-8442-ef08e3f8d45d"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greeks (Finance).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&oldid=1119146188">https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&#38;oldid=1119146188</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“What Is Gamma in Investing and How Is It Used?” n.d. <i>Investopedia</i>. Accessed November 7, 2022. <a href="https://www.investopedia.com/terms/g/gamma.asp">https://www.investopedia.com/terms/g/gamma.asp</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greeks (Finance).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&oldid=1119146188">https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&#38;oldid=1119146188</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“What Is Gamma in Investing and How Is It Used?” n.d. Investopedia. Accessed November 7, 2022. <a href="https://www.investopedia.com/terms/g/gamma.asp">https://www.investopedia.com/terms/g/gamma.asp</a>.</div>
 </div>
 
 

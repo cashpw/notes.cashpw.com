@@ -2,9 +2,9 @@
 title = "Convolution"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:31:00-07:00
-lastmod = 2023-08-02T10:44:44-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:03:05-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "4a246de2-16ae-4fa6-abaa-7cfb533eccdb"
 +++
@@ -61,7 +61,7 @@ An operation on two functions, \\(f\_1\\) and \\(f\_2\\), which produces a third
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 13  | 388.16   | 2024-04-05T19:03:33Z |
-| 1        | 2.05 | 3   | 6.00     | 2023-08-06T00:00:34Z |
+| 1        | 1.75 | 4   | 10.26    | 2023-09-21T19:02:27Z |
 
 
 #### Source {#source}
@@ -97,5 +97,5 @@ An operation on two functions, \\(f\_1\\) and \\(f\_2\\), which produces a third
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Convolution.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Convolution&oldid=1106387921">https://en.wikipedia.org/w/index.php?title=Convolution&#38;oldid=1106387921</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Convolution.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Convolution&oldid=1106387921">https://en.wikipedia.org/w/index.php?title=Convolution&#38;oldid=1106387921</a>.</div>
 </div>

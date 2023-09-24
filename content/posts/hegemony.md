@@ -2,7 +2,7 @@
 title = "Hegemony"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:22:00-07:00
-lastmod = 2023-08-02T11:06:16-07:00
+lastmod = 2023-09-24T10:16:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,11 +39,11 @@ The political, economic, and military predominance of one state over other state
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Hegemony.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Hegemony&oldid=1097335599">https://en.wikipedia.org/w/index.php?title=Hegemony&#38;oldid=1097335599</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Hegemony.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Hegemony&oldid=1097335599">https://en.wikipedia.org/w/index.php?title=Hegemony&#38;oldid=1097335599</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Cultural hegemony]({{< relref "cultural_hegemony.md" >}})
 -   [Unipolarity]({{< relref "polarity.md#unipolarity" >}})
+-   [Cultural hegemony]({{< relref "cultural_hegemony.md" >}})

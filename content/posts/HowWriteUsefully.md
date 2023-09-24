@@ -2,7 +2,7 @@
 title = "Paul Graham | How to Write Usefully"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:42:00-08:00
-lastmod = 2023-08-02T10:33:06-07:00
+lastmod = 2023-09-24T09:51:07-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -71,7 +71,7 @@ Additionally, for Graham, a useful essay is one which says things as simply as p
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.30 | 6   | 12.42    | 2023-08-05T14:09:25Z |
+| 0        | 1.30 | 9   | 27.68    | 2023-10-16T08:05:04Z |
 
 
 #### Source {#source}
@@ -83,7 +83,7 @@ Additionally, for Graham, a useful essay is one which says things as simply as p
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.60 | 9   | 97.40    | 2023-09-07T11:08:33Z |
+| 0        | 1.45 | 10  | 142.10   | 2024-01-27T17:27:26Z |
 
 
 #### Source {#source}

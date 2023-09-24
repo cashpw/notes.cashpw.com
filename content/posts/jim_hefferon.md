@@ -2,9 +2,9 @@
 title = "Jim Hefferon"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-24T08:34:00-07:00
-lastmod = 2023-08-02T11:17:56-07:00
-tags = ["has-todo", "person", "has-todo", "person"]
-categories = ["has-todo", "person"]
+lastmod = 2023-09-24T10:21:20-07:00
+tags = ["hastodo", "person", "hastodo", "person"]
+categories = ["hastodo", "person"]
 draft = false
 slug = "46dd2e05-cb80-4cb6-876e-8bf46551ec2f"
 +++

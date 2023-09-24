@@ -2,9 +2,9 @@
 title = "IEEE 754"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T10:52:00-07:00
-lastmod = 2023-08-02T11:09:46-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:17:49-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "23e97230-9b73-4232-a76e-a1223b9bb70e"
 +++
@@ -55,7 +55,7 @@ slug = "23e97230-9b73-4232-a76e-a1223b9bb70e"
 (<a href="#citeproc_bib_item_2">“IEEE 754” 2022</a>)
 
 
-### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Double-precision floating-point number](#double-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--double-precision-floating-point-number--org606a177--0-are-composed-of}
+### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Double-precision floating-point number](#double-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--double-precision-floating-point-number--org70a4060--0-are-composed-of}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
@@ -77,7 +77,7 @@ slug = "23e97230-9b73-4232-a76e-a1223b9bb70e"
 (<a href="#citeproc_bib_item_2">“IEEE 754” 2022</a>)
 
 
-### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Single-precision floating-point numbers](#single-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--single-precision-floating-point-numbers--org9f6b77d--0-are-composed-of}
+### {{[IEEE 754]({{< relref "ieee_754.md" >}}) [Single-precision floating-point numbers](#single-precision-floating-point-number)}@0} are composed of {#ieee-754--ieee-754-dot-md--single-precision-floating-point-numbers--org5c623be--0-are-composed-of}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
@@ -238,6 +238,6 @@ Represents a number using a significand and an exponent: \\(\text{significand} \
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Fixed-Point Arithmetic.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Fixed-point_arithmetic&oldid=1098963796">https://en.wikipedia.org/w/index.php?title=Fixed-point_arithmetic&#38;oldid=1098963796</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“IEEE 754.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=IEEE_754&oldid=1096894205">https://en.wikipedia.org/w/index.php?title=IEEE_754&#38;oldid=1096894205</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Fixed-Point Arithmetic.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Fixed-point_arithmetic&oldid=1098963796">https://en.wikipedia.org/w/index.php?title=Fixed-point_arithmetic&#38;oldid=1098963796</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“IEEE 754.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=IEEE_754&oldid=1096894205">https://en.wikipedia.org/w/index.php?title=IEEE_754&#38;oldid=1096894205</a>.</div>
 </div>

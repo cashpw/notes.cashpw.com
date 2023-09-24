@@ -2,7 +2,7 @@
 title = "Trie"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-21T19:18:00-07:00
-lastmod = 2023-08-02T12:56:47-07:00
+lastmod = 2023-09-24T10:53:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,7 +27,7 @@ slug = "5b235c79-d75b-4e4e-808a-b43f532b6226"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 118.39   | 2023-08-28T08:47:27Z |
+| front    | 2.50 | 7   | 296.96   | 2024-06-21T14:13:20Z |
 | back     | 2.35 | 7   | 210.06   | 2023-12-20T21:53:53Z |
 
 [Trie]({{< relref "trie.md" >}})
@@ -57,8 +57,8 @@ A k-ary search tree for locating keys within a set.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 6   | 55.45    | 2023-08-24T07:21:49Z |
-| back     | 2.35 | 7   | 127.77   | 2023-08-12T15:04:58Z |
+| front    | 2.05 | 7   | 120.98   | 2023-12-26T13:19:40Z |
+| back     | 2.35 | 8   | 312.59   | 2024-07-01T06:54:49Z |
 
 Applications of a [Trie]({{< relref "trie.md" >}})
 
@@ -85,7 +85,7 @@ Applications of a [Trie]({{< relref "trie.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Trie.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Trie&oldid=1109798282">https://en.wikipedia.org/w/index.php?title=Trie&#38;oldid=1109798282</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Trie.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Trie&oldid=1109798282">https://en.wikipedia.org/w/index.php?title=Trie&#38;oldid=1109798282</a>.</div>
 </div>
 
 

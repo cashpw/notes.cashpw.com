@@ -2,7 +2,7 @@
 title = "Connectivity (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-28T13:17:00-08:00
-lastmod = 2023-08-02T10:44:01-07:00
+lastmod = 2023-09-24T10:02:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -56,8 +56,8 @@ slug = "9ee639e1-b92d-4bdb-8d13-9c53e22bf945"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 134.98   | 2023-09-13T23:12:01Z |
-| 1        | 2.80 | 6   | 116.44   | 2023-09-02T03:46:52Z |
+| 0        | 2.80 | 7   | 380.56   | 2024-09-29T04:23:27Z |
+| 1        | 2.80 | 7   | 322.50   | 2024-07-23T01:31:24Z |
 
 Two vertices, \\(u\\) and \\(v\\), in a graph, \\(G\\), are {{connected}@0} when {{there exists a [Path (graph theory)]({{< relref "path_graph_theory.md" >}}) between \\(u\\) and \\(v\\)}@1}.
 
@@ -109,7 +109,7 @@ A graph with at least one vertex which isn't connected.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Connectivity (Graph Theory).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Connectivity_(graph_theory)&oldid=1120776993#Connected_vertices_and_graphs">https://en.wikipedia.org/w/index.php?title=Connectivity_(graph_theory)&#38;oldid=1120776993#Connected_vertices_and_graphs</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Connectivity (Graph Theory).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Connectivity_(graph_theory)&oldid=1120776993#Connected_vertices_and_graphs">https://en.wikipedia.org/w/index.php?title=Connectivity_(graph_theory)&#38;oldid=1120776993#Connected_vertices_and_graphs</a>.</div>
 </div>
 
 

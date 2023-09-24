@@ -2,9 +2,9 @@
 title = "Ray Dalio | Principles"
 author = ["Cash Weaver"]
 date = 2022-11-25T07:25:00-08:00
-lastmod = 2023-08-02T12:11:14-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:40:46-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "c605b581-d3f9-4eed-a296-f7d72b580db3"
 +++
@@ -33,3 +33,4 @@ slug = "c605b581-d3f9-4eed-a296-f7d72b580db3"
 ## Backlinks {#backlinks}
 
 -   [Tree book]({{< relref "tree_book.md" >}})
+-   [Cedric Chin | The Principles Sequence]({{< relref "ray_dalio_principles.md" >}})

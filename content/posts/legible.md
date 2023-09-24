@@ -2,7 +2,7 @@
 title = "Legible"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T08:21:00-08:00
-lastmod = 2023-08-02T11:27:28-07:00
+lastmod = 2023-09-24T10:25:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -12,6 +12,8 @@ slug = "20ff7657-2f1f-459e-be7e-c59be0b042f0"
 > The legibility described in Seeing Like a State, and imposed by Palmer Eldritch, is singular; It overrides our own experience, forcing us to live within the mind of its creator. The legibility described in Image of the City, and offered by Marco Polo, is faceted; it complements our own experience, allowing us to apply it where we see fit.
 >
 > (<a href="#citeproc_bib_item_2">Tellman n.d.</a>)
+
+Legibility is a [Leaky abstraction]({{< relref "leaky_abstraction.md" >}}).
 
 
 ## As singular {#as-singular}
@@ -59,7 +61,7 @@ A coercive abstraction imposed on people and resources; treating different peopl
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 134.04   | 2023-08-06T20:16:17Z |
+| front    | 2.65 | 7   | 367.56   | 2024-08-10T04:35:22Z |
 | back     | 2.50 | 7   | 253.38   | 2024-03-12T10:18:51Z |
 
 [Legibility]({{< relref "legible.md" >}}) (from the inside)
@@ -77,8 +79,8 @@ A way of seeing, offered by or within a complex environment, to its inhabitants 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 137.14   | 2023-09-13T17:38:45Z |
-| back     | 2.80 | 6   | 121.03   | 2023-09-08T16:33:01Z |
+| front    | 2.80 | 7   | 359.91   | 2024-09-08T13:03:47Z |
+| back     | 2.80 | 7   | 315.16   | 2024-07-21T02:59:58Z |
 
 [Legibility]({{< relref "legible.md" >}}) (from the outside)
 
@@ -98,7 +100,7 @@ A way of seeing, offered by or within a complex environment, to its inhabitants 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 235.93   | 2024-03-05T23:15:43Z |
-| back     | 2.50 | 6   | 88.39    | 2023-08-08T00:36:06Z |
+| back     | 2.50 | 7   | 200.63   | 2024-02-25T06:27:45Z |
 
 [Legibility]({{< relref "legible.md" >}}) (from the inside)
 
@@ -114,7 +116,7 @@ A way of seeing, offered by or within a complex environment, to its inhabitants 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2017. “Book Review: Seeing Like A State.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/">https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2017. “Book Review: Seeing Like A State.” Slate Star Codex. March 16, 2017. <a href="https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/">https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Tellman, Zach. n.d. “Two Concepts of Legibility.” Accessed November 11, 2022. <a href="https://ideolalia.com/essays/two-concepts-of-legibility.html">https://ideolalia.com/essays/two-concepts-of-legibility.html</a>.</div>
 </div>
 

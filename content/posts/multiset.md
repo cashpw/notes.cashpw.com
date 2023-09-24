@@ -2,7 +2,7 @@
 title = "Multiset"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:34:00-08:00
-lastmod = 2023-08-02T11:44:13-07:00
+lastmod = 2023-09-24T10:33:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,8 @@ slug = "f25031de-9b51-4f1c-9166-f155b2d3250c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 134.48   | 2023-09-13T11:13:34Z |
-| back     | 2.65 | 6   | 124.52   | 2023-09-12T04:42:02Z |
+| front    | 2.80 | 7   | 397.26   | 2024-10-15T21:13:09Z |
+| back     | 2.65 | 7   | 316.54   | 2024-07-25T01:25:31Z |
 
 [Multiset]({{< relref "multiset.md" >}})
 
@@ -49,7 +49,7 @@ A [Set]({{< relref "set.md" >}}) which allows for duplicate values.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 3   | 6.00     | 2023-08-05T23:53:55Z |
+| front    | 2.05 | 6   | 59.72    | 2023-11-18T17:17:21Z |
 | back     | 2.65 | 7   | 236.98   | 2024-02-25T00:39:20Z |
 
 Multiplicity ([Multiset]({{< relref "multiset.md" >}}))
@@ -69,7 +69,7 @@ The count of instances of a particular value within a [Multiset]({{< relref "mul
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 142.05   | 2023-09-18T15:32:06Z |
+| front    | 2.35 | 2   | 2.00     | 2023-09-23T14:19:57Z |
 | back     | 2.80 | 6   | 148.10   | 2023-10-01T20:05:14Z |
 
 Cardinality ([Multiset]({{< relref "multiset.md" >}}))
@@ -87,7 +87,7 @@ The sum of the multiplicities of the multiset.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Multiset.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Multiset&oldid=1131376702">https://en.wikipedia.org/w/index.php?title=Multiset&#38;oldid=1131376702</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Multiset.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Multiset&oldid=1131376702">https://en.wikipedia.org/w/index.php?title=Multiset&#38;oldid=1131376702</a>.</div>
 </div>
 
 

@@ -4,14 +4,14 @@ title = """
   """
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:42:00-08:00
-lastmod = 2023-08-02T10:34:39-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T09:53:21-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "2186c8f0-1b18-484f-8e22-9e0cd328b498"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">“Evergreen Notes Permit Smooth Incremental Progress in Writing (``Incremental Writing’’)” n.d.</a>)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">“Evergreen Notes Permit Smooth Incremental Progress in Writing (‘Incremental Writing’)” n.d.</a>)
 
 > Evergreen notes' atomic size ([Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)) and link structures ([Evergreen Notes Should Be Densely Linked]({{< relref "EvergreenNotesShouldBeDenselyLinked.md" >}})) make it easy to stop and resume work. This helps us [Close open loops](https://notes.andymatuschak.org/z8d4eJNaKrVDGTFpqRnQUPRkexB7K6XbcffAV).
 >
@@ -27,10 +27,11 @@ Also see [Incremental writing]({{< relref "incremental_writing.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Evergreen Notes Permit Smooth Incremental Progress in Writing (``Incremental Writing’’).” n.d. <i>Andy’s Working Notes</i>. Accessed November 7, 2022. <a href="https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97">https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Evergreen Notes Permit Smooth Incremental Progress in Writing (‘Incremental Writing’).” n.d. Andy’s working notes. Accessed November 7, 2022. <a href="https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97">https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Incremental writing]({{< relref "incremental_writing.md" >}})
+-   [Andy Matuschak | Write Notes for Yourself by Default, Disregarding Audience]({{< relref "matuschak_andy_write_notes_for_yourself_by_default_disregarding_audience.md" >}})

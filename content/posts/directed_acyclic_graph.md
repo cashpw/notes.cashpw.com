@@ -2,7 +2,7 @@
 title = "Directed acyclic graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:25:00-08:00
-lastmod = 2023-08-02T10:50:05-07:00
+lastmod = 2023-09-24T10:06:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,8 +48,8 @@ A directed graph which can be topologically sorted.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 145.90   | 2023-08-06T12:06:42Z |
-| 1        | 2.95 | 6   | 153.54   | 2023-08-21T05:26:23Z |
+| 0        | 2.95 | 7   | 400.24   | 2024-09-09T20:21:30Z |
+| 1        | 2.80 | 7   | 405.04   | 2024-10-03T16:11:08Z |
 
 -   {{[Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})}@0}
 -   {{[DAG]({{< relref "directed_acyclic_graph.md" >}})}@1}
@@ -76,12 +76,12 @@ A [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}}) can be {{
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Directed Acyclic Graph.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Directed_acyclic_graph&oldid=1114643590">https://en.wikipedia.org/w/index.php?title=Directed_acyclic_graph&#38;oldid=1114643590</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Directed Acyclic Graph.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Directed_acyclic_graph&oldid=1114643590">https://en.wikipedia.org/w/index.php?title=Directed_acyclic_graph&#38;oldid=1114643590</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
 -   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})

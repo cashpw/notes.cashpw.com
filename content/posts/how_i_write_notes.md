@@ -2,7 +2,7 @@
 title = "How I write notes"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T20:21:00-08:00
-lastmod = 2023-08-02T11:08:00-07:00
+lastmod = 2023-09-24T10:16:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,3 +28,4 @@ Also see [Why I write notes]({{< relref "why_i_write_notes.md" >}}).
 -   [Goals for 2022]({{< relref "goals_for_2022.md" >}})
 -   [README]({{< relref "readme.md" >}})
 -   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
+-   [My one-bag packing list]({{< relref "how_i_write_notes.md" >}})

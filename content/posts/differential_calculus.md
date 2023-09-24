@@ -2,7 +2,7 @@
 title = "Differential calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:57:00-08:00
-lastmod = 2023-08-02T10:49:31-07:00
+lastmod = 2023-09-24T10:06:17-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -63,20 +63,20 @@ Properties of [Differentiation]({{< relref "differential_calculus.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Differential Calculus.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Differential_calculus&oldid=1131291175">https://en.wikipedia.org/w/index.php?title=Differential_calculus&#38;oldid=1131291175</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Differentiation Rules.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Differentiation_rules&oldid=1129937443">https://en.wikipedia.org/w/index.php?title=Differentiation_rules&#38;oldid=1129937443</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Differential Calculus.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Differential_calculus&oldid=1131291175">https://en.wikipedia.org/w/index.php?title=Differential_calculus&#38;oldid=1131291175</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Differentiation Rules.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Differentiation_rules&oldid=1129937443">https://en.wikipedia.org/w/index.php?title=Differentiation_rules&#38;oldid=1129937443</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Power rule]({{< relref "power_rule.md" >}})
--   [Quotient rule]({{< relref "quotient_rule.md" >}})
--   [Calculus]({{< relref "calculus.md" >}})
--   [Constant term rule]({{< relref "constant_term_rule.md" >}})
--   [Lagrange's notation]({{< relref "lagrange_s_notation.md" >}})
--   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
 -   [Product rule]({{< relref "product_rule.md" >}})
--   [Derivative (math)]({{< relref "derivative.md" >}})
+-   [Constant term rule]({{< relref "constant_term_rule.md" >}})
+-   [Calculus]({{< relref "calculus.md" >}})
+-   [Lagrange's notation]({{< relref "lagrange_s_notation.md" >}})
+-   [Quotient rule]({{< relref "quotient_rule.md" >}})
 -   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Derivative (math)]({{< relref "derivative.md" >}})
 -   [Antiderivative]({{< relref "antiderivative.md" >}})
+-   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})

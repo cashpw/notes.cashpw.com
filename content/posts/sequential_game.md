@@ -2,7 +2,7 @@
 title = "Sequential game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:47:00-07:00
-lastmod = 2023-08-02T12:23:51-07:00
+lastmod = 2023-09-24T10:44:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,7 +29,7 @@ Contrast with a [Simultaneous game]({{< relref "simultaneous_game.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.20 | 7   | 181.80   | 2023-10-28T09:30:30Z |
-| 1        | 3.10 | 6   | 167.29   | 2023-08-12T23:22:23Z |
+| 1        | 2.95 | 7   | 518.93   | 2025-01-25T13:24:27Z |
 
 {{[Sequential game]({{< relref "sequential_game.md" >}})}@0} ([Game theory]({{< relref "game_theory.md" >}}); turn order)
 
@@ -79,7 +79,7 @@ A game in which one player chooses their action before the others choose theirs.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sequential Game.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Sequential_game&oldid=1061444610">https://en.wikipedia.org/w/index.php?title=Sequential_game&#38;oldid=1061444610</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sequential Game.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Sequential_game&oldid=1061444610">https://en.wikipedia.org/w/index.php?title=Sequential_game&#38;oldid=1061444610</a>.</div>
 </div>
 
 

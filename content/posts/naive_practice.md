@@ -2,7 +2,7 @@
 title = "Naive practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:57:00-07:00
-lastmod = 2023-08-02T11:44:22-07:00
+lastmod = 2023-09-24T10:33:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "05730e41-9875-4ad5-aa5e-e497ed1f7af0"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 40.35    | 2023-08-15T12:37:30Z |
-| back     | 2.65 | 5   | 42.30    | 2023-08-19T22:24:29Z |
+| front    | 2.65 | 6   | 99.92    | 2023-11-27T21:35:40Z |
+| back     | 2.65 | 6   | 117.77   | 2023-12-21T09:40:58Z |
 
 [Naive practice]({{< relref "naive_practice.md" >}})
 
@@ -39,7 +39,7 @@ Practice through repetition alone.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Problems with Deliberate Practice.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-problems-with-deliberate-practice/">https://commoncog.com/blog/the-problems-with-deliberate-practice/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Problems with Deliberate Practice.” Commonplace - The Commoncog Blog. January 29, 2019. <a href="https://commoncog.com/blog/the-problems-with-deliberate-practice/">https://commoncog.com/blog/the-problems-with-deliberate-practice/</a>.</div>
 </div>
 
 

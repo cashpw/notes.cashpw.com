@@ -2,7 +2,7 @@
 title = "Floyd-Warshall algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T10:12:00-08:00
-lastmod = 2023-08-02T10:57:32-07:00
+lastmod = 2023-09-24T10:11:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "d0a89ea1-4add-495b-8df4-1f27e9de71c6"
 
 > In computer science, the Floyd–Warshall algorithm (also known as Floyd's algorithm, the Roy–Warshall algorithm, the Roy–Floyd algorithm, or the WFI algorithm) is an algorithm for finding shortest paths in a directed weighted graph with positive or negative edge weights (but with no negative cycles).
 >
-> (<a href="#citeproc_bib_item_1">“FloydWarshall Algorithm” 2022</a>)
+> (<a href="#citeproc_bib_item_1">“Floyd–Warshall Algorithm” 2022</a>)
 
 
 ## Algorithm {#algorithm}
@@ -41,7 +41,7 @@ In pseudocode:
 >
 > ```
 >
-> (<a href="#citeproc_bib_item_1">“FloydWarshall Algorithm” 2022</a>)
+> (<a href="#citeproc_bib_item_1">“Floyd–Warshall Algorithm” 2022</a>)
 
 
 ## Complexity {#complexity}
@@ -64,7 +64,7 @@ Time complexity for [Floyd-Warshall algorithm]({{< relref "floyd_warshall_algori
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_1">“FloydWarshall Algorithm” 2022</a>)
+(<a href="#citeproc_bib_item_1">“Floyd–Warshall Algorithm” 2022</a>)
 
 
 ### Cloze {#cloze}
@@ -78,14 +78,14 @@ Space complexity for [Floyd-Warshall algorithm]({{< relref "floyd_warshall_algor
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_1">“FloydWarshall Algorithm” 2022</a>)
+(<a href="#citeproc_bib_item_1">“Floyd–Warshall Algorithm” 2022</a>)
 
 
 ### Describe {#describe}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 130.61   | 2023-08-14T07:18:24Z |
+| front    | 2.65 | 7   | 328.06   | 2024-07-13T17:23:05Z |
 | back     | 2.20 | 7   | 150.31   | 2023-10-30T08:45:45Z |
 
 [Floyd-Warshall algorithm]({{< relref "floyd_warshall_algorithm.md" >}}) for solving [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})
@@ -116,7 +116,7 @@ for k from 1 to |V|
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_1">“FloydWarshall Algorithm” 2022</a>)
+(<a href="#citeproc_bib_item_1">“Floyd–Warshall Algorithm” 2022</a>)
 
 
 ### Cloze {#cloze}
@@ -130,14 +130,14 @@ Nested iteration in [Floyd-Warshall algorithm]({{< relref "floyd_warshall_algori
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_1">“FloydWarshall Algorithm” 2022</a>)
+(<a href="#citeproc_bib_item_1">“Floyd–Warshall Algorithm” 2022</a>)
 
 
 ### Normal {#normal}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 7   | 90.69    | 2023-08-08T09:21:17Z |
+| front    | 1.45 | 5   | 12.20    | 2023-09-22T18:23:55Z |
 
 [Floyd-Warshall algorithm]({{< relref "floyd_warshall_algorithm.md" >}})
 
@@ -162,16 +162,16 @@ for k from 1 to |V|
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_1">“FloydWarshall Algorithm” 2022</a>)
+(<a href="#citeproc_bib_item_1">“Floyd–Warshall Algorithm” 2022</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“FloydWarshall Algorithm.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Floyd%E2%80%93Warshall_algorithm&oldid=1113259725">https://en.wikipedia.org/w/index.php?title=Floyd%E2%80%93Warshall_algorithm&#38;oldid=1113259725</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Floyd–Warshall Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Floyd%E2%80%93Warshall_algorithm&oldid=1113259725">https://en.wikipedia.org/w/index.php?title=Floyd%E2%80%93Warshall_algorithm&#38;oldid=1113259725</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
 -   [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})
+-   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})

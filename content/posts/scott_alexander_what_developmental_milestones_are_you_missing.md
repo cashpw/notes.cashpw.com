@@ -2,7 +2,7 @@
 title = "Scott Alexander | What Developmental Milestones Are You Missing?"
 author = ["Cash Weaver"]
 date = 2023-01-12T07:43:00-08:00
-lastmod = 2023-08-02T12:21:51-07:00
+lastmod = 2023-09-24T10:43:33-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -72,5 +72,5 @@ Related to this idea: [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAl
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2015. “What Developmental Milestones Are You Missing?” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/">https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2015. “What Developmental Milestones Are You Missing?” Slate Star Codex. November 4, 2015. <a href="https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/">https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/</a>.</div>
 </div>

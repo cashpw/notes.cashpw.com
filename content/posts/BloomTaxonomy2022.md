@@ -2,7 +2,7 @@
 title = "Bloom's taxonomy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:38:00-08:00
-lastmod = 2023-08-02T10:32:59-07:00
+lastmod = 2023-09-24T09:50:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -113,6 +113,8 @@ Bloom proposed a revision in 2001 ((<a href="#citeproc_bib_item_1">Anderson and 
 >
 > (<a href="#citeproc_bib_item_3">“Bloom’s Taxonomy” 2022</a>)
 
+This corresponds to [Sensemaking]({{< relref "sensemaking.md" >}}) (<a href="#citeproc_bib_item_4">Klein and Baxter 2006</a>).
+
 
 #### Example {#example}
 
@@ -125,7 +127,7 @@ Bloom proposed a revision in 2001 ((<a href="#citeproc_bib_item_1">Anderson and 
 
 > Red undies attract all evil cats
 >
-> (<a href="#citeproc_bib_item_4">“mnemonics.co - Bloom’s Taxonomy” n.d.</a>)
+> (<a href="#citeproc_bib_item_5">“mnemonics.co - Bloom’s Taxonomy” n.d.</a>)
 
 
 ## Related {#related}
@@ -169,7 +171,7 @@ In order from least complex to most complex:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 8   | 116.59   | 2023-09-03T06:55:49Z |
+| front    | 1.60 | 9   | 174.89   | 2024-02-26T10:52:57Z |
 
 -   Red: [Remember (Bloom's Taxonomy)](#remember--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 -   Undies: [Understand (Bloom's Taxonomy)](#understand--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
@@ -181,7 +183,7 @@ In order from least complex to most complex:
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_4">“mnemonics.co - Bloom’s Taxonomy” n.d.</a>)
+(<a href="#citeproc_bib_item_5">“mnemonics.co - Bloom’s Taxonomy” n.d.</a>)
 
 
 ### Describe {#describe}
@@ -209,7 +211,7 @@ Learning objective concerned with retaining facts, terms, and basic concepts
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.05 | 7   | 132.05   | 2023-11-10T02:50:00Z |
-| back     | 2.20 | 7   | 123.21   | 2023-09-03T20:47:27Z |
+| back     | 2.05 | 8   | 234.82   | 2024-05-01T18:52:30Z |
 
 [Understand (Bloom's Taxonomy)](#understand--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 
@@ -248,7 +250,7 @@ Learning objective concerned with using acquired knowledge to solve problems in 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.45 | 6   | 20.28    | 2023-08-16T20:51:44Z |
+| front    | 1.30 | 8   | 29.92    | 2023-10-18T13:54:43Z |
 | back     | 2.65 | 7   | 369.65   | 2024-08-03T15:33:13Z |
 
 [Analyze (Bloom's Taxonomy)](#analyze--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
@@ -274,7 +276,7 @@ Learning objective concerned with:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 7   | 15.10    | 2023-08-13T17:27:18Z |
+| front    | 1.30 | 5   | 10.89    | 2023-09-28T20:23:56Z |
 | back     | 2.50 | 7   | 207.68   | 2023-11-30T10:00:23Z |
 
 [Evaluate (Bloom's Taxonomy)](#evaluate--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
@@ -298,8 +300,8 @@ Learning objective concerned with:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 143.50   | 2023-08-20T02:45:21Z |
-| back     | 2.80 | 4   | 16.33    | 2023-08-13T23:04:47Z |
+| front    | 2.35 | 8   | 341.43   | 2024-07-30T02:59:13Z |
+| back     | 2.65 | 5   | 41.79    | 2023-10-06T10:09:39Z |
 
 [Create (Bloom's Taxonomy)](#create--bloom-s-taxonomy-bloomtaxonomy2022-dot-md)
 
@@ -352,8 +354,8 @@ Learning objective concerned with building a structure or pattern from diverse e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 133.77   | 2023-08-13T16:02:17Z |
-| back     | 2.80 | 6   | 128.80   | 2023-08-09T12:22:09Z |
+| front    | 2.80 | 7   | 371.30   | 2024-09-01T20:35:37Z |
+| back     | 2.50 | 4   | 13.54    | 2023-09-25T01:46:39Z |
 
 [Apply (Bloom's Taxonomy)](#apply--bloom-s-taxonomy-bloomtaxonomy2022-dot-md) (Apples)
 
@@ -387,7 +389,7 @@ Learning objective concerned with building a structure or pattern from diverse e
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 323.02   | 2024-06-13T15:28:13Z |
-| back     | 2.80 | 6   | 137.45   | 2023-08-04T04:31:11Z |
+| back     | 2.05 | 4   | 12.41    | 2023-10-04T00:07:07Z |
 
 [Evaluate (Bloom's Taxonomy)](#evaluate--bloom-s-taxonomy-bloomtaxonomy2022-dot-md) (Apples)
 
@@ -403,7 +405,7 @@ Learning objective concerned with building a structure or pattern from diverse e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 136.40   | 2023-08-07T01:30:13Z |
+| front    | 2.95 | 7   | 374.13   | 2024-08-16T18:19:43Z |
 | back     | 2.65 | 7   | 218.36   | 2024-01-11T23:36:05Z |
 
 [Create (Bloom's Taxonomy)](#create--bloom-s-taxonomy-bloomtaxonomy2022-dot-md) (Apples)
@@ -420,7 +422,7 @@ Learning objective concerned with building a structure or pattern from diverse e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 121.40   | 2023-09-02T07:11:31Z |
+| 0        | 2.65 | 7   | 345.23   | 2024-08-15T20:55:38Z |
 
 {{[Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})}@0} developed [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
 
@@ -433,17 +435,18 @@ Learning objective concerned with building a structure or pattern from diverse e
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Anderson, Lorin W., and David R. Krathwohl, eds. 2001. <i>A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives</i>. Complete ed. New York: Longman.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Armstrong, Patricia. n.d. “Bloom’s Taxonomy.” <i>Vanderbilt University</i>. Accessed November 15, 2022. <a href="https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/">https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Bloom’s Taxonomy.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Bloom%27s_taxonomy&oldid=1069354181">https://en.wikipedia.org/w/index.php?title=Bloom%27s_taxonomy&#38;oldid=1069354181</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“mnemonics.co - Bloom’s Taxonomy.” n.d. Accessed November 7, 2022. <a href="https://www.mnemonics.co/education/bloom-s-taxonomy">https://www.mnemonics.co/education/bloom-s-taxonomy</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Armstrong, Patricia. n.d. “Bloom’s Taxonomy.” Vanderbilt University. Accessed November 15, 2022. <a href="https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/">https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Bloom’s Taxonomy.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Bloom%27s_taxonomy&oldid=1069354181">https://en.wikipedia.org/w/index.php?title=Bloom%27s_taxonomy&#38;oldid=1069354181</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Klein, Gary, and Holly C. Baxter. 2006. “Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning.” In <i>Interservice/Industry Training Systems and Education Conference, Orlando, Florida</i>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>“mnemonics.co - Bloom’s Taxonomy.” n.d. Accessed November 7, 2022. <a href="https://www.mnemonics.co/education/bloom-s-taxonomy">https://www.mnemonics.co/education/bloom-s-taxonomy</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md#memory-in-educational-settings" >}})
--   [Higher order questions]({{< relref "higher_order_questions.md" >}})
 -   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})
 -   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
--   [Lower order questions]({{< relref "lower_order_questions.md" >}})
+-   [Higher order questions]({{< relref "higher_order_questions.md" >}})
 -   [Socratic questioning]({{< relref "socratic_questioning.md" >}})
+-   [Lower order questions]({{< relref "lower_order_questions.md" >}})

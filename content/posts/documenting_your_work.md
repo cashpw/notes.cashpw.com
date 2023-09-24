@@ -2,9 +2,9 @@
 title = "Document your work"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T14:37:00-08:00
-lastmod = 2023-08-02T10:50:42-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:06:59-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "c74e3129-38af-45f8-bd2b-8a6fa5a0cad0"
 +++

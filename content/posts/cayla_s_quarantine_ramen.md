@@ -2,7 +2,7 @@
 title = "Cayla's quarantine ramen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-30T11:30:00-07:00
-lastmod = 2023-08-02T10:39:51-07:00
+lastmod = 2023-09-24T09:58:20-07:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false

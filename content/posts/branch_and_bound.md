@@ -2,9 +2,9 @@
 title = "Branch and bound"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T09:43:00-08:00
-lastmod = 2023-08-02T10:38:03-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T09:57:02-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "d1f735d6-a30b-494f-a536-7042b6fd0329"
 +++
@@ -24,7 +24,7 @@ slug = "d1f735d6-a30b-494f-a536-7042b6fd0329"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 244.25   | 2024-03-01T07:37:02Z |
-| back     | 2.80 | 6   | 134.80   | 2023-08-24T11:47:01Z |
+| back     | 2.80 | 7   | 366.97   | 2024-08-28T12:52:43Z |
 
 [Branch and bound]({{< relref "branch_and_bound.md" >}})
 
@@ -43,7 +43,7 @@ An algorithm design paradigm which explores the [Tree]({{< relref "tree.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 123.47   | 2023-08-02T03:00:05Z |
+| front    | 2.65 | 7   | 341.95   | 2024-07-11T13:56:37Z |
 | back     | 2.35 | 7   | 212.90   | 2024-02-29T23:02:44Z |
 
 [Branch and bound]({{< relref "branch_and_bound.md" >}})
@@ -61,5 +61,5 @@ An algorithm design paradigm which explores the [Tree]({{< relref "tree.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Branch and Bound.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Branch_and_bound&oldid=1131333406">https://en.wikipedia.org/w/index.php?title=Branch_and_bound&#38;oldid=1131333406</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Branch and Bound.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Branch_and_bound&oldid=1131333406">https://en.wikipedia.org/w/index.php?title=Branch_and_bound&#38;oldid=1131333406</a>.</div>
 </div>

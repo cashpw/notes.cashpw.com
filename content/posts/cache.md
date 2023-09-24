@@ -2,7 +2,7 @@
 title = "Cache"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T09:19:00-07:00
-lastmod = 2023-08-02T10:39:04-07:00
+lastmod = 2023-09-24T09:57:50-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "0bd96e38-6a09-4053-b5e8-cf707b03a3e5"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 98.73    | 2023-09-16T09:06:08Z |
-| back     | 2.50 | 6   | 86.99    | 2023-09-01T14:19:41Z |
+| front    | 2.50 | 7   | 232.15   | 2024-05-07T02:33:49Z |
+| back     | 2.50 | 7   | 224.32   | 2024-04-16T01:40:05Z |
 
 [Cache]({{< relref "cache.md" >}})
 
@@ -39,12 +39,12 @@ A hardware or software component which stores data for use in responding to futu
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cache (Computing).” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Cache_(computing)&oldid=1140828004">https://en.wikipedia.org/w/index.php?title=Cache_(computing)&#38;oldid=1140828004</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cache (Computing).” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Cache_(computing)&oldid=1140828004">https://en.wikipedia.org/w/index.php?title=Cache_(computing)&#38;oldid=1140828004</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Cache replacement policy]({{< relref "cache_replacement_policy.md" >}})
--   [Least frequently used]({{< relref "least_frequently_used.md" >}})
 -   [Least recently used]({{< relref "least_recently_used.md" >}})
+-   [Least frequently used]({{< relref "least_frequently_used.md" >}})

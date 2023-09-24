@@ -2,7 +2,7 @@
 title = "Pseudo-polynomial time"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T17:46:00-08:00
-lastmod = 2023-08-02T12:04:09-07:00
+lastmod = 2023-09-24T10:39:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,8 @@ For example, the number of integers you can represent with \\(n\\) bits grows ex
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 119.39   | 2023-08-29T09:06:35Z |
-| back     | 2.65 | 6   | 126.39   | 2023-09-14T01:35:22Z |
+| front    | 2.65 | 7   | 345.95   | 2024-08-09T13:51:56Z |
+| back     | 2.35 | 3   | 6.00     | 2023-09-25T23:57:04Z |
 
 [Pseudo-polynomial time]({{< relref "pseudo_polynomial_time.md" >}})
 
@@ -49,7 +49,7 @@ A running time which is polynomial in terms of the numeric value of the input. T
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 110.15   | 2023-08-18T22:25:43Z |
+| front    | 2.35 | 7   | 248.46   | 2024-04-26T00:19:21Z |
 
 [Polynomial time]({{< relref "polynomial_time.md" >}}) and [Pseudo-polynomial time]({{< relref "pseudo_polynomial_time.md" >}})
 
@@ -70,8 +70,8 @@ For \\(\bigo{n^k}\\), the \\(n\\) refers to:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“P (Complexity).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=P_(complexity)&oldid=1113888801">https://en.wikipedia.org/w/index.php?title=P_(complexity)&#38;oldid=1113888801</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Pseudo-Polynomial Time.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Pseudo-polynomial_time&oldid=1090337054">https://en.wikipedia.org/w/index.php?title=Pseudo-polynomial_time&#38;oldid=1090337054</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“P (Complexity).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=P_(complexity)&oldid=1113888801">https://en.wikipedia.org/w/index.php?title=P_(complexity)&#38;oldid=1113888801</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Pseudo-Polynomial Time.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Pseudo-polynomial_time&oldid=1090337054">https://en.wikipedia.org/w/index.php?title=Pseudo-polynomial_time&#38;oldid=1090337054</a>.</div>
 </div>
 
 

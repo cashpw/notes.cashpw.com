@@ -2,9 +2,9 @@
 title = "Locator map (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T19:47:00-07:00
-lastmod = 2023-08-02T11:31:31-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:27:48-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "1b17b268-7192-4117-9d4f-1b67dcc091ee"
 +++
@@ -92,8 +92,8 @@ It's a useful tool for answering questions like:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 30.22    | 2023-08-03T06:53:22Z |
-| back     | 1.90 | 5   | 22.77    | 2023-08-05T19:12:57Z |
+| front    | 2.35 | 6   | 73.52    | 2023-10-17T03:35:27Z |
+| back     | 1.75 | 7   | 65.55    | 2023-11-17T01:49:49Z |
 
 [Locator map (Staff Engineer's Path)]({{< relref "locator_map_staff_engineer_s_path.md" >}})
 

@@ -2,7 +2,7 @@
 title = "Zettelkasten"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T18:03:00-08:00
-lastmod = 2023-08-02T10:33:19-07:00
+lastmod = 2023-09-24T09:51:36-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -25,7 +25,7 @@ Related: [Personal knowledge management]({{< relref "personal_knowledge_manageme
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Zettelkasten.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Zettelkasten&oldid=1060558761">https://en.wikipedia.org/w/index.php?title=Zettelkasten&#38;oldid=1060558761</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Zettelkasten.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Zettelkasten&oldid=1060558761">https://en.wikipedia.org/w/index.php?title=Zettelkasten&#38;oldid=1060558761</a>.</div>
 </div>
 
 

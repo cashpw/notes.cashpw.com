@@ -2,7 +2,7 @@
 title = "Antisymmetric relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:11:00-07:00
-lastmod = 2023-08-02T10:34:55-07:00
+lastmod = 2023-09-24T09:53:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,7 +27,7 @@ slug = "875bfbf2-61ad-4f0a-9833-245dc5adc561"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 4   | 7.45     | 2023-08-02T13:47:48Z |
+| front    | 1.30 | 5   | 9.62     | 2023-09-22T03:14:43Z |
 | back     | 2.20 | 7   | 158.46   | 2023-11-06T02:35:11Z |
 
 [Antisymmetric relation]({{< relref "antisymmetric_relation.md" >}})
@@ -49,7 +49,7 @@ or equivalently,
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Antisymmetric Relation.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Antisymmetric_relation&oldid=1065605400">https://en.wikipedia.org/w/index.php?title=Antisymmetric_relation&#38;oldid=1065605400</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Antisymmetric Relation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Antisymmetric_relation&oldid=1065605400">https://en.wikipedia.org/w/index.php?title=Antisymmetric_relation&#38;oldid=1065605400</a>.</div>
 </div>
 
 

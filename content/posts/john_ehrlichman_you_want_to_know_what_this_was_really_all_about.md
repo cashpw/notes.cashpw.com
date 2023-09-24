@@ -2,7 +2,7 @@
 title = "John Ehrlichman | You want to know what this was really all about?"
 author = ["Cash Weaver"]
 date = 2023-03-06T06:35:00-08:00
-lastmod = 2023-08-02T11:18:20-07:00
+lastmod = 2023-09-24T10:21:30-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -25,12 +25,6 @@ slug = "a0010be4-80dd-447b-a35f-528e5d484499"
 >
 > Did we know we were lying about the drugs? Of course we did.
 
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Drug War Confessional.” n.d. <i>Vera Institute of Justice</i>. Accessed March 6, 2023. <a href="https://www.vera.org/reimagining-prison-webumentary/the-past-is-never-dead/drug-war-confessional">https://www.vera.org/reimagining-prison-webumentary/the-past-is-never-dead/drug-war-confessional</a>.</div>
-</div>
-
 
 ## Flashcards {#flashcards}
 
@@ -40,7 +34,7 @@ slug = "a0010be4-80dd-447b-a35f-528e5d484499"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 198.19   | 2024-02-14T04:31:08Z |
-| back     | 2.50 | 6   | 89.44    | 2023-08-12T01:23:23Z |
+| back     | 2.50 | 7   | 227.04   | 2024-04-13T13:45:26Z |
 
 [John Ehrlichman]({{< relref "john_ehrlichman.md" >}}) on the real reason for the war on drugs
 
@@ -59,5 +53,5 @@ slug = "a0010be4-80dd-447b-a35f-528e5d484499"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Drug War Confessional.” n.d. <i>Vera Institute of Justice</i>. Accessed March 6, 2023. <a href="https://www.vera.org/reimagining-prison-webumentary/the-past-is-never-dead/drug-war-confessional">https://www.vera.org/reimagining-prison-webumentary/the-past-is-never-dead/drug-war-confessional</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Drug War Confessional.” n.d. Vera Institute of Justice. Accessed March 6, 2023. <a href="https://www.vera.org/reimagining-prison-webumentary/the-past-is-never-dead/drug-war-confessional">https://www.vera.org/reimagining-prison-webumentary/the-past-is-never-dead/drug-war-confessional</a>.</div>
 </div>

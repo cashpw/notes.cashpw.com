@@ -2,7 +2,7 @@
 title = "Jessica Leung"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:34:00-08:00
-lastmod = 2023-08-02T11:17:42-07:00
+lastmod = 2023-09-24T10:21:15-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -16,7 +16,7 @@ slug = "7229c3b7-41df-4122-88ab-0a808cc272af"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 148.03   | 2023-08-31T17:05:12Z |
+| front    | 2.20 | 8   | 354.83   | 2024-08-21T10:17:13Z |
 
 [Jessica Leung]({{< relref "jessica_leung.md" >}})
 

@@ -2,7 +2,7 @@
 title = "Chesterton's fence"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:11:00-08:00
-lastmod = 2023-08-02T10:41:22-07:00
+lastmod = 2023-09-24T10:00:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ The principle that reforms shouldn't be made until the reasoning behind the exis
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Chesterton’s Fence.” 2018. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=Chesterton%27s_fence&oldid=49763111">https://en.wiktionary.org/w/index.php?title=Chesterton%27s_fence&#38;oldid=49763111</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Chesterton’s Fence.” 2018. In <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=Chesterton%27s_fence&oldid=49763111">https://en.wiktionary.org/w/index.php?title=Chesterton%27s_fence&#38;oldid=49763111</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Presupposition"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T16:11:00-07:00
-lastmod = 2023-08-02T12:01:07-07:00
+lastmod = 2023-09-24T10:38:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -60,7 +60,7 @@ An implicit assumption relating to a statement/question/etc whose truth is taken
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Presupposition.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Presupposition&oldid=1062502141">https://en.wikipedia.org/w/index.php?title=Presupposition&#38;oldid=1062502141</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Presupposition.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Presupposition&oldid=1062502141">https://en.wikipedia.org/w/index.php?title=Presupposition&#38;oldid=1062502141</a>.</div>
 </div>
 
 

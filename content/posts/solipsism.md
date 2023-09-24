@@ -2,7 +2,7 @@
 title = "Solipsism"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T07:35:00-08:00
-lastmod = 2023-08-02T12:29:42-07:00
+lastmod = 2023-09-24T10:46:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "8bd2ca47-4972-4869-89c3-b4e82a23042b"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 122.16   | 2023-08-13T16:38:02Z |
-| back     | 1.90 | 3   | 6.00     | 2023-08-04T15:00:37Z |
+| front    | 2.80 | 7   | 361.69   | 2024-08-16T08:34:35Z |
+| back     | 1.60 | 6   | 27.05    | 2023-10-15T00:23:14Z |
 
 [Solipsism]({{< relref "solipsism.md" >}})
 
@@ -39,5 +39,5 @@ Knowledge of anything outside one's own mind is unsure; the external world and o
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Solipsism.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Solipsism&oldid=1134581724">https://en.wikipedia.org/w/index.php?title=Solipsism&#38;oldid=1134581724</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Solipsism.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Solipsism&oldid=1134581724">https://en.wikipedia.org/w/index.php?title=Solipsism&#38;oldid=1134581724</a>.</div>
 </div>

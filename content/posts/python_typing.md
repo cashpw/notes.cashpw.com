@@ -2,9 +2,9 @@
 title = "Python typing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-25T09:29:00-07:00
-lastmod = 2023-08-02T12:07:10-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:39:54-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "7667a3b3-727e-42e4-a2e6-a3d7c7169366"
 +++

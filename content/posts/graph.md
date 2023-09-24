@@ -2,7 +2,7 @@
 title = "Graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:42:00-07:00
-lastmod = 2023-08-02T11:02:21-07:00
+lastmod = 2023-09-24T10:14:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,7 +25,7 @@ slug = "8bff4dfc-8073-4d45-ab89-7b3f97323327"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Graph (Discrete Mathematics).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Graph_(discrete_mathematics)&oldid=1093859772">https://en.wikipedia.org/w/index.php?title=Graph_(discrete_mathematics)&#38;oldid=1093859772</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Graph (Discrete Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Graph_(discrete_mathematics)&oldid=1093859772">https://en.wikipedia.org/w/index.php?title=Graph_(discrete_mathematics)&#38;oldid=1093859772</a>.</div>
 </div>
 
 
@@ -34,21 +34,21 @@ slug = "8bff4dfc-8073-4d45-ab89-7b3f97323327"
 -   [Adjacency list]({{< relref "adjacency_list.md" >}})
 -   [Adjacency matrix]({{< relref "adjacency_matrix.md" >}})
 -   [Forest]({{< relref "forest.md" >}})
--   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
--   [Vertex]({{< relref "vertex.md" >}})
--   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
--   [Spanning tree]({{< relref "spanning_tree.md" >}})
--   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
--   [Undirected graph]({{< relref "undirected_graph.md" >}})
--   [Depth-first search]({{< relref "depth_first_search.md" >}})
--   [Cycle (Graph theory)]({{< relref "cycle.md" >}})
--   [Tree]({{< relref "tree.md" >}})
--   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
--   [Ali Kemal Sinop, Lisa Fawcett, Sreenivas Gollapudi, Kostas Kollias | Robust Routing Using Electrical Flows]({{< relref "ali_kemal_sinop_lisa_fawcett_sreenivas_gollapudi_kostas_kollias_robust_routing_using_electrical_flows.md" >}})
--   [Directed graph]({{< relref "directed_graph.md" >}})
--   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
 -   [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})
+-   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
 -   [Biconnected graph]({{< relref "biconnected_graph.md" >}})
+-   [Vertex]({{< relref "vertex.md" >}})
+-   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Planar graph]({{< relref "planar_graph.md" >}})
+-   [Depth-first search]({{< relref "depth_first_search.md" >}})
+-   [Directed graph]({{< relref "directed_graph.md" >}})
+-   [Ali Kemal Sinop, Lisa Fawcett, Sreenivas Gollapudi, Kostas Kollias | Robust Routing Using Electrical Flows]({{< relref "ali_kemal_sinop_lisa_fawcett_sreenivas_gollapudi_kostas_kollias_robust_routing_using_electrical_flows.md" >}})
+-   [Cycle (Graph theory)]({{< relref "cycle.md" >}})
+-   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
 -   [Widest path problem]({{< relref "widest_path_problem.md" >}})
+-   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
+-   [Undirected graph]({{< relref "undirected_graph.md" >}})
+-   [Spanning tree]({{< relref "spanning_tree.md" >}})
+-   [Tree]({{< relref "tree.md" >}})
+-   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
 -   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})

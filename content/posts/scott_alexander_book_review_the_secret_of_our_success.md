@@ -2,7 +2,7 @@
 title = "Scott Alexander | Book Review: The Secret Of Our Success"
 author = ["Cash Weaver"]
 date = 2023-01-09T09:54:00-08:00
-lastmod = 2023-08-02T12:21:12-07:00
+lastmod = 2023-09-24T10:43:21-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -286,7 +286,7 @@ For basically all of history, using reason could {{get you killed}@0}.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Book Review: The Secret Of Our Success.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/">https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Book Review: The Secret Of Our Success.” Slate Star Codex. June 5, 2019. <a href="https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/">https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Henrich, Joseph Patrick. 2016. <i>The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter</i>. Princeton: Princeton University Press.</div>
 </div>
 

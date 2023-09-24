@@ -2,7 +2,7 @@
 title = "Andrew Goldberg"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-21T09:44:00-07:00
-lastmod = 2023-08-02T10:34:35-07:00
+lastmod = 2023-09-24T09:53:15-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

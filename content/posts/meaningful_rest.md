@@ -2,7 +2,7 @@
 title = "Meaningful rest"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:53:00-07:00
-lastmod = 2023-08-02T11:37:38-07:00
+lastmod = 2023-09-24T10:30:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -86,7 +86,7 @@ A type of rest which rejuvenates the individual.
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nanda, Neel. n.d.-a. “Meaningful Rest.” Accessed May 23, 2021. <a href="https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest">https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d.-b. “Post 29: Meaningful Rest.” <i>Neel Nanda</i>. Accessed November 29, 2022. <a href="https://www.neelnanda.io/blog/29-meaningful-rest">https://www.neelnanda.io/blog/29-meaningful-rest</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d.-b. “Post 29: Meaningful Rest.” Neel Nanda. Accessed November 29, 2022. <a href="https://www.neelnanda.io/blog/29-meaningful-rest">https://www.neelnanda.io/blog/29-meaningful-rest</a>.</div>
 </div>
 
 

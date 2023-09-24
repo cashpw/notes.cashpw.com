@@ -2,7 +2,7 @@
 title = "2sum"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T15:59:00-08:00
-lastmod = 2023-08-02T10:32:52-07:00
+lastmod = 2023-09-24T09:50:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,7 +54,7 @@ The trick is using a [Hash map]({{< relref "hash_table.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 116.31   | 2023-08-23T21:42:34Z |
+| 0        | 2.65 | 7   | 337.82   | 2024-07-28T10:43:27Z |
 
 [2sum]({{< relref "2sum.md" >}}) can be solved in {{\\(\bigo{n}\\), linear}@0} time.
 
@@ -78,7 +78,7 @@ The trick to solving [2sum]({{< relref "2sum.md" >}}) is {{using a [Hash map]({{
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>LeetCode. n.d. “Two Sum.” <i>Leetcode</i>. Accessed February 8, 2023. <a href="https://leetcode.com/problems/two-sum/description">https://leetcode.com/problems/two-sum/description</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>LeetCode. n.d. “Two Sum.” LeetCode. Accessed February 8, 2023. <a href="https://leetcode.com/problems/two-sum/description">https://leetcode.com/problems/two-sum/description</a>.</div>
 </div>
 
 

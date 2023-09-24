@@ -2,9 +2,9 @@
 title = "Bertolt Brecht | A worker reads history"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T07:12:00-08:00
-lastmod = 2023-08-02T10:33:29-07:00
-tags = ["has-todo", "poem", "has-todo", "poem"]
-categories = ["has-todo", "poem"]
+lastmod = 2023-09-24T09:51:51-07:00
+tags = ["hastodo", "poem", "hastodo", "poem"]
+categories = ["hastodo", "poem"]
 draft = false
 slug = "5ad7ef93-a1e3-4b69-85bc-b5c5c550df73"
 +++
@@ -54,7 +54,7 @@ So many questions.<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 129.96   | 2023-09-05T21:41:08Z |
+| 0        | 2.35 | 8   | 311.15   | 2024-07-14T17:57:03Z |
 | 1        | 2.35 | 7   | 196.73   | 2023-12-22T09:44:45Z |
 
 
@@ -80,7 +80,7 @@ So many questions.<br />
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 388.74   | 2024-08-20T08:55:59Z |
-| back     | 2.80 | 6   | 142.50   | 2023-08-15T07:19:59Z |
+| back     | 2.35 | 4   | 14.55    | 2023-09-23T05:28:13Z |
 
 [A worker reads history]({{< relref "a_worker_reads_history.md" >}})
 
@@ -102,3 +102,8 @@ A poem, by [Bertolt Brecht]({{< relref "bertolt_brecht.md" >}}), which emphasize
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Bertholt, Brecht. n.d. “A Worker Reads History.” Accessed November 15, 2022. <a href="https://allpoetry.com/A-Worker-Reads-History">https://allpoetry.com/A-Worker-Reads-History</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Favorites]({{< relref "favorites.md" >}})

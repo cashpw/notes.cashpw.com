@@ -2,7 +2,7 @@
 title = "Monica (Personal relationship manager)"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T22:51:00-08:00
-lastmod = 2023-08-02T11:42:17-07:00
+lastmod = 2023-09-24T10:32:19-07:00
 draft = false
 slug = "d047a069-d533-4767-b847-4c00a9d7029e"
 +++

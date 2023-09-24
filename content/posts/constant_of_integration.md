@@ -2,7 +2,7 @@
 title = "Constant of integration"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T09:55:00-08:00
-lastmod = 2023-08-02T10:44:07-07:00
+lastmod = 2023-09-24T10:02:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "1b39fa71-69fb-416c-9031-0927bc006a3b"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 138.73   | 2023-09-14T16:10:55Z |
-| back     | 2.65 | 6   | 130.47   | 2023-09-11T09:18:50Z |
+| front    | 3.10 | 7   | 427.26   | 2024-11-18T05:13:06Z |
+| back     | 2.65 | 7   | 375.84   | 2024-09-21T08:52:48Z |
 
 [Constant of integration]({{< relref "constant_of_integration.md" >}})
 
@@ -41,5 +41,5 @@ slug = "1b39fa71-69fb-416c-9031-0927bc006a3b"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Constant of Integration.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Constant_of_integration&oldid=1127887875">https://en.wikipedia.org/w/index.php?title=Constant_of_integration&#38;oldid=1127887875</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Constant of Integration.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Constant_of_integration&oldid=1127887875">https://en.wikipedia.org/w/index.php?title=Constant_of_integration&#38;oldid=1127887875</a>.</div>
 </div>

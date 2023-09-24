@@ -2,7 +2,7 @@
 title = "Incident (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-13T09:32:00-07:00
-lastmod = 2023-08-02T11:12:46-07:00
+lastmod = 2023-09-24T10:19:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "a7ef48ed-6671-4bd2-a83b-816535c38f5e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 36.04    | 2023-08-17T13:43:35Z |
-| back     | 2.35 | 5   | 33.05    | 2023-08-17T15:28:41Z |
+| front    | 2.35 | 6   | 78.03    | 2023-11-09T17:16:16Z |
+| back     | 2.35 | 6   | 76.36    | 2023-11-10T23:25:21Z |
 
 [Incident (Graph theory)]({{< relref "incident_graph_theory.md" >}})
 
@@ -42,5 +42,5 @@ A term describing both:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Botero, Gregor. 2012. “Answer to ‘Graph Theory: Adjacency Vs Incident’.” <i>Mathematics Stack Exchange</i>. <a href="https://math.stackexchange.com/a/190712">https://math.stackexchange.com/a/190712</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Botero, Gregor. 2012. “Answer to ‘Graph Theory: Adjacency Vs Incident’.” Mathematics Stack Exchange. September 4, 2012. <a href="https://math.stackexchange.com/a/190712">https://math.stackexchange.com/a/190712</a>.</div>
 </div>

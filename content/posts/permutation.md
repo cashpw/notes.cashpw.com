@@ -2,7 +2,7 @@
 title = "Permutation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T07:35:00-08:00
-lastmod = 2023-08-02T11:56:25-07:00
+lastmod = 2023-09-24T10:37:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -50,8 +50,8 @@ Also see: [Combination]({{< relref "combination.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 105.55   | 2023-09-02T05:31:10Z |
-| back     | 2.65 | 6   | 108.74   | 2023-09-06T18:26:33Z |
+| front    | 2.20 | 4   | 13.98    | 2023-10-01T22:38:08Z |
+| back     | 2.65 | 7   | 262.56   | 2024-05-28T05:46:20Z |
 
 [Permutation]({{< relref "permutation.md" >}})
 
@@ -70,7 +70,7 @@ An ordering of a set of elements.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 94.47    | 2023-08-25T01:05:50Z |
+| 0        | 2.35 | 7   | 211.76   | 2024-03-25T09:16:05Z |
 
 There are {{\\(n!\\)}@0} permutations for a set of size \\(n\\).
 
@@ -82,11 +82,12 @@ There are {{\\(n!\\)}@0} permutations for a set of size \\(n\\).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Combination.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Combination&oldid=1135443908">https://en.wikipedia.org/w/index.php?title=Combination&#38;oldid=1135443908</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Permutation.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Permutation&oldid=1125465268">https://en.wikipedia.org/w/index.php?title=Permutation&#38;oldid=1125465268</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Combination.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Combination&oldid=1135443908">https://en.wikipedia.org/w/index.php?title=Combination&#38;oldid=1135443908</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Permutation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Permutation&oldid=1125465268">https://en.wikipedia.org/w/index.php?title=Permutation&#38;oldid=1125465268</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Combination]({{< relref "combination.md" >}})
+-   [My one-bag packing list]({{< relref "permutation.md" >}})

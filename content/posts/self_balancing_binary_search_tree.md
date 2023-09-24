@@ -2,9 +2,9 @@
 title = "Self-balancing binary search tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:50:00-07:00
-lastmod = 2023-08-02T12:23:43-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:44:10-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "b3fc99fa-5b7e-4e45-83c2-6d283aecca9a"
 +++
@@ -27,7 +27,7 @@ slug = "b3fc99fa-5b7e-4e45-83c2-6d283aecca9a"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.30 | 2   | 2.00     | 2023-08-01T23:54:29Z |
+| back     | 1.30 | 7   | 18.24    | 2023-10-06T04:45:32Z |
 | front    | 2.75 | 9   | 260.60   | 2023-12-10T08:03:53Z |
 
 [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}})
@@ -68,7 +68,7 @@ A node-based [Binary search tree]({{< relref "binary_search_tree.md" >}}) which 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 8   | 233.90   | 2023-09-17T12:37:44Z |
+| front    | 2.50 | 9   | 631.95   | 2025-06-11T14:44:21Z |
 
 [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}}) and [Height-balanced binary tree]({{< relref "height_balanced_binary_tree.md" >}})
 
@@ -88,7 +88,7 @@ For an arbitrary number of insertions and deletions:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Self-Balancing Binary Search Tree.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Self-balancing_binary_search_tree&oldid=1092928206">https://en.wikipedia.org/w/index.php?title=Self-balancing_binary_search_tree&#38;oldid=1092928206</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Self-Balancing Binary Search Tree.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Self-balancing_binary_search_tree&oldid=1092928206">https://en.wikipedia.org/w/index.php?title=Self-balancing_binary_search_tree&#38;oldid=1092928206</a>.</div>
 </div>
 
 

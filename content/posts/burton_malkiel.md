@@ -2,7 +2,7 @@
 title = "Burton Malkiel"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:13:00-08:00
-lastmod = 2023-08-02T10:38:46-07:00
+lastmod = 2023-09-24T09:57:32-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -16,7 +16,7 @@ slug = "e943172b-03c0-4a37-881d-5c8e620c9ec7"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.45 | 9   | 83.92    | 2023-08-04T13:59:18Z |
+| front    | 1.30 | 10  | 113.20   | 2023-11-25T19:57:36Z |
 
 [Burton Malkiel]({{< relref "burton_malkiel.md" >}})
 

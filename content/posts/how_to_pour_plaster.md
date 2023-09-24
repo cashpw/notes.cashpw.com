@@ -2,7 +2,7 @@
 title = "How to pour plaster"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T12:20:00-08:00
-lastmod = 2023-08-02T11:08:29-07:00
+lastmod = 2023-09-24T10:17:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ Plaster is useful in [Ceramics]({{< relref "ceramics.md" >}}) for drying overly-
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Lesley. 2019. “How to Make a Damp Box For Clay.” <i>Pottery Tips by the Pottery Wheel</i>. <a href="https://thepotterywheel.com/how-to-make-a-damp-box-for-clay/">https://thepotterywheel.com/how-to-make-a-damp-box-for-clay/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Lesley. 2019. “How to Make a Damp Box For Clay.” Pottery Tips by the Pottery Wheel. December 13, 2019. <a href="https://thepotterywheel.com/how-to-make-a-damp-box-for-clay/">https://thepotterywheel.com/how-to-make-a-damp-box-for-clay/</a>.</div>
 </div>
 
 

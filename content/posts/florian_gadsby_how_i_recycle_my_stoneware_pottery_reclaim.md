@@ -2,9 +2,9 @@
 title = "Florian Gadsby | How I Recycle My Stoneware Pottery Reclaim"
 author = ["Cash Weaver"]
 date = 2022-12-15T09:27:00-08:00
-lastmod = 2023-08-02T10:57:27-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:11:12-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "670522f7-a37e-4d22-9bba-4f59386c7b4c"
 +++
@@ -38,5 +38,5 @@ slug = "670522f7-a37e-4d22-9bba-4f59386c7b4c"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Florian Gadsby. 2022. “How I Recycle My Stoneware Pottery Reclaim.” <a href="https://www.youtube.com/watch?v=KmosgAAiiok">https://www.youtube.com/watch?v=KmosgAAiiok</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Florian Gadsby, ed. 2022. <i>How I Recycle My Stoneware Pottery Reclaim</i>. Directed by Florian Gadsby. <a href="https://www.youtube.com/watch?v=KmosgAAiiok">https://www.youtube.com/watch?v=KmosgAAiiok</a>.</div>
 </div>

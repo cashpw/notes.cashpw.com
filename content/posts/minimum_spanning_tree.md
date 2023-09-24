@@ -2,7 +2,7 @@
 title = "Minimum spanning tree"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:20:00-08:00
-lastmod = 2023-08-02T11:41:17-07:00
+lastmod = 2023-09-24T10:31:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -66,7 +66,7 @@ A [Spanning tree]({{< relref "spanning_tree.md" >}}) whose sum of edge weights i
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 143.69   | 2023-09-19T15:10:52Z |
+| front    | 2.80 | 7   | 393.41   | 2024-10-17T09:44:32Z |
 | back     | 2.80 | 6   | 125.58   | 2023-09-14T05:11:23Z |
 
 [Minimum spanning tree]({{< relref "minimum_spanning_tree.md" >}})
@@ -86,8 +86,8 @@ A [Spanning tree]({{< relref "spanning_tree.md" >}}) whose sum of edge weights i
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 133.67   | 2023-08-21T07:52:19Z |
-| 1        | 2.65 | 6   | 126.67   | 2023-09-13T08:57:35Z |
+| 0        | 2.80 | 7   | 405.31   | 2024-09-29T20:06:55Z |
+| 1        | 2.65 | 7   | 339.88   | 2024-08-22T20:12:42Z |
 
 A graph has {{a single}{count}@0} [Minimum spanning tree]({{< relref "minimum_spanning_tree.md" >}}) when {{each edge has a distinct weight}@1}.
 
@@ -117,7 +117,7 @@ A graph has {{more than one}{count}@0} [Minimum spanning tree]({{< relref "minim
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 1.90 | 7   | 95.26    | 2023-09-23T02:27:45Z |
-| back     | 2.80 | 6   | 119.53   | 2023-09-09T04:46:50Z |
+| back     | 2.65 | 7   | 300.76   | 2024-07-06T17:29:38Z |
 
 [Cycle property](#cycle-property) of a [Minimum spanning tree]({{< relref "minimum_spanning_tree.md" >}})
 
@@ -136,8 +136,8 @@ A graph has {{more than one}{count}@0} [Minimum spanning tree]({{< relref "minim
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 127.33   | 2023-09-06T07:39:18Z |
-| back     | 2.65 | 6   | 110.21   | 2023-08-31T21:39:05Z |
+| front    | 2.65 | 7   | 366.38   | 2024-09-08T00:07:46Z |
+| back     | 2.35 | 3   | 6.00     | 2023-09-14T16:24:34Z |
 
 [Cut property](#cut-property) of a [Minimum spanning tree]({{< relref "minimum_spanning_tree.md" >}})
 
@@ -176,8 +176,8 @@ A graph has {{more than one}{count}@0} [Minimum spanning tree]({{< relref "minim
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 135.01   | 2023-09-12T18:50:23Z |
-| back     | 1.60 | 6   | 30.20    | 2023-08-25T07:49:53Z |
+| front    | 2.35 | 3   | 6.00     | 2023-09-27T14:16:16Z |
+| back     | 1.45 | 7   | 43.61    | 2023-10-10T04:24:45Z |
 
 Algorithms which generate a [Minimum spanning tree]({{< relref "minimum_spanning_tree.md" >}})
 
@@ -194,7 +194,7 @@ Algorithms which generate a [Minimum spanning tree]({{< relref "minimum_spanning
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Minimum Spanning Tree.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Minimum_spanning_tree&oldid=1128869717">https://en.wikipedia.org/w/index.php?title=Minimum_spanning_tree&#38;oldid=1128869717</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Minimum Spanning Tree.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Minimum_spanning_tree&oldid=1128869717">https://en.wikipedia.org/w/index.php?title=Minimum_spanning_tree&#38;oldid=1128869717</a>.</div>
 </div>
 
 

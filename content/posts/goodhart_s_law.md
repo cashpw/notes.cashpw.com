@@ -2,7 +2,7 @@
 title = "Goodhart's law"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-29T10:05:00-08:00
-lastmod = 2023-08-02T11:01:38-07:00
+lastmod = 2023-09-24T10:13:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "94518754-f455-406d-a67b-bc01f214a272"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 3   | 6.00     | 2023-08-03T15:07:48Z |
+| front    | 1.30 | 7   | 19.57    | 2023-10-08T05:29:53Z |
 | back     | 2.35 | 7   | 235.83   | 2024-01-27T10:57:00Z |
 
 [Goodhart's law]({{< relref "goodhart_s_law.md" >}})
@@ -39,5 +39,5 @@ When a measure becomes a target it ceases to be a good measure.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Goodhart’s Law.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Goodhart%27s_law&oldid=1120724743">https://en.wikipedia.org/w/index.php?title=Goodhart%27s_law&#38;oldid=1120724743</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Goodhart’s Law.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Goodhart%27s_law&oldid=1120724743">https://en.wikipedia.org/w/index.php?title=Goodhart%27s_law&#38;oldid=1120724743</a>.</div>
 </div>

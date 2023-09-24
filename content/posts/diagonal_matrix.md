@@ -2,7 +2,7 @@
 title = "Diagonal matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-16T07:01:00-07:00
-lastmod = 2023-08-02T10:49:20-07:00
+lastmod = 2023-09-24T10:06:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,6 +54,6 @@ A matrix, \\(A\\), with zeros in all positions except for \\(\\{A\_{i,j} \\; \fo
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>B0rk4. 2016. “Answer to ‘Standard Notation for Diagonal Matrices’.” <i>Mathematics Stack Exchange</i>. <a href="https://math.stackexchange.com/a/1659659">https://math.stackexchange.com/a/1659659</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Diagonal Matrix.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Diagonal_matrix&oldid=1107173569">https://en.wikipedia.org/w/index.php?title=Diagonal_matrix&#38;oldid=1107173569</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>B0rk4. 2016. “Answer to ‘Standard Notation for Diagonal Matrices’.” Mathematics Stack Exchange. February 17, 2016. <a href="https://math.stackexchange.com/a/1659659">https://math.stackexchange.com/a/1659659</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Diagonal Matrix.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Diagonal_matrix&oldid=1107173569">https://en.wikipedia.org/w/index.php?title=Diagonal_matrix&#38;oldid=1107173569</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Tangent (Trigonometry)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T10:46:00-07:00
-lastmod = 2023-08-02T12:41:01-07:00
+lastmod = 2023-09-24T10:49:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,7 +32,7 @@ The tangent of a function is the [Instantaneous rate of change]({{< relref "deri
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.40 | 4   | 8.54     | 2023-08-05T03:14:37Z |
+| front    | 1.40 | 7   | 24.17    | 2023-10-01T18:59:11Z |
 | back     | 2.80 | 8   | 420.44   | 2024-04-24T14:39:50Z |
 
 Graph \\(f(x) = \href{/posts/tangent}{\tan}(x)\\)
@@ -77,8 +77,8 @@ Graph \\(f(x) = \href{/posts/tangent}{\tan}(x)\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 125.73   | 2023-08-15T10:00:46Z |
-| back     | 2.65 | 6   | 112.25   | 2023-08-24T04:05:31Z |
+| front    | 2.65 | 7   | 326.87   | 2024-07-13T10:16:50Z |
+| back     | 2.50 | 7   | 282.71   | 2024-06-04T07:46:27Z |
 
 [Tangent (Trigonometry)]({{< relref "tangent.md" >}})
 
@@ -95,13 +95,13 @@ The [Instantaneous rate of change]({{< relref "derivative.md" >}}) of a function
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sine and Cosine.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&oldid=1103922899">https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&#38;oldid=1103922899</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Trigonometric Functions.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Trigonometric_functions&oldid=1104626163">https://en.wikipedia.org/w/index.php?title=Trigonometric_functions&#38;oldid=1104626163</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sine and Cosine.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&oldid=1103922899">https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&#38;oldid=1103922899</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Trigonometric Functions.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Trigonometric_functions&oldid=1104626163">https://en.wikipedia.org/w/index.php?title=Trigonometric_functions&#38;oldid=1104626163</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Cosine]({{< relref "cosine.md" >}})
--   [Sine]({{< relref "sine.md" >}})
 -   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Sine]({{< relref "sine.md" >}})

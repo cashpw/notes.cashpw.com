@@ -2,7 +2,7 @@
 title = "Shadam Corrino IV"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-14T10:42:00-08:00
-lastmod = 2023-08-02T12:24:16-07:00
+lastmod = 2023-09-24T10:44:27-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

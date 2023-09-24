@@ -2,9 +2,9 @@
 title = "Scout mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-18T11:18:00-08:00
-lastmod = 2023-08-02T12:21:59-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:43:34-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "17a6fce5-cfd8-4d26-aa95-4d0b30f799f8"
 +++

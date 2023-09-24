@@ -2,7 +2,7 @@
 title = "Purposeful practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:41:00-07:00
-lastmod = 2023-08-02T12:05:16-07:00
+lastmod = 2023-09-24T10:39:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,8 @@ slug = "2bb656cd-6834-4534-95e2-c77df28ffccb"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 5   | 19.23    | 2023-08-11T09:21:03Z |
-| back     | 2.50 | 5   | 37.23    | 2023-08-18T18:21:34Z |
+| front    | 1.30 | 5   | 8.88     | 2023-09-27T12:55:55Z |
+| back     | 2.50 | 6   | 94.62    | 2023-12-09T06:27:57Z |
 
 [Purposeful practice]({{< relref "purposeful_practice.md" >}})
 
@@ -49,12 +49,13 @@ Practice which is:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Problems with Deliberate Practice.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-problems-with-deliberate-practice/">https://commoncog.com/blog/the-problems-with-deliberate-practice/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Problems with Deliberate Practice.” Commonplace - The Commoncog Blog. January 29, 2019. <a href="https://commoncog.com/blog/the-problems-with-deliberate-practice/">https://commoncog.com/blog/the-problems-with-deliberate-practice/</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Types of practice]({{< relref "types_of_practice.md" >}})
--   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
 -   [Deliberate practice]({{< relref "deliberate_practice.md" >}})
+-   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

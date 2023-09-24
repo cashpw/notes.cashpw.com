@@ -2,7 +2,7 @@
 title = "Circuit (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T12:09:00-08:00
-lastmod = 2023-08-02T10:41:57-07:00
+lastmod = 2023-09-24T10:00:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ A non-empty [Trail (Graph theory)]({{< relref "trail_graph_theory.md" >}}) in wh
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cycle (Graph Theory).” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Cycle_(graph_theory)&oldid=1110268538">https://en.wikipedia.org/w/index.php?title=Cycle_(graph_theory)&#38;oldid=1110268538</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cycle (Graph Theory).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Cycle_(graph_theory)&oldid=1110268538">https://en.wikipedia.org/w/index.php?title=Cycle_(graph_theory)&#38;oldid=1110268538</a>.</div>
 </div>
 
 

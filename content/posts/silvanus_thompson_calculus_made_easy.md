@@ -2,9 +2,9 @@
 title = "Silvanus Thompson | Calculus Made Easy"
 author = ["Cash Weaver"]
 date = 2023-01-18T06:55:00-08:00
-lastmod = 2023-08-02T12:26:14-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:45:11-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "9486d469-bfc8-46d9-9096-cb9c00a2628c"
 +++
@@ -537,8 +537,8 @@ $$
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 4   | 12.84    | 2023-08-02T11:33:47Z |
-| back     | 3.10 | 6   | 126.18   | 2023-08-09T20:56:28Z |
+| front    | 2.35 | 6   | 69.02    | 2023-11-12T13:52:18Z |
+| back     | 3.25 | 7   | 380.47   | 2024-08-24T11:55:55Z |
 
 General, [First principles]({{< relref "first_principles.md" >}}), approach to find \\(\frac{dy}{dx}\\).
 
@@ -559,8 +559,8 @@ General, [First principles]({{< relref "first_principles.md" >}}), approach to f
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 129.36   | 2023-09-07T03:23:16Z |
-| 1        | 2.80 | 6   | 127.06   | 2023-09-14T17:39:31Z |
+| 0        | 2.80 | 7   | 380.12   | 2024-09-21T17:49:28Z |
+| 1        | 2.80 | 7   | 368.16   | 2024-09-20T19:38:02Z |
 
 {{\\(\frac{dy}{dx}\\)}{math}@0} : {{Derivative of \\(y\\) with respect to \\(x\\)}{English}@1}
 
@@ -574,8 +574,8 @@ General, [First principles]({{< relref "first_principles.md" >}}), approach to f
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 134.36   | 2023-09-10T23:07:01Z |
-| 1        | 2.65 | 6   | 118.02   | 2023-08-09T13:46:05Z |
+| 0        | 2.95 | 7   | 427.91   | 2024-11-12T10:36:15Z |
+| 1        | 2.20 | 5   | 23.39    | 2023-10-05T21:59:41Z |
 
 To {{[Differentiate]({{< relref "differential_calculus.md" >}})}@0} is to find the {{differential [Coefficient]({{< relref "coefficient.md" >}})}@1}.
 
@@ -621,7 +621,7 @@ To {{[Differentiate]({{< relref "differential_calculus.md" >}})}@0} is to find t
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 6   | 14.64    | 2023-08-12T06:36:58Z |
+| front    | 1.30 | 8   | 23.90    | 2023-10-04T11:15:05Z |
 
 How to find the first derivative of \\(y = z \times w\\) with respect to \\(x\\) where \\(z,w\\) are expressions in terms of \\(x\\)
 

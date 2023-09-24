@@ -2,7 +2,7 @@
 title = "The carrot is the stick"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:34:00-07:00
-lastmod = 2023-08-02T12:45:33-07:00
+lastmod = 2023-09-24T10:50:30-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -53,7 +53,7 @@ The enticing value of an carrot depends on the one-being-enticed's lack of that 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Black, Bob. n.d. “The Abolition of Work.” <i>The Anarchist Library</i>. Accessed March 13, 2022. <a href="https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work">https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Black, Bob. n.d. “The Abolition of Work.” The Anarchist Library. Accessed March 13, 2022. <a href="https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work">https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work</a>.</div>
 </div>
 
 

@@ -2,17 +2,19 @@
 title = "Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts"
 author = ["Cash Weaver"]
 date = 2023-06-30T19:33:00-07:00
-lastmod = 2023-08-02T10:40:22-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T09:58:50-07:00
+tags = ["reference", "reference"]
+categories = ["reference"]
 draft = false
 slug = "5a1426bf-c14f-411b-af3e-e21ee56fa8e5"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020a</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_2">Chin 2020b</a>)
 
 
 ## Summary {#summary}
+
+We can acquire the [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) of experts through [Naturalistic decision making]({{< relref "naturalistic_decision_making.md" >}}): [Cognitive task analysis]({{< relref "cognitive_tasks_analysis.md" >}}) and [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}}).
 
 
 ## Thoughts {#thoughts}
@@ -36,7 +38,7 @@ slug = "5a1426bf-c14f-411b-af3e-e21ee56fa8e5"
 >
 > I'll skip ahead here and tell you that none of these questions are particularly interesting to me --- at least, not in the context of this blog. This blog is a practitioner's blog: it is interested in what is useful, not what is 'true'. [...]
 >
-> So here's my way of side-stepping everything above: when I say tacit knowledge in this series, what I am really interested in is 'expert intuition' or 'expert judgment'. This is the "expertise, full of caveats" that I talked about in [Part 1](https://commoncog.com/tacit-knowledge-is-a-real-thing/) [ (<a href="#citeproc_bib_item_2">Chin 2020b</a>) ]. Expert intuition is tacit because it is incredibly difficult to investigate, incredibly difficult to make explicit, and incredibly difficult to teach.
+> So here's my way of side-stepping everything above: when I say tacit knowledge in this series, what I am really interested in is 'expert intuition' or 'expert judgment'. This is the "expertise, full of caveats" that I talked about in [Part 1](https://commoncog.com/tacit-knowledge-is-a-real-thing/) [ (<a href="#citeproc_bib_item_1">Chin 2020a</a>) ]. Expert intuition is tacit because it is incredibly difficult to investigate, incredibly difficult to make explicit, and incredibly difficult to teach.
 
 
 ### How the naturalistic decision makers do it {#how-the-naturalistic-decision-makers-do-it}
@@ -65,7 +67,7 @@ See [Recognition-primed decision]({{< relref "recognition_primed_decision_making
 
 ### How do we use [RPD]({{< relref "recognition_primed_decision_making_model.md" >}})? {#how-do-we-use-rpd--recognition-primed-decision-making-model-dot-md}
 
-See [How to improve at Recognition-primed decision making?]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md#how-to-improve-at-id-4a42aa6f-413f-4144-86df-5c0f0b174777-recognition-primed-decision-making" >}})
+See [How to improve at Recognition-primed decision making?]({{< relref "recognition_primed_decision_making_model.md#how-to-improve-at-id-4a42aa6f-413f-4144-86df-5c0f0b174777-recognition-primed-decision-making" >}})
 
 
 ### How do we know this model is accurate? {#how-do-we-know-this-model-is-accurate}
@@ -74,13 +76,13 @@ See [How to improve at Recognition-primed decision making?]({{< relref "cedric_c
 >
 > [...]
 >
-> In the two decades since _Sources of Power_ was first published, NDM has only become more established as a field of research. More militaries around the world are using NDM methods to extract tacit models of expertise from their best operators, in order to turn that knowledge into training programs; Nasdaq [uses](https://twitter.com/ejames_c/status/1266412975767740416?s=20) NDM researchers to design user interfaces to augment the expertise of experienced fraud investigators on their staff. Klein himself wrote a [famous paper](https://www.fs.usda.gov/rmrs/sites/default/files/Kahneman2009_ConditionsforIntuitiveExpertise_AFailureToDisagree.pdf) [[Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})] with Daniel Kahneman on the situations where expert intuition was valid, and where it might not be valid. Most interestingly, Robert Hoffman, an NDM pioneer and one of the co-authors of the _[Cambridge Handbook of Expertise and Expert Performance](https://www.cambridge.org/my/academic/subjects/psychology/cognition/cambridge-handbook-expertise-and-expert-performance-2nd-edition?format=HB&isbn=9781316502617),_ [[K. Anders Ericsson, Robert Hoffman, Aaron Kozbelt, A. Mark Williams | The Cambridge Handbook of Expertise and Expert Performance]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})] has spent a good part of the last decade [working on an epistemology](https://overcast.fm/+aGDtY2OvU/18:29) [[Naturalistic Decision Making | Robert Hoffman]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})] for the entire field.
+> In the two decades since _Sources of Power_ was first published, NDM has only become more established as a field of research. More militaries around the world are using NDM methods to extract tacit models of expertise from their best operators, in order to turn that knowledge into training programs; Nasdaq [uses](https://twitter.com/ejames_c/status/1266412975767740416?s=20) NDM researchers to design user interfaces to augment the expertise of experienced fraud investigators on their staff. Klein himself wrote a [famous paper](https://www.fs.usda.gov/rmrs/sites/default/files/Kahneman2009_ConditionsforIntuitiveExpertise_AFailureToDisagree.pdf) [[Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}})] with Daniel Kahneman on the situations where expert intuition was valid, and where it might not be valid. Most interestingly, Robert Hoffman, an NDM pioneer and one of the co-authors of the _[Cambridge Handbook of Expertise and Expert Performance](https://www.cambridge.org/my/academic/subjects/psychology/cognition/cambridge-handbook-expertise-and-expert-performance-2nd-edition?format=HB&isbn=9781316502617),_ [[K. Anders Ericsson, Robert Hoffman, Aaron Kozbelt, A. Mark Williams | The Cambridge Handbook of Expertise and Expert Performance]({{< relref "k_anders_ericsson_robert_hoffman_aaron_kozbelt_a_mark_williams_the_cambridge_handbook_of_expertise_and_expert_performance.md" >}})] has spent a good part of the last decade [working on an epistemology](https://overcast.fm/+aGDtY2OvU/18:29) [[Naturalistic Decision Making | Robert Hoffman]({{< relref "naturalistic_decision_making_robert_hoffman.md" >}})] for the entire field.
 >
 > These are all signs, I think, that NDM captures something true about the world. But be that as it may, I believe that this shouldn't be of much consideration to you, if you simply want to use this for your career.
 >
-> I have argued elsewhere that if you are primarily a practitioner, your [epistemology should be different than if you were a scientist](https://commoncog.com/putting-mental-models-to-practice-part-6-a-personal-epistemology-of-practice/) [[Cedric Chin | A Personal Epistemology of Practice]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})] If you are a scientist, you will want to know what is true by the standards of scientific truth --- this typically means successful replication over a number of years, culminating in meta-analyses of multiple randomised controlled trials with sufficient statistical power. But if you are a practitioner, what you want to do is to learn what can be useful to you today, in the pursuit of your goals. Your evaluation of an idea should be structured around whether the idea _works for you_ --- which is a different bar for truth compared to that of the scientist's.
+> I have argued elsewhere that if you are primarily a practitioner, your [epistemology should be different than if you were a scientist](https://commoncog.com/putting-mental-models-to-practice-part-6-a-personal-epistemology-of-practice/) [[Cedric Chin | A Personal Epistemology of Practice]({{< relref "cedric_chin_a_personal_epistemology_of_practice.md" >}})] If you are a scientist, you will want to know what is true by the standards of scientific truth --- this typically means successful replication over a number of years, culminating in meta-analyses of multiple randomised controlled trials with sufficient statistical power. But if you are a practitioner, what you want to do is to learn what can be useful to you today, in the pursuit of your goals. Your evaluation of an idea should be structured around whether the idea _works for you_ --- which is a different bar for truth compared to that of the scientist's.
 >
-> NDM lies at the highest level in my [hierarchy of practical evidence](https://commoncog.com/the-hierarchy-of-practical-evidence/) [[Cedric Chin | The Hierarchy of Practical Evidence]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})]: I have tried their methods and their ideas in my life, and _nearly every one of them have led to improvements._
+> NDM lies at the highest level in my [hierarchy of practical evidence](https://commoncog.com/the-hierarchy-of-practical-evidence/) [[Cedric Chin | The Hierarchy of Practical Evidence]({{< relref "cedric_chin_the_hierarchy_of_practical_evidence.md" >}})]: I have tried their methods and their ideas in my life, and _nearly every one of them have led to improvements._
 
 
 ## Flashcards {#flashcards}
@@ -88,6 +90,11 @@ See [How to improve at Recognition-primed decision making?]({{< relref "cedric_c
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020a. “Copying Better: How To Acquire The Tacit Knowledge of Experts.” <i>Commoncog</i>. <a href="https://commoncog.com/how-to-learn-tacit-knowledge/">https://commoncog.com/how-to-learn-tacit-knowledge/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2020b. “Why Tacit Knowledge Is More Important Than Deliberate Practice.” <i>Commoncog</i>. <a href="https://commoncog.com/tacit-knowledge-is-a-real-thing/">https://commoncog.com/tacit-knowledge-is-a-real-thing/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020a. “Why Tacit Knowledge Is More Important Than Deliberate Practice.” Commoncog. June 9, 2020. <a href="https://commoncog.com/tacit-knowledge-is-a-real-thing/">https://commoncog.com/tacit-knowledge-is-a-real-thing/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2020b. “Copying Better: How To Acquire The Tacit Knowledge of Experts.” Commoncog. June 16, 2020. <a href="https://commoncog.com/how-to-learn-tacit-knowledge/">https://commoncog.com/how-to-learn-tacit-knowledge/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

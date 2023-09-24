@@ -2,9 +2,9 @@
 title = "Quickselect implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:54:00-07:00
-lastmod = 2023-08-02T12:08:42-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:40:10-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "ffec0117-bbea-4197-865c-112e417c8f1d"
 +++

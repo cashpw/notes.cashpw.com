@@ -2,9 +2,9 @@
 title = "Acetaminophen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:08:00-07:00
-lastmod = 2023-08-02T10:33:35-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T09:51:57-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "2e981d20-0244-4ff1-ad21-4024fc24630f"
 +++

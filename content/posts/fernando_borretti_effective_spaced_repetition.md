@@ -2,9 +2,9 @@
 title = "Fernando Borretti | Effective Spaced Repetition"
 author = ["Cash Weaver"]
 date = 2023-04-11T15:21:00-07:00
-lastmod = 2023-08-02T10:56:21-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:10:21-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "ec2a6f22-dad5-4615-a2a9-c5313229ff5d"
 +++
@@ -201,5 +201,5 @@ The [poetry script](https://borretti.me/article/effective-spaced-repetition#poet
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Borretti, Fernando. 2023. “Effective Spaced Repetition.” <i>Fernando Borretti</i>. <a href="https://borretti.me/article/effective-spaced-repetition">https://borretti.me/article/effective-spaced-repetition</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Borretti, Fernando. 2023. “Effective Spaced Repetition.” Fernando Borretti. April 10, 2023. <a href="https://borretti.me/article/effective-spaced-repetition">https://borretti.me/article/effective-spaced-repetition</a>.</div>
 </div>

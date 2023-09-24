@@ -2,7 +2,7 @@
 title = "Desirable difficulty"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:03:00-08:00
-lastmod = 2023-08-02T10:33:01-07:00
+lastmod = 2023-09-24T09:50:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -61,7 +61,7 @@ The requisite effort improves long-term performance.
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 7   | 301.43   | 2023-12-16T01:17:38Z |
 | 1        | 2.20 | 9   | 263.52   | 2024-01-22T10:19:32Z |
-| 2        | 2.50 | 7   | 202.38   | 2023-08-21T01:23:58Z |
+| 2        | 2.50 | 8   | 532.85   | 2025-02-12T11:42:26Z |
 
 For [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}}): the processing at {{encoding}@0} time should be the same as the processing at {{retrieval}@1} and {{during practice}@2}.
 
@@ -116,7 +116,7 @@ Guidelines for [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Desirable Difficulty.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Desirable_difficulty&oldid=1065561009">https://en.wikipedia.org/w/index.php?title=Desirable_difficulty&#38;oldid=1065561009</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Desirable Difficulty.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Desirable_difficulty&oldid=1065561009">https://en.wikipedia.org/w/index.php?title=Desirable_difficulty&#38;oldid=1065561009</a>.</div>
 </div>
 
 
@@ -124,6 +124,6 @@ Guidelines for [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}
 
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
 -   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
--   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
+-   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})

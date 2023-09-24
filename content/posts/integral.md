@@ -2,7 +2,7 @@
 title = "Integral calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:49:00-08:00
-lastmod = 2023-08-02T11:13:31-07:00
+lastmod = 2023-09-24T10:19:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,7 @@ slug = "61de6a28-e681-45bd-a086-fff5b924354e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 3.10 | 6   | 135.43   | 2023-08-14T02:23:59Z |
+| front    | 3.25 | 7   | 462.37   | 2024-11-25T21:39:18Z |
 | back     | 2.95 | 6   | 153.40   | 2023-10-01T04:23:16Z |
 
 \\(\int\\)
@@ -41,7 +41,7 @@ Integral
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Integral.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Integral&oldid=1132922175">https://en.wikipedia.org/w/index.php?title=Integral&#38;oldid=1132922175</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Integral.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Integral&oldid=1132922175">https://en.wikipedia.org/w/index.php?title=Integral&#38;oldid=1132922175</a>.</div>
 </div>
 
 
@@ -49,5 +49,5 @@ Integral
 
 -   [Power rule]({{< relref "power_rule.md" >}})
 -   [Calculus]({{< relref "calculus.md" >}})
--   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
 -   [Derivative (math)]({{< relref "derivative.md" >}})
+-   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})

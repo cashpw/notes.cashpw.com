@@ -2,7 +2,7 @@
 title = "Octavia E. Butler"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T09:51:00-07:00
-lastmod = 2023-08-02T11:50:33-07:00
+lastmod = 2023-09-24T10:35:45-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

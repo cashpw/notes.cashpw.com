@@ -2,7 +2,7 @@
 title = "Ceramics/Pottery Resources"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T20:16:00-08:00
-lastmod = 2023-08-02T10:41:01-07:00
+lastmod = 2023-09-24T10:00:04-07:00
 draft = false
 slug = "0b2473da-3953-457c-b68c-4abc7a235d17"
 +++
@@ -24,6 +24,14 @@ A collection of [Ceramics]({{< relref "ceramics.md" >}}) resources.
 -   Mastering The Potter's Wheel
 
 
+### [Ceramics Exercises]({{< relref "ceramics_exercises.md" >}}) {#ceramics-exercises--ceramics-exercises-dot-md}
+
+
+### [Wedging]({{< relref "ceramics_pottery_resources.md" >}}) {#wedging--ceramics-pottery-resources-dot-md}
+
+Tip: Wedge all the clay at once before dividing it into smaller balls. Example: I want to throw ten 450g balls of clay. Wedge a single 4500g ball instead of wedging the ten balls individually.
+
+
 ## Community {#community}
 
 
@@ -42,22 +50,13 @@ A collection of [Ceramics]({{< relref "ceramics.md" >}}) resources.
 
 ### Tools {#tools}
 
--   Kanna
-    -   [DIY Chattering Tools](https://www.youtube.com/watch?v=jm67xh4XsU8)
-    -   [Pottery Tool  - DIY Hacksaw Blade Trim Tool](https://www.youtube.com/watch?v=35wEpH7DvCY)
-    -   [382. Introducing Hsin Tools Making Process and Silicone Sleeves Designed by Hsin-Chuen Lin 林新春修坯工具介紹](https://www.youtube.com/watch?v=F8PgQop7ISk)
-    -   [128. Using Trimming Tools #1 &amp; #2 to Trim a Mug with Hsin-Chuen Lin](https://www.youtube.com/watch?v=z3xk5qd7pgE)
-    -   [7. Making your own Trimming Tools from Hacksaw Blades with Hsin-Chuen Lin](https://www.youtube.com/watch?v=Glk9aR7XY3U)
-    -   [541. Using a Diamond File to Sharpen S S &amp; Tungsten Carbide Trimming Tools with Hsin-Chuen Lin 林新春](https://www.youtube.com/watch?v=LUK3_yUZ9Xw)
+-   [Kanna]({{< relref "ceramics_pottery_resources.md" >}})
 
 
 ## People {#people}
 
 
 ### [Ceramists/Potters I Follow]({{< relref "ceramists_potters_i_follow.md" >}}) {#ceramists-potters-i-follow--ceramists-potters-i-follow-dot-md}
-
-
-## [Ceramics Exercises]({{< relref "ceramics_exercises.md" >}}) {#ceramics-exercises--ceramics-exercises-dot-md}
 
 
 ## Reference {#reference}

@@ -2,7 +2,7 @@
 title = "Fundamental theorem of calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:59:00-08:00
-lastmod = 2023-08-02T10:59:03-07:00
+lastmod = 2023-09-24T10:12:20-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,7 +43,7 @@ slug = "adda1031-550c-4f65-9384-1ee018532adc"
 
 > \\(\frac{d}{dx}(\int\_{\pi}^x \frac{\href{/posts/cosine}{\cos}^2t}{\ln(t-\sqrt{t})}dt) = \frac{\href{/posts/cosine}{\cos}^2x}{\ln(x-\sqrt{x})}\\)
 >
-> (<a href="#citeproc_bib_item_4">Khan Academy n.d.</a>)
+> (<a href="#citeproc_bib_item_3">Khan Academy n.d.</a>)
 
 
 ## Second part {#second-part}
@@ -65,7 +65,7 @@ slug = "adda1031-550c-4f65-9384-1ee018532adc"
 >
 > [paraphrased]
 >
-> (<a href="#citeproc_bib_item_1">“Fundamental Theorem of Calculus” 2022</a>), (<a href="#citeproc_bib_item_3">Khan Academy 2013</a>)
+> (<a href="#citeproc_bib_item_1">“Fundamental Theorem of Calculus” 2022</a>), (<a href="#citeproc_bib_item_4">Khan Academy 2013</a>)
 
 
 ## Flashcards {#flashcards}
@@ -75,7 +75,7 @@ slug = "adda1031-550c-4f65-9384-1ee018532adc"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 140.72   | 2023-08-28T08:48:30Z |
+| 0        | 2.80 | 7   | 413.86   | 2024-10-16T11:43:52Z |
 | 1        | 2.95 | 6   | 134.23   | 2023-09-21T21:20:05Z |
 | 2        | 2.65 | 6   | 128.84   | 2023-09-20T10:56:01Z |
 
@@ -91,7 +91,7 @@ slug = "adda1031-550c-4f65-9384-1ee018532adc"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 93.68    | 2023-08-15T08:45:26Z |
+| front    | 1.90 | 2   | 2.00     | 2023-09-21T23:51:39Z |
 | back     | 2.80 | 6   | 133.06   | 2023-09-16T19:09:48Z |
 
 [First fundamental theorem of calculus](#first-part)
@@ -124,7 +124,7 @@ $$
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 7   | 271.65   | 2024-04-25T06:34:50Z |
-| 1        | 2.50 | 6   | 115.17   | 2023-08-22T18:39:47Z |
+| 1        | 2.20 | 4   | 12.86    | 2023-09-27T11:59:56Z |
 
 {{[Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})}@0} relates {{[Derivative (math)]({{< relref "derivative.md" >}}) and [Integral]({{< relref "integral.md" >}})}@1}.
 
@@ -138,8 +138,8 @@ $$
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 141.30   | 2023-09-17T05:45:50Z |
-| 1        | 2.65 | 6   | 98.65    | 2023-08-19T07:35:07Z |
+| 0        | 2.80 | 7   | 397.64   | 2024-10-19T14:23:22Z |
+| 1        | 2.65 | 7   | 263.13   | 2024-05-21T17:25:49Z |
 
 {{The [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})}@0} relates {{[Definite integral]({{< relref "integral.md" >}}) and [Differentiation]({{< relref "differential_calculus.md" >}})}@1}.
 
@@ -153,8 +153,8 @@ $$
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 6   | 48.76    | 2023-08-07T14:54:22Z |
-| back     | 2.65 | 6   | 114.27   | 2023-09-06T23:49:44Z |
+| front    | 1.90 | 7   | 89.71    | 2023-11-06T08:23:01Z |
+| back     | 2.35 | 4   | 15.50    | 2023-10-07T02:23:00Z |
 
 [Second fundamental theorem of calculus](#second-part)
 
@@ -179,16 +179,16 @@ $$
 
 #### Source {#source}
 
--   (<a href="#citeproc_bib_item_1">“Fundamental Theorem of Calculus” 2022</a>), (<a href="#citeproc_bib_item_3">Khan Academy 2013</a>)
+-   (<a href="#citeproc_bib_item_1">“Fundamental Theorem of Calculus” 2022</a>), (<a href="#citeproc_bib_item_4">Khan Academy 2013</a>)
 -   [Second fundamental theorem of calculus](#second-part)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Fundamental Theorem of Calculus.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&oldid=1126224108">https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&#38;oldid=1126224108</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Integral.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Integral&oldid=1132922175">https://en.wikipedia.org/w/index.php?title=Integral&#38;oldid=1132922175</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Khan Academy. 2013. “Fundamental Theorem of Calculus (Part 2) | AP Calculus AB | Khan Academy.” <a href="https://www.youtube.com/watch?v=JbfVrwxuPxM">https://www.youtube.com/watch?v=JbfVrwxuPxM</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———. n.d. “The Fundamental Theorem of Calculus and Accumulation Functions.” Accessed January 27, 2023. <a href="https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-4/v/fundamental-theorem-of-calculus">https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-4/v/fundamental-theorem-of-calculus</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Fundamental Theorem of Calculus.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&oldid=1126224108">https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&#38;oldid=1126224108</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Integral.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Integral&oldid=1132922175">https://en.wikipedia.org/w/index.php?title=Integral&#38;oldid=1132922175</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Khan Academy. n.d. “The Fundamental Theorem of Calculus and Accumulation Functions.” Accessed January 27, 2023. <a href="https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-4/v/fundamental-theorem-of-calculus">https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-4/v/fundamental-theorem-of-calculus</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———, ed. 2013. <i>Fundamental Theorem of Calculus (Part 2) | AP Calculus AB | Khan Academy</i>. Directed by Khan Academy. <a href="https://www.youtube.com/watch?v=JbfVrwxuPxM">https://www.youtube.com/watch?v=JbfVrwxuPxM</a>.</div>
 </div>
 
 

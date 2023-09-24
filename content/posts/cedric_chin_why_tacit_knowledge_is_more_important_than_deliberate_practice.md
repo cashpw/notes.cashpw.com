@@ -2,9 +2,9 @@
 title = "Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice"
 author = ["Cash Weaver"]
 date = 2023-06-30T18:54:00-07:00
-lastmod = 2023-08-02T10:40:35-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T09:59:46-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "bcba3e46-9cde-4555-accb-ec73e4f0fc4c"
 +++
@@ -16,6 +16,7 @@ slug = "bcba3e46-9cde-4555-accb-ec73e4f0fc4c"
 
 An essay on [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) and [Deliberate practice]({{< relref "deliberate_practice.md" >}})
 
+-   Tacit knowledge is more useful than deliberate practice when the subject you're trying to learn isn't "well defined". "... deliberate practice is defined as possible _only_ in domains with a long history of well-established pedagogy. In other words, deliberate practice **can only exist in fields like music and math and chess**."
 -   Tacit knowledge in action looks like a long list of caveats
 
     > This is actually generalisable. People with expertise in any sufficiently complicated domain will always explain their expertise with things like: "Well, do X. Except when you see Y, then do Z, because A. And if you see B, then do P. But if you see A and C but not B, then do Q, because reason D. And then there are weird situations where you do Z but then see thing C emerge, then you should switch to Q."
@@ -161,8 +162,8 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 5   | 30.65    | 2023-08-27T05:18:54Z |
-| 1        | 2.35 | 4   | 12.73    | 2023-08-02T08:46:21Z |
+| 0        | 2.20 | 6   | 68.42    | 2023-11-03T23:44:05Z |
+| 1        | 2.35 | 6   | 61.91    | 2023-11-02T12:16:05Z |
 
 {{[Tacit knowledge]({{< relref "tacit_knowledge.md" >}})}@0} looks like {{an explanation with a list of caveats}@1}.
 
@@ -176,7 +177,7 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 42.16    | 2023-09-11T03:50:56Z |
+| front    | 2.20 | 3   | 6.00     | 2023-09-24T15:52:35Z |
 
 [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) and [Deliberate practice]({{< relref "deliberate_practice.md" >}})
 
@@ -194,6 +195,11 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “Book Summary: Peak, the New Science of Expertise.” <i>Commoncog</i>. <a href="https://commoncog.com/peak-book-summary/">https://commoncog.com/peak-book-summary/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2020. “Why Tacit Knowledge Is More Important Than Deliberate Practice.” <i>Commoncog</i>. <a href="https://commoncog.com/tacit-knowledge-is-a-real-thing/">https://commoncog.com/tacit-knowledge-is-a-real-thing/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “Book Summary: Peak, the New Science of Expertise.” Commoncog. March 19, 2019. <a href="https://commoncog.com/peak-book-summary/">https://commoncog.com/peak-book-summary/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2020. “Why Tacit Knowledge Is More Important Than Deliberate Practice.” Commoncog. June 9, 2020. <a href="https://commoncog.com/tacit-knowledge-is-a-real-thing/">https://commoncog.com/tacit-knowledge-is-a-real-thing/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

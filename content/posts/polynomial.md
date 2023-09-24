@@ -2,7 +2,7 @@
 title = "Polynomial"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T10:32:00-08:00
-lastmod = 2023-08-02T11:58:51-07:00
+lastmod = 2023-09-24T10:38:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,7 +28,7 @@ slug = "b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 9   | 252.78   | 2023-08-20T13:02:32Z |
+| back     | 2.50 | 10  | 692.17   | 2025-07-13T17:01:17Z |
 | front    | 2.65 | 9   | 591.70   | 2025-02-13T17:58:53Z |
 
 [Polynomial]({{< relref "polynomial.md" >}})
@@ -71,8 +71,8 @@ The highest degree of the polynomial's monomials.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Degree of a Polynomial.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&oldid=1095664596">https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&#38;oldid=1095664596</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Polynomial.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Polynomial&oldid=1125941863">https://en.wikipedia.org/w/index.php?title=Polynomial&#38;oldid=1125941863</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Degree of a Polynomial.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&oldid=1095664596">https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&#38;oldid=1095664596</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Polynomial.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Polynomial&oldid=1125941863">https://en.wikipedia.org/w/index.php?title=Polynomial&#38;oldid=1125941863</a>.</div>
 </div>
 
 

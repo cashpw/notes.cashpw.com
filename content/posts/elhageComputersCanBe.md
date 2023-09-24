@@ -2,7 +2,7 @@
 title = "Nelson Elhage | Computers Can Be Understood"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2023-08-02T10:52:36-07:00
+lastmod = 2023-09-24T10:08:18-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -38,7 +38,7 @@ Related: [Be curious]({{< relref "be_curious.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 349.70   | 2024-06-06T18:18:12Z |
-| back     | 2.20 | 7   | 133.56   | 2023-08-23T05:51:10Z |
+| back     | 2.05 | 8   | 264.56   | 2024-05-17T04:11:21Z |
 
 [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})
 

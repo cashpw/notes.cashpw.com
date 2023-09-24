@@ -2,7 +2,7 @@
 title = "Nota bene"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:28:00-08:00
-lastmod = 2023-08-02T11:49:27-07:00
+lastmod = 2023-09-24T10:35:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "fccbc741-2373-47c3-9d41-a04fb0ce9b66"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 143.62   | 2023-08-27T07:25:12Z |
-| back     | 2.95 | 6   | 149.36   | 2023-09-04T23:38:11Z |
+| front    | 2.80 | 7   | 440.33   | 2024-11-09T21:33:55Z |
+| back     | 2.95 | 7   | 422.16   | 2024-10-31T19:17:03Z |
 
 n.b.
 
@@ -41,8 +41,8 @@ n.b.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 153.21   | 2023-09-11T21:24:07Z |
-| 1        | 2.80 | 6   | 120.90   | 2023-08-08T13:12:09Z |
+| 0        | 2.95 | 7   | 408.12   | 2024-10-24T15:20:41Z |
+| 1        | 2.95 | 7   | 327.34   | 2024-06-30T23:33:14Z |
 
 {{[Nota bene]({{< relref "nota_bene.md" >}})}{[Latin]({{< relref "latin.md" >}})}@0} : {{Note well}{English}@1}
 
@@ -54,5 +54,5 @@ n.b.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Nota Bene.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Nota_bene&oldid=1116170074">https://en.wikipedia.org/w/index.php?title=Nota_bene&#38;oldid=1116170074</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Nota Bene.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Nota_bene&oldid=1116170074">https://en.wikipedia.org/w/index.php?title=Nota_bene&#38;oldid=1116170074</a>.</div>
 </div>

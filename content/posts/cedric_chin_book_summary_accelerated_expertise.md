@@ -2,14 +2,14 @@
 title = "Cedric Chin | Book Summary: Accelerated Expertise"
 author = ["Cash Weaver"]
 date = 2023-06-29T17:49:00-07:00
-lastmod = 2023-08-02T10:40:11-07:00
+lastmod = 2023-09-24T09:58:39-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_7">Chin 2021d</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_7">Chin 2021e</a>)
 
 
 ## Summary {#summary}
@@ -89,7 +89,7 @@ slug = "f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb"
 > Over the course of the two meetings, it became clear that the requirements from the military could be broken down into four granular subgoals, all of which were important for both military and for industry applications:
 >
 > 1.  Methods to quicken the training process while maintaining its effectiveness (_Rapidised Training_).
-> 2.  Methods to rapidise the transposition of lessons learnt from the battlespace into the training context --- for instance, if insurgents evolve their tactics, there should be a way to rapidly integrate this '[meta](https://commoncog.com/to-get-good-go-after-the-metagame/)' [ (<a href="#citeproc_bib_item_2">Chin 2020a</a>) ] into existing training programs. (_Rapidised Knowledge Sharing_).
+> 2.  Methods to rapidise the transposition of lessons learnt from the battlespace into the training context --- for instance, if insurgents evolve their tactics, there should be a way to rapidly integrate this '[meta](https://commoncog.com/to-get-good-go-after-the-metagame/)' [ (<a href="#citeproc_bib_item_1">Chin 2020a</a>) ] into existing training programs. (_Rapidised Knowledge Sharing_).
 > 3.  Methods to train more quickly to _higher_ levels of proficiency (_Accelerated Proficiency_) and
 > 4.  Methods to insure that training has a stable and lasting effect (_Facilitated Retention_)
 >
@@ -129,18 +129,18 @@ slug = "f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb"
 > There are a number of problems with this training approach. You might be familiar with some of them.
 >
 > 1.  First, this approach to training just takes too damn long. It is, after all, the mainstream approach to pedagogy [[Pedagogy]({{< relref "pedagogy.md" >}})], and it is this very paradigm that the researchers were asked to improve. A more interesting question is _why_ it takes too damn long.
-> 2.  There are two answers to this question. First, humans learn by constructing mental models [[Mental model]({{< relref "mental_model.md" >}})] of a domain. In the beginning, these mental models are crude and do not result in effective action. So novices evolve them rapidly by constructing, discarding, and re-constructing mental models in response to feedback. At some point, however, these mental models become effective enough and complex enough that they become _[knowledge shields](https://commoncog.com/the-hard-thing-about-learning-from-experience/)_ [ (<a href="#citeproc_bib_item_6">Chin 2021c</a>) ] --- that is, mental models of a domain that are wrong in subtle ways, that _prevent students from reaching higher levels of expertise because they enable them to reject anomalous data._ In other words, breaking a skill domain down to atomised skills is risky --- it is likely that you will accidentally cause the construction of subtly wrong mental models, due to the incomplete nature of a skill hierarchy. This then slows expertise development, since trainers would now have to do additional work --- for instance, you would have to design your training tasks to include 'knowledge shield destruction' as a pedagogical goal. Better to avoid this completely.
+> 2.  There are two answers to this question. First, humans learn by constructing mental models [[Mental model]({{< relref "mental_model.md" >}})] of a domain. In the beginning, these mental models are crude and do not result in effective action. So novices evolve them rapidly by constructing, discarding, and re-constructing mental models in response to feedback. At some point, however, these mental models become effective enough and complex enough that they become _[knowledge shields](https://commoncog.com/the-hard-thing-about-learning-from-experience/)_ [ (<a href="#citeproc_bib_item_6">Chin 2021d</a>) ] --- that is, mental models of a domain that are wrong in subtle ways, that _prevent students from reaching higher levels of expertise because they enable them to reject anomalous data._ In other words, breaking a skill domain down to atomised skills is risky --- it is likely that you will accidentally cause the construction of subtly wrong mental models, due to the incomplete nature of a skill hierarchy. This then slows expertise development, since trainers would now have to do additional work --- for instance, you would have to design your training tasks to include 'knowledge shield destruction' as a pedagogical goal. Better to avoid this completely.
 > 3.  Breaking a skill domain down into a discrete learning hierarchy is bad for one other reason: experts are able to see connections and draw links between concepts or cues that novices cannot. Teaching atomised concepts will prevent novices from learning these connections, and may in fact result in either subpar performance or a training plateau later on. (Note: this is not a universal recommendation; the authors note that The Simplifying Conditions Method, as demonstrated by Kim &amp; Reigeluth is one way to break a domain down while emphasising connections between concepts, but this pedagogical method is not universally known. Better to do without this requirement altogether).
 > 4.  The second reason a hierarchical training approach sucks is that assessments for atomised skills do not translate to assessments of real world performance. I think we know this intuitively. Tests for basic skills often do not capture the nuances of skill application in real world environments. You can test well in corporate finance and then run a company to the ground, because you do not know what cues to look for in the particular business you're in.
 > 5.  The third reason this training approach sucks is that atomised training often does not have high _cognitive fidelity_ to the context of use. Take, for instance, 'Cognitive Load Theory'. This is a famous theory of classroom learning, and it basically says that 'intrinsic cognitive load' is related to the complexity of the learning task itself; 'extraneous cognitive load' is caused by activities during learning that are unnecessary and interfere with schema acquisition. The teacher's job is to design teaching methods that reduce extraneous cognitive load. The authors point out that this is all well and good when your student needs to take a test, but if your work environment involves bombs dropping on you while you plan your troop movements, perhaps your training program should _also_ include some 'extraneous cognitive load'?
 > 6.  The fourth reason this training approach sucks is that it is not easy to update the training program if the skill domain changes. This is an important requirement in both business and in military contexts --- you might imagine that if the market environment changes (in business), or if insurgents evolve their [IED](https://en.wikipedia.org/wiki/Improvised_explosive_device) tactics, you would need to quickly update your training program. But a hierarchical syllabus resists updating. Which lesson do you update? At what level of complexity? What pre-requisites must change? There are too many moving parts. It should be easier to update training. Meanwhile, soldiers get deployed to the frontlines without updated training and die.
-> 7.  The fifth reason this training approach sucks is that external assessments often _degrade the learner's ability to sensemake in the field._ In other words, extremely clear feedback sometimes prevents students from [learning effectively from experience](https://commoncog.com/the-hard-thing-about-learning-from-experience/) [ (<a href="#citeproc_bib_item_6">Chin 2021c</a>) ], which may slow their learning when they arrive in a real world domain.
+> 7.  The fifth reason this training approach sucks is that external assessments often _degrade the learner's ability to sensemake in the field._ In other words, extremely clear feedback sometimes prevents students from [learning effectively from experience](https://commoncog.com/the-hard-thing-about-learning-from-experience/) [ (<a href="#citeproc_bib_item_6">Chin 2021d</a>) ], which may slow their learning when they arrive in a real world domain.
 >
 > So what do you do? What do you do if you can't design a hierarchical skill tree? What do you do if incremental complexification is off the table?
 >
 > The answer: you _cheat_.
 >
-> I've talked about the Naturalistic Decision Making branch of psychology in the past. The NDM field contains methods to _extract_ tacit mental models of expertise. These methods are loosely categorised under the name 'cognitive task analysis', or 'CTA', and have been developed over a 30 year period in applied domains. I've written about NDM in my [tacit knowledge series](https://commoncog.com/the-tacit-knowledge-series/) [ (<a href="#citeproc_bib_item_3">Chin 2020b</a>) ], and I've written about ACTA, the simplest form of CTA [here](https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/) [ (<a href="#citeproc_bib_item_1">chin 2021</a>) ] and [here](https://commoncog.com/john-cutlers-product-expertise/) [ (<a href="#citeproc_bib_item_5">Chin 2021b</a>) ]. I recommend that you read them both.
+> I've talked about the Naturalistic Decision Making branch of psychology in the past. The NDM field contains methods to _extract_ tacit mental models of expertise. These methods are loosely categorised under the name 'cognitive task analysis', or 'CTA', and have been developed over a 30 year period in applied domains. I've written about NDM in my [tacit knowledge series](https://commoncog.com/the-tacit-knowledge-series/) [ (<a href="#citeproc_bib_item_2">Chin 2020b</a>) ], and I've written about ACTA, the simplest form of CTA [here](https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/) [ (<a href="#citeproc_bib_item_3">Chin 2021a</a>) ] and [here](https://commoncog.com/john-cutlers-product-expertise/) [ (<a href="#citeproc_bib_item_5">Chin 2021c</a>) ]. I recommend that you read them both.
 >
 > Once you have an explicated mental model of the expertise you desire, you may ask a simpler question: what kind of simulations may I design to provoke the construction of those mental models in the heads of my students?
 >
@@ -197,7 +197,7 @@ slug = "f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb"
 > -   Cognitive Flexibility Theory [[Cognitive flexibility theory]({{< relref "cognitive_flexibility_theory.md" >}})], or CFT, and
 > -   Cognitive Transformation Theory [[Cognitive transformation theory]({{< relref "cognitive_transformation_theory.md" >}})], or CTT
 >
-> I've talked about CTT in the past, which you may read about [here](https://commoncog.com/the-hard-thing-about-learning-from-experience/) [ (<a href="#citeproc_bib_item_6">Chin 2021c</a>) ] and [here](https://commoncog.com/business-expertise-cognitive-agility/) [ (<a href="#citeproc_bib_item_4">Chin 2021a</a>) ]. This is the summary of both theories that the book presents:
+> I've talked about CTT in the past, which you may read about [here](https://commoncog.com/the-hard-thing-about-learning-from-experience/) [ (<a href="#citeproc_bib_item_6">Chin 2021d</a>) ] and [here](https://commoncog.com/business-expertise-cognitive-agility/) [ (<a href="#citeproc_bib_item_4">Chin 2021b</a>) ]. This is the summary of both theories that the book presents:
 >
 > <div class="quote2">
 >
@@ -336,12 +336,18 @@ See (<a href="#citeproc_bib_item_8">Hoffman 2013</a>).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>chin. 2021. “An Easier Method for Extracting Tacit Knowledge.” <i>Commoncog</i>. <a href="https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/">https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Chin, Cedric. 2020a. “To Get Good, Go After The Metagame.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/to-get-good-go-after-the-metagame/">https://commoncog.com/blog/to-get-good-go-after-the-metagame/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———. 2020b. “The Tacit Knowledge Series.” <i>Commoncog</i>. <a href="https://commoncog.com/the-tacit-knowledge-series/">https://commoncog.com/the-tacit-knowledge-series/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———. 2021a. “Business Expertise: The Importance of Cognitive Agility.” <i>Commoncog</i>. <a href="https://commoncog.com/business-expertise-cognitive-agility/">https://commoncog.com/business-expertise-cognitive-agility/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>———. 2021b. “John Cutler’s Product Org Expertise.” <i>Commoncog</i>. <a href="https://commoncog.com/john-cutlers-product-expertise/">https://commoncog.com/john-cutlers-product-expertise/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>———. 2021c. “The Hard Thing About Learning From Experience.” <i>Commoncog</i>. <a href="https://commoncog.com/the-hard-thing-about-learning-from-experience/">https://commoncog.com/the-hard-thing-about-learning-from-experience/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>———. 2021d. “Book Summary: Accelerated Expertise.” <i>Commoncog</i>. <a href="https://commoncog.com/accelerated-expertise/">https://commoncog.com/accelerated-expertise/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020a. “To Get Good, Go After The Metagame.” Commonplace - The Commoncog Blog. February 25, 2020. <a href="https://commoncog.com/blog/to-get-good-go-after-the-metagame/">https://commoncog.com/blog/to-get-good-go-after-the-metagame/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2020b. “The Tacit Knowledge Series.” Commoncog. June 23, 2020. <a href="https://commoncog.com/the-tacit-knowledge-series/">https://commoncog.com/the-tacit-knowledge-series/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———. 2021a. “An Easier Method for Extracting Tacit Knowledge.” Commoncog. April 27, 2021. <a href="https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/">https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———. 2021b. “Business Expertise: The Importance of Cognitive Agility.” Commoncog. August 4, 2021. <a href="https://commoncog.com/business-expertise-cognitive-agility/">https://commoncog.com/business-expertise-cognitive-agility/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>———. 2021c. “John Cutler’s Product Org Expertise.” Commoncog. August 10, 2021. <a href="https://commoncog.com/john-cutlers-product-expertise/">https://commoncog.com/john-cutlers-product-expertise/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>———. 2021d. “The Hard Thing About Learning From Experience.” Commoncog. August 24, 2021. <a href="https://commoncog.com/the-hard-thing-about-learning-from-experience/">https://commoncog.com/the-hard-thing-about-learning-from-experience/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>———. 2021e. “Book Summary: Accelerated Expertise.” Commoncog. September 7, 2021. <a href="https://commoncog.com/accelerated-expertise/">https://commoncog.com/accelerated-expertise/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Hoffman, Robert R. 2013. <i>Accelerated Expertise: Training for High Proficiency in a Complex World</i>. New York: Psychology Press.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

@@ -4,7 +4,7 @@ title = """
   """
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:19:00-07:00
-lastmod = 2023-08-02T10:35:29-07:00
+lastmod = 2023-09-24T09:54:32-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -42,5 +42,5 @@ slug = "5d8f2b24-1889-45ee-8613-07f7bc0f2db2"
 
 ## Backlinks {#backlinks}
 
--   [Notes]({{< relref "altemeyerAuthoritarians.md#thoughts" >}})
+-   [Bob Altemeyer | The Authoritarians]({{< relref "altemeyerAuthoritarians.md" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})

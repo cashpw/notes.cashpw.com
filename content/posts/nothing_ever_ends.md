@@ -2,7 +2,7 @@
 title = "Nothing ever ends"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-03T07:08:00-08:00
-lastmod = 2023-08-02T11:49:34-07:00
+lastmod = 2023-09-24T10:35:31-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

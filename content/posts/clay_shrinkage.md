@@ -2,7 +2,7 @@
 title = "Clay shrinkage"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T09:07:00-07:00
-lastmod = 2023-08-02T10:42:19-07:00
+lastmod = 2023-09-24T10:01:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -68,7 +68,7 @@ The weight loss between [Greenware]({{< relref "greenware.md" >}}) and [Glazewar
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 6   | 62.42    | 2023-09-08T10:22:37Z |
+| 0        | 1.90 | 7   | 118.15   | 2024-01-04T19:55:52Z |
 
 
 #### Extra {#extra}
@@ -82,7 +82,7 @@ The weight loss between [Greenware]({{< relref "greenware.md" >}}) and [Glazewar
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 7   | 214.27   | 2024-02-09T22:09:40Z |
-| 1        | 2.65 | 7   | 217.76   | 2023-09-12T13:05:49Z |
+| 1        | 2.65 | 8   | 586.86   | 2025-04-23T11:58:13Z |
 
 
 #### Extra {#extra}

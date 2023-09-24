@@ -2,7 +2,7 @@
 title = "Cache replacement policy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T09:17:00-07:00
-lastmod = 2023-08-02T10:39:07-07:00
+lastmod = 2023-09-24T09:57:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "f1a77c99-0bb1-4972-a462-7ac47735faa8"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 99.19    | 2023-09-13T19:08:32Z |
-| back     | 2.35 | 5   | 27.68    | 2023-08-10T17:13:43Z |
+| front    | 2.50 | 7   | 268.58   | 2024-06-09T05:01:51Z |
+| back     | 2.20 | 6   | 62.43    | 2023-10-13T09:23:49Z |
 
 [Cache replacement policy]({{< relref "cache_replacement_policy.md" >}})
 
@@ -39,11 +39,11 @@ An algorithm which determines what action(s) to manage a [Cache]({{< relref "cac
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cache Replacement Policies.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Cache_replacement_policies&oldid=1141486190">https://en.wikipedia.org/w/index.php?title=Cache_replacement_policies&#38;oldid=1141486190</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cache Replacement Policies.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Cache_replacement_policies&oldid=1141486190">https://en.wikipedia.org/w/index.php?title=Cache_replacement_policies&#38;oldid=1141486190</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Least frequently used]({{< relref "least_frequently_used.md" >}})
 -   [Least recently used]({{< relref "least_recently_used.md" >}})
+-   [Least frequently used]({{< relref "least_frequently_used.md" >}})

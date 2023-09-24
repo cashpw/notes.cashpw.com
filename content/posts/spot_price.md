@@ -2,7 +2,7 @@
 title = "Spot price"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T06:30:00-08:00
-lastmod = 2023-08-02T12:33:12-07:00
+lastmod = 2023-09-24T10:47:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,5 +37,5 @@ The current price of an asset.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Spot Contract.” 2021. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Spot_contract&oldid=1024405244">https://en.wikipedia.org/w/index.php?title=Spot_contract&#38;oldid=1024405244</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Spot Contract.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Spot_contract&oldid=1024405244">https://en.wikipedia.org/w/index.php?title=Spot_contract&#38;oldid=1024405244</a>.</div>
 </div>

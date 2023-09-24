@@ -2,7 +2,7 @@
 title = "Lime popping"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-15T09:43:00-08:00
-lastmod = 2023-08-02T11:29:03-07:00
+lastmod = 2023-09-24T10:26:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "fdb8621b-64af-4d22-a7e6-e83c0a2dd2fa"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 5   | 25.53    | 2023-08-05T04:31:49Z |
-| back     | 2.65 | 6   | 135.15   | 2023-08-03T21:13:06Z |
+| front    | 2.05 | 6   | 54.73    | 2023-09-30T08:17:06Z |
+| back     | 2.50 | 7   | 357.82   | 2024-07-27T11:06:02Z |
 
 [Lime popping]({{< relref "lime_popping.md" >}})
 

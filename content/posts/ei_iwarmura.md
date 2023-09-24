@@ -2,12 +2,14 @@
 title = "Ei Iwarmura"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T14:07:00-07:00
-lastmod = 2023-08-02T10:52:30-07:00
+lastmod = 2023-09-24T10:08:14-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "14d6d8f8-8ed4-4ab9-bbd3-e2c621da4361"
 +++
+
+One of the [Ceramists I follow]({{< relref "ceramists_potters_i_follow.md" >}}).
 
 Among other things:
 
@@ -17,8 +19,3 @@ Among other things:
 
 
 ## Flashcards {#flashcards}
-
-
-## Backlinks {#backlinks}
-
--   [Ceramists I follow]({{< relref "ceramists_potters_i_follow.md" >}})

@@ -2,9 +2,9 @@
 title = "Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:47:00-07:00
-lastmod = 2023-08-02T12:06:30-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:39:44-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "27b0e33a-6754-40b8-99d8-46650e8626aa"
 +++
@@ -22,7 +22,7 @@ The programming language
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.20 | 7   | 159.95   | 2023-08-11T14:04:41Z |
+| 1        | 2.20 | 8   | 362.45   | 2024-08-08T09:29:45Z |
 | 0        | 2.50 | 7   | 228.92   | 2023-09-24T16:29:06Z |
 
 ```python
@@ -42,7 +42,7 @@ The programming language
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.80 | 7   | 240.61   | 2023-09-14T16:34:34Z |
+| 1        | 2.65 | 3   | 6.00     | 2023-09-27T14:17:55Z |
 | 0        | 2.65 | 8   | 300.40   | 2023-12-31T03:00:51Z |
 
 ```python
@@ -191,7 +191,7 @@ The programming language
 |----------|------|-----|----------|----------------------|
 | 1        | 2.65 | 7   | 324.65   | 2024-06-16T05:21:25Z |
 | 2        | 2.35 | 7   | 252.19   | 2024-03-01T06:09:52Z |
-| 0        | 1.30 | 7   | 24.19    | 2023-08-01T19:45:30Z |
+| 0        | 1.30 | 6   | 14.15    | 2023-10-04T03:31:21Z |
 
 ```python
 {{from itertools import count}@1}
@@ -211,7 +211,7 @@ class Foo:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 7   | 316.43   | 2024-05-22T23:20:41Z |
-| 1        | 2.95 | 6   | 160.27   | 2023-08-27T22:51:05Z |
+| 1        | 2.95 | 7   | 503.49   | 2025-01-14T03:00:48Z |
 
 ```python
 >>> values = ["A", "B", "C", "D"]
@@ -229,7 +229,7 @@ class Foo:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 147.59   | 2023-08-12T04:16:55Z |
+| 0        | 2.80 | 7   | 432.51   | 2024-10-26T04:17:57Z |
 | 1        | 2.80 | 7   | 289.39   | 2024-04-02T23:45:46Z |
 
 ```python
@@ -248,8 +248,8 @@ class Foo:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 127.54   | 2023-08-19T02:16:43Z |
-| 1        | 2.95 | 6   | 141.45   | 2023-08-06T00:49:39Z |
+| 0        | 2.05 | 8   | 240.04   | 2024-04-17T13:47:01Z |
+| 1        | 2.95 | 7   | 403.15   | 2024-09-12T18:20:47Z |
 
 ```python
 >>> s = 'A,B,C,D'
@@ -344,7 +344,7 @@ Infinity in [Python]({{< relref "python.md" >}})
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_2">“PEP 465 A Dedicated Infix Operator for Matrix Multiplication | Peps.Python.Org” n.d.</a>)
+(<a href="#citeproc_bib_item_2">“PEP 465 – A Dedicated Infix Operator for Matrix Multiplication | Peps.Python.Org” n.d.</a>)
 
 
 ### Cloze {#cloze}
@@ -405,7 +405,7 @@ Infinity in [Python]({{< relref "python.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 127.42   | 2023-09-06T09:50:19Z |
+| 0        | 2.20 | 8   | 305.33   | 2024-07-08T22:19:40Z |
 
 ([Python]({{< relref "python.md" >}})) `range(x, y)` produces a list from {{\\([x, y-1]\\)}@0}.
 
@@ -419,7 +419,7 @@ Infinity in [Python]({{< relref "python.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 151.46   | 2023-08-22T03:03:42Z |
+| front    | 2.95 | 7   | 459.08   | 2024-11-27T16:50:49Z |
 | back     | 2.50 | 7   | 239.83   | 2024-02-18T10:04:12Z |
 
 ([Python]({{< relref "python.md" >}})) Dunder
@@ -432,7 +432,7 @@ Names with two leading and two trailing underscores (e.g. `__init__`).
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_3">“PEP 8 Style Guide for Python Code | Peps.Python.Org” n.d.</a>)
+(<a href="#citeproc_bib_item_3">“PEP 8 – Style Guide for Python Code | Peps.Python.Org” n.d.</a>)
 
 
 ### Dunder (i.e double underscore) methods (e.g. `__init__`) {#dunder--i-dot-e-double-underscore--methods--e-dot-g-dot-init}
@@ -443,7 +443,7 @@ Names with two leading and two trailing underscores (e.g. `__init__`).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.35 | 7   | 181.16   | 2023-12-13T17:35:10Z |
-| 1        | 2.35 | 4   | 13.35    | 2023-08-09T22:46:05Z |
+| 1        | 2.35 | 6   | 81.08    | 2023-12-02T14:35:24Z |
 
 {{`random.randint(a, b)`}{[Python]({{< relref "python.md" >}})}@0} returns a random integer in the range {{\\([a, b]\\)}@1}
 
@@ -458,7 +458,7 @@ Names with two leading and two trailing underscores (e.g. `__init__`).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 7   | 165.75   | 2023-11-12T10:03:24Z |
-| 1        | 2.20 | 5   | 28.84    | 2023-08-16T10:02:33Z |
+| 1        | 2.05 | 6   | 63.71    | 2023-10-24T06:25:52Z |
 
 {{`random.randint(a, b)`}@0} is an alias for {{`random.randrange(a, b+1)`}@1}.
 
@@ -474,7 +474,7 @@ Names with two leading and two trailing underscores (e.g. `__init__`).
 |----------|------|-----|----------|----------------------|
 | 0        | 2.20 | 7   | 165.91   | 2023-12-09T13:52:37Z |
 | 1        | 2.80 | 6   | 140.71   | 2023-09-24T10:43:44Z |
-| 2        | 2.50 | 6   | 96.25    | 2023-08-17T22:25:44Z |
+| 2        | 2.50 | 7   | 220.61   | 2024-04-08T09:21:47Z |
 
 {{`random.randrange(start, stop, step)`}@0} returns a random {{integer}@1} in {{`range(start, stop, step)`}@2}.
 
@@ -501,33 +501,33 @@ Names with two leading and two trailing underscores (e.g. `__init__`).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Besbes, Ahmed. 2021. “What’s the Difference between ``Is’’ and ``==’’ in Python.” <i>Medium</i>. <a href="https://towardsdatascience.com/whats-the-difference-between-is-and-in-python-dc26406c85ad">https://towardsdatascience.com/whats-the-difference-between-is-and-in-python-dc26406c85ad</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“PEP 465 A Dedicated Infix Operator for Matrix Multiplication | Peps.Python.Org.” n.d. Accessed January 2, 2023. <a href="https://peps.python.org/pep-0465/">https://peps.python.org/pep-0465/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“PEP 8 Style Guide for Python Code | Peps.Python.Org.” n.d. Accessed January 2, 2023. <a href="https://peps.python.org/pep-0008/">https://peps.python.org/pep-0008/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Besbes, Ahmed. 2021. “What’s the Difference between ‘Is’ and ‘==’ in Python.” Medium. August 18, 2021. <a href="https://towardsdatascience.com/whats-the-difference-between-is-and-in-python-dc26406c85ad">https://towardsdatascience.com/whats-the-difference-between-is-and-in-python-dc26406c85ad</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“PEP 465 – A Dedicated Infix Operator for Matrix Multiplication | Peps.Python.Org.” n.d. Accessed January 2, 2023. <a href="https://peps.python.org/pep-0465/">https://peps.python.org/pep-0465/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“PEP 8 – Style Guide for Python Code | Peps.Python.Org.” n.d. Accessed January 2, 2023. <a href="https://peps.python.org/pep-0008/">https://peps.python.org/pep-0008/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Python 3.11.1 Documentation.” n.d. Accessed December 21, 2022. <a href="https://docs.python.org/3/index.html">https://docs.python.org/3/index.html</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Merge sort]({{< relref "merge_sort.md" >}})
--   [Quickselect]({{< relref "quickselect.md" >}})
--   [Merge sort implementation in Python]({{< relref "merge_sort_implementation_in_python.md" >}})
--   [Python library: queue]({{< relref "python_library_queue.md" >}})
--   [Quicksort]({{< relref "quicksort.md" >}})
--   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
--   [Bubble sort implementation in Python]({{< relref "bubble_sort_implementation_in_python.md" >}})
 -   [Heapsort implementation in python]({{< relref "heapsort_in_python.md" >}})
+-   [Merge sort implementation in Python]({{< relref "merge_sort_implementation_in_python.md" >}})
+-   [Quickselect]({{< relref "quickselect.md" >}})
+-   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Asterisk in Python function arguments]({{< relref "asterisk_in_python_function_arguments.md" >}})
+-   [Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
+-   [Bubble sort implementation in Python]({{< relref "bubble_sort_implementation_in_python.md" >}})
 -   [Iterative deepening depth-first-search implementation in Python]({{< relref "iterative_deepening_depth_first_search_implementation_in_python.md" >}})
 -   [Bellman-Ford implementation in Python]({{< relref "bellman_ford_implementation_in_python.md" >}})
+-   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
 -   [Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
 -   [Pseudo-polynomial time subset sum problem implementation in Python]({{< relref "pseudo_polynomial_time_sumbset_sum_problem_implementation_in_python.md" >}})
+-   [Quickselect implementation in Python]({{< relref "quickselect_implementation_in_python.md" >}})
+-   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
+-   [Jarnik's algorithm implementation in Python]({{< relref "jarnik_s_algorithm_implementation_in_python.md" >}})
 -   [Python typing]({{< relref "python_typing.md" >}})
 -   [Single-source shortest path with topological sort in Python]({{< relref "single_source_shortest_path_with_topological_sort_in_python.md" >}})
--   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
 -   [Jessica Leung, Dmytro Matsypura | Python Language Companion to Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares]({{< relref "jessica_leung_dmytro_matsypura_python_language_companion_to_introduction_to_applied_linear_algebra_vectors_matrices_and_least_squares.md" >}})
--   [Quickselect implementation in Python]({{< relref "quickselect_implementation_in_python.md" >}})
--   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
--   [Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
--   [Jarnik's algorithm implementation in Python]({{< relref "jarnik_s_algorithm_implementation_in_python.md" >}})
+-   [Python library: queue]({{< relref "python_library_queue.md" >}})
+-   [Merge sort]({{< relref "merge_sort.md" >}})
+-   [Quicksort]({{< relref "quicksort.md" >}})

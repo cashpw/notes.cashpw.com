@@ -2,9 +2,9 @@
 title = "Science of discontent"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:25:00-08:00
-lastmod = 2023-08-02T12:19:47-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:43:04-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "1039c652-2f19-4c9f-b72d-04dea94e30ea"
 +++

@@ -2,9 +2,9 @@
 title = "Writing to think"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-01T09:20:00-08:00
-lastmod = 2023-08-02T13:06:37-07:00
-tags = ["has-todo", "has-todo"]
-categories = ["has-todo"]
+lastmod = 2023-09-24T10:56:53-07:00
+tags = ["hastodo", "hastodo"]
+categories = ["hastodo"]
 draft = false
 slug = "bfc1e54d-2c91-4514-ad99-54e6494268bb"
 +++
@@ -26,3 +26,4 @@ See:
 -   [Stephen Kuenzli | Key Practices for Achieving Large Professional Goals]({{< relref "kuenzliKeyPracticesAchievingLargeProfessionalGoals2019.md" >}})
 -   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Sensemaking]({{< relref "sensemaking.md" >}})

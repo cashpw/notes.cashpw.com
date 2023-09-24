@@ -2,7 +2,7 @@
 title = "Collective action problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-04-02T09:50:00-07:00
-lastmod = 2023-08-02T10:42:49-07:00
+lastmod = 2023-09-24T10:01:32-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,7 +26,7 @@ Related:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 80.72    | 2023-09-08T13:37:18Z |
+| front    | 2.20 | 7   | 195.05   | 2024-03-21T17:31:16Z |
 | back     | 2.50 | 6   | 80.73    | 2023-10-02T18:18:52Z |
 
 [Collective action problem]({{< relref "collective_action_problem.md" >}})
@@ -59,5 +59,5 @@ Me
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Collective Action Problem.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Collective_action_problem&oldid=1137138543">https://en.wikipedia.org/w/index.php?title=Collective_action_problem&#38;oldid=1137138543</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Collective Action Problem.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Collective_action_problem&oldid=1137138543">https://en.wikipedia.org/w/index.php?title=Collective_action_problem&#38;oldid=1137138543</a>.</div>
 </div>

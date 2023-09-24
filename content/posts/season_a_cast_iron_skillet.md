@@ -2,7 +2,7 @@
 title = "Season a cast iron skillet"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T18:51:00-07:00
-lastmod = 2023-08-02T12:22:07-07:00
+lastmod = 2023-09-24T10:43:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -66,7 +66,7 @@ How to [Season a cast iron skillet]({{< relref "season_a_cast_iron_skillet.md" >
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 7   | 309.11   | 2024-04-27T04:12:42Z |
-| 1        | 2.65 | 6   | 136.64   | 2023-08-04T07:49:32Z |
+| 1        | 1.90 | 5   | 24.41    | 2023-09-28T23:30:01Z |
 
 ([Season a cast iron skillet]({{< relref "season_a_cast_iron_skillet.md" >}})) Bake the skillet at {{500°}{degrees}@0} for {{1 hour}{time}@1}
 

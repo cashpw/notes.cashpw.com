@@ -2,7 +2,7 @@
 title = "Negative rights"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T09:46:00-07:00
-lastmod = 2023-08-02T11:45:46-07:00
+lastmod = 2023-09-24T10:34:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,7 +49,7 @@ Example: Freedom of speech
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 212.92   | 2023-11-08T13:38:23Z |
-| back     | 2.80 | 7   | 246.43   | 2023-08-29T01:35:44Z |
+| back     | 2.80 | 8   | 637.82   | 2025-05-28T10:51:09Z |
 
 [Negative right]({{< relref "negative_rights.md" >}})
 
@@ -68,8 +68,8 @@ Example: Freedom of speech
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Freedom of Speech.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Freedom_of_speech&oldid=1099766483">https://en.wikipedia.org/w/index.php?title=Freedom_of_speech&#38;oldid=1099766483</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Negative and Positive Rights.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Negative_and_positive_rights&oldid=1098829849">https://en.wikipedia.org/w/index.php?title=Negative_and_positive_rights&#38;oldid=1098829849</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Freedom of Speech.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Freedom_of_speech&oldid=1099766483">https://en.wikipedia.org/w/index.php?title=Freedom_of_speech&#38;oldid=1099766483</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Negative and Positive Rights.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Negative_and_positive_rights&oldid=1098829849">https://en.wikipedia.org/w/index.php?title=Negative_and_positive_rights&#38;oldid=1098829849</a>.</div>
 </div>
 
 

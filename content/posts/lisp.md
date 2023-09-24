@@ -2,7 +2,7 @@
 title = "Lisp"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:45:00-07:00
-lastmod = 2023-08-02T11:30:45-07:00
+lastmod = 2023-09-24T10:27:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -44,7 +44,7 @@ slug = "f6e9082b-3589-448a-9877-b9a2b31d88ba"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.80 | 7   | 261.94   | 2023-10-14T15:33:27Z |
-| 1        | 2.50 | 7   | 230.90   | 2023-09-06T13:01:02Z |
+| 1        | 2.50 | 8   | 593.11   | 2025-04-23T18:52:32Z |
 
 
 #### Extra {#extra}
@@ -57,11 +57,11 @@ slug = "f6e9082b-3589-448a-9877-b9a2b31d88ba"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lisp (Programming Language).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Lisp_(programming_language)&oldid=1093968028">https://en.wikipedia.org/w/index.php?title=Lisp_(programming_language)&#38;oldid=1093968028</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lisp (Programming Language).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Lisp_(programming_language)&oldid=1093968028">https://en.wikipedia.org/w/index.php?title=Lisp_(programming_language)&#38;oldid=1093968028</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Atom]({{< relref "atom.md" >}})
 -   [Symbolic expression]({{< relref "symbolic_expression.md" >}})
+-   [Atom]({{< relref "atom.md" >}})

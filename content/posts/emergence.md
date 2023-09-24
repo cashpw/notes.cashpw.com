@@ -2,9 +2,9 @@
 title = "Emergence"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-15T12:21:00-08:00
-lastmod = 2023-08-02T10:53:15-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:08:37-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "a4d17d3b-f5a7-43fc-87f9-dae2a3cad391"
 +++
@@ -21,7 +21,7 @@ slug = "a4d17d3b-f5a7-43fc-87f9-dae2a3cad391"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Emergence.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Emergence&oldid=1125032050">https://en.wikipedia.org/w/index.php?title=Emergence&#38;oldid=1125032050</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Emergence.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Emergence&oldid=1125032050">https://en.wikipedia.org/w/index.php?title=Emergence&#38;oldid=1125032050</a>.</div>
 </div>
 
 

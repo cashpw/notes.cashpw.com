@@ -4,7 +4,7 @@ title = """
   """
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:00:00-08:00
-lastmod = 2023-08-02T11:43:17-07:00
+lastmod = 2023-09-24T10:32:45-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -52,5 +52,5 @@ slug = "86dde162-154f-49fb-98a9-41dddcf60ecb"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Moores, Dan. 2019. “Cultivate the Skill of Undivided Attention, or ``Deep Work’’.” <i>Letters to a New Developer</i>. <a href="https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/">https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Moores, Dan. 2019. “Cultivate the Skill of Undivided Attention, or ‘Deep Work’.” Letters To A New Developer. December 19, 2019. <a href="https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/">https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/</a>.</div>
 </div>

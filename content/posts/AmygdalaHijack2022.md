@@ -2,7 +2,7 @@
 title = "Amygdala hijack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T09:56:00-07:00
-lastmod = 2023-08-02T10:32:54-07:00
+lastmod = 2023-09-24T09:50:43-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -57,6 +57,6 @@ slug = "d3077e94-b0b6-4880-b17f-0cd06fd06008"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Amygdala Hijack.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Amygdala_hijack&oldid=1070742839">https://en.wikipedia.org/w/index.php?title=Amygdala_hijack&#38;oldid=1070742839</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Amygdala Hijack.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Amygdala_hijack&oldid=1070742839">https://en.wikipedia.org/w/index.php?title=Amygdala_hijack&#38;oldid=1070742839</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Danskin, Ian. n.d. “Endnote 2: White Fascism - YouTube.” Accessed February 8, 2023. <a href="https://www.youtube.com/watch?v=5Luu1Beb8ng&t=431s">https://www.youtube.com/watch?v=5Luu1Beb8ng&#38;t=431s</a>.</div>
 </div>

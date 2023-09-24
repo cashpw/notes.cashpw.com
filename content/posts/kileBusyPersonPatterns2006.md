@@ -2,7 +2,7 @@
 title = "James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-25T18:07:00-07:00
-lastmod = 2023-08-02T11:23:50-07:00
+lastmod = 2023-09-24T10:23:38-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -569,7 +569,7 @@ Isolate important tasks and perform them separately, without multitasking, so yo
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 341.76   | 2024-05-21T19:02:09Z |
-| back     | 1.60 | 6   | 34.66    | 2023-08-03T12:45:27Z |
+| back     | 1.30 | 8   | 63.96    | 2023-11-24T13:19:25Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -614,7 +614,7 @@ Ensure you have the requisite information to start the task. This doesn't mean y
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 353.45   | 2024-05-25T01:21:02Z |
-| back     | 1.90 | 7   | 136.02   | 2023-08-14T16:15:52Z |
+| back     | 1.75 | 8   | 228.02   | 2024-04-11T14:24:46Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
 
@@ -701,7 +701,7 @@ Schedule important work for the time of day when you are most productive/alert/e
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 7   | 152.94   | 2023-09-17T14:30:32Z |
+| front    | 1.90 | 8   | 301.00   | 2024-07-14T23:10:41Z |
 | back     | 2.50 | 7   | 210.79   | 2023-12-03T12:56:43Z |
 
 [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})

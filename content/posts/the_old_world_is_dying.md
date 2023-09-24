@@ -2,7 +2,7 @@
 title = "The old world is dying"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T14:19:00-08:00
-lastmod = 2023-08-02T12:47:06-07:00
+lastmod = 2023-09-24T10:51:03-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

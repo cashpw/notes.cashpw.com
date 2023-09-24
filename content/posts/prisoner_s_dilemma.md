@@ -2,7 +2,7 @@
 title = "Prisoner's dilemma"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T07:01:00-07:00
-lastmod = 2023-08-02T12:02:06-07:00
+lastmod = 2023-09-24T10:38:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -78,16 +78,16 @@ A game in which two individuals must choose to either (1) cooperate or (2) not, 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prisoner’s Dilemma.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Prisoner%27s_dilemma&oldid=1076394820">https://en.wikipedia.org/w/index.php?title=Prisoner%27s_dilemma&#38;oldid=1076394820</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prisoner’s Dilemma.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Prisoner%27s_dilemma&oldid=1076394820">https://en.wikipedia.org/w/index.php?title=Prisoner%27s_dilemma&#38;oldid=1076394820</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Tragedy of the commons]({{< relref "tragedy_of_the_commons.md" >}})
--   [Simultaneous game]({{< relref "simultaneous_game.md" >}})
--   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
--   [Stag hunt]({{< relref "stag_hunt.md" >}})
--   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})
 -   [Symmetric game]({{< relref "symmetric_game.md" >}})
+-   [Simultaneous game]({{< relref "simultaneous_game.md" >}})
+-   [Stag hunt]({{< relref "stag_hunt.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}})

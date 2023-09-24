@@ -2,7 +2,7 @@
 title = "Chicken (game)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:28:00-07:00
-lastmod = 2023-08-02T10:41:25-07:00
+lastmod = 2023-09-24T10:00:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -41,7 +41,7 @@ A game modeling conflict between two players in which they both achieve the best
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Chicken (Game).” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Chicken_(game)&oldid=1100739850">https://en.wikipedia.org/w/index.php?title=Chicken_(game)&#38;oldid=1100739850</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Chicken (Game).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Chicken_(game)&oldid=1100739850">https://en.wikipedia.org/w/index.php?title=Chicken_(game)&#38;oldid=1100739850</a>.</div>
 </div>
 
 

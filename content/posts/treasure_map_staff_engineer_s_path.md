@@ -2,9 +2,9 @@
 title = "Treasure map (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T19:58:00-07:00
-lastmod = 2023-08-02T12:55:40-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:53:34-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "f3ca255f-a05d-4410-8a11-4fc48db1afe7"
 +++
@@ -13,14 +13,14 @@ slug = "f3ca255f-a05d-4410-8a11-4fc48db1afe7"
 >
 > (<a href="#citeproc_bib_item_1">Reilly 2022</a>)
 
+
+## Flashcards {#flashcards}
+
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Reilly, Tanya. 2022. <i>The Staff Engineer’s Path: A Guide for Individual Contributors Navigating Growth and Change</i>. Sebastopol, CA: O’Reilly Media.</div>
 </div>
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

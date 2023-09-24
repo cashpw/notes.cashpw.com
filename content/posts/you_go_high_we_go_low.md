@@ -2,7 +2,7 @@
 title = "You go high, we go low"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:05:00-07:00
-lastmod = 2023-08-02T13:07:28-07:00
+lastmod = 2023-09-24T10:57:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,7 +42,7 @@ A victory-oriented, ends justify the means, [Play to win]({{< relref "play_to_wi
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.45 | 10  | 283.00   | 2023-12-25T14:13:00Z |
-| back     | 2.50 | 3   | 6.00     | 2023-08-01T15:10:07Z |
+| back     | 2.50 | 5   | 38.28    | 2023-10-02T21:52:46Z |
 
 [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})
 
@@ -59,11 +59,11 @@ A victory-oriented, ends justify the means, [Play to win]({{< relref "play_to_wi
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2018. “You Go High, We Go Low.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/179749702607/new-video-essay-this-one-is-about-how">https://innuendostudios.tumblr.com/post/179749702607/new-video-essay-this-one-is-about-how</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2018. “You Go High, We Go Low.” Tumblr. Innuendo Studios. November 4, 2018. <a href="https://innuendostudios.tumblr.com/post/179749702607/new-video-essay-this-one-is-about-how">https://innuendostudios.tumblr.com/post/179749702607/new-video-essay-this-one-is-about-how</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow2018.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})

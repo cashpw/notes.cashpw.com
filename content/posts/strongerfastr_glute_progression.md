@@ -2,7 +2,7 @@
 title = "Strongerfastr | Glute Progression"
 author = ["Cash Weaver"]
 date = 2023-07-06T07:57:00-07:00
-lastmod = 2023-08-02T12:36:46-07:00
+lastmod = 2023-09-24T10:48:19-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

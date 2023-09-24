@@ -2,7 +2,7 @@
 title = "Computational complexity theory"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:35:00-08:00
-lastmod = 2023-08-02T10:43:43-07:00
+lastmod = 2023-09-24T10:02:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "235c1171-e8bd-4b52-820c-109f34a0bc80"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Computational Complexity Theory.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Computational_complexity_theory&oldid=1127400092">https://en.wikipedia.org/w/index.php?title=Computational_complexity_theory&#38;oldid=1127400092</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Computational Complexity Theory.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Computational_complexity_theory&oldid=1127400092">https://en.wikipedia.org/w/index.php?title=Computational_complexity_theory&#38;oldid=1127400092</a>.</div>
 </div>
 
 

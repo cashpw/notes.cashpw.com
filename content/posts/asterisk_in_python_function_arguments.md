@@ -2,7 +2,7 @@
 title = "Asterisk in Python function arguments"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-08T09:43:00-08:00
-lastmod = 2023-08-02T10:35:13-07:00
+lastmod = 2023-09-24T09:54:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -94,7 +94,7 @@ print(foo(10, **kwargs))
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 6   | 142.60   | 2023-10-01T05:36:50Z |
-| back     | 2.65 | 6   | 113.84   | 2023-08-25T18:09:40Z |
+| back     | 2.65 | 7   | 308.71   | 2024-07-06T07:26:02Z |
 
 Single [Asterisk in Python function arguments]({{< relref "asterisk_in_python_function_arguments.md" >}})
 
@@ -114,8 +114,8 @@ Single [Asterisk in Python function arguments]({{< relref "asterisk_in_python_fu
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 94.13    | 2023-08-04T02:36:45Z |
-| back     | 2.80 | 6   | 117.64   | 2023-08-29T07:10:20Z |
+| front    | 2.50 | 7   | 214.04   | 2024-03-05T16:12:22Z |
+| back     | 2.80 | 7   | 355.66   | 2024-08-19T07:02:39Z |
 
 Double [Asterisk in Python function arguments]({{< relref "asterisk_in_python_function_arguments.md" >}})
 
@@ -134,8 +134,8 @@ Double [Asterisk in Python function arguments]({{< relref "asterisk_in_python_fu
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 117.25   | 2023-08-26T00:48:29Z |
-| back     | 2.65 | 6   | 109.78   | 2023-08-24T12:20:57Z |
+| front    | 2.50 | 7   | 277.45   | 2024-05-30T01:34:59Z |
+| back     | 2.65 | 7   | 301.03   | 2024-06-26T13:21:57Z |
 
 Single [Asterisk in Python function invocations]({{< relref "asterisk_in_python_function_arguments.md" >}})
 
@@ -154,7 +154,7 @@ Expands a tuple of arguments into positional arguments
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 125.59   | 2023-09-02T04:38:23Z |
+| front    | 2.80 | 7   | 325.03   | 2024-07-25T14:17:37Z |
 | back     | 2.80 | 6   | 145.19   | 2023-10-01T21:15:30Z |
 
 Double [Asterisk in Python function invocations]({{< relref "asterisk_in_python_function_arguments.md" >}})
@@ -174,7 +174,7 @@ Expands a dictionary of keyword arguments
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 119.21   | 2023-08-26T03:47:52Z |
+| 0        | 2.80 | 7   | 339.44   | 2024-08-01T00:19:53Z |
 
 Positional arguments {{can't}{can(not)}@0} come after `*` in a [Python]({{< relref "python.md" >}}) function.
 
@@ -186,7 +186,7 @@ Positional arguments {{can't}{can(not)}@0} come after `*` in a [Python]({{< relr
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Python Documentation. n.d. “Glossary.” <i>Python Documentation</i>. Accessed February 8, 2023. <a href="https://docs.python.org/3/glossary.html">https://docs.python.org/3/glossary.html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Python Documentation. n.d. “Glossary.” Python documentation. Accessed February 8, 2023. <a href="https://docs.python.org/3/glossary.html">https://docs.python.org/3/glossary.html</a>.</div>
 </div>
 
 

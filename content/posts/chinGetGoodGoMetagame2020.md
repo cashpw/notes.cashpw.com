@@ -2,7 +2,7 @@
 title = "Cedric Chin | To Get Good, Go After The Metagame"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:01:00-08:00
-lastmod = 2023-08-02T10:41:40-07:00
+lastmod = 2023-09-24T10:00:28-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -87,5 +87,5 @@ Getting good at something is a two step process wherein you learn, and [Git gud]
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “To Get Good, Go After The Metagame.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/to-get-good-go-after-the-metagame/">https://commoncog.com/blog/to-get-good-go-after-the-metagame/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “To Get Good, Go After The Metagame.” Commonplace - The Commoncog Blog. February 25, 2020. <a href="https://commoncog.com/blog/to-get-good-go-after-the-metagame/">https://commoncog.com/blog/to-get-good-go-after-the-metagame/</a>.</div>
 </div>

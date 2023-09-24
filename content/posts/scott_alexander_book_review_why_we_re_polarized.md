@@ -2,7 +2,7 @@
 title = "Scott Alexander | Book Review: Why We're Polarized"
 author = ["Cash Weaver"]
 date = 2023-01-11T14:54:00-08:00
-lastmod = 2023-08-02T12:21:21-07:00
+lastmod = 2023-09-24T10:43:24-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -78,6 +78,6 @@ While I haven't read (<a href="#citeproc_bib_item_2">Klein 2020</a>), this reive
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2021. “Book Review: Why We’re Polarized.” Substack Newsletter. <i>Astral Codex Ten</i>. <a href="https://astralcodexten.substack.com/p/book-review-why-were-polarized">https://astralcodexten.substack.com/p/book-review-why-were-polarized</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2021. “Book Review: Why We’re Polarized.” Substack newsletter. Astral Codex Ten. February 9, 2021. <a href="https://astralcodexten.substack.com/p/book-review-why-were-polarized">https://astralcodexten.substack.com/p/book-review-why-were-polarized</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Klein, Ezra. 2020. <i>Why We’re Polarized</i>. First Avid Reader Press hardcover edition. New York: Avid Reader Press, an imprint of Simon &#38; Schuster, Inc.</div>
 </div>

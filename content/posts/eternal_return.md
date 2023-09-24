@@ -2,9 +2,9 @@
 title = "Eternal return"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:41:00-08:00
-lastmod = 2023-08-02T10:53:43-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:08:56-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "e6d8be33-22e9-4c94-808d-7347f7fc38ed"
 +++
@@ -41,5 +41,5 @@ A concept that the universe and all existence and energy has been recurring, and
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Eternal Return.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Eternal_return&oldid=1107951539">https://en.wikipedia.org/w/index.php?title=Eternal_return&#38;oldid=1107951539</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Eternal Return.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Eternal_return&oldid=1107951539">https://en.wikipedia.org/w/index.php?title=Eternal_return&#38;oldid=1107951539</a>.</div>
 </div>

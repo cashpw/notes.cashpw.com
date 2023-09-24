@@ -2,7 +2,7 @@
 title = "Matrix multiplication"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T08:57:00-08:00
-lastmod = 2023-08-02T11:36:14-07:00
+lastmod = 2023-09-24T10:29:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -185,8 +185,8 @@ For matrices, \\(A\\), \\(B\\), and \\(C = AB\\),
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 111.95   | 2023-08-21T22:20:29Z |
-| back     | 2.50 | 6   | 88.08    | 2023-08-04T19:00:21Z |
+| front    | 2.35 | 3   | 6.00     | 2023-09-27T12:51:46Z |
+| back     | 2.35 | 7   | 207.89   | 2024-03-01T12:04:44Z |
 
 [Matrix multiplication]({{< relref "matrix_multiplication.md" >}}) as a [Linear combination]({{< relref "linear_combination.md" >}}) of rows
 
@@ -246,7 +246,7 @@ $$
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 95.91    | 2023-08-03T12:22:44Z |
+| front    | 1.90 | 4   | 12.11    | 2023-09-26T17:46:04Z |
 | back     | 2.50 | 6   | 89.01    | 2023-08-07T16:23:31Z |
 
 [Matrix multiplication]({{< relref "matrix_multiplication.md" >}}) as a [Linear combination]({{< relref "linear_combination.md" >}}) of columns
@@ -257,11 +257,9 @@ $$
 "Right-to-left
 
 \\[
-A\_{\ell\times n}B\_{n \times m} = \begin{pmatrix}
-B\_{\text{col}\\,0} \cdot \\{A\_{\text{col}\\,0}, \\;\dots\\;, A\_{\text{col}\\,\ell}\\} \\\\
-\vdots \\\\
-B\_{\text{col}\\,m}} \cdot \\{A\_{\text{col}\\,m}, \\;\dots\\;, A\_{\text{col}\\,\ell}\\} \\\\
-\end{pmatrix}
+A\_{\ell\times n}B\_{n \times m} = \begin{bmatrix}
+B\_{\text{col}\\,0} \cdot \\{A\_{\text{col}\\,0}, \\;\dots\\;, A\_{\text{col}\\,\ell}\\}, \cdots, B\_{\text{col}\\,m}} \cdot \\{A\_{\text{col}\\,m}, \\;\dots\\;, A\_{\text{col}\\,\ell}}
+\end{bmatrix}
 \\]
 
 \\[
@@ -303,7 +301,7 @@ $$
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 119.72   | 2023-08-26T15:48:08Z |
+| 0        | 2.35 | 2   | 2.00     | 2023-09-19T23:00:19Z |
 
 \\((A\_{\ell\times n}B\_{n \times m})\_{\text{row}i}\\) \\(=\\) {{\\(A\_{\text{row}\\,i} \cdot \\{B\_{\text{row}\\,0}, \\;\dots\\;, B\_{\text{row}\\,m}\\}\\)}@0}
 
@@ -317,7 +315,7 @@ $$
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 117.97   | 2023-08-29T14:50:27Z |
+| 0        | 2.80 | 7   | 327.74   | 2024-08-12T17:44:44Z |
 
 \\((A\_{\ell\times n}B\_{n \times m})\_{\text{col}\\,i}\\) \\(=\\) {{\\(B\_{\text{col}\\,i} \cdot \\{A\_{\text{col}\\,0}, \\;\dots\\;, A\_{\text{col}\\,\ell}\\}\\)}@0}
 
@@ -330,5 +328,5 @@ $$
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Bendersky, Eli. n.d. “Visualizing Matrix Multiplication as a Linear Combination - Eli Bendersky’s Website.” Accessed February 3, 2023. <a href="https://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/">https://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Matrix Multiplication.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Matrix_multiplication&oldid=1134502867">https://en.wikipedia.org/w/index.php?title=Matrix_multiplication&#38;oldid=1134502867</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Matrix Multiplication.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Matrix_multiplication&oldid=1134502867">https://en.wikipedia.org/w/index.php?title=Matrix_multiplication&#38;oldid=1134502867</a>.</div>
 </div>

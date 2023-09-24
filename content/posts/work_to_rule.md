@@ -2,7 +2,7 @@
 title = "Work-to-rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T09:42:00-08:00
-lastmod = 2023-08-02T13:06:08-07:00
+lastmod = 2023-09-24T10:56:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "83d72898-e7df-48d7-9cbc-6c0f99096b2f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 130.99   | 2023-08-04T13:22:23Z |
+| front    | 2.80 | 7   | 378.36   | 2024-08-16T23:59:43Z |
 | back     | 2.65 | 7   | 309.60   | 2024-05-28T18:23:46Z |
 
 [Work-to-rule]({{< relref "work_to_rule.md" >}})
@@ -39,7 +39,7 @@ A job action in which employees do no more than the minimum required by the rule
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Work-to-Rule.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Work-to-rule&oldid=1131215880">https://en.wikipedia.org/w/index.php?title=Work-to-rule&#38;oldid=1131215880</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Work-to-Rule.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Work-to-rule&oldid=1131215880">https://en.wikipedia.org/w/index.php?title=Work-to-rule&#38;oldid=1131215880</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "The medium is the message"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-26T15:18:00-07:00
-lastmod = 2023-08-02T12:46:51-07:00
+lastmod = 2023-09-24T10:50:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -47,8 +47,8 @@ Messages must conform to the rules of their medium. A medium controls the types 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Gross, Jason. 12AD. “The Medium Is The Message.” <i>Smashing Magazine</i>. <a href="https://www.smashingmagazine.com/2011/07/the-medium-is-the-message/">https://www.smashingmagazine.com/2011/07/the-medium-is-the-message/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“The Medium Is the Message.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=The_medium_is_the_message&oldid=1105745393">https://en.wikipedia.org/w/index.php?title=The_medium_is_the_message&#38;oldid=1105745393</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Gross, Jason. 12AD. “The Medium Is The Message.” Smashing Magazine. 12AD. <a href="https://www.smashingmagazine.com/2011/07/the-medium-is-the-message/">https://www.smashingmagazine.com/2011/07/the-medium-is-the-message/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“The Medium Is the Message.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=The_medium_is_the_message&oldid=1105745393">https://en.wikipedia.org/w/index.php?title=The_medium_is_the_message&#38;oldid=1105745393</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Identity matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:21:00-07:00
-lastmod = 2023-08-02T11:09:38-07:00
+lastmod = 2023-09-24T10:17:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,7 @@ slug = "562ca40a-737f-43b5-9ff5-47c5996f9b5c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 8   | 231.49   | 2023-08-18T05:17:46Z |
+| front    | 2.35 | 9   | 511.60   | 2025-01-18T05:47:31Z |
 | back     | 2.35 | 10  | 353.88   | 2024-03-01T11:34:10Z |
 
 [Identity matrix]({{< relref "identity_matrix.md" >}})
@@ -58,7 +58,7 @@ slug = "562ca40a-737f-43b5-9ff5-47c5996f9b5c"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Identity Matrix.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Identity_matrix&oldid=1096591290">https://en.wikipedia.org/w/index.php?title=Identity_matrix&#38;oldid=1096591290</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Identity Matrix.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Identity_matrix&oldid=1096591290">https://en.wikipedia.org/w/index.php?title=Identity_matrix&#38;oldid=1096591290</a>.</div>
 </div>
 
 

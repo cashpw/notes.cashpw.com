@@ -2,7 +2,7 @@
 title = "Higher order questions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-20T16:48:00-08:00
-lastmod = 2023-08-02T11:07:26-07:00
+lastmod = 2023-09-24T10:16:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,7 @@ Also see [Lower order questions]({{< relref "lower_order_questions.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 7   | 127.89   | 2023-09-06T20:47:47Z |
+| front    | 2.05 | 8   | 279.20   | 2024-06-12T19:44:03Z |
 | back     | 2.65 | 7   | 244.66   | 2024-02-18T06:16:37Z |
 
 [Higher order questions]({{< relref "higher_order_questions.md" >}})
@@ -56,7 +56,7 @@ Questions which go beyond simple information; abstract language functions such a
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Higher-Order Questions.” n.d. <i>Teachingenglish</i>. Accessed December 21, 2022. <a href="https://www.teachingenglish.org.uk/article/higher-order-questions">https://www.teachingenglish.org.uk/article/higher-order-questions</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Higher-Order Questions.” n.d. TeachingEnglish. Accessed December 21, 2022. <a href="https://www.teachingenglish.org.uk/article/higher-order-questions">https://www.teachingenglish.org.uk/article/higher-order-questions</a>.</div>
 </div>
 
 

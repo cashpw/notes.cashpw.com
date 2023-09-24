@@ -2,7 +2,7 @@
 title = "Theory of mind"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T07:44:00-08:00
-lastmod = 2023-08-02T12:49:16-07:00
+lastmod = 2023-09-24T10:51:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,7 +27,7 @@ slug = "10453cfb-8266-404d-93e6-768747d30b74"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 122.74   | 2023-08-01T09:53:01Z |
+| front    | 2.80 | 7   | 329.46   | 2024-06-29T02:10:47Z |
 | back     | 2.20 | 7   | 152.86   | 2023-10-23T16:58:35Z |
 
 [Theory of mind]({{< relref "theory_of_mind.md" >}})
@@ -47,8 +47,8 @@ slug = "10453cfb-8266-404d-93e6-768747d30b74"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2015. “What Developmental Milestones Are You Missing?” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/">https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Theory of Mind.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Theory_of_mind&oldid=1126430421">https://en.wikipedia.org/w/index.php?title=Theory_of_mind&#38;oldid=1126430421</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2015. “What Developmental Milestones Are You Missing?” Slate Star Codex. November 4, 2015. <a href="https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/">https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Theory of Mind.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Theory_of_mind&oldid=1126430421">https://en.wikipedia.org/w/index.php?title=Theory_of_mind&#38;oldid=1126430421</a>.</div>
 </div>
 
 

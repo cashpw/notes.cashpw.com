@@ -2,9 +2,9 @@
 title = "Math"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T11:15:00-08:00
-lastmod = 2023-08-02T11:35:30-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:29:29-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "714128e9-11e7-44ec-8635-c978630d546d"
 +++
@@ -17,7 +17,7 @@ slug = "714128e9-11e7-44ec-8635-c978630d546d"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 11  | 341.52   | 2024-02-10T05:54:40Z |
-| 1        | 1.75 | 7   | 50.37    | 2023-05-01T09:16:28Z |
+| 1        | 1.75 | 8   | 94.30    | 2023-12-15T19:35:54Z |
 
 -   {{P/E ratio}@0}
 -   {{Price multiple}@1}
@@ -25,7 +25,7 @@ slug = "714128e9-11e7-44ec-8635-c978630d546d"
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_67">“Price Earnings Ratio” 2022</a>)
+(<a href="#citeproc_bib_item_67">“Price–Earnings Ratio” 2022</a>)
 
 
 ### AKA {#aka}
@@ -49,7 +49,7 @@ slug = "714128e9-11e7-44ec-8635-c978630d546d"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.80 | 10  | 290.30   | 2023-10-22T22:32:07Z |
-| 1        | 2.15 | 6   | 69.75    | 2023-05-09T22:17:23Z |
+| 1        | 2.15 | 7   | 156.36   | 2024-02-01T23:35:13Z |
 
 -   {{Identity element}@0}
 -   {{Neutral element}@1}
@@ -274,7 +274,7 @@ Denoted \\(x^{-1}\\) or \\(\frac{1}{x}\\).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.05 | 4   | 11.17    | 2023-07-28T17:50:09Z |
+| back     | 2.05 | 5   | 23.66    | 2023-08-29T07:27:37Z |
 | front    | 2.65 | 8   | 493.62   | 2024-10-10T14:55:52Z |
 
 Codomain of a function
@@ -391,7 +391,7 @@ A finite combination of symbols that is well-formed according to the rules (whic
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 9   | 231.58   | 2023-08-04T10:38:16Z |
+| back     | 2.50 | 10  | 555.80   | 2025-02-10T10:13:57Z |
 | front    | 2.65 | 8   | 274.28   | 2023-09-21T22:12:16Z |
 
 Field (Math)
@@ -567,7 +567,7 @@ Informally: A transformation between two vector spaces consisting of a linear tr
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 7   | 116.51   | 2023-08-12T04:04:16Z |
+| 0        | 2.05 | 8   | 251.72   | 2024-05-20T05:57:37Z |
 | 1        | 2.65 | 9   | 447.52   | 2024-08-13T08:47:19Z |
 
 -   {{\\((f \circ g)(x)\\)}@0}
@@ -585,7 +585,7 @@ Informally: A transformation between two vector spaces consisting of a linear tr
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.15 | 14  | 191.08   | 2023-09-03T05:39:17Z |
-| 1        | 2.20 | 7   | 149.87   | 2023-08-02T14:23:57Z |
+| 1        | 2.05 | 8   | 306.44   | 2024-06-10T01:44:48Z |
 | 2        | 2.80 | 7   | 388.46   | 2024-08-17T14:00:37Z |
 
 -   {{Step function}@0}
@@ -767,7 +767,7 @@ A function which is zero over the whole real number line except for a single int
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.80 | 13  | 282.31   | 2023-10-27T22:47:17Z |
-| front    | 1.75 | 2   | 2.00     | 2023-06-30T17:13:48Z |
+| front    | 1.75 | 3   | 6.00     | 2023-08-12T14:43:23Z |
 
 Centroid
 
@@ -1118,7 +1118,7 @@ Addition, subtraction, multiplication, and division
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 8   | 234.95   | 2023-08-07T19:24:35Z |
+| 0        | 2.05 | 1   | 1.00     | 2023-09-15T15:21:04Z |
 | 1        | 2.20 | 8   | 217.36   | 2023-09-07T01:34:02Z |
 
 -   {{Injective function}@0}
@@ -1170,7 +1170,7 @@ Addition, subtraction, multiplication, and division
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 149.44   | 2023-08-18T03:24:21Z |
+| 0        | 2.05 | 8   | 302.86   | 2024-07-07T12:51:16Z |
 | 1        | 2.65 | 7   | 122.56   | 2023-03-23T15:51:07Z |
 
 -   {{Postfix notation}@0}
@@ -1224,7 +1224,7 @@ Addition, subtraction, multiplication, and division
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 7   | 252.39   | 2023-12-09T00:57:08Z |
-| 1        | 3.10 | 6   | 173.26   | 2023-07-30T06:02:25Z |
+| 1        | 2.80 | 1   | 1.00     | 2023-08-11T00:49:32Z |
 
 -   {{Real function}@0}
 -   {{Function of a real variable}@1}
@@ -1309,7 +1309,7 @@ A step function whose value is zero for all negative arguments and one for all p
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.20 | 3   | 6.00     | 2023-08-04T14:56:09Z |
+| back     | 2.20 | 5   | 28.22    | 2023-10-05T19:38:01Z |
 | front    | 2.50 | 8   | 282.96   | 2023-11-16T22:45:49Z |
 
 Homomorphism
@@ -1444,7 +1444,7 @@ The points on a curve where the curvature changes its sign; between concave and 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.20 | 8   | 228.67   | 2023-09-17T06:15:30Z |
+| back     | 1.90 | 1   | 1.00     | 2023-09-19T15:54:40Z |
 | front    | 2.65 | 8   | 306.09   | 2024-01-08T20:37:10Z |
 
 Injective function
@@ -1699,7 +1699,7 @@ eg: trig functions
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 6   | 89.81    | 2023-09-13T08:42:27Z |
+| back     | 2.50 | 7   | 208.00   | 2024-04-12T22:52:55Z |
 | front    | 2.65 | 8   | 347.81   | 2024-03-02T11:48:49Z |
 
 Postfix notation
@@ -1820,7 +1820,7 @@ A number that can be expressed as the quotient of two integers.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.80 | 9   | 552.62   | 2024-12-28T04:07:44Z |
-| front    | 2.50 | 6   | 120.36   | 2023-05-21T22:45:49Z |
+| front    | 2.50 | 7   | 302.27   | 2024-07-18T06:22:37Z |
 
 Real function
 
@@ -1920,7 +1920,7 @@ Rectangular function
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 79.15    | 2023-08-20T04:51:45Z |
+| front    | 2.35 | 7   | 171.56   | 2024-02-09T02:08:13Z |
 | back     | 2.80 | 8   | 297.17   | 2023-12-19T21:36:30Z |
 
 Even function
@@ -1966,7 +1966,7 @@ Even function
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 8   | 246.87   | 2023-08-22T00:33:46Z |
+| front    | 2.50 | 9   | 647.82   | 2025-06-08T08:15:45Z |
 | back     | 2.80 | 10  | 351.40   | 2024-02-10T13:31:45Z |
 
 Closed-form expression
@@ -2088,7 +2088,7 @@ Dirac delta function
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 9   | 441.64   | 2024-06-26T07:26:07Z |
-| back     | 2.35 | 6   | 81.48    | 2023-05-29T06:04:31Z |
+| back     | 2.20 | 7   | 196.20   | 2024-03-24T18:20:18Z |
 
 Heaviside step function
 
@@ -2167,7 +2167,7 @@ Step function
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 8   | 241.16   | 2023-08-14T21:37:46Z |
+| front    | 2.65 | 9   | 593.49   | 2025-04-30T02:42:17Z |
 | back     | 2.80 | 8   | 296.82   | 2023-10-29T10:35:24Z |
 
 Unit ramp function
@@ -2221,7 +2221,7 @@ Unit ramp function
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 7   | 195.55   | 2023-08-01T03:45:47Z |
+| 0        | 2.95 | 8   | 543.62   | 2025-02-13T14:24:20Z |
 | 1        | 2.95 | 7   | 279.43   | 2023-11-15T04:39:00Z |
 
 
@@ -2237,7 +2237,7 @@ Unit ramp function
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 198.26   | 2023-08-16T22:35:50Z |
+| 0        | 2.50 | 8   | 483.58   | 2024-12-17T03:21:20Z |
 | 1        | 2.65 | 7   | 172.89   | 2023-06-05T15:58:24Z |
 
 
@@ -2264,7 +2264,7 @@ Unit ramp function
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_54">ain’t a mathematician 2010</a>)
+(<a href="#citeproc_bib_item_54">mathematician 2010</a>)
 
 
 ### {{\\(\operatorname{ramp}(x)\\)}@0} \\(=\\) {{\\(\begin{cases} 0 & \text{if}\\; x < 0 \\\ x & \text{if}\\; x \ge 0\end{cases}\\)}{cases}@1} {#operatorname-ramp--x--0-begin-cases-0-and-text-if-x-0-x-and-text-if-x-ge-0-end-cases-cases-1}
@@ -2566,14 +2566,14 @@ Eg: \\(x + y + z = 0\\) has 2 degrees of freedom
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_60">“Natural Number Infinite Series 1 + 2 + 3 + 4 + $\cdots$” 2022</a>)
+(<a href="#citeproc_bib_item_60">“Natural Number Infinite Series 1 + 2 + 3 + 4 + ⋯” 2022</a>)
 
 
 ### Definition (Math) {#definition--math}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.60 | 8   | 105.68   | 2023-08-27T08:37:41Z |
+| back     | 1.45 | 9   | 161.61   | 2024-02-13T04:00:44Z |
 | front    | 2.50 | 7   | 219.33   | 2023-07-25T23:45:35Z |
 
 Invariant
@@ -2719,8 +2719,8 @@ A method of approximating some function, one that cannot be expressed only with 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 9   | 234.03   | 2023-08-20T19:11:35Z |
-| front    | 3.10 | 6   | 179.98   | 2023-07-05T14:13:42Z |
+| back     | 2.50 | 10  | 600.46   | 2025-04-19T00:21:46Z |
+| front    | 3.10 | 7   | 594.72   | 2025-04-06T09:03:36Z |
 
 Significand
 
@@ -2802,7 +2802,7 @@ Where
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 2   | 2.00     | 2023-08-03T01:20:39Z |
+| back     | 2.35 | 5   | 35.66    | 2023-10-27T04:38:32Z |
 | front    | 2.20 | 6   | 75.15    | 2023-04-04T19:58:25Z |
 
 Subadditivity
@@ -2895,7 +2895,7 @@ The set of all possible outputs of a function.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.80 | 8   | 315.35   | 2024-01-08T00:31:15Z |
-| front    | 2.65 | 8   | 202.53   | 2023-06-06T03:43:17Z |
+| front    | 2.65 | 9   | 547.53   | 2025-02-06T03:43:20Z |
 
 Unary function
 
@@ -2946,7 +2946,7 @@ A ramp function with a slope of one, starting at zero.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 8   | 254.01   | 2023-08-16T18:13:52Z |
+| back     | 2.65 | 9   | 681.32   | 2025-07-07T22:14:45Z |
 | front    | 2.50 | 8   | 345.36   | 2024-02-04T12:13:49Z |
 
 Weighted moving average
@@ -3057,7 +3057,7 @@ The convolution of the underlying data points with a fixed weighting function; \
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.45 | 14  | 382.59   | 2024-05-18T13:23:27Z |
-| 1        | 2.35 | 8   | 206.18   | 2023-07-04T21:42:48Z |
+| 1        | 2.35 | 9   | 450.64   | 2024-12-03T14:36:27Z |
 
 -   {{\\(\delta\_{ij}\\)}@0}
 
@@ -3158,7 +3158,7 @@ The convolution of the underlying data points with a fixed weighting function; \
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 8   | 242.17   | 2023-08-17T22:55:44Z |
+| 0        | 2.35 | 9   | 598.43   | 2025-04-17T23:11:28Z |
 | 1        | 2.50 | 8   | 281.94   | 2023-11-19T22:52:20Z |
 
 -   {{\\(\neg\\)}@0}
@@ -3175,8 +3175,8 @@ The convolution of the underlying data points with a fixed weighting function; \
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 215.04   | 2023-08-20T02:56:08Z |
-| 1        | 2.50 | 7   | 209.03   | 2023-08-14T15:09:20Z |
+| 0        | 2.65 | 8   | 604.94   | 2025-04-27T17:01:58Z |
+| 1        | 2.35 | 8   | 527.17   | 2025-02-13T19:28:26Z |
 
 -   {{\\(\therefore\\)}@0}
 
@@ -3206,7 +3206,7 @@ The output of a dynamic system when presented with a brief input signal, called 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 7   | 276.12   | 2024-04-02T17:02:40Z |
-| 1        | 2.80 | 6   | 118.23   | 2023-08-06T20:42:40Z |
+| 1        | 2.65 | 7   | 295.83   | 2024-06-01T10:27:05Z |
 
 {{\\(x^{-y}\\)}@0} \\(=\\) {{\\(\frac{1}{x^y}\\)}@1}
 
@@ -3216,90 +3216,90 @@ The output of a dynamic system when presented with a brief input signal, called 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Affine Transformation.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Affine_transformation&oldid=1125144549">https://en.wikipedia.org/w/index.php?title=Affine_transformation&#38;oldid=1125144549</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Arg Max.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Arg_max&oldid=1115507639">https://en.wikipedia.org/w/index.php?title=Arg_max&#38;oldid=1115507639</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Arity.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Arity&oldid=1120643841">https://en.wikipedia.org/w/index.php?title=Arity&#38;oldid=1120643841</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Associative Property.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Associative_property&oldid=1120823229">https://en.wikipedia.org/w/index.php?title=Associative_property&#38;oldid=1120823229</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>“Asymptote.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Asymptote&oldid=1120501401">https://en.wikipedia.org/w/index.php?title=Asymptote&#38;oldid=1120501401</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>“Automorphism.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Automorphism&oldid=1126480091">https://en.wikipedia.org/w/index.php?title=Automorphism&#38;oldid=1126480091</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>“Bijection.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Bijection&oldid=1128043142">https://en.wikipedia.org/w/index.php?title=Bijection&#38;oldid=1128043142</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>“Binary Operation.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Binary_operation&oldid=1119993223">https://en.wikipedia.org/w/index.php?title=Binary_operation&#38;oldid=1119993223</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>“Boxcar Function.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Boxcar_function&oldid=1090805874">https://en.wikipedia.org/w/index.php?title=Boxcar_function&#38;oldid=1090805874</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>“Cardinality.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Cardinality&oldid=1122778126">https://en.wikipedia.org/w/index.php?title=Cardinality&#38;oldid=1122778126</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>“Centroid.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Centroid&oldid=1122674853">https://en.wikipedia.org/w/index.php?title=Centroid&#38;oldid=1122674853</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>“Closed-Form Expression.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Closed-form_expression&oldid=1122803483">https://en.wikipedia.org/w/index.php?title=Closed-form_expression&#38;oldid=1122803483</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>“Closure (Mathematics).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Closure_(mathematics)&oldid=1129439080">https://en.wikipedia.org/w/index.php?title=Closure_(mathematics)&#38;oldid=1129439080</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>“Codomain.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Codomain&oldid=1123741092">https://en.wikipedia.org/w/index.php?title=Codomain&#38;oldid=1123741092</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>“Commutative Property.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Commutative_property&oldid=1121977193">https://en.wikipedia.org/w/index.php?title=Commutative_property&#38;oldid=1121977193</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>“Concave Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Concave_function&oldid=1119690722">https://en.wikipedia.org/w/index.php?title=Concave_function&#38;oldid=1119690722</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>“Conditional Probability.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Conditional_probability&oldid=1126421689">https://en.wikipedia.org/w/index.php?title=Conditional_probability&#38;oldid=1126421689</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>“Constant Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Constant_function&oldid=1124161371">https://en.wikipedia.org/w/index.php?title=Constant_function&#38;oldid=1124161371</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>“Convex Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Convex_function&oldid=1124663521">https://en.wikipedia.org/w/index.php?title=Convex_function&#38;oldid=1124663521</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>“Convolution.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Convolution&oldid=1106387921">https://en.wikipedia.org/w/index.php?title=Convolution&#38;oldid=1106387921</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>“Decimal.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Decimal&oldid=1131085813">https://en.wikipedia.org/w/index.php?title=Decimal&#38;oldid=1131085813</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>“Decimal Separator.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Decimal_separator&oldid=1130713917#Radix_point">https://en.wikipedia.org/w/index.php?title=Decimal_separator&#38;oldid=1130713917#Radix_point</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>“Degrees of Freedom (Statistics).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Degrees_of_freedom_(statistics)&oldid=1095839190">https://en.wikipedia.org/w/index.php?title=Degrees_of_freedom_(statistics)&#38;oldid=1095839190</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>“Dirac Delta Function.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Dirac_delta_function&oldid=1129524730">https://en.wikipedia.org/w/index.php?title=Dirac_delta_function&#38;oldid=1129524730</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>“Domain of a Function.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Domain_of_a_function&oldid=1077236642">https://en.wikipedia.org/w/index.php?title=Domain_of_a_function&#38;oldid=1077236642</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>“Even and Odd Functions.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Even_and_odd_functions&oldid=1104869127">https://en.wikipedia.org/w/index.php?title=Even_and_odd_functions&#38;oldid=1104869127</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>“Exponentiation.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Exponentiation&oldid=1130493594">https://en.wikipedia.org/w/index.php?title=Exponentiation&#38;oldid=1130493594</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>“Expression (Mathematics).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Expression_(mathematics)&oldid=1120644165">https://en.wikipedia.org/w/index.php?title=Expression_(mathematics)&#38;oldid=1120644165</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>“Field (Mathematics).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Field_(mathematics)&oldid=1129726309">https://en.wikipedia.org/w/index.php?title=Field_(mathematics)&#38;oldid=1129726309</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>“Function Composition.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Function_composition&oldid=1110226704">https://en.wikipedia.org/w/index.php?title=Function_composition&#38;oldid=1110226704</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>“Function of a Real Variable.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Function_of_a_real_variable&oldid=1114873921">https://en.wikipedia.org/w/index.php?title=Function_of_a_real_variable&#38;oldid=1114873921</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>“Heaviside Step Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Heaviside_step_function&oldid=1124842146">https://en.wikipedia.org/w/index.php?title=Heaviside_step_function&#38;oldid=1124842146</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Affine Transformation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Affine_transformation&oldid=1125144549">https://en.wikipedia.org/w/index.php?title=Affine_transformation&#38;oldid=1125144549</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Arg Max.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Arg_max&oldid=1115507639">https://en.wikipedia.org/w/index.php?title=Arg_max&#38;oldid=1115507639</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Arity.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Arity&oldid=1120643841">https://en.wikipedia.org/w/index.php?title=Arity&#38;oldid=1120643841</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Associative Property.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Associative_property&oldid=1120823229">https://en.wikipedia.org/w/index.php?title=Associative_property&#38;oldid=1120823229</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>“Asymptote.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Asymptote&oldid=1120501401">https://en.wikipedia.org/w/index.php?title=Asymptote&#38;oldid=1120501401</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>“Automorphism.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Automorphism&oldid=1126480091">https://en.wikipedia.org/w/index.php?title=Automorphism&#38;oldid=1126480091</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>“Bijection.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Bijection&oldid=1128043142">https://en.wikipedia.org/w/index.php?title=Bijection&#38;oldid=1128043142</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>“Binary Operation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Binary_operation&oldid=1119993223">https://en.wikipedia.org/w/index.php?title=Binary_operation&#38;oldid=1119993223</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>“Boxcar Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Boxcar_function&oldid=1090805874">https://en.wikipedia.org/w/index.php?title=Boxcar_function&#38;oldid=1090805874</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>“Cardinality.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Cardinality&oldid=1122778126">https://en.wikipedia.org/w/index.php?title=Cardinality&#38;oldid=1122778126</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>“Centroid.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Centroid&oldid=1122674853">https://en.wikipedia.org/w/index.php?title=Centroid&#38;oldid=1122674853</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>“Closed-Form Expression.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Closed-form_expression&oldid=1122803483">https://en.wikipedia.org/w/index.php?title=Closed-form_expression&#38;oldid=1122803483</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>“Closure (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Closure_(mathematics)&oldid=1129439080">https://en.wikipedia.org/w/index.php?title=Closure_(mathematics)&#38;oldid=1129439080</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>“Codomain.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Codomain&oldid=1123741092">https://en.wikipedia.org/w/index.php?title=Codomain&#38;oldid=1123741092</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>“Commutative Property.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Commutative_property&oldid=1121977193">https://en.wikipedia.org/w/index.php?title=Commutative_property&#38;oldid=1121977193</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>“Concave Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Concave_function&oldid=1119690722">https://en.wikipedia.org/w/index.php?title=Concave_function&#38;oldid=1119690722</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>“Conditional Probability.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Conditional_probability&oldid=1126421689">https://en.wikipedia.org/w/index.php?title=Conditional_probability&#38;oldid=1126421689</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>“Constant Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Constant_function&oldid=1124161371">https://en.wikipedia.org/w/index.php?title=Constant_function&#38;oldid=1124161371</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>“Convex Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Convex_function&oldid=1124663521">https://en.wikipedia.org/w/index.php?title=Convex_function&#38;oldid=1124663521</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>“Convolution.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Convolution&oldid=1106387921">https://en.wikipedia.org/w/index.php?title=Convolution&#38;oldid=1106387921</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>“Decimal.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Decimal&oldid=1131085813">https://en.wikipedia.org/w/index.php?title=Decimal&#38;oldid=1131085813</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>“Decimal Separator.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Decimal_separator&oldid=1130713917#Radix_point">https://en.wikipedia.org/w/index.php?title=Decimal_separator&#38;oldid=1130713917#Radix_point</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>“Degrees of Freedom (Statistics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Degrees_of_freedom_(statistics)&oldid=1095839190">https://en.wikipedia.org/w/index.php?title=Degrees_of_freedom_(statistics)&#38;oldid=1095839190</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>“Dirac Delta Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Dirac_delta_function&oldid=1129524730">https://en.wikipedia.org/w/index.php?title=Dirac_delta_function&#38;oldid=1129524730</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>“Domain of a Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Domain_of_a_function&oldid=1077236642">https://en.wikipedia.org/w/index.php?title=Domain_of_a_function&#38;oldid=1077236642</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>“Even and Odd Functions.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Even_and_odd_functions&oldid=1104869127">https://en.wikipedia.org/w/index.php?title=Even_and_odd_functions&#38;oldid=1104869127</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>“Exponentiation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Exponentiation&oldid=1130493594">https://en.wikipedia.org/w/index.php?title=Exponentiation&#38;oldid=1130493594</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>“Expression (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Expression_(mathematics)&oldid=1120644165">https://en.wikipedia.org/w/index.php?title=Expression_(mathematics)&#38;oldid=1120644165</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>“Field (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Field_(mathematics)&oldid=1129726309">https://en.wikipedia.org/w/index.php?title=Field_(mathematics)&#38;oldid=1129726309</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>“Function Composition.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Function_composition&oldid=1110226704">https://en.wikipedia.org/w/index.php?title=Function_composition&#38;oldid=1110226704</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>“Function of a Real Variable.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Function_of_a_real_variable&oldid=1114873921">https://en.wikipedia.org/w/index.php?title=Function_of_a_real_variable&#38;oldid=1114873921</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>“Heaviside Step Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Heaviside_step_function&oldid=1124842146">https://en.wikipedia.org/w/index.php?title=Heaviside_step_function&#38;oldid=1124842146</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_33"></a>Hefferon, Jim. 2020. <i>Linear Algebra</i>. S.l.: ORTHOGONAL PUBLISHING L3C. <a href="https://gitlab.com/jim.hefferon/linear-algebra">https://gitlab.com/jim.hefferon/linear-algebra</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_34"></a>“Homomorphism.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Homomorphism&oldid=1130651105">https://en.wikipedia.org/w/index.php?title=Homomorphism&#38;oldid=1130651105</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_35"></a>“Idempotence.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Idempotence&oldid=1124996711">https://en.wikipedia.org/w/index.php?title=Idempotence&#38;oldid=1124996711</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_36"></a>“Idempotent (Ring Theory).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Idempotent_(ring_theory)&oldid=1117765581">https://en.wikipedia.org/w/index.php?title=Idempotent_(ring_theory)&#38;oldid=1117765581</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_37"></a>“Identity Element.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Identity_element&oldid=1110301190">https://en.wikipedia.org/w/index.php?title=Identity_element&#38;oldid=1110301190</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_38"></a>“Image (Mathematics).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Image_(mathematics)&oldid=1120531824">https://en.wikipedia.org/w/index.php?title=Image_(mathematics)&#38;oldid=1120531824</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_39"></a>“Impulse Response.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Impulse_response&oldid=1118102056">https://en.wikipedia.org/w/index.php?title=Impulse_response&#38;oldid=1118102056</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_40"></a>“Indicator Function.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Indicator_function&oldid=1111285341">https://en.wikipedia.org/w/index.php?title=Indicator_function&#38;oldid=1111285341</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_41"></a>“Infix Notation.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Infix_notation&oldid=1118787524">https://en.wikipedia.org/w/index.php?title=Infix_notation&#38;oldid=1118787524</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_42"></a>“Inflection Point.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Inflection_point&oldid=1081370682">https://en.wikipedia.org/w/index.php?title=Inflection_point&#38;oldid=1081370682</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_43"></a>“Injective Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Injective_function&oldid=1122880558">https://en.wikipedia.org/w/index.php?title=Injective_function&#38;oldid=1122880558</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_44"></a>“Integer.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Integer&oldid=1126772195">https://en.wikipedia.org/w/index.php?title=Integer&#38;oldid=1126772195</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_45"></a>“Interval (Mathematics).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Interval_(mathematics)&oldid=1128544570">https://en.wikipedia.org/w/index.php?title=Interval_(mathematics)&#38;oldid=1128544570</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_46"></a>“Invariant (Mathematics).” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Invariant_(mathematics)&oldid=1079583789">https://en.wikipedia.org/w/index.php?title=Invariant_(mathematics)&#38;oldid=1079583789</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_47"></a>“Inverse Element.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Inverse_element&oldid=1124406106">https://en.wikipedia.org/w/index.php?title=Inverse_element&#38;oldid=1124406106</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_48"></a>“Isomorphism.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Isomorphism&oldid=1126439942">https://en.wikipedia.org/w/index.php?title=Isomorphism&#38;oldid=1126439942</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_49"></a>“Kronecker Delta.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Kronecker_delta&oldid=1130179321">https://en.wikipedia.org/w/index.php?title=Kronecker_delta&#38;oldid=1130179321</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_50"></a>“Law of Cosines.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Law_of_cosines&oldid=1122677091">https://en.wikipedia.org/w/index.php?title=Law_of_cosines&#38;oldid=1122677091</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_51"></a>“Lemma (Mathematics).” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Lemma_(mathematics)&oldid=1111019068">https://en.wikipedia.org/w/index.php?title=Lemma_(mathematics)&#38;oldid=1111019068</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_52"></a>“List of Logic Symbols.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=List_of_logic_symbols&oldid=1129245485">https://en.wikipedia.org/w/index.php?title=List_of_logic_symbols&#38;oldid=1129245485</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_53"></a>“Loss Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Loss_function&oldid=1124243515">https://en.wikipedia.org/w/index.php?title=Loss_function&#38;oldid=1124243515</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_54"></a>mathematician, J. M. ain’t a. 2010. “Answer to ‘Arithmetic Function to Return Lowest in-Parameter’.” <i>Mathematics Stack Exchange</i>. <a href="https://math.stackexchange.com/a/13240">https://math.stackexchange.com/a/13240</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_55"></a>“Monotonic Function.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Monotonic_function&oldid=1127635924">https://en.wikipedia.org/w/index.php?title=Monotonic_function&#38;oldid=1127635924</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_56"></a>“Morphism.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Morphism&oldid=1126439746">https://en.wikipedia.org/w/index.php?title=Morphism&#38;oldid=1126439746</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_57"></a>“Moving Average.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Moving_average&oldid=1127843584">https://en.wikipedia.org/w/index.php?title=Moving_average&#38;oldid=1127843584</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_58"></a>“Multiplicative Inverse.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Multiplicative_inverse&oldid=1119810415">https://en.wikipedia.org/w/index.php?title=Multiplicative_inverse&#38;oldid=1119810415</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_59"></a>“Natural Number.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Natural_number&oldid=1128990017">https://en.wikipedia.org/w/index.php?title=Natural_number&#38;oldid=1128990017</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_60"></a>“Natural Number Infinite Series 1 + 2 + 3 + 4 + $\cdots$.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=1_%2B_2_%2B_3_%2B_4_%2B_%E2%8B%AF&oldid=1124323819">https://en.wikipedia.org/w/index.php?title=1_%2B_2_%2B_3_%2B_4_%2B_%E2%8B%AF&#38;oldid=1124323819</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_61"></a>“Norm (Mathematics).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&oldid=1103683806">https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&#38;oldid=1103683806</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_62"></a>“Operand.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Operand&oldid=1096784626">https://en.wikipedia.org/w/index.php?title=Operand&#38;oldid=1096784626</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_63"></a>“Partition of a Set.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Partition_of_a_set&oldid=1130125382">https://en.wikipedia.org/w/index.php?title=Partition_of_a_set&#38;oldid=1130125382</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_64"></a>“Periodic Function.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Periodic_function&oldid=1095686250">https://en.wikipedia.org/w/index.php?title=Periodic_function&#38;oldid=1095686250</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_65"></a>“Piecewise.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Piecewise&oldid=1125037876">https://en.wikipedia.org/w/index.php?title=Piecewise&#38;oldid=1125037876</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_66"></a>“Polish Notation.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Polish_notation&oldid=1126627293">https://en.wikipedia.org/w/index.php?title=Polish_notation&#38;oldid=1126627293</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_67"></a>“Price Earnings Ratio.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Price%E2%80%93earnings_ratio&oldid=1107421814">https://en.wikipedia.org/w/index.php?title=Price%E2%80%93earnings_ratio&#38;oldid=1107421814</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_68"></a>“Ramp Function.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Ramp_function&oldid=1127838933">https://en.wikipedia.org/w/index.php?title=Ramp_function&#38;oldid=1127838933</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_69"></a>“Rational Number.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Rational_number&oldid=1131103258">https://en.wikipedia.org/w/index.php?title=Rational_number&#38;oldid=1131103258</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_70"></a>“Real Number.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Real_number&oldid=1127460530">https://en.wikipedia.org/w/index.php?title=Real_number&#38;oldid=1127460530</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_71"></a>“Rectangular Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Rectangular_function&oldid=1120052621">https://en.wikipedia.org/w/index.php?title=Rectangular_function&#38;oldid=1120052621</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_72"></a>“Reverse Polish Notation.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Reverse_Polish_notation&oldid=1130108164">https://en.wikipedia.org/w/index.php?title=Reverse_Polish_notation&#38;oldid=1130108164</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_73"></a>“Scientific Notation.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Scientific_notation&oldid=1130880215">https://en.wikipedia.org/w/index.php?title=Scientific_notation&#38;oldid=1130880215</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_74"></a>“Series Expansion.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Series_expansion&oldid=1112989350">https://en.wikipedia.org/w/index.php?title=Series_expansion&#38;oldid=1112989350</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_75"></a>“Series (Mathematics).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Series_(mathematics)&oldid=1121096883">https://en.wikipedia.org/w/index.php?title=Series_(mathematics)&#38;oldid=1121096883</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_76"></a>“Set (Mathematics).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Set_(mathematics)&oldid=1129493353#Subsets">https://en.wikipedia.org/w/index.php?title=Set_(mathematics)&#38;oldid=1129493353#Subsets</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_77"></a>“Set Theory.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Set_theory&oldid=1127832556">https://en.wikipedia.org/w/index.php?title=Set_theory&#38;oldid=1127832556</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_78"></a>“Sigmoid Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Sigmoid_function&oldid=1122727350">https://en.wikipedia.org/w/index.php?title=Sigmoid_function&#38;oldid=1122727350</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_79"></a>“Significand.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Significand&oldid=1129956751">https://en.wikipedia.org/w/index.php?title=Significand&#38;oldid=1129956751</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_80"></a>“Step Function.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Step_function&oldid=1106815705">https://en.wikipedia.org/w/index.php?title=Step_function&#38;oldid=1106815705</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_81"></a>“Subadditivity.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Subadditivity&oldid=1110683701">https://en.wikipedia.org/w/index.php?title=Subadditivity&#38;oldid=1110683701</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_82"></a>“Subset.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Subset&oldid=1122563776">https://en.wikipedia.org/w/index.php?title=Subset&#38;oldid=1122563776</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_83"></a>“Successor Function.” 2021. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Successor_function&oldid=1037249340">https://en.wikipedia.org/w/index.php?title=Successor_function&#38;oldid=1037249340</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_84"></a>“Taylor Series.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Taylor_series&oldid=1128209087">https://en.wikipedia.org/w/index.php?title=Taylor_series&#38;oldid=1128209087</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_85"></a>“Unary Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Unary_function&oldid=1120086978">https://en.wikipedia.org/w/index.php?title=Unary_function&#38;oldid=1120086978</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_34"></a>“Homomorphism.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Homomorphism&oldid=1130651105">https://en.wikipedia.org/w/index.php?title=Homomorphism&#38;oldid=1130651105</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_35"></a>“Idempotence.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Idempotence&oldid=1124996711">https://en.wikipedia.org/w/index.php?title=Idempotence&#38;oldid=1124996711</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_36"></a>“Idempotent (Ring Theory).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Idempotent_(ring_theory)&oldid=1117765581">https://en.wikipedia.org/w/index.php?title=Idempotent_(ring_theory)&#38;oldid=1117765581</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_37"></a>“Identity Element.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Identity_element&oldid=1110301190">https://en.wikipedia.org/w/index.php?title=Identity_element&#38;oldid=1110301190</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_38"></a>“Image (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Image_(mathematics)&oldid=1120531824">https://en.wikipedia.org/w/index.php?title=Image_(mathematics)&#38;oldid=1120531824</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_39"></a>“Impulse Response.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Impulse_response&oldid=1118102056">https://en.wikipedia.org/w/index.php?title=Impulse_response&#38;oldid=1118102056</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_40"></a>“Indicator Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Indicator_function&oldid=1111285341">https://en.wikipedia.org/w/index.php?title=Indicator_function&#38;oldid=1111285341</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_41"></a>“Infix Notation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Infix_notation&oldid=1118787524">https://en.wikipedia.org/w/index.php?title=Infix_notation&#38;oldid=1118787524</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_42"></a>“Inflection Point.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Inflection_point&oldid=1081370682">https://en.wikipedia.org/w/index.php?title=Inflection_point&#38;oldid=1081370682</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_43"></a>“Injective Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Injective_function&oldid=1122880558">https://en.wikipedia.org/w/index.php?title=Injective_function&#38;oldid=1122880558</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_44"></a>“Integer.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Integer&oldid=1126772195">https://en.wikipedia.org/w/index.php?title=Integer&#38;oldid=1126772195</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_45"></a>“Interval (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Interval_(mathematics)&oldid=1128544570">https://en.wikipedia.org/w/index.php?title=Interval_(mathematics)&#38;oldid=1128544570</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_46"></a>“Invariant (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Invariant_(mathematics)&oldid=1079583789">https://en.wikipedia.org/w/index.php?title=Invariant_(mathematics)&#38;oldid=1079583789</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_47"></a>“Inverse Element.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Inverse_element&oldid=1124406106">https://en.wikipedia.org/w/index.php?title=Inverse_element&#38;oldid=1124406106</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_48"></a>“Isomorphism.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Isomorphism&oldid=1126439942">https://en.wikipedia.org/w/index.php?title=Isomorphism&#38;oldid=1126439942</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_49"></a>“Kronecker Delta.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Kronecker_delta&oldid=1130179321">https://en.wikipedia.org/w/index.php?title=Kronecker_delta&#38;oldid=1130179321</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_50"></a>“Law of Cosines.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Law_of_cosines&oldid=1122677091">https://en.wikipedia.org/w/index.php?title=Law_of_cosines&#38;oldid=1122677091</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_51"></a>“Lemma (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Lemma_(mathematics)&oldid=1111019068">https://en.wikipedia.org/w/index.php?title=Lemma_(mathematics)&#38;oldid=1111019068</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_52"></a>“List of Logic Symbols.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=List_of_logic_symbols&oldid=1129245485">https://en.wikipedia.org/w/index.php?title=List_of_logic_symbols&#38;oldid=1129245485</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_53"></a>“Loss Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Loss_function&oldid=1124243515">https://en.wikipedia.org/w/index.php?title=Loss_function&#38;oldid=1124243515</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_54"></a>mathematician, J. M. ain’t a. 2010. “Answer to ‘Arithmetic Function to Return Lowest in-Parameter’.” Mathematics Stack Exchange. December 6, 2010. <a href="https://math.stackexchange.com/a/13240">https://math.stackexchange.com/a/13240</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_55"></a>“Monotonic Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Monotonic_function&oldid=1127635924">https://en.wikipedia.org/w/index.php?title=Monotonic_function&#38;oldid=1127635924</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_56"></a>“Morphism.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Morphism&oldid=1126439746">https://en.wikipedia.org/w/index.php?title=Morphism&#38;oldid=1126439746</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_57"></a>“Moving Average.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Moving_average&oldid=1127843584">https://en.wikipedia.org/w/index.php?title=Moving_average&#38;oldid=1127843584</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_58"></a>“Multiplicative Inverse.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Multiplicative_inverse&oldid=1119810415">https://en.wikipedia.org/w/index.php?title=Multiplicative_inverse&#38;oldid=1119810415</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_59"></a>“Natural Number.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Natural_number&oldid=1128990017">https://en.wikipedia.org/w/index.php?title=Natural_number&#38;oldid=1128990017</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_60"></a>“Natural Number Infinite Series 1 + 2 + 3 + 4 + ⋯.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=1_%2B_2_%2B_3_%2B_4_%2B_%E2%8B%AF&oldid=1124323819">https://en.wikipedia.org/w/index.php?title=1_%2B_2_%2B_3_%2B_4_%2B_%E2%8B%AF&#38;oldid=1124323819</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_61"></a>“Norm (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&oldid=1103683806">https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&#38;oldid=1103683806</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_62"></a>“Operand.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Operand&oldid=1096784626">https://en.wikipedia.org/w/index.php?title=Operand&#38;oldid=1096784626</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_63"></a>“Partition of a Set.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Partition_of_a_set&oldid=1130125382">https://en.wikipedia.org/w/index.php?title=Partition_of_a_set&#38;oldid=1130125382</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_64"></a>“Periodic Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Periodic_function&oldid=1095686250">https://en.wikipedia.org/w/index.php?title=Periodic_function&#38;oldid=1095686250</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_65"></a>“Piecewise.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Piecewise&oldid=1125037876">https://en.wikipedia.org/w/index.php?title=Piecewise&#38;oldid=1125037876</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_66"></a>“Polish Notation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Polish_notation&oldid=1126627293">https://en.wikipedia.org/w/index.php?title=Polish_notation&#38;oldid=1126627293</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_67"></a>“Price–Earnings Ratio.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Price%E2%80%93earnings_ratio&oldid=1107421814">https://en.wikipedia.org/w/index.php?title=Price%E2%80%93earnings_ratio&#38;oldid=1107421814</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_68"></a>“Ramp Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Ramp_function&oldid=1127838933">https://en.wikipedia.org/w/index.php?title=Ramp_function&#38;oldid=1127838933</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_69"></a>“Rational Number.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Rational_number&oldid=1131103258">https://en.wikipedia.org/w/index.php?title=Rational_number&#38;oldid=1131103258</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_70"></a>“Real Number.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Real_number&oldid=1127460530">https://en.wikipedia.org/w/index.php?title=Real_number&#38;oldid=1127460530</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_71"></a>“Rectangular Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Rectangular_function&oldid=1120052621">https://en.wikipedia.org/w/index.php?title=Rectangular_function&#38;oldid=1120052621</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_72"></a>“Reverse Polish Notation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Reverse_Polish_notation&oldid=1130108164">https://en.wikipedia.org/w/index.php?title=Reverse_Polish_notation&#38;oldid=1130108164</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_73"></a>“Scientific Notation.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Scientific_notation&oldid=1130880215">https://en.wikipedia.org/w/index.php?title=Scientific_notation&#38;oldid=1130880215</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_74"></a>“Series Expansion.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Series_expansion&oldid=1112989350">https://en.wikipedia.org/w/index.php?title=Series_expansion&#38;oldid=1112989350</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_75"></a>“Series (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Series_(mathematics)&oldid=1121096883">https://en.wikipedia.org/w/index.php?title=Series_(mathematics)&#38;oldid=1121096883</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_76"></a>“Set (Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Set_(mathematics)&oldid=1129493353#Subsets">https://en.wikipedia.org/w/index.php?title=Set_(mathematics)&#38;oldid=1129493353#Subsets</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_77"></a>“Set Theory.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Set_theory&oldid=1127832556">https://en.wikipedia.org/w/index.php?title=Set_theory&#38;oldid=1127832556</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_78"></a>“Sigmoid Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Sigmoid_function&oldid=1122727350">https://en.wikipedia.org/w/index.php?title=Sigmoid_function&#38;oldid=1122727350</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_79"></a>“Significand.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Significand&oldid=1129956751">https://en.wikipedia.org/w/index.php?title=Significand&#38;oldid=1129956751</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_80"></a>“Step Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Step_function&oldid=1106815705">https://en.wikipedia.org/w/index.php?title=Step_function&#38;oldid=1106815705</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_81"></a>“Subadditivity.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Subadditivity&oldid=1110683701">https://en.wikipedia.org/w/index.php?title=Subadditivity&#38;oldid=1110683701</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_82"></a>“Subset.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Subset&oldid=1122563776">https://en.wikipedia.org/w/index.php?title=Subset&#38;oldid=1122563776</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_83"></a>“Successor Function.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Successor_function&oldid=1037249340">https://en.wikipedia.org/w/index.php?title=Successor_function&#38;oldid=1037249340</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_84"></a>“Taylor Series.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Taylor_series&oldid=1128209087">https://en.wikipedia.org/w/index.php?title=Taylor_series&#38;oldid=1128209087</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_85"></a>“Unary Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Unary_function&oldid=1120086978">https://en.wikipedia.org/w/index.php?title=Unary_function&#38;oldid=1120086978</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_86"></a>Weisstein, Eric W. n.d. “Affine Function.” Text. Wolfram Research, Inc. Accessed December 30, 2022. <a href="https://mathworld.wolfram.com/">https://mathworld.wolfram.com/</a>.</div>
 </div>

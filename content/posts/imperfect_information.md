@@ -2,7 +2,7 @@
 title = "Imperfect information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2023-08-02T11:11:32-07:00
+lastmod = 2023-09-24T10:18:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -62,12 +62,12 @@ A game in which information is hidden from one or more players.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Perfect Information.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Perfect_information&oldid=1107320001">https://en.wikipedia.org/w/index.php?title=Perfect_information&#38;oldid=1107320001</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Perfect Information.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Perfect_information&oldid=1107320001">https://en.wikipedia.org/w/index.php?title=Perfect_information&#38;oldid=1107320001</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Perfect information]({{< relref "perfect_information.md" >}})
 -   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
 -   [Stag hunt]({{< relref "stag_hunt.md" >}})
+-   [Perfect information]({{< relref "perfect_information.md" >}})

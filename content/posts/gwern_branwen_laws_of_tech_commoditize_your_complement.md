@@ -2,9 +2,9 @@
 title = "Gwern Branwen | Laws of Tech: Commoditize Your Complement"
 author = ["Cash Weaver"]
 date = 2022-11-22T16:13:00-08:00
-lastmod = 2023-08-02T11:04:23-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:15:09-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "b852fb7f-66e6-4bbf-ba60-548f55e8df5b"
 +++

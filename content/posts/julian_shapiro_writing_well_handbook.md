@@ -2,7 +2,7 @@
 title = "Julian Shapiro | Writing Well Handbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:13:00-08:00
-lastmod = 2023-08-02T11:21:31-07:00
+lastmod = 2023-09-24T10:22:44-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -454,7 +454,7 @@ I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't mean
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 7   | 362.68   | 2024-06-10T07:08:36Z |
-| 1        | 1.45 | 8   | 58.48    | 2023-08-09T04:48:06Z |
+| 1        | 1.30 | 6   | 11.53    | 2023-09-26T03:50:33Z |
 
 
 #### Source {#source}

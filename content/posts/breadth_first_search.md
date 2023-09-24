@@ -2,7 +2,7 @@
 title = "Breadth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T17:20:00-07:00
-lastmod = 2023-08-02T10:38:22-07:00
+lastmod = 2023-09-24T09:57:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -122,7 +122,7 @@ Computer science
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 7   | 73.64    | 2023-08-04T05:13:45Z |
+| 0        | 1.90 | 8   | 146.97   | 2023-12-30T14:54:01Z |
 
 
 #### Extra {#extra}
@@ -152,16 +152,16 @@ Computer science
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2023-07-21T13:38:55Z |
+| front    | 2.35 | 3   | 6.00     | 2023-08-14T14:58:37Z |
 
 [Breadth-first search in python]({{< relref "breadth_first_search_in_python.md" >}})
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Breadth-First Search.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Breadth-first_search&oldid=1091199031">https://en.wikipedia.org/w/index.php?title=Breadth-first_search&#38;oldid=1091199031</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Quicksort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Quicksort&oldid=1093780310">https://en.wikipedia.org/w/index.php?title=Quicksort&#38;oldid=1093780310</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Tree Traversal.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Tree_traversal&oldid=1083604462">https://en.wikipedia.org/w/index.php?title=Tree_traversal&#38;oldid=1083604462</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Breadth-First Search.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Breadth-first_search&oldid=1091199031">https://en.wikipedia.org/w/index.php?title=Breadth-first_search&#38;oldid=1091199031</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Quicksort.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Quicksort&oldid=1093780310">https://en.wikipedia.org/w/index.php?title=Quicksort&#38;oldid=1093780310</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Tree Traversal.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Tree_traversal&oldid=1083604462">https://en.wikipedia.org/w/index.php?title=Tree_traversal&#38;oldid=1083604462</a>.</div>
 </div>
 
 

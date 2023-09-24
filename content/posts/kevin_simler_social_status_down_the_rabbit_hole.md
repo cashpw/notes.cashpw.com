@@ -2,9 +2,9 @@
 title = "Kevin Simler | Social Status: Down the Rabbit Hole"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:26:00-08:00
-lastmod = 2023-08-02T11:23:36-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:23:31-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "c72f25c5-551c-40e7-a309-277333a7406c"
 +++

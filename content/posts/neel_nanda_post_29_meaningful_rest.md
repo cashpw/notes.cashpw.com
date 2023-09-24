@@ -2,7 +2,7 @@
 title = "Neel Nanda | Post 29: Meaningful Rest"
 author = ["Cash Weaver"]
 date = 2022-11-29T09:41:00-08:00
-lastmod = 2023-08-02T11:45:28-07:00
+lastmod = 2023-09-24T10:34:03-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -46,11 +46,11 @@ See [Meaningful rest]({{< relref "meaningful_rest.md" >}}).
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nanda, Neel. n.d.-a. “Meaningful Rest.” Accessed May 23, 2021. <a href="https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest">https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d.-b. “Post 29: Meaningful Rest.” <i>Neel Nanda</i>. Accessed November 29, 2022. <a href="https://www.neelnanda.io/blog/29-meaningful-rest">https://www.neelnanda.io/blog/29-meaningful-rest</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d.-b. “Post 29: Meaningful Rest.” Neel Nanda. Accessed November 29, 2022. <a href="https://www.neelnanda.io/blog/29-meaningful-rest">https://www.neelnanda.io/blog/29-meaningful-rest</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Blogroll]({{< relref "blogroll.md" >}})
 -   [Meaningful rest]({{< relref "meaningful_rest.md" >}})
+-   [Blogroll]({{< relref "blogroll.md" >}})

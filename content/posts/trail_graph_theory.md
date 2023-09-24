@@ -2,7 +2,7 @@
 title = "Trail (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T11:59:00-08:00
-lastmod = 2023-08-02T12:54:53-07:00
+lastmod = 2023-09-24T10:53:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,12 +37,12 @@ A [Walk (Graph theory)]({{< relref "walk_graph_theory.md" >}}) in which all [Edg
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Path (Graph Theory).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Path_(graph_theory)&oldid=1124188559#Walk,_trail,_and_path">https://en.wikipedia.org/w/index.php?title=Path_(graph_theory)&#38;oldid=1124188559#Walk,_trail,_and_path</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Path (Graph Theory).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Path_(graph_theory)&oldid=1124188559#Walk,_trail,_and_path">https://en.wikipedia.org/w/index.php?title=Path_(graph_theory)&#38;oldid=1124188559#Walk,_trail,_and_path</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Cycle (Graph theory)]({{< relref "cycle.md" >}})
 -   [Circuit (Graph theory)]({{< relref "circuit_graph_theory.md" >}})
+-   [Cycle (Graph theory)]({{< relref "cycle.md" >}})
 -   [Path (graph theory)]({{< relref "path_graph_theory.md" >}})

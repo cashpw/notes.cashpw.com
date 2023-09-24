@@ -2,7 +2,7 @@
 title = "Logarithm"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T09:46:00-08:00
-lastmod = 2023-08-02T11:31:39-07:00
+lastmod = 2023-09-24T10:27:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -92,7 +92,7 @@ The inverse function to exponation.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.50 | 10  | 288.10   | 2023-12-18T19:50:58Z |
-| front    | 2.50 | 5   | 39.07    | 2023-08-19T14:50:36Z |
+| front    | 2.20 | 4   | 13.65    | 2023-09-25T04:22:07Z |
 
 Logarithm change of basis
 
@@ -112,7 +112,7 @@ Logarithm change of basis
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.95 | 6   | 146.30   | 2023-09-30T00:48:27Z |
-| 1        | 2.65 | 6   | 98.28    | 2023-08-15T23:28:45Z |
+| 1        | 2.65 | 7   | 260.86   | 2024-05-14T10:27:31Z |
 
 {{\\(\log^cn\\)}@0} \\(=\\) {{\\((\log n)^c\\)}@1}
 
@@ -122,5 +122,5 @@ Logarithm change of basis
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Logarithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Logarithm&oldid=1126519828">https://en.wikipedia.org/w/index.php?title=Logarithm&#38;oldid=1126519828</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Logarithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Logarithm&oldid=1126519828">https://en.wikipedia.org/w/index.php?title=Logarithm&#38;oldid=1126519828</a>.</div>
 </div>

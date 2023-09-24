@@ -2,7 +2,7 @@
 title = "James C. Scott | Seeing like a State"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:24:00-08:00
-lastmod = 2023-08-02T11:16:21-07:00
+lastmod = 2023-09-24T10:20:46-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -62,7 +62,7 @@ Also see [Legibility]({{< relref "legible.md" >}}), [High modernism]({{< relref 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 243.52   | 2024-03-13T13:21:54Z |
-| back     | 2.95 | 6   | 140.11   | 2023-08-23T19:01:13Z |
+| back     | 2.95 | 7   | 416.26   | 2024-10-14T21:33:16Z |
 
 [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
 

@@ -2,7 +2,7 @@
 title = "Keith Baar"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-23T18:06:00-07:00
-lastmod = 2023-08-02T11:22:52-07:00
+lastmod = 2023-09-24T10:23:12-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

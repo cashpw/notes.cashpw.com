@@ -2,7 +2,7 @@
 title = "It's a feature, not a bug"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:39:00-08:00
-lastmod = 2023-08-02T11:14:59-07:00
+lastmod = 2023-09-24T10:20:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

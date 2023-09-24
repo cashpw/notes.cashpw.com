@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Three Kinds of Non-Fiction Books"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:36:00-08:00
-lastmod = 2023-08-02T10:41:43-07:00
+lastmod = 2023-09-24T10:00:34-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -48,5 +48,5 @@ slug = "ee7ed2c5-dd15-42aa-8cfe-8149ce58473e"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “The Three Kinds of Non-Fiction Books.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/">https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “The Three Kinds of Non-Fiction Books.” Commonplace - The Commoncog Blog. May 16, 2018. <a href="https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/">https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/</a>.</div>
 </div>

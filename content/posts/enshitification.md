@@ -2,9 +2,9 @@
 title = "Enshittification"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-20T14:15:00-07:00
-lastmod = 2023-08-02T10:53:25-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:08:42-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "6725bcae-a797-4426-8f22-cf1fadf71667"
 +++

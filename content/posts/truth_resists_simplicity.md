@@ -2,7 +2,7 @@
 title = "Truth resists simplicity"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:49:00-08:00
-lastmod = 2023-08-02T12:57:15-07:00
+lastmod = 2023-09-24T10:54:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,7 +20,7 @@ Phrase by [John Green]({{< relref "john_green.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 1        | 2.95 | 7   | 393.24   | 2024-07-22T23:05:11Z |
-| 0        | 2.20 | 7   | 157.97   | 2023-09-18T12:40:11Z |
+| 0        | 2.20 | 8   | 339.35   | 2024-08-23T00:08:44Z |
 | 2        | 2.80 | 7   | 395.83   | 2024-08-11T08:49:48Z |
 
 

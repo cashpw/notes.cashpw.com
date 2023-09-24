@@ -2,7 +2,7 @@
 title = "Coordinate vector"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T20:35:00-07:00
-lastmod = 2023-08-02T10:44:58-07:00
+lastmod = 2023-09-24T10:03:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,7 +49,7 @@ eg: \\(\begin{bmatrix}\vec{v}\end{bmatrix}\_{\beta}\\)
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.35 | 10  | 452.40   | 2024-08-26T01:04:46Z |
-| 1        | 1.75 | 5   | 19.90    | 2023-08-06T11:33:54Z |
+| 1        | 1.60 | 7   | 49.58    | 2023-11-03T05:08:25Z |
 
 -   {{\\(\begin{bmatrix}\vec{v}\end{bmatrix}\_{\beta}\\)}@0}
 
@@ -63,7 +63,7 @@ eg: \\(\begin{bmatrix}\vec{v}\end{bmatrix}\_{\beta}\\)
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Coordinate Vector.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Coordinate_vector&oldid=1105580540">https://en.wikipedia.org/w/index.php?title=Coordinate_vector&#38;oldid=1105580540</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Coordinate Vector.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Coordinate_vector&oldid=1105580540">https://en.wikipedia.org/w/index.php?title=Coordinate_vector&#38;oldid=1105580540</a>.</div>
 </div>
 
 

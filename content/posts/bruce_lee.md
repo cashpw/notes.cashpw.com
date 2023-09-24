@@ -2,7 +2,7 @@
 title = "Bruce Lee"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:09:00-08:00
-lastmod = 2023-08-02T10:38:28-07:00
+lastmod = 2023-09-24T09:57:21-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

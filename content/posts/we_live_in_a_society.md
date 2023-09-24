@@ -2,7 +2,7 @@
 title = "We live in a society"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-15T09:29:00-08:00
-lastmod = 2023-08-02T13:04:14-07:00
+lastmod = 2023-09-24T10:56:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,5 +28,5 @@ Related: [Moloch]({{< relref "moloch.md" >}}), [Capitalism]({{< relref "capitali
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Sung, Morgan. 2021. “Unfortunately, We Live in a Society.” <i>Mashable</i>. <a href="https://mashable.com/article/we-live-in-a-society-is-canon">https://mashable.com/article/we-live-in-a-society-is-canon</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Sung, Morgan. 2021. “Unfortunately, We Live in a Society.” Mashable. February 14, 2021. <a href="https://mashable.com/article/we-live-in-a-society-is-canon">https://mashable.com/article/we-live-in-a-society-is-canon</a>.</div>
 </div>

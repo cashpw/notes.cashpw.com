@@ -2,7 +2,7 @@
 title = "Zvi Mowshowitz | Book Review: The Elephant in the Brain"
 author = ["Cash Weaver"]
 date = 2023-01-12T15:31:00-08:00
-lastmod = 2023-08-02T13:09:35-07:00
+lastmod = 2023-09-24T10:57:51-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -34,5 +34,5 @@ A review of [Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Moti
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Mowshowitz, Zvi. 2017. “Book Review: The Elephant in the Brain.” <i>Don’t Worry About the Vase</i>. <a href="https://thezvi.wordpress.com/2017/12/31/book-review-the-elephant-in-the-brain/">https://thezvi.wordpress.com/2017/12/31/book-review-the-elephant-in-the-brain/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Mowshowitz, Zvi. 2017. “Book Review: The Elephant in the Brain.” Don’t Worry About the Vase. December 31, 2017. <a href="https://thezvi.wordpress.com/2017/12/31/book-review-the-elephant-in-the-brain/">https://thezvi.wordpress.com/2017/12/31/book-review-the-elephant-in-the-brain/</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Isaac Wilks | It's Time to Build for Good"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:23:00-08:00
-lastmod = 2023-08-02T11:14:52-07:00
+lastmod = 2023-09-24T10:20:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -36,7 +36,7 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Wilks 2020</a>)
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Wilks, Isaac. 2020. “It’s Time to Build for Good.” <a href="https://www.palladiummag.com/2020/04/30/its-time-to-build-for-good/">https://www.palladiummag.com/2020/04/30/its-time-to-build-for-good/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Wilks, Isaac. 2020. “It’s Time to Build for Good.” April 30, 2020. <a href="https://www.palladiummag.com/2020/04/30/its-time-to-build-for-good/">https://www.palladiummag.com/2020/04/30/its-time-to-build-for-good/</a>.</div>
 </div>
 
 

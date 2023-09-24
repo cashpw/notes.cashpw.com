@@ -2,7 +2,7 @@
 title = "Simplex"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:22:00-07:00
-lastmod = 2023-08-02T12:26:24-07:00
+lastmod = 2023-09-24T10:45:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "27a0ad69-c248-4dea-9807-4926ec05412c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 84.15    | 2023-08-25T04:42:39Z |
+| front    | 2.35 | 7   | 201.20   | 2024-03-13T20:08:47Z |
 | back     | 2.65 | 6   | 107.47   | 2023-10-02T02:45:53Z |
 
 > [...] a communication channel that sends information in one direction only.
@@ -36,7 +36,7 @@ slug = "27a0ad69-c248-4dea-9807-4926ec05412c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 87.27    | 2023-08-20T20:32:57Z |
+| front    | 2.50 | 7   | 220.77   | 2024-04-03T09:18:10Z |
 | back     | 2.50 | 6   | 101.78   | 2023-09-24T19:19:33Z |
 
 [Simplex]({{< relref "simplex.md" >}})
@@ -55,7 +55,7 @@ slug = "27a0ad69-c248-4dea-9807-4926ec05412c"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Simplex Communication.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Simplex_communication&oldid=1142644538">https://en.wikipedia.org/w/index.php?title=Simplex_communication&#38;oldid=1142644538</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Simplex Communication.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Simplex_communication&oldid=1142644538">https://en.wikipedia.org/w/index.php?title=Simplex_communication&#38;oldid=1142644538</a>.</div>
 </div>
 
 

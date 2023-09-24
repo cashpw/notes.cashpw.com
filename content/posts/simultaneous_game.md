@@ -2,7 +2,7 @@
 title = "Simultaneous game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2023-08-02T12:26:32-07:00
+lastmod = 2023-09-24T10:45:19-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -72,7 +72,7 @@ A game in which all players choose their actions without knowledge of the action
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Simultaneous Game.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Simultaneous_game&oldid=1109154272">https://en.wikipedia.org/w/index.php?title=Simultaneous_game&#38;oldid=1109154272</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Simultaneous Game.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Simultaneous_game&oldid=1109154272">https://en.wikipedia.org/w/index.php?title=Simultaneous_game&#38;oldid=1109154272</a>.</div>
 </div>
 
 

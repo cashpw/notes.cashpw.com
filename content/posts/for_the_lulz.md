@@ -2,7 +2,7 @@
 title = "For the lulz"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:19:00-07:00
-lastmod = 2023-08-02T10:57:47-07:00
+lastmod = 2023-09-24T10:11:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,12 +28,12 @@ Also see [The card says moops]({{< relref "the_card_says_moops.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“For the Lulz.” n.d. <i>Urban Dictionary</i>. Accessed June 26, 2022. <a href="https://www.urbandictionary.com/define.php?term=For%20the%20lulz">https://www.urbandictionary.com/define.php?term=For%20the%20lulz</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“For the Lulz.” n.d. Urban Dictionary. Accessed June 26, 2022. <a href="https://www.urbandictionary.com/define.php?term=For%20the%20lulz">https://www.urbandictionary.com/define.php?term=For%20the%20lulz</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
+-   [Don't feed the trolls]({{< relref "don_t_feed_the_trolls.md" >}})
 -   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
 -   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})
--   [Don't feed the trolls]({{< relref "don_t_feed_the_trolls.md" >}})

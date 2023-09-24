@@ -2,7 +2,7 @@
 title = "Least frequently used"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T09:25:00-07:00
-lastmod = 2023-08-02T11:27:01-07:00
+lastmod = 2023-09-24T10:25:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,7 +32,7 @@ A [Cache replacement policy]({{< relref "cache_replacement_policy.md" >}}) which
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 75.55    | 2023-08-27T13:29:07Z |
+| front    | 2.50 | 7   | 193.03   | 2024-03-09T15:52:33Z |
 | back     | 2.35 | 6   | 75.95    | 2023-09-24T14:33:25Z |
 
 [Least frequently used]({{< relref "least_frequently_used.md" >}})
@@ -52,7 +52,7 @@ A [Cache replacement policy]({{< relref "cache_replacement_policy.md" >}}) which
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 100.62   | 2023-09-20T08:02:51Z |
+| 0        | 2.65 | 7   | 268.42   | 2024-06-16T00:28:26Z |
 | 1        | 2.80 | 6   | 102.02   | 2023-10-21T13:33:18Z |
 
 -   {{[Least frequently used]({{< relref "least_frequently_used.md" >}})}@0}
@@ -87,6 +87,6 @@ Problems with [Least frequently used]({{< relref "least_frequently_used.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cache Replacement Policies.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Cache_replacement_policies&oldid=1141486190">https://en.wikipedia.org/w/index.php?title=Cache_replacement_policies&#38;oldid=1141486190</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Least Frequently Used.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Least_frequently_used&oldid=1122344427">https://en.wikipedia.org/w/index.php?title=Least_frequently_used&#38;oldid=1122344427</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cache Replacement Policies.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Cache_replacement_policies&oldid=1141486190">https://en.wikipedia.org/w/index.php?title=Cache_replacement_policies&#38;oldid=1141486190</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Least Frequently Used.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Least_frequently_used&oldid=1122344427">https://en.wikipedia.org/w/index.php?title=Least_frequently_used&#38;oldid=1122344427</a>.</div>
 </div>

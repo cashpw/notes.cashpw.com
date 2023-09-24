@@ -2,9 +2,9 @@
 title = "The right path? No. The only path? Yes."
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-28T15:19:00-07:00
-lastmod = 2023-08-02T12:48:04-07:00
-tags = ["has-todo", "quote", "has-todo", "quote"]
-categories = ["has-todo", "quote"]
+lastmod = 2023-09-24T10:51:15-07:00
+tags = ["hastodo", "quote", "hastodo", "quote"]
+categories = ["hastodo", "quote"]
 draft = false
 slug = "13a2caaf-0e86-44b0-8500-11a9e2ffa5f3"
 +++

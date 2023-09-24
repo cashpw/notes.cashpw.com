@@ -2,9 +2,9 @@
 title = "Bob Altemeyer | The Authoritarians"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T19:12:00-07:00
-lastmod = 2023-08-02T10:34:30-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T09:53:09-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "9e3242c4-62f4-4863-8368-8a4b160c1e76"
 +++

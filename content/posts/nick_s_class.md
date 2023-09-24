@@ -2,7 +2,7 @@
 title = "Nick's class"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:33:00-08:00
-lastmod = 2023-08-02T11:47:27-07:00
+lastmod = 2023-09-24T10:34:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -44,7 +44,7 @@ A complexity class of problems which can be solved in [Polynomial time]({{< relr
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 6   | 78.29    | 2023-09-26T22:24:08Z |
-| back     | 2.65 | 6   | 121.88   | 2023-09-09T13:09:55Z |
+| back     | 2.65 | 7   | 335.05   | 2024-08-10T00:27:17Z |
 
 [NC (Complexity)]({{< relref "nick_s_class.md" >}}) (formal)
 
@@ -63,8 +63,8 @@ The set of problems with input size \\(n\\) which can be solved in \\(\bigo{\log
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 114.92   | 2023-08-24T21:15:41Z |
-| 1        | 2.65 | 6   | 107.93   | 2023-08-27T13:44:16Z |
+| 0        | 2.50 | 7   | 265.07   | 2024-05-16T16:53:20Z |
+| 1        | 2.80 | 7   | 271.99   | 2024-05-27T15:02:24Z |
 
 {{[NC (Complexity)]({{< relref "nick_s_class.md" >}})}@0} stands for {{[Nick's class]({{< relref "nick_s_class.md" >}})}@1}.
 
@@ -76,5 +76,5 @@ The set of problems with input size \\(n\\) which can be solved in \\(\bigo{\log
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“NC (Complexity).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=NC_(complexity)&oldid=1119208413">https://en.wikipedia.org/w/index.php?title=NC_(complexity)&#38;oldid=1119208413</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“NC (Complexity).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=NC_(complexity)&oldid=1119208413">https://en.wikipedia.org/w/index.php?title=NC_(complexity)&#38;oldid=1119208413</a>.</div>
 </div>

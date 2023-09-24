@@ -2,7 +2,7 @@
 title = "Seek freedom and become captive of your desires"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:41:00-08:00
-lastmod = 2023-08-02T12:22:48-07:00
+lastmod = 2023-09-24T10:43:53-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -12,12 +12,6 @@ slug = "af8dd2c4-6877-4084-8f87-34a372286926"
 > Seek freedom and become captive of your desires. Seek discipline and find your liberty.
 >
 > [Dune]({{< relref "herbertDune1999.md" >}}), (<a href="#citeproc_bib_item_1">Herbert and Herbert 2020</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank, and Brian Herbert. 2020. <i>Chapterhouse: Dune</i>. New York: Ace.</div>
-</div>
 
 
 ## Flashcards {#flashcards}

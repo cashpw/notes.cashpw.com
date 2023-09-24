@@ -2,9 +2,9 @@
 title = "John Green | A Speech I Wrote for the ALAN Conference"
 author = ["Cash Weaver"]
 date = 2022-11-22T14:25:00-08:00
-lastmod = 2023-08-02T11:18:37-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:21:35-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "8fab397c-3935-4c50-9861-37f913e19482"
 +++
@@ -34,5 +34,5 @@ slug = "8fab397c-3935-4c50-9861-37f913e19482"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Green, John. 2015. “A Speech I Wrote for the ALAN Conference.” <a href="https://web.archive.org/web/20150317183839/http://johngreenbooks.com/a-speech-i-wrote-for-the-alan-conference/">https://web.archive.org/web/20150317183839/http://johngreenbooks.com/a-speech-i-wrote-for-the-alan-conference/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Green, John. 2015. “A Speech I Wrote for the ALAN Conference….” March 17, 2015. <a href="https://web.archive.org/web/20150317183839/http://johngreenbooks.com/a-speech-i-wrote-for-the-alan-conference/">https://web.archive.org/web/20150317183839/http://johngreenbooks.com/a-speech-i-wrote-for-the-alan-conference/</a>.</div>
 </div>

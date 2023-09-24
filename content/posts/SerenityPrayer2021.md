@@ -2,7 +2,7 @@
 title = "Serenity prayer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:20:00-08:00
-lastmod = 2023-08-02T10:33:13-07:00
+lastmod = 2023-09-24T09:51:24-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -27,7 +27,7 @@ and wisdom to know the difference.<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 5   | 20.84    | 2023-08-12T23:53:42Z |
+| 0        | 1.75 | 6   | 33.25    | 2023-10-04T00:49:18Z |
 
 
 #### Source {#source}
@@ -51,7 +51,7 @@ and wisdom to know the difference.<br />
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 5   | 31.01    | 2023-08-10T15:55:49Z |
+| 0        | 1.90 | 5   | 21.98    | 2023-10-04T11:56:34Z |
 
 
 #### Source {#source}
@@ -73,11 +73,11 @@ and wisdom to know the difference.<br />
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Serenity Prayer.” 2021. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Serenity_Prayer&oldid=1052226839">https://en.wikipedia.org/w/index.php?title=Serenity_Prayer&#38;oldid=1052226839</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Serenity Prayer.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Serenity_Prayer&oldid=1052226839">https://en.wikipedia.org/w/index.php?title=Serenity_Prayer&#38;oldid=1052226839</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Focusing techniques]({{< relref "focusing_techniques.md" >}})
--   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md" >}})
+-   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md#2-dot-1" >}})

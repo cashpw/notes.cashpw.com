@@ -2,9 +2,9 @@
 title = "Ezra Klein"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T11:28:00-08:00
-lastmod = 2023-08-02T10:55:22-07:00
-tags = ["has-todo", "person", "has-todo", "person"]
-categories = ["has-todo", "person"]
+lastmod = 2023-09-24T10:09:51-07:00
+tags = ["hastodo", "person", "hastodo", "person"]
+categories = ["hastodo", "person"]
 draft = false
 slug = "eb439673-53b5-4e7b-b31e-e0adebaf2d40"
 +++

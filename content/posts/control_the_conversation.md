@@ -2,7 +2,7 @@
 title = "Control the conversation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:08:00-07:00
-lastmod = 2023-08-02T10:44:41-07:00
+lastmod = 2023-09-24T10:03:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,7 +43,7 @@ Make sure people are talking about what you want them to talk about and in ways 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 98.56    | 2023-10-22T03:47:57Z |
-| back     | 2.35 | 7   | 163.14   | 2023-09-20T18:08:52Z |
+| back     | 2.35 | 8   | 362.88   | 2024-09-18T11:26:09Z |
 
 [Control the conversation]({{< relref "control_the_conversation.md" >}}) as an argument strategy
 
@@ -62,8 +62,8 @@ Treat your opponent as if they've already agreed to your position and make the n
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 6   | 38.08    | 2023-09-08T03:18:03Z |
-| back     | 2.30 | 10  | 159.29   | 2023-08-02T10:56:46Z |
+| front    | 1.90 | 7   | 74.70    | 2023-11-22T09:07:36Z |
+| back     | 2.00 | 5   | 22.58    | 2023-09-30T04:57:57Z |
 
 [Control the conversation]({{< relref "control_the_conversation.md" >}})
 
@@ -102,7 +102,7 @@ Treat your opponent as if they've already agreed to your position and make the n
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2017. “Control the Conversation.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/166293739407/the-first-proper-video-in-my-ongoing-series-on-the">https://innuendostudios.tumblr.com/post/166293739407/the-first-proper-video-in-my-ongoing-series-on-the</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2017. “Control the Conversation.” Tumblr. Innuendo Studios. October 11, 2017. <a href="https://innuendostudios.tumblr.com/post/166293739407/the-first-proper-video-in-my-ongoing-series-on-the">https://innuendostudios.tumblr.com/post/166293739407/the-first-proper-video-in-my-ongoing-series-on-the</a>.</div>
 </div>
 
 

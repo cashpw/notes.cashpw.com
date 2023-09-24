@@ -2,7 +2,7 @@
 title = "Five sentences"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-15T13:21:00-08:00
-lastmod = 2023-08-02T10:33:05-07:00
+lastmod = 2023-09-24T09:51:05-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,9 +2,9 @@
 title = "Farnum Street | Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)"
 author = ["Cash Weaver"]
 date = 2022-11-18T09:25:00-08:00
-lastmod = 2023-08-02T10:55:52-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:10:12-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "65892445-44c2-44f0-9c74-be466d88d3b3"
 +++
@@ -30,5 +30,5 @@ slug = "65892445-44c2-44f0-9c74-be466d88d3b3"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Farnum Street. n.d. “Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained).” <i>Farnam Street</i>. Accessed September 18, 2020. <a href="https://fs.blog/mental-models/">https://fs.blog/mental-models/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Farnum Street. n.d. “Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained).” Farnam Street. Accessed September 18, 2020. <a href="https://fs.blog/mental-models/">https://fs.blog/mental-models/</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Central route processing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:13:00-07:00
-lastmod = 2023-08-02T10:40:48-07:00
+lastmod = 2023-09-24T09:59:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,7 @@ A way of processing an argument that involves weighing the facts. Requires that 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.20 | 5   | 28.69    | 2023-08-08T08:05:46Z |
+| back     | 2.20 | 6   | 68.71    | 2023-10-16T08:01:53Z |
 | front    | 2.80 | 7   | 332.85   | 2024-01-17T13:46:17Z |
 
 [Central route processing]({{< relref "central_route_processing.md" >}})
@@ -61,7 +61,7 @@ A person's careful and thoughtful consideration of the facts or true merits of a
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Elaboration Likelihood Model.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&oldid=1091358254">https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&#38;oldid=1091358254</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Elaboration Likelihood Model.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&oldid=1091358254">https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&#38;oldid=1091358254</a>.</div>
 </div>
 
 

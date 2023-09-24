@@ -2,9 +2,9 @@
 title = "Coordination"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-10T08:42:00-07:00
-lastmod = 2023-08-02T10:45:04-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:03:20-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "2e6843f6-0096-4e58-8d86-51126cadca19"
 +++

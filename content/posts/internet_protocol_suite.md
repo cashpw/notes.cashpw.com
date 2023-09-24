@@ -2,9 +2,9 @@
 title = "Internet protocol suite"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T08:23:00-07:00
-lastmod = 2023-08-02T11:13:52-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:19:37-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "b691f9f9-f9ac-4c1c-95ef-7d04a3b777af"
 +++
@@ -41,5 +41,5 @@ slug = "b691f9f9-f9ac-4c1c-95ef-7d04a3b777af"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Internet Protocol Suite.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Internet_protocol_suite&oldid=1144155223">https://en.wikipedia.org/w/index.php?title=Internet_protocol_suite&#38;oldid=1144155223</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Internet Protocol Suite.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Internet_protocol_suite&oldid=1144155223">https://en.wikipedia.org/w/index.php?title=Internet_protocol_suite&#38;oldid=1144155223</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "This is the dreamtime"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-26T19:22:00-07:00
-lastmod = 2023-08-02T12:50:49-07:00
+lastmod = 2023-09-24T10:52:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,8 @@ The current era is one of relative abundance [[Slack]({{< relref "slack.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 113.67   | 2023-08-20T14:43:58Z |
-| back     | 2.95 | 6   | 136.08   | 2023-08-17T17:19:58Z |
+| front    | 2.05 | 8   | 217.05   | 2024-03-25T14:03:07Z |
+| back     | 2.95 | 7   | 432.36   | 2024-10-30T23:50:15Z |
 
 [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
 
@@ -32,7 +32,7 @@ The current era has a relative abundance of resources and exponential(-ish) tech
 
 #### Source {#source}
 
-[This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
+(<a href="#citeproc_bib_item_1">Hanson n.d.</a>)
 
 ## References
 
@@ -43,5 +43,5 @@ The current era has a relative abundance of resources and exponential(-ish) tech
 
 ## Backlinks {#backlinks}
 
--   [Robin Hanson | This Is the Dream Time]({{< relref "robin_hanson_this_is_the_dream_time.md" >}})
 -   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
+-   [Robin Hanson | This Is the Dream Time]({{< relref "robin_hanson_this_is_the_dream_time.md" >}})

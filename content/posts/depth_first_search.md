@@ -2,9 +2,9 @@
 title = "Depth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:36:00-07:00
-lastmod = 2023-08-02T10:48:51-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:05:46-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "81c88eaa-3ec9-486c-bcdf-457dd40b4eba"
 +++
@@ -130,7 +130,7 @@ A [Graph]({{< relref "graph.md" >}}) and [Tree]({{< relref "tree.md" >}}) traver
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 9   | 389.57   | 2024-05-22T12:23:41Z |
-| 1        | 2.80 | 7   | 195.98   | 2023-08-04T16:46:44Z |
+| 1        | 2.65 | 8   | 541.87   | 2025-01-28T12:35:57Z |
 
 -   {{[Depth-first search]({{< relref "depth_first_search.md" >}})}@0}
 -   {{[DFS]({{< relref "depth_first_search.md" >}})}@1}
@@ -145,7 +145,7 @@ A [Graph]({{< relref "graph.md" >}}) and [Tree]({{< relref "tree.md" >}}) traver
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 5   | 25.37    | 2023-08-02T09:15:24Z |
+| 0        | 1.90 | 6   | 49.35    | 2023-09-22T23:34:20Z |
 
 
 #### Extra {#extra}
@@ -190,7 +190,7 @@ A [Graph]({{< relref "graph.md" >}}) and [Tree]({{< relref "tree.md" >}}) traver
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 6   | 51.83    | 2023-08-18T11:22:28Z |
+| 0        | 1.90 | 7   | 91.96    | 2023-11-20T14:57:14Z |
 
 
 #### Extra {#extra}
@@ -217,14 +217,14 @@ TODO
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Depth-First Search.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Depth-first_search&oldid=1091833357">https://en.wikipedia.org/w/index.php?title=Depth-first_search&#38;oldid=1091833357</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Depth-First Search.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Depth-first_search&oldid=1091833357">https://en.wikipedia.org/w/index.php?title=Depth-first_search&#38;oldid=1091833357</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
--   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
 -   [Trie]({{< relref "trie.md" >}})
+-   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
 -   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 -   [Topological order]({{< relref "topological_order.md" >}})

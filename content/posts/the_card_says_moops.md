@@ -2,7 +2,7 @@
 title = "The card says moops"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:28:00-07:00
-lastmod = 2023-08-02T12:45:25-07:00
+lastmod = 2023-09-24T10:50:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,12 +37,12 @@ Performative irony used to win arguments and obfuscate the underlying guiding be
 (<a href="#citeproc_bib_item_1">Danskin 2019</a>)
 
 
-### Example(s) {#example--s}
+### Example(s) ([Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})) {#example--s----alt-right-playbook-alt-right-playbook-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 248.82   | 2023-12-01T12:47:42Z |
-| back     | 2.35 | 7   | 176.01   | 2023-09-13T17:42:29Z |
+| back     | 2.35 | 8   | 419.70   | 2024-11-07T08:03:30Z |
 
 [The card says moops]({{< relref "the_card_says_moops.md" >}})
 
@@ -60,13 +60,13 @@ Performative irony used to win arguments and obfuscate the underlying guiding be
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “The Card Says Moops.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as">https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “The Card Says Moops.” Tumblr. Innuendo Studios. January 25, 2019. <a href="https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as">https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
--   [Why is it always the libs?]({{< relref "why_is_it_always_the_libs.md" >}})
 -   [For the lulz]({{< relref "for_the_lulz.md" >}})
+-   [Why is it always the libs?]({{< relref "why_is_it_always_the_libs.md" >}})
 -   [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}})

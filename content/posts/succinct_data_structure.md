@@ -2,7 +2,7 @@
 title = "Succinct data structure"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:35:00-07:00
-lastmod = 2023-08-02T12:38:00-07:00
+lastmod = 2023-09-24T10:48:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.60 | 4   | 9.29     | 2023-08-04T09:59:44Z |
-| front    | 1.30 | 5   | 10.79    | 2023-08-07T09:05:49Z |
+| back     | 1.30 | 3   | 6.00     | 2023-09-23T23:07:53Z |
+| front    | 1.30 | 8   | 23.45    | 2023-10-13T10:38:20Z |
 
 [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
 
@@ -59,7 +59,7 @@ A [Data structure]({{< relref "data_structures.md" >}}) that requires \\(Z + o(Z
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Succinct Data Structure.” 2021. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Succinct_data_structure&oldid=1007270369">https://en.wikipedia.org/w/index.php?title=Succinct_data_structure&#38;oldid=1007270369</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Succinct Data Structure.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Succinct_data_structure&oldid=1007270369">https://en.wikipedia.org/w/index.php?title=Succinct_data_structure&#38;oldid=1007270369</a>.</div>
 </div>
 
 

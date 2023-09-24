@@ -2,7 +2,7 @@
 title = "Combination"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T07:34:00-08:00
-lastmod = 2023-08-02T10:42:52-07:00
+lastmod = 2023-09-24T10:01:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,7 +26,7 @@ Also see: [Permutation]({{< relref "permutation.md" >}})
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 6   | 118.80   | 2023-09-26T11:29:13Z |
-| back     | 1.90 | 6   | 40.79    | 2023-08-09T15:40:33Z |
+| back     | 1.75 | 7   | 68.77    | 2023-10-17T19:11:43Z |
 
 [Combination]({{< relref "combination.md" >}})
 
@@ -43,7 +43,7 @@ A selection from a set such that the order does not matter.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Combination.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Combination&oldid=1135443908">https://en.wikipedia.org/w/index.php?title=Combination&#38;oldid=1135443908</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Combination.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Combination&oldid=1135443908">https://en.wikipedia.org/w/index.php?title=Combination&#38;oldid=1135443908</a>.</div>
 </div>
 
 

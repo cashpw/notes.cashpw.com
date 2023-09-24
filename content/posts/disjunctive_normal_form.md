@@ -2,7 +2,7 @@
 title = "Disjunctive normal form"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-22T09:28:00-07:00
-lastmod = 2023-08-02T10:50:22-07:00
+lastmod = 2023-09-24T10:06:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,14 +17,16 @@ slug = "ed008224-2505-48a1-a322-7a410fbf7168"
 ## Flashcards {#flashcards}
 
 
-### Cloze {#cloze}
+### AKA {#aka}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 3   | 6.00     | 2023-08-05T23:59:00Z |
-| 1        | 2.5  | -1  | 0        | 2023-08-02T15:10:30Z |
+| 0        | 1.60 | 6   | 25.35    | 2023-10-02T22:55:21Z |
+| 1        | 2.20 | 5   | 29.31    | 2023-10-04T22:57:16Z |
 
-One can also describe {{[Disjunctive normal form]({{< relref "disjunctive_normal_form.md" >}})}@1} as {{an OR of ANDs}@0}.
+{{[Disjunctive normal form]({{< relref "disjunctive_normal_form.md" >}})}@1}
+
+-   {{an OR of ANDs}@0}
 
 
 #### Source {#source}
@@ -34,5 +36,5 @@ One can also describe {{[Disjunctive normal form]({{< relref "disjunctive_normal
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Disjunctive Normal Form.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&oldid=1137077528">https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&#38;oldid=1137077528</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Disjunctive Normal Form.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&oldid=1137077528">https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&#38;oldid=1137077528</a>.</div>
 </div>

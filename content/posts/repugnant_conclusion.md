@@ -2,7 +2,7 @@
 title = "Repugnant conclusion"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T10:38:00-08:00
-lastmod = 2023-08-02T12:15:02-07:00
+lastmod = 2023-09-24T10:41:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,12 +13,6 @@ The repugnant conclusion is problem in utilitarianism. Utilitarianism concerns i
 
 > For any perfectly equal population with very high positive welfare, there is a population with very low positive welfare which is better, other things being equal.
 > (<a href="#citeproc_bib_item_1">“Mere Addition Paradox” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mere Addition Paradox.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Mere_addition_paradox&oldid=1119269650">https://en.wikipedia.org/w/index.php?title=Mere_addition_paradox&#38;oldid=1119269650</a>.</div>
-</div>
 
 
 ## Flashcards {#flashcards}
@@ -46,5 +40,5 @@ A problem in utilitarianism wherein populations are "better" in terms of total a
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mere Addition Paradox.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Mere_addition_paradox&oldid=1119269650">https://en.wikipedia.org/w/index.php?title=Mere_addition_paradox&#38;oldid=1119269650</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mere Addition Paradox.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Mere_addition_paradox&oldid=1119269650">https://en.wikipedia.org/w/index.php?title=Mere_addition_paradox&#38;oldid=1119269650</a>.</div>
 </div>

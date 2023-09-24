@@ -2,7 +2,7 @@
 title = "Conway's law"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-06T19:58:00-08:00
-lastmod = 2023-08-02T10:44:46-07:00
+lastmod = 2023-09-24T10:03:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,7 +30,7 @@ slug = "d46b30b9-7aca-4b2b-8d08-bd22bdb63394"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 141.41   | 2023-09-18T00:27:21Z |
+| front    | 2.50 | 2   | 2.00     | 2023-09-21T23:51:04Z |
 | back     | 2.20 | 7   | 174.28   | 2023-12-17T23:04:18Z |
 
 [Conway's law]({{< relref "conway_s_law.md" >}})
@@ -48,5 +48,5 @@ Systems mirror the communication structures of the organizations which design th
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Conway’s Law.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Conway%27s_law&oldid=1122697251">https://en.wikipedia.org/w/index.php?title=Conway%27s_law&#38;oldid=1122697251</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Conway’s Law.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Conway%27s_law&oldid=1122697251">https://en.wikipedia.org/w/index.php?title=Conway%27s_law&#38;oldid=1122697251</a>.</div>
 </div>

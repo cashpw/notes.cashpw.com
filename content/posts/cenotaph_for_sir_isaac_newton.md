@@ -2,7 +2,7 @@
 title = "Cenotaph for Sir Isaac Newton"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-25T13:02:00-07:00
-lastmod = 2023-08-02T10:40:41-07:00
+lastmod = 2023-09-24T09:59:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,8 +54,8 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-08-04T14:59:54Z |
-| back     | 2.5  | -1  | 0        | 2023-08-01T23:24:13Z |
+| front    | 2.50 | 6   | 75.27    | 2023-12-05T20:46:56Z |
+| back     | 2.35 | 5   | 34.01    | 2023-10-16T12:50:08Z |
 
 [Cenotaph for Sir Isaac Newton]({{< relref "cenotaph_for_sir_isaac_newton.md" >}})
 
@@ -74,7 +74,7 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2023-08-02T00:00:08Z |
+| 0        | 2.35 | 5   | 33.44    | 2023-10-14T23:20:12Z |
 
 {{[Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}})}@0} is the creator of [Cenotaph for Sir Isaac Newton]({{< relref "cenotaph_for_sir_isaac_newton.md" >}})
 
@@ -86,5 +86,5 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Étienne-Louis Boullée.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=%C3%89tienne-Louis_Boull%C3%A9e&oldid=1140761655">https://en.wikipedia.org/w/index.php?title=%C3%89tienne-Louis_Boull%C3%A9e&#38;oldid=1140761655</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Étienne-Louis Boullée.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=%C3%89tienne-Louis_Boull%C3%A9e&oldid=1140761655">https://en.wikipedia.org/w/index.php?title=%C3%89tienne-Louis_Boull%C3%A9e&#38;oldid=1140761655</a>.</div>
 </div>

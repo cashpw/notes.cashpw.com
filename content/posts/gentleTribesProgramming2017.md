@@ -2,7 +2,7 @@
 title = "Joseph Gentle | Three Tribes of Programming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T10:06:00-07:00
-lastmod = 2023-08-02T11:00:36-07:00
+lastmod = 2023-09-24T10:13:19-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -166,5 +166,5 @@ Also see [Moloch]({{< relref "moloch.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Gentle, Joseph. 2017. “3 Tribes of Programming.” <i>Seph</i>. <a href="http://josephg.com/blog/3-tribes/">http://josephg.com/blog/3-tribes/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Gentle, Joseph. 2017. “3 Tribes of Programming.” Seph. May 3, 2017. <a href="http://josephg.com/blog/3-tribes/">http://josephg.com/blog/3-tribes/</a>.</div>
 </div>

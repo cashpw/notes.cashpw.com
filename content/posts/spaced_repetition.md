@@ -2,9 +2,9 @@
 title = "Spaced repetition"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2023-08-02T12:31:52-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:46:51-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
 +++
@@ -70,14 +70,14 @@ As far as I can tell, from my own experience and reading what others have writte
 
 Cards, like [Evergreen notes]({{< relref "evergreen_notes.md" >}}), [should be atomic]({{< relref "andy_matuschak_evergreen_notes_should_be_atomic.md" >}}); they should test a single, small, idea.
 
--   [Write Atomic Flashcards]({{< relref "fernando_borretti_effective_spaced_repetition.md" >}})
--   [Make most Anki questions and answers as atomic as possible]({{< relref "michael_nielsen_augmenting_long_term_memory.md#more-patterns-for-anki-use" >}})
+-   [Write Atomic Flashcards]({{< relref "fernando_borretti_effective_spaced_repetition.md#write-atomic-flashcards" >}})
+-   [Make most Anki questions and answers as atomic as possible]({{< relref "michael_nielsen_augmenting_long_term_memory.md#make-most-anki-questions-and-answers-as-atomic-as-possible" >}})
 
 
 ### Approach an idea from more than one direction {#approach-an-idea-from-more-than-one-direction}
 
--   [Cultivate strategies for elaborative encoding / forming rich associations]({{< relref "michael_nielsen_augmenting_long_term_memory.md" >}})
--   [Write Two-Way Questions]({{< relref "fernando_borretti_effective_spaced_repetition.md" >}})
+-   [Cultivate strategies for elaborative encoding / forming rich associations]({{< relref "michael_nielsen_augmenting_long_term_memory.md#cultivate-strategies-for-elaborative-encoding-forming-rich-associations" >}})
+-   [Write Two-Way Questions]({{< relref "fernando_borretti_effective_spaced_repetition.md#write-two-way-questions" >}})
 
 
 ## Flashcards {#flashcards}
@@ -88,7 +88,7 @@ Cards, like [Evergreen notes]({{< relref "evergreen_notes.md" >}}), [should be a
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.05 | 8   | 178.13   | 2023-12-18T17:22:55Z |
-| back     | 2.95 | 6   | 144.66   | 2023-08-13T09:16:21Z |
+| back     | 2.95 | 7   | 409.96   | 2024-10-03T14:57:31Z |
 
 [Spaced repetition]({{< relref "spaced_repetition.md" >}})
 
@@ -121,24 +121,26 @@ An evidence-based learning technique, usually performed with flashcards, which e
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Borretti, Fernando. 2023. “Effective Spaced Repetition.” <i>Fernando Borretti</i>. <a href="https://borretti.me/article/effective-spaced-repetition">https://borretti.me/article/effective-spaced-repetition</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Borretti, Fernando. 2023. “Effective Spaced Repetition.” Fernando Borretti. April 10, 2023. <a href="https://borretti.me/article/effective-spaced-repetition">https://borretti.me/article/effective-spaced-repetition</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Branwen, Gwern. 2009. “Spaced Repetition for Efficient Learning,” March. <a href="https://www.gwern.net/Spaced-repetition">https://www.gwern.net/Spaced-repetition</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Spaced Repetition.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Spaced_repetition&oldid=1068245869">https://en.wikipedia.org/w/index.php?title=Spaced_repetition&#38;oldid=1068245869</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Spaced Repetition.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Spaced_repetition&oldid=1068245869">https://en.wikipedia.org/w/index.php?title=Spaced_repetition&#38;oldid=1068245869</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Forgetting curve]({{< relref "forgetting_curve.md" >}})
 -   [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
+-   [Forgetting curve]({{< relref "forgetting_curve.md" >}})
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
 -   [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}})
+-   [Andy Matuschak | Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture]({{< relref "andy_matuschak_deciding_to_remember_something_with_a_spaced_repetition_system_is_aspirationally_a_lightweight_gesture.md" >}})
 -   [Pedagogy]({{< relref "pedagogy.md" >}})
--   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
 -   [Org flashcards]({{< relref "org_flashcards.md" >}})
+-   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
 -   [Fernando Borretti | Effective Spaced Repetition]({{< relref "fernando_borretti_effective_spaced_repetition.md" >}})
+-   [Michael Nielsen | Augmenting Long-term Memory]({{< relref "michael_nielsen_augmenting_long_term_memory.md" >}})
 -   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})
 -   [Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction]({{< relref "jose_luis_ricon_on_bloom_s_two_sigma_problem.md" >}})
--   [Michael Nielsen | Augmenting Long-term Memory]({{< relref "michael_nielsen_augmenting_long_term_memory.md" >}})
 -   [Favorites]({{< relref "favorites.md" >}})
+-   [Cedric Chin | The Tricky Thing About Creating Training Programs]({{< relref "cedric_chin_the_tricky_thing_about_creating_training_programs.md" >}})
 -   [Remember (Bloom's Taxonomy)]({{< relref "BloomTaxonomy2022.md#remember--id-5fbaa05c-666f-4d45-b798-ff36ace22126-bloom-s-taxonomy" >}})

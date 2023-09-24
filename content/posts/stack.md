@@ -2,7 +2,7 @@
 title = "Stack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T20:24:00-07:00
-lastmod = 2023-08-02T12:33:43-07:00
+lastmod = 2023-09-24T10:47:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -84,7 +84,7 @@ A collection of elements, maintained in [Last in, first out]({{< relref "first_i
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Stack (Abstract Data Type).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Stack_(abstract_data_type)&oldid=1091819102">https://en.wikipedia.org/w/index.php?title=Stack_(abstract_data_type)&#38;oldid=1091819102</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Stack (Abstract Data Type).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Stack_(abstract_data_type)&oldid=1091819102">https://en.wikipedia.org/w/index.php?title=Stack_(abstract_data_type)&#38;oldid=1091819102</a>.</div>
 </div>
 
 

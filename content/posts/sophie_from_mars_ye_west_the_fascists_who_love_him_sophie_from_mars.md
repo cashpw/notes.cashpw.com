@@ -2,7 +2,7 @@
 title = "Sophie from Mars | Ye West The Fascists Who Love Him | Sophie From Mars"
 author = ["Cash Weaver"]
 date = 2023-01-13T17:00:00-08:00
-lastmod = 2023-08-02T12:30:55-07:00
+lastmod = 2023-09-24T10:46:37-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -24,5 +24,5 @@ This describes a [Xanatos gambit]({{< relref "XanatosGambit.md" >}}) of politica
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Sophie from Mars. 2023. “Ye West &#38; The Fascists Who Love Him | Sophie From Mars.” <a href="https://www.youtube.com/watch?v=-NHE72AgPGc">https://www.youtube.com/watch?v=-NHE72AgPGc</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Sophie from Mars, ed. 2023. <i>Ye West &#38; The Fascists Who Love Him | Sophie From Mars</i>. Directed by Sophie from Mars. <a href="https://www.youtube.com/watch?v=-NHE72AgPGc">https://www.youtube.com/watch?v=-NHE72AgPGc</a>.</div>
 </div>

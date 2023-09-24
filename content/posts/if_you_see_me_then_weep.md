@@ -2,7 +2,7 @@
 title = "If you see me, then weep"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T09:04:00-07:00
-lastmod = 2023-08-02T11:10:25-07:00
+lastmod = 2023-09-24T10:18:05-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -39,7 +39,7 @@ A famous carving on a [Hunger stone]({{< relref "hunger_stone.md" >}}) in the Cz
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Hunger Stone.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Hunger_stone&oldid=1110092878">https://en.wikipedia.org/w/index.php?title=Hunger_stone&#38;oldid=1110092878</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Hunger Stone.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Hunger_stone&oldid=1110092878">https://en.wikipedia.org/w/index.php?title=Hunger_stone&#38;oldid=1110092878</a>.</div>
 </div>
 
 

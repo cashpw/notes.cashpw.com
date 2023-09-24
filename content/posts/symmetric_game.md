@@ -2,7 +2,7 @@
 title = "Symmetric game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2023-08-02T12:39:14-07:00
+lastmod = 2023-09-24T10:49:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,7 +54,7 @@ A game where the payoffs are independent of the person playing them -- the strat
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 254.88   | 2024-01-08T19:46:01Z |
-| back     | 2.05 | 7   | 134.94   | 2023-08-26T11:58:00Z |
+| back     | 1.90 | 8   | 240.98   | 2024-04-24T13:22:53Z |
 
 [Symmetric game]({{< relref "symmetric_game.md" >}})
 
@@ -73,7 +73,7 @@ A game where the payoffs are independent of the person playing them -- the strat
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Symmetric Game.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Symmetric_game&oldid=1087326755">https://en.wikipedia.org/w/index.php?title=Symmetric_game&#38;oldid=1087326755</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Symmetric Game.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Symmetric_game&oldid=1087326755">https://en.wikipedia.org/w/index.php?title=Symmetric_game&#38;oldid=1087326755</a>.</div>
 </div>
 
 

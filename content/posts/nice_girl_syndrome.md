@@ -2,7 +2,7 @@
 title = "People pleaser"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-20T11:37:00-07:00
-lastmod = 2023-08-02T11:46:44-07:00
+lastmod = 2023-09-24T10:34:34-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,7 +26,7 @@ People pleasing is a personality or behavioral trait: "An obsequious, subservien
 >
 > Think about the term "good girl" itself: It conjures images of quiet, compliant, pretty girls who take care of others and don't cause trouble.
 >
-> (<a href="#citeproc_bib_item_1">“6 Signs You Have `Good Girl Syndrome’” 2023</a>)
+> (<a href="#citeproc_bib_item_1">“6 Signs You Have “Good Girl Syndrome’” 2023</a>)
 
 <!--quoteend-->
 
@@ -42,8 +42,8 @@ People pleasing is a personality or behavioral trait: "An obsequious, subservien
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2023-08-05T23:37:21Z |
-| back     | 2.50 | 1   | 1.00     | 2023-08-02T01:27:41Z |
+| front    | 1.75 | 6   | 33.54    | 2023-10-22T04:46:56Z |
+| back     | 2.20 | 5   | 29.14    | 2023-10-11T15:57:13Z |
 
 An obsequious, subservient person, especially in a workplace
 
@@ -57,8 +57,8 @@ An obsequious, subservient person, especially in a workplace
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-08-03T15:05:38Z |
-| back     | 2.50 | 2   | 2.00     | 2023-08-03T14:59:30Z |
+| front    | 2.35 | 5   | 30.38    | 2023-09-23T01:59:59Z |
+| back     | 2.35 | 5   | 36.73    | 2023-10-18T06:14:27Z |
 
 [Nice girl syndrome]({{< relref "nice_girl_syndrome.md" >}})
 
@@ -78,7 +78,7 @@ A collection of behavioral and personality traits generally socialized into wome
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“6 Signs You Have `Good Girl Syndrome’.” 2023. <i>Cleveland Clinic</i>. <a href="https://health.clevelandclinic.org/good-girl-syndrome/">https://health.clevelandclinic.org/good-girl-syndrome/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“6 Signs You Have “Good Girl Syndrome’.” 2023. Cleveland Clinic. July 17, 2023. <a href="https://health.clevelandclinic.org/good-girl-syndrome/">https://health.clevelandclinic.org/good-girl-syndrome/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Engel, Beverly. 2008. <i>The Nice Girl Syndrome: Stop Being Manipulated and Abused–and Start Standing up for Yourself</i>. Hoboken, N.J: John Wiley &#38; Sons.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“People Pleaser.” 2023. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=people_pleaser&oldid=71723563">https://en.wiktionary.org/w/index.php?title=people_pleaser&#38;oldid=71723563</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“People Pleaser.” 2023. In <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=people_pleaser&oldid=71723563">https://en.wiktionary.org/w/index.php?title=people_pleaser&#38;oldid=71723563</a>.</div>
 </div>

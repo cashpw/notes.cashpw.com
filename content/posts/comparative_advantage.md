@@ -2,7 +2,7 @@
 title = "Comparative advantage"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T16:48:00-07:00
-lastmod = 2023-08-02T10:42:59-07:00
+lastmod = 2023-09-24T10:01:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -70,8 +70,8 @@ The attorney's [...] is legal work. They're better off hiring the secretary so t
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Comparative Advantage.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Comparative_advantage&oldid=1104216355">https://en.wikipedia.org/w/index.php?title=Comparative_advantage&#38;oldid=1104216355</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“What Is Comparative Advantage?” n.d. <i>Investopedia</i>. Accessed October 28, 2022. <a href="https://www.investopedia.com/terms/c/comparativeadvantage.asp">https://www.investopedia.com/terms/c/comparativeadvantage.asp</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Comparative Advantage.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Comparative_advantage&oldid=1104216355">https://en.wikipedia.org/w/index.php?title=Comparative_advantage&#38;oldid=1104216355</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“What Is Comparative Advantage?” n.d. Investopedia. Accessed October 28, 2022. <a href="https://www.investopedia.com/terms/c/comparativeadvantage.asp">https://www.investopedia.com/terms/c/comparativeadvantage.asp</a>.</div>
 </div>
 
 

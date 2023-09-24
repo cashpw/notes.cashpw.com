@@ -2,9 +2,9 @@
 title = "Mastery learning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:23:00-08:00
-lastmod = 2023-08-02T11:35:07-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:29:13-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
 +++
@@ -53,7 +53,7 @@ slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 131.43   | 2023-09-18T02:58:29Z |
+| 0        | 2.95 | 7   | 385.68   | 2024-10-08T08:11:48Z |
 
 {{[Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})}@0} developed [Mastery learning]({{< relref "mastery_learning.md" >}})
 
@@ -65,7 +65,7 @@ slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mastery Learning.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Mastery_learning&oldid=1126487387">https://en.wikipedia.org/w/index.php?title=Mastery_learning&#38;oldid=1126487387</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mastery Learning.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Mastery_learning&oldid=1126487387">https://en.wikipedia.org/w/index.php?title=Mastery_learning&#38;oldid=1126487387</a>.</div>
 </div>
 
 

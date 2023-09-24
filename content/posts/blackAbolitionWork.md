@@ -2,7 +2,7 @@
 title = "Bob Black | The Abolition of Work"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:25:00-07:00
-lastmod = 2023-08-02T10:37:31-07:00
+lastmod = 2023-09-24T09:56:32-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -68,6 +68,6 @@ Perhaps the answer is just more automation.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Black, Bob. n.d. “The Abolition of Work.” <i>The Anarchist Library</i>. Accessed March 13, 2022. <a href="https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work">https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Black, Bob. n.d. “The Abolition of Work.” The Anarchist Library. Accessed March 13, 2022. <a href="https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work">https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>pmoriarty. n.d. “I’ve Long Been a Fan of This Essay, as Something to Strive for over the next.” Accessed March 14, 2022. <a href="https://news.ycombinator.com/item?id=25482852">https://news.ycombinator.com/item?id=25482852</a>.</div>
 </div>

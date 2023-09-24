@@ -2,7 +2,7 @@
 title = "Theory of action"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-03T11:25:00-08:00
-lastmod = 2023-08-02T12:48:53-07:00
+lastmod = 2023-09-24T10:51:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ See also: [Theory of change]({{< relref "theory_of_change.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 34.09    | 2023-08-26T05:30:42Z |
-| back     | 2.80 | 5   | 48.46    | 2023-09-10T15:13:15Z |
+| front    | 2.50 | 6   | 76.87    | 2023-11-12T10:19:49Z |
+| back     | 2.80 | 6   | 132.62   | 2024-01-22T03:43:44Z |
 
 [Theory of action]({{< relref "theory_of_action.md" >}})
 
@@ -40,7 +40,7 @@ See also: [Theory of change]({{< relref "theory_of_change.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tyrrel, Lavinia. 2019. “Theory of Change and Theory of Action: What’s the Difference and Why Does It Matter?” <i>Governance and Development Soapbox</i>. <a href="https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/">https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tyrrel, Lavinia. 2019. “Theory of Change and Theory of Action: What’s the Difference and Why Does It Matter?” Governance and Development Soapbox. July 18, 2019. <a href="https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/">https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/</a>.</div>
 </div>
 
 

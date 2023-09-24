@@ -2,7 +2,7 @@
 title = "ExRx | Weightlifting Performance Standards"
 author = ["Cash Weaver"]
 date = 2023-07-06T10:50:00-07:00
-lastmod = 2023-08-02T10:55:10-07:00
+lastmod = 2023-09-24T10:09:46-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

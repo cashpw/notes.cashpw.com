@@ -2,9 +2,9 @@
 title = "Derivative (math)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:20:00-08:00
-lastmod = 2023-08-02T10:49:07-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:05:57-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "555a96ec-560f-4087-939f-5985f0ad0cb6"
 +++
@@ -96,8 +96,8 @@ Related: [Differential calculus]({{< relref "differential_calculus.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.60 | 6   | 31.54    | 2023-08-24T17:01:16Z |
-| back     | 2.80 | 6   | 116.59   | 2023-08-31T07:56:39Z |
+| front    | 1.45 | 7   | 46.32    | 2023-10-11T22:41:30Z |
+| back     | 2.80 | 7   | 317.01   | 2024-07-14T14:44:20Z |
 
 [Derivative (math)]({{< relref "derivative.md" >}})
 
@@ -117,7 +117,7 @@ The sensitivity of a function's output value to changes in the function's input 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 244.20   | 2024-03-23T08:24:35Z |
-| back     | 2.50 | 6   | 118.97   | 2023-09-05T16:10:52Z |
+| back     | 2.50 | 7   | 303.50   | 2024-07-07T02:59:57Z |
 
 Geometric interpretation of [Derivative (math)]({{< relref "derivative.md" >}})
 
@@ -136,8 +136,8 @@ The slope of the tangent line to the graph of the function at a particular point
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 129.25   | 2023-08-20T18:50:58Z |
-| 1        | 1.90 | 6   | 52.97    | 2023-09-19T14:17:57Z |
+| 0        | 2.80 | 7   | 385.07   | 2024-09-11T18:24:33Z |
+| 1        | 1.90 | 7   | 92.94    | 2023-12-21T22:30:05Z |
 
 -   {{[Derivative (math)]({{< relref "derivative.md" >}})}@0}
 -   {{[Instantaneous rate of change]({{< relref "derivative.md" >}})}@1}
@@ -152,8 +152,8 @@ The slope of the tangent line to the graph of the function at a particular point
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 108.60   | 2023-08-04T06:26:08Z |
-| 1        | 2.50 | 6   | 100.10   | 2023-08-18T18:31:29Z |
+| 0        | 2.65 | 7   | 265.48   | 2024-04-26T02:44:03Z |
+| 1        | 2.35 | 7   | 250.95   | 2024-04-28T12:12:22Z |
 
 For \\(f(x)\\), {{the [Derivative (math)]({{< relref "derivative.md" >}})}@0} is {{a function whose output is the slope of the tangent line at \\(x\\)}{[Geometry]({{< relref "geometry.md" >}})}@1}.
 
@@ -165,18 +165,18 @@ For \\(f(x)\\), {{the [Derivative (math)]({{< relref "derivative.md" >}})}@0} is
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Derivative.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Derivative&oldid=1115036985">https://en.wikipedia.org/w/index.php?title=Derivative&#38;oldid=1115036985</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Derivative.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Derivative&oldid=1115036985">https://en.wikipedia.org/w/index.php?title=Derivative&#38;oldid=1115036985</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
+-   [Instantaneous velocity]({{< relref "velocity.md#instantaneous-velocity" >}})
+-   [Acceleration]({{< relref "acceleration.md" >}})
+-   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})
+-   [Quotient rule]({{< relref "quotient_rule.md" >}})
 -   [Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})
 -   [Vega (finance)]({{< relref "vega_finance.md" >}})
--   [Quotient rule]({{< relref "quotient_rule.md" >}})
 -   [Chain rule]({{< relref "chain_rule.md" >}})
--   [Acceleration]({{< relref "acceleration.md" >}})
--   [Instantaneous velocity]({{< relref "velocity.md#instantaneous-velocity" >}})
--   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
 -   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
--   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})
+-   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})

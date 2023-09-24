@@ -2,7 +2,7 @@
 title = "Selection algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:10:00-07:00
-lastmod = 2023-08-02T12:23:12-07:00
+lastmod = 2023-09-24T10:44:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -41,8 +41,8 @@ slug = "7fbcef27-68c4-4793-8fc0-e10114318765"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 6   | 58.47    | 2023-09-13T01:22:22Z |
-| back     | 2.20 | 7   | 125.46   | 2023-08-15T03:28:55Z |
+| front    | 2.05 | 7   | 125.00   | 2024-01-17T15:11:05Z |
+| back     | 2.05 | 8   | 263.37   | 2024-05-15T23:46:46Z |
 
 [Selection algorithm]({{< relref "selection_algorithm.md" >}})
 
@@ -59,7 +59,7 @@ Category of algorithms for finding the k-th entry in a sorted version of a list.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Selection Algorithm.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Selection_algorithm&oldid=1090831234">https://en.wikipedia.org/w/index.php?title=Selection_algorithm&#38;oldid=1090831234</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Selection Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Selection_algorithm&oldid=1090831234">https://en.wikipedia.org/w/index.php?title=Selection_algorithm&#38;oldid=1090831234</a>.</div>
 </div>
 
 

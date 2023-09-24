@@ -2,7 +2,7 @@
 title = "Evergreen notes"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T07:24:00-08:00
-lastmod = 2023-08-02T10:54:00-07:00
+lastmod = 2023-09-24T10:09:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,7 +43,7 @@ A note which is
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 6   | 49.79    | 2023-08-17T12:15:04Z |
+| 0        | 1.90 | 5   | 22.69    | 2023-10-10T15:53:25Z |
 
 [Evergreen notes]({{< relref "evergreen_notes.md" >}}) are {{atomic and concept-oriented}{content}@0}.
 
@@ -57,7 +57,7 @@ A note which is
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 131.23   | 2023-09-18T21:42:32Z |
+| 0        | 2.80 | 7   | 357.94   | 2024-09-11T22:35:30Z |
 
 [Evergreen notes]({{< relref "evergreen_notes.md" >}}) should be {{densely linked}{connections}@0}
 
@@ -71,7 +71,7 @@ A note which is
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 103.10   | 2023-08-10T01:13:40Z |
+| 0        | 2.35 | 7   | 260.68   | 2024-04-27T06:50:41Z |
 
 [Evergreen notes]({{< relref "evergreen_notes.md" >}}) are {{accumulated over time}{growth}@0}.
 
@@ -83,7 +83,7 @@ A note which is
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes.” <i>Andy’s Working Notes</i>. Accessed February 22, 2022. <a href="https://notes.andymatuschak.org/Evergreen_notes">https://notes.andymatuschak.org/Evergreen_notes</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes.” Andy’s working notes. Accessed February 22, 2022. <a href="https://notes.andymatuschak.org/Evergreen_notes">https://notes.andymatuschak.org/Evergreen_notes</a>.</div>
 </div>
 
 
@@ -91,5 +91,6 @@ A note which is
 
 -   [Andy Matuschak | Evergreen Notes]({{< relref "matuschakEvergreenNotes.md" >}})
 -   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
--   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
 -   [Andy Matuschak]({{< relref "andy_matuschak.md" >}})
+-   [Andy Matuschak | Write Notes for Yourself by Default, Disregarding Audience]({{< relref "matuschak_andy_write_notes_for_yourself_by_default_disregarding_audience.md" >}})
+-   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

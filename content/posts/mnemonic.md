@@ -2,7 +2,7 @@
 title = "Mnemonic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-04T17:38:00-07:00
-lastmod = 2023-08-02T11:41:26-07:00
+lastmod = 2023-09-24T10:31:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,7 +43,7 @@ A learning technique which aids information retention or retrieval. They're comm
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mnemonic.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Mnemonic&oldid=1121123169">https://en.wikipedia.org/w/index.php?title=Mnemonic&#38;oldid=1121123169</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mnemonic.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Mnemonic&oldid=1121123169">https://en.wikipedia.org/w/index.php?title=Mnemonic&#38;oldid=1121123169</a>.</div>
 </div>
 
 

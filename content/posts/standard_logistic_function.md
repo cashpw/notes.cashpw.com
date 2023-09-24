@@ -2,7 +2,7 @@
 title = "Logistic function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:11:00-08:00
-lastmod = 2023-08-02T12:34:35-07:00
+lastmod = 2023-09-24T10:47:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,7 +33,7 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.65 | 11  | 359.88   | 2024-03-12T10:51:51Z |
-| front    | 1.90 | 6   | 44.88    | 2023-08-10T13:28:16Z |
+| front    | 1.90 | 7   | 86.35    | 2023-11-04T23:04:04Z |
 
 [Standard logistic function](#standard-logistic-function)
 
@@ -52,8 +52,8 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.05 | 24  | 191.99   | 2023-09-12T15:02:40Z |
-| front    | 1.60 | 8   | 100.91   | 2023-08-23T12:38:58Z |
+| back     | 2.05 | 25  | 380.90   | 2024-09-29T12:53:59Z |
+| front    | 1.30 | 4   | 7.48     | 2023-09-26T03:22:06Z |
 
 [Logistic function]({{< relref "standard_logistic_function.md" >}})
 
@@ -81,7 +81,7 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 6   | 61.61    | 2023-08-29T07:56:53Z |
+| front    | 2.20 | 7   | 132.76   | 2024-01-09T09:28:12Z |
 | back     | 2.65 | 11  | 429.87   | 2024-07-13T13:01:58Z |
 
 \\(\operatorname{logistic}(x)\\)
@@ -102,7 +102,7 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 7   | 314.12   | 2023-12-28T17:13:44Z |
-| 1        | 2.20 | 7   | 202.69   | 2023-08-16T09:31:19Z |
+| 1        | 2.05 | 8   | 382.70   | 2024-09-11T08:03:26Z |
 
 {{\\(\operatorname{logistic}(x)\\)}{function}@0} \\(=\\) {{\\(\displaystyle \frac{1}{1 + e^{-x}}\\)}{fraction}@1}
 
@@ -117,7 +117,7 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 8   | 445.19   | 2024-08-02T21:56:40Z |
-| 1        | 1.75 | 4   | 11.27    | 2023-08-11T06:27:44Z |
+| 1        | 1.75 | 6   | 29.63    | 2023-09-29T03:51:45Z |
 
 {{\\(\operatorname{logistic}(x)\\)}{function}@0} \\(=\\) {{\\(\displaystyle \frac{e^x}{e^x + 1}\\)}{fraction}@1}
 
@@ -129,7 +129,7 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Logistic Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Logistic_function&oldid=1122607755">https://en.wikipedia.org/w/index.php?title=Logistic_function&#38;oldid=1122607755</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Logistic Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Logistic_function&oldid=1122607755">https://en.wikipedia.org/w/index.php?title=Logistic_function&#38;oldid=1122607755</a>.</div>
 </div>
 
 

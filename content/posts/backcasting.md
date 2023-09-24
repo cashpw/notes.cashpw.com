@@ -2,7 +2,7 @@
 title = "Backcasting"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T07:54:00-08:00
-lastmod = 2023-08-02T10:35:37-07:00
+lastmod = 2023-09-24T09:54:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ A planning method which starts from a desirable future and works backward to ide
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Backcasting.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Backcasting&oldid=1111706551">https://en.wikipedia.org/w/index.php?title=Backcasting&#38;oldid=1111706551</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Backcasting.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Backcasting&oldid=1111706551">https://en.wikipedia.org/w/index.php?title=Backcasting&#38;oldid=1111706551</a>.</div>
 </div>
 
 

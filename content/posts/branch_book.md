@@ -2,7 +2,7 @@
 title = "Branch book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:50:00-07:00
-lastmod = 2023-08-02T10:38:09-07:00
+lastmod = 2023-09-24T09:57:07-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,15 +45,15 @@ Books which consist of a single idea which is padded out with examples, extrapol
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “The Three Kinds of Non-Fiction Books.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/">https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “The Three Kinds of Non-Fiction Books.” Commonplace - The Commoncog Blog. May 16, 2018. <a href="https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/">https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
+-   [Narrative book]({{< relref "narrative_book.md" >}})
 -   [Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "kevin_simler_robin_hanson_the_elephant_in_the_brain_hidden_motives_in_everyday_life.md" >}})
 -   [Cedric Chin | The Three Kinds of Non-Fiction Books]({{< relref "chinThreeKindsNonfiction2018.md" >}})
--   [Narrative book]({{< relref "narrative_book.md" >}})
 -   [Tree book]({{< relref "tree_book.md" >}})
 -   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
 -   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})

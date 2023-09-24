@@ -2,7 +2,7 @@
 title = "Remote procedure call"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:19:00-07:00
-lastmod = 2023-08-02T12:14:38-07:00
+lastmod = 2023-09-24T10:41:46-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "f85a49e5-6718-4da8-b325-22b23a44985f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 99.14    | 2023-09-16T18:51:10Z |
-| back     | 2.65 | 6   | 84.91    | 2023-09-05T22:08:00Z |
+| front    | 2.50 | 7   | 266.56   | 2024-06-11T05:12:46Z |
+| back     | 2.50 | 7   | 226.02   | 2024-04-20T15:20:18Z |
 
 [Remote procedure call]({{< relref "remote_procedure_call.md" >}})
 
@@ -55,7 +55,7 @@ The programmer making a [Remote procedure call]({{< relref "remote_procedure_cal
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Remote Procedure Call.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Remote_procedure_call&oldid=1135050297">https://en.wikipedia.org/w/index.php?title=Remote_procedure_call&#38;oldid=1135050297</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Remote Procedure Call.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Remote_procedure_call&oldid=1135050297">https://en.wikipedia.org/w/index.php?title=Remote_procedure_call&#38;oldid=1135050297</a>.</div>
 </div>
 
 

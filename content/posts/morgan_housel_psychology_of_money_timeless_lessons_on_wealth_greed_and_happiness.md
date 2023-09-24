@@ -2,9 +2,9 @@
 title = "Morgan Housel | Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T19:01:00-08:00
-lastmod = 2023-08-02T11:43:25-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:32:50-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "285207c7-cf14-4f37-abae-6509506734bc"
 +++

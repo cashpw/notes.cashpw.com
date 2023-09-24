@@ -2,7 +2,7 @@
 title = "Tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:47:00-07:00
-lastmod = 2023-08-02T12:55:57-07:00
+lastmod = 2023-09-24T10:53:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,8 +28,8 @@ slug = "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 97.70    | 2023-08-09T14:26:18Z |
-| front    | 1.60 | 8   | 117.66   | 2023-09-13T07:10:48Z |
+| back     | 2.65 | 7   | 266.11   | 2024-05-02T03:22:57Z |
+| front    | 1.60 | 9   | 202.91   | 2024-04-04T12:57:56Z |
 
 [Tree]({{< relref "tree.md" >}})
 
@@ -48,7 +48,7 @@ slug = "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree (Data Structure).” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Tree_(data_structure)&oldid=1084348103">https://en.wikipedia.org/w/index.php?title=Tree_(data_structure)&#38;oldid=1084348103</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree (Data Structure).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Tree_(data_structure)&oldid=1084348103">https://en.wikipedia.org/w/index.php?title=Tree_(data_structure)&#38;oldid=1084348103</a>.</div>
 </div>
 
 
@@ -56,12 +56,12 @@ slug = "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
 
 -   [Forest]({{< relref "forest.md" >}})
 -   [Heap]({{< relref "heap.md" >}})
--   [Spanning tree]({{< relref "spanning_tree.md" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
--   [B-tree]({{< relref "b_tree.md" >}})
--   [Depth-first search]({{< relref "depth_first_search.md" >}})
--   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})
--   [Red-black tree]({{< relref "red_black_tree.md" >}})
 -   [Binary tree]({{< relref "binary_tree.md" >}})
 -   [Trie]({{< relref "trie.md" >}})
+-   [Depth-first search]({{< relref "depth_first_search.md" >}})
 -   [Branch and bound]({{< relref "branch_and_bound.md" >}})
+-   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})
+-   [Spanning tree]({{< relref "spanning_tree.md" >}})
+-   [B-tree]({{< relref "b_tree.md" >}})
+-   [Red-black tree]({{< relref "red_black_tree.md" >}})

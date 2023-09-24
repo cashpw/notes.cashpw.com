@@ -2,7 +2,7 @@
 title = "Inferential distance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-22T09:53:00-07:00
-lastmod = 2023-08-02T11:13:10-07:00
+lastmod = 2023-09-24T10:19:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,7 +33,7 @@ The inferential distance between two people, the teacher and the student, with r
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 188.57   | 2023-09-27T03:24:47Z |
-| back     | 2.35 | 7   | 182.67   | 2023-08-28T08:05:51Z |
+| back     | 1.90 | 4   | 11.61    | 2023-09-23T03:22:21Z |
 
 [Inferential distance]({{< relref "inferential_distance.md" >}})
 
@@ -53,7 +53,7 @@ The set of prerequisite knowledge required to understand a new concept lacked by
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 8   | 512.04   | 2024-12-19T04:02:08Z |
-| back     | 2.20 | 7   | 168.58   | 2023-09-12T07:13:22Z |
+| back     | 2.05 | 8   | 361.15   | 2024-09-07T16:06:47Z |
 
 [Inferential distance]({{< relref "inferential_distance.md" >}})
 

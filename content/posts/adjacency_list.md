@@ -2,7 +2,7 @@
 title = "Adjacency list"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:07:00-07:00
-lastmod = 2023-08-02T10:33:39-07:00
+lastmod = 2023-09-24T09:52:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,7 +34,7 @@ Also see [Adjacency matrix]({{< relref "adjacency_matrix.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.35 | 7   | 167.24   | 2023-10-24T21:34:08Z |
-| front    | 2.50 | 7   | 206.65   | 2023-08-07T06:41:23Z |
+| front    | 2.50 | 8   | 560.89   | 2025-02-19T12:38:37Z |
 
 [Adjacency list]({{< relref "adjacency_list.md" >}})
 
@@ -51,7 +51,7 @@ A representation of a [Graph]({{< relref "graph.md" >}}) using a collection of u
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Adjacency List.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Adjacency_list&oldid=1083389776">https://en.wikipedia.org/w/index.php?title=Adjacency_list&#38;oldid=1083389776</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Adjacency List.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Adjacency_list&oldid=1083389776">https://en.wikipedia.org/w/index.php?title=Adjacency_list&#38;oldid=1083389776</a>.</div>
 </div>
 
 

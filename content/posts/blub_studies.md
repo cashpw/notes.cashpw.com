@@ -2,7 +2,7 @@
 title = "Blub studies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T05:09:00-08:00
-lastmod = 2023-08-02T10:37:49-07:00
+lastmod = 2023-09-24T09:56:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,7 +27,7 @@ Related:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 249.71   | 2024-01-13T10:13:01Z |
-| back     | 2.20 | 7   | 156.62   | 2023-08-30T04:26:03Z |
+| back     | 2.20 | 8   | 349.99   | 2024-08-14T12:43:13Z |
 
 [Blub studies]({{< relref "blub_studies.md" >}})
 
@@ -47,7 +47,7 @@ The study of the nitty-gritty in boring, everyday systems -- the kind that peopl
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 320.82   | 2024-04-25T11:17:31Z |
-| back     | 2.80 | 6   | 146.82   | 2023-08-02T14:19:47Z |
+| back     | 2.65 | 7   | 418.12   | 2024-09-25T18:07:02Z |
 
 [Blub studies]({{< relref "blub_studies.md" >}})
 
@@ -65,7 +65,7 @@ The study of the nitty-gritty in boring, everyday systems -- the kind that peopl
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. n.d. “In Defense of Blub Studies.” <i>Benkuhn.Net</i>. Accessed March 12, 2022. <a href="https://www.benkuhn.net/blub/">https://www.benkuhn.net/blub/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. n.d. “In Defense of Blub Studies.” benkuhn.net. Accessed March 12, 2022. <a href="https://www.benkuhn.net/blub/">https://www.benkuhn.net/blub/</a>.</div>
 </div>
 
 

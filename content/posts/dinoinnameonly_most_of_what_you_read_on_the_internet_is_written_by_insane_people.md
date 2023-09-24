@@ -2,7 +2,7 @@
 title = "Most of what you read on the internet is written by insane people"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:24:00-08:00
-lastmod = 2023-08-02T10:49:55-07:00
+lastmod = 2023-09-24T10:06:32-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -26,7 +26,7 @@ Originally posted at (<a href="#citeproc_bib_item_1">DinoInNameOnly 2018</a>) an
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>DinoInNameOnly. 2018. “Most of What You Read on the Internet Is Written by Insane People.” Reddit Post. <i>R/Slatestarcodex</i>. <a href="www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/">www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>DinoInNameOnly. 2018. “Most of What You Read on the Internet Is Written by Insane People.” Reddit Post. r/slatestarcodex. October 27, 2018. <a href="www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/">www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Most of What We Read on the Internet Is Written by Insane People | Hacker News.” n.d. Accessed November 7, 2022. <a href="https://news.ycombinator.com/item?id=18881827">https://news.ycombinator.com/item?id=18881827</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Most of What You Read on the Internet Is Written by Insane People (2018) | Hacker News.” n.d. Accessed November 7, 2022. <a href="https://news.ycombinator.com/item?id=25600274">https://news.ycombinator.com/item?id=25600274</a>.</div>
 </div>

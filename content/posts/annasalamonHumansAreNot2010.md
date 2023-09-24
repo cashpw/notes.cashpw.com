@@ -2,7 +2,7 @@
 title = "Anna Salamon | Humans Are Not Automatically Strategic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:45:00-08:00
-lastmod = 2023-08-02T10:34:48-07:00
+lastmod = 2023-09-24T09:53:32-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -51,7 +51,7 @@ We don't automatically seek out a [Theory of change]({{< relref "theory_of_chang
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 139.32   | 2023-08-25T22:53:23Z |
+| front    | 2.05 | 8   | 264.39   | 2024-05-17T00:24:20Z |
 | back     | 2.50 | 7   | 209.52   | 2023-12-21T02:46:23Z |
 
 [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
@@ -70,7 +70,7 @@ We don't automatically seek out a [Theory of change]({{< relref "theory_of_chang
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. 2010. “Humans Are Not Automatically Strategic.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic">https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. 2010. “Humans Are Not Automatically Strategic.” Less Wrong. September 8, 2010. <a href="https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic">https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic</a>.</div>
 </div>
 
 

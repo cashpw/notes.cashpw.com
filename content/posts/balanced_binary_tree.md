@@ -2,7 +2,7 @@
 title = "Balanced binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2023-08-02T10:35:39-07:00
+lastmod = 2023-09-24T09:54:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,7 +48,7 @@ A [Binary tree]({{< relref "binary_tree.md" >}}) in which the left and right sub
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 223.28   | 2023-09-05T23:43:28Z |
+| front    | 2.50 | 8   | 550.47   | 2025-03-11T02:19:44Z |
 | back     | 2.65 | 7   | 283.62   | 2023-11-18T13:37:22Z |
 
 [Balanced binary tree]({{< relref "balanced_binary_tree.md" >}})
@@ -66,11 +66,11 @@ A [Binary tree]({{< relref "binary_tree.md" >}}) in which the left and right sub
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Tree.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Binary_tree&oldid=1092722102">https://en.wikipedia.org/w/index.php?title=Binary_tree&#38;oldid=1092722102</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Tree.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Binary_tree&oldid=1092722102">https://en.wikipedia.org/w/index.php?title=Binary_tree&#38;oldid=1092722102</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Complete binary tree]({{< relref "complete_binary_tree.md" >}})
 -   [Binary tree]({{< relref "binary_tree.md" >}})
+-   [Complete binary tree]({{< relref "complete_binary_tree.md" >}})

@@ -2,7 +2,7 @@
 title = "Benjamin Bloom"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:17:00-08:00
-lastmod = 2023-08-02T10:36:15-07:00
+lastmod = 2023-09-24T09:55:19-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -40,7 +40,7 @@ slug = "d449ac76-f230-4922-ab7c-3b65c90a4ea9"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Benjamin Bloom.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Benjamin_Bloom&oldid=1115091893">https://en.wikipedia.org/w/index.php?title=Benjamin_Bloom&#38;oldid=1115091893</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Benjamin Bloom.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Benjamin_Bloom&oldid=1115091893">https://en.wikipedia.org/w/index.php?title=Benjamin_Bloom&#38;oldid=1115091893</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Creativity is a product of volume"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T11:27:00-07:00
-lastmod = 2023-08-02T11:08:10-07:00
+lastmod = 2023-09-24T10:17:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -44,12 +44,12 @@ Me
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altucher, James. 2014. “The Ultimate Guide for Becoming an Idea Machine.” <i>James Altucher</i>. <a href="https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/">https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altucher, James. 2014. “The Ultimate Guide for Becoming an Idea Machine.” James Altucher. May 14, 2014. <a href="https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/">https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Ceramics exercises]({{< relref "ceramics_exercises.md" >}})
--   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [James Altucher | The Ultimate Guide for Becoming an Idea Machine]({{< relref "UltimateGuideBecomingIdeaMachine2014.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})

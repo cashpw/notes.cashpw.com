@@ -2,7 +2,7 @@
 title = "std::unique_ptr"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T10:01:00-07:00
-lastmod = 2023-08-02T12:35:17-07:00
+lastmod = 2023-09-24T10:47:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ A part of the [Standard Library (C++)]({{< relref "c_standard_library.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 105.51   | 2023-11-09T03:12:10Z |
-| back     | 2.65 | 5   | 38.68    | 2023-08-03T10:08:52Z |
+| back     | 2.50 | 6   | 99.92    | 2023-11-12T13:26:23Z |
 
 [std::unique_ptr]({{< relref "std_unique_ptr.md" >}})
 

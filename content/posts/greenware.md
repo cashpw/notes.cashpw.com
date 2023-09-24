@@ -2,7 +2,7 @@
 title = "Greenware"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:50:00-07:00
-lastmod = 2023-08-02T11:03:15-07:00
+lastmod = 2023-09-24T10:14:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,11 +46,11 @@ Clay which has not undergone [Bisque firing]({{< relref "bisque_firing.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pottery.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Pottery&oldid=1105629728">https://en.wikipedia.org/w/index.php?title=Pottery&#38;oldid=1105629728</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pottery.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Pottery&oldid=1105629728">https://en.wikipedia.org/w/index.php?title=Pottery&#38;oldid=1105629728</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Clay shrinkage]({{< relref "clay_shrinkage.md" >}})
 -   [Clay firing stages]({{< relref "clay_firing_stages.md" >}})
+-   [Clay shrinkage]({{< relref "clay_shrinkage.md" >}})

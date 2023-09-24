@@ -2,7 +2,7 @@
 title = "Robin Hanson"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T09:05:00-07:00
-lastmod = 2023-08-02T12:16:49-07:00
+lastmod = 2023-09-24T10:42:15-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,5 +21,5 @@ Among other things:
 
 -   [Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "kevin_simler_robin_hanson_the_elephant_in_the_brain_hidden_motives_in_everyday_life.md" >}})
 -   [Robin Hanson | Politics Isn't about Policy]({{< relref "robin_hanson_politics_isn_t_about_policy.md" >}})
--   [Robin Hanson | The Age of Em: Work, Love, and Life When Robots Rule the Earth]({{< relref "hansonAgeEmWorkLoveLifeWhenRobotsRuleEarth2016.md" >}})
 -   [Robin Hanson | This Is the Dream Time]({{< relref "robin_hanson_this_is_the_dream_time.md" >}})
+-   [Robin Hanson | The Age of Em: Work, Love, and Life When Robots Rule the Earth]({{< relref "hansonAgeEmWorkLoveLifeWhenRobotsRuleEarth2016.md" >}})

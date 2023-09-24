@@ -2,7 +2,7 @@
 title = "Wash the flour seitan"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T19:45:00-07:00
-lastmod = 2023-08-02T13:03:39-07:00
+lastmod = 2023-09-24T10:55:51-07:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -119,8 +119,8 @@ Wash the flour method is a way to make [Seitan]({{< relref "seitan.md" >}}) from
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Le, Lisa. 2021. “Washed Flour Seitan Method.” <i>The Viet Vegan</i>. <a href="https://thevietvegan.com/washed-flour-seitan-method/">https://thevietvegan.com/washed-flour-seitan-method/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Seitan Society. n.d. “‘Wash the Flour’ Method.” <i>Seitan Society</i>. Accessed September 2, 2022. <a href="https://seitansociety.com/wash-the-flour-method/">https://seitansociety.com/wash-the-flour-method/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Le, Lisa. 2021. “Washed Flour Seitan Method.” The Viet Vegan. February 24, 2021. <a href="https://thevietvegan.com/washed-flour-seitan-method/">https://thevietvegan.com/washed-flour-seitan-method/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Seitan Society. n.d. “‘Wash the Flour’ Method.” Seitan Society. Accessed September 2, 2022. <a href="https://seitansociety.com/wash-the-flour-method/">https://seitansociety.com/wash-the-flour-method/</a>.</div>
 </div>
 
 

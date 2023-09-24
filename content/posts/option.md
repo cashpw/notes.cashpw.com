@@ -2,7 +2,7 @@
 title = "Option (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:29:00-08:00
-lastmod = 2023-08-02T11:51:51-07:00
+lastmod = 2023-09-24T10:36:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -51,7 +51,7 @@ slug = "1263eb22-a819-43e6-9ab4-d45f790b095f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 135.06   | 2023-08-16T16:46:07Z |
+| 0        | 2.35 | 8   | 312.61   | 2024-07-04T05:34:52Z |
 
 
 #### Source {#source}
@@ -81,17 +81,17 @@ slug = "1263eb22-a819-43e6-9ab4-d45f790b095f"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Convexity (Finance).” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Convexity_(finance)&oldid=1101317587">https://en.wikipedia.org/w/index.php?title=Convexity_(finance)&#38;oldid=1101317587</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Option (Finance).” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Option_(finance)&oldid=1110213428">https://en.wikipedia.org/w/index.php?title=Option_(finance)&#38;oldid=1110213428</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Option Style.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Option_style&oldid=1119699571#American_and_European_options">https://en.wikipedia.org/w/index.php?title=Option_style&#38;oldid=1119699571#American_and_European_options</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Convexity (Finance).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Convexity_(finance)&oldid=1101317587">https://en.wikipedia.org/w/index.php?title=Convexity_(finance)&#38;oldid=1101317587</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Option (Finance).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Option_(finance)&oldid=1110213428">https://en.wikipedia.org/w/index.php?title=Option_(finance)&#38;oldid=1110213428</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Option Style.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Option_style&oldid=1119699571#American_and_European_options">https://en.wikipedia.org/w/index.php?title=Option_style&#38;oldid=1119699571#American_and_European_options</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Vega (finance)]({{< relref "vega_finance.md" >}})
--   [Intrinsic value (finance)]({{< relref "intrinsic_value.md" >}})
+-   [Delta (finance)]({{< relref "delta.md" >}})
 -   [Strike price]({{< relref "strike_price.md" >}})
 -   [Gamma (finance)]({{< relref "gamma.md" >}})
+-   [Vega (finance)]({{< relref "vega_finance.md" >}})
 -   [Option time value]({{< relref "time_value_finance.md" >}})
--   [Delta (finance)]({{< relref "delta.md" >}})
+-   [Intrinsic value (finance)]({{< relref "intrinsic_value.md" >}})

@@ -2,7 +2,7 @@
 title = "A-star search algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T13:50:00-08:00
-lastmod = 2023-08-02T10:33:28-07:00
+lastmod = 2023-09-24T09:51:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -82,8 +82,8 @@ The time complexity of [A\*]({{< relref "a_star_algorithm.md" >}}) {{depends on 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 161.79   | 2023-09-01T11:01:05Z |
-| 1        | 2.95 | 6   | 159.38   | 2023-09-01T22:32:15Z |
+| 0        | 2.65 | 4   | 17.09    | 2023-10-01T17:12:31Z |
+| 1        | 3.10 | 7   | 529.49   | 2025-02-19T04:16:21Z |
 
 {{The `*`, for example in [A\*]({{< relref "a_star_algorithm.md" >}}),}@0} denotes {{optimal solutions}@1}
 
@@ -153,7 +153,7 @@ The time complexity of [A\*]({{< relref "a_star_algorithm.md" >}}) {{depends on 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 7   | 261.35   | 2024-03-11T21:43:15Z |
-| 1        | 2.20 | 7   | 118.96   | 2023-09-06T15:15:25Z |
+| 1        | 2.20 | 8   | 264.06   | 2024-05-31T00:37:17Z |
 
 -   {{\\(g(n)\\)}@0}
 
@@ -169,8 +169,8 @@ The time complexity of [A\*]({{< relref "a_star_algorithm.md" >}}) {{depends on 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 141.86   | 2023-08-13T14:23:05Z |
-| 1        | 2.95 | 6   | 159.95   | 2023-09-03T16:01:09Z |
+| 0        | 2.80 | 7   | 411.21   | 2024-10-05T18:30:32Z |
+| 1        | 2.95 | 7   | 461.93   | 2024-12-10T13:35:43Z |
 
 -   {{\\(h(n)\\)}@0}
 
@@ -186,7 +186,7 @@ The time complexity of [A\*]({{< relref "a_star_algorithm.md" >}}) {{depends on 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 137.54   | 2023-08-06T06:16:48Z |
+| front    | 2.65 | 7   | 398.67   | 2024-09-08T06:46:21Z |
 
 [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) and [A\*]({{< relref "a_star_algorithm.md" >}})
 
@@ -219,18 +219,18 @@ The time complexity of [A\*]({{< relref "a_star_algorithm.md" >}}) {{depends on 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A* Search Algorithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&oldid=1127312005">https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&#38;oldid=1127312005</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Dijkstra’s Algorithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&oldid=1127202995">https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&#38;oldid=1127202995</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>francoisr. 2016. “Answer to ‘What Does the Star in the A* Algorithm Mean?’.” <i>Stack Overflow</i>. <a href="https://stackoverflow.com/a/35848019">https://stackoverflow.com/a/35848019</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A* Search Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&oldid=1127312005">https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&#38;oldid=1127312005</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Dijkstra’s Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&oldid=1127202995">https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&#38;oldid=1127202995</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>francoisr. 2016. “Answer to ‘What Does the Star in the A* Algorithm Mean?’.” Stack Overflow. March 7, 2016. <a href="https://stackoverflow.com/a/35848019">https://stackoverflow.com/a/35848019</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
--   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
+-   [Branch and bound]({{< relref "branch_and_bound.md" >}})
+-   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
 -   [Dynamic programming]({{< relref "dynamic_programming.md" >}})
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
--   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
--   [Branch and bound]({{< relref "branch_and_bound.md" >}})
+-   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
 -   [Topological order]({{< relref "topological_order.md" >}})

@@ -2,7 +2,7 @@
 title = "Binary heap"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:22:00-07:00
-lastmod = 2023-08-02T10:36:47-07:00
+lastmod = 2023-09-24T09:55:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -197,13 +197,13 @@ Steps:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Heap.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Binary_heap&oldid=1087856345">https://en.wikipedia.org/w/index.php?title=Binary_heap&#38;oldid=1087856345</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Heap.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Binary_heap&oldid=1087856345">https://en.wikipedia.org/w/index.php?title=Binary_heap&#38;oldid=1087856345</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Heap]({{< relref "heap.md" >}})
--   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
--   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
 -   [Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
+-   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
+-   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})

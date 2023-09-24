@@ -2,7 +2,7 @@
 title = "Bellman-Ford implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T08:37:00-08:00
-lastmod = 2023-08-02T10:36:07-07:00
+lastmod = 2023-09-24T09:55:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -87,12 +87,12 @@ Implement [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}}) i
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_1">“BellmanFord Algorithm” 2022</a>)
+(<a href="#citeproc_bib_item_1">“Bellman–Ford Algorithm” 2022</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“BellmanFord Algorithm.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&oldid=1088801570">https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&#38;oldid=1088801570</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bellman–Ford Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&oldid=1088801570">https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&#38;oldid=1088801570</a>.</div>
 </div>
 
 

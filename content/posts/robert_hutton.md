@@ -1,0 +1,17 @@
++++
+title = "Robert Hutton"
+author = ["Cash Prokop-Weaver"]
+date = 2023-09-11T06:06:00-07:00
+lastmod = 2023-09-24T10:42:09-07:00
+tags = ["person", "person"]
+categories = ["person"]
+draft = false
+slug = "f184dead-9713-4aa0-b7b5-88f89601c592"
++++
+
+## Flashcards {#flashcards}
+
+
+## Backlinks {#backlinks}
+
+-   [Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands]({{< relref "robert_hutton.md" >}})

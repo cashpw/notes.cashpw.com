@@ -2,7 +2,7 @@
 title = "Will no one rid me of this turbulent priest?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-25T09:41:00-07:00
-lastmod = 2023-08-02T13:05:42-07:00
+lastmod = 2023-09-24T10:56:36-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -39,7 +39,7 @@ A call for [Stochastic terrorism]({{< relref "stochastic_terrorism.md" >}}) by H
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Will No One Rid Me of This Turbulent Priest?” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Will_no_one_rid_me_of_this_turbulent_priest%3F&oldid=1105562787">https://en.wikipedia.org/w/index.php?title=Will_no_one_rid_me_of_this_turbulent_priest%3F&#38;oldid=1105562787</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Will No One Rid Me of This Turbulent Priest?” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Will_no_one_rid_me_of_this_turbulent_priest%3F&oldid=1105562787">https://en.wikipedia.org/w/index.php?title=Will_no_one_rid_me_of_this_turbulent_priest%3F&#38;oldid=1105562787</a>.</div>
 </div>
 
 

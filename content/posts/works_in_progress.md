@@ -2,9 +2,9 @@
 title = "Works in Progress"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T17:26:00-08:00
-lastmod = 2023-08-02T13:06:17-07:00
-tags = ["has-todo", "has-todo"]
-categories = ["has-todo"]
+lastmod = 2023-09-24T10:56:47-07:00
+tags = ["hastodo", "hastodo"]
+categories = ["hastodo"]
 draft = false
 slug = "e5987482-328e-40af-bcec-b69f27a49caa"
 +++

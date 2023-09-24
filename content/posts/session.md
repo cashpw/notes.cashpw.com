@@ -2,7 +2,7 @@
 title = "Session"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:32:00-07:00
-lastmod = 2023-08-02T12:24:01-07:00
+lastmod = 2023-09-24T10:44:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,11 +29,11 @@ slug = "42be7ce6-d83b-4717-86a0-0766565b2049"
 ## Flashcards {#flashcards}
 
 
-### Definition {#definition}
+### Definition (Computers) {#definition--computers}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 79.63    | 2023-08-20T16:18:07Z |
+| front    | 2.35 | 7   | 170.53   | 2024-02-08T01:56:09Z |
 | back     | 2.95 | 6   | 129.91   | 2023-10-24T11:52:42Z |
 
 [Session]({{< relref "session.md" >}})
@@ -51,7 +51,7 @@ A time-delimited two-way link which enables interactive expression and informati
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Session (Computer Science).” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Session_(computer_science)&oldid=1141927834">https://en.wikipedia.org/w/index.php?title=Session_(computer_science)&#38;oldid=1141927834</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Session (Computer Science).” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Session_(computer_science)&oldid=1141927834">https://en.wikipedia.org/w/index.php?title=Session_(computer_science)&#38;oldid=1141927834</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "If you're explaining, you're losing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-11T08:23:00-08:00
-lastmod = 2023-08-02T11:10:19-07:00
+lastmod = 2023-09-24T10:18:01-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -23,7 +23,7 @@ An example of [Never play defense]({{< relref "never_play_defense.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 109.61   | 2023-08-18T09:23:57Z |
+| 0        | 2.35 | 7   | 256.39   | 2024-05-08T00:32:39Z |
 
 
 #### Source {#source}
@@ -35,7 +35,7 @@ An example of [Never play defense]({{< relref "never_play_defense.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 6   | 67.19    | 2023-09-08T05:46:06Z |
+| front    | 2.20 | 7   | 152.24   | 2024-02-07T21:55:41Z |
 | back     | 2.65 | 7   | 265.01   | 2024-03-01T16:14:19Z |
 
 [If you're explaining, you're losing]({{< relref "if_you_re_explaining_you_re_losing.md" >}})

@@ -2,9 +2,9 @@
 title = "Will Larson | 'Drawing Your Three Maps' Exercise"
 author = ["Cash Weaver"]
 date = 2023-06-06T08:06:00-07:00
-lastmod = 2023-08-02T13:05:34-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:56:33-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "45eae752-81ef-468b-96e2-e686c38a3736"
 +++
@@ -49,5 +49,5 @@ Then again, the author notes the need for additional time and perhaps the exerci
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Larson, Will. 2022. “’Drawing Your Three Maps’ Exercise.” <a href="https://lethain.com/exercise-draw-three-maps/">https://lethain.com/exercise-draw-three-maps/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Larson, Will. 2022. “’Drawing Your Three Maps’ Exercise.” September 4, 2022. <a href="https://lethain.com/exercise-draw-three-maps/">https://lethain.com/exercise-draw-three-maps/</a>.</div>
 </div>

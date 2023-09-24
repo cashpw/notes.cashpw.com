@@ -2,7 +2,7 @@
 title = "Leibniz's notation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:41:00-08:00
-lastmod = 2023-08-02T11:27:39-07:00
+lastmod = 2023-09-24T10:25:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,7 +30,7 @@ slug = "80c7fef7-aa9e-439f-a02f-be3edb85d8f5"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 7   | 168.03   | 2023-11-17T15:01:45Z |
-| back     | 2.65 | 6   | 107.42   | 2023-08-22T03:58:39Z |
+| back     | 2.65 | 7   | 303.16   | 2024-06-24T18:45:39Z |
 
 \\(d\\)
 
@@ -50,7 +50,7 @@ infinitesimally small increments
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.80 | 7   | 304.57   | 2024-05-17T03:32:07Z |
-| 1        | 2.80 | 6   | 130.44   | 2023-09-12T03:26:41Z |
+| 1        | 2.65 | 3   | 6.00     | 2023-09-23T23:06:57Z |
 
 {{[Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})}{notation}@0} uses {{\\(d\\)}{symbol}@1}
 
@@ -65,7 +65,7 @@ infinitesimally small increments
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 6   | 84.67    | 2023-09-25T17:07:52Z |
-| back     | 2.50 | 6   | 119.17   | 2023-09-05T20:48:12Z |
+| back     | 2.50 | 7   | 275.67   | 2024-06-09T06:36:34Z |
 
 The \\(n\text{-th}\\) [Derivative (math)]({{< relref "derivative.md" >}}) of \\(y\\) with respect to \\(x\\) in [Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})
 
@@ -101,12 +101,12 @@ The \\(n\text{-th}\\) [Derivative (math)]({{< relref "derivative.md" >}}) of \\(
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Leibniz’s Notation.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Leibniz%27s_notation&oldid=1127913620">https://en.wikipedia.org/w/index.php?title=Leibniz%27s_notation&#38;oldid=1127913620</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Leibniz’s Notation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Leibniz%27s_notation&oldid=1127913620">https://en.wikipedia.org/w/index.php?title=Leibniz%27s_notation&#38;oldid=1127913620</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Chain rule]({{< relref "chain_rule.md" >}})
 -   [Product rule]({{< relref "product_rule.md" >}})
+-   [Chain rule]({{< relref "chain_rule.md" >}})
 -   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})

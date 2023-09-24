@@ -2,9 +2,9 @@
 title = "Statistics"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T15:05:00-08:00
-lastmod = 2023-08-02T12:34:45-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:47:42-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "a55b6c56-64e8-4349-9c27-555217caeb91"
 +++
@@ -97,7 +97,7 @@ Where
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.65 | 10  | 364.32   | 2024-03-12T22:11:26Z |
-| front    | 2.05 | 1   | 1.00     | 2023-06-30T20:52:40Z |
+| front    | 2.05 | 3   | 6.00     | 2023-09-18T12:25:24Z |
 
 Expected value
 
@@ -133,7 +133,7 @@ The mean of a large number of independent realizations of a random variable.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 8   | 233.32   | 2023-08-07T01:23:06Z |
+| front    | 2.20 | 9   | 506.04   | 2024-12-28T01:40:28Z |
 | back     | 2.50 | 8   | 250.69   | 2023-10-09T07:11:20Z |
 
 Irreducible error
@@ -164,7 +164,7 @@ The difference between \\(f\\) and \\(\hat{f}\\).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.65 | 12  | 372.71   | 2024-03-24T07:19:21Z |
-| 1        | 2.50 | 5   | 33.54    | 2023-08-14T02:04:36Z |
+| 1        | 2.35 | 6   | 84.72    | 2023-11-23T05:59:20Z |
 | 2        | 1.40 | 5   | 12.23    | 2023-03-31T23:01:46Z |
 | 3        | 2.95 | 6   | 118.16   | 2023-04-15T22:27:24Z |
 | 4        | 2.80 | 6   | 148.87   | 2023-07-29T11:20:25Z |
@@ -185,7 +185,7 @@ The difference between \\(f\\) and \\(\hat{f}\\).
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 12  | 464.02   | 2024-08-28T14:15:32Z |
 | 1        | 2.65 | 9   | 530.05   | 2024-11-19T17:10:03Z |
-| 2        | 2.35 | 1   | 1.00     | 2023-07-16T14:19:16Z |
+| 2        | 2.35 | 2   | 2.00     | 2023-08-23T12:51:35Z |
 | 3        | 2.35 | 8   | 232.40   | 2023-08-07T13:14:23Z |
 | 4        | 2.65 | 9   | 292.31   | 2023-12-20T21:22:44Z |
 
@@ -267,7 +267,7 @@ Follow these steps:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 5   | 33.77    | 2023-08-30T08:45:04Z |
+| 0        | 2.20 | 6   | 71.00    | 2023-11-10T18:26:04Z |
 
 Clusters are represented by {{representative vectors}@0}.
 
@@ -359,7 +359,7 @@ Odd function
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 174.69   | 2023-10-09T08:30:31Z |
-| back     | 2.65 | 7   | 130.45   | 2023-04-13T06:29:01Z |
+| back     | 2.50 | 8   | 357.16   | 2024-08-01T18:17:25Z |
 
 Asymptote
 
@@ -378,7 +378,7 @@ Asymptote
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 5   | 35.97    | 2023-08-29T03:16:17Z |
+| 0        | 2.50 | 6   | 97.18    | 2023-12-04T19:19:35Z |
 | 1        | 2.35 | 7   | 181.95   | 2023-10-08T14:28:50Z |
 
 
@@ -533,7 +533,7 @@ Probability function: \\(f(\text{event}) = \operatorname{card}(\text{event}) / 6
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 8   | 281.14   | 2023-11-05T19:43:48Z |
-| back     | 2.35 | 6   | 71.78    | 2023-08-01T07:37:35Z |
+| back     | 2.35 | 7   | 160.11   | 2024-01-27T18:43:32Z |
 
 Why Bessel's correction is used
 
@@ -553,7 +553,7 @@ The goal is to reduce the bias due to a finite sample size. The bias is more sig
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 8   | 334.15   | 2024-01-24T07:19:20Z |
-| back     | 2.35 | 8   | 192.12   | 2023-06-23T21:15:51Z |
+| back     | 2.35 | 9   | 496.32   | 2024-12-13T23:20:28Z |
 
 Parametric model
 
@@ -620,7 +620,7 @@ Parametric model
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 187.77   | 2023-08-07T08:54:20Z |
+| 0        | 2.20 | 8   | 417.24   | 2024-09-28T20:58:26Z |
 | 1        | 2.35 | 7   | 239.25   | 2023-11-04T09:19:33Z |
 
 
@@ -629,7 +629,7 @@ Parametric model
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.05 | 8   | 168.20   | 2023-11-05T17:45:08Z |
-| 1        | 1.90 | 1   | 1.00     | 2023-07-30T15:02:05Z |
+| 1        | 1.90 | 2   | 2.00     | 2023-08-10T14:58:44Z |
 
 
 #### Source {#source}
@@ -721,7 +721,7 @@ The set of all possible outcomes.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.00 | 6   | 45.41    | 2023-08-22T10:09:29Z |
+| back     | 2.00 | 7   | 96.03    | 2023-11-29T15:37:13Z |
 | front    | 2.00 | 7   | 120.28   | 2023-09-14T19:10:16Z |
 
 Sampling distribution
@@ -772,7 +772,7 @@ A linear regression model with a single explanatory variable.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.20 | 16  | 247.18   | 2023-10-05T18:55:53Z |
-| front    | 1.90 | 1   | 1.00     | 2023-07-17T13:58:06Z |
+| front    | 1.60 | 2   | 2.00     | 2023-09-06T13:25:12Z |
 
 Standard error
 
@@ -1027,7 +1027,7 @@ Population variance
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 8   | 262.72   | 2023-09-22T08:41:47Z |
-| back     | 2.35 | 7   | 116.78   | 2023-06-25T22:54:08Z |
+| back     | 2.20 | 8   | 275.88   | 2024-05-25T13:39:44Z |
 
 Bias-variance tradeoff
 
@@ -1039,7 +1039,7 @@ The conflict of trying to simultaneously reduce both the bias and the variance o
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_7">“Bias Variance Tradeoff” 2022</a>)
+(<a href="#citeproc_bib_item_7">“Bias–Variance Tradeoff” 2022</a>)
 
 
 ### Definition (Statistics) {#definition--statistics}
@@ -1067,7 +1067,7 @@ A measure of difference between the observed value of a variable and some other 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.35 | 9   | 554.21   | 2025-01-27T08:36:45Z |
-| front    | 2.35 | 5   | 31.29    | 2023-04-03T20:45:56Z |
+| front    | 2.20 | 6   | 75.36    | 2023-11-04T22:06:35Z |
 
 Event space of a probability space
 
@@ -1114,7 +1114,7 @@ A model which can be written as a linear equation
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.60 | 8   | 72.61    | 2023-09-04T04:38:12Z |
+| back     | 1.60 | 9   | 124.15   | 2024-01-12T02:52:35Z |
 | front    | 2.50 | 9   | 276.71   | 2023-10-15T07:30:05Z |
 
 Mean squared error
@@ -1139,7 +1139,7 @@ Mean squared error
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.90 | 5   | 22.91    | 2023-08-11T11:24:55Z |
+| back     | 1.75 | 7   | 69.83    | 2023-11-30T10:14:48Z |
 | front    | 2.65 | 8   | 357.47   | 2024-03-02T16:28:39Z |
 
 Non-parametric model
@@ -1160,7 +1160,7 @@ A model for which the number of parameters depends on the training data; often m
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.35 | 8   | 295.89   | 2023-12-29T14:48:53Z |
-| front    | 2.65 | 8   | 261.62   | 2023-09-07T07:12:45Z |
+| front    | 2.65 | 9   | 701.85   | 2025-08-20T12:08:19Z |
 
 Null hypothesis
 
@@ -1259,8 +1259,8 @@ A function which assigns each event in \\(\mathcal{F}\\) a probability \\([0, 1]
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.30 | 10  | 36.70    | 2023-08-08T18:02:41Z |
-| front    | 2.65 | 6   | 128.22   | 2023-07-04T21:34:06Z |
+| back     | 1.30 | 11  | 45.82    | 2023-09-24T20:14:31Z |
+| front    | 2.65 | 7   | 360.53   | 2024-08-01T03:29:13Z |
 
 Probability space
 
@@ -1280,7 +1280,7 @@ A mathematical construct that provides a formal model of a random process or "ex
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.35 | 13  | 398.60   | 2024-07-02T06:18:19Z |
-| 1        | 2.35 | 1   | 1.00     | 2023-07-15T13:21:07Z |
+| 1        | 2.35 | 1   | 1.00     | 2023-09-09T16:18:12Z |
 
 -   {{Correlation}@0}
 -   {{Dependence}@1}
@@ -1512,7 +1512,7 @@ The difference between an estimator's expected value and the true value of the p
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.60 | 7   | 50.25    | 2023-09-05T19:49:30Z |
+| back     | 1.30 | 3   | 6.00     | 2023-09-25T23:49:05Z |
 | front    | 2.35 | 7   | 168.76   | 2024-01-11T09:07:52Z |
 
 Correlation
@@ -1532,8 +1532,8 @@ Any statistical relationship, whether causal or not, between two random variable
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.30 | 7   | 13.72    | 2023-08-13T17:14:48Z |
-| front    | 1.60 | 7   | 54.66    | 2023-05-07T06:44:21Z |
+| back     | 1.30 | 9   | 22.82    | 2023-10-10T18:53:26Z |
+| front    | 1.45 | 8   | 78.74    | 2023-10-22T08:48:50Z |
 
 Covariance
 
@@ -1605,7 +1605,7 @@ Covariance
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 7   | 329.96   | 2024-04-13T15:19:37Z |
-| 1        | 2.20 | 7   | 175.58   | 2023-07-24T16:15:29Z |
+| 1        | 1.90 | 2   | 2.00     | 2023-09-12T13:37:01Z |
 
 
 #### Source {#source}
@@ -1628,46 +1628,46 @@ Covariance
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Alternative Hypothesis.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Alternative_hypothesis&oldid=1122934976">https://en.wikipedia.org/w/index.php?title=Alternative_hypothesis&#38;oldid=1122934976</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Asymptote.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Asymptote&oldid=1120501401">https://en.wikipedia.org/w/index.php?title=Asymptote&#38;oldid=1120501401</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Base Rate.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Base_rate&oldid=1129991876">https://en.wikipedia.org/w/index.php?title=Base_rate&#38;oldid=1129991876</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Bayes Error Rate.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Bayes_error_rate&oldid=1118554846">https://en.wikipedia.org/w/index.php?title=Bayes_error_rate&#38;oldid=1118554846</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>“Bessel’s Correction.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Bessel%27s_correction&oldid=1121897104">https://en.wikipedia.org/w/index.php?title=Bessel%27s_correction&#38;oldid=1121897104</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>“Bias of an Estimator.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Bias_of_an_estimator&oldid=1110965892">https://en.wikipedia.org/w/index.php?title=Bias_of_an_estimator&#38;oldid=1110965892</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>“Bias Variance Tradeoff.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Bias%E2%80%93variance_tradeoff&oldid=1127464046">https://en.wikipedia.org/w/index.php?title=Bias%E2%80%93variance_tradeoff&#38;oldid=1127464046</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Botha, Martinette. 2018. “An Introduction to Variance, Covariance &#38; Correlation | Alchemer Blog.” <i>Alchemer</i>. <a href="https://www.alchemer.com/resources/blog/variance-covariance-correlation/">https://www.alchemer.com/resources/blog/variance-covariance-correlation/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Alternative Hypothesis.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Alternative_hypothesis&oldid=1122934976">https://en.wikipedia.org/w/index.php?title=Alternative_hypothesis&#38;oldid=1122934976</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Asymptote.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Asymptote&oldid=1120501401">https://en.wikipedia.org/w/index.php?title=Asymptote&#38;oldid=1120501401</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Base Rate.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Base_rate&oldid=1129991876">https://en.wikipedia.org/w/index.php?title=Base_rate&#38;oldid=1129991876</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Bayes Error Rate.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Bayes_error_rate&oldid=1118554846">https://en.wikipedia.org/w/index.php?title=Bayes_error_rate&#38;oldid=1118554846</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>“Bessel’s Correction.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Bessel%27s_correction&oldid=1121897104">https://en.wikipedia.org/w/index.php?title=Bessel%27s_correction&#38;oldid=1121897104</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>“Bias of an Estimator.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Bias_of_an_estimator&oldid=1110965892">https://en.wikipedia.org/w/index.php?title=Bias_of_an_estimator&#38;oldid=1110965892</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>“Bias–Variance Tradeoff.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Bias%E2%80%93variance_tradeoff&oldid=1127464046">https://en.wikipedia.org/w/index.php?title=Bias%E2%80%93variance_tradeoff&#38;oldid=1127464046</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Botha, Martinette. 2018. “An Introduction to Variance, Covariance &#38; Correlation | Alchemer Blog.” Alchemer. March 15, 2018. <a href="https://www.alchemer.com/resources/blog/variance-covariance-correlation/">https://www.alchemer.com/resources/blog/variance-covariance-correlation/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Boyd, Stephen P., and Lieven Vandenberghe. 2018. <i>Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares</i>. Cambridge, UK ; New York, NY: Cambridge University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>“Cluster Analysis.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Cluster_analysis&oldid=1127979524">https://en.wikipedia.org/w/index.php?title=Cluster_analysis&#38;oldid=1127979524</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>“Conditional Probability.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Conditional_probability&oldid=1126421689">https://en.wikipedia.org/w/index.php?title=Conditional_probability&#38;oldid=1126421689</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>“Confusion Matrix.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Confusion_matrix&oldid=1127656922">https://en.wikipedia.org/w/index.php?title=Confusion_matrix&#38;oldid=1127656922</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>“Correlation.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Correlation&oldid=1123244609">https://en.wikipedia.org/w/index.php?title=Correlation&#38;oldid=1123244609</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>“Covariance.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Covariance&oldid=1130091539">https://en.wikipedia.org/w/index.php?title=Covariance&#38;oldid=1130091539</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>“Deviation (Statistics).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Deviation_(statistics)&oldid=1121693971">https://en.wikipedia.org/w/index.php?title=Deviation_(statistics)&#38;oldid=1121693971</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>“Expected Value.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Expected_value&oldid=1124470444">https://en.wikipedia.org/w/index.php?title=Expected_value&#38;oldid=1124470444</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>“Cluster Analysis.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Cluster_analysis&oldid=1127979524">https://en.wikipedia.org/w/index.php?title=Cluster_analysis&#38;oldid=1127979524</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>“Conditional Probability.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Conditional_probability&oldid=1126421689">https://en.wikipedia.org/w/index.php?title=Conditional_probability&#38;oldid=1126421689</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>“Confusion Matrix.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Confusion_matrix&oldid=1127656922">https://en.wikipedia.org/w/index.php?title=Confusion_matrix&#38;oldid=1127656922</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>“Correlation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Correlation&oldid=1123244609">https://en.wikipedia.org/w/index.php?title=Correlation&#38;oldid=1123244609</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>“Covariance.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Covariance&oldid=1130091539">https://en.wikipedia.org/w/index.php?title=Covariance&#38;oldid=1130091539</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>“Deviation (Statistics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Deviation_(statistics)&oldid=1121693971">https://en.wikipedia.org/w/index.php?title=Deviation_(statistics)&#38;oldid=1121693971</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>“Expected Value.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Expected_value&oldid=1124470444">https://en.wikipedia.org/w/index.php?title=Expected_value&#38;oldid=1124470444</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_17"></a>Ghahramani, Zoubin. n.d. “Parametric Vs Nonparametric Models.” <a href="http://mlss.tuebingen.mpg.de/2015/slides/ghahramani/gp-neural-nets15.pdf">http://mlss.tuebingen.mpg.de/2015/slides/ghahramani/gp-neural-nets15.pdf</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_18"></a>James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, eds. 2013. <i>An Introduction to Statistical Learning: With Applications in R</i>. Springer Texts in Statistics 103. New York: Springer.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>“K-Means Clustering.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=K-means_clustering&oldid=1127979478">https://en.wikipedia.org/w/index.php?title=K-means_clustering&#38;oldid=1127979478</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>“Law of Total Probability.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Law_of_total_probability&oldid=1108554328">https://en.wikipedia.org/w/index.php?title=Law_of_total_probability&#38;oldid=1108554328</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>“Mean.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Mean&oldid=1127179090">https://en.wikipedia.org/w/index.php?title=Mean&#38;oldid=1127179090</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>“Negative Relationship.” 2021. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Negative_relationship&oldid=1040328243">https://en.wikipedia.org/w/index.php?title=Negative_relationship&#38;oldid=1040328243</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>“Nonparametric Statistics.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Nonparametric_statistics&oldid=1116249193">https://en.wikipedia.org/w/index.php?title=Nonparametric_statistics&#38;oldid=1116249193</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>“Notation in Probability and Statistics.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Notation_in_probability_and_statistics&oldid=1106855377">https://en.wikipedia.org/w/index.php?title=Notation_in_probability_and_statistics&#38;oldid=1106855377</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>“Null Hypothesis.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Null_hypothesis&oldid=1127357527">https://en.wikipedia.org/w/index.php?title=Null_hypothesis&#38;oldid=1127357527</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>“Overfitting.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Overfitting&oldid=1115154474">https://en.wikipedia.org/w/index.php?title=Overfitting&#38;oldid=1115154474</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>“Parametric Model.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Parametric_model&oldid=1124648295">https://en.wikipedia.org/w/index.php?title=Parametric_model&#38;oldid=1124648295</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>“Probability Distribution.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Probability_distribution&oldid=1127805728">https://en.wikipedia.org/w/index.php?title=Probability_distribution&#38;oldid=1127805728</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>“Probability Space.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Probability_space&oldid=1122072139">https://en.wikipedia.org/w/index.php?title=Probability_space&#38;oldid=1122072139</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>“Random Variable.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Random_variable&oldid=1124246530">https://en.wikipedia.org/w/index.php?title=Random_variable&#38;oldid=1124246530</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>“Residual Sum of Squares.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Residual_sum_of_squares&oldid=1127927489">https://en.wikipedia.org/w/index.php?title=Residual_sum_of_squares&#38;oldid=1127927489</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>“Root Mean Square.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Root_mean_square&oldid=1127312985">https://en.wikipedia.org/w/index.php?title=Root_mean_square&#38;oldid=1127312985</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_33"></a>“Sample Mean and Covariance.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Sample_mean_and_covariance&oldid=1063504049">https://en.wikipedia.org/w/index.php?title=Sample_mean_and_covariance&#38;oldid=1063504049</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_34"></a>“Sampling Distribution.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Sampling_distribution&oldid=1099367574">https://en.wikipedia.org/w/index.php?title=Sampling_distribution&#38;oldid=1099367574</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_35"></a>“Simple Linear Regression.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Simple_linear_regression&oldid=1126138325">https://en.wikipedia.org/w/index.php?title=Simple_linear_regression&#38;oldid=1126138325</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_36"></a>“Standard Deviation.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Standard_deviation&oldid=1120954441">https://en.wikipedia.org/w/index.php?title=Standard_deviation&#38;oldid=1120954441</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_37"></a>“Standard Error.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Standard_error&oldid=1113740881">https://en.wikipedia.org/w/index.php?title=Standard_error&#38;oldid=1113740881</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_38"></a>“Standard Score.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Standard_score&oldid=1128321544">https://en.wikipedia.org/w/index.php?title=Standard_score&#38;oldid=1128321544</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_39"></a>“Statistic.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Statistic&oldid=1103199673">https://en.wikipedia.org/w/index.php?title=Statistic&#38;oldid=1103199673</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_40"></a>“Stochastic.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Stochastic&oldid=1123248560">https://en.wikipedia.org/w/index.php?title=Stochastic&#38;oldid=1123248560</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_41"></a>“Time Series.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Time_series&oldid=1126209544">https://en.wikipedia.org/w/index.php?title=Time_series&#38;oldid=1126209544</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_42"></a>“Variance.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Variance&oldid=1117946674">https://en.wikipedia.org/w/index.php?title=Variance&#38;oldid=1117946674</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>“K-Means Clustering.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=K-means_clustering&oldid=1127979478">https://en.wikipedia.org/w/index.php?title=K-means_clustering&#38;oldid=1127979478</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>“Law of Total Probability.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Law_of_total_probability&oldid=1108554328">https://en.wikipedia.org/w/index.php?title=Law_of_total_probability&#38;oldid=1108554328</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>“Mean.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Mean&oldid=1127179090">https://en.wikipedia.org/w/index.php?title=Mean&#38;oldid=1127179090</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>“Negative Relationship.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Negative_relationship&oldid=1040328243">https://en.wikipedia.org/w/index.php?title=Negative_relationship&#38;oldid=1040328243</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>“Nonparametric Statistics.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Nonparametric_statistics&oldid=1116249193">https://en.wikipedia.org/w/index.php?title=Nonparametric_statistics&#38;oldid=1116249193</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>“Notation in Probability and Statistics.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Notation_in_probability_and_statistics&oldid=1106855377">https://en.wikipedia.org/w/index.php?title=Notation_in_probability_and_statistics&#38;oldid=1106855377</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>“Null Hypothesis.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Null_hypothesis&oldid=1127357527">https://en.wikipedia.org/w/index.php?title=Null_hypothesis&#38;oldid=1127357527</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>“Overfitting.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Overfitting&oldid=1115154474">https://en.wikipedia.org/w/index.php?title=Overfitting&#38;oldid=1115154474</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>“Parametric Model.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Parametric_model&oldid=1124648295">https://en.wikipedia.org/w/index.php?title=Parametric_model&#38;oldid=1124648295</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>“Probability Distribution.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Probability_distribution&oldid=1127805728">https://en.wikipedia.org/w/index.php?title=Probability_distribution&#38;oldid=1127805728</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>“Probability Space.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Probability_space&oldid=1122072139">https://en.wikipedia.org/w/index.php?title=Probability_space&#38;oldid=1122072139</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>“Random Variable.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Random_variable&oldid=1124246530">https://en.wikipedia.org/w/index.php?title=Random_variable&#38;oldid=1124246530</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>“Residual Sum of Squares.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Residual_sum_of_squares&oldid=1127927489">https://en.wikipedia.org/w/index.php?title=Residual_sum_of_squares&#38;oldid=1127927489</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>“Root Mean Square.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Root_mean_square&oldid=1127312985">https://en.wikipedia.org/w/index.php?title=Root_mean_square&#38;oldid=1127312985</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_33"></a>“Sample Mean and Covariance.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Sample_mean_and_covariance&oldid=1063504049">https://en.wikipedia.org/w/index.php?title=Sample_mean_and_covariance&#38;oldid=1063504049</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_34"></a>“Sampling Distribution.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Sampling_distribution&oldid=1099367574">https://en.wikipedia.org/w/index.php?title=Sampling_distribution&#38;oldid=1099367574</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_35"></a>“Simple Linear Regression.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Simple_linear_regression&oldid=1126138325">https://en.wikipedia.org/w/index.php?title=Simple_linear_regression&#38;oldid=1126138325</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_36"></a>“Standard Deviation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Standard_deviation&oldid=1120954441">https://en.wikipedia.org/w/index.php?title=Standard_deviation&#38;oldid=1120954441</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_37"></a>“Standard Error.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Standard_error&oldid=1113740881">https://en.wikipedia.org/w/index.php?title=Standard_error&#38;oldid=1113740881</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_38"></a>“Standard Score.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Standard_score&oldid=1128321544">https://en.wikipedia.org/w/index.php?title=Standard_score&#38;oldid=1128321544</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_39"></a>“Statistic.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Statistic&oldid=1103199673">https://en.wikipedia.org/w/index.php?title=Statistic&#38;oldid=1103199673</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_40"></a>“Stochastic.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Stochastic&oldid=1123248560">https://en.wikipedia.org/w/index.php?title=Stochastic&#38;oldid=1123248560</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_41"></a>“Time Series.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Time_series&oldid=1126209544">https://en.wikipedia.org/w/index.php?title=Time_series&#38;oldid=1126209544</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_42"></a>“Variance.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Variance&oldid=1117946674">https://en.wikipedia.org/w/index.php?title=Variance&#38;oldid=1117946674</a>.</div>
 </div>

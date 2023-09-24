@@ -2,7 +2,7 @@
 title = "Shelf-life of information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T15:13:00-07:00
-lastmod = 2023-08-02T12:24:46-07:00
+lastmod = 2023-09-24T10:44:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,7 +58,7 @@ The length of time for which a piece of information is useful.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 167.01   | 2023-09-14T16:02:50Z |
+| front    | 2.20 | 8   | 377.66   | 2024-09-29T14:51:25Z |
 | back     | 2.50 | 7   | 217.81   | 2023-12-15T10:39:16Z |
 
 [Shelf-life of information]({{< relref "shelf_life_of_information.md" >}})

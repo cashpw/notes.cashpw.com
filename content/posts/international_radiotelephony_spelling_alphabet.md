@@ -2,7 +2,7 @@
 title = "NATO phonetic alphabet"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-26T07:41:00-07:00
-lastmod = 2023-08-02T11:13:46-07:00
+lastmod = 2023-09-24T10:19:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -84,14 +84,14 @@ slug = "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 6   | 50.41    | 2023-08-30T22:57:34Z |
+| 0        | 1.90 | 7   | 90.44    | 2023-12-01T00:46:59Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) G: {{Golf}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---g-golf-0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 9   | 248.73   | 2023-09-12T08:24:19Z |
+| 0        | 2.50 | 10  | 617.62   | 2025-05-22T03:17:30Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) H: {{Hotel}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---h-hotel-0}
@@ -112,14 +112,14 @@ slug = "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 6   | 35.27    | 2023-08-23T20:16:06Z |
+| 0        | 1.90 | 7   | 62.48    | 2023-10-27T02:36:53Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) K: {{Kilo}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---k-kilo-0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.55 | 7   | 34.61    | 2023-08-16T03:24:54Z |
+| 0        | 1.40 | 8   | 50.34    | 2023-10-13T00:47:15Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) L: {{Lima}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---l-lima-0}
@@ -133,7 +133,7 @@ slug = "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.85 | 8   | 118.89   | 2023-08-08T13:51:20Z |
+| 0        | 1.30 | 5   | 9.06     | 2023-09-27T00:34:27Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) N: {{November}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---n-november-0}
@@ -154,7 +154,7 @@ slug = "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 6   | 46.93    | 2023-08-26T13:51:23Z |
+| 0        | 1.75 | 7   | 90.03    | 2023-11-24T15:23:24Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) Q: {{Quebec}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---q-quebec-0}
@@ -168,7 +168,7 @@ slug = "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.30 | 11  | 38.03    | 2023-09-02T15:45:37Z |
+| 0        | 1.30 | 12  | 53.67    | 2023-10-28T05:35:13Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) S: {{Sierra}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---s-sierra-0}
@@ -196,21 +196,21 @@ slug = "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 217.40   | 2023-09-01T00:43:01Z |
+| 0        | 2.80 | 8   | 577.76   | 2025-04-05T09:47:37Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) W: {{Whiskey}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---w-whiskey-0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.30 | 8   | 20.07    | 2023-08-03T02:26:43Z |
+| 0        | 1.30 | 10  | 34.12    | 2023-10-02T18:08:01Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) X: {{X-ray}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---x-x-ray-0}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.75 | 8   | 73.56    | 2023-09-07T07:00:36Z |
+| 0        | 1.75 | 9   | 139.80   | 2024-01-25T09:46:49Z |
 
 
 ### ([NATO phonetic alphabet]({{< relref "international_radiotelephony_spelling_alphabet.md" >}})) Y: {{Yankee}@0} {#nato-phonetic-alphabet-international-radiotelephony-spelling-alphabet-dot-md---y-yankee-0}
@@ -224,10 +224,10 @@ slug = "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 103.35   | 2023-08-20T01:34:52Z |
+| 0        | 2.50 | 7   | 247.31   | 2024-04-24T20:50:12Z |
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“NATO Phonetic Alphabet.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=NATO_phonetic_alphabet&oldid=1100437128">https://en.wikipedia.org/w/index.php?title=NATO_phonetic_alphabet&#38;oldid=1100437128</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“NATO Phonetic Alphabet.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=NATO_phonetic_alphabet&oldid=1100437128">https://en.wikipedia.org/w/index.php?title=NATO_phonetic_alphabet&#38;oldid=1100437128</a>.</div>
 </div>

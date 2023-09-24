@@ -2,9 +2,9 @@
 title = "Passive house"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T16:52:00-08:00
-lastmod = 2023-08-02T11:53:45-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:36:45-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = true
 slug = "846cdec4-5f6c-4dd9-99a4-d30ea0b61180"
 +++
@@ -21,8 +21,8 @@ slug = "846cdec4-5f6c-4dd9-99a4-d30ea0b61180"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 32.50    | 2023-08-22T03:23:00Z |
-| back     | 2.35 | 5   | 32.57    | 2023-08-25T17:42:38Z |
+| front    | 2.35 | 6   | 71.41    | 2023-11-03T02:27:52Z |
+| back     | 2.35 | 6   | 81.28    | 2023-11-16T20:38:02Z |
 
 [Passive house]({{< relref "passive_house.md" >}})
 
@@ -39,5 +39,5 @@ A building standard which emphasizes energy efficiency via super-insulation, pas
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Passive House.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Passive_house&oldid=1067500065">https://en.wikipedia.org/w/index.php?title=Passive_house&#38;oldid=1067500065</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Passive House.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Passive_house&oldid=1067500065">https://en.wikipedia.org/w/index.php?title=Passive_house&#38;oldid=1067500065</a>.</div>
 </div>

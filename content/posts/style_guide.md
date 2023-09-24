@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2023-08-02T12:37:28-07:00
+lastmod = 2023-09-24T10:48:30-07:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -91,7 +91,7 @@ Every quote should contain an attribution unless it meets one of the following c
 
 ### Large quotes are okay {#large-quotes-are-okay}
 
-There isn't a hard rule on how much quoting is too much. Large quotes [have their benefits]({{< relref "griffes.md" >}}) and are simple to capture using bookmarklets (<a href="#citeproc_bib_item_2">Porter 2022</a>).
+There isn't a hard rule on how much quoting is too much. Large quotes [have their benefits]({{< relref "griffes.md" >}}) and are simple to capture using bookmarklets (<a href="#citeproc_bib_item_2">Porter [2015] 2022</a>).
 
 
 ### Nodes can just be a quote {#nodes-can-just-be-a-quote}
@@ -128,13 +128,13 @@ Backlinks are the backbone of a powerful [zettelkasten]({{< relref "Zettelkasten
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Porter, Adam. 2022. “Org-Protocol-Capture-Html.” <a href="https://github.com/alphapapa/org-protocol-capture-html">https://github.com/alphapapa/org-protocol-capture-html</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Porter, Adam. (2015) 2022. “Org-Protocol-Capture-Html.” <a href="https://github.com/alphapapa/org-protocol-capture-html">https://github.com/alphapapa/org-protocol-capture-html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Swartz, Aaron. 2010. “Theory of Change.” March 14, 2010. <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Julian Shapiro | Writing Well Handbook]({{< relref "julian_shapiro_writing_well_handbook.md" >}})
 -   [Lint your prose]({{< relref "lint_your_prose.md" >}})
 -   [How I write notes]({{< relref "how_i_write_notes.md" >}})
+-   [Julian Shapiro | Writing Well Handbook]({{< relref "julian_shapiro_writing_well_handbook.md" >}})

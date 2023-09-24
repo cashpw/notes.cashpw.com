@@ -2,7 +2,7 @@
 title = "Transitive relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:10:00-07:00
-lastmod = 2023-08-02T12:55:21-07:00
+lastmod = 2023-09-24T10:53:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -71,8 +71,8 @@ eg: \\((A \to B\\) and \\(B \to C) \implies\\) \\(A \to C\\)
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Transitive Dependency.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Transitive_dependency&oldid=1107183159">https://en.wikipedia.org/w/index.php?title=Transitive_dependency&#38;oldid=1107183159</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Transitive Relation.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Transitive_relation&oldid=1094090871">https://en.wikipedia.org/w/index.php?title=Transitive_relation&#38;oldid=1094090871</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Transitive Dependency.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Transitive_dependency&oldid=1107183159">https://en.wikipedia.org/w/index.php?title=Transitive_dependency&#38;oldid=1107183159</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Transitive Relation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Transitive_relation&oldid=1094090871">https://en.wikipedia.org/w/index.php?title=Transitive_relation&#38;oldid=1094090871</a>.</div>
 </div>
 
 

@@ -2,9 +2,9 @@
 title = "Child development stages"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T07:53:00-08:00
-lastmod = 2023-08-02T10:41:30-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:00:21-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 slug = "e4034c34-f894-48fb-b303-41d0596589c9"
 +++
@@ -23,7 +23,7 @@ slug = "e4034c34-f894-48fb-b303-41d0596589c9"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Magical Thinking.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Magical_thinking&oldid=1129856055">https://en.wikipedia.org/w/index.php?title=Magical_thinking&#38;oldid=1129856055</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Magical Thinking.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Magical_thinking&oldid=1129856055">https://en.wikipedia.org/w/index.php?title=Magical_thinking&#38;oldid=1129856055</a>.</div>
 </div>
 
 

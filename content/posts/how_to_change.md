@@ -2,9 +2,9 @@
 title = "How to change"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-14T08:06:00-08:00
-lastmod = 2023-08-02T11:08:22-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:17:03-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "d923e2b9-8907-4cbb-9874-4b638f9f0aba"
 +++

@@ -2,7 +2,7 @@
 title = "Acceleration"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T15:54:00-08:00
-lastmod = 2023-08-02T10:33:34-07:00
+lastmod = 2023-09-24T09:51:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,8 +45,8 @@ slug = "fd458921-d050-44ca-b2fa-d6edc962ef30"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 122.44   | 2023-08-12T02:51:52Z |
-| 1        | 2.80 | 6   | 119.48   | 2023-09-07T03:24:16Z |
+| 0        | 2.95 | 7   | 327.55   | 2024-07-16T05:45:16Z |
+| 1        | 2.80 | 7   | 319.39   | 2024-07-23T00:18:02Z |
 
 {{[Acceleration]({{< relref "acceleration.md" >}}) (\\(a\\))}@0} \\(=\\) {{\\(\frac{dv}{dt}\\); \\(v\\) is [Velocity]({{< relref "velocity.md" >}})}@1}
 
@@ -58,7 +58,7 @@ slug = "fd458921-d050-44ca-b2fa-d6edc962ef30"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Acceleration.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Acceleration&oldid=1134109866">https://en.wikipedia.org/w/index.php?title=Acceleration&#38;oldid=1134109866</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Acceleration.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Acceleration&oldid=1134109866">https://en.wikipedia.org/w/index.php?title=Acceleration&#38;oldid=1134109866</a>.</div>
 </div>
 
 

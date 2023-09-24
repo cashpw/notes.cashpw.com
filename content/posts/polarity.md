@@ -2,7 +2,7 @@
 title = "Polarity"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-16T19:29:00-07:00
-lastmod = 2023-08-02T11:58:44-07:00
+lastmod = 2023-09-24T10:37:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -74,8 +74,8 @@ Usually in the context of:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.20 | 7   | 140.86   | 2023-09-01T09:55:47Z |
-| front    | 2.50 | 7   | 207.99   | 2023-08-02T14:26:18Z |
+| back     | 2.05 | 8   | 277.66   | 2024-06-05T06:05:27Z |
+| front    | 2.50 | 8   | 502.07   | 2024-12-18T16:55:01Z |
 
 [Unipolarity](#unipolarity)
 
@@ -114,7 +114,7 @@ A condition in which two states have a preponderance of power.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.35 | 7   | 183.73   | 2023-09-04T08:33:03Z |
+| back     | 2.35 | 8   | 458.08   | 2024-12-05T15:30:51Z |
 | front    | 2.95 | 7   | 251.95   | 2023-11-04T02:38:59Z |
 
 [Multipolarity](#multipolarity)
@@ -154,7 +154,7 @@ A condition in which more than two states have a preponderance of power.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 181.27   | 2023-08-25T10:22:41Z |
+| front    | 2.20 | 8   | 426.26   | 2024-10-24T21:16:41Z |
 | back     | 2.35 | 8   | 274.74   | 2024-03-06T08:49:14Z |
 
 [Unipolarity](#unipolarity)
@@ -192,5 +192,5 @@ A condition in which more than two states have a preponderance of power.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Polarity (International Relations).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Polarity_(international_relations)&oldid=1094117834">https://en.wikipedia.org/w/index.php?title=Polarity_(international_relations)&#38;oldid=1094117834</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Polarity (International Relations).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Polarity_(international_relations)&oldid=1094117834">https://en.wikipedia.org/w/index.php?title=Polarity_(international_relations)&#38;oldid=1094117834</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Fernando Borretti"
 author = ["Cash Prokop-Weaver"]
 date = 2023-04-11T15:21:00-07:00
-lastmod = 2023-08-02T10:56:16-07:00
+lastmod = 2023-09-24T10:10:17-07:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

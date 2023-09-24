@@ -2,9 +2,9 @@
 title = "Computer science"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T15:23:00-08:00
-lastmod = 2023-08-02T10:43:48-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:02:22-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d"
 +++
@@ -110,7 +110,7 @@ Floating and fixed point number representations
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.65 | 10  | 400.38   | 2024-04-20T23:16:09Z |
-| front    | 1.30 | 10  | 63.91    | 2023-08-03T13:24:21Z |
+| front    | 1.30 | 11  | 79.26    | 2023-10-22T21:29:16Z |
 
 IMAP
 
@@ -152,6 +152,6 @@ TODO: Source
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Floating-Point Arithmetic.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Floating-point_arithmetic&oldid=1101548324">https://en.wikipedia.org/w/index.php?title=Floating-point_arithmetic&#38;oldid=1101548324</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Integer (Computer Science).” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Integer_(computer_science)&oldid=1108626349">https://en.wikipedia.org/w/index.php?title=Integer_(computer_science)&#38;oldid=1108626349</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Floating-Point Arithmetic.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Floating-point_arithmetic&oldid=1101548324">https://en.wikipedia.org/w/index.php?title=Floating-point_arithmetic&#38;oldid=1101548324</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Integer (Computer Science).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Integer_(computer_science)&oldid=1108626349">https://en.wikipedia.org/w/index.php?title=Integer_(computer_science)&#38;oldid=1108626349</a>.</div>
 </div>

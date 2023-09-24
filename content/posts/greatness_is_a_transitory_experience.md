@@ -2,9 +2,9 @@
 title = "Greatness is a transitory experience"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:44:00-08:00
-lastmod = 2023-08-02T11:02:44-07:00
-tags = ["has-todo", "quote", "has-todo", "quote"]
-categories = ["has-todo", "quote"]
+lastmod = 2023-09-24T10:14:21-07:00
+tags = ["hastodo", "quote", "hastodo", "quote"]
+categories = ["hastodo", "quote"]
 draft = false
 slug = "58146c27-37cf-4270-bb24-ab1f6bed8e9f"
 +++
@@ -49,7 +49,7 @@ The person who experiences greatness must {{have a feeling for the myth they are
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.75 | 3   | 6.00     | 2023-08-05T23:53:13Z |
+| 0        | 1.60 | 6   | 24.46    | 2023-10-02T01:33:05Z |
 
 {{The person who experiences greatness must have a feeling for the myth they are in. They must reflect what is projected upon them. And they must have a strong sense of the sardonic}{greatness (full); Dune}@0}.
 
@@ -81,3 +81,8 @@ The person who experiences greatness must {{have a feeling for the myth they are
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Favorites]({{< relref "favorites.md" >}})

@@ -2,7 +2,7 @@
 title = "Strawmanning"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-01T08:35:00-08:00
-lastmod = 2023-08-02T12:36:14-07:00
+lastmod = 2023-09-24T10:48:08-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ slug = "81546002-b401-4c6c-ae23-ebab290a72a9"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 137.38   | 2023-09-21T02:51:36Z |
-| back     | 2.80 | 6   | 127.77   | 2023-09-13T11:37:02Z |
+| front    | 2.80 | 7   | 381.78   | 2024-10-07T09:00:40Z |
+| back     | 2.65 | 7   | 345.82   | 2024-08-25T10:53:17Z |
 
 [Strawmanning]({{< relref "strawmanning.md" >}})
 
@@ -41,7 +41,7 @@ A form of argument which gives the impression of refuting an argument by instead
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Straw Man.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Straw_man&oldid=1132548349">https://en.wikipedia.org/w/index.php?title=Straw_man&#38;oldid=1132548349</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Straw Man.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Straw_man&oldid=1132548349">https://en.wikipedia.org/w/index.php?title=Straw_man&#38;oldid=1132548349</a>.</div>
 </div>
 
 

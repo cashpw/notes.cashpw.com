@@ -2,7 +2,7 @@
 title = "Ian Danskin | Always a Bigger Fish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:54:00-07:00
-lastmod = 2023-08-02T10:46:58-07:00
+lastmod = 2023-09-24T10:04:22-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -100,7 +100,7 @@ Conservatives tend to think in hierarchies -- like a capitalist -- while liberal
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 230.24   | 2023-09-19T22:27:55Z |
+| 0        | 2.65 | 8   | 570.55   | 2025-04-12T13:04:34Z |
 
 
 #### Extra {#extra}
@@ -151,7 +151,7 @@ Those at the top of the hierarchy have power over those lower in the hierarchy. 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 237.13   | 2024-02-17T20:28:45Z |
-| back     | 3.10 | 6   | 137.83   | 2023-08-16T11:42:36Z |
+| back     | 2.80 | 4   | 17.03    | 2023-09-28T13:29:04Z |
 
 [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
 
@@ -170,12 +170,12 @@ Those at the top of the hierarchy have power over those lower in the hierarchy. 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “Always a Bigger Fish.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called">https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “Always a Bigger Fish.” Tumblr. Innuendo Studios. March 22, 2019. <a href="https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called">https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
--   [David Chapman | Developing Ethical, Social, and Cognitive Competence]({{< relref "david_chapman_developing_ethical_social_and_cognitive_competence.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})
+-   [David Chapman | Developing Ethical, Social, and Cognitive Competence]({{< relref "david_chapman_developing_ethical_social_and_cognitive_competence.md" >}})

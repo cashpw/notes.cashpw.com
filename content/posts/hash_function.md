@@ -2,7 +2,7 @@
 title = "Hash function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:13:00-07:00
-lastmod = 2023-08-02T11:04:45-07:00
+lastmod = 2023-09-24T10:15:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -41,7 +41,7 @@ A function that maps data of an arbitrary size to fixed-size values.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Hash Function.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Hash_function&oldid=1091965426">https://en.wikipedia.org/w/index.php?title=Hash_function&#38;oldid=1091965426</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Hash Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Hash_function&oldid=1091965426">https://en.wikipedia.org/w/index.php?title=Hash_function&#38;oldid=1091965426</a>.</div>
 </div>
 
 

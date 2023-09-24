@@ -2,7 +2,7 @@
 title = "Transpose"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:35:00-07:00
-lastmod = 2023-08-02T12:55:29-07:00
+lastmod = 2023-09-24T10:53:31-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -66,7 +66,7 @@ An operation on a [Matrix]({{< relref "matrix.md" >}}) which flips the matrix ov
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Transpose.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Transpose&oldid=1094750580">https://en.wikipedia.org/w/index.php?title=Transpose&#38;oldid=1094750580</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Transpose.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Transpose&oldid=1094750580">https://en.wikipedia.org/w/index.php?title=Transpose&#38;oldid=1094750580</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing"
 author = ["Cash Weaver"]
 date = 2023-01-12T16:09:00-08:00
-lastmod = 2023-08-02T11:22:13-07:00
+lastmod = 2023-09-24T10:23:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -49,7 +49,7 @@ slug = "ca067526-19a1-4996-a9fb-be54b7e86dd5"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Sotala, Kaj. 2017. “Nobody Does the Thing That They Are Supposedly Doing.” <i>Kaj Sotala</i>. <a href="https://kajsotala.fi/2017/09/nobody-does-the-thing-that-they-are-supposedly-doing/">https://kajsotala.fi/2017/09/nobody-does-the-thing-that-they-are-supposedly-doing/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Sotala, Kaj. 2017. “Nobody Does the Thing That They Are Supposedly Doing.” Kaj Sotala. September 23, 2017. <a href="https://kajsotala.fi/2017/09/nobody-does-the-thing-that-they-are-supposedly-doing/">https://kajsotala.fi/2017/09/nobody-does-the-thing-that-they-are-supposedly-doing/</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Tim Peck | What Are the Three Types of Fun?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:09:00-08:00
-lastmod = 2023-08-02T10:33:17-07:00
+lastmod = 2023-09-24T09:51:31-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -100,7 +100,7 @@ Fun every step of the way; fun in the moment and fun in retrospect.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 88.23    | 2023-09-14T19:50:53Z |
+| front    | 2.50 | 7   | 231.26   | 2024-05-06T05:19:50Z |
 | back     | 2.65 | 6   | 117.57   | 2023-11-12T03:43:15Z |
 
 [Tim Peck | What Are the Three Types of Fun?]({{< relref "WhatAreThreeTypesFun2017.md" >}})
@@ -126,5 +126,5 @@ Fun every step of the way; fun in the moment and fun in retrospect.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Peck, Tim. 2017. “What Are the Three Types of Fun?” <i>Goeast</i>. <a href="https://goeast.ems.com/three-types-of-fun/">https://goeast.ems.com/three-types-of-fun/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Peck, Tim. 2017. “What Are the Three Types of Fun?” goEast. January 6, 2017. <a href="https://goeast.ems.com/three-types-of-fun/">https://goeast.ems.com/three-types-of-fun/</a>.</div>
 </div>

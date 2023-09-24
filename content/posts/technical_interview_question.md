@@ -2,9 +2,9 @@
 title = "Technical interview questions"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T21:19:00-08:00
-lastmod = 2023-08-02T12:43:31-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:50:02-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "9b224cb9-823c-468b-be5d-4431d65d9ee1"
 +++

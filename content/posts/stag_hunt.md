@@ -2,7 +2,7 @@
 title = "Stag hunt"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:29:00-07:00
-lastmod = 2023-08-02T12:34:05-07:00
+lastmod = 2023-09-24T10:47:29-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,7 +46,7 @@ See also: [Prisoner's Dilemma]({{< relref "prisoner_s_dilemma.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 7   | 162.01   | 2023-10-07T23:03:45Z |
-| back     | 2.20 | 7   | 127.21   | 2023-08-16T21:19:46Z |
+| back     | 2.05 | 8   | 260.65   | 2024-05-08T04:56:25Z |
 
 [Stag hunt]({{< relref "stag_hunt.md" >}})
 
@@ -64,7 +64,7 @@ See also: [Prisoner's Dilemma]({{< relref "prisoner_s_dilemma.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Stag Hunt.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Stag_hunt&oldid=1112697312">https://en.wikipedia.org/w/index.php?title=Stag_hunt&#38;oldid=1112697312</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Stag Hunt.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Stag_hunt&oldid=1112697312">https://en.wikipedia.org/w/index.php?title=Stag_hunt&#38;oldid=1112697312</a>.</div>
 </div>
 
 

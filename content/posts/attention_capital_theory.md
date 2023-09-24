@@ -2,7 +2,7 @@
 title = "Attention economy"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:17:00-08:00
-lastmod = 2023-08-02T10:35:26-07:00
+lastmod = 2023-09-24T09:54:28-07:00
 draft = false
 slug = "cd48945d-3cb1-46b1-a4ad-15fe89655d11"
 +++
@@ -29,7 +29,7 @@ Related: [Continuous partial attention]({{< relref "continuous_partial_attention
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 148.72   | 2023-09-04T07:34:15Z |
+| front    | 2.35 | 8   | 323.12   | 2024-07-23T16:12:37Z |
 | back     | 2.50 | 7   | 179.74   | 2023-11-06T09:50:57Z |
 
 [Attention economy]({{< relref "attention_capital_theory.md" >}})
@@ -47,7 +47,7 @@ A view of the management of information which treats human attention as a scarce
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attention Economy.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Attention_economy&oldid=1120830324">https://en.wikipedia.org/w/index.php?title=Attention_economy&#38;oldid=1120830324</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attention Economy.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Attention_economy&oldid=1120830324">https://en.wikipedia.org/w/index.php?title=Attention_economy&#38;oldid=1120830324</a>.</div>
 </div>
 
 

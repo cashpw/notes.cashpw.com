@@ -2,7 +2,7 @@
 title = "Moving the goalposts"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T17:03:00-07:00
-lastmod = 2023-08-02T11:44:00-07:00
+lastmod = 2023-09-24T10:33:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "b2575705-10cd-4523-aaa6-153360d7bd07"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 3.10 | 6   | 158.33   | 2023-08-05T12:44:25Z |
-| back     | 2.95 | 6   | 156.58   | 2023-08-25T07:24:50Z |
+| front    | 3.10 | 7   | 498.33   | 2024-12-15T23:45:24Z |
+| back     | 2.80 | 7   | 410.57   | 2024-10-09T05:01:43Z |
 
 [Moving the goalposts]({{< relref "moving_the_goalposts.md" >}})
 
@@ -39,7 +39,7 @@ A phrase meaning to change the rules or criterion of a process/competition/etc, 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Moving the Goalposts.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Moving_the_goalposts&oldid=1092754084">https://en.wikipedia.org/w/index.php?title=Moving_the_goalposts&#38;oldid=1092754084</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Moving the Goalposts.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Moving_the_goalposts&oldid=1092754084">https://en.wikipedia.org/w/index.php?title=Moving_the_goalposts&#38;oldid=1092754084</a>.</div>
 </div>
 
 

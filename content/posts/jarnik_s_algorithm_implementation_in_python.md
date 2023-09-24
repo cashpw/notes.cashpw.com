@@ -2,7 +2,7 @@
 title = "Jarnik's algorithm implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:52:00-08:00
-lastmod = 2023-08-02T11:16:59-07:00
+lastmod = 2023-09-24T10:21:04-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -104,7 +104,7 @@ print(sorted(jarniks_minimum_spanning_tree(edges)), 'should be [(a,b), (a,e), (a
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 2   | 2.00     | 2023-08-03T15:00:10Z |
+| front    | 1.90 | 3   | 6.00     | 2023-08-12T14:41:44Z |
 
 Implement [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}}) in [Python]({{< relref "python.md" >}})
 
@@ -121,5 +121,5 @@ Implement [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}}) in [Pytho
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prim’s Algorithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&oldid=1127278141">https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&#38;oldid=1127278141</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prim’s Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&oldid=1127278141">https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&#38;oldid=1127278141</a>.</div>
 </div>

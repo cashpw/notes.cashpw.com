@@ -2,7 +2,7 @@
 title = "Internal memory algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T16:17:00-07:00
-lastmod = 2023-08-02T11:13:39-07:00
+lastmod = 2023-09-24T10:19:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ See [External memory algorithm]({{< relref "external_memory_algorithm.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.20 | 6   | 71.96    | 2023-09-11T00:47:19Z |
+| back     | 2.20 | 7   | 143.64   | 2024-02-03T03:47:44Z |
 | front    | 3.10 | 7   | 514.10   | 2024-11-14T23:04:47Z |
 
 [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})
@@ -42,7 +42,7 @@ Algorithms designed to process data that can fit into a single computer's main m
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 8   | 467.12   | 2024-10-06T17:53:39Z |
-| back     | 2.50 | 7   | 228.44   | 2023-09-11T03:18:45Z |
+| back     | 2.50 | 8   | 561.61   | 2025-03-26T03:23:03Z |
 
 [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})
 
@@ -59,12 +59,12 @@ Algorithms designed to process data that can fit into a single computer's main m
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“External Memory Algorithm.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&oldid=1059605968">https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&#38;oldid=1059605968</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“External Memory Algorithm.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&oldid=1059605968">https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&#38;oldid=1059605968</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Quicksort]({{< relref "quicksort.md" >}})
--   [External memory algorithm]({{< relref "external_memory_algorithm.md" >}})
 -   [Heapsort]({{< relref "heapsort.md" >}})
+-   [External memory algorithm]({{< relref "external_memory_algorithm.md" >}})
+-   [Quicksort]({{< relref "quicksort.md" >}})

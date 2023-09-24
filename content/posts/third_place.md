@@ -2,7 +2,7 @@
 title = "Third place"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:48:00-07:00
-lastmod = 2023-08-02T12:50:32-07:00
+lastmod = 2023-09-24T10:51:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -55,7 +55,7 @@ slug = "34fb63b5-5a47-436f-b123-a1d6ffbf4fab"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 314.05   | 2024-04-11T02:19:55Z |
-| back     | 2.80 | 4   | 18.06    | 2023-08-16T16:33:04Z |
+| back     | 2.65 | 5   | 45.49    | 2023-10-14T02:53:06Z |
 
 [Third place]({{< relref "third_place.md" >}})
 
@@ -75,7 +75,7 @@ A place for people to gather which is distinct from home and the workplace.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 319.93   | 2024-05-10T15:43:21Z |
-| back     | 2.95 | 6   | 151.48   | 2023-08-07T06:08:26Z |
+| back     | 2.80 | 7   | 400.85   | 2024-09-12T11:46:21Z |
 
 [Third place]({{< relref "third_place.md" >}})
 
@@ -93,7 +93,7 @@ A place for people to gather which is distinct from home and the workplace.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Third Place.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Third_place&oldid=1113017641">https://en.wikipedia.org/w/index.php?title=Third_place&#38;oldid=1113017641</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Third Place.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Third_place&oldid=1113017641">https://en.wikipedia.org/w/index.php?title=Third_place&#38;oldid=1113017641</a>.</div>
 </div>
 
 

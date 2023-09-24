@@ -2,7 +2,7 @@
 title = "Product rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:18:00-08:00
-lastmod = 2023-08-02T12:02:38-07:00
+lastmod = 2023-09-24T10:38:55-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,7 +32,7 @@ This is one of the rules of [Differentiation]({{< relref "differential_calculus.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.20 | 7   | 198.39   | 2024-02-12T00:26:13Z |
-| back     | 2.50 | 6   | 90.73    | 2023-08-05T11:23:27Z |
+| back     | 2.50 | 7   | 225.54   | 2024-03-18T04:40:57Z |
 
 [Product rule]({{< relref "product_rule.md" >}})
 
@@ -72,7 +72,7 @@ $$
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Product Rule.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Product_rule&oldid=1119757448">https://en.wikipedia.org/w/index.php?title=Product_rule&#38;oldid=1119757448</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Product Rule.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Product_rule&oldid=1119757448">https://en.wikipedia.org/w/index.php?title=Product_rule&#38;oldid=1119757448</a>.</div>
 </div>
 
 

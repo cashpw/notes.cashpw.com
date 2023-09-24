@@ -2,7 +2,7 @@
 title = "Declarative programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:49:00-07:00
-lastmod = 2023-08-02T10:48:19-07:00
+lastmod = 2023-09-24T10:05:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,7 +30,7 @@ slug = "f234a51d-23e4-4050-bf2c-60895a99ee12"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 92.28    | 2023-10-14T07:31:38Z |
-| back     | 1.60 | 3   | 6.00     | 2023-08-01T03:04:50Z |
+| back     | 1.30 | 5   | 10.31    | 2023-09-28T23:12:09Z |
 
 [Declarative programming]({{< relref "declarative_programming.md" >}})
 
@@ -47,12 +47,12 @@ A [Programming paradigm]({{< relref "programming_paradigm.md" >}}) in which the 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Declarative Programming.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Declarative_programming&oldid=1152113601">https://en.wikipedia.org/w/index.php?title=Declarative_programming&#38;oldid=1152113601</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Declarative Programming.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Declarative_programming&oldid=1152113601">https://en.wikipedia.org/w/index.php?title=Declarative_programming&#38;oldid=1152113601</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
+-   [Functional programming]({{< relref "functional_programming.md" >}})
 -   [Programming paradigm]({{< relref "programming_paradigm.md" >}})
 -   [Imperative programming]({{< relref "imperative_programming.md" >}})
--   [Functional programming]({{< relref "functional_programming.md" >}})

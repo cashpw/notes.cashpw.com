@@ -2,14 +2,12 @@
 title = "No half measures"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-21T08:24:00-07:00
-lastmod = 2023-08-02T11:48:12-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:34:58-07:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 slug = "b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d"
 +++
-
-## INPROGRESS {#inprogress}
 
 Go all-in. It's not worth doing things half-way. The result won't satisfy you, because it didn't go far enough, and it won't satisfy others because it didn't go far enough.
 
@@ -25,8 +23,7 @@ However, [Keep your eye on the prize]({{< relref "keep_your_eye_on_the_prize.md"
 >
 > (<a href="#citeproc_bib_item_1">switchelsweets n.d.</a>)
 
-
-### <https://mindingourway.com/half-assing-it-with-everything-youve-got/> {#https-mindingourway-dot-com-half-assing-it-with-everything-youve-got}
+Related [Nate Soares | Half-Assing It with Everything You've Got]({{< relref "no_half_measures.md" >}})
 
 
 ## Flashcards {#flashcards}
@@ -36,8 +33,8 @@ However, [Keep your eye on the prize]({{< relref "keep_your_eye_on_the_prize.md"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2023-08-01T15:08:23Z |
-| back     | 2.50 | 2   | 2.00     | 2023-08-02T00:00:47Z |
+| front    | 2.35 | 6   | 80.45    | 2023-12-11T00:56:11Z |
+| back     | 2.50 | 5   | 42.71    | 2023-10-12T05:48:38Z |
 
 [No half measures]({{< relref "no_half_measures.md" >}})
 
@@ -54,7 +51,7 @@ It's not worth doing things half-way. The result won't satisfy you, because it d
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>switchelsweets. n.d. “In My AP Art Class.” <i>Tumblr</i>. Accessed July 21, 2023. <a href="https://switchelsweets.tumblr.com/post/720604113161830400/i-want-to-share-some-wisdom-from-my-high-school">https://switchelsweets.tumblr.com/post/720604113161830400/i-want-to-share-some-wisdom-from-my-high-school</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>switchelsweets. n.d. “In My AP Art Class.” Tumblr. Accessed July 21, 2023. <a href="https://switchelsweets.tumblr.com/post/720604113161830400/i-want-to-share-some-wisdom-from-my-high-school">https://switchelsweets.tumblr.com/post/720604113161830400/i-want-to-share-some-wisdom-from-my-high-school</a>.</div>
 </div>
 
 

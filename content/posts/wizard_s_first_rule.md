@@ -2,7 +2,7 @@
 title = "Wizard's first rule"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-22T18:52:00-08:00
-lastmod = 2023-08-02T13:05:51-07:00
+lastmod = 2023-09-24T10:56:40-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -36,7 +36,7 @@ Related:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 140.99   | 2023-08-07T17:37:43Z |
+| 0        | 2.20 | 8   | 286.23   | 2024-05-20T20:30:04Z |
 
 
 #### Source {#source}
@@ -46,7 +46,7 @@ Related:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Wizard’s First Rule.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Wizard%27s_First_Rule&oldid=1061747657">https://en.wikipedia.org/w/index.php?title=Wizard%27s_First_Rule&#38;oldid=1061747657</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Wizard’s First Rule.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Wizard%27s_First_Rule&oldid=1061747657">https://en.wikipedia.org/w/index.php?title=Wizard%27s_First_Rule&#38;oldid=1061747657</a>.</div>
 </div>
 
 

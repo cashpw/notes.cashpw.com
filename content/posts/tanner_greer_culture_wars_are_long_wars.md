@@ -2,7 +2,7 @@
 title = "Tanner Greer | Culture Wars Are Long Wars"
 author = ["Cash Weaver"]
 date = 2023-01-10T13:37:00-08:00
-lastmod = 2023-08-02T12:41:35-07:00
+lastmod = 2023-09-24T10:49:36-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -64,5 +64,5 @@ Culture wars are {{long wars}@0}.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2021. “Culture Wars Are Long Wars.” <i>The Scholar’s Stage</i>. <a href="https://scholars-stage.org/culture-wars-are-long-wars/">https://scholars-stage.org/culture-wars-are-long-wars/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2021. “Culture Wars Are Long Wars.” The Scholar’s Stage. July 3, 2021. <a href="https://scholars-stage.org/culture-wars-are-long-wars/">https://scholars-stage.org/culture-wars-are-long-wars/</a>.</div>
 </div>

@@ -2,9 +2,9 @@
 title = "S Keshav | How to Read a Paper"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:58:00-08:00
-lastmod = 2023-08-02T11:23:04-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:23:21-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "e6b1cd50-8293-44a3-bcba-d302d0835470"
 +++

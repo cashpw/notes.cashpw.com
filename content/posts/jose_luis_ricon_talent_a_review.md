@@ -2,9 +2,9 @@
 title = "Jose Luis Ricon | Talent: A Review"
 author = ["Cash Weaver"]
 date = 2023-01-11T20:54:00-08:00
-lastmod = 2023-08-02T11:19:41-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:22:04-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "0ba586d8-44d0-4f4f-a2cc-91330fbdefdc"
 +++

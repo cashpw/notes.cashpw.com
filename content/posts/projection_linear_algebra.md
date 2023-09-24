@@ -2,9 +2,9 @@
 title = "Projection (Linear algebra)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-14T10:02:00-08:00
-lastmod = 2023-08-02T12:03:26-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:39:05-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
 +++
@@ -44,7 +44,7 @@ slug = "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 142.52   | 2023-08-08T02:02:02Z |
+| 0        | 2.95 | 7   | 403.50   | 2024-09-15T02:55:42Z |
 | 1        | 2.35 | 7   | 198.30   | 2023-12-06T21:06:23Z |
 
 {{\\(\operatorname{proj}\_{\vec{b}}(\vec{a})\\)}@0} \\(=\\) {{\\(\frac{\vec{a} \cdot \vec{b}}{\vec{b} \cdot \vec{b}}\vec{b}\\)}@1}
@@ -58,6 +58,6 @@ slug = "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hefferon, Jim. 2020. <i>Linear Algebra</i>. S.l.: ORTHOGONAL PUBLISHING L3C. <a href="https://gitlab.com/jim.hefferon/linear-algebra">https://gitlab.com/jim.hefferon/linear-algebra</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Projection (Linear Algebra).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Projection_(linear_algebra)&oldid=1126535456">https://en.wikipedia.org/w/index.php?title=Projection_(linear_algebra)&#38;oldid=1126535456</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Projection (Linear Algebra).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Projection_(linear_algebra)&oldid=1126535456">https://en.wikipedia.org/w/index.php?title=Projection_(linear_algebra)&#38;oldid=1126535456</a>.</div>
   <div class="csl-entry">NO_ITEM_DATA:hefferonLinearAlgebraOrthogonalProjectionLineWikibooksOpenBooksOpenWorld</div>
 </div>

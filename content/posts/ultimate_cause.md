@@ -2,7 +2,7 @@
 title = "Ultimate cause"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T11:43:00-08:00
-lastmod = 2023-08-02T12:58:13-07:00
+lastmod = 2023-09-24T10:54:23-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,7 +20,7 @@ slug = "9245a0f6-660f-4820-9e03-793dc5978686"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 149.36   | 2023-09-06T00:20:35Z |
+| 0        | 2.95 | 7   | 404.33   | 2024-10-15T22:20:41Z |
 | 1        | 2.35 | 7   | 180.74   | 2023-12-08T09:51:10Z |
 
 -   {{[Ultimate cause]({{< relref "ultimate_cause.md" >}})}@0}
@@ -54,12 +54,13 @@ The "real" reason something occurred.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Proximate and Ultimate Causation.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Proximate_and_ultimate_causation&oldid=1123658036">https://en.wikipedia.org/w/index.php?title=Proximate_and_ultimate_causation&#38;oldid=1123658036</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Proximate and Ultimate Causation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Proximate_and_ultimate_causation&oldid=1123658036">https://en.wikipedia.org/w/index.php?title=Proximate_and_ultimate_causation&#38;oldid=1123658036</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain]({{< relref "jose_luis_ricon_this_review_is_not_about_reviewing_the_elephant_in_the_brain.md" >}})
 -   [Proximate cause]({{< relref "proximate_cause.md" >}})
 -   [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}})
+-   [Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain]({{< relref "jose_luis_ricon_this_review_is_not_about_reviewing_the_elephant_in_the_brain.md" >}})
+-   [Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning]({{< relref "gary_klein_and_holly_c_baxter_cognitive_transformation_theory_contrasting_cognitive_and_behavioral_learning.md" >}})

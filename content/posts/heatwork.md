@@ -2,7 +2,7 @@
 title = "Heatwork"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T07:44:00-08:00
-lastmod = 2023-08-02T11:06:01-07:00
+lastmod = 2023-09-24T10:16:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ The combined effect of temperature and time.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heatwork.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Heatwork&oldid=1084355673">https://en.wikipedia.org/w/index.php?title=Heatwork&#38;oldid=1084355673</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heatwork.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Heatwork&oldid=1084355673">https://en.wikipedia.org/w/index.php?title=Heatwork&#38;oldid=1084355673</a>.</div>
 </div>
 
 

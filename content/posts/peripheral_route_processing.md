@@ -2,7 +2,7 @@
 title = "Peripheral route processing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:17:00-07:00
-lastmod = 2023-08-02T11:56:09-07:00
+lastmod = 2023-09-24T10:37:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -64,7 +64,7 @@ A person's consideration of the secondary characteristics of an argument (i.e fr
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Elaboration Likelihood Model.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&oldid=1091358254">https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&#38;oldid=1091358254</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Elaboration Likelihood Model.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&oldid=1091358254">https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&#38;oldid=1091358254</a>.</div>
 </div>
 
 

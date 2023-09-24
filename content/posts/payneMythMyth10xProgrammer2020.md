@@ -2,7 +2,7 @@
 title = "Andy Payne | The Myth of the Myth of the 10x Programmer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:33:00-08:00
-lastmod = 2023-08-02T11:54:53-07:00
+lastmod = 2023-09-24T10:37:03-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -38,5 +38,5 @@ This reminds me of a way of conceptualizing a "10x" programmer (though I no long
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Payne, Andy. 2020. “The Myth of the Myth of the 10x Programmer.” <a href="https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/">https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Payne, Andy. 2020. “The Myth of the Myth of the 10x Programmer.” February 17, 2020. <a href="https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/">https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/</a>.</div>
 </div>

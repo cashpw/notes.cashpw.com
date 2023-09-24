@@ -2,9 +2,9 @@
 title = "Rent-seeking"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T15:25:00-08:00
-lastmod = 2023-08-02T12:14:55-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:41:49-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "7b600674-2c87-4532-b676-a6e025fca18e"
 +++
@@ -39,7 +39,7 @@ The act of growing one's existing wealth without creating new wealth by manipula
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Rent-Seeking.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Rent-seeking&oldid=1121286312">https://en.wikipedia.org/w/index.php?title=Rent-seeking&#38;oldid=1121286312</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Rent-Seeking.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Rent-seeking&oldid=1121286312">https://en.wikipedia.org/w/index.php?title=Rent-seeking&#38;oldid=1121286312</a>.</div>
 </div>
 
 

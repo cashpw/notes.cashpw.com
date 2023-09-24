@@ -2,7 +2,7 @@
 title = "ExRx | Squat Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T11:07:00-07:00
-lastmod = 2023-08-02T10:55:05-07:00
+lastmod = 2023-09-24T10:09:42-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

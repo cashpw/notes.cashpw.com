@@ -2,7 +2,7 @@
 title = "Growth mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T15:27:00-07:00
-lastmod = 2023-08-02T11:03:55-07:00
+lastmod = 2023-09-24T10:14:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,7 +30,7 @@ slug = "c19c4cf1-9304-46b7-9441-8fed0ed17a57"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 350.94   | 2024-05-31T12:19:00Z |
-| back     | 2.20 | 7   | 158.48   | 2023-09-19T00:35:32Z |
+| back     | 2.20 | 8   | 352.70   | 2024-09-06T16:49:20Z |
 
 [Growth mindset]({{< relref "growth_mindset.md" >}})
 
@@ -47,7 +47,7 @@ A concept which holds that individuals can enhance/expand/grow their intelligenc
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindset.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Mindset&oldid=1114760560#Fixed_and_growth_mindset">https://en.wikipedia.org/w/index.php?title=Mindset&#38;oldid=1114760560#Fixed_and_growth_mindset</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindset.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Mindset&oldid=1114760560#Fixed_and_growth_mindset">https://en.wikipedia.org/w/index.php?title=Mindset&#38;oldid=1114760560#Fixed_and_growth_mindset</a>.</div>
 </div>
 
 
@@ -55,7 +55,7 @@ A concept which holds that individuals can enhance/expand/grow their intelligenc
 
 -   [Grit]({{< relref "grit.md" >}})
 -   [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})
--   [No zero days]({{< relref "no_zero_days.md" >}})
 -   [Fixed mindset]({{< relref "fixed_mindset.md" >}})
--   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})
+-   [No zero days]({{< relref "no_zero_days.md" >}})
 -   [The first lesson]({{< relref "the_first_lesson.md" >}})
+-   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})

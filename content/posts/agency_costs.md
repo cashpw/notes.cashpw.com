@@ -2,7 +2,7 @@
 title = "Agency costs"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T07:50:00-08:00
-lastmod = 2023-08-02T10:33:49-07:00
+lastmod = 2023-09-24T09:52:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,7 +29,7 @@ slug = "0cb1f49e-83a7-43ce-a32f-7ba772e7686c"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 7   | 199.96   | 2023-12-31T23:40:11Z |
-| back     | 2.35 | 6   | 106.49   | 2023-08-18T03:28:48Z |
+| back     | 2.05 | 4   | 12.95    | 2023-09-24T11:41:01Z |
 
 [Agency costs]({{< relref "agency_costs.md" >}})
 
@@ -48,7 +48,7 @@ The costs associated with the [Principle-agent problem]({{< relref "principle_ag
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 122.52   | 2023-08-14T01:43:56Z |
+| front    | 2.50 | 7   | 319.31   | 2024-07-07T23:58:36Z |
 | back     | 2.80 | 6   | 150.84   | 2023-10-08T12:20:54Z |
 
 Why [Agency costs]({{< relref "agency_costs.md" >}}) exist
@@ -70,7 +70,7 @@ Why [Agency costs]({{< relref "agency_costs.md" >}}) exist
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 7   | 210.56   | 2024-01-23T05:48:19Z |
-| back     | 2.65 | 6   | 111.58   | 2023-08-19T04:30:06Z |
+| back     | 2.20 | 5   | 29.86    | 2023-10-21T11:02:25Z |
 
 Types of [Agency costs]({{< relref "agency_costs.md" >}})
 
@@ -89,7 +89,7 @@ Types of [Agency costs]({{< relref "agency_costs.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Agency Cost.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Agency_cost&oldid=1108047027">https://en.wikipedia.org/w/index.php?title=Agency_cost&#38;oldid=1108047027</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Agency Cost.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Agency_cost&oldid=1108047027">https://en.wikipedia.org/w/index.php?title=Agency_cost&#38;oldid=1108047027</a>.</div>
 </div>
 
 

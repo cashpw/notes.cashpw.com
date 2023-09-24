@@ -2,7 +2,7 @@
 title = "Anna Salamon | Learned Blankness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:49:00-08:00
-lastmod = 2023-08-02T10:34:50-07:00
+lastmod = 2023-09-24T09:53:34-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -33,5 +33,5 @@ slug = "8589981c-2ef6-46ed-b197-bb8acbece4ec"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. 2011. “Learned Blankness.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness">https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. 2011. “Learned Blankness.” Less Wrong. April 18, 2011. <a href="https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness">https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness</a>.</div>
 </div>

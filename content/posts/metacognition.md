@@ -2,7 +2,7 @@
 title = "Metacognition"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:21:00-08:00
-lastmod = 2023-08-02T11:39:07-07:00
+lastmod = 2023-09-24T10:31:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ An awareness of one's thought processes with an understanding of the patterns be
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Metacognition.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Metacognition&oldid=1075710921">https://en.wikipedia.org/w/index.php?title=Metacognition&#38;oldid=1075710921</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Metacognition.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Metacognition&oldid=1075710921">https://en.wikipedia.org/w/index.php?title=Metacognition&#38;oldid=1075710921</a>.</div>
 </div>
 
 

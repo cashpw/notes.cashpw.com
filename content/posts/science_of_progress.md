@@ -2,9 +2,9 @@
 title = "Science of progress"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:34:00-08:00
-lastmod = 2023-08-02T12:20:01-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:43:05-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "3bbbacc5-9f55-4ded-abf5-d76ff0b5b8e2"
 +++

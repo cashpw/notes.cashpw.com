@@ -2,7 +2,7 @@
 title = "Monomial"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T10:38:00-08:00
-lastmod = 2023-08-02T11:42:46-07:00
+lastmod = 2023-09-24T10:32:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,7 +25,7 @@ slug = "cbd532d2-7ec0-4710-ba42-54212961b1c3"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.65 | 11  | 385.05   | 2024-04-20T22:56:29Z |
-| front    | 2.20 | 7   | 151.97   | 2023-08-12T14:15:54Z |
+| front    | 2.05 | 8   | 294.12   | 2024-06-09T18:55:40Z |
 
 Monomial
 
@@ -63,8 +63,8 @@ eg: \\(x\\), \\(2y^2\\), \\(\frac{1}{2}x^2{y}\\)
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Degree of a Polynomial.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&oldid=1095664596">https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&#38;oldid=1095664596</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Monomial.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Monomial&oldid=1127097293">https://en.wikipedia.org/w/index.php?title=Monomial&#38;oldid=1127097293</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Degree of a Polynomial.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&oldid=1095664596">https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&#38;oldid=1095664596</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Monomial.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Monomial&oldid=1127097293">https://en.wikipedia.org/w/index.php?title=Monomial&#38;oldid=1127097293</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Techne"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T07:52:00-08:00
-lastmod = 2023-08-02T12:43:21-07:00
+lastmod = 2023-09-24T10:50:00-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,5 +39,5 @@ Related: [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Techne.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Techne&oldid=1107428714">https://en.wikipedia.org/w/index.php?title=Techne&#38;oldid=1107428714</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Techne.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Techne&oldid=1107428714">https://en.wikipedia.org/w/index.php?title=Techne&#38;oldid=1107428714</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Derivative (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:21:00-08:00
-lastmod = 2023-08-02T10:49:12-07:00
+lastmod = 2023-09-24T10:06:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,12 +39,12 @@ A financial security with a value that is reliant upon an underlying asset or gr
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Derivative (Finance).” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Derivative_(finance)&oldid=1110214196">https://en.wikipedia.org/w/index.php?title=Derivative_(finance)&#38;oldid=1110214196</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Derivative (Finance).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Derivative_(finance)&oldid=1110214196">https://en.wikipedia.org/w/index.php?title=Derivative_(finance)&#38;oldid=1110214196</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Vega (finance)]({{< relref "vega_finance.md" >}})
 -   [Put option]({{< relref "put_option.md" >}})
 -   [Theta (finance)]({{< relref "theta_finance.md" >}})
+-   [Vega (finance)]({{< relref "vega_finance.md" >}})

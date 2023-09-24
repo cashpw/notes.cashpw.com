@@ -2,7 +2,7 @@
 title = "Objectives and key results"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T07:37:00-08:00
-lastmod = 2023-08-02T11:50:25-07:00
+lastmod = 2023-09-24T10:35:44-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -77,7 +77,7 @@ Organizations should set key results for an [OKR]({{< relref "objectives_and_key
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“OKR.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=OKR&oldid=1114850387">https://en.wikipedia.org/w/index.php?title=OKR&#38;oldid=1114850387</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“OKR.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=OKR&oldid=1114850387">https://en.wikipedia.org/w/index.php?title=OKR&#38;oldid=1114850387</a>.</div>
 </div>
 
 

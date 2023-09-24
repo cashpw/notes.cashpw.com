@@ -2,7 +2,7 @@
 title = "Theory of change"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:28:00-08:00
-lastmod = 2023-08-02T12:49:06-07:00
+lastmod = 2023-09-24T10:51:34-07:00
 draft = false
 slug = "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
 +++
@@ -54,7 +54,7 @@ Based on (<a href="#citeproc_bib_item_4">Tyrrel 2019</a>) and (<a href="#citepro
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 3.10 | 7   | 411.39   | 2024-08-25T01:02:57Z |
-| back     | 2.95 | 6   | 161.02   | 2023-08-25T13:44:44Z |
+| back     | 2.80 | 7   | 473.19   | 2024-12-10T19:50:28Z |
 
 [Theory of change]({{< relref "theory_of_change.md" >}})
 
@@ -153,17 +153,17 @@ A [Theory of change]({{< relref "theory_of_change.md" >}}) explicitly notes {{as
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“How Does Theory of Change Work?” n.d. <i>Theory of Change Community</i>. Accessed November 16, 2022. <a href="https://www.theoryofchange.org/what-is-theory-of-change/how-does-theory-of-change-work/">https://www.theoryofchange.org/what-is-theory-of-change/how-does-theory-of-change-work/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Theory of Change.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Theory_of_change&oldid=1106791853">https://en.wikipedia.org/w/index.php?title=Theory_of_change&#38;oldid=1106791853</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Tyrrel, Lavinia. 2019. “Theory of Change and Theory of Action: What’s the Difference and Why Does It Matter?” <i>Governance and Development Soapbox</i>. <a href="https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/">https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“How Does Theory of Change Work?” n.d. Theory of Change Community. Accessed November 16, 2022. <a href="https://www.theoryofchange.org/what-is-theory-of-change/how-does-theory-of-change-work/">https://www.theoryofchange.org/what-is-theory-of-change/how-does-theory-of-change-work/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Swartz, Aaron. 2010. “Theory of Change.” March 14, 2010. <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Theory of Change.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Theory_of_change&oldid=1106791853">https://en.wikipedia.org/w/index.php?title=Theory_of_change&#38;oldid=1106791853</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Tyrrel, Lavinia. 2019. “Theory of Change and Theory of Action: What’s the Difference and Why Does It Matter?” Governance and Development Soapbox. July 18, 2019. <a href="https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/">https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Theory of action]({{< relref "theory_of_action.md" >}})
 -   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
--   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
 -   [Aaron Swartz | Theory of Change]({{< relref "swartzTheoryChange2010.md" >}})
+-   [Theory of action]({{< relref "theory_of_action.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})

@@ -2,9 +2,9 @@
 title = "Beneficial evolutionary pressure"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T10:16:00-07:00
-lastmod = 2023-08-02T10:36:12-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T09:55:16-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "7ad4b787-5657-4dfb-ae93-a50f843e670e"
 +++

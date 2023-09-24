@@ -2,7 +2,7 @@
 title = "B-tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:55:00-07:00
-lastmod = 2023-08-02T10:35:36-07:00
+lastmod = 2023-09-24T09:54:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -97,8 +97,8 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.75 | 8   | 117.05   | 2023-08-12T17:12:58Z |
-| 1        | 1.30 | 8   | 21.80    | 2023-08-10T08:56:47Z |
+| 0        | 1.60 | 9   | 181.76   | 2024-02-21T10:47:52Z |
+| 1        | 1.30 | 10  | 37.29    | 2023-10-17T06:09:17Z |
 
 
 #### Source {#source}
@@ -110,8 +110,8 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 145.75   | 2023-08-13T10:18:14Z |
-| 1        | 2.05 | 7   | 148.07   | 2023-08-31T18:08:47Z |
+| 0        | 2.20 | 8   | 328.63   | 2024-07-13T14:37:31Z |
+| 1        | 1.90 | 8   | 308.97   | 2024-07-05T18:01:02Z |
 
 
 #### Source {#source}
@@ -136,7 +136,7 @@ Worst case: \\(\bigo{\log n}\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 131.90   | 2023-08-16T18:19:01Z |
+| 0        | 1.90 | 5   | 22.90    | 2023-10-12T21:31:20Z |
 | 1        | 2.35 | 7   | 190.18   | 2023-11-16T20:20:40Z |
 
 
@@ -209,7 +209,7 @@ Worst case: \\(\bigo{\log n}\\)
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 3.10 | 7   | 473.36   | 2024-09-10T23:19:20Z |
-| 1        | 2.20 | 7   | 160.42   | 2023-08-31T02:17:28Z |
+| 1        | 2.20 | 8   | 322.37   | 2024-07-23T02:53:31Z |
 
 
 #### Source {#source}
@@ -255,7 +255,7 @@ Worst case: \\(\bigo{\log n}\\)
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“B-Tree.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=B-tree&oldid=1106759183">https://en.wikipedia.org/w/index.php?title=B-tree&#38;oldid=1106759183</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“B-Tree.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=B-tree&oldid=1106759183">https://en.wikipedia.org/w/index.php?title=B-tree&#38;oldid=1106759183</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“B-Trees.” n.d. Accessed September 22, 2022. <a href="https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html">https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Insertion into a B-tree.” n.d. Accessed September 22, 2022. <a href="https://www.programiz.com/dsa/insertion-into-a-b-tree">https://www.programiz.com/dsa/insertion-into-a-b-tree</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Programiz. n.d. “B-Tree.” Accessed September 22, 2022. <a href="https://www.programiz.com/dsa/b-tree">https://www.programiz.com/dsa/b-tree</a>.</div>

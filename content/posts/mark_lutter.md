@@ -2,9 +2,9 @@
 title = "Mark Lutter"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T09:33:00-08:00
-lastmod = 2023-08-02T11:34:26-07:00
-tags = ["has-todo", "person", "has-todo", "person"]
-categories = ["has-todo", "person"]
+lastmod = 2023-09-24T10:28:53-07:00
+tags = ["hastodo", "person", "hastodo", "person"]
+categories = ["hastodo", "person"]
 draft = false
 slug = "c2a678a0-c464-4708-ac18-9a3e3eab7531"
 +++

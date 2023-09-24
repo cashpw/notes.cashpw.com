@@ -2,7 +2,7 @@
 title = "Nicholas Elorreaga | The Deadbug: Ultimate Guide to Mastering Core Strength"
 author = ["Cash Weaver"]
 date = 2023-07-06T08:25:00-07:00
-lastmod = 2023-08-02T11:47:19-07:00
+lastmod = 2023-09-24T10:34:43-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -200,7 +200,7 @@ Breathe in and out. Your upper hand should **not** move. Your lower hand **shoul
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.30    | 2023-08-03T22:21:58Z |
+| front    | 2.35 | 6   | 81.63    | 2023-11-28T06:02:13Z |
 
 Deadbug and hollow hold
 
@@ -218,5 +218,5 @@ Deadbug and hollow hold
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nick-E. 2018. “The Deadbug: Ultimate Guide to Mastering Core Strength.” <i>Nick-E.Com</i>. <a href="https://nick-e.com/deadbug/">https://nick-e.com/deadbug/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nick-E. 2018. “The Deadbug: Ultimate Guide to Mastering Core Strength.” Nick-E.com. January 1, 2018. <a href="https://nick-e.com/deadbug/">https://nick-e.com/deadbug/</a>.</div>
 </div>

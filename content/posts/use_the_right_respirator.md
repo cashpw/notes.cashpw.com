@@ -2,7 +2,7 @@
 title = "Use the right respirator"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T12:35:00-08:00
-lastmod = 2023-08-02T13:00:24-07:00
+lastmod = 2023-09-24T10:54:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,7 +49,7 @@ slug = "7cb8d111-f6ff-4b84-91b4-f7d6bcea7f3f"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 113.11   | 2023-08-23T02:05:05Z |
+| 0        | 2.65 | 7   | 304.88   | 2024-06-23T13:52:52Z |
 
 For crystalline silica, use a {{n95 or better}{type}@0} filter.
 

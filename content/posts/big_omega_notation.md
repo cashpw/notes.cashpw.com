@@ -2,7 +2,7 @@
 title = "Big-Omega notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:08:00-07:00
-lastmod = 2023-08-02T10:36:35-07:00
+lastmod = 2023-09-24T09:55:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ Big Omega notation, written as \\(\bigomega{g(n)}\\), indicates an worst-case as
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.30 | 3   | 6.00     | 2023-08-01T15:08:52Z |
+| back     | 1.30 | 7   | 20.52    | 2023-10-08T11:34:08Z |
 | front    | 2.50 | 8   | 532.84   | 2024-12-29T10:19:29Z |
 
 [Big Omega notation]({{< relref "big_omega_notation.md" >}})
@@ -59,7 +59,7 @@ The set of functions which have a specific asymptotic lower bound.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Big O Notation.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Big_O_notation&oldid=1093535234">https://en.wikipedia.org/w/index.php?title=Big_O_notation&#38;oldid=1093535234</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Big O Notation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Big_O_notation&oldid=1093535234">https://en.wikipedia.org/w/index.php?title=Big_O_notation&#38;oldid=1093535234</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Antiderivative"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T06:39:00-08:00
-lastmod = 2023-08-02T10:34:53-07:00
+lastmod = 2023-09-24T09:53:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,7 +32,7 @@ $$
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 234.91   | 2024-02-24T17:17:32Z |
-| back     | 2.65 | 6   | 117.31   | 2023-08-24T06:10:40Z |
+| back     | 2.50 | 7   | 309.06   | 2024-06-30T16:25:11Z |
 
 [Antiderivative]({{< relref "antiderivative.md" >}})
 
@@ -52,7 +52,7 @@ A differentiable function whose derivative is equal to a particular function.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 6   | 151.71   | 2023-10-05T10:35:49Z |
-| back     | 2.80 | 6   | 123.89   | 2023-09-11T13:36:37Z |
+| back     | 2.80 | 7   | 360.97   | 2024-09-07T11:43:09Z |
 
 [Antiderivative]({{< relref "antiderivative.md" >}}) of \\(f\\)
 
@@ -87,10 +87,25 @@ A differentiable function whose derivative is equal to a particular function.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 6   | 63.32    | 2023-09-05T09:17:09Z |
-| 1        | 2.05 | 2   | 2.00     | 2023-08-02T00:00:57Z |
+| 0        | 2.20 | 7   | 135.25   | 2024-01-18T21:24:38Z |
+| 1        | 1.90 | 6   | 40.34    | 2023-10-29T00:04:01Z |
 
 {{\\(F(b) - F(a)\\)}@0} \\(=\\) {{\\(\int\_a^b f(x)dx\\), where \\(x\\) is in \\([a,b]\\)}{terms of x}@1}
+
+
+#### Source {#source}
+
+(<a href="#citeproc_bib_item_2">“Fundamental Theorem of Calculus” 2022</a>)
+
+
+### Equivalence {#equivalence}
+
+| position | ease | box | interval | due                  |
+|----------|------|-----|----------|----------------------|
+| 0        | 2.50 | 4   | 13.99    | 2023-09-21T14:36:23Z |
+| 1        | 2.20 | 2   | 2.00     | 2023-09-23T14:17:51Z |
+
+{{\\(F(x)\\)}@0} \\(=\\) {{\\(\int\_a^x f(t)dt\\), where \\(x\\) is in \\([a,b]\\)}@1}
 
 
 #### Source {#source}
@@ -100,14 +115,14 @@ A differentiable function whose derivative is equal to a particular function.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Antiderivative.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Antiderivative&oldid=1132631036">https://en.wikipedia.org/w/index.php?title=Antiderivative&#38;oldid=1132631036</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Fundamental Theorem of Calculus.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&oldid=1126224108">https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&#38;oldid=1126224108</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Antiderivative.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Antiderivative&oldid=1132631036">https://en.wikipedia.org/w/index.php?title=Antiderivative&#38;oldid=1132631036</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Fundamental Theorem of Calculus.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&oldid=1126224108">https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&#38;oldid=1126224108</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Constant of integration]({{< relref "constant_of_integration.md" >}})
 -   [Integral calculus]({{< relref "integral.md" >}})
--   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
+-   [Constant of integration]({{< relref "constant_of_integration.md" >}})
 -   [Derivative (math)]({{< relref "derivative.md" >}})
+-   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})

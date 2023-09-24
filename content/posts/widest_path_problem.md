@@ -2,7 +2,7 @@
 title = "Widest path problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T09:17:00-08:00
-lastmod = 2023-08-02T13:05:13-07:00
+lastmod = 2023-09-24T10:56:28-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ slug = "635d6c87-68fe-4fbf-9462-2d86b0ea7f58"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 132.26   | 2023-09-08T04:54:09Z |
-| back     | 2.20 | 3   | 6.00     | 2023-08-04T14:58:07Z |
+| front    | 2.20 | 8   | 290.03   | 2024-06-24T17:05:55Z |
+| back     | 2.20 | 5   | 26.74    | 2023-09-22T08:37:21Z |
 
 [Widest path problem]({{< relref "widest_path_problem.md" >}})
 
@@ -58,5 +58,5 @@ Most algorithms which solve the {{[Shortest path problem]({{< relref "shortest_p
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Widest Path Problem.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Widest_path_problem&oldid=1117475622">https://en.wikipedia.org/w/index.php?title=Widest_path_problem&#38;oldid=1117475622</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Widest Path Problem.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Widest_path_problem&oldid=1117475622">https://en.wikipedia.org/w/index.php?title=Widest_path_problem&#38;oldid=1117475622</a>.</div>
 </div>

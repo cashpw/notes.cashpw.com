@@ -2,7 +2,7 @@
 title = "Dot product"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T11:41:00-07:00
-lastmod = 2023-08-02T10:51:21-07:00
+lastmod = 2023-09-24T10:07:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -73,7 +73,7 @@ The dot product of two vectors defines the lengths of, and angle between, the tw
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 117.15   | 2023-08-27T03:12:41Z |
+| front    | 2.65 | 7   | 318.27   | 2024-07-10T20:04:03Z |
 | back     | 2.50 | 8   | 245.82   | 2023-09-29T10:00:39Z |
 
 [Dot product]({{< relref "dot_product.md" >}})
@@ -103,7 +103,7 @@ It defines:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 8   | 226.14   | 2023-08-20T17:58:57Z |
+| 0        | 2.65 | 9   | 640.47   | 2025-05-23T00:10:38Z |
 | 1        | 2.50 | 8   | 472.05   | 2024-10-10T17:28:53Z |
 
 
@@ -116,7 +116,7 @@ It defines:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2023-08-06T00:00:44Z |
+| 0        | 1.75 | 3   | 6.00     | 2023-09-27T14:20:27Z |
 | 1        | 2.35 | 6   | 90.53    | 2023-10-28T03:39:04Z |
 
 
@@ -136,7 +136,7 @@ It defines:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 8   | 437.12   | 2024-08-28T17:08:28Z |
-| 2        | 2.65 | 7   | 202.21   | 2023-08-20T21:31:45Z |
+| 2        | 2.65 | 8   | 515.28   | 2025-01-21T21:57:44Z |
 | 1        | 2.95 | 8   | 545.96   | 2025-01-23T13:19:53Z |
 
 
@@ -153,5 +153,5 @@ It defines:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Dot Product.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Dot_product&oldid=1096253368">https://en.wikipedia.org/w/index.php?title=Dot_product&#38;oldid=1096253368</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Dot Product.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Dot_product&oldid=1096253368">https://en.wikipedia.org/w/index.php?title=Dot_product&#38;oldid=1096253368</a>.</div>
 </div>

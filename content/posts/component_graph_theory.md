@@ -2,7 +2,7 @@
 title = "Component (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-28T13:25:00-08:00
-lastmod = 2023-08-02T10:43:24-07:00
+lastmod = 2023-09-24T10:02:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,7 +30,7 @@ slug = "d3439626-492b-4165-836e-efd890096225"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 387.46   | 2024-07-26T06:28:43Z |
-| back     | 2.65 | 6   | 120.91   | 2023-09-08T13:42:17Z |
+| back     | 2.65 | 7   | 295.96   | 2024-06-30T15:28:01Z |
 
 [Component (Graph theory)]({{< relref "component_graph_theory.md" >}})
 
@@ -49,8 +49,8 @@ A connected subgraph that isn't a part of any larger connected subgraph.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 6   | 48.67    | 2023-08-10T17:24:57Z |
-| back     | 2.80 | 6   | 126.24   | 2023-09-14T21:02:12Z |
+| front    | 2.05 | 7   | 97.29    | 2023-11-17T06:04:28Z |
+| back     | 2.95 | 7   | 393.14   | 2024-10-15T02:36:08Z |
 
 [Component (Graph theory)]({{< relref "component_graph_theory.md" >}})
 
@@ -67,7 +67,7 @@ A connected subgraph that isn't a part of any larger connected subgraph.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Component (Graph Theory).” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Component_(graph_theory)&oldid=1135796679">https://en.wikipedia.org/w/index.php?title=Component_(graph_theory)&#38;oldid=1135796679</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Component (Graph Theory).” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Component_(graph_theory)&oldid=1135796679">https://en.wikipedia.org/w/index.php?title=Component_(graph_theory)&#38;oldid=1135796679</a>.</div>
 </div>
 
 

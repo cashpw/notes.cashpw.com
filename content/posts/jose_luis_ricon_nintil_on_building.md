@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon | On Building"
 author = ["Cash Weaver"]
 date = 2023-01-11T09:34:00-08:00
-lastmod = 2023-08-02T11:19:15-07:00
+lastmod = 2023-09-24T10:21:51-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -103,7 +103,7 @@ Sounds like an adversarial relationship like a [Generative adversarial network](
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Andreessen, Marc. 2020. “It’s Time to Build.” <i>Andreessen Horowitz</i>. <a href="https://a16z.com/2020/04/18/its-time-to-build/">https://a16z.com/2020/04/18/its-time-to-build/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Andreessen, Marc. 2020. “It’s Time to Build.” Andreessen Horowitz. April 18, 2020. <a href="https://a16z.com/2020/04/18/its-time-to-build/">https://a16z.com/2020/04/18/its-time-to-build/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Ricon, Jose Luis. n.d. “On Building.” <i>Nintil</i>. Accessed January 10, 2023. <a href="https://nintil.com/on-building">https://nintil.com/on-building</a>.</div>
 </div>
 

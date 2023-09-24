@@ -2,7 +2,7 @@
 title = "Unstable sorting algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T16:20:00-07:00
-lastmod = 2023-08-02T12:59:18-07:00
+lastmod = 2023-09-24T10:54:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -44,8 +44,8 @@ A type of algorithm which **doesn't** sort equal elements in the same order that
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 7   | 216.77   | 2023-09-02T11:17:15Z |
-| back     | 2.50 | 7   | 180.74   | 2023-08-17T08:35:47Z |
+| front    | 2.95 | 8   | 644.02   | 2025-06-09T13:52:08Z |
+| back     | 2.50 | 8   | 430.81   | 2024-10-27T12:10:09Z |
 
 [Unstable sorting algorithm]({{< relref "unstable_sorting_algorithm.md" >}})
 
@@ -62,12 +62,12 @@ A type of algorithm which **doesn't** sort equal elements in the same order that
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quicksort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Quicksort&oldid=1093780310">https://en.wikipedia.org/w/index.php?title=Quicksort&#38;oldid=1093780310</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Sorting Algorithm.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&oldid=1095879356">https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&#38;oldid=1095879356</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quicksort.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Quicksort&oldid=1093780310">https://en.wikipedia.org/w/index.php?title=Quicksort&#38;oldid=1093780310</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Sorting Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&oldid=1095879356">https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&#38;oldid=1095879356</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Quicksort]({{< relref "quicksort.md" >}})
 -   [Heapsort]({{< relref "heapsort.md" >}})
+-   [Quicksort]({{< relref "quicksort.md" >}})

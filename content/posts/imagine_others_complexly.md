@@ -2,7 +2,7 @@
 title = "Imagine others complexly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T10:05:00-07:00
-lastmod = 2023-08-02T11:11:02-07:00
+lastmod = 2023-09-24T10:18:22-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,8 +46,8 @@ Related: Empathy
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Green, John. 2015. “A Speech I Wrote for the ALAN Conference.” <a href="https://web.archive.org/web/20150317183839/http://johngreenbooks.com/a-speech-i-wrote-for-the-alan-conference/">https://web.archive.org/web/20150317183839/http://johngreenbooks.com/a-speech-i-wrote-for-the-alan-conference/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Imagine Others Complexly.” 2020. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Imagine_others_complexly&oldid=989101418">https://en.wikipedia.org/w/index.php?title=Wikipedia:Imagine_others_complexly&#38;oldid=989101418</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Green, John. 2015. “A Speech I Wrote for the ALAN Conference….” March 17, 2015. <a href="https://web.archive.org/web/20150317183839/http://johngreenbooks.com/a-speech-i-wrote-for-the-alan-conference/">https://web.archive.org/web/20150317183839/http://johngreenbooks.com/a-speech-i-wrote-for-the-alan-conference/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Imagine Others Complexly.” 2020. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Imagine_others_complexly&oldid=989101418">https://en.wikipedia.org/w/index.php?title=Wikipedia:Imagine_others_complexly&#38;oldid=989101418</a>.</div>
 </div>
 
 
@@ -55,5 +55,5 @@ Related: Empathy
 
 -   [John Green | A Speech I Wrote for the ALAN Conference]({{< relref "john_green_a_speech_i_wrote_for_the_alan_conference.md" >}})
 -   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
--   [Jennifer Wright | Lessons of a Very Sexy Pirate Costume]({{< relref "jennifer_wright_lessons_of_a_very_sexy_pirate_costume.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})
+-   [Jennifer Wright | Lessons of a Very Sexy Pirate Costume]({{< relref "jennifer_wright_lessons_of_a_very_sexy_pirate_costume.md" >}})

@@ -2,9 +2,9 @@
 title = "Leveling up (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T09:34:00-07:00
-lastmod = 2023-08-02T11:28:38-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:26:11-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "3910de4c-e0b0-4bad-93b9-334af4256906"
 +++
@@ -24,8 +24,8 @@ slug = "3910de4c-e0b0-4bad-93b9-334af4256906"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 5   | 28.97    | 2023-08-04T13:59:37Z |
-| back     | 2.35 | 5   | 29.98    | 2023-08-09T15:21:55Z |
+| front    | 2.20 | 6   | 58.75    | 2023-10-02T09:14:55Z |
+| back     | 2.35 | 6   | 65.80    | 2023-10-14T19:57:37Z |
 
 [Leveling up (Staff Engineer's Path)]({{< relref "leveling_up_staff_engineer_s_path.md" >}})
 

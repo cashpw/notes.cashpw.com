@@ -2,7 +2,7 @@
 title = "Higher-order function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T09:39:00-08:00
-lastmod = 2023-08-02T11:07:20-07:00
+lastmod = 2023-09-24T10:16:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,7 +27,7 @@ slug = "c27e7511-da0f-4a63-91d5-902078d0add5"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 269.02   | 2024-04-11T14:23:17Z |
-| back     | 2.80 | 6   | 128.85   | 2023-08-20T09:45:05Z |
+| back     | 2.65 | 7   | 321.11   | 2024-07-07T15:21:52Z |
 
 [Higher-order function]({{< relref "higher_order_function.md" >}})
 
@@ -46,7 +46,7 @@ A function which takes function(s) as argument(s) and/or returns a function
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.75 | 5   | 21.25    | 2023-08-14T10:03:03Z |
+| 0        | 1.60 | 6   | 33.16    | 2023-09-27T18:53:54Z |
 
 Functions which are not [Higher-order functions]({{< relref "higher_order_function.md" >}}) are {{first-order functions}@0}.
 
@@ -58,5 +58,5 @@ Functions which are not [Higher-order functions]({{< relref "higher_order_functi
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Higher-Order Function.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Higher-order_function&oldid=1109248673">https://en.wikipedia.org/w/index.php?title=Higher-order_function&#38;oldid=1109248673</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Higher-Order Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Higher-order_function&oldid=1109248673">https://en.wikipedia.org/w/index.php?title=Higher-order_function&#38;oldid=1109248673</a>.</div>
 </div>

@@ -2,13 +2,18 @@
 title = "Play to win"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-16T19:22:00-08:00
-lastmod = 2023-08-02T11:58:34-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:37:54-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "4398317e-6aa1-4dd4-b2a5-6334256ca2cc"
 +++
 
+-   Involves understanding your goals and non-goals and playing the game accordingly
+    -   Examples
+        -   If your goal is to make money by selling clothing, then a non-goal could be "make the best quality clothing". You could, instead, focus on branding or marketing while producing low-quality clothing.
+        -   If your goal is to pass a class, then a non-goal would be to write the best essay. You need only write a good-enough essay such that you pass the class.
+        -   If your goal is getting promoted, then a non-goal would be doing each project to perfection. A better strategy may be to do a few things to 80% rather than one thing to 100%.
 -   <https://commoncog.com/blog/playing-to-play-playing-to-win/>
 -   <https://news.ycombinator.com/item?id=28608436>
 -   <https://www.sirlin.net/articles/playing-to-win>
@@ -27,7 +32,10 @@ slug = "4398317e-6aa1-4dd4-b2a5-6334256ca2cc"
 -   [Be what they expect you to be]({{< relref "be_what_they_expect_you_to_be.md" >}})
 -   [Ask the right questions]({{< relref "ask_the_right_questions.md" >}})
 -   [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow2018.md" >}})
+-   [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})
+-   [Give the right answers]({{< relref "ask_the_right_questions_give_the_right_answers.md" >}})
 -   [Min-maxing]({{< relref "min_maxing.md" >}})
 -   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})
--   [Give the right answers]({{< relref "ask_the_right_questions_give_the_right_answers.md" >}})
--   [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})
+-   [Favorites]({{< relref "favorites.md" >}})
+-   [Keep your eye on the prize]({{< relref "keep_your_eye_on_the_prize.md" >}})
+-   [Nate Soares | Half-Assing It with Everything You've Got]({{< relref "play_to_win.md" >}})

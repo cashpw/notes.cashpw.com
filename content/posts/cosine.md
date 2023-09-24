@@ -2,7 +2,7 @@
 title = "Cosine"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T10:43:00-07:00
-lastmod = 2023-08-02T10:45:15-07:00
+lastmod = 2023-09-24T10:03:27-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,7 +31,7 @@ Also see [Sine]({{< relref "sine.md" >}}) and [Tangent (Trigonometry)]({{< relre
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 8   | 288.39   | 2023-10-24T01:04:05Z |
-| back     | 2.50 | 8   | 251.91   | 2023-09-15T12:42:25Z |
+| back     | 2.50 | 9   | 592.55   | 2025-05-03T05:04:55Z |
 
 Graph \\(f(x) = \href{/posts/cosine}{\cos}(x)\\)
 
@@ -63,7 +63,7 @@ Graph \\(f(x) = \href{/posts/cosine}{\cos}(x)\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.75 | 8   | 129.08   | 2023-09-12T19:38:30Z |
+| 0        | 1.75 | 9   | 217.06   | 2024-04-18T16:47:44Z |
 | 1        | 2.50 | 7   | 251.60   | 2024-01-22T07:41:00Z |
 
 
@@ -76,7 +76,7 @@ Graph \\(f(x) = \href{/posts/cosine}{\cos}(x)\\)
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 6   | 63.71    | 2023-08-04T18:14:04Z |
+| 0        | 2.35 | 7   | 161.32   | 2024-01-13T23:09:44Z |
 | 1        | 2.50 | 6   | 99.51    | 2023-10-24T02:23:02Z |
 
 
@@ -87,11 +87,11 @@ Graph \\(f(x) = \href{/posts/cosine}{\cos}(x)\\)
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sine and Cosine.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&oldid=1103922899">https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&#38;oldid=1103922899</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sine and Cosine.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&oldid=1103922899">https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&#38;oldid=1103922899</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Sine]({{< relref "sine.md" >}})
 -   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})
+-   [Sine]({{< relref "sine.md" >}})

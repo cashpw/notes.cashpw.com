@@ -2,9 +2,9 @@
 title = "Nathan Robinson"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T08:47:00-08:00
-lastmod = 2023-08-02T11:44:41-07:00
-tags = ["has-todo", "person", "has-todo", "person"]
-categories = ["has-todo", "person"]
+lastmod = 2023-09-24T10:33:44-07:00
+tags = ["hastodo", "person", "hastodo", "person"]
+categories = ["hastodo", "person"]
 draft = false
 slug = "6a812992-0705-48e1-9ad5-d5bd419f9901"
 +++

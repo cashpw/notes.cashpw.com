@@ -2,7 +2,7 @@
 title = "Big-O notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:40:00-07:00
-lastmod = 2023-08-02T10:36:33-07:00
+lastmod = 2023-09-24T09:55:39-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -59,13 +59,13 @@ The set of functions which have a specific asymptotic upper bound.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Big O Notation.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Big_O_notation&oldid=1093535234">https://en.wikipedia.org/w/index.php?title=Big_O_notation&#38;oldid=1093535234</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Big O Notation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Big_O_notation&oldid=1093535234">https://en.wikipedia.org/w/index.php?title=Big_O_notation&#38;oldid=1093535234</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Little-o notation]({{< relref "little_o_notation.md" >}})
--   [Logarithm]({{< relref "logarithm.md" >}})
--   [Asymptotic Notation]({{< relref "asymptotic_notation.md" >}})
 -   [Data structures]({{< relref "data_structures.md" >}})
+-   [Asymptotic Notation]({{< relref "asymptotic_notation.md" >}})
+-   [Logarithm]({{< relref "logarithm.md" >}})
+-   [Little-o notation]({{< relref "little_o_notation.md" >}})

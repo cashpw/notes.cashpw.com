@@ -2,7 +2,7 @@
 title = "Calories in, calories out"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-26T09:50:00-08:00
-lastmod = 2023-08-02T10:39:25-07:00
+lastmod = 2023-09-24T09:58:05-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

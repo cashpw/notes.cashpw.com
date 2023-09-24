@@ -2,7 +2,7 @@
 title = "This is extremely dangerous to our democracy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T08:37:00-08:00
-lastmod = 2023-08-02T12:50:40-07:00
+lastmod = 2023-09-24T10:52:01-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -46,6 +46,6 @@ slug = "812da5d9-2917-4f0c-bf2f-36acf64af2c5"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sinclair Broadcast Group.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Sinclair_Broadcast_Group&oldid=1070258194">https://en.wikipedia.org/w/index.php?title=Sinclair_Broadcast_Group&#38;oldid=1070258194</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Sinclair Broadcasting Local News Script.” n.d. <i>Know Your Meme</i>. Accessed February 17, 2022. <a href="https://knowyourmeme.com/memes/events/sinclair-broadcasting-local-news-script">https://knowyourmeme.com/memes/events/sinclair-broadcasting-local-news-script</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sinclair Broadcast Group.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Sinclair_Broadcast_Group&oldid=1070258194">https://en.wikipedia.org/w/index.php?title=Sinclair_Broadcast_Group&#38;oldid=1070258194</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Sinclair Broadcasting Local News Script.” n.d. Know Your Meme. Accessed February 17, 2022. <a href="https://knowyourmeme.com/memes/events/sinclair-broadcasting-local-news-script">https://knowyourmeme.com/memes/events/sinclair-broadcasting-local-news-script</a>.</div>
 </div>

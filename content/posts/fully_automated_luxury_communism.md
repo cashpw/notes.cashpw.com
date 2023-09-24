@@ -2,7 +2,7 @@
 title = "Fully automated luxury communism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:32:00-07:00
-lastmod = 2023-08-02T10:58:50-07:00
+lastmod = 2023-09-24T10:12:09-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,12 +32,12 @@ A vision of a [Post-scarcity Society]({{< relref "post_scarcity_society.md" >}})
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_1">Upstream 2022</a>)
+(<a href="#citeproc_bib_item_1"><i>Fully Automated Luxury Communism</i> 2022</a>)
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Upstream. 2022. “Fully Automated Luxury Communism.” <a href="https://soundcloud.com/upstreampodcast/fully-automated-luxury-communism">https://soundcloud.com/upstreampodcast/fully-automated-luxury-communism</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a><i>Fully Automated Luxury Communism</i>. 2022. <a href="https://soundcloud.com/upstreampodcast/fully-automated-luxury-communism">https://soundcloud.com/upstreampodcast/fully-automated-luxury-communism</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Continuous function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T06:49:00-08:00
-lastmod = 2023-08-02T10:44:15-07:00
+lastmod = 2023-09-24T10:02:43-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "753a3fe1-3576-4549-8a5d-a8c901f6a708"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 315.46   | 2024-06-03T14:59:05Z |
-| back     | 2.65 | 6   | 118.31   | 2023-08-30T05:19:20Z |
+| back     | 2.65 | 7   | 334.71   | 2024-07-30T05:59:38Z |
 
 [Continuous function]({{< relref "continuous_function.md" >}})
 
@@ -53,7 +53,7 @@ Differentiable functions {{$\implies}@0} [Continuous function]({{< relref "conti
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Continuous Function.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Continuous_function&oldid=1132729385">https://en.wikipedia.org/w/index.php?title=Continuous_function&#38;oldid=1132729385</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Continuous Function.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Continuous_function&oldid=1132729385">https://en.wikipedia.org/w/index.php?title=Continuous_function&#38;oldid=1132729385</a>.</div>
 </div>
 
 

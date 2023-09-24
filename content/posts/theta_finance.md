@@ -2,7 +2,7 @@
 title = "Theta (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:40:00-08:00
-lastmod = 2023-08-02T12:50:04-07:00
+lastmod = 2023-09-24T10:51:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,7 +27,7 @@ slug = "52a7a44e-dbca-4eae-974a-b7185c2c97b7"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 139.97   | 2023-08-16T02:21:13Z |
+| front    | 2.20 | 8   | 310.67   | 2024-06-29T08:47:43Z |
 | back     | 2.35 | 7   | 171.06   | 2023-10-28T17:35:54Z |
 
 [Theta (finance)]({{< relref "theta_finance.md" >}})
@@ -59,7 +59,7 @@ slug = "52a7a44e-dbca-4eae-974a-b7185c2c97b7"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greeks (Finance).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&oldid=1119146188">https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&#38;oldid=1119146188</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greeks (Finance).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&oldid=1119146188">https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&#38;oldid=1119146188</a>.</div>
 </div>
 
 

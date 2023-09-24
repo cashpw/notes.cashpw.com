@@ -2,7 +2,7 @@
 title = "Surjective function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-20T06:43:00-07:00
-lastmod = 2023-08-02T12:38:28-07:00
+lastmod = 2023-09-24T10:48:49-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ slug = "69b3ebf4-c54d-424b-9479-e06e7c905433"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 9   | 538.91   | 2024-11-24T21:50:47Z |
-| back     | 2.30 | 7   | 164.64   | 2023-09-18T11:58:03Z |
+| back     | 2.30 | 8   | 352.54   | 2024-09-05T04:42:11Z |
 
 [Surjective function]({{< relref "surjective_function.md" >}})
 
@@ -54,8 +54,8 @@ slug = "69b3ebf4-c54d-424b-9479-e06e7c905433"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.30 | 9   | 29.40    | 2023-08-06T09:52:43Z |
-| front    | 2.05 | 6   | 57.55    | 2023-08-26T10:00:39Z |
+| back     | 1.30 | 11  | 51.54    | 2023-11-08T12:12:49Z |
+| front    | 1.90 | 7   | 112.90   | 2023-12-18T11:23:01Z |
 
 [Surjective function]({{< relref "surjective_function.md" >}})
 
@@ -79,5 +79,5 @@ A function whose image and codomain are equal.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Surjective Function.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Surjective_function&oldid=1102796717">https://en.wikipedia.org/w/index.php?title=Surjective_function&#38;oldid=1102796717</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Surjective Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Surjective_function&oldid=1102796717">https://en.wikipedia.org/w/index.php?title=Surjective_function&#38;oldid=1102796717</a>.</div>
 </div>

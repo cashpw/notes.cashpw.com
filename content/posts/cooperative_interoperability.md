@@ -2,7 +2,7 @@
 title = "Cooperative interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:30:00-07:00
-lastmod = 2023-08-02T10:44:55-07:00
+lastmod = 2023-09-24T10:03:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -72,7 +72,7 @@ A form of [Interoperability]({{< relref "interoperability.md" >}}) wherein the m
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Doctorow, Cory. 2019. “Interoperability: Fix the Internet, Not the Tech Companies.” <i>Electronic Frontier Foundation</i>. <a href="https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-companies">https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-companies</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Doctorow, Cory. 2019. “Interoperability: Fix the Internet, Not the Tech Companies.” Electronic Frontier Foundation. July 11, 2019. <a href="https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-companies">https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-companies</a>.</div>
 </div>
 
 

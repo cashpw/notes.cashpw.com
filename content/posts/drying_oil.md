@@ -2,7 +2,7 @@
 title = "Drying oil"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-29T07:51:00-08:00
-lastmod = 2023-08-02T10:51:35-07:00
+lastmod = 2023-09-24T10:07:36-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,7 +37,7 @@ An oil which hardens to a tough, solid, film after a period of exposure to air a
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Drying Oil.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Drying_oil&oldid=1118572048">https://en.wikipedia.org/w/index.php?title=Drying_oil&#38;oldid=1118572048</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Drying Oil.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Drying_oil&oldid=1118572048">https://en.wikipedia.org/w/index.php?title=Drying_oil&#38;oldid=1118572048</a>.</div>
 </div>
 
 

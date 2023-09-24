@@ -2,7 +2,7 @@
 title = "Decision problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T09:36:00-08:00
-lastmod = 2023-08-02T10:48:14-07:00
+lastmod = 2023-09-24T10:05:21-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -41,7 +41,7 @@ A computational problem one can pose as a yes/no question of the input values.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 119.73   | 2023-08-29T17:04:30Z |
+| front    | 2.80 | 7   | 312.65   | 2024-07-08T04:21:50Z |
 | back     | 2.65 | 6   | 143.25   | 2023-09-30T22:09:34Z |
 
 A [Decidable]({{< relref "decision_problem.md" >}}) problem.
@@ -59,7 +59,7 @@ A [Decision problem]({{< relref "decision_problem.md" >}}) which can be solved b
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Decision Problem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Decision_problem&oldid=1135637021">https://en.wikipedia.org/w/index.php?title=Decision_problem&#38;oldid=1135637021</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Decision Problem.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Decision_problem&oldid=1135637021">https://en.wikipedia.org/w/index.php?title=Decision_problem&#38;oldid=1135637021</a>.</div>
 </div>
 
 

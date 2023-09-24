@@ -2,7 +2,7 @@
 title = "The purpose of a system is what it does"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T05:29:00-08:00
-lastmod = 2023-08-02T12:47:47-07:00
+lastmod = 2023-09-24T10:51:11-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,7 +42,7 @@ Related: [Duck test]({{< relref "duck_test.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“The Purpose of a System Is What It Does.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=The_purpose_of_a_system_is_what_it_does&oldid=1115506480">https://en.wikipedia.org/w/index.php?title=The_purpose_of_a_system_is_what_it_does&#38;oldid=1115506480</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“The Purpose of a System Is What It Does.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=The_purpose_of_a_system_is_what_it_does&oldid=1115506480">https://en.wikipedia.org/w/index.php?title=The_purpose_of_a_system_is_what_it_does&#38;oldid=1115506480</a>.</div>
 </div>
 
 

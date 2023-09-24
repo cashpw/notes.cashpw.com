@@ -2,7 +2,7 @@
 title = "Mean sea level"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-25T11:20:00-08:00
-lastmod = 2023-08-02T11:37:22-07:00
+lastmod = 2023-09-24T10:30:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "7e950603-75ef-4f19-9536-1410fccdd210"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 127.01   | 2023-09-16T16:22:11Z |
-| 1        | 2.65 | 6   | 125.78   | 2023-09-13T10:33:19Z |
+| 0        | 2.80 | 7   | 364.07   | 2024-09-16T00:50:30Z |
+| 1        | 2.50 | 7   | 287.78   | 2024-06-28T10:06:58Z |
 
 -   {{[MSL]({{< relref "mean_sea_level.md" >}})}@0}
 -   {{[Mean sea level]({{< relref "mean_sea_level.md" >}})}@1}
@@ -35,7 +35,7 @@ slug = "7e950603-75ef-4f19-9536-1410fccdd210"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sea Level.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Sea_level&oldid=1134685048">https://en.wikipedia.org/w/index.php?title=Sea_level&#38;oldid=1134685048</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sea Level.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Sea_level&oldid=1134685048">https://en.wikipedia.org/w/index.php?title=Sea_level&#38;oldid=1134685048</a>.</div>
 </div>
 
 

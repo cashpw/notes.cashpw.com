@@ -2,9 +2,9 @@
 title = "Plans within plans"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T10:44:00-08:00
-lastmod = 2023-08-02T11:57:56-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:37:48-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4"
 +++

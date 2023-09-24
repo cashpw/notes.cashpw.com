@@ -2,12 +2,14 @@
 title = "Adrian Bates"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-18T11:14:00-08:00
-lastmod = 2023-08-02T10:33:44-07:00
-tags = ["has-todo", "person", "has-todo", "person"]
-categories = ["has-todo", "person"]
+lastmod = 2023-09-24T09:52:09-07:00
+tags = ["person", "person"]
+categories = ["person"]
 draft = false
 slug = "164a7329-a7a2-4578-8224-e1ef142feea7"
 +++
+
+One of the [Ceramists I follow]({{< relref "ceramists_potters_i_follow.md" >}}).
 
 Among other things:
 
@@ -18,8 +20,3 @@ Among other things:
 
 
 ## Flashcards {#flashcards}
-
-
-## Backlinks {#backlinks}
-
--   [Ceramists I follow]({{< relref "ceramists_potters_i_follow.md" >}})

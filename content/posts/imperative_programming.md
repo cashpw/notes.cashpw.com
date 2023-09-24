@@ -2,7 +2,7 @@
 title = "Imperative programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:46:00-07:00
-lastmod = 2023-08-02T11:11:19-07:00
+lastmod = 2023-09-24T10:18:30-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ slug = "fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 6   | 95.02    | 2023-10-17T01:32:28Z |
-| back     | 2.05 | 6   | 68.76    | 2023-09-11T13:36:50Z |
+| back     | 1.45 | 2   | 2.00     | 2023-09-21T23:56:58Z |
 
 [Imperative programming]({{< relref "imperative_programming.md" >}})
 
@@ -41,7 +41,7 @@ A [Programming paradigm]({{< relref "programming_paradigm.md" >}}) in which the 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Imperative Programming.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Imperative_programming&oldid=1141427831">https://en.wikipedia.org/w/index.php?title=Imperative_programming&#38;oldid=1141427831</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Imperative Programming.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Imperative_programming&oldid=1141427831">https://en.wikipedia.org/w/index.php?title=Imperative_programming&#38;oldid=1141427831</a>.</div>
 </div>
 
 

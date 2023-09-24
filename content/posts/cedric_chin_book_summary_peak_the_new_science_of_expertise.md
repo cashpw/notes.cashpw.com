@@ -2,7 +2,7 @@
 title = "Cedric Chin | Book Summary: Peak, the New Science of Expertise"
 author = ["Cash Weaver"]
 date = 2023-06-30T16:54:00-07:00
-lastmod = 2023-08-02T10:40:15-07:00
+lastmod = 2023-09-24T09:58:42-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -32,5 +32,11 @@ A [Branch book]({{< relref "branch_book.md" >}}) discussing [Purposeful practice
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “Book Summary: Peak, the New Science of Expertise.” <i>Commoncog</i>. <a href="https://commoncog.com/peak-book-summary/">https://commoncog.com/peak-book-summary/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “Book Summary: Peak, the New Science of Expertise.” Commoncog. March 19, 2019. <a href="https://commoncog.com/peak-book-summary/">https://commoncog.com/peak-book-summary/</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

@@ -2,7 +2,7 @@
 title = "Python library: queue"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-08T08:51:00-08:00
-lastmod = 2023-08-02T12:06:57-07:00
+lastmod = 2023-09-24T10:39:52-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -172,8 +172,8 @@ print(min_queue.get(), 'should be (5, b)')
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 120.40   | 2023-08-29T04:27:16Z |
-| back     | 2.80 | 6   | 118.05   | 2023-09-06T16:17:01Z |
+| front    | 2.80 | 7   | 315.75   | 2024-07-10T09:05:38Z |
+| back     | 2.80 | 7   | 328.99   | 2024-08-01T14:13:05Z |
 
 How to get [Python]({{< relref "python.md" >}})'s `PriorityQueue` to employ a [Max heap property]({{< relref "heap_property.md#max-heap-property" >}}).
 
@@ -221,5 +221,5 @@ A [Max heap property]({{< relref "heap_property.md#max-heap-property" >}}) `Prio
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Queue (Abstract Data Type).” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&oldid=1090013688">https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&#38;oldid=1090013688</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Queue (Abstract Data Type).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&oldid=1090013688">https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&#38;oldid=1090013688</a>.</div>
 </div>

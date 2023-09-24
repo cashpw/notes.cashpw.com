@@ -2,7 +2,7 @@
 title = "Jennifer Wright | Lessons of a Very Sexy Pirate Costume"
 author = ["Cash Weaver"]
 date = 2023-03-04T08:02:00-08:00
-lastmod = 2023-08-02T11:17:28-07:00
+lastmod = 2023-09-24T10:21:13-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -37,5 +37,5 @@ A story of the author's failure to [Imagine others complexly]({{< relref "imagin
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Wright, Jennifer. 2012. “Lessons of a Very Sexy Pirate Costume.” <i>Salon</i>. <a href="https://www.salon.com/2012/02/12/lessons_of_a_very_sexy_pirate_costume/">https://www.salon.com/2012/02/12/lessons_of_a_very_sexy_pirate_costume/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Wright, Jennifer. 2012. “Lessons of a Very Sexy Pirate Costume.” Salon. February 12, 2012. <a href="https://www.salon.com/2012/02/12/lessons_of_a_very_sexy_pirate_costume/">https://www.salon.com/2012/02/12/lessons_of_a_very_sexy_pirate_costume/</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Standard deviation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:08:00-08:00
-lastmod = 2023-08-02T12:34:25-07:00
+lastmod = 2023-09-24T10:47:33-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ slug = "f4de9f04-053d-4602-a81a-c4118e6ee3c2"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.35 | 10  | 468.17   | 2024-10-11T05:51:17Z |
-| front    | 1.55 | 6   | 23.73    | 2023-08-05T06:31:31Z |
+| front    | 1.40 | 8   | 40.08    | 2023-10-15T17:16:27Z |
 
 [Standard deviation]({{< relref "standard_deviation.md" >}})
 
@@ -76,7 +76,7 @@ Population [Standard deviation]({{< relref "standard_deviation.md" >}})
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 7   | 236.36   | 2024-01-09T23:53:40Z |
-| 1        | 1.30 | 8   | 33.66    | 2023-08-26T19:51:02Z |
+| 1        | 1.30 | 5   | 10.94    | 2023-09-30T22:29:41Z |
 
 {{\\(\operatorname{stddev}(x)\\)}@0} \\(=\\) {{\\(\sqrt{\frac{1}{n} \sum\_{i = 1}^n (x\_i - \bar{x})^2}\\)}{expression}@1}
 
@@ -88,7 +88,7 @@ Population [Standard deviation]({{< relref "standard_deviation.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Standard Deviation.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Standard_deviation&oldid=1120954441">https://en.wikipedia.org/w/index.php?title=Standard_deviation&#38;oldid=1120954441</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Standard Deviation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Standard_deviation&oldid=1120954441">https://en.wikipedia.org/w/index.php?title=Standard_deviation&#38;oldid=1120954441</a>.</div>
 </div>
 
 

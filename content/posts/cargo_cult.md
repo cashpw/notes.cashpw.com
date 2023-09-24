@@ -2,7 +2,7 @@
 title = "Cargo cult"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-23T18:35:00-07:00
-lastmod = 2023-08-02T10:39:42-07:00
+lastmod = 2023-09-24T09:58:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,7 +30,7 @@ Also see [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.80 | 7   | 260.82   | 2023-10-25T17:21:46Z |
-| front    | 2.50 | 7   | 219.32   | 2023-08-24T22:09:58Z |
+| front    | 2.50 | 8   | 527.94   | 2025-02-08T11:32:05Z |
 
 [Cargo cult]({{< relref "cargo_cult.md" >}})
 
@@ -47,12 +47,12 @@ A belief system in which adherents perform rituals which they believe will cause
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cargo Cult.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Cargo_cult&oldid=1093591507">https://en.wikipedia.org/w/index.php?title=Cargo_cult&#38;oldid=1093591507</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Howe, Hans. 2017. “Trump and the Reverse Cargo Cult.” <i>Hans Howe</i>. <a href="https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/">https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cargo Cult.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Cargo_cult&oldid=1093591507">https://en.wikipedia.org/w/index.php?title=Cargo_cult&#38;oldid=1093591507</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Howe, Hans. 2017. “Trump and the Reverse Cargo Cult.” Hans Howe. February 4, 2017. <a href="https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/">https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}})
 -   [Learned blankness]({{< relref "learned_blankness.md" >}})
+-   [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}})

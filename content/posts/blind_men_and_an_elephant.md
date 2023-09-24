@@ -2,7 +2,7 @@
 title = "Blind men and an elephant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-16T18:43:00-08:00
-lastmod = 2023-08-02T10:37:37-07:00
+lastmod = 2023-09-24T09:56:37-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,6 +27,8 @@ slug = "9948ab6c-23b4-4950-ba95-ee4a27fa2992"
 >
 > (<a href="#citeproc_bib_item_1">“Blind Men and an Elephant” 2022</a>)
 
+Related: [Lowercase-a accurate without being capital-T True]({{< relref "lowercase_a_accurate_without_being_capital_t_true.md" >}})
+
 
 ## Flashcards {#flashcards}
 
@@ -36,7 +38,7 @@ slug = "9948ab6c-23b4-4950-ba95-ee4a27fa2992"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 313.16   | 2024-05-04T20:18:39Z |
-| back     | 2.95 | 6   | 139.05   | 2023-08-10T19:10:19Z |
+| back     | 2.80 | 7   | 383.15   | 2024-08-29T02:40:50Z |
 
 [Blind men and an elephant]({{< relref "blind_men_and_an_elephant.md" >}})
 
@@ -58,7 +60,7 @@ Humans tend to:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 144.24   | 2023-08-09T19:19:15Z |
+| front    | 2.65 | 7   | 379.02   | 2024-08-23T01:14:21Z |
 
 Tell the parable of the [Blind men and an elephant]({{< relref "blind_men_and_an_elephant.md" >}})
 
@@ -75,5 +77,5 @@ A group of blind men who have never come across an elephant come across one. Eac
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Blind Men and an Elephant.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Blind_men_and_an_elephant&oldid=1127525418">https://en.wikipedia.org/w/index.php?title=Blind_men_and_an_elephant&#38;oldid=1127525418</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Blind Men and an Elephant.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Blind_men_and_an_elephant&oldid=1127525418">https://en.wikipedia.org/w/index.php?title=Blind_men_and_an_elephant&#38;oldid=1127525418</a>.</div>
 </div>

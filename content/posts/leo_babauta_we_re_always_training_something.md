@@ -2,7 +2,7 @@
 title = "Leo Babauta | We're Always Training Something"
 author = ["Cash Weaver"]
 date = 2023-03-02T18:38:00-08:00
-lastmod = 2023-08-02T11:28:05-07:00
+lastmod = 2023-09-24T10:25:54-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -56,5 +56,5 @@ Similar: [Life is the sum of all your choices]({{< relref "life_is_the_sum_of_al
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Babauta, Leo. 2022. “We’re Always Training Something.” <i>Zen Habits</i>. <a href="https://zenhabits.net/retrain/">https://zenhabits.net/retrain/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Babauta, Leo. 2022. “We’re Always Training Something.” zen habits. July 21, 2022. <a href="https://zenhabits.net/retrain/">https://zenhabits.net/retrain/</a>.</div>
 </div>

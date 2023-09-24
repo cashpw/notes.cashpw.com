@@ -2,7 +2,7 @@
 title = "You're getting so abstract"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T20:22:00-07:00
-lastmod = 2023-08-02T13:07:38-07:00
+lastmod = 2023-09-24T10:57:15-07:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,7 +21,7 @@ Related: [Southern strategy]({{< relref "southern_strategy.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Perlstein, Rick. 2012. “Exclusive: Lee Atwater’s Infamous 1981 Interview on the Southern Strategy,” November. <a href="https://www.thenation.com/article/archive/exclusive-lee-atwaters-infamous-1981-interview-southern-strategy/">https://www.thenation.com/article/archive/exclusive-lee-atwaters-infamous-1981-interview-southern-strategy/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Perlstein, Rick. 2012. “Exclusive: Lee Atwater’s Infamous 1981 Interview on the Southern Strategy,” November 13, 2012. <a href="https://www.thenation.com/article/archive/exclusive-lee-atwaters-infamous-1981-interview-southern-strategy/">https://www.thenation.com/article/archive/exclusive-lee-atwaters-infamous-1981-interview-southern-strategy/</a>.</div>
 </div>
 
 

@@ -2,9 +2,9 @@
 title = "Commoditize your compliments"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T10:27:00-08:00
-lastmod = 2023-08-02T10:42:56-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:01:45-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "f4ce56ce-f473-4f06-b78b-db67aaaa45d2"
 +++
@@ -25,8 +25,8 @@ Commoditizing your compliments is a business strategy to ensure you maintain a d
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 134.45   | 2023-08-07T06:09:38Z |
-| back     | 2.65 | 6   | 139.15   | 2023-08-04T17:13:56Z |
+| front    | 2.05 | 8   | 289.75   | 2024-05-24T09:01:56Z |
+| back     | 2.50 | 7   | 316.75   | 2024-06-17T09:44:36Z |
 
 Complement (product)
 
@@ -58,5 +58,5 @@ All else being equal, the demand for a product increases when the prices of {{it
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Spolsky, Joel. 2002. “Strategy Letter V.” <i>Joel on Software</i>. <a href="https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/">https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Spolsky, Joel. 2002. “Strategy Letter V.” Joel on Software. June 12, 2002. <a href="https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/">https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/</a>.</div>
 </div>

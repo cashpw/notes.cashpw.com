@@ -2,7 +2,7 @@
 title = "Forest"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:57:00-07:00
-lastmod = 2023-08-02T10:57:57-07:00
+lastmod = 2023-09-24T10:11:38-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "326df302-a17b-4f2c-8bcd-027be7a459f5"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.50 | 8   | 242.78   | 2023-10-09T13:32:56Z |
-| front    | 2.50 | 10  | 187.12   | 2023-08-13T02:23:04Z |
+| front    | 2.50 | 11  | 499.06   | 2025-01-06T16:13:28Z |
 
 [Forest]({{< relref "forest.md" >}})
 
@@ -55,5 +55,5 @@ A [Graph]({{< relref "graph.md" >}}) in which any two [Vertices]({{< relref "ver
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree (Graph Theory).” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Tree_(graph_theory)&oldid=1086807538">https://en.wikipedia.org/w/index.php?title=Tree_(graph_theory)&#38;oldid=1086807538</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree (Graph Theory).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Tree_(graph_theory)&oldid=1086807538">https://en.wikipedia.org/w/index.php?title=Tree_(graph_theory)&#38;oldid=1086807538</a>.</div>
 </div>

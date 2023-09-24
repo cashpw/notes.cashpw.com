@@ -2,7 +2,7 @@
 title = "Boring fundamentals"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T13:50:00-08:00
-lastmod = 2023-08-02T10:37:55-07:00
+lastmod = 2023-09-24T09:56:53-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,7 +26,7 @@ slug = "650501e5-3253-46a2-8795-cf09c86edf16"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 310.32   | 2024-03-31T22:12:29Z |
-| back     | 2.95 | 6   | 169.69   | 2023-08-31T07:42:47Z |
+| back     | 2.95 | 7   | 530.44   | 2025-02-13T00:55:21Z |
 
 [Boring fundamentals]({{< relref "boring_fundamentals.md" >}})
 
@@ -66,7 +66,7 @@ The set of basic habits, routines, practices, etc, one needs to build a strong f
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Stuber, James. n.d. “Master Boring Fundamentals 01: Boring Is Fun.” <i>Jamesstuber.Com</i>. Accessed February 6, 2022. <a href="https://jamesstuber.com/boring-is-fun/">https://jamesstuber.com/boring-is-fun/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Stuber, James. n.d. “Master Boring Fundamentals 01: Boring Is Fun.” JamesStuber.com. Accessed February 6, 2022. <a href="https://jamesstuber.com/boring-is-fun/">https://jamesstuber.com/boring-is-fun/</a>.</div>
 </div>
 
 

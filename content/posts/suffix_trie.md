@@ -2,9 +2,9 @@
 title = "Suffix tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T09:43:00-08:00
-lastmod = 2023-08-02T12:38:11-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:48:44-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "2a01a221-0aa9-493b-b690-c15c11f16831"
 +++
@@ -32,7 +32,7 @@ slug = "2a01a221-0aa9-493b-b690-c15c11f16831"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 155.84   | 2023-08-12T23:05:36Z |
+| front    | 2.80 | 7   | 439.01   | 2024-11-01T16:14:21Z |
 | back     | 2.05 | 7   | 178.61   | 2023-11-16T03:52:03Z |
 
 [Suffix tree]({{< relref "suffix_trie.md" >}})
@@ -52,7 +52,7 @@ slug = "2a01a221-0aa9-493b-b690-c15c11f16831"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 2   | 2.00     | 2023-08-03T01:23:57Z |
+| front    | 1.45 | 6   | 25.36    | 2023-10-06T21:29:35Z |
 | back     | 2.50 | 7   | 216.29   | 2023-12-15T23:29:58Z |
 
 [Suffix tree]({{< relref "suffix_trie.md" >}})
@@ -72,7 +72,7 @@ A compressed [Trie]({{< relref "trie.md" >}}) which contains all of the suffixes
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 145.05   | 2023-09-20T23:55:47Z |
+| 0        | 2.50 | 8   | 337.45   | 2024-08-24T01:03:15Z |
 | 1        | 2.65 | 7   | 317.66   | 2024-05-18T20:05:40Z |
 
 
@@ -97,7 +97,7 @@ A compressed [Trie]({{< relref "trie.md" >}}) which contains all of the suffixes
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 145.07   | 2023-08-25T18:37:46Z |
+| 0        | 2.05 | 8   | 286.48   | 2024-06-08T02:15:30Z |
 
 
 #### Source {#source}
@@ -109,7 +109,7 @@ A compressed [Trie]({{< relref "trie.md" >}}) which contains all of the suffixes
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 131.69   | 2023-08-10T08:43:25Z |
+| 0        | 2.05 | 8   | 260.11   | 2024-04-26T16:57:34Z |
 
 
 #### Source {#source}
@@ -143,8 +143,8 @@ A compressed [Trie]({{< relref "trie.md" >}}) which contains all of the suffixes
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Radix Tree.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Radix_tree&oldid=1105756012">https://en.wikipedia.org/w/index.php?title=Radix_tree&#38;oldid=1105756012</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Suffix Tree.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Suffix_tree&oldid=1121139308">https://en.wikipedia.org/w/index.php?title=Suffix_tree&#38;oldid=1121139308</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Radix Tree.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Radix_tree&oldid=1105756012">https://en.wikipedia.org/w/index.php?title=Radix_tree&#38;oldid=1105756012</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Suffix Tree.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Suffix_tree&oldid=1121139308">https://en.wikipedia.org/w/index.php?title=Suffix_tree&#38;oldid=1121139308</a>.</div>
 </div>
 
 

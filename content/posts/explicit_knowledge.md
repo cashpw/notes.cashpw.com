@@ -2,7 +2,7 @@
 title = "Explicit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:07:00-08:00
-lastmod = 2023-08-02T10:54:38-07:00
+lastmod = 2023-09-24T10:09:25-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,7 +28,7 @@ slug = "19124270-bb87-450d-8726-fe6aae18716f"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 313.78   | 2024-03-30T07:49:50Z |
-| back     | 2.95 | 6   | 164.92   | 2023-08-15T11:52:36Z |
+| back     | 2.80 | 7   | 502.18   | 2025-01-10T18:06:32Z |
 
 [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
 
@@ -48,7 +48,7 @@ Knowledge which can be readily articulated, codified, stored, and accessed.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 334.91   | 2024-05-12T21:56:18Z |
-| back     | 2.20 | 5   | 28.25    | 2023-08-13T19:57:39Z |
+| back     | 2.05 | 6   | 56.34    | 2023-10-21T23:01:03Z |
 
 [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
 
@@ -72,8 +72,8 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Explicit Knowledge.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Explicit_knowledge&oldid=1113170575">https://en.wikipedia.org/w/index.php?title=Explicit_knowledge&#38;oldid=1113170575</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Tacit Knowledge.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&oldid=1066406863">https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&#38;oldid=1066406863</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Explicit Knowledge.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Explicit_knowledge&oldid=1113170575">https://en.wikipedia.org/w/index.php?title=Explicit_knowledge&#38;oldid=1113170575</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Tacit Knowledge.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&oldid=1066406863">https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&#38;oldid=1066406863</a>.</div>
 </div>
 
 
@@ -81,5 +81,6 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
 
 -   [Techne]({{< relref "techne.md" >}})
 -   [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
--   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
+-   [Relational tacit knowledge]({{< relref "relational_tacit_knowledge.md" >}})

@@ -2,7 +2,7 @@
 title = "Meta level"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:33:00-08:00
-lastmod = 2023-08-02T11:38:58-07:00
+lastmod = 2023-09-24T10:30:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "c5f0758f-1499-4284-bb87-77ee55819c3c"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 353.15   | 2024-07-11T07:30:51Z |
-| back     | 2.95 | 6   | 122.41   | 2023-08-12T02:03:51Z |
+| back     | 2.80 | 7   | 322.67   | 2024-07-14T06:59:41Z |
 
 [Meta level]({{< relref "meta_level.md" >}})
 

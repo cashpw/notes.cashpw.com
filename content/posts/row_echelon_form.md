@@ -2,7 +2,7 @@
 title = "Row echelon form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T11:02:00-08:00
-lastmod = 2023-08-02T12:17:48-07:00
+lastmod = 2023-09-24T10:42:35-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -72,7 +72,7 @@ The state of a matrix when:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Row Echelon Form.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Row_echelon_form&oldid=1127905349">https://en.wikipedia.org/w/index.php?title=Row_echelon_form&#38;oldid=1127905349</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Row Echelon Form.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Row_echelon_form&oldid=1127905349">https://en.wikipedia.org/w/index.php?title=Row_echelon_form&#38;oldid=1127905349</a>.</div>
 </div>
 
 

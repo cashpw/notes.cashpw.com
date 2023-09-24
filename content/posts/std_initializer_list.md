@@ -2,7 +2,7 @@
 title = "std::initializer_list"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T09:18:00-07:00
-lastmod = 2023-08-02T12:35:09-07:00
+lastmod = 2023-09-24T10:47:51-07:00
 draft = false
 slug = "a707abfd-b17d-40d0-a1c2-1caa14e2de47"
 +++
@@ -34,7 +34,7 @@ class Vector {
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.35 | 6   | 82.69    | 2023-10-11T07:42:46Z |
-| back     | 2.50 | 5   | 41.44    | 2023-08-04T23:53:54Z |
+| back     | 2.35 | 6   | 98.14    | 2023-11-11T19:16:02Z |
 
 [std::initializer_list]({{< relref "std_initializer_list.md" >}})
 
@@ -57,7 +57,7 @@ std::vector v = {1, 2, 3};
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 2   | 2.00     | 2023-08-01T23:52:30Z |
+| 0        | 2.05 | 6   | 50.94    | 2023-11-09T22:28:18Z |
 
 ```C++
 std::vector v = {1, 2, 3};

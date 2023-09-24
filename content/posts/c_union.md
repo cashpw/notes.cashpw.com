@@ -2,7 +2,7 @@
 title = "C++ union"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:14:00-07:00
-lastmod = 2023-08-02T10:39:01-07:00
+lastmod = 2023-09-24T09:57:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "6f967c9a-b981-43f8-86cb-0f096639bdfb"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 6   | 97.98    | 2023-10-22T13:23:30Z |
-| back     | 2.65 | 5   | 40.87    | 2023-08-03T10:54:40Z |
+| back     | 2.65 | 6   | 102.05   | 2023-11-14T16:18:54Z |
 
 [C++ union]({{< relref "c_union.md" >}})
 
@@ -60,5 +60,5 @@ The size of a {{[C++ union]({{< relref "c_union.md" >}})}@0} is {{the size of it
 
 ## Backlinks {#backlinks}
 
--   [Bjarne Stroustrup | A Tour of C++]({{< relref "bjarne_stroustrup_a_tour_of_c.md" >}})
 -   [std::variant]({{< relref "std_variant.md" >}})
+-   [Bjarne Stroustrup | A Tour of C++]({{< relref "bjarne_stroustrup_a_tour_of_c.md" >}})

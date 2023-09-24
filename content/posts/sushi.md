@@ -2,9 +2,9 @@
 title = "Sushi"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:44:00-08:00
-lastmod = 2023-08-02T12:38:37-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:48:52-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "10fb7c4a-8922-4d5f-aa1b-1251e34804e9"
 +++
@@ -26,7 +26,7 @@ slug = "10fb7c4a-8922-4d5f-aa1b-1251e34804e9"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.80 | 8   | 399.56   | 2024-03-20T18:19:20Z |
-| front    | 2.05 | 5   | 21.52    | 2023-08-14T16:37:03Z |
+| front    | 2.05 | 6   | 44.78    | 2023-10-13T09:54:32Z |
 
 [Maki](#makizushi)
 
@@ -65,8 +65,8 @@ Slice of fish, etc, over chunk of rice.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 6   | 129.86   | 2023-08-04T13:43:13Z |
-| front    | 2.65 | 8   | 249.92   | 2023-08-17T15:25:29Z |
+| back     | 2.50 | 7   | 326.35   | 2024-06-25T23:48:15Z |
+| front    | 2.50 | 9   | 635.27   | 2025-05-19T23:16:30Z |
 
 [Sashimi](#sashimi)
 
@@ -83,5 +83,5 @@ Raw slice of fish
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sushi.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Sushi&oldid=1110305788">https://en.wikipedia.org/w/index.php?title=Sushi&#38;oldid=1110305788</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sushi.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Sushi&oldid=1110305788">https://en.wikipedia.org/w/index.php?title=Sushi&#38;oldid=1110305788</a>.</div>
 </div>

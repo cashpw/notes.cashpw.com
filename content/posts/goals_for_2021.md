@@ -2,7 +2,7 @@
 title = "Goals for 2021"
 author = ["Cash Prokop-Weaver"]
 date = 2021-01-02T13:04:00-08:00
-lastmod = 2023-08-02T11:01:28-07:00
+lastmod = 2023-09-24T10:13:53-07:00
 draft = false
 slug = "60abd5dd-30f8-482c-8de7-421e25ed847e"
 +++

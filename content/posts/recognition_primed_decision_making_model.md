@@ -2,7 +2,7 @@
 title = "Recognition-primed decision"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T19:44:00-07:00
-lastmod = 2023-08-02T12:13:17-07:00
+lastmod = 2023-09-24T10:41:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,7 @@ slug = "4a42aa6f-413f-4144-86df-5c0f0b174777"
 >
 > (<a href="#citeproc_bib_item_2">“Recognition-Primed Decision” 2023</a>)
 
-In general, it's a pattern-matching exercise: recognize the situation at hand and choose the right already-known course of action. This presupposes that you (1) can recognize the situation and (2) know the right course of action. If either supposition is false, then refer to the flow chart:
+In general, it's a pattern-matching exercise (see [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}})): recognize the situation at hand and choose the best already-known course of action. This presupposes that you (1) can recognize the situation and (2) know the right course of action. If either supposition is false, then refer to the flow chart:
 
 > {{< figure src="/ox-hugo/2023-07-30_06-27-34_Paper.Commonplace.41.png" >}}
 >
@@ -115,15 +115,15 @@ In general, it's a pattern-matching exercise: recognize the situation at hand an
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-08-02T14:58:41Z |
-| back     | 2.5  | -1  | 0        | 2023-08-06T13:38:32Z |
+| front    | 2.35 | 5   | 35.51    | 2023-10-17T01:02:43Z |
+| back     | 2.35 | 5   | 33.23    | 2023-10-21T21:28:41Z |
 
 [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})
 
 
 #### Back {#back}
 
-A model describing how individuals make quick, effective, decisions when faced with complex situations.
+A model describing how experienced individuals make quick, effective, decisions when faced with complex situations.
 
 
 #### Source {#source}
@@ -135,8 +135,8 @@ A model describing how individuals make quick, effective, decisions when faced w
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2023-08-03T01:20:52Z |
-| back     | 2.5  | -1  | 0        | 2023-08-06T13:40:07Z |
+| front    | 2.35 | 5   | 34.59    | 2023-10-02T02:55:42Z |
+| back     | 2.20 | 4   | 13.72    | 2023-10-01T16:20:29Z |
 
 Steps in making a [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})
 
@@ -153,11 +153,12 @@ Steps in making a [Recognition-primed decision]({{< relref "recognition_primed_d
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “Copying Better: How To Acquire The Tacit Knowledge of Experts.” <i>Commoncog</i>. <a href="https://commoncog.com/how-to-learn-tacit-knowledge/">https://commoncog.com/how-to-learn-tacit-knowledge/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Recognition-Primed Decision.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Recognition-primed_decision&oldid=1156555680">https://en.wikipedia.org/w/index.php?title=Recognition-primed_decision&#38;oldid=1156555680</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “Copying Better: How To Acquire The Tacit Knowledge of Experts.” Commoncog. June 16, 2020. <a href="https://commoncog.com/how-to-learn-tacit-knowledge/">https://commoncog.com/how-to-learn-tacit-knowledge/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Recognition-Primed Decision.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Recognition-primed_decision&oldid=1156555680">https://en.wikipedia.org/w/index.php?title=Recognition-primed_decision&#38;oldid=1156555680</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

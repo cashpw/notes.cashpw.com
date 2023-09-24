@@ -2,9 +2,9 @@
 title = "Anxious-ambivalent attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:44:00-07:00
-lastmod = 2023-08-02T10:35:00-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T09:53:48-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "59ed8490-de7b-4a4e-a5d0-026ea3990d34"
 +++
@@ -44,5 +44,5 @@ An attachment pattern in which the child ...
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attachment Theory.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Attachment_theory&oldid=1094457033">https://en.wikipedia.org/w/index.php?title=Attachment_theory&#38;oldid=1094457033</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attachment Theory.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Attachment_theory&oldid=1094457033">https://en.wikipedia.org/w/index.php?title=Attachment_theory&#38;oldid=1094457033</a>.</div>
 </div>

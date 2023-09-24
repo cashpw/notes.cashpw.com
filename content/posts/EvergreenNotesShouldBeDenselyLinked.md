@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Evergreen Notes Should Be Densely Linked"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-22T07:04:00-08:00
-lastmod = 2023-08-02T10:33:03-07:00
+lastmod = 2023-09-24T09:51:00-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -31,7 +31,7 @@ slug = "6037800d-34c3-4d62-a33b-3931d694f083"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes Should Be Densely Linked.” <i>Andy’s Working Notes</i>. Accessed February 22, 2022. <a href="https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC">https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes Should Be Densely Linked.” Andy’s working notes. Accessed February 22, 2022. <a href="https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC">https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC</a>.</div>
 </div>
 
 

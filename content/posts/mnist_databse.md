@@ -2,9 +2,9 @@
 title = "MNIST databse"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T15:32:00-08:00
-lastmod = 2023-08-02T11:41:34-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:32:02-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "97aadd62-8fb1-4670-a675-c5d591bfe6a1"
 +++

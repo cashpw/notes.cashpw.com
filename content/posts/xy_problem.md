@@ -2,7 +2,7 @@
 title = "XY problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-27T08:31:00-07:00
-lastmod = 2023-08-02T13:07:01-07:00
+lastmod = 2023-09-24T10:57:01-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -52,8 +52,8 @@ slug = "3403366f-af9a-42f8-9352-f4a7097be1f5"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2023-08-01T23:31:45Z |
-| back     | 2.5  | -1  | 0        | 2023-08-03T15:36:28Z |
+| front    | 2.35 | 5   | 36.31    | 2023-10-01T22:06:30Z |
+| back     | 2.50 | 5   | 34.01    | 2023-10-24T00:04:28Z |
 
 [XY problem]({{< relref "xy_problem.md" >}})
 
@@ -70,8 +70,8 @@ slug = "3403366f-af9a-42f8-9352-f4a7097be1f5"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Answer to ‘What Is the XY Problem?’.” 2010. <i>Meta Stack Exchange</i>. <a href="https://meta.stackexchange.com/a/66378">https://meta.stackexchange.com/a/66378</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Answer to ‘What Is the XY Problem?’.” 2010. Meta Stack Exchange. October 1, 2010. <a href="https://meta.stackexchange.com/a/66378">https://meta.stackexchange.com/a/66378</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Greg’s Wiki. n.d. “XyProblem.” Accessed July 27, 2023. <a href="https://mywiki.wooledge.org/XyProblem">https://mywiki.wooledge.org/XyProblem</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Perlmonks. n.d. “XY Problem.” Accessed July 27, 2023. <a href="https://www.perlmonks.org/index.pl?node_id=542341">https://www.perlmonks.org/index.pl?node_id=542341</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“XY Problem.” 2023. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=XY_problem&oldid=1162381327">https://en.wikipedia.org/w/index.php?title=XY_problem&#38;oldid=1162381327</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“XY Problem.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=XY_problem&oldid=1162381327">https://en.wikipedia.org/w/index.php?title=XY_problem&#38;oldid=1162381327</a>.</div>
 </div>

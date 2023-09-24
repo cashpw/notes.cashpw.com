@@ -2,7 +2,7 @@
 title = "Proxy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T08:18:00-07:00
-lastmod = 2023-08-02T12:03:53-07:00
+lastmod = 2023-09-24T10:39:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,8 +54,8 @@ slug = "8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 68.15    | 2023-08-07T19:12:08Z |
-| back     | 2.50 | 6   | 81.58    | 2023-09-12T15:48:55Z |
+| front    | 2.35 | 7   | 152.77   | 2024-01-08T09:37:42Z |
+| back     | 2.50 | 7   | 190.81   | 2024-03-23T10:35:48Z |
 
 [Forward proxy]({{< relref "proxy.md" >}})
 
@@ -92,5 +92,5 @@ A server which acts as a middleman between client machines and origin servers.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“What Is a Reverse Proxy?” n.d. <i>Cloudflare</i>. Accessed March 22, 2023. <a href="https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/">https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“What Is a Reverse Proxy?” n.d. Cloudflare. Accessed March 22, 2023. <a href="https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/">https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/</a>.</div>
 </div>

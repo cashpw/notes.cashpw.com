@@ -2,9 +2,9 @@
 title = "Mortimer Jerome Adler, Charles Van Doren | How to Read a Book"
 author = ["Cash Weaver"]
 date = 2022-12-24T09:16:00-08:00
-lastmod = 2023-08-02T11:43:53-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:33:00-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "52512c4c-d011-4cca-afd5-87db8442f9c3"
 +++
@@ -28,7 +28,7 @@ slug = "52512c4c-d011-4cca-afd5-87db8442f9c3"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.00 | 13  | 168.24   | 2023-09-03T23:30:43Z |
+| front    | 1.70 | 4   | 11.12    | 2023-09-29T02:01:27Z |
 
 [How to Read a Book]({{< relref "mortimer_jerome_adler_charles_van_doren_how_to_read_a_book.md" >}})
 
@@ -47,6 +47,6 @@ slug = "52512c4c-d011-4cca-afd5-87db8442f9c3"
 
 ## Backlinks {#backlinks}
 
--   [Charles van Doren]({{< relref "charles_van_doren.md" >}})
 -   [Mortimer J Adler]({{< relref "mortimer_j_adler.md" >}})
+-   [Charles van Doren]({{< relref "charles_van_doren.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

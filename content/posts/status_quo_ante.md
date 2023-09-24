@@ -2,7 +2,7 @@
 title = "Status quo ante"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:21:00-08:00
-lastmod = 2023-08-02T12:35:01-07:00
+lastmod = 2023-09-24T10:47:48-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,7 +22,7 @@ slug = "4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.30 | 7   | 16.92    | 2023-08-13T12:10:12Z |
+| 0        | 1.30 | 9   | 24.22    | 2023-10-04T04:29:48Z |
 | 1        | 2.95 | 6   | 144.13   | 2023-10-01T19:09:02Z |
 
 {{[Status quo ante]({{< relref "status_quo_ante.md" >}})}{[Latin]({{< relref "latin.md" >}})}@0} :: {{The way things were before}{English}@1}
@@ -35,7 +35,7 @@ slug = "4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Status Quo Ante.” 2022. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=status_quo_ante&oldid=68788927">https://en.wiktionary.org/w/index.php?title=status_quo_ante&#38;oldid=68788927</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Status Quo Ante.” 2022. In <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=status_quo_ante&oldid=68788927">https://en.wiktionary.org/w/index.php?title=status_quo_ante&#38;oldid=68788927</a>.</div>
 </div>
 
 

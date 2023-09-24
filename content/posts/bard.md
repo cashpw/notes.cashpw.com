@@ -2,9 +2,9 @@
 title = "Bard"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:14:00-07:00
-lastmod = 2023-08-02T10:35:42-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T09:54:49-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "a45ed3de-c710-40c8-86c4-3beab753cf41"
 +++

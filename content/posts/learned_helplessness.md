@@ -2,7 +2,7 @@
 title = "Learned helplessness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T08:35:00-08:00
-lastmod = 2023-08-02T11:26:54-07:00
+lastmod = 2023-09-24T10:25:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,8 @@ slug = "06b5c658-5513-4c18-a24d-9ed3fb4ad23b"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 3   | 6.00     | 2023-08-05T23:54:00Z |
-| back     | 2.20 | 7   | 136.58   | 2023-08-15T05:39:16Z |
+| front    | 2.65 | 5   | 42.64    | 2023-10-07T06:33:16Z |
+| back     | 2.35 | 8   | 335.79   | 2024-07-31T07:46:56Z |
 
 [Learned helplessness]({{< relref "learned_helplessness.md" >}})
 
@@ -43,12 +43,12 @@ A behavior characterized by "giving up" which the subject exhibits after endurin
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Learned Helplessness.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Learned_helplessness&oldid=1122264058">https://en.wikipedia.org/w/index.php?title=Learned_helplessness&#38;oldid=1122264058</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Learned Helplessness.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Learned_helplessness&oldid=1122264058">https://en.wikipedia.org/w/index.php?title=Learned_helplessness&#38;oldid=1122264058</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Anna Salamon | Learned Blankness]({{< relref "annasalamonLearnedBlankness2011.md" >}})
--   [Learned blankness]({{< relref "learned_blankness.md" >}})
 -   [Scott Alexander | Epistemic Learned Helplessness]({{< relref "scott_alexander_epistemic_learned_helplessness.md" >}})
+-   [Learned blankness]({{< relref "learned_blankness.md" >}})

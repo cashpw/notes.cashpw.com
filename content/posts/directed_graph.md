@@ -2,7 +2,7 @@
 title = "Directed graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:45:00-07:00
-lastmod = 2023-08-02T10:50:13-07:00
+lastmod = 2023-09-24T10:06:41-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,8 @@ A [Graph]({{< relref "graph.md" >}}) in which the [Edges]({{< relref "edge.md" >
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.50 | 7   | 214.43   | 2023-08-17T04:57:46Z |
-| front    | 2.50 | 7   | 213.92   | 2023-08-24T14:56:06Z |
+| back     | 2.50 | 8   | 483.21   | 2024-12-15T21:05:54Z |
+| front    | 2.50 | 8   | 485.83   | 2024-12-27T11:08:21Z |
 
 [Directed graph]({{< relref "directed_graph.md" >}})
 
@@ -62,7 +62,7 @@ A [Graph]({{< relref "graph.md" >}}) in which the [Edges]({{< relref "edge.md" >
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Graph (Discrete Mathematics).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Graph_(discrete_mathematics)&oldid=1093859772">https://en.wikipedia.org/w/index.php?title=Graph_(discrete_mathematics)&#38;oldid=1093859772</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Graph (Discrete Mathematics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Graph_(discrete_mathematics)&oldid=1093859772">https://en.wikipedia.org/w/index.php?title=Graph_(discrete_mathematics)&#38;oldid=1093859772</a>.</div>
 </div>
 
 

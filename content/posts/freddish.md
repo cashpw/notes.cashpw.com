@@ -2,7 +2,7 @@
 title = "Freddish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:59:00-07:00
-lastmod = 2023-08-02T10:58:31-07:00
+lastmod = 2023-09-24T10:11:57-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -109,7 +109,7 @@ A set of language patterns for talking with children which anticipates and prote
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>King, Maxwell. 2018. “Mister Rogers Had a Simple Set of Rules for Talking to Children.” <i>The Atlantic</i>. <a href="https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/">https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>King, Maxwell. 2018. “Mister Rogers Had a Simple Set of Rules for Talking to Children.” The Atlantic. June 8, 2018. <a href="https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/">https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/</a>.</div>
 </div>
 
 
@@ -117,6 +117,6 @@ A set of language patterns for talking with children which anticipates and prote
 
 -   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
 -   [Fred Rodgers Institute | When Someone a Child Loves Dies]({{< relref "fred_rodgers_institute_when_someone_a_child_loves_dies.md" >}})
--   [Rewriting and Editing]({{< relref "julian_shapiro_writing_well_handbook.md#rewriting-and-editing" >}})
 -   [Todos]({{< relref "todos.md" >}})
 -   [Child development stages]({{< relref "child_development_stages.md" >}})
+-   [Rewriting and Editing]({{< relref "julian_shapiro_writing_well_handbook.md#rewriting-and-editing" >}})

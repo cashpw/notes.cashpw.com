@@ -2,7 +2,7 @@
 title = "Focusing techniques"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T07:08:00-08:00
-lastmod = 2023-08-02T10:57:39-07:00
+lastmod = 2023-09-24T10:11:24-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,4 +42,4 @@ Techniques which bridge the gap between a desired state of mind and one's presen
 
 ## Backlinks {#backlinks}
 
--   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md" >}})
+-   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md#2-dot-1" >}})

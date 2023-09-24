@@ -2,7 +2,7 @@
 title = "Speculative evolution"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T15:04:00-08:00
-lastmod = 2023-08-02T10:33:14-07:00
+lastmod = 2023-09-24T09:51:27-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -27,7 +27,7 @@ Related:
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 350.22   | 2024-05-24T20:55:16Z |
-| back     | 2.35 | 7   | 150.75   | 2023-09-04T14:35:11Z |
+| back     | 2.35 | 8   | 387.34   | 2024-09-26T23:37:41Z |
 
 [Speculative evolution]({{< relref "SpeculativeEvolution2022.md" >}})
 
@@ -44,7 +44,7 @@ A genre of fiction, and an artistic movement, focused on hypothetical scenarios 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Speculative Evolution.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Speculative_evolution&oldid=1067458432">https://en.wikipedia.org/w/index.php?title=Speculative_evolution&#38;oldid=1067458432</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Speculative Evolution.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Speculative_evolution&oldid=1067458432">https://en.wikipedia.org/w/index.php?title=Speculative_evolution&#38;oldid=1067458432</a>.</div>
 </div>
 
 

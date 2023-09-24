@@ -2,9 +2,9 @@
 title = "Stages of problem solving"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:13:00-08:00
-lastmod = 2023-08-02T12:34:14-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:47:30-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "4dc60214-2e6b-45de-bed5-6e2fec793385"
 +++

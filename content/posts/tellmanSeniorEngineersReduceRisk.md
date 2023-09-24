@@ -2,7 +2,7 @@
 title = "Zach Tellman | Senior Engineers Reduce Risk"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T19:25:00-08:00
-lastmod = 2023-08-02T12:44:16-07:00
+lastmod = 2023-09-24T10:50:12-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -42,7 +42,7 @@ slug = "e7753777-506e-490e-b79e-59dede5dce2e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 5   | 40.36    | 2023-08-06T01:06:45Z |
+| 0        | 2.65 | 6   | 104.89   | 2023-11-19T12:10:48Z |
 
 
 #### Source {#source}
@@ -58,6 +58,6 @@ slug = "e7753777-506e-490e-b79e-59dede5dce2e"
 
 ## Backlinks {#backlinks}
 
+-   [Sabrina Leandro | So You're Staff+ ... Now What?]({{< relref "sabrina_leandro_so_you_re_staff_now_what.md" >}})
 -   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
 -   [Blogroll]({{< relref "blogroll.md" >}})
--   [Sabrina Leandro | So You're Staff+ ... Now What?]({{< relref "sabrina_leandro_so_you_re_staff_now_what.md" >}})

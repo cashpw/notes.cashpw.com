@@ -2,7 +2,7 @@
 title = "Complete information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-22T15:56:00-07:00
-lastmod = 2023-08-02T10:43:16-07:00
+lastmod = 2023-09-24T10:01:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,7 +31,7 @@ slug = "d80fe9f3-c36e-4878-89fc-d7ad8d6e247f"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 255.56   | 2024-01-09T12:07:43Z |
-| back     | 2.65 | 6   | 109.10   | 2023-08-23T20:05:24Z |
+| back     | 2.65 | 7   | 278.71   | 2024-05-31T07:58:10Z |
 
 [Complete information]({{< relref "complete_information.md" >}})
 
@@ -69,11 +69,11 @@ A game in which the structure is known to all players but they may not see all m
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Complete Information.” 2021. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Complete_information&oldid=1045048457">https://en.wikipedia.org/w/index.php?title=Complete_information&#38;oldid=1045048457</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Complete Information.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Complete_information&oldid=1045048457">https://en.wikipedia.org/w/index.php?title=Complete_information&#38;oldid=1045048457</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Perfect information]({{< relref "perfect_information.md" >}})
 -   [Imperfect information]({{< relref "imperfect_information.md" >}})
+-   [Perfect information]({{< relref "perfect_information.md" >}})

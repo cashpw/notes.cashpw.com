@@ -2,7 +2,7 @@
 title = "Dynamical system"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-21T19:46:00-07:00
-lastmod = 2023-08-02T10:51:51-07:00
+lastmod = 2023-09-24T10:07:51-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "62420d13-e41f-46c0-a3b2-345fc4d8d4c1"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.65 | 9   | 253.30   | 2023-08-16T07:46:44Z |
+| back     | 2.65 | 10  | 679.00   | 2025-06-30T13:23:03Z |
 | front    | 2.20 | 8   | 291.76   | 2024-05-10T22:19:11Z |
 
 [Dynamical system]({{< relref "dynamical_system.md" >}})
@@ -64,5 +64,5 @@ eg: A model that describes the swinging of a clock pendulum or the flow of water
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Dynamical System.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Dynamical_system&oldid=1109251019">https://en.wikipedia.org/w/index.php?title=Dynamical_system&#38;oldid=1109251019</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Dynamical System.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Dynamical_system&oldid=1109251019">https://en.wikipedia.org/w/index.php?title=Dynamical_system&#38;oldid=1109251019</a>.</div>
 </div>

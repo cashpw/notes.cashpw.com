@@ -2,7 +2,7 @@
 title = "Adversarial interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:35:00-07:00
-lastmod = 2023-08-02T10:33:46-07:00
+lastmod = 2023-09-24T09:52:12-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -69,8 +69,8 @@ A type of [Interoperability]({{< relref "interoperability.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Doctorow, Cory. 2019a. “Adversarial Interoperability: Reviving an Elegant Weapon From a More Civilized Age to Slay Today’s Monopolies.” <i>Electronic Frontier Foundation</i>. <a href="https://www.eff.org/deeplinks/2019/06/adversarial-interoperability-reviving-elegant-weapon-more-civilized-age-slay">https://www.eff.org/deeplinks/2019/06/adversarial-interoperability-reviving-elegant-weapon-more-civilized-age-slay</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2019b. “Adversarial Interoperability.” <i>Electronic Frontier Foundation</i>. <a href="https://www.eff.org/deeplinks/2019/10/adversarial-interoperability">https://www.eff.org/deeplinks/2019/10/adversarial-interoperability</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Doctorow, Cory. 2019a. “Adversarial Interoperability: Reviving an Elegant Weapon From a More Civilized Age to Slay Today’s Monopolies.” Electronic Frontier Foundation. June 7, 2019. <a href="https://www.eff.org/deeplinks/2019/06/adversarial-interoperability-reviving-elegant-weapon-more-civilized-age-slay">https://www.eff.org/deeplinks/2019/06/adversarial-interoperability-reviving-elegant-weapon-more-civilized-age-slay</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2019b. “Adversarial Interoperability.” Electronic Frontier Foundation. October 2, 2019. <a href="https://www.eff.org/deeplinks/2019/10/adversarial-interoperability">https://www.eff.org/deeplinks/2019/10/adversarial-interoperability</a>.</div>
 </div>
 
 

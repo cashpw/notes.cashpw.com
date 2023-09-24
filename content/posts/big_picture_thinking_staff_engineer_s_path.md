@@ -2,9 +2,9 @@
 title = "Big-picture thinking (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T09:33:00-07:00
-lastmod = 2023-08-02T10:36:38-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T09:55:44-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "69721a7b-23c8-4d00-8a1c-0e2dba6a1c4e"
 +++
@@ -31,8 +31,8 @@ slug = "69721a7b-23c8-4d00-8a1c-0e2dba6a1c4e"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 32.67    | 2023-08-07T20:19:42Z |
-| back     | 2.65 | 5   | 45.23    | 2023-09-01T19:17:30Z |
+| front    | 2.35 | 6   | 83.72    | 2023-10-31T08:25:32Z |
+| back     | 2.65 | 6   | 108.17   | 2023-12-21T20:41:55Z |
 
 [Big-picture thinking (Staff Engineer's Path)]({{< relref "big_picture_thinking_staff_engineer_s_path.md" >}})
 

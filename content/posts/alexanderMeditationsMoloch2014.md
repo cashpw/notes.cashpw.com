@@ -2,9 +2,9 @@
 title = "Scott Alexander | Meditations On Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:30:00-07:00
-lastmod = 2023-08-02T10:34:01-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T09:52:37-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "1bba449a-48eb-479a-be4d-a4d7f8095b6a"
 +++
@@ -249,7 +249,7 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.30 | 3   | 6.00     | 2023-08-05T23:54:20Z |
+| front    | 1.30 | 6   | 13.27    | 2023-09-18T21:59:31Z |
 
 
 #### Back {#back}
@@ -289,7 +289,7 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 163.69   | 2023-08-13T08:29:08Z |
+| front    | 2.95 | 7   | 446.50   | 2024-11-09T03:55:53Z |
 | back     | 2.50 | 7   | 285.41   | 2024-04-14T11:29:29Z |
 
 [Physical limitations (Moloch)](#physical-limitations--moloch-moloch-dot-md)
@@ -310,7 +310,7 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 303.27   | 2024-03-31T07:30:08Z |
-| back     | 1.60 | 4   | 10.52    | 2023-08-02T16:23:05Z |
+| back     | 1.30 | 2   | 2.00     | 2023-09-20T15:48:44Z |
 
 [Utility maximization (Moloch)](#utility-maximization--moloch-moloch-dot-md)
 
@@ -347,7 +347,7 @@ Only another god can defeat [Moloch]({{< relref "moloch.md" >}}). [The opposite 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” Slate Star Codex. July 30, 2014. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
 </div>
 
 

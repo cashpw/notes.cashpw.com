@@ -2,9 +2,9 @@
 title = "Andy Matuschak | Knowledge Work Should Accrete"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-11T20:02:00-08:00
-lastmod = 2023-08-02T10:33:07-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T09:51:10-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "3abdd6f0-2229-4f83-a0ac-078af4571f8c"
 +++
@@ -36,7 +36,7 @@ slug = "3abdd6f0-2229-4f83-a0ac-078af4571f8c"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Knowledge Work Should Accrete.” <i>Andy’s Working Notes</i>. Accessed February 12, 2022. <a href="https://notes.andymatuschak.org/Knowledge_work_should_accrete">https://notes.andymatuschak.org/Knowledge_work_should_accrete</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Knowledge Work Should Accrete.” Andy’s working notes. Accessed February 12, 2022. <a href="https://notes.andymatuschak.org/Knowledge_work_should_accrete">https://notes.andymatuschak.org/Knowledge_work_should_accrete</a>.</div>
 </div>
 
 

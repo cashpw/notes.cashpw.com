@@ -2,7 +2,7 @@
 title = "Dog whistle"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:26:00-07:00
-lastmod = 2023-08-02T10:50:47-07:00
+lastmod = 2023-09-24T10:07:03-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -60,7 +60,7 @@ The use of coded or suggestive language to garner support from a particular grou
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Dog Whistle (Politics).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Dog_whistle_(politics)&oldid=1094667694">https://en.wikipedia.org/w/index.php?title=Dog_whistle_(politics)&#38;oldid=1094667694</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Dog Whistle (Politics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Dog_whistle_(politics)&oldid=1094667694">https://en.wikipedia.org/w/index.php?title=Dog_whistle_(politics)&#38;oldid=1094667694</a>.</div>
 </div>
 
 

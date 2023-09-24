@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Evergreen Notes Should Be Atomic"
 author = ["Cash Weaver"]
 date = 2023-04-11T16:49:00-07:00
-lastmod = 2023-08-02T10:34:40-07:00
+lastmod = 2023-09-24T09:53:23-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -28,7 +28,7 @@ slug = "6ae97f03-6ce3-437e-88cf-a9f965839477"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes Should Be Atomic.” <i>Andy’s Working Notes</i>. Accessed April 11, 2023. <a href="https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic">https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes Should Be Atomic.” Andy’s working notes. Accessed April 11, 2023. <a href="https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic">https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic</a>.</div>
 </div>
 
 

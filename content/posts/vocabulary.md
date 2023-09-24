@@ -2,7 +2,7 @@
 title = "Vocabulary"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-15T10:24:00-08:00
-lastmod = 2023-08-02T13:02:33-07:00
+lastmod = 2023-09-24T10:55:35-07:00
 draft = false
 slug = "570a3103-cef5-4ce3-9498-fde21020fe22"
 +++
@@ -14,7 +14,7 @@ slug = "570a3103-cef5-4ce3-9498-fde21020fe22"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 133.21   | 2023-07-29T18:34:11Z |
+| front    | 2.50 | 7   | 316.83   | 2024-07-03T08:38:24Z |
 | back     | 2.80 | 6   | 105.47   | 2023-06-24T16:34:54Z |
 
 A person who attacks cherished beliefs or institutions
@@ -95,7 +95,7 @@ A dislike of humankind.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.30 | 17  | 224.26   | 2023-08-22T22:27:36Z |
+| back     | 2.00 | 2   | 2.00     | 2023-09-12T13:36:33Z |
 | front    | 2.05 | 7   | 110.24   | 2023-06-08T23:07:56Z |
 
 -   Not claiming attention for oneself
@@ -109,8 +109,8 @@ A dislike of humankind.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.90 | 5   | 22.73    | 2023-07-30T17:37:53Z |
-| front    | 2.60 | 11  | 168.47   | 2023-06-20T02:34:47Z |
+| back     | 1.75 | 6   | 40.14    | 2023-10-07T16:10:02Z |
+| front    | 2.60 | 12  | 413.50   | 2024-11-01T03:08:33Z |
 
 1.  Forming a small remnant of something that was once much larger or more noticeable
 2.  (biology) degenerate, rudimentary, or atrophied, having become functionless in the course of evolution
@@ -136,7 +136,7 @@ An event or period marking a turning point in a course of action or state of aff
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.90 | 5   | 22.52    | 2023-07-28T16:27:13Z |
+| back     | 1.75 | 6   | 37.60    | 2023-09-15T05:28:31Z |
 | front    | 2.65 | 7   | 267.64   | 2023-11-21T07:09:09Z |
 
 (of a product) made or used as a substitute, typically an inferior one, for something else
@@ -175,7 +175,7 @@ Restrict (something) within limits
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 2.20 | 7   | 148.73   | 2023-09-01T09:59:52Z |
+| back     | 2.20 | 8   | 348.12   | 2024-08-18T18:16:19Z |
 | front    | 2.50 | 9   | 292.64   | 2023-12-23T08:48:48Z |
 
 In agreement or harmony
@@ -228,7 +228,7 @@ Having an end or a limit.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| back     | 1.75 | 8   | 111.26   | 2023-09-04T20:54:55Z |
+| back     | 1.75 | 9   | 185.46   | 2024-03-23T10:47:38Z |
 | front    | 2.20 | 8   | 161.80   | 2023-08-23T10:17:58Z |
 
 The action of stopping someone from being angry; placation
@@ -241,7 +241,7 @@ The action of stopping someone from being angry; placation
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 5   | 30.31    | 2023-08-17T21:07:44Z |
+| front    | 2.20 | 6   | 65.61    | 2023-10-31T05:17:03Z |
 | back     | 2.95 | 6   | 131.49   | 2023-12-02T15:37:22Z |
 
 Exaggerated, dramatic, behavior designed to attract attention.
@@ -281,7 +281,7 @@ Exaggerated, dramatic, behavior designed to attract attention.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 6   | 38.21    | 2023-08-18T18:01:18Z |
+| front    | 1.75 | 7   | 62.28    | 2023-10-24T23:16:01Z |
 | back     | 2.95 | 6   | 139.60   | 2023-08-07T06:42:15Z |
 
 Not likely to provoke dissent or offense; inoffensive, often deliberately so
@@ -294,7 +294,7 @@ Not likely to provoke dissent or offense; inoffensive, often deliberately so
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 7   | 118.21   | 2023-08-13T20:59:32Z |
+| front    | 2.05 | 8   | 237.22   | 2024-05-12T04:12:20Z |
 | back     | 1.90 | 7   | 106.89   | 2023-10-28T22:03:26Z |
 
 -   Works, usually written, of unknown authorship or of doubtful origin
@@ -321,7 +321,7 @@ A person after whom a discovery, invention, place, etc., is named or thought to 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.20 | 7   | 147.77   | 2023-10-10T11:37:27Z |
-| back     | 1.75 | 5   | 18.17    | 2023-04-06T21:54:04Z |
+| back     | 1.45 | 1   | 1.00     | 2023-08-12T23:13:00Z |
 
 -   Characterized by, or suggesting, the practice of severe self-discipline and abstention from all forms of indulgence, typically for religious reasons
 
@@ -333,7 +333,7 @@ A person after whom a discovery, invention, place, etc., is named or thought to 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.90 | 4   | 11.45    | 2023-08-08T00:31:16Z |
+| front    | 1.60 | 1   | 1.00     | 2023-09-06T15:16:12Z |
 | back     | 2.35 | 5   | 32.35    | 2023-04-14T23:11:01Z |
 
 A conclusion arrived at through deductive reasoning based on two propositions which are either asserted or assumed to be true.
@@ -455,8 +455,8 @@ An event that comes as a surprise, has a major effect, and is often inappropriat
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 158.54   | 2023-09-15T04:40:24Z |
-| back     | 2.50 | 6   | 93.95    | 2023-06-23T16:18:09Z |
+| front    | 2.95 | 7   | 484.81   | 2025-01-18T08:22:04Z |
+| back     | 2.20 | 1   | 1.00     | 2023-08-11T00:49:29Z |
 
 -   A word which blends the sounds and combines the meanings of two others; e.g motel from "motor" and "hotel", brunch from "breakfast" and "lunch"
 
@@ -505,7 +505,7 @@ Portmanteau
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.65 | 7   | 290.74   | 2024-05-16T17:32:28Z |
-| back     | 2.95 | 5   | 50.65    | 2023-04-05T12:53:20Z |
+| back     | 2.65 | 0   | 0.00     | 2023-08-08T14:55:56Z |
 
 -   A sign of what will happen in the future; an omen
 -   The interpretation of omens; the work of an ...
@@ -532,7 +532,7 @@ Portmanteau
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 1   | 1.00     | 2023-07-29T15:04:26Z |
+| front    | 2.35 | 4   | 14.85    | 2023-09-22T10:47:04Z |
 | back     | 2.35 | 6   | 72.27    | 2023-05-31T00:31:41Z |
 
 -   Conducive to success; favorable
@@ -545,7 +545,7 @@ Portmanteau
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 4   | 11.37    | 2023-07-30T22:31:50Z |
+| front    | 1.75 | 6   | 36.49    | 2023-10-03T01:11:58Z |
 | back     | 1.75 | 5   | 19.05    | 2023-03-29T04:07:28Z |
 
 -   unwilling to spend money or use resources; stingy or frugal
@@ -586,7 +586,7 @@ Movement away from the body's midline.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 121.85   | 2023-08-28T18:58:13Z |
+| front    | 2.65 | 7   | 308.45   | 2024-07-16T23:19:05Z |
 | back     | 2.80 | 6   | 149.97   | 2023-10-17T23:51:52Z |
 
 Movement toward the body's midline
@@ -633,8 +633,8 @@ Grimly mocking or cynical
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 5   | 26.64    | 2023-08-26T14:59:16Z |
-| back     | 2.80 | 5   | 55.17    | 2023-05-11T17:59:45Z |
+| front    | 2.20 | 6   | 59.39    | 2023-11-09T22:05:25Z |
+| back     | 2.80 | 6   | 150.87   | 2024-01-02T11:55:11Z |
 
 > An [...] is a concise, terse, laconic, or memorable expression of a general truth or principle. [...] are often handed down by tradition from generation to generation.
 
@@ -664,7 +664,7 @@ Grimly mocking or cynical
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.05 | 0   | 0.00     | 2023-08-01T15:05:08Z |
+| front    | 1.75 | 4   | 11.12    | 2023-09-25T17:42:58Z |
 | back     | 2.35 | 4   | 15.45    | 2023-03-24T04:14:39Z |
 
 > An amateur, someone who dabbles in a field out of casual interest rather than as a profession or serious interest.
@@ -695,7 +695,7 @@ Grimly mocking or cynical
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.35 | 6   | 82.97    | 2023-10-23T00:45:07Z |
-| 1        | 2.50 | 1   | 1.00     | 2023-06-28T15:06:13Z |
+| 1        | 2.50 | 2   | 2.00     | 2023-09-11T23:08:19Z |
 
 {{Aphorisms}@0} are often {{handed down by tradition from generation to generation}@1}.
 
@@ -709,7 +709,7 @@ Grimly mocking or cynical
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 0   | 0.00     | 2023-07-26T15:11:56Z |
+| front    | 2.50 | 1   | 1.00     | 2023-09-19T15:56:21Z |
 | back     | 2.5  | -1  | 0        | 2023-07-27T18:50:45Z |
 
 1.  Excessively eager and attentive to please or to obey instructions; fawning, subservient, servile.
@@ -723,18 +723,18 @@ Grimly mocking or cynical
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Anatomical Terms of Motion.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Anatomical_terms_of_motion&oldid=1096745940">https://en.wikipedia.org/w/index.php?title=Anatomical_terms_of_motion&#38;oldid=1096745940</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Aphorism.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Aphorism&oldid=1133545631">https://en.wikipedia.org/w/index.php?title=Aphorism&#38;oldid=1133545631</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Black Swan Theory.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Black_swan_theory&oldid=1110113104">https://en.wikipedia.org/w/index.php?title=Black_swan_theory&#38;oldid=1110113104</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Decompensate.” 2020. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=decompensate&oldid=61016171">https://en.wiktionary.org/w/index.php?title=decompensate&#38;oldid=61016171</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>“Definition of Decompensate.” n.d. <i>Www.Dictionary.Com</i>. Accessed January 9, 2023. <a href="https://www.dictionary.com/browse/decompensate">https://www.dictionary.com/browse/decompensate</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>“Dilettante.” 2023. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=dilettante&oldid=70885020">https://en.wiktionary.org/w/index.php?title=dilettante&#38;oldid=70885020</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Anatomical Terms of Motion.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Anatomical_terms_of_motion&oldid=1096745940">https://en.wikipedia.org/w/index.php?title=Anatomical_terms_of_motion&#38;oldid=1096745940</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Aphorism.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Aphorism&oldid=1133545631">https://en.wikipedia.org/w/index.php?title=Aphorism&#38;oldid=1133545631</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Black Swan Theory.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Black_swan_theory&oldid=1110113104">https://en.wikipedia.org/w/index.php?title=Black_swan_theory&#38;oldid=1110113104</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Decompensate.” 2020. In <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=decompensate&oldid=61016171">https://en.wiktionary.org/w/index.php?title=decompensate&#38;oldid=61016171</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>“Definition of Decompensate.” n.d. www.dictionary.com. Accessed January 9, 2023. <a href="https://www.dictionary.com/browse/decompensate">https://www.dictionary.com/browse/decompensate</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>“Dilettante.” 2023. In <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=dilettante&oldid=70885020">https://en.wiktionary.org/w/index.php?title=dilettante&#38;oldid=70885020</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_7"></a>“Laconic - Google Search.” n.d. Accessed January 22, 2023. <a href="https://www.google.com/search?client=firefox-b-1-e&q=laconic">https://www.google.com/search?client=firefox-b-1-e&#38;q=laconic</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>“Laconic Phrase.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Laconic_phrase&oldid=1117264019">https://en.wikipedia.org/w/index.php?title=Laconic_phrase&#38;oldid=1117264019</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>“Obsequious.” 2023. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=obsequious&oldid=73687592">https://en.wiktionary.org/w/index.php?title=obsequious&#38;oldid=73687592</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>“Orthogonal.” 2023. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=orthogonal&oldid=70873383">https://en.wiktionary.org/w/index.php?title=orthogonal&#38;oldid=70873383</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>“Salad Days.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Salad_days&oldid=1110285122">https://en.wikipedia.org/w/index.php?title=Salad_days&#38;oldid=1110285122</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>“Laconic Phrase.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Laconic_phrase&oldid=1117264019">https://en.wikipedia.org/w/index.php?title=Laconic_phrase&#38;oldid=1117264019</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>“Obsequious.” 2023. In <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=obsequious&oldid=73687592">https://en.wiktionary.org/w/index.php?title=obsequious&#38;oldid=73687592</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>“Orthogonal.” 2023. In <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=orthogonal&oldid=70873383">https://en.wiktionary.org/w/index.php?title=orthogonal&#38;oldid=70873383</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>“Salad Days.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Salad_days&oldid=1110285122">https://en.wikipedia.org/w/index.php?title=Salad_days&#38;oldid=1110285122</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_12"></a>“Sardonic - Google Search.” n.d. Accessed January 21, 2023. <a href="https://www.google.com/search?client=firefox-b-1-e&q=sardonic">https://www.google.com/search?client=firefox-b-1-e&#38;q=sardonic</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>“Syllogism.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Syllogism&oldid=1127384175">https://en.wikipedia.org/w/index.php?title=Syllogism&#38;oldid=1127384175</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>“Young Turks.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Young_Turks&oldid=1104424717">https://en.wikipedia.org/w/index.php?title=Young_Turks&#38;oldid=1104424717</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>“Syllogism.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Syllogism&oldid=1127384175">https://en.wikipedia.org/w/index.php?title=Syllogism&#38;oldid=1127384175</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>“Young Turks.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Young_Turks&oldid=1104424717">https://en.wikipedia.org/w/index.php?title=Young_Turks&#38;oldid=1104424717</a>.</div>
 </div>

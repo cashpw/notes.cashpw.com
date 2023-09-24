@@ -2,7 +2,7 @@
 title = "String literal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-01T14:49:00-07:00
-lastmod = 2023-08-02T12:36:39-07:00
+lastmod = 2023-09-24T10:48:16-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -39,5 +39,5 @@ A string value in the source code of a computer program. The `foo` in `x = "foo"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“String Literal.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=String_literal&oldid=1105586964">https://en.wikipedia.org/w/index.php?title=String_literal&#38;oldid=1105586964</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“String Literal.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=String_literal&oldid=1105586964">https://en.wikipedia.org/w/index.php?title=String_literal&#38;oldid=1105586964</a>.</div>
 </div>

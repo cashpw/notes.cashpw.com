@@ -2,7 +2,7 @@
 title = "Glazeware"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T09:05:00-07:00
-lastmod = 2023-08-02T11:01:13-07:00
+lastmod = 2023-09-24T10:13:45-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,5 +17,5 @@ Glaze-covered and fired ceramics.
 
 ## Backlinks {#backlinks}
 
--   [Clay shrinkage]({{< relref "clay_shrinkage.md" >}})
 -   [Clay firing stages]({{< relref "clay_firing_stages.md" >}})
+-   [Clay shrinkage]({{< relref "clay_shrinkage.md" >}})

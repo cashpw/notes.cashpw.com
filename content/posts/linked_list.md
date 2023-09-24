@@ -2,7 +2,7 @@
 title = "Linked list"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T15:41:00-07:00
-lastmod = 2023-08-02T11:30:08-07:00
+lastmod = 2023-09-24T10:27:10-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -41,7 +41,7 @@ A sequential collection of nodes composed of data and one or more references to 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 1        | 2.80 | 7   | 238.93   | 2023-08-20T14:25:06Z |
+| 1        | 2.80 | 8   | 620.25   | 2025-05-01T22:05:13Z |
 | 0        | 2.35 | 7   | 400.67   | 2024-06-29T06:11:15Z |
 
 
@@ -55,5 +55,5 @@ A sequential collection of nodes composed of data and one or more references to 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Linked List.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Linked_list&oldid=1092636226">https://en.wikipedia.org/w/index.php?title=Linked_list&#38;oldid=1092636226</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Linked List.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Linked_list&oldid=1092636226">https://en.wikipedia.org/w/index.php?title=Linked_list&#38;oldid=1092636226</a>.</div>
 </div>

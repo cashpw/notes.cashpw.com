@@ -2,9 +2,9 @@
 title = "Priming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-24T19:59:00-08:00
-lastmod = 2023-08-02T12:01:15-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:38:36-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "4843cffc-e15a-48c2-8244-df6d92622a1c"
 +++
@@ -32,5 +32,5 @@ A phenomenon whereby exposure to one stimulus influences a response to a subsequ
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Priming (Psychology).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Priming_(psychology)&oldid=1128846175">https://en.wikipedia.org/w/index.php?title=Priming_(psychology)&#38;oldid=1128846175</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Priming (Psychology).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Priming_(psychology)&oldid=1128846175">https://en.wikipedia.org/w/index.php?title=Priming_(psychology)&#38;oldid=1128846175</a>.</div>
 </div>

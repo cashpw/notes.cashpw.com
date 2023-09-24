@@ -2,7 +2,7 @@
 title = "Percy Bysshe Shelley | Ozymandias"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-26T18:30:00-08:00
-lastmod = 2023-08-02T10:33:11-07:00
+lastmod = 2023-09-24T09:51:19-07:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -40,13 +40,13 @@ The lone and level sands stretch far away."<br />
 |----------|------|-----|----------|----------------------|
 | 0        | 2.95 | 7   | 407.85   | 2024-08-05T09:44:37Z |
 | 1        | 2.80 | 7   | 356.78   | 2024-06-08T22:47:13Z |
-| 2        | 1.30 | 8   | 32.18    | 2023-08-24T08:03:56Z |
-| 3        | 1.30 | 6   | 13.00    | 2023-08-08T02:59:02Z |
-| 4        | 1.30 | 9   | 68.42    | 2023-09-17T23:13:49Z |
-| 5        | 1.30 | 6   | 16.84    | 2023-08-17T21:26:52Z |
-| 6        | 1.30 | 7   | 23.00    | 2023-08-18T15:07:28Z |
-| 7        | 2.05 | 5   | 25.96    | 2023-08-12T12:54:27Z |
-| 8        | 1.90 | 2   | 2.00     | 2023-08-01T23:59:34Z |
+| 2        | 1.30 | 5   | 9.22     | 2023-09-27T04:16:23Z |
+| 3        | 1.30 | 6   | 11.44    | 2023-10-03T00:43:33Z |
+| 4        | 1.30 | 10  | 87.97    | 2023-12-15T15:04:04Z |
+| 5        | 1.30 | 7   | 20.17    | 2023-09-19T16:55:56Z |
+| 6        | 1.30 | 8   | 28.99    | 2023-09-30T14:05:54Z |
+| 7        | 2.05 | 6   | 56.60    | 2023-11-07T03:07:02Z |
+| 8        | 1.75 | 3   | 6.00     | 2023-08-10T15:17:51Z |
 | 9        | 2.50 | 4   | 15.64    | 2023-04-24T06:28:28Z |
 | 10       | 2.80 | 4   | 18.10    | 2023-04-27T18:09:31Z |
 | 11       | 2.50 | 2   | 2.00     | 2023-04-05T15:22:40Z |
@@ -115,5 +115,5 @@ The lone and level sands stretch far away."<br />
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ozymandias.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Ozymandias&oldid=1073932979">https://en.wikipedia.org/w/index.php?title=Ozymandias&#38;oldid=1073932979</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ozymandias.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Ozymandias&oldid=1073932979">https://en.wikipedia.org/w/index.php?title=Ozymandias&#38;oldid=1073932979</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Symbolic expression"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:13:00-07:00
-lastmod = 2023-08-02T12:39:05-07:00
+lastmod = 2023-09-24T10:49:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -53,7 +53,7 @@ slug = "976fb83d-ae8c-427d-b47e-f0089b4d9ce1"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | back     | 2.35 | 7   | 181.31   | 2023-10-09T23:43:07Z |
-| front    | 2.20 | 7   | 223.47   | 2023-09-02T01:38:18Z |
+| front    | 2.20 | 8   | 526.38   | 2025-02-12T03:12:57Z |
 
 [Symbolic expression]({{< relref "symbolic_expression.md" >}})
 
@@ -70,7 +70,7 @@ Either an [Atom]({{< relref "atom.md" >}}) or an expression of the form `(x . y)
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“S-Expression.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=S-expression&oldid=1070385728">https://en.wikipedia.org/w/index.php?title=S-expression&#38;oldid=1070385728</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“S-Expression.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=S-expression&oldid=1070385728">https://en.wikipedia.org/w/index.php?title=S-expression&#38;oldid=1070385728</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Socratic questioning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T18:46:00-07:00
-lastmod = 2023-08-02T12:29:33-07:00
+lastmod = 2023-09-24T10:46:13-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -157,7 +157,7 @@ A form of disciplined questioning credited to Socrates's teaching style.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.20 | 8   | 292.38   | 2024-05-02T23:20:29Z |
-| back     | 1.30 | 8   | 21.74    | 2023-08-16T20:53:08Z |
+| back     | 1.30 | 3   | 6.00     | 2023-09-13T14:31:07Z |
 
 [Challenge assumptions](#challenge-assumptions)
 
@@ -222,7 +222,7 @@ A form of disciplined questioning credited to Socrates's teaching style.
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 277.09   | 2024-02-18T14:43:45Z |
-| back     | 2.95 | 6   | 147.63   | 2023-08-04T18:24:58Z |
+| back     | 2.95 | 7   | 415.46   | 2024-09-24T02:48:29Z |
 
 [Consider implications and consequences](#consider-implications-and-consequences)
 
@@ -265,7 +265,7 @@ A form of disciplined questioning credited to Socrates's teaching style.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 134.15   | 2023-08-14T01:12:26Z |
+| front    | 1.75 | 3   | 6.00     | 2023-09-20T15:16:54Z |
 
 -   Cats: [Clarifying concepts](#clarifying-concepts)
 -   Always: [Challenge assumptions](#challenge-assumptions)
@@ -282,7 +282,7 @@ Me
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Socratic Questioning.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Socratic_questioning&oldid=1094473273">https://en.wikipedia.org/w/index.php?title=Socratic_questioning&#38;oldid=1094473273</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Socratic Questioning.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Socratic_questioning&oldid=1094473273">https://en.wikipedia.org/w/index.php?title=Socratic_questioning&#38;oldid=1094473273</a>.</div>
 </div>
 
 

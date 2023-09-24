@@ -2,7 +2,7 @@
 title = "Status quo"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:22:00-08:00
-lastmod = 2023-08-02T12:34:53-07:00
+lastmod = 2023-09-24T10:47:45-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -36,7 +36,7 @@ slug = "dd143af0-9e37-4b8c-8d9a-53a96b43cf53"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Status Quo.” 2022. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=status_quo&oldid=69540341#English">https://en.wiktionary.org/w/index.php?title=status_quo&#38;oldid=69540341#English</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Status Quo.” 2022. In <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=status_quo&oldid=69540341#English">https://en.wiktionary.org/w/index.php?title=status_quo&#38;oldid=69540341#English</a>.</div>
 </div>
 
 

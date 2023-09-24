@@ -2,7 +2,7 @@
 title = "Keith Baar | Using Molecular Biology to Maximize Concurrent Training"
 author = ["Cash Weaver"]
 date = 2023-06-23T18:04:00-07:00
-lastmod = 2023-08-02T11:22:58-07:00
+lastmod = 2023-09-24T10:23:16-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -62,7 +62,7 @@ I've integrated this into my [Exercise program]({{< relref "exercise_program.md"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Baar, Keith. 2014. “Using Molecular Biology to Maximize Concurrent Training.” <i>Sports Medicine (Auckland, N.Z.)</i> 44 (Suppl 2): 117–25. <a href="https://doi.org/10.1007/s40279-014-0252-0">https://doi.org/10.1007/s40279-014-0252-0</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Baar, Keith. 2014. “Using Molecular Biology to Maximize Concurrent Training.” <i>Sports Medicine (Auckland, N.Z.)</i> 44: 117–25. <a href="https://doi.org/10.1007/s40279-014-0252-0">https://doi.org/10.1007/s40279-014-0252-0</a>.</div>
 </div>
 
 

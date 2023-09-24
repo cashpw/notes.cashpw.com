@@ -2,7 +2,7 @@
 title = "Alpha (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:36:00-08:00
-lastmod = 2023-08-02T10:34:20-07:00
+lastmod = 2023-09-24T09:53:02-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,5 +49,5 @@ A measure of the performance of an investment compared against a suitable market
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Alpha (Finance).” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Alpha_(finance)&oldid=1074486022">https://en.wikipedia.org/w/index.php?title=Alpha_(finance)&#38;oldid=1074486022</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Alpha (Finance).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Alpha_(finance)&oldid=1074486022">https://en.wikipedia.org/w/index.php?title=Alpha_(finance)&#38;oldid=1074486022</a>.</div>
 </div>

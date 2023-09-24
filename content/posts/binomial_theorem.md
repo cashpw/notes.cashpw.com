@@ -2,7 +2,7 @@
 title = "Binomial theorem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-19T09:49:00-08:00
-lastmod = 2023-08-02T10:37:09-07:00
+lastmod = 2023-09-24T09:56:16-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -38,8 +38,8 @@ slug = "e3806f4b-94b7-443e-8e7e-278fe8a2781c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 122.06   | 2023-08-09T17:07:00Z |
-| 1        | 1.75 | 4   | 10.94    | 2023-08-04T02:42:18Z |
+| 0        | 2.50 | 7   | 304.24   | 2024-06-09T06:28:48Z |
+| 1        | 1.30 | 4   | 7.71     | 2023-09-22T08:27:27Z |
 
 {{\\((x+y)^{n}\\)}@0} \\(=\\) {{\\(\sum \_{k=0}^{n}{n \choose k}x^{k}y^{n-k}\\)}{summation}@1}
 
@@ -53,7 +53,7 @@ slug = "e3806f4b-94b7-443e-8e7e-278fe8a2781c"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 1.75 | 7   | 54.57    | 2023-09-09T03:38:12Z |
+| front    | 1.75 | 8   | 95.42    | 2023-12-14T09:09:15Z |
 | back     | 2.20 | 7   | 207.64   | 2024-02-23T15:21:23Z |
 
 [Binomial theorem]({{< relref "binomial_theorem.md" >}})
@@ -106,7 +106,7 @@ $$
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binomial Theorem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Binomial_theorem&oldid=1133606899">https://en.wikipedia.org/w/index.php?title=Binomial_theorem&#38;oldid=1133606899</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binomial Theorem.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Binomial_theorem&oldid=1133606899">https://en.wikipedia.org/w/index.php?title=Binomial_theorem&#38;oldid=1133606899</a>.</div>
 </div>
 
 

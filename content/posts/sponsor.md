@@ -2,9 +2,9 @@
 title = "Sponsor"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-03T11:19:00-08:00
-lastmod = 2023-08-02T12:32:55-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:47:11-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "0979614d-3fe7-443c-844f-22fa71465ba1"
 +++
@@ -17,5 +17,5 @@ One who advocates for another.
 
 ## Backlinks {#backlinks}
 
--   [Mentors face inward]({{< relref "mentors_face_inward.md" >}})
 -   [Sponsors face outward]({{< relref "sponsors_face_outward.md" >}})
+-   [Mentors face inward]({{< relref "mentors_face_inward.md" >}})

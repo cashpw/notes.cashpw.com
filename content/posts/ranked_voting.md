@@ -2,7 +2,7 @@
 title = "Ranked voting"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T10:12:00-08:00
-lastmod = 2023-08-02T12:10:53-07:00
+lastmod = 2023-09-24T10:40:42-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,7 +39,7 @@ Voting system in which voters declare their relative candidate preferences.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ranked Voting.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Ranked_voting&oldid=1132688305">https://en.wikipedia.org/w/index.php?title=Ranked_voting&#38;oldid=1132688305</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ranked Voting.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Ranked_voting&oldid=1132688305">https://en.wikipedia.org/w/index.php?title=Ranked_voting&#38;oldid=1132688305</a>.</div>
 </div>
 
 

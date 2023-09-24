@@ -2,7 +2,7 @@
 title = "3sum solution in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T16:26:00-08:00
-lastmod = 2023-08-02T10:32:53-07:00
+lastmod = 2023-09-24T09:50:40-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -62,7 +62,7 @@ print(three_sum([2,3,4,5,2], 6), 'should be None')
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 36.24    | 2023-09-05T05:26:01Z |
+| front    | 2.35 | 6   | 79.22    | 2023-12-06T04:24:09Z |
 
 Given a list of real numbers, `nums`, and a target value, `target`: return a list of three elements in `nums` which sum to `target`.
 

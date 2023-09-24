@@ -2,9 +2,9 @@
 title = "Reactive programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:50:00-07:00
-lastmod = 2023-08-02T12:11:39-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:40:53-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "f75ac439-6ecc-427c-ad1c-3d3428bc430a"
 +++

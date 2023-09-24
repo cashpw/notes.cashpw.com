@@ -2,7 +2,7 @@
 title = "Centering matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T09:48:00-07:00
-lastmod = 2023-08-02T10:40:45-07:00
+lastmod = 2023-09-24T09:59:56-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ slug = "87b4549f-d8f7-44ec-b11e-4fa14166f157"
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.50 | 14  | 569.22   | 2025-01-17T22:31:39Z |
-| 1        | 2.05 | 3   | 6.00     | 2023-07-30T03:54:49Z |
+| 1        | 1.90 | 6   | 35.51    | 2023-10-23T11:29:58Z |
 
 [Centering matrix]({{< relref "centering_matrix.md" >}})
 
@@ -91,8 +91,8 @@ A symmetric and idempotent matrix which, when multiplied by a vector, has the sa
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 3   | 6.00     | 2023-08-05T23:51:13Z |
-| 1        | 2.50 | 3   | 6.00     | 2023-08-07T01:24:04Z |
+| 0        | 2.20 | 5   | 32.22    | 2023-09-26T20:29:59Z |
+| 1        | 2.50 | 5   | 35.97    | 2023-10-02T13:02:24Z |
 
 
 #### Source {#source}
@@ -102,7 +102,7 @@ A symmetric and idempotent matrix which, when multiplied by a vector, has the sa
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Centering Matrix.” 2021. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Centering_matrix&oldid=1027624781">https://en.wikipedia.org/w/index.php?title=Centering_matrix&#38;oldid=1027624781</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Centering Matrix.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Centering_matrix&oldid=1027624781">https://en.wikipedia.org/w/index.php?title=Centering_matrix&#38;oldid=1027624781</a>.</div>
 </div>
 
 

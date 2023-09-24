@@ -2,7 +2,7 @@
 title = "Matching pennies"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T12:10:00-08:00
-lastmod = 2023-08-02T11:35:15-07:00
+lastmod = 2023-09-24T10:29:18-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,8 @@ slug = "24c39c95-3f91-4e42-81e6-7eb87eb24546"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.95 | 6   | 136.99   | 2023-08-20T16:24:59Z |
-| back     | 2.20 | 5   | 33.80    | 2023-09-02T19:09:36Z |
+| front    | 2.80 | 7   | 353.29   | 2024-08-08T19:52:07Z |
+| back     | 2.05 | 6   | 63.93    | 2023-11-07T16:14:11Z |
 
 [Matching pennies]({{< relref "matching_pennies.md" >}})
 
@@ -59,7 +59,7 @@ Using a predictable strategy in this matching game will lead to loss as your opp
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Matching Pennies.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Matching_pennies&oldid=1117335940">https://en.wikipedia.org/w/index.php?title=Matching_pennies&#38;oldid=1117335940</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Matching Pennies.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Matching_pennies&oldid=1117335940">https://en.wikipedia.org/w/index.php?title=Matching_pennies&#38;oldid=1117335940</a>.</div>
 </div>
 
 

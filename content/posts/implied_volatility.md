@@ -2,9 +2,9 @@
 title = "Implied volatility"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:08:00-08:00
-lastmod = 2023-08-02T11:12:09-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:18:45-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "7b2744d7-c760-474b-97ef-120da8b4220f"
 +++
@@ -31,8 +31,8 @@ slug = "7b2744d7-c760-474b-97ef-120da8b4220f"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Implied Volatility.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Implied_volatility&oldid=1100503541">https://en.wikipedia.org/w/index.php?title=Implied_volatility&#38;oldid=1100503541</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Volatility (Finance).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Volatility_(finance)&oldid=1116100450">https://en.wikipedia.org/w/index.php?title=Volatility_(finance)&#38;oldid=1116100450</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Implied Volatility.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Implied_volatility&oldid=1100503541">https://en.wikipedia.org/w/index.php?title=Implied_volatility&#38;oldid=1100503541</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Volatility (Finance).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Volatility_(finance)&oldid=1116100450">https://en.wikipedia.org/w/index.php?title=Volatility_(finance)&#38;oldid=1116100450</a>.</div>
 </div>
 
 

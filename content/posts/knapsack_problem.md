@@ -2,9 +2,9 @@
 title = "Knapsack problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T09:25:00-08:00
-lastmod = 2023-08-02T11:24:03-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:23:52-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "24b10601-c88f-46fc-bbf9-3f7687c2d2ba"
 +++
@@ -79,7 +79,7 @@ Given a set of items, each with a weight and a value, determine which items to i
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Knapsack Problem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Knapsack_problem&oldid=1136320436">https://en.wikipedia.org/w/index.php?title=Knapsack_problem&#38;oldid=1136320436</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Knapsack Problem.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Knapsack_problem&oldid=1136320436">https://en.wikipedia.org/w/index.php?title=Knapsack_problem&#38;oldid=1136320436</a>.</div>
 </div>
 
 

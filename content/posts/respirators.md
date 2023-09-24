@@ -2,7 +2,7 @@
 title = "Respirators"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T14:47:00-08:00
-lastmod = 2023-08-02T12:15:18-07:00
+lastmod = 2023-09-24T10:41:58-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -72,7 +72,7 @@ See [Use the right respirator]({{< relref "use_the_right_respirator.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.35 | 7   | 205.42   | 2024-01-27T14:19:23Z |
-| 1        | 2.65 | 6   | 105.50   | 2023-08-20T05:45:07Z |
+| 1        | 2.50 | 7   | 281.19   | 2024-06-02T19:21:02Z |
 
 ([Respirators]({{< relref "respirators.md" >}})) {{N}@0} stands for {{not resistant to oil}@1}
 
@@ -86,8 +86,8 @@ See [Use the right respirator]({{< relref "use_the_right_respirator.md" >}}).
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 114.56   | 2023-08-23T08:01:13Z |
-| 1        | 2.65 | 6   | 109.79   | 2023-08-27T11:45:29Z |
+| 0        | 2.80 | 7   | 299.95   | 2024-06-22T12:05:58Z |
+| 1        | 2.80 | 7   | 305.83   | 2024-06-30T11:06:34Z |
 
 ([Respirators]({{< relref "respirators.md" >}})) {{R}@0} stands for {{resistant to oil}@1}
 
@@ -102,7 +102,7 @@ See [Use the right respirator]({{< relref "use_the_right_respirator.md" >}}).
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | 0        | 2.80 | 6   | 149.78   | 2023-09-28T18:13:01Z |
-| 1        | 2.65 | 6   | 120.28   | 2023-09-07T22:34:08Z |
+| 1        | 2.20 | 4   | 12.89    | 2023-10-01T13:09:18Z |
 
 ([Respirators]({{< relref "respirators.md" >}})) {{P}@0} stands for {{oil proof}@1}
 

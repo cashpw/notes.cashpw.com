@@ -2,7 +2,7 @@
 title = "Mentors face inward"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:10:00-08:00
-lastmod = 2023-08-02T11:38:20-07:00
+lastmod = 2023-09-24T10:30:47-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "40d6bbef-ec19-45e2-9fe2-bf6de3c8aded"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 141.17   | 2023-08-21T21:03:07Z |
+| front    | 2.05 | 8   | 277.28   | 2024-05-28T21:54:47Z |
 
 [Mentors]({{< relref "mentors.md" >}}) and [Sponsors]({{< relref "sponsor.md" >}}) (direction)
 
@@ -39,8 +39,8 @@ slug = "40d6bbef-ec19-45e2-9fe2-bf6de3c8aded"
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 154.18   | 2023-09-18T20:06:53Z |
-| back     | 2.20 | 7   | 146.14   | 2023-09-02T19:03:48Z |
+| front    | 2.20 | 8   | 311.29   | 2024-07-27T06:44:36Z |
+| back     | 2.05 | 8   | 282.84   | 2024-06-13T14:03:58Z |
 
 [Mentors face inward]({{< relref "mentors_face_inward.md" >}})
 
@@ -55,11 +55,11 @@ Mentors seek to improve their mentee directly.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allspaw, John. n.d. “On Being A Senior Engineer.” <i>Kitchen Soap</i>. Accessed February 21, 2022. <a href="https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allspaw, John. n.d. “On Being A Senior Engineer.” Kitchen Soap. Accessed February 21, 2022. <a href="https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})
 -   [Sponsors face outward]({{< relref "sponsors_face_outward.md" >}})
+-   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})

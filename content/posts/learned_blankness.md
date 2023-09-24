@@ -2,7 +2,7 @@
 title = "Learned blankness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T08:38:00-08:00
-lastmod = 2023-08-02T11:26:46-07:00
+lastmod = 2023-09-24T10:25:14-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,7 +26,7 @@ Related: [Cargo cult]({{< relref "cargo_cult.md" >}})
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.80 | 7   | 375.35   | 2024-06-29T23:40:00Z |
-| back     | 1.45 | 2   | 2.00     | 2023-08-02T00:01:13Z |
+| back     | 1.30 | 6   | 15.24    | 2023-09-22T20:13:45Z |
 
 [Learned blankness]({{< relref "learned_blankness.md" >}})
 
@@ -43,7 +43,7 @@ A state of mind characterized by the lack of a drive to understand. Those exhibi
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. 2011. “Learned Blankness.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness">https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. 2011. “Learned Blankness.” Less Wrong. April 18, 2011. <a href="https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness">https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness</a>.</div>
 </div>
 
 

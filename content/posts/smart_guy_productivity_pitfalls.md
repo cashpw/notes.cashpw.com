@@ -2,7 +2,7 @@
 title = "Smart Guy Productivity Pitfalls"
 author = ["Cash Weaver"]
 date = 2022-12-20T10:22:00-08:00
-lastmod = 2023-08-02T12:28:48-07:00
+lastmod = 2023-09-24T10:45:58-07:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -18,6 +18,8 @@ The simplicity of "Work smart, not hard" is deceptive. It's too easy to conclude
 
 
 ## Thoughts {#thoughts}
+
+This is one of my [Favorites]({{< relref "favorites.md" >}}).
 
 I feel seen by this years-old blog post and it's unpleasant. Particularly:
 
@@ -113,8 +115,8 @@ I disagree with the author's assessment that solutions such as "turning off the 
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 32.73    | 2023-08-20T07:13:25Z |
-| back     | 2.50 | 5   | 40.95    | 2023-09-02T02:41:54Z |
+| front    | 2.50 | 6   | 88.83    | 2023-11-17T11:56:19Z |
+| back     | 2.20 | 4   | 13.81    | 2023-10-01T18:33:53Z |
 
 [Smart Guy Productivity Pitfalls]({{< relref "smart_guy_productivity_pitfalls.md" >}})
 
@@ -123,6 +125,7 @@ I disagree with the author's assessment that solutions such as "turning off the 
 
 -   "Work smart, not hard" is better phrased as: "Work smart **and** hard"
 -   Don't waste your effort but recognize you **still need to put in effort**
+-   An overinflated sense of your own abilities creates a constant state of production deficit, because you assume that you can make it up with a burst of brilliance and/or crunch.
 
 
 #### Source {#source}
@@ -134,8 +137,3 @@ I disagree with the author's assessment that solutions such as "turning off the 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Smart Guy Productivity Pitfalls.” n.d. Accessed December 20, 2022. <a href="http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html">http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html</a>.</div>
 </div>
-
-
-## Backlinks {#backlinks}
-
--   [Favorites]({{< relref "favorites.md" >}})

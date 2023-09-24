@@ -2,7 +2,7 @@
 title = "Slack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:08:00-08:00
-lastmod = 2023-08-02T12:28:31-07:00
+lastmod = 2023-09-24T10:45:54-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -40,7 +40,7 @@ Informally, a surplus which gives one wiggle room. It's usually in the context o
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 230.56   | 2024-03-02T03:37:23Z |
-| back     | 2.80 | 6   | 106.21   | 2023-08-13T19:43:33Z |
+| back     | 2.65 | 7   | 261.76   | 2024-05-09T07:03:54Z |
 
 [Slack]({{< relref "slack.md" >}})
 
@@ -59,8 +59,8 @@ Informally, a surplus which gives one wiggle room. It's usually in the context o
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 142.54   | 2023-09-18T11:32:09Z |
-| back     | 2.80 | 6   | 131.93   | 2023-09-18T15:12:52Z |
+| front    | 2.65 | 7   | 396.17   | 2024-10-18T19:45:21Z |
+| back     | 2.95 | 7   | 359.89   | 2024-09-13T21:13:58Z |
 
 ... is the absence of binding constraints on behavior. It is
 
@@ -110,5 +110,5 @@ Lack of {{[Slack]({{< relref "slack.md" >}})}@0} compounds and traps.
 
 ## Backlinks {#backlinks}
 
--   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
 -   [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
+-   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})

@@ -2,9 +2,9 @@
 title = "Be curious"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T16:39:00-07:00
-lastmod = 2023-08-02T10:35:53-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T09:55:01-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "279afdb0-48ca-4542-94f1-d20add351cae"
 +++

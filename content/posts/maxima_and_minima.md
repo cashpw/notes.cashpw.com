@@ -2,7 +2,7 @@
 title = "Maxima and minima"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:17:00-08:00
-lastmod = 2023-08-02T11:37:01-07:00
+lastmod = 2023-09-24T10:30:15-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -199,11 +199,11 @@ The largest output of a function over some subset of the domain.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Maxima and Minima.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Maxima_and_minima&oldid=1076973581">https://en.wikipedia.org/w/index.php?title=Maxima_and_minima&#38;oldid=1076973581</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Maxima and Minima.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Maxima_and_minima&oldid=1076973581">https://en.wikipedia.org/w/index.php?title=Maxima_and_minima&#38;oldid=1076973581</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Derivative (math)]({{< relref "derivative.md" >}})
 -   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Derivative (math)]({{< relref "derivative.md" >}})

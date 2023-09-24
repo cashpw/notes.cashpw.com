@@ -2,9 +2,9 @@
 title = "Things you're allowed to do"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:52:00-08:00
-lastmod = 2023-08-02T12:50:14-07:00
-tags = ["has-todo", "concept", "has-todo", "concept"]
-categories = ["has-todo", "concept"]
+lastmod = 2023-09-24T10:51:52-07:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "204ab57d-e532-47ef-87ca-e22ddd08092d"
 +++

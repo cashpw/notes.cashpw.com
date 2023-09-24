@@ -2,7 +2,7 @@
 title = "Queue"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2023-08-02T12:07:59-07:00
+lastmod = 2023-09-24T10:40:06-07:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -129,12 +129,12 @@ Common API of a [Queue]({{< relref "queue.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Queue (Abstract Data Type).” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&oldid=1090013688">https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&#38;oldid=1090013688</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Queue (Abstract Data Type).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&oldid=1090013688">https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&#38;oldid=1090013688</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Python library: queue]({{< relref "python_library_queue.md" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
+-   [Python library: queue]({{< relref "python_library_queue.md" >}})
 -   [Priority queue]({{< relref "priority_queue.md" >}})

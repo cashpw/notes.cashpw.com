@@ -2,9 +2,9 @@
 title = "dynomight | Plans You're Not Supposed to Talk about"
 author = ["Cash Weaver"]
 date = 2023-03-03T11:00:00-08:00
-lastmod = 2023-08-02T10:51:57-07:00
-tags = ["has-todo", "reference", "has-todo", "reference"]
-categories = ["has-todo", "reference"]
+lastmod = 2023-09-24T10:07:55-07:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "2b204585-f9f4-4378-8a63-39443c05f71f"
 +++
@@ -31,5 +31,5 @@ Related:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>dynomight. 2021. “Plans You’re Not Supposed to Talk About.” <i>Dynomight</i>. <a href="https://dynomight.net/plans/">https://dynomight.net/plans/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>dynomight. 2021. “Plans You’re Not Supposed to Talk About.” DYNOMIGHT. December 14, 2021. <a href="https://dynomight.net/plans/">https://dynomight.net/plans/</a>.</div>
 </div>
