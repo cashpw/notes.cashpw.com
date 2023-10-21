@@ -15,10 +15,6 @@
 {{- $scratch.Add "meta" (slice .) }}
 {{- end }}
 
-{{- with (partial "edit_post.html" .) }}
-{{- $scratch.Add "meta" (slice .) }}
-{{- end }}
-
 {{- with ($scratch.Get "meta") }}
 {{- delimit . "&nbsp;·&nbsp;" -}}
 {{- end -}}
