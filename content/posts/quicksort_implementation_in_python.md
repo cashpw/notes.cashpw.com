@@ -2,7 +2,7 @@
 title = "Quicksort implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T13:57:00-07:00
-lastmod = 2023-09-24T10:40:19-07:00
+lastmod = 2023-11-10T11:12:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -53,34 +53,6 @@ def quick_sort(ints: List[int], comparator: Callable[[id:int, int], bool]) -> Li
 a = [10, 15, 5, 8, 2, 1, 3, 9]
 print(quick_sort(a, lambda a, b: a <= b))
 ```
-
-
-## Flashcards {#flashcards}
-
-
-### Implement {#implement}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 199.36   | 2023-12-28T01:49:39Z |
-
-[Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
-
-
-#### Back {#back}
-
-[Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Quicksort” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quicksort.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Quicksort&oldid=1093780310">https://en.wikipedia.org/w/index.php?title=Quicksort&#38;oldid=1093780310</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,14 +2,14 @@
 title = "Ian Danskin | I Hate Mondays"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:29:00-07:00
-lastmod = 2023-09-24T10:04:37-07:00
+lastmod = 2023-11-10T10:38:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "d15c77d7-fde1-4f65-a68d-59a6a51ed7d1"
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2020</a>)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (Danskin 2020)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -52,18 +52,6 @@ I hate mondays is an embrace of coping strategies and a refusal to address a pro
 > The necessary counternarrative is to stress that the problems we face are not natural features of the world, that, in fact, very little of human life is natural, and, even if it were, what is natural is not necessarily what is right. The way nature deals with a pandemic is to let everyone without a genetic resistance to the illness die, and, if what's left is not a stable breeding population, you go extinct. That's natural. Humanity as we know it only exists in defiance nature. Every form of bigotry, every means of oppression, is a thing we created; they are human problems, and they have human solutions. They have not always existed and there are places in the world where they are being addressed. The idea that the worst things on Earth have no great significance, that most evil is a chaotic mess borne of human fallibility, can be very depressing to consider; it can also be empowering.
 >
 > This is a secular view. It can be reconciled with spirituality, but not with reactionary fundamentalism, which is the point. And it can be kind of baffling to have to assert that, when bad things happen, maybe we should do something about it? But you just can't take for granted that, when someone agrees a thing is bad, they're agreeing it's a problem.
-
-
-## Flashcards {#flashcards}
-
-
-### [I hate mondays]({{< relref "i_hate_mondays.md" >}}) {#i-hate-mondays--i-hate-mondays-dot-md}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2020. “I Hate Mondays.” Tumblr. Innuendo Studios. April 6, 2020. <a href="https://innuendostudios.tumblr.com/post/614651531972788224/the-alt-right-playbook-returns-triumphantly-with-a">https://innuendostudios.tumblr.com/post/614651531972788224/the-alt-right-playbook-returns-triumphantly-with-a</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

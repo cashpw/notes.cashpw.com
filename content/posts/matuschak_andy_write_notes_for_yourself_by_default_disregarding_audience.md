@@ -2,14 +2,14 @@
 title = "Andy Matuschak | Write Notes for Yourself by Default, Disregarding Audience"
 author = ["Cash Weaver"]
 date = 2023-08-03T08:07:00-07:00
-lastmod = 2023-09-24T10:30:10-07:00
+lastmod = 2023-11-10T11:04:34-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "2c8acd36-620a-47a7-8d3a-63594fd2065c"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (Matuschak n.d.)
 
 
 ## Notes {#notes}
@@ -25,12 +25,3 @@ slug = "2c8acd36-620a-47a7-8d3a-63594fd2065c"
 >
 > 3.  Why do I often find myself stuck when I try to write evergreen notes as publishable prose for an audience?<br />
 > 4.  When a topic is hard enough to distill on its own, the extra cognitive load of considering a reader overwhelms me.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Write Notes for Yourself by Default, Disregarding Audience.” Andy’s working notes. Accessed August 3, 2023. <a href="https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9">https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9</a>.</div>
-</div>

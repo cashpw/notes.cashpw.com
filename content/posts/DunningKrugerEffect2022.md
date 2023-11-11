@@ -2,7 +2,7 @@
 title = "Dunning-Kruger effect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:07:00-08:00
-lastmod = 2023-09-24T09:50:58-07:00
+lastmod = 2023-11-10T10:23:17-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -14,27 +14,7 @@ slug = "393d22dc-fb65-4f8c-9070-6973d6c9668e"
 > (<a href="#citeproc_bib_item_1">“Dunning–Kruger Effect” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 242.56   | 2024-01-11T05:52:18Z |
-| back     | 1.90 | 2   | 2.00     | 2023-09-21T23:54:47Z |
-
-[Dunning-Kruger effect]({{< relref "DunningKrugerEffect2022.md" >}})
-
-
-#### Back {#back}
-
-The [Cognitive bias]({{< relref "cognitive_bias.md" >}}) whereby people with low ability overestimate their ability. Those with high ability can also tend to underestimate their ability.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Dunning–Kruger Effect” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

@@ -2,14 +2,14 @@
 title = "Ilya Grigorik | High-Performance Browser Networking"
 author = ["Cash Weaver"]
 date = 2023-03-17T08:23:00-07:00
-lastmod = 2023-09-24T10:18:17-07:00
+lastmod = 2023-11-10T10:54:28-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "0b07906d-4880-4e86-ab7c-710b47104d82"
 +++
 
-[Ilya Grigorik]({{< relref "ilya_grigorik.md" >}}), (<a href="#citeproc_bib_item_1">Grigorik 2013</a>)
+[Ilya Grigorik]({{< relref "ilya_grigorik.md" >}}), (Grigorik 2013)
 
 
 ## Summary {#summary}
@@ -85,12 +85,3 @@ slug = "0b07906d-4880-4e86-ab7c-710b47104d82"
 
 
 #### WebRTC {#webrtc}
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Grigorik, Ilya. 2013. <i>High-Performance Browser Networking</i>. Beijing ; Sebastopol, CA: O’Reilly.</div>
-</div>

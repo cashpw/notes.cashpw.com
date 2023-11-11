@@ -2,7 +2,7 @@
 title = "Permutation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T07:35:00-08:00
-lastmod = 2023-09-24T10:37:29-07:00
+lastmod = 2023-11-10T11:09:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,77 +17,21 @@ slug = "cf4068b9-bda6-49c1-812a-0314945c4425"
 >
 > The number of permutations of n distinct objects is \\(n\\) factorial, usually written as \\(n!\\), which means the product of all positive integers less than or equal to \\(n\\).
 >
-> (<a href="#citeproc_bib_item_2">“Permutation” 2022</a>)
+> (<a href="#citeproc_bib_item_1">“Permutation” 2022</a>)
 
 Also see: [Combination]({{< relref "combination.md" >}})
 
 
-## Flashcards {#flashcards}
-
-
-### Compare and contrast {#compare-and-contrast}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 163.24   | 2023-12-28T19:36:02Z |
-
-[Combination]({{< relref "combination.md" >}}) and [Permutation]({{< relref "permutation.md" >}})
-
-
-#### Back {#back}
-
--   [Combination]({{< relref "combination.md" >}}): Order **doesn't** matter
--   [Permutation]({{< relref "permutation.md" >}}): Order **does** matter
-
-
-#### Source {#source}
-
--   (<a href="#citeproc_bib_item_2">“Permutation” 2022</a>)
--   (<a href="#citeproc_bib_item_1">“Combination” 2023</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 13.98    | 2023-10-01T22:38:08Z |
-| back     | 2.65 | 7   | 262.56   | 2024-05-28T05:46:20Z |
-
-[Permutation]({{< relref "permutation.md" >}})
-
-
-#### Back {#back}
-
-An ordering of a set of elements.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Permutation” 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 211.76   | 2024-03-25T09:16:05Z |
-
-There are {{\\(n!\\)}@0} permutations for a set of size \\(n\\).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Permutation” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Combination.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Combination&oldid=1135443908">https://en.wikipedia.org/w/index.php?title=Combination&#38;oldid=1135443908</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Permutation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Permutation&oldid=1125465268">https://en.wikipedia.org/w/index.php?title=Permutation&#38;oldid=1125465268</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Permutation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Permutation&oldid=1125465268">https://en.wikipedia.org/w/index.php?title=Permutation&#38;oldid=1125465268</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Combination]({{< relref "combination.md" >}})
 -   [My one-bag packing list]({{< relref "permutation.md" >}})
+-   [Combination]({{< relref "combination.md" >}})

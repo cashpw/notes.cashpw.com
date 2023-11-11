@@ -2,14 +2,14 @@
 title = "Eliezer Yudkowsky | Something to Protect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T17:19:00-08:00
-lastmod = 2023-09-24T10:08:27-07:00
+lastmod = 2023-11-10T10:43:10-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "ad3762f0-6d77-4289-baa7-4c3192b9c4b1"
 +++
 
-[Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}}), (<a href="#citeproc_bib_item_1">Yudkowsky 2008</a>)
+[Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}}), (Yudkowsky 2008)
 
 
 ## Notes {#notes}
@@ -39,16 +39,7 @@ slug = "ad3762f0-6d77-4289-baa7-4c3192b9c4b1"
 > Where do you get the will to keep moving forward?
 
 
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Yudkowsky, Eliezer. 2008. “Something to Protect.” Less Wrong. January 30, 2008. <a href="https://www.lesswrong.com/posts/SGR4GxFK7KmW7ckCB/something-to-protect">https://www.lesswrong.com/posts/SGR4GxFK7KmW7ckCB/something-to-protect</a>.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
--   [Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)]({{< relref "yudkowskyTsuyokuNaritaiWant2007.md" >}})
 -   [Power comes from having something to protect]({{< relref "power_comes_from_having_something_to_protect.md" >}})
+-   [Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)]({{< relref "yudkowskyTsuyokuNaritaiWant2007.md" >}})

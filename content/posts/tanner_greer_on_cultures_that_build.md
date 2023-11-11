@@ -2,14 +2,14 @@
 title = "Tanner Greer | On Cultures That Build"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:21:00-08:00
-lastmod = 2023-09-24T10:49:38-07:00
+lastmod = 2023-11-10T11:20:44-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "c4b17938-7653-4ff6-8c54-5b76904b1a5f"
 +++
 
-[Tanner Greer]({{< relref "tanner_greer.md" >}}), (<a href="#citeproc_bib_item_1">Greer 2020</a>)
+[Tanner Greer]({{< relref "tanner_greer.md" >}}), (Greer 2020)
 
 
 ## Summary {#summary}
@@ -19,15 +19,6 @@ slug = "c4b17938-7653-4ff6-8c54-5b76904b1a5f"
 
 
 ## Notes {#notes}
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2020. “On Cultures That Build.” The Scholar’s Stage. June 18, 2020. <a href="https://scholars-stage.org/on-cultures-that-build/">https://scholars-stage.org/on-cultures-that-build/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

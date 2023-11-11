@@ -1,8 +1,8 @@
 +++
-title = "Ceramics/Pottery Resources"
+title = "Ceramics Resources"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T20:16:00-08:00
-lastmod = 2023-09-24T10:00:04-07:00
+lastmod = 2023-11-10T10:32:54-08:00
 draft = false
 slug = "0b2473da-3953-457c-b68c-4abc7a235d17"
 +++
@@ -69,6 +69,3 @@ Tip: Wedge all the clay at once before dividing it into smaller balls. Example: 
 
 -   [Forms](https://www.pinterest.com/cashbweaver/ceramics/forms/)
 -   [Glaze and decor](https://www.pinterest.com/cashbweaver/ceramics/glazes-and-decor/)
-
-
-## Flashcards {#flashcards}

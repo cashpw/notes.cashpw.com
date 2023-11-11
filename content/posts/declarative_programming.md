@@ -2,7 +2,7 @@
 title = "Declarative programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:49:00-07:00
-lastmod = 2023-09-24T10:05:24-07:00
+lastmod = 2023-11-10T10:39:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,27 +22,7 @@ slug = "f234a51d-23e4-4050-bf2c-60895a99ee12"
 > (<a href="#citeproc_bib_item_1">“Declarative Programming” 2023</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 92.28    | 2023-10-14T07:31:38Z |
-| back     | 1.30 | 5   | 10.31    | 2023-09-28T23:12:09Z |
-
-[Declarative programming]({{< relref "declarative_programming.md" >}})
-
-
-#### Back {#back}
-
-A [Programming paradigm]({{< relref "programming_paradigm.md" >}}) in which the author describes the desired result without explicitly listing commands or steps to be performed.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Declarative Programming” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 

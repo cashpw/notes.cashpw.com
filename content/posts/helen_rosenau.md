@@ -2,15 +2,12 @@
 title = "Helen Rosenau"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-25T16:01:00-07:00
-lastmod = 2023-09-24T10:16:13-07:00
+lastmod = 2023-11-10T10:52:05-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "4323fec3-9196-479f-a4de-b5686ede0bc4"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

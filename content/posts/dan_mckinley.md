@@ -2,15 +2,12 @@
 title = "Dan McKinley"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:22:00-08:00
-lastmod = 2023-09-24T10:04:05-07:00
+lastmod = 2023-11-10T10:37:58-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "19926ee0-23db-4536-83c1-3bf90fd9f5f4"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

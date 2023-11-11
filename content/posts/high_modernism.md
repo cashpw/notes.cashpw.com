@@ -2,7 +2,7 @@
 title = "High modernism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T06:22:00-08:00
-lastmod = 2023-09-24T10:16:36-07:00
+lastmod = 2023-11-10T10:52:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,27 +22,7 @@ slug = "94f5d6dd-a97a-45af-be05-4e7096dea51a"
 > (<a href="#citeproc_bib_item_1">Alexander 2017</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.80 | 13  | 279.50   | 2023-10-06T04:56:19Z |
-| front    | 2.20 | 7   | 132.94   | 2024-01-10T11:13:55Z |
-
-[High modernism]({{< relref "high_modernism.md" >}})
-
-
-#### Back {#back}
-
-A form of modernity, characterized by an unfaltering confidence in science and technology as means to reorder the social and natural world. Includes a disregard for historical, geographical, and social context in development.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“High Modernism” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

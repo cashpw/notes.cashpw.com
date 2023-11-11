@@ -2,7 +2,7 @@
 title = "Ray Dalio"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T07:25:00-08:00
-lastmod = 2023-09-24T10:40:43-07:00
+lastmod = 2023-11-10T11:12:46-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -13,9 +13,6 @@ Among other things:
 
 
 ## :noexport: {#noexport}
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

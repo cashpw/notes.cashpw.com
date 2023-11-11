@@ -2,9 +2,9 @@
 title = "Fernando Borretti | Effective Spaced Repetition"
 author = ["Cash Weaver"]
 date = 2023-04-11T15:21:00-07:00
-lastmod = 2023-09-24T10:10:21-07:00
-tags = ["hastodo", "reference", "hastodo", "reference"]
-categories = ["hastodo", "reference"]
+lastmod = 2023-11-10T10:45:19-08:00
+tags = ["reference", "reference"]
+categories = ["reference"]
 draft = false
 slug = "ec2a6f22-dad5-4615-a2a9-c5313229ff5d"
 +++
@@ -14,7 +14,7 @@ slug = "ec2a6f22-dad5-4615-a2a9-c5313229ff5d"
 
 ## Summary {#summary}
 
-On [Spaced repetition]({{< relref "spaced_repetition.md" >}}).
+Guidelines for effective [Spaced repetition]({{< relref "spaced_repetition.md" >}}). See [On writing cards]({{< relref "fernando_borretti_effective_spaced_repetition.md#on-writing-cards" >}}).
 
 
 ## Thoughts {#thoughts}
@@ -196,7 +196,7 @@ Another type of card you might use (I use this to memorize poems) is a card that
 The [poetry script](https://borretti.me/article/effective-spaced-repetition#poetry-script) can generate these for you.
 
 
-## Flashcards {#flashcards}
+## Bibliography {#bibliography}
 
 ## References
 

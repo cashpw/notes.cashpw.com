@@ -2,7 +2,7 @@
 title = "Strike price"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T06:30:00-08:00
-lastmod = 2023-09-24T10:48:14-07:00
+lastmod = 2023-11-10T11:19:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,43 +14,7 @@ slug = "a4a360b0-9898-4d9b-a0f0-c84a6ae07f42"
 > (<a href="#citeproc_bib_item_1">“Strike Price” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition (Finance) {#definition--finance}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.65 | 8   | 439.83   | 2024-06-01T13:29:07Z |
-| front    | 2.65 | 9   | 636.86   | 2025-04-21T00:45:00Z |
-
-[Strike price]({{< relref "strike_price.md" >}})
-
-
-#### Back {#back}
-
-The price in a derivative contract at which the owner can buy or sell the underlying asset when exercising the contract.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Strike Price” 2022</a>)
-
-
-### AKA {#aka}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 11  | 286.95   | 2023-11-09T13:55:23Z |
-| 1        | 2.80 | 8   | 337.31   | 2024-01-27T11:22:36Z |
-
--   {{[Strike price]({{< relref "strike_price.md" >}})}@0}
--   {{[Exercise price]({{< relref "strike_price.md" >}})}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Strike Price” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

@@ -2,14 +2,14 @@
 title = "Tanya Reilly | The Staff Engineer's Path"
 author = ["Cash Weaver"]
 date = 2023-03-18T13:26:00-07:00
-lastmod = 2023-09-24T10:49:51-07:00
+lastmod = 2023-11-10T11:20:57-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "bc1937f1-31ce-41cc-ba0b-dedaac9334b5"
 +++
 
-[Tanya Reilly]({{< relref "tanya_reilly.md" >}}), (<a href="#citeproc_bib_item_3">Reilly 2022</a>)
+[Tanya Reilly]({{< relref "tanya_reilly.md" >}}), (Reilly 2022)
 
 
 ## Read next section: [Topographical map (Staff Engineer's Path)]({{< relref "topographical_map_staff_engineer_s_path.md" >}}) {#read-next-section-topographical-map--staff-engineer-s-path----topographical-map-staff-engineer-s-path-dot-md}
@@ -376,7 +376,7 @@ See [Locator map (Staff Engineer's Path)]({{< relref "locator_map_staff_engineer
 
 <!--list-separator-->
 
--  Read (<a href="#citeproc_bib_item_1">Larson 2022</a>)
+-  Read (Larson 2022)
 
 <!--list-separator-->
 
@@ -388,7 +388,7 @@ See [Locator map (Staff Engineer's Path)]({{< relref "locator_map_staff_engineer
 
         <!--list-separator-->
 
-        -  Read (<a href="#citeproc_bib_item_2">Na n.d.</a>)
+        -  Read (Na n.d.)
 
     <!--list-separator-->
 
@@ -2158,90 +2158,10 @@ See [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< rel
 ### Index {#index}
 
 
-## Flashcards {#flashcards}
-
-
-### Compare and contrast {#compare-and-contrast}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.05 | 7   | 99.56    | 2023-11-27T12:51:54Z |
-
-An engineer's relationship with management at the junior, senior, and staff+ levels.
-
-
-#### Back {#back}
-
--   Junior engineers ask for work from management and then execute on it
--   Senior engineers ask for problems from management and provide solutions for those problems
--   Staff+ engineers collaborate/consult management to autonomously identify problems **and** provide solutions
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">Reilly 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 118.90   | 2023-10-09T21:47:34Z |
-
-Staff+ engineering is a {{leadership}@0} role.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">Reilly 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 1.45 | 8   | 52.39    | 2023-10-17T00:30:12Z |
-| 1        | 2.65 | 6   | 105.45   | 2023-10-03T07:28:14Z |
-| 2        | 2.65 | 6   | 94.71    | 2023-10-11T08:03:27Z |
-
-Pillars of staff engineering, according to [Tanya Reilly]({{< relref "tanya_reilly.md" >}}):
-
-1.  {{[Big-picture thinking (Staff Engineer's Path)]({{< relref "big_picture_thinking_staff_engineer_s_path.md" >}})}@0}
-2.  {{[Execution (Staff Engineer's Path)]({{< relref "execution_staff_engineer_s_path.md" >}})}@1}
-3.  {{[Leveling up (Staff Engineer's Path)]({{< relref "leveling_up_staff_engineer_s_path.md" >}})}@2}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">Reilly 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 7   | 101.24   | 2023-12-28T04:45:32Z |
-
-{{[Tanya Reilly]({{< relref "tanya_reilly.md" >}})}@0} wrote [The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}}).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">Reilly 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Larson, Will. 2022. “’Drawing Your Three Maps’ Exercise.” September 4, 2022. <a href="https://lethain.com/exercise-draw-three-maps/">https://lethain.com/exercise-draw-three-maps/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Na, Dan. n.d. “Pushing Through Friction.” Accessed June 6, 2023. <a href="https://blog.danielna.com/talks/pushing-through-friction/">https://blog.danielna.com/talks/pushing-through-friction/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Reilly, Tanya. 2022. <i>The Staff Engineer’s Path: A Guide for Individual Contributors Navigating Growth and Change</i>. Sebastopol, CA: O’Reilly Media.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
 -   [Will Larson | 'Drawing Your Three Maps' Exercise]({{< relref "will_larson_drawing_your_three_maps_exercise.md" >}})
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [Tanya Reilly]({{< relref "tanya_reilly.md" >}})
 -   [My one-bag packing list]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Locator map (Staff Engineer's Path)]({{< relref "locator_map_staff_engineer_s_path.md" >}})
--   [Tanya Reilly]({{< relref "tanya_reilly.md" >}})
+-   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})

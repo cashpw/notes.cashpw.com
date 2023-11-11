@@ -2,7 +2,7 @@
 title = "Florian Gadsby"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:56:00-08:00
-lastmod = 2023-09-24T10:11:08-07:00
+lastmod = 2023-11-10T10:46:10-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -14,9 +14,6 @@ One of the [Ceramists I follow]({{< relref "ceramists_potters_i_follow.md" >}}).
 Among other things:
 
 -   [On YouTube](https://www.youtube.com/c/FlorianGadsbyCeramics)
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

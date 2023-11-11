@@ -2,7 +2,7 @@
 title = "Focus as magic"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-14T15:23:00-07:00
-lastmod = 2023-09-24T10:11:20-07:00
+lastmod = 2023-11-10T10:46:25-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -23,13 +23,4 @@ I like the idea that focus, concentration, attention, quiet, darkness, stillness
 >
 > "Will another type of magic disappear?" Kokiri lamented. In the olden days, witches could use all sorts of magic. But over the years, one type after another disappeared, until even a genuine witch like Kokiri was left with only two abilities. Now her daughter hated one of them, so it was no wonder she was upset.
 >
-> (<a href="#citeproc_bib_item_1">Kadono, Onoda, and Balistrieri 2020</a>)
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kadono, Eiko, Yuta Onoda, and Emily Balistrieri. 2020. <i>Kiki’s Delivery Service</i>. First edition. New York: Delacorte Press.</div>
-</div>
+> (Kadono, Onoda, and Balistrieri 2020)

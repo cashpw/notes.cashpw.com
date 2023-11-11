@@ -2,14 +2,16 @@
 title = "Allen Ginsberg | Howl"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:20:00-07:00
-lastmod = 2023-09-24T10:13:41-07:00
+lastmod = 2023-11-10T10:49:06-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
 slug = "de31b59e-2fed-49c0-82ff-22d6f86fc48d"
 +++
 
-[Allen Ginsberg]({{< relref "allen_ginsberg.md" >}}), (<a href="#citeproc_bib_item_1">Ginsberg 2022</a>)
+[Allen Ginsberg]({{< relref "allen_ginsberg.md" >}}), (Ginsberg 2022)
+
+One of my [Favorites]({{< relref "favorites.md" >}}).
 
 
 ## I {#i}
@@ -167,37 +169,3 @@ I'm with you in Rockland<br />
 </div>
 
 [Footnote to Howl]({{< relref "footnote_to_howl.md" >}})
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 299.49   | 2024-04-04T03:19:27Z |
-| back     | 2.65 | 7   | 277.93   | 2024-03-10T12:56:35Z |
-
-[Howl (Poem)]({{< relref "ginsbergHowl2022.md" >}})
-
-
-#### Back {#back}
-
--   Poem about [Moloch]({{< relref "moloch.md" >}})
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Ginsberg 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ginsberg, Allen. 2022. “Howl.” Text/html. Poetry Foundation; Poetry Foundation. March 13, 2022. <a href="https://www.poetryfoundation.org/poems/49303/howl">https://www.poetryfoundation.org/poems/49303/howl</a>.</div>
-</div>
-
-
-## Backlinks {#backlinks}
-
--   [Favorites]({{< relref "favorites.md" >}})

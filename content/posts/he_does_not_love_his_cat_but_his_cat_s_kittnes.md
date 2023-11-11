@@ -2,7 +2,7 @@
 title = "He does not love his cat, but his cat's kittens"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-28T15:26:00-07:00
-lastmod = 2023-09-24T10:15:32-07:00
+lastmod = 2023-11-10T10:51:15-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -14,21 +14,7 @@ slug = "802975de-8d22-45a7-a0fb-8751ebbce738"
 > (<a href="#citeproc_bib_item_1">Keynes 2010</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Quote {#quote}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 4   | 12.17    | 2023-09-30T03:09:44Z |
-
-{{The "purposive" man is always trying to secure a spurious and delusive immortality for his acts by pushing his interest in them forward into time. He does not love his cat, but his cat's kittens; nor, in truth, the kittens, but only the kittens' kittens, and so on forward forever to the end of cat-dom.}{purposive man}@0}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Keynes 2010</a>)
+## Bibliography {#bibliography}
 
 ## References
 

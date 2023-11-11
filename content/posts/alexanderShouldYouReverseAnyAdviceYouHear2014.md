@@ -2,14 +2,14 @@
 title = "Scott Alexander | Should You Reverse Any Advice You Hear?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:31:00-08:00
-lastmod = 2023-09-24T09:52:40-07:00
+lastmod = 2023-11-10T10:25:06-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "de6d0d9e-3ce1-4e18-b747-c59cd50ceebf"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2014</a>)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (Alexander 2014)
 
 
 ## Summary {#summary}
@@ -48,31 +48,3 @@ A simple bit of [metacognitive]({{< relref "metacognition.md" >}}) advice which 
 > 1.  Are there plausibly near-equal groups of people who need this advice versus the opposite advice?
 > 2.  Have you self-selected into the group of people receiving this advice by, for example, being a fan of the blog / magazine / TV channel / political party / self-help-movement offering it?
 > 3.  Then maybe the opposite advice, for you in particular, is at least as worthy of consideration.
-
-
-## Flashcards {#flashcards}
-
-
-### Summarize {#summarize}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 167.52   | 2023-09-26T04:51:01Z |
-
-[Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
-
-
-#### Back {#back}
-
-[You're more likely to hear things you agree with or that are, broadly speaking, aligned with your world-view]({{< relref "echo_chamber.md" >}}). Therefore, you're likely to over-index on a certain flavor of advice. You may benefit from considering the reverse of the piece of advice.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Alexander 2014</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Should You Reverse Any Advice You Hear?” Slate Star Codex. March 25, 2014. <a href="https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/">https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/</a>.</div>
-</div>

@@ -2,14 +2,14 @@
 title = "Fred Rodgers Institute | When Someone a Child Loves Dies"
 author = ["Cash Weaver"]
 date = 2023-03-13T07:44:00-07:00
-lastmod = 2023-09-24T10:11:51-07:00
+lastmod = 2023-11-10T10:46:58-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "eb55ec18-edb6-4116-901a-b8c1a29a1ffc"
 +++
 
-(<a href="#citeproc_bib_item_1">“When Someone a Child Loves Dies” n.d.</a>)
+(“When Someone a Child Loves Dies” n.d.)
 
 
 ## Summary {#summary}
@@ -47,15 +47,6 @@ A [Freddish]({{< relref "freddish.md" >}}) guide for discussing and helping chil
 
 
 ## Consider creating a general "How to talk to children" note {#consider-creating-a-general-how-to-talk-to-children-note}
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“When Someone a Child Loves Dies.” n.d. Accessed March 13, 2023. <a href="https://www.fredrogersinstitute.org/resources/when-someone-a-child-loves-dies">https://www.fredrogersinstitute.org/resources/when-someone-a-child-loves-dies</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

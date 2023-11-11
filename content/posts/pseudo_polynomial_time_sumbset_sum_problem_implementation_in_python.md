@@ -2,7 +2,7 @@
 title = "Pseudo-polynomial time subset sum problem implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T06:53:00-08:00
-lastmod = 2023-09-24T10:39:18-07:00
+lastmod = 2023-11-10T11:11:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,28 +42,6 @@ print(subset_sum(8, [2,4,5]), 'should be None')
 print(subset_sum(11, [2,4,5]), 'should be [2,4,5]')
 print(subset_sum(0, [2,4,5]), 'should be []')
 ```
-
-
-## Flashcards {#flashcards}
-
-
-### Implement {#implement}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-06-11T15:56:34Z |
-
-[Pseudo-polynomial time sumbset sum problem implementation in Python]({{< relref "pseudo_polynomial_time_sumbset_sum_problem_implementation_in_python.md" >}})
-
-
-#### Back {#back}
-
-[Pseudo-polynomial time sumbset sum problem implementation in Python]({{< relref "pseudo_polynomial_time_sumbset_sum_problem_implementation_in_python.md" >}})
-
-
-#### Source {#source}
-
-[Pseudo-polynomial time sumbset sum problem implementation in Python]({{< relref "pseudo_polynomial_time_sumbset_sum_problem_implementation_in_python.md" >}})
 
 
 ## Backlinks {#backlinks}

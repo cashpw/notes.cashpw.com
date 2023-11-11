@@ -2,14 +2,14 @@
 title = "Andy Payne | The Myth of the Myth of the 10x Programmer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:33:00-08:00
-lastmod = 2023-09-24T10:37:03-07:00
+lastmod = 2023-11-10T11:09:27-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "47d61b82-dbf0-42b1-b612-3065af126e55"
 +++
 
-[Andy Payne]({{< relref "andy_payne.md" >}}), (<a href="#citeproc_bib_item_1">Payne 2020</a>)
+[Andy Payne]({{< relref "andy_payne.md" >}}), (Payne 2020)
 
 
 ## Summary {#summary}
@@ -31,12 +31,3 @@ This reminds me of a way of conceptualizing a "10x" programmer (though I no long
 > The most productive developers are solving big problems, and are bringing judgment and experience to bear on essential design, architecture, and "build vs use existing library" decisions. They're designing key abstractions that will pay dividends through the life of the project. They're finding massive shortcuts that aren't in the CS textbook, such as Infocom's use of a virtual machine to port their text adventure games to a range of early PC platforms. (Or, writing code to write CPU tests).
 >
 > I think 10x developers, like world-class athletes, musicians, and authors, absolutely do exist. You're just not going to find them with a coding test.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Payne, Andy. 2020. “The Myth of the Myth of the 10x Programmer.” February 17, 2020. <a href="https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/">https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/</a>.</div>
-</div>

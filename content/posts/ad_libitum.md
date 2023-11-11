@@ -2,7 +2,7 @@
 title = "Ad libitum"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-12T09:51:00-08:00
-lastmod = 2023-09-24T09:51:59-07:00
+lastmod = 2023-11-10T10:24:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,22 +16,7 @@ slug = "2ca66fa1-f304-4132-bd6e-78f9a73f4f38"
 > (<a href="#citeproc_bib_item_1">“Ad Libitum” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 131.56   | 2023-10-24T14:03:32Z |
-| 1        | 2.65 | 7   | 286.61   | 2024-06-13T09:19:41Z |
-
-{{[Ad libitum]({{< relref "ad_libitum.md" >}})}{[Latin]({{< relref "latin.md" >}})}@0} :: {{As much or as often as necessary or desired}{English}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Ad Libitum” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

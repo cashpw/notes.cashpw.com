@@ -2,7 +2,7 @@
 title = "Comparison sorting algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T14:47:00-08:00
-lastmod = 2023-09-24T10:01:49-07:00
+lastmod = 2023-11-10T10:35:02-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -15,9 +15,6 @@ slug = "cedb0b84-030c-4de7-b4ae-0ce16f09fa19"
 > -   for all a and b, a ≤ b or b ≤ a (connexity) [[Connected relationship]({{< relref "strongly_connected.md" >}})].
 >
 > It is possible that both a ≤ b and b ≤ a; in this case either may come first in the sorted list. In a [Stable sorting algorithm]({{< relref "stable_sorting_algorithm.md" >}}), the input order determines the sorted order in this case.
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

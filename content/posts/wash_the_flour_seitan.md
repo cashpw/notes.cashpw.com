@@ -2,7 +2,7 @@
 title = "Wash the flour seitan"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T19:45:00-07:00
-lastmod = 2023-09-24T10:55:51-07:00
+lastmod = 2023-11-10T11:26:49-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -93,28 +93,7 @@ Wash the flour method is a way to make [Seitan]({{< relref "seitan.md" >}}) from
     > (<a href="#citeproc_bib_item_2">Seitan Society n.d.</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe the steps to make [Wash the flour seitan]({{< relref "wash_the_flour_seitan.md" >}}) {#describe-the-steps-to-make-wash-the-flour-seitan--wash-the-flour-seitan-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.05 | 7   | 172.74   | 2023-10-20T12:35:20Z |
-
-1.  Combine flour and water
-2.  Cover dough ball with water and let rest for \\(1<x<8\\) hours
-3.  Wash flour repeatedly until you achieve desired water clarity
-4.  Add seasonings
-5.  Let rest for \\(>1\\) hour(s)
-6.  Braid the dough
-7.  Simmer dough in broth
-8.  Let dough rest for \\(>8\\) hours
-
-
-#### Source {#source}
-
-[Wash the flour method]({{< relref "wash_the_flour_seitan.md" >}})
+## Bibliography {#bibliography}
 
 ## References
 

@@ -2,7 +2,7 @@
 title = "Height-balanced binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:52:00-07:00
-lastmod = 2023-09-24T10:16:12-07:00
+lastmod = 2023-11-10T10:52:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,27 +14,7 @@ slug = "86c3b62f-4766-4c76-856b-bebe9fe6d125"
 > (<a href="#citeproc_bib_item_1">“Self-Balancing Binary Search Tree” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition ([Binary tree]({{< relref "binary_tree.md" >}})) {#definition--binary-tree-binary-tree-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.80 | 7   | 289.93   | 2023-11-29T15:59:36Z |
-| front    | 2.20 | 4   | 13.09    | 2023-09-24T14:57:24Z |
-
-[Height-balanced binary tree]({{< relref "height_balanced_binary_tree.md" >}})
-
-
-#### Back {#back}
-
-A [Binary tree]({{< relref "binary_tree.md" >}}) for which the height is guaranteed to be \\(O(\log n)\\) for size \\(n\\).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Self-Balancing Binary Search Tree” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

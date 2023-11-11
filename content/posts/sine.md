@@ -2,7 +2,7 @@
 title = "Sine"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T09:55:00-07:00
-lastmod = 2023-09-24T10:45:23-07:00
+lastmod = 2023-11-10T11:16:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,53 +23,7 @@ Also see [Cosine]({{< relref "cosine.md" >}}) and [Tangent (Trigonometry)]({{< r
 {{< figure src="/ox-hugo/sin.png" >}}
 
 
-## Flashcards {#flashcards}
-
-
-### Basic (and reversed card) {#basic--and-reversed-card}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 8   | 313.21   | 2023-12-23T19:12:13Z |
-| back     | 2.65 | 8   | 286.11   | 2024-02-14T00:22:55Z |
-
-Graph \\(f(x) = \href{/posts/sine}{\sin}(x)\\)
-
-
-#### Back {#back}
-
-{{< figure src="/ox-hugo/sin.png" >}}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Sine and Cosine” 2022</a>)
-
-
-### {{\\(\href{/posts/sine}{\sin}(\theta)\\)}@0} \\(=\\) {{\\(\frac{\text{opposite}}{\text{hypotenuse}}\\)}{sides}@1} {#sin--theta--0-frac-text-opposite-text-hypotenuse-sides-1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 300.01   | 2024-02-05T16:36:48Z |
-| 1        | 2.05 | 2   | 2.00     | 2023-09-21T23:51:17Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Sine and Cosine” 2022</a>)
-
-
-### {{\\(\href{/posts/sine}{\sin}(\theta)\\)}@0} \\(=\\) {{\\(\frac{\href{/posts/cosine}{\cos}(\theta)}{\href{/posts/tangent}{\tan}(\theta)}\\)}{function}@1} {#sin--theta--0-frac-cos--theta--tan--theta--function-1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 7   | 107.11   | 2023-10-27T15:29:22Z |
-| 1        | 2.50 | 6   | 100.62   | 2023-10-22T15:55:06Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Sine and Cosine” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -80,5 +34,5 @@ Graph \\(f(x) = \href{/posts/sine}{\sin}(x)\\)
 
 ## Backlinks {#backlinks}
 
--   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})
 -   [Cosine]({{< relref "cosine.md" >}})
+-   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})

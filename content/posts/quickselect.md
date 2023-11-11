@@ -2,7 +2,7 @@
 title = "Quickselect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:09:00-07:00
-lastmod = 2023-09-24T10:40:09-07:00
+lastmod = 2023-11-10T11:12:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -63,45 +63,7 @@ procedure QuickSort(list, targetIndex) is
 -   [Quickselect implementation in Python]({{< relref "quickselect_implementation_in_python.md" >}})
 
 
-## Flashcards {#flashcards}
-
-
-### Basic with Source {#basic-with-source}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 4   | 14.23    | 2023-07-22T20:32:25Z |
-
-Implement [Quickselect]({{< relref "quickselect.md" >}}) in [Python]({{< relref "python.md" >}})
-
-
-#### Back {#back}
-
-[Quickselect implementation in Python]({{< relref "quickselect_implementation_in_python.md" >}})
-
-
-### Algorithm {#algorithm}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 348.68   | 2024-05-21T07:21:22Z |
-| back     | 2.35 | 7   | 169.52   | 2023-10-20T10:10:15Z |
-
-[Quickselect]({{< relref "quickselect.md" >}})
-
-
-#### Back {#back}
-
-To find the `k`-th smallest element in a `list`:
-
-1.  Select a `pivotIndex`
-2.  `Partition` the `list` around the `pivotIndex`
-3.  If `Partition(...)` returns `k`: `return list[k]`
-4.  Else if `Partition(...) < k`: Apply `Quicksort` to the left set
-5.  Else: Apply `Quicksort` to the right set
-
-
 ## Backlinks {#backlinks}
 
--   [Quickselect implementation in Python]({{< relref "quickselect_implementation_in_python.md" >}})
 -   [Selection algorithm]({{< relref "selection_algorithm.md" >}})
+-   [Quickselect implementation in Python]({{< relref "quickselect_implementation_in_python.md" >}})

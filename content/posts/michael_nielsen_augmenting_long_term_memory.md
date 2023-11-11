@@ -2,14 +2,14 @@
 title = "Michael Nielsen | Augmenting Long-term Memory"
 author = ["Cash Weaver"]
 date = 2023-04-11T16:52:00-07:00
-lastmod = 2023-09-24T10:31:24-07:00
+lastmod = 2023-11-10T11:05:14-08:00
 tags = ["reference", "hastodo", "reference", "hastodo"]
 categories = ["reference", "hastodo"]
 draft = false
 slug = "bd09aed1-7599-4bf2-8aea-dcb2e88f17a7"
 +++
 
-[Michael Nielsen]({{< relref "michael_nielsen.md" >}}), (<a href="#citeproc_bib_item_1">Nielsen 2018</a>)
+[Michael Nielsen]({{< relref "michael_nielsen.md" >}}), (Nielsen 2018)
 
 
 ## Summary {#summary}
@@ -48,12 +48,3 @@ On [Spaced repetition]({{< relref "spaced_repetition.md" >}}).
 #### Cultivate strategies for elaborative encoding / forming rich associations {#cultivate-strategies-for-elaborative-encoding-forming-rich-associations}
 
 > This is really a meta-strategy, i.e., a strategy for forming strategies. One simple example strategy is to use multiple variants of the "same" question. For instance, I mentioned earlier my two questions: "What does Jones 2011 claim is the average age at which physics Nobelists made their prizewinning discovery, over 1980-2011?" And: "Which paper claimed that physics Nobelists made their prizewinning discovery at average age 48, over the period 1980-2011?" Logically, these two questions are obviously closely related. But in terms of how memory works, they are different, causing associations on very different triggers.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nielsen, Michael. 2018. “Augmenting Long-term Memory.” <a href="http://augmentingcognition.com/ltm.html">http://augmentingcognition.com/ltm.html</a>.</div>
-</div>

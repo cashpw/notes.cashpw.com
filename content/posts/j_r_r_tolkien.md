@@ -2,7 +2,7 @@
 title = "J. R. R. Tolkien"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T11:25:00-07:00
-lastmod = 2023-09-24T10:20:33-07:00
+lastmod = 2023-11-10T10:57:15-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -13,9 +13,6 @@ Among other things:
 
 -   The Hobbit
 -   The Lord of the Rings
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Theory of change"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:28:00-08:00
-lastmod = 2023-09-24T10:51:34-07:00
+lastmod = 2023-11-10T11:22:33-08:00
 draft = false
 slug = "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
 +++
@@ -11,7 +11,7 @@ slug = "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
 >
 > The innovation of Theory of Change lies (1) in making the distinction between desired and actual outcomes and (2) in requiring stakeholders to model their desired outcomes before they decide on forms of intervention to achieve those outcomes.
 >
-> (<a href="#citeproc_bib_item_3">“Theory of Change” 2022</a>)
+> (“Theory of Change” 2022)
 
 <!--quoteend-->
 
@@ -19,12 +19,12 @@ slug = "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
 >
 > A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, "Concretely, how does one achieve that?"
 >
-> (<a href="#citeproc_bib_item_2">Swartz 2010</a>)
+> (Swartz 2010)
 
 
 ## Steps {#steps}
 
-These steps are based on (<a href="#citeproc_bib_item_1">“How Does Theory of Change Work?” n.d.</a>). The ordering, with the exception of starting from Goals, is a recommendation as opposed to a hard rule. For instance, you may need to revisit previous steps as you progress if you identify previously unknown flaws or opportunities in your reasoning.
+These steps are based on (“How Does Theory of Change Work?” n.d.). The ordering, with the exception of starting from Goals, is a recommendation as opposed to a hard rule. For instance, you may need to revisit previous steps as you progress if you identify previously unknown flaws or opportunities in your reasoning.
 
 1.  Goals: Identify and agree upon long term goal(s)
 2.  Outcomes: Create an outcomes framework by [Backcasting]({{< relref "backcasting.md" >}}) from long term goal(s) and explain why these preconditions are necessary and sufficient
@@ -36,7 +36,7 @@ These steps are based on (<a href="#citeproc_bib_item_1">“How Does Theory of C
 
 ## As compared to a theory of action {#as-compared-to-a-theory-of-action}
 
-Based on (<a href="#citeproc_bib_item_4">Tyrrel 2019</a>) and (<a href="#citeproc_bib_item_2">Swartz 2010</a>):
+Based on (Tyrrel 2019) and (Swartz 2010):
 
 -   [Theory of action]({{< relref "theory_of_action.md" >}})
     -   Works **forward** from where you are right now toward the goal
@@ -46,124 +46,10 @@ Based on (<a href="#citeproc_bib_item_4">Tyrrel 2019</a>) and (<a href="#citepro
     -   Describes how change happens in a [System]({{< relref "systems.md" >}}), regardless of anything you do or don't do, and then attempts to integrate you and your potential changes into that framework
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 3.10 | 7   | 411.39   | 2024-08-25T01:02:57Z |
-| back     | 2.80 | 7   | 473.19   | 2024-12-10T19:50:28Z |
-
-[Theory of change]({{< relref "theory_of_change.md" >}})
-
-
-#### Back {#back}
-
--   A model of how change in the direction of a goal or destination happens within a system
--   A plan for enacting change built by [Backcasting]({{< relref "backcasting.md" >}}) from the desired goal to the present.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">“Theory of Change” 2022</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 304.35   | 2024-04-11T01:39:40Z |
-| back     | 2.50 | 7   | 218.53   | 2023-12-27T02:38:12Z |
-
-Steps to create a [Theory of change]({{< relref "theory_of_change.md" >}})
-
-
-#### Back {#back}
-
-1.  Goals
-
-    Identify and agree upon long term goal(s)
-
-2.  Outcomes
-
-    Create an outcomes framework by [Backcasting]({{< relref "backcasting.md" >}}) from long term goal(s) and explain why these preconditions are necessary and sufficient
-
-3.  Assumptions
-
-    Make assumptions [explicit]({{< relref "be_explicit.md" >}})
-
-4.  Evidence
-
-    Develop indicators which will measure the outcomes and assess your performance (see [OKR]({{< relref "objectives_and_key_results.md" >}}))
-
-5.  Action
-
-    Identify your next steps based on the outcome
-
-6.  Convince
-
-    Create a narrative which explains the logic of this plan and use it to convince necessary stakeholders
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“How Does Theory of Change Work?” n.d.</a>)
-
-
-### Compare and contrast {#compare-and-contrast}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 3.10 | 7   | 378.01   | 2024-07-06T13:39:10Z |
-
-[Theory of change]({{< relref "theory_of_change.md" >}}) and [Theory of action]({{< relref "theory_of_action.md" >}})
-
-
-#### Back {#back}
-
--   [Theory of action]({{< relref "theory_of_action.md" >}})
-    -   Works forward from where you are right now toward the goal
-    -   Focuses on what you will do to try and affect change
--   [Theory of change]({{< relref "theory_of_change.md" >}})
-    -   Works backward from the goal to the present; not you -- the present
-    -   Describes how change happens in a [System]({{< relref "systems.md" >}}), regardless of anything you do or don't do
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_4">Tyrrel 2019</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 321.17   | 2024-04-21T18:56:12Z |
-| 1        | 2.65 | 7   | 283.86   | 2024-04-01T22:04:51Z |
-
-A [Theory of change]({{< relref "theory_of_change.md" >}}) explicitly notes {{assumptions}@0} and {{ways to measure progress}@1}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">“Theory of Change” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“How Does Theory of Change Work?” n.d. Theory of Change Community. Accessed November 16, 2022. <a href="https://www.theoryofchange.org/what-is-theory-of-change/how-does-theory-of-change-work/">https://www.theoryofchange.org/what-is-theory-of-change/how-does-theory-of-change-work/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Swartz, Aaron. 2010. “Theory of Change.” March 14, 2010. <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Theory of Change.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Theory_of_change&oldid=1106791853">https://en.wikipedia.org/w/index.php?title=Theory_of_change&#38;oldid=1106791853</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Tyrrel, Lavinia. 2019. “Theory of Change and Theory of Action: What’s the Difference and Why Does It Matter?” Governance and Development Soapbox. July 18, 2019. <a href="https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/">https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/</a>.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
--   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
--   [Todos]({{< relref "todos.md" >}})
--   [Aaron Swartz | Theory of Change]({{< relref "swartzTheoryChange2010.md" >}})
 -   [Theory of action]({{< relref "theory_of_action.md" >}})
+-   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 -   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
+-   [Aaron Swartz | Theory of Change]({{< relref "swartzTheoryChange2010.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

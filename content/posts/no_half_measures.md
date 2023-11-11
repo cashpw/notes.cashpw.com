@@ -2,7 +2,7 @@
 title = "No half measures"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-21T08:24:00-07:00
-lastmod = 2023-09-24T10:34:58-07:00
+lastmod = 2023-11-10T11:07:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,38 +21,9 @@ However, [Keep your eye on the prize]({{< relref "keep_your_eye_on_the_prize.md"
 >
 > Her portfolio was chock full of neon colors and glitter and rhinestones and splashes of peacock feathers and it was a delight. Our teacher despised every piece lol, but she got great marks and I think even won some awards. And more importantly, she was happy and proud of the results. Because she didn't limit herself by trying to appeal to people who were never going to enjoy what she enjoyed.
 >
-> (<a href="#citeproc_bib_item_1">switchelsweets n.d.</a>)
+> (switchelsweets n.d.)
 
 Related [Nate Soares | Half-Assing It with Everything You've Got]({{< relref "no_half_measures.md" >}})
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 80.45    | 2023-12-11T00:56:11Z |
-| back     | 2.50 | 5   | 42.71    | 2023-10-12T05:48:38Z |
-
-[No half measures]({{< relref "no_half_measures.md" >}})
-
-
-#### Back {#back}
-
-It's not worth doing things half-way. The result won't satisfy you, because it didn't go far enough, and it won't satisfy others because it didn't go far enough.
-
-
-#### Source {#source}
-
-[No half measures]({{< relref "no_half_measures.md" >}})
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>switchelsweets. n.d. “In My AP Art Class.” Tumblr. Accessed July 21, 2023. <a href="https://switchelsweets.tumblr.com/post/720604113161830400/i-want-to-share-some-wisdom-from-my-high-school">https://switchelsweets.tumblr.com/post/720604113161830400/i-want-to-share-some-wisdom-from-my-high-school</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

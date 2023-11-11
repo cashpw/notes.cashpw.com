@@ -2,14 +2,14 @@
 title = "Will Larson | 'Drawing Your Three Maps' Exercise"
 author = ["Cash Weaver"]
 date = 2023-06-06T08:06:00-07:00
-lastmod = 2023-09-24T10:56:33-07:00
+lastmod = 2023-11-10T11:27:28-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "45eae752-81ef-468b-96e2-e686c38a3736"
 +++
 
-[Will Larson]({{< relref "will_larson.md" >}}), (<a href="#citeproc_bib_item_1">Larson 2022</a>)
+[Will Larson]({{< relref "will_larson.md" >}}), (Larson 2022)
 
 
 ## Summary {#summary}
@@ -42,12 +42,3 @@ Then again, the author notes the need for additional time and perhaps the exerci
 > Generally, this was a fun exercise, and the shareout was exceptionally interesting. That said, if I were to try this again I would probably try it in three phases, along the lines of: first session, draft your locator map, finalize it for the second session; second session, draft your topographical map, and so on.
 >
 > One of the powerful things about maps is they contain so much data (this is one of the reasons what [Felt](https://felt.com/) is doing is so interesting to me), but I also found that trying to work through both the nouns and their physical relationship to each other was too much to get right in one pass. You really need time to iterate before the map gels. For most folks it was obvious within a few minutes that their map was wrong somehow, and doing the exercise within one session didn't provide enough time to fix. Conversely, maybe that's part of the value: sometimes an exercise that makes it abundantly clear that you can't do a good job is a powerful way to break through uncertainty.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Larson, Will. 2022. “’Drawing Your Three Maps’ Exercise.” September 4, 2022. <a href="https://lethain.com/exercise-draw-three-maps/">https://lethain.com/exercise-draw-three-maps/</a>.</div>
-</div>

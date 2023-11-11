@@ -2,15 +2,12 @@
 title = "Renato Werneck"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-21T09:45:00-07:00
-lastmod = 2023-09-24T10:41:46-07:00
+lastmod = 2023-11-10T11:13:40-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "1907ce27-4cc8-4995-8b94-ef5711c3d77f"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

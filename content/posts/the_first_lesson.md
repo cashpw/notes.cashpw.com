@@ -2,7 +2,7 @@
 title = "The first lesson"
 author = ["Cash Prokop-Weaver"]
 date = 2021-05-30T12:44:00-07:00
-lastmod = 2023-09-24T10:50:42-07:00
+lastmod = 2023-11-10T11:21:45-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -13,51 +13,10 @@ slug = "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
 >
 > [Irulan Corrino]({{< relref "irulan_corrino.md" >}}), (<a href="#citeproc_bib_item_1">Herbert 1999</a>)
 
-
-## Flashcards {#flashcards}
-
-
-### [Muad'Dib]({{< relref "paul_atreides.md" >}}) learned rapidly because {{his first training was in how to learn. And the first lesson of all was the basic trust that he could learn.}{full}@0} {#muad-dib--paul-atreides-dot-md--learned-rapidly-because-his-first-training-was-in-how-to-learn-dot-and-the-first-lesson-of-all-was-the-basic-trust-that-he-could-learn-dot-full-0}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 160.17   | 2023-10-24T16:36:32Z |
+One of my [Favorites]({{< relref "favorites.md" >}}).
 
 
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Herbert 1999</a>)
-
-
-### And the first lesson of all was {{the basic trust that he could learn}@0} {#and-the-first-lesson-of-all-was-the-basic-trust-that-he-could-learn-0}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 5   | 24.83    | 2023-10-14T19:45:25Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Herbert 1999</a>)
-
-
-### Normal {#normal}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 239.96   | 2024-03-28T00:20:01Z |
-
-(full) [The first lesson]({{< relref "the_first_lesson.md" >}})
-
-
-#### Back {#back}
-
-[Muad'Dib]({{< relref "paul_atreides.md" >}}) learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Herbert 1999</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -70,4 +29,3 @@ slug = "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
 
 -   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
 -   [Style Guide]({{< relref "style_guide.md" >}})
--   [Favorites]({{< relref "favorites.md" >}})

@@ -2,7 +2,7 @@
 title = "Freddish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:59:00-07:00
-lastmod = 2023-09-24T10:11:57-07:00
+lastmod = 2023-11-10T10:47:05-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,7 +17,7 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
 >
 > Rogers was extraordinarily good at imagining where children's minds might go. For instance, in a scene in which an eye doctor uses an ophthalmoscope to peer into his eyes, he made a point of having the doctor clarify that he wasn't able to see Rogers's thoughts. Rogers also wrote a song called "You Can Never Go Down the Drain," because he knew that drains were something that, to kids, seemed to exist solely to suck things down.
 >
-> (<a href="#citeproc_bib_item_1">King 2018</a>)
+> (King 2018)
 
 <!--quoteend-->
 
@@ -35,88 +35,14 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
 > 8.  "Rephrase your new statement, repeating the first step." "Good" represents a value judgment, so: Your favorite grown-ups can tell you where it is safe to play. It is important to try to listen to them.
 > 9.  "Rephrase your idea a ﬁnal time, relating it to some phase of development a preschooler can understand." Maybe: Your favorite grown-ups can tell you where it is safe to play. It is important to try to listen to them, and listening is an important part of growing.
 >
-> (<a href="#citeproc_bib_item_1">King 2018</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### {{[Freddish]({{< relref "freddish.md" >}})}@0} is the language {{[Fred Rogers]({{< relref "fred_rogers.md" >}})}@1} would use when speaking with children {#freddish--freddish-dot-md--0-is-the-language-fred-rogers--fred-rogers-dot-md--1-would-use-when-speaking-with-children}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 255.06   | 2023-12-09T04:37:49Z |
-| 1        | 3.10 | 7   | 440.64   | 2024-10-12T06:25:50Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">King 2018</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 231.39   | 2023-12-16T23:40:46Z |
-| back     | 3.25 | 7   | 557.37   | 2025-02-08T10:13:00Z |
-
-[Freddish]({{< relref "freddish.md" >}})
-
-
-#### Back {#back}
-
-A set of language patterns for talking with children which anticipates and protects against the ways in which the listener (the child) might misinterpret the intended message.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">King 2018</a>)
-
-
-### Example(s) {#example--s}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.60 | 10  | 136.43   | 2023-12-10T01:21:12Z |
-| back     | 2.80 | 7   | 363.73   | 2024-06-23T11:22:42Z |
-
-[Freddish]({{< relref "freddish.md" >}})
-
-
-#### Back {#back}
-
--   It is dangerous to play in the street -&gt; Your favorite grown-ups can tell you where it is safe to play.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">King 2018</a>)
-
-
-### The purpose of {{[Freddish]({{< relref "freddish.md" >}})}@0} is to {{anticipate and protect against the ways in which a child may misinterpret the intended message}@1} {#the-purpose-of-freddish--freddish-dot-md--0-is-to-anticipate-and-protect-against-the-ways-in-which-a-child-may-misinterpret-the-intended-message-1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 251.93   | 2023-12-17T14:01:05Z |
-| 1        | 2.20 | 7   | 197.56   | 2023-11-20T07:11:31Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">King 2018</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>King, Maxwell. 2018. “Mister Rogers Had a Simple Set of Rules for Talking to Children.” The Atlantic. June 8, 2018. <a href="https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/">https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/</a>.</div>
-</div>
+> (King 2018)
 
 
 ## Backlinks {#backlinks}
 
--   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
 -   [Fred Rodgers Institute | When Someone a Child Loves Dies]({{< relref "fred_rodgers_institute_when_someone_a_child_loves_dies.md" >}})
--   [Todos]({{< relref "todos.md" >}})
--   [Child development stages]({{< relref "child_development_stages.md" >}})
 -   [Rewriting and Editing]({{< relref "julian_shapiro_writing_well_handbook.md#rewriting-and-editing" >}})
+-   [Child development stages]({{< relref "child_development_stages.md" >}})
+-   [On parenting]({{< relref "freddish.md" >}})
+-   [Todos]({{< relref "todos.md" >}})
+-   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})

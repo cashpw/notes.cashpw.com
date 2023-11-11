@@ -2,7 +2,7 @@
 title = "Mental model"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:08:00-08:00
-lastmod = 2023-09-24T10:30:40-07:00
+lastmod = 2023-11-10T11:04:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,28 +14,7 @@ slug = "787214e0-5941-4c6f-9a61-e79b9b40baea"
 > (<a href="#citeproc_bib_item_1">“Mental Model” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 169.33   | 2023-09-29T20:36:52Z |
-| back     | 1.75 | 8   | 140.99   | 2023-11-06T03:57:17Z |
-
-[Mental model]({{< relref "mental_model.md" >}})
-
-
-#### Back {#back}
-
--   A explanation of how something works
--   A representation of the world, the relationship between its various parts, and a person's perception of their own acts and their consequences.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Mental Model” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -46,10 +25,10 @@ slug = "787214e0-5941-4c6f-9a61-e79b9b40baea"
 
 ## Backlinks {#backlinks}
 
--   [The map is not the territory]({{< relref "the_map_is_not_the_territory.md" >}})
 -   [Farnum Street | Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)]({{< relref "farnum_street_mental_models_the_best_way_to_make_intelligent_decisions_109_models_explained.md" >}})
--   [Framing]({{< relref "framing.md" >}})
--   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
 -   [Legible]({{< relref "legible.md" >}})
+-   [The map is not the territory]({{< relref "the_map_is_not_the_territory.md" >}})
 -   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})
+-   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
+-   [Framing]({{< relref "framing.md" >}})
 -   [Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning]({{< relref "gary_klein_and_holly_c_baxter_cognitive_transformation_theory_contrasting_cognitive_and_behavioral_learning.md" >}})

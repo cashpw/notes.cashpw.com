@@ -2,7 +2,7 @@
 title = "Nick's class"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:33:00-08:00
-lastmod = 2023-09-24T10:34:48-07:00
+lastmod = 2023-11-10T11:07:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,68 +13,4 @@ slug = "1a499a31-7ecb-4f80-95a5-22d748a0c634"
 >
 > Just as the class P [[P (Complexity)]({{< relref "polynomial_time.md" >}})] can be thought of as the tractable problems (Cobham's thesis), so NC can be thought of as the problems that can be efficiently solved on a parallel computer.
 >
-> (<a href="#citeproc_bib_item_1">“NC (Complexity)” 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 139.22   | 2023-09-22T22:47:09Z |
-| back     | 2.50 | 7   | 216.95   | 2024-02-28T13:54:48Z |
-
-[NC (Complexity)]({{< relref "nick_s_class.md" >}}) (informal)
-
-
-#### Back {#back}
-
-A complexity class of problems which can be solved in [Polynomial time]({{< relref "polynomial_time.md" >}}) on a parallel computer.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“NC (Complexity)” 2022</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 78.29    | 2023-09-26T22:24:08Z |
-| back     | 2.65 | 7   | 335.05   | 2024-08-10T00:27:17Z |
-
-[NC (Complexity)]({{< relref "nick_s_class.md" >}}) (formal)
-
-
-#### Back {#back}
-
-The set of problems with input size \\(n\\) which can be solved in \\(\bigo{\log^cn}\\) time with \\(\bigo{n^k}\\) parallel processors for some constants \\(c\\) and \\(k\\).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“NC (Complexity)” 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 265.07   | 2024-05-16T16:53:20Z |
-| 1        | 2.80 | 7   | 271.99   | 2024-05-27T15:02:24Z |
-
-{{[NC (Complexity)]({{< relref "nick_s_class.md" >}})}@0} stands for {{[Nick's class]({{< relref "nick_s_class.md" >}})}@1}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“NC (Complexity)” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“NC (Complexity).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=NC_(complexity)&oldid=1119208413">https://en.wikipedia.org/w/index.php?title=NC_(complexity)&#38;oldid=1119208413</a>.</div>
-</div>
+> (“NC (Complexity)” 2022)

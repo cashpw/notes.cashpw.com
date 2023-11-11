@@ -2,7 +2,7 @@
 title = "k-vertex-connected graph"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T20:26:00-07:00
-lastmod = 2023-09-24T10:22:53-07:00
+lastmod = 2023-11-10T10:59:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,27 +14,7 @@ slug = "78c49f16-1956-4ffb-9207-f72f79025d5b"
 > (<a href="#citeproc_bib_item_1">“K-Vertex-Connected Graph” 2023</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 4   | 14.04    | 2023-10-02T00:06:49Z |
-| back     | 2.05 | 6   | 68.37    | 2023-11-05T23:58:24Z |
-
-[k-vertex-connected graph]({{< relref "k_vertex_connected_graph.md" >}})
-
-
-#### Back {#back}
-
-A [Connected graph]({{< relref "connectivity_graph_theory.md#connected-graph" >}}) of \\(>k\\) vertices which remains connected after one removes \\(<k\\) vertices.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“K-Vertex-Connected Graph” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 

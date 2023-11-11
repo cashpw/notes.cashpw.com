@@ -2,14 +2,16 @@
 title = "Ben Kuhn | Attention Is Your Scarcest Resource"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:31:00-08:00
-lastmod = 2023-09-24T10:24:02-07:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2023-11-10T11:00:32-08:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "4625d068-26fe-47d7-93b3-da12b0151ca1"
 +++
 
-[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn 2020</a>)
+[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (Kuhn 2020)
+
+One of my [Favorites]({{< relref "favorites.md" >}}).
 
 
 ## Summary {#summary}
@@ -43,16 +45,6 @@ slug = "4625d068-26fe-47d7-93b3-da12b0151ca1"
 > In the short term, this made me less efficient, because I'd spend less time programming and more time staring vacantly at the ceiling. But if I stared vacantly for long enough, I'd eventually get mad enough to, e.g., reverse-engineer the partner's API in a fit of rage. This resulted in me shipping my most important projects faster, hence getting faster compounding growth.
 
 
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Attention Is Your Scarcest Resource.” July 29, 2020. <a href="https://www.benkuhn.net/attention/">https://www.benkuhn.net/attention/</a>.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
 -   [Blogroll]({{< relref "blogroll.md" >}})
--   [Favorites]({{< relref "favorites.md" >}})

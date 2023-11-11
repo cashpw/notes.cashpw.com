@@ -2,7 +2,7 @@
 title = "Throwing gauge"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-12T16:51:00-07:00
-lastmod = 2023-09-24T10:52:28-07:00
+lastmod = 2023-11-10T11:23:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,9 +24,6 @@ A throwing gauge is a [Pottery]({{< relref "ceramics.md" >}}) tool to help judge
 > {{< figure src="/ox-hugo/2023-09-12_16-55-47_51YRQsZFhAL._AC_SL1000_.jpg" >}}
 >
 > [Cross-line laser level](https://amazon.com/dp/B01GJ40TOM)
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

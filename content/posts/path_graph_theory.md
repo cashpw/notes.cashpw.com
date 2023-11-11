@@ -2,7 +2,7 @@
 title = "Path (graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T11:58:00-08:00
-lastmod = 2023-09-24T10:36:49-07:00
+lastmod = 2023-11-10T11:09:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,50 +14,7 @@ slug = "0a8c2a35-590e-4f8b-9d98-40a44e15dfb7"
 > (<a href="#citeproc_bib_item_1">“Path (Graph Theory)” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.30 | 5   | 10.29    | 2023-09-28T06:15:16Z |
-| back     | 2.80 | 7   | 298.52   | 2024-05-07T13:32:48Z |
-
-[Path (graph theory)]({{< relref "path_graph_theory.md" >}})
-
-
-#### Back {#back}
-
-A [Trail (Graph theory)]({{< relref "trail_graph_theory.md" >}}) in which all [Vertices]({{< relref "vertex.md" >}}) (and therefore all [Edges]({{< relref "edge.md" >}})) distinct.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Path (Graph Theory)” 2022</a>)
-
-
-### Compare and contrast {#compare-and-contrast}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 179.54   | 2023-11-14T04:10:41Z |
-
--   [Walk (Graph theory)]({{< relref "walk_graph_theory.md" >}})
--   [Trail (Graph theory)]({{< relref "trail_graph_theory.md" >}})
--   [Path (graph theory)]({{< relref "path_graph_theory.md" >}})
-
-
-#### Back {#back}
-
--   [Walk (Graph theory)]({{< relref "walk_graph_theory.md" >}}): finite or infinite sequence of edges which join a sequence of vertices
--   [Trail (Graph theory)]({{< relref "trail_graph_theory.md" >}}): [Walk (Graph theory)]({{< relref "walk_graph_theory.md" >}}) with distinct edges
--   [Path (graph theory)]({{< relref "path_graph_theory.md" >}}): [Trail (Graph theory)]({{< relref "trail_graph_theory.md" >}}) with distinct vertices
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Path (Graph Theory)” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

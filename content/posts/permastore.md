@@ -2,7 +2,7 @@
 title = "Permastore"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T12:05:00-08:00
-lastmod = 2023-09-24T10:37:26-07:00
+lastmod = 2023-11-10T11:09:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,27 +14,6 @@ slug = "772a02cc-f238-4f25-bc41-a584ac13c301"
 > _[Psychology Dictionary](https://psychologydictionary.org/permastore/)_
 
 Bahrick posited the concept in [Fifty years of memory for Spanish learned in school](10.1037/0096-3445.113.1.1).
-
-
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 306.97   | 2024-04-16T23:54:27Z |
-| back     | 2.65 | 4   | 17.17    | 2023-09-25T20:24:03Z |
-
-[Permastore]({{< relref "permastore.md" >}})
-
-
-#### Back {#back}
-
-Memories which last a long time following extensive training, learning, or experience.
-
-
-#### Source {#source}
 
 
 ## Backlinks {#backlinks}

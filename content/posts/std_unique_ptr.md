@@ -2,7 +2,7 @@
 title = "std::unique_ptr"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T10:01:00-07:00
-lastmod = 2023-09-24T10:47:54-07:00
+lastmod = 2023-11-10T11:19:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,27 +16,7 @@ A part of the [Standard Library (C++)]({{< relref "c_standard_library.md" >}}).
 > (<a href="#citeproc_bib_item_1">“Std:Unique\_Ptr” n.d.</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 105.51   | 2023-11-09T03:12:10Z |
-| back     | 2.50 | 6   | 99.92    | 2023-11-12T13:26:23Z |
-
-[std::unique_ptr]({{< relref "std_unique_ptr.md" >}})
-
-
-#### Back {#back}
-
-Implementation of a [Smart pointer]({{< relref "smart_pointer.md" >}}) that owns and manages another object through a pointer and disposes of that object when the pointer goes out of scope.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Std:Unique\_Ptr” n.d.</a>)
+## Bibliography {#bibliography}
 
 ## References
 

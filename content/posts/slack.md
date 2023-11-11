@@ -2,7 +2,7 @@
 title = "Slack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:08:00-08:00
-lastmod = 2023-09-24T10:45:54-07:00
+lastmod = 2023-11-10T11:17:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,74 +32,7 @@ Informally, a surplus which gives one wiggle room. It's usually in the context o
 > (<a href="#citeproc_bib_item_1">Zvi n.d.</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 230.56   | 2024-03-02T03:37:23Z |
-| back     | 2.65 | 7   | 261.76   | 2024-05-09T07:03:54Z |
-
-[Slack]({{< relref "slack.md" >}})
-
-
-#### Back {#back}
-
-(Informally) A surplus which gives one wiggle room; usually, but not necessarily, referring to time
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Zvi n.d.</a>)
-
-
-### [Slack]({{< relref "slack.md" >}}) {#slack--slack-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 396.17   | 2024-10-18T19:45:21Z |
-| back     | 2.95 | 7   | 359.89   | 2024-09-13T21:13:58Z |
-
-... is the absence of binding constraints on behavior. It is
-
-> ...: The absence of binding constraints on behavior.
->
-> Poor is the person without .... Lack of ... compounds and traps.
->
-> ... means margin for error. You can relax.
->
-> ... allows pursuing opportunities. You can explore. You can trade.
->
-> ... prevents desperation. You can avoid bad trades and wait for better spots. You can be efficient.
->
-> ... permits planning for the long term. You can invest.
->
-> ... enables doing things for your own amusement. You can play games. You can have fun.
->
-> ... enables doing the right thing. Stand by your friends. Reward the worthy. Punish the wicked. You can have a code.
->
-> ... presents things as they are without concern for how things look or what others think. You can be honest.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Zvi n.d.</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 224.57   | 2024-02-17T13:59:25Z |
-
-Lack of {{[Slack]({{< relref "slack.md" >}})}@0} compounds and traps.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Zvi n.d.</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -110,5 +43,6 @@ Lack of {{[Slack]({{< relref "slack.md" >}})}@0} compounds and traps.
 
 ## Backlinks {#backlinks}
 
--   [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
 -   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
+-   [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
+-   [Tim Urban | 10 Thoughts From the Fourth Trimester]({{< relref "slack.md" >}})

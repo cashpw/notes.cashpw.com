@@ -2,7 +2,7 @@
 title = "Works in Progress"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T17:26:00-08:00
-lastmod = 2023-09-24T10:56:47-07:00
+lastmod = 2023-11-10T11:27:43-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false
@@ -96,6 +96,3 @@ Understand how your work will depend on external services.
 
 1.  It doesn't exist unless you can measure it.
     -   Your feature isn't "live" unless you have a metric/heartbeat/etc which indicates as such.
-
-
-## Flashcards {#flashcards}

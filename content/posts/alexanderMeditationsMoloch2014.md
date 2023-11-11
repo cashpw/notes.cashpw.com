@@ -2,9 +2,9 @@
 title = "Scott Alexander | Meditations On Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:30:00-07:00
-lastmod = 2023-09-24T09:52:37-07:00
-tags = ["hastodo", "reference", "hastodo", "reference"]
-categories = ["hastodo", "reference"]
+lastmod = 2023-11-10T10:25:03-08:00
+tags = ["reference", "reference"]
+categories = ["reference"]
 draft = false
 slug = "1bba449a-48eb-479a-be4d-a4d7f8095b6a"
 +++
@@ -108,8 +108,7 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 > A basic principle unites all of the multipolar traps above. In some competition optimizing for X, the opportunity arises to throw some other value under the bus for improved X. Those who take it prosper. Those who don't take it die out. Eventually, everyone's relative status is about the same as before, but everyone's absolute status is worse than before. The process continues until all other values that can be traded off have been – in other words, until human ingenuity cannot possibly figure out a way to make things any worse.
 
-
-#### Reference star wars "make the only choice we can" choice {#reference-star-wars-make-the-only-choice-we-can-choice}
+[The right path? No. The only path? Yes.]({{< relref "the_right_path_no_the_only_path_yes.md" >}})
 
 
 ### III {#iii}
@@ -242,107 +241,7 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 > As long as the offer's open, it will be irresistible. So we need to close the offer. Only another god can kill Moloch. We have one on our side, but he needs our help. We should give it to him.
 
 
-## Flashcards {#flashcards}
-
-
-### Ways [Scott Alexander]({{< relref "scott_alexander.md" >}}) sees for resisting [Moloch]({{< relref "moloch.md" >}}) {#ways-scott-alexander--scott-alexander-dot-md--sees-for-resisting-moloch--moloch-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.30 | 6   | 13.27    | 2023-09-18T21:59:31Z |
-
-
-#### Back {#back}
-
-1.  [Excess resources](#excess-resources--moloch-moloch-dot-md)
-2.  [Physical limitations](#physical-limitations--moloch-moloch-dot-md)
-3.  [Utility maximization](#utility-maximization--moloch-moloch-dot-md)
-4.  [Coordination](#coordination--moloch-moloch-dot-md)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Alexander 2014</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 322.76   | 2024-04-17T10:22:19Z |
-| back     | 2.50 | 7   | 300.95   | 2024-04-12T14:27:20Z |
-
-[Excess resources (Moloch)](#excess-resources--moloch-moloch-dot-md)
-
-
-#### Back {#back}
-
-[Moloch]({{< relref "moloch.md" >}}) doesn't hold as much power when there's a surplus.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Alexander 2014</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.95 | 7   | 446.50   | 2024-11-09T03:55:53Z |
-| back     | 2.50 | 7   | 285.41   | 2024-04-14T11:29:29Z |
-
-[Physical limitations (Moloch)](#physical-limitations--moloch-moloch-dot-md)
-
-
-#### Back {#back}
-
-[Moloch]({{< relref "moloch.md" >}}) isn't capable of compelling actors to violate the laws of physics.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Alexander 2014</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 303.27   | 2024-03-31T07:30:08Z |
-| back     | 1.30 | 2   | 2.00     | 2023-09-20T15:48:44Z |
-
-[Utility maximization (Moloch)](#utility-maximization--moloch-moloch-dot-md)
-
-
-#### Back {#back}
-
-[Moloch]({{< relref "moloch.md" >}}) can lead to a garden so long as the optimal strategy produces a garden.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Alexander 2014</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.95 | 7   | 470.00   | 2024-11-05T03:53:24Z |
-| back     | 2.65 | 7   | 303.58   | 2024-04-29T15:35:46Z |
-
-[Coordination (Moloch)](#coordination--moloch-moloch-dot-md)
-
-
-#### Back {#back}
-
-Only another god can defeat [Moloch]({{< relref "moloch.md" >}}). [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}}).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Alexander 2014</a>)
+## Bibliography {#bibliography}
 
 ## References
 

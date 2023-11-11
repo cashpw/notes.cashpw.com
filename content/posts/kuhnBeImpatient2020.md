@@ -2,14 +2,16 @@
 title = "Ben Kuhn | Be Impatient"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:36:00-08:00
-lastmod = 2023-09-24T10:24:07-07:00
+lastmod = 2023-11-10T11:00:36-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "2149d460-f6e0-4696-b34d-c2cc2228d8db"
 +++
 
-[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn 2020</a>)
+[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (Kuhn 2020)
+
+One of my [Favorites]({{< relref "favorites.md" >}}).
 
 
 ## Summary {#summary}
@@ -41,50 +43,8 @@ Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
 > That means that moving quickly is an advantage that compounds. Being twice as fast doesn't just double your output; it doubles the growth rate of your output. Over time, that makes an enormous difference.
 
 
-## Flashcards {#flashcards}
-
-
-### ([Ben Kuhn]({{< relref "ben_kuhn.md" >}})) {{Effectiveness}@0} is correlated with {{impatience}@1} {#ben-kuhn-ben-kuhn-dot-md---effectiveness-0-is-correlated-with-impatience-1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 306.09   | 2024-05-05T21:32:58Z |
-| 1        | 2.20 | 7   | 183.91   | 2023-11-17T10:17:22Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Kuhn 2020</a>)
-
-
-### Summarize {#summarize}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 161.25   | 2023-09-25T23:22:09Z |
-| back     | 2.50 | 7   | 235.34   | 2024-01-15T22:29:14Z |
-
-[Ben Kuhn | Be Impatient]({{< relref "kuhnBeImpatient2020.md" >}})
-
-
-#### Back {#back}
-
-The faster you process information, the faster you can incorporate the result into what you'll do next.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Kuhn 2020</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Be Impatient.” July 23, 2020. <a href="https://www.benkuhn.net/impatient/">https://www.benkuhn.net/impatient/</a>.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
--   [Blogroll]({{< relref "blogroll.md" >}})
 -   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
--   [Favorites]({{< relref "favorites.md" >}})
+-   [Speed is a virtue]({{< relref "speed_is_a_virtue.md" >}})
+-   [Blogroll]({{< relref "blogroll.md" >}})

@@ -2,7 +2,7 @@
 title = "Get good"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:40:00-08:00
-lastmod = 2023-09-24T10:13:36-07:00
+lastmod = 2023-11-10T10:49:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,7 +16,18 @@ slug = "d797ba44-b962-4d6e-9b71-38ca49d070ce"
 [Git gud]({{< relref "get_good.md" >}}), scrub. Mind the [Taste gap]({{< relref "taste_gap.md" >}}).
 
 
-## Flashcards {#flashcards}
+## How to get good {#how-to-get-good}
+
+(in no particular order)
+
+-   [Embrace discomfort]({{< relref "get_good.md" >}})
+-   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
+-   [Retrospectives]({{< relref "get_good.md#as-a-tool-for-improvement" >}})
+-   [Seek out feedback and accept with gratitude]({{< relref "get_good.md" >}})
+-   [Applied cognitive task analysis]({{< relref "get_good.md" >}})
+
+
+## Bibliography {#bibliography}
 
 ## References
 
@@ -27,6 +38,8 @@ slug = "d797ba44-b962-4d6e-9b71-38ca49d070ce"
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [Dan Luu | 95%-Ile Isn't That Good]({{< relref "dan_luu_95_ile_isn_t_that_good.md" >}})
 -   [Smart Guy Productivity Pitfalls]({{< relref "smart_guy_productivity_pitfalls.md" >}})
+-   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
+-   [Seek out feedback and accept with gratitude]({{< relref "get_good.md" >}})
+-   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})

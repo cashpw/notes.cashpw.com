@@ -2,14 +2,14 @@
 title = "Ian Danskin | Always a Bigger Fish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:54:00-07:00
-lastmod = 2023-09-24T10:04:22-07:00
+lastmod = 2023-11-10T10:38:21-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "c0564758-b90d-42a6-be58-44d8985330ad"
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2019</a>)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (Danskin 2019)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -78,104 +78,8 @@ Conservatives tend to think in hierarchies -- like a capitalist -- while liberal
 > If you want to fight fascism, move left.
 
 
-## Flashcards {#flashcards}
-
-
-### Conservatives tend to think {{like a capitalist; in hierarchies}@0} {#conservatives-tend-to-think-like-a-capitalist-in-hierarchies-0}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 8   | 425.06   | 2024-09-07T17:13:54Z |
-
-
-#### Extra {#extra}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Danskin 2019</a>)
-
-
-### Liberals tend to think {{democratically; like an egalitarian}@0} {#liberals-tend-to-think-democratically-like-an-egalitarian-0}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 8   | 570.55   | 2025-04-12T13:04:34Z |
-
-
-#### Extra {#extra}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Danskin 2019</a>)
-
-
-### Hierarchies are {{self-similar}@0} on many scales {#hierarchies-are-self-similar-0-on-many-scales}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 7   | 346.56   | 2024-02-06T17:30:51Z |
-
-
-#### Extra {#extra}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Danskin 2019</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 267.27   | 2023-12-28T23:03:29Z |
-| back     | 2.80 | 7   | 362.59   | 2024-05-28T05:45:10Z |
-
-Hierarchies are recursive
-
-
-#### Back {#back}
-
-Those at the top of the hierarchy have power over those lower in the hierarchy. This relationship is recursive. Those in the middle have power over those lower than themselves, etc.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Danskin 2019</a>)
-
-
-### Summarize {#summarize}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 237.13   | 2024-02-17T20:28:45Z |
-| back     | 2.80 | 4   | 17.03    | 2023-09-28T13:29:04Z |
-
-[Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
-
-
-#### Back {#back}
-
--   People (mostly) act based on their beliefs in a genuine way. Someone does X usually (though not always; [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}})) thinks X is a good idea.
--   It's useful to consider that people actually think and believe different things
--   A leftist isn't "someone who would be on the right but has made some mistakes in their logic", and similarly for those on the right; they're not "failed leftists". The two groups have different underlying assumptions and theories of the world, human behavior, philosophy, etc, from which they derive their conclusions and policy positions. They're internally consistent (for the most part).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Danskin 2019</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “Always a Bigger Fish.” Tumblr. Innuendo Studios. March 22, 2019. <a href="https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called">https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called</a>.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
 -   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
--   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})
 -   [David Chapman | Developing Ethical, Social, and Cognitive Competence]({{< relref "david_chapman_developing_ethical_social_and_cognitive_competence.md" >}})
+-   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})

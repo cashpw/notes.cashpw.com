@@ -2,7 +2,7 @@
 title = "Residual costs"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:11:00-08:00
-lastmod = 2023-09-24T10:41:55-07:00
+lastmod = 2023-11-10T11:13:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,27 +14,7 @@ slug = "c65bf1a1-0c55-4361-afc9-34fa828ecd83"
 > (<a href="#citeproc_bib_item_1">“Agency Cost” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 322.49   | 2024-07-23T04:23:39Z |
-| back     | 1.75 | 5   | 18.94    | 2023-09-26T13:34:26Z |
-
-[Residual costs]({{< relref "residual_costs.md" >}})
-
-
-#### Back {#back}
-
-The costs that arise where the agent acts contrary to the best interests of the principal.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Agency Cost” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

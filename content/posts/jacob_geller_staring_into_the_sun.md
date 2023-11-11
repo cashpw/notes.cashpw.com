@@ -2,14 +2,14 @@
 title = "Jacob Geller | Staring into the Sun"
 author = ["Cash Weaver"]
 date = 2023-08-07T17:25:00-07:00
-lastmod = 2023-09-24T10:20:39-07:00
+lastmod = 2023-11-10T10:57:21-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "a95e0ad1-0b53-4a6e-8502-b54519849fa6"
 +++
 
-[Jacob Geller]({{< relref "jacob_geller.md" >}}), (<a href="#citeproc_bib_item_1">Geller 2023</a>)
+[Jacob Geller]({{< relref "jacob_geller.md" >}}), (Geller 2023)
 
 
 ## Summary {#summary}
@@ -33,12 +33,3 @@ I'm grateful for Geller for writing his essay and putting it out into the world 
 > Even more entertaining, a closer inspection of Regulus shows that the canvas is significantly torn right at the point of sun's greatest impact and stitched back together by Turner himself, as if the intensity of the light couldn't be contained on such a fragile material.
 >
 > Turner's suns were met with a mix of praise, scorn, and general bemusement from critics; my favorite writing about him sounds like warnings to the public; a newspaper in 1837 recommended the paintings be viewed from a safe distance. They said, with an unclear level of humor, that his paintings couldn't be looked at directly without risking eye injury.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Geller, Jacob, ed. 2023. <i>Staring into the Sun</i>. Directed by Jacob Geller. <a href="https://www.youtube.com/watch?v=WSbUPaLTTUg">https://www.youtube.com/watch?v=WSbUPaLTTUg</a>.</div>
-</div>

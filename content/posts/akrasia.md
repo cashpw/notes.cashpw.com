@@ -2,7 +2,7 @@
 title = "Akrasia"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-14T11:53:00-08:00
-lastmod = 2023-09-24T09:52:24-07:00
+lastmod = 2023-11-10T10:24:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,22 +14,7 @@ slug = "cce498c6-3fd2-40e1-9aee-fbc273d7fb32"
 > (<a href="#citeproc_bib_item_1">“Akrasia” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Akrasia {#akrasia}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.00 | 4   | 11.98    | 2023-09-30T15:20:31Z |
-| front    | 2.20 | 9   | 468.77   | 2024-10-14T20:05:32Z |
-
-A lack of self-control or the state of acting against one's better judgment.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Akrasia” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

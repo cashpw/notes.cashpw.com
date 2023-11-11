@@ -2,7 +2,7 @@
 title = "Cayla's quarantine ramen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-30T11:30:00-07:00
-lastmod = 2023-09-24T09:58:20-07:00
+lastmod = 2023-11-10T10:30:42-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -64,9 +64,6 @@ stars = 5
 1.  Chop tofu as desired and fry two sides. (Use air fryer so there is no oil) or fry till crispy in oil in non stick frying pan
 2.  Dice onions, sauté in oil in large soup pot.  Add rice vinegar 3 minutes in. Add cayenne paper. Sauté for 3 more minutes. Add in garlic and ginger. Sauté for 3 minutes or till done. Add veggie broth. Bring to a simmer. Add in all sauces and bean paste. Stir well. Add in ramen noodles. Cook for 3 minutes. Add in bok choy (and any other veggies). Cook for at least 5 minutes. Add in seaweed. Cook for 5 more minutes.
 3.  Serve in bowls. Sprinkle sesame seeds and lemon juice on top.
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

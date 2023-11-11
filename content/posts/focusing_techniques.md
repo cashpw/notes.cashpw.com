@@ -2,7 +2,7 @@
 title = "Focusing techniques"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T07:08:00-08:00
-lastmod = 2023-09-24T10:11:24-07:00
+lastmod = 2023-11-10T10:46:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,27 +17,6 @@ Focusing techniques bridge the gap between a desired state of mind and your pres
 -   [Litany Against Fear]({{< relref "litany_against_fear.md" >}})
 -   [Serenity Prayer]({{< relref "SerenityPrayer2021.md" >}})
 -   [A Beginning]({{< relref "a_beginning.md" >}})
-
-
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 340.79   | 2024-05-26T10:09:03Z |
-| back     | 2.20 | 7   | 186.76   | 2023-11-24T07:14:53Z |
-
-[Focusing techniques]({{< relref "focusing_techniques.md" >}})
-
-
-#### Back {#back}
-
-Techniques which bridge the gap between a desired state of mind and one's present state.
-
-
-#### Source {#source}
 
 
 ## Backlinks {#backlinks}

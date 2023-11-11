@@ -2,7 +2,7 @@
 title = "Visionary architecture"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-24T10:39:00-07:00
-lastmod = 2023-09-24T10:55:30-07:00
+lastmod = 2023-11-10T11:26:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,27 +14,7 @@ slug = "0b177377-113b-43c9-83aa-319703d38fb8"
 > (<a href="#citeproc_bib_item_1">“Visionary Architecture” 2023</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 32.08    | 2023-09-24T18:35:26Z |
-| back     | 2.20 | 4   | 11.89    | 2023-09-29T20:32:38Z |
-
-[Visionary architecture]({{< relref "visionary_architecture.md" >}})
-
-
-#### Back {#back}
-
-Designs which only exist on paper, or those which display idealistic or impractical qualities.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Visionary Architecture” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -45,7 +25,7 @@ Designs which only exist on paper, or those which display idealistic or impracti
 
 ## Backlinks {#backlinks}
 
+-   [Cenotaph for Sir Isaac Newton]({{< relref "cenotaph_for_sir_isaac_newton.md" >}})
 -   [Helen Rosenau, Etienne Louis Boullée | Boullée and Visionary Architecture]({{< relref "helen_rosenau_etienne_louis_boullee_boullee_and_visionary_architecture.md" >}})
 -   [Tsutomu Nihei, Melissa Tanaka | Blame!]({{< relref "tsutomu_nihei_melissa_tanaka_blame.md" >}})
 -   [Monument to the Supreme Being]({{< relref "monument_to_the_supreme_being.md" >}})
--   [Cenotaph for Sir Isaac Newton]({{< relref "cenotaph_for_sir_isaac_newton.md" >}})

@@ -2,14 +2,14 @@
 title = "Anna Salamon | Humans Are Not Automatically Strategic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:45:00-08:00
-lastmod = 2023-09-24T09:53:32-07:00
+lastmod = 2023-11-10T10:26:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "3bac7cee-9146-45df-be28-bb51ac48be68"
 +++
 
-[Anna Salamon]({{< relref "anna_salamon.md" >}}), (<a href="#citeproc_bib_item_1">Salamon 2010</a>)
+[Anna Salamon]({{< relref "anna_salamon.md" >}}), (Salamon 2010)
 
 
 ## Summary {#summary}
@@ -44,38 +44,8 @@ We don't automatically seek out a [Theory of change]({{< relref "theory_of_chang
 > .... or carry out any number of other useful techniques. Instead, we mostly just do things. We act from habit; we act from impulse or convenience when primed by the activities in front of us; we remember our goal and choose an action that feels associated with our goal. We do any number of things. But we do not systematically choose the narrow sets of actions that would effectively optimize for our claimed goals, or for any other goals.
 
 
-## Flashcards {#flashcards}
-
-
-### Summarize {#summarize}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.05 | 8   | 264.39   | 2024-05-17T00:24:20Z |
-| back     | 2.50 | 7   | 209.52   | 2023-12-21T02:46:23Z |
-
-[Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
-
-
-#### Back {#back}
-
--   People "mostly just do things. We act from habit; we act from impulse ... but we do not systematically choose the narrow set of actions that would effectively optimize for our claimed goals ..."
--   We act with thought, but rarely do we act with [Meta]({{< relref "the_metagame.md" >}})-level thought
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Salamon 2010</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. 2010. “Humans Are Not Automatically Strategic.” Less Wrong. September 8, 2010. <a href="https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic">https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic</a>.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
 -   [Scott Alexander]({{< relref "scott_alexander.md" >}})
--   [Todos]({{< relref "todos.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

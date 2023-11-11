@@ -2,14 +2,14 @@
 title = "Alexey Nikitin | My least favorite Git commit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:31:00-08:00
-lastmod = 2023-09-24T10:34:51-07:00
+lastmod = 2023-11-10T11:07:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "89fb44ee-8994-4c6c-89db-bc210039a39b"
 +++
 
-[Alexey Nikitin]({{< relref "alexey_nikitin.md" >}}), (<a href="#citeproc_bib_item_1">Nikitin 2019</a>)
+[Alexey Nikitin]({{< relref "alexey_nikitin.md" >}}), (Nikitin 2019)
 
 
 ## Summary {#summary}
@@ -53,15 +53,6 @@ The essay isn't written in English. I've used Google Translate to read and quote
 > Long commit messages degrade maintainability
 >
 > If you are tempted to write a whole story in a commit message, you should think about how you can provide this story in another way - tests or documentation are much better. Having to read commit messages in order to find and fix a problem is not a sign of good code.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nikitin, Alexey. 2019. “My least favorite Git commit.” Alexey Nikitin. October 26, 2019. <a href="https://www.nikialeksey.com/2019/10/26/long-commit-message.html">https://www.nikialeksey.com/2019/10/26/long-commit-message.html</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

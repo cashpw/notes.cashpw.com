@@ -2,14 +2,14 @@
 title = "Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain"
 author = ["Cash Weaver"]
 date = 2023-01-11T20:52:00-08:00
-lastmod = 2023-09-24T10:22:10-07:00
+lastmod = 2023-11-10T10:58:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "796ad559-ee93-4896-9101-a3395c7dd2d4"
 +++
 
-[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (<a href="#citeproc_bib_item_1">Ricon n.d.</a>)
+[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (Ricon n.d.)
 
 
 ## Summary {#summary}
@@ -79,34 +79,6 @@ The book is [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}}) w
 > This confused use of concepts applies to many of these hidden motives: and it is the basic misunderstanding first year students of evolutionary psychology are taught to avoid: There are ultimate [[Ultimate cause]({{< relref "ultimate_cause.md" >}})] and proximate [[Proximate cause]({{< relref "proximate_cause.md" >}})] explanations for behaviours. Reproduction may be the ultimate reason why we happen to find sex pleasurable. But pleasure itself and alone is in most cases why people have sex while going to great lengths to avoid conceptions.
 >
 > Similarly, for selfishness, take the case of a parent who does X for her child out of altruism. Again, something saying: "it is actually selfishness, X helps propagate certain genes that reward X" would be mistaken in their assessment of X as selfish in the standard meaning of selfishness, even if that were correct from a gene-centric perspective.
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 3.10 | 6   | 165.72   | 2023-09-21T08:30:52Z |
-
-How the aristocratic and religious origin of education may have influenced subject matter
-
-
-#### Back {#back}
-
-> In the past, if you wanted to become a blacksmith, you just learned from your father or became an apprentice at the local guild. Aristocrats had to learn their signaling subjects. Men of religion had to learn grammar, and logic, rhetoric, and latin to engage in theology. When education was then extended to the masses, elites wanted them to have proper values and morals, etc. People might also have been looking upwards at what the elites were doing, and seeing those things as being high status, they became ingrained into what education was becoming. Fast forward to the present and we still have some of that present.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Ricon n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ricon, Jose Luis. n.d. “This Review Is Not About Reviewing The Elephant in the Brain.” <i>Nintil</i>. Accessed January 12, 2023. <a href="https://nintil.com/this-review-is-not-about-reviewing-the-elephant-in-the-brain">https://nintil.com/this-review-is-not-about-reviewing-the-elephant-in-the-brain</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

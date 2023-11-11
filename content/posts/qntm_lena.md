@@ -2,14 +2,14 @@
 title = "qntm | Lena"
 author = ["Cash Weaver"]
 date = 2023-03-02T18:58:00-08:00
-lastmod = 2023-09-24T10:39:58-07:00
+lastmod = 2023-11-10T11:12:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "91634f48-f695-42cf-8a4a-46ec5552b638"
 +++
 
-[qntm]({{< relref "qntm.md" >}}), (<a href="#citeproc_bib_item_1">qntm n.d.</a>)
+[qntm]({{< relref "qntm.md" >}}), (qntm n.d.)
 
 
 ## Summary {#summary}
@@ -97,12 +97,3 @@ Fictional descriptive entry about the first widely-used [Mind upload]({{< relref
 > -   Upload pruning
 >
 > Categories: 2030s uploads | MMAcevedo | Neuroimaging | Test items
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>qntm. n.d. “Lena.” Accessed March 3, 2023. <a href="https://qntm.org/mmacevedo">https://qntm.org/mmacevedo</a>.</div>
-</div>

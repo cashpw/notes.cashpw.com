@@ -2,7 +2,7 @@
 title = "Respirators"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T14:47:00-08:00
-lastmod = 2023-09-24T10:41:58-07:00
+lastmod = 2023-11-10T11:13:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,21 +16,21 @@ slug = "abfd840c-6815-4565-91bd-4b58661b9b62"
 
 > N for **Not resistant to oil**
 >
-> (<a href="#citeproc_bib_item_1">“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020</a>), emphasis mine
+> (“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020), emphasis mine
 
 
 ### P-series respirator {#p-series-respirator}
 
 > P for **oil Proof**
 >
-> (<a href="#citeproc_bib_item_1">“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020</a>), emphasis mine
+> (“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020), emphasis mine
 
 
 ### R-series respirator {#r-series-respirator}
 
 > R for **Resistant to oil**
 >
-> (<a href="#citeproc_bib_item_1">“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020</a>), emphasis mine
+> (“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020), emphasis mine
 
 
 ## Respirator efficiency {#respirator-efficiency}
@@ -41,7 +41,7 @@ slug = "abfd840c-6815-4565-91bd-4b58661b9b62"
 > | \*99 (e.g. N99)   | 99%        |
 > | \*95 (e.g. N95)   | 95%        |
 >
-> (<a href="#citeproc_bib_item_1">“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020</a>)
+> (“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020)
 
 
 ## Respirator service time {#respirator-service-time}
@@ -56,7 +56,7 @@ slug = "abfd840c-6815-4565-91bd-4b58661b9b62"
 >
 > R- or P-series filters can be used for protection against oil or non-oil aerosols. N-series filters should be used only for non-oil aerosols. Use and reuse of the P-series filters would be subject only to considerations of hygiene, damage, and increased breathing resistance. Generally, the use and reuse of N-series filters would also be subject only to considerations of hygiene, damage, and increased breathing resistance. However, for dirty workplaces that could result in high filter loading (i.e., 200 mg), service time for N-series filters should be extended beyond 8 hours of use (continuous or intermittent) by performing an evaluation in specific workplace settings that: (a) demonstrates extended use will not degrade the filter efficiency below the efficiency level specified in Part 84, or (b) demonstrates the total mass loading of the filter(s) is less than 200 mg. The R-series filters should be used only for a single shift (or for 8 hours of continuous or intermittent use) when oil is present. However, service time for the R-series filters can be extended using the same two methods described above for N-series filters. These determinations would need to be repeated whenever conditions change or modifications are made to processes that could change the type of particulate generated in the user's facility.
 >
-> (<a href="#citeproc_bib_item_1">“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020</a>)
+> (“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020)
 
 
 ## Which do I need? {#which-do-i-need}
@@ -64,55 +64,6 @@ slug = "abfd840c-6815-4565-91bd-4b58661b9b62"
 See [Use the right respirator]({{< relref "use_the_right_respirator.md" >}}).
 
 
-## Flashcards {#flashcards}
+## Backlinks {#backlinks}
 
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 205.42   | 2024-01-27T14:19:23Z |
-| 1        | 2.50 | 7   | 281.19   | 2024-06-02T19:21:02Z |
-
-([Respirators]({{< relref "respirators.md" >}})) {{N}@0} stands for {{not resistant to oil}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 299.95   | 2024-06-22T12:05:58Z |
-| 1        | 2.80 | 7   | 305.83   | 2024-06-30T11:06:34Z |
-
-([Respirators]({{< relref "respirators.md" >}})) {{R}@0} stands for {{resistant to oil}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 149.78   | 2023-09-28T18:13:01Z |
-| 1        | 2.20 | 4   | 12.89    | 2023-10-01T13:09:18Z |
-
-([Respirators]({{< relref "respirators.md" >}})) {{P}@0} stands for {{oil proof}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“NIOSH Guide to the Selection and Use of Particulate Respirators Certified under 42 CFR 84.” 2020, October. <a href="https://doi.org/10.26616/NIOSHPUB96101">https://doi.org/10.26616/NIOSHPUB96101</a>.</div>
-</div>
+-   [My one-bag packing list]({{< relref "respirators.md" >}})

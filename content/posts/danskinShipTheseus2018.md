@@ -2,14 +2,14 @@
 title = "Ian Danskin | The Ship of Theseus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T20:03:00-07:00
-lastmod = 2023-09-24T10:04:48-07:00
+lastmod = 2023-11-10T10:38:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "309082e8-abb5-4fdf-9944-fc63d8a8197e"
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2018</a>)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (Danskin 2018)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -64,18 +64,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 <!--quoteend-->
 
 > [...] when the Right does this, it does it to the Left, and, when the Left does this, it does it to itself. The Far Right is perfectly happy converting an attack or a bad argument into whatever they think progressive language sounds like, and bigots on the Left are perfectly happy sneaking transphobic arguments into feminism, but the Left, by and large, will not touch conservative language. We don't try to isolate a member of the Alt-Right by telling his community he's a race traitor or secretly gay.
-
-
-## Flashcards {#flashcards}
-
-
-### [Ship of Theseus (argument)]({{< relref "ship_of_theseus.md" >}}) {#ship-of-theseus--argument----ship-of-theseus-dot-md}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2018. “The Ship of Theseus.” Tumblr. Innuendo Studios. May 1, 2018. <a href="https://innuendostudios.tumblr.com/post/173479828992/the-newest-installment-of-the-alt-right-playbook">https://innuendostudios.tumblr.com/post/173479828992/the-newest-installment-of-the-alt-right-playbook</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

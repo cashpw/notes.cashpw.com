@@ -2,7 +2,9 @@
 title = "Attention economy"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:17:00-08:00
-lastmod = 2023-09-24T09:54:28-07:00
+lastmod = 2023-11-10T10:26:56-08:00
+tags = ["hastodo", "hastodo"]
+categories = ["hastodo"]
 draft = false
 slug = "cd48945d-3cb1-46b1-a4ad-15fe89655d11"
 +++
@@ -17,43 +19,14 @@ slug = "cd48945d-3cb1-46b1-a4ad-15fe89655d11"
 >
 > [I]n an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention and a need to allocate that attention efficiently among the overabundance of information sources that might consume it.
 >
-> (<a href="#citeproc_bib_item_1">“Attention Economy” 2022</a>)
+> (“Attention Economy” 2022)
 
-Related: [Continuous partial attention]({{< relref "continuous_partial_attention.md" >}})
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 8   | 323.12   | 2024-07-23T16:12:37Z |
-| back     | 2.50 | 7   | 179.74   | 2023-11-06T09:50:57Z |
-
-[Attention economy]({{< relref "attention_capital_theory.md" >}})
-
-
-#### Back {#back}
-
-A view of the management of information which treats human attention as a scarce commodity and applies economic theory to information management problems.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Attention Economy” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attention Economy.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Attention_economy&oldid=1120830324">https://en.wikipedia.org/w/index.php?title=Attention_economy&#38;oldid=1120830324</a>.</div>
-</div>
+Related: [Continuous partial attention]({{< relref "continuous_partial_attention.md" >}}). This is one of my [Favorites]({{< relref "favorites.md" >}}).
 
 
 ## Backlinks {#backlinks}
 
+-   [RSS is great]({{< relref "rss_is_great.md" >}})
 -   [Stephen Kuenzli | Key Practices for Achieving Large Professional Goals]({{< relref "kuenzliKeyPracticesAchievingLargeProfessionalGoals2019.md" >}})
 -   [Cal Newport | About]({{< relref "newport.md" >}})
 -   [Ben Kuhn | Attention Is Your Scarcest Resource]({{< relref "kuhnAttentionYourScarcest2020.md" >}})
--   [Favorites]({{< relref "favorites.md" >}})

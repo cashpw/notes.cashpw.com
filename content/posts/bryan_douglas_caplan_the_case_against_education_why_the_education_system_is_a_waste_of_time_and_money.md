@@ -2,7 +2,7 @@
 title = "Bryan Caplan | The Case against Education: Why the Education System Is a Waste of Time and Money"
 author = ["Cash Weaver"]
 date = 2023-01-12T10:18:00-08:00
-lastmod = 2023-09-24T09:57:25-07:00
+lastmod = 2023-11-10T10:29:45-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -23,7 +23,7 @@ The general thrust that formal education is rife with [Signaling]({{< relref "si
 ## Notes {#notes}
 
 
-## Flashcards {#flashcards}
+## Bibliography {#bibliography}
 
 ## References
 

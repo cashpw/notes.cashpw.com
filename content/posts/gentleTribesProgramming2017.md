@@ -2,14 +2,14 @@
 title = "Joseph Gentle | Three Tribes of Programming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T10:06:00-07:00
-lastmod = 2023-09-24T10:13:19-07:00
+lastmod = 2023-11-10T10:48:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "2f62e8c7-6d64-4820-9b12-3949627c2386"
 +++
 
-[Joseph Gentle]({{< relref "joseph_gentle.md" >}}), (<a href="#citeproc_bib_item_1">Gentle 2017</a>)
+[Joseph Gentle]({{< relref "joseph_gentle.md" >}}), (Gentle 2017)
 
 
 ## Summary {#summary}
@@ -68,103 +68,3 @@ slug = "2f62e8c7-6d64-4820-9b12-3949627c2386"
 > I can't help but feel that this place is a touch soulless. Taken to the extreme, this world view doesn't value the beauty in the engineering itself. Although you could probably make the opposite criticism against the other groups - they don't value how their software can impact the world.
 
 Also see [Moloch]({{< relref "moloch.md" >}}).
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 232.94   | 2024-02-03T11:58:56Z |
-| back     | 2.80 | 7   | 314.68   | 2024-05-28T06:01:43Z |
-
-[Joseph Gentle | Three Tribes of Programming]({{< relref "gentleTribesProgramming2017.md" >}})
-
-
-#### Back {#back}
-
-1.  Poets and mathematicians: [Programming as applied mathematics](#programming-as-applied-mathematics)
-2.  Hackers: [Programming as hardware hacking](#programming-as-hardware-hacking)
-3.  Makers: [Programming as a tool to make things](#programming-as-a-tool-to-make-things)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Gentle 2017</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 296.24   | 2024-03-28T20:24:42Z |
-| back     | 2.35 | 7   | 177.62   | 2023-11-09T08:15:36Z |
-
-[Programming as applied mathematics](#programming-as-applied-mathematics)
-
-
-#### Back {#back}
-
-> -   Source code: The source should read like poetry - dense, with very few lines of code needed to express an idea.
-> -   Execution: How the program is executed by the computer is an implementation detail of the compiler.
-> -   Correctness: A program is correct if it implements the spec exactly.
-> -   UI: Beautiful code is more important than beautiful UI.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Gentle 2017</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 237.62   | 2023-12-27T12:59:39Z |
-| back     | 2.35 | 7   | 199.79   | 2023-11-25T11:34:02Z |
-
-[Programming as hardware hacking](#programming-as-hardware-hacking)
-
-
-#### Back {#back}
-
-> -   Source code: The code should be clean, but clean code is less important than a clean execution.
-> -   Execution: How the computer executes your code is paramount.
-> -   Correctness: A program is correct if it runs the way you expect it to run, given normal parameters.
-> -   UI: How the code interacts with humans is a separate consideration from its implementation.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Gentle 2017</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 290.11   | 2024-03-18T03:52:04Z |
-| back     | 2.80 | 7   | 330.54   | 2024-05-12T04:28:17Z |
-
-[Programming as a tool to make things](#programming-as-a-tool-to-make-things)
-
-
-#### Back {#back}
-
-> -   Source code: The code should be clean, but only because cleaner code is easier to iterate on.
-> -   Execution: The program only has to be fast enough for the users.
-> -   Correctness: Bugs are bad only in proportion to their impact.
-> -   UI: The UI is more important than anything else.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Gentle 2017</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Gentle, Joseph. 2017. “3 Tribes of Programming.” Seph. May 3, 2017. <a href="http://josephg.com/blog/3-tribes/">http://josephg.com/blog/3-tribes/</a>.</div>
-</div>

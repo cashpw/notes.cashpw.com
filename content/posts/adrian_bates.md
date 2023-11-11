@@ -2,7 +2,7 @@
 title = "Adrian Bates"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-18T11:14:00-08:00
-lastmod = 2023-09-24T09:52:09-07:00
+lastmod = 2023-11-10T10:24:34-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -17,6 +17,3 @@ Among other things:
 -   [@adrian_bates_ceramics](https://instagram.com/adrian_bates_ceramics)
 -   [Ceramic Review: Masterclass with Adrian Bates](https://youtube.com/watch?v=Xu-eSkU515o)
 -   [Website](https://www.adrianbatesceramics.com/)
-
-
-## Flashcards {#flashcards}

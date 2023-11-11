@@ -2,14 +2,14 @@
 title = "James C. Scott | Seeing like a State"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:24:00-08:00
-lastmod = 2023-09-24T10:20:46-07:00
+lastmod = 2023-11-10T10:57:35-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "893aff24-4682-45e6-8d50-e4d55f0aa0cf"
 +++
 
-[James Scott]({{< relref "james_scott.md" >}}), (<a href="#citeproc_bib_item_1">Scott 2020</a>)
+[James Scott]({{< relref "james_scott.md" >}}), (Scott 2020)
 
 
 ## Summary {#summary}
@@ -49,84 +49,6 @@ YOLLAND: Something is being eroded.<br />
 <br />
 — Brian Friel, Translations 2.1<br />
 
-</div>
-
-
-## Flashcards {#flashcards}
-
-Also see [Legibility]({{< relref "legible.md" >}}), [High modernism]({{< relref "high_modernism.md" >}})
-
-
-### Summarize {#summarize}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 243.52   | 2024-03-13T13:21:54Z |
-| back     | 2.95 | 7   | 416.26   | 2024-10-14T21:33:16Z |
-
-[James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
-
-
-#### Back {#back}
-
-A government's ability to govern, collect taxes, raise armies, etc, is greater when its people are legible. Thus, the state imposes [Legibility]({{< relref "legible.md" >}}) on its people: standards for weights and measures, names, land management, languages, etc (see [High modernism]({{< relref "high_modernism.md" >}})).
-
-A book which emphasizes the perspective of a governing body on its subjects through [Legibility]({{< relref "legible.md" >}}), and [High modernism]({{< relref "high_modernism.md" >}})
-
-
-#### Source {#source}
-
-[James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 316.21   | 2024-05-30T18:49:00Z |
-| back     | 2.50 | 7   | 250.94   | 2024-03-04T14:08:01Z |
-
-Benefits of [Legibility]({{< relref "legible.md" >}}) (singular)
-
-
-#### Back {#back}
-
--   Industrialized agriculture, medicine, etc
--   Human waste treatment and reduction in disease
--   Ability to navigate in an unfamiliar place without a guide
--   Standard weights and measures
-
-
-#### Source {#source}
-
-[James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 221.48   | 2024-02-02T05:14:36Z |
-| back     | 2.35 | 7   | 154.11   | 2023-11-01T18:18:07Z |
-
-Detriments of [Legibility]({{< relref "legible.md" >}}) (singular)
-
-
-#### Back {#back}
-
--   Loss of local culture, religions, traditions, languages
--   Inability to hide/etc from the eye of the state
--   Standardization leading to a loss of experimentation and small-scale innovation
-
-
-#### Source {#source}
-
-[James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Scott, James C. 2020. <i>Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed</i>. Veritas paperback edition. New Haven: Yale University Press.</div>
 </div>
 
 

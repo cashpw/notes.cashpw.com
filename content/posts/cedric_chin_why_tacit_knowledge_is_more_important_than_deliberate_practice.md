@@ -2,7 +2,7 @@
 title = "Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice"
 author = ["Cash Weaver"]
 date = 2023-06-30T18:54:00-07:00
-lastmod = 2023-09-24T09:59:46-07:00
+lastmod = 2023-11-10T10:32:30-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -155,42 +155,7 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 #### Cite oxford handbook of expertise {#cite-oxford-handbook-of-expertise}
 
 
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 6   | 68.42    | 2023-11-03T23:44:05Z |
-| 1        | 2.35 | 6   | 61.91    | 2023-11-02T12:16:05Z |
-
-{{[Tacit knowledge]({{< relref "tacit_knowledge.md" >}})}@0} looks like {{an explanation with a list of caveats}@1}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">Chin 2020</a>)
-
-
-### Compare and contrast ([Cedric Chin]({{< relref "cedric_chin.md" >}})) {#compare-and-contrast--cedric-chin-cedric-chin-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 3   | 6.00     | 2023-09-24T15:52:35Z |
-
-[Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) and [Deliberate practice]({{< relref "deliberate_practice.md" >}})
-
-
-#### Back {#back}
-
--   [Deliberate practice]({{< relref "deliberate_practice.md" >}}) is only possible in domains with long pedagogical histories (e.g. math or music)
--   [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) exists in _all_ domains, is difficult to scale, but is more useful
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">Chin 2020</a>)
+## Bibliography {#bibliography}
 
 ## References
 

@@ -2,7 +2,7 @@
 title = "Collaborate for better results"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T09:14:00-07:00
-lastmod = 2023-09-24T10:01:28-07:00
+lastmod = 2023-11-10T10:34:38-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -16,9 +16,6 @@ General idea: An individual acting on their own an producing for a wider audienc
 Related:
 
 -   [Feedback]({{< relref "julian_shapiro_writing_well_handbook.md#feedback" >}})
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

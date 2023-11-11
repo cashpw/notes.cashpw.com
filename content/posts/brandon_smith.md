@@ -2,15 +2,12 @@
 title = "Brandon Smith"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T14:46:00-08:00
-lastmod = 2023-09-24T09:57:08-07:00
+lastmod = 2023-11-10T10:29:30-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "66692396-8da1-47a3-ad04-45e0d6a89395"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

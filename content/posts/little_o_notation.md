@@ -2,7 +2,7 @@
 title = "Little-o notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:06:00-07:00
-lastmod = 2023-09-24T10:27:39-07:00
+lastmod = 2023-11-10T11:02:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,64 +21,6 @@ Little-o notation, written as \\(\littleo{g(n)}\\), is a stronger statement than
 To use an analogy:
 
 \\[\begin{align}f(n) &\in \bigo{g(n)} &\implies f(n) &\le g(n) \\\ f(n) &\in \littleo{g(n)} &\implies f(n) &< g(n)\end{align}\\]
-
-
-## Flashcards {#flashcards}
-
-
-### Definition (Computer science) {#definition--computer-science}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.20 | 9   | 284.19   | 2024-02-24T19:20:03Z |
-| front    | 1.75 | 5   | 18.08    | 2023-10-09T16:16:08Z |
-
-[Little-o notation]({{< relref "little_o_notation.md" >}})
-
-
-#### Back {#back}
-
-\\[\operatorname{fn}(g(x)) \overset{\Delta}{=} \lim\_{x \to \infty} \frac{f(x)}{g(x)} = 0\\]
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Big O Notation” 2022</a>)
-
-
-### Denotes (Computer science) {#denotes--computer-science}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 3.10 | 7   | 432.25   | 2024-09-16T18:56:26Z |
-| 1        | 2.80 | 7   | 257.74   | 2024-01-16T15:32:14Z |
-
--   {{\\(o(n)\\)}@0}
-
-{{[Little-o notation]({{< relref "little_o_notation.md" >}})}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Big O Notation” 2022</a>)
-
-
-### [Little-o notation]({{< relref "little_o_notation.md" >}}) is a {{stronger}{relative strength}@0} statement than [Big-O notation]({{< relref "big_o_notation.md" >}}) {#little-o-notation--little-o-notation-dot-md--is-a-stronger-relative-strength-0-statement-than-big-o-notation--big-o-notation-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 7   | 424.32   | 2024-09-06T23:30:17Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Big O Notation” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Big O Notation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Big_O_notation&oldid=1093535234">https://en.wikipedia.org/w/index.php?title=Big_O_notation&#38;oldid=1093535234</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

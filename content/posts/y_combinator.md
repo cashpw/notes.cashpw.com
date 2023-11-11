@@ -2,7 +2,7 @@
 title = "Y combinator"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-16T19:49:00-08:00
-lastmod = 2023-09-24T10:57:01-07:00
+lastmod = 2023-11-10T11:27:57-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -15,6 +15,3 @@ A [Fixed-point combinator]({{< relref "fixed_point_combinator.md" >}}).
 ##  {#d41d8c}
 
 See <https://eli.thegreenplace.net/2016/some-notes-on-the-y-combinator/>
-
-
-## Flashcards {#flashcards}

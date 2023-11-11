@@ -2,15 +2,12 @@
 title = "Mark Lutter"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T09:33:00-08:00
-lastmod = 2023-09-24T10:28:53-07:00
+lastmod = 2023-11-10T11:03:52-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
 slug = "c2a678a0-c464-4708-ac18-9a3e3eab7531"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

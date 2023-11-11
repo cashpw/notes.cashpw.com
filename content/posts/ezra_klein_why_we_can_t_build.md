@@ -2,14 +2,14 @@
 title = "Ezra Klein | Why We Can't Build"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:23:00-08:00
-lastmod = 2023-09-24T10:09:56-07:00
+lastmod = 2023-11-10T10:44:47-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "2ff2cbd5-43a3-4c54-bb11-d7e4f34a0bfc"
 +++
 
-[Ezra Klein]({{< relref "ezra_klein.md" >}}), (<a href="#citeproc_bib_item_1">Klein 2020</a>)
+[Ezra Klein]({{< relref "ezra_klein.md" >}}), (Klein 2020)
 
 
 ## Thoughts {#thoughts}
@@ -86,29 +86,6 @@ I agree with Klein's conclusion that the overall solution is one which reforms, 
 > But legislators on both sides prefer the status quo because it gives them power when they're in the minority, and because they're more afraid of what their opponents might do than committed to what they've promised to do. The allure of what they could build isn't as powerful as the fear of what the other side may build.
 >
 > I'll let others make granular recommendations at the state, local, and market levels. But whatever the recommendations, the same thing is needed: A sustained and concerted movement that cares about institutional reform. But people get much more excited about building something, anything, than about reforming existing institutions. [[Meta]({{< relref "the_metagame.md" >}})]-building isn't a popular pastime, and the patient, focused work it requires is particularly frustrating, in my experience, to entrepreneurial personalities.
-
-
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 406.98   | 2024-10-03T16:10:11Z |
-
-[Ezra Klein]({{< relref "ezra_klein.md" >}}) proposes that we don't [build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}}) because {{key American systems bias toward inaction}@0}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Klein 2020</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Klein, Ezra. 2020. “Why We Can’t Build.” Vox. April 22, 2020. <a href="https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus">https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

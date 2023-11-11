@@ -2,7 +2,7 @@
 title = "Discipline is more effective than motivation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:21:00-08:00
-lastmod = 2023-09-24T10:06:42-07:00
+lastmod = 2023-11-10T10:41:07-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -17,9 +17,6 @@ That isn't to say motivation is useless. Motivation is effective as a means to a
 
 
 ## Expand {#expand}
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

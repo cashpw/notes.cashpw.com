@@ -2,7 +2,7 @@
 title = "Adjacency list"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:07:00-07:00
-lastmod = 2023-09-24T09:52:04-07:00
+lastmod = 2023-11-10T10:24:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,27 +26,7 @@ The above graph can be represented as the set \\(S\\) which contains \\(\\{B,C\\
 Also see [Adjacency matrix]({{< relref "adjacency_matrix.md" >}}).
 
 
-## Flashcards {#flashcards}
-
-
-### Definition (Computer science) {#definition--computer-science}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.35 | 7   | 167.24   | 2023-10-24T21:34:08Z |
-| front    | 2.50 | 8   | 560.89   | 2025-02-19T12:38:37Z |
-
-[Adjacency list]({{< relref "adjacency_list.md" >}})
-
-
-#### Back {#back}
-
-A representation of a [Graph]({{< relref "graph.md" >}}) using a collection of unordered lists.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Adjacency List” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

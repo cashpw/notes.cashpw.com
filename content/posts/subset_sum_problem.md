@@ -2,7 +2,7 @@
 title = "Subset sum problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:30:00-08:00
-lastmod = 2023-09-24T10:48:37-07:00
+lastmod = 2023-11-10T11:19:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3"
 >
 > SSP is a special case of the knapsack problem [[Knapsack problem]({{< relref "knapsack_problem.md" >}})] and of the multiple subset sum problem.
 >
-> (<a href="#citeproc_bib_item_1">“Subset Sum Problem” 2023</a>)
+> (“Subset Sum Problem” 2023)
 
 
 ## [Pseudo-polynomial time]({{< relref "pseudo_polynomial_time.md" >}}) time [Dynamic programming]({{< relref "dynamic_programming.md" >}}) solution {#pseudo-polynomial-time--pseudo-polynomial-time-dot-md--time-dynamic-programming--dynamic-programming-dot-md--solution}
@@ -45,54 +45,10 @@ slug = "1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3"
 [Pseudo-polynomial time subset sum problem implementation in Python]({{< relref "pseudo_polynomial_time_sumbset_sum_problem_implementation_in_python.md" >}}).
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 431.77   | 2024-11-26T07:17:27Z |
-| back     | 2.50 | 7   | 319.76   | 2024-07-20T07:43:54Z |
-
-[Subset sum problem]({{< relref "subset_sum_problem.md" >}})
-
-
-#### Back {#back}
-
-Determine whether any subset of values in a [Multiset]({{< relref "multiset.md" >}}), \\(S\\), sum to a target-sum, \\(T\\).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Subset Sum Problem” 2023</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 263.45   | 2024-04-29T11:31:38Z |
-| 1        | 2.50 | 7   | 228.95   | 2024-03-20T14:08:41Z |
-
-{{[Subset sum problem]({{< relref "subset_sum_problem.md" >}})}@0} is a special case of {{the [Knapsack problem]({{< relref "knapsack_problem.md" >}})}@1}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Subset Sum Problem” 2023</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Subset Sum Problem.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Subset_sum_problem&oldid=1136150450">https://en.wikipedia.org/w/index.php?title=Subset_sum_problem&#38;oldid=1136150450</a>.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
 -   [2sum linear time solution in Python]({{< relref "2sum_linear_time_solution_in_python.md" >}})
--   [Pseudo-polynomial time subset sum problem implementation in Python]({{< relref "pseudo_polynomial_time_sumbset_sum_problem_implementation_in_python.md" >}})
 -   [2sum]({{< relref "2sum.md" >}})
--   [Three sum]({{< relref "three_sum.md" >}})
 -   [Knapsack problem]({{< relref "knapsack_problem.md" >}})
+-   [Pseudo-polynomial time subset sum problem implementation in Python]({{< relref "pseudo_polynomial_time_sumbset_sum_problem_implementation_in_python.md" >}})
+-   [Three sum]({{< relref "three_sum.md" >}})

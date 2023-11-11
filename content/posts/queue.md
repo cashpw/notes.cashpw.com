@@ -2,7 +2,7 @@
 title = "Queue"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2023-09-24T10:40:06-07:00
+lastmod = 2023-11-10T11:12:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,102 +29,7 @@ A queue is an [Abstract data type]({{< relref "abstract_data_type.md" >}}).
 -   [Priority queue]({{< relref "priority_queue.md" >}})
 
 
-## Flashcards {#flashcards}
-
-
-### Definition (Computer science) {#definition--computer-science}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.35 | 8   | 476.34   | 2024-11-01T08:56:50Z |
-| front    | 2.20 | 8   | 351.95   | 2024-05-17T14:29:48Z |
-
-[Queue]({{< relref "queue.md" >}})
-
-
-#### Back {#back}
-
-An [Abstract data type]({{< relref "abstract_data_type.md" >}}) which defines a collection of entities, maintained in sequence.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Queue (Abstract Data Type)” 2022</a>)
-
-
-### A [Queue]({{< relref "queue.md" >}}) follows {{[First in, first out]({{< relref "first_in_first_out.md" >}})}{ordering}@1} {#a-queue--queue-dot-md--follows-first-in-first-out--first-in-first-out-dot-md--ordering-1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 1        | 2.95 | 7   | 368.17   | 2024-03-13T09:29:52Z |
-
-
-#### Extra {#extra}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Queue (Abstract Data Type)” 2022</a>)
-
-
-### Compare/Contrast {#compare-contrast}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 395.72   | 2024-07-14T18:02:12Z |
-
-[Queue]({{< relref "queue.md" >}}) and [Stack]({{< relref "stack.md" >}})
-
-
-#### Back {#back}
-
--   [Queue]({{< relref "queue.md" >}}): [First in, first out]({{< relref "first_in_first_out.md" >}})
--   [Stack]({{< relref "stack.md" >}}): [First in, last out]({{< relref "first_in_last_out.md" >}})
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Queue (Abstract Data Type)” 2022</a>)
-
-
-### A {{[Queue]({{< relref "queue.md" >}})}@0} is the opposite of a {{[Stack]({{< relref "stack.md" >}})}@1} {#a-queue--queue-dot-md--0-is-the-opposite-of-a-stack--stack-dot-md--1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 1        | 2.80 | 7   | 301.91   | 2023-12-16T01:07:54Z |
-| 0        | 2.50 | 7   | 269.40   | 2023-10-22T02:33:35Z |
-
-
-#### Extra {#extra}
-
-A [Queue]({{< relref "queue.md" >}}) is [First in, first out]({{< relref "first_in_first_out.md" >}}) while a [Stack]({{< relref "stack.md" >}}) is [First in, last out]({{< relref "first_in_last_out.md" >}}).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Queue (Abstract Data Type)” 2022</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.95 | 7   | 360.55   | 2024-03-16T06:43:46Z |
-| back     | 2.80 | 7   | 260.63   | 2023-10-16T07:38:20Z |
-
-Common API of a [Queue]({{< relref "queue.md" >}})
-
-
-#### Back {#back}
-
--   `enqueue`
--   `dequeue`
--   `peek`
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Queue (Abstract Data Type)” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -135,6 +40,6 @@ Common API of a [Queue]({{< relref "queue.md" >}})
 
 ## Backlinks {#backlinks}
 
--   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Python library: queue]({{< relref "python_library_queue.md" >}})
+-   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Priority queue]({{< relref "priority_queue.md" >}})

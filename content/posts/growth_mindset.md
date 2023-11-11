@@ -2,7 +2,7 @@
 title = "Growth mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T15:27:00-07:00
-lastmod = 2023-09-24T10:14:58-07:00
+lastmod = 2023-11-10T10:50:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,49 +13,21 @@ slug = "c19c4cf1-9304-46b7-9441-8fed0ed17a57"
 >
 > [Grit]({{< relref "grit.md" >}}) closely relates to a growth mindset.
 >
-> (<a href="#citeproc_bib_item_1">“Mindset” 2022</a>)
+> (“Mindset” 2022)
 
 <!--quoteend-->
 
 > According to [Carol Dweck]({{< relref "carol_dweck.md" >}}), individuals can be placed on a continuum according to their implicit views of "where ability comes from". The two categorical extremes are [Fixed mindset]({{< relref "fixed_mindset.md" >}}) and [Growth mindset]({{< relref "growth_mindset.md" >}}).
 >
-> (<a href="#citeproc_bib_item_1">“Mindset” 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 350.94   | 2024-05-31T12:19:00Z |
-| back     | 2.20 | 8   | 352.70   | 2024-09-06T16:49:20Z |
-
-[Growth mindset]({{< relref "growth_mindset.md" >}})
-
-
-#### Back {#back}
-
-A concept which holds that individuals can enhance/expand/grow their intelligence, ability, aptitude, etc, through the learning process.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Mindset” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindset.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Mindset&oldid=1114760560#Fixed_and_growth_mindset">https://en.wikipedia.org/w/index.php?title=Mindset&#38;oldid=1114760560#Fixed_and_growth_mindset</a>.</div>
-</div>
+> (“Mindset” 2022)
 
 
 ## Backlinks {#backlinks}
 
 -   [Grit]({{< relref "grit.md" >}})
 -   [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})
+-   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})
 -   [Fixed mindset]({{< relref "fixed_mindset.md" >}})
 -   [No zero days]({{< relref "no_zero_days.md" >}})
+-   [Praise process and effort]({{< relref "growth_mindset.md" >}})
 -   [The first lesson]({{< relref "the_first_lesson.md" >}})
--   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})

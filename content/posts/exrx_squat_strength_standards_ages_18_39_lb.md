@@ -2,14 +2,14 @@
 title = "ExRx | Squat Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T11:07:00-07:00
-lastmod = 2023-09-24T10:09:42-07:00
+lastmod = 2023-11-10T10:44:30-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "c4df15c4-fbdc-4de5-b072-cce83d5d76e3"
 +++
 
-[ExRx]({{< relref "exrx.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
+[ExRx]({{< relref "exrx.md" >}}), (ExRx n.d.)
 
 
 ## Notes {#notes}
@@ -38,15 +38,6 @@ Numbers are in pounds.
 
 
 ### [Squat](https://exrx.net/WeightExercises/GluteusMaximus/BBSquat): Women, 18-39 {#squat-women-18-39}
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>ExRx. n.d. “Squat Strength Standards (Ages 18-39, Lb).” Accessed July 6, 2023. <a href="https://exrx.net/Testing/WeightLifting/SquatStandards">https://exrx.net/Testing/WeightLifting/SquatStandards</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

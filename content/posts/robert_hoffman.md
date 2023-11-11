@@ -2,15 +2,12 @@
 title = "Robert Hoffman"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T16:49:00-07:00
-lastmod = 2023-09-24T10:42:09-07:00
+lastmod = 2023-11-10T11:14:02-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "befc954b-de22-46b6-b68e-3f0cc1536880"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

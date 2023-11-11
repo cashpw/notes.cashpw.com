@@ -2,7 +2,7 @@
 title = "Mastery learning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:23:00-08:00
-lastmod = 2023-09-24T10:29:13-07:00
+lastmod = 2023-11-10T11:04:04-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
 
 > Mastery learning is a set of group-based, individualized, teaching and learning strategies based on the premise that students will achieve a high level of understanding in a given domain if they are given enough time.
 >
-> (<a href="#citeproc_bib_item_1">“Mastery Learning” 2022</a>)
+> (“Mastery Learning” 2022)
 
 <!--quoteend-->
 
@@ -23,50 +23,7 @@ slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
 >
 > Since its conception, mastery learning has empirically been demonstrated to be effective in improving education outcomes in a variety of settings. Its effectiveness is influenced by the subject being taught, whether testing is designed locally or nationally, course pace and the amount of feedback provided to students.
 >
-> (<a href="#citeproc_bib_item_1">“Mastery Learning” 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 272.52   | 2024-03-19T03:41:42Z |
-| back     | 2.50 | 7   | 196.19   | 2023-11-23T19:45:49Z |
-
-[Mastery learning]({{< relref "mastery_learning.md" >}})
-
-
-#### Back {#back}
-
-... maintains that students must achieve a level of competance (e.g., 90% on a knowledge test) in prerequisite knowledge before moving forward to learn subsequent information. If a student does not achieve success on the test, they are given additional support in learning and reviewing the information and then tested again. This cycle continues until the learner can demonstrate their correct understanding of the material, and they may then move on to the next stage.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Mastery Learning” 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 7   | 385.68   | 2024-10-08T08:11:48Z |
-
-{{[Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})}@0} developed [Mastery learning]({{< relref "mastery_learning.md" >}})
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Mastery Learning” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mastery Learning.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Mastery_learning&oldid=1126487387">https://en.wikipedia.org/w/index.php?title=Mastery_learning&#38;oldid=1126487387</a>.</div>
-</div>
+> (“Mastery Learning” 2022)
 
 
 ## Backlinks {#backlinks}

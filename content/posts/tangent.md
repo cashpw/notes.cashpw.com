@@ -2,7 +2,7 @@
 title = "Tangent (Trigonometry)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T10:46:00-07:00
-lastmod = 2023-09-24T10:49:30-07:00
+lastmod = 2023-11-10T11:20:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,78 +25,12 @@ The tangent of a function is the [Instantaneous rate of change]({{< relref "deri
 {{< figure src="/ox-hugo/tan.png" >}}
 
 
-## Flashcards {#flashcards}
-
-
-### Image {#image}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.40 | 7   | 24.17    | 2023-10-01T18:59:11Z |
-| back     | 2.80 | 8   | 420.44   | 2024-04-24T14:39:50Z |
-
-Graph \\(f(x) = \href{/posts/tangent}{\tan}(x)\\)
-
-
-#### Back {#back}
-
-{{< figure src="/ox-hugo/tan.png" >}}
-
-
-### Equivalence {#equivalence}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 197.45   | 2023-10-01T00:05:24Z |
-| 1        | 1.90 | 8   | 227.98   | 2024-03-14T23:20:10Z |
-
-{{\\(\href{/posts/tangent}{\tan}(\theta)\\)}{function}@0} \\(=\\) {{\\(\frac{\text{opposite}}{\text{adjacent}}\\)}{sides}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Trigonometric Functions” 2022</a>)
-
-
-### Equivalence {#equivalence}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 287.11   | 2024-02-10T17:12:45Z |
-| 1        | 2.35 | 7   | 216.57   | 2023-12-09T07:36:56Z |
-
-{{\\(\href{/posts/tangent}{\tan}(\theta)\\)}{function}@0} \\(=\\) {{\\(\frac{\href{/posts/sine}{\sin}(\theta)}{\href{/posts/cosine}{\cos}(\theta)}\\)}{functions}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Trigonometric Functions” 2022</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 326.87   | 2024-07-13T10:16:50Z |
-| back     | 2.50 | 7   | 282.71   | 2024-06-04T07:46:27Z |
-
-[Tangent (Trigonometry)]({{< relref "tangent.md" >}})
-
-
-#### Back {#back}
-
-The [Instantaneous rate of change]({{< relref "derivative.md" >}}) of a function at a specific point.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Trigonometric Functions” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sine and Cosine.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&oldid=1103922899">https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&#38;oldid=1103922899</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Trigonometric Functions.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Trigonometric_functions&oldid=1104626163">https://en.wikipedia.org/w/index.php?title=Trigonometric_functions&#38;oldid=1104626163</a>.</div>
 </div>
 
 

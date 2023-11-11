@@ -2,7 +2,7 @@
 title = "Proxy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T08:18:00-07:00
-lastmod = 2023-09-24T10:39:12-07:00
+lastmod = 2023-11-10T11:11:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,7 +17,7 @@ slug = "8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa"
 >
 > In a standard Internet communication, computer A would reach out directly to computer C, with the client sending requests to the origin server and the origin server responding to the client. When a forward proxy is in place, A will instead send requests to B, which will then forward the request to C. C will then send a response to B, which will forward the response back to A.
 >
-> (<a href="#citeproc_bib_item_1">“What Is a Reverse Proxy?” n.d.</a>)
+> (“What Is a Reverse Proxy?” n.d.)
 
 
 ## Reverse proxy {#reverse-proxy}
@@ -28,69 +28,4 @@ slug = "8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa"
 >
 > {{< figure src="/ox-hugo/2023-03-22_08-26-50_reverse_proxy_flow.png" >}}
 >
-> (<a href="#citeproc_bib_item_1">“What Is a Reverse Proxy?” n.d.</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### AKA {#aka}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 6   | 125.01   | 2023-10-13T16:12:47Z |
-| 1        | 2.50 | 6   | 90.97    | 2023-10-09T15:08:53Z |
-
--   {{[Proxy]({{< relref "proxy.md" >}})}@0}
--   {{[Forward proxy]({{< relref "proxy.md" >}})}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“What Is a Reverse Proxy?” n.d.</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 152.77   | 2024-01-08T09:37:42Z |
-| back     | 2.50 | 7   | 190.81   | 2024-03-23T10:35:48Z |
-
-[Forward proxy]({{< relref "proxy.md" >}})
-
-
-#### Back {#back}
-
-A server which acts as a middleman between client machines and origin servers.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“What Is a Reverse Proxy?” n.d.</a>)
-
-
-### Compare and contrast {#compare-and-contrast}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 98.43    | 2023-10-03T02:45:48Z |
-
-[Forward proxy]({{< relref "proxy.md" >}}) and [Reverse proxy](#reverse-proxy)
-
-
-#### Back {#back}
-
--   [Forward proxy]({{< relref "proxy.md" >}}): Sits in front of a set of **client machines** and intercepts, and forwards, **outgoing** internet requests
--   [Reverse proxy](#reverse-proxy): Sits in front of a set of **origin severs** and intercepts, and forwards, **incoming** internet requests
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“What Is a Reverse Proxy?” n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“What Is a Reverse Proxy?” n.d. Cloudflare. Accessed March 22, 2023. <a href="https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/">https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/</a>.</div>
-</div>
+> (“What Is a Reverse Proxy?” n.d.)

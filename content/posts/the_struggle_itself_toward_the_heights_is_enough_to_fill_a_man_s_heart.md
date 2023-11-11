@@ -2,7 +2,7 @@
 title = "The struggle itself toward the heights is enough to fill a man's heart"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T12:34:00-07:00
-lastmod = 2023-09-24T10:51:24-07:00
+lastmod = 2023-11-10T11:22:26-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -14,19 +14,7 @@ slug = "fa7e7f3e-1fb6-4769-81cd-c2a200b2becf"
 > (<a href="#citeproc_bib_item_1">Camus and O’Brien 1991</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### {{The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.}{Full quote about Sisyphus and struggle}@0} {#the-struggle-itself-toward-the-heights-is-enough-to-fill-a-man-s-heart-dot-one-must-imagine-sisyphus-happy-dot-full-quote-about-sisyphus-and-struggle-0}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 1.30 | 12  | 61.80    | 2023-11-02T09:32:20Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Camus and O’Brien 1991</a>)
+## Bibliography {#bibliography}
 
 ## References
 

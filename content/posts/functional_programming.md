@@ -2,7 +2,7 @@
 title = "Functional programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:50:00-07:00
-lastmod = 2023-09-24T10:12:14-07:00
+lastmod = 2023-11-10T10:47:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,82 +17,7 @@ slug = "f690a8ad-4069-4e96-a707-2a57f638c493"
 >
 > Functional programming has its roots in academia, evolving from the lambda calculus [], a formal system of computation based only on functions.
 >
-> (<a href="#citeproc_bib_item_1">“Functional Programming” 2023</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 107.25   | 2023-11-07T09:45:32Z |
-
-[Functional programming]({{< relref "functional_programming.md" >}}) has a {{[Declarative programming]({{< relref "declarative_programming.md" >}})}@0} style.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Functional Programming” 2023</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 75.44    | 2023-10-07T14:35:12Z |
-| 1        | 2.35 | 6   | 81.61    | 2023-10-25T05:55:12Z |
-
-{{[Functional programming]({{< relref "functional_programming.md" >}})}@0} evolved from {{[Lambda calculus]({{< relref "lambda_calculus.md" >}})}@1}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Functional Programming” 2023</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 88.19    | 2023-10-12T18:30:42Z |
-| back     | 2.35 | 6   | 104.59   | 2023-12-08T05:25:25Z |
-
-[Functional programming]({{< relref "functional_programming.md" >}})
-
-
-#### Back {#back}
-
-A [Programming paradigm]({{< relref "programming_paradigm.md" >}}) which models computation as the evaluation of expressions.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Functional Programming - HaskellWiki” n.d.</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 87.91    | 2023-10-13T11:44:28Z |
-| 1        | 2.20 | 6   | 68.21    | 2023-10-02T20:15:58Z |
-
-The fundamental operation in {{[Functional programming]({{< relref "functional_programming.md" >}})}@0} is {{a reduction}@1}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">“There Are Exactly Three Paradigms” n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Functional Programming.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Functional_programming&oldid=1149919082">https://en.wikipedia.org/w/index.php?title=Functional_programming&#38;oldid=1149919082</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Functional Programming - HaskellWiki.” n.d. Accessed May 4, 2023. <a href="https://wiki.haskell.org/Functional_programming">https://wiki.haskell.org/Functional_programming</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“There Are Exactly Three Paradigms.” n.d. Accessed May 4, 2023. <a href="http://wiki.c2.com/?ThereAreExactlyThreeParadigms">http://wiki.c2.com/?ThereAreExactlyThreeParadigms</a>.</div>
-</div>
+> (“Functional Programming” 2023)
 
 
 ## Backlinks {#backlinks}

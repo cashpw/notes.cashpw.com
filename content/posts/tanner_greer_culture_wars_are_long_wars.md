@@ -2,14 +2,14 @@
 title = "Tanner Greer | Culture Wars Are Long Wars"
 author = ["Cash Weaver"]
 date = 2023-01-10T13:37:00-08:00
-lastmod = 2023-09-24T10:49:36-07:00
+lastmod = 2023-11-10T11:20:41-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "cec64d96-d0ea-4073-a74d-efb5a0588d93"
 +++
 
-[Tanner Greer]({{< relref "tanner_greer.md" >}}), (<a href="#citeproc_bib_item_1">Greer 2021</a>)
+[Tanner Greer]({{< relref "tanner_greer.md" >}}), (Greer 2021)
 
 
 ## Summary {#summary}
@@ -43,26 +43,3 @@ This seems a bizarre take from my perspective. I don't understand the nuance bet
 > Understanding this is equal parts clarifying and frustrating. Clarifying, because it gives us a clear idea of what must be done and of what cannot be done. Frustration comes from that second item: as culture wars are long wars, there are no quick victories. If you reject the quickly crystalizing orthodoxy of America's millennials, your short-term options are limited. The millennials are a lost generation; they will persist in their errors to the end of their days. Theirs is a doomed cohort—and for most of the next two decades, this doomed cohort will be in charge.
 
 I suppose I'm a member of the cohort discussed here and don't see eye-to-eye with the author's use of "doomed" or the general maligning of socialism.
-
-
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 192.43   | 2023-12-16T00:57:33Z |
-
-Culture wars are {{long wars}@0}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Greer 2021</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2021. “Culture Wars Are Long Wars.” The Scholar’s Stage. July 3, 2021. <a href="https://scholars-stage.org/culture-wars-are-long-wars/">https://scholars-stage.org/culture-wars-are-long-wars/</a>.</div>
-</div>

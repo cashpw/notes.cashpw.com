@@ -2,7 +2,7 @@
 title = "Admissible heuristic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T14:13:00-08:00
-lastmod = 2023-09-24T09:52:08-07:00
+lastmod = 2023-11-10T10:24:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,27 +16,7 @@ slug = "bb89b03a-068d-49b1-a25f-d9c4924558b3"
 See also [Consistent heuristic]({{< relref "consistent_heuristic.md" >}}).
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 184.06   | 2023-11-21T02:03:30Z |
-| back     | 1.90 | 7   | 84.77    | 2023-11-02T19:03:15Z |
-
-[Admissible heuristic]({{< relref "admissible_heuristic.md" >}})
-
-
-#### Back {#back}
-
-A heuristic function which never overestimates the cost of reaching the goal.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Admissible Heuristic” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -47,5 +27,5 @@ A heuristic function which never overestimates the cost of reaching the goal.
 
 ## Backlinks {#backlinks}
 
--   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
 -   [Consistent heuristic]({{< relref "consistent_heuristic.md" >}})
+-   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})

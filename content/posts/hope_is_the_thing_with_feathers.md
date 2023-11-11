@@ -4,7 +4,7 @@ title = """
   """
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-28T21:11:00-07:00
-lastmod = 2023-09-24T10:16:53-07:00
+lastmod = 2023-11-10T10:52:54-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -30,90 +30,4 @@ It asked a crumb - of me.<br />
 
 </div>
 
-[Emily Dickinson]({{< relref "emily_dickinson.md" >}}), (<a href="#citeproc_bib_item_1">Dickinson 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Poem {#poem}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 328.72   | 2024-04-12T09:14:50Z |
-| 1        | 2.80 | 7   | 347.94   | 2024-06-01T18:52:07Z |
-| 2        | 2.80 | 7   | 471.88   | 2025-01-01T20:07:11Z |
-| 3        | 2.80 | 7   | 352.01   | 2024-07-17T00:18:35Z |
-| 4        | 1.30 | 9   | 33.87    | 2023-09-26T13:30:50Z |
-| 5        | 2.80 | 7   | 383.24   | 2024-10-05T21:42:29Z |
-| 6        | 2.35 | 7   | 230.48   | 2024-04-14T01:15:17Z |
-| 7        | 2.80 | 6   | 142.69   | 2023-10-04T07:22:53Z |
-| 8        | 2.20 | 6   | 73.81    | 2023-10-18T11:17:09Z |
-| 9        | 2.65 | 6   | 103.94   | 2023-10-05T00:20:37Z |
-| 10       | 2.50 | 6   | 104.38   | 2023-11-18T23:56:49Z |
-| 11       | 2.50 | 6   | 114.64   | 2023-12-01T06:43:46Z |
-
-["Hope" is the thing with feathers]({{< relref "hope_is_the_thing_with_feathers.md" >}})
-
-<div class="verse">
-
-{{"Hope" is the thing with feathers -}@0}<br />
-{{That perches in the soul -}@1}<br />
-{{And sings the tune without the words -}@2}<br />
-{{And never stops - at all -}@3}<br />
-<br />
-{{And sweetest - in the Gale - is heard -}@4}<br />
-{{And sore must be the storm -}@5}<br />
-{{That could abash the little Bird}@6}<br />
-{{That kept so many warm -}@7}<br />
-<br />
-{{I've heard it in the chillest land -}@8}<br />
-{{And on the strangest Sea -}@9}<br />
-{{Yet - never - in Extremity,}@10}<br />
-{{It asked a crumb - of me.}@11}<br />
-
-</div>
-
-
-### Poem (full) {#poem--full}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 96.32    | 2023-11-08T22:38:46Z |
-
-["Hope" is the thing with feathers]({{< relref "hope_is_the_thing_with_feathers.md" >}})
-
-
-#### Back {#back}
-
-<div class="verse">
-
-"Hope" is the thing with feathers -<br />
-That perches in the soul -<br />
-And sings the tune without the words -<br />
-And never stops - at all -<br />
-<br />
-And sweetest - in the Gale - is heard -<br />
-And sore must be the storm -<br />
-That could abash the little Bird<br />
-That kept so many warm -<br />
-<br />
-I've heard it in the chillest land -<br />
-And on the strangest Sea -<br />
-Yet - never - in Extremity,<br />
-It asked a crumb - of me.<br />
-
-</div>
-
-
-### {{[Emily Dickinson]({{< relref "emily_dickinson.md" >}})}@0} wrote ["Hope" is the thing with feathers]({{< relref "hope_is_the_thing_with_feathers.md" >}}) {#emily-dickinson--emily-dickinson-dot-md--0-wrote-hope-is-the-thing-with-feathers--hope-is-the-thing-with-feathers-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 408.36   | 2024-07-14T09:51:31Z |
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Dickinson, Emily. 2022. “‘Hope’ Is the Thing with Feathers.” Text/html. Poetry Foundation; Poetry Foundation. March 28, 2022. <a href="https://www.poetryfoundation.org/poems/42889/hope-is-the-thing-with-feathers-314">https://www.poetryfoundation.org/poems/42889/hope-is-the-thing-with-feathers-314</a>.</div>
-</div>
+[Emily Dickinson]({{< relref "emily_dickinson.md" >}}), (Dickinson 2022)

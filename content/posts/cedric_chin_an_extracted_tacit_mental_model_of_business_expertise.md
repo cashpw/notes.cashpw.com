@@ -2,14 +2,14 @@
 title = "Cedric Chin | An Extracted Tacit Mental Model of Business Expertise"
 author = ["Cash Weaver"]
 date = 2023-08-04T22:02:00-07:00
-lastmod = 2023-09-24T09:58:32-07:00
+lastmod = 2023-11-10T10:30:55-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "731b4023-79ea-4671-9de9-2079008f14df"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2021</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2021)
 
 
 ## Summary {#summary}
@@ -182,15 +182,6 @@ slug = "731b4023-79ea-4671-9de9-2079008f14df"
 > [...]
 >
 > I believe DiBello when she says that the Profiler is able to detect blindspots in an exec team, that it is able to evaluate cognitive agility, and that you may use it to assess the expertise of business decision makers. I'm just not sure how this may be used, if one isn't able to afford DiBello's services.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2021. “An Extracted Tacit Mental Model of Business Expertise.” Commoncog. July 20, 2021. <a href="https://commoncog.com/tacit-mental-model-of-business/">https://commoncog.com/tacit-mental-model-of-business/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

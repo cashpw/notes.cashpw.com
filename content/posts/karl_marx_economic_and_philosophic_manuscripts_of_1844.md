@@ -2,14 +2,14 @@
 title = "Karl Marx | Economic and Philosophic Manuscripts of 1844"
 author = ["Cash Weaver"]
 date = 2022-12-02T08:34:00-08:00
-lastmod = 2023-09-24T10:23:10-07:00
+lastmod = 2023-11-10T10:59:48-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "49d3d652-6836-40b6-a661-3af45b84a9d1"
 +++
 
-[Karl Marx]({{< relref "karl_marx.md" >}}) , (<a href="#citeproc_bib_item_1">Marx 1959</a>)
+[Karl Marx]({{< relref "karl_marx.md" >}}) , (Marx 1959)
 
 
 ## Summary {#summary}
@@ -76,12 +76,3 @@ slug = "49d3d652-6836-40b6-a661-3af45b84a9d1"
 
 
 #### Critique of the hegelian dialect and philosophy as a whole {#critique-of-the-hegelian-dialect-and-philosophy-as-a-whole}
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Marx, Karl. 1959. <i>Economic and Philosophic Manuscripts of 1844</i>. Translated by Martin Milligan. Progress Publishers, Moscow.</div>
-</div>

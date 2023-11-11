@@ -2,7 +2,7 @@
 title = "Disjunctive normal form"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-22T09:28:00-07:00
-lastmod = 2023-09-24T10:06:49-07:00
+lastmod = 2023-11-10T10:41:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,24 +14,7 @@ slug = "ed008224-2505-48a1-a322-7a410fbf7168"
 > (<a href="#citeproc_bib_item_1">“Disjunctive Normal Form” 2023</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### AKA {#aka}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 1.60 | 6   | 25.35    | 2023-10-02T22:55:21Z |
-| 1        | 2.20 | 5   | 29.31    | 2023-10-04T22:57:16Z |
-
-{{[Disjunctive normal form]({{< relref "disjunctive_normal_form.md" >}})}@1}
-
--   {{an OR of ANDs}@0}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Disjunctive Normal Form” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 

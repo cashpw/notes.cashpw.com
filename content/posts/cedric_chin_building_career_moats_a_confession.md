@@ -2,14 +2,14 @@
 title = "Cedric Chin | Building Career Moats: A Confession"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:26:00-07:00
-lastmod = 2023-09-24T09:58:47-07:00
+lastmod = 2023-11-10T10:31:11-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "2bf1c923-51e0-4e9f-99ef-3f0a43246526"
 +++
 
-TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2018</a>)
+TODO_AUTHOR, (Chin 2018)
 
 
 ## Summary {#summary}
@@ -19,15 +19,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2018</a>)
 
 
 ## Notes {#notes}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “Building Career Moats: A Confession.” Commoncog. May 31, 2018. <a href="https://commoncog.com/building-career-moats-a-confession/">https://commoncog.com/building-career-moats-a-confession/</a>.</div>
-</div>
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

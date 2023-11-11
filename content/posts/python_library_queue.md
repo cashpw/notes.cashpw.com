@@ -2,7 +2,7 @@
 title = "Python library: queue"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-08T08:51:00-08:00
-lastmod = 2023-09-24T10:39:52-07:00
+lastmod = 2023-11-10T11:12:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -149,77 +149,3 @@ min_queue.update(5, 'b')
 print(min_queue.get(), 'should be (4, a)')
 print(min_queue.get(), 'should be (5, b)')
 ```
-
-
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 141.73   | 2023-09-22T09:12:26Z |
-
-[Python]({{< relref "python.md" >}})'s `PriorityQueue` uses a {{[Min heap property]({{< relref "heap_property.md#min-heap-property" >}})}{[Heap property]({{< relref "heap_property.md" >}})}@0}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Queue (Abstract Data Type)” 2022</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 315.75   | 2024-07-10T09:05:38Z |
-| back     | 2.80 | 7   | 328.99   | 2024-08-01T14:13:05Z |
-
-How to get [Python]({{< relref "python.md" >}})'s `PriorityQueue` to employ a [Max heap property]({{< relref "heap_property.md#max-heap-property" >}}).
-
-
-#### Back {#back}
-
-Flip the sign of the `priority` either (1) manually or (2) by subclassing `PriorityQueue` and overriding the `put` and `get` methods.
-
-
-#### Source {#source}
-
-[Python library: queue]({{< relref "python_library_queue.md" >}})
-
-
-### Implement {#implement}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 107.07   | 2023-11-07T21:55:12Z |
-
-`PriorityQueue` with a [Max heap property]({{< relref "heap_property.md#max-heap-property" >}}).
-
-
-#### Back {#back}
-
-[For max-heap](#for-max-heap)
-
-
-#### Source {#source}
-
-[For max-heap](#for-max-heap)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 107.42   | 2023-09-28T10:14:06Z |
-
-A [Max heap property]({{< relref "heap_property.md#max-heap-property" >}}) `PriorityQueue` implementation via subclassing required overriding the following methods of `PriorityQueue`: {{`put` and `get`}@0}.
-
-
-#### Source {#source}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Queue (Abstract Data Type).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&oldid=1090013688">https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&#38;oldid=1090013688</a>.</div>
-</div>

@@ -2,7 +2,7 @@
 title = "Binary heap implementation in python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-21T09:21:00-07:00
-lastmod = 2023-09-24T09:55:55-07:00
+lastmod = 2023-11-10T10:28:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -118,21 +118,6 @@ print(h.peek())
 print(h.pop())
 print(h.peek())
 ```
-
-
-## Flashcards {#flashcards}
-
-
-### Implement a [Binary heap]({{< relref "binary_heap.md" >}}) in [Python]({{< relref "python.md" >}}) {#implement-a-binary-heap--binary-heap-dot-md--in-python--python-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 244.66   | 2024-04-01T17:07:02Z |
-
-
-#### Back {#back}
-
-[Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
 
 
 ## Backlinks {#backlinks}

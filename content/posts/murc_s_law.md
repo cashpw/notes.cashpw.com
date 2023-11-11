@@ -2,7 +2,7 @@
 title = "Murc's law"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-21T16:52:00-07:00
-lastmod = 2023-09-24T10:33:15-07:00
+lastmod = 2023-11-10T11:06:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,27 +20,7 @@ slug = "1165158c-add0-4564-a962-7a30c223f477"
 > (<a href="#citeproc_bib_item_1">Franz 2023</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2023-09-21T23:56:34Z |
-| back     | 2.5  | -1  | 0        | 2023-09-28T23:56:34Z |
-
-[Murc's law]({{< relref "murc_s_law.md" >}})
-
-
-#### Back {#back}
-
-> The widespread assumption that only Democrats have any agency or causal influence over American politics.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Murc’s Law” n.d.</a>)
+## Bibliography {#bibliography}
 
 ## References
 

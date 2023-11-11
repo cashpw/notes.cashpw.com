@@ -2,7 +2,7 @@
 title = "December 2022"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-29T11:31:00-08:00
-lastmod = 2023-09-24T10:05:17-07:00
+lastmod = 2023-11-10T10:39:36-08:00
 tags = ["newsletter", "newsletter"]
 categories = ["newsletter"]
 draft = false
@@ -25,9 +25,6 @@ slug = "d17851b9-7b52-495e-92dc-0d8d7577a519"
     I have &gt;200 outstanding flashcards. Reviewing them all at once wouldn't just hurt now, it would hurt forever as from time to time I'd see a similarly-sized spike of due flashcards. I'll do 30[^fn:1] minutes[^fn:2] of review daily to bring the count down.
 
     This is important as I want to review new flashcards soon after creating them. Creating a flashcard on Monday and first seeing it in review on the following Monday is a poor learning experience. I'm holding off on creating new flashcards until I get through the backlog.
-
-
-## Flashcards {#flashcards}
 
 [^fn:1]: I selected 30 minutes since I think I'd be able to keep it up indefinitely. Some variation is okay but I don't want to get to the point that I need to review cards for 1-2 hours daily.
 [^fn:2]: Targeting a length of time for reviews, rather than a number of cards, aligns with [Timeboxing]({{< relref "timeboxing.md" >}}).

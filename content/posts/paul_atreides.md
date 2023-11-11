@@ -2,15 +2,12 @@
 title = "Paul Atreides"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T10:22:00-07:00
-lastmod = 2023-09-24T10:36:53-07:00
+lastmod = 2023-11-10T11:09:17-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "9f491719-8277-4aab-94fd-39c512730430"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

@@ -2,9 +2,9 @@
 title = "Cedric Chin | The Tacit Knowledge Series"
 author = ["Cash Weaver"]
 date = 2023-06-27T18:13:00-07:00
-lastmod = 2023-09-24T09:59:34-07:00
-tags = ["hastodo", "reference", "hastodo", "reference"]
-categories = ["hastodo", "reference"]
+lastmod = 2023-11-10T10:32:13-08:00
+tags = ["reference", "reference"]
+categories = ["reference"]
 draft = false
 slug = "96c1f65b-0c31-4478-8717-8c33743a9e94"
 +++
@@ -16,11 +16,13 @@ slug = "96c1f65b-0c31-4478-8717-8c33743a9e94"
 
 This is a summary of summaries and will necessarily omit some interesting details. Use this to determine whether you want to read the whole series.
 
-What's the most effective way for one to become an expert in a subject? Ideally you'd use [Deliberate practice]({{< relref "deliberate_practice.md" >}}). However, that's not possible most of the time because the subject in question must have a "long history of well-established pedagogy" (<a href="#citeproc_bib_item_1">Chin 2020a</a>) (e.g. math, music, and chess). For any other subjects: focus on [Purposeful practice]({{< relref "purposeful_practice.md" >}}) and acquiring [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
+What's the most effective way for one to become an expert in a subject?
 
-[Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) is the "between-the-lines" know-how. It's what separates proficient individuals from experts. Traditionally it's acquired by doing the relevant thing for a long time. However, that takes a long time. Instead, recognize that expertise, and tacit knowledge by extension, boils down to [pattern matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}}), specifically [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}}) making, and work to [improve]({{< relref "recognition_primed_decision_making_model.md#how-to-improve-at-id-4a42aa6f-413f-4144-86df-5c0f0b174777-recognition-primed-decision-making" >}}) this ability through simulations. [Prefer simulations that already exist]({{< relref "applied_cognitive_task_analysis.org_archive#choosing-good-simulations" >}}). When necessary, use [Applied cognitive task analysis]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}}) to extract expertise from specific experts.
+Schooling typically emphasizes developing along a hierarchy of skills. However, that's [not an effective method]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}}) for developing expertise.
 
-What about establishing a hierarchy of skills and progressing through them? That's how the schooling I'm familiar with did things. It turns out that's [not an effective method]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}}) for developing expertise.
+Ideally you'd use [Deliberate practice]({{< relref "deliberate_practice.md" >}}). However, that's not possible most of the time because deliberate practice is only strictly possible for subjects with a "long history of well-established pedagogy" (<a href="#citeproc_bib_item_1">Chin 2020a</a>) (e.g. math, music, and chess). For other subjects (e.g. business, sales, singing): focus on [Purposeful practice]({{< relref "purposeful_practice.md" >}}) and acquiring [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
+
+[Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) is the "between-the-lines" know-how. It's what separates proficient individuals from experts. Traditionally it's acquired by doing the relevant thing for a long time. Can we accelerate the acquisition of tacit knowledge? Yes! Expertise, and tacit knowledge by extension, boils down to [pattern matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}}), specifically [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}}) making. [Improve]({{< relref "recognition_primed_decision_making_model.md#how-to-improve-at-id-4a42aa6f-413f-4144-86df-5c0f0b174777-recognition-primed-decision-making" >}}) by working through simulations. [Prefer simulations that already exist]({{< relref "applied_cognitive_task_analysis.org_archive#choosing-good-simulations" >}}). When necessary, use [Applied cognitive task analysis]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}}) to extract expertise from specific experts.
 
 
 ## Series {#series}
@@ -55,7 +57,7 @@ Related:
 -   The [final entry in the series]({{< relref "cedric_chin_an_extracted_tacit_mental_model_of_business_expertise.md" >}}) is also the first in [another series]({{< relref "cedric_chin_the_business_expertise_series.md" >}}). This is a clever way to lead readers along between sequences/series. The two series are distinct enough that they can stand alone but connected enough that someone who reads one is likely to also want to read the other.
 
 
-## Flashcards {#flashcards}
+## Bibliography {#bibliography}
 
 ## References
 
@@ -67,4 +69,6 @@ Related:
 
 ## Backlinks {#backlinks}
 
+-   [Dan Luu | 95%-Ile Isn't That Good]({{< relref "dan_luu_95_ile_isn_t_that_good.md" >}})
+-   [Cedric Chin | The Hard Thing About Learning From Experience]({{< relref "cedric_chin_the_hard_thing_about_learning_from_experience.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})

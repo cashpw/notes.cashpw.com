@@ -2,7 +2,7 @@
 title = "Shortest path algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T06:03:00-08:00
-lastmod = 2023-09-24T10:44:51-07:00
+lastmod = 2023-11-10T11:16:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,94 +24,15 @@ slug = "555129b5-299e-4605-a2cd-9f77ebcede3d"
     -   [Floyd-Warshall algorithm]({{< relref "floyd_warshall_algorithm.md" >}})
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 376.17   | 2024-08-30T03:38:15Z |
-| back     | 2.50 | 7   | 345.65   | 2024-07-22T14:09:40Z |
-
-Optimal path between two [Vertices]({{< relref "vertex.md" >}}) in a [Graph]({{< relref "graph.md" >}})
-
-
-#### Back {#back}
-
-A path \\(p\\) between two [Vertices]({{< relref "vertex.md" >}}) such that \\(\operatorname{cost}(p) \leq \operatorname{cost}(p^\prime) \\;\forall\\; p^\prime \\;\text{in}\\; P\\).
-
-
-#### Source {#source}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 330.71   | 2024-05-18T18:13:12Z |
-| back     | 2.80 | 7   | 300.48   | 2024-04-20T01:02:00Z |
-
-[Negative cycle]({{< relref "cycle.md#negative-cycle" >}}) in the context of [Shortest path problem]({{< relref "shortest_path_algorithm.md" >}})
-
-
-#### Back {#back}
-
-[Negative cycles]({{< relref "cycle.md#negative-cycle" >}}) allow for infinitely small distances between nodes and make it impossible to find the cheapest path between points which can reach the cycle.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">“Shortest Path Problem” 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 235.13   | 2024-01-13T23:16:42Z |
-| 1        | 2.65 | 7   | 402.72   | 2024-10-02T08:14:10Z |
-
-{{[Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})}{single algorithm}@0} solves the [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}}) for [Graphs]({{< relref "graph.md" >}}) {{without}@1} negative weights.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Dijkstra’s Algorithm” 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 372.44   | 2024-09-01T01:51:12Z |
-| 1        | 2.65 | 7   | 262.45   | 2024-03-12T01:00:37Z |
-
-{{[Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})}@0} solves the [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}}) for [Graphs]({{< relref "graph.md" >}}) {{with}{with/without}@1} negative weights
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Bellman–Ford Algorithm” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bellman–Ford Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&oldid=1088801570">https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&#38;oldid=1088801570</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Dijkstra’s Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&oldid=1127202995">https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&#38;oldid=1127202995</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Shortest Path Problem.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Shortest_path_problem&oldid=1126599032">https://en.wikipedia.org/w/index.php?title=Shortest_path_problem&#38;oldid=1126599032</a>.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
--   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
--   [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})
 -   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
--   [December 2022]({{< relref "december_2022.md" >}})
--   [Todos]({{< relref "todos.md" >}})
--   [Ali Kemal Sinop, Lisa Fawcett, Sreenivas Gollapudi, Kostas Kollias | Robust Routing Using Electrical Flows]({{< relref "ali_kemal_sinop_lisa_fawcett_sreenivas_gollapudi_kostas_kollias_robust_routing_using_electrical_flows.md" >}})
+-   [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})
 -   [Widest path problem]({{< relref "widest_path_problem.md" >}})
--   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
+-   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
 -   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
+-   [December 2022]({{< relref "december_2022.md" >}})
+-   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
+-   [Ali Kemal Sinop, Lisa Fawcett, Sreenivas Gollapudi, Kostas Kollias | Robust Routing Using Electrical Flows]({{< relref "ali_kemal_sinop_lisa_fawcett_sreenivas_gollapudi_kostas_kollias_robust_routing_using_electrical_flows.md" >}})
+-   [Todos]({{< relref "todos.md" >}})
 -   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})

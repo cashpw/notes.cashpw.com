@@ -2,14 +2,14 @@
 title = "John Allspaw | On Being A Senior Engineer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:31:00-08:00
-lastmod = 2023-09-24T09:53:00-07:00
+lastmod = 2023-11-10T10:25:29-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "04347fa3-3c14-4aa8-8fd1-abeac684837f"
 +++
 
-[John Allspaw]({{< relref "john_allspaw.md" >}}), (<a href="#citeproc_bib_item_1">Allspaw n.d.</a>)
+[John Allspaw]({{< relref "john_allspaw.md" >}}), (Allspaw n.d.)
 
 
 ## Summary {#summary}
@@ -137,15 +137,6 @@ I disagree with this point. I consider a lot of the documentation and design wor
 > 8.  **Fight for what you believe, but gracefully accept defeat.** Understand that sometimes your ideas will be overruled. Even if you are right, don't take revenge or say "I told you so." Never make your dearly departed idea a martyr or rallying cry.
 > 9.  **Don't be "the coder in the corner."** Don't be the person in the dark office emerging only for soda. The coder in the corner is out of sight, out of touch, and out of control. This person has no voice in an open, collaborative environment. Get involved in conversations, and be a participant in your office community.
 > 10. **Critique code instead of people -- be kind to the coder, not to the code.** As much as possible, make all of your comments positive and oriented to improving the code. Relate comments to local standards, program specs, increased performance, etc.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allspaw, John. n.d. “On Being A Senior Engineer.” Kitchen Soap. Accessed February 21, 2022. <a href="https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

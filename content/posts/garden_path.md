@@ -2,7 +2,7 @@
 title = "Garden path"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-23T09:46:00-07:00
-lastmod = 2023-09-24T10:12:40-07:00
+lastmod = 2023-11-10T10:47:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -56,27 +56,7 @@ slug = "3f513197-b379-4b8b-b918-21100005e18a"
 > (<a href="#citeproc_bib_item_3">Klein and Baxter 2006</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2023-09-23T17:10:41Z |
-| back     | 2.5  | -1  | 0        | 2023-09-30T17:10:41Z |
-
-To lead someone down/up the [Garden path]({{< relref "garden_path.md" >}})
-
-
-#### Back {#back}
-
-To deceive, trick, or seduce
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Garden-Path Sentence” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 

@@ -2,14 +2,14 @@
 title = "Zach Tellman | Standing in the Shadow of Giants"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:59:00-08:00
-lastmod = 2023-09-24T10:57:29-07:00
+lastmod = 2023-11-10T11:28:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "b6ec05a1-d6cf-4342-9d4a-7ca50521a478"
 +++
 
-[Zach Tellman]({{< relref "zach_tellman.md" >}}), (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)
+[Zach Tellman]({{< relref "zach_tellman.md" >}}), (Tellman n.d.)
 
 
 ## Summary {#summary}
@@ -28,12 +28,3 @@ Those who want to build may not want to maintain/administer.
 > [...]
 >
 > For some people, creating widely used software is highly rewarding, and the administrative responsibilities it introduces are a small price to pay. For others, especially those who chase the frontiers of open source, loss of ownership leads to a loss of interest. By letting a project grow too large, they effectively chase themselves away.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Standing in the Shadow of Giants.” Accessed November 12, 2022. <a href="https://ideolalia.com/essays/standing-in-the-shadow-of-giants.html">https://ideolalia.com/essays/standing-in-the-shadow-of-giants.html</a>.</div>
-</div>

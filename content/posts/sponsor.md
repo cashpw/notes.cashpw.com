@@ -2,7 +2,7 @@
 title = "Sponsor"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-03T11:19:00-08:00
-lastmod = 2023-09-24T10:47:11-07:00
+lastmod = 2023-11-10T11:18:34-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -10,9 +10,6 @@ slug = "0979614d-3fe7-443c-844f-22fa71465ba1"
 +++
 
 One who advocates for another.
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

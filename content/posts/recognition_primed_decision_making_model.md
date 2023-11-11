@@ -2,7 +2,7 @@
 title = "Recognition-primed decision"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T19:44:00-07:00
-lastmod = 2023-09-24T10:41:15-07:00
+lastmod = 2023-11-10T11:13:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -108,47 +108,7 @@ In general, it's a pattern-matching exercise (see [Cedric Chin | Expertise Is 'J
 > (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 35.51    | 2023-10-17T01:02:43Z |
-| back     | 2.35 | 5   | 33.23    | 2023-10-21T21:28:41Z |
-
-[Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})
-
-
-#### Back {#back}
-
-A model describing how experienced individuals make quick, effective, decisions when faced with complex situations.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Recognition-Primed Decision” 2023</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 34.59    | 2023-10-02T02:55:42Z |
-| back     | 2.20 | 4   | 13.72    | 2023-10-01T16:20:29Z |
-
-Steps in making a [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})
-
-
-#### Back {#back}
-
-> {{< figure src="/ox-hugo/2023-07-30_06-27-34_Paper.Commonplace.41.png" >}}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Chin 2020</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -162,3 +122,4 @@ Steps in making a [Recognition-primed decision]({{< relref "recognition_primed_d
 
 -   [Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})
 -   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
+-   [Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]({{< relref "gary_klein_and_jennifer_phillips_and_erica_rall_and_deborah_peluso_a_data_frame_theory_of_sensemaking.md" >}})

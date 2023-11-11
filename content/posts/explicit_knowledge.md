@@ -2,7 +2,7 @@
 title = "Explicit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:07:00-08:00
-lastmod = 2023-09-24T10:09:25-07:00
+lastmod = 2023-11-10T10:44:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,54 +20,7 @@ slug = "19124270-bb87-450d-8726-fe6aae18716f"
 > (<a href="#citeproc_bib_item_2">“Tacit Knowledge” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 313.78   | 2024-03-30T07:49:50Z |
-| back     | 2.80 | 7   | 502.18   | 2025-01-10T18:06:32Z |
-
-[Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
-
-
-#### Back {#back}
-
-Knowledge which can be readily articulated, codified, stored, and accessed.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Explicit Knowledge” 2022</a>)
-
-
-### Example(s) {#example--s}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 334.91   | 2024-05-12T21:56:18Z |
-| back     | 2.05 | 6   | 56.34    | 2023-10-21T23:01:03Z |
-
-[Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
-
-
-#### Back {#back}
-
--   The capital of California
--   The number of protons in a hydrogen atom
--   Amount of water in the Great Lakes
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Explicit Knowledge” 2022</a>)
-
-
-### Compare and contrast {#compare-and-contrast}
-
-See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
+## Bibliography {#bibliography}
 
 ## References
 
@@ -81,6 +34,6 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
 
 -   [Techne]({{< relref "techne.md" >}})
 -   [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
--   [Todos]({{< relref "todos.md" >}})
 -   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
 -   [Relational tacit knowledge]({{< relref "relational_tacit_knowledge.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

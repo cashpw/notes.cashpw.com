@@ -2,13 +2,13 @@
 title = "Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T14:56:00-08:00
-lastmod = 2023-09-24T09:50:47-07:00
+lastmod = 2023-11-10T10:23:05-08:00
 tags = ["reference"]
 draft = false
 slug = "39b74423-8abb-4fd6-8ca1-536539e2d05b"
 +++
 
-(<a href="#citeproc_bib_item_1">“Ask HN: How Do You Learn Complex, Dense Technical Information?” n.d.</a>)
+(“Ask HN: How Do You Learn Complex, Dense Technical Information?” n.d.)
 
 
 ## Thoughts {#thoughts}
@@ -49,15 +49,6 @@ This raises an important point in the use of [Spaced Repetition System]({{< relr
 > The other approach is what many smart (but non-geniuses) take: the buffet approach. You graze at the table of books, Wikipedia, online articles, and hang out in online communities (like Twitter) to overhear what experts are discussing. The thing about most areas of knowledge is, there's usually only 20% [[Pareto principle]({{< relref "pareto_principle.md" >}}) ] of the subject that matters--the rest rarely come up (Pareto Principle). To know what 20% to focus on, you need to understand the sociology of the subject matter and what experts think are important. Unlike the previous approach, you won't have watershed-level insights, but you'll know enough to be considered "educated" on the subject.
 >
 > _[wenc](https://news.ycombinator.com/item?id=22327704)_
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ask HN: How Do You Learn Complex, Dense Technical Information?” n.d. Hacker News. Accessed February 6, 2022. <a href="https://news.ycombinator.com/item?id=22325975">https://news.ycombinator.com/item?id=22325975</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

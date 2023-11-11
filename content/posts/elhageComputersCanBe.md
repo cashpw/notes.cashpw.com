@@ -2,14 +2,14 @@
 title = "Nelson Elhage | Computers Can Be Understood"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2023-09-24T10:08:18-07:00
+lastmod = 2023-11-10T10:42:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "19ba13d6-259f-4734-a1be-aaa5d51fcd16"
 +++
 
-[Nelson Elhage]({{< relref "nelson_elhage.md" >}}), (<a href="#citeproc_bib_item_1">Elhage n.d.</a>)
+[Nelson Elhage]({{< relref "nelson_elhage.md" >}}), (Elhage n.d.)
 
 
 ## Summary {#summary}
@@ -28,35 +28,6 @@ Related: [Be curious]({{< relref "be_curious.md" >}}).
 <!--quoteend-->
 
 > My advice for a practical upshot from this post would be: cultivate a deep sense of curiosity about the systems you work with. Ask questions about how they work, why they work that way, and how they were built. Ask yourself questions like "How would I have built this library?," identify the gaps where you don't know the answer, and add them to your mental backlog of topics to learn.
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 349.70   | 2024-06-06T18:18:12Z |
-| back     | 2.05 | 8   | 264.56   | 2024-05-17T04:11:21Z |
-
-[Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})
-
-
-#### Back {#back}
-
-A [Growth mindset]({{< relref "growth_mindset.md" >}})-oriented approach to thinking about computers based on the truth that computer systems are (except in rare cases) deterministic.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Elhage n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Elhage, Nelson. n.d. “Computers Can Be Understood.” Accessed March 12, 2022. <a href="https://blog.nelhage.com/post/computers-can-be-understood/">https://blog.nelhage.com/post/computers-can-be-understood/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Goodhart's law"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-29T10:05:00-08:00
-lastmod = 2023-09-24T10:13:58-07:00
+lastmod = 2023-11-10T10:49:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,27 +14,7 @@ slug = "94518754-f455-406d-a67b-bc01f214a272"
 > (<a href="#citeproc_bib_item_1">“Goodhart’s Law” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.30 | 7   | 19.57    | 2023-10-08T05:29:53Z |
-| back     | 2.35 | 7   | 235.83   | 2024-01-27T10:57:00Z |
-
-[Goodhart's law]({{< relref "goodhart_s_law.md" >}})
-
-
-#### Back {#back}
-
-When a measure becomes a target it ceases to be a good measure.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Goodhart’s Law” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

@@ -2,7 +2,7 @@
 title = "Hash table"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:06:00-07:00
-lastmod = 2023-09-24T10:15:27-07:00
+lastmod = 2023-11-10T10:51:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,143 +49,7 @@ slug = "b8f1337e-8231-4ace-b003-bb988b4c39ee"
 > (<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition (Computer science) {#definition--computer-science}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.95 | 8   | 290.62   | 2023-12-04T18:26:24Z |
-| front    | 2.65 | 8   | 629.58   | 2025-05-26T06:36:16Z |
-
-[Hash table]({{< relref "hash_table.md" >}})
-
-
-#### Back {#back}
-
-An implementation of an [Associative array]({{< relref "associative_array.md" >}}) which uses a function to relate the `key` to a specific location in an array of buckets or slots.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
-
-
-### A {{hash collision}@0} is when {{two pieces of data in a [Hash table]({{< relref "hash_table.md" >}}) share the same hash value}@1}. {#a-hash-collision-0-is-when-two-pieces-of-data-in-a-hash-table--hash-table-dot-md--share-the-same-hash-value-1-dot}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 1        | 2.80 | 7   | 253.36   | 2023-09-26T00:58:17Z |
-| 0        | 2.80 | 8   | 479.43   | 2024-11-14T14:15:13Z |
-
-
-#### Extra {#extra}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
-
-
-### {{[Hash tables]({{< relref "hash_table.md" >}})}@1} are, on average, {{more}@0} efficient than search trees. {#hash-tables--hash-table-dot-md--1-are-on-average-more-0-efficient-than-search-trees-dot}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 1        | 2.50 | 6   | 115.91   | 2023-12-19T12:59:23Z |
-| 0        | 3.25 | 7   | 609.92   | 2025-03-13T11:02:13Z |
-
-
-#### Extra {#extra}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
-
-
-### A {{[Hash map]({{< relref "hash_table.md" >}})}@0} is composed of {{a [Hash function]({{< relref "hash_function.md" >}}) and a [Collision resolution](#collision-resolution) strategy}@1}. {#a-hash-map--hash-table-dot-md--0-is-composed-of-a-hash-function--hash-function-dot-md--and-a-collision-resolution--org4952312--strategy-1-dot}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 369.55   | 2024-06-10T03:49:08Z |
-| 1        | 2.05 | 8   | 277.66   | 2024-05-14T06:22:24Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
-
-
-### Definition ([Hash table]({{< relref "hash_table.md" >}})) {#definition--hash-table-hash-table-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 3.10 | 7   | 440.57   | 2024-08-30T03:48:02Z |
-| back     | 1.90 | 4   | 10.41    | 2023-09-22T22:30:24Z |
-
-[Separate chaining](#separate-chaining)
-
-
-#### Back {#back}
-
-A collision resolution algorithm in which each bucket in the [Hash table]({{< relref "hash_table.md" >}}) is a linked list. The list is extended upon every collision and is traversed in order to find the target key.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
-
-
-### Definition ([Hash table]({{< relref "hash_table.md" >}})) {#definition--hash-table-hash-table-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 3.10 | 7   | 425.15   | 2024-08-16T07:41:38Z |
-| back     | 2.20 | 7   | 181.05   | 2024-02-05T16:27:08Z |
-
-[Open addressing](#open-addressing)
-
-
-#### Back {#back}
-
-A collision resolution algorithm which uses a probing sequence (i.e. linear, quadratic, another [Hash function]({{< relref "hash_function.md" >}})) to move along the array in search of the target key.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
-
-
-### Compare/Contrast ([Hash table]({{< relref "hash_table.md" >}})) {#compare-contrast--hash-table-hash-table-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 3.10 | 7   | 447.40   | 2024-09-20T11:10:57Z |
-
-[Separate chaining](#separate-chaining) and [Open addressing](#open-addressing)
-
-
-#### Back {#back}
-
--   [Open addressing](#open-addressing) stores collision values within the original array while [Separate chaining](#separate-chaining) stores collision values in a linked list.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
-
-
-### Common [Open addressing](#open-addressing) probing schedules include {{linear, quadratic, and double hashing}@0}. {#common-open-addressing--org3f7c193--probing-schedules-include-linear-quadratic-and-double-hashing-0-dot}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 6   | 56.56    | 2023-10-23T03:10:05Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Hash Table” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -197,6 +61,6 @@ A collision resolution algorithm which uses a probing sequence (i.e. linear, qua
 ## Backlinks {#backlinks}
 
 -   [Hash function]({{< relref "hash_function.md" >}})
+-   [Linked hash map]({{< relref "linked_hash_map.md" >}})
 -   [2sum]({{< relref "2sum.md" >}})
 -   [Associative array]({{< relref "associative_array.md" >}})
--   [Linked hash map]({{< relref "linked_hash_map.md" >}})

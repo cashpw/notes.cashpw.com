@@ -2,7 +2,7 @@
 title = "Why I write notes"
 author = ["Cash Weaver"]
 date = 2022-11-16T08:54:00-08:00
-lastmod = 2023-09-24T10:56:17-07:00
+lastmod = 2023-11-10T11:27:15-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -30,9 +30,6 @@ Reasons for writing these notes:
         -   Original, insofar as anything's original, thoughts and insights
 
 Also see [How I write notes]({{< relref "how_i_write_notes.md" >}}).
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

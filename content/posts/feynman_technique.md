@@ -2,7 +2,7 @@
 title = "Feynman technique"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-13T06:34:00-07:00
-lastmod = 2023-09-24T10:10:25-07:00
+lastmod = 2023-11-10T10:45:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,39 +18,7 @@ slug = "166a96a1-466f-43dd-a9f6-ec18d2ba9b36"
 > 3.  Reflect, Refine, and Simplify
 > 4.  Organize and Review
 >
-> (<a href="#citeproc_bib_item_1">Street 2012</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 82.39    | 2023-10-04T22:40:14Z |
-| back     | 2.65 | 6   | 114.68   | 2023-11-22T16:18:48Z |
-
-[Feynman technique]({{< relref "feynman_technique.md" >}})
-
-
-#### Back {#back}
-
-1.  Choose a concept you want to learn about
-2.  Explain it to a 12 year old
-3.  Reflect, Refine, and Simplify
-4.  Organize and Review
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Street 2012</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Street, Farnam. 2012. “The Feynman Technique: The Best Way to Learn Anything.” Farnam Street. April 26, 2012. <a href="https://fs.blog/feynman-technique/">https://fs.blog/feynman-technique/</a>.</div>
-</div>
+> (Street 2012)
 
 
 ## Backlinks {#backlinks}

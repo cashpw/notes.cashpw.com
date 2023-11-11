@@ -2,7 +2,7 @@
 title = "Forgetting curve"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-11T12:28:00-08:00
-lastmod = 2023-09-24T10:11:42-07:00
+lastmod = 2023-11-10T10:46:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,27 +27,7 @@ slug = "9373ca2c-77ee-4874-8dfd-fb2f8997fb8f"
 > A representation of [Spaced repetition]({{< relref "spaced_repetition.md" >}})'s impact on the forgetting curve.
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 177.06   | 2023-10-23T15:59:49Z |
-| back     | 2.35 | 6   | 64.83    | 2023-10-12T11:16:02Z |
-
-[Forgetting curve]({{< relref "forgetting_curve.md" >}})
-
-
-#### Back {#back}
-
-Graphical representation of recall rate over time.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Forgetting Curve” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

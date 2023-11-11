@@ -2,7 +2,7 @@
 title = "Surjective function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-20T06:43:00-07:00
-lastmod = 2023-09-24T10:48:49-07:00
+lastmod = 2023-11-10T11:20:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,65 +16,7 @@ slug = "69b3ebf4-c54d-424b-9479-e06e7c905433"
 {{< figure src="/ox-hugo/180px-Surjection.svg.png" >}}
 
 
-## Flashcards {#flashcards}
-
-
-### Image {#image}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 9   | 538.91   | 2024-11-24T21:50:47Z |
-| back     | 2.30 | 8   | 352.54   | 2024-09-05T04:42:11Z |
-
-[Surjective function]({{< relref "surjective_function.md" >}})
-
-
-#### Back {#back}
-
-{{< figure src="/ox-hugo/180px-Surjection.svg.png" >}}
-
-
-### AKA {#aka}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 8   | 266.82   | 2023-11-17T23:24:21Z |
-| 1        | 2.65 | 10  | 422.22   | 2024-05-17T19:14:05Z |
-
--   {{[Surjective function]({{< relref "surjective_function.md" >}})}@0}
--   {{An "onto" function}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Surjective Function” 2022</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 1.30 | 11  | 51.54    | 2023-11-08T12:12:49Z |
-| front    | 1.90 | 7   | 112.90   | 2023-12-18T11:23:01Z |
-
-[Surjective function]({{< relref "surjective_function.md" >}})
-
-
-#### Back {#back}
-
-A function whose image and codomain are equal.
-
-
-#### Extra {#extra}
-
-{{< figure src="/ox-hugo/180px-Surjection.svg.png" >}}
-
-\\(f: X \to Y; \\; f(x) = y \\; \forall \\; y \in Y \\; | \\; x \in X\\)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Surjective Function” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

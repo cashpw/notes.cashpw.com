@@ -2,14 +2,14 @@
 title = "Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts"
 author = ["Cash Weaver"]
 date = 2023-06-30T19:33:00-07:00
-lastmod = 2023-09-24T09:58:50-07:00
+lastmod = 2023-11-10T10:31:15-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "5a1426bf-c14f-411b-af3e-e21ee56fa8e5"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_2">Chin 2020b</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2020b)
 
 
 ## Summary {#summary}
@@ -38,7 +38,7 @@ We can acquire the [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) of exp
 >
 > I'll skip ahead here and tell you that none of these questions are particularly interesting to me --- at least, not in the context of this blog. This blog is a practitioner's blog: it is interested in what is useful, not what is 'true'. [...]
 >
-> So here's my way of side-stepping everything above: when I say tacit knowledge in this series, what I am really interested in is 'expert intuition' or 'expert judgment'. This is the "expertise, full of caveats" that I talked about in [Part 1](https://commoncog.com/tacit-knowledge-is-a-real-thing/) [ (<a href="#citeproc_bib_item_1">Chin 2020a</a>) ]. Expert intuition is tacit because it is incredibly difficult to investigate, incredibly difficult to make explicit, and incredibly difficult to teach.
+> So here's my way of side-stepping everything above: when I say tacit knowledge in this series, what I am really interested in is 'expert intuition' or 'expert judgment'. This is the "expertise, full of caveats" that I talked about in [Part 1](https://commoncog.com/tacit-knowledge-is-a-real-thing/) [ (Chin 2020a) ]. Expert intuition is tacit because it is incredibly difficult to investigate, incredibly difficult to make explicit, and incredibly difficult to teach.
 
 
 ### How the naturalistic decision makers do it {#how-the-naturalistic-decision-makers-do-it}
@@ -83,16 +83,6 @@ See [How to improve at Recognition-primed decision making?]({{< relref "recognit
 > I have argued elsewhere that if you are primarily a practitioner, your [epistemology should be different than if you were a scientist](https://commoncog.com/putting-mental-models-to-practice-part-6-a-personal-epistemology-of-practice/) [[Cedric Chin | A Personal Epistemology of Practice]({{< relref "cedric_chin_a_personal_epistemology_of_practice.md" >}})] If you are a scientist, you will want to know what is true by the standards of scientific truth --- this typically means successful replication over a number of years, culminating in meta-analyses of multiple randomised controlled trials with sufficient statistical power. But if you are a practitioner, what you want to do is to learn what can be useful to you today, in the pursuit of your goals. Your evaluation of an idea should be structured around whether the idea _works for you_ --- which is a different bar for truth compared to that of the scientist's.
 >
 > NDM lies at the highest level in my [hierarchy of practical evidence](https://commoncog.com/the-hierarchy-of-practical-evidence/) [[Cedric Chin | The Hierarchy of Practical Evidence]({{< relref "cedric_chin_the_hierarchy_of_practical_evidence.md" >}})]: I have tried their methods and their ideas in my life, and _nearly every one of them have led to improvements._
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020a. “Why Tacit Knowledge Is More Important Than Deliberate Practice.” Commoncog. June 9, 2020. <a href="https://commoncog.com/tacit-knowledge-is-a-real-thing/">https://commoncog.com/tacit-knowledge-is-a-real-thing/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2020b. “Copying Better: How To Acquire The Tacit Knowledge of Experts.” Commoncog. June 16, 2020. <a href="https://commoncog.com/how-to-learn-tacit-knowledge/">https://commoncog.com/how-to-learn-tacit-knowledge/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

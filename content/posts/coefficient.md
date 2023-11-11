@@ -2,7 +2,7 @@
 title = "Coefficient"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:33:00-08:00
-lastmod = 2023-09-24T10:01:17-07:00
+lastmod = 2023-11-10T10:34:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,27 +16,7 @@ slug = "8163639a-02be-4d0e-9aad-b2f4c676f125"
 > (<a href="#citeproc_bib_item_1">“Coefficient” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition (Math) {#definition--math}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.50 | 11  | 253.24   | 2023-10-26T21:53:21Z |
-| front    | 2.05 | 8   | 289.81   | 2024-06-20T08:59:45Z |
-
-Coefficient
-
-
-#### Back {#back}
-
-A multiplicative factor in some term of an expression; usually a number though it can also be another expression.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Coefficient” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

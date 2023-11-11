@@ -2,7 +2,7 @@
 title = "Technical interview questions"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T21:19:00-08:00
-lastmod = 2023-09-24T10:50:02-07:00
+lastmod = 2023-11-10T11:21:06-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -30,9 +30,6 @@ slug = "9b224cb9-823c-468b-be5d-4431d65d9ee1"
     -   Would one or more data structures help?
 -   Can you preprocess the input?
     -   TODO Expand
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

@@ -2,14 +2,14 @@
 title = "Morgan Housel | Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T19:01:00-08:00
-lastmod = 2023-09-24T10:32:50-07:00
+lastmod = 2023-11-10T11:06:06-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "285207c7-cf14-4f37-abae-6509506734bc"
 +++
 
-TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Housel 2020</a>)
+TODO_AUTHOR, (Housel 2020)
 
 
 ## Summary {#summary}
@@ -97,12 +97,3 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Housel 2020</a>)
 
 
 #### Publishing details {#publishing-details}
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Housel, Morgan. 2020. <i>Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness</i>. Petersfield: Harriman House.</div>
-</div>

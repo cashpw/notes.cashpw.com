@@ -2,7 +2,7 @@
 title = "Be what they expect you to be"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:02:00-08:00
-lastmod = 2023-09-24T09:55:04-07:00
+lastmod = 2023-11-10T10:27:35-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -30,9 +30,6 @@ All of this is useful to reduce the friction between you and the other person. Y
 Related:
 
 -   [Play to win]({{< relref "play_to_win.md" >}})
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

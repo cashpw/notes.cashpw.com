@@ -2,14 +2,14 @@
 title = "Write prolifically, write succinctly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-17T07:28:00-08:00
-lastmod = 2023-09-24T10:56:51-07:00
+lastmod = 2023-11-10T11:27:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "d077ef5b-766b-4239-a40f-f775e101e185"
 +++
 
-> I read two different posts ([(<a href="#citeproc_bib_item_3">“Write More, but Shorter” n.d.</a>), (<a href="#citeproc_bib_item_1">Crittenden 2020</a>)]) recently, both of which can be summed up as: write more, but less.
+> I read two different posts ([(“Write More, but Shorter” n.d.), (Crittenden 2020)]) recently, both of which can be summed up as: write more, but less.
 >
 > That is: write more things, but have each thing be shorter. This has a few key benefits.
 >
@@ -19,39 +19,9 @@ slug = "d077ef5b-766b-4239-a40f-f775e101e185"
 >
 > I'd also offer as a closing though that [sometimes](https://azdavis.net/posts/moderation/), a longer-form "deep dive" is the right move. It may depend on what the audience of your work is, or how much detail you want to go into. Or it might just be your [preferred style](https://danluu.com/writing-non-advice/).
 >
-> (<a href="#citeproc_bib_item_2">“Write More, but Less” n.d.</a>) [formatting mine]
+> (“Write More, but Less” n.d.) [formatting mine]
 
 
-## Flashcards {#flashcards}
+## Backlinks {#backlinks}
 
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 166.43   | 2023-10-12T09:07:34Z |
-| back     | 2.20 | 7   | 193.52   | 2023-12-03T08:49:40Z |
-
-[Write prolifically, write succinctly]({{< relref "write_prolifically_write_succinctly.md" >}})
-
-
-#### Back {#back}
-
--   For the author
-    -   Lowers the barrier for writing
-    -   Forced to distill what they're trying to communicate
--   For the reader
-    -   Easier to read
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Write More, but Less” n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Crittenden, Mike. 2020. “Write 5x More but Write 5x Less.” Mike Crittenden. October 2, 2020. <a href="https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/">https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Write More, but Less.” n.d. Accessed November 13, 2022. <a href="https://azdavis.net/posts/write-more-but-less/">https://azdavis.net/posts/write-more-but-less/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Write More, but Shorter.” n.d. Accessed November 13, 2022. <a href="https://blog.kewah.com/2021/write-more-but-shorter/">https://blog.kewah.com/2021/write-more-but-shorter/</a>.</div>
-</div>
+-   [Keep a video journal for important moments]({{< relref "write_prolifically_write_succinctly.md" >}})

@@ -2,7 +2,7 @@
 title = "Leveling up (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T09:34:00-07:00
-lastmod = 2023-09-24T10:26:11-07:00
+lastmod = 2023-11-10T11:02:03-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -11,42 +11,7 @@ slug = "3910de4c-e0b0-4bad-93b9-334af4256906"
 
 > Every increase in seniority comes with more responsibility for raising the standards and skills of the engineers within your orbit, whether that's your local team, colleagues in your organization, or engineers across your whole company or industry. This responsibility will include intentional influence through teaching and mentoring, as well as the accidental influence that comes from being a role model.
 >
-> (<a href="#citeproc_bib_item_1">Reilly 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Examples {#examples}
-
-
-### Describe (Staff engineer) {#describe--staff-engineer}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 6   | 58.75    | 2023-10-02T09:14:55Z |
-| back     | 2.35 | 6   | 65.80    | 2023-10-14T19:57:37Z |
-
-[Leveling up (Staff Engineer's Path)]({{< relref "leveling_up_staff_engineer_s_path.md" >}})
-
-
-#### Back {#back}
-
-The ability to:
-
--   raise the standards and skills of engineers within your orbit
--   influence through (active) teaching, mentoring, and (passive) being a role model
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Reilly 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Reilly, Tanya. 2022. <i>The Staff Engineer’s Path: A Guide for Individual Contributors Navigating Growth and Change</i>. Sebastopol, CA: O’Reilly Media.</div>
-</div>
+> (Reilly 2022)
 
 
 ## Backlinks {#backlinks}

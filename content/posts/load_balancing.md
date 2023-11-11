@@ -2,7 +2,7 @@
 title = "Load balancing"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T08:31:00-07:00
-lastmod = 2023-09-24T10:27:43-07:00
+lastmod = 2023-11-10T11:03:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,63 +25,7 @@ slug = "44890929-fa24-4a69-b261-04107a005903"
 > (<a href="#citeproc_bib_item_1">“Load Balancing (Computing)” 2023</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 216.71   | 2024-04-08T06:34:07Z |
-| back     | 1.90 | 7   | 79.18    | 2023-11-07T20:15:45Z |
-
-[Load balancing]({{< relref "load_balancing.md" >}})
-
-
-#### Back {#back}
-
-The process of distributing a set of tasks over a set of resources (computing units) with the aim of making their overall processing more efficient.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Load Balancing (Computing)” 2023</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 86.72    | 2023-09-23T10:19:14Z |
-| back     | 2.65 | 6   | 97.84    | 2023-10-16T12:01:54Z |
-
-[Persistence (Load balancing)](#persistence--load-balancing-load-balancing-dot-md)
-
-
-#### Back {#back}
-
-Sending all of a user's requests (either entirely or for a single session) to the same backend server.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Load Balancing (Computing)” 2023</a>)
-
-
-### AKA {#aka}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 269.56   | 2024-06-13T12:31:31Z |
-| 1        | 2.80 | 6   | 136.43   | 2023-12-07T14:21:37Z |
-
--   {{[Persistence (Load balancing)](#persistence--load-balancing-load-balancing-dot-md)}@0}
--   {{[Stickiness (Load balancing)](#persistence--load-balancing-load-balancing-dot-md)}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Load Balancing (Computing)” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 

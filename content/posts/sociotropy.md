@@ -2,7 +2,7 @@
 title = "Sociotropy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-20T10:36:00-07:00
-lastmod = 2023-09-24T10:46:07-07:00
+lastmod = 2023-11-10T11:17:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,24 +16,7 @@ slug = "f1b60c4c-6161-435f-ae53-271f01264d7e"
 > (<a href="#citeproc_bib_item_1">“Sociotropy” 2023</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### [Sociotropy]({{< relref "sociotropy.md" >}}) {#sociotropy--sociotropy-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.30 | 4   | 7.36     | 2023-09-25T07:52:14Z |
-| back     | 2.50 | 5   | 35.77    | 2023-10-17T07:20:20Z |
-
-> [...] is a personality trait characterized by excessive investment in interpersonal relationships [...]
->
-> People with [...] tend to have a strong need for social acceptance, which causes them to be overly nurturant towards people who they do not have close relationships with.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Sociotropy” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 

@@ -2,7 +2,7 @@
 title = "Backcasting"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T07:54:00-08:00
-lastmod = 2023-09-24T09:54:42-07:00
+lastmod = 2023-11-10T10:27:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,27 +14,7 @@ slug = "bff6cb4c-8091-4c3d-87a9-397f54218d38"
 > (<a href="#citeproc_bib_item_1">“Backcasting” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.90 | 8   | 190.01   | 2023-12-31T13:30:44Z |
-| back     | 2.35 | 6   | 64.53    | 2023-09-23T04:00:41Z |
-
-[Backcasting]({{< relref "backcasting.md" >}})
-
-
-#### Back {#back}
-
-A planning method which starts from a desirable future and works backward to identify policies, programs, etc, that connect that future to the present.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Backcasting” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -45,4 +25,5 @@ A planning method which starts from a desirable future and works backward to ide
 
 ## Backlinks {#backlinks}
 
+-   [Critical path method]({{< relref "crital_path_method.md" >}})
 -   [Theory of change]({{< relref "theory_of_change.md" >}})

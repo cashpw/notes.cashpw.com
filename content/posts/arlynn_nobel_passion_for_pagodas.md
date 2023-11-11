@@ -2,14 +2,14 @@
 title = "Arlynn Nobel | Passion for Pagodas"
 author = ["Cash Weaver"]
 date = 2023-08-05T16:44:00-07:00
-lastmod = 2023-09-24T09:53:54-07:00
+lastmod = 2023-11-10T10:26:29-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "8cdbc40a-281a-4adb-a5c5-a9120d781a42"
 +++
 
-[Arylnn Nobel]({{< relref "arylnn_nobel.md" >}}), (<a href="#citeproc_bib_item_1">Nobel n.d.</a>)
+[Arylnn Nobel]({{< relref "arylnn_nobel.md" >}}), (Nobel n.d.)
 
 
 ## Summary {#summary}
@@ -216,12 +216,3 @@ slug = "8cdbc40a-281a-4adb-a5c5-a9120d781a42"
 > Add red iron oxide 11.11%
 >
 > This is a very rich warm brown with red hues that run through it. I use this as a liner glaze for most of my pagoda vessels. I like the contrast of dark to light with the flashes of orange, gold, red, and white that the salt/soda firings give me.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nobel, Arlynn. n.d. “Passion for Pagodas.” Default. Accessed August 5, 2023. <a href="https://ceramicartsnetwork.org/pottery-making-illustrated/pottery-making-illustrated-article/Passion-for-Pagodas">https://ceramicartsnetwork.org/pottery-making-illustrated/pottery-making-illustrated-article/Passion-for-Pagodas</a>.</div>
-</div>

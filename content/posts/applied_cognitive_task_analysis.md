@@ -2,7 +2,7 @@
 title = "Applied cognitive task analysis"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-08T15:18:00-07:00
-lastmod = 2023-09-24T09:53:52-07:00
+lastmod = 2023-11-10T10:26:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -210,135 +210,24 @@ The cognitive demands table is a reader-friendly presentation of the data you've
 > (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 
-## Flashcards {#flashcards}
+## Bibliography {#bibliography}
 
+## References
 
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.5  | -1  | 0        | 2023-09-11T13:49:13Z |
-| back     | 2.5  | -1  | 0        | 2023-09-18T13:49:13Z |
-
-Steps involved in [Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}})
-
-
-#### Back {#back}
-
-1.  Create a [Task diagram](#task-diagram)
-2.  Perform [Knowledge audits](#knowledge-audit)
-3.  Perform [Simulation interviews](#simulation-interview)
-4.  Construct a [Cognitive demands table](#cognitive-demands-table)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.5  | -1  | 0        | 2023-09-11T13:49:41Z |
-| 1        | 2.5  | -1  | 0        | 2023-09-18T13:49:41Z |
-
-{{[Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}})}@0} is a simpler form of {{[Cognitive task analysis]({{< relref "cognitive_tasks_analysis.md" >}})}@1}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
-
-
-### Describe ([Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}})) {#describe--applied-cognitive-task-analysis-applied-cognitive-task-analysis-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2023-09-23T14:14:36Z |
-| back     | 2.5  | -1  | 0        | 2023-09-18T13:50:35Z |
-
-How to create a [Task diagram](#task-diagram)
-
-
-#### Back {#back}
-
-1.  Ask the subject matter expert to decompose the task in to steps, or subtasks, into 3-6[^fn:1] steps
-
-    "Think about what you do when you perform &lt;task of interest&gt;. Can you break this down into less than six, but more than three steps?" (<a href="#citeproc_bib_item_1">Chin 2021</a>)
-
-2.  Ask the subject matter expert to identify the more complex or cognitively demanding steps
-
-    "Of the steps you have just identified, which require difficult cognitive skills? By cognitive skills I mean: judgments, assessments, and problem solving-thinking skills." (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
-
-3.  Circle those steps; you'll be focusing on them during the next two techniques.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
-
-
-### Describe ([Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}})) {#describe--applied-cognitive-task-analysis-applied-cognitive-task-analysis-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-09-15T15:20:54Z |
-| back     | 2.5  | -1  | 0        | 2023-09-18T13:51:04Z |
-
-How to perform a [Knowledge audit](#knowledge-audit)
-
-
-#### Back {#back}
-
-1.  Converse with, interview, the subject matter expert using the [Task diagram](#task-diagram) as a guide for _what_ to ask about and the [probes](#knowledge-audit-probes) as a guide for _how_ to ask
-2.  Aggregate the results of several such interviews into a knowledge audit table (see example below)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
-
-
-### Describe ([Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}})) {#describe--applied-cognitive-task-analysis-applied-cognitive-task-analysis-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2023-09-19T22:59:38Z |
-| back     | 2.50 | 1   | 1.00     | 2023-09-19T15:44:24Z |
-
-How to perform a [Simulation interview](#simulation-interview)
-
-
-#### Back {#back}
-
-1.  Present the subject matter expert with a challenging scenario ([Choosing good simulations](#choosing-good-simulations))
-
-    "As you experience this simulation, imagine you are the (job you are investigating) in the incident. Afterwards, I am going to ask you a series of questions about how you would think and act in this situation." (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
-
-2.  Ask them to "identify major events, including judgements and decisions" (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>) and [probe](#simulation-interview-probes) each event for "situation assessment, actions, critical cues, and potential errors surrounding that event" (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
-
-3.  Aggregate their answers into a simulation interview table. "Using the same simulation for interviews with multiple SMEs can provide insight into situations in which more than one action would be acceptable, and alternative assessments of the same situation are plausible." (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2021. “An Easier Method for Extracting Tacit Knowledge.” Commoncog. April 27, 2021. <a href="https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/">https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Militello, Laura, and Robert Hutton. 1998. “Applied Cognitive Task Analysis (ACTA): A Practitioner’s Toolkit for Understanding Cognitive Task Demands.” <i>Ergonomics</i> 41 (December): 1618–41. <a href="https://doi.org/10.1080/001401398186108">https://doi.org/10.1080/001401398186108</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | An Easier Method for Extracting Tacit Knowledge]({{< relref "chin_an_easier_method_for_extracting_tacit_knowledge.md" >}})
--   [Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands]({{< relref "applied_cognitive_task_analysis.md" >}})
--   [Cedric Chin | John Cutler's Product Org Expertise]({{< relref "applied_cognitive_task_analysis.md" >}})
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
+-   [Dan Luu | 95%-Ile Isn't That Good]({{< relref "dan_luu_95_ile_isn_t_that_good.md" >}})
 -   [Cognitive task analysis]({{< relref "cognitive_tasks_analysis.md" >}})
+-   [Cedric Chin | John Cutler's Product Org Expertise]({{< relref "applied_cognitive_task_analysis.md" >}})
+-   [Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands]({{< relref "applied_cognitive_task_analysis.md" >}})
+-   [Cedric Chin | An Easier Method for Extracting Tacit Knowledge]({{< relref "chin_an_easier_method_for_extracting_tacit_knowledge.md" >}})
+-   [Get good]({{< relref "get_good.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 
 [^fn:1]: "The interviewer limits the SME to between three and six steps, to ensure that time is not wasted delving into minute detail during the surface-level interview." (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
-
-    ## References
-
-    <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-      <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2021. “An Easier Method for Extracting Tacit Knowledge.” Commoncog. April 27, 2021. <a href="https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/">https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/</a>.</div>
-      <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Militello, Laura, and Robert Hutton. 1998. “Applied Cognitive Task Analysis (ACTA): A Practitioner’s Toolkit for Understanding Cognitive Task Demands.” <i>Ergonomics</i> 41 (December): 1618–41. <a href="https://doi.org/10.1080/001401398186108">https://doi.org/10.1080/001401398186108</a>.</div>
-    </div>

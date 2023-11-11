@@ -2,14 +2,14 @@
 title = "Cedric Chin | The Three Kinds of Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:58:00-07:00
-lastmod = 2023-09-24T09:59:37-07:00
+lastmod = 2023-11-10T10:32:17-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "6e417a2d-0c14-4057-b022-c89d787e7fd3"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2020)
 
 
 ## Summary {#summary}
@@ -45,7 +45,7 @@ I'm not sure the distinction between [Relational tacit knowledge]({{< relref "re
 >
 > Collins appears to enjoy using the laser example and the sapphire example because the scientists were working from detailed specifications published in peer-reviewed journals ... and they were working in physics and material science respectively --- both of them 'hard sciences'! Collins's point: if it is difficult to explicate knowledge in the 'hard sciences', then we should expect no less in other domains of human knowledge.
 >
-> (<a href="#citeproc_bib_item_1">Chin 2020</a>)
+> (Chin 2020)
 
 
 ### [Somatic tacit knowledge]({{< relref "somatic_tacit_knowledge.md" >}}) {#somatic-tacit-knowledge--somatic-tacit-knowledge-dot-md}
@@ -60,15 +60,6 @@ I'm not sure the distinction between [Relational tacit knowledge]({{< relref "re
 >
 > 1.  In principle, relational tacit knowledge is explicable, even if challenging; somatic tacit knowledge less so, and collective tacit knowledge 'impossible'. But:
 > 2.  When it comes to human behaviour, the ease with which we pick up the three forms of tacit knowledge is reversed! It is easiest for us to pick up collective tacit knowledge — we begin socialisation from birth; we don't even notice when we absorb social context from our surroundings. In comparison, it is slightly harder to pick up somatic tacit knowledge, and it is most difficult to pick up relational tacit knowledge, since this hangs on the nature of expertise, and it the depends on the ways with which we relate to each other.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “The Three Kinds of Tacit Knowledge.” Commoncog. June 23, 2020. <a href="https://commoncog.com/three-kinds-of-tacit-knowledge/">https://commoncog.com/three-kinds-of-tacit-knowledge/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

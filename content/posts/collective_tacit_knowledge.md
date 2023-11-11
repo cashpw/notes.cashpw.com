@@ -2,7 +2,7 @@
 title = "Collective tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T22:20:00-07:00
-lastmod = 2023-09-24T10:01:34-07:00
+lastmod = 2023-11-10T10:34:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,27 +14,7 @@ slug = "c826a9e6-fcf5-4b94-81cb-0495f6aaa866"
 > (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-09-24T15:43:23Z |
-| back     | 2.50 | 1   | 1.00     | 2023-09-22T14:16:21Z |
-
-[Collective tacit knowledge]({{< relref "collective_tacit_knowledge.md" >}})
-
-
-#### Back {#back}
-
-Knowledge that is tacit because it's embedded in our social environment. We don't know how to make it explicit in a way that doesn't involve socializing.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Chin 2020</a>)
+## Bibliography {#bibliography}
 
 ## References
 

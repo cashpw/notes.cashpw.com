@@ -2,9 +2,9 @@
 title = "It's Clear As Mud | How To Throw Production Pottery Part 1"
 author = ["Cash Weaver"]
 date = 2023-09-12T16:44:00-07:00
-lastmod = 2023-09-24T10:20:06-07:00
-tags = ["hastodo", "reference", "hastodo", "reference"]
-categories = ["hastodo", "reference"]
+lastmod = 2023-11-10T10:56:44-08:00
+tags = ["reference", "reference"]
+categories = ["reference"]
 draft = false
 slug = "014b8559-9a7d-4b1f-af4c-5cc4cec663fb"
 +++
@@ -14,18 +14,17 @@ slug = "014b8559-9a7d-4b1f-af4c-5cc4cec663fb"
 
 ## Summary {#summary}
 
+-   [Three pulls]({{< relref "it_s_clear_as_mud_how_to_throw_production_pottery_part_1.md" >}})
+-   Use a [Throwing gauge]({{< relref "it_s_clear_as_mud_how_to_throw_production_pottery_part_1.md" >}})
+
 
 ## Thoughts {#thoughts}
 
 
 ## Notes {#notes}
 
--   [Three pulls]({{< relref "it_s_clear_as_mud_how_to_throw_production_pottery_part_1.md" >}})
--   Use a [Throwing gauge]({{< relref "it_s_clear_as_mud_how_to_throw_production_pottery_part_1.md" >}})
--
 
-
-## Flashcards {#flashcards}
+## Bibliography {#bibliography}
 
 ## References
 

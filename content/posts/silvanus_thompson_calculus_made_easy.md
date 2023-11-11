@@ -2,14 +2,14 @@
 title = "Silvanus Thompson | Calculus Made Easy"
 author = ["Cash Weaver"]
 date = 2023-01-18T06:55:00-08:00
-lastmod = 2023-09-24T10:45:11-07:00
+lastmod = 2023-11-10T11:16:47-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "9486d469-bfc8-46d9-9096-cb9c00a2628c"
 +++
 
-[Silvanus Thompson]({{< relref "silvanus_thompson.md" >}}), (<a href="#citeproc_bib_item_1">Thompson 1914</a>)
+[Silvanus Thompson]({{< relref "silvanus_thompson.md" >}}), (Thompson 1914)
 
 
 ## Summary {#summary}
@@ -497,154 +497,3 @@ An introductory book on [Calculus]({{< relref "calculus.md" >}}) which focuses o
 <!--list-separator-->
 
 -  License
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 251.91   | 2024-03-22T11:09:07Z |
-
-How to find \\(\frac{dy}{dx}\\) using [First principles]({{< relref "first_principles.md" >}}) for \\(y = x^2\\).
-
-
-#### Back {#back}
-
-$$
-
-\begin{align}
-y &= x^2 \\\\
-y + dy &= (x + dx)^2 \\\\
-y + dy &= x^2 + 2x(dx) + (dx)^2 \\\\
-y + dy &= x^2 + 2x(dx) \\\\
-x^2 + dy &= x^2 + 2x(dx) \\\\
-dy &= 2x(dx) \\\\
-\frac{dy}{dx} &= 2x
-\end{align}
-
-$$
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Thompson 1914</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 69.02    | 2023-11-12T13:52:18Z |
-| back     | 3.25 | 7   | 380.47   | 2024-08-24T11:55:55Z |
-
-General, [First principles]({{< relref "first_principles.md" >}}), approach to find \\(\frac{dy}{dx}\\).
-
-
-#### Back {#back}
-
-1.  Replace \\(y\\) with \\(y + dy\\)
-2.  Replace \\(x\\) with \\(x + dx\\)
-3.  Solve for \\(\frac{dy}{dx}\\)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Thompson 1914</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 380.12   | 2024-09-21T17:49:28Z |
-| 1        | 2.80 | 7   | 368.16   | 2024-09-20T19:38:02Z |
-
-{{\\(\frac{dy}{dx}\\)}{math}@0} : {{Derivative of \\(y\\) with respect to \\(x\\)}{English}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Thompson 1914</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.95 | 7   | 427.91   | 2024-11-12T10:36:15Z |
-| 1        | 2.20 | 5   | 23.39    | 2023-10-05T21:59:41Z |
-
-To {{[Differentiate]({{< relref "differential_calculus.md" >}})}@0} is to find the {{differential [Coefficient]({{< relref "coefficient.md" >}})}@1}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Thompson 1914</a>)
-
-
-### Equivalence {#equivalence}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 7   | 139.85   | 2023-10-22T00:42:28Z |
-| 1        | 2.35 | 7   | 159.16   | 2023-11-14T20:12:23Z |
-
-\\(f(x)=\\) {{\\(x^n + C\\)}@1}
-\\(f'(x)=\\) {{\\(nx^{(n-1)}\\)}@0}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Thompson 1914</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 262.30   | 2024-04-06T20:48:05Z |
-
-\\(y &= x^3 + 5\\)
-
-\\(\frac{dy}{dx}=\\) {{\\(3x^2\\)}@0}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Thompson 1914</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.30 | 8   | 23.90    | 2023-10-04T11:15:05Z |
-
-How to find the first derivative of \\(y = z \times w\\) with respect to \\(x\\) where \\(z,w\\) are expressions in terms of \\(x\\)
-
-
-#### Back {#back}
-
-$$
-
-\begin{align}
-y &= z \times w \\\\
-&\dots \\\\
-\frac{dy}{dx} &= z\frac{dw}{dx} + w\frac{dz}{dx}
-\end{align}
-
-$$
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Thompson 1914</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Thompson, Silvanus. 1914. <i>Calculus Made Easy</i>.</div>
-</div>

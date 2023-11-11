@@ -2,14 +2,14 @@
 title = "Cedric Chin | Expertise Is 'Just' Pattern Matching"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:53:00-08:00
-lastmod = 2023-09-24T10:00:25-07:00
+lastmod = 2023-11-10T10:33:21-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "b481f4e5-63b4-4455-8406-49825121b06c"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2020)
 
 
 ## Summary {#summary}
@@ -50,44 +50,13 @@ The idea rings true to me when I think about how chess masters describe thinking
 > What about creativity, for instance? Klein covers this in his research; in Sources of Power he discusses how expert minds use pattern-recognition to identify 'leverage points' — points in which one could do something radically different — in order to come up with creative solutions within the constraints of some domain. I've dug a little into the research and I think the take is plausible, but I'm not entirely convinced. Surely the mechanism of creativity is different from the prototype-based recognition that drives most of expertise? The short answer to that seems to be 'yes, creativity relies on connections between different ideas and this is independent of expertise' but also 'identifying the right leverage points is still a recognition/expertise thing'. The two seem highly intertwined in the sorts of fields that Klein studies; my remaining scepticism is that I do not know if this is true in 'pure' creative domains like art and design and fiction writing.
 
 
-## Flashcards {#flashcards}
-
-
-### Summarize {#summarize}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.05 | 8   | 194.45   | 2024-01-10T03:37:07Z |
-| back     | 2.65 | 7   | 242.23   | 2024-02-15T19:51:20Z |
-
-[Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}})
-
-
-#### Back {#back}
-
-Being an expert at something is a function of:
-
-1.  recognizing situations
-2.  knowing how to respond to those situations
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Chin 2020</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “Expertise Is ’Just’ Pattern Matching.” Commonplace - The Commoncog Blog. January 21, 2020. <a href="https://commoncog.com/blog/expertise-is-just-pattern-matching/">https://commoncog.com/blog/expertise-is-just-pattern-matching/</a>.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
+-   [Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}})
 -   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
 -   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
--   [Todos]({{< relref "todos.md" >}})
 -   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
--   [Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}})
--   [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})
 -   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
+-   [Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]({{< relref "gary_klein_and_jennifer_phillips_and_erica_rall_and_deborah_peluso_a_data_frame_theory_of_sensemaking.md" >}})
+-   [Todos]({{< relref "todos.md" >}})
+-   [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})

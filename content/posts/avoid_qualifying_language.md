@@ -2,7 +2,7 @@
 title = "Avoid qualifying language"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-20T08:51:00-08:00
-lastmod = 2023-09-24T09:54:33-07:00
+lastmod = 2023-11-10T10:27:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -10,9 +10,6 @@ slug = "001f6ae7-a549-4e90-a571-783d9a20fcc3"
 +++
 
 Avoid using qualifying language (e.g. "perhaps" and "probably") to increase the [strength]({{< relref "HowWriteUsefully.md" >}}) of your writing.
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

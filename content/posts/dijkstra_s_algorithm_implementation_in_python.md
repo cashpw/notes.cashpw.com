@@ -2,7 +2,7 @@
 title = "Dijkstra's algorithm implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T12:19:00-08:00
-lastmod = 2023-09-24T10:06:29-07:00
+lastmod = 2023-11-10T10:40:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -87,43 +87,6 @@ adjacency_list = {
 print(dijkstra_single_pair_shortest_path(a.id, f.id, adjacency_list), 'should be [0, 1, 2, 4, 5]')
 print(dijkstra_single_pair_shortest_path(b.id, a.id, adjacency_list), 'should be None')
 ```
-
-
-## Flashcards {#flashcards}
-
-
-### Implement {#implement}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-08-02T14:06:39Z |
-
-Implement [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) in [Python]({{< relref "python.md" >}}) to solve the [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
-
-
-#### Back {#back}
-
-[Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
-
-
-#### Source {#source}
-
-
-### Implement {#implement}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 6   | 114.79   | 2023-10-08T08:42:01Z |
-
-Implement [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) in [Python]({{< relref "python.md" >}}) to solve the [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
-
-
-#### Back {#back}
-
-[Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
-
-
-#### Source {#source}
 
 
 ## Backlinks {#backlinks}

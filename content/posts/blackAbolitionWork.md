@@ -2,14 +2,14 @@
 title = "Bob Black | The Abolition of Work"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:25:00-07:00
-lastmod = 2023-09-24T09:56:32-07:00
+lastmod = 2023-11-10T10:28:56-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "671f6f60-5e17-4830-b6a2-a002ce52a6da"
 +++
 
-[Bob Black]({{< relref "bob_black.md" >}}), (<a href="#citeproc_bib_item_1">Black n.d.</a>)
+[Bob Black]({{< relref "bob_black.md" >}}), (Black n.d.)
 
 
 ## Summary {#summary}
@@ -29,7 +29,7 @@ Black proposes converting work to play. I wonder: will all games have players?
 >
 > The products and services of our modern world also requires sustained, multi-year efforts by trained specialists. Something like the mass production of medicine isn't something you can just play with once in a while and still get it made in high enough quantities with serious quality control.
 >
-> (<a href="#citeproc_bib_item_2">pmoriarty n.d.</a>)
+> (pmoriarty n.d.)
 
 Perhaps the answer is just more automation.
 
@@ -61,13 +61,3 @@ Perhaps the answer is just more automation.
 > Work makes a mockery of freedom. The official line is that we all have rights and live in a democracy. Other unfortunates who aren't free like we are have to live in police states. These victims obey orders or-else, no matter how arbitrary. The authorities keep them under regular surveillance. State bureaucrats control even the smaller details of everyday life. The officials who push them around are answerable only to higher-ups, public or private. Either way, dissent and disobedience are punished. Informers report regularly to the authorities. All this is supposed to be a very bad thing.
 >
 > And so it is, although it is nothing but a description of the modern workplace.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Black, Bob. n.d. “The Abolition of Work.” The Anarchist Library. Accessed March 13, 2022. <a href="https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work">https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>pmoriarty. n.d. “I’ve Long Been a Fan of This Essay, as Something to Strive for over the next.” Accessed March 14, 2022. <a href="https://news.ycombinator.com/item?id=25482852">https://news.ycombinator.com/item?id=25482852</a>.</div>
-</div>

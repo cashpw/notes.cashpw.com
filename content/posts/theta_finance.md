@@ -2,7 +2,7 @@
 title = "Theta (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:40:00-08:00
-lastmod = 2023-09-24T10:51:51-07:00
+lastmod = 2023-11-10T11:22:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,41 +20,7 @@ slug = "52a7a44e-dbca-4eae-974a-b7185c2c97b7"
 > (<a href="#citeproc_bib_item_1">“Greeks (Finance)” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 8   | 310.67   | 2024-06-29T08:47:43Z |
-| back     | 2.35 | 7   | 171.06   | 2023-10-28T17:35:54Z |
-
-[Theta (finance)]({{< relref "theta_finance.md" >}})
-
-
-#### Back {#back}
-
--   Measures the sensitivity of [Derivative (finance)]({{< relref "derivative_finance.md" >}})'s value to the passage of time; the "time decay"
--   \\(\dots = - \frac{\partial V}{\partial\tau}\\)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Greeks (Finance)” 2022</a>)
-
-
-### (Finance) {{\\(\Theta\\)}@0} \\(=\\) {{\\(- \frac{\partial V}{\partial\tau}\\)}@1} {#finance--theta-0-frac-partial-v-partial-tau-1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 173.35   | 2023-09-22T05:58:08Z |
-| 1        | 2.20 | 7   | 146.15   | 2023-12-07T04:28:11Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Greeks (Finance)” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

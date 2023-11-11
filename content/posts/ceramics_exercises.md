@@ -2,7 +2,7 @@
 title = "Ceramics exercises"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-10T19:13:00-08:00
-lastmod = 2023-09-24T10:00:03-07:00
+lastmod = 2023-11-10T10:32:52-08:00
 draft = false
 slug = "a500c749-aab9-4150-876f-6f40c76bba35"
 +++
@@ -57,7 +57,7 @@ Choose one or more of the following:
 -   Throw repeatedly for creativity: Throw 10/25/50/100/... different variations on the same form (eg: a vase). This exercise is about [pushing yourself to be creative]({{< relref "how_to_be_more_creative.md" >}}) and explore the form you're throwing.
 
 
-## Flashcards {#flashcards}
+## Bibliography {#bibliography}
 
 ## References
 
@@ -70,4 +70,4 @@ Choose one or more of the following:
 
 ## Backlinks {#backlinks}
 
--   [Ceramics/Pottery Resources]({{< relref "ceramics_pottery_resources.md" >}})
+-   [Ceramics Resources]({{< relref "ceramics_pottery_resources.md" >}})

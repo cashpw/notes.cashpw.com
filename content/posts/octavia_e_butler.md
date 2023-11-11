@@ -2,15 +2,12 @@
 title = "Octavia E. Butler"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T09:51:00-07:00
-lastmod = 2023-09-24T10:35:45-07:00
+lastmod = 2023-11-10T11:07:58-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "71411c84-8139-49de-bb59-b2fe65dccae8"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

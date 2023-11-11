@@ -2,7 +2,7 @@
 title = "John Allspaw"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:31:00-08:00
-lastmod = 2023-09-24T10:21:25-07:00
+lastmod = 2023-11-10T10:58:19-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -12,9 +12,6 @@ slug = "7b38ec01-c3cb-4ea3-9c02-a3be22880118"
 Among other things:
 
 -   <https://www.kitchensoap.com/about-me/>
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

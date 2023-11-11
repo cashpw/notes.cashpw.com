@@ -2,14 +2,14 @@
 title = "Ben Kuhn | In Defense of Blub Studies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T05:25:00-08:00
-lastmod = 2023-09-24T10:24:12-07:00
+lastmod = 2023-11-10T11:00:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "2b7b62cd-9368-468d-a562-4bc13acb2ee1"
 +++
 
-[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn n.d.</a>)
+[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (Kuhn n.d.)
 
 
 ## Summary {#summary}
@@ -57,17 +57,6 @@ Related:
 > First, I'll try to go deeper than necessary. If I really want to ship something, it's easy to give into temptation to, say, Google an error message, copy-paste a fix from Stack Overflow, and move on with my day. But it often doesn't take that much longer to actually read the error message, understand what it means, and try to figure out why that Stack Overflow answer fixed my problem. Similarly, if I'm stuck in a tricky yak shave, I'll bias against "guess-and-check" style debugging in favor of getting a better understanding of the system I'm trying to debug. It doesn't always feel worth it to, e.g., dive into the docs of tcpdump and iptables rules to track down my weird one-off networking issue—but over time I've run into enough "weird one-off networking issues" that it's paid off many times over.
 >
 > The second part of my blub flywheel is to pay attention to magic. Whenever I'm working with something new, I try to continuously update my best-guess mental model of how it's implemented. "Okay, the docs are telling me to create an Ingress, I guess this is probably the widget that provisions a load balancer to talk to my backend containers?" If I realize I'm wrong, I'll dig in and update. "Hmm, I can't ping those pods from outside the cluster, so how could the load balancer be talking to them? Aha—it's talking to the nodes, and there's a NodePort Service as a second layer of indirection." If I have no idea at all how something could work, that usually means it's time to read a book.
-
-
-## Flashcards {#flashcards}
-
-See [Blub studies]({{< relref "blub_studies.md" >}})
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. n.d. “In Defense of Blub Studies.” benkuhn.net. Accessed March 12, 2022. <a href="https://www.benkuhn.net/blub/">https://www.benkuhn.net/blub/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

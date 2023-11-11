@@ -2,14 +2,14 @@
 title = "Donald Hall | The Third Thing"
 author = ["Cash Weaver"]
 date = 2023-09-10T10:02:00-07:00
-lastmod = 2023-09-24T10:07:14-07:00
+lastmod = 2023-11-10T10:41:52-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "5a6ea0e5-2b5c-4068-ab08-5e52cede1944"
 +++
 
-[Donald Hall]({{< relref "donald_hall.md" >}}), (<a href="#citeproc_bib_item_1">Hall 2023</a>)
+[Donald Hall]({{< relref "donald_hall.md" >}}), (Hall 2023)
 
 
 ## Summary {#summary}
@@ -51,29 +51,6 @@ slug = "5a6ea0e5-2b5c-4068-ab08-5e52cede1944"
 > We were each other's readers but we could not be each other's only readers. I mostly consulted friends and editors by mail, so many helpers that I will not try to list them, poets from my generation and poets Jane's age and even younger. Jane worked regularly, the last dozen years of her life, with the poet Joyce Peseroff and the novelist Alice Mattison. The three of them worked wonderfully together, each supplying things that the other lacked. They fought, they laughed, they rewrote and cut and rearranged. Jane would return from a workshop exhausted yet unable to keep away from her desk, working with wild excitement to follow suggestions. The three women were not only being literary critics for each other. Each had grown up knowing that it was not permitted for females to be as aggressive as males, and all were ambitious in their art, and encouraged each other in their ambition. I felt close to Alice and Joyce, my friends as well as Jane's, but I did not stick my nose into their deliberations. If I had tried to, I would have lost a nose. Even when they met at our house, I was careful to stay apart. They met often at Joyce's in Massachusetts, because it was half way between Jane and Alice. They met in New Haven at Alice's. When I was recovering from an operation, and Jane and I didn't want to be separated, there were workshops at the Lord Jeffrey Inn in Amherst. We four ate together and made pilgrimages to Emily Dickinson's house and grave, but while they worked together I wrote alone in an adjacent room. This three-part friendship was essential to Jane's poetry.
 >
 > Meantime we lived in the house of poetry, which was also the house of love and grief; the house of solitude and art; the house of Jane's depression and my cancers and Jane's leukemia. When someone died whom we loved, we went back to the poets of grief and outrage, as far back as _Gilgamesh_; often I read aloud Henry King's "The Exequy," written in the seventeenth century after the death of his young wife. Poetry gives the griever not release from grief but companionship in grief. Poetry embodies the complexities of feeling at their most intense and entangled, and therefore offers (over centuries, or over no time at all) the company of tears. As I sat beside Jane in her pain and weakness I wrote about pain and weakness. Once in a hospital I noticed that the leaves were turning. I realized that I had not noticed that they had come to the trees. It was a year without seasons, a year without punctuation. I began to write "Without" to embody the sensations of lives under dreary, monotonous assault. After I had drafted it many times I read it aloud to Jane. "That's it, Perkins," she said. "You've got it. That's it." Even in this poem written at her mortal bedside there was companionship.
-
-
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2023-09-21T23:59:11Z |
-
-> [...] most of the time our gazes met and entwined {{as they looked at a third thing}@0}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Hall 2023</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hall, Donald. 2023. “The Third Thing.” Text/html. Poetry Magazine; Poetry Magazine. September 10, 2023. <a href="https://www.poetryfoundation.org/poetrymagazine/articles/60484/the-third-thing">https://www.poetryfoundation.org/poetrymagazine/articles/60484/the-third-thing</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

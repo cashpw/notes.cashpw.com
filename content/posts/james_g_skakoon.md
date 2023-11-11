@@ -2,15 +2,12 @@
 title = "James G. Skakoon"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-02T16:01:00-07:00
-lastmod = 2023-09-24T10:20:47-07:00
+lastmod = 2023-11-10T10:57:36-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "9f82e2f9-2740-42cb-843f-a74daad11989"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

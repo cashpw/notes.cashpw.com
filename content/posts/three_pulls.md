@@ -2,7 +2,7 @@
 title = "Three pulls"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-12T16:46:00-07:00
-lastmod = 2023-09-24T10:52:24-07:00
+lastmod = 2023-11-10T11:23:24-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -16,9 +16,6 @@ Three pulls is a production / efficient [Pottery]({{< relref "ceramics.md" >}}) 
 3.  Rib pull; pull up with a wooden/etc rib on the outside
 
     In this way you pull and remove excess slip in the same movement.
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

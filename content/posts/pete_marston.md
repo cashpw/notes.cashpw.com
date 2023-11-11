@@ -2,15 +2,12 @@
 title = "Pete Marston"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-27T16:22:00-07:00
-lastmod = 2023-09-24T10:37:35-07:00
+lastmod = 2023-11-10T11:09:55-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "72a651cb-0c8b-4b2f-b625-6878032f151f"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

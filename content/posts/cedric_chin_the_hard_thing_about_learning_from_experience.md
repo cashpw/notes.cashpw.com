@@ -2,9 +2,9 @@
 title = "Cedric Chin | The Hard Thing About Learning From Experience"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:42:00-07:00
-lastmod = 2023-09-24T09:59:20-07:00
-tags = ["hastodo", "reference", "hastodo", "reference"]
-categories = ["hastodo", "reference"]
+lastmod = 2023-11-10T10:31:53-08:00
+tags = ["reference", "reference"]
+categories = ["reference"]
 draft = false
 slug = "6e21d350-e098-4a80-a6bf-ccc86c254f28"
 +++
@@ -14,8 +14,12 @@ slug = "6e21d350-e098-4a80-a6bf-ccc86c254f28"
 
 ## Summary {#summary}
 
+See [Cognitive transformation theory]({{< relref "cognitive_transformation_theory.md" >}}).
+
 
 ## Thoughts {#thoughts}
+
+An example of a blog post which _isn't_ [atomic]({{< relref "andy_matuschak_evergreen_notes_should_be_atomic.md" >}}). Readers would be better served by referring to [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}}).
 
 
 ## Notes {#notes}
@@ -38,7 +42,7 @@ slug = "6e21d350-e098-4a80-a6bf-ccc86c254f28"
 > Everything I've just said is a restatement of Gary Klein and Holly Baxter's Cognitive Transformation Theory [[Cognitive transformation theory]({{< relref "cognitive_transformation_theory.md" >}})].
 
 
-## Flashcards {#flashcards}
+## Bibliography {#bibliography}
 
 ## References
 

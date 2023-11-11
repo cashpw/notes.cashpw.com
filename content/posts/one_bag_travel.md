@@ -2,7 +2,7 @@
 title = "One-bag travel"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T05:39:00-07:00
-lastmod = 2023-09-24T10:35:55-07:00
+lastmod = 2023-11-10T11:08:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,7 +18,7 @@ The culture associated with one-bag travel, at least as I've seen it online, ove
 
 > Onebag travel is the best way to travel since it removes most of the pain points involved. No rushing to the airport early to check bags, no searching for an overhead compartment, no bag fees or worrying about stuff getting lost, and no adjusting plans to drop off luggage before an adventure
 >
-> (<a href="#citeproc_bib_item_1">Maluf n.d.</a>)
+> (Maluf n.d.)
 
 
 ## Packing lists {#packing-lists}
@@ -27,16 +27,7 @@ The culture associated with one-bag travel, at least as I've seen it online, ove
 -   [r/onebag](https://reddit.com//r/onebag)
 
 
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Maluf, Jeremy. n.d. “Indefinite Backpack Travel.” Accessed August 14, 2023. <a href="https://jeremymaluf.com/onebag/">https://jeremymaluf.com/onebag/</a>.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
--   [Italy 2023]({{< relref "italy_2023.md" >}})
 -   [My one-bag packing list]({{< relref "one_bag_travel.md" >}})
+-   [Italy 2023]({{< relref "italy_2023.md" >}})

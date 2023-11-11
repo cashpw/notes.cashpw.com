@@ -2,7 +2,7 @@
 title = "Bill van Gilder"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:58:00-08:00
-lastmod = 2023-09-24T09:55:47-07:00
+lastmod = 2023-11-10T10:28:11-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,3 @@ Among other things:
 
 -   A potter
 -   [YouTube](https://www.youtube.com/c/BillvanGilderPottery)
-
-
-## Flashcards {#flashcards}

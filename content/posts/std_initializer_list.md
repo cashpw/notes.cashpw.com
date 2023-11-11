@@ -2,7 +2,7 @@
 title = "std::initializer_list"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T09:18:00-07:00
-lastmod = 2023-09-24T10:47:51-07:00
+lastmod = 2023-11-10T11:19:04-08:00
 draft = false
 slug = "a707abfd-b17d-40d0-a1c2-1caa14e2de47"
 +++
@@ -24,61 +24,6 @@ class Vector {
     }
 }
 ```
-
-
-## Flashcards {#flashcards}
-
-
-### Example(s) {#example--s}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 82.69    | 2023-10-11T07:42:46Z |
-| back     | 2.35 | 6   | 98.14    | 2023-11-11T19:16:02Z |
-
-[std::initializer_list]({{< relref "std_initializer_list.md" >}})
-
-
-#### Back {#back}
-
-The type of `{1, 2, 3}` in the following snippet:
-
-```C++
-std::vector v = {1, 2, 3};
-```
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Std:Initializer\_List” n.d.</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.05 | 6   | 50.94    | 2023-11-09T22:28:18Z |
-
-```C++
-std::vector v = {1, 2, 3};
-
-namespace std {
-  class vector {
-    {{vector(std::initializer_list<int> list)}{constructor}@0}
-  }
-}
-```
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Std:Initializer\_List” n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Std:Initializer\_List.” n.d. Accessed May 18, 2023. <a href="https://en.cppreference.com/w/cpp/utility/initializer_list">https://en.cppreference.com/w/cpp/utility/initializer_list</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

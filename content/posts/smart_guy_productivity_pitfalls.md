@@ -2,7 +2,7 @@
 title = "Smart Guy Productivity Pitfalls"
 author = ["Cash Weaver"]
 date = 2022-12-20T10:22:00-08:00
-lastmod = 2023-09-24T10:45:58-07:00
+lastmod = 2023-11-10T11:17:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -108,32 +108,16 @@ I disagree with the author's assessment that solutions such as "turning off the 
 >     A friend of mine's father has a great quote: "Son, i don't wake up every day and go to a place called fun. I wake up and go to a place called work"  You can't get irate or frustrated that the bulk of the day is typing in boring code and dealing with bugs and other people.
 
 
-## Flashcards {#flashcards}
-
-
-### Summarize {#summarize}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 88.83    | 2023-11-17T11:56:19Z |
-| back     | 2.20 | 4   | 13.81    | 2023-10-01T18:33:53Z |
-
-[Smart Guy Productivity Pitfalls]({{< relref "smart_guy_productivity_pitfalls.md" >}})
-
-
-#### Back {#back}
-
--   "Work smart, not hard" is better phrased as: "Work smart **and** hard"
--   Don't waste your effort but recognize you **still need to put in effort**
--   An overinflated sense of your own abilities creates a constant state of production deficit, because you assume that you can make it up with a burst of brilliance and/or crunch.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Smart Guy Productivity Pitfalls” n.d.</a>)
+## Bibliography {#bibliography}
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Smart Guy Productivity Pitfalls.” n.d. Accessed December 20, 2022. <a href="http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html">http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [On productivity]({{< relref "on_productivity.md" >}})
+-   [Jacob Kaplan-Moss | Embrace the Grind]({{< relref "smart_guy_productivity_pitfalls.md" >}})

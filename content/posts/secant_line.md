@@ -2,7 +2,7 @@
 title = "Secant line"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T16:23:00-08:00
-lastmod = 2023-09-24T10:43:41-07:00
+lastmod = 2023-11-10T11:15:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,56 +17,7 @@ slug = "a1a0a03b-2d39-4119-bbec-e32ed8e6852e"
 >
 > The tangent line at point P is a secant line of the curve.
 >
-> (<a href="#citeproc_bib_item_1">“Secant Line” 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 40.57    | 2023-10-03T06:19:09Z |
-| back     | 2.50 | 2   | 2.00     | 2023-09-21T23:58:41Z |
-
-[Secant line]({{< relref "secant_line.md" >}})
-
-
-#### Back {#back}
-
-A line which intersects a curve at a minimum of two distinct points.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Secant Line” 2022</a>)
-
-
-### Image {#image}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 148.59   | 2023-10-02T08:05:40Z |
-| back     | 2.65 | 6   | 134.99   | 2023-09-21T16:33:54Z |
-
-[Secant line]({{< relref "secant_line.md" >}})
-
-
-#### Back {#back}
-
-> {{< figure src="/ox-hugo/2023-01-27_16-29-33_1280px-Secanttangent.svg.png" >}}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Secant Line” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Secant Line.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Secant_line&oldid=1099332320">https://en.wikipedia.org/w/index.php?title=Secant_line&#38;oldid=1099332320</a>.</div>
-</div>
+> (“Secant Line” 2022)
 
 
 ## Backlinks {#backlinks}

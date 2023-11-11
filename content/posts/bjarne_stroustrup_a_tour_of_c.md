@@ -2,7 +2,7 @@
 title = "Bjarne Stroustrup | A Tour of C++"
 author = ["Cash Weaver"]
 date = 2023-04-25T11:58:00-07:00
-lastmod = 2023-09-24T09:56:29-07:00
+lastmod = 2023-11-10T10:28:53-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -619,9 +619,9 @@ slug = "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
 
 -  19.3 C/C++ Compatibility
 
-<!--list-separator-->
+    :NOTER_PAGE: 284
 
--  19.4 Bibliography
+    :END:
 
 <!--list-separator-->
 
@@ -758,82 +758,13 @@ slug = "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
 -  Z
 
 
-## Flashcards {#flashcards}
+## Bibliography {#bibliography}
 
+## References
 
-### Describe (C++) {#describe--c-plus-plus}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 118.31   | 2023-12-17T20:17:42Z |
-| back     | 2.35 | 6   | 74.58    | 2023-12-01T13:06:00Z |
-
-`const`
-
-
-#### Back {#back}
-
-Roughly, "I promise not to change this value".
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Stroustrup 2022</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 83.31    | 2023-10-26T22:40:53Z |
-| back     | 1.75 | 4   | 10.90    | 2023-09-29T13:29:03Z |
-
-`constexpr` (C++)
-
-
-#### Back {#back}
-
-Roughly, "To be evaluated at compile time"
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Stroustrup 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 6   | 72.81    | 2023-11-10T10:39:29Z |
-| 1        | 2.20 | 6   | 63.83    | 2023-11-08T11:23:37Z |
-
-{{`consteval` and `constexpr`}@0} denote {{C++'s notion of [Pure functions]({{< relref "pure_functions.md" >}})}{functions}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Stroustrup 2022</a>)
-
-
-### Compare and contrast {#compare-and-contrast}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 76.03    | 2023-10-23T15:50:07Z |
-
-`constexpr` and `consteval` (C++ functions)
-
-
-#### Back {#back}
-
--   Functions defined as `constexpr` can accept `constexpr` arguments **and** non-`constexpr` arguments
--   Functions defined as `consteval` can **only** accept `constexpr` arguments
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Stroustrup 2022</a>)
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Stroustrup, Bjarne. 2022. <i>A Tour of C++</i>. Third. C++ in-Depth Series. Boston: Addison-Wesley.</div>
+</div>
 
 
 ### Compare and contrast {#compare-and-contrast}
@@ -912,7 +843,7 @@ py == &y;
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 83.48    | 2023-10-14T15:10:44Z |
+| front    | 2.50 | 7   | 218.67   | 2024-05-23T00:13:44Z |
 | back     | 2.35 | 6   | 82.53    | 2023-11-19T01:25:58Z |
 
 Types composed of fundamental types (e.g. `bool`), the `const` modifier, and declarator operators.
@@ -927,7 +858,7 @@ Types composed of fundamental types (e.g. `bool`), the `const` modifier, and dec
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 6   | 77.12    | 2023-11-06T16:18:58Z |
+| 0        | 2.20 | 7   | 177.63   | 2024-05-05T07:46:50Z |
 
 (C++) A declaration specifies {{a type (e.g. `int`) name (e.g. `count`)}@0}.
 
@@ -937,14 +868,14 @@ Types composed of fundamental types (e.g. `bool`), the `const` modifier, and dec
 (<a href="#citeproc_bib_item_1">Stroustrup 2022</a>)
 
 
-### Example(s) {#example--s}
+### Example(s) (C++) {#example--s----c-plus-plus}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 78.70    | 2023-10-23T08:16:27Z |
+| front    | 2.35 | 7   | 197.10   | 2024-05-14T17:22:15Z |
 | back     | 2.05 | 6   | 55.65    | 2023-11-16T05:51:35Z |
 
-(C++) Declarations
+Declarations
 
 
 #### Back {#back}
@@ -979,8 +910,8 @@ C++'s built-in types reflect {{the capabilities of conventional computer hardwar
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 98.43    | 2023-11-03T00:25:06Z |
-| back     | 1.90 | 2   | 2.00     | 2023-09-21T23:50:33Z |
+| front    | 2.50 | 7   | 247.20   | 2024-07-13T21:09:31Z |
+| back     | 1.90 | 5   | 22.26    | 2023-11-07T13:40:29Z |
 
 User-defined types
 
@@ -1020,8 +951,8 @@ int main() {
 
 (<a href="#citeproc_bib_item_1">Stroustrup 2022</a>)
 
-## References
+<!--list-separator-->
 
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Stroustrup, Bjarne. 2022. <i>A Tour of C++</i>. Third. C++ in-Depth Series. Boston: Addison-Wesley.</div>
-</div>
+-  19.4 Bibliography
+
+    :PROPERTIES:

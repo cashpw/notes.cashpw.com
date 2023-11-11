@@ -2,15 +2,12 @@
 title = "James Scott"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:24:00-08:00
-lastmod = 2023-09-24T10:20:53-07:00
+lastmod = 2023-11-10T10:57:42-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "26795f01-3eeb-4cb0-aa43-291a091916ae"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

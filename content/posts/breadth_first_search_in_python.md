@@ -2,7 +2,7 @@
 title = "Breadth-first search in python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-26T05:19:00-07:00
-lastmod = 2023-09-24T09:57:20-07:00
+lastmod = 2023-11-10T10:29:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -73,9 +73,6 @@ print(breadth_first_search(a.id, e.id, adjacencies, vertices), 'should be e')
 print(breadth_first_search(c.id, a.id, adjacencies, vertices), 'should be None')
 print(breadth_first_search(a.id, 100, adjacencies, vertices), 'should be None')
 ```
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

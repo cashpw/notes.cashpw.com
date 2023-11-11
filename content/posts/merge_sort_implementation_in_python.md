@@ -2,7 +2,7 @@
 title = "Merge sort implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:44:00-07:00
-lastmod = 2023-09-24T10:30:54-07:00
+lastmod = 2023-11-10T11:04:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -62,9 +62,6 @@ def merge_sort(ints: List[int], comparator: Callable[[id:int, int], bool]) -> No
 a = [10, 5, 2, 20, 1]
 print(merge_sort(a, lambda x, y: x <= y))
 ```
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

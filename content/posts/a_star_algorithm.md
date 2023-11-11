@@ -2,7 +2,7 @@
 title = "A-star search algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T13:50:00-08:00
-lastmod = 2023-09-24T09:51:49-07:00
+lastmod = 2023-11-10T10:24:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -38,199 +38,25 @@ Like [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}), A\*'s imp
 >
 > By the way, in this context, "optimal" doesn't mean that it reaches the optimal solution, but that it does so while exploring the minimum number of nodes. Of course, A\* is also complete, which means it reaches the optimal solution (if we use an admissible heuristic).
 >
-> (<a href="#citeproc_bib_item_3">francoisr 2016</a>)
+> (<a href="#citeproc_bib_item_2">francoisr 2016</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Example(s) {#example--s}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 204.76   | 2023-11-30T11:03:44Z |
-
-Heuristics for [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
-
-
-#### Back {#back}
-
--   [Manhattan distance]({{< relref "l_one_norm.md" >}})
--   [Euclidian distance]({{< relref "l_two_norm.md" >}})
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“A* Search Algorithm” 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 171.77   | 2023-10-31T10:39:06Z |
-
-The time complexity of [A\*]({{< relref "a_star_algorithm.md" >}}) {{depends on the heuristic}@0}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“A* Search Algorithm” 2022</a>)
-
-
-### Denotes {#denotes}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 4   | 17.09    | 2023-10-01T17:12:31Z |
-| 1        | 3.10 | 7   | 529.49   | 2025-02-19T04:16:21Z |
-
-{{The `*`, for example in [A\*]({{< relref "a_star_algorithm.md" >}}),}@0} denotes {{optimal solutions}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">francoisr 2016</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 214.24   | 2024-01-06T20:19:07Z |
-| 1        | 2.35 | 7   | 167.65   | 2023-11-10T06:04:18Z |
-
-[A\*]({{< relref "a_star_algorithm.md" >}}) is {{optimal}{property}@0} if {{it uses an [Admissible heuristic]({{< relref "admissible_heuristic.md" >}})}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“A* Search Algorithm” 2022</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 261.66   | 2024-03-10T17:14:01Z |
-| back     | 2.80 | 7   | 360.27   | 2024-07-23T21:29:29Z |
-
-\\(f(n) = g(n) + h(n)\\) ([A\*]({{< relref "a_star_algorithm.md" >}}))
-
-
-#### Back {#back}
-
-[A\*]({{< relref "a_star_algorithm.md" >}}) selects the path which minimizes the sum of:
-
-1.  The cost of the path from the start node to \\(n\\)
-2.  The value of the heuristic function at \\(n\\)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“A* Search Algorithm” 2022</a>)
-
-
-### Denotes {#denotes}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 277.23   | 2024-04-05T06:37:30Z |
-| 1        | 2.50 | 7   | 296.99   | 2024-04-30T00:08:07Z |
-
--   {{\\(f(n)\\)}@0}
-
-{{The cost of the path from the start node to the target node}@1} ([A\*]({{< relref "a_star_algorithm.md" >}}))
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“A* Search Algorithm” 2022</a>)
-
-
-### Denotes ([A\*]({{< relref "a_star_algorithm.md" >}})) {#denotes--a-a-star-algorithm-dot-md}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 261.35   | 2024-03-11T21:43:15Z |
-| 1        | 2.20 | 8   | 264.06   | 2024-05-31T00:37:17Z |
-
--   {{\\(g(n)\\)}@0}
-
-{{The cost of the path from the start node to \\(n\\)}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“A* Search Algorithm” 2022</a>)
-
-
-### Denotes {#denotes}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 411.21   | 2024-10-05T18:30:32Z |
-| 1        | 2.95 | 7   | 461.93   | 2024-12-10T13:35:43Z |
-
--   {{\\(h(n)\\)}@0}
-
-{{The heuristic function which estimates the cost of the path from \\(n\\) to the target node}@1} ([A\*]({{< relref "a_star_algorithm.md" >}}))
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“A* Search Algorithm” 2022</a>)
-
-
-### Compare and contrast {#compare-and-contrast}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 398.67   | 2024-09-08T06:46:21Z |
-
-[Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) and [A\*]({{< relref "a_star_algorithm.md" >}})
-
-
-#### Back {#back}
-
--   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) can solve both the [Single-pair]({{< relref "single_pair_shortest_path_problem.md" >}}) and [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}}) whereas [A\*]({{< relref "a_star_algorithm.md" >}}) can only solve the [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
--   [A\*]({{< relref "a_star_algorithm.md" >}}) is [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}) plus a heuristic function
-
-
-#### Source {#source}
-
--   (<a href="#citeproc_bib_item_2">“Dijkstra’s Algorithm” 2022</a>)
--   (<a href="#citeproc_bib_item_1">“A* Search Algorithm” 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 324.37   | 2024-06-06T22:28:43Z |
-
-[A\*]({{< relref "a_star_algorithm.md" >}}) is {{faster}{speed}@0} than [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“A* Search Algorithm” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A* Search Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&oldid=1127312005">https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&#38;oldid=1127312005</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Dijkstra’s Algorithm.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&oldid=1127202995">https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&#38;oldid=1127202995</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>francoisr. 2016. “Answer to ‘What Does the Star in the A* Algorithm Mean?’.” Stack Overflow. March 7, 2016. <a href="https://stackoverflow.com/a/35848019">https://stackoverflow.com/a/35848019</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>francoisr. 2016. “Answer to ‘What Does the Star in the A* Algorithm Mean?’.” Stack Overflow. March 7, 2016. <a href="https://stackoverflow.com/a/35848019">https://stackoverflow.com/a/35848019</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
--   [Branch and bound]({{< relref "branch_and_bound.md" >}})
--   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
--   [Dynamic programming]({{< relref "dynamic_programming.md" >}})
--   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
 -   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
+-   [Dynamic programming]({{< relref "dynamic_programming.md" >}})
+-   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
+-   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
+-   [Branch and bound]({{< relref "branch_and_bound.md" >}})
 -   [Topological order]({{< relref "topological_order.md" >}})

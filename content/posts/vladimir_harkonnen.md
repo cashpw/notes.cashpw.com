@@ -2,7 +2,7 @@
 title = "Vladimir Harkonnen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T10:45:00-08:00
-lastmod = 2023-09-24T10:55:31-07:00
+lastmod = 2023-11-10T11:26:30-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -12,9 +12,6 @@ slug = "9650cad7-fc51-4d4e-a436-e35bb038a2bf"
 Among other things:
 
 -   Brutal
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

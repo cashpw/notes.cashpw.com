@@ -2,14 +2,14 @@
 title = "Ian Danskin | Never Play Defense"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T17:23:00-07:00
-lastmod = 2023-09-24T10:04:44-07:00
+lastmod = 2023-11-10T10:38:49-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "faa69627-9b11-4e11-ae1a-bcefb66fdedb"
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2017</a>)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (Danskin 2017)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -61,18 +61,6 @@ You can convince an audience that you're winning an argument, or at least plant 
 <!--quoteend-->
 
 > A detailed explanation lands a lot better when it's not being contrasted with a sound bite.
-
-
-## Flashcards {#flashcards}
-
-
-### [Never play defense]({{< relref "never_play_defense.md" >}}) {#never-play-defense--never-play-defense-dot-md}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2017. “Never Play Defense.” Tumblr. Innuendo Studios. November 29, 2017. <a href="https://innuendostudios.tumblr.com/post/168011929487/the-next-video-in-my-series-on-alt-right">https://innuendostudios.tumblr.com/post/168011929487/the-next-video-in-my-series-on-alt-right</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

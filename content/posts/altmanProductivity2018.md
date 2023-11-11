@@ -2,14 +2,14 @@
 title = "Sam Altman | Productivity"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:46:00-08:00
-lastmod = 2023-09-24T09:53:13-07:00
+lastmod = 2023-11-10T10:25:43-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "3626303a-41d6-4d8c-98ee-186e6f59cb44"
 +++
 
-[Sam Altman]({{< relref "sam_altman.md" >}}), (<a href="#citeproc_bib_item_1">Altman 2018</a>)
+[Sam Altman]({{< relref "sam_altman.md" >}}), (Altman 2018)
 
 
 ## Summary {#summary}
@@ -57,10 +57,6 @@ The [Technologist]({{< relref "technologist.md" >}})'s trap; [Solve the problem]
 > Don't neglect your family and friends for the sake of productivity—that's a very stupid tradeoff (and very likely a net productivity loss, because you'll be less happy). Don't neglect doing things you love or that clear your head either.
 
 
-## Flashcards {#flashcards}
+## Backlinks {#backlinks}
 
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altman, Sam. 2018. “Productivity.” Sam Altman. April 10, 2018. <a href="https://blog.samaltman.com/productivity">https://blog.samaltman.com/productivity</a>.</div>
-</div>
+-   [On productivity]({{< relref "on_productivity.md" >}})

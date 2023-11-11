@@ -2,7 +2,7 @@
 title = "2sum linear time solution in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T16:13:00-08:00
-lastmod = 2023-09-24T09:50:39-07:00
+lastmod = 2023-11-10T10:22:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,40 +31,6 @@ def two_sum(numbers: List[int], target: int) -> Optional[List[int]]:
 print(two_sum([2,4,5], 7), 'should be [2, 5]')
 print(two_sum([2,4,5], 2), 'should be None')
 ```
-
-
-## Flashcards {#flashcards}
-
-
-### Solve {#solve}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 93.48    | 2023-11-12T02:08:03Z |
-
-> Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
->
-> You may assume that each input would have exactly one solution, and you may not use the same element twice.
->
-> You can return the answer in any order.
->
-> (<a href="#citeproc_bib_item_1">LeetCode n.d.</a>)
-
-
-#### Back {#back}
-
-[2sum linear time solution in Python]({{< relref "2sum_linear_time_solution_in_python.md" >}})
-
-
-#### Source {#source}
-
-[2sum linear time solution in Python]({{< relref "2sum_linear_time_solution_in_python.md" >}})
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>LeetCode. n.d. “Two Sum.” LeetCode. Accessed February 8, 2023. <a href="https://leetcode.com/problems/two-sum/description">https://leetcode.com/problems/two-sum/description</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

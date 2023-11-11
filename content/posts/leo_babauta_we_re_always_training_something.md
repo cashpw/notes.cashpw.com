@@ -2,14 +2,14 @@
 title = "Leo Babauta | We're Always Training Something"
 author = ["Cash Weaver"]
 date = 2023-03-02T18:38:00-08:00
-lastmod = 2023-09-24T10:25:54-07:00
+lastmod = 2023-11-10T11:01:51-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "201b99c0-ed92-4bd7-b192-1b9a110766ed"
 +++
 
-[Leo Babauta]({{< relref "leo_babauta.md" >}}) , (<a href="#citeproc_bib_item_1">Babauta 2022</a>)
+[Leo Babauta]({{< relref "leo_babauta.md" >}}) , (Babauta 2022)
 
 
 ## Thoughts {#thoughts}
@@ -49,12 +49,3 @@ Similar: [Life is the sum of all your choices]({{< relref "life_is_the_sum_of_al
 > It takes a great degree of awareness of what we're doing and how we're doing it, but it's an awareness we can develop with intention and practice. Which is exactly how we train something new: intention and practice.
 >
 > What would you like to train in this moment?
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Babauta, Leo. 2022. “We’re Always Training Something.” zen habits. July 21, 2022. <a href="https://zenhabits.net/retrain/">https://zenhabits.net/retrain/</a>.</div>
-</div>

@@ -2,7 +2,7 @@
 title = "Adversarial interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:35:00-07:00
-lastmod = 2023-09-24T09:52:12-07:00
+lastmod = 2023-11-10T10:24:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,7 @@ A type of [Interoperability]({{< relref "interoperability.md" >}}).
 
 > [[Adversarial interoperability]({{< relref "adversarial_interoperability.md" >}}) is] when you create a new product or service that plugs into the existing ones without the permission of the companies that make them. Think of third-party printer ink, alternative app stores, or independent repair shops that use compatible parts from rival manufacturers to fix your car or your phone or your tractor.
 >
-> (<a href="#citeproc_bib_item_2">Doctorow 2019b</a>)
+> (Doctorow 2019b)
 
 <!--quoteend-->
 
@@ -21,57 +21,7 @@ A type of [Interoperability]({{< relref "interoperability.md" >}}).
 >
 > Since Pages' launch, document interoperability has stabilized, with multiple parties entering the market, including Google's cloud-based Docs offerings, and the free/open alternatives from LibreOffice. The convergence on this standard was not undertaken with the blessing of the dominant player: rather, it came about despite Microsoft's opposition. Docs are not just interoperable, they're adversarially interoperable: each has its own file format, but each can read Microsoft's file format.
 >
-> (<a href="#citeproc_bib_item_1">Doctorow 2019a</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 380.53   | 2024-07-04T09:02:17Z |
-| back     | 2.80 | 7   | 266.73   | 2024-02-17T07:59:56Z |
-
-[Adversarial interoperability]({{< relref "adversarial_interoperability.md" >}})
-
-
-#### Back {#back}
-
-[Interoperability]({{< relref "interoperability.md" >}}) achieved without the permission or support of, and sometimes in spite of resistance on the part of, the makers of the original thing.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">Doctorow 2019b</a>)
-
-
-### Example(s) {#example--s}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 3.10 | 7   | 465.80   | 2024-10-07T12:13:03Z |
-| back     | 2.80 | 7   | 302.25   | 2024-03-12T23:22:13Z |
-
-[Adversarial interoperability]({{< relref "adversarial_interoperability.md" >}})
-
-
-#### Back {#back}
-
--   Apple's office suite recognizing Microsoft's Word/etc file formats
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Doctorow 2019a</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Doctorow, Cory. 2019a. “Adversarial Interoperability: Reviving an Elegant Weapon From a More Civilized Age to Slay Today’s Monopolies.” Electronic Frontier Foundation. June 7, 2019. <a href="https://www.eff.org/deeplinks/2019/06/adversarial-interoperability-reviving-elegant-weapon-more-civilized-age-slay">https://www.eff.org/deeplinks/2019/06/adversarial-interoperability-reviving-elegant-weapon-more-civilized-age-slay</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2019b. “Adversarial Interoperability.” Electronic Frontier Foundation. October 2, 2019. <a href="https://www.eff.org/deeplinks/2019/10/adversarial-interoperability">https://www.eff.org/deeplinks/2019/10/adversarial-interoperability</a>.</div>
-</div>
+> (Doctorow 2019a)
 
 
 ## Backlinks {#backlinks}

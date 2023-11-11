@@ -4,14 +4,14 @@ title = """
   """
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:42:00-08:00
-lastmod = 2023-09-24T09:53:21-07:00
+lastmod = 2023-11-10T10:25:52-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "2186c8f0-1b18-484f-8e22-9e0cd328b498"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">“Evergreen Notes Permit Smooth Incremental Progress in Writing (‘Incremental Writing’)” n.d.</a>)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (“Evergreen Notes Permit Smooth Incremental Progress in Writing (‘Incremental Writing’)” n.d.)
 
 > Evergreen notes' atomic size ([Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)) and link structures ([Evergreen Notes Should Be Densely Linked]({{< relref "EvergreenNotesShouldBeDenselyLinked.md" >}})) make it easy to stop and resume work. This helps us [Close open loops](https://notes.andymatuschak.org/z8d4eJNaKrVDGTFpqRnQUPRkexB7K6XbcffAV).
 >
@@ -20,15 +20,6 @@ slug = "2186c8f0-1b18-484f-8e22-9e0cd328b498"
 > By contrast, when we're working on a large work-in-progress manuscript, we're juggling many ideas in various states of completion. Different parts of the document are at different levels of fidelity. The document is large enough that it's easy to lose one's place or to forget where other relevant points are when one returns. Starting and stopping work for the day feel like heavy tasks, drawing heavily on working memory.
 
 Also see [Incremental writing]({{< relref "incremental_writing.md" >}}).
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Evergreen Notes Permit Smooth Incremental Progress in Writing (‘Incremental Writing’).” n.d. Andy’s working notes. Accessed November 7, 2022. <a href="https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97">https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

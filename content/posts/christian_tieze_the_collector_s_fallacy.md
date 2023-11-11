@@ -2,14 +2,14 @@
 title = "Christian Tieze | The Collector's Fallacy"
 author = ["Cash Weaver"]
 date = 2023-08-04T17:35:00-07:00
-lastmod = 2023-09-24T10:00:51-07:00
+lastmod = 2023-11-10T10:33:47-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "b23ffea4-e780-4d89-84ad-c0bd4f25816f"
 +++
 
-[Christian Tieze]({{< relref "christian_tieze.md" >}}), (<a href="#citeproc_bib_item_1">Tieze 22AD</a>)
+[Christian Tieze]({{< relref "christian_tieze.md" >}}), (Tieze 22AD)
 
 
 ## Summary {#summary}
@@ -73,15 +73,6 @@ slug = "b23ffea4-e780-4d89-84ad-c0bd4f25816f"
 > -   Afterwards, change the time limit a bit if you think it wasn't appropriate.
 >
 > Repeat the cycle and keep track of your perceived productivity until you establish a feedback-supported routine which suits your needs.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tieze, Christian. 22AD. “The Collector’s Fallacy.” Zettelkasten Method. 22AD. <a href="https://zettelkasten.de/posts/collectors-fallacy/">https://zettelkasten.de/posts/collectors-fallacy/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

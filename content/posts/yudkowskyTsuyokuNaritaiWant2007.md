@@ -2,14 +2,14 @@
 title = "Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:06:00-08:00
-lastmod = 2023-09-24T10:57:21-07:00
+lastmod = 2023-11-10T11:28:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "9bbe0740-9dff-4d2a-908e-535e96ea4e59"
 +++
 
-[Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}}), (<a href="#citeproc_bib_item_1">Yudkowsky 2007</a>)
+[Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}}), (Yudkowsky 2007)
 
 Similar: [Eliezer Yudkowsky | Something to Protect]({{< relref "eliezer_yudkowsky_something_to_protect.md" >}})
 
@@ -27,27 +27,3 @@ Similar: [Eliezer Yudkowsky | Something to Protect]({{< relref "eliezer_yudkowsk
 > [...]
 >
 > Never confess to me that you are just as flawed as I am unless you can tell me what you plan to do about it. Afterward you will still have plenty of flaws left, but that's not the point; the important thing is to do better, to keep moving ahead, to take one more step forward. Tsuyoku naritai!
-
-
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.80 | 11  | 497.86   | 2024-09-07T19:36:54Z |
-| front    | 2.35 | 8   | 304.29   | 2024-01-01T20:46:55Z |
-
-Tsuyoko naritai
-
-
-#### Back {#back}
-
-I want to become stronger.
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Yudkowsky, Eliezer. 2007. “Tsuyoku Naritai! (I Want To Become Stronger).” Less Wrong. March 27, 2007. <a href="https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger">https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger</a>.</div>
-</div>

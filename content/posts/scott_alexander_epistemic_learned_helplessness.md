@@ -2,14 +2,14 @@
 title = "Scott Alexander | Epistemic Learned Helplessness"
 author = ["Cash Weaver"]
 date = 2023-01-10T08:59:00-08:00
-lastmod = 2023-09-24T10:43:28-07:00
+lastmod = 2023-11-10T11:15:20-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "71aa6edb-f5a1-4e8b-88b9-5e5e807edceb"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2019</a>)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (Alexander 2019)
 
 
 ## Summary {#summary}
@@ -48,35 +48,6 @@ Arguments in domains you're not familiar with can _sound_ convincing even if the
 <!--quoteend-->
 
 > Responsible doctors are at the other end of the spectrum from terrorists here. I once heard someone rail against how doctors totally ignored all the latest and most exciting medical studies. The same person, practically in the same breath, then railed against how 50% to 90% of medical studies are wrong. These two observations are not unrelated. Not only are there so many terrible studies, but pseudomedicine (not the stupid homeopathy type, but the type that links everything to some obscure chemical on an out-of-the-way metabolic pathway) has, for me, proven much like pseudohistory – unless I am an expert in that particular subsubfield of medicine, it can sound very convincing even when it's very wrong.
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 308.07   | 2024-05-26T05:29:15Z |
-| back     | 1.75 | 6   | 30.83    | 2023-09-30T08:43:43Z |
-
-Epistemic [Learned helplessness]({{< relref "learned_helplessness.md" >}})
-
-
-#### Back {#back}
-
-A condition in which the person is unable to discern a convincing argument from a true argument and resolves to ignore the argument, or at least its conclusions.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Alexander 2019</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Epistemic Learned Helplessness.” Slate Star Codex. June 4, 2019. <a href="https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/">https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

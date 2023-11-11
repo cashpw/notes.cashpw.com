@@ -2,9 +2,8 @@
 title = "Todos"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2023-09-24T10:52:47-07:00
-tags = ["hastodo", "hastodo"]
-categories = ["hastodo"]
+lastmod = 2023-11-10T11:23:55-08:00
+tags = ["hastodo"]
 draft = false
 slug = "29171a49-1148-45e0-b2d4-26d2066b51b7"
 +++
@@ -436,9 +435,6 @@ Make the process explicit.
 
 
 ## How does authentication work; oauth2 for example? {#how-does-authentication-work-oauth2-for-example}
-
-
-## Flashcards {#flashcards}
 
 
 ## Note idea: Work smart _and_ work hard {#note-idea-work-smart-and-work-hard}
@@ -2035,6 +2031,9 @@ Fahrenheit to Celsius and back
 ## Digitize kenji's red sauce recipe {#digitize-kenji-s-red-sauce-recipe}
 
 (<a href="#citeproc_bib_item_35">López-Alt n.d.</a>)
+
+
+## Bibliography {#bibliography}
 
 ## References
 

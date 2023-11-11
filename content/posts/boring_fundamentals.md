@@ -2,7 +2,7 @@
 title = "Boring fundamentals"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T13:50:00-08:00
-lastmod = 2023-09-24T09:56:53-07:00
+lastmod = 2023-11-10T10:29:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,50 +18,7 @@ slug = "650501e5-3253-46a2-8795-cf09c86edf16"
 > (<a href="#citeproc_bib_item_1">Stuber n.d.</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 310.32   | 2024-03-31T22:12:29Z |
-| back     | 2.95 | 7   | 530.44   | 2025-02-13T00:55:21Z |
-
-[Boring fundamentals]({{< relref "boring_fundamentals.md" >}})
-
-
-#### Back {#back}
-
-The set of basic habits, routines, practices, etc, one needs to build a strong foundation. The exact list will vary, but broadly speaking they're things everyone agrees on but nonetheless don't always do.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Stuber n.d.</a>)
-
-
-### Example(s) {#example--s}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 200.57   | 2023-11-17T08:35:58Z |
-| back     | 2.50 | 7   | 172.55   | 2023-10-30T05:21:07Z |
-
-[Boring fundamentals]({{< relref "boring_fundamentals.md" >}})
-
-
-#### Back {#back}
-
--   Get 8 hours of sleep a night
--   Exercise
--   [Eat food. Not too much. Mostly plants.]({{< relref "eat_food_not_too_much_mostly_plants.md" >}})
--   Maintain healthy social connections
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Stuber n.d.</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -73,3 +30,4 @@ The set of basic habits, routines, practices, etc, one needs to build a strong f
 ## Backlinks {#backlinks}
 
 -   [James Stuber | Master Boring Fundamentals 01: Boring Is Fun]({{< relref "MasterBoringFundamentals01BoringFun.md" >}})
+-   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})

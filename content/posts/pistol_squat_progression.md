@@ -2,7 +2,7 @@
 title = "Pistol squat progression"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-10T09:17:00-07:00
-lastmod = 2023-09-24T10:37:44-07:00
+lastmod = 2023-11-10T11:10:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -41,16 +41,7 @@ slug = "a99628b8-d0a3-4951-8234-ba96fd820950"
 > -   Pistol Squats with a Counterweight (arms straight out in front of you, optional but helpful for many)
 > -   Pistol Squats
 >
-> (<a href="#citeproc_bib_item_1">Kizirian 2023</a>)
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kizirian, Antranik. 2023. “Pistol Squat Progression.” Reddit Comment. r/bodyweightfitness. March 10, 2023. <a href="www.reddit.com/r/bodyweightfitness/comments/11nqx5k/so_i_wanna_get_a_pistol_squat/jbovx7b/">www.reddit.com/r/bodyweightfitness/comments/11nqx5k/so_i_wanna_get_a_pistol_squat/jbovx7b/</a>.</div>
-</div>
+> (Kizirian 2023)
 
 
 ## Backlinks {#backlinks}

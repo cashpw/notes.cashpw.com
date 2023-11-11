@@ -2,7 +2,7 @@
 title = "Homogeneity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:43:00-08:00
-lastmod = 2023-09-24T10:16:49-07:00
+lastmod = 2023-11-10T10:52:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,52 +24,7 @@ slug = "65f61fff-628e-484a-baf5-785b37f7f28e"
 > (<a href="#citeproc_bib_item_1">“Homogeneous Function” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 1.45 | 7   | 37.23    | 2023-10-25T04:42:35Z |
-| front    | 2.60 | 11  | 319.12   | 2024-03-18T00:35:37Z |
-
-Degree of homogeneity
-
-
-#### Back {#back}
-
-The value of \\(k\\) in \\(f(\alpha\vec{x}, \alpha\vec{y}) = \alpha^kf(\vec{x}, \vec{y})\\)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Homogeneous Function” 2022</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.20 | 13  | 261.38   | 2023-10-01T00:26:36Z |
-| front    | 1.45 | 8   | 53.18    | 2023-10-28T19:43:12Z |
-
-Homogeneous function
-
-
-#### Back {#back}
-
-A function with multiplicative scaling behaviour; if all its arguments are multiplied by a factor, then its value is multiplied by some power of this factor.
-
-
-#### Extra {#extra}
-
-\\(f(\alpha\vec{x}, \alpha\vec{y}) = \alpha^kf(\vec{x}, \vec{y})\\)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Homogeneous Function” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

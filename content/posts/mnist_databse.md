@@ -2,49 +2,14 @@
 title = "MNIST databse"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T15:32:00-08:00
-lastmod = 2023-09-24T10:32:02-07:00
+lastmod = 2023-11-10T11:05:40-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
 slug = "97aadd62-8fb1-4670-a675-c5d591bfe6a1"
 +++
 
-## Flashcards {#flashcards}
-
-
-### The MNIST database contains images of {{handwritten digits}@0}. {#the-mnist-database-contains-images-of-handwritten-digits-0-dot}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 9   | 380.52   | 2024-04-10T01:58:36Z |
-
-
-#### Extra {#extra}
-
-
-#### Source {#source}
-
-<https://en.wikipedia.org/wiki/MNIST_database>
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 8   | 281.54   | 2023-10-28T05:10:11Z |
-| back     | 2.80 | 8   | 295.43   | 2023-11-05T02:50:43Z |
-
-The MNIST database
-
-
-#### Back {#back}
-
-A database of 28x28px greyscale images of handwritten digits. There are 60,000 training and 10,000 test images.
-
-
-#### Source {#source}
-
-<https://en.wikipedia.org/wiki/MNIST_database>
+## Bibliography {#bibliography}
 
 ## References
 

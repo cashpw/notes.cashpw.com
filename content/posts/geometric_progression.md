@@ -2,7 +2,7 @@
 title = "Geometric sequence"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:31:00-08:00
-lastmod = 2023-09-24T10:13:23-07:00
+lastmod = 2023-11-10T10:48:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,76 +19,7 @@ slug = "0a3c8553-f631-4eca-8e2c-957419ebb8ac"
 >
 > The distinction between a progression and a series is that a progression is a sequence, whereas a series is a sum.
 >
-> (<a href="#citeproc_bib_item_1">“Geometric Progression” 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.05 | 8   | 247.73   | 2024-04-25T06:23:33Z |
-| back     | 2.80 | 7   | 292.16   | 2024-04-17T00:49:03Z |
-
-[Geometric progression]({{< relref "geometric_progression.md" >}})
-
-
-#### Back {#back}
-
-A sequence of non-zero numbers where each term is `previous_number * common_ratio`
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Geometric Progression” 2022</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 173.55   | 2023-10-21T07:56:22Z |
-| back     | 2.20 | 6   | 69.21    | 2023-10-20T04:17:20Z |
-
-Common ratio
-
-
-#### Back {#back}
-
-The multiplicative factor in a [Geometric progression]({{< relref "geometric_progression.md" >}}).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Geometric Progression” 2022</a>)
-
-
-### Example(s) {#example--s}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 8   | 327.71   | 2024-07-29T08:26:29Z |
-| back     | 2.95 | 7   | 361.99   | 2024-06-27T01:33:27Z |
-
-[Geometric progression]({{< relref "geometric_progression.md" >}})
-
-
-#### Back {#back}
-
--   \\(a,ar,ar^{2},ar^{3},ar^{4},\ldots\\)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Geometric Progression” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Geometric Progression.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Geometric_progression&oldid=1112468108">https://en.wikipedia.org/w/index.php?title=Geometric_progression&#38;oldid=1112468108</a>.</div>
-</div>
+> (“Geometric Progression” 2022)
 
 
 ## Backlinks {#backlinks}

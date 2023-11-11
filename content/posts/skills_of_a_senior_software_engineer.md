@@ -2,7 +2,7 @@
 title = "Skills of a senior software engineer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:20:00-08:00
-lastmod = 2023-09-24T10:45:51-07:00
+lastmod = 2023-11-10T11:17:15-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -48,9 +48,6 @@ I've sought out common traits of "senior" roles and collected them here to help 
     -   [Delegate]({{< relref "kileBusyPersonPatterns2006.md#delegate" >}}) whenever possible to ensure you're working on something that only you can do
 -   Networking
     -   Maintain mutually beneficial relationships with peers within your organization, company, and externally
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

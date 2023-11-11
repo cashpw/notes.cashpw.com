@@ -2,14 +2,14 @@
 title = "John Salvatier | Reality Has a Surprising Amount of Detail"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:29:00-08:00
-lastmod = 2023-09-24T10:42:56-07:00
+lastmod = 2023-11-10T11:14:52-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "16937276-fd62-4d50-90ef-cdf5ab036442"
 +++
 
-(<a href="#citeproc_bib_item_1">Salvatier n.d.</a>)
+(Salvatier n.d.)
 
 
 ## Summary {#summary}
@@ -76,52 +76,6 @@ These details are difficult to identify since they are mostly-invisible before a
 > This problem is not easy to fix, but it's not impossible either. I've mostly fixed it for myself. The direction for improvement is clear: seek detail you would not normally notice about the world [[Draw the rest of the owl]({{< relref "draw_the_rest_of_the_owl.md" >}})]. When you go for a walk, notice the unexpected detail in a flower or what the seams in the road imply about how the road was built. When you talk to someone who is smart but just seems so wrong, figure out what details seem important to them and why. In your work, notice how that meeting actually wouldn't have accomplished much if Sarah hadn't pointed out that one thing. As you learn, notice which details actually change how you think.
 >
 > If you wish to not get stuck, seek to perceive what you have not yet perceived.
-
-
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 169.81   | 2024-01-12T10:20:11Z |
-
-> If you wish to not get stuck, {{seek to perceive what you have not yet perceived}@0}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Salvatier n.d.</a>)
-
-
-### Summarize {#summarize}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 203.04   | 2024-02-15T15:19:51Z |
-| back     | 2.50 | 4   | 15.95    | 2023-10-07T12:54:53Z |
-
-[John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})
-
-
-#### Back {#back}
-
--   The more difficult, complex, etc, your goal, the more details there will be for which understanding them is critical to success
--   Everything is "fiddly" in that there are oddities and surprising details
--   It's difficult-to-impossible to retroactively identify the things that didn't make sense when you were first learning a concept
--   People perceive different details in a problem
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Salvatier n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salvatier, John. n.d. “Reality Has a Surprising Amount of Detail.” Accessed March 12, 2022. <a href="http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail">http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

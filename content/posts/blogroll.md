@@ -2,7 +2,7 @@
 title = "Blogroll"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-30T11:59:00-08:00
-lastmod = 2023-09-24T09:56:40-07:00
+lastmod = 2023-11-10T10:29:04-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false
@@ -16,6 +16,3 @@ A list of blogs I've found informative/useful/fun in no particular order:
 | [Ben Kuhn]({{< relref "ben_kuhn.md" >}})         | [Attention Is Your Scarcest Resource]({{< relref "kuhnAttentionYourScarcest2020.md" >}}), [Be Impatient]({{< relref "kuhnBeImpatient2020.md" >}})                                  |
 | [Zach Tellman]({{< relref "zach_tellman.md" >}}) | [Senior Engineers Reduce Risk]({{< relref "tellmanSeniorEngineersReduceRisk.md" >}}), [Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}}) |
 | [Neel Nanda]({{< relref "neel_nanda.md" >}})     | [Meaningful Rest]({{< relref "neel_nanda_post_29_meaningful_rest.md" >}})                                                                                                          |
-
-
-## Flashcards {#flashcards}

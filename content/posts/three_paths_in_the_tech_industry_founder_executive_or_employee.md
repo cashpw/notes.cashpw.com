@@ -2,12 +2,12 @@
 title = "Michael Seibel | Three Paths in the Tech Industry: Founder, Executive, or Employee"
 author = ["Cash Prokop-Weaver"]
 date = 2021-11-27T07:00:00-08:00
-lastmod = 2023-09-24T10:52:23-07:00
+lastmod = 2023-11-10T11:23:23-08:00
 draft = true
 slug = "548362c8-b5a6-4d50-b459-543d321e49b6"
 +++
 
-Michael Seibel, (<a href="#citeproc_bib_item_1">Seibel n.d.</a>)
+Michael Seibel, (Seibel n.d.)
 
 
 ## Summary {#summary}
@@ -141,91 +141,3 @@ Perhaps the nuance I'm attempting to address is somewhere between meaningful wor
 #### Strategies for People Who Want to be Employees {#strategies-for-people-who-want-to-be-employees}
 
 > Your strategy for picking a place to work is similar to an exec's. You either need to spot and join a quickly growing company or find a way into a well known successful company. It's much easier to go between brand name companies when you start with a brand name company. Also, in my experience, it's much easier to optimize this path as a software developer.
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 389.95   | 2024-09-12T22:25:43Z |
-| back     | 3.10 | 7   | 506.81   | 2025-01-23T13:29:26Z |
-
-The three career paths in the tech industry as defined by Michael Seibel
-
-
-#### Back {#back}
-
-1.  [Founder (Tech career pathway)](#founder--tech-career-pathway): Create a new product/business/etc
-2.  [Executive (Tech career pathway)](#executive--tech-career-pathway): Drive one, many, but not all, aspect(s) of an existing product/business/etc
-3.  [Employee (Tech career pathway)](#employee--tech-career-pathway): Work on an aspect of an existing product/business/etc under the direction of an Executive
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Seibel n.d.</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 178.84   | 2023-10-27T19:42:55Z |
-
-[Founder (Tech career pathway)](#founder--tech-career-pathway)
-
-
-#### Back {#back}
-
-Create a new product/business/etc
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Seibel n.d.</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 278.97   | 2024-03-12T14:16:47Z |
-
-[Executive (Tech career pathway)](#executive--tech-career-pathway)
-
-
-#### Back {#back}
-
-Drive one or many, but not all, aspect(s) of an existing product/business/etc
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Seibel n.d.</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 315.03   | 2024-04-28T14:58:50Z |
-
-[Employee (Tech career pathway)](#employee--tech-career-pathway)
-
-
-#### Back {#back}
-
-Work on an aspect of an existing product/business/etc under the direction of an [Executive (Tech career pathway)](#executive--tech-career-pathway).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Seibel n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Seibel, Michael. n.d. “Three Paths in the Tech Industry: Founder, Executive, or Employee.” Y Combinator. Accessed November 15, 2022. <a href="https://www.ycombinator.com/blog/three-paths-in-the-tech-industry-founder-executive-or-employee">https://www.ycombinator.com/blog/three-paths-in-the-tech-industry-founder-executive-or-employee</a>.</div>
-</div>

@@ -2,7 +2,7 @@
 title = "This sentence has five words"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T17:05:00-08:00
-lastmod = 2023-09-24T10:52:10-07:00
+lastmod = 2023-11-10T11:23:07-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -15,36 +15,7 @@ slug = "3e310bff-729b-429b-9e10-769422c75561"
 >
 > So write with a combination of short, medium, and long sentences. Create a sound that pleases the reader's ear. Don't just write words. Write music."
 >
-> [Gary Provost]({{< relref "gary_provost.md" >}}), (<a href="#citeproc_bib_item_1">Provost 2014</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.95 | 7   | 559.11   | 2025-03-24T14:58:57Z |
-| back     | 2.35 | 7   | 200.36   | 2023-12-19T09:59:10Z |
-
-[This sentence has five words]({{< relref "this_sentence_has_five_words.md" >}})
-
-
-#### Back {#back}
-
-A demonstration of varying sentence length to engage the reader.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Provost 2014</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Provost, Gary. 2014. <i>100 Ways to Improve Your Writing</i>. New York: Signet.</div>
-</div>
+> [Gary Provost]({{< relref "gary_provost.md" >}}), (Provost 2014)
 
 
 ## Backlinks {#backlinks}

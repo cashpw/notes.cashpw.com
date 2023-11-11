@@ -2,7 +2,7 @@
 title = "Tim Peck"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:09:00-08:00
-lastmod = 2023-09-24T10:52:28-07:00
+lastmod = 2023-11-10T11:23:29-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -13,9 +13,6 @@ Among other things:
 
 
 ## :noexport: {#noexport}
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

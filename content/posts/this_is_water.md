@@ -2,7 +2,7 @@
 title = "This is water"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T10:53:00-08:00
-lastmod = 2023-09-24T10:52:07-07:00
+lastmod = 2023-11-10T11:23:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,36 +14,7 @@ slug = "44df8020-9272-455c-91ea-268daf7c08d5"
 > [...]
 >
 > The point of the fish story is merely that the most obvious, important realities are often the ones that are hardest to see and talk about.
-> (<a href="#citeproc_bib_item_1">David Foster Wallace n.d.</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.90 | 8   | 209.94   | 2024-02-11T12:37:42Z |
-| back     | 2.65 | 6   | 119.39   | 2024-01-06T01:50:42Z |
-
-[This is water]({{< relref "this_is_water.md" >}})
-
-
-#### Back {#back}
-
-The most obvious and important realities are often the ones which are hardest to notice and to talk about.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">David Foster Wallace n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>David Foster Wallace. n.d. “This Is Water.” Accessed November 23, 2022. <a href="https://fs.blog/david-foster-wallace-this-is-water/">https://fs.blog/david-foster-wallace-this-is-water/</a>.</div>
-</div>
+> (David Foster Wallace n.d.)
 
 
 ## Backlinks {#backlinks}

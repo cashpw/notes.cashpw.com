@@ -2,7 +2,7 @@
 title = "Define Abbreviations"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:00:00-08:00
-lastmod = 2023-09-24T10:05:28-07:00
+lastmod = 2023-11-10T10:39:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,9 +30,6 @@ Abbreviations, initialisms, and other short-forms can be can confuse those witho
     > ...
     >
     > Leto Atreides the Second, also known as God-Emperor, ...
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

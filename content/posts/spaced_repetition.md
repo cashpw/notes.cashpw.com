@@ -2,7 +2,7 @@
 title = "Spaced repetition"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2023-09-24T10:46:51-07:00
+lastmod = 2023-11-10T11:18:13-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -17,9 +17,9 @@ slug = "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
 >
 > (<a href="#citeproc_bib_item_3">“Spaced Repetition” 2022</a>)
 
-Also see [Testing effect]({{< relref "testing_effect.md" >}}).
+Also see [Testing effect]({{< relref "testing_effect.md" >}}) and [Purposeful practice]({{< relref "purposeful_practice.md" >}}). This is one of my [Favorites]({{< relref "favorites.md" >}}).
 
-Spaced repetition is how I bring intention to memory. I remember the things I choose to remember, rather than only the things I happen to remember. It aids in making learning and memory conscious, effortful, process.
+Spaced repetition is how I bring intention to memory: I remember the things I choose to remember, rather than only the things I happen to remember. It aids in making learning and memory conscious, effortful, process.
 
 Note [The difference between knowing the name of something and knowing something]({{< relref "the_difference_between_knowing_the_name_of_something_and_knowing_something.md" >}}). Spaced repetition is capable of aiding both remembering names and deeper understanding. However, the two require different approaches:
 
@@ -48,7 +48,7 @@ As far as I can tell, from my own experience and reading what others have writte
 
     > Of course, [cramming] is precisely what students do. They cram the night before the test, and a month later can't remember anything. So why do people do it? (I'm not innocent myself.) Why is spaced repetition so dreadfully unpopular, even among the people who try it once?⁠
     >
-    > Because it does work. Sort of. Cramming is a trade-off: you trade a strong memory now for weak memory later. (Very weak⁠12⁠.) And tests are usually of all the new material, with occasional old questions, so this strategy pays off! [...]
+    > Because it does work. Sort of. Cramming is a trade-off: you trade a strong memory now for weak memory later. (Very weak⁠⁠.) And tests are usually of all the new material, with occasional old questions, so this strategy pays off! [...]
     >
     > (<a href="#citeproc_bib_item_2">Branwen 2009</a>)
 
@@ -60,10 +60,13 @@ As far as I can tell, from my own experience and reading what others have writte
 
 4.  Spaced repetition is a form of delayed gratification
 
-5.  "For spaced repetition to be useful, it has to be a habit" (<a href="#citeproc_bib_item_1">Borretti 2023</a>) and it's often a difficult habit to form
+5.  "For spaced repetition to be useful, it has to be a habit" (<a href="#citeproc_bib_item_1">Borretti 2023</a>) and it's a difficult habit to form
 
 
 ## On writing cards {#on-writing-cards}
+
+
+### Extend based on (<a href="#citeproc_bib_item_1">Borretti 2023</a>) {#extend-based-on}
 
 
 ### Cards should be small {#cards-should-be-small}
@@ -80,43 +83,19 @@ Cards, like [Evergreen notes]({{< relref "evergreen_notes.md" >}}), [should be a
 -   [Write Two-Way Questions]({{< relref "fernando_borretti_effective_spaced_repetition.md#write-two-way-questions" >}})
 
 
-## Flashcards {#flashcards}
+### On sequences {#on-sequences}
+
+Refer to (<a href="#citeproc_bib_item_1">Borretti 2023</a>)
+
+Also see [org-fc]({{< relref "org_flashcards.md" >}})'s `context` card
 
 
-### Definition {#definition}
+### On hierarchies {#on-hierarchies}
 
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.05 | 8   | 178.13   | 2023-12-18T17:22:55Z |
-| back     | 2.95 | 7   | 409.96   | 2024-10-03T14:57:31Z |
-
-[Spaced repetition]({{< relref "spaced_repetition.md" >}})
+Refer to (<a href="#citeproc_bib_item_1">Borretti 2023</a>)
 
 
-#### Back {#back}
-
-An evidence-based learning technique, usually performed with flashcards, which exploits the [Spacing effect]({{< relref "spacing_effect.md" >}}) and [Testing effect]({{< relref "testing_effect.md" >}}). New and difficult cards are shown more often while older and less difficult cards are shown less frequently.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">“Spaced Repetition” 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 202.86   | 2023-11-17T19:13:43Z |
-| 1        | 2.50 | 7   | 201.72   | 2023-12-01T09:41:22Z |
-| 2        | 2.80 | 7   | 387.07   | 2024-08-06T15:46:13Z |
-
-{{[Spaced repetition]({{< relref "spaced_repetition.md" >}})}@0} exploits the {{[Spacing effect]({{< relref "spacing_effect.md" >}})}@1} and {{[Testing effect]({{< relref "testing_effect.md" >}})}@2}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">“Spaced Repetition” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -129,18 +108,18 @@ An evidence-based learning technique, usually performed with flashcards, which e
 
 ## Backlinks {#backlinks}
 
+-   [Cedric Chin | The Tricky Thing About Creating Training Programs]({{< relref "cedric_chin_the_tricky_thing_about_creating_training_programs.md" >}})
 -   [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
 -   [Forgetting curve]({{< relref "forgetting_curve.md" >}})
+-   [Andy Matuschak | Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture]({{< relref "andy_matuschak_deciding_to_remember_something_with_a_spaced_repetition_system_is_aspirationally_a_lightweight_gesture.md" >}})
 -   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
 -   [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}})
--   [Andy Matuschak | Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture]({{< relref "andy_matuschak_deciding_to_remember_something_with_a_spaced_repetition_system_is_aspirationally_a_lightweight_gesture.md" >}})
 -   [Pedagogy]({{< relref "pedagogy.md" >}})
--   [Org flashcards]({{< relref "org_flashcards.md" >}})
--   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
 -   [Fernando Borretti | Effective Spaced Repetition]({{< relref "fernando_borretti_effective_spaced_repetition.md" >}})
--   [Michael Nielsen | Augmenting Long-term Memory]({{< relref "michael_nielsen_augmenting_long_term_memory.md" >}})
--   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})
+-   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
 -   [Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction]({{< relref "jose_luis_ricon_on_bloom_s_two_sigma_problem.md" >}})
--   [Favorites]({{< relref "favorites.md" >}})
--   [Cedric Chin | The Tricky Thing About Creating Training Programs]({{< relref "cedric_chin_the_tricky_thing_about_creating_training_programs.md" >}})
+-   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})
+-   [Org flashcards]({{< relref "org_flashcards.md" >}})
+-   [Get good]({{< relref "get_good.md" >}})
+-   [Michael Nielsen | Augmenting Long-term Memory]({{< relref "michael_nielsen_augmenting_long_term_memory.md" >}})
 -   [Remember (Bloom's Taxonomy)]({{< relref "BloomTaxonomy2022.md#remember--id-5fbaa05c-666f-4d45-b798-ff36ace22126-bloom-s-taxonomy" >}})

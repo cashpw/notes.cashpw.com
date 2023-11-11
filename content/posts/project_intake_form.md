@@ -2,7 +2,7 @@
 title = "Project intake form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T10:06:00-07:00
-lastmod = 2023-09-24T10:39:02-07:00
+lastmod = 2023-11-10T11:11:20-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -32,11 +32,18 @@ Include things like:
     -   Associated deadlines?
     -   How do we define success for this milestone?
     -   Can more than one person work on the milestones in parallel?
+-   What is the last 1%/10% of the project? (see below)
 
 Also see [Split "Lessons learned" into nodes]({{< relref "todos.md#split-lessons-learned-into-nodes" >}}).
 
 
-## Flashcards {#flashcards}
+### [The Last 1%](https://jaredramsey.com/blog/20230808.html) {#the-last-1}
+
+
+### [Stopping at 90%](https://austinhenley.com/blog/90percent.html) {#stopping-at-90}
+
+
+### [How deliver results quickly](https://www.reddit.com/r/ExperiencedDevs/comments/15cycas/how_deliver_results_quickly/) {#how-deliver-results-quickly}
 
 
 ## Backlinks {#backlinks}

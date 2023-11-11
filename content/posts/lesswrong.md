@@ -2,7 +2,7 @@
 title = "LessWrong"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:38:00-08:00
-lastmod = 2023-09-24T10:26:01-07:00
+lastmod = 2023-11-10T11:01:56-08:00
 draft = false
 slug = "820021b3-7576-4516-9fe2-51cbfe263ebe"
 +++
@@ -14,13 +14,10 @@ A rationalist community and website.
 > _[About](https://www.lesswrong.com/about)_
 
 
-## Flashcards {#flashcards}
-
-
 ## Backlinks {#backlinks}
 
 -   [Scott Alexander]({{< relref "scott_alexander.md" >}})
 -   [Michael Smith]({{< relref "michael_smith.md" >}})
--   [Anna Salamon]({{< relref "anna_salamon.md" >}})
--   [Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}})
 -   [Adam Zerner]({{< relref "adam_zerner.md" >}})
+-   [Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}})
+-   [Anna Salamon]({{< relref "anna_salamon.md" >}})

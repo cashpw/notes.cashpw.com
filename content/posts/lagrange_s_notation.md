@@ -2,7 +2,7 @@
 title = "Lagrange's notation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:05:00-08:00
-lastmod = 2023-09-24T10:24:40-07:00
+lastmod = 2023-11-10T11:00:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,42 +30,7 @@ slug = "b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13"
 > (<a href="#citeproc_bib_item_1">“Notation for Differentiation” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Denotes {#denotes}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 214.38   | 2024-01-05T09:08:38Z |
-| back     | 2.80 | 7   | 313.46   | 2024-07-18T03:24:35Z |
-
-\\(f'(x)\\)
-
-
-#### Back {#back}
-
-The first derivative of \\(f(x)\\).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Notation for Differentiation” 2022</a>)
-
-
-### Equivalence {#equivalence}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 169.86   | 2023-11-04T11:58:06Z |
-| 1        | 2.35 | 7   | 143.64   | 2023-10-29T06:17:14Z |
-
-{{\\(f'(x)\\)}{notation}@0} \\(=\\) {{\\(\frac{d(f(x))}{dx}\\)}{notation}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Notation for Differentiation” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -76,6 +41,6 @@ The first derivative of \\(f(x)\\).
 
 ## Backlinks {#backlinks}
 
--   [Product rule]({{< relref "product_rule.md" >}})
 -   [Chain rule]({{< relref "chain_rule.md" >}})
 -   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Product rule]({{< relref "product_rule.md" >}})

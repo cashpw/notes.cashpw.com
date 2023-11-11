@@ -2,7 +2,7 @@
 title = "Albert Trachsel | Soleil"
 author = ["Cash Weaver"]
 date = 2023-08-07T18:42:00-07:00
-lastmod = 2023-09-24T09:52:29-07:00
+lastmod = 2023-11-10T10:24:55-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -25,27 +25,7 @@ One of my [Favorites]({{< relref "favorites.md" >}}).
 {{< figure src="/ox-hugo/2023-08-07_18-43-26_122_trachsel.jpg.jpeg" >}}
 
 
-## Flashcards {#flashcards}
-
-
-### Image {#image}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 36.25    | 2023-10-27T20:15:35Z |
-| back     | 2.05 | 4   | 12.97    | 2023-10-01T15:11:37Z |
-
-[Albert Trachsel | Soleil]({{< relref "albert_trachsel_soleil.md" >}})
-
-
-#### Back {#back}
-
-{{< figure src="/ox-hugo/2023-08-07_18-43-26_122_trachsel.jpg.jpeg" >}}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Trachsel 1909</a>)
+## Bibliography {#bibliography}
 
 ## References
 

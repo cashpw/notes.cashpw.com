@@ -2,7 +2,7 @@
 title = "Dave Orr | Parenting Rules"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T18:52:00-07:00
-lastmod = 2023-09-24T10:36:26-07:00
+lastmod = 2023-11-10T11:08:45-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -52,7 +52,7 @@ See [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}}).
 > You have to be age appropriate -- when talking about where babies come from, I don't talk about penises in vaginas to a 5 year old -- but they can handle a lot more than most adults give them credit for.
 
 
-## Flashcards {#flashcards}
+## Bibliography {#bibliography}
 
 ## References
 
@@ -63,5 +63,6 @@ See [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}}).
 
 ## Backlinks {#backlinks}
 
--   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
+-   [Praise process and effort]({{< relref "orrParentingRules.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})

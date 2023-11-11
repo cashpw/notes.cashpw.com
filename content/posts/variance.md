@@ -2,7 +2,7 @@
 title = "Variance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-13T10:35:00-07:00
-lastmod = 2023-09-24T10:55:09-07:00
+lastmod = 2023-11-10T11:26:05-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -13,6 +13,3 @@ Cats
 
 
 ##  {#d41d8c}
-
-
-## Flashcards {#flashcards}

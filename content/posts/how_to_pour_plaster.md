@@ -2,7 +2,7 @@
 title = "How to pour plaster"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T12:20:00-08:00
-lastmod = 2023-09-24T10:17:08-07:00
+lastmod = 2023-11-10T10:53:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ Plaster is useful in [Ceramics]({{< relref "ceramics.md" >}}) for drying overly-
 >
 > A tip that I picked up from TimSee, is to spritz the plaster with alcohol.  This will burst the plaster bubbles that pop to the surface.  Rather than spraying your damp box with Whiskey, you can get a bottle of ethanol from a local pharmacy.  I tried this and put it into an old hair product spray bottle.  It works well and means you don't have to rub the surface down so much later.
 >
-> (<a href="#citeproc_bib_item_1">Lesley 2019</a>)
+> (Lesley 2019)
 
 
 ## Safety {#safety}
@@ -32,15 +32,6 @@ Plaster is useful in [Ceramics]({{< relref "ceramics.md" >}}) for drying overly-
 -   Use a [respirator]({{< relref "use_the_right_respirator.md#respirator-for-crystalline-silica" >}})
 -   Wear gloves
 -   Work in a well ventilated area
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Lesley. 2019. “How to Make a Damp Box For Clay.” Pottery Tips by the Pottery Wheel. December 13, 2019. <a href="https://thepotterywheel.com/how-to-make-a-damp-box-for-clay/">https://thepotterywheel.com/how-to-make-a-damp-box-for-clay/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

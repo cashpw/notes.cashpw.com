@@ -2,7 +2,7 @@
 title = "Hunger stone"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T09:05:00-07:00
-lastmod = 2023-09-24T10:17:18-07:00
+lastmod = 2023-11-10T10:53:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,27 +16,7 @@ slug = "07e3fd1d-8aa7-4fe4-9a65-bf10654c9552"
 > (<a href="#citeproc_bib_item_1">“Hunger Stone” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 176.99   | 2023-10-23T14:28:04Z |
-| back     | 3.10 | 7   | 392.75   | 2024-08-03T18:16:08Z |
-
-[Hunger stone]({{< relref "hunger_stone.md" >}})
-
-
-#### Back {#back}
-
-A type of hydrological landmark common in Central Europe which serve as famine memorials and warnings. Past humans placed the stones into rivers to mark the water level during droughts and communicate the hardships to future generations.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Hunger Stone” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

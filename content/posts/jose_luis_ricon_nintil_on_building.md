@@ -2,14 +2,14 @@
 title = "Jose Luis Ricon | On Building"
 author = ["Cash Weaver"]
 date = 2023-01-11T09:34:00-08:00
-lastmod = 2023-09-24T10:21:51-07:00
+lastmod = 2023-11-10T10:58:43-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "b88f8a74-52c1-44a8-a39e-d66b5587516f"
 +++
 
-[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (<a href="#citeproc_bib_item_2">Ricon n.d.</a>)
+[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (Ricon n.d.)
 
 
 ## Notes {#notes}
@@ -52,7 +52,7 @@ slug = "b88f8a74-52c1-44a8-a39e-d66b5587516f"
 >
 > You see it in housing and the physical footprint of our cities. We can't build nearly enough housing in our cities with surging economic potential — which results in crazily skyrocketing housing prices in places like San Francisco, making it nearly impossible for regular people to move in and take the jobs of the future. We also can't build the cities themselves anymore. When the producers of HBO's "Westworld" wanted to portray the American city of the future, they didn't film in Seattle or Los Angeles or Austin — they went to Singapore. We should have gleaming skyscrapers and spectacular living environments in all our best cities at levels way beyond what we have now; where are they?
 >
-> (<a href="#citeproc_bib_item_1">Andreessen 2020</a>)
+> (Andreessen 2020)
 >
 > </div>
 >
@@ -69,7 +69,7 @@ slug = "b88f8a74-52c1-44a8-a39e-d66b5587516f"
 >
 > You see it in education. We have top-end universities, yes, but with the capacity to teach only a microscopic percentage of the 4 million new 18 year olds in the U.S. each year, or the 120 million new 18 year olds in the world each year. Why not educate every 18 year old? Isn't that the most important thing we can possibly do? Why not build a far larger number of universities, or scale the ones we have way up? The last major innovation in K-12 education was Montessori, which traces back to the 1960s; we've been doing education research that's never reached practical deployment for 50 years since; why not build a lot more great K-12 schools using everything we now know? We know one-to-one tutoring can reliably increase education outcomes by two standard deviations (the Bloom two-sigma effect); we have the internet; why haven't we built systems to match every young learner with an older tutor to dramatically improve student success?
 >
-> (<a href="#citeproc_bib_item_1">Andreessen 2020</a>)
+> (Andreessen 2020)
 >
 > </div>
 >
@@ -96,16 +96,6 @@ slug = "b88f8a74-52c1-44a8-a39e-d66b5587516f"
 > [...] imagine if you had, in the US, FDA competitors (regulated by a Meta-FDA); one could for example scrap the Phase I/II/III trial system and have relaxed requirements on a case-by-case basis. Any proposal on accelerating drug-to-market could be tried. One would have to design the meta-regulations carefully so as to line up incentives to balance safety and innovation [...]
 
 Sounds like an adversarial relationship like a [Generative adversarial network]({{< relref "generative_adversarial_network.md" >}}).
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Andreessen, Marc. 2020. “It’s Time to Build.” Andreessen Horowitz. April 18, 2020. <a href="https://a16z.com/2020/04/18/its-time-to-build/">https://a16z.com/2020/04/18/its-time-to-build/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Ricon, Jose Luis. n.d. “On Building.” <i>Nintil</i>. Accessed January 10, 2023. <a href="https://nintil.com/on-building">https://nintil.com/on-building</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

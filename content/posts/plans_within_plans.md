@@ -2,7 +2,7 @@
 title = "Plans within plans"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T10:44:00-08:00
-lastmod = 2023-09-24T10:37:48-07:00
+lastmod = 2023-11-10T11:10:09-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -13,9 +13,6 @@ Related:
 
 -   [Plans within plans within plans]({{< relref "plans_within_plans_within_plans.md" >}})
 -   [Xanatos gambit]({{< relref "XanatosGambit.md" >}})
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

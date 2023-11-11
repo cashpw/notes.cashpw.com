@@ -2,14 +2,14 @@
 title = "Cedric Chin | To Get Good, Go After The Metagame"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:01:00-08:00
-lastmod = 2023-09-24T10:00:28-07:00
+lastmod = 2023-11-10T10:33:25-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "4f9769a8-94c3-461c-b4be-933b522aab15"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2020)
 
 
 ## Summary {#summary}
@@ -57,35 +57,3 @@ Mastering something requires mastering the literal game as well as the [Metagame
 <!--quoteend-->
 
 > If you can't master a particular skill, drop back down to its component elements and practice each of them in isolation. If you don't get good conversions in your content marketing, drop down to practice publishing at a regular cadence. If you can't get a throw to work, break it down to arms, then legs, then body position, then into one complete motion.
-
-
-## Flashcards {#flashcards}
-
-
-### Summarize {#summarize}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 103.51   | 2023-05-27T06:03:44Z |
-| back     | 2.50 | 6   | 83.41    | 2023-05-11T13:28:26Z |
-
-[Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
-
-
-#### Back {#back}
-
-Getting good at something is a two step process wherein you learn, and [Git gud]({{< relref "get_good.md" >}}), at:
-
-1.  The thing itself
-2.  The associated [Metagame]({{< relref "the_metagame.md" >}})
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Chin 2020</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “To Get Good, Go After The Metagame.” Commonplace - The Commoncog Blog. February 25, 2020. <a href="https://commoncog.com/blog/to-get-good-go-after-the-metagame/">https://commoncog.com/blog/to-get-good-go-after-the-metagame/</a>.</div>
-</div>

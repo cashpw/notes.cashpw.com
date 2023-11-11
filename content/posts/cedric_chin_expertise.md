@@ -2,14 +2,14 @@
 title = "Cedric Chin | Expertise"
 author = ["Cash Weaver"]
 date = 2023-06-07T08:35:00-07:00
-lastmod = 2023-09-24T09:58:57-07:00
+lastmod = 2023-11-10T10:31:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "148505a6-5c2a-4236-a389-da33f5b57ae5"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2023</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2023)
 
 
 ## Summary {#summary}
@@ -60,12 +60,3 @@ There are, broadly speaking, three approaches to accelerating expertise that Com
 > -   The big idea here is Cognitive Transformation Theory, which we cover in The [Hard Thing About Learning from Experience](https://commoncog.com/the-hard-thing-about-learning-from-experience/) [[Cedric Chin | The Hard Thing About Learning From Experience]({{< relref "cedric_chin_the_hard_thing_about_learning_from_experience.md" >}})]. There are two subtle ideas in the theory: first, experts are more willing to destroy old mental models as they advance; intermediate practitioners are not. Second, this becomes more difficult _the higher up they are in their respective skill trees_.
 > -   [Don't Read History for Lessons](https://commoncog.com/dont-read-history-for-lessons/) [[Cedric Chin | Don't Read History for Lessons]({{< relref "cedric_chin_don_t_read_history_for_lessons.md" >}})] covers some of the difficulty of learning from path-dependent and context-dependent historical events.
 > -   [Ability to See Expertise is a Milestone Worth Aiming For](https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/) [[Cedric Chin | Ability to See Expertise Is a Milestone Worth Aiming For]({{< relref "cedric_chin_ability_to_see_expertise_is_a_milestone_worth_aiming_for.md" >}})] covers the difficulty of acquiring expertise when you can't even see expertise.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2023. “Expertise.” Commoncog. June 7, 2023. <a href="https://commoncog.com/expertise/">https://commoncog.com/expertise/</a>.</div>
-</div>

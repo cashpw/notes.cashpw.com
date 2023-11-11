@@ -2,14 +2,14 @@
 title = "K. Anders Ericsson, Robert Hoffman, Aaron Kozbelt, A. Mark Williams | The Cambridge Handbook of Expertise and Expert Performance"
 author = ["Cash Weaver"]
 date = 2023-07-30T07:23:00-07:00
-lastmod = 2023-09-24T10:22:48-07:00
+lastmod = 2023-11-10T10:59:31-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "600cf4b0-d40a-4b94-b454-a362870c9562"
 +++
 
-TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Ericsson et al. 2018</a>)
+TODO_AUTHOR, (Ericsson et al. 2018)
 
 
 ## Summary {#summary}
@@ -19,15 +19,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Ericsson et al. 2018</a>)
 
 
 ## Notes {#notes}
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ericsson, K. Anders, Robert Hoffman, Aaron Kozbelt, and A. Mark Williams, eds. 2018. <i>The Cambridge Handbook of Expertise and Expert Performance</i>. Second edition. Cambridge, United Kingdom ; New York, NY, USA: Cambridge University Press.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

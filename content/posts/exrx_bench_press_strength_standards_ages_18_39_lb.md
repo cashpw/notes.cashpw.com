@@ -2,14 +2,14 @@
 title = "ExRx | Bench Press Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T10:57:00-07:00
-lastmod = 2023-09-24T10:09:31-07:00
+lastmod = 2023-11-10T10:44:15-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "3a833b69-8ad4-4d09-b115-059bf30f5569"
 +++
 
-[ExRx]({{< relref "exrx.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
+[ExRx]({{< relref "exrx.md" >}}), (ExRx n.d.)
 
 
 ## Notes {#notes}
@@ -51,15 +51,6 @@ Numbers are in pounds.
 > | 181         | 85        | 110    | 120          | 160      | 195   | 292          |
 > | 198         | 90        | 115    | 130          | 165      | 205   | 301          |
 > | 199+        | 95        | 120    | 140          | 175      | 220   | 319          |
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>ExRx. n.d. “Bench Press Strength Standards (Ages 18-39, Lb).” Accessed July 6, 2023. <a href="https://exrx.net/Testing/WeightLifting/BenchStandards">https://exrx.net/Testing/WeightLifting/BenchStandards</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

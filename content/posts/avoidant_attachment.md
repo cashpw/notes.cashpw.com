@@ -2,7 +2,7 @@
 title = "Avoidant attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T13:22:00-07:00
-lastmod = 2023-09-24T09:54:35-07:00
+lastmod = 2023-11-10T10:27:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,47 +20,7 @@ An [attachment]({{< relref "attachment_theory.md" >}}) pattern in which the chil
 > (<a href="#citeproc_bib_item_1">“Attachment Theory” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 9   | 374.58   | 2024-06-03T04:05:00Z |
-| back     | 2.35 | 8   | 339.34   | 2024-04-24T21:05:03Z |
-
-[Avoidant attachment]({{< relref "avoidant_attachment.md" >}})
-
-
-#### Back {#back}
-
-An unhealthy attachment pattern in which the child "gives up" on receiving comfort from their guardian(s) and instead attempts to distance themselves emotionally; go it alone and become distrustful of interpersonal relationships.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Attachment Theory” 2022</a>)
-
-
-### Example(s) {#example--s}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.45 | 9   | 116.78   | 2023-11-16T22:26:42Z |
-| back     | 1.75 | 2   | 2.00     | 2023-09-23T14:17:34Z |
-
-[Avoidant attachment]({{< relref "avoidant_attachment.md" >}})
-
-
-#### Back {#back}
-
--   A neglected or abused child seeking to distance themselves from their guardians.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Attachment Theory” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

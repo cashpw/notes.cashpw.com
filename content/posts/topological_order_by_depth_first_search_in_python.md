@@ -2,7 +2,7 @@
 title = "Topological order by Depth-first search in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:50:00-08:00
-lastmod = 2023-09-24T10:52:59-07:00
+lastmod = 2023-11-10T11:24:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -69,28 +69,6 @@ adjacency_list = {
 }
 print(topological_sort(adjacency_list), 'should be [(2,1,0 in any order), 3, 4, 5]')
 ```
-
-
-## Flashcards {#flashcards}
-
-
-### Normal {#normal}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 46.31    | 2023-08-11T23:34:26Z |
-
-Implement [Topological sorting]({{< relref "topological_order.md" >}}) using [Depth-first search]({{< relref "depth_first_search.md" >}}) in [Python]({{< relref "python.md" >}})
-
-
-#### Back {#back}
-
-[Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
-
-
-#### Source {#source}
-
-[Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
 
 
 ## Backlinks {#backlinks}

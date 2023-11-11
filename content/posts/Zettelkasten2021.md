@@ -2,7 +2,7 @@
 title = "Zettelkasten"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T18:03:00-08:00
-lastmod = 2023-09-24T09:51:36-07:00
+lastmod = 2023-11-10T10:23:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -15,23 +15,14 @@ slug = "b130e6f2-31a1-4c3a-ae8b-7d8208a69710"
 >
 > The system not only allows a researcher to store and retrieve information related to their research, but has also been used to enhance creativity.
 >
-> (<a href="#citeproc_bib_item_1">“Zettelkasten” 2021</a>)
+> (“Zettelkasten” 2021)
 
 Related: [Personal knowledge management]({{< relref "personal_knowledge_management.md" >}})
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Zettelkasten.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Zettelkasten&oldid=1060558761">https://en.wikipedia.org/w/index.php?title=Zettelkasten&#38;oldid=1060558761</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Examples of Zettelkasten Notes]({{< relref "examples_of_zettelkasten_notes.md" >}})
--   [Style Guide]({{< relref "style_guide.md" >}})
 -   [README]({{< relref "readme.md" >}})
+-   [Style Guide]({{< relref "style_guide.md" >}})
 -   [Andy Matuschak]({{< relref "andy_matuschak.md" >}})

@@ -1,0 +1,10 @@
++++
+title = "On making friends"
+author = ["Cash Prokop-Weaver"]
+date = 2023-10-20T08:58:00-07:00
+lastmod = 2023-11-10T11:07:59-08:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
+draft = false
+slug = "c20d8fed-08a6-4bd7-b937-b66d3e09b8d9"
++++

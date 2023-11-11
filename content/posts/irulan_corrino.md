@@ -2,15 +2,12 @@
 title = "Irulan Corrino"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T10:33:00-08:00
-lastmod = 2023-09-24T10:19:56-07:00
+lastmod = 2023-11-10T10:56:31-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "a0503d43-fe6f-4dfb-838c-4fc3ad2d64ea"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

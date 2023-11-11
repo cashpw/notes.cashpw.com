@@ -2,7 +2,7 @@
 title = "Session"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:32:00-07:00
-lastmod = 2023-09-24T10:44:23-07:00
+lastmod = 2023-11-10T11:16:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,36 +23,7 @@ slug = "42be7ce6-d83b-4717-86a0-0766565b2049"
 > -   Transport layer example:
 >     -   A TCP session, which is synonymous to a TCP virtual circuit, a TCP connection, or an established TCP socket.
 >
-> (<a href="#citeproc_bib_item_1">“Session (Computer Science)” 2023</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Definition (Computers) {#definition--computers}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 170.53   | 2024-02-08T01:56:09Z |
-| back     | 2.95 | 6   | 129.91   | 2023-10-24T11:52:42Z |
-
-[Session]({{< relref "session.md" >}})
-
-
-#### Back {#back}
-
-A time-delimited two-way link which enables interactive expression and information exchange between two or more communication devices or ends – be they computers, automated systems, or live active users (see login session).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Session (Computer Science)” 2023</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Session (Computer Science).” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Session_(computer_science)&oldid=1141927834">https://en.wikipedia.org/w/index.php?title=Session_(computer_science)&#38;oldid=1141927834</a>.</div>
-</div>
+> (“Session (Computer Science)” 2023)
 
 
 ## Backlinks {#backlinks}

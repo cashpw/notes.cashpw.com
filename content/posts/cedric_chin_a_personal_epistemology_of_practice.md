@@ -2,9 +2,9 @@
 title = "Cedric Chin | A Personal Epistemology of Practice"
 author = ["Cash Weaver"]
 date = 2023-07-30T08:15:00-07:00
-lastmod = 2023-09-24T09:58:26-07:00
-tags = ["hastodo", "reference", "hastodo", "reference"]
-categories = ["hastodo", "reference"]
+lastmod = 2023-11-10T10:30:48-08:00
+tags = ["reference", "reference"]
+categories = ["reference"]
 draft = false
 slug = "0a379fad-61c8-4e9a-96ea-62ecae152892"
 +++
@@ -20,8 +20,41 @@ slug = "0a379fad-61c8-4e9a-96ea-62ecae152892"
 
 ## Notes {#notes}
 
+> So how do you evaluate the advice you're given? How do you know who to take seriously, and who to discount?
+>
+> I'd like to propose an alternative hierarchy of evidence for practitioners. When asking for advice, judge the advice according to the following pyramid:
+>
+> [in order from best to worst]
 
-## Flashcards {#flashcards}
+1.  Tested against reality
+
+    > [...] "let reality be the teacher!" You only truly know that a piece of advice works if you have tested it [...]
+
+2.  Believable and exposed to negative outcomes
+
+    > [...] experts who are exposed to downside risk are more prudent in their judgments and decisions compared to experts who aren't.
+
+3.  Believable
+
+    > Believability is a technique that I've already covered in a previous part in this series: originally proposed by hedge fund manager Ray Dalio in his book Principles [[Ray Dalio | Principles]({{< relref "ray_dalio_principles.md" >}})], believability is a method for evaluating expertise.
+    >
+    > The idea goes as follows — when asking people for advice, apply a suitable weight to their recommendations:
+    >
+    > 1.  The person must have had at least three successes. This reduces the probability that they are a fluke.
+    > 2.  They must have a credible explanation for their approach when probed. This increases the probability that you'll get useful information out of them.
+    >
+    > If an expert passes these two requirements, you may consider them 'believable'.
+
+4.  Put to practice in own life
+
+    > This isn't as good as "believable expert who has succeeded in domain", but it's still better than "random shmuck who writes about self-help that he hasn't tried".
+
+5.  Plausible argument
+
+    > This is the lowest-level form of evidence, because — as I've argued before — the persuasiveness of an argument should not affect your judgment of the argument's actual truth.
+
+
+## Bibliography {#bibliography}
 
 ## References
 

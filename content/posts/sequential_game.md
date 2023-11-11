@@ -2,7 +2,7 @@
 title = "Sequential game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:47:00-07:00
-lastmod = 2023-09-24T10:44:20-07:00
+lastmod = 2023-11-10T11:16:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,60 +21,7 @@ Contrast with a [Simultaneous game]({{< relref "simultaneous_game.md" >}}).
 -   Many board games, including chess and checkers
 
 
-## Flashcards {#flashcards}
-
-
-### Example(s) {#example--s}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 181.80   | 2023-10-28T09:30:30Z |
-| 1        | 2.95 | 7   | 518.93   | 2025-01-25T13:24:27Z |
-
-{{[Sequential game]({{< relref "sequential_game.md" >}})}@0} ([Game theory]({{< relref "game_theory.md" >}}); turn order)
-
--   {{Chess}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Sequential Game” 2021</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 221.90   | 2023-12-09T21:14:26Z |
-| back     | 2.50 | 7   | 169.90   | 2023-10-20T19:29:45Z |
-
-[Sequential game]({{< relref "sequential_game.md" >}})
-
-
-#### Back {#back}
-
-A game in which one player chooses their action before the others choose theirs. The other players have information on the first player's choice prior to making their own decisions.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Sequential Game” 2021</a>)
-
-
-### AKA {#aka}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 1.90 | 8   | 163.10   | 2023-11-09T18:30:05Z |
-| 1        | 2.80 | 7   | 331.53   | 2024-05-21T02:03:51Z |
-
--   {{[Sequential game]({{< relref "sequential_game.md" >}})}@0}
--   {{[Dynamic game]({{< relref "sequential_game.md" >}})}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Sequential Game” 2021</a>)
+## Bibliography {#bibliography}
 
 ## References
 

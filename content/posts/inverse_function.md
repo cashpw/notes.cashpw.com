@@ -2,7 +2,7 @@
 title = "Inverse function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T09:10:00-08:00
-lastmod = 2023-09-24T10:19:54-07:00
+lastmod = 2023-11-10T10:56:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,7 @@ slug = "be3d36b2-8fb7-4917-b739-5717643a35b3"
 >
 > For a function \\(f\colon X\to Y\\), its inverse \\(\displaystyle f^{-1}\colon Y\to X\\) admits an explicit description: it sends each element \\(y\in Y\\) to the unique element \\(x\in X\\) such that \\(f(x) = y\\).
 >
-> (<a href="#citeproc_bib_item_1">“Inverse Function” 2022</a>)
+> (“Inverse Function” 2022)
 
 <!--quoteend-->
 
@@ -28,37 +28,6 @@ slug = "be3d36b2-8fb7-4917-b739-5717643a35b3"
 > Thus the inverse function \\(f^{-1}\\) is given by the formula
 >
 > \\(f^{-1}(y)={\frac {{\sqrt[{3}]{y}}-8}{2}}\\).
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 186.60   | 2023-11-01T13:15:36Z |
-
-How to find the [Inverse function]({{< relref "inverse_function.md" >}}) of \\(f\colon \mathbf{R}\to \mathbf{R}\\), \\(f(x) = y\\)
-
-
-#### Back {#back}
-
-For \\(f(x) = \dots x\\):
-
-1.  Swap \\(f(x)\\) and \\(x\\) and rename \\(f(x)\\) to \\(f^{-1}(x)\\)
-2.  Solve for \\(f^{-1}(x)\\)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Inverse Function” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Inverse Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Inverse_function&oldid=1121855971">https://en.wikipedia.org/w/index.php?title=Inverse_function&#38;oldid=1121855971</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

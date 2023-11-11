@@ -2,7 +2,7 @@
 title = "The acquisition of wealth is no longer the driving force in our lives"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T10:30:00-07:00
-lastmod = 2023-09-24T10:50:23-07:00
+lastmod = 2023-11-10T11:21:27-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -14,6 +14,3 @@ slug = "f6cc5a0f-28b1-4cc9-8672-e1844405c8f6"
 > [Captain Jean-Luc Picard]({{< relref "captain_jean_luc_picard.md" >}}) , Star Trek: First Contact
 
 Related: [Fully Automated Luxury Communism]({{< relref "fully_automated_luxury_communism.md" >}})
-
-
-## Flashcards {#flashcards}

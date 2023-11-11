@@ -2,7 +2,7 @@
 title = "Tribalism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T11:24:00-07:00
-lastmod = 2023-09-24T10:53:51-07:00
+lastmod = 2023-11-10T11:24:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,13 +11,13 @@ slug = "4cb7f185-7fc0-47aa-8a6a-9454de9a999c"
 
 > Tribalism is the state of being organized by, or advocating for, tribes or tribal lifestyles. Human evolution has primarily occurred in small hunter-gatherer groups, as opposed to in larger and more recently settled agricultural societies or civilizations. With a negative connotation and in a political context, tribalism can also mean **discriminatory behavior or attitudes towards out-groups, based on in-group loyalty**.
 >
-> (<a href="#citeproc_bib_item_3">“Tribalism” 2022</a>)
+> (“Tribalism” 2022)
 
 <!--quoteend-->
 
 > Tribalism or Coalitional Instincts is closely connected to the concept of in/out-groups. Coalitional instincts drive humans to act in ways which cause them join, support, defend, and maintain their membership in various coalitions that are defined by sharing a common identity.
 >
-> (<a href="#citeproc_bib_item_1">Lesswrong n.d.</a>)
+> (Lesswrong n.d.)
 
 <!--quoteend-->
 
@@ -27,54 +27,7 @@ slug = "4cb7f185-7fc0-47aa-8a6a-9454de9a999c"
 >
 > Ancestrally, evolving the neural code to crack these problems supercharged the ability to successfully compete for access to reproductively limiting resources. Fatefully, we are descended solely from those better equipped with coalitional instincts. In this new world, power shifted from solitary alphas to the effectively coordinated down-alphabet, giving rise to a new, larger landscape of political threat and opportunity: rival groups or factions expanding at your expense or shrinking as a result of your dominance.
 >
-> (<a href="#citeproc_bib_item_2">Tooby n.d.</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 196.73   | 2023-11-16T15:14:23Z |
-| back     | 2.50 | 7   | 222.74   | 2023-12-22T10:23:54Z |
-
-[Tribalism]({{< relref "tribalism.md" >}})
-
-
-#### Back {#back}
-
-Discriminatory behavior or attitudes towards out-groups based on in-group loyalty
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_3">“Tribalism” 2022</a>)
-
-
-### AKA {#aka}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 340.45   | 2024-06-28T14:44:29Z |
-| 1        | 1.45 | 6   | 21.28    | 2023-10-12T21:02:45Z |
-
--   {{[Tribalism]({{< relref "tribalism.md" >}})}@0}
--   {{[Coalitional instincts]({{< relref "tribalism.md" >}})}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Lesswrong n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Lesswrong. n.d. “Tribalism.” Accessed January 14, 2023. <a href="https://www.lesswrong.com/tag/tribalism">https://www.lesswrong.com/tag/tribalism</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Tooby, John. n.d. “Coalitional Instincts.” Accessed January 14, 2023. <a href="https://www.edge.org/response-detail/27168">https://www.edge.org/response-detail/27168</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Tribalism.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Tribalism&oldid=1107945141">https://en.wikipedia.org/w/index.php?title=Tribalism&#38;oldid=1107945141</a>.</div>
-</div>
+> (Tooby n.d.)
 
 
 ## Backlinks {#backlinks}

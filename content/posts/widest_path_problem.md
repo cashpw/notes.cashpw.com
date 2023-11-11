@@ -2,7 +2,7 @@
 title = "Widest path problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T09:17:00-08:00
-lastmod = 2023-09-24T10:56:28-07:00
+lastmod = 2023-11-10T11:27:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,47 +16,3 @@ slug = "635d6c87-68fe-4fbf-9462-2d86b0ea7f58"
 > {{< figure src="/ox-hugo/2022-12-22_09-19-43_260px-CPT-Graphs-undirected-weighted.svg.png" >}}
 >
 > In this graph, the widest path from Maldon to Feering has bandwidth 29, and passes through Clacton, Tiptree, Harwich, and Blaxhall [40-29-31-40-46 has a minmimum of 29].
-
-
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 8   | 290.03   | 2024-06-24T17:05:55Z |
-| back     | 2.20 | 5   | 26.74    | 2023-09-22T08:37:21Z |
-
-[Widest path problem]({{< relref "widest_path_problem.md" >}})
-
-
-#### Back {#back}
-
-The problem of finding a path between two [Vertices]({{< relref "vertex.md" >}}) in a [Graph]({{< relref "graph.md" >}}) which maximizes the minimum [Edge]({{< relref "edge.md" >}}) weight in the path.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Widest Path Problem” 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 331.69   | 2024-06-23T06:49:42Z |
-| 1        | 2.50 | 7   | 279.84   | 2024-04-12T20:31:20Z |
-
-Most algorithms which solve the {{[Shortest path problem]({{< relref "shortest_path_algorithm.md" >}})}@0} can, with modifications, also solve the {{[Widest path problem]({{< relref "widest_path_problem.md" >}})}@1}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Widest Path Problem” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Widest Path Problem.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Widest_path_problem&oldid=1117475622">https://en.wikipedia.org/w/index.php?title=Widest_path_problem&#38;oldid=1117475622</a>.</div>
-</div>

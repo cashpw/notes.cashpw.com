@@ -2,7 +2,7 @@
 title = "Joseph Mallord William Turner | Mortlake Terrace"
 author = ["Cash Weaver"]
 date = 2023-08-07T18:24:00-07:00
-lastmod = 2023-09-24T10:22:23-07:00
+lastmod = 2023-11-10T10:59:11-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -23,27 +23,7 @@ slug = "32d70cac-3020-45a5-9ebf-53f9b2f7ebf4"
 {{< figure src="/ox-hugo/mortlake_terrace_1937.1.109.jpg" >}}
 
 
-## Flashcards {#flashcards}
-
-
-### Image {#image}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 36.44    | 2023-10-21T01:35:31Z |
-| back     | 2.35 | 4   | 12.71    | 2023-09-30T16:17:00Z |
-
-[Joseph Mallord William Turner | Mortlake Terrace]({{< relref "joseph_mallord_william_turner_mortlake_terrace.md" >}})
-
-
-#### Back {#back}
-
-{{< figure src="/ox-hugo/mortlake_terrace_1937.1.109.jpg" >}}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Turner 1827</a>)
+## Bibliography {#bibliography}
 
 ## References
 

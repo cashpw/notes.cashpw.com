@@ -2,7 +2,7 @@
 title = "People want to feel like good people"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T11:00:00-08:00
-lastmod = 2023-09-24T10:37:09-07:00
+lastmod = 2023-11-10T11:09:33-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -22,13 +22,4 @@ And that includes the students! Based on my own experience, students want to lea
 
 > About students who study the "useless" subjects like liberal arts mentioned is because, as anyone who has access to Google would know, those subjects get you consumption benefits (People like studying them), and they also get you access to jobs. Are students deluded about the purposes of their education? Not at all! They can honestly think that they study what they like, and that they also gain skills somewhat related to their future employment. A story like "I like History so I study it, plus learning History will help me gain a broad understanding of human nature, writing, critical analysis, etc, and this is useful for management or whatever" sounds like a plausible reason a History student would give.
 >
-> (<a href="#citeproc_bib_item_1">Ricon n.d.</a>)
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ricon, Jose Luis. n.d. “This Review Is Not About Reviewing The Elephant in the Brain.” <i>Nintil</i>. Accessed January 12, 2023. <a href="https://nintil.com/this-review-is-not-about-reviewing-the-elephant-in-the-brain">https://nintil.com/this-review-is-not-about-reviewing-the-elephant-in-the-brain</a>.</div>
-</div>
+> (Ricon n.d.)

@@ -2,7 +2,7 @@
 title = "Main diagonal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:25:00-07:00
-lastmod = 2023-09-24T10:28:27-07:00
+lastmod = 2023-11-10T11:03:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,33 +13,4 @@ slug = "a61c410c-f8ea-4bdd-92c8-2f8d037dfe6a"
 >
 > \\(\begin{bmatrix}1&0&0\\\0&1&0\\\0&0&1\end{bmatrix}\qquad\\)\\(\begin{bmatrix}1&0&0&0\\\0&1&0&0\\\0&0&1&0\end{bmatrix}\qquad\\)\\(\begin{bmatrix}1&0&0\\\0&1&0\\\0&0&1\\\0&0&0\end{bmatrix}\qquad\\)\\(\begin{bmatrix}1&0&0&0\\\0&1&0&0\\\0&0&1&0\\\0&0&0&1\end{bmatrix}\qquad\\)
 >
-> (<a href="#citeproc_bib_item_1">“Main Diagonal” 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 332.82   | 2024-05-12T20:15:25Z |
-| back     | 2.95 | 7   | 344.31   | 2024-05-29T22:48:42Z |
-
-[Main diagonal]({{< relref "main_diagonal.md" >}})
-
-
-#### Back {#back}
-
-\\(A\_{i,j} \\; \forall \\; i = j \\; \in A\\)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Main Diagonal” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Main Diagonal.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Main_diagonal&oldid=1083853471">https://en.wikipedia.org/w/index.php?title=Main_diagonal&#38;oldid=1083853471</a>.</div>
-</div>
+> (“Main Diagonal” 2022)

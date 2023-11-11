@@ -2,7 +2,7 @@
 title = "Calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:53:00-08:00
-lastmod = 2023-09-24T09:57:59-07:00
+lastmod = 2023-11-10T10:30:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,48 +16,7 @@ slug = "9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7"
 > (<a href="#citeproc_bib_item_1">“Calculus” 2023</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 158.33   | 2023-11-05T23:16:55Z |
-| back     | 2.65 | 6   | 138.18   | 2023-09-29T19:11:37Z |
-
-Two major branches of [Calculus]({{< relref "calculus.md" >}})
-
-
-#### Back {#back}
-
--   [Differential calculus]({{< relref "differential_calculus.md" >}})
--   [Integral]({{< relref "integral.md" >}})
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Calculus” 2023</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 125.38   | 2023-11-19T22:57:56Z |
-| back     | 3.10 | 7   | 383.05   | 2024-08-25T16:24:48Z |
-
-[Calculus]({{< relref "calculus.md" >}})
-
-
-#### Back {#back}
-
-The mathematical study of continuous change.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Calculus” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -68,13 +27,13 @@ The mathematical study of continuous change.
 
 ## Backlinks {#backlinks}
 
--   [Power rule]({{< relref "power_rule.md" >}})
--   [Product rule]({{< relref "product_rule.md" >}})
--   [Integral calculus]({{< relref "integral.md" >}})
--   [Quotient rule]({{< relref "quotient_rule.md" >}})
 -   [Constant of integration]({{< relref "constant_of_integration.md" >}})
 -   [Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})
--   [Chain rule]({{< relref "chain_rule.md" >}})
--   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
 -   [Antiderivative]({{< relref "antiderivative.md" >}})
+-   [Power rule]({{< relref "power_rule.md" >}})
+-   [Integral calculus]({{< relref "integral.md" >}})
+-   [Chain rule]({{< relref "chain_rule.md" >}})
+-   [Quotient rule]({{< relref "quotient_rule.md" >}})
+-   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Product rule]({{< relref "product_rule.md" >}})
 -   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})

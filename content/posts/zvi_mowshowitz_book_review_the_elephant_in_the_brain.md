@@ -2,14 +2,14 @@
 title = "Zvi Mowshowitz | Book Review: The Elephant in the Brain"
 author = ["Cash Weaver"]
 date = 2023-01-12T15:31:00-08:00
-lastmod = 2023-09-24T10:57:51-07:00
+lastmod = 2023-11-10T11:28:45-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "29244b9e-6daa-4bee-9927-bc4c1af43f3f"
 +++
 
-[Zvi Mowshowitz]({{< relref "zvi_mowshowitz.md" >}}) , (<a href="#citeproc_bib_item_1">Mowshowitz 2017</a>)
+[Zvi Mowshowitz]({{< relref "zvi_mowshowitz.md" >}}) , (Mowshowitz 2017)
 
 
 ## Summary {#summary}
@@ -27,12 +27,3 @@ A review of [Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Moti
 > This is a sort of argument for modesty in the 'believe and act like if you know what's good for you' sense -- you should profess the same beliefs you see around you because they are chosen strategically, even if they're false. You should do the same actions you see, because they have hidden social motives and purposes, and people will punish you for acting differently even if they don't know why acting differently might be bad here -- holding out for that explanation is not a chance they are willing to take. Nice human you have there. It would be a shame if someone were to ostracize it or lower its status.
 >
 > It's also an argument that _[everyone is lying to you, all the time](http://kajsotala.fi/2017/09/nobody-does-the-thing-that-they-are-supposedly-doing/) [[Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]({{< relref "kaj_sotala_nobody_does_the_thing_that_they_are_supposedly_doing.md" >}})], and you know it._
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Mowshowitz, Zvi. 2017. “Book Review: The Elephant in the Brain.” Don’t Worry About the Vase. December 31, 2017. <a href="https://thezvi.wordpress.com/2017/12/31/book-review-the-elephant-in-the-brain/">https://thezvi.wordpress.com/2017/12/31/book-review-the-elephant-in-the-brain/</a>.</div>
-</div>

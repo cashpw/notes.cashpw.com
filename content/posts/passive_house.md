@@ -2,7 +2,7 @@
 title = "Passive house"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T16:52:00-08:00
-lastmod = 2023-09-24T10:36:45-07:00
+lastmod = 2023-11-10T11:09:06-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = true
@@ -14,27 +14,7 @@ slug = "846cdec4-5f6c-4dd9-99a4-d30ea0b61180"
 > _(<a href="#citeproc_bib_item_1">“Passive House” 2022</a>)_
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 71.41    | 2023-11-03T02:27:52Z |
-| back     | 2.35 | 6   | 81.28    | 2023-11-16T20:38:02Z |
-
-[Passive house]({{< relref "passive_house.md" >}})
-
-
-#### Back {#back}
-
-A building standard which emphasizes energy efficiency via super-insulation, passive solar, air-tightness, and advanced window technology.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Passive House” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

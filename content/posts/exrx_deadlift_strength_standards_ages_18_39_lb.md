@@ -2,14 +2,14 @@
 title = "ExRx | Deadlift Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T11:02:00-07:00
-lastmod = 2023-09-24T10:09:35-07:00
+lastmod = 2023-11-10T10:44:20-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "64b0aa9b-de0d-4ebd-b899-fe85cbfad7a3"
 +++
 
-[ExRx]({{< relref "exrx.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
+[ExRx]({{< relref "exrx.md" >}}), (ExRx n.d.)
 
 
 ## Notes {#notes}
@@ -53,15 +53,6 @@ Numbers are in pounds.
 > | 199+        | 110       | 195    | 230          | 300      | 365   | 554          |
 
 In order for these standards to apply, knees, hips, and upper back must completely extend. See standards in [Kilograms](https://exrx.net/Testing/WeightLifting/DeadliftStandardsKg).
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>ExRx. n.d. “Deadlift Strength Standards (Ages 18-39, Lb).” Accessed July 6, 2023. <a href="https://exrx.net/Testing/WeightLifting/DeadliftStandards">https://exrx.net/Testing/WeightLifting/DeadliftStandards</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

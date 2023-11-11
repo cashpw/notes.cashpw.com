@@ -2,7 +2,7 @@
 title = "Contraction hierarchies"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T11:57:00-07:00
-lastmod = 2023-09-24T10:02:58-07:00
+lastmod = 2023-11-10T10:36:27-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -335,23 +335,6 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
     > (<a href="#citeproc_bib_item_5">Lazarsfeld n.d.-a</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 100.09   | 2023-11-16T17:18:03Z |
-
-[Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}}) speed up {{finding the shortest-path in a graph}@0}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Contraction Hierarchies” 2023</a>)
-
-
 ## Describe {#describe}
 
 | position | ease | box | interval | due                  |
@@ -376,7 +359,7 @@ A speed up method for calculating the shortest path between nodes in a graph bas
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-08-07T14:40:50Z |
+| front    | 2.50 | 0   | 0.00     | 2023-11-03T15:05:46Z |
 | back     | 2.5  | -1  | 0        | 2023-06-15T15:20:40Z |
 
 Node contraction in [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
@@ -410,7 +393,7 @@ Steps:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.5  | -1  | 0        | 2023-06-15T15:21:11Z |
+| 0        | 2.50 | 1   | 1.00     | 2023-09-27T15:27:09Z |
 | 1        | 2.5  | -1  | 0        | 2023-06-15T15:21:11Z |
 
 {{Node contraction}@0} is the process of {{finding shortcuts in a graph in [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})}@1}.
@@ -449,7 +432,7 @@ We contract \\(v\\) when the path \\(u, v, w\\) is the shortest path from \\(u\\
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 1   | 1.00     | 2023-06-21T14:48:39Z |
+| front    | 2.50 | 4   | 14.00    | 2023-11-17T14:20:49Z |
 | back     | 2.5  | -1  | 0        | 2023-06-15T15:49:21Z |
 
 How do we ensure \\(u, v, w\\) is the shortest path from \\(u\\) to \\(w\\)?
@@ -469,7 +452,7 @@ Perform a local [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 4   | 14.80    | 2023-09-05T08:02:06Z |
+| front    | 2.35 | 5   | 35.53    | 2023-11-10T20:11:49Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:05:25Z |
 
 How to extract the shortest path through an added shortcut?
@@ -489,7 +472,7 @@ We store a pointer to the interim vertex, \\(v\\), when we contract \\(u, v, w\\
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 15.55    | 2023-08-17T04:08:49Z |
+| front    | 2.20 | 0   | 0.00     | 2023-11-02T15:16:14Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:19:16Z |
 
 Heuristics for choosing the order to contract vertices.
@@ -497,8 +480,8 @@ Heuristics for choosing the order to contract vertices.
 
 #### Back {#back}
 
--   Edge difference
--   Contacted neighbors
+-   [Edge difference](#edge-difference)
+-   [Contracted neighbors](#contracted-neighbors)
 
 
 #### Source {#source}
@@ -510,7 +493,7 @@ Heuristics for choosing the order to contract vertices.
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 4   | 14.86    | 2023-09-20T12:05:54Z |
+| front    | 2.20 | 1   | 1.00     | 2023-10-01T08:01:11Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:22:44Z |
 
 Edge difference
@@ -624,7 +607,7 @@ Query phase
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2023-09-12T13:28:53Z |
+| 0        | 2.20 | 2   | 2.00     | 2023-11-01T14:52:43Z |
 | 1        | 2.5  | -1  | 0        | 2023-06-20T15:38:35Z |
 
 {{\\(G\_{up}\\)}@0}, a subgraph of \\(G\\), contains only edges from \\(v\\) to \\(w\\) {{where we contracted \\(w\\) **after** \\(v\\)}{condition}@1}
@@ -639,7 +622,7 @@ Query phase
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2023-09-13T12:36:52Z |
+| 0        | 2.50 | 2   | 2.00     | 2023-11-12T18:05:25Z |
 | 1        | 2.5  | -1  | 0        | 2023-06-20T15:39:08Z |
 
 {{\\(G\_{down}\\)}@0}, a subgraph of \\(G\\), contains only edges from \\(v\\) to \\(w\\) {{where we contracted \\(v\\) **before** \\(w\\)}{condition}@1}
@@ -654,7 +637,7 @@ Query phase
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 5   | 28.98    | 2023-10-06T13:50:08Z |
+| front    | 2.20 | 6   | 66.40    | 2024-01-15T02:01:16Z |
 | back     | 2.5  | -1  | 0        | 2023-06-20T15:42:14Z |
 
 How to unpack the shortest path from a shortcut
@@ -674,7 +657,7 @@ Store a pointer to the contracted node, \\(v\\), whenever we contract \\(u, v, w
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 5   | 37.37    | 2023-10-25T07:51:37Z |
+| front    | 2.20 | 0   | 0.00     | 2023-11-06T14:53:29Z |
 | back     | 2.5  | -1  | 0        | 2023-06-20T15:44:41Z |
 
 A path \\(u, \dots, w\\) around \\(v\\) with cost smaller than the cost of \\(u, v, w\\).
@@ -697,6 +680,9 @@ Contraction is {{iterative}{process}@0}
 #### Source {#source}
 
 (<a href="#citeproc_bib_item_1">“Contraction Hierarchies” 2023</a>)
+
+
+## Bibliography {#bibliography}
 
 ## References
 

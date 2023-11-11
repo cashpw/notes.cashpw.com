@@ -2,7 +2,7 @@
 title = "Fallacy of gray"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T10:32:00-08:00
-lastmod = 2023-09-24T10:10:04-07:00
+lastmod = 2023-11-10T10:44:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,36 +19,7 @@ The fallacy of gray is an assertion, in the face of a lack of a clear black and 
 >
 > I don't know if the Sophisticate's mistake has an official name, but I call it the Fallacy of Gray.
 >
-> (<a href="#citeproc_bib_item_1">Yudkowsky n.d.</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 188.23   | 2023-10-22T21:16:19Z |
-| back     | 2.95 | 7   | 286.79   | 2024-02-23T11:09:32Z |
-
-[Fallacy of gray]({{< relref "fallacy_of_gray.md" >}})
-
-
-#### Back {#back}
-
-The assertion that since nothing is black and white that all things are equal.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Yudkowsky n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Yudkowsky, Eliezer. n.d. “The Fallacy of Gray.” Accessed February 17, 2022. <a href="https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray">https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray</a>.</div>
-</div>
+> (Yudkowsky n.d.)
 
 
 ## Backlinks {#backlinks}

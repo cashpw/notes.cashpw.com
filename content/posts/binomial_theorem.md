@@ -2,7 +2,7 @@
 title = "Binomial theorem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-19T09:49:00-08:00
-lastmod = 2023-09-24T09:56:16-07:00
+lastmod = 2023-11-10T10:28:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,77 +31,7 @@ slug = "e3806f4b-94b7-443e-8e7e-278fe8a2781c"
 > (<a href="#citeproc_bib_item_1">“Binomial Theorem” 2023</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Equivalence {#equivalence}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 304.24   | 2024-06-09T06:28:48Z |
-| 1        | 1.30 | 4   | 7.71     | 2023-09-22T08:27:27Z |
-
-{{\\((x+y)^{n}\\)}@0} \\(=\\) {{\\(\sum \_{k=0}^{n}{n \choose k}x^{k}y^{n-k}\\)}{summation}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Binomial Theorem” 2023</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.75 | 8   | 95.42    | 2023-12-14T09:09:15Z |
-| back     | 2.20 | 7   | 207.64   | 2024-02-23T15:21:23Z |
-
-[Binomial theorem]({{< relref "binomial_theorem.md" >}})
-
-
-#### Back {#back}
-
-$$
-
-\begin{align}
-(x+y)^{n} &=\sum \_{k=0}^{n}{n \choose k}x^{n-k}y^{k} \\\\
-&=\sum \_{k=0}^{n}{n \choose k}x^{k}y^{n-k}
-\end{align}
-
-$$
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Binomial Theorem” 2023</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 203.58   | 2024-01-13T03:59:20Z |
-
-Relationship between the [Binomial theorem]({{< relref "binomial_theorem.md" >}}) and [Binomial coefficient]({{< relref "binomial_coefficient.md" >}})
-
-
-#### Back {#back}
-
-The [Binomial coefficient]({{< relref "binomial_coefficient.md" >}}) is the coefficient in the [Binomial theorem]({{< relref "binomial_theorem.md" >}})'s summation:
-
-$$
-
-\begin{align}
-(x+y)^{n} &=\sum \_{k=0}^{n}{n \choose k}x^{n-k}y^{k} \\\\
-&=\sum \_{k=0}^{n}{n \choose k}x^{k}y^{n-k}
-\end{align}
-
-$$
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Binomial Theorem” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 

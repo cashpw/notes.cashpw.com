@@ -2,7 +2,7 @@
 title = "Associative array"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T15:50:00-07:00
-lastmod = 2023-09-24T09:54:11-07:00
+lastmod = 2023-11-10T10:26:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,49 +16,7 @@ slug = "efd422ba-2509-48c9-b267-265f3c369462"
 > (<a href="#citeproc_bib_item_1">“Associative Array” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition (Computer science) {#definition--computer-science}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.50 | 8   | 232.83   | 2023-09-24T12:35:22Z |
-| front    | 1.90 | 8   | 215.48   | 2024-03-08T03:26:21Z |
-
-[Associative array]({{< relref "associative_array.md" >}})
-
-
-#### Back {#back}
-
-A [Abstract data type]({{< relref "abstract_data_type.md" >}}) that stores a collection of `key, value` pairs such that each possible key appears at most once in the collection.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Associative Array” 2022</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 5   | 34.21    | 2022-10-26T18:21:51Z |
-| back     | 2.65 | 4   | 17.36    | 2022-10-03T11:04:14Z |
-
-Common API of an [Associative array]({{< relref "associative_array.md" >}})
-
-
-#### Back {#back}
-
--   `lookup`
--   `remove`
--   `insert`
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Associative Array” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

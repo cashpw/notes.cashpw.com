@@ -2,14 +2,14 @@
 title = "Meaningful rest"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:53:00-07:00
-lastmod = 2023-09-24T10:30:30-07:00
+lastmod = 2023-11-10T11:04:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "ef6148e5-0f53-4535-89fa-1f67b3c557b7"
 +++
 
-[Meaningful rest]({{< relref "meaningful_rest.md" >}}) is a type of rest which leaves the individual feeling rejuvenated. It exists in contrast to default actions -- "the things that take no activation energy to start, the things [one] reflexively reaches for" (<a href="#citeproc_bib_item_2">Nanda n.d.-b</a>). [Be conscious of your defaults]({{< relref "be_concious_of_your_defaults.md" >}}).
+[Meaningful rest]({{< relref "meaningful_rest.md" >}}) is a type of rest which leaves the individual feeling rejuvenated. It exists in contrast to default actions -- "the things that take no activation energy to start, the things [one] reflexively reaches for" (Nanda n.d.). [Be conscious of your defaults]({{< relref "be_concious_of_your_defaults.md" >}}).
 
 The term is from [Neel Nanda | Post 29: Meaningful Rest]({{< relref "neel_nanda_post_29_meaningful_rest.md" >}}).
 
@@ -38,56 +38,6 @@ The term is from [Neel Nanda | Post 29: Meaningful Rest]({{< relref "neel_nanda_
 9.  Switch from sitting desk to standing desk
 10. If I'm working; taking any form of break where I let myself think about not-work
 11. Work out
-
-
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 322.49   | 2024-04-11T07:56:25Z |
-| back     | 3.10 | 7   | 511.95   | 2024-12-20T13:03:50Z |
-
-[Meaningful rest]({{< relref "meaningful_rest.md" >}})
-
-
-#### Back {#back}
-
-A type of rest which rejuvenates the individual.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Nanda n.d.-a</a>)
-
-
-### Compare and contrast {#compare-and-contrast}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 260.99   | 2024-01-17T23:15:54Z |
-
-[Meaningful rest]({{< relref "meaningful_rest.md" >}}) and default actions
-
-
-#### Back {#back}
-
--   Activities which provide [Meaningful rest]({{< relref "meaningful_rest.md" >}}) leaves one feeling rejuvenated but are usually less desirable when you're tired
--   Default actions are the rest activities you "reflexively reach for" but are also likely to be those which don't rejuvenate you
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Nanda n.d.-a</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nanda, Neel. n.d.-a. “Meaningful Rest.” Accessed May 23, 2021. <a href="https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest">https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d.-b. “Post 29: Meaningful Rest.” Neel Nanda. Accessed November 29, 2022. <a href="https://www.neelnanda.io/blog/29-meaningful-rest">https://www.neelnanda.io/blog/29-meaningful-rest</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

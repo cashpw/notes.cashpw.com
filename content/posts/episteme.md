@@ -2,7 +2,7 @@
 title = "Episteme"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T07:49:00-08:00
-lastmod = 2023-09-24T10:08:49-07:00
+lastmod = 2023-11-10T10:43:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -10,30 +10,6 @@ slug = "dc7e525e-967c-48e5-b1c5-d83394571cb5"
 +++
 
 > In philosophy, episteme is a term that refers to a principle system of understanding (i.e., knowledge), such as scientific knowledge or practical knowledge. The term comes from the Ancient Greek verb ἐπῐ́στᾰμαι, epístamai, meaning 'to know, to understand, to be acquainted with'. The term epistemology (the branch of philosophy concerning knowledge) is derived from episteme.
-
-
-## Flashcards {#flashcards}
-
-
-### Episteme {#episteme}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.45 | 8   | 37.81    | 2023-10-29T09:44:25Z |
-| back     | 2.65 | 7   | 263.16   | 2024-03-29T19:41:44Z |
-
-Refers to a principle system of understanding such as scientific or physical knowledge
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Episteme” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Episteme.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Episteme&oldid=1119185332">https://en.wikipedia.org/w/index.php?title=Episteme&#38;oldid=1119185332</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

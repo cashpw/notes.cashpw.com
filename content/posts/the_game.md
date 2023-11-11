@@ -2,7 +2,7 @@
 title = "The game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T09:43:00-07:00
-lastmod = 2023-09-24T10:50:43-07:00
+lastmod = 2023-11-10T11:21:46-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -18,9 +18,6 @@ Adjacent ideas:
 
 
 ## :noexport: {#noexport}
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

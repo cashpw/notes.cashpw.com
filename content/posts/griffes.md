@@ -2,14 +2,14 @@
 title = "Milan Griffes | (A)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T13:12:00-08:00
-lastmod = 2023-09-24T10:14:44-07:00
+lastmod = 2023-11-10T10:50:15-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "18745aec-fcd1-4dd5-a55f-73fdc409aacb"
 +++
 
-[Milan Griffes]({{< relref "milan_griffes.md" >}}), (<a href="#citeproc_bib_item_1">Griffes n.d.</a>)
+[Milan Griffes]({{< relref "milan_griffes.md" >}}), (Griffes n.d.)
 
 
 ## Summary {#summary}
@@ -31,15 +31,6 @@ I also notice that the author [includes (sometimes long) relevant quotes from li
 > I think basically anyone whose writing includes links to other work should include archived links alongside the original hyperlinks, if the writing is intended to be long-lived. (And if you're not trying to write long-lived content, what are you doing, even?)
 >
 > I was happy to see [Zuck](https://www.andzuck.com/people/peoplewhointerestme/) ([a](http://archive.fo/jPk3I)) &amp; [Guzey](https://guzey.com/why-we-underappreciate-technological-progress/) ([a](https://web.archive.org/web/20191013172904/https://guzey.com/why-we-underappreciate-technological-progress/)) using "(a)" notation in some of their recent work. Perhaps "(a)" will catch on!
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Griffes, Milan. n.d. “(A).” Flight From Perfection ·. Accessed September 17, 2020. <a href="https://www.flightfromperfection.com/(a).html">https://www.flightfromperfection.com/(a).html</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

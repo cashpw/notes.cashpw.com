@@ -2,7 +2,7 @@
 title = "Intrinsic value (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:43:00-08:00
-lastmod = 2023-09-24T10:19:49-07:00
+lastmod = 2023-11-10T10:56:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,27 +14,7 @@ slug = "04af40d8-212f-471a-acb7-8d68aabfa2ed"
 > (<a href="#citeproc_bib_item_1">“Intrinsic Value (Finance)” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.05 | 8   | 299.98   | 2024-06-16T12:49:10Z |
-| back     | 1.30 | 2   | 2.00     | 2023-09-23T14:18:36Z |
-
-[Intrinsic value (finance)]({{< relref "intrinsic_value.md" >}})
-
-
-#### Back {#back}
-
-The value of an asset calculated on simplified assumptions.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Intrinsic Value (Finance)” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -45,5 +25,5 @@ The value of an asset calculated on simplified assumptions.
 
 ## Backlinks {#backlinks}
 
--   [Theta (finance)]({{< relref "theta_finance.md" >}})
 -   [Option time value]({{< relref "time_value_finance.md" >}})
+-   [Theta (finance)]({{< relref "theta_finance.md" >}})

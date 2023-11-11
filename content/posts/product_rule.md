@@ -2,7 +2,7 @@
 title = "Product rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:18:00-08:00
-lastmod = 2023-09-24T10:38:55-07:00
+lastmod = 2023-11-10T11:11:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,61 +19,9 @@ slug = "d57fdb71-8ae6-4307-a255-bfeaeb50a5a9"
 >
 > The rule may be extended or generalized to products of three or more functions, to a rule for higher-order derivatives of a product, and to other contexts.
 >
-> (<a href="#citeproc_bib_item_1">“Product Rule” 2022</a>)
+> (“Product Rule” 2022)
 
 This is one of the rules of [Differentiation]({{< relref "differential_calculus.md" >}}).
-
-
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 198.39   | 2024-02-12T00:26:13Z |
-| back     | 2.50 | 7   | 225.54   | 2024-03-18T04:40:57Z |
-
-[Product rule]({{< relref "product_rule.md" >}})
-
-
-#### Back {#back}
-
-$$
-
-\begin{align}
-h(x) &= f(x)g(x) \\\\
-h'(x) &= f'(x)g(x)+f(x)g'(x)
-\end{align}
-
-$$
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Product Rule” 2022</a>)
-
-
-### Equivalence {#equivalence}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 208.42   | 2024-01-22T01:44:16Z |
-
-\\(h(x) = f(x)g(x)\\)
-
-\\(h'(x)=\\) {{\\(f'(x)g(x)+f(x)g'(x)\\)}@0}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Product Rule” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Product Rule.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Product_rule&oldid=1119757448">https://en.wikipedia.org/w/index.php?title=Product_rule&#38;oldid=1119757448</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

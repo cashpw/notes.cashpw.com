@@ -2,15 +2,12 @@
 title = "Daniel Delling"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-21T09:44:00-07:00
-lastmod = 2023-09-24T10:04:09-07:00
+lastmod = 2023-11-10T10:38:04-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "b8b4c6bf-6059-48ec-ad26-e8fe698fec46"
 +++
-
-## Flashcards {#flashcards}
-
 
 ## Backlinks {#backlinks}
 

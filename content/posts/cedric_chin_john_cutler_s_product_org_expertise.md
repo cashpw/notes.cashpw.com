@@ -2,14 +2,14 @@
 title = "Cedric Chin | John Cutler's Product Org Expertise"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:35:00-07:00
-lastmod = 2023-09-24T09:59:02-07:00
+lastmod = 2023-11-10T10:31:28-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "f064b5ef-9576-4957-8882-30ebe383d23d"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2021</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2021)
 
 
 ## Summary {#summary}
@@ -30,15 +30,6 @@ An example of the first two parts of [Applied cognitive task analysis]({{< relre
 > The second call went much better.
 >
 > I think the biggest mistake that I did was that I grossly underestimated the amount of time it would take to do the whole skill extraction exercise. I scheduled an hour for our first call, whereas a more appropriate length might've been two hours. In the end, we did two separate calls together, the first being 1.5 hours long, and the second two hours long. It's hard to say if these times are normal, but I wouldn't go below two hours in the future.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2021. “John Cutler’s Product Org Expertise.” Commoncog. August 10, 2021. <a href="https://commoncog.com/john-cutlers-product-expertise/">https://commoncog.com/john-cutlers-product-expertise/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

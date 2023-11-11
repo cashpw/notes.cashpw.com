@@ -2,7 +2,7 @@
 title = "Meaning of life"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:46:00-08:00
-lastmod = 2023-09-24T10:30:26-07:00
+lastmod = 2023-11-10T11:04:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,9 +14,6 @@ I agree with "There is no meaning to life -- it just is" but don't agree with th
 -   We can, should, and do invent our own meanings. These self-made meanings are "true" in every definition that matters.
 -   "Other people" ([John Green]({{< relref "john_green.md" >}}))
 -   [The challenge is to improve yourself]({{< relref "the_challenge_is_to_improve_yourself.md" >}})
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

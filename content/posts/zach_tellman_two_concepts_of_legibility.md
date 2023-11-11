@@ -2,14 +2,14 @@
 title = "Zach Tellman | Two Concepts of Legibility"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:23:00-08:00
-lastmod = 2023-09-24T10:57:33-07:00
+lastmod = 2023-11-10T11:28:27-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "28a5203c-a019-46d1-9bd9-f91a40f6945f"
 +++
 
-[Zach Tellman]({{< relref "zach_tellman.md" >}}), (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)
+[Zach Tellman]({{< relref "zach_tellman.md" >}}), (Tellman n.d.)
 
 
 ## Summary {#summary}
@@ -58,12 +58,3 @@ This dichotomy reminds me of [Unix philosophy]({{< relref "unix_philosophy.md" >
 > As we compose our abstractions, we must ensure we create, at regular intervals, interfaces which fully separate our upstream and downstream components. These interfaces not only delineate subgraphs which can be understood in isolation [[Black boxes]({{< relref "black_box.md" >}})], they represent decision points in our design process. From any given articulation point, we can branch off in a dozen different directions, perhaps even all at once. These are separate interpretations of what the interface represents, each of which can be considered or ignored in isolation.
 >
 > This is more easily said than done. Countless decisions go into every bit of software, but not all of them deserve to be enshrined as an interface. Once used, interfaces ossify. They allow the code on either side to drift apart, to lose consistency in idiom and purpose. If we don't expect an interface to require multiple interpretations, it shouldn't exist. To make the right decision, we must predict the future.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Two Concepts of Legibility.” Accessed November 11, 2022. <a href="https://ideolalia.com/essays/two-concepts-of-legibility.html">https://ideolalia.com/essays/two-concepts-of-legibility.html</a>.</div>
-</div>

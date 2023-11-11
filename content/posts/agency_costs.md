@@ -2,7 +2,7 @@
 title = "Agency costs"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T07:50:00-08:00
-lastmod = 2023-09-24T09:52:18-07:00
+lastmod = 2023-11-10T10:24:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,70 +21,7 @@ slug = "0cb1f49e-83a7-43ce-a32f-7ba772e7686c"
 -   [Residual costs]({{< relref "residual_costs.md" >}})
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 199.96   | 2023-12-31T23:40:11Z |
-| back     | 2.05 | 4   | 12.95    | 2023-09-24T11:41:01Z |
-
-[Agency costs]({{< relref "agency_costs.md" >}})
-
-
-#### Back {#back}
-
-The costs associated with the [Principle-agent problem]({{< relref "principle_agent_problem.md" >}})
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Agency Cost” 2022</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 319.31   | 2024-07-07T23:58:36Z |
-| back     | 2.80 | 6   | 150.84   | 2023-10-08T12:20:54Z |
-
-Why [Agency costs]({{< relref "agency_costs.md" >}}) exist
-
-
-#### Back {#back}
-
--   Misaligned [Incentive]({{< relref "incentive.md" >}}) structures
--   The agent generally has more information than the principal
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Agency Cost” 2022</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 7   | 210.56   | 2024-01-23T05:48:19Z |
-| back     | 2.20 | 5   | 29.86    | 2023-10-21T11:02:25Z |
-
-Types of [Agency costs]({{< relref "agency_costs.md" >}})
-
-
-#### Back {#back}
-
--   [Monitoring costs]({{< relref "monitoring_costs.md" >}}): Costs borne by principal
--   [Bonding costs]({{< relref "bonding_costs.md" >}}): Costs borne by agent
--   [Residual costs]({{< relref "residual_costs.md" >}}): Costs due to agent acts contrary to the best interest of their principal
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Agency Cost” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

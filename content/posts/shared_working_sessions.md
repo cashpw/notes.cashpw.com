@@ -2,7 +2,7 @@
 title = "Shared working sessions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T14:42:00-07:00
-lastmod = 2023-09-24T10:44:32-07:00
+lastmod = 2023-11-10T11:16:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,6 +18,3 @@ Related:
 -   Accountability
 -   Planning ahead / thinking about what you'll work on / mini-sprints
 -   Pomodoros
-
-
-## Flashcards {#flashcards}

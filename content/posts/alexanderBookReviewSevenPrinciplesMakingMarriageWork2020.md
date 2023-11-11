@@ -2,14 +2,14 @@
 title = "Scott Alexander | Book Review: The Seven Principles For Making Marriage Work"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:43:00-08:00
-lastmod = 2023-09-24T09:52:32-07:00
+lastmod = 2023-11-10T10:24:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "0bbaf0b3-afed-49e2-a5f5-61c0a0cff973"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2020</a>) , [The Seven Principles for Making Marriage Work](https://books.google.com/books?vid=ISBN9780609805794)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (Alexander 2020) , [The Seven Principles for Making Marriage Work](https://books.google.com/books?vid=ISBN9780609805794)
 
 
 ## Summary {#summary}
@@ -47,12 +47,3 @@ I enjoyed the personality that this essay had. A more direct essay could have st
 <!--quoteend-->
 
 > In marriage, as in other forms of politics, sometimes exit &gt; voice. Which is probably not something marriage counselors want to think about very much.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2020. “Book Review: The Seven Principles For Making Marriage Work.” Slate Star Codex. February 28, 2020. <a href="https://slatestarcodex.com/2020/02/27/book-review-the-seven-principles-for-making-marriage-work/">https://slatestarcodex.com/2020/02/27/book-review-the-seven-principles-for-making-marriage-work/</a>.</div>
-</div>

@@ -2,7 +2,7 @@
 title = "Standard deviation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:08:00-08:00
-lastmod = 2023-09-24T10:47:33-07:00
+lastmod = 2023-11-10T11:18:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,74 +16,7 @@ slug = "f4de9f04-053d-4602-a81a-c4118e6ee3c2"
 \\(\operatorname{stddev}(x) = \sqrt{\frac{1}{n} \sum\_{i = 1}^n (x\_i - \bar{x})^2}\\)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe (Statistics) {#describe--statistics}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.35 | 10  | 468.17   | 2024-10-11T05:51:17Z |
-| front    | 1.40 | 8   | 40.08    | 2023-10-15T17:16:27Z |
-
-[Standard deviation]({{< relref "standard_deviation.md" >}})
-
-
-#### Back {#back}
-
-A measure of the amount of variation or dispersion of a set of values.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Standard Deviation” 2022</a>)
-
-
-### Denotes {#denotes}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 8   | 305.88   | 2023-11-25T11:23:36Z |
-
--   {{\\(s\\)}@0}
-
-Sample [Standard deviation]({{< relref "standard_deviation.md" >}})
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Standard Deviation” 2022</a>)
-
-
-### Denotes {#denotes}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 8   | 272.47   | 2023-10-31T01:21:41Z |
-
--   {{\\(\sigma\\)}@0}
-
-Population [Standard deviation]({{< relref "standard_deviation.md" >}})
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Standard Deviation” 2022</a>)
-
-
-### Equivalence {#equivalence}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 7   | 236.36   | 2024-01-09T23:53:40Z |
-| 1        | 1.30 | 5   | 10.94    | 2023-09-30T22:29:41Z |
-
-{{\\(\operatorname{stddev}(x)\\)}@0} \\(=\\) {{\\(\sqrt{\frac{1}{n} \sum\_{i = 1}^n (x\_i - \bar{x})^2}\\)}{expression}@1}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Standard Deviation” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

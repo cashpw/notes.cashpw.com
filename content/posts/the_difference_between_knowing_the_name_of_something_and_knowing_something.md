@@ -2,7 +2,7 @@
 title = "The difference between knowing the name of something and knowing something"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-13T06:39:00-07:00
-lastmod = 2023-09-24T10:50:39-07:00
+lastmod = 2023-11-10T11:21:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,27 +16,7 @@ slug = "75f5bb46-04f2-4fdd-ae12-db9607773b98"
 > [Richard Feynman]({{< relref "richard_feynman.md" >}}), (<a href="#citeproc_bib_item_1">“Feynman’s ‘Knowing’ Anecdote” n.d.</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 84.99    | 2023-10-04T12:53:44Z |
-| back     | 2.50 | 6   | 94.72    | 2023-10-26T21:16:02Z |
-
-[The difference between knowing the name of something and knowing something]({{< relref "the_difference_between_knowing_the_name_of_something_and_knowing_something.md" >}})
-
-
-#### Back {#back}
-
-Knowledge enough to identify something isn't the same as understanding enough to explain it.
-
-
-#### Source {#source}
-
-[Richard Feynman]({{< relref "richard_feynman.md" >}})
+## Bibliography {#bibliography}
 
 ## References
 
@@ -47,6 +27,6 @@ Knowledge enough to identify something isn't the same as understanding enough to
 
 ## Backlinks {#backlinks}
 
+-   [Collector's fallacy]({{< relref "collector_s_fallacy.md" >}})
 -   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
--   [Collector's fallacy]({{< relref "collector_s_fallacy.md" >}})

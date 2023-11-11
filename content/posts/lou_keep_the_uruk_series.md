@@ -2,14 +2,14 @@
 title = "Lou Keep | The Uruk Series"
 author = ["Cash Weaver"]
 date = 2022-11-23T09:17:00-08:00
-lastmod = 2023-09-24T10:28:08-07:00
+lastmod = 2023-11-10T11:03:18-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "b04d5551-2eba-4095-aeb5-c14569f1c930"
 +++
 
-[Lou Keep]({{< relref "lou_keep.md" >}}), (<a href="#citeproc_bib_item_1">Keep 2017</a>)
+[Lou Keep]({{< relref "lou_keep.md" >}}), (Keep 2017)
 
 
 ## Summary {#summary}
@@ -19,12 +19,3 @@ slug = "b04d5551-2eba-4095-aeb5-c14569f1c930"
 
 
 ## Notes {#notes}
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Keep, Lou. 2017. “The Uruk Series.” sam[ ]zdat. November 20, 2017. <a href="https://samzdat.com/the-uruk-series/">https://samzdat.com/the-uruk-series/</a>.</div>
-</div>

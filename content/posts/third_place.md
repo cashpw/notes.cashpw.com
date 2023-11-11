@@ -2,7 +2,7 @@
 title = "Third place"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:48:00-07:00
-lastmod = 2023-09-24T10:51:58-07:00
+lastmod = 2023-11-10T11:22:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "34fb63b5-5a47-436f-b123-a1d6ffbf4fab"
 
 > In sociology, the third place refers to the social surroundings that are separate from the two usual social environments of home ("first place" [[First place]({{< relref "first_place.md" >}})]) and the workplace ("second place" [[Second place]({{< relref "second_place.md" >}})]). Examples of third places include churches, cafes, clubs, public libraries, bookstores or parks.
 >
-> (<a href="#citeproc_bib_item_1">“Third Place” 2022</a>)
+> (“Third Place” 2022)
 
 <!--quoteend-->
 
@@ -44,57 +44,7 @@ slug = "34fb63b5-5a47-436f-b123-a1d6ffbf4fab"
 >
 >     Occupants of third places will often have the same feelings of warmth, possession, and belonging as they would in their own homes. They feel a piece of themselves is rooted in the space, and gain spiritual regeneration by spending time there.
 >
-> (<a href="#citeproc_bib_item_1">“Third Place” 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 314.05   | 2024-04-11T02:19:55Z |
-| back     | 2.65 | 5   | 45.49    | 2023-10-14T02:53:06Z |
-
-[Third place]({{< relref "third_place.md" >}})
-
-
-#### Back {#back}
-
-A place for people to gather which is distinct from home and the workplace.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Third Place” 2022</a>)
-
-
-### Example(s) {#example--s}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 319.93   | 2024-05-10T15:43:21Z |
-| back     | 2.80 | 7   | 400.85   | 2024-09-12T11:46:21Z |
-
-[Third place]({{< relref "third_place.md" >}})
-
-
-#### Back {#back}
-
--   Barbershops
--   Libraries
--   Parks
--   Coffee shops
-
-
-#### Source {#source}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Third Place.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Third_place&oldid=1113017641">https://en.wikipedia.org/w/index.php?title=Third_place&#38;oldid=1113017641</a>.</div>
-</div>
+> (“Third Place” 2022)
 
 
 ## Backlinks {#backlinks}

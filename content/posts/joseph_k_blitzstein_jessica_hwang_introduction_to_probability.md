@@ -2,14 +2,14 @@
 title = "Joseph K. Blitzstein, Jessica Hwang | Introduction to Probability"
 author = ["Cash Weaver"]
 date = 2023-01-18T06:19:00-08:00
-lastmod = 2023-09-24T10:22:16-07:00
+lastmod = 2023-11-10T10:59:05-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "dcd814bd-4e7b-45e1-a53f-994dc334ff80"
 +++
 
-[Joseph Blitzstein]({{< relref "joseph_blitzstein.md" >}}), [Jessica Hwang]({{< relref "jessica_hwang.md" >}}), (<a href="#citeproc_bib_item_1">Blitzstein and Hwang 2019</a>)
+[Joseph Blitzstein]({{< relref "joseph_blitzstein.md" >}}), [Jessica Hwang]({{< relref "jessica_hwang.md" >}}), (Blitzstein and Hwang 2019)
 
 
 ## Summary {#summary}
@@ -629,12 +629,3 @@ slug = "dcd814bd-4e7b-45e1-a53f-994dc334ff80"
 
 
 #### Index {#index}
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Blitzstein, Joseph K., and Jessica Hwang. 2019. <i>Introduction to Probability</i>. Second edition. Boca Raton: Taylor &#38; Francis. <a href="https://projects.iq.harvard.edu/stat110">https://projects.iq.harvard.edu/stat110</a>.</div>
-</div>

@@ -2,14 +2,14 @@
 title = "Barbara Tipton | Great Ideas for Potters: Selected from over 30 Years of Readers' Suggestions"
 author = ["Cash Weaver"]
 date = 2023-09-13T14:01:00-07:00
-lastmod = 2023-09-24T09:54:49-07:00
+lastmod = 2023-11-10T10:27:18-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "a0e684dd-812d-4957-8a02-a926aa488286"
 +++
 
-[Barbara Tipton]({{< relref "barbara_tipton_great_ideas_for_potters_selected_from_over_30_years_of_readers_suggestions.md" >}}), (<a href="#citeproc_bib_item_1">Tipton 1983</a>)
+[Barbara Tipton]({{< relref "barbara_tipton_great_ideas_for_potters_selected_from_over_30_years_of_readers_suggestions.md" >}}), (Tipton 1983)
 
 <https://archive.org/details/greatideasforpot0000unse/page/n1/mode/2up>
 
@@ -49,12 +49,3 @@ slug = "a0e684dd-812d-4957-8a02-a926aa488286"
     <!--quoteend-->
 
     > **Centering with eyes closed** is a useful teaching exercise for beginning potters. It helps them to regocnize that centering is first a tactile and then a visual process.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tipton, Barbara, ed. 1983. <i>Great Ideas for Potters: Selected from over 30 Years of Readers’ Suggestions</i>. Columbus, Ohio: Ceramics monthly.</div>
-</div>

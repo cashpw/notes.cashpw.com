@@ -2,7 +2,7 @@
 title = "Ei Iwarmura"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T14:07:00-07:00
-lastmod = 2023-09-24T10:08:14-07:00
+lastmod = 2023-11-10T10:42:54-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -16,6 +16,3 @@ Among other things:
 -   [Personal website](https://www.en-iwamura.com/)
 -   [@eniwamura](https://instagram.com/eniwamura)
 -   [YouTube](https://www.youtube.com/channel/UCiJjYQgwpKzAMlZFND8G5lg)
-
-
-## Flashcards {#flashcards}

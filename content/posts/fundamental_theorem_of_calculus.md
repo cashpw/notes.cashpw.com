@@ -2,7 +2,7 @@
 title = "Fundamental theorem of calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:59:00-08:00
-lastmod = 2023-09-24T10:12:20-07:00
+lastmod = 2023-11-10T10:47:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,7 +43,7 @@ slug = "adda1031-550c-4f65-9384-1ee018532adc"
 
 > \\(\frac{d}{dx}(\int\_{\pi}^x \frac{\href{/posts/cosine}{\cos}^2t}{\ln(t-\sqrt{t})}dt) = \frac{\href{/posts/cosine}{\cos}^2x}{\ln(x-\sqrt{x})}\\)
 >
-> (<a href="#citeproc_bib_item_3">Khan Academy n.d.</a>)
+> (<a href="#citeproc_bib_item_2">Khan Academy n.d.</a>)
 
 
 ## Second part {#second-part}
@@ -65,135 +65,22 @@ slug = "adda1031-550c-4f65-9384-1ee018532adc"
 >
 > [paraphrased]
 >
-> (<a href="#citeproc_bib_item_1">“Fundamental Theorem of Calculus” 2022</a>), (<a href="#citeproc_bib_item_4">Khan Academy 2013</a>)
+> (<a href="#citeproc_bib_item_1">“Fundamental Theorem of Calculus” 2022</a>), (<a href="#citeproc_bib_item_3">Khan Academy 2013</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 413.86   | 2024-10-16T11:43:52Z |
-| 1        | 2.95 | 6   | 134.23   | 2023-09-21T21:20:05Z |
-| 2        | 2.65 | 6   | 128.84   | 2023-09-20T10:56:01Z |
-
-{{[Differentiation]({{< relref "differential_calculus.md" >}})}@0} is the {{inverse}@1} of {{[Integration]({{< relref "integral.md" >}})}@2}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Fundamental Theorem of Calculus” 2022</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.90 | 2   | 2.00     | 2023-09-21T23:51:39Z |
-| back     | 2.80 | 6   | 133.06   | 2023-09-16T19:09:48Z |
-
-[First fundamental theorem of calculus](#first-part)
-
-
-#### Back {#back}
-
-Given \\(f\\) is [continuous]({{< relref "continuous_function.md" >}}) over a [Closed interval]({{< relref "interval.md" >}}) \\([a,b]\\):
-
-\\(F(x) = \int\_a^x f(t)dt\\), where \\(x\\) is in \\([a,b]\\)
-
-$$
-
-\begin{align}
-\frac{dF}{dx} &= \frac{d}{dx}\int\_a^xf(t)dt = f(x)
-\frac{dF}{dx} &= f(x) \\\\
-F'(x) &= f(x)
-\end{align}
-
-$$
-
-
-#### Source {#source}
-
-[First fundamental theorem of calculus](#first-part)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 271.65   | 2024-04-25T06:34:50Z |
-| 1        | 2.20 | 4   | 12.86    | 2023-09-27T11:59:56Z |
-
-{{[Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})}@0} relates {{[Derivative (math)]({{< relref "derivative.md" >}}) and [Integral]({{< relref "integral.md" >}})}@1}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Fundamental Theorem of Calculus” 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 397.64   | 2024-10-19T14:23:22Z |
-| 1        | 2.65 | 7   | 263.13   | 2024-05-21T17:25:49Z |
-
-{{The [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})}@0} relates {{[Definite integral]({{< relref "integral.md" >}}) and [Differentiation]({{< relref "differential_calculus.md" >}})}@1}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Integral” 2023</a>)
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.90 | 7   | 89.71    | 2023-11-06T08:23:01Z |
-| back     | 2.35 | 4   | 15.50    | 2023-10-07T02:23:00Z |
-
-[Second fundamental theorem of calculus](#second-part)
-
-
-#### Back {#back}
-
-> Given:
->
-> -   \\(f\\) is [continuous]({{< relref "continuous_function.md" >}}) over a [Closed interval]({{< relref "interval.md" >}}) \\([c,d]\\)
-> -   \\(F(x) = \int\_c^x f(t)dt\\)
-> -   \\(c < a < b < d\\)
->
-> $$
->
-> \begin{align}
-> \int\_a^b f(t)dt &= \int\_c^b f(t)dt - \int\_c^a f(t)dt \\\\
-> &= F(b) - F(a)
-> \end{align}
->
-> $$
-
-
-#### Source {#source}
-
--   (<a href="#citeproc_bib_item_1">“Fundamental Theorem of Calculus” 2022</a>), (<a href="#citeproc_bib_item_4">Khan Academy 2013</a>)
--   [Second fundamental theorem of calculus](#second-part)
+## Bibliography {#bibliography}
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Fundamental Theorem of Calculus.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&oldid=1126224108">https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&#38;oldid=1126224108</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Integral.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Integral&oldid=1132922175">https://en.wikipedia.org/w/index.php?title=Integral&#38;oldid=1132922175</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Khan Academy. n.d. “The Fundamental Theorem of Calculus and Accumulation Functions.” Accessed January 27, 2023. <a href="https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-4/v/fundamental-theorem-of-calculus">https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-4/v/fundamental-theorem-of-calculus</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———, ed. 2013. <i>Fundamental Theorem of Calculus (Part 2) | AP Calculus AB | Khan Academy</i>. Directed by Khan Academy. <a href="https://www.youtube.com/watch?v=JbfVrwxuPxM">https://www.youtube.com/watch?v=JbfVrwxuPxM</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Khan Academy. n.d. “The Fundamental Theorem of Calculus and Accumulation Functions.” Accessed January 27, 2023. <a href="https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-4/v/fundamental-theorem-of-calculus">https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-4/v/fundamental-theorem-of-calculus</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———, ed. 2013. <i>Fundamental Theorem of Calculus (Part 2) | AP Calculus AB | Khan Academy</i>. Directed by Khan Academy. <a href="https://www.youtube.com/watch?v=JbfVrwxuPxM">https://www.youtube.com/watch?v=JbfVrwxuPxM</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Integral calculus]({{< relref "integral.md" >}})
--   [Calculus]({{< relref "calculus.md" >}})
 -   [Derivative (math)]({{< relref "derivative.md" >}})
+-   [Calculus]({{< relref "calculus.md" >}})

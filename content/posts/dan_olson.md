@@ -2,7 +2,7 @@
 title = "Dan Olson"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:27:00-08:00
-lastmod = 2023-09-24T10:04:06-07:00
+lastmod = 2023-11-10T10:37:59-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -12,9 +12,6 @@ slug = "cfeb6969-326d-4804-a08c-d232cbd40369"
 Among other things:
 
 -   [Folding Ideas on YouTube](https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ)
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

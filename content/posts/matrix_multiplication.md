@@ -2,7 +2,7 @@
 title = "Matrix multiplication"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T08:57:00-08:00
-lastmod = 2023-09-24T10:29:46-07:00
+lastmod = 2023-11-10T11:04:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,7 +48,7 @@ slug = "a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a"
 >
 > for \\(i = 1, \dots, m\\) and \\(j = 1, \dots, p\\).
 >
-> (<a href="#citeproc_bib_item_2">“Matrix Multiplication” 2023</a>)
+> (“Matrix Multiplication” 2023)
 
 
 ## Matrix multiplication as a linear combination {#matrix-multiplication-as-a-linear-combination}
@@ -110,7 +110,7 @@ slug = "a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a"
 >
 > If you look hard at the equation above and squint a bit, you can recognize this column-combination property by examining each column of the result matrix.
 >
-> (<a href="#citeproc_bib_item_1">Bendersky n.d.</a>)
+> (Bendersky n.d.)
 
 
 ### Left-multiplication: combination of rows {#left-multiplication-combination-of-rows}
@@ -159,174 +159,4 @@ slug = "a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a"
 >
 > {{< figure src="/ox-hugo/2023-02-03_09-54-42_matrowcomb.png" >}}
 >
-> (<a href="#citeproc_bib_item_1">Bendersky n.d.</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Equivalence {#equivalence}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 1.75 | 8   | 121.69   | 2023-11-18T06:15:28Z |
-
-For matrices, \\(A\\), \\(B\\), and \\(C = AB\\),
-
-\\(c\_{i,j}=\\) {{\\(\sum\limits\_{k = 1}^{n}a\_{i,k}b\_{k,j}\\)}@0}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Matrix Multiplication” 2023</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 3   | 6.00     | 2023-09-27T12:51:46Z |
-| back     | 2.35 | 7   | 207.89   | 2024-03-01T12:04:44Z |
-
-[Matrix multiplication]({{< relref "matrix_multiplication.md" >}}) as a [Linear combination]({{< relref "linear_combination.md" >}}) of rows
-
-
-#### Back {#back}
-
-"Left-to-right"
-
-\\[
-A\_{\ell\times n}B\_{n \times m} = \begin{pmatrix}
-A\_{\text{row}\\,0} \cdot \\{B\_{\text{row}\\,0}, \\;\dots\\;, B\_{\text{row}\\,m}\\} \\\\
-\vdots \\\\
-A\_{\text{row}\\,\ell}} \cdot \\{B\_{\text{row}\\,\ell}, \\;\dots\\;, B\_{\text{row}\\,m}\\} \\\\
-\end{pmatrix}
-\\]
-
-\\[
-(A\_{\ell\times n}B\_{n \times m})\_{\text{row}\\,i} &= A\_{\text{row}\\,i} \cdot \\{B\_{\text{row}\\,0}, \\;\dots\\;, B\_{\text{row}\\,m}\\}
-\\]
-
-$$
-
-\begin{align}
-\begin{pmatrix}
-a & b \\\\
-c & d \\\\
-\end{pmatrix} \begin{pmatrix}
-x\_1 & y\_1 \\\\
-x\_2 & y\_2 \\\\
-\end{pmatrix} &= \begin{pmatrix}
-A\_{\text{row 1}} \cdot \\{B\_{\text{row 1}}, B\_{\text{row 2}}\\} \\\\
-A\_{\text{row 2}} \cdot \\{B\_{\text{row 1}}, B\_{\text{row 2}}\\} \\\\
-\end{pmatrix} \\\\
-&= \begin{pmatrix}
-\begin{bmatrix}a , b\end{bmatrix} \cdot \\{\begin{bmatrix}x\_1, y\_1\end{bmatrix}, \begin{bmatrix}x\_2, y\_2\end{bmatrix} \\} \\\\
-\begin{bmatrix}c , d\end{bmatrix} \cdot \\{\begin{bmatrix}x\_1, y\_1\end{bmatrix}, \begin{bmatrix}x\_2, y\_2\end{bmatrix} \\} \\\\
-\end{pmatrix} \\\\
-&= \begin{pmatrix}
-a\begin{bmatrix}x\_1, y\_1\end{bmatrix} + b\begin{bmatrix}x\_2, y\_2\end{bmatrix} \\\\
-c\begin{bmatrix}x\_1, y\_1\end{bmatrix} + d\begin{bmatrix}x\_2, y\_2\end{bmatrix} \\\\
-\end{pmatrix} \\\\
-&= \begin{pmatrix}
-ax\_1 + bx\_2 & ay\_1 + by\_2 \\\\
-cx\_1 + dx\_2 & cy\_1 + dy\_2 \\\\
-\end{pmatrix}
-\end{align}
-
-$$
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Bendersky n.d.</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.90 | 4   | 12.11    | 2023-09-26T17:46:04Z |
-| back     | 2.50 | 6   | 89.01    | 2023-08-07T16:23:31Z |
-
-[Matrix multiplication]({{< relref "matrix_multiplication.md" >}}) as a [Linear combination]({{< relref "linear_combination.md" >}}) of columns
-
-
-#### Back {#back}
-
-"Right-to-left
-
-\\[
-A\_{\ell\times n}B\_{n \times m} = \begin{bmatrix}
-B\_{\text{col}\\,0} \cdot \\{A\_{\text{col}\\,0}, \\;\dots\\;, A\_{\text{col}\\,\ell}\\}, \cdots, B\_{\text{col}\\,m}} \cdot \\{A\_{\text{col}\\,m}, \\;\dots\\;, A\_{\text{col}\\,\ell}}
-\end{bmatrix}
-\\]
-
-\\[
-(A\_{\ell\times n}B\_{n \times m})\_{\text{col}\\,i} &= B\_{\text{col}\\,i} \cdot \\{A\_{\text{col}\\,0}, \\;\dots\\;, A\_{\text{col}\\,\ell}\\}
-\\]
-
-$$
-
-\begin{align}
-AB = \begin{pmatrix}
-x\_1 & y\_1 \\\\
-x\_2 & y\_2 \\\\
-\end{pmatrix} \begin{pmatrix}
-a & b \\\\
-c & d \\\\
-\end{pmatrix} &= \begin{pmatrix}
-\begin{bmatrix}a \\\ c\end{bmatrix} \cdot \\{\begin{bmatrix}x\_1 \\\ x\_2\end{bmatrix}, \begin{bmatrix}y\_1 \\\ y\_2\end{bmatrix} \\} \\\\
-\begin{bmatrix}b \\\ d\end{bmatrix} \cdot \\{\begin{bmatrix}x\_1 \\\ x\_2\end{bmatrix}, \begin{bmatrix}y\_1 \\\ y\_2\end{bmatrix} \\} \\\\
-\end{pmatrix} \\\\
-&= \begin{pmatrix}
-a\begin{bmatrix}x\_1, y\_1\end{bmatrix} + b\begin{bmatrix}x\_2, y\_2\end{bmatrix} \\\\
-c\begin{bmatrix}x\_1, y\_1\end{bmatrix} + d\begin{bmatrix}x\_2, y\_2\end{bmatrix} \\\\
-\end{pmatrix} \\\\
-&= \begin{pmatrix}
-ax\_1 + bx\_2 & ay\_1 + by\_2 \\\\
-cx\_1 + dx\_2 & cy\_1 + dy\_2 \\\\
-\end{pmatrix}
-\end{align}
-
-$$
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Bendersky n.d.</a>)
-
-
-### Equivalence {#equivalence}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 2   | 2.00     | 2023-09-19T23:00:19Z |
-
-\\((A\_{\ell\times n}B\_{n \times m})\_{\text{row}i}\\) \\(=\\) {{\\(A\_{\text{row}\\,i} \cdot \\{B\_{\text{row}\\,0}, \\;\dots\\;, B\_{\text{row}\\,m}\\}\\)}@0}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Bendersky n.d.</a>)
-
-
-### Equivalence {#equivalence}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 7   | 327.74   | 2024-08-12T17:44:44Z |
-
-\\((A\_{\ell\times n}B\_{n \times m})\_{\text{col}\\,i}\\) \\(=\\) {{\\(B\_{\text{col}\\,i} \cdot \\{A\_{\text{col}\\,0}, \\;\dots\\;, A\_{\text{col}\\,\ell}\\}\\)}@0}
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Bendersky n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Bendersky, Eli. n.d. “Visualizing Matrix Multiplication as a Linear Combination - Eli Bendersky’s Website.” Accessed February 3, 2023. <a href="https://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/">https://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Matrix Multiplication.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Matrix_multiplication&oldid=1134502867">https://en.wikipedia.org/w/index.php?title=Matrix_multiplication&#38;oldid=1134502867</a>.</div>
-</div>
+> (Bendersky n.d.)

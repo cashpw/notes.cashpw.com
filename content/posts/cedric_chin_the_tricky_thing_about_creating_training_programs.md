@@ -2,14 +2,14 @@
 title = "Cedric Chin | The Tricky Thing About Creating Training Programs"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:59:00-07:00
-lastmod = 2023-09-24T09:59:40-07:00
+lastmod = 2023-11-10T10:32:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "ae72b55b-09aa-4a94-b437-6a746845200d"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2021</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2021)
 
 
 ## Summary {#summary}
@@ -35,7 +35,7 @@ Good training programs for imparting [Tacit knowledge]({{< relref "tacit_knowled
 >
 > So we were essentially putting them in a position where they had to think through how they were going to be effective in placing an IED. Whether they were going to use a cellphone detonator, or … with another sort of IED, they had to think through 'When is the blue force convoy going to come through? What is the time of day right now? How can I disguise it? Where would be a good ambush zone?' All of those kinds of considerations that are happening in the real world.
 >
-> (<a href="#citeproc_bib_item_2">Naturalistic Decision Making 2020</a>)
+> (Naturalistic Decision Making 2020)
 
 
 ### Tennis serve detection {#tennis-serve-detection}
@@ -97,16 +97,6 @@ Good training programs for imparting [Tacit knowledge]({{< relref "tacit_knowled
 > 'Listen to the NDM podcast' happens to be my recommendation if you want to do the same. It strikes me as somewhat ironic: the best practitioners of tacit knowledge extraction have yet to explicate a coherent explanation of their training methods. You'd think that they would have a generalised framework for training by now. Or at least a review paper. And, again ... perhaps they have! Perhaps they have a review paper somewhere, but I haven't found it yet.
 >
 > I'll tell you if I do. Till then, the best that we have is casual consumption of the [NDM podcasts](https://naturalisticdecisionmaking.org/podcasts/). I recommend you join me in doing so. If you're as obsessed with learning as I am, I think you'll enjoy it as much as I do.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2021. “The Tricky Thing About Creating Training Programs.” Commoncog. May 18, 2021. <a href="https://commoncog.com/creating-training-programs/">https://commoncog.com/creating-training-programs/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Naturalistic Decision Making. 2020. “Episode \#4: Interview with Jennifer Phillips.” Listen Notes. May 6, 2020. <a href="https://www.listennotes.com/podcasts/naturalistic/episode-4-interview-with-5av4UMGzFPf/">https://www.listennotes.com/podcasts/naturalistic/episode-4-interview-with-5av4UMGzFPf/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

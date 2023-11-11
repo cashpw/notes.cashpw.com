@@ -2,7 +2,7 @@
 title = "First 100 days in a new software engineer role"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T20:08:00-07:00
-lastmod = 2023-09-24T10:10:34-07:00
+lastmod = 2023-11-10T10:45:32-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -67,6 +67,3 @@ Note that I'm counting working-days rather; so the first 100 days amounts to 20 
 ### References {#references}
 
 -   <https://code.dblock.org/2015/04/23/your-first-60-days-at-an-engineering-job.html>
-
-
-## Flashcards {#flashcards}

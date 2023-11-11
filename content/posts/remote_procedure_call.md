@@ -2,7 +2,7 @@
 title = "Remote procedure call"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:19:00-07:00
-lastmod = 2023-09-24T10:41:46-07:00
+lastmod = 2023-11-10T11:13:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,43 +14,7 @@ slug = "f85a49e5-6718-4da8-b325-22b23a44985f"
 > (<a href="#citeproc_bib_item_1">“Remote Procedure Call” 2023</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 7   | 266.56   | 2024-06-11T05:12:46Z |
-| back     | 2.50 | 7   | 226.02   | 2024-04-20T15:20:18Z |
-
-[Remote procedure call]({{< relref "remote_procedure_call.md" >}})
-
-
-#### Back {#back}
-
-A request-response protocol in which a client computer requests a remote computer execute a [Subroutine]({{< relref "subroutine.md" >}}) and respond to the client with the result
-
-The programmer writing the call doesn't have to explicitly code the details of the remote interaction! They code the call as if it were a local procedure call.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Remote Procedure Call” 2023</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.80 | 6   | 139.87   | 2023-11-01T21:36:44Z |
-
-The programmer making a [Remote procedure call]({{< relref "remote_procedure_call.md" >}}) {{doesn't}{yes/no}@0} has to deal with the details of the remote interaction.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Remote Procedure Call” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 

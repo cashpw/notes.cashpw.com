@@ -2,14 +2,14 @@
 title = "Breck Yunits | Write Thin to Write Fast"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:20:00-08:00
-lastmod = 2023-09-24T10:57:24-07:00
+lastmod = 2023-11-10T11:28:18-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "5f3247b2-ef62-4279-9794-4adeea0634c7"
 +++
 
-[Breck Yunits]({{< relref "breck_yunits.md" >}}), (<a href="#citeproc_bib_item_1">Yunits n.d.</a>)
+[Breck Yunits]({{< relref "breck_yunits.md" >}}), (Yunits n.d.)
 
 
 ## Thoughts {#thoughts}
@@ -24,12 +24,3 @@ I've seem content width discussed often when it comes to reading. A width of 72 
 <!--quoteend-->
 
 > Thinner columns help you read faster. Writing speed is dominated by reading speed. If you read faster, you write faster.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Yunits, Breck. n.d. “Write Thin to Write Fast.” Accessed February 7, 2022. <a href="https://breckyunits.com/write-thin-to-write-fast.html">https://breckyunits.com/write-thin-to-write-fast.html</a>.</div>
-</div>

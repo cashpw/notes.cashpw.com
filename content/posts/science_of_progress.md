@@ -2,7 +2,7 @@
 title = "Science of progress"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:34:00-08:00
-lastmod = 2023-09-24T10:43:05-07:00
+lastmod = 2023-11-10T11:15:01-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -12,9 +12,6 @@ slug = "3bbbacc5-9f55-4ded-abf5-d76ff0b5b8e2"
 -   [Patrick Collison, Tyler Cowen | We Need a New Science of Progress]({{< relref "patrick_collison_tyler_cowen_we_need_a_new_science_of_progress.md" >}})
 
 A [Science of X]({{< relref "science_of_x.md" >}}).
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

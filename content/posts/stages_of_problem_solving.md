@@ -2,7 +2,7 @@
 title = "Stages of problem solving"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:13:00-08:00
-lastmod = 2023-09-24T10:47:30-07:00
+lastmod = 2023-11-10T11:18:50-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -19,9 +19,6 @@ slug = "4dc60214-2e6b-45de-bed5-6e2fec793385"
 
 
 ## [Retrospective]({{< relref "retrospective.md" >}}) {#retrospective--retrospective-dot-md}
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

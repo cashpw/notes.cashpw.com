@@ -2,24 +2,24 @@
 title = "Scott Alexander | Book Review: Why We're Polarized"
 author = ["Cash Weaver"]
 date = 2023-01-11T14:54:00-08:00
-lastmod = 2023-09-24T10:43:24-07:00
+lastmod = 2023-11-10T11:15:17-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "8514d260-eb32-4b31-8559-6cd8990dfc06"
 +++
 
-[Ezra Klein]({{< relref "ezra_klein.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2021</a>)
+[Ezra Klein]({{< relref "ezra_klein.md" >}}), (Alexander 2021)
 
 
 ## Summary {#summary}
 
-Book review of (<a href="#citeproc_bib_item_2">Klein 2020</a>).
+Book review of (Klein 2020).
 
 
 ## Thoughts {#thoughts}
 
-While I haven't read (<a href="#citeproc_bib_item_2">Klein 2020</a>), this reivew leads me to the conclusion that it's a blown out version of [Ezra Klein | Why We Can't Build]({{< relref "ezra_klein_why_we_can_t_build.md" >}}).
+While I haven't read (Klein 2020), this reivew leads me to the conclusion that it's a blown out version of [Ezra Klein | Why We Can't Build]({{< relref "ezra_klein_why_we_can_t_build.md" >}}).
 
 
 ## Notes {#notes}
@@ -71,13 +71,3 @@ While I haven't read (<a href="#citeproc_bib_item_2">Klein 2020</a>), this reive
 <!--quoteend-->
 
 > This hit basically the notes a book like this should hit, but I don't feel too much more enlightened about Why We're Polarized.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2021. “Book Review: Why We’re Polarized.” Substack newsletter. Astral Codex Ten. February 9, 2021. <a href="https://astralcodexten.substack.com/p/book-review-why-were-polarized">https://astralcodexten.substack.com/p/book-review-why-were-polarized</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Klein, Ezra. 2020. <i>Why We’re Polarized</i>. First Avid Reader Press hardcover edition. New York: Avid Reader Press, an imprint of Simon &#38; Schuster, Inc.</div>
-</div>

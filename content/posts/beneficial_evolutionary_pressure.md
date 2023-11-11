@@ -2,7 +2,7 @@
 title = "Beneficial evolutionary pressure"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T10:16:00-07:00
-lastmod = 2023-09-24T09:55:16-07:00
+lastmod = 2023-11-10T10:27:45-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -17,9 +17,6 @@ Related:
 
 
 ## Is there a better name for this concept? {#is-there-a-better-name-for-this-concept}
-
-
-## Flashcards {#flashcards}
 
 
 ## Backlinks {#backlinks}

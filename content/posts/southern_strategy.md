@@ -2,7 +2,7 @@
 title = "Southern strategy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-13T08:02:00-08:00
-lastmod = 2023-09-24T10:46:44-07:00
+lastmod = 2023-11-10T11:18:05-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,39 +11,10 @@ slug = "04893c03-a45f-4719-9404-ac09b32a5edb"
 
 > In American politics, the Southern strategy was a Republican Party electoral strategy to increase political support among white voters in the South by appealing to racism against African Americans.
 
-(<a href="#citeproc_bib_item_1">“Southern Strategy” 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 7   | 291.85   | 2024-02-19T12:09:47Z |
-| back     | 2.80 | 7   | 266.65   | 2024-02-25T20:07:07Z |
-
-[Southern strategy]({{< relref "southern_strategy.md" >}})
-
-
-#### Back {#back}
-
-A political plan which sought to increase political support among white voters in the American South by appealing to racism against black people.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Southern Strategy” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Southern Strategy.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Southern_strategy&oldid=1121239161">https://en.wikipedia.org/w/index.php?title=Southern_strategy&#38;oldid=1121239161</a>.</div>
-</div>
+(“Southern Strategy” 2022)
 
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
 -   [You're getting so abstract]({{< relref "you_re_getting_so_abstract.md" >}})
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})

@@ -2,19 +2,19 @@
 title = "Scott Alexander | Book Review: The Secret Of Our Success"
 author = ["Cash Weaver"]
 date = 2023-01-09T09:54:00-08:00
-lastmod = 2023-09-24T10:43:21-07:00
+lastmod = 2023-11-10T11:15:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "cb2c8f33-41ee-457c-805a-27ccec7ba2c3"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2019</a>)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (Alexander 2019)
 
 
 ## Summary {#summary}
 
-A book review and summary of the key points in (<a href="#citeproc_bib_item_2">Henrich 2016</a>).
+A book review and summary of the key points in (Henrich 2016).
 
 
 ## Thoughts {#thoughts}
@@ -265,30 +265,6 @@ See [Joseph Patrick Henrich | The Secret of Our Success]({{< relref "joseph_patr
 > Third, a sense of how traditions contain the meta-tradition of defending themselves against Reason, and a sense for why this is necessary.
 >
 > And fourth, maybe we're not at the point where we really want unique contributions yet. Maybe we're still at the point where we have to have this hammered in by more and more examples. The temptation is always to say "Ah, yes, a few simple things like taboos against eating poisonous plants may be relics of cultural evolution, but obviously by now we're at the point where we know which traditions are important vs. random looniness, and we can rationally stick to the important ones while throwing out the garbage." And then somebody points out to you that actually divination using oracle bones was one of the important traditions, and if you thought you knew better than that and tried to throw it out, your civilization would falter.
-
-
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 272.87   | 2024-04-05T21:07:04Z |
-
-For basically all of history, using reason could {{get you killed}@0}.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Alexander 2019</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Book Review: The Secret Of Our Success.” Slate Star Codex. June 5, 2019. <a href="https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/">https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Henrich, Joseph Patrick. 2016. <i>The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter</i>. Princeton: Princeton University Press.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Don't make me think"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:44:00-07:00
-lastmod = 2023-09-24T10:07:07-07:00
+lastmod = 2023-11-10T10:41:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -12,34 +12,11 @@ slug = "335314f6-0958-4d7e-a0bd-76b83bee3044"
 > [...] a good software program or web site should let users accomplish their intended tasks as easily and directly as possible. Krug points out that people are good at satisficing, or taking the first available solution to their problem, so design should take advantage of this.
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 85.04    | 2023-11-03T01:35:43Z |
-| back     | 2.35 | 6   | 92.78    | 2023-11-26T09:55:52Z |
-
-[Don't make me think]({{< relref "don_t_make_me_think.md" >}})
-
-
-#### Back {#back}
-
-A product, service, solution, etc, should allow its users to accomplish their intended tasks as easily and directly as possible.
-
-You should set up the correct way to do X to also be the most obvious, simplest, way to do X.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Don’t Make Me Think” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Don’t Make Me Think.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Don%27t_Make_Me_Think&oldid=1134816680">https://en.wikipedia.org/w/index.php?title=Don%27t_Make_Me_Think&#38;oldid=1134816680</a>.</div>
 </div>
 
 

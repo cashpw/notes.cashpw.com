@@ -2,19 +2,19 @@
 title = "Scott Alexander | Book Review: Seeing Like A State"
 author = ["Cash Weaver"]
 date = 2023-01-09T08:06:00-08:00
-lastmod = 2023-09-24T10:43:17-07:00
+lastmod = 2023-11-10T11:15:10-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "e1b0e31a-4039-4b09-8dbd-8c3587562cca"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2017</a>)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (Alexander 2017)
 
 
 ## Summary {#summary}
 
-A book review and summary of the key points in (<a href="#citeproc_bib_item_2">Scott 2020</a>).
+A book review and summary of the key points in (Scott 2020).
 
 
 ## Thoughts {#thoughts}
@@ -50,7 +50,7 @@ See [James C. Scott | Seeing like a State: How Certain Schemes to Improve the Hu
 
 ### II {#ii}
 
-Examples and quotes from (<a href="#citeproc_bib_item_2">Scott 2020</a>) illustrating the difficulty of ruling/administering a population which lacks certain shared standards (e.g. weights, measures, definitions of what is "taxable land").
+Examples and quotes from (Scott 2020) illustrating the difficulty of ruling/administering a population which lacks certain shared standards (e.g. weights, measures, definitions of what is "taxable land").
 
 
 ### III {#iii}
@@ -168,18 +168,6 @@ In short, governing bodies continued (and continue) to push these solutions not 
 > [...]
 >
 > So fine, Scott is completely right here. But I'm only bringing this up because it's something I've already thought about. If I didn't already believe this, I'd be indifferent between applying the narrative of the wise Tanzanian farmers knowing more than their English colonizers, versus the narrative of the dumb yokels who refuse to get vaccines because they might cause autism. Heuristics work until they don't. Scott provides us with these great historical examples of local knowledge outdoing scientific acumen, but other stories present us with great historical examples of the opposite, and when to apply which heuristic seems really unclear. Even "don't bulldoze civil society and try to change everything at once" goes astray sometimes; the Meiji Restoration was wildly successful by doing exactly that.
-
-
-## Flashcards {#flashcards}
-
-See [James C. Scott | Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}}).
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2017. “Book Review: Seeing Like A State.” Slate Star Codex. March 16, 2017. <a href="https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/">https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Scott, James C. 2020. <i>Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed</i>. Veritas paperback edition. New Haven: Yale University Press.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

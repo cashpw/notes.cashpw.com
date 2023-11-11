@@ -2,14 +2,14 @@
 title = "Leo Babauta | Reset Ritual to Come Back to Focus"
 author = ["Cash Weaver"]
 date = 2023-03-03T10:56:00-08:00
-lastmod = 2023-09-24T10:25:50-07:00
+lastmod = 2023-11-10T11:01:48-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "b785c042-ed23-44c0-b25a-91294ed9b8d0"
 +++
 
-[Leo Babauta]({{< relref "leo_babauta.md" >}}), (<a href="#citeproc_bib_item_1">Babauta 2022</a>)
+[Leo Babauta]({{< relref "leo_babauta.md" >}}), (Babauta 2022)
 
 > One of the most common problems when people are working is that they get caught up in busywork or distractions, and it can take hours before they find their way back to their meaningful work.
 >
@@ -28,15 +28,6 @@ slug = "b785c042-ed23-44c0-b25a-91294ed9b8d0"
 > This kind of ritual is simple but it incorporates movement and breath, and asks you to check in on what's important, throughout the day. This allows us to reset when we inevitably get pulled away.
 >
 > Sometimes I forget to set a reminder, but I have other cues to help me remember to do the ritual: if my body starts to feel stiff, if I've been doing certain distractions for more than a few minutes, if I've been doing busywork for more than 10 minutes. If any of those are true, I do the Reset Ritual.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Babauta, Leo. 2022. “Reset Ritual to Come Back to Focus.” zen habits. April 21, 2022. <a href="https://zenhabits.net/reset-ritual/">https://zenhabits.net/reset-ritual/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

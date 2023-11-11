@@ -2,14 +2,14 @@
 title = "Strongerfastr | Glute Progression"
 author = ["Cash Weaver"]
 date = 2023-07-06T07:57:00-07:00
-lastmod = 2023-09-24T10:48:19-07:00
+lastmod = 2023-11-10T11:19:31-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "2bc83429-7754-4451-aabf-a8823801195d"
 +++
 
-(<a href="#citeproc_bib_item_1">Strongerfastr n.d.</a>)
+(Strongerfastr n.d.)
 
 
 ## Summary {#summary}
@@ -89,12 +89,3 @@ slug = "2bc83429-7754-4451-aabf-a8823801195d"
 > A closer chair/bench shifts focus from the hamstring to glute.
 >
 > {{< figure src="/ox-hugo/2023-07-06_08-02-33_hq_thumb_fe6acd76ab1107c9bc5f24f325ad6df7-1508215560.jpg" >}}
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Strongerfastr. n.d. “Glute Progression.” Accessed July 6, 2023. <a href="https://www.strongrfastr.com/exercise_progressions/3">https://www.strongrfastr.com/exercise_progressions/3</a>.</div>
-</div>

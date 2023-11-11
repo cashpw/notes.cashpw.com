@@ -2,7 +2,7 @@
 title = "3sum solution in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T16:26:00-08:00
-lastmod = 2023-09-24T09:50:40-07:00
+lastmod = 2023-11-10T10:22:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -53,28 +53,6 @@ print(three_sum([2,3,4,5,-6], 0), 'should be [2,4,-6]')
 print(three_sum([2,3,4,2,2], 6), 'should be [2,2,2]')
 print(three_sum([2,3,4,5,2], 6), 'should be None')
 ```
-
-
-## Flashcards {#flashcards}
-
-
-### Solve {#solve}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 79.22    | 2023-12-06T04:24:09Z |
-
-Given a list of real numbers, `nums`, and a target value, `target`: return a list of three elements in `nums` which sum to `target`.
-
-
-#### Back {#back}
-
-[3sum solution in Python]({{< relref "3sum_solution_in_python.md" >}})
-
-
-#### Source {#source}
-
-[3sum solution in Python]({{< relref "3sum_solution_in_python.md" >}})
 
 
 ## Backlinks {#backlinks}

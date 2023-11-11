@@ -2,7 +2,7 @@
 title = "The right path? No. The only path? Yes."
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-28T15:19:00-07:00
-lastmod = 2023-09-24T10:51:15-07:00
+lastmod = 2023-11-10T11:22:16-08:00
 tags = ["hastodo", "quote", "hastodo", "quote"]
 categories = ["hastodo", "quote"]
 draft = false
@@ -16,4 +16,6 @@ slug = "13a2caaf-0e86-44b0-8500-11a9e2ffa5f3"
 > [How Liberty Dies: The Politics of Star Wars](https://youtube.com/watch?v=-TSqjRgh2ZY&t=3005s)
 
 
-## Flashcards {#flashcards}
+## Backlinks {#backlinks}
+
+-   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})

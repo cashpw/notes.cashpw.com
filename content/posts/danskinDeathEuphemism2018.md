@@ -2,14 +2,14 @@
 title = "Ian Danskin | The Death of a Euphemism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T20:19:00-07:00
-lastmod = 2023-09-24T10:04:33-07:00
+lastmod = 2023-11-10T10:38:35-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "42c2aa22-7172-4a1e-a707-e3dc0f3c2684"
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2018</a>)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (Danskin 2018)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -52,18 +52,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 > A sad truth about humans is they will often accept almost any justification to keep doing whatever they're already doing [[Cognitive dissonance]({{< relref "cognitive_dissonance.md" >}})]. If someone has spent years favoring border security - they've voted for it, their taxes have paid for it, maybe they've even called ICE on someone - and one day you tell them, "Keep doing what you're doing, but, by the way, it's not about jobs anymore, now it's about keeping Mexicans out," a lot of them will roll with it. We like to think action follows belief, and sometimes it does, but at least as often it's the reverse. And that's a dangerous thing when given the choice to do something different or do the same thing only more.
 >
 > To the Far Right, a euphemism is like a calf: something to be brought into this world or inherited, removed from its original context, raised to adolescence, and then slaughtered when the time is right. Historically, the first sign that things are about to get a lot worse for minorities is when the racism stops being euphemistic.
-
-
-## Flashcards {#flashcards}
-
-
-### [Death of a euphamism]({{< relref "the_death_of_a_euphamism.md" >}}) {#death-of-a-euphamism--the-death-of-a-euphamism-dot-md}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2018. “The Death of a Euphemism.” Tumblr. Innuendo Studios. May 31, 2018. <a href="https://innuendostudios.tumblr.com/post/174432447847/the-newest-installment-of-the-alt-right-playbook">https://innuendostudios.tumblr.com/post/174432447847/the-newest-installment-of-the-alt-right-playbook</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

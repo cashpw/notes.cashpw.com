@@ -2,7 +2,7 @@
 title = "Unix philosophy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:46:00-08:00
-lastmod = 2023-09-24T10:54:35-07:00
+lastmod = 2023-11-10T11:25:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,27 +14,7 @@ slug = "4ab64054-a7a8-432e-bd5b-da1d8a01ae16"
 > (<a href="#citeproc_bib_item_1">“Unix Philosophy” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.20 | 7   | 188.10   | 2023-11-04T21:01:10Z |
-| back     | 2.50 | 7   | 251.92   | 2024-01-31T18:40:59Z |
-
-[Unix philosophy]({{< relref "unix_philosophy.md" >}})
-
-
-#### Back {#back}
-
--   Emphasizing simple, compact, clear, [Composable]({{< relref "composability.md" >}}), and extensible code
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Unix Philosophy” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

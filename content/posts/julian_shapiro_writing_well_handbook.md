@@ -2,7 +2,7 @@
 title = "Julian Shapiro | Writing Well Handbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:13:00-08:00
-lastmod = 2023-09-24T10:22:44-07:00
+lastmod = 2023-11-10T10:59:28-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -44,7 +44,7 @@ A great guide to writing in [Julian Shapiro]({{< relref "julian_shapiro.md" >}})
 >
 >     If you do interesting things then write about them publicly with an authentic voice, like-minded people want to meet the person behind that voice. Writing is a bat signal for your people.
 >
-> (<a href="#citeproc_bib_item_1">Shapiro n.d.-a</a>), formatting mine
+> (Shapiro n.d.-a), formatting mine
 
 
 ### What to Write About {#what-to-write-about}
@@ -60,7 +60,7 @@ A great guide to writing in [Julian Shapiro]({{< relref "julian_shapiro.md" >}})
 > 4.  Elegant articulations — "Beautiful. I couldn't have said it better myself."
 > 5.  Make someone feel seen — "Yes! That's exactly how I feel!"
 >
-> (<a href="#citeproc_bib_item_4">Shapiro n.d.-d</a>)
+> (Shapiro n.d.-d)
 
 <!--quoteend-->
 
@@ -70,7 +70,7 @@ A great guide to writing in [Julian Shapiro]({{< relref "julian_shapiro.md" >}})
 >
 > If the right objective and motivation combo isn't coming right away, that's okay. Start writing like you would in a diary to uncover what's in the back of your head. As you write, a clear objective will eventually emerge. At that time, do a full rewrite with your clear objective as your guiding light.
 >
-> (<a href="#citeproc_bib_item_4">Shapiro n.d.-d</a>)
+> (Shapiro n.d.-d)
 
 
 #### Write an intro {#write-an-intro}
@@ -105,7 +105,7 @@ A great guide to writing in [Julian Shapiro]({{< relref "julian_shapiro.md" >}})
 > -   Explore the problem's significance.
 > -   Tease a clever solution.
 >
-> (<a href="#citeproc_bib_item_4">Shapiro n.d.-d</a>)
+> (Shapiro n.d.-d)
 
 
 #### Combat skepticism {#combat-skepticism}
@@ -130,7 +130,7 @@ A great guide to writing in [Julian Shapiro]({{< relref "julian_shapiro.md" >}})
 >
 > If you successfully hook readers while neutralizing their skepticism, you generate goodwill: now they're invested in reading the rest of your post.
 >
-> (<a href="#citeproc_bib_item_4">Shapiro n.d.-d</a>)
+> (Shapiro n.d.-d)
 
 
 #### Integrate feedback {#integrate-feedback}
@@ -143,7 +143,7 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 >
 > I pick and choose the responses that resonate with me. This is how I de-risk my post from lacking novelty: Am I headed in a direction that's maximally interesting?
 >
-> (<a href="#citeproc_bib_item_4">Shapiro n.d.-d</a>)
+> (Shapiro n.d.-d)
 
 <!--quoteend-->
 
@@ -155,7 +155,7 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 > -   It conveys the importance of the idea so that readers want to hear the rest of the story. It twisted the knife enough to help readers feel the pain you're speaking to.
 > -   It's concise. Readers don't want all the details; they want the minimum needed to be teased by your novelty in a way that resonates.
 >
-> (<a href="#citeproc_bib_item_4">Shapiro n.d.-d</a>)
+> (Shapiro n.d.-d)
 
 
 ### Writing First Drafts {#writing-first-drafts}
@@ -164,13 +164,13 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 >
 > That's the irony of self-indulgent writing: writing for yourself is the quickest path to writing something others love.
 >
-> (<a href="#citeproc_bib_item_5">Shapiro n.d.-e</a>)
+> (Shapiro n.d.-e)
 
 <!--quoteend-->
 
 > The mistake writers make is believing expertise is required to write compelling nonfiction. Nope, it's the rabid desire to indulge your curiosity.
 >
-> (<a href="#citeproc_bib_item_5">Shapiro n.d.-e</a>)
+> (Shapiro n.d.-e)
 
 <!--quoteend-->
 
@@ -179,7 +179,7 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 > -   How can I make this point more convincing?
 > -   What are the interesting implications of what I just said?
 >
-> (<a href="#citeproc_bib_item_5">Shapiro n.d.-e</a>)
+> (Shapiro n.d.-e)
 
 <!--quoteend-->
 
@@ -197,7 +197,7 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 >
 > For a writing guide such as this, I might conclude by sharing bloggers whose work I enjoy. Then I might urge you to reverse engineer their articles and study what makes them great. That's how you continue your learning.
 >
-> (<a href="#citeproc_bib_item_5">Shapiro n.d.-e</a>)
+> (Shapiro n.d.-e)
 
 <!--quoteend-->
 
@@ -206,7 +206,7 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 > -   Don't feel constrained by your outline. Expect to discover most of your ideas throughout the writing process.
 > -   Trust that what interests you is what interests your readers. If not, target an audience more like yourself.
 >
-> (<a href="#citeproc_bib_item_5">Shapiro n.d.-e</a>)
+> (Shapiro n.d.-e)
 
 
 ### Rewriting and Editing {#rewriting-and-editing}
@@ -224,7 +224,7 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 >
 > In short, your first draft is to extract novel ideas out of your brain. Your second draft is to rewrite those ideas so they resonate.
 >
-> (<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
+> (Shapiro n.d.-c)
 
 
 #### Goal: Be understood {#goal-be-understood}
@@ -240,7 +240,7 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 > -   You use plain phrasing.
 > -   You use fewer ideas per sentence.
 >
-> (<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
+> (Shapiro n.d.-c)
 
 This reminds me of [Freddish]({{< relref "freddish.md" >}}), though it's aimed at a much younger audience.
 
@@ -270,7 +270,7 @@ This reminds me of [Freddish]({{< relref "freddish.md" >}}), though it's aimed a
     >
     > That loses the point of why news companies are not doing well. Simplify your sentences without removing the nuances.
     >
-    > (<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
+    > (Shapiro n.d.-c)
 
     I think it's possible to over-index on the "make it concrete" aspect of this advice. I worry someone reading the second sentence may walk away with the mistaken understanding that Twitter is the sole driving force behind commodity journalism.
 
@@ -282,7 +282,7 @@ This reminds me of [Freddish]({{< relref "freddish.md" >}}), though it's aimed a
     >
     > Rewritten — "It's common to be a smart person who's unaware of what's going on. I recommend writing down the frameworks your team uses to make big decisions. Then, when a colleague proposes an idea that doesn't intuitively make sense to you, think through their idea using their own frameworks. Work from there to build empathy and have a constructive dialogue."
     >
-    > (<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
+    > (Shapiro n.d.-c)
 
     I read the "Bad paragraph" to be discussing how inter-personal and corporate politics influence an organization. The "Intelligent but inexperienced" operator would be one who knows how to do their tasks well but doesn't know [The game]({{< relref "the_game.md" >}}). As an example: They may, without intending to, make another coworker look foolish and thereby make an enemy.
 
@@ -304,7 +304,7 @@ This reminds me of [Freddish]({{< relref "freddish.md" >}}), though it's aimed a
     >
     > "There's plenty of research on gut bacteria. We're quickly learning which roles gut bacteria play and how they interact with each other. Researchers want to better understand how these bacteria can affect our overall health."
     >
-    > (<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
+    > (Shapiro n.d.-c)
 
     "There's plenty of research" may read to some as "There is enough/sufficient research".
 
@@ -318,7 +318,7 @@ This reminds me of [Freddish]({{< relref "freddish.md" >}}), though it's aimed a
     > -   If you make your examples fun and topical, readers pay more attention.
     > -   Examples with many moving parts should possibly be turned into diagrams.
     >
-    > (<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
+    > (Shapiro n.d.-c)
 
 
 #### Goal: Be concise {#goal-be-concise}
@@ -346,14 +346,14 @@ Also see:
 > -   How can I make this point more convincing?
 > -   What are the interesting implications of what I just said?
 >
-> (<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
+> (Shapiro n.d.-c)
 
 
 #### Feedback {#feedback}
 
 > Getting feedback is the most efficient way to improve your writing. This is not optional. Giving feedback is as important: giving it to others forces you to internalize the learnings from this handbook.
 >
-> (<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
+> (Shapiro n.d.-c)
 
 <!--quoteend-->
 
@@ -371,7 +371,7 @@ Also see:
 >
 > Do not waste time striving for 9+. One reader's 9 is not the same as another's, so trying to satisfy everyone results in a bloated post that satisfies no one. There are many great ways to tell a story, so be happy when you've found one that works.
 >
-> (<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
+> (Shapiro n.d.-c)
 
 I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't meaningfully different from their 6/10. Perhaps a 1-5 scale?
 
@@ -381,7 +381,7 @@ I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't mean
 >
 > Take it from the world's most successful hyper-prolific writer, Stephen King: he shoves his manuscript into a drawer for six weeks before writing his final draft. When he re-opens it, he sees its flaws with fresh eyes.
 >
-> (<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
+> (Shapiro n.d.-c)
 
 
 ### Writing Style {#writing-style}
@@ -405,7 +405,7 @@ I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't mean
 >
 > The antidote to inauthenticity is reminding yourself how you talk with friends. Record yourself talking, transcribe it, and work from that.
 >
-> (<a href="#citeproc_bib_item_6">Shapiro n.d.-f</a>)
+> (Shapiro n.d.-f)
 
 <!--quoteend-->
 
@@ -434,7 +434,7 @@ I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't mean
 >
 >     Above, there's ambiguity as to why our popsicles melted. But with a bit of imagination and puzzle-solving, the reader pieces it together.
 >
-> (<a href="#citeproc_bib_item_6">Shapiro n.d.-f</a>)
+> (Shapiro n.d.-f)
 
 
 ### Practicing Writing {#practicing-writing}
@@ -443,31 +443,4 @@ I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't mean
 >
 > I find that writers who post frequently (say, twice weekly) are rarely worth reading consistently. I read for insights. And no writer can generate profound insights on a fixed schedule. I aggregate writers who publish sporadically. When they post, they truly have something to say.
 >
-> (<a href="#citeproc_bib_item_2">Shapiro n.d.-b</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### [Julian Shapiro]({{< relref "julian_shapiro.md" >}}) defines a {{novel idea}@0} as {{new to the reader, significant, and not easily intuited}@1}. {#julian-shapiro--julian-shapiro-dot-md--defines-a-novel-idea-0-as-new-to-the-reader-significant-and-not-easily-intuited-1-dot}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 7   | 362.68   | 2024-06-10T07:08:36Z |
-| 1        | 1.30 | 6   | 11.53    | 2023-09-26T03:50:33Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_4">Shapiro n.d.-d</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Shapiro, Julian. n.d.-a. “The Writing Well Handbook.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/intro">https://www.julian.com/guide/write/intro</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d.-b. “Writing Handbook: How to Practice Writing.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/practicing">https://www.julian.com/guide/write/practicing</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———. n.d.-c. “Writing Handbook: How to Rewrite Your First Draft.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/rewriting">https://www.julian.com/guide/write/rewriting</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———. n.d.-d. “Writing Handbook: How to Source Writing Ideas.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/ideas">https://www.julian.com/guide/write/ideas</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>———. n.d.-e. “Writing Handbook: How to Write a First Draft.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/first-draft">https://www.julian.com/guide/write/first-draft</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>———. n.d.-f. “Writing Handbook: How to Write with Style.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/style">https://www.julian.com/guide/write/style</a>.</div>
-</div>
+> (Shapiro n.d.-b)

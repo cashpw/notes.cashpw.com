@@ -2,7 +2,7 @@
 title = "C++ class"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:06:00-07:00
-lastmod = 2023-09-24T09:57:38-07:00
+lastmod = 2023-11-10T10:29:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -57,80 +57,7 @@ class Foo : public Container {
 ```
 
 
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 6   | 114.53   | 2023-11-15T16:41:20Z |
-| 1        | 2.50 | 6   | 116.25   | 2023-12-19T21:17:04Z |
-
-(C++) {{`class`}@0} members are {{private}{visibility}@1} by default.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Stroustrup 2022</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.80 | 6   | 117.91   | 2023-11-27T12:59:28Z |
-| back     | 2.35 | 6   | 80.39    | 2023-10-25T01:03:14Z |
-
-[Concrete class](#concrete-class)
-
-
-#### Back {#back}
-
-A class which behaves just like built-in types. It has no abstract methods.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Stroustrup 2022</a>)
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 6   | 90.70    | 2023-10-28T07:42:49Z |
-| back     | 2.35 | 6   | 79.03    | 2023-10-26T15:53:21Z |
-
-[Abstract class](#abstract-class)
-
-
-#### Back {#back}
-
-A class with at least one method which another class must implement.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Stroustrup 2022</a>)
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 6   | 82.22    | 2023-11-13T22:00:57Z |
-
-`Foo` implements `Bar`
-
-```C++
-class Foo{{ : public Bar ...}@0}
-```
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Stroustrup 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

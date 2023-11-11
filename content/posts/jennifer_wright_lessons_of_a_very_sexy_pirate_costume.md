@@ -2,14 +2,14 @@
 title = "Jennifer Wright | Lessons of a Very Sexy Pirate Costume"
 author = ["Cash Weaver"]
 date = 2023-03-04T08:02:00-08:00
-lastmod = 2023-09-24T10:21:13-07:00
+lastmod = 2023-11-10T10:58:08-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "43bed654-b7c3-4d5f-92fe-61c62ee79443"
 +++
 
-[Jennifer Wright]({{< relref "jennifer_wright.md" >}}), (<a href="#citeproc_bib_item_1">Wright 2012</a>)
+[Jennifer Wright]({{< relref "jennifer_wright.md" >}}), (Wright 2012)
 
 
 ## Summary {#summary}
@@ -30,12 +30,3 @@ A story of the author's failure to [Imagine others complexly]({{< relref "imagin
 > It quickly became clear that I was not the first literate person to don a miniskirt. Sometime during that first week, I was hiding in the backroom reading Margaret Atwood. I was sitting on the counter next to baskets of party mix because my feet hurt, which they did for the entirety of my shot-selling career. One cocktail waitress swept in, asked what I thought of Atwood's novel "Oryx and Crake," did a tricky little analysis where she compared it to "The Handmaid's Tale," mentioned some other female dystopian writers I'd never heard of, and then went out balancing a tray of shots on one hand.
 >
 > As ridiculous as it sounds, that was the first time I became aware that clever people are buried in every nook and cranny of life. It is astonishing that no one pointed this out to me sooner. The girls working at the bar -- they were so bright. Another shot girl had a journal that she filled with poetry that was -- that rarest of all rare things -- crisp and clean and very, very good. This was never a bar where everyone knew your name, but the cocktail waitresses came to know one another's reading lists, and pitch letters, and audition schedules extremely well.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Wright, Jennifer. 2012. “Lessons of a Very Sexy Pirate Costume.” Salon. February 12, 2012. <a href="https://www.salon.com/2012/02/12/lessons_of_a_very_sexy_pirate_costume/">https://www.salon.com/2012/02/12/lessons_of_a_very_sexy_pirate_costume/</a>.</div>
-</div>

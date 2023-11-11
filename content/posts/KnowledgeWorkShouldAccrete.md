@@ -2,14 +2,14 @@
 title = "Andy Matuschak | Knowledge Work Should Accrete"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-11T20:02:00-08:00
-lastmod = 2023-09-24T09:51:10-07:00
+lastmod = 2023-11-10T10:23:30-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "3abdd6f0-2229-4f83-a0ac-078af4571f8c"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (Matuschak n.d.)
 
 > Many activities in [Knowledge work](https://notes.andymatuschak.org/z2eKzbL5nwQrm8Zr26rtaLHXyKHREr3tm5HbY) seem to be ephemeral efforts, their outputs mostly discarded after they're completed.
 >
@@ -29,15 +29,6 @@ slug = "3abdd6f0-2229-4f83-a0ac-078af4571f8c"
 
 
 ## Extract links into notes {#extract-links-into-notes}
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Knowledge Work Should Accrete.” Andy’s working notes. Accessed February 12, 2022. <a href="https://notes.andymatuschak.org/Knowledge_work_should_accrete">https://notes.andymatuschak.org/Knowledge_work_should_accrete</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

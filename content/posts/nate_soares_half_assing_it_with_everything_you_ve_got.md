@@ -2,7 +2,7 @@
 title = "Nate Soares | Half-Assing It with Everything You've Got"
 author = ["Cash Weaver"]
 date = 2023-09-08T10:09:00-07:00
-lastmod = 2023-09-24T10:33:43-07:00
+lastmod = 2023-11-10T11:06:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -53,15 +53,6 @@ Related: [Play to win]({{< relref "play_to_win.md" >}})
 > If you're trying to learn the material to the fullest, then mine the assignment for all its knowledge, and don't fret about your grade. Anything else is wasted motion.
 >
 > If you're trying to do achieve some combination of good grades (for signalling purposes), respect (for social reasons), and knowledge (for various effects), then pinpoint the minimum quality target that gets a good grade, impresses the teacher, and allows you to learn the material, and hit that as efficiently as you can. Anything more is wasted motion.
-
-
-## Flashcards {#flashcards}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:soaresHalfassingItEverything2015</div>
-</div>
 
 
 ## Backlinks {#backlinks}

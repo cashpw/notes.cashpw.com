@@ -2,14 +2,14 @@
 title = "Jason Fried | Habits Always Form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:53:00-08:00
-lastmod = 2023-09-24T10:12:01-07:00
+lastmod = 2023-11-10T10:47:10-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "02b5bf70-cf7f-49d0-b1f0-60fc0270abb0"
 +++
 
-[Jason Fried]({{< relref "jason_fried.md" >}}), (<a href="#citeproc_bib_item_1">Fried 2019</a>)
+[Jason Fried]({{< relref "jason_fried.md" >}}), (Fried 2019)
 
 > Habits are always forming. No matter what you do, you're also forming habits too. Keep that in mind with whatever you do.
 >
@@ -18,29 +18,6 @@ slug = "02b5bf70-cf7f-49d0-b1f0-60fc0270abb0"
 > So be aware of what you do, what you're doing, and how you're doing it. Every do digs deeper. Every does grips stronger.
 
 Similar: [Life is the sum of all your choices]({{< relref "life_is_the_sum_of_all_your_choices.md" >}})
-
-
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 158.00   | 2023-10-04T14:35:34Z |
-
-Habits are {{always}@0} forming.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Fried 2019</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Fried, Jason. 2019. “Habits Always Form.” Signal v. Noise. May 22, 2019. <a href="https://m.signalvnoise.com/habits-always-form/">https://m.signalvnoise.com/habits-always-form/</a>.</div>
-</div>
 
 
 ## Backlinks {#backlinks}

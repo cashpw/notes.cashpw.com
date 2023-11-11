@@ -2,7 +2,7 @@
 title = "Gaussian elimination"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T11:06:00-08:00
-lastmod = 2023-09-24T10:13:05-07:00
+lastmod = 2023-11-10T10:48:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,59 +17,7 @@ slug = "b59377a2-c3af-4647-b74b-2c38bd4f8c7a"
 > -   Multiplying a row by a nonzero number,
 > -   Adding a multiple of one row to another row. (subtraction can be achieved by multiplying one row with -1 and adding the result to another row)
 >
-> (<a href="#citeproc_bib_item_1">“Gaussian Elimination” 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 9   | 626.12   | 2025-05-08T15:46:17Z |
-| back     | 2.35 | 9   | 588.19   | 2025-04-14T22:27:10Z |
-
-[Gaussian elimination]({{< relref "gaussian_elimination.md" >}})
-
-
-#### Back {#back}
-
-An algorithm for solving a system of linear equations consisting of three operations:
-
-1.  swapping rows
-2.  multiplying a row by a nonzero scalar
-3.  adding a scalar multiple of one row to another row.
-
-It reduces a given matrix to [Row echelon form]({{< relref "row_echelon_form.md" >}}) (upper triangular), and can further reduce it to [Reduced row echelon form]({{< relref "row_echelon_form.md#reduced-row-echelon-form" >}}).
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| back     | 2.35 | 9   | 484.44   | 2024-11-22T01:38:52Z |
-| front    | 2.50 | 9   | 482.82   | 2024-11-22T10:56:01Z |
-
-Reduced row echelon form
-
-
-#### Back {#back}
-
-The state of a matrix when:
-
--   it is in row echelon form
--   all leading coefficients are 1
--   each column which contains a leading coefficient has only one nonzero value
-
-
-#### Source {#source}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Gaussian Elimination.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Gaussian_elimination&oldid=1100872918">https://en.wikipedia.org/w/index.php?title=Gaussian_elimination&#38;oldid=1100872918</a>.</div>
-</div>
+> (“Gaussian Elimination” 2022)
 
 
 ## Backlinks {#backlinks}

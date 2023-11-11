@@ -2,14 +2,14 @@
 title = "Zach Tellman | Senior Engineers Reduce Risk"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T19:25:00-08:00
-lastmod = 2023-09-24T10:50:12-07:00
+lastmod = 2023-11-10T11:21:16-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "e7753777-506e-490e-b79e-59dede5dce2e"
 +++
 
-[Zach Tellman]({{< relref "zach_tellman.md" >}}), (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)
+[Zach Tellman]({{< relref "zach_tellman.md" >}}), (Tellman n.d.)
 
 
 ## Notes {#notes}
@@ -35,29 +35,8 @@ slug = "e7753777-506e-490e-b79e-59dede5dce2e"
 > Every company has different risks, and so every company expects something different from their senior engineers. An engineer who has spent the last five years making small, continuous improvements to the processes in a larger company may not enjoy or even understand the sort of role expected by a three person startup. The expectation that "senior" is a fungible title is both widespread and harmful, leading to unrealistic expectations from both engineers and companies.
 
 
-## Flashcards {#flashcards}
-
-
-### ([Zach Tellman]({{< relref "zach_tellman.md" >}})) Senior engineers {{reduce risk}{what they do}@0} {#zach-tellman-zach-tellman-dot-md---senior-engineers-reduce-risk-what-they-do-0}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.65 | 6   | 104.89   | 2023-11-19T12:10:48Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Tellman n.d.</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Senior Engineers Reduce Risk.” Accessed February 19, 2022. <a href="https://ideolalia.com/essays/senior-engineers-reduce-risk.html">https://ideolalia.com/essays/senior-engineers-reduce-risk.html</a>.</div>
-</div>
-
-
 ## Backlinks {#backlinks}
 
+-   [Blogroll]({{< relref "blogroll.md" >}})
 -   [Sabrina Leandro | So You're Staff+ ... Now What?]({{< relref "sabrina_leandro_so_you_re_staff_now_what.md" >}})
 -   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
--   [Blogroll]({{< relref "blogroll.md" >}})

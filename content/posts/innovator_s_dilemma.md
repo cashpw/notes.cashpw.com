@@ -2,7 +2,7 @@
 title = "Innovator's dilemma"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-16T19:44:00-07:00
-lastmod = 2023-09-24T10:19:16-07:00
+lastmod = 2023-11-10T10:55:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,45 +21,7 @@ slug = "e3915b9e-665b-4da5-b2ec-42ba090918c9"
 > (<a href="#citeproc_bib_item_1">“The Innovator’s Dilemma” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 7   | 309.58   | 2024-04-30T07:41:09Z |
-| back     | 2.20 | 7   | 167.26   | 2023-10-29T23:29:41Z |
-
-[Innovator's dilemma]({{< relref "innovator_s_dilemma.md" >}})
-
-
-#### Back {#back}
-
--   Incumbent Company A listens to their customers and provide high-value solutions
--   Alternative Company B serves low-value customers while incrementally improving their offerings
--   Eventually, Company B can take market share from Company A once their offering is good enough to compete
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“The Innovator’s Dilemma” 2022</a>)
-
-
-### Describe {#describe}
-
-Key parts of the [Innovator's dilemma]({{< relref "innovator_s_dilemma.md" >}})
-
-
-#### Back {#back}
-
-1.  Value to innovation is a [Sigmoid curve]({{< relref "sigmoid_function.md" >}}). The early and late periods are characterized by lots of effort for minimal gains. However, the early period has upward opportunity the late period doesn't.
-2.  Customers of incumbent companies expect the incumbent to improve the existing product as they're already using it and it's easier to stick with the existing product. However, the incumbent has little to gain by continuing to improve this product as they're at in the late period of the value-to-innovation [Sigmoid curve]({{< relref "sigmoid_function.md" >}}).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“The Innovator’s Dilemma” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

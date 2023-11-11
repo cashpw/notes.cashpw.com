@@ -2,7 +2,7 @@
 title = "Big-picture thinking (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T09:33:00-07:00
-lastmod = 2023-09-24T09:55:44-07:00
+lastmod = 2023-11-10T10:28:08-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,34 +21,7 @@ slug = "69721a7b-23c8-4d00-8a1c-0e2dba6a1c4e"
 -   [Treasure map (Staff Engineer's Path)]({{< relref "treasure_map_staff_engineer_s_path.md" >}})
 
 
-## Flashcards {#flashcards}
-
-
-### Examples {#examples}
-
-
-### Describe (Staff engineer) {#describe--staff-engineer}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 83.72    | 2023-10-31T08:25:32Z |
-| back     | 2.65 | 6   | 108.17   | 2023-12-21T20:41:55Z |
-
-[Big-picture thinking (Staff Engineer's Path)]({{< relref "big_picture_thinking_staff_engineer_s_path.md" >}})
-
-
-#### Back {#back}
-
-The ability to
-
--   step back and take a broader view
--   see beyond the immediate details and understand the context you're working in
--   think beyond the current time; long-term projects, building with attention to eventual decommissioning, predicting business needs
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Reilly 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 

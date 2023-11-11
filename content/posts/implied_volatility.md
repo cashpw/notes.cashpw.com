@@ -2,7 +2,7 @@
 title = "Implied volatility"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:08:00-08:00
-lastmod = 2023-09-24T10:18:45-07:00
+lastmod = 2023-11-10T10:55:09-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -11,29 +11,7 @@ slug = "7b2744d7-c760-474b-97ef-120da8b4220f"
 
 ##  {#d41d8c}
 
-(<a href="#citeproc_bib_item_1">“Implied Volatility” 2022</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### [Implied volatility]({{< relref "implied_volatility.md" >}}) looks {{forward}{direction}@0} in time {#implied-volatility--implied-volatility-dot-md--looks-forward-direction-0-in-time}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.20 | 7   | 124.34   | 2023-09-26T04:41:29Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">“Volatility (Finance)” 2022</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Implied Volatility.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Implied_volatility&oldid=1100503541">https://en.wikipedia.org/w/index.php?title=Implied_volatility&#38;oldid=1100503541</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Volatility (Finance).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Volatility_(finance)&oldid=1116100450">https://en.wikipedia.org/w/index.php?title=Volatility_(finance)&#38;oldid=1116100450</a>.</div>
-</div>
+(“Implied Volatility” 2022)
 
 
 ## Backlinks {#backlinks}

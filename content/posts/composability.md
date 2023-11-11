@@ -2,7 +2,7 @@
 title = "Composability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:47:00-08:00
-lastmod = 2023-09-24T10:02:06-07:00
+lastmod = 2023-11-10T10:35:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,52 +14,7 @@ slug = "5d0c9c41-219f-4330-b2e6-0ae5daaa5355"
 > -   self-contained (modular): it can be deployed independently – note that it may cooperate with other components, but dependent components are replaceable
 > -   stateless: it treats each request as an independent transaction, unrelated to any previous request. Stateless is just one technique; managed state and transactional systems can also be composable, but with greater difficulty.
 >
-> (<a href="#citeproc_bib_item_1">“Composability” 2021</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.60 | 9   | 161.92   | 2024-01-30T11:04:19Z |
-| back     | 2.05 | 7   | 149.90   | 2023-10-10T13:58:31Z |
-
-[Composability]({{< relref "composability.md" >}})
-
-
-#### Back {#back}
-
-A design principle relating to distinct, independent, units which can be assembled in various combinations. The essential features are usually:
-
--   self-contained / modular
--   stateless
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Composability” 2021</a>)
-
-
-### Composable objects are usually {{stateless}@0} and {{self-contained / modular}@1} {#composable-objects-are-usually-stateless-0-and-self-contained-modular-1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 8   | 311.08   | 2024-07-07T20:21:31Z |
-| 1        | 1.90 | 7   | 70.48    | 2023-10-07T02:45:15Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Composability” 2021</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Composability.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Composability&oldid=1030547806">https://en.wikipedia.org/w/index.php?title=Composability&#38;oldid=1030547806</a>.</div>
-</div>
+> (“Composability” 2021)
 
 
 ## Backlinks {#backlinks}

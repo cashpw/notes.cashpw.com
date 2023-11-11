@@ -2,7 +2,7 @@
 title = "Vertex-connectivity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T20:29:00-07:00
-lastmod = 2023-09-24T10:55:27-07:00
+lastmod = 2023-11-10T11:26:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,27 +14,7 @@ slug = "12de8109-6022-476c-ac21-9381115a0bc4"
 > (<a href="#citeproc_bib_item_1">“K-Vertex-Connected Graph” 2023</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Definition {#definition}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.05 | 6   | 49.35    | 2023-11-02T23:34:05Z |
-| back     | 1.90 | 6   | 47.92    | 2023-10-12T13:26:37Z |
-
-[Vertex-connectivity]({{< relref "vertex_connectivity.md" >}})
-
-
-#### Back {#back}
-
-The largest \\(k\\) for which a graph is [k-vertex-connected]({{< relref "k_vertex_connected_graph.md" >}}).
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“K-Vertex-Connected Graph” 2023</a>)
+## Bibliography {#bibliography}
 
 ## References
 

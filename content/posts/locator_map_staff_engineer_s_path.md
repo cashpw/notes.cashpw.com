@@ -2,7 +2,7 @@
 title = "Locator map (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T19:47:00-07:00
-lastmod = 2023-09-24T10:27:48-07:00
+lastmod = 2023-11-10T11:03:06-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -85,27 +85,7 @@ It's a useful tool for answering questions like:
 > Mohit Suley, an engineering manager and former principal engineer at Microsoft, has spoken about his team tracking down and contacting unreliable ISPs where their search engine, Bing, wasn't reachable. It wasn't Bing that was broken, but as Suley says, "A user doesn't distinguish between DNS services, ISP, your CDN, or your endpoint, whatever that might be. At the end of the day, there are a bunch of websites that work, and a bunch that don't." You need to measure success from your users' point of view [[Measure success from your users' point of view]({{< relref "measure_success_from_your_users_point_of_view.md" >}})]. (If your customers are other teams inside your company, this still applies!) If you don't understand your customer, you don't have real perspective on what's important.
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 73.52    | 2023-10-17T03:35:27Z |
-| back     | 1.75 | 7   | 65.55    | 2023-11-17T01:49:49Z |
-
-[Locator map (Staff Engineer's Path)]({{< relref "locator_map_staff_engineer_s_path.md" >}})
-
-
-#### Back {#back}
-
-An understanding of how you, your team(s), your product(s), and your company, fit into the wider context.
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_2">Reilly 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
@@ -117,6 +97,6 @@ An understanding of how you, your team(s), your product(s), and your company, fi
 
 ## Backlinks {#backlinks}
 
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Will Larson | 'Drawing Your Three Maps' Exercise]({{< relref "will_larson_drawing_your_three_maps_exercise.md" >}})
 -   [Big-picture thinking (Staff Engineer's Path)]({{< relref "big_picture_thinking_staff_engineer_s_path.md" >}})
--   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})

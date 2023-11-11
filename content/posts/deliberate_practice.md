@@ -2,7 +2,7 @@
 title = "Deliberate practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:37:00-07:00
-lastmod = 2023-09-24T10:05:35-07:00
+lastmod = 2023-11-10T10:39:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,7 +17,7 @@ slug = "a1d74568-61f0-4a01-8aab-184d1b7a9752"
 > 2.  Second, it demands that practice be guided in the initial stages by a teacher or coach. This is somewhat linked to the first principle — that the practice occurs in a domain with established training methods mean that a teacher may use known pedagogical techniques to improve student performance. As the student improves, her ability to form accurate mental models will also improve; these models allow her to eventually practice on her own.
 > 3.  Third, and last, deliberate practice nearly always involves building or modifying previously acquired skills by focusing on particular aspects of those skills and working to improve them specifically. This in turns implies finding teachers or coaches with ever higher levels of expertise, and learning better refinements from them.
 >
-> (<a href="#citeproc_bib_item_1">Chin 2019</a>)
+> (Chin 2019)
 
 <!--quoteend-->
 
@@ -32,7 +32,7 @@ slug = "a1d74568-61f0-4a01-8aab-184d1b7a9752"
 > 7.  Building and modifying mental representations
 > 8.  Focusing on building and improving specific skills by focusing on aspects of those skills and improving them
 >
-> (<a href="#citeproc_bib_item_2">Eliason n.d.</a>)
+> (Eliason n.d.)
 
 <!--quoteend-->
 
@@ -46,63 +46,13 @@ slug = "a1d74568-61f0-4a01-8aab-184d1b7a9752"
 >
 > One of Ericsson's core findings was that how expert one becomes at a skill has more to do with how one practises than with merely performing a skill a large number of times. An expert breaks down the skills that are required to be expert and focuses on improving those skill chunks during practice or day-to-day activities, often paired with immediate coaching feedback. Another important feature of deliberate practice lies in continually practising a skill at more challenging levels with the intention of mastering it.
 >
-> (<a href="#citeproc_bib_item_3">“Practice (Learning Method)” 2023</a>)
-
-
-## Flashcards {#flashcards}
-
-
-### Cloze {#cloze}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 1.75 | 6   | 33.17    | 2023-09-22T03:34:59Z |
-| 1        | 2.05 | 6   | 67.73    | 2023-11-03T07:18:54Z |
-
-{{[Deliberate practice]({{< relref "deliberate_practice.md" >}})}@0} is {{[Purposeful practice]({{< relref "purposeful_practice.md" >}}) that knows where its going}{coloquially}@1}.
-
-
-#### Source {#source}
-
-Ericson
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.35 | 6   | 95.36    | 2023-11-24T00:36:39Z |
-| back     | 2.35 | 6   | 83.18    | 2023-11-23T18:40:09Z |
-
-[Deliberate practice]({{< relref "deliberate_practice.md" >}})
-
-
-#### Back {#back}
-
-[Purposeful practice]({{< relref "purposeful_practice.md" >}}) which additionally:
-
-1.  is within a well-established domain (e.g. music, math) with known training techniques
-2.  is led by an instructor
-3.  refines, builds on, or modifies existing skills
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">Chin 2019</a>)
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Problems with Deliberate Practice.” Commonplace - The Commoncog Blog. January 29, 2019. <a href="https://commoncog.com/blog/the-problems-with-deliberate-practice/">https://commoncog.com/blog/the-problems-with-deliberate-practice/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Eliason, Nat. n.d. “Peak by Anders Ericsson and Robert Pool: Summary, Notes and Lessons.” Nat Eliason. Accessed June 7, 2023. <a href="https://www.nateliason.com/notes/peak-anders-ericsson-robert-pool">https://www.nateliason.com/notes/peak-anders-ericsson-robert-pool</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Practice (Learning Method).” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Practice_(learning_method)&oldid=1144600358#Deliberate_practice">https://en.wikipedia.org/w/index.php?title=Practice_(learning_method)&#38;oldid=1144600358#Deliberate_practice</a>.</div>
-</div>
+> (“Practice (Learning Method)” 2023)
 
 
 ## Backlinks {#backlinks}
 
 -   [Types of practice]({{< relref "types_of_practice.md" >}})
--   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
--   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "cedric_chin_why_tacit_knowledge_is_more_important_than_deliberate_practice.md" >}})
+-   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
 -   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
+-   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "cedric_chin_why_tacit_knowledge_is_more_important_than_deliberate_practice.md" >}})

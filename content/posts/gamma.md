@@ -2,7 +2,7 @@
 title = "Gamma (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:29:00-08:00
-lastmod = 2023-09-24T10:12:36-07:00
+lastmod = 2023-11-10T10:47:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,57 +22,7 @@ slug = "258a5932-07d8-4d5c-8442-ef08e3f8d45d"
 > (<a href="#citeproc_bib_item_1">“Greeks (Finance)” 2022</a>)
 
 
-## Flashcards {#flashcards}
-
-
-### Describe {#describe}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 1.60 | 5   | 16.04    | 2023-09-30T15:59:38Z |
-| back     | 2.05 | 8   | 292.95   | 2024-06-18T11:42:20Z |
-
-[Gamma (finance)]({{< relref "gamma.md" >}})
-
-
-#### Back {#back}
-
--   Describes the rate of change in a derivative's [delta]({{< relref "delta.md" >}}) per one-point move in the underlying asset's price.
--   The second derivative of the derivative's value, \\(V\\), with respect to the underlying asset's price, \\(S\\)
-
-\\(? = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2}}\\)
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Greeks (Finance)” 2022</a>)
-
-
-### (Finance) {{\\(\Gamma\\)}@0} \\(=\\) {{\\(\frac{\partial\Delta}{\partial S}\\)}@1} {#finance--gamma-0-frac-partial-delta-partial-s-1}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 245.64   | 2024-01-07T08:59:10Z |
-| 1        | 2.20 | 7   | 180.85   | 2023-11-10T13:03:20Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Greeks (Finance)” 2022</a>)
-
-
-### {{[Gamma (finance)]({{< relref "gamma.md" >}})}@0} is the {{second}{n-th}@1} derivative of {{the derivative's value with respect to the underlying asset's price}@2} {#gamma--finance----gamma-dot-md--0-is-the-second-n-th-1-derivative-of-the-derivative-s-value-with-respect-to-the-underlying-asset-s-price-2}
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| 0        | 2.35 | 7   | 178.50   | 2023-10-25T02:23:06Z |
-| 1        | 2.20 | 7   | 150.96   | 2023-12-12T00:04:53Z |
-| 2        | 2.05 | 7   | 97.62    | 2023-10-09T16:40:09Z |
-
-
-#### Source {#source}
-
-(<a href="#citeproc_bib_item_1">“Greeks (Finance)” 2022</a>)
+## Bibliography {#bibliography}
 
 ## References
 
