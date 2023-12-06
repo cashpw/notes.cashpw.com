@@ -2,7 +2,7 @@
 title = "Quickselect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:09:00-07:00
-lastmod = 2023-12-05T14:39:31-08:00
+lastmod = 2023-12-05T20:50:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "No half measures"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-21T08:24:00-07:00
-lastmod = 2023-12-05T14:31:34-08:00
+lastmod = 2023-12-05T20:41:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Big-Omega notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:08:00-07:00
-lastmod = 2023-12-05T13:47:25-08:00
+lastmod = 2023-12-05T19:56:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

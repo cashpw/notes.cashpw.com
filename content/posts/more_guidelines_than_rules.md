@@ -2,7 +2,7 @@
 title = "More guidelines than rules"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-24T17:11:00-07:00
-lastmod = 2023-12-05T14:29:08-08:00
+lastmod = 2023-12-05T20:38:22-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

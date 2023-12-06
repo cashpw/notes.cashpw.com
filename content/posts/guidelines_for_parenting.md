@@ -2,7 +2,7 @@
 title = "Guidelines for parenting"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T19:19:00-07:00
-lastmod = 2023-12-05T14:10:44-08:00
+lastmod = 2023-12-05T20:17:11-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

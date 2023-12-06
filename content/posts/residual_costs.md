@@ -2,7 +2,7 @@
 title = "Residual costs"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:11:00-08:00
-lastmod = 2023-12-05T14:42:09-08:00
+lastmod = 2023-12-05T20:54:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Binomial theorem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-19T09:49:00-08:00
-lastmod = 2023-12-05T13:48:09-08:00
+lastmod = 2023-12-05T19:56:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

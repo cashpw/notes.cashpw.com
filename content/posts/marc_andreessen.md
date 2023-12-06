@@ -2,7 +2,7 @@
 title = "Marc Andreessen"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T14:19:00-08:00
-lastmod = 2023-12-05T14:25:10-08:00
+lastmod = 2023-12-05T20:33:42-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

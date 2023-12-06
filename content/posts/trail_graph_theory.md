@@ -2,7 +2,7 @@
 title = "Trail (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T11:59:00-08:00
-lastmod = 2023-12-05T14:59:10-08:00
+lastmod = 2023-12-05T21:17:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

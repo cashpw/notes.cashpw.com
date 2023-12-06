@@ -2,7 +2,7 @@
 title = "Rand Spiro"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T18:53:00-07:00
-lastmod = 2023-12-05T14:40:14-08:00
+lastmod = 2023-12-05T20:51:45-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

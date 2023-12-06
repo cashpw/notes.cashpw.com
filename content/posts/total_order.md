@@ -2,7 +2,7 @@
 title = "Total order"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:04:00-07:00
-lastmod = 2023-12-05T14:58:53-08:00
+lastmod = 2023-12-05T21:17:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

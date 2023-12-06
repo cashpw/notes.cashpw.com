@@ -2,7 +2,7 @@
 title = "Stephen Kuenzli | Key Practices for Achieving Large Professional Goals"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:49:00-08:00
-lastmod = 2023-12-05T14:20:49-08:00
+lastmod = 2023-12-05T20:28:30-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

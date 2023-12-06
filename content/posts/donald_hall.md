@@ -2,7 +2,7 @@
 title = "Donald Hall"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-10T10:02:00-07:00
-lastmod = 2023-12-05T14:02:28-08:00
+lastmod = 2023-12-05T20:08:54-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

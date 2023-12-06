@@ -2,7 +2,7 @@
 title = "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | An Introduction to Statistical Learning: With Applications in R"
 author = ["Cash Weaver"]
 date = 2022-12-24T09:19:00-08:00
-lastmod = 2023-12-05T14:08:30-08:00
+lastmod = 2023-12-05T20:14:51-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

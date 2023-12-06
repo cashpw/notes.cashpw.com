@@ -2,7 +2,7 @@
 title = "Cedric Chin | Being an Effective Decision Maker"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:28:00-07:00
-lastmod = 2023-12-05T13:51:46-08:00
+lastmod = 2023-12-05T19:59:35-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

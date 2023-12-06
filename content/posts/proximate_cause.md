@@ -2,7 +2,7 @@
 title = "Proximate cause"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T11:42:00-08:00
-lastmod = 2023-12-05T14:38:13-08:00
+lastmod = 2023-12-05T20:49:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

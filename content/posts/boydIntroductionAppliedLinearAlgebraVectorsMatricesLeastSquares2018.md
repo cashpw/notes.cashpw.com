@@ -2,7 +2,7 @@
 title = "Stephen P. Boyd, Lieven Vandenberghe | Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T20:30:00-07:00
-lastmod = 2023-12-05T13:49:06-08:00
+lastmod = 2023-12-05T19:57:39-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

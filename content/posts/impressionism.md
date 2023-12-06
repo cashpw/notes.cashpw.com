@@ -2,7 +2,7 @@
 title = "Impressionism"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-10T17:19:00-07:00
-lastmod = 2023-12-05T14:14:32-08:00
+lastmod = 2023-12-05T20:21:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

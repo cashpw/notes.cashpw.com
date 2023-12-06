@@ -2,7 +2,7 @@
 title = "Velocity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T15:44:00-08:00
-lastmod = 2023-12-05T15:02:30-08:00
+lastmod = 2023-12-05T21:21:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

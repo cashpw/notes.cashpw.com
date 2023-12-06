@@ -2,7 +2,7 @@
 title = "Per aspera ad astra"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:05:00-07:00
-lastmod = 2023-12-05T14:35:01-08:00
+lastmod = 2023-12-05T20:45:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

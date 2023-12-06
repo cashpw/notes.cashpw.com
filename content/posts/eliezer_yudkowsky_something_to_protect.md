@@ -2,7 +2,7 @@
 title = "Eliezer Yudkowsky | Something to Protect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T17:19:00-08:00
-lastmod = 2023-12-05T14:04:00-08:00
+lastmod = 2023-12-05T20:10:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

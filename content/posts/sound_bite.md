@@ -2,7 +2,7 @@
 title = "Sound bite"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:26:00-07:00
-lastmod = 2023-12-05T14:49:11-08:00
+lastmod = 2023-12-05T21:03:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

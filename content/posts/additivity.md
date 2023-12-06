@@ -2,7 +2,7 @@
 title = "Additivity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:43:00-08:00
-lastmod = 2023-12-05T13:40:09-08:00
+lastmod = 2023-12-05T19:50:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

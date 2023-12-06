@@ -2,7 +2,7 @@
 title = "Measure success from your users' point of view"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T20:17:00-07:00
-lastmod = 2023-12-05T14:26:52-08:00
+lastmod = 2023-12-05T20:35:42-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Be curious"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T16:39:00-07:00
-lastmod = 2023-12-05T13:46:12-08:00
+lastmod = 2023-12-05T19:55:15-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

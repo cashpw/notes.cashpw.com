@@ -2,7 +2,7 @@
 title = "Tanner Greer"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T13:35:00-08:00
-lastmod = 2023-12-05T14:53:11-08:00
+lastmod = 2023-12-05T21:08:59-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

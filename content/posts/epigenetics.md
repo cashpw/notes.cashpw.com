@@ -2,7 +2,7 @@
 title = "Epigenetics"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T07:06:00-08:00
-lastmod = 2023-12-05T14:04:25-08:00
+lastmod = 2023-12-05T20:10:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

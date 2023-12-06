@@ -2,7 +2,7 @@
 title = "Tanya Reilly | The Staff Engineer's Path"
 author = ["Cash Weaver"]
 date = 2023-03-18T13:26:00-07:00
-lastmod = 2023-12-05T14:53:35-08:00
+lastmod = 2023-12-05T21:09:35-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

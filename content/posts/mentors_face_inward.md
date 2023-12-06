@@ -2,7 +2,7 @@
 title = "Mentors face inward"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:10:00-08:00
-lastmod = 2023-12-05T14:27:03-08:00
+lastmod = 2023-12-05T20:35:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

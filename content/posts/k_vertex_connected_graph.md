@@ -2,7 +2,7 @@
 title = "k-vertex-connected graph"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T20:26:00-07:00
-lastmod = 2023-12-05T14:19:35-08:00
+lastmod = 2023-12-05T20:27:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

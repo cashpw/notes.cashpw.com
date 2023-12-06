@@ -2,7 +2,7 @@
 title = "Percy Bysshe Shelley | Ozymandias"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-26T18:30:00-08:00
-lastmod = 2023-12-05T13:38:40-08:00
+lastmod = 2023-12-05T19:49:53-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false

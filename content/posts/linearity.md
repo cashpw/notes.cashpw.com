@@ -2,7 +2,7 @@
 title = "Linearity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:14:00-08:00
-lastmod = 2023-12-05T14:23:31-08:00
+lastmod = 2023-12-05T20:31:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

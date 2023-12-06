@@ -2,7 +2,7 @@
 title = "Brandon Smith"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T14:46:00-08:00
-lastmod = 2023-12-05T13:49:18-08:00
+lastmod = 2023-12-05T19:57:48-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

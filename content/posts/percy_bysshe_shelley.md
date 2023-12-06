@@ -2,7 +2,7 @@
 title = "Percy Bysshe Shelley"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-29T13:27:00-07:00
-lastmod = 2023-12-05T14:35:04-08:00
+lastmod = 2023-12-05T20:45:29-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Dr. Manhattan"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-03T07:10:00-08:00
-lastmod = 2023-12-05T14:02:54-08:00
+lastmod = 2023-12-05T20:09:18-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

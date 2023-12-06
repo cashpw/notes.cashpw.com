@@ -2,7 +2,7 @@
 title = "Science of discontent"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:25:00-08:00
-lastmod = 2023-12-05T14:44:18-08:00
+lastmod = 2023-12-05T20:56:54-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

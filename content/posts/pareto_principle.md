@@ -2,7 +2,7 @@
 title = "Pareto principle"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T08:05:00-08:00
-lastmod = 2023-12-05T14:34:11-08:00
+lastmod = 2023-12-05T20:44:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,5 +33,5 @@ slug = "f49b7372-f38a-470e-8e1f-d26a64ff4992"
 -   [Perfect is the enemy of good]({{< relref "perfect_is_the_enemy_of_good.md" >}})
 -   [Brandon Smith | Write Code. Not Too Much. Mostly Functions.]({{< relref "brandon_smith_write_code_not_too_much_mostly_functions.md" >}})
 -   [Senior engineers manage scope]({{< relref "senior_engineers_manage_scope.md" >}})
--   [Time tracking in Emacs with org-mode]({{< relref "time_tracking_in_emacs_with_org_mode.md" >}})
 -   [The last 10%]({{< relref "pareto_principle.md" >}})
+-   [Time tracking in Emacs with org-mode]({{< relref "time_tracking_in_emacs_with_org_mode.md" >}})

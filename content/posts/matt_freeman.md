@@ -2,7 +2,7 @@
 title = "Matt Freeman"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:20:00-08:00
-lastmod = 2023-12-05T14:26:15-08:00
+lastmod = 2023-12-05T20:34:57-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

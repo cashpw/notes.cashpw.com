@@ -2,7 +2,7 @@
 title = "Ian Danskin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T16:31:00-07:00
-lastmod = 2023-12-05T14:13:19-08:00
+lastmod = 2023-12-05T20:19:58-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

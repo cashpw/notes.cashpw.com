@@ -2,7 +2,7 @@
 title = "Dynamical system"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-21T19:46:00-07:00
-lastmod = 2023-12-05T14:03:12-08:00
+lastmod = 2023-12-05T20:09:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Learned blankness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T08:38:00-08:00
-lastmod = 2023-12-05T14:22:02-08:00
+lastmod = 2023-12-05T20:30:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

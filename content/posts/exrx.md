@@ -2,7 +2,7 @@
 title = "ExRx"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-06T10:51:00-07:00
-lastmod = 2023-12-05T14:05:09-08:00
+lastmod = 2023-12-05T20:11:29-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

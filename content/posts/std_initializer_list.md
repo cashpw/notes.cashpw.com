@@ -2,7 +2,7 @@
 title = "std::initializer_list"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T09:18:00-07:00
-lastmod = 2023-12-05T14:50:51-08:00
+lastmod = 2023-12-05T21:05:52-08:00
 draft = false
 slug = "a707abfd-b17d-40d0-a1c2-1caa14e2de47"
 +++

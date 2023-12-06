@@ -2,7 +2,7 @@
 title = "Cedric Chin | Don't Read History for Lessons"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:44:00-07:00
-lastmod = 2023-12-05T13:52:10-08:00
+lastmod = 2023-12-05T19:59:53-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

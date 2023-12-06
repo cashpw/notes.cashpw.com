@@ -2,7 +2,7 @@
 title = "Cedric Chin | Mental Strength in Judo, Mental Strength in Life"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:53:00-07:00
-lastmod = 2023-12-05T13:52:23-08:00
+lastmod = 2023-12-05T20:00:05-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

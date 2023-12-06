@@ -2,7 +2,7 @@
 title = "Math"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T11:15:00-08:00
-lastmod = 2023-12-05T14:25:53-08:00
+lastmod = 2023-12-05T20:34:32-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

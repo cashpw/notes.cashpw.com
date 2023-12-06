@@ -2,7 +2,7 @@
 title = "Museum Barberini"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-07T17:33:00-07:00
-lastmod = 2023-12-05T14:29:36-08:00
+lastmod = 2023-12-05T20:38:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

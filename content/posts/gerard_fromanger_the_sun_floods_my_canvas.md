@@ -2,7 +2,7 @@
 title = "Gérard Fromanger | The Sun Floods My Canvas"
 author = ["Cash Weaver"]
 date = 2023-08-07T19:25:00-07:00
-lastmod = 2023-12-05T14:09:18-08:00
+lastmod = 2023-12-05T20:15:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

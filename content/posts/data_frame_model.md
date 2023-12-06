@@ -2,7 +2,7 @@
 title = "Data-frame model"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T07:57:00-07:00
-lastmod = 2023-12-05T13:59:56-08:00
+lastmod = 2023-12-05T20:06:30-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

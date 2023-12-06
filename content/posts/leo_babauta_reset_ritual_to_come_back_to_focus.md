@@ -2,7 +2,7 @@
 title = "Leo Babauta | Reset Ritual to Come Back to Focus"
 author = ["Cash Weaver"]
 date = 2023-03-03T10:56:00-08:00
-lastmod = 2023-12-05T14:22:30-08:00
+lastmod = 2023-12-05T20:30:33-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

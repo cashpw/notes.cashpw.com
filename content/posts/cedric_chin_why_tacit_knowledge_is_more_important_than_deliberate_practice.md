@@ -2,7 +2,7 @@
 title = "Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice"
 author = ["Cash Weaver"]
 date = 2023-06-30T18:54:00-07:00
-lastmod = 2023-12-05T13:53:14-08:00
+lastmod = 2023-12-05T20:00:48-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

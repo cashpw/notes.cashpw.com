@@ -2,7 +2,7 @@
 title = "Seitan"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-02T15:39:00-07:00
-lastmod = 2023-12-05T14:45:36-08:00
+lastmod = 2023-12-05T20:58:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

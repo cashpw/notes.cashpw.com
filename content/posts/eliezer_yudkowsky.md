@@ -2,7 +2,7 @@
 title = "Eliezer Yudkowsky"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:06:00-08:00
-lastmod = 2023-12-05T14:03:54-08:00
+lastmod = 2023-12-05T20:10:16-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

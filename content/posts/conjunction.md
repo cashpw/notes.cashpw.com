@@ -2,7 +2,7 @@
 title = "Conjunction"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-22T09:35:00-07:00
-lastmod = 2023-12-05T13:56:44-08:00
+lastmod = 2023-12-05T20:03:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

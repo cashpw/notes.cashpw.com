@@ -2,7 +2,7 @@
 title = "Least frequently used"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T09:25:00-07:00
-lastmod = 2023-12-05T14:22:09-08:00
+lastmod = 2023-12-05T20:30:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

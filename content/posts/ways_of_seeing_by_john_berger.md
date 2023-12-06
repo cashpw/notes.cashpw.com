@@ -2,7 +2,7 @@
 title = "Ways of Seeing by John Berger"
 author = ["Cash Weaver"]
 date = 2023-01-02T10:20:00-08:00
-lastmod = 2023-12-05T15:03:43-08:00
+lastmod = 2023-12-05T21:22:54-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Examples of Zettelkasten Notes"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T07:13:00-08:00
-lastmod = 2023-12-05T14:04:50-08:00
+lastmod = 2023-12-05T20:11:11-08:00
 draft = false
 slug = "32438fd5-c050-46a9-9611-97d571512f3e"
 +++

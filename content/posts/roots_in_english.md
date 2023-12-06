@@ -2,7 +2,7 @@
 title = "Roots in English"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-20T11:21:00-08:00
-lastmod = 2023-12-05T14:43:21-08:00
+lastmod = 2023-12-05T20:55:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

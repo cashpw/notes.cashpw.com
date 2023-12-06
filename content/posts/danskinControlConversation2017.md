@@ -2,7 +2,7 @@
 title = "Ian Danskin | Control the Conversation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T16:31:00-07:00
-lastmod = 2023-12-05T13:59:25-08:00
+lastmod = 2023-12-05T20:06:02-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

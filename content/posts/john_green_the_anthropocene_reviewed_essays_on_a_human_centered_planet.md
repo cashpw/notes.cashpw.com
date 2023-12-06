@@ -2,7 +2,7 @@
 title = "John Green | The Anthropocene Reviewed: Essays on a Human-Centered Planet"
 author = ["Cash Weaver"]
 date = 2023-09-10T10:06:00-07:00
-lastmod = 2023-12-05T14:18:15-08:00
+lastmod = 2023-12-05T20:25:29-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

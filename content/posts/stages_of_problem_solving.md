@@ -2,7 +2,7 @@
 title = "Stages of problem solving"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:13:00-08:00
-lastmod = 2023-12-05T14:50:28-08:00
+lastmod = 2023-12-05T21:05:22-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

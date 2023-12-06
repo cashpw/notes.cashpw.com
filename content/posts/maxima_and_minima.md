@@ -2,7 +2,7 @@
 title = "Maxima and minima"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:17:00-08:00
-lastmod = 2023-12-05T14:26:32-08:00
+lastmod = 2023-12-05T20:35:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

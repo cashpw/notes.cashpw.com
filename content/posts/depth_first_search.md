@@ -2,7 +2,7 @@
 title = "Depth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:36:00-07:00
-lastmod = 2023-12-05T14:00:58-08:00
+lastmod = 2023-12-05T20:07:28-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

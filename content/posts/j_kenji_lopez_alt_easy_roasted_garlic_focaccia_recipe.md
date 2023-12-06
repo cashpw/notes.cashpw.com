@@ -2,7 +2,7 @@
 title = "James Kenji López-Alt | Easy Roasted-Garlic Focaccia Recipe"
 author = ["Cash Weaver"]
 date = 2023-08-07T19:03:00-07:00
-lastmod = 2023-12-05T14:16:21-08:00
+lastmod = 2023-12-05T20:23:20-08:00
 tags = ["reference", "recipe", "reference", "recipe"]
 categories = ["reference", "recipe"]
 draft = false

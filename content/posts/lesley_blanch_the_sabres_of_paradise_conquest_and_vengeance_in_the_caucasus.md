@@ -2,7 +2,7 @@
 title = "Lesley Blanch | The Sabres of Paradise: Conquest and Vengeance in the Caucasus"
 author = ["Cash Weaver"]
 date = 2023-08-07T17:56:00-07:00
-lastmod = 2023-12-05T14:22:40-08:00
+lastmod = 2023-12-05T20:30:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

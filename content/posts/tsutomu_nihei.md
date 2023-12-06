@@ -2,7 +2,7 @@
 title = "Tsutomu Nihei"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-24T10:36:00-07:00
-lastmod = 2023-12-05T15:00:27-08:00
+lastmod = 2023-12-05T21:19:00-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Use the right respirator"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T12:35:00-08:00
-lastmod = 2023-12-05T15:01:44-08:00
+lastmod = 2023-12-05T21:20:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

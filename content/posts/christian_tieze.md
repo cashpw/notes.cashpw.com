@@ -2,7 +2,7 @@
 title = "Christian Tieze"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T17:35:00-07:00
-lastmod = 2023-12-05T13:54:42-08:00
+lastmod = 2023-12-05T20:02:01-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

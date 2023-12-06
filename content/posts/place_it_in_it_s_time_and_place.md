@@ -2,7 +2,7 @@
 title = "Place it in it's time and place"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T08:42:00-07:00
-lastmod = 2023-12-05T14:36:00-08:00
+lastmod = 2023-12-05T20:46:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

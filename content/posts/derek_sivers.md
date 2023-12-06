@@ -2,7 +2,7 @@
 title = "Derek Sivers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:34:00-08:00
-lastmod = 2023-12-05T14:01:01-08:00
+lastmod = 2023-12-05T20:07:31-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

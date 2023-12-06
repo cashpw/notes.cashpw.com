@@ -2,7 +2,7 @@
 title = "Circuit (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T12:09:00-08:00
-lastmod = 2023-12-05T13:54:48-08:00
+lastmod = 2023-12-05T20:02:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Red-black tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:54:00-07:00
-lastmod = 2023-12-05T14:41:22-08:00
+lastmod = 2023-12-05T20:53:12-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

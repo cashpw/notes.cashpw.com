@@ -2,7 +2,7 @@
 title = "Biconnected component"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:37:00-08:00
-lastmod = 2023-12-05T13:47:11-08:00
+lastmod = 2023-12-05T19:56:04-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

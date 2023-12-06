@@ -2,7 +2,7 @@
 title = "Life is the sum of all your choices"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-02T18:36:00-08:00
-lastmod = 2023-12-05T14:23:08-08:00
+lastmod = 2023-12-05T20:31:18-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

@@ -2,7 +2,7 @@
 title = "The strong do what they can and the weak suffer what they must"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-22T09:26:00-07:00
-lastmod = 2023-12-05T14:55:57-08:00
+lastmod = 2023-12-05T21:12:50-08:00
 tags = ["hastodo", "quote", "hastodo", "quote"]
 categories = ["hastodo", "quote"]
 draft = false

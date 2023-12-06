@@ -2,7 +2,7 @@
 title = "Neel Nanda | Post 29: Meaningful Rest"
 author = ["Cash Weaver"]
 date = 2022-11-29T09:41:00-08:00
-lastmod = 2023-12-05T14:30:23-08:00
+lastmod = 2023-12-05T20:39:52-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

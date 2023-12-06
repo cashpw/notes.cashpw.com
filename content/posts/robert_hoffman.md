@@ -2,7 +2,7 @@
 title = "Robert Hoffman"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T16:49:00-07:00
-lastmod = 2023-12-05T14:42:39-08:00
+lastmod = 2023-12-05T20:54:50-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Do things that compound"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-11T20:09:00-08:00
-lastmod = 2023-12-05T14:02:06-08:00
+lastmod = 2023-12-05T20:08:33-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

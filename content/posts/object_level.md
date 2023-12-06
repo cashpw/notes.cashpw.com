@@ -2,7 +2,7 @@
 title = "Object level"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:32:00-08:00
-lastmod = 2023-12-05T14:32:19-08:00
+lastmod = 2023-12-05T20:42:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

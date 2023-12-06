@@ -2,7 +2,7 @@
 title = "Wicked environment"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-04T17:19:00-07:00
-lastmod = 2023-12-05T15:04:30-08:00
+lastmod = 2023-12-05T21:23:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

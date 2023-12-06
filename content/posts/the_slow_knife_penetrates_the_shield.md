@@ -2,7 +2,7 @@
 title = "The slow knife penetrates the shield"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-19T12:14:00-07:00
-lastmod = 2023-12-05T14:55:53-08:00
+lastmod = 2023-12-05T21:12:45-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

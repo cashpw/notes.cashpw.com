@@ -4,7 +4,7 @@ title = """
   """
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:19:00-07:00
-lastmod = 2023-12-05T13:45:19-08:00
+lastmod = 2023-12-05T19:54:35-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

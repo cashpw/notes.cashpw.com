@@ -2,7 +2,7 @@
 title = "Barbara Tipton"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-13T14:01:00-07:00
-lastmod = 2023-12-05T13:45:44-08:00
+lastmod = 2023-12-05T19:54:53-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

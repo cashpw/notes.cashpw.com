@@ -2,7 +2,7 @@
 title = "Meta level"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:33:00-08:00
-lastmod = 2023-12-05T14:27:15-08:00
+lastmod = 2023-12-05T20:36:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

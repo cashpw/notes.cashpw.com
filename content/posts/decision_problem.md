@@ -2,7 +2,7 @@
 title = "Decision problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T09:36:00-08:00
-lastmod = 2023-12-05T14:00:28-08:00
+lastmod = 2023-12-05T20:07:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

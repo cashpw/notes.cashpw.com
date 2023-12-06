@@ -2,7 +2,7 @@
 title = "The card says moops"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:28:00-07:00
-lastmod = 2023-12-05T14:54:27-08:00
+lastmod = 2023-12-05T21:10:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

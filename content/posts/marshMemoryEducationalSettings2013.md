@@ -2,7 +2,7 @@
 title = "Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T21:10:00-08:00
-lastmod = 2023-12-05T14:25:42-08:00
+lastmod = 2023-12-05T20:34:19-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

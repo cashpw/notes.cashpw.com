@@ -2,7 +2,7 @@
 title = "Smart Guy Productivity Pitfalls"
 author = ["Cash Weaver"]
 date = 2022-12-20T10:22:00-08:00
-lastmod = 2023-12-05T14:48:14-08:00
+lastmod = 2023-12-05T21:02:19-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

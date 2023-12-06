@@ -2,7 +2,7 @@
 title = "Spaced repetition"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2023-12-05T14:49:24-08:00
+lastmod = 2023-12-05T21:03:57-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

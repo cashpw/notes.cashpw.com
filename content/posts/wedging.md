@@ -2,7 +2,7 @@
 title = "Wedging"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-12T07:32:00-07:00
-lastmod = 2023-12-05T15:04:06-08:00
+lastmod = 2023-12-05T21:23:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

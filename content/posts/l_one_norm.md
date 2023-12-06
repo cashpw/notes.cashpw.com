@@ -2,7 +2,7 @@
 title = "L-one norm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T08:43:00-08:00
-lastmod = 2023-12-05T14:21:07-08:00
+lastmod = 2023-12-05T20:28:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

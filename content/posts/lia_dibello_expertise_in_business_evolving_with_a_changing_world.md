@@ -2,7 +2,7 @@
 title = "Lia DiBello | Expertise in Business: Evolving with a Changing World"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T08:37:00-07:00
-lastmod = 2023-12-05T14:23:04-08:00
+lastmod = 2023-12-05T20:31:14-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

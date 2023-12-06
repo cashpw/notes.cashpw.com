@@ -2,7 +2,7 @@
 title = "Three components of emotion"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-13T01:03:00-08:00
-lastmod = 2023-12-05T14:57:20-08:00
+lastmod = 2023-12-05T21:14:41-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Legible"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T08:21:00-08:00
-lastmod = 2023-12-05T14:22:19-08:00
+lastmod = 2023-12-05T20:30:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

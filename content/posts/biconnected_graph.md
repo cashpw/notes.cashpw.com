@@ -2,7 +2,7 @@
 title = "Biconnected graph"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T20:23:00-07:00
-lastmod = 2023-12-05T13:47:15-08:00
+lastmod = 2023-12-05T19:56:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

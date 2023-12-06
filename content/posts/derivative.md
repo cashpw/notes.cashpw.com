@@ -2,7 +2,7 @@
 title = "Derivative (math)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:20:00-08:00
-lastmod = 2023-12-05T14:01:06-08:00
+lastmod = 2023-12-05T20:07:36-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

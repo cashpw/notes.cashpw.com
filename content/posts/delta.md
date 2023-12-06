@@ -2,7 +2,7 @@
 title = "Delta (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:18:00-08:00
-lastmod = 2023-12-05T14:00:53-08:00
+lastmod = 2023-12-05T20:07:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

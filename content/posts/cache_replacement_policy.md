@@ -2,7 +2,7 @@
 title = "Cache replacement policy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T09:17:00-07:00
-lastmod = 2023-12-05T13:50:28-08:00
+lastmod = 2023-12-05T19:58:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

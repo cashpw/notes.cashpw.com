@@ -2,7 +2,7 @@
 title = "Fernando Borretti | Effective Spaced Repetition"
 author = ["Cash Weaver"]
 date = 2023-04-11T15:21:00-07:00
-lastmod = 2023-12-05T14:06:12-08:00
+lastmod = 2023-12-05T20:12:31-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

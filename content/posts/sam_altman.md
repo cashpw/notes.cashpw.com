@@ -2,7 +2,7 @@
 title = "Sam Altman"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:46:00-08:00
-lastmod = 2023-12-05T14:44:02-08:00
+lastmod = 2023-12-05T20:56:34-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

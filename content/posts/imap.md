@@ -2,7 +2,7 @@
 title = "IMAP"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-09T08:31:00-08:00
-lastmod = 2023-12-05T14:14:08-08:00
+lastmod = 2023-12-05T20:20:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

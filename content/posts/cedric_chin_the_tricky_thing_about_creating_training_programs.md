@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Tricky Thing About Creating Training Programs"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:59:00-07:00
-lastmod = 2023-12-05T13:53:07-08:00
+lastmod = 2023-12-05T20:00:43-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

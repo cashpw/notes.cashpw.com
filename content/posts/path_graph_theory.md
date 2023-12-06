@@ -2,7 +2,7 @@
 title = "Path (graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T11:58:00-08:00
-lastmod = 2023-12-05T14:34:19-08:00
+lastmod = 2023-12-05T20:44:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Fibonacci heap"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T13:55:00-08:00
-lastmod = 2023-12-05T14:06:18-08:00
+lastmod = 2023-12-05T20:12:37-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

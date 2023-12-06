@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture"
 author = ["Cash Weaver"]
 date = 2023-08-04T18:11:00-07:00
-lastmod = 2023-12-05T13:43:04-08:00
+lastmod = 2023-12-05T19:52:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

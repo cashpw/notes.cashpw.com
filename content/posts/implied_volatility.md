@@ -2,7 +2,7 @@
 title = "Implied volatility"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:08:00-08:00
-lastmod = 2023-12-05T14:14:28-08:00
+lastmod = 2023-12-05T20:21:16-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

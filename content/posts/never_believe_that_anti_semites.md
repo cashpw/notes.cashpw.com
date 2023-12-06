@@ -2,7 +2,7 @@
 title = "Never believe that anti-Semites"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-01T18:15:00-07:00
-lastmod = 2023-12-05T14:30:41-08:00
+lastmod = 2023-12-05T20:40:13-08:00
 tags = ["hastodo", "quote", "hastodo", "quote"]
 categories = ["hastodo", "quote"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Monika Lindquist | Getting Consumers To Say Yes: Commitment Consistency"
 author = ["Cash Weaver"]
 date = 2022-12-24T15:35:00-08:00
-lastmod = 2023-12-05T14:28:43-08:00
+lastmod = 2023-12-05T20:37:53-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

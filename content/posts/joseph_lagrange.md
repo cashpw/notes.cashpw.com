@@ -2,7 +2,7 @@
 title = "Joseph Lagrange"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:20:00-08:00
-lastmod = 2023-12-05T14:18:57-08:00
+lastmod = 2023-12-05T20:26:20-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

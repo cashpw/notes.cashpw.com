@@ -2,7 +2,7 @@
 title = "Selection algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:10:00-07:00
-lastmod = 2023-12-05T14:45:40-08:00
+lastmod = 2023-12-05T20:58:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Applied cognitive task analysis"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-08T15:18:00-07:00
-lastmod = 2023-12-05T13:44:07-08:00
+lastmod = 2023-12-05T19:53:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

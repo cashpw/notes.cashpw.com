@@ -2,7 +2,7 @@
 title = "Jason Fried | Habits Always Form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:53:00-08:00
-lastmod = 2023-12-05T14:07:52-08:00
+lastmod = 2023-12-05T20:14:13-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

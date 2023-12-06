@@ -2,7 +2,7 @@
 title = "Linear combination"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T10:21:00-08:00
-lastmod = 2023-12-05T14:23:25-08:00
+lastmod = 2023-12-05T20:31:39-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

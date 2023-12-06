@@ -2,7 +2,7 @@
 title = "Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts"
 author = ["Cash Weaver"]
 date = 2023-06-30T19:33:00-07:00
-lastmod = 2023-12-05T13:52:07-08:00
+lastmod = 2023-12-05T19:59:50-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

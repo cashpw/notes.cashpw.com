@@ -2,7 +2,7 @@
 title = "Nick's class"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:33:00-08:00
-lastmod = 2023-12-05T14:31:11-08:00
+lastmod = 2023-12-05T20:40:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

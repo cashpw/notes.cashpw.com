@@ -2,7 +2,7 @@
 title = "NATO phonetic alphabet"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-26T07:41:00-07:00
-lastmod = 2023-12-05T14:15:14-08:00
+lastmod = 2023-12-05T20:22:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

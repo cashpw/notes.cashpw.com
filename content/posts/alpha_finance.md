@@ -2,7 +2,7 @@
 title = "Alpha (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:36:00-08:00
-lastmod = 2023-12-05T13:42:32-08:00
+lastmod = 2023-12-05T19:52:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

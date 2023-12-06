@@ -2,7 +2,7 @@
 title = "Anna Salamon | The Correct Response to Uncertainty Is not Half-Speed"
 author = ["Cash Weaver"]
 date = 2023-07-27T08:17:00-07:00
-lastmod = 2023-12-05T13:43:25-08:00
+lastmod = 2023-12-05T19:53:13-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

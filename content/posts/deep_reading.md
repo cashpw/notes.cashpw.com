@@ -2,7 +2,7 @@
 title = "Deep-dive reading"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T08:26:00-07:00
-lastmod = 2023-12-05T14:00:35-08:00
+lastmod = 2023-12-05T20:07:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

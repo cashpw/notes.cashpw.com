@@ -2,7 +2,7 @@
 title = "And yet It moves"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T16:30:00-08:00
-lastmod = 2023-12-05T13:38:19-08:00
+lastmod = 2023-12-05T19:49:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

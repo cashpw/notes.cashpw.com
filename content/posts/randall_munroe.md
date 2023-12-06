@@ -2,7 +2,7 @@
 title = "Randall Munroe"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-27T08:54:00-07:00
-lastmod = 2023-12-05T14:40:21-08:00
+lastmod = 2023-12-05T20:51:54-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

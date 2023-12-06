@@ -2,7 +2,7 @@
 title = "If you can't fly then run"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:52:00-07:00
-lastmod = 2023-12-05T14:13:42-08:00
+lastmod = 2023-12-05T20:20:25-08:00
 tags = ["hastodo", "quote", "hastodo", "quote"]
 categories = ["hastodo", "quote"]
 draft = false

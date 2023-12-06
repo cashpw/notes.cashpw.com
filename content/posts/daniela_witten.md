@@ -2,7 +2,7 @@
 title = "Daniela Witten"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:19:00-08:00
-lastmod = 2023-12-05T13:59:14-08:00
+lastmod = 2023-12-05T20:05:52-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

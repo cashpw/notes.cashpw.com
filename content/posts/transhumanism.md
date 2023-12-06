@@ -2,7 +2,7 @@
 title = "Transhumanism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:10:00-08:00
-lastmod = 2023-12-05T14:59:19-08:00
+lastmod = 2023-12-05T21:17:33-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

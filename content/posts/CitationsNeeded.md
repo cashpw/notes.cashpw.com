@@ -2,7 +2,7 @@
 title = "Citations Needed"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T11:10:00-07:00
-lastmod = 2023-12-05T13:37:50-08:00
+lastmod = 2023-12-05T19:49:18-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

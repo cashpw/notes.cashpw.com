@@ -2,7 +2,7 @@
 title = "Silvanus Thompson | Calculus Made Easy"
 author = ["Cash Weaver"]
 date = 2023-01-18T06:55:00-08:00
-lastmod = 2023-12-05T14:47:13-08:00
+lastmod = 2023-12-05T21:00:55-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

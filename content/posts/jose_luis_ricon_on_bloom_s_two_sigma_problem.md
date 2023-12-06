@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction"
 author = ["Cash Weaver"]
 date = 2023-01-11T10:07:00-08:00
-lastmod = 2023-12-05T14:18:35-08:00
+lastmod = 2023-12-05T20:25:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

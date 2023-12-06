@@ -2,7 +2,7 @@
 title = "Composability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:47:00-08:00
-lastmod = 2023-12-05T13:56:19-08:00
+lastmod = 2023-12-05T20:03:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

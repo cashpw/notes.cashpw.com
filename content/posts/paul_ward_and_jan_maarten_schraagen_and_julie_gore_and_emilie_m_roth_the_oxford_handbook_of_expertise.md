@@ -2,7 +2,7 @@
 title = "Paul Ward and Jan Maarten Schraagen and Julie Gore and Emilie M. Roth | The Oxford Handbook of Expertise"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:35:00-07:00
-lastmod = 2023-12-05T14:34:45-08:00
+lastmod = 2023-12-05T20:45:05-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

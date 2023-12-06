@@ -2,7 +2,7 @@
 title = "Monitoring costs"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T07:58:00-08:00
-lastmod = 2023-12-05T14:28:49-08:00
+lastmod = 2023-12-05T20:38:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

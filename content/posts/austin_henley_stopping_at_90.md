@@ -2,7 +2,7 @@
 title = "Austin Henley | Stopping at 90%"
 author = ["Cash Weaver"]
 date = 2023-12-04T07:45:00-08:00
-lastmod = 2023-12-05T13:45:12-08:00
+lastmod = 2023-12-05T19:54:30-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

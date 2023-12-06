@@ -2,7 +2,7 @@
 title = "Leading indicator"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-28T08:18:00-08:00
-lastmod = 2023-12-05T14:21:48-08:00
+lastmod = 2023-12-05T20:29:43-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Cognitive transformation theory"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T16:04:00-07:00
-lastmod = 2023-12-05T13:55:33-08:00
+lastmod = 2023-12-05T20:02:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

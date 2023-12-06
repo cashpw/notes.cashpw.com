@@ -2,7 +2,7 @@
 title = "Edward Murrow"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-22T09:26:00-08:00
-lastmod = 2023-12-05T14:03:38-08:00
+lastmod = 2023-12-05T20:10:01-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

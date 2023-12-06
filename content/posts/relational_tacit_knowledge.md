@@ -2,7 +2,7 @@
 title = "Relational tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T22:20:00-07:00
-lastmod = 2023-12-05T14:41:47-08:00
+lastmod = 2023-12-05T20:53:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

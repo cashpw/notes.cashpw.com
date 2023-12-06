@@ -2,7 +2,7 @@
 title = "Sungwon Jung, S. Pramanik | An Efficient Path Computation Model for Hierarchically Structured Topographical Road Maps"
 author = ["Cash Weaver"]
 date = 2023-06-27T15:44:00-07:00
-lastmod = 2023-12-05T14:52:06-08:00
+lastmod = 2023-12-05T21:07:32-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Speculative evolution"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T15:04:00-08:00
-lastmod = 2023-12-05T13:38:56-08:00
+lastmod = 2023-12-05T19:50:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

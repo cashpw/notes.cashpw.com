@@ -2,7 +2,7 @@
 title = "Bisque firing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:56:00-07:00
-lastmod = 2023-12-05T13:48:16-08:00
+lastmod = 2023-12-05T19:56:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

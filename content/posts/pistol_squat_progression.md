@@ -2,7 +2,7 @@
 title = "Pistol squat progression"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-10T09:17:00-07:00
-lastmod = 2023-12-05T14:35:56-08:00
+lastmod = 2023-12-05T20:46:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

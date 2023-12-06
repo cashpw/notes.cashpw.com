@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain"
 author = ["Cash Weaver"]
 date = 2023-01-11T20:52:00-08:00
-lastmod = 2023-12-05T14:18:42-08:00
+lastmod = 2023-12-05T20:26:01-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

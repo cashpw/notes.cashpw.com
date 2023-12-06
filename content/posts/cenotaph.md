@@ -2,7 +2,7 @@
 title = "Cenotaph"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-24T10:45:00-07:00
-lastmod = 2023-12-05T13:53:17-08:00
+lastmod = 2023-12-05T20:00:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

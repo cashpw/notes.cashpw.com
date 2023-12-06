@@ -2,7 +2,7 @@
 title = "Ultimate cause"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T11:43:00-08:00
-lastmod = 2023-12-05T15:00:47-08:00
+lastmod = 2023-12-05T21:19:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

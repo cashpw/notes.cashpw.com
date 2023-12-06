@@ -2,7 +2,7 @@
 title = "Treasure map (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T19:58:00-07:00
-lastmod = 2023-12-05T14:59:31-08:00
+lastmod = 2023-12-05T21:17:49-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

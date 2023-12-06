@@ -2,7 +2,7 @@
 title = "Technologist"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-17T07:57:00-08:00
-lastmod = 2023-12-05T14:53:55-08:00
+lastmod = 2023-12-05T21:10:02-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Dark forest theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T14:09:00-07:00
-lastmod = 2023-12-05T13:59:53-08:00
+lastmod = 2023-12-05T20:06:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

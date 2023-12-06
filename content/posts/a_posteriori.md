@@ -2,7 +2,7 @@
 title = "A posteriori"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T11:18:00-08:00
-lastmod = 2023-12-05T13:39:26-08:00
+lastmod = 2023-12-05T19:50:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

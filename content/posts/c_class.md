@@ -2,7 +2,7 @@
 title = "C++ class"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:06:00-07:00
-lastmod = 2023-12-05T13:50:09-08:00
+lastmod = 2023-12-05T19:58:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

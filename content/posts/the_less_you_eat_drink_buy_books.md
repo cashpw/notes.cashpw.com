@@ -2,7 +2,7 @@
 title = "The less you eat, drink, buy books"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-02T08:22:00-08:00
-lastmod = 2023-12-05T14:55:03-08:00
+lastmod = 2023-12-05T21:11:37-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

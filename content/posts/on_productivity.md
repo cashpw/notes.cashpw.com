@@ -2,7 +2,7 @@
 title = "On productivity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T19:58:00-07:00
-lastmod = 2023-12-05T14:32:44-08:00
+lastmod = 2023-12-05T20:42:38-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

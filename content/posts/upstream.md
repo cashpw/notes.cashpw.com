@@ -2,7 +2,7 @@
 title = "Upstream"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T09:53:00-07:00
-lastmod = 2023-12-05T15:01:20-08:00
+lastmod = 2023-12-05T21:20:02-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Donald Hall | The Third Thing"
 author = ["Cash Weaver"]
 date = 2023-09-10T10:02:00-07:00
-lastmod = 2023-12-05T14:02:31-08:00
+lastmod = 2023-12-05T20:08:57-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

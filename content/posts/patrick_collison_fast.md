@@ -2,7 +2,7 @@
 title = "Patrick Collison | Fast"
 author = ["Cash Weaver"]
 date = 2023-10-26T20:05:00-07:00
-lastmod = 2023-12-05T14:34:26-08:00
+lastmod = 2023-12-05T20:44:42-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

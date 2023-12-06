@@ -2,7 +2,7 @@
 title = "Personal emacs config"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-28T08:17:00-08:00
-lastmod = 2023-12-05T14:35:29-08:00
+lastmod = 2023-12-05T20:45:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

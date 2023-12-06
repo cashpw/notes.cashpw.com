@@ -2,7 +2,7 @@
 title = "Kevin Simler | Social Status: Down the Rabbit Hole"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:26:00-08:00
-lastmod = 2023-12-05T14:20:23-08:00
+lastmod = 2023-12-05T20:28:01-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

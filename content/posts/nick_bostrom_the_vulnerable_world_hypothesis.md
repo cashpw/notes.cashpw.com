@@ -2,7 +2,7 @@
 title = "Nick Bostrom | The Vulnerable World Hypothesis"
 author = ["Cash Weaver"]
 date = 2023-01-02T10:08:00-08:00
-lastmod = 2023-12-05T14:31:04-08:00
+lastmod = 2023-12-05T20:40:39-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

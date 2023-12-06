@@ -2,7 +2,7 @@
 title = "Gadfly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T18:41:00-07:00
-lastmod = 2023-12-05T14:08:10-08:00
+lastmod = 2023-12-05T20:14:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

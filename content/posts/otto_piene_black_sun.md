@@ -2,7 +2,7 @@
 title = "Otto Piene | Black Sun"
 author = ["Cash Weaver"]
 date = 2023-08-07T18:54:00-07:00
-lastmod = 2023-12-05T14:33:56-08:00
+lastmod = 2023-12-05T20:44:05-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

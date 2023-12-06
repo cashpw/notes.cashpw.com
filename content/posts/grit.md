@@ -2,7 +2,7 @@
 title = "Grit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:36:00-07:00
-lastmod = 2023-12-05T14:10:31-08:00
+lastmod = 2023-12-05T20:16:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

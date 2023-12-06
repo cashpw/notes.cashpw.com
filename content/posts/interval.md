@@ -2,7 +2,7 @@
 title = "Interval"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T08:40:00-08:00
-lastmod = 2023-12-05T14:15:23-08:00
+lastmod = 2023-12-05T20:22:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

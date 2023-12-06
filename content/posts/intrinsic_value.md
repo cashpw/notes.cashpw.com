@@ -2,7 +2,7 @@
 title = "Intrinsic value (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:43:00-08:00
-lastmod = 2023-12-05T14:15:27-08:00
+lastmod = 2023-12-05T20:22:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

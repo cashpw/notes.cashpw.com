@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Collecting Material Feels More Useful than It Usually Is"
 author = ["Cash Weaver"]
 date = 2023-08-04T17:26:00-07:00
-lastmod = 2023-12-05T14:26:24-08:00
+lastmod = 2023-12-05T20:35:09-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Favorites"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T13:56:00-08:00
-lastmod = 2023-12-05T14:06:02-08:00
+lastmod = 2023-12-05T20:12:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

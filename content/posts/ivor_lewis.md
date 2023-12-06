@@ -2,7 +2,7 @@
 title = "Ivor Lewis"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-07T12:47:00-07:00
-lastmod = 2023-12-05T14:16:14-08:00
+lastmod = 2023-12-05T20:23:13-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Simultaneous game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2023-12-05T14:47:21-08:00
+lastmod = 2023-12-05T21:01:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

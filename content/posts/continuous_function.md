@@ -2,7 +2,7 @@
 title = "Continuous function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T06:49:00-08:00
-lastmod = 2023-12-05T13:57:01-08:00
+lastmod = 2023-12-05T20:03:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

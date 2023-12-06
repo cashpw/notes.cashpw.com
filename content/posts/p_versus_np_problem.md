@@ -2,7 +2,7 @@
 title = "P versus NP problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T09:29:00-08:00
-lastmod = 2023-12-05T14:34:04-08:00
+lastmod = 2023-12-05T20:44:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Andy Matuschak | Write Notes for Yourself by Default, Disregarding Audience"
 author = ["Cash Weaver"]
 date = 2023-08-03T08:07:00-07:00
-lastmod = 2023-12-05T14:26:28-08:00
+lastmod = 2023-12-05T20:35:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

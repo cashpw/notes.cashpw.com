@@ -2,7 +2,7 @@
 title = "ExRx | Bench Press Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T10:57:00-07:00
-lastmod = 2023-12-05T14:05:12-08:00
+lastmod = 2023-12-05T20:11:32-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

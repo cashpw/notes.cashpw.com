@@ -2,7 +2,7 @@
 title = "Nelson Elhage | Computers Can Be Understood"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2023-12-05T14:03:47-08:00
+lastmod = 2023-12-05T20:10:10-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

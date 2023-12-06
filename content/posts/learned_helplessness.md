@@ -2,7 +2,7 @@
 title = "Learned helplessness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T08:35:00-08:00
-lastmod = 2023-12-05T14:22:05-08:00
+lastmod = 2023-12-05T20:30:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

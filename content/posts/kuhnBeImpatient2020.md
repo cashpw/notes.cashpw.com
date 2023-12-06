@@ -2,7 +2,7 @@
 title = "Ben Kuhn | Be Impatient"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:36:00-08:00
-lastmod = 2023-12-05T14:20:55-08:00
+lastmod = 2023-12-05T20:28:40-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

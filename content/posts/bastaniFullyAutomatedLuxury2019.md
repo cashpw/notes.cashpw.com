@@ -2,7 +2,7 @@
 title = "Aaron Bastani | Fully Automated Luxury Communism: A Manifesto"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T10:11:00-07:00
-lastmod = 2023-12-05T13:46:00-08:00
+lastmod = 2023-12-05T19:55:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

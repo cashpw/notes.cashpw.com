@@ -2,7 +2,7 @@
 title = "Product rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:18:00-08:00
-lastmod = 2023-12-05T14:37:55-08:00
+lastmod = 2023-12-05T20:48:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

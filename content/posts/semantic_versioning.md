@@ -2,7 +2,7 @@
 title = "Semantic versioning"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-29T06:42:00-07:00
-lastmod = 2023-12-05T14:45:55-08:00
+lastmod = 2023-12-05T20:59:05-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

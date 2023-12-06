@@ -2,7 +2,7 @@
 title = "A priori"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T11:20:00-08:00
-lastmod = 2023-12-05T13:39:28-08:00
+lastmod = 2023-12-05T19:50:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

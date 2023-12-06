@@ -2,7 +2,7 @@
 title = "Stephen Kuenzli"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:49:00-08:00
-lastmod = 2023-12-05T14:51:06-08:00
+lastmod = 2023-12-05T21:06:12-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

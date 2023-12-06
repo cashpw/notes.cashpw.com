@@ -2,7 +2,7 @@
 title = "Binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2023-12-05T13:47:59-08:00
+lastmod = 2023-12-05T19:56:44-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

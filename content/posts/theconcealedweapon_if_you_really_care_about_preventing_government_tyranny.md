@@ -2,7 +2,7 @@
 title = "theconcealedweapon | If You Really Care about Preventing Government Tyranny"
 author = ["Cash Weaver"]
 date = 2023-03-06T06:29:00-08:00
-lastmod = 2023-12-05T14:56:04-08:00
+lastmod = 2023-12-05T21:13:00-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

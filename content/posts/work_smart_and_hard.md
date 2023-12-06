@@ -2,7 +2,7 @@
 title = "Work smart and hard"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-22T11:42:00-08:00
-lastmod = 2023-12-05T15:05:06-08:00
+lastmod = 2023-12-05T21:24:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

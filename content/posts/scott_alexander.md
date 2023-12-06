@@ -2,7 +2,7 @@
 title = "Scott Alexander"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:44:00-08:00
-lastmod = 2023-12-05T14:44:36-08:00
+lastmod = 2023-12-05T20:57:19-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Creamy vegan mushroom lasagna"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-31T08:21:00-07:00
-lastmod = 2023-12-05T13:57:57-08:00
+lastmod = 2023-12-05T20:04:42-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false

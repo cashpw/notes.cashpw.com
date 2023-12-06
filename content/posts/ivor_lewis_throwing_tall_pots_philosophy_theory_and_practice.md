@@ -2,7 +2,7 @@
 title = "Ivor Lewis | Throwing Tall Pots: Philosophy, Theory, and Practice"
 author = ["Cash Weaver"]
 date = 2023-08-07T12:47:00-07:00
-lastmod = 2023-12-05T14:16:18-08:00
+lastmod = 2023-12-05T20:23:16-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

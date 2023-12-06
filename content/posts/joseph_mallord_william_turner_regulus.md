@@ -2,7 +2,7 @@
 title = "Joseph Mallord William Turner | Regulus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-10T09:08:00-07:00
-lastmod = 2023-12-05T14:19:08-08:00
+lastmod = 2023-12-05T20:26:32-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

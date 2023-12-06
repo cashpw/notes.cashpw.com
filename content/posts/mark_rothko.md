@@ -2,7 +2,7 @@
 title = "Mark Rothko"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-11T12:03:00-08:00
-lastmod = 2023-12-05T14:25:37-08:00
+lastmod = 2023-12-05T20:34:12-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

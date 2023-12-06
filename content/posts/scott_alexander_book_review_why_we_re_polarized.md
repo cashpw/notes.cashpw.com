@@ -2,7 +2,7 @@
 title = "Scott Alexander | Book Review: Why We're Polarized"
 author = ["Cash Weaver"]
 date = 2023-01-11T14:54:00-08:00
-lastmod = 2023-12-05T14:44:51-08:00
+lastmod = 2023-12-05T20:57:41-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

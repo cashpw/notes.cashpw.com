@@ -1,7 +1,7 @@
 +++
 title = "Notes on Reitman, Jason, Thank You for Smoking"
 author = ["Cash Prokop-Weaver"]
-lastmod = 2023-12-05T14:41:40-08:00
+lastmod = 2023-12-05T20:53:34-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false

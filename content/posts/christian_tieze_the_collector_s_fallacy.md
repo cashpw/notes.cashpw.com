@@ -2,7 +2,7 @@
 title = "Christian Tieze | The Collector's Fallacy"
 author = ["Cash Weaver"]
 date = 2023-08-04T17:35:00-07:00
-lastmod = 2023-12-05T13:54:45-08:00
+lastmod = 2023-12-05T20:02:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

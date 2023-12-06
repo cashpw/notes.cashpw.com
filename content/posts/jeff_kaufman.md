@@ -2,7 +2,7 @@
 title = "Jeff Kaufman"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-06T08:16:00-08:00
-lastmod = 2023-12-05T14:17:24-08:00
+lastmod = 2023-12-05T20:24:30-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

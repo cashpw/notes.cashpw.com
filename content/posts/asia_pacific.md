@@ -2,7 +2,7 @@
 title = "Asia-Pacific"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-22T10:25:00-07:00
-lastmod = 2023-12-05T13:44:28-08:00
+lastmod = 2023-12-05T19:53:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

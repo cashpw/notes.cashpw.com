@@ -2,7 +2,7 @@
 title = "Scott Alexander | For, Then Against, High-Saturated-Fat Diets"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:33:00-08:00
-lastmod = 2023-12-05T13:41:48-08:00
+lastmod = 2023-12-05T19:52:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

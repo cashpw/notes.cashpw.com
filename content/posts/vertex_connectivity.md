@@ -2,7 +2,7 @@
 title = "Vertex-connectivity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T20:29:00-07:00
-lastmod = 2023-12-05T15:02:43-08:00
+lastmod = 2023-12-05T21:21:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

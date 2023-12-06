@@ -2,7 +2,7 @@
 title = "Ben Kuhn | In Defense of Blub Studies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T05:25:00-08:00
-lastmod = 2023-12-05T14:20:59-08:00
+lastmod = 2023-12-05T20:28:44-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

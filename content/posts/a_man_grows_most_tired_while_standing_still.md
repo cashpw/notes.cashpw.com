@@ -2,7 +2,7 @@
 title = "A man grows most tired while standing still"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-11T17:18:00-08:00
-lastmod = 2023-12-05T13:39:19-08:00
+lastmod = 2023-12-05T19:50:21-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

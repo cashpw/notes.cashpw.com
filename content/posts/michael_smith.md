@@ -2,7 +2,7 @@
 title = "Michael Smith"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:38:00-08:00
-lastmod = 2023-12-05T14:27:45-08:00
+lastmod = 2023-12-05T20:36:45-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Zach Tellman | Two Concepts of Legibility"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:23:00-08:00
-lastmod = 2023-12-05T15:06:28-08:00
+lastmod = 2023-12-05T21:26:26-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

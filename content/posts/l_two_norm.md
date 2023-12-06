@@ -2,7 +2,7 @@
 title = "L-two norm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T08:45:00-08:00
-lastmod = 2023-12-05T14:21:10-08:00
+lastmod = 2023-12-05T20:28:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Row echelon form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T11:02:00-08:00
-lastmod = 2023-12-05T14:43:25-08:00
+lastmod = 2023-12-05T20:55:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

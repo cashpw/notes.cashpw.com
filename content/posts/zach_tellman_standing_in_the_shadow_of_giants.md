@@ -2,7 +2,7 @@
 title = "Zach Tellman | Standing in the Shadow of Giants"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:59:00-08:00
-lastmod = 2023-12-05T15:06:22-08:00
+lastmod = 2023-12-05T21:26:18-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Speed is a virtue"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-19T17:34:00-07:00
-lastmod = 2023-12-05T14:49:43-08:00
+lastmod = 2023-12-05T21:04:23-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

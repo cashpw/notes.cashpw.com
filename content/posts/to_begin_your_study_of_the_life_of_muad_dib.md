@@ -2,7 +2,7 @@
 title = "To begin your study of the life of Muad'Dib"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T08:39:00-07:00
-lastmod = 2023-12-05T14:58:10-08:00
+lastmod = 2023-12-05T21:15:55-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

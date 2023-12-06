@@ -2,7 +2,7 @@
 title = "One Thousand Tips Do Not Make a System"
 author = ["Cash Weaver"]
 date = 2023-12-04T15:10:00-08:00
-lastmod = 2023-12-05T14:33:04-08:00
+lastmod = 2023-12-05T20:43:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

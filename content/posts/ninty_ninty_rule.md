@@ -2,7 +2,7 @@
 title = "Ninety-ninety rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-04T10:49:00-08:00
-lastmod = 2023-12-05T14:31:26-08:00
+lastmod = 2023-12-05T20:41:05-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

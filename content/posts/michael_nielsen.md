@@ -2,7 +2,7 @@
 title = "Michael Nielsen"
 author = ["Cash Prokop-Weaver"]
 date = 2023-04-11T16:52:00-07:00
-lastmod = 2023-12-05T14:27:38-08:00
+lastmod = 2023-12-05T20:36:37-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

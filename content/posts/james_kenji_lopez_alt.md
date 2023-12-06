@@ -2,7 +2,7 @@
 title = "James Kenji López-Alt"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-07T19:04:00-07:00
-lastmod = 2023-12-05T14:16:54-08:00
+lastmod = 2023-12-05T20:23:55-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

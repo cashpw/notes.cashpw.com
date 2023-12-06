@@ -2,7 +2,7 @@
 title = "The right path? No. The only path? Yes."
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-28T15:19:00-07:00
-lastmod = 2023-12-05T14:55:45-08:00
+lastmod = 2023-12-05T21:12:35-08:00
 tags = ["hastodo", "quote", "hastodo", "quote"]
 categories = ["hastodo", "quote"]
 draft = false

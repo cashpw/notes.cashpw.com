@@ -2,7 +2,7 @@
 title = "Caleb Schoepp | Productivity Porn"
 author = ["Cash Weaver"]
 date = 2022-11-23T14:49:00-08:00
-lastmod = 2023-12-05T13:50:41-08:00
+lastmod = 2023-12-05T19:58:49-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

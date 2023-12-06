@@ -2,7 +2,7 @@
 title = "On parenting"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-24T17:39:00-07:00
-lastmod = 2023-12-05T14:32:40-08:00
+lastmod = 2023-12-05T20:42:33-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

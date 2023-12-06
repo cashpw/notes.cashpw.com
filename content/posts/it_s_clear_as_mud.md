@@ -2,7 +2,7 @@
 title = "It's Clear As Mud"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-12T16:45:00-07:00
-lastmod = 2023-12-05T14:15:47-08:00
+lastmod = 2023-12-05T20:22:43-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

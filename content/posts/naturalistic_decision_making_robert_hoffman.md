@@ -2,7 +2,7 @@
 title = "Naturalistic Decision Making | Robert Hoffman"
 author = ["Cash Weaver"]
 date = 2023-07-30T07:42:00-07:00
-lastmod = 2023-12-05T14:30:16-08:00
+lastmod = 2023-12-05T20:39:43-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

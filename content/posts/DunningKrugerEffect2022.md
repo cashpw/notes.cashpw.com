@@ -2,7 +2,7 @@
 title = "Dunning-Kruger effect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:07:00-08:00
-lastmod = 2023-12-05T13:38:00-08:00
+lastmod = 2023-12-05T19:49:26-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

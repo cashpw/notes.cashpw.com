@@ -2,7 +2,7 @@
 title = "AI as a collaborator/assistant"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-20T09:30:00-07:00
-lastmod = 2023-12-05T13:40:59-08:00
+lastmod = 2023-12-05T19:51:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

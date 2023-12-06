@@ -2,7 +2,7 @@
 title = "Jessica Leung, Dmytro Matsypura | Python Language Companion to Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares"
 author = ["Cash Weaver"]
 date = 2022-12-24T09:33:00-08:00
-lastmod = 2023-12-05T14:17:50-08:00
+lastmod = 2023-12-05T20:25:00-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

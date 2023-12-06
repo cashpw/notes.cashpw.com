@@ -2,7 +2,7 @@
 title = "John Ehrlichman"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-06T06:36:00-08:00
-lastmod = 2023-12-05T14:18:02-08:00
+lastmod = 2023-12-05T20:25:14-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

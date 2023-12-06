@@ -2,7 +2,7 @@
 title = "Minimum spanning tree"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:20:00-08:00
-lastmod = 2023-12-05T14:28:20-08:00
+lastmod = 2023-12-05T20:37:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Clary Illian"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:34:00-08:00
-lastmod = 2023-12-05T13:54:59-08:00
+lastmod = 2023-12-05T20:02:16-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

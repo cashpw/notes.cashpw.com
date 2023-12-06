@@ -2,7 +2,7 @@
 title = "Speed of light"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T09:06:00-07:00
-lastmod = 2023-12-05T14:49:46-08:00
+lastmod = 2023-12-05T21:04:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

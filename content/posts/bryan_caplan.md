@@ -2,7 +2,7 @@
 title = "Bryan Caplan"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:18:00-08:00
-lastmod = 2023-12-05T13:49:44-08:00
+lastmod = 2023-12-05T19:58:09-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

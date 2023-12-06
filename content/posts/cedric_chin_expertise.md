@@ -2,7 +2,7 @@
 title = "Cedric Chin | Expertise"
 author = ["Cash Weaver"]
 date = 2023-06-07T08:35:00-07:00
-lastmod = 2023-12-05T13:52:14-08:00
+lastmod = 2023-12-05T19:59:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

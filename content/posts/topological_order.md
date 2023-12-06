@@ -2,7 +2,7 @@
 title = "Topological order"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T07:31:00-08:00
-lastmod = 2023-12-05T14:58:33-08:00
+lastmod = 2023-12-05T21:16:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Antonio Gramsci"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T14:21:00-08:00
-lastmod = 2023-12-05T13:43:55-08:00
+lastmod = 2023-12-05T19:53:35-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

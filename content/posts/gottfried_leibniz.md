@@ -2,7 +2,7 @@
 title = "Gottfried Leibniz"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:19:00-08:00
-lastmod = 2023-12-05T14:09:51-08:00
+lastmod = 2023-12-05T20:16:13-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

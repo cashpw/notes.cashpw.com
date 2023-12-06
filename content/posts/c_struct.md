@@ -2,7 +2,7 @@
 title = "C++ struct"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:04:00-07:00
-lastmod = 2023-12-05T13:50:17-08:00
+lastmod = 2023-12-05T19:58:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

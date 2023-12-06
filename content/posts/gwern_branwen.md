@@ -2,7 +2,7 @@
 title = "Gwern Branwen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-11T15:34:00-08:00
-lastmod = 2023-12-05T14:10:50-08:00
+lastmod = 2023-12-05T20:17:18-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

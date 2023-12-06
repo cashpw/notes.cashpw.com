@@ -2,7 +2,7 @@
 title = "Radix tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:07:00-08:00
-lastmod = 2023-12-05T14:40:07-08:00
+lastmod = 2023-12-05T20:51:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

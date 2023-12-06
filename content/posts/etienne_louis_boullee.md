@@ -2,7 +2,7 @@
 title = "Étienne-Louis Boullée"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-24T10:43:00-07:00
-lastmod = 2023-12-05T14:04:37-08:00
+lastmod = 2023-12-05T20:10:58-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "The best time was yesterday; the second best time is now"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T15:25:00-07:00
-lastmod = 2023-12-05T14:54:23-08:00
+lastmod = 2023-12-05T21:10:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Ceramics Resources"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T20:16:00-08:00
-lastmod = 2023-12-05T13:53:40-08:00
+lastmod = 2023-12-05T20:01:09-08:00
 draft = false
 slug = "0b2473da-3953-457c-b68c-4abc7a235d17"
 +++

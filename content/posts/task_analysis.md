@@ -2,7 +2,7 @@
 title = "Task analysis"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T21:52:00-07:00
-lastmod = 2023-12-05T14:53:39-08:00
+lastmod = 2023-12-05T21:09:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

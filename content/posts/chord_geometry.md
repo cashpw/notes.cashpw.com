@@ -2,7 +2,7 @@
 title = "Chord (Geometry)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T16:25:00-08:00
-lastmod = 2023-12-05T13:54:39-08:00
+lastmod = 2023-12-05T20:01:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

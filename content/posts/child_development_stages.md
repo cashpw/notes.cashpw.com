@@ -2,7 +2,7 @@
 title = "Child development stages"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T07:53:00-08:00
-lastmod = 2023-12-05T13:54:06-08:00
+lastmod = 2023-12-05T20:01:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

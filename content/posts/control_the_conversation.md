@@ -2,7 +2,7 @@
 title = "Control the conversation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:08:00-07:00
-lastmod = 2023-12-05T13:57:22-08:00
+lastmod = 2023-12-05T20:04:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

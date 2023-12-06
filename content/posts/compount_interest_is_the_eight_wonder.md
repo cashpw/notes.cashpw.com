@@ -2,7 +2,7 @@
 title = "Compound interest is the eighth wonder of the world"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-11T20:10:00-08:00
-lastmod = 2023-12-05T13:56:28-08:00
+lastmod = 2023-12-05T20:03:30-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

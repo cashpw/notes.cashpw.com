@@ -2,7 +2,7 @@
 title = "Branch and bound"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T09:43:00-08:00
-lastmod = 2023-12-05T13:49:09-08:00
+lastmod = 2023-12-05T19:57:41-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

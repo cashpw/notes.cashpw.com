@@ -2,7 +2,7 @@
 title = "Strawmanning"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-01T08:35:00-08:00
-lastmod = 2023-12-05T14:51:18-08:00
+lastmod = 2023-12-05T21:06:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

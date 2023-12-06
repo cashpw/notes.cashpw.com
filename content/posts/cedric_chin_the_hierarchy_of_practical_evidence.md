@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Hierarchy of Practical Evidence"
 author = ["Cash Weaver"]
 date = 2023-07-30T08:17:00-07:00
-lastmod = 2023-12-05T13:52:44-08:00
+lastmod = 2023-12-05T20:00:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

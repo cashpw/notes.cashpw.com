@@ -2,7 +2,7 @@
 title = "Pete Marston"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-27T16:22:00-07:00
-lastmod = 2023-12-05T14:35:45-08:00
+lastmod = 2023-12-05T20:46:16-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

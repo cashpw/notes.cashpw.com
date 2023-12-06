@@ -2,7 +2,7 @@
 title = "Visionary architecture"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-24T10:39:00-07:00
-lastmod = 2023-12-05T15:02:52-08:00
+lastmod = 2023-12-05T21:21:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Read what you love until you love to read"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-03T16:33:00-07:00
-lastmod = 2023-12-05T14:40:47-08:00
+lastmod = 2023-12-05T20:52:28-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Once men turned their thinking over to machines"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:34:00-08:00
-lastmod = 2023-12-05T14:32:51-08:00
+lastmod = 2023-12-05T20:42:46-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

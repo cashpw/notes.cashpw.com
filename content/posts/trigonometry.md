@@ -2,7 +2,7 @@
 title = "Trigonometry"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T08:21:00-08:00
-lastmod = 2023-12-05T15:00:06-08:00
+lastmod = 2023-12-05T21:18:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

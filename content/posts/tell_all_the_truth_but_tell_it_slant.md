@@ -2,7 +2,7 @@
 title = "Emily Dickinson | Tell all the truth but tell it slant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-22T07:44:00-07:00
-lastmod = 2023-12-05T14:53:59-08:00
+lastmod = 2023-12-05T21:10:07-08:00
 tags = ["hastodo", "poem", "hastodo", "poem"]
 categories = ["hastodo", "poem"]
 draft = false

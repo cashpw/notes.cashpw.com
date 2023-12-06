@@ -2,7 +2,7 @@
 title = "Techne"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T07:52:00-08:00
-lastmod = 2023-12-05T14:53:47-08:00
+lastmod = 2023-12-05T21:09:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

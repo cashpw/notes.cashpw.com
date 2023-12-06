@@ -2,7 +2,7 @@
 title = "Black box"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T16:37:00-07:00
-lastmod = 2023-12-05T13:48:34-08:00
+lastmod = 2023-12-05T19:57:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "James Altucher"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:16:00-08:00
-lastmod = 2023-12-05T14:16:42-08:00
+lastmod = 2023-12-05T20:23:42-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

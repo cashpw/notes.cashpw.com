@@ -2,7 +2,7 @@
 title = "Jennifer Wright | Lessons of a Very Sexy Pirate Costume"
 author = ["Cash Weaver"]
 date = 2023-03-04T08:02:00-08:00
-lastmod = 2023-12-05T14:17:40-08:00
+lastmod = 2023-12-05T20:24:49-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

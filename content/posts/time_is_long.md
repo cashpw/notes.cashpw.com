@@ -2,7 +2,7 @@
 title = "Time is long"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T15:37:00-08:00
-lastmod = 2023-12-05T14:57:50-08:00
+lastmod = 2023-12-05T21:15:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

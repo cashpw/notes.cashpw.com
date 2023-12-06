@@ -2,7 +2,7 @@
 title = "Lagging indicator"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-28T08:07:00-08:00
-lastmod = 2023-12-05T14:21:17-08:00
+lastmod = 2023-12-05T20:29:05-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

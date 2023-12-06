@@ -2,7 +2,7 @@
 title = "Inverse function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T09:10:00-08:00
-lastmod = 2023-12-05T14:15:31-08:00
+lastmod = 2023-12-05T20:22:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

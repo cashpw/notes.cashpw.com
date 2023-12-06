@@ -2,7 +2,7 @@
 title = "Trie"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-21T19:18:00-07:00
-lastmod = 2023-12-05T15:00:01-08:00
+lastmod = 2023-12-05T21:18:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

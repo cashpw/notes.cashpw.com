@@ -2,7 +2,7 @@
 title = "Joseph K. Blitzstein, Jessica Hwang | Introduction to Probability"
 author = ["Cash Weaver"]
 date = 2023-01-18T06:19:00-08:00
-lastmod = 2023-12-05T14:18:54-08:00
+lastmod = 2023-12-05T20:26:16-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Ante bellum"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:17:00-08:00
-lastmod = 2023-12-05T13:43:37-08:00
+lastmod = 2023-12-05T19:53:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

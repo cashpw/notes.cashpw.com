@@ -2,7 +2,7 @@
 title = "Tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:47:00-07:00
-lastmod = 2023-12-05T14:59:37-08:00
+lastmod = 2023-12-05T21:17:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

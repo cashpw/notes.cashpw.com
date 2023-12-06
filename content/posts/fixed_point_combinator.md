@@ -2,7 +2,7 @@
 title = "Fixed-point combinator"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-16T19:50:00-08:00
-lastmod = 2023-12-05T14:07:01-08:00
+lastmod = 2023-12-05T20:13:19-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

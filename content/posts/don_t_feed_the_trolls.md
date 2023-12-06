@@ -2,7 +2,7 @@
 title = "Don't feed the trolls"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:15:00-07:00
-lastmod = 2023-12-05T14:02:19-08:00
+lastmod = 2023-12-05T20:08:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

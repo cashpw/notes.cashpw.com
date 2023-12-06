@@ -2,7 +2,7 @@
 title = "Will no one rid me of this turbulent priest?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-25T09:41:00-07:00
-lastmod = 2023-12-05T15:04:48-08:00
+lastmod = 2023-12-05T21:24:16-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Slack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:08:00-08:00
-lastmod = 2023-12-05T14:48:06-08:00
+lastmod = 2023-12-05T21:02:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

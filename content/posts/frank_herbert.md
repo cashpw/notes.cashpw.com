@@ -2,7 +2,7 @@
 title = "Frank Herbert"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:05:00-08:00
-lastmod = 2023-12-05T14:07:39-08:00
+lastmod = 2023-12-05T20:13:58-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

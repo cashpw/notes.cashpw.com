@@ -2,7 +2,7 @@
 title = "Adversarial interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:35:00-07:00
-lastmod = 2023-12-05T13:40:33-08:00
+lastmod = 2023-12-05T19:51:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

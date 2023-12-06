@@ -2,7 +2,7 @@
 title = "Data structures"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-27T19:44:00-07:00
-lastmod = 2023-12-05T14:00:01-08:00
+lastmod = 2023-12-05T20:06:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

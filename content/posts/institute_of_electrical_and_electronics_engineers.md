@@ -2,7 +2,7 @@
 title = "Institute of electrical and electronics engineers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T10:54:00-07:00
-lastmod = 2023-12-05T14:15:03-08:00
+lastmod = 2023-12-05T20:21:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

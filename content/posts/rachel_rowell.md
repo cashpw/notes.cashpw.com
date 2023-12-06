@@ -2,7 +2,7 @@
 title = "Rachel Rowell"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-08T07:15:00-08:00
-lastmod = 2023-12-05T14:40:03-08:00
+lastmod = 2023-12-05T20:51:32-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Drying oil"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-29T07:51:00-08:00
-lastmod = 2023-12-05T14:03:00-08:00
+lastmod = 2023-12-05T20:09:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

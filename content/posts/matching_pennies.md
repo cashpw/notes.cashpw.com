@@ -2,7 +2,7 @@
 title = "Matching pennies"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T12:10:00-08:00
-lastmod = 2023-12-05T14:25:49-08:00
+lastmod = 2023-12-05T20:34:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

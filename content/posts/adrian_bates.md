@@ -2,7 +2,7 @@
 title = "Adrian Bates"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-18T11:14:00-08:00
-lastmod = 2023-12-05T13:40:26-08:00
+lastmod = 2023-12-05T19:51:08-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

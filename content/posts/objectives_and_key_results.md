@@ -2,7 +2,7 @@
 title = "Objectives and key results"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T07:37:00-08:00
-lastmod = 2023-12-05T14:32:27-08:00
+lastmod = 2023-12-05T20:42:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

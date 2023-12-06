@@ -2,7 +2,7 @@
 title = "Cedric Chin | Ray Dalio's 5 Step Process (To Getting What You Want Out Of Life)"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:28:00-07:00
-lastmod = 2023-12-05T13:52:29-08:00
+lastmod = 2023-12-05T20:00:10-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

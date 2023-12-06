@@ -2,7 +2,7 @@
 title = "Bellman-Ford implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T08:37:00-08:00
-lastmod = 2023-12-05T13:46:37-08:00
+lastmod = 2023-12-05T19:55:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

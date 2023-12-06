@@ -2,7 +2,7 @@
 title = "Michael Nielsen | Augmenting Long-term Memory"
 author = ["Cash Weaver"]
 date = 2023-04-11T16:52:00-07:00
-lastmod = 2023-12-05T14:27:41-08:00
+lastmod = 2023-12-05T20:36:41-08:00
 tags = ["reference", "hastodo", "reference", "hastodo"]
 categories = ["reference", "hastodo"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Spot price"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T06:30:00-08:00
-lastmod = 2023-12-05T14:50:05-08:00
+lastmod = 2023-12-05T21:04:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

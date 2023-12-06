@@ -2,7 +2,7 @@
 title = "Forgetting curve"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-11T12:28:00-08:00
-lastmod = 2023-12-05T14:07:33-08:00
+lastmod = 2023-12-05T20:13:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Third-party cookies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T10:31:00-07:00
-lastmod = 2023-12-05T14:56:40-08:00
+lastmod = 2023-12-05T21:13:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

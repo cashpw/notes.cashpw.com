@@ -2,7 +2,7 @@
 title = "Laura Militello"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T06:06:00-07:00
-lastmod = 2023-12-05T14:21:36-08:00
+lastmod = 2023-12-05T20:29:28-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

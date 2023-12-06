@@ -2,7 +2,7 @@
 title = "Italian"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-26T12:59:00-07:00
-lastmod = 2023-12-05T14:15:57-08:00
+lastmod = 2023-12-05T20:22:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

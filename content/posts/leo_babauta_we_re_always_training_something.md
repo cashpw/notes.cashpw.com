@@ -2,7 +2,7 @@
 title = "Leo Babauta | We're Always Training Something"
 author = ["Cash Weaver"]
 date = 2023-03-02T18:38:00-08:00
-lastmod = 2023-12-05T14:22:33-08:00
+lastmod = 2023-12-05T20:30:38-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

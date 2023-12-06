@@ -2,7 +2,7 @@
 title = "Geometry"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T08:23:00-08:00
-lastmod = 2023-12-05T14:09:11-08:00
+lastmod = 2023-12-05T20:15:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

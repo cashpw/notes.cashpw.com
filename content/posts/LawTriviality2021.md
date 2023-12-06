@@ -2,7 +2,7 @@
 title = "Law of triviality"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:47:00-08:00
-lastmod = 2023-12-05T13:38:25-08:00
+lastmod = 2023-12-05T19:49:43-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

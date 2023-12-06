@@ -2,7 +2,7 @@
 title = "Cycle (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T10:42:00-08:00
-lastmod = 2023-12-05T13:58:31-08:00
+lastmod = 2023-12-05T20:05:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

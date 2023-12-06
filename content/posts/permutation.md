@@ -2,7 +2,7 @@
 title = "Permutation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T07:35:00-08:00
-lastmod = 2023-12-05T14:35:28-08:00
+lastmod = 2023-12-05T20:45:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

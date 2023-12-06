@@ -2,7 +2,7 @@
 title = "Throwing gauge"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-12T16:51:00-07:00
-lastmod = 2023-12-05T14:57:35-08:00
+lastmod = 2023-12-05T21:15:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Murc's law"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-21T16:52:00-07:00
-lastmod = 2023-12-05T14:29:33-08:00
+lastmod = 2023-12-05T20:38:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

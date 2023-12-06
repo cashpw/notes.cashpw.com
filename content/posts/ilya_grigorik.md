@@ -2,7 +2,7 @@
 title = "Ilya Grigorik"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T08:24:00-07:00
-lastmod = 2023-12-05T14:13:58-08:00
+lastmod = 2023-12-05T20:20:42-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

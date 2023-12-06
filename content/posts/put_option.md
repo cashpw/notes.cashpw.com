@@ -2,7 +2,7 @@
 title = "Put option"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:22:00-08:00
-lastmod = 2023-12-05T14:38:48-08:00
+lastmod = 2023-12-05T20:49:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

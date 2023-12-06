@@ -2,7 +2,7 @@
 title = "Lowercase-a accurate without being capital-T True"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T14:39:00-08:00
-lastmod = 2023-12-05T14:24:39-08:00
+lastmod = 2023-12-05T20:33:06-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

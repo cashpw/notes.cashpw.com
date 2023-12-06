@@ -2,7 +2,7 @@
 title = "Variance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-13T10:35:00-07:00
-lastmod = 2023-12-05T15:02:16-08:00
+lastmod = 2023-12-05T21:21:07-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

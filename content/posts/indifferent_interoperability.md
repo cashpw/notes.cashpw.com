@@ -2,7 +2,7 @@
 title = "Indifferent interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:25:00-07:00
-lastmod = 2023-12-05T14:14:54-08:00
+lastmod = 2023-12-05T20:21:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Problems with Deliberate Practice"
 author = ["Cash Weaver"]
 date = 2023-06-30T16:57:00-07:00
-lastmod = 2023-12-05T13:52:51-08:00
+lastmod = 2023-12-05T20:00:30-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

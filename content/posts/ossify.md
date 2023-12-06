@@ -2,7 +2,7 @@
 title = "Ossify"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:41:00-08:00
-lastmod = 2023-12-05T14:33:45-08:00
+lastmod = 2023-12-05T20:43:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

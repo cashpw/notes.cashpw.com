@@ -2,7 +2,7 @@
 title = "Bjarne Stroustrup"
 author = ["Cash Prokop-Weaver"]
 date = 2023-04-25T11:58:00-07:00
-lastmod = 2023-12-05T13:48:20-08:00
+lastmod = 2023-12-05T19:57:00-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

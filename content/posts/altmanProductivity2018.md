@@ -2,7 +2,7 @@
 title = "Sam Altman | Productivity"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:46:00-08:00
-lastmod = 2023-12-05T13:42:49-08:00
+lastmod = 2023-12-05T19:52:47-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

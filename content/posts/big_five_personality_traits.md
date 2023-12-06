@@ -2,7 +2,7 @@
 title = "Big five personality traits"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-01T14:55:00-07:00
-lastmod = 2023-12-05T13:47:18-08:00
+lastmod = 2023-12-05T19:56:09-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

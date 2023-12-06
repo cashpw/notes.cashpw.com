@@ -2,7 +2,7 @@
 title = "Deliberate practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:37:00-07:00
-lastmod = 2023-12-05T14:00:49-08:00
+lastmod = 2023-12-05T20:07:21-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

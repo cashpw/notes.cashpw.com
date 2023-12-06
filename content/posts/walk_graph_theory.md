@@ -2,7 +2,7 @@
 title = "Walk (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T12:00:00-08:00
-lastmod = 2023-12-05T15:03:30-08:00
+lastmod = 2023-12-05T21:22:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

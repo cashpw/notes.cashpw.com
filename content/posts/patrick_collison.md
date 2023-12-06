@@ -2,7 +2,7 @@
 title = "Patrick Collison"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T20:05:00-07:00
-lastmod = 2023-12-05T14:34:23-08:00
+lastmod = 2023-12-05T20:44:37-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

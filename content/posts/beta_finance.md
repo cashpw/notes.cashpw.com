@@ -2,7 +2,7 @@
 title = "Beta (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:37:00-08:00
-lastmod = 2023-12-05T13:46:59-08:00
+lastmod = 2023-12-05T19:55:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

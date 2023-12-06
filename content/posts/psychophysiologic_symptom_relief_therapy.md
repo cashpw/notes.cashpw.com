@@ -2,7 +2,7 @@
 title = "Psychophysiologic symptom relief therapy"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T06:31:00-08:00
-lastmod = 2023-12-05T14:38:31-08:00
+lastmod = 2023-12-05T20:49:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

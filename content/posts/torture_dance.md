@@ -2,7 +2,7 @@
 title = "Torture dance"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-22T20:11:00-07:00
-lastmod = 2023-12-05T14:58:48-08:00
+lastmod = 2023-12-05T21:16:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

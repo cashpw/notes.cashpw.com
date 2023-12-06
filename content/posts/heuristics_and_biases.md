@@ -2,7 +2,7 @@
 title = "Heuristics and biases"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-31T19:52:00-07:00
-lastmod = 2023-12-05T14:12:08-08:00
+lastmod = 2023-12-05T20:18:42-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

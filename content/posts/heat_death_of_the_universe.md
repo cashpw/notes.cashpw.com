@@ -2,7 +2,7 @@
 title = "Heat death of the universe"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-13T07:50:00-07:00
-lastmod = 2023-12-05T14:11:36-08:00
+lastmod = 2023-12-05T20:18:08-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

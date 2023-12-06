@@ -2,7 +2,7 @@
 title = "Valdemar Schønheyder Møller | Sunset"
 author = ["Cash Weaver"]
 date = 2023-08-07T18:47:00-07:00
-lastmod = 2023-12-05T15:02:07-08:00
+lastmod = 2023-12-05T21:20:56-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

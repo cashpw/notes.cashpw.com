@@ -2,7 +2,7 @@
 title = "Recognition-primed decision"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T19:44:00-07:00
-lastmod = 2023-12-05T14:41:17-08:00
+lastmod = 2023-12-05T20:53:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

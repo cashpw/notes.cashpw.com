@@ -2,7 +2,7 @@
 title = "Joseph Mallord William Turner"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-07T17:28:00-07:00
-lastmod = 2023-12-05T14:19:01-08:00
+lastmod = 2023-12-05T20:26:24-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

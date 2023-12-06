@@ -2,7 +2,7 @@
 title = "Acceleration"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T15:54:00-08:00
-lastmod = 2023-12-05T13:39:54-08:00
+lastmod = 2023-12-05T19:50:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Benjamin Bloom"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:17:00-08:00
-lastmod = 2023-12-05T13:46:47-08:00
+lastmod = 2023-12-05T19:55:44-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

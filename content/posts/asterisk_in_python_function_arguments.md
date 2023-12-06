@@ -2,7 +2,7 @@
 title = "Asterisk in Python function arguments"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-08T09:43:00-08:00
-lastmod = 2023-12-05T13:44:43-08:00
+lastmod = 2023-12-05T19:54:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

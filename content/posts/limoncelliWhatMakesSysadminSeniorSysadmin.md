@@ -2,7 +2,7 @@
 title = "Tom Limoncelli | What Makes a Sysadmin a Senior Sysadmin?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:12:00-08:00
-lastmod = 2023-12-05T14:23:18-08:00
+lastmod = 2023-12-05T20:31:31-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

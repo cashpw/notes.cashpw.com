@@ -2,7 +2,7 @@
 title = "Differential calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:57:00-08:00
-lastmod = 2023-12-05T14:01:25-08:00
+lastmod = 2023-12-05T20:07:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

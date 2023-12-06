@@ -2,7 +2,7 @@
 title = "Milan Griffes"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:26:00-08:00
-lastmod = 2023-12-05T14:27:55-08:00
+lastmod = 2023-12-05T20:36:57-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

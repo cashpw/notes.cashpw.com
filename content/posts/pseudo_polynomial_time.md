@@ -2,7 +2,7 @@
 title = "Pseudo-polynomial time"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T17:46:00-08:00
-lastmod = 2023-12-05T14:38:22-08:00
+lastmod = 2023-12-05T20:49:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

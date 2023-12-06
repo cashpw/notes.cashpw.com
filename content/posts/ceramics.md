@@ -2,7 +2,7 @@
 title = "Ceramics"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T20:11:00-07:00
-lastmod = 2023-12-05T13:53:32-08:00
+lastmod = 2023-12-05T20:01:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

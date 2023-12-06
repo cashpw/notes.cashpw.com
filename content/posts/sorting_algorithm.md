@@ -2,7 +2,7 @@
 title = "Sorting algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T10:46:00-07:00
-lastmod = 2023-12-05T14:49:07-08:00
+lastmod = 2023-12-05T21:03:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Goodhart's law"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-29T10:05:00-08:00
-lastmod = 2023-12-05T14:09:47-08:00
+lastmod = 2023-12-05T20:16:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

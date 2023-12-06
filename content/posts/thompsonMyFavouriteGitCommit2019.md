@@ -2,7 +2,7 @@
 title = "David Thompson | My Favourite Git Commit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:26:00-08:00
-lastmod = 2023-12-05T14:57:12-08:00
+lastmod = 2023-12-05T21:14:32-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Walter Lippmann | The Basic Problem of Democracy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:13:00-08:00
-lastmod = 2023-12-05T14:23:49-08:00
+lastmod = 2023-12-05T20:32:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Greedy algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T11:27:00-08:00
-lastmod = 2023-12-05T14:10:13-08:00
+lastmod = 2023-12-05T20:16:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

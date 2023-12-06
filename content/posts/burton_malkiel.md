@@ -2,7 +2,7 @@
 title = "Burton Malkiel"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:13:00-08:00
-lastmod = 2023-12-05T13:50:02-08:00
+lastmod = 2023-12-05T19:58:22-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

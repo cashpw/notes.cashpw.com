@@ -1,7 +1,7 @@
 +++
 title = "Notes on Oster, Emily, Expecting Better: Why the Conventional Wisdom Is Wrong– and What You Really Need to Know"
 author = ["Cash Prokop-Weaver"]
-lastmod = 2023-12-05T14:33:49-08:00
+lastmod = 2023-12-05T20:43:57-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false

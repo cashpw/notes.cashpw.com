@@ -2,7 +2,7 @@
 title = "Jarnik's algorithm implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:52:00-08:00
-lastmod = 2023-12-05T14:17:14-08:00
+lastmod = 2023-12-05T20:24:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

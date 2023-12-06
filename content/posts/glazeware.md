@@ -2,7 +2,7 @@
 title = "Glazeware"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T09:05:00-07:00
-lastmod = 2023-12-05T14:09:31-08:00
+lastmod = 2023-12-05T20:15:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

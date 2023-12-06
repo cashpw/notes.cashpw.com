@@ -2,7 +2,7 @@
 title = "Comparison sorting algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T14:47:00-08:00
-lastmod = 2023-12-05T13:56:02-08:00
+lastmod = 2023-12-05T20:03:07-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

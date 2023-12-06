@@ -2,7 +2,7 @@
 title = "Marc Andreessen | It's Time to Build"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:19:00-08:00
-lastmod = 2023-12-05T14:25:19-08:00
+lastmod = 2023-12-05T20:33:52-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Imagine others complexly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T10:05:00-07:00
-lastmod = 2023-12-05T14:14:04-08:00
+lastmod = 2023-12-05T20:20:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

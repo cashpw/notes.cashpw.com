@@ -2,7 +2,7 @@
 title = "Aella | Frame Control"
 author = ["Cash Weaver"]
 date = 2022-12-05T16:48:00-08:00
-lastmod = 2023-12-05T13:40:36-08:00
+lastmod = 2023-12-05T19:51:15-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

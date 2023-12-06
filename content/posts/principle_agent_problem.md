@@ -2,7 +2,7 @@
 title = "Principle-agent problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T06:11:00-08:00
-lastmod = 2023-12-05T14:37:36-08:00
+lastmod = 2023-12-05T20:48:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

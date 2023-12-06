@@ -2,7 +2,7 @@
 title = "Allen Ginsberg"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-29T08:43:00-07:00
-lastmod = 2023-12-05T13:42:24-08:00
+lastmod = 2023-12-05T19:52:28-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

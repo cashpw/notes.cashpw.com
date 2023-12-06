@@ -2,7 +2,7 @@
 title = "Kanna"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-12T07:43:00-07:00
-lastmod = 2023-12-05T14:19:50-08:00
+lastmod = 2023-12-05T20:27:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

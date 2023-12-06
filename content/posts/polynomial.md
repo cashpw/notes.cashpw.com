@@ -2,7 +2,7 @@
 title = "Polynomial"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T10:32:00-08:00
-lastmod = 2023-12-05T14:36:34-08:00
+lastmod = 2023-12-05T20:47:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

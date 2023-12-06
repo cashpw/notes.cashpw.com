@@ -2,7 +2,7 @@
 title = "All that you touch You Change"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T09:56:00-07:00
-lastmod = 2023-12-05T13:42:20-08:00
+lastmod = 2023-12-05T19:52:26-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

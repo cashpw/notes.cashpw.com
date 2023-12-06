@@ -2,7 +2,7 @@
 title = "Bellman-Ford algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T10:49:00-08:00
-lastmod = 2023-12-05T13:46:33-08:00
+lastmod = 2023-12-05T19:55:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

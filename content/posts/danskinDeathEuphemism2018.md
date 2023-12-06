@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Death of a Euphemism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T20:19:00-07:00
-lastmod = 2023-12-05T13:59:28-08:00
+lastmod = 2023-12-05T20:06:05-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

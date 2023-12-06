@@ -2,7 +2,7 @@
 title = "ExRx | Deadlift Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T11:02:00-07:00
-lastmod = 2023-12-05T14:05:15-08:00
+lastmod = 2023-12-05T20:11:35-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

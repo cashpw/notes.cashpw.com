@@ -2,7 +2,7 @@
 title = "7,000 baby terrorists"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-13T11:28:00-08:00
-lastmod = 2023-12-05T13:37:26-08:00
+lastmod = 2023-12-05T19:49:02-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

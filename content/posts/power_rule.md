@@ -2,7 +2,7 @@
 title = "Power rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-21T06:33:00-08:00
-lastmod = 2023-12-05T14:37:15-08:00
+lastmod = 2023-12-05T20:48:05-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "All cops are bastards"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:10:00-08:00
-lastmod = 2023-12-05T13:42:06-08:00
+lastmod = 2023-12-05T19:52:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

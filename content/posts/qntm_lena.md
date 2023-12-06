@@ -2,7 +2,7 @@
 title = "qntm | Lena"
 author = ["Cash Weaver"]
 date = 2023-03-02T18:58:00-08:00
-lastmod = 2023-12-05T14:39:18-08:00
+lastmod = 2023-12-05T20:50:36-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

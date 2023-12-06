@@ -2,7 +2,7 @@
 title = "Austin Henley"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-04T07:46:00-08:00
-lastmod = 2023-12-05T13:45:08-08:00
+lastmod = 2023-12-05T19:54:27-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

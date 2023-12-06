@@ -2,7 +2,7 @@
 title = "People pleaser"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-20T11:37:00-07:00
-lastmod = 2023-12-05T14:30:53-08:00
+lastmod = 2023-12-05T20:40:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

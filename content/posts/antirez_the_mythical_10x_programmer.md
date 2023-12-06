@@ -2,7 +2,7 @@
 title = "antirez | The Mythical 10x Programmer"
 author = ["Cash Weaver"]
 date = 2023-10-27T15:27:00-07:00
-lastmod = 2023-12-05T13:43:44-08:00
+lastmod = 2023-12-05T19:53:27-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

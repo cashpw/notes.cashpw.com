@@ -2,7 +2,7 @@
 title = "Taboo games"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T14:56:00-08:00
-lastmod = 2023-12-05T14:15:33-08:00
+lastmod = 2023-12-05T20:22:28-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

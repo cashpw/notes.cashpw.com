@@ -2,7 +2,7 @@
 title = "Collective tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T22:20:00-07:00
-lastmod = 2023-12-05T13:55:43-08:00
+lastmod = 2023-12-05T20:02:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

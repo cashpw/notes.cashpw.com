@@ -2,7 +2,7 @@
 title = "Benevolent dictator for life"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T07:34:00-08:00
-lastmod = 2023-12-05T13:46:06-08:00
+lastmod = 2023-12-05T19:55:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

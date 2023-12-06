@@ -2,7 +2,7 @@
 title = "Keith Baar | Using Molecular Biology to Maximize Concurrent Training"
 author = ["Cash Weaver"]
 date = 2023-06-23T18:04:00-07:00
-lastmod = 2023-12-05T14:20:10-08:00
+lastmod = 2023-12-05T20:27:44-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

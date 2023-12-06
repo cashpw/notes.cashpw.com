@@ -2,7 +2,7 @@
 title = "Generative adversarial network"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T11:04:00-08:00
-lastmod = 2023-12-05T14:09:01-08:00
+lastmod = 2023-12-05T20:15:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

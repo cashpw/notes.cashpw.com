@@ -2,7 +2,7 @@
 title = "Space is Big"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T15:10:00-08:00
-lastmod = 2023-12-05T14:49:18-08:00
+lastmod = 2023-12-05T21:03:45-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

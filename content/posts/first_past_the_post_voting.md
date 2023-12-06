@@ -2,7 +2,7 @@
 title = "First-past-the-post voting"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T10:10:00-08:00
-lastmod = 2023-12-05T14:06:47-08:00
+lastmod = 2023-12-05T20:13:05-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

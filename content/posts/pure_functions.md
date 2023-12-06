@@ -2,7 +2,7 @@
 title = "Pure functions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T14:54:00-07:00
-lastmod = 2023-12-05T14:38:35-08:00
+lastmod = 2023-12-05T20:49:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

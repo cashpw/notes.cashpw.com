@@ -2,7 +2,7 @@
 title = "Somebody else's problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T09:39:00-08:00
-lastmod = 2023-12-05T14:48:50-08:00
+lastmod = 2023-12-05T21:03:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Milan Cvitkovic"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-31T10:50:00-07:00
-lastmod = 2023-12-05T14:27:48-08:00
+lastmod = 2023-12-05T20:36:49-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

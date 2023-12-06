@@ -2,7 +2,7 @@
 title = "Bjarne Stroustrup | A Tour of C++"
 author = ["Cash Weaver"]
 date = 2023-04-25T11:58:00-07:00
-lastmod = 2023-12-05T13:48:26-08:00
+lastmod = 2023-12-05T19:57:06-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

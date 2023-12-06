@@ -2,7 +2,7 @@
 title = "Jared Ramsey"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-04T08:09:00-08:00
-lastmod = 2023-12-05T14:17:04-08:00
+lastmod = 2023-12-05T20:24:06-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

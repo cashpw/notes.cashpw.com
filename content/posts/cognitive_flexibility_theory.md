@@ -2,7 +2,7 @@
 title = "Cognitive flexibility theory"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T16:03:00-07:00
-lastmod = 2023-12-05T13:55:25-08:00
+lastmod = 2023-12-05T20:02:38-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

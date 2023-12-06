@@ -2,7 +2,7 @@
 title = "Why attend college?"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:45:00-08:00
-lastmod = 2023-12-05T15:04:16-08:00
+lastmod = 2023-12-05T21:23:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

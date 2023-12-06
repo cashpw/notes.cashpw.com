@@ -2,7 +2,7 @@
 title = "Option time value"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:44:00-08:00
-lastmod = 2023-12-05T14:57:55-08:00
+lastmod = 2023-12-05T21:15:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

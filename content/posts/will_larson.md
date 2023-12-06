@@ -2,7 +2,7 @@
 title = "Will Larson"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:06:00-07:00
-lastmod = 2023-12-05T15:04:39-08:00
+lastmod = 2023-12-05T21:24:04-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

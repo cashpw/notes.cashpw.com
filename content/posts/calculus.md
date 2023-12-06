@@ -2,7 +2,7 @@
 title = "Calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:53:00-08:00
-lastmod = 2023-12-05T13:50:38-08:00
+lastmod = 2023-12-05T19:58:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

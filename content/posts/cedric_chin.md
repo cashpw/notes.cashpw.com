@@ -2,7 +2,7 @@
 title = "Cedric Chin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:53:00-08:00
-lastmod = 2023-12-05T13:51:32-08:00
+lastmod = 2023-12-05T19:59:24-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

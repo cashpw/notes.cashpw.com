@@ -2,7 +2,7 @@
 title = "If you're explaining, you're losing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-11T08:23:00-08:00
-lastmod = 2023-12-05T14:13:46-08:00
+lastmod = 2023-12-05T20:20:28-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

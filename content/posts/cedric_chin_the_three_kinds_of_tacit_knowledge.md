@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Three Kinds of Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:58:00-07:00
-lastmod = 2023-12-05T13:53:04-08:00
+lastmod = 2023-12-05T20:00:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

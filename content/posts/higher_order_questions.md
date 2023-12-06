@@ -2,7 +2,7 @@
 title = "Higher order questions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-20T16:48:00-08:00
-lastmod = 2023-12-05T14:12:18-08:00
+lastmod = 2023-12-05T20:18:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

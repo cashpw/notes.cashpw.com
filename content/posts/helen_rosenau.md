@@ -2,7 +2,7 @@
 title = "Helen Rosenau"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-25T16:01:00-07:00
-lastmod = 2023-12-05T14:11:52-08:00
+lastmod = 2023-12-05T20:18:25-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon | Notes on The Case Against Education"
 author = ["Cash Weaver"]
 date = 2023-01-11T10:44:00-08:00
-lastmod = 2023-12-05T14:18:31-08:00
+lastmod = 2023-12-05T20:25:49-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

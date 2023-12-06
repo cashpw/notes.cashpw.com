@@ -2,7 +2,7 @@
 title = "Ranked voting"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T10:12:00-08:00
-lastmod = 2023-12-05T14:40:29-08:00
+lastmod = 2023-12-05T20:52:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

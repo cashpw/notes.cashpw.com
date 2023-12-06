@@ -2,7 +2,7 @@
 title = "Things you're allowed to do"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:52:00-08:00
-lastmod = 2023-12-05T14:56:36-08:00
+lastmod = 2023-12-05T21:13:45-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

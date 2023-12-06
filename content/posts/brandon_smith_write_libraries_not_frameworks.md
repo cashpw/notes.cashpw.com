@@ -2,7 +2,7 @@
 title = "Brandon Smith | Write Libraries, Not Frameworks"
 author = ["Cash Weaver"]
 date = 2023-12-04T08:22:00-08:00
-lastmod = 2023-12-05T13:49:25-08:00
+lastmod = 2023-12-05T19:57:55-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

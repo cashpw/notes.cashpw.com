@@ -2,7 +2,7 @@
 title = "Shinobu Hashimoto"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-05T16:42:00-07:00
-lastmod = 2023-12-05T14:46:37-08:00
+lastmod = 2023-12-05T21:00:01-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

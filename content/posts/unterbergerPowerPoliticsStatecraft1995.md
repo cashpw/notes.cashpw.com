@@ -2,7 +2,7 @@
 title = "Betty Miller Unterberger | Power Politics and Statecraft: The World According to Kissinger"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T11:03:00-07:00
-lastmod = 2023-12-05T15:01:15-08:00
+lastmod = 2023-12-05T21:19:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

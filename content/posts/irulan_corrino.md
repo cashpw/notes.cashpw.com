@@ -2,7 +2,7 @@
 title = "Irulan Corrino"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T10:33:00-08:00
-lastmod = 2023-12-05T14:15:37-08:00
+lastmod = 2023-12-05T20:22:32-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

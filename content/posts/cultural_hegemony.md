@@ -2,7 +2,7 @@
 title = "Cultural hegemony"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-29T10:15:00-08:00
-lastmod = 2023-12-05T13:58:17-08:00
+lastmod = 2023-12-05T20:05:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
