@@ -2,14 +2,14 @@
 title = "Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T06:44:00-08:00
-lastmod = 2023-11-10T10:26:17-08:00
+lastmod = 2023-12-05T13:43:51-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "84e0e30f-a362-4aae-b540-4541e00af0a8"
 +++
 
-[Marcus Aurelius Antoninus]({{< relref "marcus_aurelius_antoninus.md" >}}), (Antoninus 1944)
+[Marcus Aurelius Antoninus]({{< relref "marcus_aurelius_antoninus.md" >}}), (NO_ITEM_DATA:antoninusMeditationsEmperorMarcusAntoninus1944)
 
 
 ## Summary {#summary}
@@ -119,6 +119,15 @@ I've come to appreciate the use of phrases, mantras, hymns, etc --- [focusing te
 
 
 ### About {#about}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:antoninusMeditationsEmperorMarcusAntoninus1944</div>
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Greek alphabet"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-03T06:37:00-07:00
-lastmod = 2023-11-10T10:49:59-08:00
+lastmod = 2023-12-05T14:10:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -44,5 +44,5 @@ slug = "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greek Alphabet.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Greek_alphabet&oldid=1091244116">https://en.wikipedia.org/w/index.php?title=Greek_alphabet&#38;oldid=1091244116</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greek Alphabet.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Greek_alphabet&oldid=1091244116">https://en.wikipedia.org/w/index.php?title=Greek_alphabet&#38;oldid=1091244116</a>.</div>
 </div>

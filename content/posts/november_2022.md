@@ -2,7 +2,7 @@
 title = "November 2022"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-06T08:06:00-08:00
-lastmod = 2023-11-10T11:07:51-08:00
+lastmod = 2023-12-05T14:32:16-08:00
 tags = ["newsletter", "newsletter"]
 categories = ["newsletter"]
 draft = false
@@ -31,3 +31,11 @@ slug = "0839455d-cb61-49a6-b3d3-b76c23b3caa2"
     I have &gt;400 outstanding flashcards. Reviewing them all at once wouldn't just hurt now, it would hurt forever as from time to time I'd see a similarly-sized spike of due flashcards. I'll do 50-100 per day to spread them out.
 
     This is important as I want to review new flashcards soon after creating them. Creating a flashcard on Monday and first seeing it in review on the following Monday is a poor learning experience. I'm holding off on creating new flashcards until I get through the backlog.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

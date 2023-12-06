@@ -2,7 +2,7 @@
 title = "Binary search tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:43:00-07:00
-lastmod = 2023-11-10T10:28:25-08:00
+lastmod = 2023-12-05T13:47:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,12 +29,12 @@ slug = "dc929031-e15a-4566-a7bd-7331768ee02f"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Search Tree.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Binary_search_tree&oldid=1099579299">https://en.wikipedia.org/w/index.php?title=Binary_search_tree&#38;oldid=1099579299</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Search Tree.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Binary_search_tree&oldid=1099579299">https://en.wikipedia.org/w/index.php?title=Binary_search_tree&#38;oldid=1099579299</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [B-tree]({{< relref "b_tree.md" >}})
--   [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}})
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
+-   [Self-balancing binary search tree]({{< relref "self_balancing_binary_search_tree.md" >}})
+-   [B-tree]({{< relref "b_tree.md" >}})

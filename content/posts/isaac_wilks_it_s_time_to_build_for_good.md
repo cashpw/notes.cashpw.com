@@ -2,14 +2,14 @@
 title = "Isaac Wilks | It's Time to Build for Good"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:23:00-08:00
-lastmod = 2023-11-10T10:56:37-08:00
+lastmod = 2023-12-05T14:15:40-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "69494a1d-7a68-48d6-87dd-3f664106e9d3"
 +++
 
-TODO_AUTHOR, (Wilks 2020)
+TODO_AUTHOR, (NO_ITEM_DATA:wilksItTimeBuildGood2020)
 
 
 ## Notes {#notes}
@@ -29,6 +29,15 @@ TODO_AUTHOR, (Wilks 2020)
 > [...]
 >
 > There has yet to be a post-industrial society that has re-industrialized. America should be the first. But this is a much taller order than applying will to current capacity: we also must rebuild capabilities. Building [functional industry](http://www.bismarckanalysis.com/Machine_Tools_Case_Study.pdf) takes massive up-front investment in processes with uncertain payoffs and long time horizons. Silicon Valley VCs may continue to seed new product startups, but when it comes time to produce their products "at scale," these firms are invariably forced to move overseas. Most of these startups are far downstream of industrial fundamentals anyway. Capital's time preference has been far too short to [combat this dynamic](https://americanaffairsjournal.org/2019/05/financing-advanced-manufacturing-why-vcs-arent-the-answer/), and there is no reason to believe that it can or should play the primary role. In fact, every single country to industrialize has done so with the [guidance of the state](https://www.palladiummag.com/2020/02/12/how-state-capacity-drives-industrialization/), marshaling huge quantities of R&amp;D funding and enforcing strict export discipline to wean the infant industries in which it invests.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:wilksItTimeBuildGood2020</div>
+</div>
 
 
 ## Backlinks {#backlinks}

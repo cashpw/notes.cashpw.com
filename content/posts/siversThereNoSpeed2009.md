@@ -2,14 +2,14 @@
 title = "Derek Sivers | There's No Speed Limit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:34:00-08:00
-lastmod = 2023-11-10T11:17:11-08:00
+lastmod = 2023-12-05T14:47:54-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "e02451fc-c9d5-4c02-849b-d9b7d4cc95a7"
 +++
 
-[Derek Sivers]({{< relref "derek_sivers.md" >}}), (Sivers 2009)
+[Derek Sivers]({{< relref "derek_sivers.md" >}}), (NO_ITEM_DATA:siversThereNoSpeedLimit2009)
 
 
 ## Summary {#summary}
@@ -43,3 +43,12 @@ This is one of my [Favorites]({{< relref "favorites.md" >}}).
 > The pace was intense, and I loved it. Finally, someone was challenging me — keeping me in over my head — encouraging and expecting me to pull myself up quickly [[Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})]. I was learning so fast, it felt like the adrenaline rush you get while playing a video game. He tossed every fact at me and made me prove that I got it [[Testing effect]({{< relref "testing_effect.md" >}})].
 >
 > Kimo's high expectations set a new pace for me. He taught me that "the standard pace is for chumps" — that the system is designed so anyone can keep up. If you're more driven [[Ben Kuhn | Be Impatient]({{< relref "kuhnBeImpatient2020.md" >}})] than most people, you can do way more than anyone expects. And this principle applies to all of life, not just school.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:siversThereNoSpeedLimit2009</div>
+</div>

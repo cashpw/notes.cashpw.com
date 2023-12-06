@@ -2,7 +2,7 @@
 title = "Branch and bound"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T09:43:00-08:00
-lastmod = 2023-11-10T10:29:24-08:00
+lastmod = 2023-12-05T13:49:09-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -13,4 +13,13 @@ slug = "d1f735d6-a30b-494f-a536-7042b6fd0329"
 >
 > The algorithm depends on efficient estimation of the lower and upper bounds of regions/branches of the search space. If no bounds are available, the algorithm degenerates to an exhaustive search.
 >
-> (“Branch and Bound” 2023)
+> (<a href="#citeproc_bib_item_1">“Branch and Bound” 2023</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Branch and Bound.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Branch_and_bound&oldid=1131333406">https://en.wikipedia.org/w/index.php?title=Branch_and_bound&#38;oldid=1131333406</a>.</div>
+</div>

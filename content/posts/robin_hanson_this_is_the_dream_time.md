@@ -2,14 +2,14 @@
 title = "Robin Hanson | This Is the Dream Time"
 author = ["Cash Weaver"]
 date = 2023-01-08T18:52:00-08:00
-lastmod = 2023-11-10T11:14:15-08:00
+lastmod = 2023-12-05T14:43:03-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "35ea6ba6-1937-4a70-befa-81191ff059fa"
 +++
 
-[Robin Hanson]({{< relref "robin_hanson.md" >}}), (Hanson n.d.)
+[Robin Hanson]({{< relref "robin_hanson.md" >}}), (<a href="#citeproc_bib_item_1">Hanson n.d.</a>)
 
 
 ## Summary {#summary}
@@ -32,3 +32,12 @@ I've moved this into [This is the dreamtime]({{< relref "this_is_the_dreamtime.m
 > [...]
 >
 > Perhaps most important, our descendants may remember how history hung by a precarious thread on a few crucial coordination choices that our highly integrated rapidly changing world did or might have allowed us to achieve, and the strange delusions that influenced such choices.  These choices might have been about global warming, rampaging robots, nuclear weapons, bioterror, etc.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hanson, Robin. n.d. “This Is the Dream Time.” Accessed June 21, 2022. <a href="https://www.overcomingbias.com/2009/09/this-is-the-dream-time.html">https://www.overcomingbias.com/2009/09/this-is-the-dream-time.html</a>.</div>
+</div>

@@ -2,7 +2,7 @@
 title = "Mastery learning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:23:00-08:00
-lastmod = 2023-11-10T11:04:04-08:00
+lastmod = 2023-12-05T14:25:45-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
 
 > Mastery learning is a set of group-based, individualized, teaching and learning strategies based on the premise that students will achieve a high level of understanding in a given domain if they are given enough time.
 >
-> (“Mastery Learning” 2022)
+> (<a href="#citeproc_bib_item_1">“Mastery Learning” 2022</a>)
 
 <!--quoteend-->
 
@@ -23,11 +23,20 @@ slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
 >
 > Since its conception, mastery learning has empirically been demonstrated to be effective in improving education outcomes in a variety of settings. Its effectiveness is influenced by the subject being taught, whether testing is designed locally or nationally, course pace and the amount of feedback provided to students.
 >
-> (“Mastery Learning” 2022)
+> (<a href="#citeproc_bib_item_1">“Mastery Learning” 2022</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mastery Learning.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Mastery_learning&oldid=1126487387">https://en.wikipedia.org/w/index.php?title=Mastery_learning&#38;oldid=1126487387</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Bloom's 2 sigma problem]({{< relref "bloom_s_2_sigma_problem.md" >}})
--   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})
 -   [Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction]({{< relref "jose_luis_ricon_on_bloom_s_two_sigma_problem.md" >}})
+-   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})

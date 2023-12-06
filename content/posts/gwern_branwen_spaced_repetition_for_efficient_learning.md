@@ -2,14 +2,14 @@
 title = "Gwern Branwen | Spaced Repetition for Efficient Learning"
 author = ["Cash Weaver"]
 date = 2022-12-11T15:33:00-08:00
-lastmod = 2023-11-10T10:50:52-08:00
+lastmod = 2023-12-05T14:10:56-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "14d26509-1c1c-4983-8f00-0c481fe918d5"
 +++
 
-[Gwern Branwen]({{< relref "gwern_branwen.md" >}}), (Branwen 2009)
+[Gwern Branwen]({{< relref "gwern_branwen.md" >}}), (NO_ITEM_DATA:branwenSpacedRepetitionEfficientLearning2009)
 
 
 ## Summary {#summary}
@@ -98,3 +98,12 @@ On [Spaced repetition]({{< relref "spaced_repetition.md" >}}).
 > When should one review? In the morning? In the evening? Any old time? The studies demonstrating the spacing effect do not control or vary the time of day, so in one sense, the answer is: it doesn't matter - if it did matter, there would be considerable variance in how effective the effect is based on when a particular study had its subjects do their reviews.
 >
 > So one reviews at whatever time is convenient. Convenience makes one more likely to stick with it, and sticking with it overpowers any temporary improvement.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:branwenSpacedRepetitionEfficientLearning2009</div>
+</div>

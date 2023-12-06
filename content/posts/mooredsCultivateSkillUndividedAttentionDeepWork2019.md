@@ -4,14 +4,14 @@ title = """
   """
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:00:00-08:00
-lastmod = 2023-11-10T11:06:03-08:00
+lastmod = 2023-12-05T14:29:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "86dde162-154f-49fb-98a9-41dddcf60ecb"
 +++
 
-[Dan Moore]({{< relref "dan_moore.md" >}}), (Moores 2019)
+[Dan Moore]({{< relref "dan_moore.md" >}}), (NO_ITEM_DATA:mooresCultivateSkillUndividedAttentionDeepWork2019)
 
 
 ## Summary {#summary}
@@ -45,3 +45,12 @@ slug = "86dde162-154f-49fb-98a9-41dddcf60ecb"
 <!--quoteend-->
 
 > Do more deep work, and over a year or two years, your skills will grow much faster than those doing less deep work. Eventually, you might find that you're doing the work of a senior developer!
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:mooresCultivateSkillUndividedAttentionDeepWork2019</div>
+</div>

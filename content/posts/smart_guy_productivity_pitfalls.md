@@ -2,14 +2,14 @@
 title = "Smart Guy Productivity Pitfalls"
 author = ["Cash Weaver"]
 date = 2022-12-20T10:22:00-08:00
-lastmod = 2023-11-10T11:17:23-08:00
+lastmod = 2023-12-05T14:48:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "9ed16182-a4a5-4bf6-a5c7-b6196c6eca97"
 +++
 
-Unknown, (<a href="#citeproc_bib_item_1">“Smart Guy Productivity Pitfalls” n.d.</a>)
+Unknown, (NO_ITEM_DATA:SmartGuyProductivityPitfalls)
 
 
 ## Summary {#summary}
@@ -26,6 +26,8 @@ I feel seen by this years-old blog post and it's unpleasant. Particularly:
 > An overinflated sense of your own abilities creates a constant state of production deficit, because you assume that you can make it up with a burst of brilliance and/or crunch.
 
 That's been me for years now. It's powerful to see it written out.
+
+Related: [Jacob Kaplan-Moss | Embrace the Grind]({{< relref "smart_guy_productivity_pitfalls.md" >}})
 
 
 ## Notes {#notes}
@@ -113,11 +115,12 @@ I disagree with the author's assessment that solutions such as "turning off the 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Smart Guy Productivity Pitfalls.” n.d. Accessed December 20, 2022. <a href="http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html">http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:SmartGuyProductivityPitfalls</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
+-   [Work smart and hard]({{< relref "smart_guy_productivity_pitfalls.md" >}})
 -   [On productivity]({{< relref "on_productivity.md" >}})
 -   [Jacob Kaplan-Moss | Embrace the Grind]({{< relref "smart_guy_productivity_pitfalls.md" >}})

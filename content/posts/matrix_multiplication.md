@@ -2,7 +2,7 @@
 title = "Matrix multiplication"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T08:57:00-08:00
-lastmod = 2023-11-10T11:04:18-08:00
+lastmod = 2023-12-05T14:26:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,7 +48,7 @@ slug = "a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a"
 >
 > for \\(i = 1, \dots, m\\) and \\(j = 1, \dots, p\\).
 >
-> (“Matrix Multiplication” 2023)
+> (<a href="#citeproc_bib_item_1">“Matrix Multiplication” 2023</a>)
 
 
 ## Matrix multiplication as a linear combination {#matrix-multiplication-as-a-linear-combination}
@@ -110,7 +110,7 @@ slug = "a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a"
 >
 > If you look hard at the equation above and squint a bit, you can recognize this column-combination property by examining each column of the result matrix.
 >
-> (Bendersky n.d.)
+> (NO_ITEM_DATA:benderskyVisualizingMatrixMultiplicationLinearCombinationEliBenderskyWebsite)
 
 
 ### Left-multiplication: combination of rows {#left-multiplication-combination-of-rows}
@@ -159,4 +159,14 @@ slug = "a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a"
 >
 > {{< figure src="/ox-hugo/2023-02-03_09-54-42_matrowcomb.png" >}}
 >
-> (Bendersky n.d.)
+> (NO_ITEM_DATA:benderskyVisualizingMatrixMultiplicationLinearCombinationEliBenderskyWebsite)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Matrix Multiplication.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Matrix_multiplication&oldid=1134502867">https://en.wikipedia.org/w/index.php?title=Matrix_multiplication&#38;oldid=1134502867</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:benderskyVisualizingMatrixMultiplicationLinearCombinationEliBenderskyWebsite</div>
+</div>

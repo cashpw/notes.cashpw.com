@@ -2,7 +2,7 @@
 title = "Principle-agent problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T06:11:00-08:00
-lastmod = 2023-11-10T11:10:59-08:00
+lastmod = 2023-12-05T14:37:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,16 @@ slug = "e1506f58-c519-4b04-a7fd-6bc821514a30"
 >
 > Common examples of this relationship include corporate management (agent) and shareholders (principal), elected officials (agent) and citizens (principal), or brokers (agent) and markets (buyers and sellers, principals). In all these cases, the principal has to be concerned with whether the agent is acting in the best interest of the principal. The concepts of moral hazard and conflict of interest relate to the principal-agent problem.
 >
-> (“Principal–Agent Problem” 2023)
+> (<a href="#citeproc_bib_item_1">“Principalagent Problem” 2023</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Principalagent Problem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Principal%E2%80%93agent_problem&oldid=1131255299">https://en.wikipedia.org/w/index.php?title=Principal%E2%80%93agent_problem&#38;oldid=1131255299</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Permutation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T07:35:00-08:00
-lastmod = 2023-11-10T11:09:49-08:00
+lastmod = 2023-12-05T14:35:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,7 +27,7 @@ Also see: [Combination]({{< relref "combination.md" >}})
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Permutation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Permutation&oldid=1125465268">https://en.wikipedia.org/w/index.php?title=Permutation&#38;oldid=1125465268</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Permutation.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Permutation&oldid=1125465268">https://en.wikipedia.org/w/index.php?title=Permutation&#38;oldid=1125465268</a>.</div>
 </div>
 
 

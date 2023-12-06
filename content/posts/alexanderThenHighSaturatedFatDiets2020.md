@@ -2,14 +2,14 @@
 title = "Scott Alexander | For, Then Against, High-Saturated-Fat Diets"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:33:00-08:00
-lastmod = 2023-11-10T10:25:10-08:00
+lastmod = 2023-12-05T13:41:48-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "4737f7a9-faec-4d2c-a901-227495ab0373"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (Alexander 2020)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2020</a>)
 
 
 ## Summary {#summary}
@@ -65,3 +65,12 @@ I found myself nodding along to this paragraph as I read. I've had the same thou
 > This contradicts the evidence from some people who do manage to lose weight, including some people who manage to lose a lot of weight and keep it off. I think the theory would have to be that different people's set points are differently malleable, and that some people are obese because their set point is set to obese, and other people barely have a set point and are mostly operating on calories-in-calories-out. If this seems a little too convenient an assumption, keep in mind this is how lots of other set points work – some people will gain tolerance to certain drugs almost instantly, and other people will never get it at all.
 >
 > Overall I am ending this research more confused than when I started it. I think the most likely dietary change I make is to try to avoid foods with soybean, corn, or safflower oil, since this is probably a good stand-in for "foods processed enough that they count as processed foods and you should avoid them". I don't think the evidence is good for avoiding fish oil and olive oil, and there's enough evidence from elsewhere that these foods are healthy that I'm going to keep trying to eat them. I don't think the evidence is good for saturated fats being especially good, and there seems to be at least equally strong evidence that they're bad, so although I'm not going to work too hard to avoid them I'm definitely not going to optimize my diet for getting as many of them as possible.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2020. “For, Then Against, High-Saturated-Fat Diets.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2020/03/10/for-then-against-high-saturated-fat-diets/">https://slatestarcodex.com/2020/03/10/for-then-against-high-saturated-fat-diets/</a>.</div>
+</div>

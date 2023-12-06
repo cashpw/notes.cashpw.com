@@ -2,14 +2,14 @@
 title = "Dan Luu | Some Reasons to Work on Productivity and Velocity"
 author = ["Cash Weaver"]
 date = 2023-10-26T20:08:00-07:00
-lastmod = 2023-11-10T10:37:57-08:00
+lastmod = 2023-12-05T13:58:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "fc1981fa-71a3-4e36-aa09-c87e1dcfc28a"
 +++
 
-[Dan luu]({{< relref "dan_luu.md" >}}), (Luu n.d.)
+[Dan luu]({{< relref "dan_luu.md" >}}), (<a href="#citeproc_bib_item_1">Luu n.d.</a>)
 
 
 ## Summary {#summary}
@@ -93,3 +93,12 @@ Also see [Randall Munroe | Is It Worth the Time?]({{< relref "randall_munroe_is_
 > [...]
 >
 > A related idea, one that Holden Karnofsky has been talking about for a while, is that if you ever want to make a difference in the world in some way, it's useful to work on your skills even in jobs where it's not obvious that being better at the job is useful, because the developed skills will give you more leverage on the world when you switch to something that's more aligned with you want to achieve.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Luu, Dan. n.d. “Some Reasons to Work on Productivity and Velocity.” Accessed October 27, 2023. <a href="https://danluu.com/productivity-velocity/">https://danluu.com/productivity-velocity/</a>.</div>
+</div>

@@ -2,7 +2,7 @@
 title = "Nothing ever ends"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-03T07:08:00-08:00
-lastmod = 2023-11-10T11:07:47-08:00
+lastmod = 2023-12-05T14:32:08-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -13,4 +13,13 @@ slug = "db0d4876-ce19-4f03-8357-d199d72966e6"
 >
 > [Dr. Manhattan]({{< relref "dr_manhattan.md" >}}): "In the end"? Nothing ends, Adrian. Nothing **ever** ends.
 >
-> (Moore and Gibbons 2005)
+> (<a href="#citeproc_bib_item_1">Moore and Gibbons 2005</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Moore, Alan, and Dave Gibbons. 2005. <i>Watchmen</i>. New York: DC Comics.</div>
+</div>

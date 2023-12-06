@@ -2,7 +2,7 @@
 title = "Focus as magic"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-14T15:23:00-07:00
-lastmod = 2023-11-10T10:46:25-08:00
+lastmod = 2023-12-05T14:07:13-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -13,7 +13,7 @@ I like the idea that focus, concentration, attention, quiet, darkness, stillness
 
 > At age ten, Kiki had decided to become a witch and learn Kokiri's magic right away. Kokiri had two magic abilities. The first was growing herbs to make sneeze medicine, and the second was flying through the sky on a broom.
 >
-> Kiki quickly got the hang of flying. But as she grew older, she often found herself distracted by all sorts of things " for example, the big pimples that started appearing on the sides of her nose, or deciding which dress she should wear to her friend's birthday party.
+> Kiki quickly got the hang of flying. But as she grew older, she often found herself distracted by all sorts of things --- for example, the big pimples that started appearing on the sides of her nose, or deciding which dress she should wear to her friend's birthday party.
 >
 > Whenever that happened, her broom would suddenly start to fall. One time she was so busy thinking about the scratchy new underwear she was wearing that she ran into a power line! Her broom broke into pieces, and Kiki herself ended up with bumps on her nose and both kneecaps.
 >
@@ -23,4 +23,13 @@ I like the idea that focus, concentration, attention, quiet, darkness, stillness
 >
 > "Will another type of magic disappear?" Kokiri lamented. In the olden days, witches could use all sorts of magic. But over the years, one type after another disappeared, until even a genuine witch like Kokiri was left with only two abilities. Now her daughter hated one of them, so it was no wonder she was upset.
 >
-> (Kadono, Onoda, and Balistrieri 2020)
+> (<a href="#citeproc_bib_item_1">Kadono, Onoda, and Balistrieri 2020</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kadono, Eiko, Yuta Onoda, and Emily Balistrieri. 2020. <i>Kiki’s Delivery Service</i>. First edition. New York: Delacorte Press.</div>
+</div>

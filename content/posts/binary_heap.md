@@ -2,7 +2,7 @@
 title = "Binary heap"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:22:00-07:00
-lastmod = 2023-11-10T10:28:17-08:00
+lastmod = 2023-12-05T13:47:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,7 @@ slug = "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
 >
 > [formatting and links added]
 >
-> (“Binary Heap” 2022)
+> (<a href="#citeproc_bib_item_1">“Binary Heap” 2022</a>)
 
 <!--quoteend-->
 
@@ -32,7 +32,7 @@ slug = "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
 >
 > {{< figure src="/ox-hugo/Max-Heap.svg.png" >}}
 >
-> (“Binary Heap” 2022)
+> (<a href="#citeproc_bib_item_1">“Binary Heap” 2022</a>)
 
 
 ## Implementation {#implementation}
@@ -50,7 +50,7 @@ slug = "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
 > 2.  Compare the added element with its parent; if they are in the correct order, stop.
 > 3.  If not, swap the element with its parent and return to the previous step.
 >
-> (“Binary Heap” 2022)
+> (<a href="#citeproc_bib_item_1">“Binary Heap” 2022</a>)
 
 
 ### Extract {#extract}
@@ -59,12 +59,21 @@ slug = "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
 > 2.  Compare the new root with its children; if they are in the correct order, stop.
 > 3.  If not, swap the element with one of its children and return to the previous step. (Swap with its smaller child in a min-heap and its larger child in a max-heap.)
 >
-> (“Binary Heap” 2022)
+> (<a href="#citeproc_bib_item_1">“Binary Heap” 2022</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Heap.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Binary_heap&oldid=1087856345">https://en.wikipedia.org/w/index.php?title=Binary_heap&#38;oldid=1087856345</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}
 
--   [Heap]({{< relref "heap.md" >}})
 -   [Binary heap implementation in python]({{< relref "binary_heap_implementation_in_python.md" >}})
--   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
+-   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})
+-   [Heap]({{< relref "heap.md" >}})

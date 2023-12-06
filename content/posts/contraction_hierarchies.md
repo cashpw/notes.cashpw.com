@@ -2,7 +2,7 @@
 title = "Contraction hierarchies"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T11:57:00-07:00
-lastmod = 2023-11-10T10:36:27-08:00
+lastmod = 2023-12-05T13:57:18-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -68,7 +68,7 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
 >
 > We're now done contracting \\(v\\).
 >
-> (<a href="#citeproc_bib_item_6">Lazarsfeld n.d.-b</a>)
+> (NO_ITEM_DATA:lazarsfeldCoreComponentsCHNodeContraction)
 
 <!--list-separator-->
 
@@ -92,7 +92,7 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
     >
     > [paraphrased, formatting mine]
     >
-    > (<a href="#citeproc_bib_item_6">Lazarsfeld n.d.-b</a>)
+    > (NO_ITEM_DATA:lazarsfeldCoreComponentsCHNodeContraction)
 
     <!--quoteend-->
 
@@ -102,7 +102,7 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
     > -   Strict: invoke Dijkstra and perform a "witness search" proof.
     > -   Pragmatic: invoke Dijkstra with cutoffs (max cost, max hops).
     >
-    > (<a href="#citeproc_bib_item_4">Harabor, n.d.</a>)
+    > (<a href="#citeproc_bib_item_2">Harabor, n.d.</a>)
 
 <!--list-separator-->
 
@@ -110,7 +110,7 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
 
     > {{< figure src="/ox-hugo/2023-06-15_08-50-04_contract-full-2.png" >}}
     >
-    > (<a href="#citeproc_bib_item_6">Lazarsfeld n.d.-b</a>)
+    > (NO_ITEM_DATA:lazarsfeldCoreComponentsCHNodeContraction)
 
     Let:
 
@@ -161,7 +161,7 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
 
     > {{< figure src="/ox-hugo/2023-06-15_10-19-12_contract-full-5.png" >}}
     >
-    > (<a href="#citeproc_bib_item_6">Lazarsfeld n.d.-b</a>)
+    > (NO_ITEM_DATA:lazarsfeldCoreComponentsCHNodeContraction)
 
     Let:
 
@@ -206,14 +206,14 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
 > -   Bi-directional search (two directions simultaneously)
 > -   Bi-directional search (one direction at a time)
 > -   Hybrid search (bi-directional first, then something else)
-> -   Contraction hierarchies can also be combined with your favourite uni-directional search scheme (<a href="#citeproc_bib_item_3">Harabor and Stuckey 2021</a>)
+> -   Contraction hierarchies can also be combined with your favourite uni-directional search scheme (NO_ITEM_DATA:haraborForwardSearchContractionHierarchies2021)
 >
 > [paraphrased]
 >
-> (<a href="#citeproc_bib_item_4">Harabor, n.d.</a>)
+> (<a href="#citeproc_bib_item_2">Harabor, n.d.</a>)
 
 
-#### FIX; up/down is backward here. Check against (<a href="#citeproc_bib_item_2">Geisberger et al. 2008</a>) {#fix-up-down-is-backward-here-dot-check-against}
+#### FIX; up/down is backward here. Check against (NO_ITEM_DATA:geisbergerContractionHierarchiesFasterSimplerHierarchicalRoutingRoadNetworks2008) {#fix-up-down-is-backward-here-dot-check-against--no-item-data-geisbergercontractionhierarchiesfastersimplerhierarchicalroutingroadnetworks2008}
 
 > -   The upward graph only contains edges from \\(v\\) to \\(w\\) where we contracted \\(v\\) **after** \\(w\\).
 > -   The downward graph only contains edges from \\(v\\) to \\(w\\) where we contracted \\(v\\) **before** \\(w\\).
@@ -224,7 +224,7 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
 >
 > [paraphrased]
 >
-> (<a href="#citeproc_bib_item_7">Lazarsfeld n.d.-c</a>)
+> (NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery)
 
 
 #### Example {#example}
@@ -265,7 +265,7 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
 >
 > [formatting mine]
 >
-> (<a href="#citeproc_bib_item_7">Lazarsfeld n.d.-c</a>)
+> (NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery)
 
 
 #### Unpacking the shortest path from a shortcut {#unpacking-the-shortest-path-from-a-shortcut}
@@ -282,14 +282,14 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
 >
 > [Paraphrased, Spelling corrected]
 >
-> (<a href="#citeproc_bib_item_7">Lazarsfeld n.d.-c</a>)
+> (NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery)
 
 
 ### Choosing a node order {#choosing-a-node-order}
 
 > Our query is correct no matter the order in which nodes were contracted, but a good node ordering has major implications for the performance of the queries. The order in which nodes are contracted affects the shortcut edges that do or don't get added in G\*. And as it's been mentioned before, too many shortcut edges means too dense a G\* graph and slower queries as a result.
 >
-> (<a href="#citeproc_bib_item_5">Lazarsfeld n.d.-a</a>)
+> (NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder)
 
 
 #### Cost functions {#cost-functions}
@@ -320,7 +320,7 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
     >
     > Before contracting the next minimum node, we recompute its edge difference. If it's still the smallest in the priority queue [[Priority queue]({{< relref "priority_queue.md" >}})], we can go ahead and actually contract it. If its edge difference is no longer the min, then we update its cost and rebalance our [priority queue]. We then check the next minimum node and continue this process.
     >
-    > (<a href="#citeproc_bib_item_5">Lazarsfeld n.d.-a</a>)
+    > (NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder)
 
 <!--list-separator-->
 
@@ -332,7 +332,7 @@ slug = "8d0bb3d4-18fb-4c38-a89e-11745614c640"
     >
     > So an additional term to consider is the number of contracted neighbors each node has. This just involves counting the number of neighbors in the original graph that have already been contracted. When dealing with multiple terms like contracted neighbors and edge difference to determine cost, we would use a linear combination of terms.
     >
-    > (<a href="#citeproc_bib_item_5">Lazarsfeld n.d.-a</a>)
+    > (NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder)
 
 
 ## Describe {#describe}
@@ -359,7 +359,7 @@ A speed up method for calculating the shortest path between nodes in a graph bas
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 0   | 0.00     | 2023-11-03T15:05:46Z |
+| front    | 2.50 | 0   | 0.00     | 2023-11-14T15:14:20Z |
 | back     | 2.5  | -1  | 0        | 2023-06-15T15:20:40Z |
 
 Node contraction in [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
@@ -386,14 +386,14 @@ Steps:
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_6">Lazarsfeld n.d.-b</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHNodeContraction)
 
 
 ### Cloze {#cloze}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 1   | 1.00     | 2023-09-27T15:27:09Z |
+| 0        | 2.50 | 2   | 2.00     | 2023-12-07T14:31:36Z |
 | 1        | 2.5  | -1  | 0        | 2023-06-15T15:21:11Z |
 
 {{Node contraction}@0} is the process of {{finding shortcuts in a graph in [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})}@1}.
@@ -425,7 +425,7 @@ We contract \\(v\\) when the path \\(u, v, w\\) is the shortest path from \\(u\\
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_6">Lazarsfeld n.d.-b</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHNodeContraction)
 
 
 ### Describe ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#describe--contraction-hierarchies-contraction-hierarchies-dot-md}
@@ -445,14 +445,14 @@ Perform a local [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_6">Lazarsfeld n.d.-b</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHNodeContraction)
 
 
 ### Describe ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#describe--contraction-hierarchies-contraction-hierarchies-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.35 | 5   | 35.53    | 2023-11-10T20:11:49Z |
+| front    | 2.35 | 6   | 86.08    | 2024-02-09T17:05:33Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:05:25Z |
 
 How to extract the shortest path through an added shortcut?
@@ -465,14 +465,14 @@ We store a pointer to the interim vertex, \\(v\\), when we contract \\(u, v, w\\
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_7">Lazarsfeld n.d.-c</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery)
 
 
 ### Describe ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#describe--contraction-hierarchies-contraction-hierarchies-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 0   | 0.00     | 2023-11-02T15:16:14Z |
+| front    | 2.20 | 0   | 0.00     | 2023-12-05T14:16:16Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:19:16Z |
 
 Heuristics for choosing the order to contract vertices.
@@ -486,7 +486,7 @@ Heuristics for choosing the order to contract vertices.
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_5">Lazarsfeld n.d.-a</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder)
 
 
 ### Describe ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#describe--contraction-hierarchies-contraction-hierarchies-dot-md}
@@ -508,7 +508,7 @@ Edge difference
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_5">Lazarsfeld n.d.-a</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder)
 
 
 ### Describe ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#describe--contraction-hierarchies-contraction-hierarchies-dot-md}
@@ -529,42 +529,42 @@ Contracted neighbors
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_5">Lazarsfeld n.d.-a</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder)
 
 
 ### Cloze ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#cloze--contraction-hierarchies-contraction-hierarchies-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2023-08-12T00:43:31Z |
+| 0        | 2.35 | 3   | 6.00     | 2023-12-11T14:25:22Z |
 
 We should contract vertices in {{ascending order}{direction}@0} of edge difference.
 
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_5">Lazarsfeld n.d.-a</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder)
 
 
 ### Cloze ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#cloze--contraction-hierarchies-contraction-hierarchies-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 3   | 6.00     | 2023-09-07T14:14:53Z |
+| 0        | 2.50 | 4   | 13.80    | 2023-12-18T10:02:33Z |
 
 We should contract vertices with {{fewer}{comparison}@0} contracted neighbors first.
 
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_5">Lazarsfeld n.d.-a</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder)
 
 
 ### Describe ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#describe--contraction-hierarchies-contraction-hierarchies-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 6   | 64.72    | 2023-11-04T11:54:34Z |
+| front    | 2.20 | 7   | 130.70   | 2024-03-27T08:31:39Z |
 | back     | 2.50 | 2   | 2.00     | 2023-08-25T16:36:13Z |
 
 Lazy update in the context of vertex ordering
@@ -578,14 +578,14 @@ Lazy update in the context of vertex ordering
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_5">Lazarsfeld n.d.-a</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder)
 
 
 ### Describe ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#describe--contraction-hierarchies-contraction-hierarchies-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 3   | 6.00     | 2023-09-14T16:16:05Z |
+| front    | 2.50 | 4   | 15.93    | 2023-12-21T12:40:27Z |
 | back     | 2.5  | -1  | 0        | 2023-06-20T15:35:52Z |
 
 Query phase
@@ -600,7 +600,7 @@ Query phase
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_7">Lazarsfeld n.d.-c</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery)
 
 
 ### Cloze ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#cloze--contraction-hierarchies-contraction-hierarchies-dot-md}
@@ -615,14 +615,14 @@ Query phase
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_7">Lazarsfeld n.d.-c</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery)
 
 
 ### Cloze ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#cloze--contraction-hierarchies-contraction-hierarchies-dot-md}
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2023-11-12T18:05:25Z |
+| 0        | 2.65 | 4   | 15.02    | 2023-12-13T15:19:55Z |
 | 1        | 2.5  | -1  | 0        | 2023-06-20T15:39:08Z |
 
 {{\\(G\_{down}\\)}@0}, a subgraph of \\(G\\), contains only edges from \\(v\\) to \\(w\\) {{where we contracted \\(v\\) **before** \\(w\\)}{condition}@1}
@@ -630,7 +630,7 @@ Query phase
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_7">Lazarsfeld n.d.-c</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery)
 
 
 ### Describe ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#describe--contraction-hierarchies-contraction-hierarchies-dot-md}
@@ -650,7 +650,7 @@ Store a pointer to the contracted node, \\(v\\), whenever we contract \\(u, v, w
 
 #### Source {#source}
 
-(<a href="#citeproc_bib_item_7">Lazarsfeld n.d.-c</a>)
+(NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery)
 
 
 ### Witness path ([Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})) {#witness-path--contraction-hierarchies-contraction-hierarchies-dot-md}
@@ -672,7 +672,7 @@ A path \\(u, \dots, w\\) around \\(v\\) with cost smaller than the cost of \\(u,
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 3   | 6.00     | 2023-07-20T13:14:16Z |
+| 0        | 2.50 | 4   | 15.92    | 2023-11-29T14:34:28Z |
 
 Contraction is {{iterative}{process}@0}
 
@@ -687,13 +687,13 @@ Contraction is {{iterative}{process}@0}
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Contraction Hierarchies.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Contraction_hierarchies&oldid=1153438478">https://en.wikipedia.org/w/index.php?title=Contraction_hierarchies&#38;oldid=1153438478</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Geisberger, Robert, Peter Sanders, Dominik Schultes, and Daniel Delling. 2008. “Contraction Hierarchies: Faster and Simpler Hierarchical Routing in Road Networks.” In <i>Experimental Algorithms</i>, edited by Catherine C. McGeoch, 5038:319–33. Berlin, Heidelberg: Springer Berlin Heidelberg. <a href="https://doi.org/10.1007/978-3-540-68552-4_24">https://doi.org/10.1007/978-3-540-68552-4_24</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Harabor, Daniel, and Peter Stuckey. 2021. “Forward Search in Contraction Hierarchies.” <i>Proceedings of the International Symposium on Combinatorial Search</i> 9 (1): 55–62. <a href="https://doi.org/10.1609/socs.v9i1.18454">https://doi.org/10.1609/socs.v9i1.18454</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Harabor, Daniel D. n.d. “An Introduction to Contraction Hierarchies.”</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Lazarsfeld, John. n.d.-a. “Core Components of CH: Choosing a Node Order.” Contraction Hierarchies Guide. Accessed June 16, 2023. <a href="https://jlazarsfeld.github.io//ch.150.project/sections/12-node-order/">https://jlazarsfeld.github.io//ch.150.project/sections/12-node-order/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>———. n.d.-b. “Core Components of CH: Node Contraction.” Contraction Hierarchies Guide. Accessed June 15, 2023. <a href="https://jlazarsfeld.github.io//ch.150.project/sections/8-contraction/">https://jlazarsfeld.github.io//ch.150.project/sections/8-contraction/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>———. n.d.-c. “Core Components of CH: The Modified, Bidirectional Query.” Contraction Hierarchies Guide. Accessed June 15, 2023. <a href="https://jlazarsfeld.github.io//ch.150.project/sections/10-ch-query/">https://jlazarsfeld.github.io//ch.150.project/sections/10-ch-query/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Contraction Hierarchies.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Contraction_hierarchies&oldid=1153438478">https://en.wikipedia.org/w/index.php?title=Contraction_hierarchies&#38;oldid=1153438478</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Harabor, Daniel D. n.d. “An Introduction to Contraction Hierarchies.”</div>
+  <div class="csl-entry">NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder</div>
+  <div class="csl-entry">NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery</div>
+  <div class="csl-entry">NO_ITEM_DATA:geisbergerContractionHierarchiesFasterSimplerHierarchicalRoutingRoadNetworks2008</div>
+  <div class="csl-entry">NO_ITEM_DATA:haraborForwardSearchContractionHierarchies2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:lazarsfeldCoreComponentsCHNodeContraction</div>
 </div>
 
 

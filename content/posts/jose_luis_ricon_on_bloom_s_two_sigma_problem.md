@@ -2,14 +2,14 @@
 title = "Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction"
 author = ["Cash Weaver"]
 date = 2023-01-11T10:07:00-08:00
-lastmod = 2023-11-10T10:58:51-08:00
+lastmod = 2023-12-05T14:18:35-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "05f362b2-ab02-4cfb-9185-aae4e1c9e235"
 +++
 
-[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (Ricon 2019)
+[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (NO_ITEM_DATA:riconBloomTwoSigmaProblemSystematicReviewEffectivenessMasteryLearningTutoring2019)
 
 
 ## Thoughts {#thoughts}
@@ -70,6 +70,15 @@ I suppose I should have expected that with a title that includes "systematic rev
 > Caplan is right, and this opens an avenue to improve teaching: Suppose you focus on the very basics that will most likely be useful to the students in the future (reading, writing, mathematics). With the time freed up from not teaching other subjects, one can both help disadvantaged students get good at those core topics, and let non-disadvantaged students use the extra time to learn about whatever they want. I would even suggest let them go home, but it may be argued one of the implicit roles of school is that of a place to keep the kids while the parents are working, a kindergarten for older children, but if parents are okay letting their kids roam around, and cities are safe, this is not an issue. Definitely worth exploring.
 >
 > Granting that one can use DI to hammer down very basic points, should one also hammer down History and English Literature? Just because you can make the learning of those happen doesn't mean that you should: the effectiveness of an intervention also depends on the values being used to judge it. What's the effect size of removing History from the curriculum and leaving more time for the kids to play?
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:riconBloomTwoSigmaProblemSystematicReviewEffectivenessMasteryLearningTutoring2019</div>
+</div>
 
 
 ## Backlinks {#backlinks}

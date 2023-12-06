@@ -2,7 +2,7 @@
 title = "Presupposition"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T16:11:00-07:00
-lastmod = 2023-11-10T11:10:56-08:00
+lastmod = 2023-12-05T14:37:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,6 +17,14 @@ slug = "e5db0b54-03b5-417a-a4c8-93001958c410"
 >     -   Presupposition: you had once eaten meat.
 > -   Have you talked to Hans?
 >     -   Presupposition: Hans exists.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

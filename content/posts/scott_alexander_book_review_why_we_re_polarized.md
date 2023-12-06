@@ -2,24 +2,24 @@
 title = "Scott Alexander | Book Review: Why We're Polarized"
 author = ["Cash Weaver"]
 date = 2023-01-11T14:54:00-08:00
-lastmod = 2023-11-10T11:15:17-08:00
+lastmod = 2023-12-05T14:44:51-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "8514d260-eb32-4b31-8559-6cd8990dfc06"
 +++
 
-[Ezra Klein]({{< relref "ezra_klein.md" >}}), (Alexander 2021)
+[Ezra Klein]({{< relref "ezra_klein.md" >}}), (NO_ITEM_DATA:alexanderBookReviewWhyWeRePolarized2021)
 
 
 ## Summary {#summary}
 
-Book review of (Klein 2020).
+Book review of (NO_ITEM_DATA:kleinWhyWeRePolarized2020).
 
 
 ## Thoughts {#thoughts}
 
-While I haven't read (Klein 2020), this reivew leads me to the conclusion that it's a blown out version of [Ezra Klein | Why We Can't Build]({{< relref "ezra_klein_why_we_can_t_build.md" >}}).
+While I haven't read (NO_ITEM_DATA:kleinWhyWeRePolarized2020), this reivew leads me to the conclusion that it's a blown out version of [Ezra Klein | Why We Can't Build]({{< relref "ezra_klein_why_we_can_t_build.md" >}}).
 
 
 ## Notes {#notes}
@@ -71,3 +71,13 @@ While I haven't read (Klein 2020), this reivew leads me to the conclusion that i
 <!--quoteend-->
 
 > This hit basically the notes a book like this should hit, but I don't feel too much more enlightened about Why We're Polarized.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:kleinWhyWeRePolarized2020</div>
+  <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewWhyWeRePolarized2021</div>
+</div>

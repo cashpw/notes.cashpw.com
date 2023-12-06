@@ -2,7 +2,7 @@
 title = "Breadth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T17:20:00-07:00
-lastmod = 2023-11-10T10:29:38-08:00
+lastmod = 2023-12-05T13:49:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,7 +32,7 @@ procedure breadthFirstSearch(graph, rootNode)
         queue.enqueue(connectedNode)
 ```
 
-Based on the algorithm in (“Breadth-First Search” 2022).
+Based on the algorithm in (<a href="#citeproc_bib_item_1">“Breadth-First Search” 2022</a>).
 
 
 ## Complexity {#complexity}
@@ -43,7 +43,16 @@ Based on the algorithm in (“Breadth-First Search” 2022).
 | Space | \\(O(\href{/posts/cardinality}{\vert V \vert})\\)                 |
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Breadth-First Search.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Breadth-first_search&oldid=1091199031">https://en.wikipedia.org/w/index.php?title=Breadth-first_search&#38;oldid=1091199031</a>.</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
--   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 -   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})
+-   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})

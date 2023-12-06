@@ -2,14 +2,14 @@
 title = "Tom Limoncelli | The Right Answer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:50:00-08:00
-lastmod = 2023-11-10T11:02:20-08:00
+lastmod = 2023-12-05T14:23:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "8ed02b38-ffb0-4230-8dd4-3986a74fbe13"
 +++
 
-[Tom Limoncelli]({{< relref "tom_limoncelli.md" >}}), (Limoncelli n.d.)
+[Tom Limoncelli]({{< relref "tom_limoncelli.md" >}}), (<a href="#citeproc_bib_item_1">Limoncelli n.d.</a>)
 
 
 ## Summary {#summary}
@@ -56,3 +56,12 @@ slug = "8ed02b38-ffb0-4230-8dd4-3986a74fbe13"
 > "My boss said so." Short. Simple. It works.
 >
 > The important thing is that we play dumb. You have to be pretty smart to do that.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Limoncelli, Tom. n.d. “The Right Answer.” Accessed February 21, 2022. <a href="https://everythingsysadmin.com/2004/12/the-right-answer.html">https://everythingsysadmin.com/2004/12/the-right-answer.html</a>.</div>
+</div>

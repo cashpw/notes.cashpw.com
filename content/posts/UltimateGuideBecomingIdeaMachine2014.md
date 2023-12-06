@@ -2,14 +2,14 @@
 title = "James Altucher | The Ultimate Guide for Becoming an Idea Machine"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:16:00-08:00
-lastmod = 2023-11-10T10:23:52-08:00
+lastmod = 2023-12-05T13:39:02-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "876f8d80-902c-427a-9109-bb3bd447715c"
 +++
 
-[James Altucher]({{< relref "james_altucher.md" >}}), (Altucher 2014)
+[James Altucher]({{< relref "james_altucher.md" >}}), (NO_ITEM_DATA:altucherUltimateGuideBecomingIdeaMachine2014)
 
 
 ## Summary {#summary}
@@ -31,6 +31,15 @@ slug = "876f8d80-902c-427a-9109-bb3bd447715c"
 > What if I just can't come up with ten ideas?
 >
 > Here's the magic trick: if you can't come up with ten ideas, come up with 20 ideas.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:altucherUltimateGuideBecomingIdeaMachine2014</div>
+</div>
 
 
 ## Backlinks {#backlinks}

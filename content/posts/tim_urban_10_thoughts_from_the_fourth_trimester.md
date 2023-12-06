@@ -2,7 +2,7 @@
 title = "Tim Urban | 10 Thoughts From the Fourth Trimester"
 author = ["Cash Weaver"]
 date = 2023-11-08T10:59:00-08:00
-lastmod = 2023-11-10T11:23:33-08:00
+lastmod = 2023-12-05T14:57:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -84,8 +84,8 @@ slug = "477e372c-1cfc-4a8b-a567-0c19df989417"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>jitney86. 2017. “Months 3 to 17 of My Baby’s Sleep and Breastfeeding Schedule [OC] (Data Collected Manually and Visualized in Excel).” Reddit Post. r/dataisbeautiful. August 6, 2017. <a href="www.reddit.com/r/dataisbeautiful/comments/6s0ba9/months_3_to_17_of_my_babys_sleep_and/">www.reddit.com/r/dataisbeautiful/comments/6s0ba9/months_3_to_17_of_my_babys_sleep_and/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>jiuguangw. 2019. “Visualization of Sleeping Patterns in a Newborn’s First Year [OC].” Reddit Post. r/dataisbeautiful. November 25, 2019. <a href="www.reddit.com/r/dataisbeautiful/comments/e1kg7t/visualization_of_sleeping_patterns_in_a_newborns/">www.reddit.com/r/dataisbeautiful/comments/e1kg7t/visualization_of_sleeping_patterns_in_a_newborns/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Johnson, Nicole. 2012. “Baby Sleep Pattern Charts – A Must-See For All Parents!” The Baby Sleep Site - Baby / Toddler Sleep Consultants. June 26, 2012. <a href="https://www.babysleepsite.com/baby-sleep-patterns/baby-sleep-pattern-chart/">https://www.babysleepsite.com/baby-sleep-patterns/baby-sleep-pattern-chart/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Urban, Tim. 2023. “10 Thoughts From the Fourth Trimester.” Wait But Why. May 23, 2023. <a href="https://waitbutwhy.com/2023/05/baby.html">https://waitbutwhy.com/2023/05/baby.html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>jitney86. 2017. “Months 3 to 17 of My Baby’s Sleep and Breastfeeding Schedule [OC] (Data Collected Manually and Visualized in Excel).” Reddit Post. <i>R/Dataisbeautiful</i>. <a href="www.reddit.com/r/dataisbeautiful/comments/6s0ba9/months_3_to_17_of_my_babys_sleep_and/">www.reddit.com/r/dataisbeautiful/comments/6s0ba9/months_3_to_17_of_my_babys_sleep_and/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>jiuguangw. 2019. “Visualization of Sleeping Patterns in a Newborn’s First Year [OC].” Reddit Post. <i>R/Dataisbeautiful</i>. <a href="www.reddit.com/r/dataisbeautiful/comments/e1kg7t/visualization_of_sleeping_patterns_in_a_newborns/">www.reddit.com/r/dataisbeautiful/comments/e1kg7t/visualization_of_sleeping_patterns_in_a_newborns/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Johnson, Nicole. 2012. “Baby Sleep Pattern Charts – A Must-See For All Parents!” <i>The Baby Sleep Site - Baby / Toddler Sleep Consultants</i>. <a href="https://www.babysleepsite.com/baby-sleep-patterns/baby-sleep-pattern-chart/">https://www.babysleepsite.com/baby-sleep-patterns/baby-sleep-pattern-chart/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Urban, Tim. 2023. “10 Thoughts From the Fourth Trimester.” <i>Wait but Why</i>. <a href="https://waitbutwhy.com/2023/05/baby.html">https://waitbutwhy.com/2023/05/baby.html</a>.</div>
 </div>

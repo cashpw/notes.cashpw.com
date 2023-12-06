@@ -2,14 +2,14 @@
 title = "Nicholas Elorreaga | The Deadbug: Ultimate Guide to Mastering Core Strength"
 author = ["Cash Weaver"]
 date = 2023-07-06T08:25:00-07:00
-lastmod = 2023-11-10T11:07:17-08:00
+lastmod = 2023-12-05T14:31:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "8c39a71d-954c-44e9-9073-cf93cc7788e0"
 +++
 
-[Nicholas Elorreaga]({{< relref "nicholas_elorreaga.md" >}}), (Nick-E 2018)
+[Nicholas Elorreaga]({{< relref "nicholas_elorreaga.md" >}}), (NO_ITEM_DATA:nick-eDeadbugUltimateGuideMasteringCoreStrength2018)
 
 
 ## Summary {#summary}
@@ -191,3 +191,12 @@ Breathe in and out. Your upper hand should **not** move. Your lower hand **shoul
 > This globally flexed position and lack of focus on internal cueing in favour of focus on external shape and rigid tension from the tips of the fingers to the tips of the toes means this exercise predominantly works the rectus abdominis, like many other core exercises.
 >
 > Conversely, deadbugs are an exercise in full, complete, coordinated core bracing in a neutral (or slightly flexed in the lower back) spine position. The focus is very much on the brace, not necessarily on the shape, there is little to no tension in the limbs, and it is performed with an 'empty brace' to maximally challenge the core. It is also not simply enough to replicate the look of deadbugs; if the transverse abdominis, or the internal obliques are not properly contracting for example, the deadbug is not being properly performed because the brace is not complete or coordinated.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:nick-eDeadbugUltimateGuideMasteringCoreStrength2018</div>
+</div>

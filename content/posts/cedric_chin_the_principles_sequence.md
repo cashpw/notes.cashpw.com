@@ -2,14 +2,14 @@
 title = "Cedric Chin | The Principles Sequence"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:23:00-07:00
-lastmod = 2023-11-10T10:32:01-08:00
+lastmod = 2023-12-05T13:52:48-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "a48d73dd-5aee-4a1a-b755-0819490db112"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2018)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2018</a>)
 
 > **The Principles Sequence is a summary of [[Ray Dalio | Principles]({{< relref "ray_dalio_principles.md" >}})].**
 >
@@ -43,7 +43,16 @@ slug = "a48d73dd-5aee-4a1a-b755-0819490db112"
 > The Principles Sequence is centered around Parts One and Two, the two most valuable parts of the book. Dalio intended Part Three to be a reference — you were supposed to read Parts One and Two sequentially, and then jump around to the bits that most interested you in Part Three. For good reason: not all the ideas in Part Three are universally applicable.
 
 
-## (Chin 2018) {#chin-2018}
+## (<a href="#citeproc_bib_item_1">Chin 2018</a>) {#0a5696}
 
 
 ## Summary / Key points / Take-aways {#summary-key-points-take-aways}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “The Principles Sequence.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-principles-sequence/">https://commoncog.com/blog/the-principles-sequence/</a>.</div>
+</div>

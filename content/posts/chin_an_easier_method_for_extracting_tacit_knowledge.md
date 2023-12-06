@@ -2,14 +2,14 @@
 title = "Cedric Chin | An Easier Method for Extracting Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:59:00-07:00
-lastmod = 2023-11-10T10:33:37-08:00
+lastmod = 2023-12-05T13:54:29-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "112cd568-012c-4eea-b902-53f44907b098"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2021)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021)
 
 
 ## Summary {#summary}
@@ -38,6 +38,15 @@ This article is a paraphrasing of [Laura Militello and Robert Hutton | Applied C
 ### The four techniques of Applied Cognitive Task Analysis {#the-four-techniques-of-applied-cognitive-task-analysis}
 
 See [Applied cognitive task analysis]({{< relref "chin_an_easier_method_for_extracting_tacit_knowledge.md" >}}).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021</div>
+</div>
 
 
 ## Backlinks {#backlinks}

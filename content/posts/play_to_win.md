@@ -2,7 +2,7 @@
 title = "Play to win"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-16T19:22:00-08:00
-lastmod = 2023-11-10T11:10:18-08:00
+lastmod = 2023-12-05T14:36:26-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -25,15 +25,23 @@ slug = "4398317e-6aa1-4dd4-b2a5-6334256ca2cc"
 This is one of my [Favorites]({{< relref "favorites.md" >}}).
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
+
 ## Backlinks {#backlinks}
 
--   [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
 -   [Be what they expect you to be]({{< relref "be_what_they_expect_you_to_be.md" >}})
 -   [Keep your eye on the prize]({{< relref "keep_your_eye_on_the_prize.md" >}})
+-   [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
 -   [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow2018.md" >}})
 -   [Ask the right questions]({{< relref "ask_the_right_questions.md" >}})
--   [Min-maxing]({{< relref "min_maxing.md" >}})
 -   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})
+-   [Min-maxing]({{< relref "min_maxing.md" >}})
 -   [Give the right answers]({{< relref "ask_the_right_questions_give_the_right_answers.md" >}})
--   [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})
 -   [Nate Soares | Half-Assing It with Everything You've Got]({{< relref "play_to_win.md" >}})
+-   [You go high, we go low]({{< relref "you_go_high_we_go_low.md" >}})

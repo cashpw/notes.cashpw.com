@@ -2,7 +2,7 @@
 title = "Shelf-life of information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T15:13:00-07:00
-lastmod = 2023-11-10T11:16:24-08:00
+lastmod = 2023-12-05T14:46:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,6 +17,14 @@ As examples:
 -   Long shelf-life: \\(f = ma\\)
 
 Another way to think of this is to answer "How much will X matter to people 100 (or some other large number) of years in the future?"
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

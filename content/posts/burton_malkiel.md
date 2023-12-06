@@ -2,12 +2,20 @@
 title = "Burton Malkiel"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:13:00-08:00
-lastmod = 2023-11-10T10:29:53-08:00
+lastmod = 2023-12-05T13:50:02-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "e943172b-03c0-4a37-881d-5c8e620c9ec7"
 +++
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
 
 ## Backlinks {#backlinks}
 

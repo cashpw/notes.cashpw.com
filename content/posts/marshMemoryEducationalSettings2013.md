@@ -2,14 +2,14 @@
 title = "Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T21:10:00-08:00
-lastmod = 2023-11-10T11:04:01-08:00
+lastmod = 2023-12-05T14:25:42-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "91d7761c-fb74-4f25-94cc-948d7522b818"
 +++
 
-TODO_AUTHOR, (Marsh and Butler 2013)
+TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Marsh and Butler 2013</a>)
 
 
 ## Summary {#summary}
@@ -170,3 +170,12 @@ I worry that it wouldn't be enough to maintain understanding and the ability to 
 
 
 ### The Relativity of Memory {#the-relativity-of-memory}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Marsh, Elizabeth J., and Andrew C. Butler. 2013. <i>Memory in Educational Settings</i>. Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780195376746.013.0020">https://doi.org/10.1093/oxfordhb/9780195376746.013.0020</a>.</div>
+</div>

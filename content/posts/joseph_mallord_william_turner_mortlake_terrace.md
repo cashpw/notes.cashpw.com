@@ -2,7 +2,7 @@
 title = "Joseph Mallord William Turner | Mortlake Terrace"
 author = ["Cash Weaver"]
 date = 2023-08-07T18:24:00-07:00
-lastmod = 2023-11-10T10:59:11-08:00
+lastmod = 2023-12-05T14:19:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -28,7 +28,7 @@ slug = "32d70cac-3020-45a5-9ebf-53f9b2f7ebf4"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Turner, Joseph Mallord William. 1827. <i>Mortlake Terrace</i>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Turner, Joseph Mallord William. 1827. “Mortlake Terrace.”</div>
 </div>
 
 

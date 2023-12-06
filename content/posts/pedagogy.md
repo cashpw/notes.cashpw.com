@@ -2,7 +2,7 @@
 title = "Pedagogy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T18:48:00-07:00
-lastmod = 2023-11-10T11:09:30-08:00
+lastmod = 2023-12-05T14:34:53-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -29,7 +29,7 @@ slug = "85cfa8c4-9c7b-47d9-a593-8548385027f7"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pedagogy.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Pedagogy&oldid=1094565911">https://en.wikipedia.org/w/index.php?title=Pedagogy&#38;oldid=1094565911</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pedagogy.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Pedagogy&oldid=1094565911">https://en.wikipedia.org/w/index.php?title=Pedagogy&#38;oldid=1094565911</a>.</div>
 </div>
 
 

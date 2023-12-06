@@ -2,7 +2,7 @@
 title = "Robert Frost | Nothing Gold Can Stay"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T11:30:00-07:00
-lastmod = 2023-11-10T11:07:50-08:00
+lastmod = 2023-12-05T14:32:12-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -22,7 +22,7 @@ Nothing gold can stay.<br />
 
 </div>
 
-[Robert Frost]({{< relref "robert_frost.md" >}}), (<a href="#citeproc_bib_item_1">“Nothing Gold Can Stay (Poem)” 2022</a>)
+[Robert Frost]({{< relref "robert_frost.md" >}}), (NO_ITEM_DATA:NothingGoldCanStayPoem2022)
 
 
 ## Bibliography {#bibliography}
@@ -30,5 +30,5 @@ Nothing gold can stay.<br />
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Nothing Gold Can Stay (Poem).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Nothing_Gold_Can_Stay_(poem)&oldid=1091247783">https://en.wikipedia.org/w/index.php?title=Nothing_Gold_Can_Stay_(poem)&#38;oldid=1091247783</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:NothingGoldCanStayPoem2022</div>
 </div>

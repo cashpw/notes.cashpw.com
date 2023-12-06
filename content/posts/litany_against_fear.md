@@ -2,7 +2,7 @@
 title = "Litany against fear"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:03:00-08:00
-lastmod = 2023-11-10T11:02:53-08:00
+lastmod = 2023-12-05T14:23:56-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -22,12 +22,21 @@ Only I will remain.<br />
 
 </div>
 
-Bene Gesserit, (Herbert 1999)
+Bene Gesserit, (<a href="#citeproc_bib_item_1">Herbert 1999</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
+</div>
 
 
 ## Backlinks {#backlinks}
 
--   [Focusing techniques]({{< relref "focusing_techniques.md" >}})
 -   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md#2-dot-1" >}})
 -   [Node types]({{< relref "style_guide.md#node-types" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Focusing techniques]({{< relref "focusing_techniques.md" >}})

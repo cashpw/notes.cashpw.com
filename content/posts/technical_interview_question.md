@@ -2,7 +2,7 @@
 title = "Technical interview questions"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T21:19:00-08:00
-lastmod = 2023-11-10T11:21:06-08:00
+lastmod = 2023-12-05T14:53:51-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -30,6 +30,14 @@ slug = "9b224cb9-823c-468b-be5d-4431d65d9ee1"
     -   Would one or more data structures help?
 -   Can you preprocess the input?
     -   TODO Expand
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

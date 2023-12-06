@@ -2,7 +2,7 @@
 title = "Leo Babauta"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-02T18:40:00-08:00
-lastmod = 2023-11-10T11:01:45-08:00
+lastmod = 2023-12-05T14:22:27-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -10,6 +10,14 @@ slug = "78a19748-6cfd-4922-b9bb-a6dea86fe54d"
 +++
 
 Writes at [Zen Habits](https://zenhabits.net/).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

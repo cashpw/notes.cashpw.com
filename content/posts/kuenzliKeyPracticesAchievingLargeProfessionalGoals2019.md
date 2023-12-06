@@ -2,14 +2,14 @@
 title = "Stephen Kuenzli | Key Practices for Achieving Large Professional Goals"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:49:00-08:00
-lastmod = 2023-11-10T11:00:28-08:00
+lastmod = 2023-12-05T14:20:49-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "3e7f1498-0d7c-4794-99c3-c22d6e316c52"
 +++
 
-[Stephen Kuenzli]({{< relref "stephen_kuenzli.md" >}}), (Kuenzli 2019)
+[Stephen Kuenzli]({{< relref "stephen_kuenzli.md" >}}), (NO_ITEM_DATA:kuenzliKeyPracticesAchievingLargeProfessionalGoals2019)
 
 
 ## Summary {#summary}
@@ -50,3 +50,12 @@ Kuenzli mentions that they "really learned how to focus and extract much more va
 ## Thoughts {#thoughts}
 
 I've added an "End the Day" event to my calendar for the last 15 minutes of the day.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:kuenzliKeyPracticesAchievingLargeProfessionalGoals2019</div>
+</div>

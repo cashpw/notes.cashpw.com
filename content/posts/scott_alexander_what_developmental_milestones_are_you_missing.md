@@ -2,14 +2,14 @@
 title = "Scott Alexander | What Developmental Milestones Are You Missing?"
 author = ["Cash Weaver"]
 date = 2023-01-12T07:43:00-08:00
-lastmod = 2023-11-10T11:15:25-08:00
+lastmod = 2023-12-05T14:45:01-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "c31b6e30-dbf8-4f8a-8cb1-115a6e512b14"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (Alexander 2015)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (NO_ITEM_DATA:alexanderWhatDevelopmentalMilestonesAreYouMissing2015)
 
 
 ## Notes {#notes}
@@ -65,3 +65,12 @@ This reads to me as supporting the idea that [Culture is the secret of humanity'
 > [Broken links replaced]
 
 Related to this idea: [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}}). I'm still not sure where I fall on this issue. On the one hand, [The purpose of a system is what it does]({{< relref "the_purpose_of_a_system_is_what_it_does.md" >}}). On the other hand, the world is complex and the outcome may not have been entirely understood, predictable, or independent (in that the resulting effect was the result of more than just the single policy). As an example, take the [Southern strategy]({{< relref "southern_strategy.md" >}}). It's explicit goal was to gain voters by appealing to their racism. However, you can't come right out and say that or you'll lose votes. So they used [Dog whistles]({{< relref "dog_whistle.md" >}}) -- at least until they could [kill the euphamism]({{< relref "the_death_of_a_euphamism.md" >}}).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:alexanderWhatDevelopmentalMilestonesAreYouMissing2015</div>
+</div>

@@ -2,14 +2,14 @@
 title = "Cedric Chin | To Get Good, Go After The Metagame"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:01:00-08:00
-lastmod = 2023-11-10T10:33:25-08:00
+lastmod = 2023-12-05T13:54:17-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "4f9769a8-94c3-461c-b4be-933b522aab15"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2020)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinGetGoodGoMetagame2020)
 
 
 ## Summary {#summary}
@@ -57,3 +57,12 @@ Mastering something requires mastering the literal game as well as the [Metagame
 <!--quoteend-->
 
 > If you can't master a particular skill, drop back down to its component elements and practice each of them in isolation. If you don't get good conversions in your content marketing, drop down to practice publishing at a regular cadence. If you can't get a throw to work, break it down to arms, then legs, then body position, then into one complete motion.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:chinGetGoodGoMetagame2020</div>
+</div>

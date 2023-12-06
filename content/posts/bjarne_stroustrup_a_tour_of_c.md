@@ -2,7 +2,7 @@
 title = "Bjarne Stroustrup | A Tour of C++"
 author = ["Cash Weaver"]
 date = 2023-04-25T11:58:00-07:00
-lastmod = 2023-11-10T10:28:53-08:00
+lastmod = 2023-12-05T13:48:26-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -844,7 +844,7 @@ py == &y;
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 218.67   | 2024-05-23T00:13:44Z |
-| back     | 2.35 | 6   | 82.53    | 2023-11-19T01:25:58Z |
+| back     | 2.35 | 7   | 183.14   | 2024-06-04T18:33:16Z |
 
 Types composed of fundamental types (e.g. `bool`), the `const` modifier, and declarator operators.
 
@@ -911,7 +911,7 @@ C++'s built-in types reflect {{the capabilities of conventional computer hardwar
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
 | front    | 2.50 | 7   | 247.20   | 2024-07-13T21:09:31Z |
-| back     | 1.90 | 5   | 22.26    | 2023-11-07T13:40:29Z |
+| back     | 1.90 | 6   | 42.63    | 2023-12-27T06:40:26Z |
 
 User-defined types
 

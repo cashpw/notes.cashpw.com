@@ -2,12 +2,20 @@
 title = "Daniel Kahneman"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-07T20:40:00-07:00
-lastmod = 2023-11-10T10:38:10-08:00
+lastmod = 2023-12-05T13:59:07-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "957b4ae8-30fd-4b40-b055-98ba71a37a22"
 +++
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
 
 ## Backlinks {#backlinks}
 

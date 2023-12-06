@@ -2,7 +2,7 @@
 title = "Disjunctive normal form"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-22T09:28:00-07:00
-lastmod = 2023-11-10T10:41:15-08:00
+lastmod = 2023-12-05T14:01:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,5 +19,5 @@ slug = "ed008224-2505-48a1-a322-7a410fbf7168"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Disjunctive Normal Form.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&oldid=1137077528">https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&#38;oldid=1137077528</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Disjunctive Normal Form.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&oldid=1137077528">https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&#38;oldid=1137077528</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Python library: queue"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-08T08:51:00-08:00
-lastmod = 2023-11-10T11:12:00-08:00
+lastmod = 2023-12-05T14:39:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -149,3 +149,11 @@ min_queue.update(5, 'b')
 print(min_queue.get(), 'should be (4, a)')
 print(min_queue.get(), 'should be (5, b)')
 ```
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

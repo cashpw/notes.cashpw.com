@@ -2,7 +2,7 @@
 title = "Operators in C++"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-04T16:20:00-07:00
-lastmod = 2023-11-10T11:08:26-08:00
+lastmod = 2023-12-05T14:33:16-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

@@ -2,12 +2,20 @@
 title = "Nathan Robinson"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T08:47:00-08:00
-lastmod = 2023-11-10T11:06:40-08:00
+lastmod = 2023-12-05T14:30:05-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
 slug = "6a812992-0705-48e1-9ad5-d5bd419f9901"
 +++
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
 
 ## Backlinks {#backlinks}
 

@@ -2,7 +2,7 @@
 title = "Nick's class"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:33:00-08:00
-lastmod = 2023-11-10T11:07:20-08:00
+lastmod = 2023-12-05T14:31:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,4 +13,13 @@ slug = "1a499a31-7ecb-4f80-95a5-22d748a0c634"
 >
 > Just as the class P [[P (Complexity)]({{< relref "polynomial_time.md" >}})] can be thought of as the tractable problems (Cobham's thesis), so NC can be thought of as the problems that can be efficiently solved on a parallel computer.
 >
-> (“NC (Complexity)” 2022)
+> (<a href="#citeproc_bib_item_1">“NC (Complexity)” 2022</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“NC (Complexity).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=NC_(complexity)&oldid=1119208413">https://en.wikipedia.org/w/index.php?title=NC_(complexity)&#38;oldid=1119208413</a>.</div>
+</div>

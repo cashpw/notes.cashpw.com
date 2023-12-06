@@ -2,7 +2,7 @@
 title = "Jeff Kaufman | Predictable Parenting"
 author = ["Cash Weaver"]
 date = 2023-11-06T08:16:00-08:00
-lastmod = 2023-11-10T10:58:00-08:00
+lastmod = 2023-12-05T14:17:31-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

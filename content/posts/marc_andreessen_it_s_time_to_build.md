@@ -2,14 +2,14 @@
 title = "Marc Andreessen | It's Time to Build"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:19:00-08:00
-lastmod = 2023-11-10T11:03:47-08:00
+lastmod = 2023-12-05T14:25:19-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "c0cb9a04-2e57-4da8-b221-03d84508e801"
 +++
 
-[Marc Andreessen]({{< relref "marc_andreessen.md" >}}), (Andreessen 2020)
+[Marc Andreessen]({{< relref "marc_andreessen.md" >}}), (<a href="#citeproc_bib_item_1">Andreessen 2020</a>)
 
 
 ## Summary {#summary}
@@ -63,7 +63,7 @@ The first step in problem solving is to [Understand and agree about the problem]
 
 > You see it in housing and the physical footprint of our cities. We can't build nearly enough housing in our cities with surging economic potential — which results in crazily skyrocketing housing prices in places like San Francisco, making it nearly impossible for regular people to move in and take the jobs of the future. We also can't build the cities themselves anymore. When the producers of HBO's "Westworld" wanted to portray the American city of the future, they didn't film in Seattle or Los Angeles or Austin — they went to Singapore. We should have gleaming skyscrapers and spectacular living environments in all our best cities at levels way beyond what we have now; where are they?
 
-I disagree that gleaming skyscrapers are the emblem of an advanced city but that's beside the point. San Francisco, and the Bay Area in general, has a horrible housing situation which prices out all but (1) the rich, (2) those who were here early (i.e Prop 13 (“1978 California Proposition 13” 2022)), and (3) those willing to lower their standard of living by doubling or tripling up, etc. I agree with the phrasing of "choosing" not to build. Councils in the Bay Area have chosen housing stagnation by _not_ choosing agressive housing policies to keep pace with the population and demand growth. Then again, I am sympathetic to the idea that "just because people want to come here doesn't mean we need to change to facilitate that demand".
+I disagree that gleaming skyscrapers are the emblem of an advanced city but that's beside the point. San Francisco, and the Bay Area in general, has a horrible housing situation which prices out all but (1) the rich, (2) those who were here early (i.e Prop 13 (NO_ITEM_DATA:1978CaliforniaProposition132022)), and (3) those willing to lower their standard of living by doubling or tripling up, etc. I agree with the phrasing of "choosing" not to build. Councils in the Bay Area have chosen housing stagnation by _not_ choosing agressive housing policies to keep pace with the population and demand growth. Then again, I am sympathetic to the idea that "just because people want to come here doesn't mean we need to change to facilitate that demand".
 
 I'm not sure how I'd handle the situation if I were to become [BDFL]({{< relref "bdfl.md" >}}) as I'd inherit existing infrastructure and buildings with users and owners both happy and unhappy, as well as not enough money to push through truly dramatic changes. One change I'd love to make would be to radically restrict car transport throughout the Bay Area in favor of reliable, safe, clean, etc, public transport in the form of trains, light rail, and buses. I'd need to couple this with a similarly radical densification to facilitiate that public transportation. This would involve demolishing existing single-family homes, etc, and building denser housing options. This wouldn't be immediately popular or profitable and would get me laughed out of the room before work even got started.
 
@@ -123,7 +123,18 @@ As for specifics, insofar as a direction is specific, I agree with [Ezra Klein's
 
 > A sustained and concerted movement that cares about institutional reform. But people get much more excited about building something, anything, than about reforming existing institutions. [[Meta]({{< relref "the_metagame.md" >}})]-building isn't a popular pastime, and the patient, focused work it requires is particularly frustrating, in my experience, to entrepreneurial personalities.
 >
-> (Klein 2020)
+> (NO_ITEM_DATA:kleinWhyWeCanBuild2020)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Andreessen, Marc. 2020. “It’s Time to Build.” <i>Andreessen Horowitz</i>. <a href="https://a16z.com/2020/04/18/its-time-to-build/">https://a16z.com/2020/04/18/its-time-to-build/</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:kleinWhyWeCanBuild2020</div>
+  <div class="csl-entry">NO_ITEM_DATA:1978CaliforniaProposition132022</div>
+</div>
 
 
 ## Backlinks {#backlinks}

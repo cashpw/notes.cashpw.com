@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T10:08:00-08:00
-lastmod = 2023-11-10T10:58:38-08:00
+lastmod = 2023-12-05T14:18:24-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -16,6 +16,14 @@ slug = "803ade2e-9b8f-4bac-9ddb-565e9a8bfce7"
 
 
 ## <https://nintil.com/dont-assume> {#https-nintil-dot-com-dont-assume}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

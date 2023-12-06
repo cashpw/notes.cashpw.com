@@ -2,7 +2,7 @@
 title = "Spaced repetition"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2023-11-10T11:18:13-08:00
+lastmod = 2023-12-05T14:49:24-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -15,7 +15,7 @@ slug = "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
 >
 > The basis for spaced repetition research was laid by Hermann Ebbinghaus, who suggested that information loss over time follows a forgetting curve [[Forgetting curve]({{< relref "forgetting_curve.md" >}})], but that forgetting could be reset with repetition based on active recall.
 >
-> (<a href="#citeproc_bib_item_3">“Spaced Repetition” 2022</a>)
+> (<a href="#citeproc_bib_item_2">“Spaced Repetition” 2022</a>)
 
 Also see [Testing effect]({{< relref "testing_effect.md" >}}) and [Purposeful practice]({{< relref "purposeful_practice.md" >}}). This is one of my [Favorites]({{< relref "favorites.md" >}}).
 
@@ -50,7 +50,7 @@ As far as I can tell, from my own experience and reading what others have writte
     >
     > Because it does work. Sort of. Cramming is a trade-off: you trade a strong memory now for weak memory later. (Very weak⁠⁠.) And tests are usually of all the new material, with occasional old questions, so this strategy pays off! [...]
     >
-    > (<a href="#citeproc_bib_item_2">Branwen 2009</a>)
+    > (NO_ITEM_DATA:branwenSpacedRepetitionEfficientLearning2009)
 
 3.  It's hard to write good, effective, cards
 
@@ -100,26 +100,26 @@ Refer to (<a href="#citeproc_bib_item_1">Borretti 2023</a>)
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Borretti, Fernando. 2023. “Effective Spaced Repetition.” Fernando Borretti. April 10, 2023. <a href="https://borretti.me/article/effective-spaced-repetition">https://borretti.me/article/effective-spaced-repetition</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Branwen, Gwern. 2009. “Spaced Repetition for Efficient Learning,” March. <a href="https://www.gwern.net/Spaced-repetition">https://www.gwern.net/Spaced-repetition</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Spaced Repetition.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Spaced_repetition&oldid=1068245869">https://en.wikipedia.org/w/index.php?title=Spaced_repetition&#38;oldid=1068245869</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Borretti, Fernando. 2023. “Effective Spaced Repetition.” <i>Fernando Borretti</i>. <a href="https://borretti.me/article/effective-spaced-repetition">https://borretti.me/article/effective-spaced-repetition</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Spaced Repetition.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Spaced_repetition&oldid=1068245869">https://en.wikipedia.org/w/index.php?title=Spaced_repetition&#38;oldid=1068245869</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:branwenSpacedRepetitionEfficientLearning2009</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tricky Thing About Creating Training Programs]({{< relref "cedric_chin_the_tricky_thing_about_creating_training_programs.md" >}})
--   [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
 -   [Forgetting curve]({{< relref "forgetting_curve.md" >}})
--   [Andy Matuschak | Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture]({{< relref "andy_matuschak_deciding_to_remember_something_with_a_spaced_repetition_system_is_aspirationally_a_lightweight_gesture.md" >}})
--   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
--   [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}})
--   [Pedagogy]({{< relref "pedagogy.md" >}})
 -   [Fernando Borretti | Effective Spaced Repetition]({{< relref "fernando_borretti_effective_spaced_repetition.md" >}})
--   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
--   [Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction]({{< relref "jose_luis_ricon_on_bloom_s_two_sigma_problem.md" >}})
--   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})
--   [Org flashcards]({{< relref "org_flashcards.md" >}})
 -   [Get good]({{< relref "get_good.md" >}})
+-   [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}})
+-   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
+-   [Cedric Chin | The Tricky Thing About Creating Training Programs]({{< relref "cedric_chin_the_tricky_thing_about_creating_training_programs.md" >}})
+-   [Andy Matuschak | Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture]({{< relref "andy_matuschak_deciding_to_remember_something_with_a_spaced_repetition_system_is_aspirationally_a_lightweight_gesture.md" >}})
+-   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
+-   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})
+-   [Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction]({{< relref "jose_luis_ricon_on_bloom_s_two_sigma_problem.md" >}})
 -   [Michael Nielsen | Augmenting Long-term Memory]({{< relref "michael_nielsen_augmenting_long_term_memory.md" >}})
+-   [Org flashcards]({{< relref "org_flashcards.md" >}})
+-   [Pedagogy]({{< relref "pedagogy.md" >}})
+-   [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
 -   [Remember (Bloom's Taxonomy)]({{< relref "BloomTaxonomy2022.md#remember--id-5fbaa05c-666f-4d45-b798-ff36ace22126-bloom-s-taxonomy" >}})

@@ -2,14 +2,14 @@
 title = "Cedric Chin | Book Summary: Peak, the New Science of Expertise"
 author = ["Cash Weaver"]
 date = 2023-06-30T16:54:00-07:00
-lastmod = 2023-11-10T10:31:05-08:00
+lastmod = 2023-12-05T13:51:56-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "8b2342f4-1514-4a61-9115-235b8572c8fd"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2019)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinBookSummaryPeakNewScienceExpertise2019)
 
 
 ## Summary {#summary}
@@ -27,7 +27,16 @@ A [Branch book]({{< relref "branch_book.md" >}}) discussing [Purposeful practice
 > But what Peak fails to do is to provide a complete guide on how to put deliberate practice into … well, practice.
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:chinBookSummaryPeakNewScienceExpertise2019</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
 -   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
+-   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})

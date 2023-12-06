@@ -2,7 +2,7 @@
 title = "Cognitive transformation theory"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T16:04:00-07:00
-lastmod = 2023-11-10T10:34:37-08:00
+lastmod = 2023-12-05T13:55:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,6 +25,6 @@ slug = "2023ecf7-2e79-4919-a356-264eecb3034b"
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
 -   [Cedric Chin | The Hard Thing About Learning From Experience]({{< relref "cedric_chin_the_hard_thing_about_learning_from_experience.md" >}})
 -   [Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning]({{< relref "gary_klein_and_holly_c_baxter_cognitive_transformation_theory_contrasting_cognitive_and_behavioral_learning.md" >}})
+-   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})

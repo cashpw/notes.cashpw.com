@@ -2,7 +2,7 @@
 title = "Heapsort implementation in python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-17T09:22:00-07:00
-lastmod = 2023-11-10T10:51:39-08:00
+lastmod = 2023-12-05T14:11:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -105,6 +105,14 @@ print(heapsort([4,2,5,19,1], lambda x,y: 1 if x < y else -1))
 #print("Pass" if get_child_indices(1) == (3,4) else ("Fail", get_child_indices(1)))
 #print("Pass" if get_child_indices(2) == (5,6) else ("Fail", get_child_indices(1)))
 ```
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,12 +2,20 @@
 title = "Joseph Blitzstein"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T06:19:00-08:00
-lastmod = 2023-11-10T10:59:00-08:00
+lastmod = 2023-12-05T14:18:45-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
 slug = "5bd484ff-a525-429a-92cb-7b79894f4d61"
 +++
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
 
 ## Backlinks {#backlinks}
 

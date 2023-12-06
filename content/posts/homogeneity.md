@@ -2,7 +2,7 @@
 title = "Homogeneity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:43:00-08:00
-lastmod = 2023-11-10T10:52:49-08:00
+lastmod = 2023-12-05T14:12:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,7 +29,7 @@ slug = "65f61fff-628e-484a-baf5-785b37f7f28e"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Homogeneous Function.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Homogeneous_function&oldid=1127194795">https://en.wikipedia.org/w/index.php?title=Homogeneous_function&#38;oldid=1127194795</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Homogeneous Function.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Homogeneous_function&oldid=1127194795">https://en.wikipedia.org/w/index.php?title=Homogeneous_function&#38;oldid=1127194795</a>.</div>
 </div>
 
 

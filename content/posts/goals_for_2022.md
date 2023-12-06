@@ -2,7 +2,7 @@
 title = "Goals for 2022"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T13:34:00-08:00
-lastmod = 2023-11-10T10:49:18-08:00
+lastmod = 2023-12-05T14:09:44-08:00
 draft = false
 slug = "f8a6ddda-eefa-4559-9f2f-a4ea26c7a223"
 +++
@@ -16,3 +16,11 @@ I think I could improve on [last year's goals]({{< relref "goals_for_2021.md" >}
 3.  making the list private
 
 Keeping the list private is less for actually privacy concerns and more-so to ensure that I'm brutally honest and open when writing and reviewing these goals.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

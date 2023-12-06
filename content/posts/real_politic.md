@@ -2,7 +2,7 @@
 title = "Realpolitik"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T11:20:00-07:00
-lastmod = 2023-11-10T11:12:59-08:00
+lastmod = 2023-12-05T14:40:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -12,6 +12,14 @@ slug = "8c1b0569-db17-41af-90a3-7f2c75dc8923"
 > Realpolitik refers to enacting or engaging in diplomatic or political policies based primarily on considerations of given circumstances and factors, rather than strictly binding itself to explicit ideological notions or moral and ethical premises.
 
 Also see [Power politics]({{< relref "power_politics.md" >}}).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

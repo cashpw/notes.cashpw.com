@@ -2,14 +2,14 @@
 title = "moridinamael | The Monthly Newsletter as Thinking Tool"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:19:00-08:00
-lastmod = 2023-11-10T11:06:09-08:00
+lastmod = 2023-12-05T14:29:15-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "da8376c0-7849-47fd-9f79-fca821651232"
 +++
 
-[Matt Freeman]({{< relref "matt_freeman.md" >}}), (moridinamael 2018)
+[Matt Freeman]({{< relref "matt_freeman.md" >}}), (NO_ITEM_DATA:moridinamaelMonthlyNewsletterThinkingTool2018)
 
 
 ## Summary {#summary}
@@ -34,6 +34,15 @@ slug = "da8376c0-7849-47fd-9f79-fca821651232"
 <!--quoteend-->
 
 > And the final and most important distinction between a monthly newsletter and a blog -- and, I think, the place where all the value of this practice comes in -- is the time-locked nature of it. You have a month to jot down thoughts, then at the end of the month you have to "finish" those thoughts.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:moridinamaelMonthlyNewsletterThinkingTool2018</div>
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Albert Trachsel | Soleil"
 author = ["Cash Weaver"]
 date = 2023-08-07T18:42:00-07:00
-lastmod = 2023-11-10T10:24:55-08:00
+lastmod = 2023-12-05T13:41:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -30,7 +30,7 @@ One of my [Favorites]({{< relref "favorites.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Trachsel, Albert. 1909. <i>Soleil</i>. <a href="https://www.jura.ch/AppHost/10121,1/Scripts/Modules/CJBA/Oeuvre.aspx?id=98&index=0&searchMode=Advanced&creationYear=1909">https://www.jura.ch/AppHost/10121,1/Scripts/Modules/CJBA/Oeuvre.aspx?id=98&#38;index=0&#38;searchMode=Advanced&#38;creationYear=1909</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Trachsel, Albert. 1909. “Soleil.” <a href="https://www.jura.ch/AppHost/10121,1/Scripts/Modules/CJBA/Oeuvre.aspx?id=98&index=0&searchMode=Advanced&creationYear=1909">https://www.jura.ch/AppHost/10121,1/Scripts/Modules/CJBA/Oeuvre.aspx?id=98&#38;index=0&#38;searchMode=Advanced&#38;creationYear=1909</a>.</div>
 </div>
 
 

@@ -2,14 +2,14 @@
 title = "Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree"
 author = ["Cash Weaver"]
 date = 2023-07-30T07:26:00-07:00
-lastmod = 2023-11-10T10:38:15-08:00
+lastmod = 2023-12-05T13:59:11-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
 slug = "7ac554b7-d1b7-4348-8865-8742415b06d0"
 +++
 
-[Daniel Kahneman]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}}), [Gary Klein]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}}), (Kahneman and Klein 2009)
+[Daniel Kahneman]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}}), [Gary Klein]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}}), (NO_ITEM_DATA:kahnemanConditionsIntuitiveExpertiseFailureDisagree2009)
 
 
 ## Summary {#summary}
@@ -77,6 +77,15 @@ See also [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinEx
 > -   Although true skill cannot develop in irregular or unpredictable environments, individuals will sometimes make judgments and decisions that are successful by chance. These "lucky" individuals will be susceptible to an illusion of skill and to overconfidence (Arkes, 2001). The financial industry is a rich source of examples.
 > -   The situation that we have labeled fractionation of skill is another source of overconfidence. Professionals who have expertise in some tasks are sometimes called upon to make judgments in areas in which they have no real skill. (For example, financial analysts may be skilled at evaluating the likely commercial success of a firm, but this skill does not extend to the judgment of whether the stock of that firm is underpriced.) It is difficult both for the professionals and for those who observe them to determine the boundaries of their true expertise.
 > -   We agree that the weak regularities available in low-validity situations can sometimes support the development of algorithms that do better than chance. These algorithms only achieve limited accuracy, but they outperform humans because of their advantage of consistency. However, the introduction of algorithms to replace human judgment is likely to evoke substantial resistance and sometimes has undesirable side effects.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:kahnemanConditionsIntuitiveExpertiseFailureDisagree2009</div>
+</div>
 
 
 ## Backlinks {#backlinks}

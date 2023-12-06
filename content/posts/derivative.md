@@ -2,7 +2,7 @@
 title = "Derivative (math)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:20:00-08:00
-lastmod = 2023-11-10T10:40:21-08:00
+lastmod = 2023-12-05T14:01:06-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -17,7 +17,7 @@ slug = "555a96ec-560f-4087-939f-5985f0ad0cb6"
 >
 > The process of finding a derivative is called differentiation [[Differentiation]({{< relref "differential_calculus.md" >}})]. The reverse process is called antidifferentiation [[Antiderivative]({{< relref "antiderivative.md" >}})]. The fundamental theorem of calculus [[Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})] relates antidifferentiation with integration [[Integration]({{< relref "integral.md" >}})]. Differentiation and integration constitute the two fundamental operations in single-variable calculus.
 >
-> (“Derivative” 2022)
+> (<a href="#citeproc_bib_item_1">“Derivative” 2022</a>)
 
 
 ## Geometric interpretation of derivatives {#geometric-interpretation-of-derivatives}
@@ -86,17 +86,26 @@ You can perform the second step from above to determine whether these are maxima
 ## Expand {#expand}
 
 Related: [Differential calculus]({{< relref "differential_calculus.md" >}})
-(“Derivative” 2022)
+(<a href="#citeproc_bib_item_1">“Derivative” 2022</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Derivative.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Derivative&oldid=1115036985">https://en.wikipedia.org/w/index.php?title=Derivative&#38;oldid=1115036985</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}
 
--   [Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})
--   [Vega (finance)]({{< relref "vega_finance.md" >}})
--   [Chain rule]({{< relref "chain_rule.md" >}})
+-   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})
 -   [Instantaneous velocity]({{< relref "velocity.md#instantaneous-velocity" >}})
 -   [Quotient rule]({{< relref "quotient_rule.md" >}})
 -   [Acceleration]({{< relref "acceleration.md" >}})
+-   [Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})
 -   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
--   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})
+-   [Chain rule]({{< relref "chain_rule.md" >}})
 -   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
+-   [Vega (finance)]({{< relref "vega_finance.md" >}})

@@ -2,14 +2,14 @@
 title = "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | An Introduction to Statistical Learning: With Applications in R"
 author = ["Cash Weaver"]
 date = 2022-12-24T09:19:00-08:00
-lastmod = 2023-11-10T10:47:57-08:00
+lastmod = 2023-12-05T14:08:30-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "94bcb9cb-d5b8-49d7-a169-891808910a65"
 +++
 
-[Gareth James]({{< relref "gareth_james.md" >}}), [Daniela Witten]({{< relref "daniela_witten.md" >}}), [Trevor Hastie]({{< relref "trevor_hastie.md" >}}), [Robert Tibshirani]({{< relref "robert_tibshirani.md" >}}), (James et al. 2013)
+[Gareth James]({{< relref "gareth_james.md" >}}), [Daniela Witten]({{< relref "daniela_witten.md" >}}), [Trevor Hastie]({{< relref "trevor_hastie.md" >}}), [Robert Tibshirani]({{< relref "robert_tibshirani.md" >}}), (NO_ITEM_DATA:jamesIntroductionStatisticalLearningApplications2013)
 
 
 ## Summary {#summary}
@@ -1082,6 +1082,15 @@ slug = "94bcb9cb-d5b8-49d7-a169-891808910a65"
 
 
 #### Index {#index}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:jamesIntroductionStatisticalLearningApplications2013</div>
+</div>
 
 
 ## Backlinks {#backlinks}

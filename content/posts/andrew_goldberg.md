@@ -2,12 +2,20 @@
 title = "Andrew Goldberg"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-21T09:44:00-07:00
-lastmod = 2023-11-10T10:25:45-08:00
+lastmod = 2023-12-05T13:42:56-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "75e1174d-6b3d-46d6-9dcd-154502f32a7e"
 +++
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
 
 ## Backlinks {#backlinks}
 

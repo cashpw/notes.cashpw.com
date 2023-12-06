@@ -2,7 +2,7 @@
 title = "Do what you love until you love to do"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-03T16:29:00-07:00
-lastmod = 2023-11-10T10:41:26-08:00
+lastmod = 2023-12-05T14:02:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,5 +19,5 @@ slug = "d4a9f853-b1d2-4b78-9213-38cad81e8090"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Carmack, John. 2021. “I Often Think About the ‘Read What You Love until You Love to Read’ Comment from @Naval , and This Is a Good Generalization. My Experience Has Been That It Is Easier to Educate a Do-er than to Motivate the Educated; You Have to Believe You Can Do before You Embark on an Effort.” Tweet. Twitter. October 5, 2021. <a href="https://twitter.com/ID_AA_Carmack/status/1445424833181925376">https://twitter.com/ID_AA_Carmack/status/1445424833181925376</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Carmack, John. 2021. “I Often Think About the ``Read What You Love until You Love to Read’’ Comment from @Naval , and This Is a Good Generalization. My Experience Has Been That It Is Easier to Educate a Do-er than to Motivate the Educated; You Have to Believe You Can Do before You Embark on an Effort.” Tweet. <i>Twitter</i>. <a href="https://twitter.com/ID_AA_Carmack/status/1445424833181925376">https://twitter.com/ID_AA_Carmack/status/1445424833181925376</a>.</div>
 </div>

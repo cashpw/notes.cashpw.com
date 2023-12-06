@@ -2,7 +2,7 @@
 title = "Blind men and an elephant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-16T18:43:00-08:00
-lastmod = 2023-11-10T10:29:02-08:00
+lastmod = 2023-12-05T13:48:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,6 +25,15 @@ slug = "9948ab6c-23b4-4950-ba95-ee4a27fa2992"
 >
 > The parable has been used to illustrate a range of truths and fallacies; broadly, the parable implies that one's subjective experience can be true, but that such experience is inherently limited by its failure to account for other truths or a totality of truth. At various times the parable has provided insight into the relativism, opaqueness or inexpressible nature of truth, the behavior of experts in fields of contradicting theories, the need for deeper understanding, and respect for different perspectives on the same object of observation. In this respect, it provides an easily understood and practical example that illustrates ontologic reasoning. That is, simply put, what things exist, what is their true nature, and how can their relations to each other be accurately categorized? For example, is the elephant's trunk a snake, or its legs trees, just because they share some similarities with those? Or is that just a misapprehension that differs from an underlying reality? And how should human beings treat each other as they strive to understand better (anger, respect, tolerance or intolerance)?
 >
-> (“Blind Men and an Elephant” 2022)
+> (<a href="#citeproc_bib_item_1">“Blind Men and an Elephant” 2022</a>)
 
 Related: [Lowercase-a accurate without being capital-T True]({{< relref "lowercase_a_accurate_without_being_capital_t_true.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Blind Men and an Elephant.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Blind_men_and_an_elephant&oldid=1127525418">https://en.wikipedia.org/w/index.php?title=Blind_men_and_an_elephant&#38;oldid=1127525418</a>.</div>
+</div>

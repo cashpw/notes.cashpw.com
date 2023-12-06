@@ -2,7 +2,7 @@
 title = "Matrix of ones"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:27:00-07:00
-lastmod = 2023-11-10T11:04:21-08:00
+lastmod = 2023-12-05T14:26:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,4 +27,13 @@ slug = "c0af4445-3f47-49bf-a5f3-f6d730c440bb"
 >
 > \\(\href{/posts/matrix_of_ones}{J\_{1,2}}=\begin{pmatrix}1&1\end{pmatrix}\\)
 >
-> (“Identity Matrix” 2022)
+> (<a href="#citeproc_bib_item_1">“Identity Matrix” 2022</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Identity Matrix.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Identity_matrix&oldid=1096591290">https://en.wikipedia.org/w/index.php?title=Identity_matrix&#38;oldid=1096591290</a>.</div>
+</div>

@@ -2,7 +2,7 @@
 title = "Something went wrong when extracting the title."
 author = ["Cash Weaver"]
 date = 2023-01-13T15:32:00-08:00
-lastmod = 2023-11-10T11:17:51-08:00
+lastmod = 2023-12-05T14:48:53-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -19,3 +19,11 @@ TODO_AUTHOR, [cite:@]
 
 
 ## Notes {#notes}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

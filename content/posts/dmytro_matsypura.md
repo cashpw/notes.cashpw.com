@@ -2,12 +2,20 @@
 title = "Dmytro Matsypura"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:34:00-08:00
-lastmod = 2023-11-10T10:41:20-08:00
+lastmod = 2023-12-05T14:02:03-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "8f382815-45a4-4eaf-9d0c-a5a0c27adbe8"
 +++
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
 
 ## Backlinks {#backlinks}
 

@@ -2,14 +2,14 @@
 title = "Ben Kuhn | To Listen Well, Get Curious"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:22:00-08:00
-lastmod = 2023-11-10T11:00:43-08:00
+lastmod = 2023-12-05T14:21:03-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "617eec3a-89c3-4b9f-9074-47d4bf4e69fd"
 +++
 
-[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (Kuhn n.d.)
+[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (NO_ITEM_DATA:kuhnListenWellGetCurious)
 
 One of my [Favorites]({{< relref "favorites.md" >}}).
 
@@ -37,3 +37,12 @@ I find that my misunderstandings are the result of premature and ill-founded ass
 <!--quoteend-->
 
 > It often feels like I understand enough to be helpful without knowing all those details. But when I think that, I'm usually wrong: I end up giving bad advice, based on bad assumptions, and the person I'm talking to ends up having to do a bunch of work to argue with me and correct my bad assumptions. That makes the conversation feel disfluent and adversarial instead of collaborative.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:kuhnListenWellGetCurious</div>
+</div>

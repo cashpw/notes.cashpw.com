@@ -2,14 +2,14 @@
 title = "Cedric Chin | The Hierarchy of Practical Evidence"
 author = ["Cash Weaver"]
 date = 2023-07-30T08:17:00-07:00
-lastmod = 2023-11-10T10:31:57-08:00
+lastmod = 2023-12-05T13:52:44-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "a54b896a-9969-4d44-95cc-a9baf8ef3dde"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2019)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2019</a>)
 
 
 ## Summary {#summary}
@@ -34,6 +34,15 @@ slug = "a54b896a-9969-4d44-95cc-a9baf8ef3dde"
 > 4.  Due to confounding factors (such as genetics, privilege, luck, and external circumstances), believable advice may still be inapplicable. The practitioner's art is to investigate the essence of the technique while adapting it from the unique circumstances of its original application.
 >
 > There are likely more second-order implications. I encourage you to come up with them for yourself.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Hierarchy of Practical Evidence.” <i>Commoncog</i>. <a href="https://commoncog.com/the-hierarchy-of-practical-evidence/">https://commoncog.com/the-hierarchy-of-practical-evidence/</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

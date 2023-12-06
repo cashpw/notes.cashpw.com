@@ -2,7 +2,7 @@
 title = "Depth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:36:00-07:00
-lastmod = 2023-11-10T10:40:09-08:00
+lastmod = 2023-12-05T14:00:58-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "81c88eaa-3ec9-486c-bcdf-457dd40b4eba"
 
 > Depth-first search (DFS) is an algorithm for traversing or searching [Tree]({{< relref "tree.md" >}}) or [Graph]({{< relref "graph.md" >}}) [Data structures]({{< relref "data_structures.md" >}}). The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
 >
-> (“Depth-First Search” 2022)
+> (<a href="#citeproc_bib_item_1">“Depth-First Search” 2022</a>)
 
 
 ## Algorithm {#algorithm}
@@ -35,7 +35,7 @@ procedure DepthFirstSearch (graph, rootNode) is
         stack.push(connectedNode)
 ```
 
-Based on iterative algorithm in (“Depth-First Search” 2022).
+Based on iterative algorithm in (<a href="#citeproc_bib_item_1">“Depth-First Search” 2022</a>).
 \#+end_quote
 
 
@@ -64,7 +64,7 @@ procedure DepthFirstSearch (graph, node) is
   return DepthFirstSearchInner(graph, node)
 ```
 
-Based on recursive algorithm in (“Depth-First Search” 2022).
+Based on recursive algorithm in (<a href="#citeproc_bib_item_1">“Depth-First Search” 2022</a>).
 
 
 ## Complexity {#complexity}
@@ -82,10 +82,19 @@ Where \\(V\\) is the set of [Vertices]({{< relref "vertex.md" >}}) and \\(E\\) i
 -   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Depth-First Search.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Depth-first_search&oldid=1091833357">https://en.wikipedia.org/w/index.php?title=Depth-first_search&#38;oldid=1091833357</a>.</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
 -   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
--   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Trie]({{< relref "trie.md" >}})
 -   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
+-   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Topological order]({{< relref "topological_order.md" >}})

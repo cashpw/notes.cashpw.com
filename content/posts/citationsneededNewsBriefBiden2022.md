@@ -2,14 +2,14 @@
 title = "Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-22T18:27:00-07:00
-lastmod = 2023-11-10T10:34:01-08:00
+lastmod = 2023-12-05T13:54:56-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "86e4a35a-4b5e-4403-946b-737b4dad1693"
 +++
 
-[Citations Needed]({{< relref "CitationsNeeded.md" >}}), (Citations Needed 2022)
+[Citations Needed]({{< relref "CitationsNeeded.md" >}}), (NO_ITEM_DATA:citationsneededNewsBriefBidenDictatorTourTediumOurHumanRightsConcerns2022a)
 
 
 ## Summary {#summary}
@@ -124,5 +124,14 @@ Media [Spin]({{< relref "spin.md" >}}) regarding President Biden's visit to Saud
 > Nima: The lie is that Biden is meeting with an enemy. He's not.
 >
 > [links added]
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:citationsneededNewsBriefBidenDictatorTourTediumOurHumanRightsConcerns2022a</div>
+</div>
 
 [^fn:1]: [Betty Miller Unterberger | Power Politics and Statecraft: The World According to Kissinger]({{< relref "unterbergerPowerPoliticsStatecraft1995.md" >}})

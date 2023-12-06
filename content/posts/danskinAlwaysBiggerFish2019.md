@@ -2,14 +2,14 @@
 title = "Ian Danskin | Always a Bigger Fish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:54:00-07:00
-lastmod = 2023-11-10T10:38:21-08:00
+lastmod = 2023-12-05T13:59:18-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "c0564758-b90d-42a6-be58-44d8985330ad"
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (Danskin 2019)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2019</a>)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -76,6 +76,15 @@ Conservatives tend to think in hierarchies -- like a capitalist -- while liberal
 > A good defense against fascism is to consciously, intentionally, think and act in democratic terms, because newsflash: we're not actually lobsters. Neither of these systems is natural. They are choices we can make. I recommend this one, because egalitarian thinking is one thing Nazis are bad at infiltrating.
 >
 > If you want to fight fascism, move left.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “Always a Bigger Fish.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called">https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

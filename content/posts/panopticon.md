@@ -2,7 +2,7 @@
 title = "Panopticon"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-08T16:03:00-07:00
-lastmod = 2023-11-10T11:09:00-08:00
+lastmod = 2023-12-05T14:34:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,4 +13,13 @@ slug = "bd91ce7a-9b16-4c0c-9b42-0fac236a1364"
 >
 > Although it is physically impossible for the single guard to observe all the inmates' cells at once, the fact that the inmates cannot know when they are being watched means that they are motivated to act as though they are being watched at all times. Thus, the inmates are effectively compelled to regulate their own behaviour.
 >
-> (“Panopticon” 2022)
+> (<a href="#citeproc_bib_item_1">“Panopticon” 2022</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Panopticon.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Panopticon&oldid=1117862219">https://en.wikipedia.org/w/index.php?title=Panopticon&#38;oldid=1117862219</a>.</div>
+</div>

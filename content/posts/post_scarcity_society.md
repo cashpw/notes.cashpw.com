@@ -2,7 +2,7 @@
 title = "Post-scarcity society"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:59:00-07:00
-lastmod = 2023-11-10T11:10:36-08:00
+lastmod = 2023-12-05T14:36:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,16 @@ slug = "7bb3980d-e901-4f5e-b102-61a0a89de28c"
 
 > Post-scarcity is a theoretical economic situation in which most goods can be produced in great abundance with minimal human labor needed, so that they become available to all very cheaply or even freely.
 >
-> (“Post-Scarcity Economy” 2022)
+> (<a href="#citeproc_bib_item_1">“Post-Scarcity Economy” 2022</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Post-Scarcity Economy.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Post-scarcity_economy&oldid=1075241618">https://en.wikipedia.org/w/index.php?title=Post-scarcity_economy&#38;oldid=1075241618</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

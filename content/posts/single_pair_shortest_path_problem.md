@@ -2,7 +2,7 @@
 title = "Single-pair shortest path problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T11:46:00-08:00
-lastmod = 2023-11-10T11:17:01-08:00
+lastmod = 2023-12-05T14:47:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,10 +22,10 @@ Find the [shortest path]({{< relref "shortest_path_algorithm.md" >}}) from the s
 
 ## Backlinks {#backlinks}
 
--   [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})
 -   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
 -   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
+-   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
+-   [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})
 -   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
 -   [Customizable route planning]({{< relref "customizable_route_planning.md" >}})
--   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})

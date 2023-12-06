@@ -2,7 +2,7 @@
 title = "Binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2023-11-10T10:28:31-08:00
+lastmod = 2023-12-05T13:47:59-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "323bf406-41e6-4e5f-9be6-689e1055b118"
 
 > In computer science, a binary tree is a [Tree]({{< relref "tree.md" >}}) [Data structure]({{< relref "data_structures.md" >}}) in which each node has at most two children, which are referred to as the left child and the right child.
 >
-> (“Binary Tree” 2022)
+> (<a href="#citeproc_bib_item_1">“Binary Tree” 2022</a>)
 
 
 ## Types {#types}
@@ -38,15 +38,24 @@ slug = "323bf406-41e6-4e5f-9be6-689e1055b118"
 Assuming a 0-indexed array: child nodes for a node at index \\(i\\) are at \\(\text{left}=2i+1\\) and \\(\text{right}=2i+2\\). Similarly, the parent node for a node at index \\(i\\) is at \\(\lfloor\frac{i-1}{2}\rfloor\\).
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Tree.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Binary_tree&oldid=1092722102">https://en.wikipedia.org/w/index.php?title=Binary_tree&#38;oldid=1092722102</a>.</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
--   [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
 -   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 -   [Perfect binary tree]({{< relref "perfect_binary_tree.md" >}})
 -   [Tree rotation]({{< relref "tree_rotation.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
--   [Height-balanced binary tree]({{< relref "height_balanced_binary_tree.md" >}})
 -   [Balanced binary tree]({{< relref "balanced_binary_tree.md" >}})
 -   [Complete binary tree]({{< relref "complete_binary_tree.md" >}})
+-   [Height-balanced binary tree]({{< relref "height_balanced_binary_tree.md" >}})
 -   [Binary search tree]({{< relref "binary_search_tree.md" >}})
 -   [Degenerate binary tree]({{< relref "degenerate_binary_tree.md" >}})
+-   [Succinct data structure]({{< relref "succinct_data_structure.md" >}})

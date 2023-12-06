@@ -2,14 +2,14 @@
 title = "David Chapman | Developing Ethical, Social, and Cognitive Competence"
 author = ["Cash Weaver"]
 date = 2023-01-12T08:15:00-08:00
-lastmod = 2023-11-10T10:39:24-08:00
+lastmod = 2023-12-05T14:00:09-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "9ffddcfd-8b32-4c07-bb86-1fed040e8e5c"
 +++
 
-[David Chapman]({{< relref "david_chapman.md" >}}), (Chapman 2016)
+[David Chapman]({{< relref "david_chapman.md" >}}), (NO_ITEM_DATA:chapmanDevelopingEthicalSocialCognitiveCompetence2016)
 
 
 ## Summary {#summary}
@@ -47,6 +47,15 @@ slug = "9ffddcfd-8b32-4c07-bb86-1fed040e8e5c"
 > He proposes a bunch of potential counterarguments, then shoots each counterargument down by admitting that the other side would have a symmetrical counterargument of their own: for example, he believes that "American Sniper" is worse because it's racist and promoting racism is genuinely dangerous to a free society, but then he admits a conservative could say that "Fun Home" is worse because in their opinion it's homosexuality that's genuinely dangerous to a free society. After three or four levels of this, he ends up concluding that he can't come up with a meta-level fundamental difference, but he's going to fight for his values anyway because they're his. I'm not sure what I think of this conclusion, but my main response to his article is _oh my gosh he gets the thing_, where "the thing" is a hard-to-describe ability to understand that other people are going to go down as many levels to defend their self-consistent values as you will to defend yours. It seems silly when I'm saying it like this, and you should probably just read the article, but I've seen _so many people_ who lack this basic mental operation that this immediately endeared him to me. I would argue Nathan Robinson has a piece of theory-of-mind that a lot of other people are missing.
 >
 > Actually, I was kind of also thinking this with his [most recent post](http://thenavelobservatory.com/2015/10/31/how-do-you-get-away-with-writing-something-like-this/), which complains about [a Washington Post article](https://www.washingtonpost.com/blogs/post-partisan/wp/2015/10/27/the-insiders-the-fbi-director-is-saying-something-the-democrats-need-to-hear/). The Post argues that because the Democrats support gun control and protest police, they are becoming the "pro-crime party". I'm not sure whether the Post genuinely believes the Democrats are pro-crime by inclination or are just arguing their policies will lead to more crime in a hyperbolic figurative way, but I've certainly seen sources further right make the "genuinely in favor of crime as a terminal value" argument. And this doesn't seem too different from the leftist sources that say Republicans can't _really_ care about the lives of the unborn, they're just "anti-woman" as a terminal value. Both proposals share this idea of not being able to understand that other people have different beliefs than you and that their actions proceed naturally from those beliefs. Instead of saying "I believe gun control would increase crime, but Democrats believe the opposite, and from their different perspective banning guns makes sense," they say "I believe gun control would increase crime, Democrats must believe the same, and therefore their demands for gun control must come from sinister motives." [related: [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})]
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:chapmanDevelopingEthicalSocialCognitiveCompetence2016</div>
+</div>
 
 
 ## Backlinks {#backlinks}

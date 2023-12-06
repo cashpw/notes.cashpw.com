@@ -2,12 +2,20 @@
 title = "E.B. White"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:31:00-08:00
-lastmod = 2023-11-10T10:42:36-08:00
+lastmod = 2023-12-05T14:03:21-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "5374a3c9-1d18-458f-9f0b-7d06381690ef"
 +++
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
 
 ## Backlinks {#backlinks}
 

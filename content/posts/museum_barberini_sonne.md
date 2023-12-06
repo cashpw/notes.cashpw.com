@@ -2,14 +2,14 @@
 title = "Museum Barberini | The Sun: Source of Light in Art"
 author = ["Cash Weaver"]
 date = 2023-08-07T17:32:00-07:00
-lastmod = 2023-11-10T11:06:25-08:00
+lastmod = 2023-12-05T14:29:41-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "dba35e67-34a9-48df-991a-7cd98deafbc2"
 +++
 
-[Museum Barberini]({{< relref "museum_barberini.md" >}}), (Museum Barberini n.d.-b), (Museum Barberini n.d.-a)
+[Museum Barberini]({{< relref "museum_barberini.md" >}}), (<a href="#citeproc_bib_item_2">Museum Barberini n.d.-b</a>), (<a href="#citeproc_bib_item_1">Museum Barberini n.d.-a</a>)
 
 
 ## Summary {#summary}
@@ -47,6 +47,16 @@ slug = "dba35e67-34a9-48df-991a-7cd98deafbc2"
 -   [Valdemar Schønheyder Møller | Sunset]({{< relref "valdemar_schønheyder_møller_sunset.md" >}})
 -   [Otto Piene | Black Sun]({{< relref "otto_piene_black_sun.md" >}})
 -   [Gérard Fromanger | The Sun Floods My Canvas]({{< relref "gerard_fromanger_the_sun_floods_my_canvas.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Museum Barberini. n.d.-a. “Sonne.” Accessed August 8, 2023. <a href="https://prolog.museum-barberini.de/de/11729/sonne">https://prolog.museum-barberini.de/de/11729/sonne</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d.-b. “The Sun.” Accessed August 8, 2023. <a href="https://prolog.museum-barberini.de/en/11729/the-sun">https://prolog.museum-barberini.de/en/11729/the-sun</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

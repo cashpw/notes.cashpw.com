@@ -2,7 +2,7 @@
 title = "Widest path problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T09:17:00-08:00
-lastmod = 2023-11-10T11:27:23-08:00
+lastmod = 2023-12-05T15:04:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,3 +16,11 @@ slug = "635d6c87-68fe-4fbf-9462-2d86b0ea7f58"
 > {{< figure src="/ox-hugo/2022-12-22_09-19-43_260px-CPT-Graphs-undirected-weighted.svg.png" >}}
 >
 > In this graph, the widest path from Maldon to Feering has bandwidth 29, and passes through Clacton, Tiptree, Harwich, and Blaxhall [40-29-31-40-46 has a minmimum of 29].
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

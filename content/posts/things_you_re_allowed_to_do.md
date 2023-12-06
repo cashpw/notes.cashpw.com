@@ -2,7 +2,7 @@
 title = "Things you're allowed to do"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:52:00-08:00
-lastmod = 2023-11-10T11:22:49-08:00
+lastmod = 2023-12-05T14:56:36-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -44,5 +44,5 @@ slug = "204ab57d-e532-47ef-87ca-e22ddd08092d"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Cvitkovic, Milan. 2023. “Things You’re Allowed to Do.” January 9, 2023. <a href="https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/">https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Cvitkovic, Milan. 2023. “Things You’re Allowed to Do.” <a href="https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/">https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/</a>.</div>
 </div>

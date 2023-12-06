@@ -2,7 +2,7 @@
 title = "Scott Alexander | Meditations On Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:30:00-07:00
-lastmod = 2023-11-10T10:25:03-08:00
+lastmod = 2023-12-05T13:41:37-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -246,7 +246,7 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” Slate Star Codex. July 30, 2014. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
 </div>
 
 
@@ -254,5 +254,5 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 -   [Scott Alexander]({{< relref "scott_alexander.md" >}})
 -   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
--   [Moloch]({{< relref "moloch.md" >}})
 -   [Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]({{< relref "kaj_sotala_nobody_does_the_thing_that_they_are_supposedly_doing.md" >}})
+-   [Moloch]({{< relref "moloch.md" >}})

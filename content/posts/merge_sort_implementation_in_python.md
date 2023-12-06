@@ -2,7 +2,7 @@
 title = "Merge sort implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:44:00-07:00
-lastmod = 2023-11-10T11:04:58-08:00
+lastmod = 2023-12-05T14:27:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -62,6 +62,14 @@ def merge_sort(ints: List[int], comparator: Callable[[id:int, int], bool]) -> No
 a = [10, 5, 2, 20, 1]
 print(merge_sort(a, lambda x, y: x <= y))
 ```
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

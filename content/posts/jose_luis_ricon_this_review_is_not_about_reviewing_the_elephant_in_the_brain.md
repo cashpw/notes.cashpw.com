@@ -2,14 +2,14 @@
 title = "Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain"
 author = ["Cash Weaver"]
 date = 2023-01-11T20:52:00-08:00
-lastmod = 2023-11-10T10:58:59-08:00
+lastmod = 2023-12-05T14:18:42-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "796ad559-ee93-4896-9101-a3395c7dd2d4"
 +++
 
-[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (Ricon n.d.)
+[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (NO_ITEM_DATA:riconThisReviewNotReviewingElephantBrain)
 
 
 ## Summary {#summary}
@@ -79,6 +79,15 @@ The book is [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}}) w
 > This confused use of concepts applies to many of these hidden motives: and it is the basic misunderstanding first year students of evolutionary psychology are taught to avoid: There are ultimate [[Ultimate cause]({{< relref "ultimate_cause.md" >}})] and proximate [[Proximate cause]({{< relref "proximate_cause.md" >}})] explanations for behaviours. Reproduction may be the ultimate reason why we happen to find sex pleasurable. But pleasure itself and alone is in most cases why people have sex while going to great lengths to avoid conceptions.
 >
 > Similarly, for selfishness, take the case of a parent who does X for her child out of altruism. Again, something saying: "it is actually selfishness, X helps propagate certain genes that reward X" would be mistaken in their assessment of X as selfish in the standard meaning of selfishness, even if that were correct from a gene-centric perspective.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:riconThisReviewNotReviewingElephantBrain</div>
+</div>
 
 
 ## Backlinks {#backlinks}

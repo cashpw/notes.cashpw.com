@@ -2,14 +2,14 @@
 title = "Anna Salamon | The Correct Response to Uncertainty Is not Half-Speed"
 author = ["Cash Weaver"]
 date = 2023-07-27T08:17:00-07:00
-lastmod = 2023-11-10T10:26:01-08:00
+lastmod = 2023-12-05T13:43:25-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "60fa0766-a524-4d7d-9b43-5fe7967671ed"
 +++
 
-[Anna Salamon]({{< relref "anna_salamon.md" >}}), (Salamon n.d.)
+[Anna Salamon]({{< relref "anna_salamon.md" >}}), (NO_ITEM_DATA:salamonCorrectResponseUncertaintyNotHalfspeed)
 
 
 ## Summary {#summary}
@@ -55,3 +55,12 @@ Related: [No half measures]({{< relref "no_half_measures.md" >}}), [Just start](
 > {{< figure src="/ox-hugo/2023-07-27_08-22-31_t3_n6a_5.png.png" >}}
 >
 > You might try looking out for such examples in your life.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:salamonCorrectResponseUncertaintyNotHalfspeed</div>
+</div>

@@ -2,7 +2,7 @@
 title = "Why I write notes"
 author = ["Cash Weaver"]
 date = 2022-11-16T08:54:00-08:00
-lastmod = 2023-11-10T11:27:15-08:00
+lastmod = 2023-12-05T15:04:21-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -30,6 +30,14 @@ Reasons for writing these notes:
         -   Original, insofar as anything's original, thoughts and insights
 
 Also see [How I write notes]({{< relref "how_i_write_notes.md" >}}).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

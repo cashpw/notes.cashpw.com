@@ -2,14 +2,14 @@
 title = "Andy Matuschak | Evergreen Notes"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:40:00-08:00
-lastmod = 2023-11-10T11:04:29-08:00
+lastmod = 2023-12-05T14:26:21-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "eb5965f1-211b-45cb-9f56-b8e85c48bb6d"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (Matuschak n.d.)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)
 
 > [Evergreen notes]({{< relref "evergreen_notes.md" >}}) are written and organized to evolve, contribute, and accumulate over time, across projects. This is an unusual way to think about writing notes: [Most people take only transient notes](https://notes.andymatuschak.org/z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1). That's because these practices aren't about writing notes; they're about effectively developing insight: ["Better note-taking" misses the point; what matters is "better thinking"](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc). When done well, these notes can be quite valuable: [Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be).
 >
@@ -34,6 +34,15 @@ slug = "eb5965f1-211b-45cb-9f56-b8e85c48bb6d"
 
 
 ## Extract links into notes {#extract-links-into-notes}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes.” <i>Andy’s Working Notes</i>. Accessed February 22, 2022. <a href="https://notes.andymatuschak.org/Evergreen_notes">https://notes.andymatuschak.org/Evergreen_notes</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,14 +2,14 @@
 title = "Pete Marston | Beginner Training"
 author = ["Cash Weaver"]
 date = 2023-06-27T16:25:00-07:00
-lastmod = 2023-11-10T11:09:58-08:00
+lastmod = 2023-12-05T14:35:49-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "1ee95d06-e879-4f99-915f-3ec9a75ae412"
 +++
 
-[Pete Marston]({{< relref "pete_marston.md" >}}), (Marston 2008)
+[Pete Marston]({{< relref "pete_marston.md" >}}), (<a href="#citeproc_bib_item_1">Marston 2008</a>)
 
 
 ## Summary {#summary}
@@ -523,6 +523,15 @@ A [Rowing]({{< relref "rowing.md" >}}) training routine for beginners.
 > -   Day 5 (optional): 4 x 1000m / 3min rest
 >
 >     Week 21 was the last time you completed this session. Your final session of the 24 week plan, so think about the improvements you've made during the past 6 months, and think back to those first few sessions in week 1.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Marston, Pete. 2008. “Beginner Training.” <i>Lunch Hour</i>. <a href="https://thepeteplan.wordpress.com/beginner-training/">https://thepeteplan.wordpress.com/beginner-training/</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

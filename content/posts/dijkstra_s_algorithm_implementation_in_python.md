@@ -2,7 +2,7 @@
 title = "Dijkstra's algorithm implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T12:19:00-08:00
-lastmod = 2023-11-10T10:40:50-08:00
+lastmod = 2023-12-05T14:01:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -87,6 +87,14 @@ adjacency_list = {
 print(dijkstra_single_pair_shortest_path(a.id, f.id, adjacency_list), 'should be [0, 1, 2, 4, 5]')
 print(dijkstra_single_pair_shortest_path(b.id, a.id, adjacency_list), 'should be None')
 ```
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

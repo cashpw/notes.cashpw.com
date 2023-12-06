@@ -2,7 +2,7 @@
 title = "Component (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-28T13:25:00-08:00
-lastmod = 2023-11-10T10:35:16-08:00
+lastmod = 2023-12-05T13:56:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "d3439626-492b-4165-836e-efd890096225"
 
 > In graph theory [[Graph theory]({{< relref "graph_theory.md" >}})], a component of an undirected graph [[Undirected graph]({{< relref "undirected_graph.md" >}})] is a connected [[Connected graph]({{< relref "connectivity_graph_theory.md#connected-graph" >}})] subgraph that is not part of any larger connected subgraph. The components of any graph partition its vertices into disjoint sets, and are the induced subgraphs of those sets. A graph that is itself connected has exactly one component, consisting of the whole graph. Components are sometimes called connected components.
 >
-> (“Component (Graph Theory)” 2023)
+> (<a href="#citeproc_bib_item_1">“Component (Graph Theory)” 2023</a>)
 
 <!--quoteend-->
 
@@ -19,7 +19,16 @@ slug = "d3439626-492b-4165-836e-efd890096225"
 >
 > A graph with three components.
 >
-> (“Component (Graph Theory)” 2023)
+> (<a href="#citeproc_bib_item_1">“Component (Graph Theory)” 2023</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Component (Graph Theory).” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Component_(graph_theory)&oldid=1135796679">https://en.wikipedia.org/w/index.php?title=Component_(graph_theory)&#38;oldid=1135796679</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Goals for 2021"
 author = ["Cash Prokop-Weaver"]
 date = 2021-01-02T13:04:00-08:00
-lastmod = 2023-11-10T10:49:17-08:00
+lastmod = 2023-12-05T14:09:41-08:00
 draft = false
 slug = "60abd5dd-30f8-482c-8de7-421e25ed847e"
 +++
@@ -24,6 +24,14 @@ These are vague goals, in no particular order, for myself in 2021. I think it wo
 -   [Remember](https://apps.ankiweb.net/) what I've learned.
 -   Continue [studying math](https://news.ycombinator.com/item?id=25595583) and, eventually, ML/AI.
 -   Continue [lifting](https://docs.google.com/spreadsheets/d/1y0rATMeou3hKTt7yDgbNwvtOitZSVFEbjeZBH3AZ5Gs/edit?usp=sharing) and working out generally.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

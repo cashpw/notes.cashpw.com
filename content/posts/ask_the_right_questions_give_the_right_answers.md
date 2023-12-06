@@ -2,7 +2,7 @@
 title = "Give the right answers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:04:00-08:00
-lastmod = 2023-11-10T10:26:39-08:00
+lastmod = 2023-12-05T13:44:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,6 +17,14 @@ A [Play to win]({{< relref "play_to_win.md" >}}) strategy which uses answers as 
 -   "Good." as an answer to "How's it going?" to avoid getting into the weeds on how it's actually going for you.
 -   "&lt;a strength&gt;" as an anser to "What's your greatest weakness?"
 -   "&lt;their favorite restraunt&gt;" as an answer to "Where do you want to go to eat?"
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

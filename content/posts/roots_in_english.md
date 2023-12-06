@@ -2,7 +2,7 @@
 title = "Roots in English"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-20T11:21:00-08:00
-lastmod = 2023-11-10T11:14:26-08:00
+lastmod = 2023-12-05T14:43:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,5 +21,5 @@ Example: Ur-
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Root (Linguistics).” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Root_(linguistics)&oldid=1127887487">https://en.wikipedia.org/w/index.php?title=Root_(linguistics)&#38;oldid=1127887487</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Root (Linguistics).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Root_(linguistics)&oldid=1127887487">https://en.wikipedia.org/w/index.php?title=Root_(linguistics)&#38;oldid=1127887487</a>.</div>
 </div>

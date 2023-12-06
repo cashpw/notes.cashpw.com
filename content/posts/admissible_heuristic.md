@@ -2,7 +2,7 @@
 title = "Admissible heuristic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T14:13:00-08:00
-lastmod = 2023-11-10T10:24:32-08:00
+lastmod = 2023-12-05T13:40:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,11 +21,11 @@ See also [Consistent heuristic]({{< relref "consistent_heuristic.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Admissible Heuristic.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&oldid=1109959567">https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&#38;oldid=1109959567</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Admissible Heuristic.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&oldid=1109959567">https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&#38;oldid=1109959567</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Consistent heuristic]({{< relref "consistent_heuristic.md" >}})
 -   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
+-   [Consistent heuristic]({{< relref "consistent_heuristic.md" >}})

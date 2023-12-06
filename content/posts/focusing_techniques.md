@@ -2,7 +2,7 @@
 title = "Focusing techniques"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T07:08:00-08:00
-lastmod = 2023-11-10T10:46:27-08:00
+lastmod = 2023-12-05T14:07:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,6 +17,14 @@ Focusing techniques bridge the gap between a desired state of mind and your pres
 -   [Litany Against Fear]({{< relref "litany_against_fear.md" >}})
 -   [Serenity Prayer]({{< relref "SerenityPrayer2021.md" >}})
 -   [A Beginning]({{< relref "a_beginning.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

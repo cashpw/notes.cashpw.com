@@ -2,7 +2,7 @@
 title = "Italy 2023"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T10:28:00-07:00
-lastmod = 2023-11-10T10:56:52-08:00
+lastmod = 2023-12-05T14:16:01-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -20,6 +20,14 @@ Best trip, bar none, that I've ever been on in my life. We enjoyed our honeymoon
 ## Packing list {#packing-list}
 
 See [One-bag travel]({{< relref "one_bag_travel.md" >}}).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

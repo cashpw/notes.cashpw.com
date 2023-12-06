@@ -2,7 +2,7 @@
 title = "Session"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:32:00-07:00
-lastmod = 2023-11-10T11:16:15-08:00
+lastmod = 2023-12-05T14:46:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,16 @@ slug = "42be7ce6-d83b-4717-86a0-0766565b2049"
 > -   Transport layer example:
 >     -   A TCP session, which is synonymous to a TCP virtual circuit, a TCP connection, or an established TCP socket.
 >
-> (“Session (Computer Science)” 2023)
+> (<a href="#citeproc_bib_item_1">“Session (Computer Science)” 2023</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Session (Computer Science).” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Session_(computer_science)&oldid=1141927834">https://en.wikipedia.org/w/index.php?title=Session_(computer_science)&#38;oldid=1141927834</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

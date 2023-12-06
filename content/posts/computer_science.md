@@ -2,7 +2,7 @@
 title = "Computer science"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T15:23:00-08:00
-lastmod = 2023-11-10T10:35:42-08:00
+lastmod = 2023-12-05T13:56:38-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

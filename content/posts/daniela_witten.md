@@ -2,12 +2,20 @@
 title = "Daniela Witten"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:19:00-08:00
-lastmod = 2023-11-10T10:38:16-08:00
+lastmod = 2023-12-05T13:59:14-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "23a21efb-912c-46ff-84f6-5b3d68f96060"
 +++
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
 
 ## Backlinks {#backlinks}
 

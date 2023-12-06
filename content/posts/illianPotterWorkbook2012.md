@@ -2,14 +2,14 @@
 title = "Clary Illian | A Potter's Workbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:34:00-08:00
-lastmod = 2023-11-10T10:54:22-08:00
+lastmod = 2023-12-05T14:13:55-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "3f493f0a-aac1-43b6-be22-9711b921f6d8"
 +++
 
-[Clary Illian]({{< relref "clary_illian.md" >}}), (Illian 2012)
+[Clary Illian]({{< relref "clary_illian.md" >}}), (<a href="#citeproc_bib_item_1">Illian 2012</a>)
 
 
 ## Summary {#summary}
@@ -107,7 +107,16 @@ slug = "3f493f0a-aac1-43b6-be22-9711b921f6d8"
 #### Notes {#notes}
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Illian, Clary. 2012. <i>A Potter’s Workbook.</i> Iowa: University of Iowa Press. <a href="http://public.eblib.com/choice/publicfullrecord.aspx?p=951113">http://public.eblib.com/choice/publicfullrecord.aspx?p=951113</a>.</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
--   [Ceramics Resources]({{< relref "ceramics_pottery_resources.md" >}})
 -   [Ceramics exercises]({{< relref "ceramics_exercises.md" >}})
+-   [Ceramics Resources]({{< relref "ceramics_pottery_resources.md" >}})

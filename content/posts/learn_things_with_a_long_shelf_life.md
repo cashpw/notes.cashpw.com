@@ -2,7 +2,7 @@
 title = "Learn things with a long shelf-life"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T15:57:00-07:00
-lastmod = 2023-11-10T11:01:20-08:00
+lastmod = 2023-12-05T14:21:58-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -13,6 +13,14 @@ Related:
 
 -   [Do things that compound]({{< relref "do_things_that_compound.md" >}})
 -   [Shelf-life of information]({{< relref "shelf_life_of_information.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

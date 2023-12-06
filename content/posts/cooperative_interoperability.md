@@ -2,7 +2,7 @@
 title = "Cooperative interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:30:00-07:00
-lastmod = 2023-11-10T10:36:44-08:00
+lastmod = 2023-12-05T13:57:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,16 @@ A form of [Interoperability]({{< relref "interoperability.md" >}}) wherein the m
 
 > One of the easiest ways to do this is to adopt a standard: [...] any phone manufacturer that installs a 3.5mm headphone jack allows anyone who buys that phone to plug in anything that has a matching plug, even exotic devices like Stripe's card-readers, which convert your credit-card number to a set of tones that are played into a vendor's phone's headphone jack, to be recognized and re-encoded as numbers by Stripe's app.
 >
-> (Doctorow 2019)
+> (NO_ITEM_DATA:doctorowInteroperabilityFixInternetNotTechCompanies2019)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:doctorowInteroperabilityFixInternetNotTechCompanies2019</div>
+</div>
 
 
 ## Backlinks {#backlinks}

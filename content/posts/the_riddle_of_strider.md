@@ -2,7 +2,7 @@
 title = "The Riddle of Strider"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T11:22:00-07:00
-lastmod = 2023-11-10T11:22:15-08:00
+lastmod = 2023-12-05T14:55:42-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -23,4 +23,13 @@ The crownless again shall be king.<br />
 
 </div>
 
-[J. R. R. Tolkien]({{< relref "j_r_r_tolkien.md" >}}), (Tolkien 2012)
+[J. R. R. Tolkien]({{< relref "j_r_r_tolkien.md" >}}), (<a href="#citeproc_bib_item_1">Tolkien 2012</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tolkien, J. R. R. 2012. <i>The Fellowship of the Ring</i>. Place of publication not identified: Houghton Mifflin Harcourt. <a href="http://api.overdrive.com/v1/collections/v1L2BowAAAC4HAAA1k/products/9cc781ea-2f1e-4f19-a8f7-c522db48e31c">http://api.overdrive.com/v1/collections/v1L2BowAAAC4HAAA1k/products/9cc781ea-2f1e-4f19-a8f7-c522db48e31c</a>.</div>
+</div>

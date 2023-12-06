@@ -2,7 +2,7 @@
 title = "For the lulz"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:19:00-07:00
-lastmod = 2023-11-10T10:46:37-08:00
+lastmod = 2023-12-05T14:07:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "54072a82-9f61-443d-b51e-af74fc18e895"
 
 > A term used to justify ridiculous, pointless and occasionally gratuitous behaviour.
 >
-> (“For the Lulz” n.d.)
+> (<a href="#citeproc_bib_item_1">“For the Lulz” n.d.</a>)
 
 This can be the end of it; doing something innocuous or mildly annoying to get a rise from someone. However, it can also be a [dog whistle]({{< relref "dog_whistle.md" >}}) for worse behaviors.
 
@@ -23,8 +23,17 @@ Saying you've "done it for the lulz" can communicate two things to two different
 Also see [The card says moops]({{< relref "the_card_says_moops.md" >}}).
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“For the Lulz.” n.d. <i>Urban Dictionary</i>. Accessed June 26, 2022. <a href="https://www.urbandictionary.com/define.php?term=For%20the%20lulz">https://www.urbandictionary.com/define.php?term=For%20the%20lulz</a>.</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
 -   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
--   [Don't feed the trolls]({{< relref "don_t_feed_the_trolls.md" >}})
 -   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})
+-   [Don't feed the trolls]({{< relref "don_t_feed_the_trolls.md" >}})

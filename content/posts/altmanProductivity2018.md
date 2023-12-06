@@ -2,14 +2,14 @@
 title = "Sam Altman | Productivity"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:46:00-08:00
-lastmod = 2023-11-10T10:25:43-08:00
+lastmod = 2023-12-05T13:42:49-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "3626303a-41d6-4d8c-98ee-186e6f59cb44"
 +++
 
-[Sam Altman]({{< relref "sam_altman.md" >}}), (Altman 2018)
+[Sam Altman]({{< relref "sam_altman.md" >}}), (<a href="#citeproc_bib_item_1">Altman 2018</a>)
 
 
 ## Summary {#summary}
@@ -55,6 +55,15 @@ The [Technologist]({{< relref "technologist.md" >}})'s trap; [Solve the problem]
 [Discipline is more effective than motivation]({{< relref "discipline_is_more_effective_than_motivation.md" >}})
 
 > Don't neglect your family and friends for the sake of productivity—that's a very stupid tradeoff (and very likely a net productivity loss, because you'll be less happy). Don't neglect doing things you love or that clear your head either.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altman, Sam. 2018. “Productivity.” <i>Sam Altman</i>. <a href="https://blog.samaltman.com/productivity">https://blog.samaltman.com/productivity</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

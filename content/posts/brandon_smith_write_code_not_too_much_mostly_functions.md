@@ -2,14 +2,14 @@
 title = "Brandon Smith | Write Code. Not Too Much. Mostly Functions."
 author = ["Cash Weaver"]
 date = 2022-11-16T14:45:00-08:00
-lastmod = 2023-11-10T10:29:34-08:00
+lastmod = 2023-12-05T13:49:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "163d0358-3196-4842-94ce-ffb2c22465be"
 +++
 
-[Brandon Smith]({{< relref "brandon_smith.md" >}}), (Smith n.d.)
+[Brandon Smith]({{< relref "brandon_smith.md" >}}), (NO_ITEM_DATA:smithWriteCodeNotTooMuchMostlyFunctions)
 
 
 ## Summary {#summary}
@@ -53,6 +53,15 @@ I think this [Pareto principle]({{< relref "pareto_principle.md" >}})-like frami
 > "He contends that most of what Americans now buy in supermarkets, fast food stores, and restaurants is not in fact food, and that a practical tip is to eat only those things that people of his grandmother's generation would have recognized as food."
 >
 > At the risk of stretching the analogy, maybe the equivalent is "code only those things that people at a junior level would recognize for what they do". Code in simple, straightforward terms. Don't get too clever, "manufacturing artificial ingredients". Use the primitives that are there, when possible. Write what is simple, and natural, and human.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:smithWriteCodeNotTooMuchMostlyFunctions</div>
+</div>
 
 
 ## Backlinks {#backlinks}

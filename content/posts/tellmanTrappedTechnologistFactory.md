@@ -2,14 +2,14 @@
 title = "Zach Tellman | Trapped in the Technologist Factory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-19T09:32:00-08:00
-lastmod = 2023-11-10T11:21:23-08:00
+lastmod = 2023-12-05T14:54:12-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "1182a8b4-b808-47e2-92e3-f69bb9e57981"
 +++
 
-[Zach Tellman]({{< relref "zach_tellman.md" >}}), (Tellman n.d.)
+[Zach Tellman]({{< relref "zach_tellman.md" >}}), (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)
 
 
 ## Summary {#summary}
@@ -52,3 +52,12 @@ slug = "1182a8b4-b808-47e2-92e3-f69bb9e57981"
 > [...]
 >
 > By introducing abstraction into every problem we solve, we distance ourselves from how our work is ultimately used. We tell ourselves we're in the business of building sharp knives; if we made them safer, they'd be useless for everything except spreading butter. We float above the the effects of what we've created, treating them as inexorable consequences of [progress]({{< relref "science_of_progress.md" >}}).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Trapped in the Technologist Factory.” Accessed February 19, 2022. <a href="https://ideolalia.com/essays/trapped-in-the-technologist-factory.html#fn:hbase">https://ideolalia.com/essays/trapped-in-the-technologist-factory.html#fn:hbase</a>.</div>
+</div>

@@ -2,7 +2,7 @@
 title = "Item-specific processing"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:40:00-08:00
-lastmod = 2023-11-10T10:56:57-08:00
+lastmod = 2023-12-05T14:16:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,16 @@ A technique of studying/learning where one emphasizes features of the pieces of 
 
 > Item-specific processing involves encoding the various characteristics or properties of a particular piece of information. For example, judging the pleasantness of a word, filling in missing letters in a text, and creating a mental image of each step in a science experiment all focus the learner on a single to-be-remembered item.
 >
-> (Marsh and Butler 2013)
+> (<a href="#citeproc_bib_item_1">Marsh and Butler 2013</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Marsh, Elizabeth J., and Andrew C. Butler. 2013. <i>Memory in Educational Settings</i>. Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780195376746.013.0020">https://doi.org/10.1093/oxfordhb/9780195376746.013.0020</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

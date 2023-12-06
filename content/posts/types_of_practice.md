@@ -2,7 +2,7 @@
 title = "Types of practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:58:00-07:00
-lastmod = 2023-11-10T11:25:16-08:00
+lastmod = 2023-12-05T15:00:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,3 +14,11 @@ According to K. Anders Ericsson:
 -   [Naive practice]({{< relref "naive_practice.md" >}})
 -   [Purposeful practice]({{< relref "purposeful_practice.md" >}})
 -   [Deliberate practice]({{< relref "deliberate_practice.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

@@ -2,14 +2,14 @@
 title = "Anna Salamon | Humans Are Not Automatically Strategic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:45:00-08:00
-lastmod = 2023-11-10T10:26:04-08:00
+lastmod = 2023-12-05T13:43:29-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "3bac7cee-9146-45df-be28-bb51ac48be68"
 +++
 
-[Anna Salamon]({{< relref "anna_salamon.md" >}}), (Salamon 2010)
+[Anna Salamon]({{< relref "anna_salamon.md" >}}), (NO_ITEM_DATA:salamonHumansAreNotAutomaticallyStrategic2010)
 
 
 ## Summary {#summary}
@@ -44,8 +44,17 @@ We don't automatically seek out a [Theory of change]({{< relref "theory_of_chang
 > .... or carry out any number of other useful techniques. Instead, we mostly just do things. We act from habit; we act from impulse or convenience when primed by the activities in front of us; we remember our goal and choose an action that feels associated with our goal. We do any number of things. But we do not systematically choose the narrow sets of actions that would effectively optimize for our claimed goals, or for any other goals.
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:salamonHumansAreNotAutomaticallyStrategic2010</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
 -   [Scott Alexander]({{< relref "scott_alexander.md" >}})
--   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

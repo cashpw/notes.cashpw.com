@@ -2,7 +2,7 @@
 title = "Bellman-Ford algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T10:49:00-08:00
-lastmod = 2023-11-10T10:27:41-08:00
+lastmod = 2023-12-05T13:46:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "2fe284fb-7fbc-4956-9857-db90b66e504e"
 
 > The Bellman–Ford algorithm is an algorithm that computes shortest paths from a single source vertex to all of the other vertices in a weighted digraph. It is slower than Dijkstra's algorithm for the same problem, but more versatile, as it is capable of handling graphs in which some of the edge weights are negative numbers.
 >
-> (“Bellman–Ford Algorithm” 2022)
+> (<a href="#citeproc_bib_item_1">“BellmanFord Algorithm” 2022</a>)
 
 
 ## Algorithm {#algorithm}
@@ -67,14 +67,23 @@ slug = "2fe284fb-7fbc-4956-9857-db90b66e504e"
 >
 > Since the longest possible path without a cycle can be \\(|V| - 1\\) edges, the edges must be scanned \\(|V| - 1\\) times to ensure the shortest path has been found for all nodes. A final scan of all the edges is performed and if any distance is updated, then a path of length \\(|V|\\) edges has been found which can only occur if at least one negative cycle exists in the graph.
 >
-> (“Bellman–Ford Algorithm” 2022)
+> (<a href="#citeproc_bib_item_1">“BellmanFord Algorithm” 2022</a>)
 
 [Bellman-Ford implementation in Python]({{< relref "bellman_ford_implementation_in_python.md" >}})
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“BellmanFord Algorithm.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&oldid=1088801570">https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&#38;oldid=1088801570</a>.</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
--   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
--   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
 -   [Bellman-Ford implementation in Python]({{< relref "bellman_ford_implementation_in_python.md" >}})
 -   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
+-   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
+-   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})

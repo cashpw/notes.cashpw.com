@@ -1,8 +1,8 @@
 +++
-title = "Project intake form"
+title = "Software project management"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T10:06:00-07:00
-lastmod = 2023-11-10T11:11:20-08:00
+lastmod = 2023-12-05T14:38:06-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -36,6 +36,12 @@ Include things like:
 
 Also see [Split "Lessons learned" into nodes]({{< relref "todos.md#split-lessons-learned-into-nodes" >}}).
 
+Stages of a project
+
+-   First 10%: Understand: the project, scope, stakeholders, requirements, etc
+-   80%: Do: the project (e.g. launch)
+-   Last 10%: Finish: All the finishing details
+
 
 ### [The Last 1%](https://jaredramsey.com/blog/20230808.html) {#the-last-1}
 
@@ -44,6 +50,14 @@ Also see [Split "Lessons learned" into nodes]({{< relref "todos.md#split-lessons
 
 
 ### [How deliver results quickly](https://www.reddit.com/r/ExperiencedDevs/comments/15cycas/how_deliver_results_quickly/) {#how-deliver-results-quickly}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

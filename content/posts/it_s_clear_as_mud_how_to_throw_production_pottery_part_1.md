@@ -2,7 +2,7 @@
 title = "It's Clear As Mud | How To Throw Production Pottery Part 1"
 author = ["Cash Weaver"]
 date = 2023-09-12T16:44:00-07:00
-lastmod = 2023-11-10T10:56:44-08:00
+lastmod = 2023-12-05T14:15:50-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -29,5 +29,5 @@ slug = "014b8559-9a7d-4b1f-af4c-5cc4cec663fb"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>It’s Clear As Mud, ed. 2022. <i>How To Throw Production Pottery Part 1</i>. Directed by It’s Clear As Mud. <a href="https://www.youtube.com/watch?v=Y5DDrBz2Lco">https://www.youtube.com/watch?v=Y5DDrBz2Lco</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>It’s Clear As Mud. 2022. “How To Throw Production Pottery Part 2.” <a href="https://www.youtube.com/watch?v=Y6A4GXzDfRA">https://www.youtube.com/watch?v=Y6A4GXzDfRA</a>.</div>
 </div>

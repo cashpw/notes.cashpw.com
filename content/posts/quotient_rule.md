@@ -2,7 +2,7 @@
 title = "Quotient rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T08:54:00-08:00
-lastmod = 2023-11-10T11:12:21-08:00
+lastmod = 2023-12-05T14:39:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,9 +15,18 @@ slug = "0f72c0d9-5638-4da7-92a9-796043efb670"
 >
 > It is provable in many ways by using other derivative rules.
 >
-> (“Quotient Rule” 2022)
+> (<a href="#citeproc_bib_item_1">“Quotient Rule” 2022</a>)
 
 This is one of the rules of [Differentiation]({{< relref "differential_calculus.md" >}}).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quotient Rule.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Quotient_rule&oldid=1127455697">https://en.wikipedia.org/w/index.php?title=Quotient_rule&#38;oldid=1127455697</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

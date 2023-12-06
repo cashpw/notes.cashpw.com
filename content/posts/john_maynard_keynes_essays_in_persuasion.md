@@ -2,14 +2,14 @@
 title = "John Maynard Keynes | Essays in Persuasion"
 author = ["Cash Weaver"]
 date = 2023-06-28T15:36:00-07:00
-lastmod = 2023-11-10T10:58:37-08:00
+lastmod = 2023-12-05T14:18:21-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "5098c183-28fd-4392-b9c0-a95a7cb6050d"
 +++
 
-[John Maynard Keynes]({{< relref "john_maynard_keynes.md" >}}), (Keynes 2010)
+[John Maynard Keynes]({{< relref "john_maynard_keynes.md" >}}), (<a href="#citeproc_bib_item_1">Keynes 2010</a>)
 
 
 ## Summary {#summary}
@@ -41,3 +41,12 @@ slug = "5098c183-28fd-4392-b9c0-a95a7cb6050d"
 > "Will you ever have to pay him that four thousand pounds?" Sylvie asked as the door closed on the departing creditor.
 >
 > "Never, my child!" the Professor replied emphatically. "He'll go on doubling it till he dies. You see, it's always worth while waiting another year to get twice as much money!"
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Keynes, John Maynard. 2010. <i>Essays in Persuasion</i>. New ed. Basingstoke ; New York: Palgrave Macmillan.</div>
+</div>

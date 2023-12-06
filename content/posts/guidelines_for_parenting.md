@@ -2,7 +2,7 @@
 title = "Guidelines for parenting"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T19:19:00-07:00
-lastmod = 2023-11-10T10:50:39-08:00
+lastmod = 2023-12-05T14:10:44-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -29,7 +29,7 @@ References:
 -   [Freddish]({{< relref "freddish.md" >}})
 -   [Fred Rodgers Institute | When Someone a Child Loves Dies]({{< relref "fred_rodgers_institute_when_someone_a_child_loves_dies.md" >}})
 -   [Dave Orr | Parenting Rules]({{< relref "orrParentingRules.md" >}})
--   (<a href="#citeproc_bib_item_1">Weinersmith n.d.</a>)
+-   (NO_ITEM_DATA:weinersmithSaturdayMorningBreakfastCerealParentingTechnique)
 -   Readily admit fault and apologize; humanizes yourself and recognizes and affirms the child's personhood by demonstrating they're worthy of an apology and that the parent isn't "above them" in that way
 -   Golden rule: Act in a way that you want your child to act
     -   Be calm
@@ -57,14 +57,14 @@ References:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Weinersmith, Zach. n.d. “Saturday Morning Breakfast Cereal - Parenting Technique.” Accessed February 26, 2023. <a href="https://www.smbc-comics.com/comic/parenting-technique">https://www.smbc-comics.com/comic/parenting-technique</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:weinersmithSaturdayMorningBreakfastCerealParentingTechnique</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Dave Orr | Parenting Rules]({{< relref "orrParentingRules.md" >}})
--   [On parenting]({{< relref "guidelines_for_parenting.md" >}})
 -   [Jeff Kaufman | How to Parent More Predictably]({{< relref "jeff_kaufman_how_to_parent_more_predictably.md" >}})
+-   [On parenting]({{< relref "guidelines_for_parenting.md" >}})
 
 [^fn:1]: Note (1) these are [guidelines, not rules]({{< relref "guidelines_for_parenting.md" >}}), that (2) I'm not a parent and don't know what I'm talking about, and (3) anything below that's true is only so in a general/average sort of way and that children are unique and worthy of unique attention and care.

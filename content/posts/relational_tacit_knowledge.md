@@ -2,7 +2,7 @@
 title = "Relational tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T22:20:00-07:00
-lastmod = 2023-11-10T11:13:33-08:00
+lastmod = 2023-12-05T14:41:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "146ab42b-21a9-4d5a-85fe-2eba12347ca5"
 
 > Knowledge that is tacit because of the way people relate to each other. Sometimes people do not make their knowledge explicit because they do not know how to do so, other times, they do not make their knowledge explicit because they do not want to do so.
 >
-> (NO_ITEM_DATA:chinThreeKindsTacit2020)
+> (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 <!--quoteend-->
 
@@ -44,7 +44,16 @@ slug = "146ab42b-21a9-4d5a-85fe-2eba12347ca5"
 >
 > Collins appears to enjoy using the laser example and the sapphire example because the scientists were working from detailed specifications published in peer-reviewed journals ... and they were working in physics and material science respectively --- both of them 'hard sciences'! Collins's point: if it is difficult to explicate knowledge in the 'hard sciences', then we should expect no less in other domains of human knowledge.
 >
-> (NO_ITEM_DATA:chinThreeKindsTacit2020)
+> (<a href="#citeproc_bib_item_1">Chin 2020</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “The Three Kinds of Tacit Knowledge.” <i>Commoncog</i>. <a href="https://commoncog.com/three-kinds-of-tacit-knowledge/">https://commoncog.com/three-kinds-of-tacit-knowledge/</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

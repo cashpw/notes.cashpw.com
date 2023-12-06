@@ -2,7 +2,7 @@
 title = "Third place"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:48:00-07:00
-lastmod = 2023-11-10T11:22:55-08:00
+lastmod = 2023-12-05T14:56:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "34fb63b5-5a47-436f-b123-a1d6ffbf4fab"
 
 > In sociology, the third place refers to the social surroundings that are separate from the two usual social environments of home ("first place" [[First place]({{< relref "first_place.md" >}})]) and the workplace ("second place" [[Second place]({{< relref "second_place.md" >}})]). Examples of third places include churches, cafes, clubs, public libraries, bookstores or parks.
 >
-> (“Third Place” 2022)
+> (<a href="#citeproc_bib_item_1">“Third Place” 2022</a>)
 
 <!--quoteend-->
 
@@ -44,7 +44,16 @@ slug = "34fb63b5-5a47-436f-b123-a1d6ffbf4fab"
 >
 >     Occupants of third places will often have the same feelings of warmth, possession, and belonging as they would in their own homes. They feel a piece of themselves is rooted in the space, and gain spiritual regeneration by spending time there.
 >
-> (“Third Place” 2022)
+> (<a href="#citeproc_bib_item_1">“Third Place” 2022</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Third Place.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Third_place&oldid=1113017641">https://en.wikipedia.org/w/index.php?title=Third_place&#38;oldid=1113017641</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,14 +2,14 @@
 title = "Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice"
 author = ["Cash Weaver"]
 date = 2023-06-30T18:54:00-07:00
-lastmod = 2023-11-10T10:32:30-08:00
+lastmod = 2023-12-05T13:53:14-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "bcba3e46-9cde-4555-accb-ec73e4f0fc4c"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_2">Chin 2020</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020)
 
 
 ## Summary {#summary}
@@ -135,7 +135,7 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 
 > "But wait," I hear you say --- "What about the field of deliberate practice? Isn't _that_ the predominant subfield most concerned with the development of expertise?" And the answer to that is _no_, it is not.
 >
-> In my review of Ericssons' [_Peak_](https://commoncog.com/peak-book-summary/) [ TODO: Add citation for peak. ], and in my summary of [The Problems with Deliberate Practice](https://commoncog.com/the-problems-with-deliberate-practice/) [ (<a href="#citeproc_bib_item_1">Chin 2019</a>) ], I explained that deliberate practice is defined as possible _only_ in domains with a long history of well-established pedagogy. In other words, deliberate practice **can only exist in fields like music and math and chess**.
+> In my review of Ericssons' [_Peak_](https://commoncog.com/peak-book-summary/) [ TODO: Add citation for peak. ], and in my summary of [The Problems with Deliberate Practice](https://commoncog.com/the-problems-with-deliberate-practice/) [ (NO_ITEM_DATA:chinBookSummaryPeakNewScienceExpertise2019) ], I explained that deliberate practice is defined as possible _only_ in domains with a long history of well-established pedagogy. In other words, deliberate practice **can only exist in fields like music and math and chess**.
 >
 > 1.  Anders Ericsson lays out this narrow definition in _Peak_, and then does a cop-out, arguing that while he hasn't studied practice outside of such domains, the ideas from deliberate practice may be applied to pedagogically less established fields. But Ericsson is well aware that NDM methods exist --- he was one of the editors, alongside many names from the NDM community --- who worked on the _[Cambridge Handbook for Expertise and Expert Performance](https://www.cambridge.org/my/academic/subjects/psychology/cognition/cambridge-handbook-expertise-and-expert-performance-2nd-edition?format=HB&isbn=9781316502617)_.
 >
@@ -160,8 +160,8 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “Book Summary: Peak, the New Science of Expertise.” Commoncog. March 19, 2019. <a href="https://commoncog.com/peak-book-summary/">https://commoncog.com/peak-book-summary/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2020. “Why Tacit Knowledge Is More Important Than Deliberate Practice.” Commoncog. June 9, 2020. <a href="https://commoncog.com/tacit-knowledge-is-a-real-thing/">https://commoncog.com/tacit-knowledge-is-a-real-thing/</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:chinBookSummaryPeakNewScienceExpertise2019</div>
+  <div class="csl-entry">NO_ITEM_DATA:chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020</div>
 </div>
 
 

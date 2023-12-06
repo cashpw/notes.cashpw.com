@@ -2,7 +2,7 @@
 title = "He does not love his cat, but his cat's kittens"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-28T15:26:00-07:00
-lastmod = 2023-11-10T10:51:15-08:00
+lastmod = 2023-12-05T14:11:14-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

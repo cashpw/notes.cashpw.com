@@ -2,7 +2,7 @@
 title = "Freddish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:59:00-07:00
-lastmod = 2023-11-10T10:47:05-08:00
+lastmod = 2023-12-05T14:07:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,7 +17,7 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
 >
 > Rogers was extraordinarily good at imagining where children's minds might go. For instance, in a scene in which an eye doctor uses an ophthalmoscope to peer into his eyes, he made a point of having the doctor clarify that he wasn't able to see Rogers's thoughts. Rogers also wrote a song called "You Can Never Go Down the Drain," because he knew that drains were something that, to kids, seemed to exist solely to suck things down.
 >
-> (King 2018)
+> (NO_ITEM_DATA:kingMisterRogersHadSimpleSetRulesTalkingChildren2018)
 
 <!--quoteend-->
 
@@ -35,14 +35,23 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
 > 8.  "Rephrase your new statement, repeating the first step." "Good" represents a value judgment, so: Your favorite grown-ups can tell you where it is safe to play. It is important to try to listen to them.
 > 9.  "Rephrase your idea a ﬁnal time, relating it to some phase of development a preschooler can understand." Maybe: Your favorite grown-ups can tell you where it is safe to play. It is important to try to listen to them, and listening is an important part of growing.
 >
-> (King 2018)
+> (NO_ITEM_DATA:kingMisterRogersHadSimpleSetRulesTalkingChildren2018)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:kingMisterRogersHadSimpleSetRulesTalkingChildren2018</div>
+</div>
 
 
 ## Backlinks {#backlinks}
 
+-   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
 -   [Fred Rodgers Institute | When Someone a Child Loves Dies]({{< relref "fred_rodgers_institute_when_someone_a_child_loves_dies.md" >}})
--   [Rewriting and Editing]({{< relref "julian_shapiro_writing_well_handbook.md#rewriting-and-editing" >}})
 -   [Child development stages]({{< relref "child_development_stages.md" >}})
 -   [On parenting]({{< relref "freddish.md" >}})
+-   [Rewriting and Editing]({{< relref "julian_shapiro_writing_well_handbook.md#rewriting-and-editing" >}})
 -   [Todos]({{< relref "todos.md" >}})
--   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})

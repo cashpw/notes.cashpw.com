@@ -2,7 +2,7 @@
 title = "Use short, descriptive, link text"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-08T15:26:00-08:00
-lastmod = 2023-11-10T11:25:45-08:00
+lastmod = 2023-12-05T15:01:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,3 +21,11 @@ Links should stand on their own without the context of the surrounding text. The
 2.  Bad: [Download](http:example.com) the source code to try it yourself!
 
     **Good**: [Download the source code](http:example.com) to try it yourself!
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

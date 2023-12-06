@@ -2,14 +2,14 @@
 title = "ExRx | Weightlifting Performance Standards"
 author = ["Cash Weaver"]
 date = 2023-07-06T10:50:00-07:00
-lastmod = 2023-11-10T10:44:35-08:00
+lastmod = 2023-12-05T14:05:26-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "7b52ebd6-f673-4db3-b9ca-49bce7acee56"
 +++
 
-[ExRx]({{< relref "exrx.md" >}}), (ExRx n.d.)
+[ExRx]({{< relref "exrx.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
 
 
 ## Notes {#notes}
@@ -38,6 +38,15 @@ slug = "7b52ebd6-f673-4db3-b9ca-49bce7acee56"
 -   [ExRx | Deadlift Strength Standards (Ages 18-39, Lb)]({{< relref "exrx_deadlift_strength_standards_ages_18_39_lb.md" >}})
 -   [ExRx | Press Strength Standards (Ages 18-39, Lb)]({{< relref "exrx_press_strength_standards_ages_18_39_lb.md" >}})
 -   [ExRx | Squat Strength Standards (Ages 18-39, Lb)]({{< relref "exrx_squat_strength_standards_ages_18_39_lb.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>ExRx. n.d. “Weightlifting Performance Standards.” Accessed July 6, 2023. <a href="https://exrx.net/Testing/WeightLifting/StrengthStandards">https://exrx.net/Testing/WeightLifting/StrengthStandards</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

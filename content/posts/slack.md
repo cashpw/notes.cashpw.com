@@ -2,7 +2,7 @@
 title = "Slack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:08:00-08:00
-lastmod = 2023-11-10T11:17:19-08:00
+lastmod = 2023-12-05T14:48:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,6 +43,7 @@ Informally, a surplus which gives one wiggle room. It's usually in the context o
 
 ## Backlinks {#backlinks}
 
+-   [Tim Urban | 10 Thoughts From the Fourth Trimester]({{< relref "slack.md" >}})
 -   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
 -   [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
--   [Tim Urban | 10 Thoughts From the Fourth Trimester]({{< relref "slack.md" >}})
+-   [Time tracking in Emacs with org-mode]({{< relref "time_tracking_in_emacs_with_org_mode.md" >}})

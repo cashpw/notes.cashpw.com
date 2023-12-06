@@ -2,14 +2,14 @@
 title = "Ian Danskin | Control the Conversation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T16:31:00-07:00
-lastmod = 2023-11-10T10:38:30-08:00
+lastmod = 2023-12-05T13:59:25-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "c718f301-2099-48b7-bad5-74fdebea137e"
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (Danskin 2017)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2017</a>)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -42,6 +42,15 @@ Broadly, controlling the conversation is about making people talk about what you
 > [...] the Democrats' desire for compromise is a weakness that can be exploited. On a gut level, the Right knows what debate means on the Left, knows that the Left wants to meet in the middle. So all they have to do is bait the Left into having the discussion on their terms and then keep insisting they should find common ground. "You could work with us if you'd only try a little harder." Because the rules of that debate, where you concede points and look for compromise, in their world, make the Left look weak. As long as the Right controls the terms of debate, conciliatory loses.
 >
 > That's how they control the conversation: move the entire debate to their framework using a bad argument as the worm on the hook.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2017. “Control the Conversation.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/166293739407/the-first-proper-video-in-my-ongoing-series-on-the">https://innuendostudios.tumblr.com/post/166293739407/the-first-proper-video-in-my-ongoing-series-on-the</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

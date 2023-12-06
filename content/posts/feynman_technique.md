@@ -2,7 +2,7 @@
 title = "Feynman technique"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-13T06:34:00-07:00
-lastmod = 2023-11-10T10:45:24-08:00
+lastmod = 2023-12-05T14:06:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,7 +18,16 @@ slug = "166a96a1-466f-43dd-a9f6-ec18d2ba9b36"
 > 3.  Reflect, Refine, and Simplify
 > 4.  Organize and Review
 >
-> (Street 2012)
+> (NO_ITEM_DATA:streetFeynmanTechniqueBestWayLearnAnything2012)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:streetFeynmanTechniqueBestWayLearnAnything2012</div>
+</div>
 
 
 ## Backlinks {#backlinks}

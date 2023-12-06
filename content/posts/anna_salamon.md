@@ -2,7 +2,7 @@
 title = "Anna Salamon"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:49:00-08:00
-lastmod = 2023-11-10T10:25:58-08:00
+lastmod = 2023-12-05T13:43:22-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -13,6 +13,14 @@ Among other things:
 
 -   (at time of writing) president and co-founder of the Center for Applied Rationality
 -   [AnnaSalamon](https://www.lesswrong.com/users/annasalamon) on [LessWrong]({{< relref "lesswrong.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

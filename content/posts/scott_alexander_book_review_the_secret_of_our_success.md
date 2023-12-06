@@ -2,19 +2,19 @@
 title = "Scott Alexander | Book Review: The Secret Of Our Success"
 author = ["Cash Weaver"]
 date = 2023-01-09T09:54:00-08:00
-lastmod = 2023-11-10T11:15:14-08:00
+lastmod = 2023-12-05T14:44:47-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "cb2c8f33-41ee-457c-805a-27ccec7ba2c3"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (Alexander 2019)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (NO_ITEM_DATA:alexanderBookReviewSecretOurSuccess2019)
 
 
 ## Summary {#summary}
 
-A book review and summary of the key points in (Henrich 2016).
+A book review and summary of the key points in (NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016).
 
 
 ## Thoughts {#thoughts}
@@ -265,6 +265,16 @@ See [Joseph Patrick Henrich | The Secret of Our Success]({{< relref "joseph_patr
 > Third, a sense of how traditions contain the meta-tradition of defending themselves against Reason, and a sense for why this is necessary.
 >
 > And fourth, maybe we're not at the point where we really want unique contributions yet. Maybe we're still at the point where we have to have this hammered in by more and more examples. The temptation is always to say "Ah, yes, a few simple things like taboos against eating poisonous plants may be relics of cultural evolution, but obviously by now we're at the point where we know which traditions are important vs. random looniness, and we can rationally stick to the important ones while throwing out the garbage." And then somebody points out to you that actually divination using oracle bones was one of the important traditions, and if you thought you knew better than that and tried to throw it out, your civilization would falter.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016</div>
+  <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewSecretOurSuccess2019</div>
+</div>
 
 
 ## Backlinks {#backlinks}

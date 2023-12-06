@@ -2,14 +2,14 @@
 title = "Ivor Lewis | Throwing Tall Pots: Philosophy, Theory, and Practice"
 author = ["Cash Weaver"]
 date = 2023-08-07T12:47:00-07:00
-lastmod = 2023-11-10T10:57:09-08:00
+lastmod = 2023-12-05T14:16:18-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "41287ee0-6c9c-4fb7-886e-ea3c69fa4c9f"
 +++
 
-[Ivor Lewis]({{< relref "ivor_lewis.md" >}}), (Lewis n.d.)
+[Ivor Lewis]({{< relref "ivor_lewis.md" >}}), (NO_ITEM_DATA:lewisThrowingTallPotsPhilosophyTheoryPractice)
 
 
 ## Summary {#summary}
@@ -52,3 +52,12 @@ A [Pottery]({{< relref "ceramics.md" >}}) wheel technique for "pulling up".
 > {{< figure src="/ox-hugo/2023-08-07_17-18-37_ivor-lewis-04-16-7.png.png" >}}
 >
 > {{< figure src="/ox-hugo/2023-08-07_17-18-41_ivor-lewis-04-16-8.png.png" >}}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:lewisThrowingTallPotsPhilosophyTheoryPractice</div>
+</div>

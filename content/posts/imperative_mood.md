@@ -2,7 +2,7 @@
 title = "Imperative mood"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-03T15:17:00-07:00
-lastmod = 2023-11-10T10:54:44-08:00
+lastmod = 2023-12-05T14:14:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,13 +15,22 @@ slug = "39f7e92f-c7df-4d0d-94cd-ef7f39437ec1"
 >
 > An example of a verb used in the imperative mood is the English phrase "Go."
 >
-> (“Imperative Mood” 2023)
+> (<a href="#citeproc_bib_item_1">“Imperative Mood” 2023</a>)
 
 
 ## Example(s) {#example--s}
 
 -   "Work hard!"
 -   "Don't be late."
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Imperative Mood.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Imperative_mood&oldid=1151843661">https://en.wikipedia.org/w/index.php?title=Imperative_mood&#38;oldid=1151843661</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

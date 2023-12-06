@@ -2,7 +2,7 @@
 title = "Why attend college?"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:45:00-08:00
-lastmod = 2023-11-10T11:27:13-08:00
+lastmod = 2023-12-05T15:04:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,3 +25,11 @@ Why not attend?
 -   Time commitment; you can drive your own learning faster (see [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}}))
 
 Note that there's nothing stopping you from attending a university _and_ driving your own education. It'll take more work but it's possible. You don't only have to learn things that you're told to learn.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

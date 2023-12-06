@@ -2,7 +2,7 @@
 title = "Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning"
 author = ["Cash Weaver"]
 date = 2023-09-22T07:19:00-07:00
-lastmod = 2023-11-10T10:48:10-08:00
+lastmod = 2023-12-05T14:08:43-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

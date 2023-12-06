@@ -2,14 +2,14 @@
 title = "Mark Lutter | Build Institutions, Not Apps"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:22:00-08:00
-lastmod = 2023-11-10T11:03:54-08:00
+lastmod = 2023-12-05T14:25:34-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "a3d2b0f5-daff-4aef-9c5f-e34ab410efa6"
 +++
 
-[Mark Lutter]({{< relref "mark_lutter.md" >}}), (Lutter n.d.)
+[Mark Lutter]({{< relref "mark_lutter.md" >}}), (NO_ITEM_DATA:lutterBuildInstitutionsNotApps)
 
 
 ## Summary {#summary}
@@ -50,6 +50,15 @@ The "X isn't left or right", in my experience, tends to mean "X is mostly right,
 > [...]
 >
 > Getting there, however, requires politics. It is not enough to build apps. We must build institutions.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:lutterBuildInstitutionsNotApps</div>
+</div>
 
 
 ## Backlinks {#backlinks}

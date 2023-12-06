@@ -2,14 +2,14 @@
 title = "Cedric Chin | The Tacit Knowledge Series"
 author = ["Cash Weaver"]
 date = 2023-06-27T18:13:00-07:00
-lastmod = 2023-11-10T10:32:13-08:00
+lastmod = 2023-12-05T13:52:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "96c1f65b-0c31-4478-8717-8c33743a9e94"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_2">Chin 2020b</a>)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
 ## Summary {#summary}
@@ -20,7 +20,7 @@ What's the most effective way for one to become an expert in a subject?
 
 Schooling typically emphasizes developing along a hierarchy of skills. However, that's [not an effective method]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}}) for developing expertise.
 
-Ideally you'd use [Deliberate practice]({{< relref "deliberate_practice.md" >}}). However, that's not possible most of the time because deliberate practice is only strictly possible for subjects with a "long history of well-established pedagogy" (<a href="#citeproc_bib_item_1">Chin 2020a</a>) (e.g. math, music, and chess). For other subjects (e.g. business, sales, singing): focus on [Purposeful practice]({{< relref "purposeful_practice.md" >}}) and acquiring [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
+Ideally you'd use [Deliberate practice]({{< relref "deliberate_practice.md" >}}). However, that's not possible most of the time because deliberate practice is only strictly possible for subjects with a "long history of well-established pedagogy" (NO_ITEM_DATA:chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020) (e.g. math, music, and chess). For other subjects (e.g. business, sales, singing): focus on [Purposeful practice]({{< relref "purposeful_practice.md" >}}) and acquiring [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 
 [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) is the "between-the-lines" know-how. It's what separates proficient individuals from experts. Traditionally it's acquired by doing the relevant thing for a long time. Can we accelerate the acquisition of tacit knowledge? Yes! Expertise, and tacit knowledge by extension, boils down to [pattern matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}}), specifically [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}}) making. [Improve]({{< relref "recognition_primed_decision_making_model.md#how-to-improve-at-id-4a42aa6f-413f-4144-86df-5c0f0b174777-recognition-primed-decision-making" >}}) by working through simulations. [Prefer simulations that already exist]({{< relref "applied_cognitive_task_analysis.org_archive#choosing-good-simulations" >}}). When necessary, use [Applied cognitive task analysis]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}}) to extract expertise from specific experts.
 
@@ -62,13 +62,13 @@ Related:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020a. “Why Tacit Knowledge Is More Important Than Deliberate Practice.” Commoncog. June 9, 2020. <a href="https://commoncog.com/tacit-knowledge-is-a-real-thing/">https://commoncog.com/tacit-knowledge-is-a-real-thing/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2020b. “The Tacit Knowledge Series.” Commoncog. June 23, 2020. <a href="https://commoncog.com/the-tacit-knowledge-series/">https://commoncog.com/the-tacit-knowledge-series/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “The Tacit Knowledge Series.” <i>Commoncog</i>. <a href="https://commoncog.com/the-tacit-knowledge-series/">https://commoncog.com/the-tacit-knowledge-series/</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Dan Luu | 95%-Ile Isn't That Good]({{< relref "dan_luu_95_ile_isn_t_that_good.md" >}})
 -   [Cedric Chin | The Hard Thing About Learning From Experience]({{< relref "cedric_chin_the_hard_thing_about_learning_from_experience.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
+-   [Dan Luu | 95%-Ile Isn't That Good]({{< relref "dan_luu_95_ile_isn_t_that_good.md" >}})

@@ -2,7 +2,7 @@
 title = "Quickselect implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:54:00-07:00
-lastmod = 2023-11-10T11:12:13-08:00
+lastmod = 2023-12-05T14:39:35-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -68,6 +68,14 @@ TIES:
 :ANKI_DECK: Default
 
 :END:
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

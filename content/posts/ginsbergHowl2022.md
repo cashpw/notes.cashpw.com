@@ -2,14 +2,14 @@
 title = "Allen Ginsberg | Howl"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:20:00-07:00
-lastmod = 2023-11-10T10:49:06-08:00
+lastmod = 2023-12-05T14:09:25-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
 slug = "de31b59e-2fed-49c0-82ff-22d6f86fc48d"
 +++
 
-[Allen Ginsberg]({{< relref "allen_ginsberg.md" >}}), (Ginsberg 2022)
+[Allen Ginsberg]({{< relref "allen_ginsberg.md" >}}), (<a href="#citeproc_bib_item_1">Ginsberg 2022</a>)
 
 One of my [Favorites]({{< relref "favorites.md" >}}).
 
@@ -169,3 +169,12 @@ I'm with you in Rockland<br />
 </div>
 
 [Footnote to Howl]({{< relref "footnote_to_howl.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ginsberg, Allen. 2022. “Howl.” Text/Html. <i>Poetry Foundation</i>. Poetry Foundation. <a href="https://www.poetryfoundation.org/poems/49303/howl">https://www.poetryfoundation.org/poems/49303/howl</a>.</div>
+</div>

@@ -2,7 +2,7 @@
 title = "Non-zero-sum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T10:51:00-07:00
-lastmod = 2023-11-10T11:07:36-08:00
+lastmod = 2023-12-05T14:31:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,12 +21,12 @@ The opposite of a [Zero-sum game]({{< relref "zero_sum_game.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Zero-Sum Game.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Zero-sum_game&oldid=1094118821">https://en.wikipedia.org/w/index.php?title=Zero-sum_game&#38;oldid=1094118821</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Zero-Sum Game.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Zero-sum_game&oldid=1094118821">https://en.wikipedia.org/w/index.php?title=Zero-sum_game&#38;oldid=1094118821</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Zero-sum game]({{< relref "zero_sum_game.md" >}})
 -   [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
+-   [Zero-sum game]({{< relref "zero_sum_game.md" >}})
 -   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})

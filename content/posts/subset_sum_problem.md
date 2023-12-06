@@ -2,7 +2,7 @@
 title = "Subset sum problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:30:00-08:00
-lastmod = 2023-11-10T11:19:49-08:00
+lastmod = 2023-12-05T14:51:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3"
 >
 > SSP is a special case of the knapsack problem [[Knapsack problem]({{< relref "knapsack_problem.md" >}})] and of the multiple subset sum problem.
 >
-> (“Subset Sum Problem” 2023)
+> (<a href="#citeproc_bib_item_1">“Subset Sum Problem” 2023</a>)
 
 
 ## [Pseudo-polynomial time]({{< relref "pseudo_polynomial_time.md" >}}) time [Dynamic programming]({{< relref "dynamic_programming.md" >}}) solution {#pseudo-polynomial-time--pseudo-polynomial-time-dot-md--time-dynamic-programming--dynamic-programming-dot-md--solution}
@@ -43,6 +43,15 @@ slug = "1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3"
 > Starting from the initial state \\((0, 0)\\), it is possible to use any graph search algorithm (e.g. BFS) to search the state \\((N, T)\\). If the state is found, then by backtracking we can find a subset with a sum of exactly \\(T\\).
 
 [Pseudo-polynomial time subset sum problem implementation in Python]({{< relref "pseudo_polynomial_time_sumbset_sum_problem_implementation_in_python.md" >}}).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Subset Sum Problem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Subset_sum_problem&oldid=1136150450">https://en.wikipedia.org/w/index.php?title=Subset_sum_problem&#38;oldid=1136150450</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

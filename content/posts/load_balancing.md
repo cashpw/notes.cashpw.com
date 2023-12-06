@@ -2,7 +2,7 @@
 title = "Load balancing"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T08:31:00-07:00
-lastmod = 2023-11-10T11:03:01-08:00
+lastmod = 2023-12-05T14:24:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,7 +30,7 @@ slug = "44890929-fa24-4a69-b261-04107a005903"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Load Balancing (Computing).” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Load_balancing_(computing)&oldid=1143711216">https://en.wikipedia.org/w/index.php?title=Load_balancing_(computing)&#38;oldid=1143711216</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Load Balancing (Computing).” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Load_balancing_(computing)&oldid=1143711216">https://en.wikipedia.org/w/index.php?title=Load_balancing_(computing)&#38;oldid=1143711216</a>.</div>
 </div>
 
 

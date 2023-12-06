@@ -2,7 +2,7 @@
 title = "Pseudo-polynomial time subset sum problem implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T06:53:00-08:00
-lastmod = 2023-11-10T11:11:33-08:00
+lastmod = 2023-12-05T14:38:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -42,6 +42,14 @@ print(subset_sum(8, [2,4,5]), 'should be None')
 print(subset_sum(11, [2,4,5]), 'should be [2,4,5]')
 print(subset_sum(0, [2,4,5]), 'should be []')
 ```
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

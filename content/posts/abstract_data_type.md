@@ -2,7 +2,7 @@
 title = "Abstract data type"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:49:00-07:00
-lastmod = 2023-11-10T10:24:18-08:00
+lastmod = 2023-12-05T13:39:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,15 +19,15 @@ slug = "2eae74ba-4003-45cf-8425-7291aaa7a537"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Abstract Data Type.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Abstract_data_type&oldid=1093187237">https://en.wikipedia.org/w/index.php?title=Abstract_data_type&#38;oldid=1093187237</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Abstract Data Type.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Abstract_data_type&oldid=1093187237">https://en.wikipedia.org/w/index.php?title=Abstract_data_type&#38;oldid=1093187237</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Heap]({{< relref "heap.md" >}})
+-   [Queue]({{< relref "queue.md" >}})
+-   [Associative array]({{< relref "associative_array.md" >}})
 -   [Stack]({{< relref "stack.md" >}})
 -   [Priority queue]({{< relref "priority_queue.md" >}})
 -   [Tree]({{< relref "tree.md" >}})
--   [Queue]({{< relref "queue.md" >}})
--   [Associative array]({{< relref "associative_array.md" >}})
+-   [Heap]({{< relref "heap.md" >}})

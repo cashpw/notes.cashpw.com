@@ -2,7 +2,7 @@
 title = "Multiset"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:34:00-08:00
-lastmod = 2023-11-10T11:06:18-08:00
+lastmod = 2023-12-05T14:29:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,16 @@ slug = "f25031de-9b51-4f1c-9166-f155b2d3250c"
 >
 > The cardinality of a multiset is the sum of the multiplicities of all its elements. For example, in the multiset \\(\\{a, a, b, b, b, c\\}\\) the multiplicities of the members \\(a\\), \\(b\\), and \\(c\\) are respectively 2, 3, and 1, and therefore the cardinality of this multiset is 6.
 >
-> (“Multiset” 2023)
+> (<a href="#citeproc_bib_item_1">“Multiset” 2023</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Multiset.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Multiset&oldid=1131376702">https://en.wikipedia.org/w/index.php?title=Multiset&#38;oldid=1131376702</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

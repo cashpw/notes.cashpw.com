@@ -2,7 +2,7 @@
 title = "James Kenji López-Alt | Easy Roasted-Garlic Focaccia Recipe"
 author = ["Cash Weaver"]
 date = 2023-08-07T19:03:00-07:00
-lastmod = 2023-11-10T10:57:14-08:00
+lastmod = 2023-12-05T14:16:21-08:00
 tags = ["reference", "recipe", "reference", "recipe"]
 categories = ["reference", "recipe"]
 draft = false
@@ -14,7 +14,7 @@ slug = "ed25a76f-1614-4073-a894-8f68f91e6731"
 stars = 5
 +++
 
-[James Kenji López-Alt]({{< relref "james_kenji_lopez_alt.md" >}}), (López-Alt n.d.)
+[James Kenji López-Alt]({{< relref "james_kenji_lopez_alt.md" >}}), (NO_ITEM_DATA:lopez-altEasyRoastedGarlicFocacciaRecipe)
 
 > Roasted cloves and garlic butter make for a one-two punch in this simple riff on garlic bread.
 
@@ -81,3 +81,12 @@ stars = 5
 8.  When focaccia has finished baking, spread garlic butter over top with a spoon. Transfer to a cutting board, allow to cool slightly, slice, and serve. Extra bread should be stored in a brown paper bag at room temperature for up to 2 days. Reheat in a 300°F (150°C) oven for about 10 minutes before serving.
 
     {{< figure src="/ox-hugo/2023-08-07_19-17-01_easy-roasted-garlic-focaccia-no-knead-bread-recipe-step8-daf3306361e048aab410912fe4f5c71d.jpg" >}}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:lopez-altEasyRoastedGarlicFocacciaRecipe</div>
+</div>

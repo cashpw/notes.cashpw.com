@@ -2,7 +2,7 @@
 title = "Jim Hefferon"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-24T08:34:00-07:00
-lastmod = 2023-11-10T10:58:15-08:00
+lastmod = 2023-12-05T14:17:52-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -13,6 +13,14 @@ Among other things:
 
 
 ##  {#d41d8c}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

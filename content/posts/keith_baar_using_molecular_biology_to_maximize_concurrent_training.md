@@ -2,14 +2,14 @@
 title = "Keith Baar | Using Molecular Biology to Maximize Concurrent Training"
 author = ["Cash Weaver"]
 date = 2023-06-23T18:04:00-07:00
-lastmod = 2023-11-10T10:59:55-08:00
+lastmod = 2023-12-05T14:20:10-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "dec127fd-bb24-48de-8d07-52906e357792"
 +++
 
-[Keith Baar]({{< relref "keith_baar.md" >}}), (Baar 2014)
+[Keith Baar]({{< relref "keith_baar.md" >}}), (NO_ITEM_DATA:baarUsingMolecularBiologyMaximizeConcurrentTraining2014)
 
 
 ## Summary {#summary}
@@ -55,6 +55,15 @@ I've integrated this into my [Exercise program]({{< relref "exercise_program.md"
 > 2.  Resistance exercise should be supported by readily digestible, leucine-rich protein as soon as possible after training to maximize leucine uptake [64], mTOR recruitment to the lysosome [29], and protein synthesis [25]. Since, in this scenario, resistance exercise is performed later in the day, it becomes even more important to also consume protein immediately prior to sleep to maximize the synthetic response overnight [65].
 > 3.  Fully refuel between the morning high-intensity endurance training session and the afternoon strength session since AMPK can be activated by low glycogen [66], and SIRT1 is activated by caloric restriction [38]. If it is not possible to refuel completely because of the training volume and intensity, it might be best to reserve a portion of the offseason (and short periods in season) exclusively for increasing muscle size and strength and then use higher dietary protein intakes to maintain that muscle mass as the aerobic load increases through the season [67].
 > 4.  To improve the endurance response to lower-intensity endurance training sessions and provide a strong strength stimulus, consider performing strength training immediately after low-intensity, non-depleting, endurance sessions. Performing a strength session immediately after a low-intensity endurance session results in a greater stimulus for endurance adaptation than the low-intensity endurance session alone [68] and the low-intensity session will not affect signaling pathways regulating strength gains [51–53].
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:baarUsingMolecularBiologyMaximizeConcurrentTraining2014</div>
+</div>
 
 
 ## Backlinks {#backlinks}

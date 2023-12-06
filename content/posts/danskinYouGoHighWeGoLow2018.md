@@ -2,14 +2,14 @@
 title = "Ian Danskin | You Go High, We Go Low"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:11:00-07:00
-lastmod = 2023-11-10T10:38:58-08:00
+lastmod = 2023-12-05T13:59:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "f39cbb1c-8265-4f3e-9a99-632132ade597"
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (Danskin 2018)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (NO_ITEM_DATA:danskinYouGoHighWeGoLow2018)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -54,6 +54,15 @@ Going low is a manifestation of [playing to win]({{< relref "play_to_win.md" >}}
 <!--quoteend-->
 
 > An action has no intrinsic value wholly separate from its outcome. A Kentucky clerk breaking the law by refusing to sign a legal gay marriage license is wrong. And a California clerk breaking the law by signing an illegal gay marriage license is right. There is a moral imperative to disobey rules when following does not lead to justice.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:danskinYouGoHighWeGoLow2018</div>
+</div>
 
 
 ## Backlinks {#backlinks}

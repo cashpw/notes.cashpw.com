@@ -2,14 +2,14 @@
 title = "Matthew D. Weaver et al. | Adverse Impact of Polyphasic Sleep Patterns in Humans"
 author = ["Cash Weaver"]
 date = 2022-11-22T09:21:00-08:00
-lastmod = 2023-11-10T11:04:26-08:00
+lastmod = 2023-12-05T14:26:18-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "018f9541-56d8-4091-8ac8-a8ebf61060d9"
 +++
 
-(Weaver et al. 2021)
+(NO_ITEM_DATA:weaverAdverseImpactPolyphasicSleepPatternsHumansReportNationalSleepFoundation2021)
 
 
 ## Summary {#summary}
@@ -28,3 +28,12 @@ Their findings align with [my experience]({{< relref "polyphasic_sleep_40_day_tr
 ### Abstract {#abstract}
 
 > Polyphasic sleep is the practice of distributing multiple short sleep episodes across the 24-hour day rather than having one major and possibly a minor ("nap") sleep episode each day. While the prevalence of polyphasic sleep is unknown, anecdotal reports suggest attempts to follow this practice are common, particularly among young adults. Polyphasic-sleep advocates claim to thrive on as little as 2 hours of total sleep per day. However, significant concerns have been raised that polyphasic sleep schedules can result in health and safety consequences. We reviewed the literature to identify the impact of polyphasic sleep schedules (excluding nap or siesta schedules) on health, safety, and performance outcomes. Of 40,672 potentially relevant publications, with 2,023 selected for full-text review, 22 relevant papers were retained. We found no evidence supporting benefits from following polyphasic sleep schedules. Based on the current evidence, the consensus opinion is that polyphasic sleep schedules, and the sleep deficiency inherent in those schedules, are associated with a variety of adverse physical health, mental health, and performance outcomes. Striving to adopt a schedule that significantly reduces the amount of sleep per 24 hours and/or fragments sleep into multiple episodes throughout the 24-hour day is not recommended.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:weaverAdverseImpactPolyphasicSleepPatternsHumansReportNationalSleepFoundation2021</div>
+</div>

@@ -2,7 +2,7 @@
 title = "Skills of a senior software engineer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:20:00-08:00
-lastmod = 2023-11-10T11:17:15-08:00
+lastmod = 2023-12-05T14:48:01-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -16,6 +16,8 @@ I've sought out common traits of "senior" roles and collected them here to help 
 
 ## Incorporate Sources; expand {#incorporate-sources-expand}
 
+-   (<a href="#citeproc_bib_item_2">Allspaw n.d.</a>)
+-   (<a href="#citeproc_bib_item_3">littleblah 2019</a>)
 -   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Zach Tellman | Senior Engineers Reduce Risk]({{< relref "tellmanSeniorEngineersReduceRisk.md" >}})
 -   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})
@@ -48,6 +50,21 @@ I've sought out common traits of "senior" roles and collected them here to help 
     -   [Delegate]({{< relref "kileBusyPersonPatterns2006.md#delegate" >}}) whenever possible to ensure you're working on something that only you can do
 -   Networking
     -   Maintain mutually beneficial relationships with peers within your organization, company, and externally
+-   [Senior engineers manage scope]({{< relref "senior_engineers_manage_scope.md" >}})
+-   (<a href="#citeproc_bib_item_1">“16x Engineer” n.d.</a>)
+-   (<a href="#citeproc_bib_item_4">“Stories of Reaching Staff-plus Engineering Roles - StaffEng” n.d.</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“16x Engineer.” n.d. <i>16x Engineer</i>. Accessed November 19, 2023. <a href="https://16x.engineer/">https://16x.engineer/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Allspaw, John. n.d. “On Being A Senior Engineer.” <i>Kitchen Soap</i>. Accessed February 21, 2022. <a href="https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>littleblah. 2019. “A Senior Engineer’s CheckList.” <a href="https://littleblah.com/post/2019-09-01-senior-engineer-checklist/">https://littleblah.com/post/2019-09-01-senior-engineer-checklist/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Stories of Reaching Staff-plus Engineering Roles - StaffEng.” n.d. Accessed January 28, 2023. <a href="https://staffeng.com/">https://staffeng.com/</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

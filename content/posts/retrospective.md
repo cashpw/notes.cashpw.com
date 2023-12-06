@@ -2,7 +2,7 @@
 title = "Retrospective"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T12:27:00-08:00
-lastmod = 2023-11-10T11:13:53-08:00
+lastmod = 2023-12-05T14:42:17-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -43,6 +43,16 @@ This is all coupled with [Embrace discomfort]({{< relref "retrospective.md" >}})
 Also coupled with [Seek out feedback and accept with gratitude]({{< relref "retrospective.md" >}}).
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
+
 ## Backlinks {#backlinks}
 
 -   [Stages of problem solving]({{< relref "stages_of_problem_solving.md" >}})
+-   [Time tracking in Emacs with org-mode]({{< relref "time_tracking_in_emacs_with_org_mode.md" >}})
+-   [The last 10%]({{< relref "retrospective.md" >}})

@@ -2,14 +2,14 @@
 title = "Upstream | Fully Automated Luxury Communism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T09:40:00-07:00
-lastmod = 2023-11-10T11:25:44-08:00
+lastmod = 2023-12-05T15:01:25-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "4bb6597c-bbcb-431e-8639-9c64d41412e1"
 +++
 
-[Upstream]({{< relref "upstream.md" >}}), (<i>Fully Automated Luxury Communism</i> 2022)
+[Upstream]({{< relref "upstream.md" >}}), (NO_ITEM_DATA:upstreamFullyAutomatedLuxuryCommunism2022)
 
 
 ## Summary {#summary}
@@ -64,3 +64,12 @@ A discussion of [Fully automated luxury communism]({{< relref "fully_automated_l
 > [Zarinah Agnew]
 >
 > Yeah, there's one other thing I want to mention, which is, I think important, because I think when people think of communism, they think a lot of austerity and bleak equality, where everyone has access to the same things, but the things that they have access to a kind of rubbish. And I wanted to mention something from David Graeber, his most recent book, in which they reference indigenous and native forms of economics. And they talk about, you know, in these early forms of economic societies, people still had private ownership, they could have trinkets and objects and symbols, things that they use to denote the individualism, things that they gifted to others to sort of, say, thank you, and so on, and so forth. But crucially, the things that were privately owned, could not be turned into power over others. And the resources that were fundamental for collective survival, like land couldn't be privately owned. And so I think what luxury communism points to is both the ability to make sure that everybody's needs are met, and we have a good life. And also the sort of luxury and quality of being able to have our own aesthetic and our own ways of being and adorning our lives, I think is really important.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:upstreamFullyAutomatedLuxuryCommunism2022</div>
+</div>

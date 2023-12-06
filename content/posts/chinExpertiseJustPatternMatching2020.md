@@ -2,14 +2,14 @@
 title = "Cedric Chin | Expertise Is 'Just' Pattern Matching"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:53:00-08:00
-lastmod = 2023-11-10T10:33:21-08:00
+lastmod = 2023-12-05T13:54:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "b481f4e5-63b4-4455-8406-49825121b06c"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2020)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinExpertiseJustPatternMatching2020)
 
 
 ## Summary {#summary}
@@ -50,13 +50,22 @@ The idea rings true to me when I think about how chess masters describe thinking
 > What about creativity, for instance? Klein covers this in his research; in Sources of Power he discusses how expert minds use pattern-recognition to identify 'leverage points' — points in which one could do something radically different — in order to come up with creative solutions within the constraints of some domain. I've dug a little into the research and I think the take is plausible, but I'm not entirely convinced. Surely the mechanism of creativity is different from the prototype-based recognition that drives most of expertise? The short answer to that seems to be 'yes, creativity relies on connections between different ideas and this is independent of expertise' but also 'identifying the right leverage points is still a recognition/expertise thing'. The two seem highly intertwined in the sorts of fields that Klein studies; my remaining scepticism is that I do not know if this is true in 'pure' creative domains like art and design and fiction writing.
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:chinExpertiseJustPatternMatching2020</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
--   [Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
+-   [Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}})
 -   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 -   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
--   [Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]({{< relref "gary_klein_and_jennifer_phillips_and_erica_rall_and_deborah_peluso_a_data_frame_theory_of_sensemaking.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
 -   [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})
+-   [Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]({{< relref "gary_klein_and_jennifer_phillips_and_erica_rall_and_deborah_peluso_a_data_frame_theory_of_sensemaking.md" >}})

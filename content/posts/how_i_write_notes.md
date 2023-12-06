@@ -2,7 +2,7 @@
 title = "How I write notes"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T20:21:00-08:00
-lastmod = 2023-11-10T10:52:58-08:00
+lastmod = 2023-12-05T14:12:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,9 +20,17 @@ slug = "5140bc26-825e-4e26-aec6-3738a5fe2ab1"
 Also see [Why I write notes]({{< relref "why_i_write_notes.md" >}}).
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
+
 ## Backlinks {#backlinks}
 
 -   [Goals for 2022]({{< relref "goals_for_2022.md" >}})
--   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
 -   [My one-bag packing list]({{< relref "how_i_write_notes.md" >}})
 -   [README]({{< relref "readme.md" >}})
+-   [Why I write notes]({{< relref "why_i_write_notes.md" >}})

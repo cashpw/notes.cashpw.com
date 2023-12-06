@@ -2,7 +2,7 @@
 title = "Antonio Gramsci"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T14:21:00-08:00
-lastmod = 2023-11-10T10:26:20-08:00
+lastmod = 2023-12-05T13:43:55-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -17,7 +17,16 @@ slug = "8e881515-f969-480f-b101-ea9e3476d723"
 >
 > Gramsci is best known for his theory of [Cultural hegemony]({{< relref "cultural_hegemony.md" >}}) [...]
 >
-> (“Antonio Gramsci” 2022)
+> (<a href="#citeproc_bib_item_1">“Antonio Gramsci” 2022</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Antonio Gramsci.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Antonio_Gramsci&oldid=1123033076">https://en.wikipedia.org/w/index.php?title=Antonio_Gramsci&#38;oldid=1123033076</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Binary heap implementation in python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-21T09:21:00-07:00
-lastmod = 2023-11-10T10:28:19-08:00
+lastmod = 2023-12-05T13:47:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -118,6 +118,14 @@ print(h.peek())
 print(h.pop())
 print(h.peek())
 ```
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

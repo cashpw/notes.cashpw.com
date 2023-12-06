@@ -2,21 +2,21 @@
 title = "Tanner Greer | On The Tolkienic Hero"
 author = ["Cash Weaver"]
 date = 2023-01-11T19:32:00-08:00
-lastmod = 2023-11-10T11:20:47-08:00
+lastmod = 2023-12-05T14:53:21-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "b382d13b-7da2-475a-93e4-a02c03558342"
 +++
 
-[Tanner Greer]({{< relref "tanner_greer.md" >}}), (Greer 2019)
+[Tanner Greer]({{< relref "tanner_greer.md" >}}), (<a href="#citeproc_bib_item_1">Greer 2019</a>)
 
 
 ## Notes {#notes}
 
 > Deep down in him lived still unconquered his plain hobbit-sense: he knew in the core of his heart that he was not large enough to bear such a burden, even if such visions were not a mere cheat to betray him. The one small garden of a free gardener was all his need and due, not a garden swollen to a realm; his own hands to use, not the hands of others to command.
 >
-> (Tolkien 1994)
+> (<a href="#citeproc_bib_item_2">Tolkien 1994</a>)
 
 <!--quoteend-->
 
@@ -31,3 +31,13 @@ slug = "b382d13b-7da2-475a-93e4-a02c03558342"
 > Readers familiar with _Lord of the Rings_ will immediately see the connections between my opening sketch and the tale of Tolkien's ring-bearer. I am not going to devote an entire essay to this topic---a great deal has already been written about Tolkien's conception of good and evil, power, corruption, innocence, and heroism, and I see no reason to repeat others' feats here---but I will emphasize two points that deserve strong restatement.
 >
 > The first point: An aversion to glory is not just the defining character trait of the novel's central hero. **The distinction between greatness and power as goods to be strived for versus greatness and power as burdens to be carried is the distinction that sets apart almost of all of the novel's protagonists from their foils.** It is the defining difference between Frodo and Smeagol, Faramir and Boromir, Aragorn and Denethor, and Gandalf and Saruman. The second trait saves Galadriel in exile; the first corrupts Sauron anew after his master's defeat. If one is allowed to describe objects as foils, this same distinction sets Sauron's rings, key to his strategy for corrupting Middle Earth, as a foil to the methods of the 'wizards' sent from Western lands to save Middle Earth.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2019. “On The Tolkienic Hero.” <i>The Scholar’s Stage</i>. <a href="https://scholars-stage.org/on-the-tolkienic-hero/">https://scholars-stage.org/on-the-tolkienic-hero/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Tolkien, J. R. R. 1994. <i>The Return of the King</i>. The Lord of the Rings, part 3. Boston: Mariner Books.</div>
+</div>

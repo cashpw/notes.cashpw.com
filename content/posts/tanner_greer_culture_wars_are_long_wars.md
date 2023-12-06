@@ -2,14 +2,14 @@
 title = "Tanner Greer | Culture Wars Are Long Wars"
 author = ["Cash Weaver"]
 date = 2023-01-10T13:37:00-08:00
-lastmod = 2023-11-10T11:20:41-08:00
+lastmod = 2023-12-05T14:53:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "cec64d96-d0ea-4073-a74d-efb5a0588d93"
 +++
 
-[Tanner Greer]({{< relref "tanner_greer.md" >}}), (Greer 2021)
+[Tanner Greer]({{< relref "tanner_greer.md" >}}), (NO_ITEM_DATA:greerCultureWarsAreLongWars2021)
 
 
 ## Summary {#summary}
@@ -43,3 +43,12 @@ This seems a bizarre take from my perspective. I don't understand the nuance bet
 > Understanding this is equal parts clarifying and frustrating. Clarifying, because it gives us a clear idea of what must be done and of what cannot be done. Frustration comes from that second item: as culture wars are long wars, there are no quick victories. If you reject the quickly crystalizing orthodoxy of America's millennials, your short-term options are limited. The millennials are a lost generation; they will persist in their errors to the end of their days. Theirs is a doomed cohort—and for most of the next two decades, this doomed cohort will be in charge.
 
 I suppose I'm a member of the cohort discussed here and don't see eye-to-eye with the author's use of "doomed" or the general maligning of socialism.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:greerCultureWarsAreLongWars2021</div>
+</div>

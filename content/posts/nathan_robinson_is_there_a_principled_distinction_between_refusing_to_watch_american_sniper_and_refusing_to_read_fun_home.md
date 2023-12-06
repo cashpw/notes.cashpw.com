@@ -2,14 +2,14 @@
 title = "Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?"
 author = ["Cash Weaver"]
 date = 2023-01-12T08:39:00-08:00
-lastmod = 2023-11-10T11:06:44-08:00
+lastmod = 2023-12-05T14:30:09-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "76fb6d92-1fc9-4496-989c-c5c8fc1fd881"
 +++
 
-[Nathan Robinson]({{< relref "nathan_robinson.md" >}}), (Robinson n.d.)
+[Nathan Robinson]({{< relref "nathan_robinson.md" >}}), (NO_ITEM_DATA:robinsonTherePrincipledDistinctionRefusingWatchAmericanSniperRefusingReadFun)
 
 
 ## Notes {#notes}
@@ -55,6 +55,15 @@ I think Robinson gets it right here, with one exception. I seem to be more favor
 I think it's useful to phrase objections in ways which are defensible and its best to favor those which are more defensible. That said, I don't think the hypothetical argument being had between the pro-racist and the pro-LGBT people is "winnable" in the way Robinson seems to present it. The winning move for the pro-LGBT person isn't to find the right words to say. Presenting the objection that "Racist speech is banned becasue racism is harmful" and countering against the response with "LGBT speech isn't harmful, so we shouldn't ban it" doesn't land, in practice, with the pro-racist. They'll counter with "Yes, it is harmful &lt;insert more here&gt;". They'll always have a counterargument which concludes that we need to ban LGBT speech because, as I've seen it in most cases, the argument isn't about finding truth based on shared underlying moral frameworks but rather in _using_ argument as a tool to advance an agenda and the agenda (see [Never play defense]({{< relref "never_play_defense.md" >}}) and the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}) in general), in this case, is pro-racism and anti-LGBT. Hell no.
 
 Not to say that the right is the only team using this and similar techniques. However, like Robinson, I agree with certain political and moral positions and think it'd be best if we went in those directions.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:robinsonTherePrincipledDistinctionRefusingWatchAmericanSniperRefusingReadFun</div>
+</div>
 
 
 ## Backlinks {#backlinks}

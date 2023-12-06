@@ -2,7 +2,7 @@
 title = "Valar dohaeris"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:00:00-07:00
-lastmod = 2023-11-10T11:25:55-08:00
+lastmod = 2023-12-05T15:01:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,7 +14,15 @@ slug = "8991f579-2d7a-4c2a-8207-f360145cd587"
 Related: [Valar morghulis]({{< relref "valar_morghulis.md" >}})
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
+
 ## Backlinks {#backlinks}
 
--   [Valar morghulis]({{< relref "valar_morghulis.md" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
+-   [Valar morghulis]({{< relref "valar_morghulis.md" >}})

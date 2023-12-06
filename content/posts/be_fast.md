@@ -2,7 +2,7 @@
 title = "Be fast"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T20:01:00-07:00
-lastmod = 2023-11-10T10:27:33-08:00
+lastmod = 2023-12-05T13:46:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,7 +32,16 @@ Let's say you're trying to improve two recipes: (1) a slow-cook lasagna which ta
 >
 > </div>
 >
-> (Luu n.d.)
+> (<a href="#citeproc_bib_item_1">Luu n.d.</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Luu, Dan. n.d. “Some Reasons to Work on Productivity and Velocity.” Accessed October 27, 2023. <a href="https://danluu.com/productivity-velocity/">https://danluu.com/productivity-velocity/</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

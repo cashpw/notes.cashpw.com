@@ -2,14 +2,14 @@
 title = "Scott Alexander | Should You Reverse Any Advice You Hear?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:31:00-08:00
-lastmod = 2023-11-10T10:25:06-08:00
+lastmod = 2023-12-05T13:41:41-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "de6d0d9e-3ce1-4e18-b747-c59cd50ceebf"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (Alexander 2014)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (NO_ITEM_DATA:alexanderShouldYouReverseAnyAdviceYouHear2014)
 
 
 ## Summary {#summary}
@@ -48,3 +48,12 @@ A simple bit of [metacognitive]({{< relref "metacognition.md" >}}) advice which 
 > 1.  Are there plausibly near-equal groups of people who need this advice versus the opposite advice?
 > 2.  Have you self-selected into the group of people receiving this advice by, for example, being a fan of the blog / magazine / TV channel / political party / self-help-movement offering it?
 > 3.  Then maybe the opposite advice, for you in particular, is at least as worthy of consideration.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:alexanderShouldYouReverseAnyAdviceYouHear2014</div>
+</div>

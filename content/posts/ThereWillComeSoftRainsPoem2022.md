@@ -2,7 +2,7 @@
 title = "There will come soft rains"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T10:39:00-07:00
-lastmod = 2023-11-10T10:23:50-08:00
+lastmod = 2023-12-05T13:38:58-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -33,4 +33,13 @@ Would scarcely know that we were gone.<br />
 
 </div>
 
-[Sara Teasdale]({{< relref "sara_teasdale.md" >}}), (“There Will Come Soft Rains” 2022)
+[Sara Teasdale]({{< relref "sara_teasdale.md" >}}), (NO_ITEM_DATA:ThereWillComeSoftRains2022)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:ThereWillComeSoftRains2022</div>
+</div>

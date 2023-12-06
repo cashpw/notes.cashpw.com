@@ -2,14 +2,14 @@
 title = "James C. Scott | Seeing like a State"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:24:00-08:00
-lastmod = 2023-11-10T10:57:35-08:00
+lastmod = 2023-12-05T14:16:48-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "893aff24-4682-45e6-8d50-e4d55f0aa0cf"
 +++
 
-[James Scott]({{< relref "james_scott.md" >}}), (Scott 2020)
+[James Scott]({{< relref "james_scott.md" >}}), (NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020)
 
 
 ## Summary {#summary}
@@ -49,6 +49,15 @@ YOLLAND: Something is being eroded.<br />
 <br />
 — Brian Friel, Translations 2.1<br />
 
+</div>
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Bubble sort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T10:47:00-07:00
-lastmod = 2023-11-10T10:29:49-08:00
+lastmod = 2023-12-05T13:49:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,7 @@ slug = "c6bc266e-1090-492f-bdba-f044e04db3ff"
 >
 > [links added]
 >
-> (“Bubble Sort” 2022)
+> (<a href="#citeproc_bib_item_1">“Bubble Sort” 2022</a>)
 
 Bubble sort is [stable]({{< relref "stable_sorting_algorithm.md" >}}).
 
@@ -39,6 +39,15 @@ while list is not sorted do
 |-------|--------------|------------|
 | Time  | \\(O(n^2)\\) | \\(O(n)\\) |
 | Space | \\(O(n)\\)   | \\(O(n)\\) |
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bubble Sort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Bubble_sort&oldid=1093592571">https://en.wikipedia.org/w/index.php?title=Bubble_sort&#38;oldid=1093592571</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

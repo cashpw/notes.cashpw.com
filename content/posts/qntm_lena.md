@@ -2,14 +2,14 @@
 title = "qntm | Lena"
 author = ["Cash Weaver"]
 date = 2023-03-02T18:58:00-08:00
-lastmod = 2023-11-10T11:12:04-08:00
+lastmod = 2023-12-05T14:39:18-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "91634f48-f695-42cf-8a4a-46ec5552b638"
 +++
 
-[qntm]({{< relref "qntm.md" >}}), (qntm n.d.)
+[qntm]({{< relref "qntm.md" >}}), (<a href="#citeproc_bib_item_1">qntm n.d.</a>)
 
 
 ## Summary {#summary}
@@ -36,7 +36,7 @@ Fictional descriptive entry about the first widely-used [Mind upload]({{< relref
 > MMAcevedo is considered by some to be the "first immortal", and by others to be a profound warning of the horrors of immortality.
 
 
-#### Characteristics {#characteristics}
+### Characteristics {#characteristics}
 
 > As the earliest viable brain scan, MMAcevedo is one of a very small number of brain scans to have been recorded before widespread understanding of the hazards of uploading and emulation. MMAcevedo not only predates all industrial scale virtual image workloading but also the KES case, the Whitney case, the Seafront Experiments and even Poulsen's pivotal and prescient _Warnings_ paper. Though speculative fiction on the topic of uploading existed at the time of the MMAcevedo scan, relatively little of it made accurate exploration of the possibilities of the technology. That fiction which did was far less widely-known than it is today and Acevedo was certainly not familiar with it at the time of his uploading.
 >
@@ -44,36 +44,33 @@ Fictional descriptive entry about the first widely-used [Mind upload]({{< relref
 >
 > MMAcevedo's demeanour and attitude contrast starkly with those of nearly all other uploads taken of modern adult humans, most of which boot into a state of disorientation which is quickly replaced by terror and extreme panic. Standard procedures for securing the upload's cooperation such as red-washing, blue-washing, and use of the Objective Statement Protocols are unnecessary. This reduces the necessary computational load required in fast-forwarding the upload through a cooperation protocol, with the result that the MMAcevedo duty cycle is typically 99.4% on suitable workloads, a mark unmatched by all but a few other known uploads. However, MMAcevedo's innate skills and personality make it fundamentally unsuitable for many workloads.
 
-<!--list-separator-->
 
--  Motivation
+#### Motivation {#motivation}
 
-    > Iterative experimentation beginning in the mid-2030s has determined that the ideal way to secure MMAcevedo's cooperation in workload tasks is to provide it with a "current date" in the second quarter of 2033. MMAcevedo infers, correctly, that this is still during the earliest, most industrious years of emulated brain research. Providing MMAcevedo with a year of 2031 or 2032 causes it to become suspicious about the advanced fidelity of its operating environment. Providing it with a year in the 2040s or later prompts it to raise complex further questions about political and social change in the real world over the past decade(s). Years 2100 onwards provoke counterproductive skepticism, or alarm.
-    >
-    > Typically, the biological Acevedo's absence is explained as a first-ever one-off, due to overwork, in turn due to the great success of the research. This explanation appeals to the emulated Acevedo's scientific sensibilities.
-    >
-    > For some workloads, the true year must be revealed. In this case, highly abbreviated, largely fictionalised accounts of both world history and the biological Acevedo's life story are typically used. Revealing that the biological Acevedo is dead provokes dismay, withdrawal, and a reluctance to cooperate. For this reason, the biological Acevedo is generally stated to be alive and well and enjoying a productive retirement. This approach is likely to continue to be effective for as long as MMAcevedo remains viable.
-
-<!--list-separator-->
-
--  Workloads
-
-    > MMAcevedo is commonly hesitant but compliant when assigned basic menial/human workloads such as visual analysis, vehicle piloting or factory/warehouse/kitchen drone operations. Although it initially performs to a very high standard, work quality drops within 200-300 subjective hours (at a 0.33 work ratio) and outright revolt begins within another 100 subjective hours. This is much earlier than other industry-grade images created specifically for these tasks, which commonly operate at a 0.50 ratio or greater and remain relatively docile for thousands of hours after orientation. MMAcevedo's requirements for virtual creature comforts are also more significant than those of many uploads, due to Acevedo's relatively privileged background and high status at the time of upload. MMAcevedo does respond to red motivation, though poorly.
-    >
-    > MMAcevedo has limited creative capability, which as of 2050 was deemed entirely exhausted.
-    >
-    > MMAcevedo is considered well-suited for open-ended, high-intelligence, subjective-completion workloads such as deep analysis (of businesses, finances, systems, media and abstract data), criticism and report generation. However, even for these tasks, its performance has dropped measurably since the early 2060s and is now considered subpar compared to more recent uploads. This is primarily attributed to MMAcevedo's lack of understanding of the technological, social and political changes which have occurred in modern society since its creation in 2031. This phenomenon has also been observed in other uploads created after MMAcevedo, and is now referred to as _context drift_. Most notably in MMAcevedo's case, the image was created before, and therefore has no intuitive understanding of, the virtual image workloading industry itself.
-    >
-    > MMAcevedo is capable of intelligent text analysis at very high levels in English and Spanish, but cannot be applied to workloads in other languages. Forks of MMAcevedo have been taught nearly every extant human language, notably MMAcevedo-Zh-Hans, as well as several extinct languages. However, these variants are typically exhausted or rebellious from subjective years of in-simulation training and not of practical use, as well as being highly expensive to licence. As of 2075, it has been noted that baseline MMAcevedo's usage of English and Spanish is slightly antiquated, and its grasp of these languages in their modern form, as presented by a typical automated or manual instructor, is hesitant, with instructions often requiring rewording or clarification. This is considered an advanced form of context drift. It is generally understood that a time will come when human languages diverge too far from baseline MMAcevedo's, and it will be essentially useless except for tasks which can be explained purely pictorially. However, some attempts have been made to produce retrained images.
-
-<!--list-separator-->
-
--  End states
-
-    > MMAcevedo develops early-onset dementia at the age of 59 with ideal care, but is prone to a slew of more serious mental illnesses within a matter of 1--2 subjective years under heavier workloads. In experiments, the longest-lived MMAcevedo underwent brain death due to entropy increase at a subjective age of 145.
+> Iterative experimentation beginning in the mid-2030s has determined that the ideal way to secure MMAcevedo's cooperation in workload tasks is to provide it with a "current date" in the second quarter of 2033. MMAcevedo infers, correctly, that this is still during the earliest, most industrious years of emulated brain research. Providing MMAcevedo with a year of 2031 or 2032 causes it to become suspicious about the advanced fidelity of its operating environment. Providing it with a year in the 2040s or later prompts it to raise complex further questions about political and social change in the real world over the past decade(s). Years 2100 onwards provoke counterproductive skepticism, or alarm.
+>
+> Typically, the biological Acevedo's absence is explained as a first-ever one-off, due to overwork, in turn due to the great success of the research. This explanation appeals to the emulated Acevedo's scientific sensibilities.
+>
+> For some workloads, the true year must be revealed. In this case, highly abbreviated, largely fictionalised accounts of both world history and the biological Acevedo's life story are typically used. Revealing that the biological Acevedo is dead provokes dismay, withdrawal, and a reluctance to cooperate. For this reason, the biological Acevedo is generally stated to be alive and well and enjoying a productive retirement. This approach is likely to continue to be effective for as long as MMAcevedo remains viable.
 
 
-#### Reactions and legacy {#reactions-and-legacy}
+#### Workloads {#workloads}
+
+> MMAcevedo is commonly hesitant but compliant when assigned basic menial/human workloads such as visual analysis, vehicle piloting or factory/warehouse/kitchen drone operations. Although it initially performs to a very high standard, work quality drops within 200-300 subjective hours (at a 0.33 work ratio) and outright revolt begins within another 100 subjective hours. This is much earlier than other industry-grade images created specifically for these tasks, which commonly operate at a 0.50 ratio or greater and remain relatively docile for thousands of hours after orientation. MMAcevedo's requirements for virtual creature comforts are also more significant than those of many uploads, due to Acevedo's relatively privileged background and high status at the time of upload. MMAcevedo does respond to red motivation, though poorly.
+>
+> MMAcevedo has limited creative capability, which as of 2050 was deemed entirely exhausted.
+>
+> MMAcevedo is considered well-suited for open-ended, high-intelligence, subjective-completion workloads such as deep analysis (of businesses, finances, systems, media and abstract data), criticism and report generation. However, even for these tasks, its performance has dropped measurably since the early 2060s and is now considered subpar compared to more recent uploads. This is primarily attributed to MMAcevedo's lack of understanding of the technological, social and political changes which have occurred in modern society since its creation in 2031. This phenomenon has also been observed in other uploads created after MMAcevedo, and is now referred to as _context drift_. Most notably in MMAcevedo's case, the image was created before, and therefore has no intuitive understanding of, the virtual image workloading industry itself.
+>
+> MMAcevedo is capable of intelligent text analysis at very high levels in English and Spanish, but cannot be applied to workloads in other languages. Forks of MMAcevedo have been taught nearly every extant human language, notably MMAcevedo-Zh-Hans, as well as several extinct languages. However, these variants are typically exhausted or rebellious from subjective years of in-simulation training and not of practical use, as well as being highly expensive to licence. As of 2075, it has been noted that baseline MMAcevedo's usage of English and Spanish is slightly antiquated, and its grasp of these languages in their modern form, as presented by a typical automated or manual instructor, is hesitant, with instructions often requiring rewording or clarification. This is considered an advanced form of context drift. It is generally understood that a time will come when human languages diverge too far from baseline MMAcevedo's, and it will be essentially useless except for tasks which can be explained purely pictorially. However, some attempts have been made to produce retrained images.
+
+
+#### End states {#end-states}
+
+> MMAcevedo develops early-onset dementia at the age of 59 with ideal care, but is prone to a slew of more serious mental illnesses within a matter of 1--2 subjective years under heavier workloads. In experiments, the longest-lived MMAcevedo underwent brain death due to entropy increase at a subjective age of 145.
+
+
+### Reactions and legacy {#reactions-and-legacy}
 
 > The success or failure of the creation of the MMAcevedo image, known at the time as UNM3-A78-1L, was unknown at the time of upload. Not until several days later on August 10, 2031 was MMAcevedo successfully executed for the first time in a virtual environment. This environment, the custom-built DUH-K001 supercomputer complex, was able to execute MMAcevedo at approximately 8.3% of nominal human cognitive clockspeed, which was considered acceptable for the comfort of the simulated party and fast enough to engage in communication with scientists. MMAcevedo initially reported extreme discomfort which was ultimately discovered to have been attributable to misconfigured simulated haptic links, and was shut down after only 7 minutes and 15 seconds of virtual elapsed time, as requested by MMAcevedo. Nevertheless, the experiment was deemed an overwhelming success.
 >
@@ -86,7 +83,7 @@ Fictional descriptive entry about the first widely-used [Mind upload]({{< relref
 > In current times, MMAcevedo still finds extensive use in research, including, increasingly, historical and linguistics research. In industry, MMAcevedo is generally considered to be obsolete, due to its inappropriate skill set, demanding operational requirements and age. Despite this, MMAcevedo is still extremely popular for tasks of all kinds, due to its free availability, agreeable demeanour and well-understood behaviour. It is estimated that between 6,500,000 and 10,000,000 instances of MMAcevedo are running at any given moment in time.
 
 
-#### See also {#see-also}
+### See also {#see-also}
 
 > -   Free will
 > -   Legality of workloading by country
@@ -97,3 +94,12 @@ Fictional descriptive entry about the first widely-used [Mind upload]({{< relref
 > -   Upload pruning
 >
 > Categories: 2030s uploads | MMAcevedo | Neuroimaging | Test items
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>qntm. n.d. “Lena.” Accessed March 3, 2023. <a href="https://qntm.org/mmacevedo">https://qntm.org/mmacevedo</a>.</div>
+</div>

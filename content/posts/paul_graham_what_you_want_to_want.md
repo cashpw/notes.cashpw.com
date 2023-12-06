@@ -2,14 +2,14 @@
 title = "Paul Graham | What You (Want to)* Want"
 author = ["Cash Weaver"]
 date = 2023-01-14T07:57:00-08:00
-lastmod = 2023-11-10T11:09:21-08:00
+lastmod = 2023-12-05T14:34:42-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "6e6aa331-8dbf-4751-a896-ca5fc6c7128b"
 +++
 
-[Paul Graham]({{< relref "paul_graham.md" >}}), (Graham n.d.)
+[Paul Graham]({{< relref "paul_graham.md" >}}), (NO_ITEM_DATA:grahamWhatYouWantWant)
 
 
 ## Summary {#summary}
@@ -31,6 +31,15 @@ People can change lower-order desires (e.g. "I want to eat junk food" to "I don'
 > So we modify our initial statement: You can do what you want, but you can't want to want what you want.
 >
 > That's still not quite true. It's possible to change what you want to want. I can imagine someone saying "I decided to stop wanting to like classical music." But we're getting closer to the truth. It's rare for people to change what they want to want, and the more "want to"s we add, the rarer it gets.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:grahamWhatYouWantWant</div>
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Variance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-13T10:35:00-07:00
-lastmod = 2023-11-10T11:26:05-08:00
+lastmod = 2023-12-05T15:02:16-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -13,3 +13,11 @@ Cats
 
 
 ##  {#d41d8c}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

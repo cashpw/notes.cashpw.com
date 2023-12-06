@@ -2,7 +2,7 @@
 title = "Coordination"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-10T08:42:00-07:00
-lastmod = 2023-11-10T10:36:50-08:00
+lastmod = 2023-12-05T13:57:42-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -15,6 +15,14 @@ Related:
 
 -   [Game theory]({{< relref "game_theory.md" >}})
 -   [Coordination]({{< relref "alexanderMeditationsMoloch2014.md#coordination--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

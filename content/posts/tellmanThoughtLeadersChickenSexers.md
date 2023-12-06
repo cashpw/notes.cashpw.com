@@ -2,14 +2,14 @@
 title = "Zach Tellman | Thought Leaders and Chicken Sexers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T16:25:00-08:00
-lastmod = 2023-11-10T11:21:19-08:00
+lastmod = 2023-12-05T14:54:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "89af4069-9f38-4f2b-bdb4-491c2ae85a9c"
 +++
 
-[Zach Tellman]({{< relref "zach_tellman.md" >}}), (Tellman n.d.)
+[Zach Tellman]({{< relref "zach_tellman.md" >}}), (NO_ITEM_DATA:tellmanThoughtLeadersChickenSexers)
 
 
 ## Summary {#summary}
@@ -55,6 +55,15 @@ slug = "89af4069-9f38-4f2b-bdb4-491c2ae85a9c"
 > Graham writes "the call of the aggressively independent-minded is '[Eppur si muove]({{< relref "ItMoves2022.md" >}})," but he doesn't pause to consider that it is also ["EARTH HAS 4 CORNER SIMULTANEOUS 4-DAY TIME CUBE"](https://timecube.2enp.com/) and, more worryingly, ["Jews will not replace us"](https://en.wikipedia.org/wiki/White_genocide_conspiracy_theory). His model exists largely so he can focus on the one quadrant he finds interesting, but even that is a proxy for a much smaller group, the moral and intellectual heirs of Galileo, the people he intuits to be his peers. Graham doesn't work through the consequences of his own model because the model doesn't matter; what matters is sharing some things that feel right and true.
 >
 > This is all to say that Paul Graham is an effective marketer and practitioner, but a profoundly unserious public intellectual. His attempts to grapple with the major issues of the present, especially as they intersect with his personal legacy, are so mired in intuition and incuriosity that they're at best a distraction, and worst a real obstacle to understanding our paths forward.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:tellmanThoughtLeadersChickenSexers</div>
+</div>
 
 
 ## Backlinks {#backlinks}

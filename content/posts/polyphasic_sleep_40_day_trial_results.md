@@ -2,7 +2,7 @@
 title = "Polyphasic Sleep: 40 Day Trial Results"
 author = ["Cash Prokop-Weaver"]
 date = 2021-07-11T12:15:00-07:00
-lastmod = 2023-11-10T11:10:27-08:00
+lastmod = 2023-12-05T14:36:43-08:00
 draft = false
 slug = "6a214828-bea5-47be-bac7-0f0235b0ff3c"
 +++
@@ -111,6 +111,14 @@ I had started the trial to see if this sleep schedule is something I could maint
 More and more I noticed that I was doing about the same work/play/reading/etc just over a longer period of time. That is, I was awake more but didn't have more to show for it. I'm not writing off additional polyphasic sleep schedule trials in the future. However, I want to be sure that I make use of the additional hours. If I don't, then why not just keep sleeping through them?
 
 To that end I've changed my focus from "get more hours" to "do more with the hours I have". I'll take another look at polyphasic sleep once I get to the point where I feel I've maxed out the hours I already have.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

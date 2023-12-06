@@ -2,12 +2,12 @@
 title = "Michael Seibel | Three Paths in the Tech Industry: Founder, Executive, or Employee"
 author = ["Cash Prokop-Weaver"]
 date = 2021-11-27T07:00:00-08:00
-lastmod = 2023-11-10T11:23:23-08:00
+lastmod = 2023-12-05T14:57:24-08:00
 draft = true
 slug = "548362c8-b5a6-4d50-b459-543d321e49b6"
 +++
 
-Michael Seibel, (Seibel n.d.)
+Michael Seibel, (NO_ITEM_DATA:seibelThreePathsTechIndustryFounderExecutiveEmployee)
 
 
 ## Summary {#summary}
@@ -141,3 +141,12 @@ Perhaps the nuance I'm attempting to address is somewhere between meaningful wor
 #### Strategies for People Who Want to be Employees {#strategies-for-people-who-want-to-be-employees}
 
 > Your strategy for picking a place to work is similar to an exec's. You either need to spot and join a quickly growing company or find a way into a well known successful company. It's much easier to go between brand name companies when you start with a brand name company. Also, in my experience, it's much easier to optimize this path as a software developer.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:seibelThreePathsTechIndustryFounderExecutiveEmployee</div>
+</div>

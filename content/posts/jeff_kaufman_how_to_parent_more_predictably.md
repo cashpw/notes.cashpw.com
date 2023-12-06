@@ -2,7 +2,7 @@
 title = "Jeff Kaufman | How to Parent More Predictably"
 author = ["Cash Weaver"]
 date = 2023-11-06T08:16:00-08:00
-lastmod = 2023-11-10T10:57:56-08:00
+lastmod = 2023-12-05T14:17:28-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

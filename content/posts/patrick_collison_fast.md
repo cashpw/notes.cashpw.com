@@ -2,14 +2,14 @@
 title = "Patrick Collison | Fast"
 author = ["Cash Weaver"]
 date = 2023-10-26T20:05:00-07:00
-lastmod = 2023-11-10T11:09:13-08:00
+lastmod = 2023-12-05T14:34:26-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "266aa1b4-37b0-4775-b13f-b3be4849e425"
 +++
 
-[Patrick Collison]({{< relref "patrick_collison.md" >}}), (Collison n.d.)
+[Patrick Collison]({{< relref "patrick_collison.md" >}}), (<a href="#citeproc_bib_item_1">Collison n.d.</a>)
 
 
 ## Summary {#summary}
@@ -53,3 +53,12 @@ slug = "266aa1b4-37b0-4775-b13f-b3be4849e425"
 > -   **COVID-19 vaccines.** On January 10 2020, the SARS-CoV-2 genome was [published](https://virological.org/t/novel-2019-coronavirus-genome/319). 3 days later, Moderna [finalized](https://www.modernatx.com/modernas-work-potential-vaccine-against-covid-19) the sequence for [mRNA-1273](https://en.wikipedia.org/wiki/Moderna#COVID-19_vaccine_candidate), its mRNA vaccine candidate; the first batch was manufactured on February 7. On February 24 (45 days after genome publication), Moderna shipped the first batch of mRNA-1273 to the NIH for use in their Phase 1 clinical study. 266 days of clinical trials and regulatory coordination followed. On November 16, Moderna [announced](https://investors.modernatx.com/news-releases/news-release-details/modernas-covid-19-vaccine-candidate-meets-its-primary-efficacy) that the vaccine's efficacy was 94.5%. _Source: linked materials. Note: the BioNTech vaccine was produced on a similarly impressive timeline but I haven't yet tracked down sufficiently granular information about its development---pointers appreciated._
 >
 > San Francisco proposed a [new bus lane](https://www.sfexaminer.com/news/two-mile-long-van-ness-bus-lane-project-faces-two-year-delay/) on Van Ness in 2001. It opened in [2022](https://www.sfchronicle.com/sf/article/S-F-s-Van-Ness-transit-project-is-ready-after-17027218.php), yielding a project duration of around 7,600 days. "The project has been delayed due to an increase of wet weather since the project started," said Paul Rose, a San Francisco Municipal Transportation Agency spokesperson. The project cost $346 million, i.e. $110,000 per meter. The Alaska Highway, mentioned above, constructed across remote tundra, cost $793 per meter in 2019 dollars.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Collison, Patrick. n.d. “Fast.” Accessed October 27, 2023. <a href="https://patrickcollison.com/fast">https://patrickcollison.com/fast</a>.</div>
+</div>

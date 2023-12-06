@@ -2,7 +2,7 @@
 title = "Lagrange's notation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:05:00-08:00
-lastmod = 2023-11-10T11:00:56-08:00
+lastmod = 2023-12-05T14:21:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -35,12 +35,12 @@ slug = "b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Notation for Differentiation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Notation_for_differentiation&oldid=1120966008#Lagrangeʼs_notation">https://en.wikipedia.org/w/index.php?title=Notation_for_differentiation&#38;oldid=1120966008#Lagrange’s_notation</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Notation for Differentiation.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Notation_for_differentiation&oldid=1120966008#Lagrangeʼs_notation">https://en.wikipedia.org/w/index.php?title=Notation_for_differentiation&#38;oldid=1120966008#Lagrange’s_notation</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [Chain rule]({{< relref "chain_rule.md" >}})
--   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
 -   [Product rule]({{< relref "product_rule.md" >}})
+-   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Chain rule]({{< relref "chain_rule.md" >}})

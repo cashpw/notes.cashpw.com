@@ -2,7 +2,7 @@
 title = "Binomial coefficient"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:53:00-08:00
-lastmod = 2023-11-10T10:28:37-08:00
+lastmod = 2023-12-05T13:48:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,10 +23,19 @@ slug = "be5ebd31-6655-4f99-9325-2c41becd4dab"
 >
 > and the binomial coefficient \\(\tbinom {4}{2}}={\tfrac {4\times 3}{2\times 1}}={\tfrac {4!}{2!2!}}=6\\) is the coefficient of the \\(x^2\\) term.
 >
-> (“Binomial Coefficient” 2023)
+> (<a href="#citeproc_bib_item_1">“Binomial Coefficient” 2023</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binomial Coefficient.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Binomial_coefficient&oldid=1133587426">https://en.wikipedia.org/w/index.php?title=Binomial_coefficient&#38;oldid=1133587426</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}
 
--   [Combination]({{< relref "combination.md" >}})
 -   [Binomial theorem]({{< relref "binomial_theorem.md" >}})
+-   [Combination]({{< relref "combination.md" >}})

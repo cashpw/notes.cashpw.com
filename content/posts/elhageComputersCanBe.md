@@ -2,14 +2,14 @@
 title = "Nelson Elhage | Computers Can Be Understood"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2023-11-10T10:42:59-08:00
+lastmod = 2023-12-05T14:03:47-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "19ba13d6-259f-4734-a1be-aaa5d51fcd16"
 +++
 
-[Nelson Elhage]({{< relref "nelson_elhage.md" >}}), (Elhage n.d.)
+[Nelson Elhage]({{< relref "nelson_elhage.md" >}}), (NO_ITEM_DATA:elhageComputersCanBeUnderstood)
 
 
 ## Summary {#summary}
@@ -28,6 +28,15 @@ Related: [Be curious]({{< relref "be_curious.md" >}}).
 <!--quoteend-->
 
 > My advice for a practical upshot from this post would be: cultivate a deep sense of curiosity about the systems you work with. Ask questions about how they work, why they work that way, and how they were built. Ask yourself questions like "How would I have built this library?," identify the gaps where you don't know the answer, and add them to your mental backlog of topics to learn.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:elhageComputersCanBeUnderstood</div>
+</div>
 
 
 ## Backlinks {#backlinks}

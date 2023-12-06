@@ -2,7 +2,7 @@
 title = "Collector's fallacy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T17:28:00-07:00
-lastmod = 2023-11-10T10:34:51-08:00
+lastmod = 2023-12-05T13:55:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,7 +20,7 @@ Related: [The difference between knowing the name of something and knowing somet
 
 > Reading can be a trap, if it turns into a substitute for action.
 >
-> (COAGULOPATH 2023)
+> (<a href="#citeproc_bib_item_1">COAGULOPATH 2023</a>)
 
 
 ## Info gorging {#info-gorging}
@@ -33,7 +33,17 @@ Related: [The difference between knowing the name of something and knowing somet
 >
 > In many ways, information is like fast food in that it can overstimulate you, yet leave you wanting more. There is no other way out of this cycle than to acknowledge this condition and cut yourself off. You need strong faith in yourself and in the wisdom of the path you've chosen.
 >
-> (javajosh n.d.)
+> (NO_ITEM_DATA:javajoshCalledItInfoGorging)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>COAGULOPATH. 2023. “Reading Can Be a Tra.” Reddit Comment. <i>R/Slatestarcodex</i>. <a href="www.reddit.com/r/slatestarcodex/comments/122yllu/did_my_obsession_over_genius_books_turn_me_into_a/jdszxyd/">www.reddit.com/r/slatestarcodex/comments/122yllu/did_my_obsession_over_genius_books_turn_me_into_a/jdszxyd/</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:javajoshCalledItInfoGorging</div>
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -4,7 +4,7 @@ title = """
   """
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-28T21:11:00-07:00
-lastmod = 2023-11-10T10:52:54-08:00
+lastmod = 2023-12-05T14:12:27-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -30,4 +30,13 @@ It asked a crumb - of me.<br />
 
 </div>
 
-[Emily Dickinson]({{< relref "emily_dickinson.md" >}}), (Dickinson 2022)
+[Emily Dickinson]({{< relref "emily_dickinson.md" >}}), (<a href="#citeproc_bib_item_1">Dickinson 2022</a>)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Dickinson, Emily. 2022. “‘Hope’ Is the Thing with Feathers.” Text/Html. <i>Poetry Foundation</i>. Poetry Foundation. <a href="https://www.poetryfoundation.org/poems/42889/hope-is-the-thing-with-feathers-314">https://www.poetryfoundation.org/poems/42889/hope-is-the-thing-with-feathers-314</a>.</div>
+</div>

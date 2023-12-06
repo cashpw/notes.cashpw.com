@@ -2,14 +2,14 @@
 title = "Andy Matuschak | Evergreen Notes Should Be Atomic"
 author = ["Cash Weaver"]
 date = 2023-04-11T16:49:00-07:00
-lastmod = 2023-11-10T10:25:54-08:00
+lastmod = 2023-12-05T13:43:12-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "6ae97f03-6ce3-437e-88cf-a9f965839477"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (Matuschak n.d.)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (NO_ITEM_DATA:matuschakEvergreenNotesShouldBeAtomic)
 
 
 ## Notes {#notes}
@@ -23,8 +23,17 @@ slug = "6ae97f03-6ce3-437e-88cf-a9f965839477"
 > The notion is quite similar to the software engineering principle of _separation of concerns,_ which suggests that modules should only be "about" one thing, so that they're more easily reusable. But likewise, if you fragment modules too much, you'll have a cohesion problem. In this way, [Evergreen note titles are like APIs](https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C).
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:matuschakEvergreenNotesShouldBeAtomic</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
 -   [Cedric Chin | The Hard Thing About Learning From Experience]({{< relref "cedric_chin_the_hard_thing_about_learning_from_experience.md" >}})
--   [On writing cards]({{< relref "andy_matuschak_evergreen_notes_should_be_atomic.md#on-writing-cards" >}})
 -   [On parenting]({{< relref "andy_matuschak_evergreen_notes_should_be_atomic.md" >}})
+-   [On writing cards]({{< relref "andy_matuschak_evergreen_notes_should_be_atomic.md#on-writing-cards" >}})

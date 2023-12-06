@@ -2,7 +2,7 @@
 title = "Floyd-Warshall algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T10:12:00-08:00
-lastmod = 2023-11-10T10:46:20-08:00
+lastmod = 2023-12-05T14:07:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "d0a89ea1-4add-495b-8df4-1f27e9de71c6"
 
 > In computer science, the Floyd–Warshall algorithm (also known as Floyd's algorithm, the Roy–Warshall algorithm, the Roy–Floyd algorithm, or the WFI algorithm) is an algorithm for finding shortest paths in a directed weighted graph with positive or negative edge weights (but with no negative cycles).
 >
-> (“Floyd–Warshall Algorithm” 2022)
+> (<a href="#citeproc_bib_item_1">“FloydWarshall Algorithm” 2022</a>)
 
 
 ## Algorithm {#algorithm}
@@ -41,13 +41,22 @@ In pseudocode:
 >
 > ```
 >
-> (“Floyd–Warshall Algorithm” 2022)
+> (<a href="#citeproc_bib_item_1">“FloydWarshall Algorithm” 2022</a>)
 
 
 ## Complexity {#complexity}
 
 -   Time: \\(\bigtheta{|V|^3}\\)
 -   Space: \\(\bigtheta{|V|^2}\\)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“FloydWarshall Algorithm.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Floyd%E2%80%93Warshall_algorithm&oldid=1113259725">https://en.wikipedia.org/w/index.php?title=Floyd%E2%80%93Warshall_algorithm&#38;oldid=1113259725</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

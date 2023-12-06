@@ -2,7 +2,7 @@
 title = "Single-source shortest path with topological sort in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:08:00-08:00
-lastmod = 2023-11-10T11:17:05-08:00
+lastmod = 2023-12-05T14:47:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,6 +58,14 @@ def single_source_shortest_path(target_id: NodeId, topological_ordering: List[No
 
     return distances, previouses
 ```
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

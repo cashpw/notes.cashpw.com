@@ -2,7 +2,7 @@
 title = "Standard deviation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:08:00-08:00
-lastmod = 2023-11-10T11:18:53-08:00
+lastmod = 2023-12-05T14:50:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "f4de9f04-053d-4602-a81a-c4118e6ee3c2"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Standard Deviation.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Standard_deviation&oldid=1120954441">https://en.wikipedia.org/w/index.php?title=Standard_deviation&#38;oldid=1120954441</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Standard Deviation.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Standard_deviation&oldid=1120954441">https://en.wikipedia.org/w/index.php?title=Standard_deviation&#38;oldid=1120954441</a>.</div>
 </div>
 
 

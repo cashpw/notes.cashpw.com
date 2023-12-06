@@ -2,14 +2,14 @@
 title = "Ceramics exercises"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-10T19:13:00-08:00
-lastmod = 2023-11-10T10:32:52-08:00
+lastmod = 2023-12-05T13:53:36-08:00
 draft = false
 slug = "a500c749-aab9-4150-876f-6f40c76bba35"
 +++
 
 > If you're looking to improve quickly, the most important thing is to throw as much as possible. Prepare as many balls of clay as you think you can throw in one sitting, wrap them up in plastic, get on the wheel and throw. Like everyone else says, cylinders are a good place to start.
 >
-> (<a href="#citeproc_bib_item_2">SinkingJunk 2016</a>)
+> (NO_ITEM_DATA:sinkingjunkIfYouReLooking2016)
 
 Also see [Clary Illian | A Potter's Workbook]({{< relref "illianPotterWorkbook2012.md" >}}) and [Ceramics]({{< relref "ceramics.md" >}}).
 
@@ -36,9 +36,9 @@ Generally speaking, the best advice is to create [At least two of the same]({{< 
 Choose one or more of the following:
 
 -   Limit yourself to three pulls
--   "Pull as high as you can" (<a href="#citeproc_bib_item_2">SinkingJunk 2016</a>)
--   "Pulling large amounts of clay (getting &gt;50% of your height on your first pull)" (<a href="#citeproc_bib_item_2">SinkingJunk 2016</a>)
--   "Try to make 6 inch cylinders from one pound of clay. Realistically you're not going to do it (it's not easy, Idk if I could do it consistently) But it gives you a goal. You want even pulls and consistent thickness the whole way through." (<a href="#citeproc_bib_item_3">youre\_being\_creepy 2016</a>)
+-   "Pull as high as you can" (NO_ITEM_DATA:sinkingjunkIfYouReLooking2016)
+-   "Pulling large amounts of clay (getting &gt;50% of your height on your first pull)" (NO_ITEM_DATA:sinkingjunkIfYouReLooking2016)
+-   "Try to make 6 inch cylinders from one pound of clay. Realistically you're not going to do it (it's not easy, Idk if I could do it consistently) But it gives you a goal. You want even pulls and consistent thickness the whole way through." (<a href="#citeproc_bib_item_2">youre\_being\_creepy 2016</a>)
 
 
 ### Example: Intention {#example-intention}
@@ -62,9 +62,9 @@ Choose one or more of the following:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>i\_want\_that\_boat. 2016. “Definitely Agree Wit….” Reddit Comment. r/Pottery. February 27, 2016. <a href="www.reddit.com/r/Pottery/comments/47wf90/seeking_suggestions_for_beginners_throwing/d0g0qxj/">www.reddit.com/r/Pottery/comments/47wf90/seeking_suggestions_for_beginners_throwing/d0g0qxj/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>SinkingJunk. 2016. “If You’re Looking to….” Reddit Comment. r/Pottery. February 27, 2016. <a href="www.reddit.com/r/Pottery/comments/47wf90/seeking_suggestions_for_beginners_throwing/d0g8rmo/">www.reddit.com/r/Pottery/comments/47wf90/seeking_suggestions_for_beginners_throwing/d0g8rmo/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>youre\_being\_creepy. 2016. “Try to Make 6 Inch c….” Reddit Comment. r/Pottery. February 27, 2016. <a href="www.reddit.com/r/Pottery/comments/47wf90/seeking_suggestions_for_beginners_throwing/d0fxp8q/">www.reddit.com/r/Pottery/comments/47wf90/seeking_suggestions_for_beginners_throwing/d0fxp8q/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>i\_want\_that\_boat. 2016. “Definitely Agree Wit.” Reddit Comment. <i>R/Pottery</i>. <a href="www.reddit.com/r/Pottery/comments/47wf90/seeking_suggestions_for_beginners_throwing/d0g0qxj/">www.reddit.com/r/Pottery/comments/47wf90/seeking_suggestions_for_beginners_throwing/d0g0qxj/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>youre\_being\_creepy. 2016. “Try to Make 6 Inch c.” Reddit Comment. <i>R/Pottery</i>. <a href="www.reddit.com/r/Pottery/comments/47wf90/seeking_suggestions_for_beginners_throwing/d0fxp8q/">www.reddit.com/r/Pottery/comments/47wf90/seeking_suggestions_for_beginners_throwing/d0fxp8q/</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:sinkingjunkIfYouReLooking2016</div>
 </div>
 
 

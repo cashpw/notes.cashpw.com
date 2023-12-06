@@ -2,14 +2,14 @@
 title = "Nick Bostrom | The Fable of the Dragon Tyrant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-20T20:17:00-07:00
-lastmod = 2023-11-10T10:29:21-08:00
+lastmod = 2023-12-05T13:49:03-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "2a13c6a7-c74c-408b-b30e-69a18c9ad9ab"
 +++
 
-[Nick Bostrom]({{< relref "nick_bostrom.md" >}}), (Bostrom 2005)
+[Nick Bostrom]({{< relref "nick_bostrom.md" >}}), (<a href="#citeproc_bib_item_1">Bostrom 2005</a>)
 
 > Once upon a time, the planet was tyrannised by a giant dragon. The dragon stood taller than the largest cathedral, and it was covered with thick black scales. Its red eyes glowed with hate, and from its terrible jaws flowed an incessant stream of evil smelling yellowish green slime. It demanded from humankind a blood curdling tribute: to satisfy its enormous appetite, ten thousand men and women had to be delivered every evening at the onset of dark to the foot of the mountain where the dragon tyrant lived. Sometimes the dragon would devour these unfortunate souls upon arrival; sometimes again it would lock them up in the mountain where they would wither away for months or years before eventually being consumed.
 >
@@ -132,6 +132,15 @@ slug = "2a13c6a7-c74c-408b-b30e-69a18c9ad9ab"
 > The king, however, answered in a broken voice: "Yes, we did it, we killed the dragon today. But damn, why did we start so late? This could have been done five, maybe ten years ago! Millions of people wouldn't have had to die."
 >
 > The king stepped off the platform and walked up to the young man in handcuffs, who was sitting on the ground. There he fell down on his knees. "Forgive me! Oh my God, please forgive me!"
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Bostrom, N. 2005. “The Fable of the Dragon Tyrant.” <i>Journal of Medical Ethics</i> 31 (5): 273–77. <a href="https://doi.org/10.1136/jme.2004.009035">https://doi.org/10.1136/jme.2004.009035</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

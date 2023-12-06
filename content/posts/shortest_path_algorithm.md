@@ -2,7 +2,7 @@
 title = "Shortest path algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T06:03:00-08:00
-lastmod = 2023-11-10T11:16:32-08:00
+lastmod = 2023-12-05T14:46:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,15 +24,23 @@ slug = "555129b5-299e-4605-a2cd-9f77ebcede3d"
     -   [Floyd-Warshall algorithm]({{< relref "floyd_warshall_algorithm.md" >}})
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
+
 ## Backlinks {#backlinks}
 
--   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
 -   [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})
--   [Widest path problem]({{< relref "widest_path_problem.md" >}})
 -   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
--   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
 -   [December 2022]({{< relref "december_2022.md" >}})
--   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
 -   [Ali Kemal Sinop, Lisa Fawcett, Sreenivas Gollapudi, Kostas Kollias | Robust Routing Using Electrical Flows]({{< relref "ali_kemal_sinop_lisa_fawcett_sreenivas_gollapudi_kostas_kollias_robust_routing_using_electrical_flows.md" >}})
+-   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
+-   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
+-   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Widest path problem]({{< relref "widest_path_problem.md" >}})
 -   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})

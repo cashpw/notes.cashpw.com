@@ -2,14 +2,14 @@
 title = "Cedric Chin | Mental Strength in Judo, Mental Strength in Life"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:53:00-07:00
-lastmod = 2023-11-10T10:31:32-08:00
+lastmod = 2023-12-05T13:52:23-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "ca0214d4-646a-4600-9e00-6ddff78e74d6"
 +++
 
-TODO_AUTHOR, (Chin 2023)
+TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2023</a>)
 
 
 ## Summary {#summary}
@@ -19,6 +19,15 @@ TODO_AUTHOR, (Chin 2023)
 
 
 ## Notes {#notes}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2023. “Mental Strength in Judo, Mental Strength in Life.” <i>Commoncog</i>. <a href="https://commoncog.com/mental-strength-judo-life/">https://commoncog.com/mental-strength-judo-life/</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

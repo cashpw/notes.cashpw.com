@@ -2,7 +2,7 @@
 title = "Kevin Simler"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T14:47:00-08:00
-lastmod = 2023-11-10T11:00:00-08:00
+lastmod = 2023-12-05T14:20:16-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -10,6 +10,14 @@ slug = "2ea6df4a-a690-48c6-a5b6-1ca6f4bf87cf"
 +++
 
 -   Blogs at [Melting Asphalt](https://meltingasphalt.com/)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

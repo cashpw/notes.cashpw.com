@@ -2,12 +2,20 @@
 title = "Sophie from Mars"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T17:00:00-08:00
-lastmod = 2023-11-10T11:17:52-08:00
+lastmod = 2023-12-05T14:48:56-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
 slug = "759c24f9-38c8-4b52-9a7c-7de58e8a93a3"
 +++
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
+
 
 ## Backlinks {#backlinks}
 

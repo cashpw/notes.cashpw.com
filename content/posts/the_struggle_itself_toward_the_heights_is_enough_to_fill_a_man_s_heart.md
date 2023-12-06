@@ -2,7 +2,7 @@
 title = "The struggle itself toward the heights is enough to fill a man's heart"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T12:34:00-07:00
-lastmod = 2023-11-10T11:22:26-08:00
+lastmod = 2023-12-05T14:56:00-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -11,7 +11,7 @@ slug = "fa7e7f3e-1fb6-4769-81cd-c2a200b2becf"
 
 > The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.
 >
-> (<a href="#citeproc_bib_item_1">Camus and O’Brien 1991</a>)
+> (NO_ITEM_DATA:camusMythSisyphusOtherEssays1991)
 
 
 ## Bibliography {#bibliography}
@@ -19,7 +19,7 @@ slug = "fa7e7f3e-1fb6-4769-81cd-c2a200b2becf"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Camus, Albert, and Justin O’Brien. 1991. <i>The Myth of Sisyphus and Other Essays</i>. New York: Vintage Books. <a href="http://banq.lib.overdrive.com/ContentDetails.htm?id=83022612-B2C3-4305-BDB3-21C18D2A1763">http://banq.lib.overdrive.com/ContentDetails.htm?id=83022612-B2C3-4305-BDB3-21C18D2A1763</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:camusMythSisyphusOtherEssays1991</div>
 </div>
 
 

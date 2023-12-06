@@ -2,7 +2,7 @@
 title = "Asymmetric game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2023-11-10T10:26:44-08:00
+lastmod = 2023-12-05T13:44:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,3 +16,11 @@ In [Game theory]({{< relref "game_theory.md" >}}), an [Asymmetric game]({{< relr
 
 -   [Ultimatum game]({{< relref "ultimatum_game.md" >}})
 -   [Dictator game]({{< relref "dictator_game.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

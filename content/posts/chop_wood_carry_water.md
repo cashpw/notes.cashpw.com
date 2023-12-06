@@ -2,7 +2,7 @@
 title = "Chop wood, carry water"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:01:00-07:00
-lastmod = 2023-11-10T10:33:38-08:00
+lastmod = 2023-12-05T13:54:35-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -12,6 +12,14 @@ slug = "465e012a-7d64-4f19-8f52-f872ba68680c"
 > Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
 >
 > Zen Proverb
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

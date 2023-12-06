@@ -2,14 +2,14 @@
 title = "John Salvatier | Reality Has a Surprising Amount of Detail"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:29:00-08:00
-lastmod = 2023-11-10T11:14:52-08:00
+lastmod = 2023-12-05T14:43:58-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "16937276-fd62-4d50-90ef-cdf5ab036442"
 +++
 
-(Salvatier n.d.)
+(NO_ITEM_DATA:salvatierRealityHasSurprisingAmountDetail)
 
 
 ## Summary {#summary}
@@ -76,6 +76,15 @@ These details are difficult to identify since they are mostly-invisible before a
 > This problem is not easy to fix, but it's not impossible either. I've mostly fixed it for myself. The direction for improvement is clear: seek detail you would not normally notice about the world [[Draw the rest of the owl]({{< relref "draw_the_rest_of_the_owl.md" >}})]. When you go for a walk, notice the unexpected detail in a flower or what the seams in the road imply about how the road was built. When you talk to someone who is smart but just seems so wrong, figure out what details seem important to them and why. In your work, notice how that meeting actually wouldn't have accomplished much if Sarah hadn't pointed out that one thing. As you learn, notice which details actually change how you think.
 >
 > If you wish to not get stuck, seek to perceive what you have not yet perceived.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:salvatierRealityHasSurprisingAmountDetail</div>
+</div>
 
 
 ## Backlinks {#backlinks}

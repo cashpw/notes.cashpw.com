@@ -2,7 +2,7 @@
 title = "Desirable difficulty"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:03:00-08:00
-lastmod = 2023-11-10T10:23:15-08:00
+lastmod = 2023-12-05T13:37:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,15 +32,15 @@ Examples include:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Desirable Difficulty.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Desirable_difficulty&oldid=1065561009">https://en.wikipedia.org/w/index.php?title=Desirable_difficulty&#38;oldid=1065561009</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Desirable Difficulty.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Desirable_difficulty&oldid=1065561009">https://en.wikipedia.org/w/index.php?title=Desirable_difficulty&#38;oldid=1065561009</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
 -   [Embrace discomfort]({{< relref "DesirableDifficulty2022.md" >}})
--   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
 -   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
+-   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
 -   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
 -   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

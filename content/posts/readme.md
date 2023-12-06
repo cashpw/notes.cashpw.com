@@ -2,7 +2,7 @@
 title = "README"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T20:32:00-08:00
-lastmod = 2023-11-10T11:12:58-08:00
+lastmod = 2023-12-05T14:40:51-08:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -17,3 +17,11 @@ Related to the [Metagame]({{< relref "the_metagame.md" >}}) of taking notes:
 
 -   [How I write notes]({{< relref "how_i_write_notes.md" >}})
 -   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

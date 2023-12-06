@@ -2,14 +2,14 @@
 title = "Ali Kemal Sinop, Lisa Fawcett, Sreenivas Gollapudi, Kostas Kollias | Robust Routing Using Electrical Flows"
 author = ["Cash Weaver"]
 date = 2023-03-24T16:56:00-07:00
-lastmod = 2023-11-10T10:25:17-08:00
+lastmod = 2023-12-05T13:42:03-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "5db2d60d-f58e-43ed-80d8-b1826abaccd1"
 +++
 
-TODO_AUTHOR, (Sinop et al. 2021)
+TODO_AUTHOR, (NO_ITEM_DATA:sinopRobustRoutingUsingElectricalFlows2021)
 
 
 ## Summary {#summary}
@@ -70,3 +70,12 @@ Daniel A. Spielman and Shang-Hua Teng. 2004. Nearly-linear time algorithms for g
 ### Read Alternative routes in road networks {#read-alternative-routes-in-road-networks}
 
 Ittai Abraham, Daniel Delling, Andrew V. Goldberg, and Renato F. Werneck. 2013. Alternative routes in road networks. ACM J. Exp. Algorithmics 18 (2013).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:sinopRobustRoutingUsingElectricalFlows2021</div>
+</div>

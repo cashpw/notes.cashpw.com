@@ -2,7 +2,7 @@
 title = "Coefficient"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:33:00-08:00
-lastmod = 2023-11-10T10:34:19-08:00
+lastmod = 2023-12-05T13:55:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "8163639a-02be-4d0e-9aad-b2f4c676f125"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Coefficient.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Coefficient&oldid=1122490476">https://en.wikipedia.org/w/index.php?title=Coefficient&#38;oldid=1122490476</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Coefficient.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Coefficient&oldid=1122490476">https://en.wikipedia.org/w/index.php?title=Coefficient&#38;oldid=1122490476</a>.</div>
 </div>
 
 

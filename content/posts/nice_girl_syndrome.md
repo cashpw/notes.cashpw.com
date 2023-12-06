@@ -2,14 +2,14 @@
 title = "People pleaser"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-20T11:37:00-07:00
-lastmod = 2023-11-10T11:07:10-08:00
+lastmod = 2023-12-05T14:30:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "47e96222-94d6-4aa5-bb44-3a350c1a7023"
 +++
 
-People pleasing is a personality or behavioral trait: "An obsequious, subservient person, especially in a workplace" (“People Pleaser” 2023). Related: [Sociotropy]({{< relref "sociotropy.md" >}}).
+People pleasing is a personality or behavioral trait: "An obsequious, subservient person, especially in a workplace" (<a href="#citeproc_bib_item_1">“People Pleaser” 2023</a>). Related: [Sociotropy]({{< relref "sociotropy.md" >}}).
 
 
 ## In women {#in-women}
@@ -18,7 +18,7 @@ People pleasing is a personality or behavioral trait: "An obsequious, subservien
 
 > Nice Girl Syndrome: Nice girls suffer from "the disease to please" - they put their needs behind everyone else's.
 >
-> (Engel 2008)
+> (NO_ITEM_DATA:engelNiceGirlSyndromeStopBeingManipulatedAbusedStartStandingYourself2008)
 
 <!--quoteend-->
 
@@ -26,10 +26,21 @@ People pleasing is a personality or behavioral trait: "An obsequious, subservien
 >
 > Think about the term "good girl" itself: It conjures images of quiet, compliant, pretty girls who take care of others and don't cause trouble.
 >
-> (“6 Signs You Have “Good Girl Syndrome’” 2023)
+> (NO_ITEM_DATA:SignsYouHaveGoodGirlSyndrome2023)
 
 <!--quoteend-->
 
 > The messages you received from your family or your childhood experiences may have caused you to believe that assertiveness is unacceptable or even dangerous.
 >
-> (Engel 2008)
+> (NO_ITEM_DATA:engelNiceGirlSyndromeStopBeingManipulatedAbusedStartStandingYourself2008)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“People Pleaser.” 2023. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=people_pleaser&oldid=71723563">https://en.wiktionary.org/w/index.php?title=people_pleaser&#38;oldid=71723563</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:SignsYouHaveGoodGirlSyndrome2023</div>
+  <div class="csl-entry">NO_ITEM_DATA:engelNiceGirlSyndromeStopBeingManipulatedAbusedStartStandingYourself2008</div>
+</div>

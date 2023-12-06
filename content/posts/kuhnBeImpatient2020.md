@@ -2,14 +2,14 @@
 title = "Ben Kuhn | Be Impatient"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:36:00-08:00
-lastmod = 2023-11-10T11:00:36-08:00
+lastmod = 2023-12-05T14:20:55-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "2149d460-f6e0-4696-b34d-c2cc2228d8db"
 +++
 
-[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (Kuhn 2020)
+[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn 2020</a>)
 
 One of my [Favorites]({{< relref "favorites.md" >}}).
 
@@ -43,8 +43,17 @@ Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
 > That means that moving quickly is an advantage that compounds. Being twice as fast doesn't just double your output; it doubles the growth rate of your output. Over time, that makes an enormous difference.
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Be Impatient.” <a href="https://www.benkuhn.net/impatient/">https://www.benkuhn.net/impatient/</a>.</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
 -   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
--   [Speed is a virtue]({{< relref "speed_is_a_virtue.md" >}})
 -   [Blogroll]({{< relref "blogroll.md" >}})
+-   [Speed is a virtue]({{< relref "speed_is_a_virtue.md" >}})

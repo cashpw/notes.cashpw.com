@@ -2,14 +2,14 @@
 title = "Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing"
 author = ["Cash Weaver"]
 date = 2023-01-12T16:09:00-08:00
-lastmod = 2023-11-10T10:59:40-08:00
+lastmod = 2023-12-05T14:19:43-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "ca067526-19a1-4996-a9fb-be54b7e86dd5"
 +++
 
-[Kaj Sotala]({{< relref "kaj_sotala.md" >}}), (Sotala 2017)
+[Kaj Sotala]({{< relref "kaj_sotala.md" >}}), (NO_ITEM_DATA:sotalaNobodyDoesThingThatTheyAreSupposedlyDoing2017)
 
 
 ## Summary {#summary}
@@ -42,6 +42,15 @@ slug = "ca067526-19a1-4996-a9fb-be54b7e86dd5"
 > Additionally, the things that do drive human behavior are often things like [maintaining a self-concept](https://kajsotala.fi/2017/07/how-i-found-fixed-the-root-problem-behind-my-depression-and-anxiety-after-20-years/), seeking feelings of [connection, autonomy and competence](https://en.wikipedia.org/wiki/Self-determination_theory), [maintaining](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0131613) [status](https://web.archive.org/web/20080513074310/http://www.thestage.co.uk/connect/acblack/improkj.php), enforcing [various moral intuitions](http://www.moralpsych.net/s/haidt-2001.pdf), etc., things that only loosely align one's behavior with one's stated goals. Often people may not even realize what exactly it is that they are trying to achieve with their behavior.
 >
 > ["Experiental pica" is a misdirected craving](https://lesswrong.com/lw/15w/experiential_pica/) for something that doesn't actually fulfill the need behind the craving. The term originally comes from [a condition](https://en.wikipedia.org/wiki/Pica_(disorder)) where people with a mineral deficiency start eating things like ice, which don't actually help with the deficiency. Recently I've been shifting towards the perspective that, to a first approximation, roughly _everything_ that people do is pica for some deeper desire, with that deeper desire being something like social connection, feeling safe and accepted, or having a feeling of autonomy or competence. That is, most of the things that people will give as reasons for why they are doing something will [actually miss the mark](https://lesswrong.com/lw/6p6/the_limits_of_introspection/), and also that many people are engaging in things that are actually relatively inefficient ways of achieving their true desires, such as pursuing career success when the real goal is social connection. (This doesn't mean that the underlying desire would _never_ be fulfilled, just that it gets fulfilled less often than it would if people were aware of their true desires.)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:sotalaNobodyDoesThingThatTheyAreSupposedlyDoing2017</div>
+</div>
 
 
 ## Backlinks {#backlinks}

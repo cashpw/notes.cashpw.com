@@ -2,14 +2,14 @@
 title = "Gwern Branwen | Laws of Tech: Commoditize Your Complement"
 author = ["Cash Weaver"]
 date = 2022-11-22T16:13:00-08:00
-lastmod = 2023-11-10T10:50:46-08:00
+lastmod = 2023-12-05T14:10:53-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "b852fb7f-66e6-4bbf-ba60-548f55e8df5b"
 +++
 
-[Gwern Branwen]({{< relref "gwern_branwen.md" >}}), (Branwen 2018)
+[Gwern Branwen]({{< relref "gwern_branwen.md" >}}), (NO_ITEM_DATA:branwenLawsTechCommoditizeYourComplement2018)
 
 
 ## Summary {#summary}
@@ -22,13 +22,13 @@ slug = "b852fb7f-66e6-4bbf-ba60-548f55e8df5b"
 
 > Any product is the joint outcome of a large number of individual components, each of which layers is necessary but not sufficient to the final valuable use of the entire stack put together; a smartphone is not much good without a power-efficient sensitive radio, but the radio is not much good without a good OS on top of it, and a good OS is not much good either without great apps like web browsers (and is a web browser all that useful if there aren't useful websites to use in it, and where are the languages &amp; compilers for all this coming from anyway…?).
 >
-> (Branwen 2018)
+> (NO_ITEM_DATA:branwenLawsTechCommoditizeYourComplement2018)
 
 <!--quoteend-->
 
 > Another way that I like to express that is "create a desert of profitability around you". I once had a strategy professor define the Google business model somewhat like that, where "Google tries to make every other business around it free or irrelevant"…A desert of profitability shifts consumers to you, and keeps competitors away.
 >
-> (Branwen 2018)
+> (NO_ITEM_DATA:branwenLawsTechCommoditizeYourComplement2018)
 
 <!--quoteend-->
 
@@ -38,7 +38,16 @@ slug = "b852fb7f-66e6-4bbf-ba60-548f55e8df5b"
 >
 > Done correctly, this is effective at perpetuating incumbents' long-term control of markets &amp; justifies their enormous valuations—by definition, the competitors elsewhere in the stack, who might develop a chokepoint, are too numerous, fragmented, and low-margin to invest substantially into threatening R&amp;D4 or long-term strategic initiatives, and any upstart startups can be relatively easily bought out or suppressed (eg. Instagram or WhatsApp). Nor does this require convoluted explanations like "they are pretending to not be monopolists" or fully general unfalsifiable claims like "it's good PR" for why big companies like Google steadily fund so many apparently oddball projects like new foreign language fonts (or free TrueType fonts &amp; TrueType itself) or open source TCP/​IP protocol replacements, which are neither directly profitable nor well-known nor impressively charitable—but do have clear explanations in terms of business objectives like "driving more mobile web browsing" (thus allowing Google to show them more ads, because the complement, mobile web browsing, has become cheaper/​easier). I wonder if this also explains some of the striking copycat behavior we see sometimes—as entities get worried something might be a commodifier, either because it is crucial but was formerly considered 'neutral' or because they assume the other entity knows something they don't. (Google cared little about an also-ran code-hosting site like GitLab other than some VC investment—well, right up until Microsoft outbid it for Github &amp; Github became free for individual developers &amp; acquired NPM⁠, and then suddenly GitLab becomes a unicorn with even more VC from Google &amp; others.)
 >
-> (Branwen 2018)
+> (NO_ITEM_DATA:branwenLawsTechCommoditizeYourComplement2018)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:branwenLawsTechCommoditizeYourComplement2018</div>
+</div>
 
 
 ## Backlinks {#backlinks}

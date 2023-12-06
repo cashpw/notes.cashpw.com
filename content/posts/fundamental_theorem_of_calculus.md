@@ -2,7 +2,7 @@
 title = "Fundamental theorem of calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:59:00-08:00
-lastmod = 2023-11-10T10:47:27-08:00
+lastmod = 2023-12-05T14:08:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,7 +43,7 @@ slug = "adda1031-550c-4f65-9384-1ee018532adc"
 
 > \\(\frac{d}{dx}(\int\_{\pi}^x \frac{\href{/posts/cosine}{\cos}^2t}{\ln(t-\sqrt{t})}dt) = \frac{\href{/posts/cosine}{\cos}^2x}{\ln(x-\sqrt{x})}\\)
 >
-> (<a href="#citeproc_bib_item_2">Khan Academy n.d.</a>)
+> (NO_ITEM_DATA:khanacademyFundamentalTheoremCalculusAccumulationFunctions)
 
 
 ## Second part {#second-part}
@@ -65,7 +65,7 @@ slug = "adda1031-550c-4f65-9384-1ee018532adc"
 >
 > [paraphrased]
 >
-> (<a href="#citeproc_bib_item_1">“Fundamental Theorem of Calculus” 2022</a>), (<a href="#citeproc_bib_item_3">Khan Academy 2013</a>)
+> (<a href="#citeproc_bib_item_1">“Fundamental Theorem of Calculus” 2022</a>), (NO_ITEM_DATA:khanacademyFundamentalTheoremCalculusPartAPCalculusKhanAcademy2013)
 
 
 ## Bibliography {#bibliography}
@@ -73,9 +73,9 @@ slug = "adda1031-550c-4f65-9384-1ee018532adc"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Fundamental Theorem of Calculus.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&oldid=1126224108">https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&#38;oldid=1126224108</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Khan Academy. n.d. “The Fundamental Theorem of Calculus and Accumulation Functions.” Accessed January 27, 2023. <a href="https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-4/v/fundamental-theorem-of-calculus">https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-4/v/fundamental-theorem-of-calculus</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———, ed. 2013. <i>Fundamental Theorem of Calculus (Part 2) | AP Calculus AB | Khan Academy</i>. Directed by Khan Academy. <a href="https://www.youtube.com/watch?v=JbfVrwxuPxM">https://www.youtube.com/watch?v=JbfVrwxuPxM</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Fundamental Theorem of Calculus.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&oldid=1126224108">https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&#38;oldid=1126224108</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:khanacademyFundamentalTheoremCalculusPartAPCalculusKhanAcademy2013</div>
+  <div class="csl-entry">NO_ITEM_DATA:khanacademyFundamentalTheoremCalculusAccumulationFunctions</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Carol Dweck"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:45:00-07:00
-lastmod = 2023-11-10T10:30:39-08:00
+lastmod = 2023-12-05T13:51:13-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -13,6 +13,14 @@ Among other things:
 
 
 ## :noexport: {#noexport}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

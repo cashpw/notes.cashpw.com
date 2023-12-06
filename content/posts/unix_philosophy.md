@@ -2,7 +2,7 @@
 title = "Unix philosophy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:46:00-08:00
-lastmod = 2023-11-10T11:25:31-08:00
+lastmod = 2023-12-05T15:01:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "4ab64054-a7a8-432e-bd5b-da1d8a01ae16"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Unix Philosophy.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Unix_philosophy&oldid=1115980075">https://en.wikipedia.org/w/index.php?title=Unix_philosophy&#38;oldid=1115980075</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Unix Philosophy.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Unix_philosophy&oldid=1115980075">https://en.wikipedia.org/w/index.php?title=Unix_philosophy&#38;oldid=1115980075</a>.</div>
 </div>
 
 

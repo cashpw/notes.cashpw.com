@@ -2,7 +2,7 @@
 title = "Taboo games"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T14:56:00-08:00
-lastmod = 2023-11-10T10:56:31-08:00
+lastmod = 2023-12-05T14:15:33-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -14,6 +14,14 @@ Name is a work-in-progress. I expect someone else has a name for this idea and I
 Taboo games are [games]({{< relref "game_theory.md" >}}) which have good strategies which are dependent on ones opponents not knowing you're playing the game. They're usually social games we're all already playing like status, likability, etc, where you're punished if you call attention to the game itself. A losing strategy in gaining popularity is going around telling people directly that you're trying to be more popular -- the game's "rules" say to punish people who call attention to the game.
 
 Related: [Signaling]({{< relref "signaling.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

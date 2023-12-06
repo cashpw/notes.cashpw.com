@@ -2,7 +2,7 @@
 title = "This sentence has five words"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T17:05:00-08:00
-lastmod = 2023-11-10T11:23:07-08:00
+lastmod = 2023-12-05T14:57:00-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -15,7 +15,16 @@ slug = "3e310bff-729b-429b-9e10-769422c75561"
 >
 > So write with a combination of short, medium, and long sentences. Create a sound that pleases the reader's ear. Don't just write words. Write music."
 >
-> [Gary Provost]({{< relref "gary_provost.md" >}}), (Provost 2014)
+> [Gary Provost]({{< relref "gary_provost.md" >}}), (NO_ITEM_DATA:provost100WaysImproveYourWriting2014)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:provost100WaysImproveYourWriting2014</div>
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,14 +2,14 @@
 title = "Scott Alexander | Epistemic Learned Helplessness"
 author = ["Cash Weaver"]
 date = 2023-01-10T08:59:00-08:00
-lastmod = 2023-11-10T11:15:20-08:00
+lastmod = 2023-12-05T14:44:55-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "71aa6edb-f5a1-4e8b-88b9-5e5e807edceb"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (Alexander 2019)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2019</a>)
 
 
 ## Summary {#summary}
@@ -48,6 +48,15 @@ Arguments in domains you're not familiar with can _sound_ convincing even if the
 <!--quoteend-->
 
 > Responsible doctors are at the other end of the spectrum from terrorists here. I once heard someone rail against how doctors totally ignored all the latest and most exciting medical studies. The same person, practically in the same breath, then railed against how 50% to 90% of medical studies are wrong. These two observations are not unrelated. Not only are there so many terrible studies, but pseudomedicine (not the stupid homeopathy type, but the type that links everything to some obscure chemical on an out-of-the-way metabolic pathway) has, for me, proven much like pseudohistory – unless I am an expert in that particular subsubfield of medicine, it can sound very convincing even when it's very wrong.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Epistemic Learned Helplessness.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/">https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

@@ -2,14 +2,14 @@
 title = "Camille Fournier | An Incomplete List of Skills Senior Engineers Need, beyond Coding"
 author = ["Cash Weaver"]
 date = 2023-03-20T09:44:00-07:00
-lastmod = 2023-11-10T10:30:31-08:00
+lastmod = 2023-12-05T13:50:55-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "9f7ed9dc-46f1-4f12-a87e-cd03005c06dd"
 +++
 
-[Camille Fournier]({{< relref "camille_fournier.md" >}}), (Fournier 2021)
+[Camille Fournier]({{< relref "camille_fournier.md" >}}), (NO_ITEM_DATA:fournierIncompleteListSkillsSeniorEngineersNeedCoding2021)
 
 
 ## Summary {#summary}
@@ -47,7 +47,16 @@ slug = "9f7ed9dc-46f1-4f12-a87e-cd03005c06dd"
 > 23. How to take negative feedback gracefully
 
 
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:fournierIncompleteListSkillsSeniorEngineersNeedCoding2021</div>
+</div>
+
+
 ## Backlinks {#backlinks}
 
--   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})

@@ -2,14 +2,14 @@
 title = "Cedric Chin | How to Use YouTube to Learn Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:59:00-07:00
-lastmod = 2023-11-10T10:31:25-08:00
+lastmod = 2023-12-05T13:52:17-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "03073c64-f73f-41cf-a961-052d0648740e"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2020)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinHowUseYouTubeLearnTacitKnowledge2020)
 
 
 ## Summary {#summary}
@@ -81,6 +81,15 @@ YouTube, and video in general, is a wealth of tacit knowledge. Seek out a combin
 > 3.  There will be times when the technique fails. Watch those as well and try to understand what went wrong.
 > 4.  Try and look out for variations. These variations represent changes in the action script associated with the prototype in the expert's head. Sometimes these differences are very subtle, but they are significant. Understanding the variations will give you a better grasp of the technique.
 > 5.  It is usually helpful to watch the technique in slow motion. Download the clip and slo-mo it yourself using a free video editing program.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:chinHowUseYouTubeLearnTacitKnowledge2020</div>
+</div>
 
 
 ## Backlinks {#backlinks}

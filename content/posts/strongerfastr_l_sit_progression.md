@@ -2,14 +2,14 @@
 title = "Strongerfastr | L-Sit Progression"
 author = ["Cash Weaver"]
 date = 2023-07-06T08:04:00-07:00
-lastmod = 2023-11-10T11:19:34-08:00
+lastmod = 2023-12-05T14:51:37-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "071d0f47-4999-41d7-b312-4cd08da3d66f"
 +++
 
-(Strongerfastr n.d.)
+(<a href="#citeproc_bib_item_1">Strongerfastr n.d.</a>)
 
 
 ## Summary {#summary}
@@ -48,3 +48,12 @@ slug = "071d0f47-4999-41d7-b312-4cd08da3d66f"
 ### Level 5: L-sit {#level-5-l-sit}
 
 > {{< figure src="/ox-hugo/2023-07-06_08-06-03_hq_thumb_dad55b82637e08c95d537ed46f981463-1508215500.jpg" >}}
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Strongerfastr. n.d. “L-Sit Progression.” Accessed July 6, 2023. <a href="https://www.strongrfastr.com/exercise_progressions/9">https://www.strongrfastr.com/exercise_progressions/9</a>.</div>
+</div>

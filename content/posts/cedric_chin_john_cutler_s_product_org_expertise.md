@@ -2,14 +2,14 @@
 title = "Cedric Chin | John Cutler's Product Org Expertise"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:35:00-07:00
-lastmod = 2023-11-10T10:31:28-08:00
+lastmod = 2023-12-05T13:52:21-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "f064b5ef-9576-4957-8882-30ebe383d23d"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (Chin 2021)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinJohnCutlerProductOrgExpertise2021)
 
 
 ## Summary {#summary}
@@ -30,6 +30,15 @@ An example of the first two parts of [Applied cognitive task analysis]({{< relre
 > The second call went much better.
 >
 > I think the biggest mistake that I did was that I grossly underestimated the amount of time it would take to do the whole skill extraction exercise. I scheduled an hour for our first call, whereas a more appropriate length might've been two hours. In the end, we did two separate calls together, the first being 1.5 hours long, and the second two hours long. It's hard to say if these times are normal, but I wouldn't go below two hours in the future.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:chinJohnCutlerProductOrgExpertise2021</div>
+</div>
 
 
 ## Backlinks {#backlinks}

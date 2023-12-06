@@ -2,7 +2,7 @@
 title = "Centering matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T09:48:00-07:00
-lastmod = 2023-11-10T10:32:41-08:00
+lastmod = 2023-12-05T13:53:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ slug = "87b4549f-d8f7-44ec-b11e-4fa14166f157"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Centering Matrix.” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Centering_matrix&oldid=1027624781">https://en.wikipedia.org/w/index.php?title=Centering_matrix&#38;oldid=1027624781</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Centering Matrix.” 2021. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Centering_matrix&oldid=1027624781">https://en.wikipedia.org/w/index.php?title=Centering_matrix&#38;oldid=1027624781</a>.</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 title = "Custom Anki Notes"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-11T11:30:00-08:00
-lastmod = 2023-11-10T10:37:32-08:00
+lastmod = 2023-12-05T13:58:24-08:00
 draft = false
 slug = "a32b0bd9-5555-4630-b486-4d070fb5c7f0"
 +++
@@ -122,3 +122,11 @@ For mathematical equivalencies: `A = B = C`.
 The `Equivalence` note includes six pairs of fields for an expression and label: `Expression1`, `Label1`, `Expression2`, `Label2`, etc. The labels are used to imitate the appearance of a labeled Cloze deletion (eg: "The quick [color] fox jumps over the lazy dog"). Up to 30 cards are created for each instance of this note to account for all combinations of the six pairs of fields.
 
 [Download Equivalence note](https://drive.google.com/file/d/1pF_iPI5bSd7xfmgyVj1D6T4Xb7P1Wmtm/view?usp=sharing)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

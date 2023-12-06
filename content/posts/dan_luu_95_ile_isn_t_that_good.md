@@ -2,7 +2,7 @@
 title = "Dan Luu | 95%-Ile Isn't That Good"
 author = ["Cash Weaver"]
 date = 2023-10-27T08:31:00-07:00
-lastmod = 2023-11-10T10:37:49-08:00
+lastmod = 2023-12-05T13:58:40-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

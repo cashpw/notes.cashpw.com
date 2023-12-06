@@ -2,14 +2,14 @@
 title = "ExRx | Press Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T11:04:00-07:00
-lastmod = 2023-11-10T10:44:25-08:00
+lastmod = 2023-12-05T14:05:19-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "98db4092-29da-45aa-b2a8-5837a5f0697a"
 +++
 
-[ExRx]({{< relref "exrx.md" >}}), (ExRx n.d.)
+[ExRx]({{< relref "exrx.md" >}}), (NO_ITEM_DATA:exrxPressStrengthStandardsAges1839Lb)
 
 
 ## Notes {#notes}
@@ -53,6 +53,15 @@ Numbers are in pounds.
 > | 181         | 50        | 70     | 80           | 110      | 140   | 211          |
 > | 198         | 55        | 75     | 85           | 115      | 150   | 213          |
 > | 199+        | 60        | 80     | 95           | 125      | 160   | 231          |
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:exrxPressStrengthStandardsAges1839Lb</div>
+</div>
 
 
 ## Backlinks {#backlinks}

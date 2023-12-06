@@ -2,7 +2,7 @@
 title = "std::unique_ptr"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T10:01:00-07:00
-lastmod = 2023-11-10T11:19:07-08:00
+lastmod = 2023-12-05T14:50:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,7 @@ A part of the [Standard Library (C++)]({{< relref "c_standard_library.md" >}}).
 
 > `std::unique_ptr` is a smart pointer [[Smart pointer]({{< relref "smart_pointer.md" >}})] that owns and manages another object through a pointer and disposes of that object when the `unique_ptr` goes out of scope.
 >
-> (<a href="#citeproc_bib_item_1">“Std:Unique\_Ptr” n.d.</a>)
+> (NO_ITEM_DATA:StdUniquePtr)
 
 
 ## Bibliography {#bibliography}
@@ -21,7 +21,7 @@ A part of the [Standard Library (C++)]({{< relref "c_standard_library.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Std:Unique\_Ptr.” n.d. Accessed May 18, 2023. <a href="https://en.cppreference.com/w/cpp/memory/unique_ptr">https://en.cppreference.com/w/cpp/memory/unique_ptr</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:StdUniquePtr</div>
 </div>
 
 

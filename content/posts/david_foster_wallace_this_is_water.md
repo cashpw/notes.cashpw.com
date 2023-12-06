@@ -2,14 +2,14 @@
 title = "David Foster Wallace | This Is Water"
 author = ["Cash Weaver"]
 date = 2022-11-23T10:56:00-08:00
-lastmod = 2023-11-10T10:39:30-08:00
+lastmod = 2023-12-05T14:00:15-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "db410387-b553-448e-8289-9037dbd1177d"
 +++
 
-[David Foster Wallace]({{< relref "david_foster_wallace.md" >}}), (David Foster Wallace n.d.)
+[David Foster Wallace]({{< relref "david_foster_wallace.md" >}}), (<a href="#citeproc_bib_item_1">David Foster Wallace n.d.</a>)
 
 
 ## Summary {#summary}
@@ -95,3 +95,12 @@ slug = "db410387-b553-448e-8289-9037dbd1177d"
 > It is unimaginably hard to do this, to stay conscious and alive in the adult world day in and day out. Which means yet another grand cliché turns out to be true: your education really IS the job of a lifetime. And it commences: now.
 >
 > I wish you way more than luck.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>David Foster Wallace. n.d. “This Is Water.” Accessed November 23, 2022. <a href="https://fs.blog/david-foster-wallace-this-is-water/">https://fs.blog/david-foster-wallace-this-is-water/</a>.</div>
+</div>

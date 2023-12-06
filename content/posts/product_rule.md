@@ -2,7 +2,7 @@
 title = "Product rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:18:00-08:00
-lastmod = 2023-11-10T11:11:13-08:00
+lastmod = 2023-12-05T14:37:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,9 +19,18 @@ slug = "d57fdb71-8ae6-4307-a255-bfeaeb50a5a9"
 >
 > The rule may be extended or generalized to products of three or more functions, to a rule for higher-order derivatives of a product, and to other contexts.
 >
-> (“Product Rule” 2022)
+> (<a href="#citeproc_bib_item_1">“Product Rule” 2022</a>)
 
 This is one of the rules of [Differentiation]({{< relref "differential_calculus.md" >}}).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Product Rule.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Product_rule&oldid=1119757448">https://en.wikipedia.org/w/index.php?title=Product_rule&#38;oldid=1119757448</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

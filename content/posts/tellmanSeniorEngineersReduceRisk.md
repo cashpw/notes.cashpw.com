@@ -2,14 +2,14 @@
 title = "Zach Tellman | Senior Engineers Reduce Risk"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T19:25:00-08:00
-lastmod = 2023-11-10T11:21:16-08:00
+lastmod = 2023-12-05T14:54:03-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "e7753777-506e-490e-b79e-59dede5dce2e"
 +++
 
-[Zach Tellman]({{< relref "zach_tellman.md" >}}), (Tellman n.d.)
+[Zach Tellman]({{< relref "zach_tellman.md" >}}), (NO_ITEM_DATA:tellmanSeniorEngineersReduceRisk)
 
 
 ## Notes {#notes}
@@ -33,6 +33,15 @@ slug = "e7753777-506e-490e-b79e-59dede5dce2e"
 > [...]
 >
 > Every company has different risks, and so every company expects something different from their senior engineers. An engineer who has spent the last five years making small, continuous improvements to the processes in a larger company may not enjoy or even understand the sort of role expected by a three person startup. The expectation that "senior" is a fungible title is both widespread and harmful, leading to unrealistic expectations from both engineers and companies.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:tellmanSeniorEngineersReduceRisk</div>
+</div>
 
 
 ## Backlinks {#backlinks}

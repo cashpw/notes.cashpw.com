@@ -2,7 +2,7 @@
 title = "Topological order by Depth-first search in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:50:00-08:00
-lastmod = 2023-11-10T11:24:07-08:00
+lastmod = 2023-12-05T14:58:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -69,6 +69,14 @@ adjacency_list = {
 }
 print(topological_sort(adjacency_list), 'should be [(2,1,0 in any order), 3, 4, 5]')
 ```
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

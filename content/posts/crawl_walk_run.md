@@ -2,14 +2,14 @@
 title = "Crawl, walk, run"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:22:00-07:00
-lastmod = 2023-11-10T10:37:05-08:00
+lastmod = 2023-12-05T13:57:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "3f33e96a-915a-4561-be68-4cef17b84792"
 +++
 
-Crawl, walk, run emphasizes iterative development as way to progressively build a solution as opposed to building it all-at-once. The phrase originates, as far as I can tell, from child development stages though some directly cite (King n.d.).
+Crawl, walk, run emphasizes iterative development as way to progressively build a solution as opposed to building it all-at-once. The phrase originates, as far as I can tell, from child development stages though some directly cite (NO_ITEM_DATA:kingIfYouCanFlyThenRun).
 
 Related: [Shuhari]({{< relref "crawl_walk_run.md" >}}).
 
@@ -29,6 +29,15 @@ An iterative development approach could start with re-computing the metrics manu
 -   How much benefit do we gain by having these metrics up-to-date? Do we get all the benefits by updating them once a quarter? Do we need to have them updated in real time?
 
 Answering these follow-up questions ensures you and your team don't burn time solving a problem that doesn't need solving; or one that has a simple solution. Perhaps it's enough to create a recurring reminder to refresh the metrics every quarter. A shared bash script could be all the "automation" necessary in that it simplifies the manual update into a [One-click]({{< relref "one_click.md" >}}) process.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:kingIfYouCanFlyThenRun</div>
+</div>
 
 
 ## Backlinks {#backlinks}

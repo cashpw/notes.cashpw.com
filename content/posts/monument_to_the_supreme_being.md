@@ -2,7 +2,7 @@
 title = "Monument to the Supreme Being"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-25T15:44:00-07:00
-lastmod = 2023-11-10T11:06:00-08:00
+lastmod = 2023-12-05T14:29:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,3 +14,11 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 > {{< figure src="/ox-hugo/2023-07-25_14-28-25_monument-to-the-supreme-being.jpg" >}}
 >
 > <https://catalogue.bnf.fr/ark:/12148/cb451663643>
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>

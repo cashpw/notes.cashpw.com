@@ -2,7 +2,7 @@
 title = "Gunnar Zarncke | Child Development Plan - Years"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-03T17:00:00-07:00
-lastmod = 2023-11-10T10:50:40-08:00
+lastmod = 2023-12-05T14:10:47-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -300,6 +300,14 @@ Note: I've re-organized the outline hierarchy.
 > MINUS: It does 15 small household chores a week (-15 x 5 minutes = -1.25)
 >
 > Time spent per week: 9 hours
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

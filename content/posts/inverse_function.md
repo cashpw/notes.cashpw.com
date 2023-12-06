@@ -2,7 +2,7 @@
 title = "Inverse function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T09:10:00-08:00
-lastmod = 2023-11-10T10:56:29-08:00
+lastmod = 2023-12-05T14:15:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,7 @@ slug = "be3d36b2-8fb7-4917-b739-5717643a35b3"
 >
 > For a function \\(f\colon X\to Y\\), its inverse \\(\displaystyle f^{-1}\colon Y\to X\\) admits an explicit description: it sends each element \\(y\in Y\\) to the unique element \\(x\in X\\) such that \\(f(x) = y\\).
 >
-> (“Inverse Function” 2022)
+> (<a href="#citeproc_bib_item_1">“Inverse Function” 2022</a>)
 
 <!--quoteend-->
 
@@ -28,6 +28,15 @@ slug = "be3d36b2-8fb7-4917-b739-5717643a35b3"
 > Thus the inverse function \\(f^{-1}\\) is given by the formula
 >
 > \\(f^{-1}(y)={\frac {{\sqrt[{3}]{y}}-8}{2}}\\).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Inverse Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Inverse_function&oldid=1121855971">https://en.wikipedia.org/w/index.php?title=Inverse_function&#38;oldid=1121855971</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

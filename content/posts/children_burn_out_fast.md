@@ -2,7 +2,7 @@
 title = "Children burn out fast"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-03T16:02:00-07:00
-lastmod = 2023-11-10T10:33:15-08:00
+lastmod = 2023-12-05T13:54:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

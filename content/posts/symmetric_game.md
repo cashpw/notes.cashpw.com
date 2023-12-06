@@ -2,7 +2,7 @@
 title = "Symmetric game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2023-11-10T11:20:12-08:00
+lastmod = 2023-12-05T14:52:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,6 +24,14 @@ A 2x2 game is [symmetric]({{< relref "symmetric_game.md" >}}) if and only if the
 -   [Chicken]({{< relref "chicken.md" >}})
 -   [Prisoner's Dilemma]({{< relref "prisoner_s_dilemma.md" >}})
 -   [Stag hunt]({{< relref "stag_hunt.md" >}})
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

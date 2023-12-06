@@ -2,7 +2,7 @@
 title = "Quicksort implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T13:57:00-07:00
-lastmod = 2023-11-10T11:12:18-08:00
+lastmod = 2023-12-05T14:39:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -53,6 +53,14 @@ def quick_sort(ints: List[int], comparator: Callable[[id:int, int], bool]) -> Li
 a = [10, 15, 5, 8, 2, 1, 3, 9]
 print(quick_sort(a, lambda a, b: a <= b))
 ```
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

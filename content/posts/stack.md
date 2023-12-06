@@ -2,7 +2,7 @@
 title = "Stack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T20:24:00-07:00
-lastmod = 2023-11-10T11:18:45-08:00
+lastmod = 2023-12-05T14:50:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,10 +16,19 @@ slug = "5ab783c7-9a13-42d2-920d-95f103ac677c"
 >
 > The order in which elements come off a stack gives rise to its alternative name, [LIFO]({{< relref "first_in_last_out.md" >}}) (last in, first out). Additionally, a peek operation may give access to the top without modifying the stack.
 >
-> (“Stack (Abstract Data Type)” 2022)
+> (NO_ITEM_DATA:StackAbstractDataType2022)
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry">NO_ITEM_DATA:StackAbstractDataType2022</div>
+</div>
 
 
 ## Backlinks {#backlinks}
 
--   [Depth-first search]({{< relref "depth_first_search.md" >}})
 -   [Queue]({{< relref "queue.md" >}})
+-   [Depth-first search]({{< relref "depth_first_search.md" >}})

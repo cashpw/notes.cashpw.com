@@ -2,7 +2,7 @@
 title = "Iterative deepening depth-first-search implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-06T09:32:00-07:00
-lastmod = 2023-11-10T10:57:04-08:00
+lastmod = 2023-12-05T14:16:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -95,6 +95,14 @@ print(iterative_deepening_dfs('g', a))
 print(iterative_deepening_dfs('h', a))
 print(iterative_deepening_dfs('i', a))
 ```
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 
 
 ## Backlinks {#backlinks}

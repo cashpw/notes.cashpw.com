@@ -2,14 +2,14 @@
 title = "Ian Danskin | Mainstreaming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:55:00-07:00
-lastmod = 2023-11-10T10:38:44-08:00
+lastmod = 2023-12-05T13:59:35-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "de73d179-937a-4d95-9c1b-0ea865d0e469"
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (Danskin 2018)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2018</a>)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -57,6 +57,15 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
 <!--quoteend-->
 
 > Much as we'd like to believe people are driven by morality, most people are driven by the desire to be normal [[Bob Altemeyer | The Authoritarians]({{< relref "altemeyerAuthoritarians.md" >}})]. And when the news is filled with images of swastikas, iron crosses, and tiki torches, the guy in the suit with the fashy haircut looks pretty normal by comparison. And that's why he wears the suit.
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2018. “Mainstreaming.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/172589201372/the-newest-installment-of-the-alt-right-playbook">https://innuendostudios.tumblr.com/post/172589201372/the-newest-installment-of-the-alt-right-playbook</a>.</div>
+</div>
 
 
 ## Backlinks {#backlinks}

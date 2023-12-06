@@ -2,14 +2,14 @@
 title = "Ian Danskin | The Cost of Doing Business"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-26T19:06:00-07:00
-lastmod = 2023-11-10T10:39:03-08:00
+lastmod = 2023-12-05T13:59:50-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "073a3833-8cf1-431e-97df-c87f448b6a12"
 +++
 
-[Ian Danskin]({{< relref "ian_danskin.md" >}}), (Danskin 2022)
+[Ian Danskin]({{< relref "ian_danskin.md" >}}), (<a href="#citeproc_bib_item_1">Danskin 2022</a>)
 
 This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}}).
 
@@ -77,3 +77,12 @@ See also:
 > They don't care about ideas. They care about power.
 
 See [Realpolitik]({{< relref "real_politic.md" >}}), [Power politics]({{< relref "power_politics.md" >}}), [Moloch]({{< relref "moloch.md" >}}).
+
+
+## Bibliography {#bibliography}
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2022. “The Cost of Doing Business.” Tumblr. <i>Tumblr</i>. <a href="https://innuendostudios.tumblr.com/post/696475064150999040/the-first-new-alt-right-playbook-since-just-after">https://innuendostudios.tumblr.com/post/696475064150999040/the-first-new-alt-right-playbook-since-just-after</a>.</div>
+</div>
