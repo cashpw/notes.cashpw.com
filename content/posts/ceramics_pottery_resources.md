@@ -2,7 +2,7 @@
 title = "Ceramics Resources"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T20:16:00-08:00
-lastmod = 2023-12-05T20:01:09-08:00
+lastmod = 2023-12-06T05:42:43-08:00
 draft = false
 slug = "0b2473da-3953-457c-b68c-4abc7a235d17"
 +++
@@ -27,7 +27,7 @@ A collection of [Ceramics]({{< relref "ceramics.md" >}}) resources.
 ### [Ceramics Exercises]({{< relref "ceramics_exercises.md" >}}) {#ceramics-exercises--ceramics-exercises-dot-md}
 
 
-### [Wedging]({{< relref "ceramics_pottery_resources.md" >}}) {#wedging--ceramics-pottery-resources-dot-md}
+### [Wedging]({{< relref "wedging.md" >}}) {#wedging--wedging-dot-md}
 
 
 ## Community {#community}
@@ -48,7 +48,7 @@ A collection of [Ceramics]({{< relref "ceramics.md" >}}) resources.
 
 ### Tools {#tools}
 
--   [Kanna]({{< relref "ceramics_pottery_resources.md" >}})
+-   [Kanna]({{< relref "kanna.md" >}})
 
 
 ## People {#people}

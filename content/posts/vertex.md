@@ -2,7 +2,7 @@
 title = "Vertex"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:13:00-07:00
-lastmod = 2023-12-05T21:21:39-08:00
+lastmod = 2023-12-06T05:47:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
