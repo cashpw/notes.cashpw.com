@@ -1,213 +1,32 @@
-<!doctype html><html lang=en dir=auto>
-<head><meta charset=utf-8>
-<meta http-equiv=x-ua-compatible content="IE=edge">
-<meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
-<meta name=robots content="index, follow">
-<title>Posts | Cash Prokop-Weaver</title>
-<meta name=keywords content>
-<meta name=description content="Posts - Cash Prokop-Weaver">
-<meta name=author content>
-<link rel=canonical href=http://notes.cashpw.com/posts/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.b29398f29a599d5e3004230f1be93c6d0e635ee0513a370a3f70268eb91bd59d.css integrity="sha256-spOY8ppZnV4wBCMPG+k8bQ5jXuBROjcKP3Amjrkb1Z0=" rel="preload stylesheet" as=style>
-<link rel=icon href=http://notes.cashpw.com/favicon.ico>
-<link rel=apple-touch-icon href=http://notes.cashpw.com/apple-touch-icon.png>
-<link rel=alternate type=application/rss+xml href=http://notes.cashpw.com/posts/index.xml>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-69408538-1','auto'),ga('send','pageview'))</script>
-<meta name=twitter:title content="Posts | Cash Prokop-Weaver">
-<meta name=twitter:description content="Blog and notes">
-<meta property="og:title" content="Posts | Cash Prokop-Weaver">
-<meta property="og:description" content="Blog and notes">
-<meta property="og:type" content="website">
-<meta property="og:url" content="http://notes.cashpw.com/posts/">
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://notes.cashpw.com/posts/"}]}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
-<noscript>
-<style>#theme-toggle,.top-link{display:none}</style>
-</noscript>
-</head>
-<body class="list-page dark type-posts kind-section layout-" id=top><script data-no-instant>function switchTheme(a){switch(a){case'light':document.body.classList.remove('dark');break;case'dark':document.body.classList.add('dark');break;default:window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')}}function isDarkTheme(){return document.body.className.includes("dark")}function getPrefTheme(){return localStorage.getItem("pref-theme")}function setPrefTheme(a){switchTheme(a),localStorage.setItem("pref-theme",a)}const toggleThemeCallbacks={};toggleThemeCallbacks.main=a=>{a?setPrefTheme('light'):setPrefTheme('dark')},window.addEventListener('toggle-theme',function(){const a=isDarkTheme();for(const b in toggleThemeCallbacks)toggleThemeCallbacks[b](a)});function toggleThemeListener(){window.dispatchEvent(new CustomEvent('toggle-theme'))}</script>
-<script>(function(){const b='dark',a=getPrefTheme(),c=a||b;switchTheme(c)})()</script>
-<header class=header>
-<nav class=nav>
-<div class=logo>
-<a href=http://notes.cashpw.com/ accesskey=h title="Cash Prokop-Weaver (Alt + H)">Cash Prokop-Weaver</a>
-<span class=logo-switches>
-<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
-</button>
-</span>
-</div>
-<ul id=menu>
-<li>
-<a href=http://notes.cashpw.com/archives/ title=Archives>Archives
-</a>
-</li>
-<li>
-<a href=http://notes.cashpw.com/search/ title="Search (Alt + /)" data-no-instant accesskey=/>Search
-</a>
-</li>
-<li>
-<a href=http://notes.cashpw.com/tags/ title=Tags>Tags
-</a>
-</li>
-</ul>
-</nav>
-</header>
-<main class=main>
-<header class=page-header>
-<h1>
-Posts
-</h1>
-</header>
-<article class=post-entry>
-<header class=entry-header>
-<h2>B-tree
-</h2>
-</header>
-<div class=entry-content>
-<p>In computer science, a B-tree is a self-balancing Tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time. The B-tree generalizes the Binary search tree, allowing for nodes with more than two children. Unlike other Self-balancing binary search trees, the B-tree is well suited for storage systems that read and write relatively large blocks of data, such as databases and file systems....</p>
-</div>
-<footer class=entry-footer><span title="2022-07-23 16:55:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:27:07 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/b_tree.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to B-tree" href=http://notes.cashpw.com/posts/170cf2cd-adb9-4a26-8793-1b31b2ef40c2/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Red-black tree
-</h2>
-</header>
-<div class=entry-content>
-<p>ID: 019be402-8bef-48f3-afbf-6441010dd8cf
-ROAM_REFS: [cite:@RedblackTree2022] LAST_MODIFIED: [2023-11-03 Fri 07:46] In computer science, a red–black tree is a kind of Self-balancing binary search tree. Each Vertex stores an extra bit representing “color” (“red” or “black”), used to ensure that the Tree remains balanced during insertions and deletions.
-When the tree is modified, the new tree is rearranged [Tree rotation] and “repainted” to restore the coloring properties that constrain how unbalanced the tree can become in the worst case....</p>
-</div>
-<footer class=entry-footer><span title="2022-07-23 16:54:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 11:13:17 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/red_black_tree.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Red-black tree" href=http://notes.cashpw.com/posts/019be402-8bef-48f3-afbf-6441010dd8cf/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Height-balanced binary tree
-</h2>
-</header>
-<div class=entry-content>
-<p> For height-balanced Binary trees, the height is defined to be logarithmic \(O(\log n)\) in the number \(n\) of items.
-(“Self-Balancing Binary Search Tree” 2022)
-Bibliography References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Self-Balancing Binary Search Tree.” 2022. In Wikipedia. https://en.wikipedia.org/w/index.php?title=Self-balancing_binary_search_tree&oldid=1092928206. Backlinks Self-balancing binary search tree </p>
-</div>
-<footer class=entry-footer><span title="2022-07-23 16:52:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:52:04 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/height_balanced_binary_tree.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Height-balanced binary tree" href=http://notes.cashpw.com/posts/86c3b62f-4766-4c76-856b-bebe9fe6d125/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Self-balancing binary search tree
-</h2>
-</header>
-<div class=entry-content>
-<p> In computer science, a self-balancing binary search tree (BST) is any node-based Binary search tree that automatically keeps its height (maximal number of levels below the root) small in the face of arbitrary item insertions and deletions.
-(“Self-Balancing Binary Search Tree” 2022)
-Implementations Red-black tree B-tree Backlinks B-tree Red-black tree </p>
-</div>
-<footer class=entry-footer><span title="2022-07-23 16:50:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 11:16:02 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/self_balancing_binary_search_tree.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Self-balancing binary search tree" href=http://notes.cashpw.com/posts/b3fc99fa-5b7e-4e45-83c2-6d283aecca9a/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Binary search tree
-</h2>
-</header>
-<div class=entry-content>
-<p>In computer science, a binary search tree (BST), also called an ordered or sorted binary tree, is a rooted Binary tree Data structure with the key of each internal node being greater than all the keys in the respective node’s left subtree and less than the ones in its right subtree. The time complexity of operations on the binary search tree is directly proportional to the height of the tree....</p>
-</div>
-<footer class=entry-footer><span title="2022-07-23 16:43:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:28:25 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/binary_search_tree.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Binary search tree" href=http://notes.cashpw.com/posts/dc929031-e15a-4566-a7bd-7331768ee02f/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Spin
-</h2>
-</header>
-<div class=entry-content>
-<p>In public relations and politics, spin is a form of propaganda, achieved through knowingly providing a biased interpretation of an event or campaigning to influence public opinion about some organization or public figure. While traditional public relations and advertising may manage their presentation of facts, “spin” often implies the use of disingenuous, deceptive, and manipulative tactics.
-(“Spin (Propaganda)” 2022)
-Bibliography References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}“Spin (Propaganda).” 2022. In Wikipedia....</p>
-</div>
-<footer class=entry-footer><span title="2022-07-23 11:40:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 11:18:30 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/spin.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Spin" href=http://notes.cashpw.com/posts/f80c2ae6-6786-4eae-93aa-57feebf02c39/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Carry water
-</h2>
-</header>
-<div class=entry-content>
-<p> To perform menial tasks for; to serve; to assist; to be forced by politics or pragmatism to endorse or promote a belief, individual, or organization that in reality one does not fully support.
-(“Carry Water for” 2021)
-Backlinks Citations Needed | News Brief: Biden’s Dictator Tour and the Tedium of Our Human Rights Concerns Theater </p>
-</div>
-<footer class=entry-footer><span title="2022-07-23 11:35:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:30:41 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/carry_water.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Carry water" href=http://notes.cashpw.com/posts/9237be48-e1c7-4dd7-b473-a8a92dd5f6fc/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Realpolitik
-</h2>
-</header>
-<div class=entry-content>
-<p> Realpolitik refers to enacting or engaging in diplomatic or political policies based primarily on considerations of given circumstances and factors, rather than strictly binding itself to explicit ideological notions or moral and ethical premises.
-Also see Power politics.
-Backlinks The game Ian Danskin | The Cost of Doing Business Robin Hanson | Politics Isn’t about Policy Citations Needed | News Brief: Biden’s Dictator Tour and the Tedium of Our Human Rights Concerns Theater Ian Danskin | Always a Bigger Fish X isn’t (only) about Y </p>
-</div>
-<footer class=entry-footer><span title="2022-07-23 11:20:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 11:12:59 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/real_politic.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Realpolitik" href=http://notes.cashpw.com/posts/8c1b0569-db17-41af-90a3-7f2c75dc8923/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Betty Miller Unterberger
-</h2>
-</header>
-<div class=entry-content>
-<p>Backlinks Betty Miller Unterberger | Power Politics and Statecraft: The World According to Kissinger </p>
-</div>
-<footer class=entry-footer><span title="2022-07-23 11:03:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:27:53 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/betty_miller_unterberger.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Betty Miller Unterberger" href=http://notes.cashpw.com/posts/4dba1c2f-26b2-435f-a56b-e5b5519023d6/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Betty Miller Unterberger | Power Politics and Statecraft: The World According to Kissinger
-</h2>
-</header>
-<div class=entry-content>
-<p>Betty Miller Unterberger, (Unterberger 1995)
-Notes Kissinger’s Diplomacy is a masterful, brilliant and provocative account of world politics and American foreign policy from Cardinal Richelieu to the end of the Cold War. Its title, however is somewhat deceptive, because it is more than just an analysis of the tactics and techniques practiced in the conduct of international diplomacy. Diplomacy is old-fashioned diplomatic history which concentrates on the grand strategy, leadership, and philosophy of the great power relationships....</p>
-</div>
-<footer class=entry-footer><span title="2022-07-23 11:03:00 -0700 -0700">2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 11:25:37 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/unterbergerPowerPoliticsStatecraft1995.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Betty Miller Unterberger | Power Politics and Statecraft: The World According to Kissinger" href=http://notes.cashpw.com/posts/5bd36ce8-9786-483e-8f1b-51fcc1fd7cc7/></a>
-</article>
-<footer class=page-footer>
-<nav class=pagination>
-<a class=prev href=http://notes.cashpw.com/posts/page/100/>
-«&nbsp;Prev Page&nbsp;
-</a>
-<a class=next href=http://notes.cashpw.com/posts/page/102/>Next Page&nbsp;&nbsp;»
-</a>
-</nav>
-</footer>
-</main>
-<footer class=footer>
-<span>&copy; 2023 <a href=http://notes.cashpw.com/>Cash Prokop-Weaver</a></span><span style=display:inline-block;margin-left:1em>
-<a href=https://creativecommons.org/licenses/by-sa/4.0/>CC BY-SA</a>
-</span>
-<span style=display:inline-block;margin-left:1em>
-Powered by
+<!doctype html><html lang=en dir=auto><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=robots content="index, follow"><title>Posts | Cash Prokop-Weaver</title><meta name=keywords content><meta name=description content="Posts - Cash Prokop-Weaver"><meta name=author content><link rel=canonical href=http://notes.cashpw.com/posts/><link crossorigin=anonymous href=/assets/css/stylesheet.min.b29398f29a599d5e3004230f1be93c6d0e635ee0513a370a3f70268eb91bd59d.css integrity="sha256-spOY8ppZnV4wBCMPG+k8bQ5jXuBROjcKP3Amjrkb1Z0=" rel="preload stylesheet" as=style><link rel=icon href=http://notes.cashpw.com/favicon.ico><link rel=apple-touch-icon href=http://notes.cashpw.com/apple-touch-icon.png><link rel=alternate type=application/rss+xml href=http://notes.cashpw.com/posts/index.xml><script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(e,t,n,s,o,i,a){e.GoogleAnalyticsObject=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=1*new Date,i=t.createElement(n),a=t.getElementsByTagName(n)[0],i.async=1,i.src=s,a.parentNode.insertBefore(i,a)}(window,document,"script","https://www.google-analytics.com/analytics.js","ga"),ga("create","UA-69408538-1","auto"),ga("send","pageview"))</script><meta name=twitter:title content="Posts | Cash Prokop-Weaver"><meta name=twitter:description content="Blog and notes"><meta property="og:title" content="Posts | Cash Prokop-Weaver"><meta property="og:description" content="Blog and notes"><meta property="og:type" content="website"><meta property="og:url" content="http://notes.cashpw.com/posts/"><script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://notes.cashpw.com/posts/"}]}</script><script>MathJax={tex:{inlineMath:[["$","$"],["\\(","\\)"]],displayMath:[["$$","$$"],["\\[","\\]"]],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:["script","noscript","style","textarea","pre"]}},window.addEventListener("load",e=>{document.querySelectorAll("mjx-container").forEach(function(e){e.parentElement.classList+="has-jax"})})</script><script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script><noscript><style>#theme-toggle,.top-link{display:none}</style></noscript></head><body class="list-page dark type-posts kind-section layout-" id=top><script data-no-instant>function switchTheme(e){switch(e){case"light":document.body.classList.remove("dark");break;case"dark":document.body.classList.add("dark");break;default:window.matchMedia("(prefers-color-scheme: dark)").matches&&document.body.classList.add("dark")}}function isDarkTheme(){return document.body.className.includes("dark")}function getPrefTheme(){return localStorage.getItem("pref-theme")}function setPrefTheme(e){switchTheme(e),localStorage.setItem("pref-theme",e)}const toggleThemeCallbacks={};toggleThemeCallbacks.main=e=>{setPrefTheme(e?"light":"dark")},window.addEventListener("toggle-theme",function(){const e=isDarkTheme();for(const t in toggleThemeCallbacks)toggleThemeCallbacks[t](e)});function toggleThemeListener(){window.dispatchEvent(new CustomEvent("toggle-theme"))}</script><script>(function(){const t="dark",e=getPrefTheme(),n=e||t;switchTheme(n)})()</script><header class=header><nav class=nav><div class=logo><a href=http://notes.cashpw.com/ accesskey=h title="Cash Prokop-Weaver (Alt + H)">Cash Prokop-Weaver</a>
+<span class=logo-switches><button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></button></span></div><ul id=menu><li><a href=http://notes.cashpw.com/archives/ title=Archives>Archives</a></li><li><a href=http://notes.cashpw.com/search/ title="Search (Alt + /)" data-no-instant accesskey=/>Search</a></li><li><a href=http://notes.cashpw.com/tags/ title=Tags>Tags</a></li></ul></nav></header><main class=main><header class=page-header><h1>Posts</h1></header><article class=post-entry><header class=entry-header><h2>Dot product</h2></header><div class=entry-content><p>In mathematics, the Dot product or Scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually Coordinate vector), and returns a single number.
+(“Dot Product” 2022)
+Algebraic Algebraically, the dot product is the sum of the products of the corresponding entries of the two sequences of numbers.
+(“Dot Product” 2022)
+\(\vec{a} \cdot \vec{b} = \sum^{n}_{i=1} \vec{a}_i\vec{b}_i\)
+Geometric The dot product of two vectors defines the lengths of, and angle between, the two vectors....</p></div><footer class=entry-footer><span title='2022-07-24 11:41:00 -0700 -0700'>2022-07-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 20:09:12 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/dot_product.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Dot product" href=http://notes.cashpw.com/posts/a9b744d3-b4e2-4050-90de-85d59ed6beff/></a></article><article class=post-entry><header class=entry-header><h2>Institute of electrical and electronics engineers</h2></header><div class=entry-content><p>Bibliography References Backlinks IEEE 754</p></div><footer class=entry-footer><span title='2022-07-24 10:54:00 -0700 -0700'>2022-07-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 20:21:54 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/institute_of_electrical_and_electronics_engineers.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Institute of electrical and electronics engineers" href=http://notes.cashpw.com/posts/8659234c-fc9e-4d57-9e09-c8f7a81924d9/></a></article><article class=post-entry><header class=entry-header><h2>IEEE 754</h2></header><div class=entry-content><p>Institute of electrical and electronics engineers’s standard for floating-point arithmetic defines, among other things:
+single (32 bit) and double (64 bit) precision floating point number representations Single-precision floating-point number Double-precision floating-point number Bibliography References</p></div><footer class=entry-footer><span title='2022-07-24 10:52:00 -0700 -0700'>2022-07-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 20:20:14 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/ieee_754.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to IEEE 754" href=http://notes.cashpw.com/posts/23e97230-9b73-4232-a76e-a1223b9bb70e/></a></article><article class=post-entry><header class=entry-header><h2>Antisymmetric relation</h2></header><div class=entry-content><p>In mathematics, a binary relation \(R\) on a set \(X\) is antisymmetric if there is no pair of distinct elements of \(X\) each of which is related by \(R\) to the other. More formally, \(R\) is antisymmetric precisely if for all \(a,b \in X\):
+\(\text{if }\,aRb\,\text{ with }\,a\neq b\,\text{ then }\,bRa\,\text{ must not hold}\)
+or equivalently,
+\(\text{if }\,aRb\,\text{ and }\,bRa\,\text{ then }\,a=b\).
+(“Antisymmetric Relation” 2022)
+Bibliography References “Antisymmetric Relation.” 2022....</p></div><footer class=entry-footer><span title='2022-07-23 17:11:00 -0700 -0700'>2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 19:53:29 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/antisymmetric_relation.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Antisymmetric relation" href=http://notes.cashpw.com/posts/875bfbf2-61ad-4f0a-9833-245dc5adc561/></a></article><article class=post-entry><header class=entry-header><h2>Connected relationship</h2></header><div class=entry-content><p>A relation \(R\) on a set \(X\) is called connected when \(\forall\; x,y \in X\):
+\(xRy \quad \text{or} \quad yRx \quad \text{or} \quad x = y\)
+(“Connected Relation” 2022)
+Strongly connected A relation \(R\) on a set \(X\) is called connected when \(\forall\; x,y \in X\):
+\(xRy \quad \text{or} \quad yRx\)
+(“Connected Relation” 2022)
+Bibliography References “Connected Relation.” 2022. Wikipedia, March. https://en.wikipedia.org/w/index.php?title=Connected_relation&amp;oldid=1079157082. Backlinks Comparison sorting algorithm</p></div><footer class=entry-footer><span title='2022-07-23 17:11:00 -0700 -0700'>2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 21:06:55 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/strongly_connected.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Connected relationship" href=http://notes.cashpw.com/posts/644adb16-7921-4499-aaf9-6ff29819ed6d/></a></article><article class=post-entry><header class=entry-header><h2>Reflexive relation</h2></header><div class=entry-content><p>In mathematics, a binary relation \(R\) on a set \(X\) is reflexive if it relates every element of \(X\) to itself [(\(x R x \;\forall\; x \in X\))].
+An example of a reflexive relation is the relation “is equal to” on the set of real numbers, since every real number is equal to itself.
+(“Reflexive Relation” 2022)
+Bibliography References “Reflexive Relation.” 2022. Wikipedia, July. https://en.wikipedia.org/w/index.php?title=Reflexive_relation&amp;oldid=1098438388. Backlinks Equivalence relation Total order</p></div><footer class=entry-footer><span title='2022-07-23 17:10:00 -0700 -0700'>2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 20:53:25 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/reflexive.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Reflexive relation" href=http://notes.cashpw.com/posts/48d05562-111f-4e9a-b005-013d54d4419e/></a></article><article class=post-entry><header class=entry-header><h2>Transitive relation</h2></header><div class=entry-content><p>In mathematics, a relation \(R\) on a set \(X\) is transitive if, for all elements \(a, b, c\) in \(X\), whenever \(R\) relates \(a\) to \(b\) and \(b\) to \(c\), then \(R\) also relates \(a\) to \(c\). Each partial order as well as each equivalence relation needs to be transitive.
+\((a \, R \, b \; \text{and} \; b \, R \, c) \implies\) \(a \, R \, c \; \forall \; a, b, c \in X \; | \; R\) is a homogeneous relation over a set \(X\)....</p></div><footer class=entry-footer><span title='2022-07-23 17:10:00 -0700 -0700'>2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 21:17:38 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/transitive.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Transitive relation" href=http://notes.cashpw.com/posts/57d94e2b-f842-483e-bcdb-c4d8e91a6ab5/></a></article><article class=post-entry><header class=entry-header><h2>Binary relation</h2></header><div class=entry-content><p>In mathematics, a binary relation associates elements of one set, called the domain, with elements of another set, called the codomain.
+(“Binary Relation” 2022)
+Bibliography References “Binary Relation.” 2022. Wikipedia, September. https://en.wikipedia.org/w/index.php?title=Binary_relation&amp;oldid=1111761379. Backlinks Total order</p></div><footer class=entry-footer><span title='2022-07-23 17:06:00 -0700 -0700'>2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 19:56:34 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/binary_relation.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Binary relation" href=http://notes.cashpw.com/posts/52a0697e-ba3c-47f8-8dfe-cdd82ee6cb44/></a></article><article class=post-entry><header class=entry-header><h2>Total order</h2></header><div class=entry-content><p>[…] a total order is a Binary relation \(\le\) on some set, \(X\), which satisfies the following \(\forall \; a,b,c \in X\):
+\(a \le a\): Reflexive \(a \le b\) and \(b \le c\) \(\implies\) \(a \le c\): Transitive \(a \le b\) and \(b \le a\) \(\iff\) \(a = b\): Antisymmetric relation \(a \le b\) or \(b \le a\): Strongly connected Bibliography References Backlinks Binary search tree</p></div><footer class=entry-footer><span title='2022-07-23 17:04:00 -0700 -0700'>2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 21:17:00 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/total_order.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Total order" href=http://notes.cashpw.com/posts/131299ef-557c-4421-b021-eebba79aaa59/></a></article><article class=post-entry><header class=entry-header><h2>B-tree</h2></header><div class=entry-content><p>In computer science, a B-tree is a self-balancing Tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time. The B-tree generalizes the Binary search tree, allowing for nodes with more than two children. Unlike other Self-balancing binary search trees, the B-tree is well suited for storage systems that read and write relatively large blocks of data, such as databases and file systems....</p></div><footer class=entry-footer><span title='2022-07-23 16:55:00 -0700 -0700'>2022-07-23</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 19:54:43 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/b_tree.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to B-tree" href=http://notes.cashpw.com/posts/170cf2cd-adb9-4a26-8793-1b31b2ef40c2/></a></article><footer class=page-footer><nav class=pagination><a class=prev href=http://notes.cashpw.com/posts/page/100/>«&nbsp;Prev Page&nbsp;</a>
+<a class=next href=http://notes.cashpw.com/posts/page/102/>Next Page&nbsp;&nbsp;»</a></nav></footer></main><footer class=footer><span>&copy; 2023 <a href=http://notes.cashpw.com/>Cash Prokop-Weaver</a></span><span style=display:inline-block;margin-left:1em>
+<a href=https://creativecommons.org/licenses/by-sa/4.0/>CC BY-SA</a></span>
+<span style=display:inline-block;margin-left:1em>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
-    <a href=https://github.com/reorx/hugo-PaperModX/ rel=noopener target=_blank>PaperModX</a>
-</span>
-</footer>
-<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
-</a>
-<script>(function(){const b=''=='1';if(b)return;let a=document.getElementById("theme-toggle");a.removeEventListener('click',toggleThemeListener),a.addEventListener('click',toggleThemeListener)})()</script>
-<script>(function(){let a=document.getElementById('menu');a&&(a.scrollLeft=localStorage.getItem("menu-scroll-position"),a.onscroll=function(){localStorage.setItem("menu-scroll-position",a.scrollLeft)});const b=''=='1',c=''=='1';if(window.matchMedia('(prefers-reduced-motion: reduce)').matches||b||c)return;document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})})()</script>
-<script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
-<script>if(window.scrollListeners)for(const a of scrollListeners)window.removeEventListener('scroll',a);window.scrollListeners=[]</script>
-<script src=/js/medium-zoom.min.js data-no-instant></script>
-</body>
-</html>
+    <a href=https://github.com/reorx/hugo-PaperModX/ rel=noopener target=_blank>PaperModX</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg></a><script>(function(){const t=""=="1";if(t)return;let e=document.getElementById("theme-toggle");e.removeEventListener("click",toggleThemeListener),e.addEventListener("click",toggleThemeListener)})()</script><script>(function(){let e=document.getElementById("menu");e&&(e.scrollLeft=localStorage.getItem("menu-scroll-position"),e.onscroll=function(){localStorage.setItem("menu-scroll-position",e.scrollLeft)});const t=""=="1",n=""=="1";if(window.matchMedia("(prefers-reduced-motion: reduce)").matches||t||n)return;document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault();var t=this.getAttribute("href").substr(1);document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView({behavior:"smooth"}),t==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${t}`)})})})()</script><script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script><script>if(window.scrollListeners)for(const e of scrollListeners)window.removeEventListener("scroll",e);window.scrollListeners=[]</script><script src=/js/medium-zoom.min.js data-no-instant></script></body></html>

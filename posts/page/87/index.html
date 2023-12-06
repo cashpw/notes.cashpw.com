@@ -1,219 +1,26 @@
-<!doctype html><html lang=en dir=auto>
-<head><meta charset=utf-8>
-<meta http-equiv=x-ua-compatible content="IE=edge">
-<meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
-<meta name=robots content="index, follow">
-<title>Posts | Cash Prokop-Weaver</title>
-<meta name=keywords content>
-<meta name=description content="Posts - Cash Prokop-Weaver">
-<meta name=author content>
-<link rel=canonical href=http://notes.cashpw.com/posts/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.b29398f29a599d5e3004230f1be93c6d0e635ee0513a370a3f70268eb91bd59d.css integrity="sha256-spOY8ppZnV4wBCMPG+k8bQ5jXuBROjcKP3Amjrkb1Z0=" rel="preload stylesheet" as=style>
-<link rel=icon href=http://notes.cashpw.com/favicon.ico>
-<link rel=apple-touch-icon href=http://notes.cashpw.com/apple-touch-icon.png>
-<link rel=alternate type=application/rss+xml href=http://notes.cashpw.com/posts/index.xml>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-69408538-1','auto'),ga('send','pageview'))</script>
-<meta name=twitter:title content="Posts | Cash Prokop-Weaver">
-<meta name=twitter:description content="Blog and notes">
-<meta property="og:title" content="Posts | Cash Prokop-Weaver">
-<meta property="og:description" content="Blog and notes">
-<meta property="og:type" content="website">
-<meta property="og:url" content="http://notes.cashpw.com/posts/">
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://notes.cashpw.com/posts/"}]}</script><script>MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}},window.addEventListener('load',a=>{document.querySelectorAll("mjx-container").forEach(function(a){a.parentElement.classList+='has-jax'})})</script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script>
-<noscript>
-<style>#theme-toggle,.top-link{display:none}</style>
-</noscript>
-</head>
-<body class="list-page dark type-posts kind-section layout-" id=top><script data-no-instant>function switchTheme(a){switch(a){case'light':document.body.classList.remove('dark');break;case'dark':document.body.classList.add('dark');break;default:window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')}}function isDarkTheme(){return document.body.className.includes("dark")}function getPrefTheme(){return localStorage.getItem("pref-theme")}function setPrefTheme(a){switchTheme(a),localStorage.setItem("pref-theme",a)}const toggleThemeCallbacks={};toggleThemeCallbacks.main=a=>{a?setPrefTheme('light'):setPrefTheme('dark')},window.addEventListener('toggle-theme',function(){const a=isDarkTheme();for(const b in toggleThemeCallbacks)toggleThemeCallbacks[b](a)});function toggleThemeListener(){window.dispatchEvent(new CustomEvent('toggle-theme'))}</script>
-<script>(function(){const b='dark',a=getPrefTheme(),c=a||b;switchTheme(c)})()</script>
-<header class=header>
-<nav class=nav>
-<div class=logo>
-<a href=http://notes.cashpw.com/ accesskey=h title="Cash Prokop-Weaver (Alt + H)">Cash Prokop-Weaver</a>
-<span class=logo-switches>
-<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
-</button>
-</span>
-</div>
-<ul id=menu>
-<li>
-<a href=http://notes.cashpw.com/archives/ title=Archives>Archives
-</a>
-</li>
-<li>
-<a href=http://notes.cashpw.com/search/ title="Search (Alt + /)" data-no-instant accesskey=/>Search
-</a>
-</li>
-<li>
-<a href=http://notes.cashpw.com/tags/ title=Tags>Tags
-</a>
-</li>
-</ul>
-</nav>
-</header>
-<main class=main>
-<header class=page-header>
-<h1>
-Posts
-</h1>
-</header>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Farnam Street
-</h2>
-</header>
-<div class=entry-content>
-<p>Among other things:
-http://fs.blog (a) Backlinks Farnum Street | Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained) Farnam Street | Compounding Knowledge </p>
-</div>
-<footer class=entry-footer><span title="2022-10-28 15:37:00 -0700 -0700">2022-10-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:44:58 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/farnam_street.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Farnam Street" href=http://notes.cashpw.com/posts/3c2ba4ec-1daa-4ea4-a4fb-641493b4ac91/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Farnam Street | Compounding Knowledge
-</h2>
-</header>
-<div class=entry-content>
-<p>Farnam Street, (Street 2019)
-Related:
-Do things that compound Summary Thoughts Notes </p>
-</div>
-<footer class=entry-footer><span title="2022-10-28 15:36:00 -0700 -0700">2022-10-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:45:03 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/farnam_street_compounding_knowledge.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Farnam Street | Compounding Knowledge" href=http://notes.cashpw.com/posts/9afd6912-da96-4ba5-adc4-b3081116cea8/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Shelf-life of information
-</h2>
-</header>
-<div class=entry-content>
-<p>The shelf-life of information is the length of time for which the information remains useful (i.e. valuable, correct, etc). The utility of information decays over time and rate of decay varies.
-As examples:
-Short shelf-life: The latest finding in psychology Long shelf-life: \(f = ma\) Another way to think of this is to answer “How much will X matter to people 100 (or some other large number) of years in the future?...</p>
-</div>
-<footer class=entry-footer><span title="2022-10-28 15:13:00 -0700 -0700">2022-10-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 11:16:24 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/shelf_life_of_information.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Shelf-life of information" href=http://notes.cashpw.com/posts/0b20dbe0-1576-4c38-baa4-32522b42f798/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Autarky
-</h2>
-</header>
-<div class=entry-content>
-<p> Autarky is the characteristic of self-sufficiency, usually applied to societies, communities, states, and their economic systems.[1]
-(“Autarky” 2022)
-Backlinks Comparative advantage </p>
-</div>
-<footer class=entry-footer><span title="2022-10-28 13:43:00 -0700 -0700">2022-10-28</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:26:59 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/autarky.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Autarky" href=http://notes.cashpw.com/posts/5d946894-c987-4bf3-9709-290fad48044c/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Comparative advantage
-</h2>
-</header>
-<div class=entry-content>
-<p>Comparative advantage is an economy’s ability to produce a particular good or service at a lower opportunity cost than its trading partners.
-(“What Is Comparative Advantage?” n.d.)
-In an economic model, agents have a comparative advantage over others in producing a particular good if they can produce that good at a lower relative opportunity cost or Autarky price, i.e. at a lower relative marginal cost prior to trade....</p>
-</div>
-<footer class=entry-footer><span title="2022-10-27 16:48:00 -0700 -0700">2022-10-27</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:35:00 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/comparative_advantage.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Comparative advantage" href=http://notes.cashpw.com/posts/673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Agile (Software development)
-</h2>
-</header>
-<div class=entry-content>
-<p>Based on their combined experience of developing software and helping others do that, the authors of the manifesto declared that they valued:
-Individuals and interactions over processes and tools Working software over comprehensive documentation Customer collaboration over contract negotiation Responding to change over following a plan That is to say, while both sides have value and the items on the right should be considered, the authors felt that the items on the left should have more influence on how people approach their work....</p>
-</div>
-<footer class=entry-footer><span title="2022-10-27 16:32:00 -0700 -0700">2022-10-27</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:24:43 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/agile.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Agile (Software development)" href=http://notes.cashpw.com/posts/5664432e-6bb3-4670-9669-08ee70b5ca6d/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Project intake form
-</h2>
-</header>
-<div class=entry-content>
-<p>Intake form for new projects, or at least projects to which I’m new.
-Include things like:
-A three-sentence description of the project Who are 1-3 others who (1) understand and (2) can speak to the importance of the project and (3) my importance in the project landing? The opinion of these individuals should “matter”. That is, ideally they’re one or two promotion levels above me. Who are the stakeholders?...</p>
-</div>
-<footer class=entry-footer><span title="2022-10-27 10:06:00 -0700 -0700">2022-10-27</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 11:11:20 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/project_intake_form.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Project intake form" href=http://notes.cashpw.com/posts/ba1c8bfe-7353-4fac-9202-768763ba4692/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Julian Shapiro | Creativity Faucet: How to Be More Creative
-</h2>
-</header>
-<div class=entry-content>
-<p>Julian Shapiro, (“Creativity Faucet: How to Be More Creative” n.d.)
-Notes One of the most valuable writing skills is the ability to generate novel ideas.
-[…]
-Visualize your creativity as a backed-up pipe of water. The first mile is packed with wastewater. This wastewater must be emptied before the clear water arrives.
-Because your pipe has only one faucet, there’s no shortcut to achieving clarity other than first emptying the wastewater....</p>
-</div>
-<footer class=entry-footer><span title="2022-10-26 09:24:00 -0700 -0700">2022-10-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:37:14 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/creativity_faucet_how_to_be_more_creative.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Julian Shapiro | Creativity Faucet: How to Be More Creative" href=http://notes.cashpw.com/posts/bbb82ce2-0bab-4746-acc1-7bb95da9bb72/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Tweet test
-</h2>
-</header>
-<div class=entry-content>
-<p>After writing a post, I try compressing it into a single tweet [(e.g. 140-280 characters)]. If I can pull that off without losing anything important, I delete the post and publish the tweet instead.
-But if I have to split the post over multiple tweets, I know I have something meaty, and so I publish the post.
-(Shapiro n.d.)
-References .csl-entry{text-indent: -1.5em; margin-left: 1.5em;}Shapiro, Julian. n.d. “Writing Handbook: How to Rewrite Your First Draft....</p>
-</div>
-<footer class=entry-footer><span title="2022-10-26 09:08:00 -0700 -0700">2022-10-26</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2022-11-04 15:35:27 -0700 -0700">2022-11-04</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/tweet_test.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Tweet test" href=http://notes.cashpw.com/posts/353501e4-2df1-477c-bcce-a3e2891fe4eb/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Creativity is a product of volume
-</h2>
-</header>
-<div class=entry-content>
-<p>Write a &lt;large number> of ideas down without regard to quality. “Here’s the magic trick: if you can’t come up with ten ideas, come up with 20 ideas.” (Altucher 2014) Pick the good ones If there are no good ideas, go to step 1 The best way I know to be creative is to produce a whole bunch of ideas without caring whether or not they’re good or bad and then select from what’s in front of me....</p>
-</div>
-<footer class=entry-footer><span title="2022-10-24 11:27:00 -0700 -0700">2022-10-24</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title="2023-11-10 10:53:03 -0800 -0800">2023-11-10</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/how_to_be_more_creative.org rel="noopener noreferrer" target=_blank>Edit</a></footer>
-<a class=entry-link aria-label="post link to Creativity is a product of volume" href=http://notes.cashpw.com/posts/3619f0c9-baa8-44da-8667-c13b7dc3e3bd/></a>
-</article>
-<footer class=page-footer>
-<nav class=pagination>
-<a class=prev href=http://notes.cashpw.com/posts/page/86/>
-«&nbsp;Prev Page&nbsp;
-</a>
-<a class=next href=http://notes.cashpw.com/posts/page/88/>Next Page&nbsp;&nbsp;»
-</a>
-</nav>
-</footer>
-</main>
-<footer class=footer>
-<span>&copy; 2023 <a href=http://notes.cashpw.com/>Cash Prokop-Weaver</a></span><span style=display:inline-block;margin-left:1em>
-<a href=https://creativecommons.org/licenses/by-sa/4.0/>CC BY-SA</a>
-</span>
-<span style=display:inline-block;margin-left:1em>
-Powered by
+<!doctype html><html lang=en dir=auto><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=robots content="index, follow"><title>Posts | Cash Prokop-Weaver</title><meta name=keywords content><meta name=description content="Posts - Cash Prokop-Weaver"><meta name=author content><link rel=canonical href=http://notes.cashpw.com/posts/><link crossorigin=anonymous href=/assets/css/stylesheet.min.b29398f29a599d5e3004230f1be93c6d0e635ee0513a370a3f70268eb91bd59d.css integrity="sha256-spOY8ppZnV4wBCMPG+k8bQ5jXuBROjcKP3Amjrkb1Z0=" rel="preload stylesheet" as=style><link rel=icon href=http://notes.cashpw.com/favicon.ico><link rel=apple-touch-icon href=http://notes.cashpw.com/apple-touch-icon.png><link rel=alternate type=application/rss+xml href=http://notes.cashpw.com/posts/index.xml><script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(e,t,n,s,o,i,a){e.GoogleAnalyticsObject=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=1*new Date,i=t.createElement(n),a=t.getElementsByTagName(n)[0],i.async=1,i.src=s,a.parentNode.insertBefore(i,a)}(window,document,"script","https://www.google-analytics.com/analytics.js","ga"),ga("create","UA-69408538-1","auto"),ga("send","pageview"))</script><meta name=twitter:title content="Posts | Cash Prokop-Weaver"><meta name=twitter:description content="Blog and notes"><meta property="og:title" content="Posts | Cash Prokop-Weaver"><meta property="og:description" content="Blog and notes"><meta property="og:type" content="website"><meta property="og:url" content="http://notes.cashpw.com/posts/"><script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"http://notes.cashpw.com/posts/"}]}</script><script>MathJax={tex:{inlineMath:[["$","$"],["\\(","\\)"]],displayMath:[["$$","$$"],["\\[","\\]"]],processEscapes:!0,processEnvironments:!0,macros:{bigo:["{\\href{/posts/big_o_notation}{O}}(#1)",1],littleo:["{\\href{/posts/little_o_notation}{o}}(#1)",1],bigtheta:["{\\href{/posts/big_theta_notation}{\\Theta}}(#1)",1],bigomega:["{\\href{/posts/big_omega_notation}{\\Omega}}(#1)",1]}},options:{skipHtmlTags:["script","noscript","style","textarea","pre"]}},window.addEventListener("load",e=>{document.querySelectorAll("mjx-container").forEach(function(e){e.parentElement.classList+="has-jax"})})</script><script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type=text/javascript id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script><noscript><style>#theme-toggle,.top-link{display:none}</style></noscript></head><body class="list-page dark type-posts kind-section layout-" id=top><script data-no-instant>function switchTheme(e){switch(e){case"light":document.body.classList.remove("dark");break;case"dark":document.body.classList.add("dark");break;default:window.matchMedia("(prefers-color-scheme: dark)").matches&&document.body.classList.add("dark")}}function isDarkTheme(){return document.body.className.includes("dark")}function getPrefTheme(){return localStorage.getItem("pref-theme")}function setPrefTheme(e){switchTheme(e),localStorage.setItem("pref-theme",e)}const toggleThemeCallbacks={};toggleThemeCallbacks.main=e=>{setPrefTheme(e?"light":"dark")},window.addEventListener("toggle-theme",function(){const e=isDarkTheme();for(const t in toggleThemeCallbacks)toggleThemeCallbacks[t](e)});function toggleThemeListener(){window.dispatchEvent(new CustomEvent("toggle-theme"))}</script><script>(function(){const t="dark",e=getPrefTheme(),n=e||t;switchTheme(n)})()</script><header class=header><nav class=nav><div class=logo><a href=http://notes.cashpw.com/ accesskey=h title="Cash Prokop-Weaver (Alt + H)">Cash Prokop-Weaver</a>
+<span class=logo-switches><button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></button></span></div><ul id=menu><li><a href=http://notes.cashpw.com/archives/ title=Archives>Archives</a></li><li><a href=http://notes.cashpw.com/search/ title="Search (Alt + /)" data-no-instant accesskey=/>Search</a></li><li><a href=http://notes.cashpw.com/tags/ title=Tags>Tags</a></li></ul></nav></header><main class=main><header class=page-header><h1>Posts</h1></header><article class=post-entry><header class=entry-header><h2>Greeks (finance)</h2></header><div class=entry-content><p>In mathematical finance, the Greeks are the quantities representing the sensitivity of the price of derivatives such as options to a change in underlying parameters on which the value of an instrument or portfolio of financial instruments is dependent. The name is used because the most common of these sensitivities are denoted by Greek letters (as are some other finance measures).
+(“Greeks (Finance)” 2022)
+Delta (finance), \(\Delta\) Gamma (finance), \(\Gamma\) Vega (finance), \(\mathcal{V}\) Theta (finance), \(\Theta\) Bibliography References “Greeks (Finance)....</p></div><footer class=entry-footer><span title='2022-11-06 17:38:00 -0800 -0800'>2022-11-06</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 20:16:46 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/greeks_finance.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Greeks (finance)" href=http://notes.cashpw.com/posts/672c801e-3d66-449b-a2eb-66dc1b134d74/></a></article><article class=post-entry><header class=entry-header><h2>Gamma (finance)</h2></header><div class=entry-content><p>Gamma (Γ) is an options risk metric that describes the rate of change in an option’s delta per one-point move in the underlying asset’s price.
+(NO_ITEM_DATA:WhatGammaInvestingHowItUsed)
+Gamma measures the rate of change in the delta with respect to changes in the underlying price. Gamma is the second derivative of the value function with respect to the underlying price.
+\(\Gamma = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2}}\)
+(“Greeks (Finance)” 2022)
+Bibliography References “Greeks (Finance)....</p></div><footer class=entry-footer><span title='2022-11-06 17:29:00 -0800 -0800'>2022-11-06</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 20:14:40 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/gamma.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Gamma (finance)" href=http://notes.cashpw.com/posts/258a5932-07d8-4d5c-8442-ef08e3f8d45d/></a></article><article class=post-entry><header class=entry-header><h2>Option (finance)</h2></header><div class=entry-content><p>In finance, an option is a contract which conveys to its owner, the holder, the right, but not the obligation, to buy or sell a specific quantity of an underlying asset or instrument at a specified strike price on or before a specified date, depending on the style of the option.
+(“Option (Finance)” 2022)
+Types Put option Call option Value In Black–Scholes (a) pricing of options, omitting interest rates and the first derivative, the Black–Scholes equation reduces to \(\Theta = - \Gamma\), “(infinitesimally) the time value is the convexity”....</p></div><footer class=entry-footer><span title='2022-11-06 17:29:00 -0800 -0800'>2022-11-06</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 20:43:24 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/option.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Option (finance)" href=http://notes.cashpw.com/posts/1263eb22-a819-43e6-9ab4-d45f790b095f/></a></article><article class=post-entry><header class=entry-header><h2>Call option</h2></header><div class=entry-content><p>In finance, a call option, often simply labeled a “call”, is a contract between the buyer and the seller of the call option to exchange a security at a set price.
+(“Call Option” 2022)
+Bibliography References “Call Option.” 2022. Wikipedia, October. https://en.wikipedia.org/w/index.php?title=Call_option&amp;oldid=1117825440. Backlinks Delta (finance) Option (finance) Strike price</p></div><footer class=entry-footer><span title='2022-11-06 17:22:00 -0800 -0800'>2022-11-06</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 19:58:52 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/call_option.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Call option" href=http://notes.cashpw.com/posts/15f1b0b2-6f51-40de-93c9-77980744a483/></a></article><article class=post-entry><header class=entry-header><h2>Put option</h2></header><div class=entry-content><p>In finance, a put or put option is a Derivative (finance) instrument in financial markets that gives the holder (i.e. the purchaser of the put option) the right to sell an asset (the underlying), at a specified price (the strike), by (or at) a specified date (the expiry or maturity) to the writer (i.e. seller) of the put.
+(“Put Option” 2022)
+Bibliography References “Put Option.” 2022. Wikipedia, October. https://en.wikipedia.org/w/index.php?title=Put_option&amp;oldid=1117825854. Backlinks Delta (finance) Option (finance) Strike price</p></div><footer class=entry-footer><span title='2022-11-06 17:22:00 -0800 -0800'>2022-11-06</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 20:49:57 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/put_option.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Put option" href=http://notes.cashpw.com/posts/7b7185c2-db8c-4e53-b9a1-795cc36ab508/></a></article><article class=post-entry><header class=entry-header><h2>Delta (finance)</h2></header><div class=entry-content><p>Delta (Δ) is a risk metric that estimates the change in price of a derivative, such as an options contract, given a $1 change in its underlying security.
+(NO_ITEM_DATA:WhatDeltaDerivativesTradingHowDoesItWork)
+Delta, \(\Delta\), measures the rate of change of the theoretical option value with respect to changes in the underlying asset’s price. Delta is the first derivative of the value \(V\) of the option with respect to the underlying instrument’s price \(S\)....</p></div><footer class=entry-footer><span title='2022-11-06 17:18:00 -0800 -0800'>2022-11-06</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 20:07:24 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/delta.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Delta (finance)" href=http://notes.cashpw.com/posts/ef21ad22-553d-432e-a4e2-bdc404009c87/></a></article><article class=post-entry><header class=entry-header><h2>Mnemonic</h2></header><div class=entry-content><p>A mnemonic device, or memory device, is any learning technique that aids information retention or retrieval (remembering) in the human memory for better understanding.
+Mnemonics make use of elaborative encoding, retrieval cues, and imagery as specific tools to encode information in a way that allows for efficient storage and retrieval. Mnemonics aid original information in becoming associated with something more accessible or meaningful—which, in turn, provides better retention of the information....</p></div><footer class=entry-footer><span title='2022-11-04 17:38:00 -0700 -0700'>2022-11-04</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 20:37:30 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/mnemonic.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Mnemonic" href=http://notes.cashpw.com/posts/f38ffe48-0117-4338-8bd5-e0b05101e64f/></a></article><article class=post-entry><header class=entry-header><h2>Why is it always the libs?</h2></header><div class=entry-content><p>People will tell you, “I don’t care about anything, I just like triggering the libs,” but why is it always libs? It is piss easy (and also hilarious) to upset conservatives, why only go after the SJWs? The easy answer is, well, if you upset a feminist, you might make her cry; if you upset a Nazi, he might stab you, and that has a cooling effect. But the more obvious answer is that they actually agree with the racist, MRA, and TERF talking points they repeat, but would rather not think about it....</p></div><footer class=entry-footer><span title='2022-11-01 08:54:00 -0700 -0700'>2022-11-01</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 21:23:46 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/why_is_it_always_the_libs.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Why is it always the libs?" href=http://notes.cashpw.com/posts/d8ff4c8c-4032-473b-9060-8bd7903784c8/></a></article><article class=post-entry><header class=entry-header><h2>Creamy vegan mushroom lasagna</h2></header><div class=entry-content><p>This recipe is from (NO_ITEM_DATA:murnaneOnePartPlantSimpleGuideEatingRealOneMealTime2017) and (NO_ITEM_DATA:murnaneCreamyVeganMushroomLasagnaa).
+Ingredients Olive, grape seed, or coconut oil, or veggie broth for sautéing 3 garlic cloves, minced 16 ounces mushrooms, chopped (you can use a mix of different mushrooms) 1 tablespoon tamari or coconut aminos 1 teaspoon dried thyme 3/4 cup raw cashews, soaked for a few hours (overnight is best), drained 1 cup veggie broth 2 big handfuls spinach 10 ounces lasagna noodles 4 cups marinara sauce, store-bought or homemade Nutritional yeast (optional) Steps Preheat the oven to 350ºF....</p></div><footer class=entry-footer><span title='2022-10-31 08:21:00 -0700 -0700'>2022-10-31</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 20:04:42 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/creamy_vegan_mushroom_lasagna.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Creamy vegan mushroom lasagna" href=http://notes.cashpw.com/posts/0905eaa4-16e9-4abb-b78c-0b00f855e60d/></a></article><article class=post-entry><header class=entry-header><h2>Syntopical</h2></header><div class=entry-content><p>Syntopical: Referring to a type of analysis in which different works are compared and contrasted.
+Bibliography References</p></div><footer class=entry-footer><span title='2022-10-29 08:37:00 -0700 -0700'>2022-10-29</span>&nbsp;·&nbsp;<span style=margin-right:.5ch></span><span title='2023-12-05 21:08:21 -0800 -0800'>2023-12-05</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;<a href=https://github.com/cashpw/notes/edit/main/syntopical.org rel="noopener noreferrer" target=_blank>Edit</a></footer><a class=entry-link aria-label="post link to Syntopical" href=http://notes.cashpw.com/posts/984c3205-5964-4fb3-894d-1bea4c5e3c41/></a></article><footer class=page-footer><nav class=pagination><a class=prev href=http://notes.cashpw.com/posts/page/86/>«&nbsp;Prev Page&nbsp;</a>
+<a class=next href=http://notes.cashpw.com/posts/page/88/>Next Page&nbsp;&nbsp;»</a></nav></footer></main><footer class=footer><span>&copy; 2023 <a href=http://notes.cashpw.com/>Cash Prokop-Weaver</a></span><span style=display:inline-block;margin-left:1em>
+<a href=https://creativecommons.org/licenses/by-sa/4.0/>CC BY-SA</a></span>
+<span style=display:inline-block;margin-left:1em>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
-    <a href=https://github.com/reorx/hugo-PaperModX/ rel=noopener target=_blank>PaperModX</a>
-</span>
-</footer>
-<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
-</a>
-<script>(function(){const b=''=='1';if(b)return;let a=document.getElementById("theme-toggle");a.removeEventListener('click',toggleThemeListener),a.addEventListener('click',toggleThemeListener)})()</script>
-<script>(function(){let a=document.getElementById('menu');a&&(a.scrollLeft=localStorage.getItem("menu-scroll-position"),a.onscroll=function(){localStorage.setItem("menu-scroll-position",a.scrollLeft)});const b=''=='1',c=''=='1';if(window.matchMedia('(prefers-reduced-motion: reduce)').matches||b||c)return;document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})})()</script>
-<script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
-<script>if(window.scrollListeners)for(const a of scrollListeners)window.removeEventListener('scroll',a);window.scrollListeners=[]</script>
-<script src=/js/medium-zoom.min.js data-no-instant></script>
-</body>
-</html>
+    <a href=https://github.com/reorx/hugo-PaperModX/ rel=noopener target=_blank>PaperModX</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg></a><script>(function(){const t=""=="1";if(t)return;let e=document.getElementById("theme-toggle");e.removeEventListener("click",toggleThemeListener),e.addEventListener("click",toggleThemeListener)})()</script><script>(function(){let e=document.getElementById("menu");e&&(e.scrollLeft=localStorage.getItem("menu-scroll-position"),e.onscroll=function(){localStorage.setItem("menu-scroll-position",e.scrollLeft)});const t=""=="1",n=""=="1";if(window.matchMedia("(prefers-reduced-motion: reduce)").matches||t||n)return;document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault();var t=this.getAttribute("href").substr(1);document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView({behavior:"smooth"}),t==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${t}`)})})})()</script><script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script><script>if(window.scrollListeners)for(const e of scrollListeners)window.removeEventListener("scroll",e);window.scrollListeners=[]</script><script src=/js/medium-zoom.min.js data-no-instant></script></body></html>

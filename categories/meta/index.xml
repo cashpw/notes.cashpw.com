@@ -94,12 +94,12 @@ Node types Type Tag Description Example Concept concept A single idea/concept/te
 <h4 id="examples">Examples</h4>
 <blockquote>
 <p>I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a theory of change.</p>
-<p><a href="/posts/62152128-36b1-4229-a6ce-a78858975120/">Aaron Swartz</a>, (Swartz 2010)</p>
+<p><a href="/posts/62152128-36b1-4229-a6ce-a78858975120/">Aaron Swartz</a>, (<a href="#citeproc_bib_item_3">Swartz 2010</a>)</p>
 </blockquote>
 <!--quoteend-->
 <blockquote>
 <p>Muad&rsquo;Dib learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn. It&rsquo;s shocking to find how many people do not believe they can learn, and how many more believe learning to be difficult. Muad&rsquo;Dib knew that every experience carries its lesson.</p>
-<p><em>Princess Irulan, (Herbert 1999)</em></p>
+<p><em>Princess Irulan, (<a href="#citeproc_bib_item_1">Herbert 1999</a>)</em></p>
 </blockquote>
 <!--quoteend-->
 <blockquote>
@@ -107,7 +107,7 @@ Node types Type Tag Description Example Concept concept A single idea/concept/te
 <p><em><a href="https://orgmode.org/manual/Summary.html" target="_blank" rel="noopener">org-mode Manual: Summary</a> (<a href="https://web.archive.org/web/2022*/https://orgmode.org/manual/Summary.html" rel="noopener noreferrer" target="_blank">a</a>)</em></p>
 </blockquote>
 <h3 id="large-quotes-are-okay">Large quotes are okay</h3>
-<p>There isn&rsquo;t a hard rule on how much quoting is too much. Large quotes <a href="/posts/18745aec-fcd1-4dd5-a55f-73fdc409aacb/">have their benefits</a> and are simple to capture using bookmarklets (Porter [2015] 2022).</p>
+<p>There isn&rsquo;t a hard rule on how much quoting is too much. Large quotes <a href="/posts/18745aec-fcd1-4dd5-a55f-73fdc409aacb/">have their benefits</a> and are simple to capture using bookmarklets (<a href="#citeproc_bib_item_2">Porter 2022</a>).</p>
 <h3 id="nodes-can-just-be-a-quote">Nodes can just be a quote</h3>
 <p>Quotes can live in stand-alone single nodes (eg: <a href="/posts/7c49d995-a4d4-4c95-84c0-9dae9d8ab498/">The First Lesson</a>). This is multi-purpose:</p>
 <ol>
@@ -125,20 +125,31 @@ Node types Type Tag Description Example Concept concept A single idea/concept/te
 <p>Favicons are nice additions to links. They provide visual context to where the reader expects the link to take them. Include them alongside external links. I&rsquo;ve written a <a href="https://github.com/cashweaver/basic-favicon-links" target="_blank" rel="noopener">script to make the process easier</a> (<a href="https://web.archive.org/web/2022*/https://github.com/cashweaver/basic-favicon-links" rel="noopener noreferrer" target="_blank">a</a>).</p>
 <h3 id="every-node-must-include-backlinks">Every node must include backlinks</h3>
 <p>Backlinks are the backbone of a powerful <a href="/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710/">zettelkasten</a> system. The published form of these notes <strong>must</strong> include backlinks.</p>
+<h2 id="bibliography">Bibliography</h2>
+<h2 id="references">References</h2>
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Porter, Adam. 2022. “Org-Protocol-Capture-Html.” <a href="https://github.com/alphapapa/org-protocol-capture-html">https://github.com/alphapapa/org-protocol-capture-html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
+</div>
 <h2 id="backlinks">Backlinks</h2>
 <ul>
-<li><a href="/posts/248e3cc9-0511-4e71-afd6-19320d3fd61d/">Julian Shapiro | Writing Well Handbook</a></li>
 <li><a href="/posts/6a5b1ddb-40c7-424a-9a57-68afbf45a9d5/">Lint your prose</a></li>
 <li><a href="/posts/5140bc26-825e-4e26-aec6-3738a5fe2ab1/">How I write notes</a></li>
+<li><a href="/posts/248e3cc9-0511-4e71-afd6-19320d3fd61d/">Julian Shapiro | Writing Well Handbook</a></li>
 </ul>
 ]]></content:encoded></item><item><title>README</title><link>http://notes.cashpw.com/posts/eb245ca9-b067-40f3-b220-0dff690e4058/</link><pubDate>Mon, 27 Dec 2021 20:32:00 -0800</pubDate><guid>http://notes.cashpw.com/posts/eb245ca9-b067-40f3-b220-0dff690e4058/</guid><description>These are my personal notes.
 The key component of my notes are the links and backlinks which connect them. These sorts of interconnected notes are a type of Personal knowledge management system. They&amp;rsquo;re sometimes called Zettelkasten, a second brain, or a digital garden. The works of others heavily inspire these notes.
 Related to the Metagame of taking notes:
-How I write notes Why I write notes</description><content:encoded><![CDATA[<p>These are my personal notes.</p>
+How I write notes Why I write notes Bibliography References</description><content:encoded><![CDATA[<p>These are my personal notes.</p>
 <p>The key component of my notes are the <a href="/posts/6037800d-34c3-4d62-a33b-3931d694f083/">links and backlinks which connect them</a>. These sorts of interconnected notes are a type of <a href="/posts/773406e0-fe95-41f4-a254-b2c6ade18ce9/">Personal knowledge management</a> system. They&rsquo;re sometimes called <a href="/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710/">Zettelkasten</a>, a second brain, or a digital garden. The <a href="/posts/32438fd5-c050-46a9-9611-97d571512f3e/">works of others</a> heavily inspire these notes.</p>
 <p>Related to the <a href="/posts/462b9154-2519-45e9-a4f5-35e7c32128c7/">Metagame</a> of taking notes:</p>
 <ul>
 <li><a href="/posts/5140bc26-825e-4e26-aec6-3738a5fe2ab1/">How I write notes</a></li>
 <li><a href="/posts/7add4362-8a4e-4148-ac25-185213327b33/">Why I write notes</a></li>
 </ul>
+<h2 id="bibliography">Bibliography</h2>
+<h2 id="references">References</h2>
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+</div>
 ]]></content:encoded></item></channel></rss>
