@@ -2,7 +2,7 @@
 title = "Art inspiration"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-08T15:58:00-08:00
-lastmod = 2023-12-05T19:53:53-08:00
+lastmod = 2023-12-12T19:53:34-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "8a0cef6e-e26b-4aac-a260-34fb116f7952"
 
 ## Digital collections {#digital-collections}
 
--   (<a href="#citeproc_bib_item_1">McCann 2022</a>)
+-   (<a href="#citeproc_bib_item_1">McCann [2018] 2022</a>)
 
 
 ## Art {#art}
@@ -24,10 +24,7 @@ slug = "8a0cef6e-e26b-4aac-a260-34fb116f7952"
 [Ceramists I follow]({{< relref "ceramists_potters_i_follow.md" >}})
 
 -   <https://honchar.org.ua/collections/view/keramika>
--   [My favorite piece so far](https://www.reddit.com/r/Pottery/comments/152m6ur/my_favorite_piece_so_far/)
--   [I know jug I know](https://www.reddit.com/r/Ceramics/comments/1529n55/i_know_jug_i_know/)
 -   [A 'Lunar' style glaze I've been trying to perfect.](https://www.reddit.com/r/Ceramics/comments/14kkrjr/a_lunar_style_glaze_ive_been_trying_to_perfect/)
--   ["Trash" teapot](https://www.reddit.com/r/Ceramics/comments/14lgrg5/trash_teapot/)
 -   [Wanted to share my first coil built piece, it started off as a pitcher but I wasn't loving the top so I pivoted to a vase. I can't wait to fire this puppy after a slow dry](https://www.reddit.com/r/Pottery/comments/14nigfz/wanted_to_share_my_first_coil_built_piece_it/)
 -   [Bouldering cups i made for my first market at a climbing gym](https://www.reddit.com/r/Pottery/comments/14qyfd9/bouldering_cups_i_made_for_my_first_market_at_a/)
 -   [60s floral-inspired plate I painted](https://www.reddit.com/r/Ceramics/comments/14sa6z0/60s_floralinspired_plate_i_painted/)
@@ -194,6 +191,26 @@ slug = "8a0cef6e-e26b-4aac-a260-34fb116f7952"
 -   <https://www.tumblr.com/design-is-fine/732174076776529920/eva-zeisel-museum-dinner-service-1945-1970?source=share>
 
 
+### Forms {#forms}
+
+{{< gallery >}}
+
+{{< figure src="/ox-hugo/2023-12-12_19-48-22_dvw5sw7yhkcb1.jpg.jpeg" attr="Rushsculpture" attrlink="https://old.reddit.com/r/Ceramics/comments/1529n55/i_know_jug_i_know/" >}}
+
+{{< figure src="/ox-hugo/2023-12-12_19-52-00.png" attr="deedlelu" attrlink="https://old.reddit.com/r/Pottery/comments/14nigfz/wanted_to_share_my_first_coil_built_piece_it/" >}}
+
+{{< /gallery >}}
+
+
+### Glazes {#glazes}
+
+{{< gallery >}}
+
+{{< figure src="/ox-hugo/my-favorite-piece-so-far.png" attr="Norizan" attrlink="https://old.reddit.com/r/Pottery/comments/152m6ur/my_favorite_piece_so_far/" >}}
+
+{{< /gallery >}}
+
+
 ## Extract links into inspiration gallery to avoid link rot {#extract-links-into-inspiration-gallery-to-avoid-link-rot}
 
 
@@ -202,5 +219,5 @@ slug = "8a0cef6e-e26b-4aac-a260-34fb116f7952"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>McCann, Paul O’Leary. 2022. “Awesome-Digital-Collections.” <a href="https://github.com/polm/awesome-digital-collections">https://github.com/polm/awesome-digital-collections</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>McCann, Paul O’Leary. (2018) 2022. “Awesome-Digital-Collections.” <a href="https://github.com/polm/awesome-digital-collections">https://github.com/polm/awesome-digital-collections</a>.</div>
 </div>

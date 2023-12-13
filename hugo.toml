@@ -87,3 +87,8 @@ Check out the [archives](/archives) for a full list of posts or start from one o
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[module]
+[[module.mounts]]
+    source = "static"
+    target = "assets"
