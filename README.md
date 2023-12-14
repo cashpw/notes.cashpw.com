@@ -1,6 +1,6 @@
-# [cashpw.com](http://cashpw.com)
+# [notes.cashpw.com](http://notes.cashpw.com)
 
-My personal website.
+My personal notes.
 
 ## Development
 

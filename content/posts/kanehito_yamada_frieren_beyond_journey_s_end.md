@@ -2,7 +2,7 @@
 title = "Kanehito Yamada | Frieren: Beyond Journey's End"
 author = ["Cash Weaver"]
 date = 2023-12-07T06:43:00-08:00
-lastmod = 2023-12-12T16:36:25-08:00
+lastmod = 2023-12-14T12:48:08-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -36,9 +36,9 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 
 {{< gallery >}}
 
-{{< figure src="/ox-hugo/2023-12-07_06-47-54_p.jpg" >}}
+{{< figure src="/ox-hugo/2023-12-07_06-47-54_p.jpg" class="hugo-gallery-image" >}}
 
-{{< figure src="/ox-hugo/2023-12-07_06-46-53_p.jpg" >}}
+{{< figure src="/ox-hugo/2023-12-07_06-46-53_p.jpg" class="hugo-gallery-image" >}}
 
 {{< /gallery >}}
 
@@ -47,7 +47,7 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 
 {{< gallery >}}
 
-{{< figure src="/ox-hugo/just-trivial-things-about-his-journey.png" >}}
+{{< figure src="/ox-hugo/just-trivial-things-about-his-journey.png" class="hugo-gallery-image" >}}
 
 {{< /gallery >}}
 
@@ -56,7 +56,7 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 
 {{< gallery >}}
 
-{{< figure src="/ox-hugo/2023-12-08_21-02-00_p.jpg" >}}
+{{< figure src="/ox-hugo/2023-12-08_21-02-00_p.jpg" class="hugo-gallery-image" >}}
 
 {{< /gallery >}}
 
@@ -65,7 +65,7 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 
 {{< gallery >}}
 
-{{< figure src="/ox-hugo/2023-12-08_21-08-37_p.jpg" >}}
+{{< figure src="/ox-hugo/2023-12-08_21-08-37_p.jpg" class="hugo-gallery-image" >}}
 
 {{< /gallery >}}
 
@@ -74,7 +74,7 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 
 {{< gallery >}}
 
-{{< figure src="/ox-hugo/2023-12-09_05-19-15_p.jpg" >}}
+{{< figure src="/ox-hugo/2023-12-09_05-19-15_p.jpg" class="hugo-gallery-image" >}}
 
 {{< /gallery >}}
 
@@ -83,7 +83,7 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 
 {{< gallery >}}
 
-{{< figure src="/ox-hugo/2023-12-09_07-13-53_p.jpg" >}}
+{{< figure src="/ox-hugo/2023-12-09_07-13-53_p.jpg" class="hugo-gallery-image" >}}
 
 {{< /gallery >}}
 
@@ -92,7 +92,7 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 
 {{< gallery >}}
 
-{{< figure src="/ox-hugo/2023-12-09_07-18-11_p.jpg" >}}
+{{< figure src="/ox-hugo/2023-12-09_07-18-11_p.jpg" class="hugo-gallery-image" >}}
 
 {{< /gallery >}}
 
