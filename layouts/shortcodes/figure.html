@@ -1,39 +1,4 @@
-
 <!--
-{{ $caption := replaceRE "^Figure [0-9]+: " "" (.Get "caption") }}
-<figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
-  {{- if .Scratch.Get "link" -}}
-    link v
-    <a href="{{ .Scratch.Get "link" }}" {{ with .Get "target" }} target="{{ . }}"{{ end }}>
-    link ^
-  {{- end -}}
-  preview v
-  <img src="{{ .Scratch.Get "preview-src" }}"
-    {{- if or (.Get "alt") $caption }}
-      alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ $caption | markdownify | plainify }}{{ end }}"
-    {{- end -}}
-    {{- with .Get "width" }} width="{{ . }}"{{ end -}}
-    {{- with .Get "height" }} height="{{ . }}"{{ end -}}
-  />
-  preview ^
-  {{- if .Scratch.Get "link" }}
-    </a>
-  {{ end -}}
-  {{- if or $caption (.Get "attr") -}}
-    <figcaption>
-      {{- if or $caption (.Get "attr") -}}<p>
-        {{- $caption | markdownify -}}
-        {{- with .Get "attrlink" }}<a href="{{ . }}">{{- end -}}
-        {{- .Get "attr" | markdownify -}}
-        {{- if .Get "attrlink" }}
-          </a>
-        {{ end }}
-        </p>
-      {{- end }}
-    </figcaption>
-  {{- end }}
-</figure>
-
 Put this file in /layouts/shortcodes/figure.html
 NB this overrides Hugo's built-in "figure" shortcode but is backwards compatible
 Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
@@ -45,7 +10,6 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 {{ end }}
 {{- $.Page.Scratch.Add "figurecount" 1 -}}
 
-<!-- use either src or link-thumb for thumbnail image -->
 {{ .Scratch.Set "thumb" (.Get "src" | default (printf "%s." (.Get "thumb") | replace (.Get "link") ".")) }}
 {{- if (in (split (.Get "class") " ") "hugo-gallery-image") -}}
   {{ $original := resources.Get (.Get "src") }}
