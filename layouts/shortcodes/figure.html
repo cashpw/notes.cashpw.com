@@ -47,10 +47,10 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 
 <!-- use either src or link-thumb for thumbnail image -->
 {{ .Scratch.Set "thumb" (.Get "src" | default (printf "%s." (.Get "thumb") | replace (.Get "link") ".")) }}
-{{- if (or ($.Page.Scratch.Get "isgallery") (in (split (.Get "class") " ") "cashpw-gallery")) -}}
+{{- if (in (split (.Get "class") " ") "hugo-gallery-image") -}}
   {{ $original := resources.Get (.Get "src") }}
   {{ if and ($original) (not (eq $original.MediaType.SubType "svg")) }}
-    {{ .Scratch.Set "thumb" (($original.Resize "300x").Crop "300x300").RelPermalink }}
+    {{ .Scratch.Set "thumb" (($original.Resize "240x").Crop "240x240").RelPermalink }}
   {{ end }}
 {{- end -}}
 {{- $thumb := .Scratch.Get "thumb" -}}

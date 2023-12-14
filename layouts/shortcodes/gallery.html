@@ -35,7 +35,6 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
       {{- end }}
     {{- end }}
   {{- else -}}
-    {{- $.Page.Scratch.Add "isgallery" 1 -}}
     <!-- If no directory was specified, include any figure shortcodes called within the gallery -->
     {{ .Inner }}
   {{- end }}
