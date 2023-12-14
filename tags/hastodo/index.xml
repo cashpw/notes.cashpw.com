@@ -4620,9 +4620,76 @@ Summary Sensemaking Thoughts Notes In this chapter, we attempt to explain the na
 </blockquote>
 <h3 id="the-forms-of-sensemaking">The forms of sensemaking</h3>
 <blockquote>
-<figure>
-    <img loading="lazy" src="/ox-hugo/sensemaking-fig-6-1.png"/> 
-</figure>
+
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=http://notes.cashpw.com/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href=http://notes.cashpw.com/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/sensemaking-fig-6-1.png" />
+    </div>
+    <a href="/ox-hugo/sensemaking-fig-6-1.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 </blockquote>
 <p>Also see Example 6.</p>
@@ -4996,9 +5063,76 @@ Ray Dalio is best known for starting Bridgewater &amp;mdash; one of the largest 
 </ol>
 <h2 id="a-note-on-book-structure">A note on book structure</h2>
 <blockquote>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-09-08_16-32-56_principles_seq.png"/> 
-</figure>
+
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=http://notes.cashpw.com/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href=http://notes.cashpw.com/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-09-08_16-32-56_principles_seq.png" />
+    </div>
+    <a href="/ox-hugo/2023-09-08_16-32-56_principles_seq.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>The book is divided into three parts:</p>
 <ol>
@@ -5046,9 +5180,76 @@ Thoughts Notes Abstract Cognitive task analysis (CTA) is a set of methods for id
 <p>The task diagram elicits a broad overview of the task and identifies the difficult cognitive elements. Although this preliminary interview offers only a surface-level view of the cognitive elements of the task, it enables the interviewer to focus the more in-depth interviews (i.e. the knowledge audit and simulation interviews) so that time and resources can be spent unpacking the most difficult and relevant of those cognitive elements.</p>
 <p>The subject matter expert is asked to decompose the task into steps or subtasks with a question such as, `Think about what you do when you (task of interest). Can you break this task down into less than six, but more than three steps?&rsquo; The goal is to get the expert to walk through the task in his / her mind, verbalizing major steps. The interviewer limits the SME to between three and six steps, to ensure that time is not wasted delving into minute detail during the surface-level interview. After the steps of the task have been articulated, the SME is asked to identify which of the steps require cognitive skill, with a question such as, `Of the steps you have just identified which require difficult cognitive skills? By cognitive skills I mean judgements, assessments, problem solving ± thinking skills&rsquo;. The resulting diagram (figure 1) serves as a road map for future interviews, providing an overview of the major steps involved in the task and the sequence in which the steps are carried out, as well as which of the steps require the most cognitive skill.</p>
 <p>The task diagram interview is intended to provide a surface-level look at the task, and does not attempt to unpack the mental model of each SME. The goal is to elicit a very broad overview of the task.</p>
-<figure>
-    <img loading="lazy" src="/ox-hugo/acta-figure-1.png"/> 
-</figure>
+
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=http://notes.cashpw.com/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href=http://notes.cashpw.com/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/acta-figure-1.png" />
+    </div>
+    <a href="/ox-hugo/acta-figure-1.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 </blockquote>
 <h4 id="knowledge-audit">Knowledge audit</h4>
@@ -5501,19 +5702,96 @@ Notes Once upon a time (true story), I was on my way to a hotel in a new city. I
 <h2 id="notes">Notes</h2>
 <blockquote>
 <p>Once upon a time (true story), I was on my way to a hotel in a new city. I knew the hotel was many miles down this long, branchless road. So I drove for a long while.</p>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-07-27_08-21-27_t3_n6a_2.png.png"/> 
-</figure>
+
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=http://notes.cashpw.com/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href=http://notes.cashpw.com/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-07-27_08-21-27_t3_n6a_2.png.png" />
+    </div>
+    <a href="/ox-hugo/2023-07-27_08-21-27_t3_n6a_2.png.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>After a while, I began to worry I had passed the hotel.</p>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-07-27_08-21-36_t3_n6a_3.png.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-07-27_08-21-36_t3_n6a_3.png.png" />
+    </div>
+    <a href="/ox-hugo/2023-07-27_08-21-36_t3_n6a_3.png.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>So, instead of proceeding at 60 miles per hour the way I had been, I continued in the same direction for several more minutes at 30 miles per hour, wondering if I should keep going or turn around.</p>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-07-27_08-21-41_t3_n6a_4.png.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-07-27_08-21-41_t3_n6a_4.png.png" />
+    </div>
+    <a href="/ox-hugo/2023-07-27_08-21-41_t3_n6a_4.png.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>After a while, I realized: I was being silly! If the hotel was ahead of me, I&rsquo;d get there fastest if I kept going 60mph. And if the hotel was behind me, I&rsquo;d get there fastest by heading at 60 miles per hour in the other direction. And if I <em>wasn&rsquo;t</em> going to turn around yet &ndash; if my best bet given the uncertainty was to check <em>N</em> more miles of highway first, <em>before</em> I turned around &ndash; then, again, I&rsquo;d get there fastest by choosing a value of <em>N</em>, speeding along at 60 miles per hour until my odometer said I&rsquo;d gone <em>N</em> miles, and <em>then</em> turning around and heading at 60 miles per hour in the opposite direction [<a href="/posts/f1882164-0604-4dd9-ae59-df0d7b9d5ca2/#feedback-loop">Feedback loop</a>].</p>
 <p>Either way, fullspeed was best. My mind had been naively averaging two courses of action &ndash; the thought was something like: &ldquo;maybe I should go forward, and maybe I should go backward. So, since I&rsquo;m uncertain, I should go forward at half-speed!&rdquo; But averages don&rsquo;t <em>actually</em> work that way.</p>
@@ -5531,9 +5809,14 @@ Notes Once upon a time (true story), I was on my way to a hotel in a new city. I
 <li>It is said that start-up founders need to be irrationally certain that their startup will succeed, lest they be unable to do more than kind-of work on it&hellip;</li>
 </ul>
 <p>That is, it seems to me that often there are two different actions that would make sense under two different models, and we are uncertain which model is true&hellip; and so we find ourselves taking an intermediate of half-speed action&hellip; even when that action makes no sense under any probabilistic mixture of the two models.</p>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-07-27_08-22-31_t3_n6a_5.png.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-07-27_08-22-31_t3_n6a_5.png.png" />
+    </div>
+    <a href="/ox-hugo/2023-07-27_08-22-31_t3_n6a_5.png.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>You might try looking out for such examples in your life.</p>
 </blockquote>
@@ -6269,9 +6552,76 @@ Bibliography References “Value (Computer Science).” 2023. Wikipedia, March. 
 <h2 id="algorithm">Algorithm</h2>
 <h3 id="preprocessing-phase">Preprocessing phase</h3>
 <blockquote>
-<figure>
-    <img loading="lazy" src="/ox-hugo/Shortcut_in_a_shortest_path.svg"/> 
-</figure>
+
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=http://notes.cashpw.com/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href=http://notes.cashpw.com/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/Shortcut_in_a_shortest_path.svg" />
+    </div>
+    <a href="/ox-hugo/Shortcut_in_a_shortest_path.svg" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>(<a href="#citeproc_bib_item_1">“Contraction Hierarchies” 2023</a>)</p>
 </blockquote>
@@ -6287,17 +6637,32 @@ Bibliography References “Value (Computer Science).” 2023. Wikipedia, March. 
 </blockquote>
 <!--quoteend-->
 <blockquote>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_07-59-45_contract-intro-1.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_07-59-45_contract-intro-1.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_07-59-45_contract-intro-1.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_07-59-55_contract-intro-2.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_07-59-55_contract-intro-2.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_07-59-55_contract-intro-2.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_08-00-06_contract-intro-3.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_08-00-06_contract-intro-3.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_08-00-06_contract-intro-3.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>[&hellip;]</p>
 <p>Consider a node \(v\) and the following <code>contract</code> process:</p>
@@ -6317,9 +6682,14 @@ Bibliography References “Value (Computer Science).” 2023. Wikipedia, March. 
 <blockquote>
 <p>But in general, we need a method for efficiently determining when to add a shortcut edge.</p>
 <p>[&hellip;]</p>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_08-32-52_example-1.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_08-32-52_example-1.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_08-32-52_example-1.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>So we can do the following:</p>
 <ul>
@@ -6360,9 +6730,14 @@ Bibliography References “Value (Computer Science).” 2023. Wikipedia, March. 
 <li>
 <p>Example 1</p>
 <blockquote>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_08-50-04_contract-full-2.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_08-50-04_contract-full-2.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_08-50-04_contract-full-2.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>(NO_ITEM_DATA:lazarsfeldCoreComponentsCHNodeContraction)</p>
 </blockquote>
@@ -6454,9 +6829,14 @@ Bibliography References “Value (Computer Science).” 2023. Wikipedia, March. 
 <li>
 <p>Example 2</p>
 <blockquote>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_10-19-12_contract-full-5.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_10-19-12_contract-full-5.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_10-19-12_contract-full-5.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>(NO_ITEM_DATA:lazarsfeldCoreComponentsCHNodeContraction)</p>
 </blockquote>
@@ -6546,39 +6926,69 @@ Bibliography References “Value (Computer Science).” 2023. Wikipedia, March. 
 </blockquote>
 <h4 id="example">Example</h4>
 <blockquote>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_16-54-53_g-star-graph.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_16-54-53_g-star-graph.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_16-54-53_g-star-graph.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>[&hellip;]</p>
 <p>[&hellip;] for symmetric graphs like the ones we are considering, a backward search (reversing edge directions) on \(G_{down}\) is the same as an upward search on \(G_{up}\). So from both our source and target nodes, we can perform a standard Dijkstra search on the \(G_{up}\) graph.</p>
 <p>From our example above, let&rsquo;s say our source node is \(B\) and our target node is \(G\). Then the two respective search spaces on \(G_{up}\) will look as follows:</p>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_16-54-11_upward-source.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_16-54-11_upward-source.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_16-54-11_upward-source.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_16-57-46_upward-target.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_16-57-46_upward-target.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_16-57-46_upward-target.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>Although we said that <em>every</em> edge in \(G*\) is either in the \(G_{up}\) or the \(G_{down}\) graph, not all edges [&hellip;] will be relevant in the search space from a given node.</p>
 <p>In our example above, for example, the edge \(E,D\) does exist in \(G_{up}\) since \(E\) was contracted before \(D\). But, because there is no path to \(E\) in either of the two searches from \(B\) or \(G\), we would never need to consider the edge \(E,D\).</p>
 <p>Then on both of these upward graphs, we run a <strong><em>complete</em></strong> Dijkstra search, meaning that all nodes in <em>both</em> subgraphs must be settled. And it should be evident that in both searches, the number of settled nodes and relaxed edges is significantly reduced than if we were searching on the entire \(G*\) graph.</p>
 <p>Moreover, because we have a complete ordering of nodes, the two search spaces can both be conceptualized as <em>DAGs</em> (directed acyclic graphs [<a href="/posts/ee7fcae8-6322-4b71-91b0-704b7c21ae3a/">Directed acyclic graph</a>]) and are inherently topologically sorted [<a href="/posts/518c35ac-35d7-4c12-9522-efb13e5be1e8/">Topological order</a>]. Consider the redrawing of the two searches that emphasizes this hierarchical nature of the contraction order:</p>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_17-07-38_dag-source.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_17-07-38_dag-source.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_17-07-38_dag-source.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_17-07-44_dag-target.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_17-07-44_dag-target.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_17-07-44_dag-target.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>[&hellip;]</p>
 <p>In any case, after running two complete Dijkstra searches on \(G_{up}\) from both the source and target, we have a set of nodes that are settled in both searches. We denote this set as \(L\).</p>
 <p>Continuing with our example from above, we see the nodes in \(L\) shaded in red with their corresponding shortest path scores:</p>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_17-07-19_query-scores.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_17-07-19_query-scores.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_17-07-19_query-scores.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>This means the shortest path from \(B\) to \(G\) is 10 and goes through node \(H\).</p>
 <p>[formatting mine]</p>
@@ -6589,13 +6999,23 @@ Bibliography References “Value (Computer Science).” 2023. Wikipedia, March. 
 <p>We&rsquo;re able to compute the <em>length</em> of the shortest path, but we still need to unpack the actual arcs used on that path. We can handle this during the stage of contraction when shortcut edges are added. When we add a shortcut edge from \(u\) to \(w\) during the contraction of \(v\), we store a shortcut pointer to \(v\).</p>
 <p>We then begin unpacking the shortest path on the G*<sub>U</sub> graph from the highest order node, in both directions. We back-trace parent edge pointers as in a regular Dijkstra algorithm, and if the parent edge has a shortcut pointer, we replace the parent edge with the shortcut edge, and continue to recursively unpack the full path.</p>
 <p>Our example query above didn&rsquo;t end up using any shortcut edges in \(G*\), but consider if we had queried the shortest path from node \(A\) to \(G\). Then, we would certainly use the shortcut edge \(A,H\). And since \(A\) is the highest-ordered node in terms of contraction time, we can visualize the &lsquo;unpacking&rsquo; of shortcut edges as:</p>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_17-15-41_g-star-graph.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_17-15-41_g-star-graph.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_17-15-41_g-star-graph.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-15_17-14-21_shortcut-unpack.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-15_17-14-21_shortcut-unpack.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-15_17-14-21_shortcut-unpack.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>[Paraphrased, Spelling corrected]</p>
 <p>(NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery)</p>
@@ -6615,13 +7035,23 @@ Bibliography References “Value (Computer Science).” 2023. Wikipedia, March. 
 <p>[&hellip;]</p>
 <p>Using our original, arbitrary node ordering, we only added 3 shortcut edges. In the example, B was the first node we contracted, and it didn&rsquo;t require any shortcuts to be added. In other words, the edge difference of B is -3.</p>
 <p>But what if we had first contracted J first? Compare what choosing J over B looks like:</p>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-16_16-14-51_order-example-1.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-16_16-14-51_order-example-1.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-16_16-14-51_order-example-1.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-06-16_16-15-04_order-example-3.png"/> 
-</figure>
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-06-16_16-15-04_order-example-3.png" />
+    </div>
+    <a href="/ox-hugo/2023-06-16_16-15-04_order-example-3.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>So clearly J has a much greater edge difference than B, and so J is less attractive to contract early on.</p>
 <p>[&hellip;]</p>
@@ -10780,9 +11210,76 @@ Link layer Internet layer Transport layer Application layer Bibliography Referen
 </blockquote>
 <h2 id="layers">Layers</h2>
 <blockquote>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-03-17_08-32-54_1920px-UDP_encapsulation.svg.png"/> 
-</figure>
+
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=http://notes.cashpw.com/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href=http://notes.cashpw.com/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-03-17_08-32-54_1920px-UDP_encapsulation.svg.png" />
+    </div>
+    <a href="/ox-hugo/2023-03-17_08-32-54_1920px-UDP_encapsulation.svg.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>(<a href="#citeproc_bib_item_1">“Internet Protocol Suite” 2023</a>)</p>
 </blockquote>
@@ -11020,9 +11517,76 @@ The law is based on the reasoning that in order for a product to function, the a
 </blockquote>
 <!--quoteend-->
 <blockquote>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2023-02-06_19-59-51_2011.06.27_organizational_charts.png"/> 
-</figure>
+
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=http://notes.cashpw.com/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href=http://notes.cashpw.com/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2023-02-06_19-59-51_2011.06.27_organizational_charts.png" />
+    </div>
+    <a href="/ox-hugo/2023-02-06_19-59-51_2011.06.27_organizational_charts.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 </blockquote>
 <h2 id="bibliography">Bibliography</h2>
@@ -14447,9 +15011,76 @@ The construction of such a tree for the string \(S\) takes time and space linear
 </blockquote>
 <!--quoteend-->
 <blockquote>
-<figure>
-    <img loading="lazy" src="/ox-hugo/2022-11-25_09-54-57_500px-Suffix_tree_BANANA.svg.png"/> 
-</figure>
+
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src=http://notes.cashpw.com/js/load-photoswipe.js></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href=http://notes.cashpw.com/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/ox-hugo/2022-11-25_09-54-57_500px-Suffix_tree_BANANA.svg.png" />
+    </div>
+    <a href="/ox-hugo/2022-11-25_09-54-57_500px-Suffix_tree_BANANA.svg.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>(<a href="#citeproc_bib_item_1">“Suffix Tree” 2022</a>)</p>
 </blockquote>
@@ -15146,194 +15777,6 @@ Change X to match your audience&amp;rsquo;s expectations Language Drop key words
 <ul>
 <li><a href="/posts/1182a8b4-b808-47e2-92e3-f69bb9e57981/">Zach Tellman | Trapped in the Technologist Factory</a></li>
 </ul>
-]]></content:encoded></item><item><title>Art inspiration</title><link>http://notes.cashpw.com/posts/8a0cef6e-e26b-4aac-a260-34fb116f7952/</link><pubDate>Tue, 08 Nov 2022 15:58:00 -0800</pubDate><guid>http://notes.cashpw.com/posts/8a0cef6e-e26b-4aac-a260-34fb116f7952/</guid><description>Digital collections (McCann 2022) Art Post - eniwamura - For new project#studio #wip #art #ceramics #clay #sculptu&amp;hellip; (a) Ceramic inspiration Ceramists I follow
-https://honchar.org.ua/collections/view/keramika (a) My favorite piece so far (a) I know jug I know (a) A &amp;lsquo;Lunar&amp;rsquo; style glaze I&amp;rsquo;ve been trying to perfect. (a) &amp;ldquo;Trash&amp;rdquo; teapot (a) Wanted to share my first coil built piece, it started off as a pitcher but I wasn&amp;rsquo;t loving the top so I pivoted to a vase.</description><content:encoded><![CDATA[<h2 id="digital-collections">Digital collections</h2>
-<ul>
-<li>(<a href="#citeproc_bib_item_1">McCann 2022</a>)</li>
-</ul>
-<h2 id="art">Art</h2>
-<ul>
-<li><a href="https://imgsed.com/p/Cw1oWjCBekw/" target="_blank" rel="noopener">Post - eniwamura - For new project#studio #wip #art #ceramics #clay #sculptu&hellip;</a> (<a href="https://web.archive.org/web/2022*/https://imgsed.com/p/Cw1oWjCBekw/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-</ul>
-<h2 id="ceramic-inspiration">Ceramic inspiration</h2>
-<p><a href="/posts/c73727bd-7ed8-4c50-bd08-524ebb2afbea/">Ceramists I follow</a></p>
-<ul>
-<li><a href="https://honchar.org.ua/collections/view/keramika" target="_blank" rel="noopener">https://honchar.org.ua/collections/view/keramika</a> (<a href="https://web.archive.org/web/2022*/https://honchar.org.ua/collections/view/keramika" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/152m6ur/my_favorite_piece_so_far/" target="_blank" rel="noopener">My favorite piece so far</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/152m6ur/my_favorite_piece_so_far/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/1529n55/i_know_jug_i_know/" target="_blank" rel="noopener">I know jug I know</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/1529n55/i_know_jug_i_know/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14kkrjr/a_lunar_style_glaze_ive_been_trying_to_perfect/" target="_blank" rel="noopener">A &lsquo;Lunar&rsquo; style glaze I&rsquo;ve been trying to perfect.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14kkrjr/a_lunar_style_glaze_ive_been_trying_to_perfect/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14lgrg5/trash_teapot/" target="_blank" rel="noopener">&ldquo;Trash&rdquo; teapot</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14lgrg5/trash_teapot/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14nigfz/wanted_to_share_my_first_coil_built_piece_it/" target="_blank" rel="noopener">Wanted to share my first coil built piece, it started off as a pitcher but I wasn&rsquo;t loving the top so I pivoted to a vase. I can&rsquo;t wait to fire this puppy after a slow dry</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14nigfz/wanted_to_share_my_first_coil_built_piece_it/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14qyfd9/bouldering_cups_i_made_for_my_first_market_at_a/" target="_blank" rel="noopener">Bouldering cups i made for my first market at a climbing gym</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14qyfd9/bouldering_cups_i_made_for_my_first_market_at_a/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14sa6z0/60s_floralinspired_plate_i_painted/" target="_blank" rel="noopener">60s floral-inspired plate I painted</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14sa6z0/60s_floralinspired_plate_i_painted/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14t9rlz/60s_flower_pattern_in_progress/" target="_blank" rel="noopener">60s flower pattern in progress</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14t9rlz/60s_flower_pattern_in_progress/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14thf4z/my_newest_peacock_bowl/" target="_blank" rel="noopener">My newest peacock bowl!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14thf4z/my_newest_peacock_bowl/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14uax26/amazing_how_much_clay_can_effect_a_glaze/" target="_blank" rel="noopener">Amazing how much clay can effect a glaze!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14uax26/amazing_how_much_clay_can_effect_a_glaze/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14v6yi3/spiral_bowls/" target="_blank" rel="noopener">Spiral bowls</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14v6yi3/spiral_bowls/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14vup20/just_wanted_share_here_let_me_know_what_you_guys/" target="_blank" rel="noopener">Just wanted share here. Let me know what you guys think.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14vup20/just_wanted_share_here_let_me_know_what_you_guys/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14dr0hp/bottle_vase_from_the_back_stack_of_a_train_kiln/" target="_blank" rel="noopener">Bottle vase from the back stack of a train kiln wood firing</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14dr0hp/bottle_vase_from_the_back_stack_of_a_train_kiln/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14h942t/large_vessel/" target="_blank" rel="noopener">Large vessel</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14h942t/large_vessel/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14h1rmb/serving_bowl/" target="_blank" rel="noopener">Serving bowl</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14h1rmb/serving_bowl/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14h95f1/cocktail_cup/" target="_blank" rel="noopener">Cocktail cup</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14h95f1/cocktail_cup/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14gtzw6/sculptures_i_made_testing_plasticity_of_wild_clay/" target="_blank" rel="noopener">sculptures I made testing plasticity of wild clay. Never gonna be fired due to impurities.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14gtzw6/sculptures_i_made_testing_plasticity_of_wild_clay/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14dzg1k/my_first_pots/" target="_blank" rel="noopener">My first pots!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14dzg1k/my_first_pots/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14dz3cr/my_first_pots/" target="_blank" rel="noopener">My first pots!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14dz3cr/my_first_pots/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14f72c5/my_first_big_day/" target="_blank" rel="noopener">My first big day!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14f72c5/my_first_big_day/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14dfvtz/fortunate_for_my_studio_space/" target="_blank" rel="noopener">Fortunate for my studio space</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14dfvtz/fortunate_for_my_studio_space/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14cau23/dreaded_pricing_help/" target="_blank" rel="noopener">Dreaded pricing. Help!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14cau23/dreaded_pricing_help/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14dnux1/glimpses_of_the_process_of_making_some_cups/" target="_blank" rel="noopener">Glimpses of the process of making some cups. Commissioned work</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14dnux1/glimpses_of_the_process_of_making_some_cups/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14fcx0o/a_large_11_tall_coilbuilt_pitcher_with_black_slip/" target="_blank" rel="noopener">A large (11&quot; tall) coil-built pitcher with black slip sgraffito and white slip brushed on. What can I improve on?</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14fcx0o/a_large_11_tall_coilbuilt_pitcher_with_black_slip/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14geawg/really_happy_with_my_lil_lemon_bowl/" target="_blank" rel="noopener">Really happy with my lil lemon bowl</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14geawg/really_happy_with_my_lil_lemon_bowl/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14cf2bi/blue_pot_update_i_found_the_most_gorgeous_blue/" target="_blank" rel="noopener">Blue pot update: I found the most gorgeous blue.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14cf2bi/blue_pot_update_i_found_the_most_gorgeous_blue/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zywr49/last_one_of_2022/" target="_blank" rel="noopener">Last one of 2022 ✨</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zywr49/last_one_of_2022/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zzkgvz/a_before_and_after_of_a_multi_colored_vase_what/" target="_blank" rel="noopener">a before and after of a multi colored vase! what do you think?</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zzkgvz/a_before_and_after_of_a_multi_colored_vase_what/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zslwvf/collection_art_adam_rush_ceramics_2022/" target="_blank" rel="noopener">Collection Art, Adam Rush, Ceramics, 2022</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zslwvf/collection_art_adam_rush_ceramics_2022/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zuy7fv/merry_christmas_to_you_all_i_dont_make_festive/" target="_blank" rel="noopener">Merry Christmas to you all, I don&rsquo;t make festive things but I wish you a wonderful day. I want to just post a pot to represent how you feel after a delicious meal</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zuy7fv/merry_christmas_to_you_all_i_dont_make_festive/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zwnmvs/i_made_a_catan_board/" target="_blank" rel="noopener">Ijmade a Catan board!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zwnmvs/i_made_a_catan_board/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/z4fre2/mix_and_match_set/" target="_blank" rel="noopener">Mix and match set</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/z4fre2/mix_and_match_set/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/z54792/reclining_figure_in_black_stoneware/" target="_blank" rel="noopener">reclining figure in black stoneware</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/z54792/reclining_figure_in_black_stoneware/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/z6c6mn/big_dawgz_only_no_shrimps_allowed/" target="_blank" rel="noopener">Big dawgz only no shrimps allowed</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/z6c6mn/big_dawgz_only_no_shrimps_allowed/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/z5lu5b/kintsugi/" target="_blank" rel="noopener">Kintsugi</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/z5lu5b/kintsugi/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/z69h3e/participated_in_my_first_ever_market_yesterday/" target="_blank" rel="noopener">Participated in my first ever market yesterday and I&rsquo;m feeling very proud of myself!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/z69h3e/participated_in_my_first_ever_market_yesterday/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/z1corw/greenware_kurinuki_planters_praying_they_survive/" target="_blank" rel="noopener">Greenware kurinuki planters, praying they survive the kiln!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/z1corw/greenware_kurinuki_planters_praying_they_survive/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/z7vtup/kutaniyaki/" target="_blank" rel="noopener">Kutani-Yaki</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/z7vtup/kutaniyaki/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/z5nt57/holiday_mugapalooza/" target="_blank" rel="noopener">Holiday mugapalooza!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/z5nt57/holiday_mugapalooza/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zau5bn/two_for_joy/" target="_blank" rel="noopener">Two For Joy</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zau5bn/two_for_joy/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zb7wpo/been_a_while_since_making_a_piece_happy_to_be/" target="_blank" rel="noopener">Been a while since making a piece, happy to be back in the mud 💚</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zb7wpo/been_a_while_since_making_a_piece_happy_to_be/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zbyfx4/getting_everything_ready_before_my_pottery_sale/" target="_blank" rel="noopener">Getting everything ready before my pottery sale tomorrow 😊</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zbyfx4/getting_everything_ready_before_my_pottery_sale/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zc1mat/first_pottery_sale_in_14_years_went_well_excited/" target="_blank" rel="noopener">First pottery sale in 14 years. Went well, excited to go back tomorrow.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zc1mat/first_pottery_sale_in_14_years_went_well_excited/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zcdsu1/bauble_cat/" target="_blank" rel="noopener">Bauble Cat</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zcdsu1/bauble_cat/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zdpn0d/little_house_luminaries_i_made_as_examples_for_my/" target="_blank" rel="noopener">Little house luminaries I made as examples for my class. They&rsquo;re slab built. The inside of the chimneys are unglazed so you can put drops of essential oils inside for the candles to heat up and make the room smell good.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zdpn0d/little_house_luminaries_i_made_as_examples_for_my/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zebkej/some_pieces_i_made/" target="_blank" rel="noopener">Some pieces I made</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zebkej/some_pieces_i_made/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zg0j1f/dinnerware_set_jiggered/" target="_blank" rel="noopener">Dinnerware set. Jiggered.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zg0j1f/dinnerware_set_jiggered/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zgdwg8/porcelain_cup_im_excited_about/" target="_blank" rel="noopener">porcelain cup i&rsquo;m excited about</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zgdwg8/porcelain_cup_im_excited_about/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zh2www/crackle_space_vase/" target="_blank" rel="noopener">Crackle Space Vase</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zh2www/crackle_space_vase/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zh7bdv/im_having_a_hard_time_getting_rid_of_the_fat/" target="_blank" rel="noopener">I&rsquo;m having a hard time getting rid of the fat bottom. I think I struggle with opening the bottom. I knock it off center. I&rsquo;ve tried both hands towards my belly and thumbs to 3 and 9 o&rsquo;clock. Any tips? Thank you!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zh7bdv/im_having_a_hard_time_getting_rid_of_the_fat/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zhnf8s/something_different/" target="_blank" rel="noopener">Something different</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zhnf8s/something_different/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zhsxal/commissioned_whites_for_a_restaurant/" target="_blank" rel="noopener">Commissioned whites for a restaurant.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zhsxal/commissioned_whites_for_a_restaurant/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/ziscr9/soup_mugs_cone_6_oxidation/" target="_blank" rel="noopener">Soup Mugs. Cone 6 Oxidation</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/ziscr9/soup_mugs_cone_6_oxidation/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zj8upw/_/" target="_blank" rel="noopener">☕</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zj8upw/_/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zjil4c/wizard_boy_and_the_magic_stone_moon_jar_made_by_me/" target="_blank" rel="noopener">WIZARD BOY and the MAGIC STONE moon jar made by me!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zjil4c/wizard_boy_and_the_magic_stone_moon_jar_made_by_me/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zjhhax/reduction_fired_bowls_glazed_with_my_teachers/" target="_blank" rel="noopener">Reduction fired bowls glazed with my teacher&rsquo;s glaze called Subaru (昂) and Blue Subaru (蓝昴); the exterior of the bowl has porcelain slip.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zjhhax/reduction_fired_bowls_glazed_with_my_teachers/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zjw6wx/my_last_creation/" target="_blank" rel="noopener">My last creation</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zjw6wx/my_last_creation/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/ziwmb9/3610162642_side_views_by_request/" target="_blank" rel="noopener">3,6,10,16,26,42 side views by request</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/ziwmb9/3610162642_side_views_by_request/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zj3qui/double_torus_in_wall/" target="_blank" rel="noopener">Double Torus in Wall</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zj3qui/double_torus_in_wall/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zhylrv/what_are_your_handle_tips_i_suck_at_making/" target="_blank" rel="noopener">What are your handle tips? I suck at making handles (I usually pull them from a carrot shape and then just arrange them to dry on a bat) and I want to get better. Show me your favorite methods!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zhylrv/what_are_your_handle_tips_i_suck_at_making/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zi1658/indie_artist_vs_local_subsidized_arts_center/" target="_blank" rel="noopener">Indie Artist vs Local Subsidized Arts Center</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zi1658/indie_artist_vs_local_subsidized_arts_center/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zn4949/newest_round_of_space_vases/" target="_blank" rel="noopener">Newest round of space vases</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zn4949/newest_round_of_space_vases/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/znbdnk/my_name_is_adam_rush_and_i_want_to_share_with_you/" target="_blank" rel="noopener">My name is Adam Rush and I want to share with you my weird pottery</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/znbdnk/my_name_is_adam_rush_and_i_want_to_share_with_you/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zn4ruc/i_am_new_to_the_world_of_reddit/" target="_blank" rel="noopener">I am new to the world of Reddit</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zn4ruc/i_am_new_to_the_world_of_reddit/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zo5u0c/i_made_a_market_display/" target="_blank" rel="noopener">I made a market display!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zo5u0c/i_made_a_market_display/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/zok9wf/last_pop_up_of_the_season/" target="_blank" rel="noopener">Last Pop Up of the Season!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/zok9wf/last_pop_up_of_the_season/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zjbziz/christmas_chatter/" target="_blank" rel="noopener">Christmas Chatter</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zjbziz/christmas_chatter/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zk0ytc/where_do_you_share_your_work/" target="_blank" rel="noopener">Where do you share your work?</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zk0ytc/where_do_you_share_your_work/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zk3mxz/i_set_out_to_throw_cylinders_but_end_up_with/" target="_blank" rel="noopener">I set out to throw cylinders but end up with bowls. Tips? Resources?</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zk3mxz/i_set_out_to_throw_cylinders_but_end_up_with/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zmjlrh/making_my_own_bonsai_pot_part2/" target="_blank" rel="noopener">making my own bonsai pot (part2)</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zmjlrh/making_my_own_bonsai_pot_part2/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/zlxlmu/bargain_ceramics/" target="_blank" rel="noopener">&ldquo;Bargain&rdquo; Ceramics</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/zlxlmu/bargain_ceramics/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/ytdz4u/made_a_groovy_60s_inspired_psychedelic_vase/" target="_blank" rel="noopener">Made a groovy 60&rsquo;s inspired psychedelic vase!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/ytdz4u/made_a_groovy_60s_inspired_psychedelic_vase/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/ynpnjq/brutalist_pitcher_in_progress/" target="_blank" rel="noopener">Brutalist pitcher in progress</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/ynpnjq/brutalist_pitcher_in_progress/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/yk3xo5/got_this_cool_dappled_effect_with_nothing_but_a/" target="_blank" rel="noopener">Got this cool dappled effect with nothing but a spoon!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/yk3xo5/got_this_cool_dappled_effect_with_nothing_but_a/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/yd8fjg/spiral_vase_woodfired_placed_it_in_a_risky_spot/" target="_blank" rel="noopener">Spiral Vase - Woodfired. Placed it in a risky spot in the kiln, glad there were no major cracks</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/yd8fjg/spiral_vase_woodfired_placed_it_in_a_risky_spot/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/141ht7s/pictures_of_pitchers/" target="_blank" rel="noopener">Pictures of Pitchers</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/141ht7s/pictures_of_pitchers/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14453i4/best_plate_so_far/" target="_blank" rel="noopener">Best plate so far</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14453i4/best_plate_so_far/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/1449yee/swirly_planter/" target="_blank" rel="noopener">Swirly planter</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/1449yee/swirly_planter/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/144nken/jiggered_porcelain_bowls_glossy_and_matte_glazes/" target="_blank" rel="noopener">Jiggered porcelain bowls glossy and matte glazes.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/144nken/jiggered_porcelain_bowls_glossy_and_matte_glazes/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/14644fi/does_anyone_know_how_to_recreate_this_kind_of/" target="_blank" rel="noopener">Does anyone know how to recreate this kind of glaze effect?? These are from a place called Quartz Ceramic (Korea) 🤗</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/14644fi/does_anyone_know_how_to_recreate_this_kind_of/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/14641rj/ive_spent_the_last_three_months_reading_up_on_how/" target="_blank" rel="noopener">I&rsquo;ve spent the last three months reading up on how to make my own glazes. 200 test tiles later and I&rsquo;ve got a range I&rsquo;m happy with.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/14641rj/ive_spent_the_last_three_months_reading_up_on_how/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13wdn16/my_very_first_pot_and_8_months_progression_result/" target="_blank" rel="noopener">My very first pot, and 8 months progression result</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13wdn16/my_very_first_pot_and_8_months_progression_result/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13vdpxs/my_set_up_at_my_local_farmers_artisans_market/" target="_blank" rel="noopener">My set up at my local farmers &amp; artisans market over the weekend</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13vdpxs/my_set_up_at_my_local_farmers_artisans_market/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/13iqr0o/electric_kiln_firing_fundamentals_resources/" target="_blank" rel="noopener">Electric kiln firing fundamentals - resources?</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/13iqr0o/electric_kiln_firing_fundamentals_resources/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/13ppzqu/planters_i_hyperfixated_on_teaching_myself_to/" target="_blank" rel="noopener">Planters. I hyperfixated on teaching myself to slip cast over the past 2 months and let all my other obligations crash and burn.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/13ppzqu/planters_i_hyperfixated_on_teaching_myself_to/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/13pxijd/new_spiral_clock_face_i_made_the_other_week/" target="_blank" rel="noopener">New spiral clock face I made the other week!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/13pxijd/new_spiral_clock_face_i_made_the_other_week/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13q0ndm/olive_oil_bottles_part_2/" target="_blank" rel="noopener">Olive oil bottles part 2</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13q0ndm/olive_oil_bottles_part_2/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13qwxmq/made_the_cutest_little_kitty_planters_for_a_client/" target="_blank" rel="noopener">made the cutest little kitty planters for a client!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13qwxmq/made_the_cutest_little_kitty_planters_for_a_client/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13r4a7f/my_final_year_project/" target="_blank" rel="noopener">My final year project.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13r4a7f/my_final_year_project/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13rveil/a_few_of_my_pieces_that_im_most_proud_of_d/" target="_blank" rel="noopener">A few of my pieces that I&rsquo;m most proud of :D</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13rveil/a_few_of_my_pieces_that_im_most_proud_of_d/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/13s2ezo/new_cups/" target="_blank" rel="noopener">new cups</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/13s2ezo/new_cups/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13rwurx/a_set_of_celadon_bowls_made_from_12oz_clay_each/" target="_blank" rel="noopener">A set of celadon bowls, made from 12oz clay each</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13rwurx/a_set_of_celadon_bowls_made_from_12oz_clay_each/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13s5bj3/most_recent_kiln_unload/" target="_blank" rel="noopener">Most recent kiln unload 🙂</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13s5bj3/most_recent_kiln_unload/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13d7q0u/some_fun_with_textures_and_forms/" target="_blank" rel="noopener">Some fun with textures and forms</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13d7q0u/some_fun_with_textures_and_forms/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/13e7e13/anyone_know_how_to_create_this_watercoloresque/" target="_blank" rel="noopener">Anyone know how to create this watercolor-esque glaze effect?</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/13e7e13/anyone_know_how_to_create_this_watercoloresque/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/13e2c9r/teapot/" target="_blank" rel="noopener">&ldquo;Teapot&rdquo;</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/13e2c9r/teapot/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/13fde9a/how_to_go_about_achieving_this_gorgeous_blue/" target="_blank" rel="noopener">How to go about achieving this gorgeous blue colour?</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/13fde9a/how_to_go_about_achieving_this_gorgeous_blue/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13hletj/first_teapot_ive_felt_proud_of/" target="_blank" rel="noopener">First teapot I&rsquo;ve felt proud of!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13hletj/first_teapot_ive_felt_proud_of/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/13hrdvs/bfa_thesis_installation_pots_on_the_wall_with_one/" target="_blank" rel="noopener">BFA thesis installation! pots on the wall with one of my paintings</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/13hrdvs/bfa_thesis_installation_pots_on_the_wall_with_one/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13hxrpy/some_super_difficult_forms/" target="_blank" rel="noopener">Some super difficult forms!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13hxrpy/some_super_difficult_forms/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13ihz4b/finally_finished_my_tea_set_here_are_the_tea_cups/" target="_blank" rel="noopener">Finally finished my tea set, here are the tea cups!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13ihz4b/finally_finished_my_tea_set_here_are_the_tea_cups/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13i94fl/howl_from_howls_moving_castle_so_happy_with_this/" target="_blank" rel="noopener">Howl from Howl&rsquo;s Moving Castle 🥰 so happy with this one!!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13i94fl/howl_from_howls_moving_castle_so_happy_with_this/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13gs3ac/clean_set_of_shot_glasses/" target="_blank" rel="noopener">Clean set of shot glasses</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13gs3ac/clean_set_of_shot_glasses/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/13k80j8/blue_ridge_biggie/" target="_blank" rel="noopener">Blue Ridge Biggie</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/13k80j8/blue_ridge_biggie/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13k4ttm/pitcher/" target="_blank" rel="noopener">Pitcher</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13k4ttm/pitcher/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/13kz1i7/tonights_work_in_progress/" target="_blank" rel="noopener">Tonight&rsquo;s work in progress</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/13kz1i7/tonights_work_in_progress/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/1754e3w/underglaze_complete_next_stop_is_the_kiln/" target="_blank" rel="noopener">Underglaze complete! Next stop is the kiln</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/1754e3w/underglaze_complete_next_stop_is_the_kiln/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/16fce7m/pizzaloving_raccoon/" target="_blank" rel="noopener">Pizza-Loving Raccoon</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/16fce7m/pizzaloving_raccoon/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/16iscsg/i_made_a_thing/" target="_blank" rel="noopener">I made a thing.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/16iscsg/i_made_a_thing/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/16ief8g/when_i_was_a_kid_i_used_to_love_the_shinkansen/" target="_blank" rel="noopener">When I was a kid, I used to love the Shinkansen. Now I have my workshop right next to the rails. Woodfire, Bizenware/備前焼</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/16ief8g/when_i_was_a_kid_i_used_to_love_the_shinkansen/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/16hq09h/how_does_one_cleanly_paint_the_stamped_indention/" target="_blank" rel="noopener">How does one cleanly paint the stamped indention? (ghost and lines)</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/16hq09h/how_does_one_cleanly_paint_the_stamped_indention/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/16hqpmx/love_when_a_piece_works_out/" target="_blank" rel="noopener">Love when a piece works out</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/16hqpmx/love_when_a_piece_works_out/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/16guzat/rasen_series_bizenware_glazeless_woodfire/" target="_blank" rel="noopener">Rasen Series - Bizenware, Glaze-less Woodfire</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/16guzat/rasen_series_bizenware_glazeless_woodfire/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/16dfj6j/planter_with_drainage_hole_and_water_tray/" target="_blank" rel="noopener">Planter with drainage hole and water tray</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/16dfj6j/planter_with_drainage_hole_and_water_tray/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/16ddi71/doing_a_cabinet_of_clay_curiosities_from_a_to_z/" target="_blank" rel="noopener">Doing a cabinet of clay curiosities from A to Z</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/16ddi71/doing_a_cabinet_of_clay_curiosities_from_a_to_z/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/16bqy7m/first_time_poster_amacos_oatmeal_over_iron_lustre/" target="_blank" rel="noopener">First time poster - Amaco&rsquo;s Oatmeal over Iron Lustre</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/16bqy7m/first_time_poster_amacos_oatmeal_over_iron_lustre/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/16bq7sx/would_you_drink_out_of_a_ceramic_goblet/" target="_blank" rel="noopener">Would you drink out of a ceramic goblet?</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/16bq7sx/would_you_drink_out_of_a_ceramic_goblet/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/167ktdi/bowls_bowls_bowls/" target="_blank" rel="noopener">Bowls bowls bowls</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/167ktdi/bowls_bowls_bowls/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/165i123/monochrome_floral_planter/" target="_blank" rel="noopener">Monochrome floral planter</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/165i123/monochrome_floral_planter/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/163lw4h/work_in_progress_will_be_lit_from_interior/" target="_blank" rel="noopener">Work in progress, will be lit from interior</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/163lw4h/work_in_progress_will_be_lit_from_interior/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/163luoz/one_in_a_series_of_lighted_sculptures/" target="_blank" rel="noopener">One in a series of lighted sculptures</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/163luoz/one_in_a_series_of_lighted_sculptures/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/162xnrp/sale_september_1st/" target="_blank" rel="noopener">Sale September 1st</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/162xnrp/sale_september_1st/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/16165wc/two_tone_mug/" target="_blank" rel="noopener">Two tone mug</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/16165wc/two_tone_mug/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15yczkl/landscape_teabowl/" target="_blank" rel="noopener">Landscape Teabowl</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15yczkl/landscape_teabowl/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/1615zn9/got_a_little_carried_away/" target="_blank" rel="noopener">Got a little carried away 🤪</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/1615zn9/got_a_little_carried_away/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/1605kix/mugs/" target="_blank" rel="noopener">Mugs!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/1605kix/mugs/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15yq81g/my_first_wheel_thrown_object/" target="_blank" rel="noopener">My first wheel thrown object.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15yq81g/my_first_wheel_thrown_object/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15x9gzw/a_new_body_of_work_leaving_the_studio_im_really/" target="_blank" rel="noopener">A new body of work leaving the studio. I&rsquo;m really very happy with these pieces</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15x9gzw/a_new_body_of_work_leaving_the_studio_im_really/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15vwwxp/satisfying_pottery_making/" target="_blank" rel="noopener">Satisfying Pottery making.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15vwwxp/satisfying_pottery_making/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15wgimj/first_attempt_at_sawdust_firing/" target="_blank" rel="noopener">First attempt at sawdust firing</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15wgimj/first_attempt_at_sawdust_firing/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15uowde/a_gift_from_the_kiln_gods/" target="_blank" rel="noopener">A gift from the kiln gods</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15uowde/a_gift_from_the_kiln_gods/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15umwb8/dramatic_movement_caused_by_refiring_commercial/" target="_blank" rel="noopener">Dramatic movement caused by refiring. Commercial glazes, ^6, white stoneware.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15umwb8/dramatic_movement_caused_by_refiring_commercial/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15u1c51/new_rings_hoping_they_will_sell_well/" target="_blank" rel="noopener">New rings, hoping they will sell well</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15u1c51/new_rings_hoping_they_will_sell_well/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15rkzf3/love_how_this_vase_turned_out/" target="_blank" rel="noopener">Love how this vase turned out</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15rkzf3/love_how_this_vase_turned_out/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15w0aq3/my_mugs/" target="_blank" rel="noopener">My mugs 🙂</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15w0aq3/my_mugs/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15usjbu/celadon_teabowl/" target="_blank" rel="noopener">Celadon teabowl</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15usjbu/celadon_teabowl/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15tr20i/sculptural_mug/" target="_blank" rel="noopener">Sculptural mug</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15tr20i/sculptural_mug/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15u2ck1/back_to_my_main_decorating_style/" target="_blank" rel="noopener">Back to my main decorating style!!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15u2ck1/back_to_my_main_decorating_style/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15tmhkc/making_a_copper_cup/" target="_blank" rel="noopener">Making a copper cup?</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15tmhkc/making_a_copper_cup/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15sywin/my_first_plant_pot/" target="_blank" rel="noopener">My first plant pot :)</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15sywin/my_first_plant_pot/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15smsl2/my_first_pottery_show_pieces_pasta_bowls/" target="_blank" rel="noopener">My first pottery show pieces - pasta bowls</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15smsl2/my_first_pottery_show_pieces_pasta_bowls/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15sudml/teacup_colored_with_untested_glazes/" target="_blank" rel="noopener">Teacup colored with untested glazes</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15sudml/teacup_colored_with_untested_glazes/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15sy4u4/me_and_my_work_at_face_2023_society_of_portrait/" target="_blank" rel="noopener">Me and my work at face 2023, Society of portrait sculptors</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15sy4u4/me_and_my_work_at_face_2023_society_of_portrait/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15qi6br/trays/" target="_blank" rel="noopener">Trays</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15qi6br/trays/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15pezh5/soda_fired_porcelain_dinner_plates/" target="_blank" rel="noopener">Soda fired porcelain dinner plates</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15pezh5/soda_fired_porcelain_dinner_plates/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15ofsot/been_making_pumpkins_nonstop_already_ill_have_a/" target="_blank" rel="noopener">Been making pumpkins nonstop already, I&rsquo;ll have a whole patch ready to go by fall.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15ofsot/been_making_pumpkins_nonstop_already_ill_have_a/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15mv4ld/i_make_very_little_money_after_many_years_of_work/" target="_blank" rel="noopener">I make very little money after many years of work</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15mv4ld/i_make_very_little_money_after_many_years_of_work/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15rxokm/floral_mug/" target="_blank" rel="noopener">Floral mug</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15rxokm/floral_mug/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15qyn8b/carbon_trapped_mug/" target="_blank" rel="noopener">Carbon trapped mug</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15qyn8b/carbon_trapped_mug/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15ohr7g/leaving_those_subtle_trimming_marks/" target="_blank" rel="noopener">Leaving those subtle trimming marks</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15ohr7g/leaving_those_subtle_trimming_marks/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15og9ra/i_like_to_call_this_one_a_moon_bowl/" target="_blank" rel="noopener">I like to call this one a Moon bowl</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15og9ra/i_like_to_call_this_one_a_moon_bowl/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15q5k80/can_someone_advise_me_on_how_to_get_this_glaze/" target="_blank" rel="noopener">Can someone advise me on how to get this glaze finish?</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15q5k80/can_someone_advise_me_on_how_to_get_this_glaze/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Ceramics/comments/15pw7n3/august_anagama_firing/" target="_blank" rel="noopener">August anagama firing!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Ceramics/comments/15pw7n3/august_anagama_firing/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15qa80j/flowing_carved_vase/" target="_blank" rel="noopener">Flowing, Carved Vase</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15qa80j/flowing_carved_vase/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15pwf4e/soda_fired_teapot/" target="_blank" rel="noopener">Soda fired teapot</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15pwf4e/soda_fired_teapot/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15pktzi/my_somewhat_insane_hoard_of_bisque_its_been_a/" target="_blank" rel="noopener">My somewhat insane hoard of bisque. It&rsquo;s been a while since I&rsquo;ve been able to fire</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15pktzi/my_somewhat_insane_hoard_of_bisque_its_been_a/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15ppgay/elongated_dodecahedron_vase/" target="_blank" rel="noopener">Elongated dodecahedron vase</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15ppgay/elongated_dodecahedron_vase/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15ouxd6/trying_my_hand_at_some_new_carved_designs/" target="_blank" rel="noopener">Trying my hand at some new carved designs</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15ouxd6/trying_my_hand_at_some_new_carved_designs/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15ooar2/some_functional_work_from_this_summer/" target="_blank" rel="noopener">Some functional work from this summer</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15ooar2/some_functional_work_from_this_summer/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15oaf25/my_little_tubecoffin_kiln/" target="_blank" rel="noopener">My little tube/coffin kiln</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15oaf25/my_little_tubecoffin_kiln/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15nljlo/green_vase_fresh_out_of_the_kiln/" target="_blank" rel="noopener">Green vase fresh out of the kiln</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15nljlo/green_vase_fresh_out_of_the_kiln/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15nkeyq/new_to_oxide_designs/" target="_blank" rel="noopener">New to Oxide Designs</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15nkeyq/new_to_oxide_designs/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15lnwh7/tallest_vase_ive_thrown_yet_3lb_clay_10_tall/" target="_blank" rel="noopener">Tallest vase I&rsquo;ve thrown yet. 3lb clay, 10&quot; tall</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15lnwh7/tallest_vase_ive_thrown_yet_3lb_clay_10_tall/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15l2n9w/just_unloaded_my_woodsoda_kiln_ive_been_moving_in/" target="_blank" rel="noopener">Just unloaded my wood/soda kiln! I&rsquo;ve been moving in a new direction with my work and I&rsquo;m curious what you all think.</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15l2n9w/just_unloaded_my_woodsoda_kiln_ive_been_moving_in/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15l1rkm/i_love_how_this_wall_vase_came_out/" target="_blank" rel="noopener">I love how this wall vase came out</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15l1rkm/i_love_how_this_wall_vase_came_out/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.reddit.com/r/Pottery/comments/15kt3bk/finally_got_a_hang_of_throwing_plates/" target="_blank" rel="noopener">Finally got a hang of throwing plates!</a> (<a href="https://web.archive.org/web/2022*/https://www.reddit.com/r/Pottery/comments/15kt3bk/finally_got_a_hang_of_throwing_plates/" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://collection.powerhouse.com.au/object/118314" target="_blank" rel="noopener">https://collection.powerhouse.com.au/object/118314</a> (<a href="https://web.archive.org/web/2022*/https://collection.powerhouse.com.au/object/118314" rel="noopener noreferrer" target="_blank">a</a>)</li>
-<li><a href="https://www.tumblr.com/design-is-fine/732174076776529920/eva-zeisel-museum-dinner-service-1945-1970?source=share" target="_blank" rel="noopener">https://www.tumblr.com/design-is-fine/732174076776529920/eva-zeisel-museum-dinner-service-1945-1970?source=share</a> (<a href="https://web.archive.org/web/2022*/https://www.tumblr.com/design-is-fine/732174076776529920/eva-zeisel-museum-dinner-service-1945-1970?source=share" rel="noopener noreferrer" target="_blank">a</a>)</li>
-</ul>
-<h2 id="extract-links-into-inspiration-gallery-to-avoid-link-rot">Extract links into inspiration gallery to avoid link rot</h2>
-<h2 id="bibliography">Bibliography</h2>
-<h2 id="references">References</h2>
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>McCann, Paul O’Leary. 2022. “Awesome-Digital-Collections.” <a href="https://github.com/polm/awesome-digital-collections">https://github.com/polm/awesome-digital-collections</a>.</div>
-</div>
 ]]></content:encoded></item><item><title>Andy Matuschak | Evergreen Notes Permit Smooth Incremental Progress in Writing ("Incremental Writing")</title><link>http://notes.cashpw.com/posts/2186c8f0-1b18-484f-8e22-9e0cd328b498/</link><pubDate>Mon, 07 Nov 2022 09:42:00 -0800</pubDate><guid>http://notes.cashpw.com/posts/2186c8f0-1b18-484f-8e22-9e0cd328b498/</guid><description>Andy Matuschak, (NO_ITEM_DATA:EvergreenNotesPermitSmoothIncrementalProgressWritingIncrementalWriting)
 Evergreen notes&amp;rsquo; atomic size (Evergreen notes should be atomic (a)) and link structures (Evergreen Notes Should Be Densely Linked) make it easy to stop and resume work. This helps us Close open loops (a).
 These small, self-contained notes represent regular checkpoints. Each note takes only a few minutes to write, but because they&amp;rsquo;re Evergreen notes (a), each note is solid ground to stand on&amp;mdash;fairly complete relative to its own concept (Evergreen notes should be concept-oriented (a)).</description><content:encoded><![CDATA[<p><a href="/posts/df479fb9-f7b0-4e3a-a7eb-41849fbc190e/">Andy Matuschak</a>, (NO_ITEM_DATA:EvergreenNotesPermitSmoothIncrementalProgressWritingIncrementalWriting)</p>
