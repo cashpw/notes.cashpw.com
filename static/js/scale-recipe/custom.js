@@ -1,6 +1,9 @@
 const Selector = {
   INGREDIENT_LABELS: 'div.ingredients ul li label',
-  SERVINGS: '#servings',
+  SERVINGS_HEADER: '#servings-heading',
+  YIELD_HEADER: '#yield-heading',
+  SERVINGS_CELL: '#servings-cell',
+  YIELD_CELL: '#yield-cell',
 };
 
 function createCheckboxListItem(label, id) {
@@ -10,12 +13,15 @@ function createCheckboxListItem(label, id) {
     + '</li>';
 }
 
+console.log("foo");
 function maybeAddScaleInput() {
-  const servings = document.querySelector(Selector.SERVINGS);
+console.log("foo1");
+  const servings = document.querySelector(Selector.SERVINGS_CELL);
   if (!servings) {
     return;
   }
 
+console.log("foo2");
   var ingredientsHeader = document.querySelector("#ingredients");
   if (!ingredientsHeader) {
     return;
@@ -30,14 +36,22 @@ function maybeAddScaleInput() {
   ingredientsHeader.insertAdjacentHTML('beforebegin', '<div id="scalers">Scale by ' + scalers + '</div>');
 }
 
+console.log("foo");
 function scale(factor) {
-    scaleTable(factor);
-    updateServings(factor);
+    scaleIngredients(factor);
+    scaleMeta(factor);
     disableScalers();
 }
 
+/** Scale recipe metadata by FACTOR. */
+function scaleMeta(factor) {
+   scaleServings(factor);
+   scaleYield(factor);
+}
+
+console.log("foo");
 /** Scale ingredients in the table by FACTOR. */
-function scaleTable(factor) {
+function scaleIngredients(factor) {
   document.querySelectorAll("div.ingredients table th+th+th").forEach((quantityHeader) => {
     quantityHeader.innerHTML = `${quantityHeader.innerHTML} x${factor}`;
   });
@@ -48,14 +62,35 @@ function scaleTable(factor) {
 }
 
 /** Set serving text based on scaling FACTOR. */
-function updateServings(factor) {
-  const servings = document.querySelector(Selector.SERVINGS);
-  if (!servings) {
+function scaleServings(factor) {
+  const servings_header = document.querySelector(Selector.SERVINGS_HEADER);
+  if (!servings_header) {
     return;
   }
+  servings_header.innerHTML = `${servings_header.innerHTML} x${factor}`;
 
-  const [_, numServings, extra] = servings.textContent.match(/^([0-9]+)(.*)/);
-  servings.innerHTML = `${numServings}${extra} x ${factor} = ${numServings * factor}${extra}`;
+  const servings_cell = document.querySelector(Selector.SERVINGS_CELL);
+  if (!servings_cell) {
+    return;
+  }
+  const [_, numServings, extra] = servings_cell.textContent.match(/^([0-9]+)(.*)/);
+  servings_cell.innerHTML = `${numServings * factor}${extra}`;
+}
+
+/** Set yield text based on scaling FACTOR. */
+function scaleYield(factor) {
+  const yield_header = document.querySelector(Selector.YIELD_HEADER);
+  if (!yield_header) {
+    return;
+  }
+  yield_header.innerHTML = `${yield_header.innerHTML} x${factor}`;
+
+  const yield_cell = document.querySelector(Selector.YIELD_CELL);
+  if (!yield_cell) {
+    return;
+  }
+  const [_, numYield, extra] = yield_cell.textContent.match(/^([0-9]+)(.*)/);
+  yield_cell.innerHTML = `${numYield * factor}${extra}`;
 }
 
 function disableScalers() {

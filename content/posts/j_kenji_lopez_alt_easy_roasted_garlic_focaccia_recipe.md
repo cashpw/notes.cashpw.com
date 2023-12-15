@@ -2,7 +2,7 @@
 title = "James Kenji López-Alt | Easy Roasted-Garlic Focaccia Recipe"
 author = ["Cash Weaver"]
 date = 2023-08-07T19:03:00-07:00
-lastmod = 2023-12-15T05:38:51-08:00
+lastmod = 2023-12-15T06:02:40-08:00
 tags = ["reference", "recipe", "reference", "recipe"]
 categories = ["reference", "recipe"]
 draft = false
@@ -48,10 +48,6 @@ stars = 5
 | Butter            | Unsalted | 30g      |
 | Oregano           | Dried    | 2g       |
 | Red pepper flakes |          | 0.5g     |
-
--   2 tablespoons (30g) unsalted butter
--   2 teaspoons dried oregano
--   1/2 teaspoon red pepper flakes
 
 </div>
 
