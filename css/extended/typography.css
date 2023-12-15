@@ -124,6 +124,10 @@ button.scaler {
     font-size: 1.2rem;
 }
 
+.toc .archival-link {
+    display: none;
+}
+
 .toc a {
     box-shadow: none;
 }

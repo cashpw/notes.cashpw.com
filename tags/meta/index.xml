@@ -104,7 +104,7 @@ Node types Type Tag Description Example Concept concept A single idea/concept/te
 <!--quoteend-->
 <blockquote>
 <p>Org is a mode for keeping notes, maintaining TODO lists, and project planning with a fast and effective plain-text markup language. It also is an authoring system with unique support for literate programming and reproducible research.</p>
-<p><em><a href="https://orgmode.org/manual/Summary.html" target="_blank" rel="noopener">org-mode Manual: Summary</a> (<a href="https://web.archive.org/web/2022*/https://orgmode.org/manual/Summary.html" rel="noopener noreferrer" target="_blank">a</a>)</em></p>
+<p><em><a href="https://orgmode.org/manual/Summary.html" target="_blank" rel="noopener">org-mode Manual: Summary</a> <span class="archival-link">(<a href="https://web.archive.org/web/2022*/https://orgmode.org/manual/Summary.html" rel="noopener noreferrer" target="_blank">a</a>)</span></em></p>
 </blockquote>
 <h3 id="large-quotes-are-okay">Large quotes are okay</h3>
 <p>There isn&rsquo;t a hard rule on how much quoting is too much. Large quotes <a href="/posts/18745aec-fcd1-4dd5-a55f-73fdc409aacb/">have their benefits</a> and are simple to capture using bookmarklets (<a href="#citeproc_bib_item_2">Porter 2022</a>).</p>
@@ -122,7 +122,7 @@ Node types Type Tag Description Example Concept concept A single idea/concept/te
 </ol>
 <h2 id="links">Links</h2>
 <h3 id="show-favicons-alongside-links">Show favicons alongside links</h3>
-<p>Favicons are nice additions to links. They provide visual context to where the reader expects the link to take them. Include them alongside external links. I&rsquo;ve written a <a href="https://github.com/cashweaver/basic-favicon-links" target="_blank" rel="noopener">script to make the process easier</a> (<a href="https://web.archive.org/web/2022*/https://github.com/cashweaver/basic-favicon-links" rel="noopener noreferrer" target="_blank">a</a>).</p>
+<p>Favicons are nice additions to links. They provide visual context to where the reader expects the link to take them. Include them alongside external links. I&rsquo;ve written a <a href="https://github.com/cashweaver/basic-favicon-links" target="_blank" rel="noopener">script to make the process easier</a> <span class="archival-link">(<a href="https://web.archive.org/web/2022*/https://github.com/cashweaver/basic-favicon-links" rel="noopener noreferrer" target="_blank">a</a>)</span>.</p>
 <h3 id="every-node-must-include-backlinks">Every node must include backlinks</h3>
 <p>Backlinks are the backbone of a powerful <a href="/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710/">zettelkasten</a> system. The published form of these notes <strong>must</strong> include backlinks.</p>
 <h2 id="bibliography">Bibliography</h2>

@@ -3,7 +3,7 @@ This month Migrated hosted notes from cashpw.com (a) to the subdomain notes.cash
 I have &amp;gt;200 outstanding flashcards. Reviewing them all at once wouldn&amp;rsquo;t just hurt now, it would hurt forever as from time to time I&amp;rsquo;d see a similarly-sized spike of due flashcards.</description><content:encoded><![CDATA[<p><a href="/posts/671006e6-3f41-4c37-9840-1a0a1c3f2496/">Monthly newsletter</a> for December, 2022.</p>
 <h2 id="this-month">This month</h2>
 <ul>
-<li>Migrated hosted notes from <a href="http://cashpw.com" target="_blank" rel="noopener">cashpw.com</a> (<a href="https://web.archive.org/web/2022*/http://cashpw.com" rel="noopener noreferrer" target="_blank">a</a>) to the subdomain <a href="http://notes.cashpw.com" target="_blank" rel="noopener">notes.cashpw.com</a> (<a href="https://web.archive.org/web/2022*/http://notes.cashpw.com" rel="noopener noreferrer" target="_blank">a</a>)</li>
+<li>Migrated hosted notes from <a href="http://cashpw.com" target="_blank" rel="noopener">cashpw.com</a> <span class="archival-link">(<a href="https://web.archive.org/web/2022*/http://cashpw.com" rel="noopener noreferrer" target="_blank">a</a>)</span> to the subdomain <a href="http://notes.cashpw.com" target="_blank" rel="noopener">notes.cashpw.com</a> <span class="archival-link">(<a href="https://web.archive.org/web/2022*/http://notes.cashpw.com" rel="noopener noreferrer" target="_blank">a</a>)</span></li>
 <li>Didn&rsquo;t catch up on flashcard review backlog in large part because I added 100+ new cards related to solving the <a href="/posts/555129b5-299e-4605-a2cd-9f77ebcede3d/">Shortest path problem</a></li>
 </ul>
 <h2 id="next-month">Next month</h2>
@@ -42,7 +42,7 @@ Assorted improvements to cashpw.</description><content:encoded><![CDATA[<p><a hr
 <li>
 <p>Assorted improvements to cashpw.com</p>
 <ol>
-<li>Switched the theme from <a href="https://github.com/adityatelange/hugo-PaperMod" target="_blank" rel="noopener">PaperMod</a> (<a href="https://web.archive.org/web/2022*/https://github.com/adityatelange/hugo-PaperMod" rel="noopener noreferrer" target="_blank">a</a>) to <a href="https://github.com/reorx/hugo-PaperModX" target="_blank" rel="noopener">PaperModX</a> (<a href="https://web.archive.org/web/2022*/https://github.com/reorx/hugo-PaperModX" rel="noopener noreferrer" target="_blank">a</a>) for sidebar support</li>
+<li>Switched the theme from <a href="https://github.com/adityatelange/hugo-PaperMod" target="_blank" rel="noopener">PaperMod</a> <span class="archival-link">(<a href="https://web.archive.org/web/2022*/https://github.com/adityatelange/hugo-PaperMod" rel="noopener noreferrer" target="_blank">a</a>)</span> to <a href="https://github.com/reorx/hugo-PaperModX" target="_blank" rel="noopener">PaperModX</a> <span class="archival-link">(<a href="https://web.archive.org/web/2022*/https://github.com/reorx/hugo-PaperModX" rel="noopener noreferrer" target="_blank">a</a>)</span> for sidebar support</li>
 <li>Fixed broken Google Analytics</li>
 <li>Dark mode by default</li>
 </ol>
