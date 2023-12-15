@@ -9,6 +9,21 @@ var pluralize = require('pluralize');
 var decimal_js_1 = require("decimal.js");
 var parse_ingredient_1 = require("parse-ingredient");
 var format_quantity_with_sixteenths_1 = require("format-quantity-with-sixteenths");
+var PLURAL_ABBREVIATIONS = [
+    'ozs',
+    'lbs',
+    'mgs',
+    'gs',
+    'kgs',
+    'tsps',
+    'Tbs',
+    'pnts',
+    'qts',
+    'gals',
+    'mls',
+    'ls',
+    'kls',
+];
 var UNIT_OF_MEASURE_CONVERSION = {
     ounce: 'oz',
     pound: 'lb',
@@ -111,6 +126,7 @@ function ingredientToString(ingredient) {
     var components = [];
     if (isNoUnitIngredient(ingredient)) {
         var pluralizedDescription = quantity > 1 ? pluralize(description) : description;
+        pluralizedDescription = PLURAL_ABBREVIATIONS.includes(pluralizedDescription) ? pluralizedDescription.substring(0, pluralizedDescription.length - 1) : pluralizedDescription;
         return "".concat(quantity, " ").concat(pluralizedDescription);
     }
     if (unitOfMeasureID) {
