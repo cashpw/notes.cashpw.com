@@ -31,30 +31,40 @@ function maybeAddScaleInput() {
 }
 
 function scale(factor) {
-  document.querySelectorAll(Selector.INGREDIENT_LABELS).forEach(function (ingredient) {
-    ingredient.innerHTML = scaleRecipe.scale(ingredient.innerHTML, factor);
-  });
-
-  const servings = document.querySelector(Selector.SERVINGS);
-  if (servings) {
-    const [_, numServings, extra] = servings.textContent.match(/^([0-9]+)(.*)/);
-    servings.innerHTML = `${numServings}${extra} x ${factor} = ${numServings * factor}${extra}`;
-  }
-
-  var scalers = document.querySelector("#scalers");
-  if (scalers) {
-    scalers.innerHTML = '<p style="font-size: 0.8em">Refresh to change scaling.</p>';
-  }
+    scaleTable(factor);
+    updateServings(factor);
+    disableScalers();
 }
 
 /** Scale ingredients in the table by FACTOR. */
 function scaleTable(factor) {
-    document.querySelectorAll
+  document.querySelectorAll("div.ingredients table th+th+th").forEach((quantityHeader) => {
+    quantityHeader.innerHTML = `${quantityHeader.innerHTML} x${factor}`;
+  });
+
+  document.querySelectorAll("div.ingredients table tbody td+td+td").forEach((quantity) => {
+    quantity.innerHTML = scaleRecipe.scale(quantity.innerHTML, factor);
+  });
 }
 
 /** Set serving text based on scaling FACTOR. */
 function updateServings(factor) {
+  const servings = document.querySelector(Selector.SERVINGS);
+  if (!servings) {
+    return;
+  }
 
+  const [_, numServings, extra] = servings.textContent.match(/^([0-9]+)(.*)/);
+  servings.innerHTML = `${numServings}${extra} x ${factor} = ${numServings * factor}${extra}`;
+}
+
+function disableScalers() {
+  const scalers = document.querySelector("#scalers");
+  if (!scalers) {
+    return;
+  }
+
+  scalers.innerHTML = '<p style="font-size: 0.8em">Refresh to change scaling.</p>';
 }
 
 maybeAddScaleInput();

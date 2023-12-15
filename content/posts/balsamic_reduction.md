@@ -2,7 +2,7 @@
 title = "Crossroads | Balsamic reduction"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-14T17:39:00-08:00
-lastmod = 2023-12-14T18:02:40-08:00
+lastmod = 2023-12-15T05:58:48-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -32,12 +32,6 @@ Yields 0.5 cups.
 | Shallot          | Halved       | 1        |
 | Kosher salt      |              |          |
 | Black pepper     | Fresh ground |          |
-
--   0.5 cups agave nectar
--   1 cup balsamic vinegar
--   1 shallot, halved
--   Kosher salt
--   Black pepper, freshly ground
 
 </div>
 

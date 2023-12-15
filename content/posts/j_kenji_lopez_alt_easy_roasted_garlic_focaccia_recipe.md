@@ -2,7 +2,7 @@
 title = "James Kenji López-Alt | Easy Roasted-Garlic Focaccia Recipe"
 author = ["Cash Weaver"]
 date = 2023-08-07T19:03:00-07:00
-lastmod = 2023-12-05T20:23:20-08:00
+lastmod = 2023-12-15T05:38:51-08:00
 tags = ["reference", "recipe", "reference", "recipe"]
 categories = ["reference", "recipe"]
 draft = false
@@ -14,7 +14,7 @@ slug = "ed25a76f-1614-4073-a894-8f68f91e6731"
 stars = 5
 +++
 
-[James Kenji López-Alt]({{< relref "james_kenji_lopez_alt.md" >}}), (NO_ITEM_DATA:lopez-altEasyRoastedGarlicFocacciaRecipe)
+[James Kenji López-Alt]({{< relref "james_kenji_lopez_alt.md" >}}), (<a href="#citeproc_bib_item_1">López-Alt n.d.</a>)
 
 > Roasted cloves and garlic butter make for a one-two punch in this simple riff on garlic bread.
 
@@ -26,13 +26,15 @@ stars = 5
 
 <div class="ingredients">
 
--   1 whole head garlic
--   5 tablespoons (75ml) extra-virgin olive oil, divided
--   Kosher salt, for seasoning
--   500g all-purpose or bread flour (17 1/2 ounces; about 3 1/4 cups)
--   325g water (11 1/2 ounces; about 1 1/2 cups minus 1 tablespoon)
--   15g kosher salt (1/2 ounce; about 1 tablespoon)
--   4g instant yeast (0.15 ounce; about 1 teaspoon)
+| Ingredient             | Notes                | Quantity |
+|------------------------|----------------------|----------|
+| Head of garlic         | Whole                | 1        |
+| Extra-virgin olive oil | Divided              | 75ml     |
+| Salt                   | Seasoning            |          |
+| Flour                  | All-purpose or bread | 500g     |
+| Water                  |                      | 325g     |
+| Salt                   | Kosher               | 15g      |
+| Yeast                  | Instant              | 4g       |
 
 </div>
 
@@ -40,6 +42,12 @@ stars = 5
 ### For the Garlic Butter {#for-the-garlic-butter}
 
 <div class="ingredients">
+
+| Ingredient        | Notes    | Quantity |
+|-------------------|----------|----------|
+| Butter            | Unsalted | 30g      |
+| Oregano           | Dried    | 2g       |
+| Red pepper flakes |          | 0.5g     |
 
 -   2 tablespoons (30g) unsalted butter
 -   2 teaspoons dried oregano
@@ -88,5 +96,5 @@ stars = 5
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:lopez-altEasyRoastedGarlicFocacciaRecipe</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>López-Alt, James Kenji. n.d. “Easy Roasted-Garlic Focaccia Recipe.” Serious Eats. Accessed August 8, 2023. <a href="https://www.seriouseats.com/easy-roasted-garlic-focaccia-no-knead-bread-recipe">https://www.seriouseats.com/easy-roasted-garlic-focaccia-no-knead-bread-recipe</a>.</div>
 </div>
