@@ -106,12 +106,20 @@ function isNoUnitIngredient(ingredient) {
     var quantity = ingredient.quantity, quantity2 = ingredient.quantity2, unitOfMeasure = ingredient.unitOfMeasure, unitOfMeasureID = ingredient.unitOfMeasureID;
     return quantity && !quantity2 && !unitOfMeasure && !unitOfMeasureID;
 }
+function isBareQuantity(ingredient) {
+    var quantity = ingredient.quantity, quantity2 = ingredient.quantity2, unitOfMeasure = ingredient.unitOfMeasure, unitOfMeasureID = ingredient.unitOfMeasureID, description = ingredient.description;
+    return quantity && description && !quantity2 && !unitOfMeasure && !unitOfMeasureID;
+}
 function ingredientToString(ingredient) {
-    var quantity = ingredient.quantity, quantity2 = ingredient.quantity2, unitOfMeasureID = ingredient.unitOfMeasureID, description = ingredient.description;
+    var quantity = ingredient.quantity, quantity2 = ingredient.quantity2, description = ingredient.description;
+    var unitOfMeasureID = ingredient.unitOfMeasureID;
     var components = [];
-    if (isNoUnitIngredient(ingredient)) {
+    if (isNoUnitIngredient(ingredient) && !isBareQuantity(ingredient)) {
         var pluralizedDescription = quantity > 1 ? pluralize(description) : description;
         return "".concat(quantity, " ").concat(pluralizedDescription);
+    }
+    if (isBareQuantity(ingredient)) {
+        unitOfMeasureID = description;
     }
     if (unitOfMeasureID) {
         var formatQuantityOptions = {
@@ -152,7 +160,7 @@ function ingredientToString(ingredient) {
             components.push(humanUnit);
         }
     }
-    if (ingredient.description) {
+    if (ingredient.description && !isBareQuantity(ingredient)) {
         components.push(ingredient.description);
     }
     return components.join(' ');

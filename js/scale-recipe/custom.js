@@ -1,6 +1,9 @@
 const Selector = {
   INGREDIENT_LABELS: 'div.ingredients ul li label',
-  SERVINGS: '#servings',
+  SERVINGS_HEADER: '#servings-heading',
+  YIELD_HEADER: '#yield-heading',
+  SERVINGS_CELL: '#servings-cell',
+  YIELD_CELL: '#yield-cell',
 };
 
 function createCheckboxListItem(label, id) {
@@ -11,8 +14,9 @@ function createCheckboxListItem(label, id) {
 }
 
 function maybeAddScaleInput() {
-  const servings = document.querySelector(Selector.SERVINGS);
-  if (!servings) {
+  const servings_cell = document.querySelector(Selector.SERVINGS_CELL);
+  const yield_cell = document.querySelector(Selector.YIELD_CELL);
+  if (!servings_cell && !yield_cell) {
     return;
   }
 
@@ -31,30 +35,66 @@ function maybeAddScaleInput() {
 }
 
 function scale(factor) {
-  document.querySelectorAll(Selector.INGREDIENT_LABELS).forEach(function (ingredient) {
-    ingredient.innerHTML = scaleRecipe.scale(ingredient.innerHTML, factor);
-  });
+    scaleIngredients(factor);
+    scaleMeta(factor);
+    disableScalers();
+}
 
-  const servings = document.querySelector(Selector.SERVINGS);
-  if (servings) {
-    const [_, numServings, extra] = servings.textContent.match(/^([0-9]+)(.*)/);
-    servings.innerHTML = `${numServings}${extra} x ${factor} = ${numServings * factor}${extra}`;
-  }
-
-  var scalers = document.querySelector("#scalers");
-  if (scalers) {
-    scalers.innerHTML = '<p style="font-size: 0.8em">Refresh to change scaling.</p>';
-  }
+/** Scale recipe metadata by FACTOR. */
+function scaleMeta(factor) {
+   scaleServings(factor);
+   scaleYield(factor);
 }
 
 /** Scale ingredients in the table by FACTOR. */
-function scaleTable(factor) {
-    document.querySelectorAll
+function scaleIngredients(factor) {
+  document.querySelectorAll("div.ingredients table th+th+th").forEach((quantityHeader) => {
+    quantityHeader.innerHTML = `${quantityHeader.innerHTML} x${factor}`;
+  });
+
+  document.querySelectorAll("div.ingredients table tbody td+td+td").forEach((quantity) => {
+    quantity.innerHTML = scaleRecipe.scale(quantity.innerHTML, factor);
+  });
 }
 
 /** Set serving text based on scaling FACTOR. */
-function updateServings(factor) {
+function scaleServings(factor) {
+  const servings_header = document.querySelector(Selector.SERVINGS_HEADER);
+  if (!servings_header) {
+    return;
+  }
+  servings_header.innerHTML = `${servings_header.innerHTML} x${factor}`;
 
+  const servings_cell = document.querySelector(Selector.SERVINGS_CELL);
+  if (!servings_cell) {
+    return;
+  }
+  const [_, numServings, extra] = servings_cell.textContent.match(/^([0-9]+)(.*)/);
+  servings_cell.innerHTML = `${numServings * factor}${extra}`;
+}
+
+/** Set yield text based on scaling FACTOR. */
+function scaleYield(factor) {
+  const yield_header = document.querySelector(Selector.YIELD_HEADER);
+  if (!yield_header) {
+    return;
+  }
+  yield_header.innerHTML = `${yield_header.innerHTML} x${factor}`;
+
+  const yield_cell = document.querySelector(Selector.YIELD_CELL);
+  if (!yield_cell) {
+    return;
+  }
+  yield_cell.innerHTML = scaleRecipe.scale(yield_cell.innerHTML, factor);
+}
+
+function disableScalers() {
+  const scalers = document.querySelector("#scalers");
+  if (!scalers) {
+    return;
+  }
+
+  scalers.innerHTML = '<p style="font-size: 0.8em">Refresh to change scaling.</p>';
 }
 
 maybeAddScaleInput();
