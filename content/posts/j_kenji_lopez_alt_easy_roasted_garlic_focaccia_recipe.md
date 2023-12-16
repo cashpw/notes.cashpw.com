@@ -2,16 +2,16 @@
 title = "James Kenji López-Alt | Easy Roasted-Garlic Focaccia Recipe"
 author = ["Cash Weaver"]
 date = 2023-08-07T19:03:00-07:00
-lastmod = 2023-12-15T06:02:40-08:00
+lastmod = 2023-12-15T14:41:20-08:00
 tags = ["reference", "recipe", "reference", "recipe"]
 categories = ["reference", "recipe"]
 draft = false
-prep_time = "10m"
-cook_time = "1h 20m"
-total_time = "1h 30m"
+prep_time = "0:10"
+cook_time = "1:20"
+total_time = "1:30"
 servings = 6
-slug = "ed25a76f-1614-4073-a894-8f68f91e6731"
 stars = 5
+slug = "ed25a76f-1614-4073-a894-8f68f91e6731"
 +++
 
 [James Kenji López-Alt]({{< relref "james_kenji_lopez_alt.md" >}}), (<a href="#citeproc_bib_item_1">López-Alt n.d.</a>)
@@ -52,7 +52,7 @@ stars = 5
 </div>
 
 
-### Steps {#steps}
+## Steps {#steps}
 
 1.  **For the Focaccia:** Adjust oven rack to center position and preheat oven to 350°F (180°C). Remove 4 cloves garlic from head and set aside. Place remaining head in the center of a sheet of aluminum foil. Drizzle with 1 tablespoon (15ml) olive oil and season with salt. Wrap tightly with foil and place in an oven-safe cast iron, carbon steel, or stainless steel skillet, then transfer to oven. Roast until garlic is completely tender, about 1 hour. Remove from oven and refrigerate until ready to use the next day.
 

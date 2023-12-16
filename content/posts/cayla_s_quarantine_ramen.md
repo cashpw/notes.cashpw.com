@@ -2,16 +2,16 @@
 title = "Cayla's quarantine ramen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-30T11:30:00-07:00
-lastmod = 2023-12-05T19:59:19-08:00
+lastmod = 2023-12-15T14:11:02-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
-prep_time = "15m"
-cook_time = "15m"
-total_time = "30m"
+prep_time = "0:15"
+cook_time = "0:15"
+total_time = "0:30"
 servings = 4
-slug = "9b56dca0-39e0-4dec-a269-dd7773257c2b"
 stars = 5
+slug = "9b56dca0-39e0-4dec-a269-dd7773257c2b"
 +++
 
 ## Ingredients {#ingredients}
@@ -72,6 +72,8 @@ stars = 5
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

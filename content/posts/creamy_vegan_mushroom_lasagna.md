@@ -2,18 +2,18 @@
 title = "Creamy vegan mushroom lasagna"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-31T08:21:00-07:00
-lastmod = 2023-12-05T20:04:42-08:00
+lastmod = 2023-12-15T14:11:52-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
-cook_time = "45m"
-total_time = "45m"
+cook_time = "0:45"
+total_time = "0:45"
 servings = 8
-slug = "0905eaa4-16e9-4abb-b78c-0b00f855e60d"
 stars = 5
+slug = "0905eaa4-16e9-4abb-b78c-0b00f855e60d"
 +++
 
-This recipe is from (NO_ITEM_DATA:murnaneOnePartPlantSimpleGuideEatingRealOneMealTime2017) and (NO_ITEM_DATA:murnaneCreamyVeganMushroomLasagnaa).
+This recipe is from (<a href="#citeproc_bib_item_1">Murnane 2017</a>) and (<a href="#citeproc_bib_item_2">Murnane n.d.</a>).
 
 
 ## Ingredients {#ingredients}
@@ -49,6 +49,6 @@ This recipe is from (NO_ITEM_DATA:murnaneOnePartPlantSimpleGuideEatingRealOneMea
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:murnaneCreamyVeganMushroomLasagnaa</div>
-  <div class="csl-entry">NO_ITEM_DATA:murnaneOnePartPlantSimpleGuideEatingRealOneMealTime2017</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Murnane, Jessica. 2017. <i>One Part Plant: A Simple Guide to Eating Real, One Meal at a Time</i>. First edition. New York, NY: Harper Wave, an imprint of HarperCollinsPublishers.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d. “Creamy Vegan Mushroom Lasagna.” Epicurious. Accessed October 31, 2022. <a href="https://www.epicurious.com/recipes/food/views/creamy-mushroom-lasagna">https://www.epicurious.com/recipes/food/views/creamy-mushroom-lasagna</a>.</div>
 </div>

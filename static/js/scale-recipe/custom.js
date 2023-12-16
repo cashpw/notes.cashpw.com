@@ -13,15 +13,13 @@ function createCheckboxListItem(label, id) {
     + '</li>';
 }
 
-console.log("foo");
 function maybeAddScaleInput() {
-console.log("foo1");
-  const servings = document.querySelector(Selector.SERVINGS_CELL);
-  if (!servings) {
+  const servings_cell = document.querySelector(Selector.SERVINGS_CELL);
+  const yield_cell = document.querySelector(Selector.YIELD_CELL);
+  if (!servings_cell && !yield_cell) {
     return;
   }
 
-console.log("foo2");
   var ingredientsHeader = document.querySelector("#ingredients");
   if (!ingredientsHeader) {
     return;
@@ -36,7 +34,6 @@ console.log("foo2");
   ingredientsHeader.insertAdjacentHTML('beforebegin', '<div id="scalers">Scale by ' + scalers + '</div>');
 }
 
-console.log("foo");
 function scale(factor) {
     scaleIngredients(factor);
     scaleMeta(factor);
@@ -49,7 +46,6 @@ function scaleMeta(factor) {
    scaleYield(factor);
 }
 
-console.log("foo");
 /** Scale ingredients in the table by FACTOR. */
 function scaleIngredients(factor) {
   document.querySelectorAll("div.ingredients table th+th+th").forEach((quantityHeader) => {
@@ -89,8 +85,7 @@ function scaleYield(factor) {
   if (!yield_cell) {
     return;
   }
-  const [_, numYield, extra] = yield_cell.textContent.match(/^([0-9]+)(.*)/);
-  yield_cell.innerHTML = `${numYield * factor}${extra}`;
+  yield_cell.innerHTML = scaleRecipe.scale(yield_cell.innerHTML, factor);
 }
 
 function disableScalers() {

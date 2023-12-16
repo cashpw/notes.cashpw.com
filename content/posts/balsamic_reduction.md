@@ -2,13 +2,13 @@
 title = "Crossroads | Balsamic reduction"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-14T17:39:00-08:00
-lastmod = 2023-12-15T05:58:48-08:00
+lastmod = 2023-12-15T14:13:37-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
-cook_time = "1h"
-total_time = "1h"
-servings = 1
+cook_time = "1:00"
+total_time = "1:00"
+yield = "125 ml"
 slug = "98883a1b-a911-4c41-8cd8-6808943ed0bd"
 +++
 
@@ -18,8 +18,6 @@ A recipe from [Tal Ronnen and Scot Jones and Serafina Magnussen and JoAnn Cianci
 >
 > (<a href="#citeproc_bib_item_1">Ronnen et al. 2015</a>)
 
-Yields 0.5 cups.
-
 
 ## Ingredients {#ingredients}
 
@@ -27,8 +25,8 @@ Yields 0.5 cups.
 
 | Ingredient       | Notes        | Quantity |
 |------------------|--------------|----------|
-| Agave nectar     |              | 0.5 cups |
-| Balsamic vinegar |              | 1 cup    |
+| Agave nectar     |              | 125 ml   |
+| Balsamic vinegar |              | 250 ml   |
 | Shallot          | Halved       | 1        |
 | Kosher salt      |              |          |
 | Black pepper     | Fresh ground |          |

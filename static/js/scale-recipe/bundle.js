@@ -9,21 +9,6 @@ var pluralize = require('pluralize');
 var decimal_js_1 = require("decimal.js");
 var parse_ingredient_1 = require("parse-ingredient");
 var format_quantity_with_sixteenths_1 = require("format-quantity-with-sixteenths");
-var PLURAL_ABBREVIATIONS = [
-    'ozs',
-    'lbs',
-    'mgs',
-    'gs',
-    'kgs',
-    'tsps',
-    'Tbs',
-    'pnts',
-    'qts',
-    'gals',
-    'mls',
-    'ls',
-    'kls',
-];
 var UNIT_OF_MEASURE_CONVERSION = {
     ounce: 'oz',
     pound: 'lb',
@@ -121,13 +106,20 @@ function isNoUnitIngredient(ingredient) {
     var quantity = ingredient.quantity, quantity2 = ingredient.quantity2, unitOfMeasure = ingredient.unitOfMeasure, unitOfMeasureID = ingredient.unitOfMeasureID;
     return quantity && !quantity2 && !unitOfMeasure && !unitOfMeasureID;
 }
+function isBareQuantity(ingredient) {
+    var quantity = ingredient.quantity, quantity2 = ingredient.quantity2, unitOfMeasure = ingredient.unitOfMeasure, unitOfMeasureID = ingredient.unitOfMeasureID, description = ingredient.description;
+    return quantity && description && !quantity2 && !unitOfMeasure && !unitOfMeasureID;
+}
 function ingredientToString(ingredient) {
-    var quantity = ingredient.quantity, quantity2 = ingredient.quantity2, unitOfMeasureID = ingredient.unitOfMeasureID, description = ingredient.description;
+    var quantity = ingredient.quantity, quantity2 = ingredient.quantity2, description = ingredient.description;
+    var unitOfMeasureID = ingredient.unitOfMeasureID;
     var components = [];
-    if (isNoUnitIngredient(ingredient)) {
+    if (isNoUnitIngredient(ingredient) && !isBareQuantity(ingredient)) {
         var pluralizedDescription = quantity > 1 ? pluralize(description) : description;
-        pluralizedDescription = PLURAL_ABBREVIATIONS.includes(pluralizedDescription) ? pluralizedDescription.substring(0, pluralizedDescription.length - 1) : pluralizedDescription;
         return "".concat(quantity, " ").concat(pluralizedDescription);
+    }
+    if (isBareQuantity(ingredient)) {
+        unitOfMeasureID = description;
     }
     if (unitOfMeasureID) {
         var formatQuantityOptions = {
@@ -168,7 +160,7 @@ function ingredientToString(ingredient) {
             components.push(humanUnit);
         }
     }
-    if (ingredient.description) {
+    if (ingredient.description && !isBareQuantity(ingredient)) {
         components.push(ingredient.description);
     }
     return components.join(' ');
