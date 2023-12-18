@@ -58,7 +58,7 @@ showAuthor = false
   Content = """
 These are my [interlinked](/posts/6037800d-34c3-4d62-a33b-3931d694f083) [personal](/posts/2c8acd36-620a-47a7-8d3a-63594fd2065c) notes ([how](/posts/5140bc26-825e-4e26-aec6-3738a5fe2ab1), [why](/posts/7add4362-8a4e-4148-ac25-185213327b33)). These sorts of interconnected notes are a type of [personal knowledge management](/posts/773406e0-fe95-41f4-a254-b2c6ade18ce9) system. They're sometimes called [zettelkasten](/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710), a second brain, or a digital garden.
 
-Check out the [archives](/archives) for a full list of posts or start from one of my [favorites](/posts/2a586a0e-eddc-4903-9c90-7e3a91e3204c) or a (vegan) [recipe](/tags/recipe)/[ingredient](/tags/ingredient).
+Check out the [archives](/archives) for a full list of posts or start from one of my [favorites](/posts/2a586a0e-eddc-4903-9c90-7e3a91e3204c) or a (vegan) [recipe](/tags/recipe).
 """
 
   [[params.socialIcons]]
@@ -80,10 +80,6 @@ Check out the [archives](/archives) for a full list of posts or start from one o
   [[params.socialIcons]]
   name = "instagram"
   url = "https://instagram.com/cashweaver"
-
-  [[params.socialIcons]]
-  name = "recipes"
-  url = "/tags/recipe/"
 
 [markup.goldmark.renderer]
 unsafe = true
