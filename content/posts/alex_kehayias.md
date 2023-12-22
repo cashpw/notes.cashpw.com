@@ -2,7 +2,7 @@
 title = "Alex Kehayias"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:44:00-08:00
-lastmod = 2023-12-05T19:51:48-08:00
+lastmod = 2023-12-21T20:44:23-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,7 +21,9 @@ Among other things:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Examples of Zettelkasten Notes]({{< relref "examples_of_zettelkasten_notes.md" >}})
+-   [Examples of Zettelkasten Notes]({{< relref "alex_kehayias.md" >}})

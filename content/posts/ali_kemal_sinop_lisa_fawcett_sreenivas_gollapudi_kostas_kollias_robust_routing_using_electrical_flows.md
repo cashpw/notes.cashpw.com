@@ -2,14 +2,14 @@
 title = "Ali Kemal Sinop, Lisa Fawcett, Sreenivas Gollapudi, Kostas Kollias | Robust Routing Using Electrical Flows"
 author = ["Cash Weaver"]
 date = 2023-03-24T16:56:00-07:00
-lastmod = 2023-12-05T19:52:15-08:00
+lastmod = 2023-12-21T20:44:58-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "5db2d60d-f58e-43ed-80d8-b1826abaccd1"
 +++
 
-TODO_AUTHOR, (NO_ITEM_DATA:sinopRobustRoutingUsingElectricalFlows2021)
+TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Sinop et al. 2021</a>)
 
 
 ## Summary {#summary}
@@ -24,7 +24,7 @@ TODO_AUTHOR, (NO_ITEM_DATA:sinopRobustRoutingUsingElectricalFlows2021)
 ## Questions {#questions}
 
 
-### What is "Customizable route planning" in the context of [Shortest path problem]({{< relref "shortest_path_algorithm.md" >}})? {#what-is-customizable-route-planning-in-the-context-of-shortest-path-problem--shortest-path-algorithm-dot-md}
+### What is "Customizable route planning" in the context of [Shortest path problem]({{< relref "ali_kemal_sinop_lisa_fawcett_sreenivas_gollapudi_kostas_kollias_robust_routing_using_electrical_flows.md" >}})? {#what-is-customizable-route-planning-in-the-context-of-shortest-path-problem--ali-kemal-sinop-lisa-fawcett-sreenivas-gollapudi-kostas-kollias-robust-routing-using-electrical-flows-dot-md}
 
 Daniel Delling, Andrew V. Goldberg, Thomas Pajor, and Renato F. Werneck. 2017. Customizable Route Planning in Road Networks. Transp. Sci. 51, 2 (2017), 566–591.
 
@@ -52,7 +52,7 @@ Science 17, 11 (1971), 712–716.
 Roland Bader, Jonathan Dees, Robert Geisberger, and Peter Sanders. 2011. Al- ternative Route Graphs in Road Networks. In Theory and Practice of Algorithms in (Computer) Systems, Alberto Marchetti-Spaccamela and Michael Segal (Eds.). Springer Berlin Heidelberg, Berlin, Heidelberg, 21–32.
 
 
-### What is an electrical flow in the context of [Graphs]({{< relref "graph.md" >}})? {#what-is-an-electrical-flow-in-the-context-of-graphs--graph-dot-md}
+### What is an electrical flow in the context of [Graphs]({{< relref "ali_kemal_sinop_lisa_fawcett_sreenivas_gollapudi_kostas_kollias_robust_routing_using_electrical_flows.md" >}})? {#what-is-an-electrical-flow-in-the-context-of-graphs--ali-kemal-sinop-lisa-fawcett-sreenivas-gollapudi-kostas-kollias-robust-routing-using-electrical-flows-dot-md}
 
 Christos Faloutsos, Kevin S. McCurley, and Andrew Tomkins. 2004. Fast discovery of connection subgraphs. In Proceedings of the Tenth ACM SIGKDD International
 
@@ -77,5 +77,5 @@ Ittai Abraham, Daniel Delling, Andrew V. Goldberg, and Renato F. Werneck. 2013. 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:sinopRobustRoutingUsingElectricalFlows2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Sinop, Ali Kemal, Lisa Fawcett, Sreenivas Gollapudi, and Kostas Kollias. 2021. “Robust Routing Using Electrical Flows.” In <i>Proceedings of the 29th International Conference on Advances in Geographic Information Systems</i>, 282–92. Beijing China: ACM. <a href="https://doi.org/10.1145/3474717.3483961">https://doi.org/10.1145/3474717.3483961</a>.</div>
 </div>

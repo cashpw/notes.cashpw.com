@@ -2,7 +2,7 @@
 title = "Andy Payne"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:33:00-08:00
-lastmod = 2023-12-05T19:53:08-08:00
+lastmod = 2023-12-21T20:46:13-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,7 +21,9 @@ Among other things:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Andy Payne | The Myth of the Myth of the 10x Programmer]({{< relref "payneMythMyth10xProgrammer2020.md" >}})
+-   [Andy Payne | The Myth of the Myth of the 10x Programmer]({{< relref "andy_payne.md" >}})

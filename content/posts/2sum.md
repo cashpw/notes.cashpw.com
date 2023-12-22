@@ -2,7 +2,7 @@
 title = "2sum"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T15:59:00-08:00
-lastmod = 2023-12-05T19:48:55-08:00
+lastmod = 2023-12-21T20:40:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,7 +17,7 @@ slug = "9ce77447-dc1d-4623-b469-b4bd636e7453"
 >
 > (<a href="#citeproc_bib_item_1">LeetCode n.d.</a>)
 
-[2sum]({{< relref "2sum.md" >}}) is a [Technical interview question]({{< relref "technical_interview_question.md" >}}) and a variant of the [Subset sum problem]({{< relref "subset_sum_problem.md" >}}).
+[2sum]({{< relref "2sum.md" >}}) is a [Technical interview question]({{< relref "2sum.md" >}}) and a variant of the [Subset sum problem]({{< relref "2sum.md" >}}).
 
 
 ## Quadratic solution (\\(\bigo{n^2}\\)) {#quadratic-solution--bigo-n-2}
@@ -42,9 +42,9 @@ print(two_sum([2,4,5], 2), 'should be None')
 
 ## Linear solution (\\(\bigo{n}\\)) {#linear-solution--bigo-n}
 
-The trick is using a [Hash map]({{< relref "hash_table.md" >}}).
+The trick is using a [Hash map]({{< relref "2sum.md" >}}).
 
-[2sum linear time solution in Python]({{< relref "2sum_linear_time_solution_in_python.md" >}})
+[2sum linear time solution in Python]({{< relref "2sum.md" >}})
 
 
 ## Bibliography {#bibliography}
@@ -52,10 +52,12 @@ The trick is using a [Hash map]({{< relref "hash_table.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>LeetCode. n.d. “Two Sum.” <i>Leetcode</i>. Accessed February 8, 2023. <a href="https://leetcode.com/problems/two-sum/description">https://leetcode.com/problems/two-sum/description</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>LeetCode. n.d. “Two Sum.” LeetCode. Accessed February 8, 2023. <a href="https://leetcode.com/problems/two-sum/description">https://leetcode.com/problems/two-sum/description</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [2sum linear time solution in Python]({{< relref "2sum_linear_time_solution_in_python.md" >}})
+-   [2sum linear time solution in Python]({{< relref "2sum.md" >}})

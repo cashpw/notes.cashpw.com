@@ -2,7 +2,7 @@
 title = "7,000 baby terrorists"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-13T11:28:00-08:00
-lastmod = 2023-12-05T19:49:02-08:00
+lastmod = 2023-12-21T20:40:52-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -37,5 +37,5 @@ slug = "c5ebf924-65f5-4858-a28c-e5c0dac4702e"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Trudeau, Garry. n.d. “7000 Baby Terrorists.”</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Trudeau, Garry. n.d. <i>7000 Baby Terrorists</i>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Agile (Software development)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T16:32:00-07:00
-lastmod = 2023-12-05T19:51:25-08:00
+lastmod = 2023-12-21T20:43:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -52,12 +52,14 @@ slug = "5664432e-6bb3-4670-9669-08ee70b5ca6d"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Agile Software Development.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Agile_software_development&oldid=1118312171">https://en.wikipedia.org/w/index.php?title=Agile_software_development&#38;oldid=1118312171</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Agile Software Development.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Agile_software_development&oldid=1118312171">https://en.wikipedia.org/w/index.php?title=Agile_software_development&#38;oldid=1118312171</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Timeboxing]({{< relref "timeboxing.md" >}})
--   [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "kileBusyPersonPatterns2006.md" >}})
--   [Feedback loop]({{< relref "kileBusyPersonPatterns2006.md#feedback-loop" >}})
+-   [Feedback loop]({{< relref "agile.md#feedback-loop" >}})
+-   [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< relref "agile.md" >}})
+-   [Timeboxing]({{< relref "agile.md" >}})

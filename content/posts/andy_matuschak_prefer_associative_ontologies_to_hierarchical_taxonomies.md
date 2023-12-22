@@ -2,14 +2,14 @@
 title = "Andy Matuschak | Prefer Associative Ontologies to Hierarchical Taxonomies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:38:00-08:00
-lastmod = 2023-12-05T19:53:06-08:00
+lastmod = 2023-12-21T20:46:10-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "47b06441-f192-42cf-9c30-9be549d2da95"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (NO_ITEM_DATA:PreferAssociativeOntologiesHierarchicalTaxonomies)
+[Andy Matuschak]({{< relref "andy_matuschak_prefer_associative_ontologies_to_hierarchical_taxonomies.md" >}}), (<a href="#citeproc_bib_item_1">“Prefer Associative Ontologies to Hierarchical Taxonomies” n.d.</a>)
 
 > Let structure emerge organically. When it's imposed from the start, you prematurely constrain what may emerge and artificially compress the nuanced relationships between ideas.
 >
@@ -29,11 +29,13 @@ slug = "47b06441-f192-42cf-9c30-9be549d2da95"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:PreferAssociativeOntologiesHierarchicalTaxonomies</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prefer Associative Ontologies to Hierarchical Taxonomies.” n.d. Andy’s working notes. Accessed November 7, 2022. <a href="https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy">https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Andy Matuschak | Evergreen Notes Should Be Densely Linked]({{< relref "EvergreenNotesShouldBeDenselyLinked.md" >}})
--   [Style Guide]({{< relref "style_guide.md" >}})
+-   [Andy Matuschak | Evergreen Notes Should Be Densely Linked]({{< relref "andy_matuschak_prefer_associative_ontologies_to_hierarchical_taxonomies.md" >}})
+-   [Style Guide]({{< relref "andy_matuschak_prefer_associative_ontologies_to_hierarchical_taxonomies.md" >}})

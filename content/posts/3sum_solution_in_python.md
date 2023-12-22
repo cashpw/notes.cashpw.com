@@ -2,7 +2,7 @@
 title = "3sum solution in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T16:26:00-08:00
-lastmod = 2023-12-05T19:48:59-08:00
+lastmod = 2023-12-21T20:40:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -62,7 +62,9 @@ print(three_sum([2,3,4,5,2], 6), 'should be None')
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Three sum]({{< relref "three_sum.md" >}})
+-   [Three sum]({{< relref "3sum_solution_in_python.md" >}})

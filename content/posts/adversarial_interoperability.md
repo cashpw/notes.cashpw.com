@@ -2,18 +2,18 @@
 title = "Adversarial interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:35:00-07:00
-lastmod = 2023-12-05T19:51:13-08:00
+lastmod = 2023-12-21T20:43:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "b043e085-a9d3-4da5-8686-938fb3bfdcda"
 +++
 
-A type of [Interoperability]({{< relref "interoperability.md" >}}).
+A type of [Interoperability]({{< relref "adversarial_interoperability.md" >}}).
 
 > [[Adversarial interoperability]({{< relref "adversarial_interoperability.md" >}}) is] when you create a new product or service that plugs into the existing ones without the permission of the companies that make them. Think of third-party printer ink, alternative app stores, or independent repair shops that use compatible parts from rival manufacturers to fix your car or your phone or your tractor.
 >
-> (<a href="#citeproc_bib_item_1">Doctorow 2019</a>)
+> (<a href="#citeproc_bib_item_2">Doctorow 2019b</a>)
 
 <!--quoteend-->
 
@@ -21,7 +21,7 @@ A type of [Interoperability]({{< relref "interoperability.md" >}}).
 >
 > Since Pages' launch, document interoperability has stabilized, with multiple parties entering the market, including Google's cloud-based Docs offerings, and the free/open alternatives from LibreOffice. The convergence on this standard was not undertaken with the blessing of the dominant player: rather, it came about despite Microsoft's opposition. Docs are not just interoperable, they're adversarially interoperable: each has its own file format, but each can read Microsoft's file format.
 >
-> (NO_ITEM_DATA:doctorowAdversarialInteroperabilityRevivingElegantWeaponMoreCivilizedAgeSlayToday2019)
+> (<a href="#citeproc_bib_item_1">Doctorow 2019a</a>)
 
 
 ## Bibliography {#bibliography}
@@ -29,11 +29,13 @@ A type of [Interoperability]({{< relref "interoperability.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Doctorow, Cory. 2019. “Adversarial Interoperability.” <i>Electronic Frontier Foundation</i>. <a href="https://www.eff.org/deeplinks/2019/10/adversarial-interoperability">https://www.eff.org/deeplinks/2019/10/adversarial-interoperability</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:doctorowAdversarialInteroperabilityRevivingElegantWeaponMoreCivilizedAgeSlayToday2019</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Doctorow, Cory. 2019a. “Adversarial Interoperability: Reviving an Elegant Weapon From a More Civilized Age to Slay Today’s Monopolies.” Electronic Frontier Foundation. June 7, 2019. <a href="https://www.eff.org/deeplinks/2019/06/adversarial-interoperability-reviving-elegant-weapon-more-civilized-age-slay">https://www.eff.org/deeplinks/2019/06/adversarial-interoperability-reviving-elegant-weapon-more-civilized-age-slay</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2019b. “Adversarial Interoperability.” Electronic Frontier Foundation. October 2, 2019. <a href="https://www.eff.org/deeplinks/2019/10/adversarial-interoperability">https://www.eff.org/deeplinks/2019/10/adversarial-interoperability</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Interoperability]({{< relref "interoperability.md" >}})
+-   [Interoperability]({{< relref "adversarial_interoperability.md" >}})

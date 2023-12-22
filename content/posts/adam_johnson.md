@@ -2,7 +2,7 @@
 title = "Adam Johnson"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T11:12:00-07:00
-lastmod = 2023-12-05T19:50:52-08:00
+lastmod = 2023-12-21T20:43:12-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,7 +21,9 @@ Among other things:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Citations Needed]({{< relref "CitationsNeeded.md" >}})
+-   [Citations Needed]({{< relref "adam_johnson.md" >}})

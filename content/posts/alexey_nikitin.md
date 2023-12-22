@@ -2,7 +2,7 @@
 title = "Alexey Nikitin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:31:00-08:00
-lastmod = 2023-12-05T19:52:13-08:00
+lastmod = 2023-12-21T20:44:56-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,7 +21,9 @@ Among other things:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Alexey Nikitin | My least favorite Git commit]({{< relref "nikitinMyLeastFavoriteGitCommit2019.md" >}})
+-   [Alexey Nikitin | My least favorite Git commit]({{< relref "alexey_nikitin.md" >}})

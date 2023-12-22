@@ -2,7 +2,7 @@
 title = "Matt Eding | Sparse Matrices"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T18:33:00-07:00
-lastmod = 2023-12-05T19:50:02-08:00
+lastmod = 2023-12-21T20:42:10-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -11,7 +11,7 @@ slug = "26116df3-08f6-4a3d-ab21-c1f33d2facfd"
 
 TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Eding n.d.</a>)
 
-[Sparse matrices]({{< relref "sparse_matrices.md" >}})
+[Sparse matrices]({{< relref "SparseMatricesMatt.md" >}})
 
 
 ## Summary {#summary}

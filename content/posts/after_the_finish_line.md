@@ -2,14 +2,14 @@
 title = "The last 10%"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-04T07:57:00-08:00
-lastmod = 2023-12-05T19:51:20-08:00
+lastmod = 2023-12-21T20:43:48-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
 slug = "d83ff790-f983-4581-a5dd-f5d27be45893"
 +++
 
-A software project isn't done at launch. That said, you should balance these potential to-dos with doing a [Good enough]({{< relref "kileBusyPersonPatterns2006.md#good-enough" >}}) job when appropriate (also, the [Pareto principle]({{< relref "pareto_principle.md" >}})).
+A software project isn't done at launch. That said, you should balance these potential to-dos with doing a [Good enough]({{< relref "after_the_finish_line.md#good-enough" >}}) job when appropriate (also, the [Pareto principle]({{< relref "after_the_finish_line.md" >}})).
 
 Inspiration, and line items, taken from (<a href="#citeproc_bib_item_1">Henley n.d.</a>) and (<a href="#citeproc_bib_item_2">Ramsey n.d.</a>). "Evangelism, documentation, and polish are often just as important as the core project" (<a href="#citeproc_bib_item_1">Henley n.d.</a>).
 
@@ -35,7 +35,7 @@ Reduce toil for those who will use and support the work in the future.
 
 ## Retrospective {#retrospective}
 
-Hold [Retrospective]({{< relref "retrospective.md" >}})(s).
+Hold [Retrospective]({{< relref "after_the_finish_line.md" >}})(s).
 
 -   Discuss the project with those who worked on it; where were the pain points?
 -   Seek out feedback, document it, and make improvements
@@ -69,9 +69,11 @@ They won't come once you build it. They'll come when you sell them on why they s
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Ramsey, Jared. n.d. “The Last 1\%.” Accessed December 4, 2023. <a href="https://jaredramsey.com/blog/20230808.html">https://jaredramsey.com/blog/20230808.html</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Jared Ramsey | The Last 1%]({{< relref "after_the_finish_line.md" >}})
 -   [Austin Henley | Stopping at 90%]({{< relref "after_the_finish_line.md" >}})
+-   [Jared Ramsey | The Last 1%]({{< relref "after_the_finish_line.md" >}})
 -   [Ninety-ninety rule]({{< relref "after_the_finish_line.md" >}})

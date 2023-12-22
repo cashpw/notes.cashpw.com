@@ -2,14 +2,14 @@
 title = "Kamran Ahmed | Levels of Seniority"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:50:00-08:00
-lastmod = 2023-12-05T19:51:28-08:00
+lastmod = 2023-12-21T20:43:58-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e"
 +++
 
-[Kamran Ahmed]({{< relref "kamran_ahmed.md" >}}), (<a href="#citeproc_bib_item_1">Ahmed n.d.</a>)
+[Kamran Ahmed]({{< relref "ahmedLevelsSeniority.md" >}}), (<a href="#citeproc_bib_item_1">Ahmed n.d.</a>)
 
 
 ## Summary {#summary}
@@ -35,8 +35,8 @@ slug = "e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e"
 > -   They don't know about the business side of the company and don't realize how management/sales/marketing/etc think and they don't realize how much rework, wasted effort, and end-user aggravation could be saved by getting to know the business domain.
 > -   Over-engineering is a major problem, often leading to fragility and bugs.
 > -   When given a problem, they often try to fix just the current problem a.k.a. fixing the symptoms instead of fixing the root problem.
-> -   You might notice the "[Somebody Else's Problem]({{< relref "somebody_else_s_problem.md" >}})" behavior from them.
-> -   They don't know what or how much they don't know, thanks to the [Dunning-Kruger effect]({{< relref "DunningKrugerEffect2022.md" >}}).
+> -   You might notice the "[Somebody Else's Problem]({{< relref "ahmedLevelsSeniority.md" >}})" behavior from them.
+> -   They don't know what or how much they don't know, thanks to the [Dunning-Kruger effect]({{< relref "ahmedLevelsSeniority.md" >}}).
 > -   They don't take initiatives and they might be afraid to work on an unfamiliar codebase.
 > -   They don't participate in team discussions.
 
@@ -71,10 +71,12 @@ slug = "e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ahmed, Kamran. n.d. “Levels of Seniority.” <i>Https://Roadmap.Sh/Guides/Levels-of-Seniority</i>. Accessed February 7, 2022. <a href="https://roadmap.sh">https://roadmap.sh</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ahmed, Kamran. n.d. “Levels of Seniority.” https://roadmap.sh/guides/levels-of-seniority. Accessed February 7, 2022. <a href="https://roadmap.sh">https://roadmap.sh</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [Skills of a senior software engineer]({{< relref "ahmedLevelsSeniority.md" >}})

@@ -2,14 +2,14 @@
 title = "Andy Matuschak | Evergreen Notes Should Be Densely Linked"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-22T07:04:00-08:00
-lastmod = 2023-12-05T19:49:28-08:00
+lastmod = 2023-12-21T20:41:27-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "6037800d-34c3-4d62-a33b-3931d694f083"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (NO_ITEM_DATA:matuschakEvergreenNotesShouldBeDenselyLinked)
+[Andy Matuschak]({{< relref "EvergreenNotesShouldBeDenselyLinked.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)
 
 > If we push ourselves to add lots of links between our notes, that makes us think expansively about what other concepts might be related to what we're thinking about. It creates pressure to think carefully about how ideas relate to each other (see [Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs) and [Evergreen notes should be concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)). It'll also help you internalize the ideas more deeply through [Elaborative encoding](https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB).
 >
@@ -17,7 +17,7 @@ slug = "6037800d-34c3-4d62-a33b-3931d694f083"
 >
 > And by recording the connections, we document how we came to our conclusions, which may be useful to us (or our colleagues) later. As much as is possible, we should [Prefer fine-grained associations](https://notes.andymatuschak.org/z68tVM68dEAuH4acs7HY6K76tTVzBdoBGKMZB). By contrast, [Tags are an ineffective association structure](https://notes.andymatuschak.org/z3MzhvmesiD2htMaEFQJif7gJgyaHAQvKH49Z).
 >
-> When just reading through our notes, the connections offer many paths to move through idea-space. The temptation is to navigate hierarchically, but the links cut across fields and topics. [Prefer Associative Ontologies to Hierarchical Taxonomies]({{< relref "andy_matuschak_prefer_associative_ontologies_to_hierarchical_taxonomies.md" >}})
+> When just reading through our notes, the connections offer many paths to move through idea-space. The temptation is to navigate hierarchically, but the links cut across fields and topics. [Prefer Associative Ontologies to Hierarchical Taxonomies]({{< relref "EvergreenNotesShouldBeDenselyLinked.md" >}})
 >
 > Luhmann actually argues that: "In comparison with this structure, which offers possibilities of connection that can be actualized, the importance of what has actually been noted is secondary."
 >
@@ -31,12 +31,14 @@ slug = "6037800d-34c3-4d62-a33b-3931d694f083"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:matuschakEvergreenNotesShouldBeDenselyLinked</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes Should Be Densely Linked.” Andy’s working notes. Accessed February 22, 2022. <a href="https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC">https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Andy Matuschak | Evergreen Notes Permit Smooth Incremental Progress in Writing ("Incremental Writing")]({{< relref "andy_matuschak_evergreen_notes_permit_smooth_incremental_progress_in_writing_incremental_writing.md" >}})
--   [README]({{< relref "readme.md" >}})
--   [Andy Matuschak | Evergreen Notes Should Be Atomic]({{< relref "andy_matuschak_evergreen_notes_should_be_atomic.md" >}})
+-   [Andy Matuschak | Evergreen Notes Permit Smooth Incremental Progress in Writing ("Incremental Writing")]({{< relref "EvergreenNotesShouldBeDenselyLinked.md" >}})
+-   [Andy Matuschak | Evergreen Notes Should Be Atomic]({{< relref "EvergreenNotesShouldBeDenselyLinked.md" >}})
+-   [README]({{< relref "EvergreenNotesShouldBeDenselyLinked.md" >}})

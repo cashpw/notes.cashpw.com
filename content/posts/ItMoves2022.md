@@ -2,7 +2,7 @@
 title = "And yet It moves"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T16:30:00-08:00
-lastmod = 2023-12-05T19:49:39-08:00
+lastmod = 2023-12-21T20:41:41-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -19,10 +19,12 @@ slug = "62c2da6b-ad55-4802-a334-f984b938b498"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“And yet It Moves.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=And_yet_it_moves&oldid=1069751403">https://en.wikipedia.org/w/index.php?title=And_yet_it_moves&#38;oldid=1069751403</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“And yet It Moves.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=And_yet_it_moves&oldid=1069751403">https://en.wikipedia.org/w/index.php?title=And_yet_it_moves&#38;oldid=1069751403</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
+-   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "ItMoves2022.md" >}})

@@ -2,19 +2,19 @@
 title = "John Allspaw | On Being A Senior Engineer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:31:00-08:00
-lastmod = 2023-12-05T19:52:31-08:00
+lastmod = 2023-12-21T20:45:20-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "04347fa3-3c14-4aa8-8fd1-abeac684837f"
 +++
 
-[John Allspaw]({{< relref "john_allspaw.md" >}}), (<a href="#citeproc_bib_item_1">Allspaw n.d.</a>)
+[John Allspaw]({{< relref "allspawBeingSeniorEngineer.md" >}}), (<a href="#citeproc_bib_item_1">Allspaw n.d.</a>)
 
 
 ## Summary {#summary}
 
-A list of what [John Allspaw]({{< relref "john_allspaw.md" >}}) sees as qualities of a senior engineer.
+A list of what [John Allspaw]({{< relref "allspawBeingSeniorEngineer.md" >}}) sees as qualities of a senior engineer.
 
 
 ## Thoughts {#thoughts}
@@ -76,8 +76,8 @@ A list of what [John Allspaw]({{< relref "john_allspaw.md" >}}) sees as qualitie
 
 Allspaw distinguishes between "mentorship" and "sponsorship":
 
--   [Mentors face inward]({{< relref "mentors_face_inward.md" >}})
--   [Sponsors face outward]({{< relref "sponsors_face_outward.md" >}})
+-   [Mentors face inward]({{< relref "allspawBeingSeniorEngineer.md" >}})
+-   [Sponsors face outward]({{< relref "allspawBeingSeniorEngineer.md" >}})
 
 > Engineers who find that the visibility of their own work is increasing acknowledge that a fundamental of wielding influence in your local community (both inside and outside your organization) is developing and maintaining awareness of opportunities to sponsor those around them that would benefit. It is not a secret that the tech industry is seriously challenged when it comes to supporting underrepresented and/or marginalized groups.
 >
@@ -105,7 +105,7 @@ Allspaw distinguishes between "mentorship" and "sponsorship":
 
 > An example of CYAE is "It's not my fault. They broke it, they used it wrong. I built it to spec, I can't be held responsible for their mistakes or improper specification."
 
-I disagree with this point. I consider a lot of the documentation and design work that a mature engineer does to be under the heading of CYA. I agree that mature engineers won't seek to throw others under the bus. However, I also expect mature engineers to understand that others may not play by the same rules. I expect a mature engineer to, at least to some extent, [play the game]({{< relref "the_metagame.md" >}}).
+I disagree with this point. I consider a lot of the documentation and design work that a mature engineer does to be under the heading of CYA. I agree that mature engineers won't seek to throw others under the bus. However, I also expect mature engineers to understand that others may not play by the same rules. I expect a mature engineer to, at least to some extent, [play the game]({{< relref "allspawBeingSeniorEngineer.md" >}}).
 
 
 ### Mature engineers are empathetic {#mature-engineers-are-empathetic}
@@ -144,11 +144,13 @@ I disagree with this point. I consider a lot of the documentation and design wor
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allspaw, John. n.d. “On Being A Senior Engineer.” <i>Kitchen Soap</i>. Accessed February 21, 2022. <a href="https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allspaw, John. n.d. “On Being A Senior Engineer.” Kitchen Soap. Accessed February 21, 2022. <a href="https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Zach Tellman | Senior Engineers Reduce Risk]({{< relref "tellmanSeniorEngineersReduceRisk.md" >}})
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [Skills of a senior software engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})
+-   [Zach Tellman | Senior Engineers Reduce Risk]({{< relref "allspawBeingSeniorEngineer.md" >}})
