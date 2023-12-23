@@ -2,7 +2,7 @@
 title = "Helen Rosenau, Etienne Louis Boullée | Boullée and Visionary Architecture"
 author = ["Cash Weaver"]
 date = 2023-07-25T16:00:00-07:00
-lastmod = 2023-12-05T20:18:29-08:00
+lastmod = 2023-12-22T22:28:34-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

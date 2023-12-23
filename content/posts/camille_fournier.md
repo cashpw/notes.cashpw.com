@@ -2,7 +2,7 @@
 title = "Camille Fournier"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-20T09:44:00-07:00
-lastmod = 2023-12-05T19:58:56-08:00
+lastmod = 2023-12-22T21:39:38-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "1902d742-3042-47e5-a8e3-01123f6c3350"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

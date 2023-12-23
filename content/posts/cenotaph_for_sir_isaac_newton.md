@@ -2,7 +2,7 @@
 title = "Cenotaph for Sir Isaac Newton"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-25T13:02:00-07:00
-lastmod = 2023-12-12T16:39:11-08:00
+lastmod = 2023-12-22T21:43:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,7 +15,7 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 >
 > (<a href="#citeproc_bib_item_1">“Étienne-Louis Boullée” 2023</a>)
 
-{{< gallery >}}
+<div class="hugogallery">
 
 {{< figure src="/ox-hugo/2023-07-25_14-28-25_plan-of-newtons-cenotaph-plate-5.jpg" >}}
 
@@ -29,7 +29,7 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 
 {{< figure src="/ox-hugo/2023-07-25_14-28-25_plan-of-newtons-cenotaph-plate-10.jpg" >}}
 
-{{< /gallery >}}
+</div>
 
 
 ## Bibliography {#bibliography}
@@ -37,5 +37,5 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Étienne-Louis Boullée.” 2023. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=%C3%89tienne-Louis_Boull%C3%A9e&oldid=1140761655">https://en.wikipedia.org/w/index.php?title=%C3%89tienne-Louis_Boull%C3%A9e&#38;oldid=1140761655</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Étienne-Louis Boullée.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=%C3%89tienne-Louis_Boull%C3%A9e&oldid=1140761655">https://en.wikipedia.org/w/index.php?title=%C3%89tienne-Louis_Boull%C3%A9e&#38;oldid=1140761655</a>.</div>
 </div>

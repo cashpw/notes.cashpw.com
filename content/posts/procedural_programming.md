@@ -2,7 +2,7 @@
 title = "Procedural programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:44:00-07:00
-lastmod = 2023-12-05T20:48:47-08:00
+lastmod = 2023-12-23T00:04:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,8 +22,10 @@ slug = "0cb90a5e-ec03-4a0f-bd0a-2eaeeaacc2d5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Procedural Programming.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Procedural_programming&oldid=1139327749">https://en.wikipedia.org/w/index.php?title=Procedural_programming&#38;oldid=1139327749</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Programming paradigm]({{< relref "programming_paradigm.md" >}})
 -   [Bjarne Stroustrup | A Tour of C++]({{< relref "bjarne_stroustrup_a_tour_of_c.md" >}})
+-   [Programming paradigm]({{< relref "programming_paradigm.md" >}})

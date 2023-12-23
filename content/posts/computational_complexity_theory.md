@@ -2,7 +2,7 @@
 title = "Computational complexity theory"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:35:00-08:00
-lastmod = 2023-12-05T20:03:33-08:00
+lastmod = 2023-12-22T21:48:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,10 +22,12 @@ slug = "235c1171-e8bd-4b52-820c-109f34a0bc80"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Computational Complexity Theory.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Computational_complexity_theory&oldid=1127400092">https://en.wikipedia.org/w/index.php?title=Computational_complexity_theory&#38;oldid=1127400092</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Nondeterministic polynomial time]({{< relref "nondeterministic_polynomial_time.md" >}})
 -   [Decision problem]({{< relref "decision_problem.md" >}})
--   [Polynomial time]({{< relref "polynomial_time.md" >}})
 -   [Nick's class]({{< relref "nick_s_class.md" >}})
+-   [Nondeterministic polynomial time]({{< relref "nondeterministic_polynomial_time.md" >}})
+-   [Polynomial time]({{< relref "polynomial_time.md" >}})

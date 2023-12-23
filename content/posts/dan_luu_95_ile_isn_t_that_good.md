@@ -2,7 +2,7 @@
 title = "Dan Luu | 95%-Ile Isn't That Good"
 author = ["Cash Weaver"]
 date = 2023-10-27T08:31:00-07:00
-lastmod = 2023-12-05T20:05:21-08:00
+lastmod = 2023-12-22T21:52:03-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -21,7 +21,7 @@ There's a lot of low-hanging fruit at lower percentiles (e.g. for Overwatch: wai
 
 ## Thoughts {#thoughts}
 
--   The difficulty in finding a practice regimen for ill-defined skills (e.g. what do you practice to become a good public speaker?) reminds me of [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}}) and [Applied cognitive task analysis]({{< relref "dan_luu_95_ile_isn_t_that_good.md" >}})
+-   The difficulty in finding a practice regimen for ill-defined skills (e.g. what do you practice to become a good public speaker?) reminds me of [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}}) and [Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}})
 
 
 ## Notes {#notes}
@@ -66,6 +66,8 @@ There's a lot of low-hanging fruit at lower percentiles (e.g. for Overwatch: wai
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Luu, Dan. n.d. “95\%-Ile Isn’t That Good.” Accessed October 27, 2023. <a href="https://danluu.com/p95-skill/">https://danluu.com/p95-skill/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Claude Monet | Impression, Sunrise"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-10T17:16:00-07:00
-lastmod = 2023-12-05T20:02:18-08:00
+lastmod = 2023-12-22T21:46:01-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

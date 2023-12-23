@@ -2,7 +2,7 @@
 title = "Data structures"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-27T19:44:00-07:00
-lastmod = 2023-12-05T20:06:36-08:00
+lastmod = 2023-12-22T21:55:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,22 +28,24 @@ slug = "738c2ba7-a272-417d-9b6d-b6952d765280"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Data Structure.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Data_structure&oldid=1094193368">https://en.wikipedia.org/w/index.php?title=Data_structure&#38;oldid=1094193368</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Hash table]({{< relref "hash_table.md" >}})
--   [Binary tree]({{< relref "binary_tree.md" >}})
--   [Dynamic array]({{< relref "dynamic_array.md" >}})
--   [Trie]({{< relref "trie.md" >}})
--   [Binary heap]({{< relref "binary_heap.md" >}})
--   [Linked list]({{< relref "linked_list.md" >}})
--   [Heapsort]({{< relref "heapsort.md" >}})
--   [C++ struct]({{< relref "c_struct.md" >}})
--   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
--   [Implicit data structure]({{< relref "implicit_data_structure.md" >}})
--   [Array]({{< relref "array.md" >}})
 -   [Abstract data type]({{< relref "abstract_data_type.md" >}})
+-   [Array]({{< relref "array.md" >}})
+-   [Binary heap]({{< relref "binary_heap.md" >}})
 -   [Binary search tree]({{< relref "binary_search_tree.md" >}})
+-   [Binary tree]({{< relref "binary_tree.md" >}})
+-   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
+-   [C++ struct]({{< relref "c_struct.md" >}})
 -   [Depth-first search]({{< relref "depth_first_search.md" >}})
+-   [Dynamic array]({{< relref "dynamic_array.md" >}})
+-   [Hash table]({{< relref "hash_table.md" >}})
 -   [Heap]({{< relref "heap.md" >}})
+-   [Heapsort]({{< relref "heapsort.md" >}})
+-   [Implicit data structure]({{< relref "implicit_data_structure.md" >}})
+-   [Linked list]({{< relref "linked_list.md" >}})
 -   [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
+-   [Trie]({{< relref "trie.md" >}})

@@ -2,7 +2,7 @@
 title = "Recognition-primed decision"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T19:44:00-07:00
-lastmod = 2023-12-05T20:53:06-08:00
+lastmod = 2023-12-23T00:20:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -117,9 +117,11 @@ In general, it's a pattern-matching exercise (see [Cedric Chin | Expertise Is 'J
   <div class="csl-entry">NO_ITEM_DATA:chinCopyingBetterHowAcquireTacitKnowledgeExperts2020</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]({{< relref "gary_klein_and_jennifer_phillips_and_erica_rall_and_deborah_peluso_a_data_frame_theory_of_sensemaking.md" >}})

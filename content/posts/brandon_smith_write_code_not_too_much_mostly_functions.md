@@ -2,7 +2,7 @@
 title = "Brandon Smith | Write Code. Not Too Much. Mostly Functions."
 author = ["Cash Weaver"]
 date = 2022-11-16T14:45:00-08:00
-lastmod = 2023-12-05T19:57:52-08:00
+lastmod = 2023-12-22T21:37:55-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -62,6 +62,8 @@ I think this [Pareto principle]({{< relref "pareto_principle.md" >}})-like frami
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:smithWriteCodeNotTooMuchMostlyFunctions</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

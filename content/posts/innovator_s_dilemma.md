@@ -2,7 +2,7 @@
 title = "Innovator's dilemma"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-16T19:44:00-07:00
-lastmod = 2023-12-05T20:21:51-08:00
+lastmod = 2023-12-22T22:37:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

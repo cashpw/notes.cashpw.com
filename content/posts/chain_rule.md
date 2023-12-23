@@ -2,7 +2,7 @@
 title = "Chain rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:24:00-08:00
-lastmod = 2023-12-05T20:01:19-08:00
+lastmod = 2023-12-22T21:44:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,6 +24,8 @@ slug = "0ff1c07f-e015-4929-b119-8890ebbc312c"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

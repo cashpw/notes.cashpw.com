@@ -2,7 +2,7 @@
 title = "Adrian Veidt"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-03T07:09:00-08:00
-lastmod = 2023-12-21T20:43:36-08:00
+lastmod = 2023-12-22T21:31:33-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -21,5 +21,5 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [I did it thirty-five minutes ago]({{< relref "adrian_veidt.md" >}})
--   [Nothing ever ends]({{< relref "adrian_veidt.md" >}})
+-   [I did it thirty-five minutes ago]({{< relref "i_did_it_thirty_five_minutes_ago.md" >}})
+-   [Nothing ever ends]({{< relref "nothing_ever_ends.md" >}})

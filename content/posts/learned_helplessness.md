@@ -2,7 +2,7 @@
 title = "Learned helplessness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T08:35:00-08:00
-lastmod = 2023-12-05T20:30:04-08:00
+lastmod = 2023-12-22T23:03:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,9 +26,11 @@ slug = "06b5c658-5513-4c18-a24d-9ed3fb4ad23b"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Learned Helplessness.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Learned_helplessness&oldid=1122264058">https://en.wikipedia.org/w/index.php?title=Learned_helplessness&#38;oldid=1122264058</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Anna Salamon | Learned Blankness]({{< relref "annasalamonLearnedBlankness2011.md" >}})
--   [Scott Alexander | Epistemic Learned Helplessness]({{< relref "scott_alexander_epistemic_learned_helplessness.md" >}})
 -   [Learned blankness]({{< relref "learned_blankness.md" >}})
+-   [Scott Alexander | Epistemic Learned Helplessness]({{< relref "scott_alexander_epistemic_learned_helplessness.md" >}})

@@ -2,7 +2,7 @@
 title = "Paul Atreides"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T10:22:00-07:00
-lastmod = 2023-12-05T20:44:51-08:00
+lastmod = 2023-12-22T23:50:18-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "9f491719-8277-4aab-94fd-39c512730430"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "How to use LLMs"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-20T09:30:00-07:00
-lastmod = 2023-12-05T20:19:24-08:00
+lastmod = 2023-12-22T22:31:24-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

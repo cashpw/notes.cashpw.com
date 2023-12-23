@@ -2,24 +2,24 @@
 title = "Scott Alexander | Should You Reverse Any Advice You Hear?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:31:00-08:00
-lastmod = 2023-12-21T20:44:38-08:00
+lastmod = 2023-12-22T21:32:05-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "de6d0d9e-3ce1-4e18-b747-c59cd50ceebf"
 +++
 
-[Scott Alexander]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2014</a>)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (NO_ITEM_DATA:alexanderShouldYouReverseAnyAdviceYouHear2014)
 
 
 ## Summary {#summary}
 
-[You're more likely to hear things you agree with or that are, broadly speaking, aligned with your world-view]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}}). Therefore, you're likely to over-index on a certain flavor of advice. You may benefit from considering the reverse of the piece of advice.
+[You're more likely to hear things you agree with or that are, broadly speaking, aligned with your world-view]({{< relref "echo_chamber.md" >}}). Therefore, you're likely to over-index on a certain flavor of advice. You may benefit from considering the reverse of the piece of advice.
 
 
 ## Thoughts {#thoughts}
 
-A simple bit of [metacognitive]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}}) advice which I'd like to integrate into my daily life.
+A simple bit of [metacognitive]({{< relref "metacognition.md" >}}) advice which I'd like to integrate into my daily life.
 
 
 ## Notes {#notes}
@@ -27,7 +27,7 @@ A simple bit of [metacognitive]({{< relref "alexanderShouldYouReverseAnyAdviceYo
 | Advice                                                                                                                                  | Reverse                                                                                                                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | You need to stop being so hard on yourself, remember you are your own worst critic                                                      | Stop making excuses for yourself, you will never be able to change until you admit you've hit bottom                                                                                           |
-| You need to remember that the government can't solve all problems and that some regulations are counterproductive                       | You need to remember that the free market can't solve all [problems]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}}) and that some regulations are necessary                |
+| You need to remember that the government can't solve all problems and that some regulations are counterproductive                       | You need to remember that the free market can't solve all [problems]({{< relref "tragedy_of_the_commons.md" >}}) and that some regulations are necessary                                       |
 | You need to pay more attention to your diet or you'll end up very unhealthy                                                             | You need to pay less attention to your weight or you'll end up in a spiral of shame and self-loathing and at risk of eating disorders                                                          |
 | You need to be more conscious of how your actions in social situations can make other people uncomfortable and violate their boundaries | You need to overcome your social phobia by realizing that most interactions go well and that probably talking to people won't always make them hate you and cause you to be ostracized forever |
 | You need to be less selfish and more considerate of the needs of others                                                                 | You can't live for others all the time, you need to remember you deserve to be happy as well                                                                                                   |
@@ -55,5 +55,5 @@ A simple bit of [metacognitive]({{< relref "alexanderShouldYouReverseAnyAdviceYo
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Should You Reverse Any Advice You Hear?” Slate Star Codex. March 25, 2014. <a href="https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/">https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:alexanderShouldYouReverseAnyAdviceYouHear2014</div>
 </div>

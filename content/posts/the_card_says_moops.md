@@ -2,7 +2,7 @@
 title = "The card says moops"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:28:00-07:00
-lastmod = 2023-12-05T21:10:47-08:00
+lastmod = 2023-12-23T01:28:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,10 +21,12 @@ See [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
 -   [For the lulz]({{< relref "for_the_lulz.md" >}})
+-   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
 -   [Why is it always the libs?]({{< relref "why_is_it_always_the_libs.md" >}})
 -   [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}})

@@ -2,7 +2,7 @@
 title = "Triple path model of insight"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T08:01:00-07:00
-lastmod = 2023-12-05T21:18:45-08:00
+lastmod = 2023-12-23T02:02:23-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -22,6 +22,8 @@ See (<a href="#citeproc_bib_item_1">Klein 2015</a>) and (<a href="#citeproc_bib_
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Klein, Gary. 2015. <i>Seeing What Others Don’t: The Remarkable Ways We Gain Insights</i>. New York: Public Affairs.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Street, Farnam. 2013. “Gary Klein’s Triple Path Model of Insight.” <i>Farnam Street</i>. <a href="https://fs.blog/the-remarkable-ways-we-gain-insights/">https://fs.blog/the-remarkable-ways-we-gain-insights/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

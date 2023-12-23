@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Hard Thing About Learning From Experience"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:42:00-07:00
-lastmod = 2023-12-05T20:00:21-08:00
+lastmod = 2023-12-22T21:42:17-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -50,8 +50,10 @@ An example of a blog post which _isn't_ [atomic]({{< relref "andy_matuschak_ever
   <div class="csl-entry">NO_ITEM_DATA:chinHardThingLearningExperience2021</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

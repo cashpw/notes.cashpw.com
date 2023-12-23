@@ -2,7 +2,7 @@
 title = "Vladimir Harkonnen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T10:45:00-08:00
-lastmod = 2023-12-05T21:22:06-08:00
+lastmod = 2023-12-23T02:17:01-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,8 +21,10 @@ Among other things:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Plans within plans within plans]({{< relref "plans_within_plans_within_plans.md" >}})
 -   [Node types]({{< relref "style_guide.md#node-types" >}})
+-   [Plans within plans within plans]({{< relref "plans_within_plans_within_plans.md" >}})

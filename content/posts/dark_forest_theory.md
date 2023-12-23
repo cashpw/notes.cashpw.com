@@ -2,7 +2,7 @@
 title = "Dark forest theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T14:09:00-07:00
-lastmod = 2023-12-05T20:06:27-08:00
+lastmod = 2023-12-22T21:55:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -35,6 +35,8 @@ Related: [Moloch]({{< relref "moloch.md" >}})
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Liu, Cixin. 2015. <i>Dark Forest</i>. London: Head of Zeus. <a href="https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=1531969">https://search.ebscohost.com/login.aspx?direct=true&#38;scope=site&#38;db=nlebk&#38;db=nlabk&#38;AN=1531969</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

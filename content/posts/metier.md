@@ -2,7 +2,7 @@
 title = "Métier"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:38:00-08:00
-lastmod = 2023-12-05T20:36:25-08:00
+lastmod = 2023-12-22T23:22:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

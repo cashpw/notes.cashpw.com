@@ -2,7 +2,7 @@
 title = "Dijkstra's algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T07:30:00-08:00
-lastmod = 2023-12-05T20:08:01-08:00
+lastmod = 2023-12-22T21:59:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -51,18 +51,20 @@ Same as the single-source solution, but stop when you've found the target node.
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Dijkstra’s Algorithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&oldid=1127202995">https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&#38;oldid=1127202995</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
--   [Dynamic programming]({{< relref "dynamic_programming.md" >}})
--   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
--   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
--   [Branch and bound]({{< relref "branch_and_bound.md" >}})
--   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
--   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
 -   [A-star search algorithm]({{< relref "a_star_algorithm.md" >}})
 -   [Bellman-Ford algorithm]({{< relref "bellman_ford_algorithm.md" >}})
+-   [Branch and bound]({{< relref "branch_and_bound.md" >}})
 -   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
 -   [Customizable route planning]({{< relref "customizable_route_planning.md" >}})
+-   [Dijkstra's algorithm implementation in Python]({{< relref "dijkstra_s_algorithm_implementation_in_python.md" >}})
+-   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
+-   [Dynamic programming]({{< relref "dynamic_programming.md" >}})
+-   [Shortest path algorithm]({{< relref "shortest_path_algorithm.md" >}})
+-   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
+-   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})

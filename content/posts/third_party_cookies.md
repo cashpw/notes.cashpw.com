@@ -2,7 +2,7 @@
 title = "Third-party cookies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T10:31:00-07:00
-lastmod = 2023-12-05T21:13:50-08:00
+lastmod = 2023-12-23T01:41:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "2651f5d4-f8db-45b1-9256-aadb99c39575"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>MDN. n.d. “Using HTTP Cookies.” Accessed July 20, 2022. <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies">https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

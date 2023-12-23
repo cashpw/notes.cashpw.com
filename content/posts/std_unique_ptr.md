@@ -2,7 +2,7 @@
 title = "std::unique_ptr"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T10:01:00-07:00
-lastmod = 2023-12-05T21:05:57-08:00
+lastmod = 2023-12-23T01:07:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,6 +23,8 @@ A part of the [Standard Library (C++)]({{< relref "c_standard_library.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:StdUniquePtr</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

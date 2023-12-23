@@ -2,7 +2,7 @@
 title = "Damp box"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T12:06:00-08:00
-lastmod = 2023-12-05T20:05:15-08:00
+lastmod = 2023-12-22T21:51:47-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -50,11 +50,13 @@ Store with the lid off to avoid mold growth.
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Armadillo Clay. n.d. “The Damp Box.” <i>Armadillo Clay and Supplies</i>. Accessed December 28, 2022. <a href="http://www.armadilloclay.com/2/post/2016/09/the-damp-box.html">http://www.armadilloclay.com/2/post/2016/09/the-damp-box.html</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:yarnellMakeClayDampBoxLess20</div>
   <div class="csl-entry">NO_ITEM_DATA:lesleyHowMakeDampBoxClay2019</div>
+  <div class="csl-entry">NO_ITEM_DATA:yarnellMakeClayDampBoxLess20</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Ceramics exercises]({{< relref "ceramics_exercises.md" >}})
+-   [How to improve at pottery]({{< relref "ceramics_exercises.md" >}})

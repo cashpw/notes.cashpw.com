@@ -2,14 +2,14 @@
 title = "Milan Cvitkovic | Things You're Allowed to Do"
 author = ["Cash Weaver"]
 date = 2023-10-31T10:49:00-07:00
-lastmod = 2023-12-05T20:36:53-08:00
+lastmod = 2023-12-22T23:23:42-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "8777f66d-a4e7-4966-987a-3778585e60b3"
 +++
 
-[Milan Cvitkovic]({{< relref "milan_cvitkovic_things_you_re_allowed_to_do.md" >}}), (<a href="#citeproc_bib_item_1">Cvitkovic 2023</a>)
+[Milan Cvitkovic]({{< relref "milan_cvitkovic.md" >}}), (<a href="#citeproc_bib_item_1">Cvitkovic 2023</a>)
 
 
 ## Summary {#summary}

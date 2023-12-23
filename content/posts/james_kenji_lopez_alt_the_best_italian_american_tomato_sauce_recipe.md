@@ -2,7 +2,7 @@
 title = "James Kenji López-Alt | The Best Italian-American Tomato Sauce Recipe"
 author = ["Cash Weaver"]
 date = 2023-12-15T11:31:00-08:00
-lastmod = 2023-12-15T15:02:15-08:00
+lastmod = 2023-12-22T22:44:11-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -15,9 +15,9 @@ yield = "6.5 liters"
 slug = "b22e3ae5-8dfe-409d-876a-e9c26e516219"
 +++
 
-[James Kenji López-Alt]({{< relref "james_kenji_lopez_alt.md" >}}), (<a href="#citeproc_bib_item_1">López-Alt n.d.</a>)
+[James Kenji López-Alt]({{< relref "james_kenji_lopez_alt.md" >}}), (NO_ITEM_DATA:lopez-altBestItalianAmericanTomatoSauceRecipea)
 
-A [Red sauce]({{< relref "red_sauce.md" >}}). Make it vegan by either removing or substitute [Vegan fish sauce]({{< relref "vegan_fish_sauce.md" >}}).
+A [Red sauce]({{< relref "james_kenji_lopez_alt_the_best_italian_american_tomato_sauce_recipe.md" >}}). Make it vegan by either removing or substitute [Vegan fish sauce]({{< relref "james_kenji_lopez_alt_the_best_italian_american_tomato_sauce_recipe.md" >}}).
 
 
 ## Ingredients {#ingredients}
@@ -66,7 +66,7 @@ A [Red sauce]({{< relref "red_sauce.md" >}}). Make it vegan by either removing o
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>López-Alt, James Kenji. n.d. “The Best Italian-American Tomato Sauce Recipe.” Serious Eats. Accessed December 15, 2023. <a href="https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe">https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:lopez-altBestItalianAmericanTomatoSauceRecipea</div>
 </div>
 
 [^fn:1]: "This tomato sauce is only as good as the tomatoes you start out with. Look for whole peeled plum tomatoes packed in juice or puree. you'll never go wrong with D.O.P. San Marzano tomatoes imported from Italy, or go with a trusted brand of tomatoes if you have a favorite."

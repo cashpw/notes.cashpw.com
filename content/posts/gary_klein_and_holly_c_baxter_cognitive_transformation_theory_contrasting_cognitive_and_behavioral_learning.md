@@ -2,14 +2,14 @@
 title = "Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning"
 author = ["Cash Weaver"]
 date = 2023-09-22T07:19:00-07:00
-lastmod = 2023-12-05T20:15:04-08:00
+lastmod = 2023-12-22T22:18:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "18375047-41ab-49a0-96d3-6ac554685fc2"
 +++
 
-[Gary Klein]({{< relref "gary_klein_and_holly_c_baxter_cognitive_transformation_theory_contrasting_cognitive_and_behavioral_learning.md" >}}), [Holly Baxter]({{< relref "holly_baxter.md" >}}), (<a href="#citeproc_bib_item_1">Klein and Baxter 2006</a>)
+[Gary Klein]({{< relref "gary_klein.md" >}}), [Holly Baxter]({{< relref "holly_baxter.md" >}}), (<a href="#citeproc_bib_item_1">Klein and Baxter 2006</a>)
 
 
 ## Summary {#summary}
@@ -254,7 +254,7 @@ Cognitive transformation theory is the idea that "progress in cognitive skills d
 
 > [...] virtual environments allow for both intrinsic and extrinsic feedback. Many simulations offer scoring or an after action review capability that allows learners to see how they did in comparison to other students or some set standard. More important than the extrinsic feedback, these virtual environments give learners the ability to see how their actions play out and the challenges they may run into based on their mental models, allowing for self-assessment, adjustment, and improvement in cognitive learning.
 >
-> Because cognitive learning depends heavily on sensemaking [[Sensemaking]({{< relref "sensemaking.md" >}})], and sensemaking is often complicated by knowledge shields, virtual environment sessions might benefit from designs using garden path [[Garden path]({{< relref "gary_klein_and_holly_c_baxter_cognitive_transformation_theory_contrasting_cognitive_and_behavioral_learning.md" >}})] scenarios that elicit knowledge shields and give learners a chance to recover from mistaken mindsets and get off the garden path. In a garden path scenario a parson is lead to accept a proposition that seems obviously true and is then given increasing amounts of contrary evidence gradually leading to the realization that the initial proposition is wrong. The paradigm lets us study how long it takes for participants to doubt and then reject the initial proposition --- how long they stay on the garden path.
+> Because cognitive learning depends heavily on sensemaking [[Sensemaking]({{< relref "sensemaking.md" >}})], and sensemaking is often complicated by knowledge shields, virtual environment sessions might benefit from designs using garden path [[Garden path]({{< relref "garden_path.md" >}})] scenarios that elicit knowledge shields and give learners a chance to recover from mistaken mindsets and get off the garden path. In a garden path scenario a parson is lead to accept a proposition that seems obviously true and is then given increasing amounts of contrary evidence gradually leading to the realization that the initial proposition is wrong. The paradigm lets us study how long it takes for participants to doubt and then reject the initial proposition --- how long they stay on the garden path.
 
 
 ## Bibliography {#bibliography}

@@ -2,7 +2,7 @@
 title = "If you see me, then weep"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T09:04:00-07:00
-lastmod = 2023-12-05T20:20:31-08:00
+lastmod = 2023-12-22T22:34:09-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -20,6 +20,8 @@ slug = "c2eafd89-c3ec-43e8-9e06-f937d2b15073"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

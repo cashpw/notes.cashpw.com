@@ -2,7 +2,7 @@
 title = "Bubble sort implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T10:52:00-07:00
-lastmod = 2023-12-05T19:58:17-08:00
+lastmod = 2023-12-22T21:38:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,6 +46,8 @@ return bubble_sort([10, 5, 4, 40])
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

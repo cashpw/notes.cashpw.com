@@ -2,7 +2,7 @@
 title = "Projection (Linear algebra)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-14T10:02:00-08:00
-lastmod = 2023-12-05T20:49:12-08:00
+lastmod = 2023-12-23T00:05:57-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

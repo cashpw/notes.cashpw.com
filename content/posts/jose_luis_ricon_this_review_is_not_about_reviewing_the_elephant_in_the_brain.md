@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain"
 author = ["Cash Weaver"]
 date = 2023-01-11T20:52:00-08:00
-lastmod = 2023-12-05T20:26:01-08:00
+lastmod = 2023-12-22T22:50:27-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -88,6 +88,8 @@ The book is [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}}) w
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:riconThisReviewNotReviewingElephantBrain</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

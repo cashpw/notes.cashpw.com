@@ -2,14 +2,14 @@
 title = "Jacob Kaplan-Moss | Embrace the Grind"
 author = ["Cash Weaver"]
 date = 2023-10-25T18:59:00-07:00
-lastmod = 2023-12-05T20:23:39-08:00
+lastmod = 2023-12-22T22:42:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "bdbd9f73-c91e-4979-ae15-f5682ebca630"
 +++
 
-[Jacob Kaplan-Moss]({{< relref "jacob_kaplan_moss_embrace_the_grind.md" >}}), (<a href="#citeproc_bib_item_1">Kaplan-Moss n.d.</a>)
+[Jacob Kaplan-Moss]({{< relref "jacob_kaplan_moss.md" >}}), (<a href="#citeproc_bib_item_1">Kaplan-Moss n.d.</a>)
 
 
 ## Summary {#summary}
@@ -73,8 +73,10 @@ Related: [Smart Guy Productivity Pitfalls]({{< relref "smart_guy_productivity_pi
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kaplan-Moss, Jacob. n.d. “Embrace the Grind.” Accessed October 26, 2023. <a href="https://jacobian.org/2021/apr/7/embrace-the-grind/">https://jacobian.org/2021/apr/7/embrace-the-grind/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Smart Guy Productivity Pitfalls]({{< relref "smart_guy_productivity_pitfalls.md" >}})
--   [Work smart and hard]({{< relref "jacob_kaplan_moss_embrace_the_grind.md" >}})
+-   [Work smart and hard]({{< relref "work_smart_and_hard.md" >}})

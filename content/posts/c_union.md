@@ -2,7 +2,7 @@
 title = "C++ union"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:14:00-07:00
-lastmod = 2023-12-05T19:58:35-08:00
+lastmod = 2023-12-22T21:39:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,8 +22,10 @@ slug = "6f967c9a-b981-43f8-86cb-0f096639bdfb"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Stroustrup, Bjarne. 2022. <i>A Tour of C++</i>. Third. C++ in-Depth Series. Boston: Addison-Wesley.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [std::variant]({{< relref "std_variant.md" >}})
 -   [Bjarne Stroustrup | A Tour of C++]({{< relref "bjarne_stroustrup_a_tour_of_c.md" >}})
+-   [std::variant]({{< relref "std_variant.md" >}})

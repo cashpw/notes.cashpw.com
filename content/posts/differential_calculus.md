@@ -2,7 +2,7 @@
 title = "Differential calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:57:00-08:00
-lastmod = 2023-12-05T20:07:53-08:00
+lastmod = 2023-12-22T21:59:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,16 +34,18 @@ Differentiation is [linear]({{< relref "linearity.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Differentiation Rules.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Differentiation_rules&oldid=1129937443">https://en.wikipedia.org/w/index.php?title=Differentiation_rules&#38;oldid=1129937443</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Derivative (math)]({{< relref "derivative.md" >}})
--   [Quotient rule]({{< relref "quotient_rule.md" >}})
--   [Constant term rule]({{< relref "constant_term_rule.md" >}})
--   [Product rule]({{< relref "product_rule.md" >}})
--   [Power rule]({{< relref "power_rule.md" >}})
--   [Lagrange's notation]({{< relref "lagrange_s_notation.md" >}})
 -   [Antiderivative]({{< relref "antiderivative.md" >}})
 -   [Calculus]({{< relref "calculus.md" >}})
--   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Constant term rule]({{< relref "constant_term_rule.md" >}})
+-   [Derivative (math)]({{< relref "derivative.md" >}})
 -   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
+-   [Lagrange's notation]({{< relref "lagrange_s_notation.md" >}})
+-   [Power rule]({{< relref "power_rule.md" >}})
+-   [Product rule]({{< relref "product_rule.md" >}})
+-   [Quotient rule]({{< relref "quotient_rule.md" >}})
+-   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})

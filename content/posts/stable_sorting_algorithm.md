@@ -2,7 +2,7 @@
 title = "Stable sorting algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:08:00-07:00
-lastmod = 2023-12-05T21:05:02-08:00
+lastmod = 2023-12-23T01:04:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,10 +27,12 @@ slug = "740ce42a-3a80-4ecb-9438-fedff074443b"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sorting Algorithm.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&oldid=1095879356">https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&#38;oldid=1095879356</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Unstable sorting algorithm]({{< relref "unstable_sorting_algorithm.md" >}})
--   [Merge sort]({{< relref "merge_sort.md" >}})
--   [Comparison sorting algorithm]({{< relref "comparison_sorting_algorithm.md" >}})
 -   [Bubble sort]({{< relref "bubble_sort.md" >}})
+-   [Comparison sorting algorithm]({{< relref "comparison_sorting_algorithm.md" >}})
+-   [Merge sort]({{< relref "merge_sort.md" >}})
+-   [Unstable sorting algorithm]({{< relref "unstable_sorting_algorithm.md" >}})

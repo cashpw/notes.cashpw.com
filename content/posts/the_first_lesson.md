@@ -2,7 +2,7 @@
 title = "The first lesson"
 author = ["Cash Prokop-Weaver"]
 date = 2021-05-30T12:44:00-07:00
-lastmod = 2023-12-05T21:11:15-08:00
+lastmod = 2023-12-23T01:31:06-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -23,6 +23,8 @@ One of my [Favorites]({{< relref "favorites.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

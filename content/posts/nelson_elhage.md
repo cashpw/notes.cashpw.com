@@ -2,7 +2,7 @@
 title = "Nelson Elhage"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2023-12-05T20:40:04-08:00
+lastmod = 2023-12-22T23:34:27-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,6 +21,8 @@ Among other things:
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

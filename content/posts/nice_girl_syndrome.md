@@ -2,7 +2,7 @@
 title = "People pleaser"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-20T11:37:00-07:00
-lastmod = 2023-12-05T20:40:27-08:00
+lastmod = 2023-12-22T23:35:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -41,6 +41,6 @@ People pleasing is a personality or behavioral trait: "An obsequious, subservien
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“People Pleaser.” 2023. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=people_pleaser&oldid=71723563">https://en.wiktionary.org/w/index.php?title=people_pleaser&#38;oldid=71723563</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:SignsYouHaveGoodGirlSyndrome2023</div>
   <div class="csl-entry">NO_ITEM_DATA:engelNiceGirlSyndromeStopBeingManipulatedAbusedStartStandingYourself2008</div>
+  <div class="csl-entry">NO_ITEM_DATA:SignsYouHaveGoodGirlSyndrome2023</div>
 </div>

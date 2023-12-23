@@ -2,7 +2,7 @@
 title = "Seek out feedback and accept with gratitude"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-31T10:15:00-07:00
-lastmod = 2023-12-05T20:58:35-08:00
+lastmod = 2023-12-23T00:39:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,7 +15,7 @@ Feedback is a key component to [improving]({{< relref "get_good.md" >}}). Seek i
 >
 > (NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft)
 
-You can also [hire people to give you feedback]({{< relref "seek_out_feedback_and_accept_with_gratitude.md#hire-a-researcher-or-expert-consultant" >}})!
+You can also [hire people to give you feedback]({{< relref "things_you_re_allowed_to_do.md#hire-a-researcher-or-expert-consultant" >}})!
 
 
 ## Bibliography {#bibliography}
@@ -26,8 +26,10 @@ You can also [hire people to give you feedback]({{< relref "seek_out_feedback_an
   <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [As a tool for improvement]({{< relref "retrospective.md#as-a-tool-for-improvement" >}})
 -   [Get good]({{< relref "get_good.md" >}})
--   [As a tool for improvement]({{< relref "seek_out_feedback_and_accept_with_gratitude.md#as-a-tool-for-improvement" >}})

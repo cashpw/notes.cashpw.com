@@ -2,7 +2,7 @@
 title = "Merge sort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:23:00-07:00
-lastmod = 2023-12-05T20:36:01-08:00
+lastmod = 2023-12-22T23:21:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,9 +58,11 @@ procedure MergeSort(list) is
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Merge Sort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Merge_sort&oldid=1095865966">https://en.wikipedia.org/w/index.php?title=Merge_sort&#38;oldid=1095865966</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [External memory algorithm]({{< relref "external_memory_algorithm.md" >}})
 -   [Merge sort implementation in Python]({{< relref "merge_sort_implementation_in_python.md" >}})
 -   [Stable sorting algorithm]({{< relref "stable_sorting_algorithm.md" >}})
--   [External memory algorithm]({{< relref "external_memory_algorithm.md" >}})

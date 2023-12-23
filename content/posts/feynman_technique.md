@@ -2,7 +2,7 @@
 title = "Feynman technique"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-13T06:34:00-07:00
-lastmod = 2023-12-05T20:12:34-08:00
+lastmod = 2023-12-22T22:12:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,6 +28,8 @@ slug = "166a96a1-466f-43dd-a9f6-ec18d2ba9b36"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:streetFeynmanTechniqueBestWayLearnAnything2012</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

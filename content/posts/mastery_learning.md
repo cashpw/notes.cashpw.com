@@ -2,7 +2,7 @@
 title = "Mastery learning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:23:00-08:00
-lastmod = 2023-12-05T20:34:24-08:00
+lastmod = 2023-12-22T23:16:14-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -34,9 +34,11 @@ slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mastery Learning.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Mastery_learning&oldid=1126487387">https://en.wikipedia.org/w/index.php?title=Mastery_learning&#38;oldid=1126487387</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})
 -   [Bloom's 2 sigma problem]({{< relref "bloom_s_2_sigma_problem.md" >}})
 -   [Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction]({{< relref "jose_luis_ricon_on_bloom_s_two_sigma_problem.md" >}})
--   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})

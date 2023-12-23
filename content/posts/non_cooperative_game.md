@@ -2,7 +2,7 @@
 title = "Non-cooperative game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2023-12-05T20:41:23-08:00
+lastmod = 2023-12-22T23:38:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,6 +23,8 @@ slug = "e826003f-a13e-4cce-9b80-30f8bd802374"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Non-Cooperative Game Theory.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Non-cooperative_game_theory&oldid=1105978907">https://en.wikipedia.org/w/index.php?title=Non-cooperative_game_theory&#38;oldid=1105978907</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

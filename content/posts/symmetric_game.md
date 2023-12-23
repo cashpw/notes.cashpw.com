@@ -2,7 +2,7 @@
 title = "Symmetric game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:41:00-07:00
-lastmod = 2023-12-05T21:08:02-08:00
+lastmod = 2023-12-23T01:15:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,8 +33,10 @@ A 2x2 game is [symmetric]({{< relref "symmetric_game.md" >}}) if and only if the
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
 -   [Asymmetric game]({{< relref "asymmetric_game.md" >}})
+-   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})

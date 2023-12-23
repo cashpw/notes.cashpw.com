@@ -2,7 +2,7 @@
 title = "Use serial commas"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:16:00-08:00
-lastmod = 2023-12-05T21:20:25-08:00
+lastmod = 2023-12-23T02:09:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,10 @@ Note that serial commas are not a fix-all for ambigious sentences. They may, in 
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Serial Comma.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Serial_comma&oldid=1067846637">https://en.wikipedia.org/w/index.php?title=Serial_comma&#38;oldid=1067846637</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Style Guide]({{< relref "style_guide.md" >}})
 -   [Julian Shapiro | How to Punctuate]({{< relref "shapiroHowPunctuate.md" >}})
+-   [Style Guide]({{< relref "style_guide.md" >}})

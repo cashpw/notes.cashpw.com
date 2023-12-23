@@ -2,7 +2,7 @@
 title = "Brandon Smith | Write Libraries, Not Frameworks"
 author = ["Cash Weaver"]
 date = 2023-12-04T08:22:00-08:00
-lastmod = 2023-12-05T19:57:55-08:00
+lastmod = 2023-12-22T21:37:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -52,4 +52,4 @@ Agreed.
 
 ## Backlinks {#backlinks}
 
--   [The last 10%]({{< relref "brandon_smith_write_libraries_not_frameworks.md" >}})
+-   [The last 10%]({{< relref "after_the_finish_line.md" >}})

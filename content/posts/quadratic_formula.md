@@ -2,7 +2,7 @@
 title = "Quadratic formula"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T16:47:00-08:00
-lastmod = 2023-12-05T20:50:40-08:00
+lastmod = 2023-12-23T00:11:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,6 +33,8 @@ slug = "9d646383-d4a9-4f9d-ab12-74d45b82d58a"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quadratic Formula.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Quadratic_formula&oldid=1135242914">https://en.wikipedia.org/w/index.php?title=Quadratic_formula&#38;oldid=1135242914</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

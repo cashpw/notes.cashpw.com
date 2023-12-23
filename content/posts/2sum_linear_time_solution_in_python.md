@@ -2,14 +2,14 @@
 title = "2sum linear time solution in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T16:13:00-08:00
-lastmod = 2023-12-21T20:40:44-08:00
+lastmod = 2023-12-22T21:30:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "0d2abc68-9f65-4676-9f62-37b07cb1b86b"
 +++
 
-[2sum]({{< relref "2sum_linear_time_solution_in_python.md" >}}) is a [Technical interview question]({{< relref "2sum_linear_time_solution_in_python.md" >}}) and a variant of the [Subset sum problem]({{< relref "2sum_linear_time_solution_in_python.md" >}}).
+[2sum]({{< relref "2sum.md" >}}) is a [Technical interview question]({{< relref "technical_interview_question.md" >}}) and a variant of the [Subset sum problem]({{< relref "subset_sum_problem.md" >}}).
 
 ```python
 from typing import Optional, List
@@ -45,4 +45,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [2sum]({{< relref "2sum_linear_time_solution_in_python.md" >}})
+-   [2sum]({{< relref "2sum.md" >}})

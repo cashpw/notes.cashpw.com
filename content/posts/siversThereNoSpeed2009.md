@@ -2,7 +2,7 @@
 title = "Derek Sivers | There's No Speed Limit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:34:00-08:00
-lastmod = 2023-12-05T21:01:50-08:00
+lastmod = 2023-12-23T00:51:48-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

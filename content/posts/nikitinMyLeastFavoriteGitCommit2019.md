@@ -2,7 +2,7 @@
 title = "Alexey Nikitin | My least favorite Git commit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:31:00-08:00
-lastmod = 2023-12-05T20:40:52-08:00
+lastmod = 2023-12-22T23:36:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -62,6 +62,8 @@ The essay isn't written in English. I've used Google Translate to read and quote
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:nikitinMyLeastFavoriteGitCommit2019</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

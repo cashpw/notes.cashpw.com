@@ -2,7 +2,7 @@
 title = "Discipline is more effective than motivation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:21:00-08:00
-lastmod = 2023-12-05T20:08:18-08:00
+lastmod = 2023-12-22T22:00:33-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -25,6 +25,8 @@ That isn't to say motivation is useless. Motivation is effective as a means to a
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

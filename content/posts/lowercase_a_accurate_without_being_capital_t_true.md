@@ -2,7 +2,7 @@
 title = "Lowercase-a accurate without being capital-T True"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T14:39:00-08:00
-lastmod = 2023-12-05T20:33:06-08:00
+lastmod = 2023-12-22T23:12:01-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -24,11 +24,13 @@ Describes a condition in which a certain framing is correct in that acting as if
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “The Card Says Moops.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as">https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Blind men and an elephant]({{< relref "blind_men_and_an_elephant.md" >}})
--   [Jacob Geller | Staring into the Sun]({{< relref "jacob_geller_staring_into_the_sun.md" >}})
--   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
 -   [Calories in, calories out]({{< relref "calories_in_calories_out.md" >}})
+-   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
+-   [Jacob Geller | Staring into the Sun]({{< relref "jacob_geller_staring_into_the_sun.md" >}})
 -   [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}})

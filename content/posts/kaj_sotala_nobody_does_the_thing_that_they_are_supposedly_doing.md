@@ -2,7 +2,7 @@
 title = "Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing"
 author = ["Cash Weaver"]
 date = 2023-01-12T16:09:00-08:00
-lastmod = 2023-12-05T20:27:13-08:00
+lastmod = 2023-12-22T22:53:58-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -51,6 +51,8 @@ slug = "ca067526-19a1-4996-a9fb-be54b7e86dd5"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:sotalaNobodyDoesThingThatTheyAreSupposedlyDoing2017</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

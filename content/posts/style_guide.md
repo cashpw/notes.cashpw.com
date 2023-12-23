@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2023-12-05T21:07:06-08:00
+lastmod = 2023-12-23T01:11:56-08:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -132,9 +132,11 @@ Backlinks are the backbone of a powerful [zettelkasten]({{< relref "Zettelkasten
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Lint your prose]({{< relref "lint_your_prose.md" >}})
 -   [How I write notes]({{< relref "how_i_write_notes.md" >}})
 -   [Julian Shapiro | Writing Well Handbook]({{< relref "julian_shapiro_writing_well_handbook.md" >}})
+-   [Lint your prose]({{< relref "lint_your_prose.md" >}})

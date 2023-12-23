@@ -2,7 +2,7 @@
 title = "Consistent heuristic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T14:22:00-08:00
-lastmod = 2023-12-05T20:03:49-08:00
+lastmod = 2023-12-22T21:48:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "ab54f3ea-b019-482e-8af3-3ff03c495635"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Consistent Heuristic.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Consistent_heuristic&oldid=1116114302">https://en.wikipedia.org/w/index.php?title=Consistent_heuristic&#38;oldid=1116114302</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

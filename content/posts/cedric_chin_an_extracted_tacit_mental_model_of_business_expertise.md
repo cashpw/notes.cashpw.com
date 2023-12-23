@@ -2,7 +2,7 @@
 title = "Cedric Chin | An Extracted Tacit Mental Model of Business Expertise"
 author = ["Cash Weaver"]
 date = 2023-08-04T22:02:00-07:00
-lastmod = 2023-12-05T19:59:32-08:00
+lastmod = 2023-12-22T21:40:51-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -191,6 +191,8 @@ slug = "731b4023-79ea-4671-9de9-2079008f14df"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:chinExtractedTacitMentalModelBusinessExpertise2021</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

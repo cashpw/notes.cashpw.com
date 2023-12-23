@@ -2,7 +2,7 @@
 title = "Proximate cause"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T11:42:00-08:00
-lastmod = 2023-12-05T20:49:17-08:00
+lastmod = 2023-12-23T00:06:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "b17c08ec-80de-45e5-8a8e-529b0f31142c"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Proximate and Ultimate Causation.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Proximate_and_ultimate_causation&oldid=1123658036">https://en.wikipedia.org/w/index.php?title=Proximate_and_ultimate_causation&#38;oldid=1123658036</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

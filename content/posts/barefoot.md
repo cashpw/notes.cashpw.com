@@ -2,7 +2,7 @@
 title = "Barefoot lifestyle"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T05:42:00-07:00
-lastmod = 2023-12-05T19:54:59-08:00
+lastmod = 2023-12-22T21:35:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,6 +18,8 @@ The idea that living as much of your life as possible (including exercise; runni
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

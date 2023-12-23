@@ -2,7 +2,7 @@
 title = "Ray Dalio"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T07:25:00-08:00
-lastmod = 2023-12-05T20:52:08-08:00
+lastmod = 2023-12-23T00:16:04-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -21,6 +21,8 @@ Among other things:
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Children burn out fast"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-03T16:02:00-07:00
-lastmod = 2023-12-05T20:01:33-08:00
+lastmod = 2023-12-22T21:44:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,7 +37,9 @@ slug = "75056a2e-6b7a-4764-b93c-d08aa3a99a42"
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Little Kids Burn so Much Energy, They’re like a Different Species, Study Finds.” n.d. Accessed November 3, 2023. <a href="https://www.science.org/content/article/little-kids-burn-so-much-energy-they-re-different-species-study-finds">https://www.science.org/content/article/little-kids-burn-so-much-energy-they-re-different-species-study-finds</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [On parenting]({{< relref "children_burn_out_fast.md" >}})
+-   [On parenting]({{< relref "on_parenting.md" >}})

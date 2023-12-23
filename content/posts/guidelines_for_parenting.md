@@ -2,7 +2,7 @@
 title = "Guidelines for parenting"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T19:19:00-07:00
-lastmod = 2023-12-05T20:17:11-08:00
+lastmod = 2023-12-22T22:25:05-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -60,11 +60,13 @@ References:
   <div class="csl-entry">NO_ITEM_DATA:weinersmithSaturdayMorningBreakfastCerealParentingTechnique</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Dave Orr | Parenting Rules]({{< relref "orrParentingRules.md" >}})
 -   [Jeff Kaufman | How to Parent More Predictably]({{< relref "jeff_kaufman_how_to_parent_more_predictably.md" >}})
--   [On parenting]({{< relref "guidelines_for_parenting.md" >}})
+-   [On parenting]({{< relref "on_parenting.md" >}})
 
-[^fn:1]: Note (1) these are [guidelines, not rules]({{< relref "guidelines_for_parenting.md" >}}), that (2) I'm not a parent and don't know what I'm talking about, and (3) anything below that's true is only so in a general/average sort of way and that children are unique and worthy of unique attention and care.
+[^fn:1]: Note (1) these are [guidelines, not rules]({{< relref "more_guidelines_than_rules.md" >}}), that (2) I'm not a parent and don't know what I'm talking about, and (3) anything below that's true is only so in a general/average sort of way and that children are unique and worthy of unique attention and care.

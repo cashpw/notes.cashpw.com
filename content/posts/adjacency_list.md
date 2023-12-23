@@ -2,7 +2,7 @@
 title = "Adjacency list"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:07:00-07:00
-lastmod = 2023-12-21T20:43:21-08:00
+lastmod = 2023-12-22T21:31:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,7 @@ The above graph can be represented as the set \\(S\\) which contains \\(\\{B,C\\
 | B        | A, C  |
 | C        | A, B  |
 
-Also see [Adjacency matrix]({{< relref "adjacency_list.md" >}}).
+Also see [Adjacency matrix]({{< relref "adjacency_matrix.md" >}}).
 
 
 ## Bibliography {#bibliography}
@@ -31,7 +31,7 @@ Also see [Adjacency matrix]({{< relref "adjacency_list.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Adjacency List.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Adjacency_list&oldid=1083389776">https://en.wikipedia.org/w/index.php?title=Adjacency_list&#38;oldid=1083389776</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Adjacency List.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Adjacency_list&oldid=1083389776">https://en.wikipedia.org/w/index.php?title=Adjacency_list&#38;oldid=1083389776</a>.</div>
 </div>
 
 foo1
@@ -39,5 +39,5 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Adjacency matrix]({{< relref "adjacency_list.md" >}})
--   [Jarnik's algorithm]({{< relref "adjacency_list.md" >}})
+-   [Adjacency matrix]({{< relref "adjacency_matrix.md" >}})
+-   [Jarnik's algorithm]({{< relref "jarkik_s_algorithm.md" >}})

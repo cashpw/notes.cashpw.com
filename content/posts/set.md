@@ -2,7 +2,7 @@
 title = "Set"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:36:00-08:00
-lastmod = 2023-12-05T20:59:28-08:00
+lastmod = 2023-12-23T00:42:34-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "9790bcbd-1414-4044-a4ff-3e9326c39e8f"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Set (Mathematics).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Set_(mathematics)&oldid=1129493353#Subsets">https://en.wikipedia.org/w/index.php?title=Set_(mathematics)&#38;oldid=1129493353#Subsets</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

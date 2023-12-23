@@ -2,7 +2,7 @@
 title = "Cultural evolution"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T09:25:00-08:00
-lastmod = 2023-12-05T20:04:58-08:00
+lastmod = 2023-12-22T21:50:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,10 @@ slug = "b74a709a-ff6f-425e-8a45-9f6acf47cbad"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cultural Evolution.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Cultural_evolution&oldid=1127035681">https://en.wikipedia.org/w/index.php?title=Cultural_evolution&#38;oldid=1127035681</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | Book Review: The Secret Of Our Success]({{< relref "scott_alexander_book_review_the_secret_of_our_success.md" >}})
 -   [Joseph Patrick Henrich | The Secret of Our Success]({{< relref "joseph_patrick_henrich_the_secret_of_our_success.md" >}})
+-   [Scott Alexander | Book Review: The Secret Of Our Success]({{< relref "scott_alexander_book_review_the_secret_of_our_success.md" >}})

@@ -2,7 +2,7 @@
 title = "Xanatos gambit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-09T08:27:00-08:00
-lastmod = 2023-12-21T20:42:24-08:00
+lastmod = 2023-12-22T21:30:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "8710324a-ceda-4590-86ee-ad11c3eb36b9"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Xanatos Gambit.” n.d. TV Tropes. Accessed February 9, 2022. <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/XanatosGambit">https://tvtropes.org/pmwiki/pmwiki.php/Main/XanatosGambit</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Xanatos Gambit.” n.d. <i>Tv Tropes</i>. Accessed February 9, 2022. <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/XanatosGambit">https://tvtropes.org/pmwiki/pmwiki.php/Main/XanatosGambit</a>.</div>
 </div>
 
 foo1
@@ -27,7 +27,7 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Ask the right questions]({{< relref "XanatosGambit.md" >}})
+-   [Ask the right questions]({{< relref "ask_the_right_questions.md" >}})
 -   [On parenting]({{< relref "on_parenting.md" >}})
--   [Plans within plans]({{< relref "XanatosGambit.md" >}})
--   [Sophie from Mars | Ye West The Fascists Who Love Him | Sophie From Mars]({{< relref "XanatosGambit.md" >}})
+-   [Plans within plans]({{< relref "plans_within_plans.md" >}})
+-   [Sophie from Mars | Ye West The Fascists Who Love Him | Sophie From Mars]({{< relref "sophie_from_mars_ye_west_the_fascists_who_love_him_sophie_from_mars.md" >}})

@@ -2,7 +2,7 @@
 title = "Execution (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T09:33:00-07:00
-lastmod = 2023-12-05T20:11:17-08:00
+lastmod = 2023-12-22T22:08:08-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "66f9b635-a07d-43c0-963b-46878ded5183"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

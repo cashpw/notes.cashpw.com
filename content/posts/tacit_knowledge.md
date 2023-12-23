@@ -2,7 +2,7 @@
 title = "Tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-30T13:17:00-08:00
-lastmod = 2023-12-05T21:08:45-08:00
+lastmod = 2023-12-23T01:18:22-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -24,19 +24,21 @@ slug = "d636dfa7-428d-457c-8db6-15fa61e03bef"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tacit Knowledge.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&oldid=1066406863">https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&#38;oldid=1066406863</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
--   [Isaac Wilks | It's Time to Build for Good]({{< relref "isaac_wilks_it_s_time_to_build_for_good.md" >}})
--   [Metis]({{< relref "metis.md" >}})
--   [Cedric Chin | The Tricky Thing About Creating Training Programs]({{< relref "cedric_chin_the_tricky_thing_about_creating_training_programs.md" >}})
--   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
 -   [Blub studies]({{< relref "blub_studies.md" >}})
 -   [Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})
--   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
 -   [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}})
--   [Paul Graham | When People Are Naturally Good at Something]({{< relref "grahamWhenPeopleAre2022.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
+-   [Cedric Chin | The Tricky Thing About Creating Training Programs]({{< relref "cedric_chin_the_tricky_thing_about_creating_training_programs.md" >}})
 -   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "cedric_chin_why_tacit_knowledge_is_more_important_than_deliberate_practice.md" >}})
 -   [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
+-   [Isaac Wilks | It's Time to Build for Good]({{< relref "isaac_wilks_it_s_time_to_build_for_good.md" >}})
+-   [Metis]({{< relref "metis.md" >}})
+-   [Paul Graham | When People Are Naturally Good at Something]({{< relref "grahamWhenPeopleAre2022.md" >}})
+-   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})

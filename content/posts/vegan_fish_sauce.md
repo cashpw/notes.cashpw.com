@@ -2,7 +2,7 @@
 title = "Vegan fish sauce"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-15T14:48:00-08:00
-lastmod = 2023-12-15T14:58:14-08:00
+lastmod = 2023-12-23T02:12:42-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -49,10 +49,10 @@ slug = "98580e59-250f-4004-8b8c-8cec29fd3b29"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Baker, Minimalist. 2019. “5-Ingredient Vegan Fish Sauce.” Minimalist Baker. April 12, 2019. <a href="https://minimalistbaker.com/5-ingredient-vegetarian-fish-sauce/">https://minimalistbaker.com/5-ingredient-vegetarian-fish-sauce/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Baker, Minimalist. 2019. “5-Ingredient Vegan Fish Sauce.” <i>Minimalist Baker</i>. <a href="https://minimalistbaker.com/5-ingredient-vegetarian-fish-sauce/">https://minimalistbaker.com/5-ingredient-vegetarian-fish-sauce/</a>.</div>
 </div>
 
 
 ## Backlinks {#backlinks}
 
--   [James Kenji López-Alt | The Best Italian-American Tomato Sauce Recipe]({{< relref "james_kenji_lopez_alt_the_best_italian_american_tomato_sauce_recipe.md" >}})
+-   [James Kenji López-Alt | The Best Italian-American Tomato Sauce Recipe]({{< relref "vegan_fish_sauce.md" >}})

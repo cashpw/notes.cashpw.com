@@ -2,7 +2,7 @@
 title = "Permutation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T07:35:00-08:00
-lastmod = 2023-12-05T20:45:57-08:00
+lastmod = 2023-12-22T23:54:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,8 +30,10 @@ Also see: [Combination]({{< relref "combination.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Permutation.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Permutation&oldid=1125465268">https://en.wikipedia.org/w/index.php?title=Permutation&#38;oldid=1125465268</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [My one-bag packing list]({{< relref "permutation.md" >}})
 -   [Combination]({{< relref "combination.md" >}})
+-   [My one-bag packing list]({{< relref "my_one_bag_packing_list.md" >}})

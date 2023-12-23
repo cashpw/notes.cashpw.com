@@ -2,7 +2,7 @@
 title = "Symmetric matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:09:00-07:00
-lastmod = 2023-12-05T21:08:07-08:00
+lastmod = 2023-12-23T01:15:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,8 +24,10 @@ slug = "30dd1299-0411-4b80-945b-0740cc8b5348"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Symmetric Matrix.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Symmetric_matrix&oldid=1093954131">https://en.wikipedia.org/w/index.php?title=Symmetric_matrix&#38;oldid=1093954131</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Undirected graph]({{< relref "undirected_graph.md" >}})
 -   [Centering matrix]({{< relref "centering_matrix.md" >}})
+-   [Undirected graph]({{< relref "undirected_graph.md" >}})

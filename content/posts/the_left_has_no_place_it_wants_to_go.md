@@ -2,7 +2,7 @@
 title = "The left has no place it wants to go"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-07T19:01:00-07:00
-lastmod = 2023-12-05T21:11:31-08:00
+lastmod = 2023-12-23T01:32:08-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -24,6 +24,8 @@ See also [Murc's law]({{< relref "murc_s_law.md" >}}) and [The purpose of a syst
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

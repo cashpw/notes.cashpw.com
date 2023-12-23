@@ -2,7 +2,7 @@
 title = "Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:24:00-07:00
-lastmod = 2023-12-05T20:37:41-08:00
+lastmod = 2023-12-22T23:26:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -63,26 +63,28 @@ Related:
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Moloch.” n.d. <i>Lesswrong</i>. Accessed November 23, 2022. <a href="https://www.lesswrong.com/tag/moloch">https://www.lesswrong.com/tag/moloch</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Tragedy of the commons]({{< relref "tragedy_of_the_commons.md" >}})
--   [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
--   [Capitalism]({{< relref "capitalism.md" >}})
 -   [All cops are bastards]({{< relref "all_cops_are_bastards.md" >}})
--   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
--   [Dark forest theory]({{< relref "dark_forest_theory.md" >}})
 -   [Allen Ginsberg | Howl]({{< relref "ginsbergHowl2022.md" >}})
--   [We live in a society]({{< relref "we_live_in_a_society.md" >}})
+-   [Capitalism]({{< relref "capitalism.md" >}})
 -   [Collective action problem]({{< relref "collective_action_problem.md" >}})
--   [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}})
--   [Excess resources (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#excess-resources--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
--   [Physical limitations (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#physical-limitations--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
--   [Utility maximization (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#utility-maximization--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
 -   [Coordination (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#coordination--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
--   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})
--   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
--   [Programming as a tool to make things]({{< relref "gentleTribesProgramming2017.md#programming-as-a-tool-to-make-things" >}})
+-   [Dark forest theory]({{< relref "dark_forest_theory.md" >}})
+-   [Excess resources (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#excess-resources--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
+-   [Ian Danskin | The Cost of Doing Business]({{< relref "danskinianCostDoingBusiness2022.md" >}})
 -   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
--   [Todos]({{< relref "todos.md" >}})
+-   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
+-   [Physical limitations (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#physical-limitations--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
+-   [Programming as a tool to make things]({{< relref "gentleTribesProgramming2017.md#programming-as-a-tool-to-make-things" >}})
+-   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})
 -   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
+-   [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}})
+-   [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
+-   [Todos]({{< relref "todos.md" >}})
+-   [Tragedy of the commons]({{< relref "tragedy_of_the_commons.md" >}})
+-   [Utility maximization (Moloch)]({{< relref "alexanderMeditationsMoloch2014.md#utility-maximization--id-3aea1e2f-dd21-4c21-a8c9-7efd610424c4-moloch" >}})
+-   [We live in a society]({{< relref "we_live_in_a_society.md" >}})

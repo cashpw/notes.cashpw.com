@@ -2,7 +2,7 @@
 title = "Dan Olson"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:27:00-08:00
-lastmod = 2023-12-05T20:05:35-08:00
+lastmod = 2023-12-22T21:52:33-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -20,6 +20,8 @@ Among other things:
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

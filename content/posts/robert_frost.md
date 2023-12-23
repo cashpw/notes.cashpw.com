@@ -2,7 +2,7 @@
 title = "Robert Frost"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T11:31:00-07:00
-lastmod = 2023-12-05T20:54:41-08:00
+lastmod = 2023-12-23T00:25:17-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -18,6 +18,8 @@ Among other things:
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

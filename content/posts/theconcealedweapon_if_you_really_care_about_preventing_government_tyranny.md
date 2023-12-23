@@ -2,7 +2,7 @@
 title = "theconcealedweapon | If You Really Care about Preventing Government Tyranny"
 author = ["Cash Weaver"]
 date = 2023-03-06T06:29:00-08:00
-lastmod = 2023-12-05T21:13:00-08:00
+lastmod = 2023-12-23T01:37:47-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -25,6 +25,8 @@ slug = "71e91aca-f12f-485a-9104-c7afbaa6a72c"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:theconcealedweaponIfYouReallyCarePreventingGovernmentTyranny</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

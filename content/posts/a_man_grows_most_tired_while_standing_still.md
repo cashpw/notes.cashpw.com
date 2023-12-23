@@ -2,7 +2,7 @@
 title = "A man grows most tired while standing still"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-11T17:18:00-08:00
-lastmod = 2023-12-21T20:42:33-08:00
+lastmod = 2023-12-22T21:31:02-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -26,5 +26,5 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [A person needs new experiences]({{< relref "a_man_grows_most_tired_while_standing_still.md" >}})
--   [Science of discontent]({{< relref "a_man_grows_most_tired_while_standing_still.md" >}})
+-   [A person needs new experiences]({{< relref "a_person_needs_new_experiences.md" >}})
+-   [Science of discontent]({{< relref "science_of_discontent.md" >}})

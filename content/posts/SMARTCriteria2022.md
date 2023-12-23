@@ -2,7 +2,7 @@
 title = "SMART criteria"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:59:00-08:00
-lastmod = 2023-12-21T20:42:04-08:00
+lastmod = 2023-12-22T21:30:48-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -25,7 +25,7 @@ SMART goals are:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“SMART Criteria.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=SMART_criteria&oldid=1067426737">https://en.wikipedia.org/w/index.php?title=SMART_criteria&#38;oldid=1067426737</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“SMART Criteria.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=SMART_criteria&oldid=1067426737">https://en.wikipedia.org/w/index.php?title=SMART_criteria&#38;oldid=1067426737</a>.</div>
 </div>
 
 foo1
@@ -33,4 +33,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Goals for 2022]({{< relref "SMARTCriteria2022.md" >}})
+-   [Goals for 2022]({{< relref "goals_for_2022.md" >}})

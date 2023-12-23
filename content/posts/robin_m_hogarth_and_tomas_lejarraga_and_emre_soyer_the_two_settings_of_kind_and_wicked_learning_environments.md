@@ -2,7 +2,7 @@
 title = "Robin M. Hogarth and Tomás Lejarraga and Emre Soyer | The Two Settings of Kind and Wicked Learning Environments"
 author = ["Cash Weaver"]
 date = 2023-09-04T17:14:00-07:00
-lastmod = 2023-12-05T20:55:30-08:00
+lastmod = 2023-12-23T00:27:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

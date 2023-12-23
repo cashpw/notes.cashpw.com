@@ -2,7 +2,7 @@
 title = "Heapsort implementation in python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-17T09:22:00-07:00
-lastmod = 2023-12-05T20:18:05-08:00
+lastmod = 2023-12-22T22:27:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -113,6 +113,8 @@ print(heapsort([4,2,5,19,1], lambda x,y: 1 if x < y else -1))
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

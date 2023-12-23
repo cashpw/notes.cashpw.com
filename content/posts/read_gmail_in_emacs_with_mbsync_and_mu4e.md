@@ -2,7 +2,7 @@
 title = "Read Gmail in Emacs with mbsync and mu4e"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T20:01:00-08:00
-lastmod = 2023-12-06T05:45:53-08:00
+lastmod = 2023-12-23T00:17:09-08:00
 draft = false
 slug = "5e8b11e4-9600-44b7-8cd4-1be85f359948"
 +++
@@ -192,6 +192,8 @@ Follow the steps documented by [doom emacs' mu4e section](https://github.com/hli
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

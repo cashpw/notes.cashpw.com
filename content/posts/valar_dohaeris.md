@@ -2,7 +2,7 @@
 title = "Valar dohaeris"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:00:00-07:00
-lastmod = 2023-12-05T21:20:41-08:00
+lastmod = 2023-12-23T02:10:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,6 +20,8 @@ Related: [Valar morghulis]({{< relref "valar_morghulis.md" >}})
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

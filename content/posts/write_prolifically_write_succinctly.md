@@ -2,7 +2,7 @@
 title = "Write prolifically, write succinctly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-17T07:28:00-08:00
-lastmod = 2023-12-05T21:24:54-08:00
+lastmod = 2023-12-23T02:26:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,7 +32,9 @@ slug = "d077ef5b-766b-4239-a40f-f775e101e185"
   <div class="csl-entry">NO_ITEM_DATA:crittendenWrite5xMoreWrite5xLess2020</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Keep a video journal for important moments]({{< relref "write_prolifically_write_succinctly.md" >}})
+-   [Keep a video journal for important moments]({{< relref "keep_a_video_journal_for_important_moments.md" >}})

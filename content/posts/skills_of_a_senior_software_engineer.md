@@ -2,7 +2,7 @@
 title = "Skills of a senior software engineer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:20:00-08:00
-lastmod = 2023-12-05T21:02:02-08:00
+lastmod = 2023-12-23T00:52:54-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -65,6 +65,8 @@ I've sought out common traits of "senior" roles and collected them here to help 
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>littleblah. 2019. “A Senior Engineer’s CheckList.” <a href="https://littleblah.com/post/2019-09-01-senior-engineer-checklist/">https://littleblah.com/post/2019-09-01-senior-engineer-checklist/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Stories of Reaching Staff-plus Engineering Roles - StaffEng.” n.d. Accessed January 28, 2023. <a href="https://staffeng.com/">https://staffeng.com/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

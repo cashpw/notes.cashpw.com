@@ -2,7 +2,7 @@
 title = "Tangent (Trigonometry)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T10:46:00-07:00
-lastmod = 2023-12-05T21:08:52-08:00
+lastmod = 2023-12-23T01:19:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,9 +33,11 @@ The tangent of a function is the [Instantaneous rate of change]({{< relref "deri
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sine and Cosine.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&oldid=1103922899">https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&#38;oldid=1103922899</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Cosine]({{< relref "cosine.md" >}})
--   [Sine]({{< relref "sine.md" >}})
 -   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Sine]({{< relref "sine.md" >}})

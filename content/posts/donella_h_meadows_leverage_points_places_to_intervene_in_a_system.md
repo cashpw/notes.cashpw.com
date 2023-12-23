@@ -2,7 +2,7 @@
 title = "Donella H. Meadows | Leverage Points: Places to Intervene in a System"
 author = ["Cash Weaver"]
 date = 2023-01-13T15:35:00-08:00
-lastmod = 2023-12-05T20:09:00-08:00
+lastmod = 2023-12-22T22:02:11-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -28,6 +28,8 @@ slug = "769516ae-54c8-4218-a70c-0d7f4a901754"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:meadowsLeveragePointsPlacesInterveneSystem</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

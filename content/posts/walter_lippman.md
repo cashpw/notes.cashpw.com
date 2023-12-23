@@ -2,7 +2,7 @@
 title = "Walter Lippman"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:13:00-08:00
-lastmod = 2023-12-05T21:22:43-08:00
+lastmod = 2023-12-23T02:19:04-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -21,6 +21,8 @@ Among other things:
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

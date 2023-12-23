@@ -2,7 +2,7 @@
 title = "Acetaminophen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:08:00-07:00
-lastmod = 2023-12-21T20:43:07-08:00
+lastmod = 2023-12-22T21:31:18-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,4 +21,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [My one-bag packing list]({{< relref "acetaminophen.md" >}})
+-   [My one-bag packing list]({{< relref "my_one_bag_packing_list.md" >}})

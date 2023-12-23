@@ -2,7 +2,7 @@
 title = "ExRx | Press Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T11:04:00-07:00
-lastmod = 2023-12-05T20:11:39-08:00
+lastmod = 2023-12-22T22:09:17-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -62,6 +62,8 @@ Numbers are in pounds.
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:exrxPressStrengthStandardsAges1839Lb</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

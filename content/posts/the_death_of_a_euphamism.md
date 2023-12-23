@@ -2,7 +2,7 @@
 title = "Death of a euphamism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:40:00-07:00
-lastmod = 2023-12-05T21:11:03-08:00
+lastmod = 2023-12-23T01:29:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,10 @@ See [Ian Danskin | The Death of a Euphemism]({{< relref "danskinDeathEuphemism20
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
 -   [Ian Danskin | The Death of a Euphemism]({{< relref "danskinDeathEuphemism2018.md" >}})
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})

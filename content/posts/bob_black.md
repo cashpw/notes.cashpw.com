@@ -2,7 +2,7 @@
 title = "Bob Black"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:25:00-07:00
-lastmod = 2023-12-05T19:57:28-08:00
+lastmod = 2023-12-22T21:37:25-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,8 +21,10 @@ Among other things:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [The carrot is the stick]({{< relref "the_carrot_is_the_stick.md" >}})
 -   [Bob Black | The Abolition of Work]({{< relref "blackAbolitionWork.md" >}})
+-   [The carrot is the stick]({{< relref "the_carrot_is_the_stick.md" >}})

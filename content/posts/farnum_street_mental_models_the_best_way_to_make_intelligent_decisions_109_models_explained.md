@@ -2,7 +2,7 @@
 title = "Farnum Street | Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)"
 author = ["Cash Weaver"]
 date = 2022-11-18T09:25:00-08:00
-lastmod = 2023-12-05T20:12:15-08:00
+lastmod = 2023-12-22T22:10:58-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

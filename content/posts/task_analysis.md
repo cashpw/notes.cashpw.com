@@ -2,7 +2,7 @@
 title = "Task analysis"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T21:52:00-07:00
-lastmod = 2023-12-05T21:09:40-08:00
+lastmod = 2023-12-23T01:23:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "6f26873c-19de-47e1-a395-88f75438e202"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Task Analysis.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Task_analysis&oldid=1142832277">https://en.wikipedia.org/w/index.php?title=Task_analysis&#38;oldid=1142832277</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

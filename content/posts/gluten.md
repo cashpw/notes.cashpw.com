@@ -2,7 +2,7 @@
 title = "Gluten"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T15:06:00-08:00
-lastmod = 2023-12-05T20:16:00-08:00
+lastmod = 2023-12-22T22:21:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "std::variant"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:19:00-07:00
-lastmod = 2023-12-05T21:06:03-08:00
+lastmod = 2023-12-23T01:07:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -48,6 +48,8 @@ int main() {
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

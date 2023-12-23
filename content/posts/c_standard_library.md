@@ -2,7 +2,7 @@
 title = "C++ Standard Library"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T09:58:00-07:00
-lastmod = 2023-12-05T19:58:30-08:00
+lastmod = 2023-12-22T21:38:52-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -31,9 +31,11 @@ The `std::` namespace in C++.
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“C++ Standard Library.” n.d. Accessed May 18, 2023. <a href="https://en.cppreference.com/w/cpp/standard_library">https://en.cppreference.com/w/cpp/standard_library</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [std::unique_ptr]({{< relref "std_unique_ptr.md" >}})
 -   [std::initializer_list]({{< relref "std_initializer_list.md" >}})
+-   [std::unique_ptr]({{< relref "std_unique_ptr.md" >}})
 -   [std::variant]({{< relref "std_variant.md" >}})

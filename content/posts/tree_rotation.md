@@ -2,7 +2,7 @@
 title = "Tree rotation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-04T16:11:00-07:00
-lastmod = 2023-12-06T05:54:18-08:00
+lastmod = 2023-12-23T02:00:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -55,6 +55,8 @@ slug = "f0deaa3b-c3bc-491d-adc3-6e6595cb558e"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree Rotation.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Tree_rotation&oldid=1099813959">https://en.wikipedia.org/w/index.php?title=Tree_rotation&#38;oldid=1099813959</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

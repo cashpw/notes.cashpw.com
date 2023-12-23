@@ -2,7 +2,7 @@
 title = "Ben Kuhn"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:31:00-08:00
-lastmod = 2023-12-05T19:55:38-08:00
+lastmod = 2023-12-22T21:35:33-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,11 +21,13 @@ Among other things,
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Ben Kuhn | To Listen Well, Get Curious]({{< relref "kuhnListenWellGet.md" >}})
--   [Blogroll]({{< relref "blogroll.md" >}})
--   [Ben Kuhn | In Defense of Blub Studies]({{< relref "kuhnDefenseBlubStudies.md" >}})
 -   [Ben Kuhn | Attention Is Your Scarcest Resource]({{< relref "kuhnAttentionYourScarcest2020.md" >}})
 -   [Ben Kuhn | Be Impatient]({{< relref "kuhnBeImpatient2020.md" >}})
+-   [Ben Kuhn | In Defense of Blub Studies]({{< relref "kuhnDefenseBlubStudies.md" >}})
+-   [Ben Kuhn | To Listen Well, Get Curious]({{< relref "kuhnListenWellGet.md" >}})
+-   [Blogroll]({{< relref "blogroll.md" >}})

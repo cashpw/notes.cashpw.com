@@ -2,14 +2,14 @@
 title = "Adrian Bates"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-18T11:14:00-08:00
-lastmod = 2023-12-21T20:43:33-08:00
+lastmod = 2023-12-22T21:31:31-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
 slug = "164a7329-a7a2-4578-8224-e1ef142feea7"
 +++
 
-One of the [Ceramists I follow]({{< relref "adrian_bates.md" >}}).
+One of the [Ceramists I follow]({{< relref "ceramists_potters_i_follow.md" >}}).
 
 Among other things:
 

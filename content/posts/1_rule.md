@@ -2,7 +2,7 @@
 title = "1% rule"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-27T13:26:00-08:00
-lastmod = 2023-12-21T20:40:39-08:00
+lastmod = 2023-12-22T21:30:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ slug = "6db3dc17-f091-4c31-ab22-74d8ec0ebb5e"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“1\% Rule (Internet Culture).” 2021. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=1%25_rule_(Internet_culture)&oldid=1q053243579">https://en.wikipedia.org/w/index.php?title=1%25_rule_(Internet_culture)&#38;oldid=1q053243579</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“1\% Rule (Internet Culture).” 2021. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=1%25_rule_(Internet_culture)&oldid=1q053243579">https://en.wikipedia.org/w/index.php?title=1%25_rule_(Internet_culture)&#38;oldid=1q053243579</a>.</div>
 </div>
 
 foo1
@@ -27,4 +27,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Most of what you read on the internet is written by insane people]({{< relref "1_rule.md" >}})
+-   [Most of what you read on the internet is written by insane people]({{< relref "dinoinnameonly_most_of_what_you_read_on_the_internet_is_written_by_insane_people.md" >}})

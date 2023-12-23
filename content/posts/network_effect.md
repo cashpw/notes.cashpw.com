@@ -2,7 +2,7 @@
 title = "Network effect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:43:00-07:00
-lastmod = 2023-12-05T20:40:09-08:00
+lastmod = 2023-12-22T23:34:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "877f3321-faac-463a-8619-787467251655"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Network Effect.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Network_effect&oldid=1113646462">https://en.wikipedia.org/w/index.php?title=Network_effect&#38;oldid=1113646462</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

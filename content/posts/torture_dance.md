@@ -2,7 +2,7 @@
 title = "Torture dance"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-22T20:11:00-07:00
-lastmod = 2023-12-05T21:16:53-08:00
+lastmod = 2023-12-23T01:54:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,6 +22,6 @@ slug = "360835ea-91a2-443c-94c0-4df4c0e1bb8c"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:learnhowtodanceHowTortureDanceIRLJojoBizarreAdventureStepStepDance2019</div>
   <div class="csl-entry">NO_ITEM_DATA:djuncleZiyoziyo5GiyangudansuGangTortureDance2018</div>
+  <div class="csl-entry">NO_ITEM_DATA:learnhowtodanceHowTortureDanceIRLJojoBizarreAdventureStepStepDance2019</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Attention economy"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:17:00-08:00
-lastmod = 2023-12-05T19:54:27-08:00
+lastmod = 2023-12-22T21:34:31-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false
@@ -32,10 +32,12 @@ Related: [Continuous partial attention]({{< relref "continuous_partial_attention
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attention Economy.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Attention_economy&oldid=1120830324">https://en.wikipedia.org/w/index.php?title=Attention_economy&#38;oldid=1120830324</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [RSS is great]({{< relref "rss_is_great.md" >}})
--   [Cal Newport | About]({{< relref "newport.md" >}})
--   [Stephen Kuenzli | Key Practices for Achieving Large Professional Goals]({{< relref "kuenzliKeyPracticesAchievingLargeProfessionalGoals2019.md" >}})
 -   [Ben Kuhn | Attention Is Your Scarcest Resource]({{< relref "kuhnAttentionYourScarcest2020.md" >}})
+-   [Cal Newport | About]({{< relref "newport.md" >}})
+-   [RSS is great]({{< relref "rss_is_great.md" >}})
+-   [Stephen Kuenzli | Key Practices for Achieving Large Professional Goals]({{< relref "kuenzliKeyPracticesAchievingLargeProfessionalGoals2019.md" >}})

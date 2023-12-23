@@ -2,7 +2,7 @@
 title = "Contraction hierarchies"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T11:57:00-07:00
-lastmod = 2023-12-05T20:04:10-08:00
+lastmod = 2023-12-22T21:49:21-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -359,7 +359,7 @@ A speed up method for calculating the shortest path between nodes in a graph bas
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 0   | 0.00     | 2023-11-14T15:14:20Z |
+| front    | 2.50 | 1   | 1.00     | 2023-12-22T16:24:58Z |
 | back     | 2.5  | -1  | 0        | 2023-06-15T15:20:40Z |
 
 Node contraction in [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
@@ -393,7 +393,7 @@ Steps:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 2   | 2.00     | 2023-12-07T14:31:36Z |
+| 0        | 2.50 | 3   | 6.00     | 2023-12-25T22:43:10Z |
 | 1        | 2.5  | -1  | 0        | 2023-06-15T15:21:11Z |
 
 {{Node contraction}@0} is the process of {{finding shortcuts in a graph in [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})}@1}.
@@ -408,7 +408,7 @@ Steps:
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 2.00     | 2023-08-22T14:56:40Z |
+| front    | 2.20 | 1   | 1.00     | 2023-12-20T22:50:52Z |
 | back     | 2.5  | -1  | 0        | 2023-06-15T15:30:07Z |
 
 When do we contract a vertex, \\(v\\)?
@@ -472,7 +472,7 @@ We store a pointer to the interim vertex, \\(v\\), when we contract \\(u, v, w\\
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 0   | 0.00     | 2023-12-05T14:16:16Z |
+| front    | 2.20 | 1   | 1.00     | 2023-12-20T22:47:14Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:19:16Z |
 
 Heuristics for choosing the order to contract vertices.
@@ -515,7 +515,7 @@ Edge difference
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 5   | 33.78    | 2023-10-01T07:33:09Z |
+| front    | 2.20 | 6   | 67.93    | 2024-02-14T16:02:48Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:23:36Z |
 
 Contracted neighbors
@@ -550,7 +550,7 @@ We should contract vertices in {{ascending order}{direction}@0} of edge differen
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 13.80    | 2023-12-18T10:02:33Z |
+| 0        | 2.50 | 5   | 33.68    | 2024-01-23T07:41:18Z |
 
 We should contract vertices with {{fewer}{comparison}@0} contracted neighbors first.
 
@@ -672,7 +672,7 @@ A path \\(u, \dots, w\\) around \\(v\\) with cost smaller than the cost of \\(u,
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 2.50 | 4   | 15.92    | 2023-11-29T14:34:28Z |
+| 0        | 2.50 | 5   | 39.35    | 2024-01-23T23:56:23Z |
 
 Contraction is {{iterative}{process}@0}
 
@@ -689,12 +689,14 @@ Contraction is {{iterative}{process}@0}
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Contraction Hierarchies.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Contraction_hierarchies&oldid=1153438478">https://en.wikipedia.org/w/index.php?title=Contraction_hierarchies&#38;oldid=1153438478</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Harabor, Daniel D. n.d. “An Introduction to Contraction Hierarchies.”</div>
-  <div class="csl-entry">NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder</div>
-  <div class="csl-entry">NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery</div>
-  <div class="csl-entry">NO_ITEM_DATA:geisbergerContractionHierarchiesFasterSimplerHierarchicalRoutingRoadNetworks2008</div>
-  <div class="csl-entry">NO_ITEM_DATA:haraborForwardSearchContractionHierarchies2021</div>
   <div class="csl-entry">NO_ITEM_DATA:lazarsfeldCoreComponentsCHNodeContraction</div>
+  <div class="csl-entry">NO_ITEM_DATA:haraborForwardSearchContractionHierarchies2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:geisbergerContractionHierarchiesFasterSimplerHierarchicalRoutingRoadNetworks2008</div>
+  <div class="csl-entry">NO_ITEM_DATA:lazarsfeldCoreComponentsCHModifiedBidirectionalQuery</div>
+  <div class="csl-entry">NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

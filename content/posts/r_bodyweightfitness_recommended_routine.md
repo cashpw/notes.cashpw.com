@@ -2,7 +2,7 @@
 title = "r/bodyweightfitness | Recommended Routine"
 author = ["Cash Weaver"]
 date = 2023-07-06T09:13:00-07:00
-lastmod = 2023-12-05T20:51:23-08:00
+lastmod = 2023-12-23T00:14:03-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -74,6 +74,8 @@ slug = "f2387c39-de20-48be-9733-7498f51672de"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>r/bodyweightfitness. n.d. “Recommended Routine.” Accessed July 6, 2023. <a href="https://old.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine#wiki_warm-up.3A_dynamic_stretches_.285-10min.29">https://old.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine#wiki_warm-up.3A_dynamic_stretches_.285-10min.29</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

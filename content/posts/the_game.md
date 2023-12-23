@@ -2,7 +2,7 @@
 title = "The game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T09:43:00-07:00
-lastmod = 2023-12-05T21:11:21-08:00
+lastmod = 2023-12-23T01:31:28-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -26,6 +26,8 @@ Adjacent ideas:
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

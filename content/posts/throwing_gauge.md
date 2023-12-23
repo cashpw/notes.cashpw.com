@@ -2,7 +2,7 @@
 title = "Throwing gauge"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-12T16:51:00-07:00
-lastmod = 2023-12-05T21:15:02-08:00
+lastmod = 2023-12-23T01:45:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,7 +33,9 @@ A throwing gauge is a [Pottery]({{< relref "ceramics.md" >}}) tool to help judge
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [It's Clear As Mud | How To Throw Production Pottery Part 1]({{< relref "throwing_gauge.md" >}})
+-   [It's Clear As Mud | How To Throw Production Pottery Part 1]({{< relref "it_s_clear_as_mud_how_to_throw_production_pottery_part_1.md" >}})

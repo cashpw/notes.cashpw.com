@@ -2,7 +2,7 @@
 title = "Jarnik's algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:41:00-08:00
-lastmod = 2023-12-05T20:24:15-08:00
+lastmod = 2023-12-22T22:45:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -38,6 +38,8 @@ slug = "2e340461-20cb-4d63-afdb-cac74fbea013"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prim’s Algorithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&oldid=1127278141">https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&#38;oldid=1127278141</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

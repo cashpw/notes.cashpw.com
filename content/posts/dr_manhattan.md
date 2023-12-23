@@ -2,7 +2,7 @@
 title = "Dr. Manhattan"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-03T07:10:00-08:00
-lastmod = 2023-12-05T20:09:18-08:00
+lastmod = 2023-12-22T22:02:56-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -18,6 +18,8 @@ AKA Jon Osterman
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

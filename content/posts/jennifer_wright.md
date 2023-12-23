@@ -2,7 +2,7 @@
 title = "Jennifer Wright"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-04T08:03:00-08:00
-lastmod = 2023-12-05T20:24:45-08:00
+lastmod = 2023-12-22T22:46:35-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "599c8165-24ef-4468-b4a7-3a9b2fdb8995"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Mark Lutter | Build Institutions, Not Apps"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:22:00-08:00
-lastmod = 2023-12-05T20:34:09-08:00
+lastmod = 2023-12-22T23:15:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -59,6 +59,8 @@ The "X isn't left or right", in my experience, tends to mean "X is mostly right,
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:lutterBuildInstitutionsNotApps</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

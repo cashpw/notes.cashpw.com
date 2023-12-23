@@ -2,7 +2,7 @@
 title = "Aaron Bastani"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T10:11:00-07:00
-lastmod = 2023-12-21T20:42:55-08:00
+lastmod = 2023-12-22T21:31:12-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -24,5 +24,5 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Aaron Bastani | Fully Automated Luxury Communism: A Manifesto]({{< relref "aaron_bastani.md" >}})
--   [Upstream | Fully Automated Luxury Communism]({{< relref "aaron_bastani.md" >}})
+-   [Aaron Bastani | Fully Automated Luxury Communism: A Manifesto]({{< relref "bastaniFullyAutomatedLuxury2019.md" >}})
+-   [Upstream | Fully Automated Luxury Communism]({{< relref "upstreamFullyAutomatedLuxury2022.md" >}})

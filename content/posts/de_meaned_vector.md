@@ -2,7 +2,7 @@
 title = "De-meaned vector"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T09:17:00-07:00
-lastmod = 2023-12-05T20:06:55-08:00
+lastmod = 2023-12-22T21:56:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,8 +24,10 @@ Note that \\(\mathbf{C}\\) is the [Centering matrix]({{< relref "centering_matri
   <div class="csl-entry">NO_ITEM_DATA:boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Dot product]({{< relref "dot_product.md" >}})
 -   [Correlation coefficient of vectors]({{< relref "correlation_coefficient_of_vectors.md" >}})
+-   [Dot product]({{< relref "dot_product.md" >}})

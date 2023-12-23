@@ -2,7 +2,7 @@
 title = "XY problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-27T08:31:00-07:00
-lastmod = 2023-12-05T21:25:19-08:00
+lastmod = 2023-12-23T02:29:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

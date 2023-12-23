@@ -2,7 +2,7 @@
 title = "Growth mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T15:27:00-07:00
-lastmod = 2023-12-05T20:17:06-08:00
+lastmod = 2023-12-22T22:24:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,13 +30,15 @@ slug = "c19c4cf1-9304-46b7-9441-8fed0ed17a57"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindset.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Mindset&oldid=1114760560#Fixed_and_growth_mindset">https://en.wikipedia.org/w/index.php?title=Mindset&#38;oldid=1114760560#Fixed_and_growth_mindset</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Praise process and effort]({{< relref "growth_mindset.md" >}})
--   [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})
 -   [Fixed mindset]({{< relref "fixed_mindset.md" >}})
--   [No zero days]({{< relref "no_zero_days.md" >}})
 -   [Grit]({{< relref "grit.md" >}})
 -   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})
+-   [Nelson Elhage | Computers Can Be Understood]({{< relref "elhageComputersCanBe.md" >}})
+-   [No zero days]({{< relref "no_zero_days.md" >}})
+-   [Praise process and effort]({{< relref "praise_process_and_effort.md" >}})
 -   [The first lesson]({{< relref "the_first_lesson.md" >}})

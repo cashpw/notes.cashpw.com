@@ -2,7 +2,7 @@
 title = "Cedric Chin | Ability to See Expertise Is a Milestone Worth Aiming For"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:44:00-07:00
-lastmod = 2023-12-05T19:59:29-08:00
+lastmod = 2023-12-22T21:40:46-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -29,8 +29,10 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2022</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2022. “Ability to See Expertise Is a Milestone Worth Aiming For.” <i>Commoncog</i>. <a href="https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/">https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

@@ -2,7 +2,7 @@
 title = "Apostrophe-s even after an s"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T18:49:00-07:00
-lastmod = 2023-12-05T19:53:39-08:00
+lastmod = 2023-12-22T21:33:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

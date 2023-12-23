@@ -2,7 +2,7 @@
 title = "Tanner Greer | Tradition Is Smarter Than You Are"
 author = ["Cash Weaver"]
 date = 2023-01-10T12:08:00-08:00
-lastmod = 2023-12-05T21:09:19-08:00
+lastmod = 2023-12-23T01:21:24-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -42,10 +42,12 @@ I prefer the individual reviews of [Scott Alexander | Book Review: Seeing Like A
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016</div>
-  <div class="csl-entry">NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020</div>
   <div class="csl-entry">NO_ITEM_DATA:greerTraditionSmarterYouAre2018</div>
+  <div class="csl-entry">NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020</div>
+  <div class="csl-entry">NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

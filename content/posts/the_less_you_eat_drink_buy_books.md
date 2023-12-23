@@ -2,7 +2,7 @@
 title = "The less you eat, drink, buy books"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-02T08:22:00-08:00
-lastmod = 2023-12-05T21:11:37-08:00
+lastmod = 2023-12-23T01:32:30-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,6 +21,8 @@ slug = "c3a12831-1c27-4928-8395-08216b3ae2e5"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:marxEconomicPhilosophicManuscripts18441959</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

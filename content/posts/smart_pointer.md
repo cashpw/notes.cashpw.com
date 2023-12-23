@@ -2,7 +2,7 @@
 title = "Smart pointer"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T10:03:00-07:00
-lastmod = 2023-12-05T21:02:23-08:00
+lastmod = 2023-12-23T00:54:20-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "40d2da04-01ce-49e3-9f51-781c04d5bf8d"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:lloydAnswerWhatSmartPointerWhenShouldUseOne2008</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

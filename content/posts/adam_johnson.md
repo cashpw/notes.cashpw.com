@@ -2,7 +2,7 @@
 title = "Adam Johnson"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T11:12:00-07:00
-lastmod = 2023-12-21T20:43:12-08:00
+lastmod = 2023-12-22T21:31:20-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -26,4 +26,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Citations Needed]({{< relref "adam_johnson.md" >}})
+-   [Citations Needed]({{< relref "CitationsNeeded.md" >}})

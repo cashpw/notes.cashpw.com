@@ -2,7 +2,7 @@
 title = "Dan Luu | Some Reasons to Work on Productivity and Velocity"
 author = ["Cash Weaver"]
 date = 2023-10-26T20:08:00-07:00
-lastmod = 2023-12-05T20:05:27-08:00
+lastmod = 2023-12-22T21:52:17-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

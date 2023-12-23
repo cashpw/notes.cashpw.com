@@ -2,7 +2,7 @@
 title = "Once revealed to me in a dream"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T12:50:00-08:00
-lastmod = 2023-12-05T20:42:51-08:00
+lastmod = 2023-12-22T23:43:30-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -21,6 +21,8 @@ slug = "27cb520e-f5d5-45b2-b92e-cde08209beef"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Berdyaev, Nicolas. 1949. <i>From The Divine and the Human</i>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

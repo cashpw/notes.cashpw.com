@@ -2,7 +2,7 @@
 title = "Cognitive flexibility theory"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T16:03:00-07:00
-lastmod = 2023-12-05T20:02:38-08:00
+lastmod = 2023-12-22T21:46:34-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "9abe569b-b8e7-4a33-ad4f-e701b22080d2"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:spiroCognitiveFlexibilityTheoryAdvancedKnowledgeAcquisitionIllstructuredDomains1988</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

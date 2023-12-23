@@ -2,7 +2,7 @@
 title = "Jacob Kaplan-Moss"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-25T18:59:00-07:00
-lastmod = 2023-12-05T20:23:34-08:00
+lastmod = 2023-12-22T22:42:45-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -16,7 +16,9 @@ slug = "14ae9f94-1e97-4211-9c4e-2be66dd2588e"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Jacob Kaplan-Moss | Embrace the Grind]({{< relref "jacob_kaplan_moss.md" >}})
+-   [Jacob Kaplan-Moss | Embrace the Grind]({{< relref "jacob_kaplan_moss_embrace_the_grind.md" >}})

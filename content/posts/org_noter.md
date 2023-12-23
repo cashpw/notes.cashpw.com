@@ -2,7 +2,7 @@
 title = "org-noter"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T08:34:00-08:00
-lastmod = 2023-12-05T20:43:39-08:00
+lastmod = 2023-12-22T23:46:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,8 +22,10 @@ slug = "dc6d6e17-e4d3-4390-b988-8e09d451e9b0"
   <div class="csl-entry">NO_ITEM_DATA:santosOrgnoterSynchronizedOrgmodeDocumentAnnotator2022</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [My one-bag packing list]({{< relref "org_noter.md" >}})
 -   [How I write notes]({{< relref "how_i_write_notes.md" >}})
+-   [My one-bag packing list]({{< relref "my_one_bag_packing_list.md" >}})

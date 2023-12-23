@@ -2,7 +2,7 @@
 title = "Org flashcards"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:39:00-08:00
-lastmod = 2023-12-05T20:43:29-08:00
+lastmod = 2023-12-22T23:45:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,11 +26,13 @@ slug = "4be26817-4ffd-4975-97aa-deda536235a5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Leon. 2022. “Org Flashcards.” <a href="https://github.com/l3kn/org-fc">https://github.com/l3kn/org-fc</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [My one-bag packing list]({{< relref "org_flashcards.md" >}})
--   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
 -   [Custom Anki Notes]({{< relref "custom_anki_notes.md" >}})
+-   [My one-bag packing list]({{< relref "my_one_bag_packing_list.md" >}})
+-   [On writing cards]({{< relref "spaced_repetition.md#on-writing-cards" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
--   [On writing cards]({{< relref "org_flashcards.md#on-writing-cards" >}})
+-   [Why I write notes]({{< relref "why_i_write_notes.md" >}})

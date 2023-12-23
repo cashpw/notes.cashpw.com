@@ -2,7 +2,7 @@
 title = "Learn things with a long shelf-life"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-28T15:57:00-07:00
-lastmod = 2023-12-05T20:29:55-08:00
+lastmod = 2023-12-22T23:02:44-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,6 +21,8 @@ Related:
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

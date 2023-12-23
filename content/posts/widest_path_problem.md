@@ -2,7 +2,7 @@
 title = "Widest path problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T09:17:00-08:00
-lastmod = 2023-12-05T21:23:58-08:00
+lastmod = 2023-12-23T02:23:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

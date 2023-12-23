@@ -2,7 +2,7 @@
 title = "Anna Salamon | Humans Are Not Automatically Strategic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:45:00-08:00
-lastmod = 2023-12-05T19:53:17-08:00
+lastmod = 2023-12-22T21:33:29-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -52,9 +52,11 @@ We don't automatically seek out a [Theory of change]({{< relref "theory_of_chang
   <div class="csl-entry">NO_ITEM_DATA:salamonHumansAreNotAutomaticallyStrategic2010</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Scott Alexander]({{< relref "scott_alexander.md" >}})
--   [Todos]({{< relref "todos.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
+-   [Todos]({{< relref "todos.md" >}})

@@ -2,7 +2,7 @@
 title = "Zvi Mowshowitz | Book Review: The Elephant in the Brain"
 author = ["Cash Weaver"]
 date = 2023-01-12T15:31:00-08:00
-lastmod = 2023-12-05T21:26:59-08:00
+lastmod = 2023-12-23T02:35:51-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Michael W. Donnino et al. | Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:48:00-08:00
-lastmod = 2023-12-05T20:09:06-08:00
+lastmod = 2023-12-22T22:02:24-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -63,6 +63,8 @@ slug = "38bba771-d7e5-467f-80bb-ebd79faf793c"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlled2021</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

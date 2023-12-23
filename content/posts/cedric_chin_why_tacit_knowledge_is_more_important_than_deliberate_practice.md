@@ -2,7 +2,7 @@
 title = "Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice"
 author = ["Cash Weaver"]
 date = 2023-06-30T18:54:00-07:00
-lastmod = 2023-12-05T20:00:48-08:00
+lastmod = 2023-12-22T21:43:14-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -160,9 +160,11 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinBookSummaryPeakNewScienceExpertise2019</div>
   <div class="csl-entry">NO_ITEM_DATA:chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020</div>
+  <div class="csl-entry">NO_ITEM_DATA:chinBookSummaryPeakNewScienceExpertise2019</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

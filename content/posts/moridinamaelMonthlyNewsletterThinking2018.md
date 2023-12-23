@@ -2,7 +2,7 @@
 title = "moridinamael | The Monthly Newsletter as Thinking Tool"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:19:00-08:00
-lastmod = 2023-12-05T20:38:30-08:00
+lastmod = 2023-12-22T23:28:51-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -43,6 +43,8 @@ slug = "da8376c0-7849-47fd-9f79-fca821651232"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:moridinamaelMonthlyNewsletterThinkingTool2018</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

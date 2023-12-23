@@ -2,7 +2,7 @@
 title = "Smart Guy Productivity Pitfalls"
 author = ["Cash Weaver"]
 date = 2022-12-20T10:22:00-08:00
-lastmod = 2023-12-05T21:02:19-08:00
+lastmod = 2023-12-23T00:54:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -27,7 +27,7 @@ I feel seen by this years-old blog post and it's unpleasant. Particularly:
 
 That's been me for years now. It's powerful to see it written out.
 
-Related: [Jacob Kaplan-Moss | Embrace the Grind]({{< relref "smart_guy_productivity_pitfalls.md" >}})
+Related: [Jacob Kaplan-Moss | Embrace the Grind]({{< relref "jacob_kaplan_moss_embrace_the_grind.md" >}})
 
 
 ## Notes {#notes}
@@ -118,9 +118,11 @@ I disagree with the author's assessment that solutions such as "turning off the 
   <div class="csl-entry">NO_ITEM_DATA:SmartGuyProductivityPitfalls</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Work smart and hard]({{< relref "smart_guy_productivity_pitfalls.md" >}})
+-   [Jacob Kaplan-Moss | Embrace the Grind]({{< relref "jacob_kaplan_moss_embrace_the_grind.md" >}})
 -   [On productivity]({{< relref "on_productivity.md" >}})
--   [Jacob Kaplan-Moss | Embrace the Grind]({{< relref "smart_guy_productivity_pitfalls.md" >}})
+-   [Work smart and hard]({{< relref "work_smart_and_hard.md" >}})

@@ -2,7 +2,7 @@
 title = "Tragedy of the commons"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T08:05:00-07:00
-lastmod = 2023-12-05T21:17:17-08:00
+lastmod = 2023-12-23T01:56:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,11 +24,13 @@ Related: [Prisoner's Dilemma]({{< relref "prisoner_s_dilemma.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tragedy of the Commons.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Tragedy_of_the_commons&oldid=1076616212">https://en.wikipedia.org/w/index.php?title=Tragedy_of_the_commons&#38;oldid=1076616212</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
--   [Moloch]({{< relref "moloch.md" >}})
 -   [Collective action problem]({{< relref "collective_action_problem.md" >}})
--   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})
 -   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
+-   [Moloch]({{< relref "moloch.md" >}})
+-   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})

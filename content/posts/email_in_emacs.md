@@ -2,7 +2,7 @@
 title = "Email in emacs"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-11T10:46:00-08:00
-lastmod = 2023-12-05T20:10:32-08:00
+lastmod = 2023-12-22T22:06:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

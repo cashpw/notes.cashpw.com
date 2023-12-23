@@ -2,7 +2,7 @@
 title = "Blub studies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T05:09:00-08:00
-lastmod = 2023-12-05T19:57:25-08:00
+lastmod = 2023-12-22T21:37:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,10 @@ Related:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. n.d. “In Defense of Blub Studies.” <i>Benkuhn.Net</i>. Accessed March 12, 2022. <a href="https://www.benkuhn.net/blub/">https://www.benkuhn.net/blub/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
 -   [Ben Kuhn | In Defense of Blub Studies]({{< relref "kuhnDefenseBlubStudies.md" >}})
+-   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})

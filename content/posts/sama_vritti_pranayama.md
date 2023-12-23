@@ -2,7 +2,7 @@
 title = "Sama Vritti Pranayama"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-31T10:32:00-08:00
-lastmod = 2023-12-05T20:56:38-08:00
+lastmod = 2023-12-23T00:31:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

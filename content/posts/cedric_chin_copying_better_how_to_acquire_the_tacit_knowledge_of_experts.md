@@ -2,7 +2,7 @@
 title = "Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts"
 author = ["Cash Weaver"]
 date = 2023-06-30T19:33:00-07:00
-lastmod = 2023-12-05T19:59:50-08:00
+lastmod = 2023-12-22T21:41:32-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -90,9 +90,11 @@ See [How to improve at Recognition-primed decision making?]({{< relref "recognit
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020</div>
   <div class="csl-entry">NO_ITEM_DATA:chinCopyingBetterHowAcquireTacitKnowledgeExperts2020</div>
+  <div class="csl-entry">NO_ITEM_DATA:chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

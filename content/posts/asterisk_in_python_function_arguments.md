@@ -2,7 +2,7 @@
 title = "Asterisk in Python function arguments"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-08T09:43:00-08:00
-lastmod = 2023-12-05T19:54:09-08:00
+lastmod = 2023-12-22T21:34:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -92,6 +92,8 @@ print(foo(10, **kwargs))
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

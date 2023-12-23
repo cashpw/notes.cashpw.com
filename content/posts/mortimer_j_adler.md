@@ -2,7 +2,7 @@
 title = "Mortimer J Adler"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:17:00-08:00
-lastmod = 2023-12-05T20:38:34-08:00
+lastmod = 2023-12-22T23:29:02-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "575a40fb-8d8e-4946-8f21-c3dcaafbfcc3"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

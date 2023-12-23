@@ -2,7 +2,7 @@
 title = "Switching barrier"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T11:00:00-07:00
-lastmod = 2023-12-05T21:07:51-08:00
+lastmod = 2023-12-23T01:14:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

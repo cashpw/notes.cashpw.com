@@ -2,7 +2,7 @@
 title = "Italy 2023"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T10:28:00-07:00
-lastmod = 2023-12-05T20:22:57-08:00
+lastmod = 2023-12-22T22:40:56-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -14,7 +14,7 @@ This is a [Trip]({{< relref "trip.md" >}}).
 
 ## Summary {#summary}
 
-Best trip, bar none, that I've ever been on in my life. We enjoyed our honeymoon beyond our expectations! I wish I'd written a little in a journal at the end of each day. We did [keep a video journal]({{< relref "italy_2023.md" >}}) though!
+Best trip, bar none, that I've ever been on in my life. We enjoyed our honeymoon beyond our expectations! I wish I'd written a little in a journal at the end of each day. We did [keep a video journal]({{< relref "keep_a_video_journal_for_important_moments.md" >}}) though!
 
 
 ## Packing list {#packing-list}
@@ -29,7 +29,9 @@ See [One-bag travel]({{< relref "one_bag_travel.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [My one-bag packing list]({{< relref "italy_2023.md" >}})
+-   [My one-bag packing list]({{< relref "my_one_bag_packing_list.md" >}})

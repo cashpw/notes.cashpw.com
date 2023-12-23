@@ -2,7 +2,7 @@
 title = "Monomial"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T10:38:00-08:00
-lastmod = 2023-12-05T20:38:05-08:00
+lastmod = 2023-12-22T23:27:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,8 +25,10 @@ slug = "cbd532d2-7ec0-4710-ba42-54212961b1c3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Monomial.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Monomial&oldid=1127097293">https://en.wikipedia.org/w/index.php?title=Monomial&#38;oldid=1127097293</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Polynomial]({{< relref "polynomial.md" >}})
 -   [Binomial]({{< relref "binomial.md" >}})
+-   [Polynomial]({{< relref "polynomial.md" >}})

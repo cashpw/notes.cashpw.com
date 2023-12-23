@@ -2,7 +2,7 @@
 title = "Pre-order tree traversal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:24:00-07:00
-lastmod = 2023-12-05T20:48:16-08:00
+lastmod = 2023-12-23T00:02:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,9 +32,11 @@ slug = "2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree Traversal.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Tree_traversal&oldid=1083604462">https://en.wikipedia.org/w/index.php?title=Tree_traversal&#38;oldid=1083604462</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Tree]({{< relref "tree.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
 -   [Depth-first search]({{< relref "depth_first_search.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})
+-   [Tree]({{< relref "tree.md" >}})

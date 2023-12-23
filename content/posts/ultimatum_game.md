@@ -2,7 +2,7 @@
 title = "Ultimatum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:51:00-07:00
-lastmod = 2023-12-06T05:26:37-08:00
+lastmod = 2023-12-23T02:05:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,8 +24,10 @@ slug = "d88f63c9-296b-4b0c-9757-00cc1e891e16"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ultimatum Game.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Ultimatum_game&oldid=1101687322">https://en.wikipedia.org/w/index.php?title=Ultimatum_game&#38;oldid=1101687322</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Dictator game]({{< relref "dictator_game.md" >}})
 -   [Asymmetric game]({{< relref "asymmetric_game.md" >}})
+-   [Dictator game]({{< relref "dictator_game.md" >}})

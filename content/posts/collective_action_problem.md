@@ -2,7 +2,7 @@
 title = "Collective action problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-04-02T09:50:00-07:00
-lastmod = 2023-12-05T20:02:50-08:00
+lastmod = 2023-12-22T21:46:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

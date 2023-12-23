@@ -2,7 +2,7 @@
 title = "John Salvatier | Reality Has a Surprising Amount of Detail"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:29:00-08:00
-lastmod = 2023-12-05T20:56:29-08:00
+lastmod = 2023-12-23T00:30:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -85,6 +85,8 @@ These details are difficult to identify since they are mostly-invisible before a
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:salvatierRealityHasSurprisingAmountDetail</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

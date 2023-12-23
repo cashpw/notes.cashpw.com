@@ -2,7 +2,7 @@
 title = "Incremental writing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:41:00-08:00
-lastmod = 2023-12-05T20:21:41-08:00
+lastmod = 2023-12-22T22:37:34-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -20,6 +20,8 @@ slug = "b0b3e596-fec2-4f36-9020-243c6c96e0d5"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

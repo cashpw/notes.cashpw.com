@@ -2,7 +2,7 @@
 title = "Cooperative interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:30:00-07:00
-lastmod = 2023-12-05T20:04:24-08:00
+lastmod = 2023-12-22T21:49:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,6 +23,8 @@ A form of [Interoperability]({{< relref "interoperability.md" >}}) wherein the m
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:doctorowInteroperabilityFixInternetNotTechCompanies2019</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

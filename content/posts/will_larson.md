@@ -2,7 +2,7 @@
 title = "Will Larson"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:06:00-07:00
-lastmod = 2023-12-05T21:24:04-08:00
+lastmod = 2023-12-23T02:23:55-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "2c536d79-3ebe-4b38-9193-78ec80ed3772"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Fundamental theorem of calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:59:00-08:00
-lastmod = 2023-12-05T20:14:27-08:00
+lastmod = 2023-12-22T22:16:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -74,13 +74,15 @@ slug = "adda1031-550c-4f65-9384-1ee018532adc"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Fundamental Theorem of Calculus.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&oldid=1126224108">https://en.wikipedia.org/w/index.php?title=Fundamental_theorem_of_calculus&#38;oldid=1126224108</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:khanacademyFundamentalTheoremCalculusPartAPCalculusKhanAcademy2013</div>
   <div class="csl-entry">NO_ITEM_DATA:khanacademyFundamentalTheoremCalculusAccumulationFunctions</div>
+  <div class="csl-entry">NO_ITEM_DATA:khanacademyFundamentalTheoremCalculusPartAPCalculusKhanAcademy2013</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Integral calculus]({{< relref "integral.md" >}})
--   [Derivative (math)]({{< relref "derivative.md" >}})
 -   [Calculus]({{< relref "calculus.md" >}})
+-   [Derivative (math)]({{< relref "derivative.md" >}})
+-   [Integral calculus]({{< relref "integral.md" >}})

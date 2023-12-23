@@ -2,7 +2,7 @@
 title = "On productivity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T19:58:00-07:00
-lastmod = 2023-12-05T20:42:38-08:00
+lastmod = 2023-12-22T23:42:52-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -14,7 +14,7 @@ A summary of what I know and have read about productivity. Note the goal here is
 -   [Work on the right thing]({{< relref "work_on_the_right_thing.md" >}})
 -   [Be fast]({{< relref "be_fast.md" >}})
 -   [Solve the problem]({{< relref "solve_the_problem.md" >}})
--   [Work smart and hard]({{< relref "on_productivity.md" >}})
+-   [Work smart and hard]({{< relref "work_smart_and_hard.md" >}})
 
 
 ## Bibliography {#bibliography}

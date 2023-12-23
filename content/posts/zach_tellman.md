@@ -2,7 +2,7 @@
 title = "Zach Tellman"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T16:25:00-08:00
-lastmod = 2023-12-05T21:26:12-08:00
+lastmod = 2023-12-23T02:32:45-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,13 +21,15 @@ Among other things:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Zach Tellman | Standing in the Shadow of Giants]({{< relref "zach_tellman_standing_in_the_shadow_of_giants.md" >}})
--   [Zach Tellman | Two Concepts of Legibility]({{< relref "zach_tellman_two_concepts_of_legibility.md" >}})
--   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
 -   [Blogroll]({{< relref "blogroll.md" >}})
--   [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})
 -   [Technologist]({{< relref "technologist.md" >}})
 -   [Zach Tellman | Senior Engineers Reduce Risk]({{< relref "tellmanSeniorEngineersReduceRisk.md" >}})
+-   [Zach Tellman | Standing in the Shadow of Giants]({{< relref "zach_tellman_standing_in_the_shadow_of_giants.md" >}})
+-   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
+-   [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})
+-   [Zach Tellman | Two Concepts of Legibility]({{< relref "zach_tellman_two_concepts_of_legibility.md" >}})

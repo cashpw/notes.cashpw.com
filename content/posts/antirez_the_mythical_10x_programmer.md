@@ -2,7 +2,7 @@
 title = "antirez | The Mythical 10x Programmer"
 author = ["Cash Weaver"]
 date = 2023-10-27T15:27:00-07:00
-lastmod = 2023-12-05T19:53:27-08:00
+lastmod = 2023-12-22T21:33:38-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -31,6 +31,8 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">antirez n.d.</a>)
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>antirez. n.d. “The Mythical 10x Programmer.” Accessed October 27, 2023. <a href="http://antirez.com/news/112">http://antirez.com/news/112</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

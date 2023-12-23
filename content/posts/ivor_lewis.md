@@ -2,7 +2,7 @@
 title = "Ivor Lewis"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-07T12:47:00-07:00
-lastmod = 2023-12-05T20:23:13-08:00
+lastmod = 2023-12-22T22:41:45-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "63cf8f27-a314-497b-a6ce-599ced342877"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

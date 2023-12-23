@@ -2,7 +2,7 @@
 title = "Sophie from Mars | Kaiju | Monster Men"
 author = ["Cash Weaver"]
 date = 2022-11-21T19:18:00-08:00
-lastmod = 2023-12-05T21:03:20-08:00
+lastmod = 2023-12-23T00:57:13-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

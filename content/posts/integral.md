@@ -2,7 +2,7 @@
 title = "Integral calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:49:00-08:00
-lastmod = 2023-12-05T20:21:59-08:00
+lastmod = 2023-12-22T22:38:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,10 +24,12 @@ slug = "61de6a28-e681-45bd-a086-fff5b924354e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Integral.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Integral&oldid=1132922175">https://en.wikipedia.org/w/index.php?title=Integral&#38;oldid=1132922175</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Derivative (math)]({{< relref "derivative.md" >}})
--   [Power rule]({{< relref "power_rule.md" >}})
 -   [Calculus]({{< relref "calculus.md" >}})
+-   [Derivative (math)]({{< relref "derivative.md" >}})
 -   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
+-   [Power rule]({{< relref "power_rule.md" >}})

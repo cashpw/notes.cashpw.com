@@ -2,7 +2,7 @@
 title = "Square matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:23:00-07:00
-lastmod = 2023-12-05T21:04:57-08:00
+lastmod = 2023-12-23T01:04:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,10 +22,12 @@ slug = "09208dbb-8043-4ef2-ac56-be944afb1dfa"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Square Matrix.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Square_matrix&oldid=1058664666">https://en.wikipedia.org/w/index.php?title=Square_matrix&#38;oldid=1058664666</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Adjacency matrix]({{< relref "adjacency_matrix.md" >}})
--   [Symmetric matrix]({{< relref "symmetric_matrix.md" >}})
--   [Identity matrix]({{< relref "identity_matrix.md" >}})
 -   [Determinant]({{< relref "determinant.md" >}})
+-   [Identity matrix]({{< relref "identity_matrix.md" >}})
+-   [Symmetric matrix]({{< relref "symmetric_matrix.md" >}})

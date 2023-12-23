@@ -2,7 +2,7 @@
 title = "Continuous function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T06:49:00-08:00
-lastmod = 2023-12-05T20:03:57-08:00
+lastmod = 2023-12-22T21:48:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,9 +22,11 @@ slug = "753a3fe1-3576-4549-8a5d-a8c901f6a708"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Continuous Function.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Continuous_function&oldid=1132729385">https://en.wikipedia.org/w/index.php?title=Continuous_function&#38;oldid=1132729385</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [First part]({{< relref "fundamental_theorem_of_calculus.md#first-part" >}})
--   [Second part]({{< relref "fundamental_theorem_of_calculus.md#second-part" >}})
 -   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
+-   [Second part]({{< relref "fundamental_theorem_of_calculus.md#second-part" >}})

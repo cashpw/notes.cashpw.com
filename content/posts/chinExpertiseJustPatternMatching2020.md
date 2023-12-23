@@ -2,7 +2,7 @@
 title = "Cedric Chin | Expertise Is 'Just' Pattern Matching"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:53:00-08:00
-lastmod = 2023-12-05T20:01:37-08:00
+lastmod = 2023-12-22T21:44:54-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -58,14 +58,16 @@ The idea rings true to me when I think about how chess masters describe thinking
   <div class="csl-entry">NO_ITEM_DATA:chinExpertiseJustPatternMatching2020</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 -   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
 -   [Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}})
--   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
+-   [Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]({{< relref "gary_klein_and_jennifer_phillips_and_erica_rall_and_deborah_peluso_a_data_frame_theory_of_sensemaking.md" >}})
+-   [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})
 -   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
--   [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})
--   [Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]({{< relref "gary_klein_and_jennifer_phillips_and_erica_rall_and_deborah_peluso_a_data_frame_theory_of_sensemaking.md" >}})

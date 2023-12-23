@@ -2,14 +2,14 @@
 title = "Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree"
 author = ["Cash Weaver"]
 date = 2023-07-30T07:26:00-07:00
-lastmod = 2023-12-05T20:05:49-08:00
+lastmod = 2023-12-22T21:53:11-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
 slug = "7ac554b7-d1b7-4348-8865-8742415b06d0"
 +++
 
-[Daniel Kahneman]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}}), [Gary Klein]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}}), (NO_ITEM_DATA:kahnemanConditionsIntuitiveExpertiseFailureDisagree2009)
+[Daniel Kahneman]({{< relref "daniel_kahneman.md" >}}), [Gary Klein]({{< relref "gary_klein.md" >}}), (NO_ITEM_DATA:kahnemanConditionsIntuitiveExpertiseFailureDisagree2009)
 
 
 ## Summary {#summary}
@@ -86,6 +86,8 @@ See also [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinEx
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:kahnemanConditionsIntuitiveExpertiseFailureDisagree2009</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

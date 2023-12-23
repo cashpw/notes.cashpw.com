@@ -2,7 +2,7 @@
 title = "Asymptotic Notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:52:00-07:00
-lastmod = 2023-12-05T19:54:15-08:00
+lastmod = 2023-12-22T21:34:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "adca1b0d-0ebe-4ea9-8b89-b4583f0d74ad"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

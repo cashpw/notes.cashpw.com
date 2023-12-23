@@ -2,7 +2,7 @@
 title = "Wedging"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-12T07:32:00-07:00
-lastmod = 2023-12-05T21:23:20-08:00
+lastmod = 2023-12-23T02:20:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,8 +22,10 @@ Tip: Wedge all the clay at once before dividing it into smaller balls.
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hansen-Gard, Jeni. n.d. “How to Wedge Clay Properly.” <i>Default</i>. Accessed September 12, 2023. <a href="https://ceramicartsnetwork.org/daily/article/How-to-Wedge-Clay-Properly">https://ceramicartsnetwork.org/daily/article/How-to-Wedge-Clay-Properly</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Spiral wedging]({{< relref "wedging.md" >}})
 -   [Ceramics Resources]({{< relref "ceramics_pottery_resources.md" >}})
+-   [Spiral wedging]({{< relref "spiral_wedging.md" >}})

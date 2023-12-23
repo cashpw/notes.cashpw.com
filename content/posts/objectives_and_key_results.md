@@ -2,7 +2,7 @@
 title = "Objectives and key results"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T07:37:00-08:00
-lastmod = 2023-12-05T20:42:15-08:00
+lastmod = 2023-12-22T23:41:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -44,6 +44,8 @@ An objective and 3-5 key results comprise a single OKR:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“OKR.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=OKR&oldid=1114850387">https://en.wikipedia.org/w/index.php?title=OKR&#38;oldid=1114850387</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

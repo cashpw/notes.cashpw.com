@@ -2,14 +2,14 @@
 title = "Barbara Tipton | Great Ideas for Potters: Selected from over 30 Years of Readers' Suggestions"
 author = ["Cash Weaver"]
 date = 2023-09-13T14:01:00-07:00
-lastmod = 2023-12-05T19:54:55-08:00
+lastmod = 2023-12-22T21:34:56-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "a0e684dd-812d-4957-8a02-a926aa488286"
 +++
 
-[Barbara Tipton]({{< relref "barbara_tipton_great_ideas_for_potters_selected_from_over_30_years_of_readers_suggestions.md" >}}), (<a href="#citeproc_bib_item_1">Tipton 1983</a>)
+[Barbara Tipton]({{< relref "barbara_tipton.md" >}}), (<a href="#citeproc_bib_item_1">Tipton 1983</a>)
 
 <https://archive.org/details/greatideasforpot0000unse/page/n1/mode/2up>
 

@@ -2,7 +2,7 @@
 title = "Cooperative game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:40:00-07:00
-lastmod = 2023-12-05T20:04:21-08:00
+lastmod = 2023-12-22T21:49:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

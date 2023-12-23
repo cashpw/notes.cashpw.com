@@ -2,7 +2,7 @@
 title = "Avoid qualifying language"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-20T08:51:00-08:00
-lastmod = 2023-12-05T19:54:37-08:00
+lastmod = 2023-12-22T21:34:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,6 +18,8 @@ Avoid using qualifying language (e.g. "perhaps" and "probably") to increase the 
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

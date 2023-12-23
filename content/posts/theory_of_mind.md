@@ -2,7 +2,7 @@
 title = "Theory of mind"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T07:44:00-08:00
-lastmod = 2023-12-05T21:13:17-08:00
+lastmod = 2023-12-23T01:39:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,9 +29,11 @@ slug = "10453cfb-8266-404d-93e6-768747d30b74"
   <div class="csl-entry">NO_ITEM_DATA:alexanderWhatDevelopmentalMilestonesAreYouMissing2015</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
 -   [Child development stages]({{< relref "child_development_stages.md" >}})
 -   [John Salvatier | Reality Has a Surprising Amount of Detail]({{< relref "salvatierRealityHasSurprising.md" >}})
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})

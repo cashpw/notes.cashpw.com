@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Three Kinds of Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:58:00-07:00
-lastmod = 2023-12-05T20:00:39-08:00
+lastmod = 2023-12-22T21:42:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -69,6 +69,8 @@ I'm not sure the distinction between [Relational tacit knowledge]({{< relref "re
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:chinThreeKindsTacitKnowledge2020</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Y combinator"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-16T19:49:00-08:00
-lastmod = 2023-12-05T21:25:25-08:00
+lastmod = 2023-12-23T02:29:45-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

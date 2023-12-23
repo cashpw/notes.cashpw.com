@@ -2,7 +2,7 @@
 title = "One Thousand Tips Do Not Make a System"
 author = ["Cash Weaver"]
 date = 2023-12-04T15:10:00-08:00
-lastmod = 2023-12-05T20:43:04-08:00
+lastmod = 2023-12-22T23:44:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -54,3 +54,8 @@ Anonymous, (<a href="#citeproc_bib_item_1">“One Thousand Tips Do Not Make a Sy
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“One Thousand Tips Do Not Make a System.” n.d. Accessed December 4, 2023. <a href="https://www.lesswrong.com/posts/rAte4CqhQdhEafG7Q/one-thousand-tips-do-not-make-a-system">https://www.lesswrong.com/posts/rAte4CqhQdhEafG7Q/one-thousand-tips-do-not-make-a-system</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [How to improve at pottery]({{< relref "ceramics_exercises.md" >}})

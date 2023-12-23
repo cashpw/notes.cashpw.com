@@ -2,7 +2,7 @@
 title = "Trip"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T10:29:00-07:00
-lastmod = 2023-12-05T21:18:40-08:00
+lastmod = 2023-12-23T02:02:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,10 @@ Any trip, vacation, or travel.
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Keep a video journal for important moments]({{< relref "trip.md" >}})
 -   [Italy 2023]({{< relref "italy_2023.md" >}})
+-   [Keep a video journal for important moments]({{< relref "keep_a_video_journal_for_important_moments.md" >}})

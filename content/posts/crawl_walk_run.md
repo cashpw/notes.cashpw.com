@@ -2,7 +2,7 @@
 title = "Crawl, walk, run"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:22:00-07:00
-lastmod = 2023-12-05T20:04:39-08:00
+lastmod = 2023-12-22T21:50:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "3f33e96a-915a-4561-be68-4cef17b84792"
 
 Crawl, walk, run emphasizes iterative development as way to progressively build a solution as opposed to building it all-at-once. The phrase originates, as far as I can tell, from child development stages though some directly cite (NO_ITEM_DATA:kingIfYouCanFlyThenRun).
 
-Related: [Shuhari]({{< relref "crawl_walk_run.md" >}}).
+Related: [Shuhari]({{< relref "shuhari.md" >}}).
 
 
 ## Example(s) {#example--s}
@@ -39,8 +39,10 @@ Answering these follow-up questions ensures you and your team don't burn time so
   <div class="csl-entry">NO_ITEM_DATA:kingIfYouCanFlyThenRun</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Will Larson | 'Drawing Your Three Maps' Exercise]({{< relref "will_larson_drawing_your_three_maps_exercise.md" >}})
 -   [Perfect is the enemy of good]({{< relref "perfect_is_the_enemy_of_good.md" >}})
+-   [Will Larson | 'Drawing Your Three Maps' Exercise]({{< relref "will_larson_drawing_your_three_maps_exercise.md" >}})

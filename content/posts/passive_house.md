@@ -2,7 +2,7 @@
 title = "Passive house"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T16:52:00-08:00
-lastmod = 2023-12-05T20:44:28-08:00
+lastmod = 2023-12-22T23:49:03-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = true

@@ -2,7 +2,7 @@
 title = "Negative partisanship"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T15:00:00-08:00
-lastmod = 2023-12-05T20:39:56-08:00
+lastmod = 2023-12-22T23:34:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,6 +18,8 @@ slug = "ac618a25-545b-48af-90dd-c777fce9cbed"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

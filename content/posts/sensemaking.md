@@ -2,7 +2,7 @@
 title = "Sensemaking"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-22T08:22:00-07:00
-lastmod = 2023-12-05T20:59:13-08:00
+lastmod = 2023-12-23T00:41:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -51,9 +51,11 @@ slug = "10a23a67-c60d-4591-8bb2-e87ca50b0e94"
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Weick, Karl E. 2010. <i>Sensemaking in Organizations</i>. Nachdr. Foundations for Organizational Science. Thousand Oaks, Calif.: Sage Publ.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [Create (Bloom's Taxonomy)]({{< relref "BloomTaxonomy2022.md#create--id-5fbaa05c-666f-4d45-b798-ff36ace22126-bloom-s-taxonomy" >}})
 -   [Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning]({{< relref "gary_klein_and_holly_c_baxter_cognitive_transformation_theory_contrasting_cognitive_and_behavioral_learning.md" >}})
 -   [Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]({{< relref "gary_klein_and_jennifer_phillips_and_erica_rall_and_deborah_peluso_a_data_frame_theory_of_sensemaking.md" >}})
--   [Create (Bloom's Taxonomy)]({{< relref "BloomTaxonomy2022.md#create--id-5fbaa05c-666f-4d45-b798-ff36ace22126-bloom-s-taxonomy" >}})

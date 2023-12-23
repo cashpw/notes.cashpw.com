@@ -2,7 +2,7 @@
 title = "Marcus Aurelius Antoninus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T06:44:00-08:00
-lastmod = 2023-12-05T20:33:56-08:00
+lastmod = 2023-12-22T23:14:51-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "759ba2f0-39b0-4d43-a48b-f4997e8178f3"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Praise process and effort"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-04T08:29:00-07:00
-lastmod = 2023-12-05T20:48:11-08:00
+lastmod = 2023-12-23T00:02:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,7 +33,9 @@ Praising effort tends to lead to the development of a [Growth mindset]({{< relre
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Gunderson, Elizabeth A., Nicole S. Sorhagen, Sarah J. Gripshover, Carol S. Dweck, Susan Goldin-Meadow, and Susan C. Levine. 2018. “Parent Praise to Toddlers Predicts Fourth Grade Academic Achievement via Children’s Incremental Mindsets.” <i>Developmental Psychology</i> 54 (3): 397–409. <a href="https://doi.org/10.1037/dev0000444">https://doi.org/10.1037/dev0000444</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [On parenting]({{< relref "praise_process_and_effort.md" >}})
+-   [On parenting]({{< relref "on_parenting.md" >}})

@@ -2,7 +2,7 @@
 title = "James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-25T18:07:00-07:00
-lastmod = 2023-12-05T20:28:06-08:00
+lastmod = 2023-12-22T22:56:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -502,6 +502,8 @@ Related: [Drop Unimportant Tasks](#drop-unimportant-tasks)
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kile, James F., Donald J. Little, and Samir Shah. 2006. “Busy Person Patterns.” In <i>Proceedings of the 2006 Conference on Pattern Languages of Programs - PLoP ’06</i>, 1. Portland, Oregon: ACM Press. <a href="https://doi.org/10.1145/1415472.1415478">https://doi.org/10.1145/1415472.1415478</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

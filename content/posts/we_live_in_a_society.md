@@ -2,7 +2,7 @@
 title = "We live in a society"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-15T09:29:00-08:00
-lastmod = 2023-12-05T21:23:09-08:00
+lastmod = 2023-12-23T02:20:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

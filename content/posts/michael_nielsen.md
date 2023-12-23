@@ -2,7 +2,7 @@
 title = "Michael Nielsen"
 author = ["Cash Prokop-Weaver"]
 date = 2023-04-11T16:52:00-07:00
-lastmod = 2023-12-05T20:36:37-08:00
+lastmod = 2023-12-22T23:22:57-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "fab44a9b-b97e-4e58-832e-7f73c9819f64"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

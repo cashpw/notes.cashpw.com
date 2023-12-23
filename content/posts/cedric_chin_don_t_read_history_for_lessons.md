@@ -2,7 +2,7 @@
 title = "Cedric Chin | Don't Read History for Lessons"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:44:00-07:00
-lastmod = 2023-12-05T19:59:53-08:00
+lastmod = 2023-12-22T21:41:35-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -29,8 +29,10 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2022</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2022. “Don’t Read History for Lessons.” <i>Commoncog</i>. <a href="https://commoncog.com/dont-read-history-for-lessons/">https://commoncog.com/dont-read-history-for-lessons/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

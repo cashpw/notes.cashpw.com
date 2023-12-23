@@ -2,7 +2,7 @@
 title = "Allen Ginsberg"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-29T08:43:00-07:00
-lastmod = 2023-12-21T20:45:16-08:00
+lastmod = 2023-12-22T21:32:25-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -21,5 +21,5 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Allen Ginsberg | Howl]({{< relref "allen_ginsberg.md" >}})
--   [Footnote to Howl]({{< relref "allen_ginsberg.md" >}})
+-   [Allen Ginsberg | Howl]({{< relref "ginsbergHowl2022.md" >}})
+-   [Footnote to Howl]({{< relref "footnote_to_howl.md" >}})

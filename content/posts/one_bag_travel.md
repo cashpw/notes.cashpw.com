@@ -2,14 +2,14 @@
 title = "One-bag travel"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T05:39:00-07:00
-lastmod = 2023-12-05T20:42:56-08:00
+lastmod = 2023-12-22T23:43:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "b2910eeb-51c9-44da-99fa-b852ef70e7e6"
 +++
 
-One-bag traveling is just that --- traveling with only a single bag. Everything you bring with, aside from what you wear on your person, should fit within that one bag. The bag is usually a backpack in the 20--40 liter range, though there are some who use much smaller bags (e.g. Jeremy Maluf who, as of 2023, [uses a 9 liter backpack](https://jeremymaluf.com/onebag/)). It's [Minimalism]({{< relref "one_bag_travel.md" >}}) applied to the things you bring with you on a trip.
+One-bag traveling is just that --- traveling with only a single bag. Everything you bring with, aside from what you wear on your person, should fit within that one bag. The bag is usually a backpack in the 20--40 liter range, though there are some who use much smaller bags (e.g. Jeremy Maluf who, as of 2023, [uses a 9 liter backpack](https://jeremymaluf.com/onebag/)). It's [Minimalism]({{< relref "minimalism.md" >}}) applied to the things you bring with you on a trip.
 
 The culture associated with one-bag travel, at least as I've seen it online, overlaps with [Digital nomadism]({{< relref "digital_nomad.md" >}}) and (recently) [Minimalist shoes]({{< relref "barefoot.md" >}}).
 
@@ -23,8 +23,8 @@ The culture associated with one-bag travel, at least as I've seen it online, ove
 
 ## Packing lists {#packing-lists}
 
--   [My one-bag packing list]({{< relref "one_bag_travel.md" >}})
--   [r/onebag](https://reddit.com//r/onebag)
+-   [My one-bag packing list]({{< relref "my_one_bag_packing_list.md" >}})
+-   <a href="https://www.reddit.com/r/r/onebag"><img src="https://img.shields.io/reddit/subreddit-subscribers/r/onebag?style=social"></a>
 
 
 ## Bibliography {#bibliography}
@@ -35,8 +35,10 @@ The culture associated with one-bag travel, at least as I've seen it online, ove
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Maluf, Jeremy. n.d. “Indefinite Backpack Travel.” Accessed August 14, 2023. <a href="https://jeremymaluf.com/onebag/">https://jeremymaluf.com/onebag/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [My one-bag packing list]({{< relref "one_bag_travel.md" >}})
 -   [Italy 2023]({{< relref "italy_2023.md" >}})
+-   [My one-bag packing list]({{< relref "my_one_bag_packing_list.md" >}})

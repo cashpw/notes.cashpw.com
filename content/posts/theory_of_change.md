@@ -2,7 +2,7 @@
 title = "Theory of change"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:28:00-08:00
-lastmod = 2023-12-05T21:13:12-08:00
+lastmod = 2023-12-23T01:38:48-08:00
 draft = false
 slug = "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
 +++
@@ -53,15 +53,17 @@ Based on (NO_ITEM_DATA:tyrrelTheoryChangeTheoryActionWhatDifferenceWhyDoesItMatt
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Theory of Change.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Theory_of_change&oldid=1106791853">https://en.wikipedia.org/w/index.php?title=Theory_of_change&#38;oldid=1106791853</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:tyrrelTheoryChangeTheoryActionWhatDifferenceWhyDoesItMatter2019</div>
   <div class="csl-entry">NO_ITEM_DATA:HowDoesTheoryChangeWork</div>
+  <div class="csl-entry">NO_ITEM_DATA:tyrrelTheoryChangeTheoryActionWhatDifferenceWhyDoesItMatter2019</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 -   [Aaron Swartz | Theory of Change]({{< relref "swartzTheoryChange2010.md" >}})
--   [Theory of action]({{< relref "theory_of_action.md" >}})
+-   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 -   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
+-   [Theory of action]({{< relref "theory_of_action.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

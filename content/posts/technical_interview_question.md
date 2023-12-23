@@ -2,7 +2,7 @@
 title = "Technical interview questions"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T21:19:00-08:00
-lastmod = 2023-12-05T21:09:56-08:00
+lastmod = 2023-12-23T01:24:39-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -39,9 +39,11 @@ slug = "9b224cb9-823c-468b-be5d-4431d65d9ee1"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [2sum linear time solution in Python]({{< relref "2sum_linear_time_solution_in_python.md" >}})
 -   [2sum]({{< relref "2sum.md" >}})
+-   [2sum linear time solution in Python]({{< relref "2sum_linear_time_solution_in_python.md" >}})
 -   [Three sum]({{< relref "three_sum.md" >}})

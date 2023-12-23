@@ -2,7 +2,7 @@
 title = "Robin Hanson | The Age of Em: Work, Love, and Life When Robots Rule the Earth"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T09:05:00-07:00
-lastmod = 2023-12-05T20:17:29-08:00
+lastmod = 2023-12-22T22:25:54-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -19,6 +19,8 @@ slug = "6d55a204-cace-464c-b771-66bd9af50ed0"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:hansonAgeEmWorkLoveLifeWhenRobotsRuleEarth2016</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Reverse cargo cult"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-23T15:45:00-07:00
-lastmod = 2023-12-05T20:54:28-08:00
+lastmod = 2023-12-23T00:24:40-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -36,6 +36,8 @@ Related: [Fallacy of grey]({{< relref "fallacy_of_gray.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cargo Cult.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Cargo_cult&oldid=1093591507">https://en.wikipedia.org/w/index.php?title=Cargo_cult&#38;oldid=1093591507</a>.</div>
   <div class="csl-entry">NO_ITEM_DATA:howeTrumpReverseCargoCult2017</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

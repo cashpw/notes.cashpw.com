@@ -2,7 +2,7 @@
 title = "Technologist"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-17T07:57:00-08:00
-lastmod = 2023-12-05T21:10:02-08:00
+lastmod = 2023-12-23T01:25:13-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -24,10 +24,12 @@ A technologist is one who:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
--   [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})
 -   [Joseph Gentle | Three Tribes of Programming]({{< relref "gentleTribesProgramming2017.md" >}})
+-   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
 -   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
+-   [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})

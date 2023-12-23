@@ -2,7 +2,7 @@
 title = "Choose boring technology"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:21:00-08:00
-lastmod = 2023-12-05T20:01:54-08:00
+lastmod = 2023-12-22T21:45:21-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -20,6 +20,8 @@ slug = "81ca2b65-51ee-4244-9845-7dbbd03d31ae"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

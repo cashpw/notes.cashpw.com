@@ -2,14 +2,14 @@
 title = "Additivity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:43:00-08:00
-lastmod = 2023-12-21T20:43:18-08:00
+lastmod = 2023-12-22T21:31:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "f6380c56-884c-475d-9a44-d000f2e813d2"
 +++
 
-> In algebra, an additive map, \\(Z\text{-linear}\\) map [[Linear map]({{< relref "additivity.md" >}})] or additive function is a function \\(f\\) that preserves the addition operation:
+> In algebra, an additive map, \\(Z\text{-linear}\\) map [[Linear map]({{< relref "linear_map.md" >}})] or additive function is a function \\(f\\) that preserves the addition operation:
 >
 > \\(f(x+y)=f(x)+f(y)\\)
 >
@@ -28,4 +28,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Linearity]({{< relref "additivity.md" >}})
+-   [Linearity]({{< relref "linearity.md" >}})

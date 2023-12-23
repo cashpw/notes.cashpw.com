@@ -2,7 +2,7 @@
 title = "Senior engineers manage scope"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-15T09:49:00-08:00
-lastmod = 2023-12-05T20:59:07-08:00
+lastmod = 2023-12-23T00:41:19-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

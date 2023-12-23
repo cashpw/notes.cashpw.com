@@ -2,7 +2,7 @@
 title = "Mainstreaming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:10:00-07:00
-lastmod = 2023-12-05T20:33:23-08:00
+lastmod = 2023-12-22T23:12:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,6 +20,8 @@ See [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}}) 
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

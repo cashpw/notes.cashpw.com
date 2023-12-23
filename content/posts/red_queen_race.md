@@ -2,7 +2,7 @@
 title = "Red Queen's race"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T10:25:00-08:00
-lastmod = 2023-12-05T20:53:16-08:00
+lastmod = 2023-12-23T00:20:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

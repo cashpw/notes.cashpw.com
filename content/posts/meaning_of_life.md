@@ -2,7 +2,7 @@
 title = "Meaning of life"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:46:00-08:00
-lastmod = 2023-12-05T20:35:34-08:00
+lastmod = 2023-12-22T23:19:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,6 +22,8 @@ I agree with "There is no meaning to life -- it just is" but don't agree with th
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

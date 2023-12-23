@@ -2,7 +2,7 @@
 title = "Ship of Theseus (argument)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:42:00-07:00
-lastmod = 2023-12-05T21:00:06-08:00
+lastmod = 2023-12-23T00:44:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,6 +20,8 @@ See [Ian Danskin | The Ship of Theseus]({{< relref "danskinShipTheseus2018.md" >
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

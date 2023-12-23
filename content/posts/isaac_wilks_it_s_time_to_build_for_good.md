@@ -2,7 +2,7 @@
 title = "Isaac Wilks | It's Time to Build for Good"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:23:00-08:00
-lastmod = 2023-12-05T20:22:36-08:00
+lastmod = 2023-12-22T22:39:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -38,6 +38,8 @@ TODO_AUTHOR, (NO_ITEM_DATA:wilksItTimeBuildGood2020)
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:wilksItTimeBuildGood2020</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

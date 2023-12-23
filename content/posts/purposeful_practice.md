@@ -2,7 +2,7 @@
 title = "Purposeful practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:41:00-07:00
-lastmod = 2023-12-05T20:49:52-08:00
+lastmod = 2023-12-23T00:08:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,11 +27,13 @@ slug = "2bb656cd-6834-4534-95e2-c77df28ffccb"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Problems with Deliberate Practice.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-problems-with-deliberate-practice/">https://commoncog.com/blog/the-problems-with-deliberate-practice/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
--   [Types of practice]({{< relref "types_of_practice.md" >}})
 -   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
--   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Deliberate practice]({{< relref "deliberate_practice.md" >}})
+-   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
+-   [Types of practice]({{< relref "types_of_practice.md" >}})

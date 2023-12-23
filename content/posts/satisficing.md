@@ -2,7 +2,7 @@
 title = "Satisficing"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:46:00-07:00
-lastmod = 2023-12-05T20:56:48-08:00
+lastmod = 2023-12-23T00:31:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,8 +24,10 @@ Related: [Good enough]({{< relref "kileBusyPersonPatterns2006.md#good-enough" >}
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Satisficing.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Satisficing&oldid=1147830159">https://en.wikipedia.org/w/index.php?title=Satisficing&#38;oldid=1147830159</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})
 -   [Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]({{< relref "gary_klein_and_jennifer_phillips_and_erica_rall_and_deborah_peluso_a_data_frame_theory_of_sensemaking.md" >}})
+-   [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})

@@ -2,7 +2,7 @@
 title = "Carol Dweck"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:45:00-07:00
-lastmod = 2023-12-05T19:59:12-08:00
+lastmod = 2023-12-22T21:40:05-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -22,8 +22,10 @@ Among other things:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Growth mindset]({{< relref "growth_mindset.md" >}})
 -   [Fixed mindset]({{< relref "fixed_mindset.md" >}})
+-   [Growth mindset]({{< relref "growth_mindset.md" >}})

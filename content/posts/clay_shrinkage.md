@@ -2,7 +2,7 @@
 title = "Clay shrinkage"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T09:07:00-07:00
-lastmod = 2023-12-05T20:02:23-08:00
+lastmod = 2023-12-22T21:46:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

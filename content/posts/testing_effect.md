@@ -2,7 +2,7 @@
 title = "Testing effect"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:36:00-08:00
-lastmod = 2023-12-05T21:10:32-08:00
+lastmod = 2023-12-23T01:27:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,11 +24,13 @@ Retrieving a piece of information from memory will increase ones ability to reca
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Testing Effect.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Testing_effect&oldid=1065560996">https://en.wikipedia.org/w/index.php?title=Testing_effect&#38;oldid=1065560996</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
--   [Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md#memory-in-educational-settings" >}})
 -   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
+-   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
 -   [Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction]({{< relref "jose_luis_ricon_on_bloom_s_two_sigma_problem.md" >}})
+-   [Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md#memory-in-educational-settings" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})

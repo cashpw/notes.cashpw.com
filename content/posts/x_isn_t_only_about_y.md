@@ -2,7 +2,7 @@
 title = "X isn't (only) about Y"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T08:10:00-08:00
-lastmod = 2023-12-05T21:25:14-08:00
+lastmod = 2023-12-23T02:29:19-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -55,16 +55,18 @@ Related: [Proximate cause]({{< relref "proximate_cause.md" >}}) and [Ultimate ca
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hanson, Robin. n.d. “Politics Isn’t About Policy.” Accessed January 9, 2023. <a href="https://www.overcomingbias.com/2008/09/politics-isnt-a.html">https://www.overcomingbias.com/2008/09/politics-isnt-a.html</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Bryan Caplan | The Case against Education: Why the Education System Is a Waste of Time and Money]({{< relref "bryan_douglas_caplan_the_case_against_education_why_the_education_system_is_a_waste_of_time_and_money.md" >}})
--   [Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "kevin_simler_robin_hanson_the_elephant_in_the_brain_hidden_motives_in_everyday_life.md" >}})
--   [Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain]({{< relref "jose_luis_ricon_this_review_is_not_about_reviewing_the_elephant_in_the_brain.md" >}})
--   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
--   [Tanner Greer | Tradition Is Smarter Than You Are]({{< relref "tanner_greer_tradition_is_smarter_than_you_are.md" >}})
--   [Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]({{< relref "kaj_sotala_nobody_does_the_thing_that_they_are_supposedly_doing.md" >}})
--   [Robin Hanson | Politics Isn't about Policy]({{< relref "robin_hanson_politics_isn_t_about_policy.md" >}})
--   [People want to feel like good people]({{< relref "people_want_to_feel_like_good_people.md" >}})
--   [Signaling]({{< relref "signaling.md" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
+-   [Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain]({{< relref "jose_luis_ricon_this_review_is_not_about_reviewing_the_elephant_in_the_brain.md" >}})
+-   [Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]({{< relref "kaj_sotala_nobody_does_the_thing_that_they_are_supposedly_doing.md" >}})
+-   [Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "kevin_simler_robin_hanson_the_elephant_in_the_brain_hidden_motives_in_everyday_life.md" >}})
+-   [People want to feel like good people]({{< relref "people_want_to_feel_like_good_people.md" >}})
+-   [Robin Hanson | Politics Isn't about Policy]({{< relref "robin_hanson_politics_isn_t_about_policy.md" >}})
+-   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
+-   [Signaling]({{< relref "signaling.md" >}})
+-   [Tanner Greer | Tradition Is Smarter Than You Are]({{< relref "tanner_greer_tradition_is_smarter_than_you_are.md" >}})

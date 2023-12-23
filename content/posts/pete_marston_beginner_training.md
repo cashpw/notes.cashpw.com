@@ -2,7 +2,7 @@
 title = "Pete Marston | Beginner Training"
 author = ["Cash Weaver"]
 date = 2023-06-27T16:25:00-07:00
-lastmod = 2023-12-05T20:46:21-08:00
+lastmod = 2023-12-22T23:55:36-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -532,6 +532,8 @@ A [Rowing]({{< relref "rowing.md" >}}) training routine for beginners.
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Marston, Pete. 2008. “Beginner Training.” <i>Lunch Hour</i>. <a href="https://thepeteplan.wordpress.com/beginner-training/">https://thepeteplan.wordpress.com/beginner-training/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

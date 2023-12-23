@@ -2,7 +2,7 @@
 title = "Julian Shapiro | Writing Well Handbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:13:00-08:00
-lastmod = 2023-12-05T20:26:56-08:00
+lastmod = 2023-12-22T22:52:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -452,9 +452,9 @@ I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't mean
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Shapiro, Julian. n.d. “The Writing Well Handbook.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/intro">https://www.julian.com/guide/write/intro</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowPracticeWriting</div>
-  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowWriteStyle</div>
-  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft</div>
-  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowWriteFirstDraft</div>
   <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowSourceWritingIdeas</div>
+  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowWriteFirstDraft</div>
+  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft</div>
+  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowWriteStyle</div>
+  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowPracticeWriting</div>
 </div>

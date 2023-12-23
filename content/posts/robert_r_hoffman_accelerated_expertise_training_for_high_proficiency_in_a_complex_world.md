@@ -2,7 +2,7 @@
 title = "Robert R. Hoffman | Accelerated Expertise: Training for High Proficiency in a Complex World"
 author = ["Cash Weaver"]
 date = 2023-06-30T16:49:00-07:00
-lastmod = 2023-12-05T20:54:59-08:00
+lastmod = 2023-12-23T00:26:05-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Get good"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:40:00-08:00
-lastmod = 2023-12-05T20:15:44-08:00
+lastmod = 2023-12-22T22:20:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,11 +20,11 @@ slug = "d797ba44-b962-4d6e-9b71-38ca49d070ce"
 
 (in no particular order)
 
--   [Embrace discomfort]({{< relref "get_good.md" >}})
+-   [Embrace discomfort]({{< relref "embrace_discomfort.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
--   [Retrospectives]({{< relref "get_good.md#as-a-tool-for-improvement" >}})
--   [Seek out feedback and accept with gratitude]({{< relref "get_good.md" >}})
--   [Applied cognitive task analysis]({{< relref "get_good.md" >}})
+-   [Retrospectives]({{< relref "retrospective.md#as-a-tool-for-improvement" >}})
+-   [Seek out feedback and accept with gratitude]({{< relref "seek_out_feedback_and_accept_with_gratitude.md" >}})
+-   [Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}})
 
 
 ## Bibliography {#bibliography}
@@ -35,11 +35,13 @@ slug = "d797ba44-b962-4d6e-9b71-38ca49d070ce"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Git Gud.” n.d. <i>Know Your Meme</i>. Accessed September 30, 2022. <a href="https://knowyourmeme.com/memes/git-gud">https://knowyourmeme.com/memes/git-gud</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Seek out feedback and accept with gratitude]({{< relref "get_good.md" >}})
 -   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
--   [Smart Guy Productivity Pitfalls]({{< relref "smart_guy_productivity_pitfalls.md" >}})
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
 -   [Dan Luu | 95%-Ile Isn't That Good]({{< relref "dan_luu_95_ile_isn_t_that_good.md" >}})
+-   [Seek out feedback and accept with gratitude]({{< relref "seek_out_feedback_and_accept_with_gratitude.md" >}})
+-   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [Smart Guy Productivity Pitfalls]({{< relref "smart_guy_productivity_pitfalls.md" >}})

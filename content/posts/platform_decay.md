@@ -2,7 +2,7 @@
 title = "Platform decay"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-01T10:40:00-07:00
-lastmod = 2023-12-05T20:47:00-08:00
+lastmod = 2023-12-22T23:57:26-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

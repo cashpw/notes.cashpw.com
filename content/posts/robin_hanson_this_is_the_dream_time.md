@@ -2,7 +2,7 @@
 title = "Robin Hanson | This Is the Dream Time"
 author = ["Cash Weaver"]
 date = 2023-01-08T18:52:00-08:00
-lastmod = 2023-12-05T20:55:20-08:00
+lastmod = 2023-12-23T00:27:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

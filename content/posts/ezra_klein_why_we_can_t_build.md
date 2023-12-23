@@ -2,7 +2,7 @@
 title = "Ezra Klein | Why We Can't Build"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:23:00-08:00
-lastmod = 2023-12-05T20:11:56-08:00
+lastmod = 2023-12-22T22:10:11-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -96,8 +96,10 @@ I agree with Klein's conclusion that the overall solution is one which reforms, 
   <div class="csl-entry">NO_ITEM_DATA:kleinWhyWeCanBuild2020</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | Book Review: Why We're Polarized]({{< relref "scott_alexander_book_review_why_we_re_polarized.md" >}})
 -   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
+-   [Scott Alexander | Book Review: Why We're Polarized]({{< relref "scott_alexander_book_review_why_we_re_polarized.md" >}})

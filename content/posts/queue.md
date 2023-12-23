@@ -2,7 +2,7 @@
 title = "Queue"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2023-12-05T20:50:46-08:00
+lastmod = 2023-12-23T00:11:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,9 +37,11 @@ A queue is an [Abstract data type]({{< relref "abstract_data_type.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:QueueAbstractDataType2022</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Python library: queue]({{< relref "python_library_queue.md" >}})
--   [Priority queue]({{< relref "priority_queue.md" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
+-   [Priority queue]({{< relref "priority_queue.md" >}})
+-   [Python library: queue]({{< relref "python_library_queue.md" >}})

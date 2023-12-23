@@ -2,7 +2,7 @@
 title = "Write to solve problems at scale"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-04T16:26:00-08:00
-lastmod = 2023-12-05T21:24:55-08:00
+lastmod = 2023-12-23T02:27:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,4 +14,4 @@ Writing is akin to programming in that it scales solutions to problems beyond wh
 
 ## Backlinks {#backlinks}
 
--   [The last 10%]({{< relref "writing_scales.md" >}})
+-   [The last 10%]({{< relref "after_the_finish_line.md" >}})

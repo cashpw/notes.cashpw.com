@@ -2,7 +2,7 @@
 title = "Kevin Simler"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T14:47:00-08:00
-lastmod = 2023-12-05T20:27:52-08:00
+lastmod = 2023-12-22T22:56:05-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -18,6 +18,8 @@ slug = "2ea6df4a-a690-48c6-a5b6-1ca6f4bf87cf"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

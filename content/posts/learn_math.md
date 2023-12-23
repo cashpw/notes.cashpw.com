@@ -2,7 +2,7 @@
 title = "Learn math"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-12T20:42:00-07:00
-lastmod = 2023-12-05T20:29:51-08:00
+lastmod = 2023-12-22T23:02:30-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -24,7 +24,9 @@ List math learning resources. Perhaps generalize this into a series of "How to l
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Math Academy.” n.d. Accessed July 13, 2023. <a href="https://mathacademy.com/">https://mathacademy.com/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [On parenting]({{< relref "learn_math.md" >}})
+-   [On parenting]({{< relref "on_parenting.md" >}})

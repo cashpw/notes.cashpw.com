@@ -2,7 +2,7 @@
 title = "Imagine others complexly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T10:05:00-07:00
-lastmod = 2023-12-05T20:20:49-08:00
+lastmod = 2023-12-22T22:34:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,10 +28,12 @@ It's easy to see yourself complexly. It's more difficult, but also more importan
   <div class="csl-entry">NO_ITEM_DATA:greenSpeechWroteALANConference2015</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [John Green | A Speech I Wrote for the ALAN Conference]({{< relref "john_green_a_speech_i_wrote_for_the_alan_conference.md" >}})
--   [Jennifer Wright | Lessons of a Very Sexy Pirate Costume]({{< relref "jennifer_wright_lessons_of_a_very_sexy_pirate_costume.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})
 -   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
+-   [Jennifer Wright | Lessons of a Very Sexy Pirate Costume]({{< relref "jennifer_wright_lessons_of_a_very_sexy_pirate_costume.md" >}})
+-   [John Green | A Speech I Wrote for the ALAN Conference]({{< relref "john_green_a_speech_i_wrote_for_the_alan_conference.md" >}})

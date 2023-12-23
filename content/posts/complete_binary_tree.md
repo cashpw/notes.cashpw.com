@@ -2,7 +2,7 @@
 title = "Complete binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T11:22:00-07:00
-lastmod = 2023-12-05T20:03:10-08:00
+lastmod = 2023-12-22T21:47:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,9 +24,11 @@ slug = "cce89d10-ff69-4756-b9fa-9b713b4cb33b"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Tree.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Binary_tree&oldid=1092722102">https://en.wikipedia.org/w/index.php?title=Binary_tree&#38;oldid=1092722102</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Binary tree]({{< relref "binary_tree.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
+-   [Binary tree]({{< relref "binary_tree.md" >}})
 -   [Heap]({{< relref "heap.md" >}})

@@ -2,7 +2,7 @@
 title = "Dave Orr | Parenting Rules"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T18:52:00-07:00
-lastmod = 2023-12-05T20:43:49-08:00
+lastmod = 2023-12-22T23:47:09-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -60,9 +60,11 @@ See [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Orr, Dave. n.d. “Parenting Rules.” Accessed March 14, 2022. <a href="https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules">https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Praise process and effort]({{< relref "orrParentingRules.md" >}})
 -   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
+-   [Praise process and effort]({{< relref "praise_process_and_effort.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

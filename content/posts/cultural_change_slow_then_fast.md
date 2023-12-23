@@ -2,7 +2,7 @@
 title = "Cultural change; slow, then fast"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T14:14:00-08:00
-lastmod = 2023-12-05T20:04:55-08:00
+lastmod = 2023-12-22T21:50:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,6 +25,8 @@ Cultural changes are population and generational changes. People don't change th
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hemingway, Ernest. 2014. <i>The Sun Also Rises</i>. The Hemingway library edition. The Hemingway Library Edition. New York: Scribner.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon | Notes on The Case Against Education"
 author = ["Cash Weaver"]
 date = 2023-01-11T10:44:00-08:00
-lastmod = 2023-12-05T20:25:49-08:00
+lastmod = 2023-12-22T22:49:42-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -28,6 +28,8 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Ricon n.d.</a>)
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ricon, Jose Luis. n.d. “Notes on The Case Against Education.” <i>Nintil</i>. Accessed January 11, 2023. <a href="https://nintil.com/notes-on-the-case-against-education/">https://nintil.com/notes-on-the-case-against-education/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

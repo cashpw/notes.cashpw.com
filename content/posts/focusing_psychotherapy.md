@@ -2,7 +2,7 @@
 title = "Focusing (Psychotherapy)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-05T17:12:00-08:00
-lastmod = 2023-12-05T20:13:34-08:00
+lastmod = 2023-12-22T22:14:24-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

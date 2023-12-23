@@ -2,7 +2,7 @@
 title = "Ian Danskin | You Go High, We Go Low"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:11:00-07:00
-lastmod = 2023-12-05T20:06:21-08:00
+lastmod = 2023-12-22T21:54:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -63,6 +63,8 @@ Going low is a manifestation of [playing to win]({{< relref "play_to_win.md" >}}
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:danskinYouGoHighWeGoLow2018</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

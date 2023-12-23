@@ -2,7 +2,7 @@
 title = "Ben Kuhn | Attention Is Your Scarcest Resource"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:31:00-08:00
-lastmod = 2023-12-05T20:28:35-08:00
+lastmod = 2023-12-22T22:58:20-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -52,6 +52,8 @@ One of my [Favorites]({{< relref "favorites.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:kuhnAttentionYourScarcestResource2020</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

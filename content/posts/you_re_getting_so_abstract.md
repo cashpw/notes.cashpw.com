@@ -2,7 +2,7 @@
 title = "You're getting so abstract"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T20:22:00-07:00
-lastmod = 2023-12-05T21:25:47-08:00
+lastmod = 2023-12-23T02:31:08-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -23,6 +23,8 @@ Related: [Southern strategy]({{< relref "southern_strategy.md" >}})
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:perlsteinExclusiveLeeAtwaterInfamous1981InterviewSouthernStrategy2012</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

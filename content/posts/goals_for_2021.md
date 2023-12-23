@@ -2,7 +2,7 @@
 title = "Goals for 2021"
 author = ["Cash Prokop-Weaver"]
 date = 2021-01-02T13:04:00-08:00
-lastmod = 2023-12-05T20:16:03-08:00
+lastmod = 2023-12-22T22:21:17-08:00
 draft = false
 slug = "60abd5dd-30f8-482c-8de7-421e25ed847e"
 +++
@@ -32,6 +32,8 @@ These are vague goals, in no particular order, for myself in 2021. I think it wo
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

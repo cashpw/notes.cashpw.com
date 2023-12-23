@@ -2,7 +2,7 @@
 title = "Neel Nanda | Post 29: Meaningful Rest"
 author = ["Cash Weaver"]
 date = 2022-11-29T09:41:00-08:00
-lastmod = 2023-12-05T20:39:52-08:00
+lastmod = 2023-12-22T23:33:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -45,6 +45,8 @@ See [Meaningful rest]({{< relref "meaningful_rest.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nanda, Neel. n.d. “Meaningful Rest.” Accessed May 23, 2021. <a href="https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest">https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest</a>.</div>
   <div class="csl-entry">NO_ITEM_DATA:nandaPost29MeaningfulRest</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

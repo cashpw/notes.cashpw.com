@@ -2,7 +2,7 @@
 title = "org-roam"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T07:22:00-08:00
-lastmod = 2023-12-05T20:43:44-08:00
+lastmod = 2023-12-22T23:46:52-08:00
 draft = false
 slug = "1497025f-da3e-4bed-be19-f8f9c9a0e351"
 +++
@@ -25,10 +25,12 @@ I use `org-roam` for:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Org-Roam.” 2022. Org-roam. <a href="https://github.com/org-roam/org-roam">https://github.com/org-roam/org-roam</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Style Guide]({{< relref "style_guide.md" >}})
--   [Zettelkasten]({{< relref "Zettelkasten2021.md" >}})
 -   [How I write notes]({{< relref "how_i_write_notes.md" >}})
+-   [Style Guide]({{< relref "style_guide.md" >}})
 -   [Track org-mode TODOs across devices]({{< relref "track_org_mode_todos_across_devices.md" >}})
+-   [Zettelkasten]({{< relref "Zettelkasten2021.md" >}})

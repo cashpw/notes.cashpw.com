@@ -2,7 +2,7 @@
 title = "Document your work"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T14:37:00-08:00
-lastmod = 2023-12-05T20:08:40-08:00
+lastmod = 2023-12-22T22:01:26-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -35,10 +35,12 @@ slug = "c74e3129-38af-45f8-bd2b-8a6fa5a0cad0"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Readme Driven Development.” n.d. Accessed February 14, 2022. <a href="https://tom.preston-werner.com/2010/08/23/readme-driven-development.html">https://tom.preston-werner.com/2010/08/23/readme-driven-development.html</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Alexey Nikitin | My least favorite Git commit]({{< relref "nikitinMyLeastFavoriteGitCommit2019.md" >}})
 -   [David Thompson | My Favourite Git Commit]({{< relref "thompsonMyFavouriteGitCommit2019.md" >}})
--   [Why I write notes]({{< relref "why_i_write_notes.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Why I write notes]({{< relref "why_i_write_notes.md" >}})

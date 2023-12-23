@@ -2,7 +2,7 @@
 title = "Joel Spolsky | Strategy Letter V"
 author = ["Cash Weaver"]
 date = 2022-11-22T16:12:00-08:00
-lastmod = 2023-12-05T20:25:07-08:00
+lastmod = 2023-12-22T22:47:40-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -28,6 +28,8 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Spolsky 2002</a>)
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Spolsky, Joel. 2002. “Strategy Letter V.” <i>Joel on Software</i>. <a href="https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/">https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

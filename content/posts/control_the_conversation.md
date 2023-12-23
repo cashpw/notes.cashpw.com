@@ -2,7 +2,7 @@
 title = "Control the conversation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:08:00-07:00
-lastmod = 2023-12-05T20:04:13-08:00
+lastmod = 2023-12-22T21:49:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ See [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversat
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

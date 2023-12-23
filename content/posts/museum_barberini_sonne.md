@@ -2,7 +2,7 @@
 title = "Museum Barberini | The Sun: Source of Light in Art"
 author = ["Cash Weaver"]
 date = 2023-08-07T17:32:00-07:00
-lastmod = 2023-12-05T20:39:01-08:00
+lastmod = 2023-12-22T23:30:31-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -57,6 +57,8 @@ slug = "dba35e67-34a9-48df-991a-7cd98deafbc2"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Museum Barberini. n.d.-a. “Sonne.” Accessed August 8, 2023. <a href="https://prolog.museum-barberini.de/de/11729/sonne">https://prolog.museum-barberini.de/de/11729/sonne</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d.-b. “The Sun.” Accessed August 8, 2023. <a href="https://prolog.museum-barberini.de/en/11729/the-sun">https://prolog.museum-barberini.de/en/11729/the-sun</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

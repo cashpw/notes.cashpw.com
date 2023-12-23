@@ -2,7 +2,7 @@
 title = "Bloom's 2 sigma problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:16:00-08:00
-lastmod = 2023-12-05T19:57:22-08:00
+lastmod = 2023-12-22T21:37:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,9 +22,11 @@ slug = "6eb6bfde-37f3-4555-bbe2-1bd639b518ec"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bloom’s 2 Sigma Problem.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Bloom%27s_2_sigma_problem&oldid=1126729534">https://en.wikipedia.org/w/index.php?title=Bloom%27s_2_sigma_problem&#38;oldid=1126729534</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})
 -   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})
 -   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
--   [Benjamin Bloom]({{< relref "benjamin_bloom.md" >}})

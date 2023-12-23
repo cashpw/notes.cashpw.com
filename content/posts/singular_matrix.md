@@ -2,7 +2,7 @@
 title = "Singular matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-24T08:20:00-07:00
-lastmod = 2023-12-05T21:01:45-08:00
+lastmod = 2023-12-23T00:51:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,6 +18,8 @@ A [Matrix]({{< relref "matrix.md" >}}) \\(A\\) for which there is no \\(B\\) suc
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

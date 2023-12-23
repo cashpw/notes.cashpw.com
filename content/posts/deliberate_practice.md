@@ -2,7 +2,7 @@
 title = "Deliberate practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:37:00-07:00
-lastmod = 2023-12-05T20:07:21-08:00
+lastmod = 2023-12-22T21:57:28-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -59,11 +59,13 @@ slug = "a1d74568-61f0-4a01-8aab-184d1b7a9752"
   <div class="csl-entry">NO_ITEM_DATA:eliasonPeakAndersEricssonRobertPoolSummaryNotesLessons</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
--   [Types of practice]({{< relref "types_of_practice.md" >}})
 -   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "cedric_chin_why_tacit_knowledge_is_more_important_than_deliberate_practice.md" >}})
+-   [Types of practice]({{< relref "types_of_practice.md" >}})

@@ -2,7 +2,7 @@
 title = "Deep-dive reading"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T08:26:00-07:00
-lastmod = 2023-12-05T20:07:07-08:00
+lastmod = 2023-12-22T21:56:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,10 @@ Deep-dive reading is my term for reading more than one source either on a partic
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Shallow-dive reading]({{< relref "shallow_dive_reading.md" >}})
 -   [Cedric Chin | An Extracted Tacit Mental Model of Business Expertise]({{< relref "cedric_chin_an_extracted_tacit_mental_model_of_business_expertise.md" >}})
+-   [Shallow-dive reading]({{< relref "shallow_dive_reading.md" >}})

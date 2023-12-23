@@ -2,7 +2,7 @@
 title = "Breadth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T17:20:00-07:00
-lastmod = 2023-12-05T19:57:59-08:00
+lastmod = 2023-12-22T21:38:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -51,8 +51,10 @@ Based on the algorithm in (<a href="#citeproc_bib_item_1">“Breadth-First Searc
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Breadth-First Search.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Breadth-first_search&oldid=1091199031">https://en.wikipedia.org/w/index.php?title=Breadth-first_search&#38;oldid=1091199031</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})
 -   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
+-   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})

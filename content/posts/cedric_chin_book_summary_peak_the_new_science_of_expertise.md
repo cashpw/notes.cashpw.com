@@ -2,7 +2,7 @@
 title = "Cedric Chin | Book Summary: Peak, the New Science of Expertise"
 author = ["Cash Weaver"]
 date = 2023-06-30T16:54:00-07:00
-lastmod = 2023-12-05T19:59:42-08:00
+lastmod = 2023-12-22T21:41:15-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -35,8 +35,10 @@ A [Branch book]({{< relref "branch_book.md" >}}) discussing [Purposeful practice
   <div class="csl-entry">NO_ITEM_DATA:chinBookSummaryPeakNewScienceExpertise2019</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

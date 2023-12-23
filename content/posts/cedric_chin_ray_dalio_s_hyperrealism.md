@@ -2,7 +2,7 @@
 title = "Cedric Chin | Ray Dalio's Hyperrealism"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:27:00-07:00
-lastmod = 2023-12-05T20:00:12-08:00
+lastmod = 2023-12-22T21:42:05-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -29,7 +29,9 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2018</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “Ray Dalio’s Hyperrealism.” <i>Commoncog</i>. <a href="https://commoncog.com/ray-dalios-hyperrealism/">https://commoncog.com/ray-dalios-hyperrealism/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Principles Sequence]({{< relref "cedric_chin_ray_dalio_s_hyperrealism.md" >}})
+-   [Cedric Chin | The Principles Sequence]({{< relref "cedric_chin_the_principles_sequence.md" >}})

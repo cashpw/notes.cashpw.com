@@ -2,7 +2,7 @@
 title = "Imperfect information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2023-12-05T20:21:04-08:00
+lastmod = 2023-12-22T22:35:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,9 +24,11 @@ Also see [Game theory]({{< relref "game_theory.md" >}}), [Perfect information]({
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Perfect Information.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Perfect_information&oldid=1107320001">https://en.wikipedia.org/w/index.php?title=Perfect_information&#38;oldid=1107320001</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Stag hunt]({{< relref "stag_hunt.md" >}})
--   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
 -   [Perfect information]({{< relref "perfect_information.md" >}})
+-   [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}})
+-   [Stag hunt]({{< relref "stag_hunt.md" >}})

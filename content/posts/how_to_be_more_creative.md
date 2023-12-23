@@ -2,7 +2,7 @@
 title = "Creativity is a product of volume"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T11:27:00-07:00
-lastmod = 2023-12-05T20:19:13-08:00
+lastmod = 2023-12-22T22:30:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,9 +33,11 @@ Similar ideas:
   <div class="csl-entry">NO_ITEM_DATA:altucherUltimateGuideBecomingIdeaMachine2014</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Ceramics exercises]({{< relref "ceramics_exercises.md" >}})
+-   [How to improve at pottery]({{< relref "ceramics_exercises.md" >}})
 -   [James Altucher | The Ultimate Guide for Becoming an Idea Machine]({{< relref "UltimateGuideBecomingIdeaMachine2014.md" >}})
 -   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})

@@ -2,7 +2,7 @@
 title = "Joseph Patrick Henrich | The Secret of Our Success"
 author = ["Cash Weaver"]
 date = 2023-01-10T10:27:00-08:00
-lastmod = 2023-12-05T20:26:36-08:00
+lastmod = 2023-12-22T22:51:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -32,12 +32,14 @@ See [Scott Alexander | Book Review: The Secret Of Our Success]({{< relref "scott
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewSecretOurSuccess2019</div>
   <div class="csl-entry">NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016</div>
+  <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewSecretOurSuccess2019</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
 -   [Scott Alexander | Book Review: The Secret Of Our Success]({{< relref "scott_alexander_book_review_the_secret_of_our_success.md" >}})
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})

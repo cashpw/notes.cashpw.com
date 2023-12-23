@@ -2,7 +2,7 @@
 title = "Impressionism"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-10T17:19:00-07:00
-lastmod = 2023-12-05T20:21:20-08:00
+lastmod = 2023-12-22T22:36:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "b99808a9-ef9a-45fe-b39f-a69141d1bfab"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Impressionism.” 2023. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Impressionism&oldid=1167265016">https://en.wikipedia.org/w/index.php?title=Impressionism&#38;oldid=1167265016</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

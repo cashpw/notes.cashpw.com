@@ -2,7 +2,7 @@
 title = "Lime popping"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-15T09:43:00-08:00
-lastmod = 2023-12-05T20:31:22-08:00
+lastmod = 2023-12-22T23:07:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "fdb8621b-64af-4d22-a7e6-e83c0a2dd2fa"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lime Popping.” n.d. Accessed December 15, 2022. <a href="https://digitalfire.com/glossary/lime+popping">https://digitalfire.com/glossary/lime+popping</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

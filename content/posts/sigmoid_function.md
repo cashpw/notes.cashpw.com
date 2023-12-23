@@ -2,7 +2,7 @@
 title = "Sigmoid function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-14T10:34:00-08:00
-lastmod = 2023-12-05T21:00:27-08:00
+lastmod = 2023-12-23T00:45:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "7c9624d9-8abd-4581-b0df-c5db61516818"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sigmoid Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Sigmoid_function&oldid=1122727350">https://en.wikipedia.org/w/index.php?title=Sigmoid_function&#38;oldid=1122727350</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

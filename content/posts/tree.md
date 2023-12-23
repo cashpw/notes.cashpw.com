@@ -2,7 +2,7 @@
 title = "Tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:47:00-07:00
-lastmod = 2023-12-05T21:17:59-08:00
+lastmod = 2023-12-23T01:59:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,17 +29,19 @@ slug = "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree (Data Structure).” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Tree_(data_structure)&oldid=1084348103">https://en.wikipedia.org/w/index.php?title=Tree_(data_structure)&#38;oldid=1084348103</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})
+-   [B-tree]({{< relref "b_tree.md" >}})
 -   [Binary tree]({{< relref "binary_tree.md" >}})
--   [Spanning tree]({{< relref "spanning_tree.md" >}})
--   [Trie]({{< relref "trie.md" >}})
 -   [Branch and bound]({{< relref "branch_and_bound.md" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
 -   [Depth-first search]({{< relref "depth_first_search.md" >}})
--   [Heap]({{< relref "heap.md" >}})
 -   [Forest]({{< relref "forest.md" >}})
--   [B-tree]({{< relref "b_tree.md" >}})
+-   [Heap]({{< relref "heap.md" >}})
+-   [Level-order tree traversal]({{< relref "level_order_tree_traversal.md" >}})
 -   [Red-black tree]({{< relref "red_black_tree.md" >}})
+-   [Spanning tree]({{< relref "spanning_tree.md" >}})
+-   [Trie]({{< relref "trie.md" >}})

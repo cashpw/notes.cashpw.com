@@ -2,7 +2,7 @@
 title = "Knowledge shields"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-03T11:37:00-07:00
-lastmod = 2023-12-05T20:28:25-08:00
+lastmod = 2023-12-22T22:57:45-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -31,6 +31,8 @@ slug = "1a7234fe-a15c-4e46-ae92-6a940bc902ac"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Klein, Gary, and Holly C. Baxter. 2006. “Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning.” In <i>Interservice/Industry Training Systems and Education Conference, Orlando, Florida</i>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

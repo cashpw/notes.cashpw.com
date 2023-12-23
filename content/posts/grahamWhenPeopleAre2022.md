@@ -2,7 +2,7 @@
 title = "Paul Graham | When People Are Naturally Good at Something"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T05:00:00-08:00
-lastmod = 2023-12-05T20:16:17-08:00
+lastmod = 2023-12-22T22:21:50-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -23,6 +23,8 @@ Related: [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:grahamWhenPeopleAreNaturallyGoodSomethingTheyTendBePuzzled2022</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

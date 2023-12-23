@@ -2,7 +2,7 @@
 title = "Kevin Simler | Social Status: Down the Rabbit Hole"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:26:00-08:00
-lastmod = 2023-12-05T20:28:01-08:00
+lastmod = 2023-12-22T22:56:38-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -28,6 +28,8 @@ slug = "c72f25c5-551c-40e7-a309-277333a7406c"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:simlerSocialStatusRabbitHole</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

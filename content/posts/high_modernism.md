@@ -2,7 +2,7 @@
 title = "High modernism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T06:22:00-08:00
-lastmod = 2023-12-05T20:18:45-08:00
+lastmod = 2023-12-22T22:29:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,8 +31,10 @@ slug = "94f5d6dd-a97a-45af-be05-4e7096dea51a"
   <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewSeeingState2017</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
 -   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
+-   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})

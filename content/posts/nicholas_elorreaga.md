@@ -2,7 +2,7 @@
 title = "Nicholas Elorreaga"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-06T08:27:00-07:00
-lastmod = 2023-12-05T20:40:31-08:00
+lastmod = 2023-12-22T23:35:49-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "1ab5cf09-7f97-4327-a060-d1f8a2a90171"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

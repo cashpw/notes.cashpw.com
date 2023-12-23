@@ -2,7 +2,7 @@
 title = "Gross domestic product"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-11T16:38:00-08:00
-lastmod = 2023-12-05T20:17:00-08:00
+lastmod = 2023-12-22T22:24:22-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "205c075c-2da8-42a2-854a-c7981591e4bd"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:GrossDomesticProductGDPFormulaHowUseIt</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

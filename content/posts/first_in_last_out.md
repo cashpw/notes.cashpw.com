@@ -2,7 +2,7 @@
 title = "Last in, first out"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-07T06:49:00-07:00
-lastmod = 2023-12-05T20:12:59-08:00
+lastmod = 2023-12-22T22:13:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,10 +24,12 @@ Related: [First in, first out]({{< relref "first_in_first_out.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“FIFO (Computing and Electronics).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=FIFO_(computing_and_electronics)&oldid=1104188471">https://en.wikipedia.org/w/index.php?title=FIFO_(computing_and_electronics)&#38;oldid=1104188471</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [First in, first out]({{< relref "first_in_first_out.md" >}})
+-   [Python library: queue]({{< relref "python_library_queue.md" >}})
 -   [Queue]({{< relref "queue.md" >}})
 -   [Stack]({{< relref "stack.md" >}})
--   [Python library: queue]({{< relref "python_library_queue.md" >}})
--   [First in, first out]({{< relref "first_in_first_out.md" >}})

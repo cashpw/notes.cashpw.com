@@ -2,7 +2,7 @@
 title = "Derivative (math)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:20:00-08:00
-lastmod = 2023-12-05T20:07:36-08:00
+lastmod = 2023-12-22T21:58:23-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -97,15 +97,17 @@ Related: [Differential calculus]({{< relref "differential_calculus.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Derivative.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Derivative&oldid=1115036985">https://en.wikipedia.org/w/index.php?title=Derivative&#38;oldid=1115036985</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})
--   [Instantaneous velocity]({{< relref "velocity.md#instantaneous-velocity" >}})
--   [Quotient rule]({{< relref "quotient_rule.md" >}})
 -   [Acceleration]({{< relref "acceleration.md" >}})
--   [Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})
--   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
 -   [Chain rule]({{< relref "chain_rule.md" >}})
 -   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
+-   [Instantaneous velocity]({{< relref "velocity.md#instantaneous-velocity" >}})
+-   [Leibniz's notation]({{< relref "leibniz_s_notation.md" >}})
+-   [Quotient rule]({{< relref "quotient_rule.md" >}})
+-   [Silvanus Thompson | Calculus Made Easy]({{< relref "silvanus_thompson_calculus_made_easy.md" >}})
+-   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})
 -   [Vega (finance)]({{< relref "vega_finance.md" >}})

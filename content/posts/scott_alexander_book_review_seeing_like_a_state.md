@@ -2,7 +2,7 @@
 title = "Scott Alexander | Book Review: Seeing Like A State"
 author = ["Cash Weaver"]
 date = 2023-01-09T08:06:00-08:00
-lastmod = 2023-12-05T20:57:28-08:00
+lastmod = 2023-12-23T00:35:17-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -175,12 +175,14 @@ In short, governing bodies continued (and continue) to push these solutions not 
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020</div>
   <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewSeeingState2017</div>
+  <div class="csl-entry">NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Tanner Greer | Tradition Is Smarter Than You Are]({{< relref "tanner_greer_tradition_is_smarter_than_you_are.md" >}})
 -   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
+-   [Tanner Greer | Tradition Is Smarter Than You Are]({{< relref "tanner_greer_tradition_is_smarter_than_you_are.md" >}})

@@ -2,7 +2,7 @@
 title = "Bruce Lee"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:09:00-08:00
-lastmod = 2023-12-05T19:58:07-08:00
+lastmod = 2023-12-22T21:38:14-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "95cd4413-31d3-4158-af10-68139d69c04d"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

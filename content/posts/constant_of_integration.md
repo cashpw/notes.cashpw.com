@@ -2,7 +2,7 @@
 title = "Constant of integration"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T09:55:00-08:00
-lastmod = 2023-12-05T20:03:52-08:00
+lastmod = 2023-12-22T21:48:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

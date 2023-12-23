@@ -2,7 +2,7 @@
 title = "Amygdala hijack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T09:56:00-07:00
-lastmod = 2023-12-21T20:40:58-08:00
+lastmod = 2023-12-22T21:30:19-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -19,5 +19,5 @@ slug = "d3077e94-b0b6-4880-b17f-0cd06fd06008"
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Amygdala Hijack.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Amygdala_hijack&oldid=1070742839">https://en.wikipedia.org/w/index.php?title=Amygdala_hijack&#38;oldid=1070742839</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Amygdala Hijack.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Amygdala_hijack&oldid=1070742839">https://en.wikipedia.org/w/index.php?title=Amygdala_hijack&#38;oldid=1070742839</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Shortest path algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T06:03:00-08:00
-lastmod = 2023-12-05T21:00:17-08:00
+lastmod = 2023-12-23T00:45:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,16 +31,18 @@ slug = "555129b5-299e-4605-a2cd-9f77ebcede3d"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})
--   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
--   [December 2022]({{< relref "december_2022.md" >}})
 -   [Ali Kemal Sinop, Lisa Fawcett, Sreenivas Gollapudi, Kostas Kollias | Robust Routing Using Electrical Flows]({{< relref "ali_kemal_sinop_lisa_fawcett_sreenivas_gollapudi_kostas_kollias_robust_routing_using_electrical_flows.md" >}})
--   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
+-   [All-pairs shortest path problem]({{< relref "all_pairs_shortest_path_problem.md" >}})
+-   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
+-   [December 2022]({{< relref "december_2022.md" >}})
 -   [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})
+-   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
 -   [Single-pair shortest path problem]({{< relref "single_pair_shortest_path_problem.md" >}})
+-   [Single-source shortest path problem]({{< relref "single_source_shortest_path_problem.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
 -   [Widest path problem]({{< relref "widest_path_problem.md" >}})
--   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})

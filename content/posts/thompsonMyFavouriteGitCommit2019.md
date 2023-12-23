@@ -2,7 +2,7 @@
 title = "David Thompson | My Favourite Git Commit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:26:00-08:00
-lastmod = 2023-12-05T21:14:32-08:00
+lastmod = 2023-12-23T01:44:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -88,6 +88,8 @@ Now the tests work! One hour of my life I won't get back..
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:thompsonMyFavouriteGitCommit2019</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

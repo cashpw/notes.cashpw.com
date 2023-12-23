@@ -2,7 +2,7 @@
 title = "Combination"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T07:34:00-08:00
-lastmod = 2023-12-05T20:02:59-08:00
+lastmod = 2023-12-22T21:47:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,6 +25,8 @@ Also see: [Permutation]({{< relref "permutation.md" >}})
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Combination.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Combination&oldid=1135443908">https://en.wikipedia.org/w/index.php?title=Combination&#38;oldid=1135443908</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Principles Sequence"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:23:00-07:00
-lastmod = 2023-12-05T20:00:27-08:00
+lastmod = 2023-12-22T21:42:30-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -20,14 +20,14 @@ slug = "a48d73dd-5aee-4a1a-b755-0819490db112"
 
 ## Sequence {#sequence}
 
-1.  [Cedric Chin | Building Career Moats: A Confession]({{< relref "cedric_chin_the_principles_sequence.md" >}})
-2.  [Cedric Chin | Book Summary: Principles by Ray Dalio]({{< relref "cedric_chin_the_principles_sequence.md" >}})
-3.  [Cedric Chin | Ray Dalio's Hyperrealism]({{< relref "cedric_chin_the_principles_sequence.md" >}})
-4.  [Cedric Chin | Ray Dalio's 5 Step Process (To Getting What You Want Out Of Life)]({{< relref "cedric_chin_the_principles_sequence.md" >}})
-5.  [Cedric Chin | On Lying To Yourself]({{< relref "cedric_chin_the_principles_sequence.md" >}})
-6.  [Cedric Chin | Understand That People Are Wired Very Differently]({{< relref "cedric_chin_the_principles_sequence.md" >}})
-7.  [Cedric Chin | Being an Effective Decision Maker]({{< relref "cedric_chin_the_principles_sequence.md" >}})
-8.  [Cedric Chin | The End of the Principles Sequence]({{< relref "cedric_chin_the_principles_sequence.md" >}})
+1.  [Cedric Chin | Building Career Moats: A Confession]({{< relref "cedric_chin_building_career_moats_a_confession.md" >}})
+2.  [Cedric Chin | Book Summary: Principles by Ray Dalio]({{< relref "cedric_chin_book_summary_principles_by_ray_dalio.md" >}})
+3.  [Cedric Chin | Ray Dalio's Hyperrealism]({{< relref "cedric_chin_ray_dalio_s_hyperrealism.md" >}})
+4.  [Cedric Chin | Ray Dalio's 5 Step Process (To Getting What You Want Out Of Life)]({{< relref "cedric_chin_ray_dalio_s_5_step_process_to_getting_what_you_want_out_of_life.md" >}})
+5.  [Cedric Chin | On Lying To Yourself]({{< relref "cedric_chin_on_lying_to_yourself.md" >}})
+6.  [Cedric Chin | Understand That People Are Wired Very Differently]({{< relref "cedric_chin_understand_that_people_are_wired_very_differently.md" >}})
+7.  [Cedric Chin | Being an Effective Decision Maker]({{< relref "cedric_chin_being_an_effective_decision_maker.md" >}})
+8.  [Cedric Chin | The End of the Principles Sequence]({{< relref "cedric_chin_the_end_of_the_principles_sequence.md" >}})
 
 
 ## A note on book structure {#a-note-on-book-structure}

@@ -2,7 +2,7 @@
 title = "Iterative deepening depth-first-search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T18:09:00-07:00
-lastmod = 2023-12-05T20:23:05-08:00
+lastmod = 2023-12-22T22:41:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -38,8 +38,10 @@ Worst-case: \\(\bigo{b^d}\\) where \\(b\\) is the branching factor (e.g. 2 for [
   <div class="csl-entry">NO_ITEM_DATA:IterativeDeepeningDepthfirstSearch2021</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Iterative deepening depth-first-search implementation in Python]({{< relref "iterative_deepening_depth_first_search_implementation_in_python.md" >}})
 -   [Depth-first search]({{< relref "depth_first_search.md" >}})
+-   [Iterative deepening depth-first-search implementation in Python]({{< relref "iterative_deepening_depth_first_search_implementation_in_python.md" >}})

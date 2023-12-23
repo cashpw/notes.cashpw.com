@@ -2,7 +2,7 @@
 title = "Define Abbreviations"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:00:00-08:00
-lastmod = 2023-12-05T20:07:14-08:00
+lastmod = 2023-12-22T21:57:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -38,6 +38,8 @@ Abbreviations, initialisms, and other short-forms can be can confuse those witho
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

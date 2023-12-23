@@ -2,7 +2,7 @@
 title = "Spaced repetition"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2023-12-05T21:03:57-08:00
+lastmod = 2023-12-23T01:00:34-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -105,21 +105,23 @@ Refer to (<a href="#citeproc_bib_item_1">Borretti 2023</a>)
   <div class="csl-entry">NO_ITEM_DATA:branwenSpacedRepetitionEfficientLearning2009</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Forgetting curve]({{< relref "forgetting_curve.md" >}})
--   [Fernando Borretti | Effective Spaced Repetition]({{< relref "fernando_borretti_effective_spaced_repetition.md" >}})
--   [Get good]({{< relref "get_good.md" >}})
--   [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}})
--   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
--   [Cedric Chin | The Tricky Thing About Creating Training Programs]({{< relref "cedric_chin_the_tricky_thing_about_creating_training_programs.md" >}})
 -   [Andy Matuschak | Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture]({{< relref "andy_matuschak_deciding_to_remember_something_with_a_spaced_repetition_system_is_aspirationally_a_lightweight_gesture.md" >}})
--   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
+-   [Anki]({{< relref "AnkiPowerfulIntelligentFlashcards.md" >}})
+-   [Cedric Chin | The Tricky Thing About Creating Training Programs]({{< relref "cedric_chin_the_tricky_thing_about_creating_training_programs.md" >}})
+-   [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
+-   [Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md" >}})
+-   [Fernando Borretti | Effective Spaced Repetition]({{< relref "fernando_borretti_effective_spaced_repetition.md" >}})
+-   [Forgetting curve]({{< relref "forgetting_curve.md" >}})
+-   [Get good]({{< relref "get_good.md" >}})
 -   [Gwern Branwen | Spaced Repetition for Efficient Learning]({{< relref "gwern_branwen_spaced_repetition_for_efficient_learning.md" >}})
+-   [Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]({{< relref "AskHNHowYouLearnComplexDenseTechnicalInformation.md" >}})
 -   [Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction]({{< relref "jose_luis_ricon_on_bloom_s_two_sigma_problem.md" >}})
 -   [Michael Nielsen | Augmenting Long-term Memory]({{< relref "michael_nielsen_augmenting_long_term_memory.md" >}})
 -   [Org flashcards]({{< relref "org_flashcards.md" >}})
 -   [Pedagogy]({{< relref "pedagogy.md" >}})
--   [Desirable difficulty]({{< relref "DesirableDifficulty2022.md" >}})
 -   [Remember (Bloom's Taxonomy)]({{< relref "BloomTaxonomy2022.md#remember--id-5fbaa05c-666f-4d45-b798-ff36ace22126-bloom-s-taxonomy" >}})

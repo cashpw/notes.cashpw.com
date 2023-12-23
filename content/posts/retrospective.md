@@ -2,7 +2,7 @@
 title = "Retrospective"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T12:27:00-08:00
-lastmod = 2023-12-05T20:54:23-08:00
+lastmod = 2023-12-23T00:24:25-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -38,9 +38,9 @@ As a rough draft:
         -   Record yourself throwing and critique your form. Send the video to people you respect and have them critique you.
         -   Produce pots and have people who know more than you critique them.
 
-This is all coupled with [Embrace discomfort]({{< relref "retrospective.md" >}}); specifically: embrace looking foolish or like you don't know what you're doing. You have to get over that hurdle in order to progress. Yes cheff, thank you chef; etc.
+This is all coupled with [Embrace discomfort]({{< relref "embrace_discomfort.md" >}}); specifically: embrace looking foolish or like you don't know what you're doing. You have to get over that hurdle in order to progress. Yes cheff, thank you chef; etc.
 
-Also coupled with [Seek out feedback and accept with gratitude]({{< relref "retrospective.md" >}}).
+Also coupled with [Seek out feedback and accept with gratitude]({{< relref "seek_out_feedback_and_accept_with_gratitude.md" >}}).
 
 
 ## Bibliography {#bibliography}
@@ -50,9 +50,11 @@ Also coupled with [Seek out feedback and accept with gratitude]({{< relref "retr
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Stages of problem solving]({{< relref "stages_of_problem_solving.md" >}})
--   [The last 10%]({{< relref "retrospective.md" >}})
+-   [The last 10%]({{< relref "after_the_finish_line.md" >}})
 -   [Time tracking in Emacs with org-mode]({{< relref "time_tracking_in_emacs_with_org_mode.md" >}})

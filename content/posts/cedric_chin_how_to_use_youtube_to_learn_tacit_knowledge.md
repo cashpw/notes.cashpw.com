@@ -2,7 +2,7 @@
 title = "Cedric Chin | How to Use YouTube to Learn Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:59:00-07:00
-lastmod = 2023-12-05T19:59:59-08:00
+lastmod = 2023-12-22T21:41:47-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -90,6 +90,8 @@ YouTube, and video in general, is a wealth of tacit knowledge. Seek out a combin
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:chinHowUseYouTubeLearnTacitKnowledge2020</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

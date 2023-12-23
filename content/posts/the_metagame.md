@@ -2,7 +2,7 @@
 title = "Metagame"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:05:00-08:00
-lastmod = 2023-12-05T21:11:55-08:00
+lastmod = 2023-12-23T01:34:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,19 +26,21 @@ This is one of my [Favorites]({{< relref "favorites.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Metagaming.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Metagaming&oldid=1102547758">https://en.wikipedia.org/w/index.php?title=Metagaming&#38;oldid=1102547758</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Solve the problem]({{< relref "solve_the_problem.md" >}})
--   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
--   [The game]({{< relref "the_game.md" >}})
--   [Metagaming]({{< relref "Metagaming2021.md" >}})
 -   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
--   [README]({{< relref "readme.md" >}})
--   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})
+-   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
 -   [Ezra Klein | Why We Can't Build]({{< relref "ezra_klein_why_we_can_t_build.md" >}})
--   [Min-maxing]({{< relref "min_maxing.md" >}})
--   [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})
+-   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})
 -   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
--   [Technologist]({{< relref "technologist.md" >}})
+-   [Metagaming]({{< relref "Metagaming2021.md" >}})
+-   [Min-maxing]({{< relref "min_maxing.md" >}})
 -   [Object level]({{< relref "object_level.md" >}})
+-   [README]({{< relref "readme.md" >}})
+-   [Solve the problem]({{< relref "solve_the_problem.md" >}})
+-   [Technologist]({{< relref "technologist.md" >}})
+-   [The game]({{< relref "the_game.md" >}})
+-   [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})

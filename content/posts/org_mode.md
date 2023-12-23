@@ -2,7 +2,7 @@
 title = "Org mode"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:41:00-08:00
-lastmod = 2023-12-05T20:43:34-08:00
+lastmod = 2023-12-22T23:46:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,10 +24,12 @@ slug = "4c8c9bb9-7cba-4a9e-89dc-4d0095438126"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Org-Mode.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Org-mode&oldid=1113320008">https://en.wikipedia.org/w/index.php?title=Org-mode&#38;oldid=1113320008</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [How I write notes]({{< relref "how_i_write_notes.md" >}})
 -   [Org flashcards]({{< relref "org_flashcards.md" >}})
--   [Track org-mode TODOs across devices]({{< relref "track_org_mode_todos_across_devices.md" >}})
 -   [Time tracking in Emacs with org-mode]({{< relref "time_tracking_in_emacs_with_org_mode.md" >}})
+-   [Track org-mode TODOs across devices]({{< relref "track_org_mode_todos_across_devices.md" >}})

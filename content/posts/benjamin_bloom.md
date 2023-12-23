@@ -2,7 +2,7 @@
 title = "Benjamin Bloom"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:17:00-08:00
-lastmod = 2023-12-05T19:55:44-08:00
+lastmod = 2023-12-22T21:35:39-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -22,9 +22,11 @@ slug = "d449ac76-f230-4922-ab7c-3b65c90a4ea9"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Benjamin Bloom.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Benjamin_Bloom&oldid=1115091893">https://en.wikipedia.org/w/index.php?title=Benjamin_Bloom&#38;oldid=1115091893</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Bloom's 2 sigma problem]({{< relref "bloom_s_2_sigma_problem.md" >}})
--   [Mastery learning]({{< relref "mastery_learning.md" >}})
 -   [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
+-   [Mastery learning]({{< relref "mastery_learning.md" >}})

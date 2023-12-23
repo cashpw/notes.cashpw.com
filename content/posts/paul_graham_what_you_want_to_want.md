@@ -2,7 +2,7 @@
 title = "Paul Graham | What You (Want to)* Want"
 author = ["Cash Weaver"]
 date = 2023-01-14T07:57:00-08:00
-lastmod = 2023-12-05T20:45:01-08:00
+lastmod = 2023-12-22T23:50:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -40,6 +40,8 @@ People can change lower-order desires (e.g. "I want to eat junk food" to "I don'
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:grahamWhatYouWantWant</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

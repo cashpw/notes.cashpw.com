@@ -2,7 +2,7 @@
 title = "Closure (Graph)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T07:31:00-08:00
-lastmod = 2023-12-05T20:02:27-08:00
+lastmod = 2023-12-22T21:46:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

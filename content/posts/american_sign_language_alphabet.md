@@ -2,7 +2,7 @@
 title = "American sign language: Alphabet"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-21T16:17:00-08:00
-lastmod = 2023-12-21T20:45:45-08:00
+lastmod = 2023-12-22T21:32:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

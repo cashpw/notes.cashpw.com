@@ -2,7 +2,7 @@
 title = "Footnote to Howl"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T08:54:00-07:00
-lastmod = 2023-12-05T20:13:41-08:00
+lastmod = 2023-12-22T22:14:42-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -39,6 +39,8 @@ Holy the supernatural extra brilliant intelligent kindness of the soul!<br />
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ginsberg, Allen. 2022. “Footnote to Howl.” Text/Html. <i>Poetry Foundation</i>. Poetry Foundation. <a href="https://www.poetryfoundation.org/poems/54163/footnote-to-howl">https://www.poetryfoundation.org/poems/54163/footnote-to-howl</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

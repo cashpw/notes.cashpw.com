@@ -2,7 +2,7 @@
 title = "Plastic clay"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:57:00-07:00
-lastmod = 2023-12-05T20:46:56-08:00
+lastmod = 2023-12-22T23:57:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,6 +18,8 @@ Clay which is moist, soft, and bendable. Clay at this state is ready for use on 
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

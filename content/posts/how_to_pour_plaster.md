@@ -2,7 +2,7 @@
 title = "How to pour plaster"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T12:20:00-08:00
-lastmod = 2023-12-05T20:19:21-08:00
+lastmod = 2023-12-22T22:31:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -41,6 +41,8 @@ Plaster is useful in [Ceramics]({{< relref "ceramics.md" >}}) for drying overly-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:lesleyHowMakeDampBoxClay2019</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

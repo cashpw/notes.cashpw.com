@@ -2,7 +2,7 @@
 title = "Pure functions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T14:54:00-07:00
-lastmod = 2023-12-05T20:49:42-08:00
+lastmod = 2023-12-23T00:07:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,9 +27,11 @@ slug = "426b6e66-710b-4d01-8ff0-f5311478260c"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pure Function.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Pure_function&oldid=1065003790">https://en.wikipedia.org/w/index.php?title=Pure_function&#38;oldid=1065003790</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [Bjarne Stroustrup | A Tour of C++]({{< relref "bjarne_stroustrup_a_tour_of_c.md" >}})
 -   [Brandon Smith | Write Code. Not Too Much. Mostly Functions.]({{< relref "brandon_smith_write_code_not_too_much_mostly_functions.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
--   [Bjarne Stroustrup | A Tour of C++]({{< relref "bjarne_stroustrup_a_tour_of_c.md" >}})

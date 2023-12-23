@@ -2,7 +2,7 @@
 title = "Streetlight effect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T16:43:00-08:00
-lastmod = 2023-12-05T21:06:31-08:00
+lastmod = 2023-12-23T01:09:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,6 +23,8 @@ slug = "d553899d-ac5d-4ecf-bf57-9eabb3407b6e"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Streetlight Effect.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Streetlight_effect&oldid=1108333350">https://en.wikipedia.org/w/index.php?title=Streetlight_effect&#38;oldid=1108333350</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

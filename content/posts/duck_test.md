@@ -2,7 +2,7 @@
 title = "Duck test"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:26:00-07:00
-lastmod = 2023-12-05T20:09:27-08:00
+lastmod = 2023-12-22T22:03:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,10 @@ Also see:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Duck Test.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Duck_test&oldid=1094197763">https://en.wikipedia.org/w/index.php?title=Duck_test&#38;oldid=1094197763</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [The purpose of a system is what it does]({{< relref "the_purpose_of_a_system_is_what_it_does.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})
+-   [The purpose of a system is what it does]({{< relref "the_purpose_of_a_system_is_what_it_does.md" >}})

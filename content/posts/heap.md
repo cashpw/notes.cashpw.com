@@ -2,7 +2,7 @@
 title = "Heap"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:46:00-07:00
-lastmod = 2023-12-05T20:17:53-08:00
+lastmod = 2023-12-22T22:26:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,9 +33,11 @@ slug = "70cbebc9-8936-4d52-885a-76d747c6577f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heap (Data Structure).” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Heap_(data_structure)&oldid=1088468512">https://en.wikipedia.org/w/index.php?title=Heap_(data_structure)&#38;oldid=1088468512</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Priority queue]({{< relref "priority_queue.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
 -   [Heapsort]({{< relref "heapsort.md" >}})
+-   [Priority queue]({{< relref "priority_queue.md" >}})

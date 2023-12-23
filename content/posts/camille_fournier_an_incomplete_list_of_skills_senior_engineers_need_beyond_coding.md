@@ -2,7 +2,7 @@
 title = "Camille Fournier | An Incomplete List of Skills Senior Engineers Need, beyond Coding"
 author = ["Cash Weaver"]
 date = 2023-03-20T09:44:00-07:00
-lastmod = 2023-12-05T19:58:59-08:00
+lastmod = 2023-12-22T21:39:44-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -54,6 +54,8 @@ slug = "9f7ed9dc-46f1-4f12-a87e-cd03005c06dd"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:fournierIncompleteListSkillsSeniorEngineersNeedCoding2021</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

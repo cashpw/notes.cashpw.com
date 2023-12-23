@@ -2,7 +2,7 @@
 title = "Functional programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:50:00-07:00
-lastmod = 2023-12-05T20:14:23-08:00
+lastmod = 2023-12-22T22:16:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,6 +27,8 @@ slug = "f690a8ad-4069-4e96-a707-2a57f638c493"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Functional Programming.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Functional_programming&oldid=1149919082">https://en.wikipedia.org/w/index.php?title=Functional_programming&#38;oldid=1149919082</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

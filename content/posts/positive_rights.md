@@ -2,7 +2,7 @@
 title = "Positive rights"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T09:49:00-07:00
-lastmod = 2023-12-05T20:47:31-08:00
+lastmod = 2023-12-22T23:59:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,8 +30,10 @@ Also see [Negative rights]({{< relref "negative_rights.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Negative and Positive Rights.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Negative_and_positive_rights&oldid=1098829849">https://en.wikipedia.org/w/index.php?title=Negative_and_positive_rights&#38;oldid=1098829849</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Negative rights]({{< relref "negative_rights.md" >}})
 -   [Citations Needed | News Brief: Biden's Dictator Tour and the Tedium of Our Human Rights Concerns Theater]({{< relref "citationsneededNewsBriefBiden2022.md" >}})
+-   [Negative rights]({{< relref "negative_rights.md" >}})

@@ -2,7 +2,7 @@
 title = "Stag hunt"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:29:00-07:00
-lastmod = 2023-12-05T21:05:17-08:00
+lastmod = 2023-12-23T01:05:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,6 +28,8 @@ See also: [Prisoner's Dilemma]({{< relref "prisoner_s_dilemma.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Stag Hunt.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Stag_hunt&oldid=1112697312">https://en.wikipedia.org/w/index.php?title=Stag_hunt&#38;oldid=1112697312</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

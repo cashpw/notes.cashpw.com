@@ -2,7 +2,7 @@
 title = "Arylnn Nobel"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-05T16:40:00-07:00
-lastmod = 2023-12-05T19:53:56-08:00
+lastmod = 2023-12-22T21:34:03-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -18,6 +18,8 @@ One of the [Ceramists I follow]({{< relref "ceramists_potters_i_follow.md" >}}).
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "American sign language: Numbers"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-21T16:52:00-08:00
-lastmod = 2023-12-21T20:45:46-08:00
+lastmod = 2023-12-22T21:32:42-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

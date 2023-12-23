@@ -2,7 +2,7 @@
 title = "Never play defense"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:11:00-07:00
-lastmod = 2023-12-05T20:40:18-08:00
+lastmod = 2023-12-22T23:35:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,10 +21,12 @@ See [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.m
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?]({{< relref "nathan_robinson_is_there_a_principled_distinction_between_refusing_to_watch_american_sniper_and_refusing_to_read_fun_home.md" >}})
 -   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
 -   [If you're explaining, you're losing]({{< relref "if_you_re_explaining_you_re_losing.md" >}})
 -   [Marc Andreessen | It's Time to Build]({{< relref "marc_andreessen_it_s_time_to_build.md" >}})
+-   [Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?]({{< relref "nathan_robinson_is_there_a_principled_distinction_between_refusing_to_watch_american_sniper_and_refusing_to_read_fun_home.md" >}})

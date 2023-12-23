@@ -2,7 +2,7 @@
 title = "Andy Payne | The Myth of the Myth of the 10x Programmer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:33:00-08:00
-lastmod = 2023-12-05T20:45:10-08:00
+lastmod = 2023-12-22T23:51:21-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Culture is plastic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T15:55:00-08:00
-lastmod = 2023-12-05T20:05:03-08:00
+lastmod = 2023-12-22T21:51:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,6 +18,8 @@ There isn't a fixed idea of culture. We create Culture and, intentionally or oth
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

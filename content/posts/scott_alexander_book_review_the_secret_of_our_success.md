@@ -2,7 +2,7 @@
 title = "Scott Alexander | Book Review: The Secret Of Our Success"
 author = ["Cash Weaver"]
 date = 2023-01-09T09:54:00-08:00
-lastmod = 2023-12-05T20:57:36-08:00
+lastmod = 2023-12-23T00:35:54-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -272,12 +272,14 @@ See [Joseph Patrick Henrich | The Secret of Our Success]({{< relref "joseph_patr
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016</div>
   <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewSecretOurSuccess2019</div>
+  <div class="csl-entry">NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Tanner Greer | Tradition Is Smarter Than You Are]({{< relref "tanner_greer_tradition_is_smarter_than_you_are.md" >}})
 -   [Joseph Patrick Henrich | The Secret of Our Success]({{< relref "joseph_patrick_henrich_the_secret_of_our_success.md" >}})
+-   [Tanner Greer | Tradition Is Smarter Than You Are]({{< relref "tanner_greer_tradition_is_smarter_than_you_are.md" >}})

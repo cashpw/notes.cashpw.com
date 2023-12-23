@@ -2,7 +2,7 @@
 title = "Pistol squat progression"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-10T09:17:00-07:00
-lastmod = 2023-12-05T20:46:30-08:00
+lastmod = 2023-12-22T23:55:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -51,6 +51,8 @@ slug = "a99628b8-d0a3-4951-8234-ba96fd820950"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kizirian, Antranik. 2023. “Pistol Squat Progression.” Reddit Comment. <i>R/Bodyweightfitness</i>. <a href="www.reddit.com/r/bodyweightfitness/comments/11nqx5k/so_i_wanna_get_a_pistol_squat/jbovx7b/">www.reddit.com/r/bodyweightfitness/comments/11nqx5k/so_i_wanna_get_a_pistol_squat/jbovx7b/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

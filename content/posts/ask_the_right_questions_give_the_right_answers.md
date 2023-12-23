@@ -2,7 +2,7 @@
 title = "Give the right answers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:04:00-08:00
-lastmod = 2023-12-05T19:54:03-08:00
+lastmod = 2023-12-22T21:34:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,6 +25,8 @@ A [Play to win]({{< relref "play_to_win.md" >}}) strategy which uses answers as 
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

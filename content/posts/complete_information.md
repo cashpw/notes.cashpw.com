@@ -2,7 +2,7 @@
 title = "Complete information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-22T15:56:00-07:00
-lastmod = 2023-12-05T20:03:13-08:00
+lastmod = 2023-12-22T21:47:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,6 +30,8 @@ slug = "d80fe9f3-c36e-4878-89fc-d7ad8d6e247f"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Complete Information.” 2021. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Complete_information&oldid=1045048457">https://en.wikipedia.org/w/index.php?title=Complete_information&#38;oldid=1045048457</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

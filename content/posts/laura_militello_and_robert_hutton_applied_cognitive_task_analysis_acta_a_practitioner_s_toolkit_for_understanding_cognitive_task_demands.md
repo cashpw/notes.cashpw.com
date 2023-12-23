@@ -2,7 +2,7 @@
 title = "Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands"
 author = ["Cash Weaver"]
 date = 2023-09-08T15:14:00-07:00
-lastmod = 2023-12-05T20:29:32-08:00
+lastmod = 2023-12-22T23:01:39-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -14,7 +14,7 @@ slug = "d8ab213e-9bd6-4669-a2b1-b931b56f5930"
 
 ## Summary {#summary}
 
-[Applied cognitive task analysis]({{< relref "laura_militello_and_robert_hutton_applied_cognitive_task_analysis_acta_a_practitioner_s_toolkit_for_understanding_cognitive_task_demands.md" >}})
+[Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}})
 
 
 ## Thoughts {#thoughts}
@@ -180,8 +180,10 @@ slug = "d8ab213e-9bd6-4669-a2b1-b931b56f5930"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Militello, Laura, and Robert Hutton. 1998. “Applied Cognitive Task Analysis (ACTA): A Practitioner’s Toolkit for Understanding Cognitive Task Demands.” <i>Ergonomics</i> 41 (December): 1618–41. <a href="https://doi.org/10.1080/001401398186108">https://doi.org/10.1080/001401398186108</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}})
 -   [Cedric Chin | An Easier Method for Extracting Tacit Knowledge]({{< relref "chin_an_easier_method_for_extracting_tacit_knowledge.md" >}})
--   [Applied cognitive task analysis]({{< relref "laura_militello_and_robert_hutton_applied_cognitive_task_analysis_acta_a_practitioner_s_toolkit_for_understanding_cognitive_task_demands.md" >}})

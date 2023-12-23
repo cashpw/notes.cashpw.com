@@ -2,7 +2,7 @@
 title = "Gunnar Zarncke | Child Development Plan - Years"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-03T17:00:00-07:00
-lastmod = 2023-12-05T20:17:14-08:00
+lastmod = 2023-12-22T22:25:12-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -309,7 +309,9 @@ Note: I've re-organized the outline hierarchy.
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [On parenting]({{< relref "gunnar_zarncke_child_development_plan_years.md" >}})
+-   [On parenting]({{< relref "on_parenting.md" >}})

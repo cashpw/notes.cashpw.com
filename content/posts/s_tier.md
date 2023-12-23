@@ -2,7 +2,7 @@
 title = "S-tier"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T15:01:00-08:00
-lastmod = 2023-12-05T20:56:11-08:00
+lastmod = 2023-12-23T00:29:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,6 +23,8 @@ The top-tier.
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tier List.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Tier_list&oldid=1104486656">https://en.wikipedia.org/w/index.php?title=Tier_list&#38;oldid=1104486656</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

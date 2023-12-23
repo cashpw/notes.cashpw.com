@@ -2,7 +2,7 @@
 title = "He does not love his cat, but his cat's kittens"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-28T15:26:00-07:00
-lastmod = 2023-12-05T20:17:44-08:00
+lastmod = 2023-12-22T22:26:33-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -22,8 +22,10 @@ slug = "802975de-8d22-45a7-a0fb-8751ebbce738"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Keynes, John Maynard. 2010. <i>Essays in Persuasion</i>. New ed. Basingstoke ; New York: Palgrave Macmillan.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Longtermism]({{< relref "longtermism.md" >}})
 -   [John Maynard Keynes | Essays in Persuasion]({{< relref "john_maynard_keynes_essays_in_persuasion.md" >}})
+-   [Longtermism]({{< relref "longtermism.md" >}})

@@ -2,7 +2,7 @@
 title = "Glazeware"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T09:05:00-07:00
-lastmod = 2023-12-05T20:15:54-08:00
+lastmod = 2023-12-22T22:20:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,6 +18,8 @@ Glaze-covered and fired ceramics.
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

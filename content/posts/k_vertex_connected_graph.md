@@ -2,7 +2,7 @@
 title = "k-vertex-connected graph"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T20:26:00-07:00
-lastmod = 2023-12-05T20:27:04-08:00
+lastmod = 2023-12-22T22:53:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,8 +22,10 @@ slug = "78c49f16-1956-4ffb-9207-f72f79025d5b"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“K-Vertex-Connected Graph.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=K-vertex-connected_graph&oldid=1151236919">https://en.wikipedia.org/w/index.php?title=K-vertex-connected_graph&#38;oldid=1151236919</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Vertex-connectivity]({{< relref "vertex_connectivity.md" >}})
 -   [Biconnected graph]({{< relref "biconnected_graph.md" >}})
+-   [Vertex-connectivity]({{< relref "vertex_connectivity.md" >}})

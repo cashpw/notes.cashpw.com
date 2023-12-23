@@ -2,7 +2,7 @@
 title = "Depth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:36:00-07:00
-lastmod = 2023-12-05T20:07:28-08:00
+lastmod = 2023-12-22T21:57:55-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -90,11 +90,13 @@ Where \\(V\\) is the set of [Vertices]({{< relref "vertex.md" >}}) and \\(E\\) i
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Depth-First Search.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Depth-first_search&oldid=1091833357">https://en.wikipedia.org/w/index.php?title=Depth-first_search&#38;oldid=1091833357</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
--   [Trie]({{< relref "trie.md" >}})
--   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
 -   [Breadth-first search]({{< relref "breadth_first_search.md" >}})
+-   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 -   [Topological order]({{< relref "topological_order.md" >}})
+-   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
+-   [Trie]({{< relref "trie.md" >}})

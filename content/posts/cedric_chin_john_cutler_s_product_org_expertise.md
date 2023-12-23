@@ -2,7 +2,7 @@
 title = "Cedric Chin | John Cutler's Product Org Expertise"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:35:00-07:00
-lastmod = 2023-12-05T20:00:02-08:00
+lastmod = 2023-12-22T21:41:52-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -14,7 +14,7 @@ slug = "f064b5ef-9576-4957-8882-30ebe383d23d"
 
 ## Summary {#summary}
 
-An example of the first two parts of [Applied cognitive task analysis]({{< relref "cedric_chin_john_cutler_s_product_org_expertise.md" >}}) (Creating a [Task diagram]({{< relref "applied_cognitive_task_analysis.org_archive#task-diagram" >}}) and performing a [Knowledge audit]({{< relref "applied_cognitive_task_analysis.org_archive#knowledge-audit" >}})).
+An example of the first two parts of [Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}}) (Creating a [Task diagram]({{< relref "applied_cognitive_task_analysis.md#task-diagram" >}}) and performing a [Knowledge audit]({{< relref "applied_cognitive_task_analysis.md#knowledge-audit" >}})).
 
 
 ## Thoughts {#thoughts}
@@ -39,6 +39,8 @@ An example of the first two parts of [Applied cognitive task analysis]({{< relre
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:chinJohnCutlerProductOrgExpertise2021</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "David Chapman | Developing Ethical, Social, and Cognitive Competence"
 author = ["Cash Weaver"]
 date = 2023-01-12T08:15:00-08:00
-lastmod = 2023-12-05T20:06:44-08:00
+lastmod = 2023-12-22T21:55:55-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -56,6 +56,8 @@ slug = "9ffddcfd-8b32-4c07-bb86-1fed040e8e5c"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:chapmanDevelopingEthicalSocialCognitiveCompetence2016</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

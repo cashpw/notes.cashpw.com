@@ -2,7 +2,7 @@
 title = "Binomial theorem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-19T09:49:00-08:00
-lastmod = 2023-12-05T19:56:52-08:00
+lastmod = 2023-12-22T21:36:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -38,6 +38,8 @@ slug = "e3806f4b-94b7-443e-8e7e-278fe8a2781c"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binomial Theorem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Binomial_theorem&oldid=1133606899">https://en.wikipedia.org/w/index.php?title=Binomial_theorem&#38;oldid=1133606899</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

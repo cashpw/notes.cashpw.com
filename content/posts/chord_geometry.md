@@ -2,7 +2,7 @@
 title = "Chord (Geometry)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T16:25:00-08:00
-lastmod = 2023-12-05T20:01:59-08:00
+lastmod = 2023-12-22T21:45:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,6 +27,8 @@ slug = "a5084eae-a2c4-4b9a-b827-6ae594960035"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Chord (Geometry).” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Chord_(geometry)&oldid=1135674923">https://en.wikipedia.org/w/index.php?title=Chord_(geometry)&#38;oldid=1135674923</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

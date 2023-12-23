@@ -2,7 +2,7 @@
 title = "Freddish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:59:00-07:00
-lastmod = 2023-12-05T20:14:09-08:00
+lastmod = 2023-12-22T22:15:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,12 +46,14 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
   <div class="csl-entry">NO_ITEM_DATA:kingMisterRogersHadSimpleSetRulesTalkingChildren2018</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
--   [Fred Rodgers Institute | When Someone a Child Loves Dies]({{< relref "fred_rodgers_institute_when_someone_a_child_loves_dies.md" >}})
 -   [Child development stages]({{< relref "child_development_stages.md" >}})
--   [On parenting]({{< relref "freddish.md" >}})
+-   [Fred Rodgers Institute | When Someone a Child Loves Dies]({{< relref "fred_rodgers_institute_when_someone_a_child_loves_dies.md" >}})
+-   [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}})
+-   [On parenting]({{< relref "on_parenting.md" >}})
 -   [Rewriting and Editing]({{< relref "julian_shapiro_writing_well_handbook.md#rewriting-and-editing" >}})
 -   [Todos]({{< relref "todos.md" >}})

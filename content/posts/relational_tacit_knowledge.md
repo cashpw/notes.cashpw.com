@@ -2,7 +2,7 @@
 title = "Relational tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T22:20:00-07:00
-lastmod = 2023-12-05T20:53:44-08:00
+lastmod = 2023-12-23T00:22:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -54,6 +54,8 @@ slug = "146ab42b-21a9-4d5a-85fe-2eba12347ca5"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “The Three Kinds of Tacit Knowledge.” <i>Commoncog</i>. <a href="https://commoncog.com/three-kinds-of-tacit-knowledge/">https://commoncog.com/three-kinds-of-tacit-knowledge/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

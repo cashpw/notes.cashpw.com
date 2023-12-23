@@ -2,7 +2,7 @@
 title = "Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T06:44:00-08:00
-lastmod = 2023-12-05T19:53:32-08:00
+lastmod = 2023-12-22T21:33:43-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -128,6 +128,8 @@ I've come to appreciate the use of phrases, mantras, hymns, etc --- [focusing te
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:antoninusMeditationsEmperorMarcusAntoninus1944</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

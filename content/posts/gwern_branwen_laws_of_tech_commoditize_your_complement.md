@@ -2,7 +2,7 @@
 title = "Gwern Branwen | Laws of Tech: Commoditize Your Complement"
 author = ["Cash Weaver"]
 date = 2022-11-22T16:13:00-08:00
-lastmod = 2023-12-05T20:17:22-08:00
+lastmod = 2023-12-22T22:25:30-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -48,6 +48,8 @@ slug = "b852fb7f-66e6-4bbf-ba60-548f55e8df5b"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:branwenLawsTechCommoditizeYourComplement2018</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

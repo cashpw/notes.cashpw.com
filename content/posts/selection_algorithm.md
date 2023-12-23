@@ -2,7 +2,7 @@
 title = "Selection algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:10:00-07:00
-lastmod = 2023-12-05T20:58:45-08:00
+lastmod = 2023-12-23T00:39:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,6 +26,8 @@ slug = "7fbcef27-68c4-4793-8fc0-e10114318765"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Selection Algorithm.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Selection_algorithm&oldid=1090831234">https://en.wikipedia.org/w/index.php?title=Selection_algorithm&#38;oldid=1090831234</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

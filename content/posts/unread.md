@@ -1,7 +1,7 @@
 +++
-title = "Unread"
+title = "Reading list"
 author = ["cashweaver"]
-lastmod = 2023-12-06T05:27:07-08:00
+lastmod = 2023-12-23T02:06:53-08:00
 tags = ["type", "topic", "software", "culinary", "when", "hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false
@@ -34,7 +34,85 @@ Examples:
 -   ❌ Write-ups on specific technologies I don't expect to read (e.g. latest front-end hotness). I'll look these up on-demand if necessary.
 
 
-## Unread {#unread}
+## To watch {#to-watch}
+
+
+### Movies {#movies}
+
+-   My big gay Italian wedding! (comedy/romance)
+-   (<a href="#citeproc_bib_item_22">“Playtime” 2023</a>) (comedy)
+-   Roman Holiday (comedy/romance)
+-   (<a href="#citeproc_bib_item_20">“Never Cry Wolf (Film)” 2023</a>) (drama)
+-   (<a href="#citeproc_bib_item_12">“Everything Everywhere All at Once” 2023</a>) (absurd/comedy/drama)
+-   (<a href="#citeproc_bib_item_9">“Bright Future (Film)” 2023</a>) (drama)
+-   (<a href="#citeproc_bib_item_6">“Big Night” 2023</a>) (comedy/drama)
+-   (<a href="#citeproc_bib_item_16">“Heartworn Highways” 2023</a>) (documentary)
+    "captured some of the founders of the Outlaw Country movement in Texas and Tennessee in the last weeks of 1975 and the first weeks of 1976"
+-   (<a href="#citeproc_bib_item_28">“The Block Island Sound” 2023</a>) (sci-fi/horror/thriller)
+-   (<a href="#citeproc_bib_item_2">“Akira (1988 Film)” 2023</a>)
+-   Wrestlers (documentary)
+-   Infinity pool (sci-fi/horror)
+-   Speak no evil (psycological horror)
+
+
+### Series {#series}
+
+-   (<a href="#citeproc_bib_item_11">“Dr. Horrible’s Sing-Along Blog” 2023</a>) (comedy/romance/musical)
+-   (NO_ITEM_DATA:Pantheon2023) (sci-fi/drama)
+-   (<a href="#citeproc_bib_item_25">“Scavengers Reign” 2023</a>) (adventure/drama/sci-fi)
+-   (<a href="#citeproc_bib_item_29">“The Midnight Gospel” 2023</a>) (sci-fi/surreal/dark comedy/adventure/animated)
+-   (<a href="#citeproc_bib_item_7">“Blue Eye Samurai” 2023</a>) (action/animated)
+-   (<a href="#citeproc_bib_item_17">“Love, Death &#38; Robots” 2023</a>) (sci-fi/black humor/drama/animated)
+-   (<a href="#citeproc_bib_item_23">“Primal (TV Series)” 2023</a>) (action/adventure/animated)
+-   (<a href="#citeproc_bib_item_4">“Arcane (TV Series)” 2023</a>) (action/adventure/drama/animated)
+-   Superjail!
+-   Heavenly Delusion
+-   Upload (Amazon)
+-   Boondocks
+-   The Bear (drama)
+
+
+### Misc {#misc}
+
+-   Whirlyball world championship (sports)
+
+
+## To read {#to-read}
+
+Possibly read again!
+
+
+### Books {#books}
+
+-   (<a href="#citeproc_bib_item_31">Watts 1951</a>)
+-   The World-Ending Fire
+-   Enchiridion of Epictetus
+-   The Creative Act
+-   The Psychology of Money
+-   Narrative of the Life of Frederick Douglass
+-   Shop Class as Soulcraft
+
+
+### Graphic narrative {#graphic-narrative}
+
+-   (<a href="#citeproc_bib_item_1">“20th Century Boys” 2023</a>) (mystery/sci-fi/thriller)
+-   (<a href="#citeproc_bib_item_13">“Frieren” 2023</a>) (drama/adventure/fantasy)
+-   (<a href="#citeproc_bib_item_18">“Maus” 2023</a>) (drama/holocaust)
+-   (<a href="#citeproc_bib_item_3">“Akira (Manga)” 2023</a>) (cyberpunk/sci-fi/political)
+-   (<a href="#citeproc_bib_item_30">“The Sandman (Comic Book)” 2023</a>) (dark fantasy/supernatural horror)
+-   (<a href="#citeproc_bib_item_14">“Goodnight Punpun” 2023</a>) (coming of age/drama)
+-   (<a href="#citeproc_bib_item_8">“Blue Giant (Manga)” 2023</a>) (music/drama)
+-   (<a href="#citeproc_bib_item_10">“Chainsaw Man” 2023</a>) (action/comedy horror/dark fantasy)
+-   (<a href="#citeproc_bib_item_32">“Yotsuba&#38;!” 2023</a>) (comedy/slice of life)
+-   (<a href="#citeproc_bib_item_26">“Spy Family” 2023</a>) (action/comedy/spy)
+-   (<a href="#citeproc_bib_item_5">“Berserk (Manga)” 2023</a>) (action/drama)
+-   (<a href="#citeproc_bib_item_27">“Strong Female Protagonist” 2023</a>)
+    <https://strongfemaleprotagonist.com/issue-3/page-16-2/>
+-   (<a href="#citeproc_bib_item_24">Sakurai and Ransom 2014</a>) (action/dark fantasy/supernatural thriller)
+-   (<a href="#citeproc_bib_item_33">2010</a>) (action/dark fantasy/science fiction)
+
+
+## Misc {#misc}
 
 
 ### <https://fs.blog/compounding-knowledge/> {#https-fs-dot-blog-compounding-knowledge}
@@ -7958,8 +8036,8 @@ Traditional political views map well onto this framework, but there's more… 1/
 
 ### [Ask HN: What are ways to combat loneliness and build meaningful connections?](https://news.ycombinator.com/item?id=35832296) {#ask-hn-what-are-ways-to-combat-loneliness-and-build-meaningful-connections}
 
--   related (<a href="#citeproc_bib_item_1">Guzey n.d.</a>)
--   related (<a href="#citeproc_bib_item_2">Nanda n.d.</a>)
+-   related (<a href="#citeproc_bib_item_15">Guzey n.d.</a>)
+-   related (<a href="#citeproc_bib_item_19">Nanda n.d.</a>)
 
 
 ### [Thinking something nice about someone? Tell them.](https://sive.rs/nice) {#thinking-something-nice-about-someone-tell-them-dot}
@@ -8572,7 +8650,7 @@ And almost every system is a complex system today, which is why cascading failur
 
 ### [Should we seek to know the truth even when inaccurate beliefs are useful? Is there value in doublethink?](https://www.reddit.com/r/slatestarcodex/comments/u78jsf/should_we_seek_to_know_the_truth_even_when/) {#should-we-seek-to-know-the-truth-even-when-inaccurate-beliefs-are-useful-is-there-value-in-doublethink}
 
-(<a href="#citeproc_bib_item_3">“Nixtamalization” 2022</a>)
+(<a href="#citeproc_bib_item_21">“Nixtamalization” 2022</a>)
 
 
 ### [Ask HN: Do you manage your family's digital safety?](https://news.ycombinator.com/item?id=31027766) {#ask-hn-do-you-manage-your-family-s-digital-safety}
@@ -9087,11 +9165,44 @@ If you understand these errors, you will know what questions to ask to avoid str
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Guzey, Alexey. n.d. “How to Make Friends over the Internet.” <i>Alexey Guzey</i>. Accessed September 17, 2020. <a href="/how-to-make-friends-over-the-internet/">/how-to-make-friends-over-the-internet/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Nanda, Neel. n.d. “Intentionally Making Close Friends.” Accessed October 20, 2023. <a href="https://www.lesswrong.com/posts/pfibDHFZ3waBo6pAc/intentionally-making-close-friends">https://www.lesswrong.com/posts/pfibDHFZ3waBo6pAc/intentionally-making-close-friends</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Nixtamalization.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Nixtamalization&oldid=1115632392">https://en.wikipedia.org/w/index.php?title=Nixtamalization&#38;oldid=1115632392</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“20th Century Boys.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=20th_Century_Boys&oldid=1185049830">https://en.wikipedia.org/w/index.php?title=20th_Century_Boys&#38;oldid=1185049830</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Akira (1988 Film).” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Akira_(1988_film)&oldid=1187046623">https://en.wikipedia.org/w/index.php?title=Akira_(1988_film)&#38;oldid=1187046623</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Akira (Manga).” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Akira_(manga)&oldid=1186306524">https://en.wikipedia.org/w/index.php?title=Akira_(manga)&#38;oldid=1186306524</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Arcane (TV Series).” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Arcane_(TV_series)&oldid=1186844288">https://en.wikipedia.org/w/index.php?title=Arcane_(TV_series)&#38;oldid=1186844288</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>“Berserk (Manga).” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Berserk_(manga)&oldid=1186957273">https://en.wikipedia.org/w/index.php?title=Berserk_(manga)&#38;oldid=1186957273</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>“Big Night.” 2023. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Big_Night&oldid=1174481642">https://en.wikipedia.org/w/index.php?title=Big_Night&#38;oldid=1174481642</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>“Blue Eye Samurai.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Blue_Eye_Samurai&oldid=1187042928">https://en.wikipedia.org/w/index.php?title=Blue_Eye_Samurai&#38;oldid=1187042928</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>“Blue Giant (Manga).” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Blue_Giant_(manga)&oldid=1186261121">https://en.wikipedia.org/w/index.php?title=Blue_Giant_(manga)&#38;oldid=1186261121</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>“Bright Future (Film).” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Bright_Future_(film)&oldid=1156963216">https://en.wikipedia.org/w/index.php?title=Bright_Future_(film)&#38;oldid=1156963216</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>“Chainsaw Man.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Chainsaw_Man&oldid=1186303867">https://en.wikipedia.org/w/index.php?title=Chainsaw_Man&#38;oldid=1186303867</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>“Dr. Horrible’s Sing-Along Blog.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Dr._Horrible%27s_Sing-Along_Blog&oldid=1183603242">https://en.wikipedia.org/w/index.php?title=Dr._Horrible%27s_Sing-Along_Blog&#38;oldid=1183603242</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>“Everything Everywhere All at Once.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Everything_Everywhere_All_at_Once&oldid=1186967175">https://en.wikipedia.org/w/index.php?title=Everything_Everywhere_All_at_Once&#38;oldid=1186967175</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>“Frieren.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Frieren&oldid=1186837052">https://en.wikipedia.org/w/index.php?title=Frieren&#38;oldid=1186837052</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>“Goodnight Punpun.” 2023. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Goodnight_Punpun&oldid=1181574046">https://en.wikipedia.org/w/index.php?title=Goodnight_Punpun&#38;oldid=1181574046</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Guzey, Alexey. n.d. “How to Make Friends over the Internet.” <i>Alexey Guzey</i>. Accessed September 17, 2020. <a href="/how-to-make-friends-over-the-internet/">/how-to-make-friends-over-the-internet/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>“Heartworn Highways.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Heartworn_Highways&oldid=1183550329">https://en.wikipedia.org/w/index.php?title=Heartworn_Highways&#38;oldid=1183550329</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>“Love, Death &#38; Robots.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Love,_Death_%26_Robots&oldid=1186447573">https://en.wikipedia.org/w/index.php?title=Love,_Death_%26_Robots&#38;oldid=1186447573</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>“Maus.” 2023. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Maus&oldid=1182636934">https://en.wikipedia.org/w/index.php?title=Maus&#38;oldid=1182636934</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Nanda, Neel. n.d. “Intentionally Making Close Friends.” Accessed October 20, 2023. <a href="https://www.lesswrong.com/posts/pfibDHFZ3waBo6pAc/intentionally-making-close-friends">https://www.lesswrong.com/posts/pfibDHFZ3waBo6pAc/intentionally-making-close-friends</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>“Never Cry Wolf (Film).” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Never_Cry_Wolf_(film)&oldid=1186426810">https://en.wikipedia.org/w/index.php?title=Never_Cry_Wolf_(film)&#38;oldid=1186426810</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>“Nixtamalization.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Nixtamalization&oldid=1115632392">https://en.wikipedia.org/w/index.php?title=Nixtamalization&#38;oldid=1115632392</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>“Playtime.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Playtime&oldid=1183004299">https://en.wikipedia.org/w/index.php?title=Playtime&#38;oldid=1183004299</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>“Primal (TV Series).” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Primal_(TV_series)&oldid=1186959061">https://en.wikipedia.org/w/index.php?title=Primal_(TV_series)&#38;oldid=1186959061</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>Sakurai, Gamon, and Ko Ransom. 2014. <i>Ajin: Demi-Human</i>. First edition. New York: Vertical, Inc.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>“Scavengers Reign.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Scavengers_Reign&oldid=1187137229">https://en.wikipedia.org/w/index.php?title=Scavengers_Reign&#38;oldid=1187137229</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>“Spy Family.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Spy_%C3%97_Family&oldid=1186398513">https://en.wikipedia.org/w/index.php?title=Spy_%C3%97_Family&#38;oldid=1186398513</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>“Strong Female Protagonist.” 2023. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Strong_Female_Protagonist&oldid=1177417302">https://en.wikipedia.org/w/index.php?title=Strong_Female_Protagonist&#38;oldid=1177417302</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>“The Block Island Sound.” 2023. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=The_Block_Island_Sound&oldid=1169990142">https://en.wikipedia.org/w/index.php?title=The_Block_Island_Sound&#38;oldid=1169990142</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>“The Midnight Gospel.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=The_Midnight_Gospel&oldid=1186577383">https://en.wikipedia.org/w/index.php?title=The_Midnight_Gospel&#38;oldid=1186577383</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>“The Sandman (Comic Book).” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=The_Sandman_(comic_book)&oldid=1185227175">https://en.wikipedia.org/w/index.php?title=The_Sandman_(comic_book)&#38;oldid=1185227175</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>Watts, Alan. 1951. <i>The Wisdom of Insecurity</i>. New York, NY: Vintage Books.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>“Yotsuba&#38;!” 2023. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Yotsuba%26!&oldid=1177714668">https://en.wikipedia.org/w/index.php?title=Yotsuba%26!&#38;oldid=1177714668</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_33"></a>2010. <i>Dorohedoro. Vol. 1</i>. First American edition. San Francisco, Calif.: Viz Media.</div>
   <div class="csl-entry">NO_ITEM_DATA:tene80iRelaxBeKindYourself</div>
+  <div class="csl-entry">NO_ITEM_DATA:Pantheon2023</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

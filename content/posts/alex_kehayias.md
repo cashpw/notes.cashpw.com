@@ -2,7 +2,7 @@
 title = "Alex Kehayias"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:44:00-08:00
-lastmod = 2023-12-21T20:44:23-08:00
+lastmod = 2023-12-22T21:31:58-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -26,4 +26,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Examples of Zettelkasten Notes]({{< relref "alex_kehayias.md" >}})
+-   [Examples of Zettelkasten Notes]({{< relref "examples_of_zettelkasten_notes.md" >}})

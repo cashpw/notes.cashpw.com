@@ -2,7 +2,7 @@
 title = "Bellman-Ford implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T08:37:00-08:00
-lastmod = 2023-12-05T19:55:35-08:00
+lastmod = 2023-12-22T21:35:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -74,6 +74,8 @@ def bellman_ford(source: Node, edges: Edges, nodes: Nodes) -> Tuple[Distances, P
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

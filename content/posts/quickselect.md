@@ -2,7 +2,7 @@
 title = "Quickselect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T16:09:00-07:00
-lastmod = 2023-12-05T20:50:52-08:00
+lastmod = 2023-12-23T00:12:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -70,8 +70,10 @@ procedure QuickSort(list, targetIndex) is
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Selection algorithm]({{< relref "selection_algorithm.md" >}})
 -   [Quickselect implementation in Python]({{< relref "quickselect_implementation_in_python.md" >}})
+-   [Selection algorithm]({{< relref "selection_algorithm.md" >}})

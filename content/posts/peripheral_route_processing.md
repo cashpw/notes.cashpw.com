@@ -2,7 +2,7 @@
 title = "Peripheral route processing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:17:00-07:00
-lastmod = 2023-12-05T20:45:48-08:00
+lastmod = 2023-12-22T23:53:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,6 +23,8 @@ A way of processing an argument by looking at secondary characteristics. Usually
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Elaboration Likelihood Model.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&oldid=1091358254">https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&#38;oldid=1091358254</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

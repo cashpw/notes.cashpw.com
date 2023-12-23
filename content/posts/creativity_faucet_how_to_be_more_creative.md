@@ -2,7 +2,7 @@
 title = "Julian Shapiro | Creativity Faucet: How to Be More Creative"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-26T09:24:00-07:00
-lastmod = 2023-12-05T20:04:45-08:00
+lastmod = 2023-12-22T21:50:31-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -44,6 +44,8 @@ slug = "bbb82ce2-0bab-4746-acc1-7bb95da9bb72"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:CreativityFaucetHowBeMoreCreative</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Most of what you read on the internet is written by insane people"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:24:00-08:00
-lastmod = 2023-12-05T20:08:07-08:00
+lastmod = 2023-12-22T21:59:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -26,7 +26,7 @@ Originally posted at (NO_ITEM_DATA:dinoinnameonlyMostWhatYouReadInternetWrittenI
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:MostWhatWeReadInternetWrittenInsanePeopleHackerNews</div>
-  <div class="csl-entry">NO_ITEM_DATA:MostWhatYouReadInternetWrittenInsanePeople2018Hacker</div>
   <div class="csl-entry">NO_ITEM_DATA:dinoinnameonlyMostWhatYouReadInternetWrittenInsanePeople2018</div>
+  <div class="csl-entry">NO_ITEM_DATA:MostWhatYouReadInternetWrittenInsanePeople2018Hacker</div>
+  <div class="csl-entry">NO_ITEM_DATA:MostWhatWeReadInternetWrittenInsanePeopleHackerNews</div>
 </div>

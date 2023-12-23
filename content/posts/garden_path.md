@@ -2,7 +2,7 @@
 title = "Garden path"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-23T09:46:00-07:00
-lastmod = 2023-12-05T20:14:44-08:00
+lastmod = 2023-12-22T22:17:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -65,6 +65,8 @@ slug = "3f513197-b379-4b8b-b918-21100005e18a"
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Garden-Path Sentence.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Garden-path_sentence&oldid=1150844116">https://en.wikipedia.org/w/index.php?title=Garden-path_sentence&#38;oldid=1150844116</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Klein, Gary, and Holly C. Baxter. 2006. “Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning.” In <i>Interservice/Industry Training Systems and Education Conference, Orlando, Florida</i>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "On parenting"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-24T17:39:00-07:00
-lastmod = 2023-12-05T20:42:33-08:00
+lastmod = 2023-12-22T23:42:32-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -59,6 +59,7 @@ A mega-note for all the parenting related topics I want to keep for future refer
     -   house cleaning
     -   garden/lawn maintenance
     -   cooking
+-   [Data-frame model]({{< relref "data_frame_model.md" >}}) posits that people have similar reasoning skills and that the difference between a novice and an expert is the number of frames they possess. Children, after a certain age, are similar. They can think through a situation well enough, they just don't have as much experience.
 
 
 ### [75% of the time we spend with our kids in our lifetime will be spent by age 12](https://www.1000hoursoutside.com/blog/time-with-kids-before-age-12) {#75-of-the-time-we-spend-with-our-kids-in-our-lifetime-will-be-spent-by-age-12}
@@ -79,7 +80,7 @@ A mega-note for all the parenting related topics I want to keep for future refer
     -   e.g. Will you take me to the swimming pool? Yes, if you finish your chores.
     -   e.g. Can I have another snack? Yes, if you wash your dishes.
 -   (<a href="#citeproc_bib_item_30">Josée 2018</a>)
--   [Praise process and effort]({{< relref "on_parenting.md" >}})
+-   [Praise process and effort]({{< relref "praise_process_and_effort.md" >}})
 -   [Freddish]({{< relref "freddish.md" >}})
 -   "Instead of "I'll go downstairs and get your bear" maybe "I'll go downstairs and look for your bear." While with adults we understand that when a person says they'll do something they mean they'll put in a reasonable effort and may fail if the task is surprisingly difficult or if factors outside their control intervene, I find that with kids being explicit about likely failure possibilities is helpful." (<a href="#citeproc_bib_item_35">Kaufman n.d.-c</a>)
 -   "I don't know" has more than one meaning
@@ -219,7 +220,7 @@ A mega-note for all the parenting related topics I want to keep for future refer
     >
     > If he does develop other interests, it's possible you might eventually be able to relax the rules without him going crazy. For what it's worth, even though my mother never actually forbade video games for me, I just never got as deeply into them as my peers, because I had so many other things I was interested in. I won't claim I never went through the occasional video game binge, but it never lasted. I'm pursuing a similar strategy with my own kids (a little younger than yours) and it seems to be working out so far.
     >
-    > (<a href="#citeproc_bib_item_51">Sunami 2018b</a>)
+    > (<a href="#citeproc_bib_item_50">Sunami 2018a</a>)
 -   Consider the community you and your child(ren) exist within; you may need to change the [System]({{< relref "systems.md" >}}) in order to change the behavior
 
     > Given the smallness of your community, and the tight-knit nature of your son's peer group, **this is not a problem you will be able to solve on your own**. You need to reach out to the parents of the other boys to express your concerns, even if you suspect they will not be receptive. It will be important not to come across as chastising or judging them, but just as looking for support and advice.
@@ -228,7 +229,7 @@ A mega-note for all the parenting related topics I want to keep for future refer
     >
     > In turn, you might agree to let your son do some gaming with his friends, as long as it isn't the only thing he does with them. In my experience, what's most harmful isn't the obsessive activity itself, it's the way it crowds everything else out. **Something like a once-a-week "tech sabbath" (for instance, no computers, games or phones on Sundays) can really help**. It could be something the family could do together, or that you could perhaps even convince some of his friends to sign on for. (I personally do a tech sabbath myself --as a professional programmer it's vital to have at least one day a week I'm not staring at screens.)
     >
-    > (<a href="#citeproc_bib_item_50">Sunami 2018a</a>)
+    > (<a href="#citeproc_bib_item_51">Sunami 2018b</a>)
 
 
 ## Media, books, etc {#media-books-etc}
@@ -382,7 +383,7 @@ A mega-note for all the parenting related topics I want to keep for future refer
 -   Keep a sleep diary!
     -   Keep one for yourself
     -   Keep one for every child
--   Not getting 6/8 hours of uninterrupted sleep is at 6-12 months is [normal]({{< relref "on_parenting.md" >}}) and has no affect on later mental or psychomotor development or maternal mood
+-   Not getting 6/8 hours of uninterrupted sleep is at 6-12 months is [normal]({{< relref "marie_helene_pennestri_et_al_uninterrupted_infant_sleep_development_and_maternal_mood.md" >}}) and has no affect on later mental or psychomotor development or maternal mood
 -   Anecdotes
     -   [Jeff Kaufman]({{< relref "jeff_kaufman.md" >}})
         -   (<a href="#citeproc_bib_item_38">Kaufman n.d.-f</a>)
@@ -390,10 +391,10 @@ A mega-note for all the parenting related topics I want to keep for future refer
         -   (<a href="#citeproc_bib_item_34">Kaufman n.d.-b</a>)
 -   Make sure the parents get enough sleep
     -   (<a href="#citeproc_bib_item_37">Kaufman n.d.-e</a>)
--   [Rachel Rowell]({{< relref "on_parenting.md" >}})
+-   [Rachel Rowell]({{< relref "rachel_rowell.md" >}})
     -   (<a href="#citeproc_bib_item_46">Rowell n.d.-a</a>)
     -   (<a href="#citeproc_bib_item_47">Rowell n.d.-b</a>)
--   [6. Babies shit all over your schedule]({{< relref "on_parenting.md#6-dot-babies-shit-all-over-your-schedule" >}})
+-   [6. Babies shit all over your schedule]({{< relref "tim_urban_10_thoughts_from_the_fourth_trimester.md#6-dot-babies-shit-all-over-your-schedule" >}})
 
 
 ### Sleep training {#sleep-training}
@@ -806,6 +807,12 @@ This is a collection of discussions --- not a conclusion.
 ### (<a href="#citeproc_bib_item_4">“Attachment Parenting” 2023</a>) {#fb855a}
 
 
+## Open questions {#open-questions}
+
+
+### What can I (father) do to be wanted by our baby as much as Mom, or is it a lost cause? {#what-can-i--father--do-to-be-wanted-by-our-baby-as-much-as-mom-or-is-it-a-lost-cause}
+
+
 ## Bibliography {#bibliography}
 
 ## References
@@ -860,8 +867,8 @@ This is a collection of discussions --- not a conclusion.
   <div class="csl-entry"><a id="citeproc_bib_item_47"></a>———. n.d.-b. “Average Sleep Charts by Age.” Accessed November 8, 2023. <a href="http://www.mybabysleepguide.com/2013/02/average-sleep-charts-by-age.html">http://www.mybabysleepguide.com/2013/02/average-sleep-charts-by-age.html</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_48"></a>“Should I Allow or Forbid My Son to Visit the Education of a Religion That I Do Not Share?” 2020. Forum Post. <i>Parenting Stack Exchange</i>. <a href="https://parenting.stackexchange.com/q/18898">https://parenting.stackexchange.com/q/18898</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_49"></a>Skarupke, Malte. 2022. “Reasons Why Babies Cry in the First Three Months, How to Tell The Cries Apart, and What to Do.” <i>Probably Dance</i>. <a href="https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/">https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_50"></a>Sunami, Chris. 2018a. “Answer to ‘How to Deal with Excluding My Son from the Favourite Activity of His Peers?’.” <i>Parenting Stack Exchange</i>. <a href="https://parenting.stackexchange.com/a/33420">https://parenting.stackexchange.com/a/33420</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_51"></a>———. 2018b. “Answer to ‘How to Deal with Excluding My Son from the Favourite Activity of His Peers?’.” <i>Parenting Stack Exchange</i>. <a href="https://parenting.stackexchange.com/a/33443">https://parenting.stackexchange.com/a/33443</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_50"></a>Sunami, Chris. 2018a. “Answer to ‘How to Deal with Excluding My Son from the Favourite Activity of His Peers?’.” <i>Parenting Stack Exchange</i>. <a href="https://parenting.stackexchange.com/a/33443">https://parenting.stackexchange.com/a/33443</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_51"></a>———. 2018b. “Answer to ‘How to Deal with Excluding My Son from the Favourite Activity of His Peers?’.” <i>Parenting Stack Exchange</i>. <a href="https://parenting.stackexchange.com/a/33420">https://parenting.stackexchange.com/a/33420</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_52"></a>supposedlyfun, and Gunnar Zarncke. n.d. “Successful Mentoring on Parenting, Arranged Through LessWrong.” Accessed November 3, 2023. <a href="https://www.lesswrong.com/posts/epLzkMgSuovLGXAHR/successful-mentoring-on-parenting-arranged-through-lesswrong-1">https://www.lesswrong.com/posts/epLzkMgSuovLGXAHR/successful-mentoring-on-parenting-arranged-through-lesswrong-1</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_53"></a>TracingWoodgrains. 2018. “Book Review-Ish: Wikipedia Cofounder Larry Sanger’s Essay on Teaching Reading to 2 Year Olds.” Reddit Post. <i>R/Slatestarcodex</i>. <a href="www.reddit.com/r/slatestarcodex/comments/9fgu6i/book_reviewish_wikipedia_cofounder_larry_sangers/">www.reddit.com/r/slatestarcodex/comments/9fgu6i/book_reviewish_wikipedia_cofounder_larry_sangers/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_54"></a>“Videos &#38; Supplemental Material | Teach Your Child To Read In 100 Easy Lessons!” n.d. Accessed November 3, 2023. <a href="https://startreading.com/videos-supplementary-material/">https://startreading.com/videos-supplementary-material/</a>.</div>

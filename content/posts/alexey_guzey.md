@@ -2,7 +2,7 @@
 title = "Alexey Guzey"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-18T11:35:00-08:00
-lastmod = 2023-12-21T20:44:47-08:00
+lastmod = 2023-12-22T21:32:10-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -21,5 +21,5 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Alexey Guzey | Every Productivity Thought I've Ever Had, as Concisely as Possible]({{< relref "alexey_guzey.md" >}})
--   [Alexey Guzey | It Is Your Responsibility to Follow Up]({{< relref "alexey_guzey.md" >}})
+-   [Alexey Guzey | Every Productivity Thought I've Ever Had, as Concisely as Possible]({{< relref "alexey_guzey_every_productivity_thought_i_ve_ever_had_as_concisely_as_possible.md" >}})
+-   [Alexey Guzey | It Is Your Responsibility to Follow Up]({{< relref "alexey_guzey_it_is_your_responsibility_to_follow_up.md" >}})

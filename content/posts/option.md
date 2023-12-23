@@ -2,7 +2,7 @@
 title = "Option (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:29:00-08:00
-lastmod = 2023-12-05T20:43:24-08:00
+lastmod = 2023-12-22T23:45:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -53,6 +53,8 @@ slug = "1263eb22-a819-43e6-9ab4-d45f790b095f"
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Option (Finance).” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Option_(finance)&oldid=1110213428">https://en.wikipedia.org/w/index.php?title=Option_(finance)&#38;oldid=1110213428</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Option Style.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Option_style&oldid=1119699571#American_and_European_options">https://en.wikipedia.org/w/index.php?title=Option_style&#38;oldid=1119699571#American_and_European_options</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

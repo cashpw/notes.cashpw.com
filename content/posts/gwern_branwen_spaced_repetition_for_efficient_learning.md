@@ -2,7 +2,7 @@
 title = "Gwern Branwen | Spaced Repetition for Efficient Learning"
 author = ["Cash Weaver"]
 date = 2022-12-11T15:33:00-08:00
-lastmod = 2023-12-05T20:17:26-08:00
+lastmod = 2023-12-22T22:25:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

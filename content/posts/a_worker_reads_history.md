@@ -2,14 +2,14 @@
 title = "Bertolt Brecht | A worker reads history"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T07:12:00-08:00
-lastmod = 2023-12-21T20:42:52-08:00
+lastmod = 2023-12-22T21:31:10-08:00
 tags = ["hastodo", "poem", "hastodo", "poem"]
 categories = ["hastodo", "poem"]
 draft = false
 slug = "5ad7ef93-a1e3-4b69-85bc-b5c5c550df73"
 +++
 
-[Bertolt Brecht]({{< relref "a_worker_reads_history.md" >}}), (<a href="#citeproc_bib_item_1">Bertholt n.d.</a>)
+[Bertolt Brecht]({{< relref "bertolt_brecht.md" >}}), (<a href="#citeproc_bib_item_1">Bertholt n.d.</a>)
 
 <div class="verse">
 
@@ -46,7 +46,7 @@ So many questions.<br />
 
 </div>
 
-One of my [Favorites]({{< relref "a_worker_reads_history.md" >}}).
+One of my [Favorites]({{< relref "favorites.md" >}}).
 
 
 ## Bibliography {#bibliography}

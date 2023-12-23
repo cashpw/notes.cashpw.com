@@ -2,7 +2,7 @@
 title = "Composability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:47:00-08:00
-lastmod = 2023-12-05T20:03:22-08:00
+lastmod = 2023-12-22T21:47:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,6 +24,8 @@ slug = "5d0c9c41-219f-4330-b2e6-0ae5daaa5355"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Composability.” 2021. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Composability&oldid=1030547806">https://en.wikipedia.org/w/index.php?title=Composability&#38;oldid=1030547806</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

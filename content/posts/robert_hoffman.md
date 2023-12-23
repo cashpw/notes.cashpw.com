@@ -2,7 +2,7 @@
 title = "Robert Hoffman"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T16:49:00-07:00
-lastmod = 2023-12-05T20:54:50-08:00
+lastmod = 2023-12-23T00:25:41-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "befc954b-de22-46b6-b68e-3f0cc1536880"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

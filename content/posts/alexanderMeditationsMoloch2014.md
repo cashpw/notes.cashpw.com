@@ -2,14 +2,14 @@
 title = "Scott Alexander | Meditations On Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:30:00-07:00
-lastmod = 2023-12-21T20:44:35-08:00
+lastmod = 2023-12-22T21:32:03-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "1bba449a-48eb-479a-be4d-a4d7f8095b6a"
 +++
 
-[Scott Alexander]({{< relref "alexanderMeditationsMoloch2014.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2014</a>)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2014</a>)
 
 
 ## Summary {#summary}
@@ -18,7 +18,7 @@ Systems compel the individuals within them to act within the rules of the system
 
 Related:
 
--   [Tragedy of the Commons]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Tragedy of the Commons]({{< relref "tragedy_of_the_commons.md" >}})
 
 
 ## Notes {#notes}
@@ -26,7 +26,7 @@ Related:
 
 ### I {#i}
 
-See [Howl]({{< relref "alexanderMeditationsMoloch2014.md#ii" >}}).
+See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 > A lot of the commentators say Moloch represents capitalism. This is definitely a piece of it, even a big piece. But it doesn't quite fit. Capitalism, whose fate is a cloud of sexless hydrogen? Capitalism in whom I am a consciousness without a body? Capitalism, therefore granite cocks?
 >
@@ -52,7 +52,7 @@ See [Howl]({{< relref "alexanderMeditationsMoloch2014.md#ii" >}}).
 ### Examples {#examples}
 
 
-#### [Prisoner's dilemma]({{< relref "alexanderMeditationsMoloch2014.md" >}}) {#prisoner-s-dilemma--alexandermeditationsmoloch2014-dot-md}
+#### [Prisoner's dilemma]({{< relref "prisoner_s_dilemma.md" >}}) {#prisoner-s-dilemma--prisoner-s-dilemma-dot-md}
 
 
 #### Fish farming story {#fish-farming-story}
@@ -108,7 +108,7 @@ See [Howl]({{< relref "alexanderMeditationsMoloch2014.md#ii" >}}).
 
 > A basic principle unites all of the multipolar traps above. In some competition optimizing for X, the opportunity arises to throw some other value under the bus for improved X. Those who take it prosper. Those who don't take it die out. Eventually, everyone's relative status is about the same as before, but everyone's absolute status is worse than before. The process continues until all other values that can be traded off have been – in other words, until human ingenuity cannot possibly figure out a way to make things any worse.
 
-[The right path? No. The only path? Yes.]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+[The right path? No. The only path? Yes.]({{< relref "the_right_path_no_the_only_path_yes.md" >}})
 
 
 ### III {#iii}
@@ -124,12 +124,12 @@ See [Howl]({{< relref "alexanderMeditationsMoloch2014.md#ii" >}}).
 > But not only have we not yet reached the sea, but we also seem to move uphill surprisingly often. Why do things not degenerate more and more until we are back at subsistence level? I can think of three bad reasons – excess resources, physical limitations, and utility maximization – plus one good reason – coordination.
 
 
-#### Excess resources ([Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})) {#excess-resources--moloch-alexandermeditationsmoloch2014-dot-md}
+#### Excess resources ([Moloch]({{< relref "moloch.md" >}})) {#excess-resources--moloch-moloch-dot-md}
 
 > The ocean depths are a horrible place with little light, few resources, and various horrible organisms dedicated to eating or parasitizing one another. But every so often, a whale carcass falls to the bottom of the sea. More food than the organisms that find it could ever possibly want. There's a brief period of miraculous plenty, while the couple of creatures that first encounter the whale feed like kings. Eventually more animals discover the carcass, the faster-breeding animals in the carcass multiply, the whale is gradually consumed, and everyone sighs and goes back to living in a Malthusian death-trap.
 
 
-#### Physical limitations ([Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})) {#physical-limitations--moloch-alexandermeditationsmoloch2014-dot-md}
+#### Physical limitations ([Moloch]({{< relref "moloch.md" >}})) {#physical-limitations--moloch-moloch-dot-md}
 
 > Imagine a profit-maximizing slavemaster who decided to cut costs by not feeding his slaves or letting them sleep. He would soon find that his slaves' productivity dropped off drastically, and that no amount of whipping them could restore it. Eventually after testing numerous strategies, he might find his slaves got the most work done when they were well-fed and well-rested and had at least a little bit of time to relax. Not because the slaves were voluntarily withholding their labor – we assume the fear of punishment is enough to make them work as hard as they can – but because the body has certain physical limitations that limit how mean you can get away with being. Thus, the "race to the bottom" stops somewhere short of the actual ethical bottom, when the physical limits are run into.
 >
@@ -138,7 +138,7 @@ See [Howl]({{< relref "alexanderMeditationsMoloch2014.md#ii" >}}).
 > So in this case, a race to the bottom where competing plantations become crueler and crueler to their slaves in order to maximize competitiveness is halted by the physical limitation of cruelty not helping after a certain point.
 
 
-#### Utility maximization ([Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})) {#utility-maximization--moloch-alexandermeditationsmoloch2014-dot-md}
+#### Utility maximization ([Moloch]({{< relref "moloch.md" >}})) {#utility-maximization--moloch-moloch-dot-md}
 
 > We've been thinking in terms of preserving values versus winning competitions, and expecting optimizing for the latter to destroy the former.
 >
@@ -171,9 +171,9 @@ See [Howl]({{< relref "alexanderMeditationsMoloch2014.md#ii" >}}).
 > (Moloch the incomprehensible prison! Moloch the crossbone soulless jailhouse and Congress of sorrows! Moloch whose buildings are judgment! Moloch the stunned governments!)
 
 
-#### Coordination ([Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})) {#coordination--moloch-alexandermeditationsmoloch2014-dot-md}
+#### Coordination ([Moloch]({{< relref "moloch.md" >}})) {#coordination--moloch-moloch-dot-md}
 
-[The opposite of a trap is a garden]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+[The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}})
 
 > Things are easy to solve from a god's-eye-view, so if everyone comes together into a superorganism, that superorganism can solve problems with ease and finesse. An intense competition between agents has turned into a garden, with a single gardener dictating where everything should go and removing elements that do not conform to the pattern.
 
@@ -194,7 +194,7 @@ See [Howl]({{< relref "alexanderMeditationsMoloch2014.md#ii" >}}).
 >
 > As technological advance increases, the rare confluence will come to an end. New opportunities to throw values under the bus for increased competitiveness will arise. New ways of copying agents to increase the population will soak up our excess resources and resurrect Malthus' unquiet spirit. Capitalism and democracy, previously our protectors, will figure out ways to route around their inconvenient dependence on human values. And our coordination power will not be nearly up to the task, assuming somthing much more powerful than all of us combined doesn't show up and crush our combined efforts with a wave of its paw.
 
-[Contract Drafting Em]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+[Contract Drafting Em]({{< relref "contract_drafting_em.md" >}})
 
 > The last value we have to sacrifice is being anything at all, having the lights on inside. With sufficient technology we will be "able" to give up even the final spark.
 >
@@ -211,7 +211,7 @@ See [Howl]({{< relref "alexanderMeditationsMoloch2014.md#ii" >}}).
 
 ### VII {#vii}
 
-> [The opposite of a trap is a garden]({{< relref "alexanderMeditationsMoloch2014.md" >}}). The only way to avoid having all human values gradually ground down by optimization-competition is to install a Gardener over the entire universe who optimizes for human values.
+> [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}}). The only way to avoid having all human values gradually ground down by optimization-competition is to install a Gardener over the entire universe who optimizes for human values.
 >
 > And the whole point of Bostrom's Superintelligence is that this is within our reach. Once humans can design machines that are smarter than we are, by definition they'll be able to design machines which are smarter than they are, which can design machines smarter than they are, and so on in a feedback loop so tiny that it will smash up against the physical limitations for intelligence in a comparatively lightning-short amount of time. If multiple competing entities were likely to do that at once, we would be super-doomed. But the sheer speed of the cycle makes it possible that we will end up with one entity light-years ahead of the rest of civilization, so much so that it can suppress any competition – including competition for its title of most powerful entity – permanently. In the very near future, we are going to lift something to Heaven. It might be Moloch. But it might be something on our side. If it's on our side, it can kill Moloch dead.
 >
@@ -220,7 +220,7 @@ See [Howl]({{< relref "alexanderMeditationsMoloch2014.md#ii" >}}).
 
 ### VIII {#viii}
 
-> The Universe is a dark [[Dark forest theory]({{< relref "alexanderMeditationsMoloch2014.md" >}})] and foreboding place, suspended between alien deities. Cthulhu, Gnon, Moloch, call them what you will.
+> The Universe is a dark [[Dark forest theory]({{< relref "dark_forest_theory.md" >}})] and foreboding place, suspended between alien deities. Cthulhu, Gnon, Moloch, call them what you will.
 >
 > Somewhere in this darkness is another god. He has also had many names. In the Kushiel books, his name was Elua. He is the god of flowers and free love and all soft and fragile things. Of art and science and philosophy and love. Of niceness, community, and civilization. He is a god of humans.
 >
@@ -246,7 +246,7 @@ See [Howl]({{< relref "alexanderMeditationsMoloch2014.md#ii" >}}).
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” Slate Star Codex. July 30, 2014. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
 </div>
 
 foo1
@@ -254,7 +254,7 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]({{< relref "alexanderMeditationsMoloch2014.md" >}})
--   [Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})
--   [Scott Alexander]({{< relref "alexanderMeditationsMoloch2014.md" >}})
--   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]({{< relref "kaj_sotala_nobody_does_the_thing_that_they_are_supposedly_doing.md" >}})
+-   [Moloch]({{< relref "moloch.md" >}})
+-   [Scott Alexander]({{< relref "scott_alexander.md" >}})
+-   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})

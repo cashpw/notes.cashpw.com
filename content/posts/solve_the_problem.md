@@ -2,7 +2,7 @@
 title = "Solve the problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:37:00-08:00
-lastmod = 2023-12-05T21:02:57-08:00
+lastmod = 2023-12-23T00:56:14-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -30,15 +30,17 @@ The goal isn't to [Metagame]({{< relref "the_metagame.md" >}}) the problem (i.e.
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022</div>
-  <div class="csl-entry">NO_ITEM_DATA:navarroDonJustWriteCodeSolveProblems2021</div>
   <div class="csl-entry">NO_ITEM_DATA:tabacuYouReNotWritingCodeYouReSolvingProblems2020</div>
+  <div class="csl-entry">NO_ITEM_DATA:navarroDonJustWriteCodeSolveProblems2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
 -   [Dan Luu | Some Reasons to Work on Productivity and Velocity]({{< relref "dan_luu_some_reasons_to_work_on_productivity_and_velocity.md" >}})
 -   [On productivity]({{< relref "on_productivity.md" >}})
+-   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
 -   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})

@@ -2,7 +2,7 @@
 title = "Bandwidth"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T09:30:00-07:00
-lastmod = 2023-12-05T19:54:50-08:00
+lastmod = 2023-12-22T21:34:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "d8a227fc-1de2-4dc8-bfc1-236ac1531f69"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Mnemonic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-04T17:38:00-07:00
-lastmod = 2023-12-05T20:37:30-08:00
+lastmod = 2023-12-22T23:25:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,9 +26,11 @@ slug = "f38ffe48-0117-4338-8bd5-e0b05101e64f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mnemonic.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Mnemonic&oldid=1121123169">https://en.wikipedia.org/w/index.php?title=Mnemonic&#38;oldid=1121123169</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})
 -   [Memory in Educational Settings]({{< relref "marshMemoryEducationalSettings2013.md#memory-in-educational-settings" >}})
 -   [Socratic questioning]({{< relref "socratic_questioning.md" >}})
--   [Bloom's taxonomy]({{< relref "BloomTaxonomy2022.md" >}})

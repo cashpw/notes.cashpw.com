@@ -2,7 +2,7 @@
 title = "Legible"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T08:21:00-08:00
-lastmod = 2023-12-05T20:30:20-08:00
+lastmod = 2023-12-22T23:04:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,9 +45,11 @@ Legibility is a [Leaky abstraction]({{< relref "leaky_abstraction.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewSeeingState2017</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
 -   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
 -   [Zach Tellman | Two Concepts of Legibility]({{< relref "zach_tellman_two_concepts_of_legibility.md" >}})
--   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})

@@ -2,7 +2,7 @@
 title = "Naturalistic Decision Making | Robert Hoffman"
 author = ["Cash Weaver"]
 date = 2023-07-30T07:42:00-07:00
-lastmod = 2023-12-05T20:39:43-08:00
+lastmod = 2023-12-22T23:33:24-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -28,6 +28,8 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Naturalistic Decision Making n.d.</
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Naturalistic Decision Making. n.d. “Robert Hoffman.” Accessed July 30, 2023. <a href="https://naturalisticdecisionmaking.org/2020/10/19/robert-hoffman/">https://naturalisticdecisionmaking.org/2020/10/19/robert-hoffman/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

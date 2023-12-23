@@ -2,7 +2,7 @@
 title = "Heap property"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:09:00-07:00
-lastmod = 2023-12-05T20:17:56-08:00
+lastmod = 2023-12-22T22:27:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,8 +33,10 @@ slug = "4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heap (Data Structure).” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Heap_(data_structure)&oldid=1088468512">https://en.wikipedia.org/w/index.php?title=Heap_(data_structure)&#38;oldid=1088468512</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Python library: queue]({{< relref "python_library_queue.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
+-   [Python library: queue]({{< relref "python_library_queue.md" >}})

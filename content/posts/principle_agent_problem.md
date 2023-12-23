@@ -2,7 +2,7 @@
 title = "Principle-agent problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T06:11:00-08:00
-lastmod = 2023-12-05T20:48:29-08:00
+lastmod = 2023-12-23T00:02:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,6 +23,8 @@ slug = "e1506f58-c519-4b04-a7fd-6bc821514a30"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Principalagent Problem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Principal%E2%80%93agent_problem&oldid=1131255299">https://en.wikipedia.org/w/index.php?title=Principal%E2%80%93agent_problem&#38;oldid=1131255299</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

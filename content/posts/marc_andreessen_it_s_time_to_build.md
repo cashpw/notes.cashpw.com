@@ -2,7 +2,7 @@
 title = "Marc Andreessen | It's Time to Build"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:19:00-08:00
-lastmod = 2023-12-05T20:33:52-08:00
+lastmod = 2023-12-22T23:14:41-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -132,12 +132,14 @@ As for specifics, insofar as a direction is specific, I agree with [Ezra Klein's
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Andreessen, Marc. 2020. “It’s Time to Build.” <i>Andreessen Horowitz</i>. <a href="https://a16z.com/2020/04/18/its-time-to-build/">https://a16z.com/2020/04/18/its-time-to-build/</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:kleinWhyWeCanBuild2020</div>
   <div class="csl-entry">NO_ITEM_DATA:1978CaliforniaProposition132022</div>
+  <div class="csl-entry">NO_ITEM_DATA:kleinWhyWeCanBuild2020</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Patrick Collison | Fast]({{< relref "patrick_collison_fast.md" >}})
 -   [Ezra Klein | Why We Can't Build]({{< relref "ezra_klein_why_we_can_t_build.md" >}})
+-   [Patrick Collison | Fast]({{< relref "patrick_collison_fast.md" >}})

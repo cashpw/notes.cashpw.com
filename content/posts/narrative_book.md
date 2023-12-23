@@ -2,7 +2,7 @@
 title = "Narrative book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:49:00-07:00
-lastmod = 2023-12-05T20:39:16-08:00
+lastmod = 2023-12-22T23:31:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,9 +26,11 @@ Related: [Tree book]({{< relref "tree_book.md" >}}), [Branch book]({{< relref "b
   <div class="csl-entry">NO_ITEM_DATA:chinThreeKindsNonfictionBooks2018</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Three Kinds of Non-Fiction Books]({{< relref "chinThreeKindsNonfiction2018.md" >}})
 -   [Branch book]({{< relref "branch_book.md" >}})
+-   [Cedric Chin | The Three Kinds of Non-Fiction Books]({{< relref "chinThreeKindsNonfiction2018.md" >}})
 -   [Tree book]({{< relref "tree_book.md" >}})

@@ -2,7 +2,7 @@
 title = "C++ class"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:06:00-07:00
-lastmod = 2023-12-05T19:58:27-08:00
+lastmod = 2023-12-22T21:38:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -64,6 +64,8 @@ class Foo : public Container {
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Stroustrup, Bjarne. 2022. <i>A Tour of C++</i>. Third. C++ in-Depth Series. Boston: Addison-Wesley.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

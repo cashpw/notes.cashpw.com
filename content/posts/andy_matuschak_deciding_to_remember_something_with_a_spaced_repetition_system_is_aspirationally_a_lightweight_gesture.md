@@ -2,19 +2,19 @@
 title = "Andy Matuschak | Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture"
 author = ["Cash Weaver"]
 date = 2023-08-04T18:11:00-07:00
-lastmod = 2023-12-21T20:46:00-08:00
+lastmod = 2023-12-22T21:32:49-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "369aafeb-965f-42c7-8b8a-c5963dcc647c"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak_deciding_to_remember_something_with_a_spaced_repetition_system_is_aspirationally_a_lightweight_gesture.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (NO_ITEM_DATA:matuschakDecidingRememberSomethingSpacedRepetitionSystemAspirationallyLightweightGesture)
 
 
 ## Summary {#summary}
 
-Using a [Spaced repetition system]({{< relref "andy_matuschak_deciding_to_remember_something_with_a_spaced_repetition_system_is_aspirationally_a_lightweight_gesture.md" >}}) to remember something should, ideally, be lightweight. That is, the system makes it easy for you to remember the thing.
+Using a [Spaced repetition system]({{< relref "spaced_repetition.md" >}}) to remember something should, ideally, be lightweight. That is, the system makes it easy for you to remember the thing.
 
 
 ## Thoughts {#thoughts}
@@ -34,5 +34,5 @@ Using a [Spaced repetition system]({{< relref "andy_matuschak_deciding_to_rememb
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture.” Andy’s working notes. Accessed August 5, 2023. <a href="https://notes.andymatuschak.org/z4ipbCkPaf5wwDkpgqUFgTg">https://notes.andymatuschak.org/z4ipbCkPaf5wwDkpgqUFgTg</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:matuschakDecidingRememberSomethingSpacedRepetitionSystemAspirationallyLightweightGesture</div>
 </div>

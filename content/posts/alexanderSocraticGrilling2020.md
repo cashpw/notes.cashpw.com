@@ -2,24 +2,24 @@
 title = "Scott Alexander | Socratic Grilling"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:03:00-08:00
-lastmod = 2023-12-21T20:44:42-08:00
+lastmod = 2023-12-22T21:32:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "cb4ba655-dabf-40a2-95e7-0cdbff887074"
 +++
 
-[Scott Alexander]({{< relref "alexanderSocraticGrilling2020.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2020</a>)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2020</a>)
 
 
 ## Summary {#summary}
 
-[Socratic grilling]({{< relref "alexanderSocraticGrilling2020.md" >}}) is "like Socratic questioning, but a little harsher and more confrontational in order to get to the point more quickly" (<a href="#citeproc_bib_item_1">Alexander 2020</a>). [Scott Alexander]({{< relref "alexanderSocraticGrilling2020.md" >}}) encourages leaning in to such conversations without shutting them down with an "I know more than you do"- or "Just because"-type responses.
+[Socratic grilling]({{< relref "socratic_grilling.md" >}}) is "like Socratic questioning, but a little harsher and more confrontational in order to get to the point more quickly" (<a href="#citeproc_bib_item_1">Alexander 2020</a>). [Scott Alexander]({{< relref "scott_alexander.md" >}}) encourages leaning in to such conversations without shutting them down with an "I know more than you do"- or "Just because"-type responses.
 
 
 ## Thoughts {#thoughts}
 
-The learning done through [Socratic questioning]({{< relref "alexanderSocraticGrilling2020.md" >}}) is worth the potential friction of such a conversation. Be careful that the person is asking questions in good faith rather than attempting to [Control the conversation]({{< relref "alexanderSocraticGrilling2020.md" >}}).
+The learning done through [Socratic questioning]({{< relref "socratic_questioning.md" >}}) is worth the potential friction of such a conversation. Be careful that the person is asking questions in good faith rather than attempting to [Control the conversation]({{< relref "control_the_conversation.md" >}}).
 
 
 ## Notes {#notes}
@@ -70,7 +70,7 @@ The learning done through [Socratic questioning]({{< relref "alexanderSocraticGr
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2020. “Socratic Grilling.” Slate Star Codex. March 6, 2020. <a href="https://slatestarcodex.com/2020/03/06/socratic-grilling/">https://slatestarcodex.com/2020/03/06/socratic-grilling/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2020. “Socratic Grilling.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2020/03/06/socratic-grilling/">https://slatestarcodex.com/2020/03/06/socratic-grilling/</a>.</div>
 </div>
 
 foo1
@@ -78,4 +78,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Socratic grilling]({{< relref "alexanderSocraticGrilling2020.md" >}})
+-   [Socratic grilling]({{< relref "socratic_grilling.md" >}})

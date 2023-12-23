@@ -2,7 +2,7 @@
 title = "Power comes from having something to protect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T17:35:00-08:00
-lastmod = 2023-12-05T20:47:50-08:00
+lastmod = 2023-12-23T00:00:49-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -20,6 +20,8 @@ See [Eliezer Yudkowsky | Something to Protect]({{< relref "eliezer_yudkowsky_som
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

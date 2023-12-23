@@ -2,7 +2,7 @@
 title = "Priority queue"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2023-12-05T20:48:34-08:00
+lastmod = 2023-12-23T00:03:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,12 +26,14 @@ slug = "6f787120-13bb-405a-bfca-060df6d80b14"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Priority Queue.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Priority_queue&oldid=1083761771">https://en.wikipedia.org/w/index.php?title=Priority_queue&#38;oldid=1083761771</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Queue]({{< relref "queue.md" >}})
--   [Python library: queue]({{< relref "python_library_queue.md" >}})
 -   [Binary heap]({{< relref "binary_heap.md" >}})
--   [Heap]({{< relref "heap.md" >}})
--   [Edge difference]({{< relref "contraction_hierarchies.md#edge-difference" >}})
 -   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
+-   [Edge difference]({{< relref "contraction_hierarchies.md#edge-difference" >}})
+-   [Heap]({{< relref "heap.md" >}})
+-   [Python library: queue]({{< relref "python_library_queue.md" >}})
+-   [Queue]({{< relref "queue.md" >}})

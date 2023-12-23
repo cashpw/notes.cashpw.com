@@ -2,7 +2,7 @@
 title = "Binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2023-12-05T19:56:44-08:00
+lastmod = 2023-12-22T21:36:37-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -46,16 +46,18 @@ Assuming a 0-indexed array: child nodes for a node at index \\(i\\) are at \\(\t
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Tree.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Binary_tree&oldid=1092722102">https://en.wikipedia.org/w/index.php?title=Binary_tree&#38;oldid=1092722102</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [Balanced binary tree]({{< relref "balanced_binary_tree.md" >}})
+-   [Binary heap]({{< relref "binary_heap.md" >}})
+-   [Binary search tree]({{< relref "binary_search_tree.md" >}})
+-   [Complete binary tree]({{< relref "complete_binary_tree.md" >}})
+-   [Degenerate binary tree]({{< relref "degenerate_binary_tree.md" >}})
+-   [Height-balanced binary tree]({{< relref "height_balanced_binary_tree.md" >}})
 -   [Iterative deepening depth-first-search]({{< relref "iterative_deepening_depth_first_search.md" >}})
 -   [Perfect binary tree]({{< relref "perfect_binary_tree.md" >}})
--   [Tree rotation]({{< relref "tree_rotation.md" >}})
--   [Binary heap]({{< relref "binary_heap.md" >}})
--   [Balanced binary tree]({{< relref "balanced_binary_tree.md" >}})
--   [Complete binary tree]({{< relref "complete_binary_tree.md" >}})
--   [Height-balanced binary tree]({{< relref "height_balanced_binary_tree.md" >}})
--   [Binary search tree]({{< relref "binary_search_tree.md" >}})
--   [Degenerate binary tree]({{< relref "degenerate_binary_tree.md" >}})
 -   [Succinct data structure]({{< relref "succinct_data_structure.md" >}})
+-   [Tree rotation]({{< relref "tree_rotation.md" >}})

@@ -2,7 +2,7 @@
 title = "Albert Trachsel"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-07T18:43:00-07:00
-lastmod = 2023-12-21T20:44:17-08:00
+lastmod = 2023-12-22T21:31:55-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,4 +21,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Albert Trachsel | Soleil]({{< relref "albert_trachsel.md" >}})
+-   [Albert Trachsel | Soleil]({{< relref "albert_trachsel_soleil.md" >}})

@@ -2,7 +2,7 @@
 title = "Antiderivative"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T06:39:00-08:00
-lastmod = 2023-12-05T19:53:25-08:00
+lastmod = 2023-12-22T21:33:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,10 +31,12 @@ $$
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Constant of integration]({{< relref "constant_of_integration.md" >}})
--   [Integral calculus]({{< relref "integral.md" >}})
 -   [Derivative (math)]({{< relref "derivative.md" >}})
 -   [Fundamental theorem of calculus]({{< relref "fundamental_theorem_of_calculus.md" >}})
+-   [Integral calculus]({{< relref "integral.md" >}})

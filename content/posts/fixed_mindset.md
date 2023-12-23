@@ -2,7 +2,7 @@
 title = "Fixed mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:44:00-07:00
-lastmod = 2023-12-05T20:13:16-08:00
+lastmod = 2023-12-22T22:13:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,9 +28,11 @@ slug = "3a203296-7538-4986-a360-0db64356c9f5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindset.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Mindset&oldid=1114760560#Fixed_and_growth_mindset">https://en.wikipedia.org/w/index.php?title=Mindset&#38;oldid=1114760560#Fixed_and_growth_mindset</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Praise process and effort]({{< relref "fixed_mindset.md" >}})
 -   [Growth mindset]({{< relref "growth_mindset.md" >}})
+-   [Praise process and effort]({{< relref "praise_process_and_effort.md" >}})
 -   [The first lesson]({{< relref "the_first_lesson.md" >}})

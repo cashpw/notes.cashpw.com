@@ -2,19 +2,19 @@
 title = "Alexey Guzey | It Is Your Responsibility to Follow Up"
 author = ["Cash Weaver"]
 date = 2023-02-18T11:35:00-08:00
-lastmod = 2023-12-21T20:44:53-08:00
+lastmod = 2023-12-22T21:32:13-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "257152a1-522e-4baf-a4db-14ef160de52b"
 +++
 
-[Alexey Guzey]({{< relref "alexey_guzey_it_is_your_responsibility_to_follow_up.md" >}}), (<a href="#citeproc_bib_item_1">Guzey n.d.</a>)
+[Alexey Guzey]({{< relref "alexey_guzey.md" >}}), (NO_ITEM_DATA:guzeyItYourResponsibilityFollow)
 
 
 ## Summary {#summary}
 
-Related: [It's your responsibility]({{< relref "alexey_guzey_it_is_your_responsibility_to_follow_up.md" >}}).
+Related: [It's your responsibility]({{< relref "it_s_your_responsibility.md" >}}).
 
 
 ## Thoughts {#thoughts}
@@ -28,5 +28,5 @@ Related: [It's your responsibility]({{< relref "alexey_guzey_it_is_your_responsi
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Guzey, Alexey. n.d. “It Is Your Responsibility to Follow Up.” Alexey Guzey. Accessed September 17, 2020. <a href="/follow-up/">/follow-up/</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:guzeyItYourResponsibilityFollow</div>
 </div>

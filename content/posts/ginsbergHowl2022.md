@@ -2,7 +2,7 @@
 title = "Allen Ginsberg | Howl"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:20:00-07:00
-lastmod = 2023-12-05T20:15:48-08:00
+lastmod = 2023-12-22T22:20:46-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false

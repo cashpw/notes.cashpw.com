@@ -2,7 +2,7 @@
 title = "Somatic tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T22:20:00-07:00
-lastmod = 2023-12-05T21:03:02-08:00
+lastmod = 2023-12-23T00:56:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "42fb5f3a-ce78-4d22-86e6-0ee2bcad8908"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:chinThreeKindsTacitKnowledge2020</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

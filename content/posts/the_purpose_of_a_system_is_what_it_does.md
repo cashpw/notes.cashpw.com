@@ -2,7 +2,7 @@
 title = "The purpose of a system is what it does"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T05:29:00-08:00
-lastmod = 2023-12-05T21:12:25-08:00
+lastmod = 2023-12-23T01:36:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,9 +24,11 @@ Related: [Duck test]({{< relref "duck_test.md" >}})
   <div class="csl-entry">NO_ITEM_DATA:PurposeSystemWhatItDoes2022</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
 -   [Robin Hanson | Politics Isn't about Policy]({{< relref "robin_hanson_politics_isn_t_about_policy.md" >}})
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
 -   [The left has no place it wants to go]({{< relref "the_left_has_no_place_it_wants_to_go.md" >}})

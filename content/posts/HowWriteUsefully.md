@@ -2,14 +2,14 @@
 title = "Paul Graham | How to Write Usefully"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:42:00-08:00
-lastmod = 2023-12-21T20:41:38-08:00
+lastmod = 2023-12-22T21:30:36-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "70afedd4-60d2-4e2e-87e1-04999d90079e"
 +++
 
-[Paul Graham]({{< relref "HowWriteUsefully.md" >}}), (<a href="#citeproc_bib_item_1">Graham n.d.</a>)
+[Paul Graham]({{< relref "paul_graham.md" >}}), (<a href="#citeproc_bib_item_1">Graham n.d.</a>)
 
 
 ## Summary {#summary}
@@ -77,5 +77,5 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Avoid qualifying language]({{< relref "HowWriteUsefully.md" >}})
--   [Style Guide]({{< relref "HowWriteUsefully.md" >}})
+-   [Avoid qualifying language]({{< relref "avoid_qualifying_language.md" >}})
+-   [Style Guide]({{< relref "style_guide.md" >}})

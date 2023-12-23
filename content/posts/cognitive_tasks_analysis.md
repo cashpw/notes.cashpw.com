@@ -2,7 +2,7 @@
 title = "Cognitive task analysis"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T16:40:00-07:00
-lastmod = 2023-12-05T20:02:42-08:00
+lastmod = 2023-12-22T21:46:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,7 +26,7 @@ slug = "bd9daffc-f556-4bdc-975e-e35c3c98ebee"
 >
 > (NO_ITEM_DATA:CognitiveTaskAnalysisUsabilityBodyKnowledge)
 
-Also see [Applied cognitive task analysis]({{< relref "cognitive_tasks_analysis.md" >}}).
+Also see [Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}}).
 
 
 ## Bibliography {#bibliography}
@@ -38,12 +38,14 @@ Also see [Applied cognitive task analysis]({{< relref "cognitive_tasks_analysis.
   <div class="csl-entry">NO_ITEM_DATA:CognitiveTaskAnalysisUsabilityBodyKnowledge</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
--   [Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning]({{< relref "gary_klein_and_holly_c_baxter_cognitive_transformation_theory_contrasting_cognitive_and_behavioral_learning.md" >}})
+-   [Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}})
 -   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
--   [Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}})
 -   [Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})
--   [Applied cognitive task analysis]({{< relref "cognitive_tasks_analysis.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
+-   [Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}})
+-   [Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning]({{< relref "gary_klein_and_holly_c_baxter_cognitive_transformation_theory_contrasting_cognitive_and_behavioral_learning.md" >}})

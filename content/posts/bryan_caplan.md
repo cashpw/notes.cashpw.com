@@ -2,7 +2,7 @@
 title = "Bryan Caplan"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:18:00-08:00
-lastmod = 2023-12-05T19:58:09-08:00
+lastmod = 2023-12-22T21:38:18-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "d6819447-2213-4cc1-8b82-23a63cc1d995"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

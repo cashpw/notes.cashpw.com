@@ -2,7 +2,7 @@
 title = "Improving as a software engineer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T14:08:00-08:00
-lastmod = 2023-12-05T20:21:23-08:00
+lastmod = 2023-12-22T22:36:46-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -24,6 +24,8 @@ slug = "3442bdf5-97f0-496e-9d8c-3c368e9ea517"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

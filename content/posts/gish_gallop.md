@@ -2,7 +2,7 @@
 title = "Gish gallop"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-25T15:03:00-08:00
-lastmod = 2023-12-05T20:15:51-08:00
+lastmod = 2023-12-22T22:20:51-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

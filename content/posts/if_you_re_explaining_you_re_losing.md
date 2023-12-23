@@ -2,7 +2,7 @@
 title = "If you're explaining, you're losing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-11T08:23:00-08:00
-lastmod = 2023-12-05T20:20:28-08:00
+lastmod = 2023-12-22T22:34:02-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -23,6 +23,8 @@ An example of [Never play defense]({{< relref "never_play_defense.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:reaganIfYouReExplainingYouReLosing</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

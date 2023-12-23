@@ -2,14 +2,14 @@
 title = "Jared Ramsey | The Last 1%"
 author = ["Cash Weaver"]
 date = 2023-12-04T08:08:00-08:00
-lastmod = 2023-12-05T20:24:10-08:00
+lastmod = 2023-12-22T22:44:54-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "099d031e-60c7-4527-95bc-84d9c8b56854"
 +++
 
-[Jared Ramsey]({{< relref "jared_ramsey_the_last_1.md" >}}), (<a href="#citeproc_bib_item_1">Ramsey n.d.</a>)
+[Jared Ramsey]({{< relref "jared_ramsey.md" >}}), (<a href="#citeproc_bib_item_1">Ramsey n.d.</a>)
 
 
 ## Summary {#summary}
@@ -17,7 +17,7 @@ slug = "099d031e-60c7-4527-95bc-84d9c8b56854"
 
 ## Thoughts {#thoughts}
 
-[After the finish line]({{< relref "jared_ramsey_the_last_1.md" >}})
+[After the finish line]({{< relref "after_the_finish_line.md" >}})
 
 
 ## Notes {#notes}

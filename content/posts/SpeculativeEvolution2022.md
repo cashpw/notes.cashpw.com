@@ -2,7 +2,7 @@
 title = "Speculative evolution"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T15:04:00-08:00
-lastmod = 2023-12-21T20:42:13-08:00
+lastmod = 2023-12-22T21:30:52-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -15,8 +15,8 @@ slug = "6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55"
 
 Related:
 
--   [Deep Time]({{< relref "SpeculativeEvolution2022.md" >}})
--   [All Tomorrows]({{< relref "SpeculativeEvolution2022.md" >}})
+-   [Deep Time]({{< relref "DeepTime2021.md" >}})
+-   [All Tomorrows]({{< relref "AllTomorrows2022a.md" >}})
 
 
 ## Bibliography {#bibliography}
@@ -24,7 +24,7 @@ Related:
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Speculative Evolution.” 2022. In <i>Wikipedia</i>. <a href="https://en.wikipedia.org/w/index.php?title=Speculative_evolution&oldid=1067458432">https://en.wikipedia.org/w/index.php?title=Speculative_evolution&#38;oldid=1067458432</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Speculative Evolution.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Speculative_evolution&oldid=1067458432">https://en.wikipedia.org/w/index.php?title=Speculative_evolution&#38;oldid=1067458432</a>.</div>
 </div>
 
 foo1
@@ -32,5 +32,5 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [C. M. Kosemen | All Tomorrows]({{< relref "SpeculativeEvolution2022.md" >}})
--   [Man After Man]({{< relref "SpeculativeEvolution2022.md" >}})
+-   [C. M. Kosemen | All Tomorrows]({{< relref "AllTomorrows2022a.md" >}})
+-   [Man After Man]({{< relref "ManMan2022.md" >}})

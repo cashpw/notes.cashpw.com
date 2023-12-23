@@ -2,7 +2,7 @@
 title = "Latency"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T08:41:00-07:00
-lastmod = 2023-12-05T20:29:17-08:00
+lastmod = 2023-12-22T23:00:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,6 +58,8 @@ slug = "53999225-665e-4d16-9a0d-60c49293ccab"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

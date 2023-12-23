@@ -2,7 +2,7 @@
 title = "Topological order"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T07:31:00-08:00
-lastmod = 2023-12-05T21:16:31-08:00
+lastmod = 2023-12-23T01:53:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,10 +58,12 @@ One can use a topological ordering to reduce the time complexity of the [Single-
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Topological Sorting.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Topological_sorting&oldid=1123299686">https://en.wikipedia.org/w/index.php?title=Topological_sorting&#38;oldid=1123299686</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
 -   [Directed acyclic graph]({{< relref "directed_acyclic_graph.md" >}})
 -   [Single-source shortest path with topological sort in Python]({{< relref "single_source_shortest_path_with_topological_sort_in_python.md" >}})
 -   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
--   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})

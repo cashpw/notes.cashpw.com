@@ -2,7 +2,7 @@
 title = "Truth resists simplicity"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:49:00-08:00
-lastmod = 2023-12-05T21:18:55-08:00
+lastmod = 2023-12-23T02:03:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,6 +18,8 @@ Phrase by [John Green]({{< relref "john_green.md" >}}).
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

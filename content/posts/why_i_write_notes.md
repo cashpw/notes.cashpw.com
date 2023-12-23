@@ -2,7 +2,7 @@
 title = "Why I write notes"
 author = ["Cash Weaver"]
 date = 2022-11-16T08:54:00-08:00
-lastmod = 2023-12-05T21:23:40-08:00
+lastmod = 2023-12-23T02:22:23-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -39,9 +39,11 @@ Also see [How I write notes]({{< relref "how_i_write_notes.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [How I write notes]({{< relref "how_i_write_notes.md" >}})
 -   [November 2022]({{< relref "november_2022.md" >}})
 -   [README]({{< relref "readme.md" >}})
--   [How I write notes]({{< relref "how_i_write_notes.md" >}})

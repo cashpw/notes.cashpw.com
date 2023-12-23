@@ -2,7 +2,7 @@
 title = "Frank Herbert | Dune"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T12:32:00-08:00
-lastmod = 2023-12-05T20:18:35-08:00
+lastmod = 2023-12-22T22:28:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -84,16 +84,18 @@ One of my [Favorites]({{< relref "favorites.md" >}}). This note, though the cita
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Inspiration for Dune]({{< relref "lesley_blanch_the_sabres_of_paradise_conquest_and_vengeance_in_the_caucasus.md#inspiration-for-id-68077361-66a6-4abe-b00f-dfb3d83630f2-dune" >}})
+-   [All governments suffer a recurring problem]({{< relref "all_governments_suffer_a_recurring_problem.md" >}})
 -   [Frank Herbert]({{< relref "frank_herbert.md" >}})
--   [Power attracts the corruptible]({{< relref "power_attracts_the_corruptible.md" >}})
--   [Seek freedom and become captive of your desires]({{< relref "seek_freedom_and_become_captive_of_your_desires.md" >}})
+-   [Greatness is a transitory experience]({{< relref "greatness_is_a_transitory_experience.md" >}})
+-   [If there is no enemy, one must be invented]({{< relref "if_there_is_no_enemy_once_must_be_invented.md" >}})
+-   [Inspiration for Dune]({{< relref "lesley_blanch_the_sabres_of_paradise_conquest_and_vengeance_in_the_caucasus.md#inspiration-for-id-68077361-66a6-4abe-b00f-dfb3d83630f2-dune" >}})
 -   [Node types]({{< relref "style_guide.md#node-types" >}})
 -   [Once men turned their thinking over to machines]({{< relref "once_men_turned_their_thinking_over_to_machines.md" >}})
--   [All governments suffer a recurring problem]({{< relref "all_governments_suffer_a_recurring_problem.md" >}})
--   [If there is no enemy, one must be invented]({{< relref "if_there_is_no_enemy_once_must_be_invented.md" >}})
--   [Greatness is a transitory experience]({{< relref "greatness_is_a_transitory_experience.md" >}})
+-   [Power attracts the corruptible]({{< relref "power_attracts_the_corruptible.md" >}})
+-   [Seek freedom and become captive of your desires]({{< relref "seek_freedom_and_become_captive_of_your_desires.md" >}})
 -   [There should be a science of discontent]({{< relref "there_should_be_a_science_of_discontent.md" >}})

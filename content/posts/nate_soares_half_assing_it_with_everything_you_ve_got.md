@@ -2,14 +2,14 @@
 title = "Nate Soares | Half-Assing It with Everything You've Got"
 author = ["Cash Weaver"]
 date = 2023-09-08T10:09:00-07:00
-lastmod = 2023-12-05T20:39:24-08:00
+lastmod = 2023-12-22T23:32:11-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "9e9ec4a3-93b8-4e7e-ba20-dbf557d989cb"
 +++
 
-[Nate Soares]({{< relref "nate_soares_half_assing_it_with_everything_you_ve_got.md" >}}), (<a href="#citeproc_bib_item_1">Soares 2015</a>)
+[Nate Soares]({{< relref "nate_soares.md" >}}), (<a href="#citeproc_bib_item_1">Soares 2015</a>)
 
 
 ## Summary {#summary}
@@ -62,6 +62,8 @@ Related: [Play to win]({{< relref "play_to_win.md" >}})
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Soares, Nate. 2015. “Half-Assing It with Everything You’ve Got.” <i>Minding Our Way</i>. <a href="https://mindingourway.com/half-assing-it-with-everything-youve-got/">https://mindingourway.com/half-assing-it-with-everything-youve-got/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

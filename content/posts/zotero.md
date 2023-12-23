@@ -2,7 +2,7 @@
 title = "Zotero"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-05T22:32:00-07:00
-lastmod = 2023-12-05T21:26:48-08:00
+lastmod = 2023-12-23T02:35:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,10 @@ slug = "b9235ad0-ffc3-4141-828e-485be52e89cf"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Zotero.” n.d. Accessed September 6, 2022. <a href="https://www.zotero.org/">https://www.zotero.org/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [How I write notes]({{< relref "how_i_write_notes.md" >}})
+-   [How to export an image gallery into Hugo using Emacs, Org-mode, and Ox-Hugo]({{< relref "zotero.md" >}})

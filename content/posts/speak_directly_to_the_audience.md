@@ -2,7 +2,7 @@
 title = "Speak directly to the audience"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:07:00-07:00
-lastmod = 2023-12-05T21:04:18-08:00
+lastmod = 2023-12-23T01:02:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -59,9 +59,11 @@ Consider a public argument between two individuals. There are three participants
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Running Clinic. n.d. “Thank You for Smoking.” <i>The Running Clinic - Prevention of Running Injuries</i>. Accessed October 25, 2023. <a href="https://therunningclinic.com/runners/blog/archives-anglaises/thank-you-for-smoking/">https://therunningclinic.com/runners/blog/archives-anglaises/thank-you-for-smoking/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})
+-   [Ian Danskin | Never Play Defense]({{< relref "danskinNeverPlayDefense2017.md" >}})
 -   [Never play defense]({{< relref "never_play_defense.md" >}})

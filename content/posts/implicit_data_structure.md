@@ -2,7 +2,7 @@
 title = "Implicit data structure"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:32:00-07:00
-lastmod = 2023-12-05T20:21:13-08:00
+lastmod = 2023-12-22T22:36:23-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "650f4577-c1ec-46c9-b7a6-af8d90756bcd"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Implicit Data Structure.” 2021. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Implicit_data_structure&oldid=1036275140">https://en.wikipedia.org/w/index.php?title=Implicit_data_structure&#38;oldid=1036275140</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

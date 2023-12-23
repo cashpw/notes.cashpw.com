@@ -2,7 +2,7 @@
 title = "Beta (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:37:00-08:00
-lastmod = 2023-12-05T19:55:54-08:00
+lastmod = 2023-12-22T21:35:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,6 +18,8 @@ slug = "e9c9e62b-efe6-4348-898f-06ca2e03132c"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

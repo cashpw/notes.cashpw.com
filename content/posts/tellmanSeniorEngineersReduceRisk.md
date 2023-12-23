@@ -2,7 +2,7 @@
 title = "Zach Tellman | Senior Engineers Reduce Risk"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T19:25:00-08:00
-lastmod = 2023-12-05T21:10:13-08:00
+lastmod = 2023-12-23T01:26:05-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -42,6 +42,8 @@ slug = "e7753777-506e-490e-b79e-59dede5dce2e"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:tellmanSeniorEngineersReduceRisk</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

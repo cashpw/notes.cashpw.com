@@ -2,7 +2,7 @@
 title = "Pyrometric cone"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T07:40:00-08:00
-lastmod = 2023-12-05T20:50:01-08:00
+lastmod = 2023-12-23T00:08:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

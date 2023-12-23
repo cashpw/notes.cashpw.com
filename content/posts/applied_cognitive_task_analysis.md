@@ -2,14 +2,14 @@
 title = "Applied cognitive task analysis"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-08T15:18:00-07:00
-lastmod = 2023-12-05T19:53:43-08:00
+lastmod = 2023-12-22T21:33:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "31152f53-1769-454c-be11-643a5405eb5d"
 +++
 
-Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands]({{< relref "applied_cognitive_task_analysis.md" >}}), is a technique for extracting expertise which is simpler than [Cognitive task analysis]({{< relref "cognitive_tasks_analysis.md" >}}). There are four steps:
+Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands]({{< relref "laura_militello_and_robert_hutton_applied_cognitive_task_analysis_acta_a_practitioner_s_toolkit_for_understanding_cognitive_task_demands.md" >}}), is a technique for extracting expertise which is simpler than [Cognitive task analysis]({{< relref "cognitive_tasks_analysis.md" >}}). There are four steps:
 
 1.  Create a [Task diagram](#task-diagram)
     1.  Ask the subject matter expert to decompose the task in to steps, or subtasks, into 3-6[^fn:1] steps
@@ -219,15 +219,17 @@ The cognitive demands table is a reader-friendly presentation of the data you've
   <div class="csl-entry">NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Get good]({{< relref "get_good.md" >}})
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | An Easier Method for Extracting Tacit Knowledge]({{< relref "chin_an_easier_method_for_extracting_tacit_knowledge.md" >}})
--   [Cedric Chin | John Cutler's Product Org Expertise]({{< relref "applied_cognitive_task_analysis.md" >}})
--   [Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands]({{< relref "applied_cognitive_task_analysis.md" >}})
--   [Dan Luu | 95%-Ile Isn't That Good]({{< relref "dan_luu_95_ile_isn_t_that_good.md" >}})
+-   [Cedric Chin | John Cutler's Product Org Expertise]({{< relref "cedric_chin_john_cutler_s_product_org_expertise.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cognitive task analysis]({{< relref "cognitive_tasks_analysis.md" >}})
+-   [Dan Luu | 95%-Ile Isn't That Good]({{< relref "dan_luu_95_ile_isn_t_that_good.md" >}})
+-   [Get good]({{< relref "get_good.md" >}})
+-   [Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands]({{< relref "laura_militello_and_robert_hutton_applied_cognitive_task_analysis_acta_a_practitioner_s_toolkit_for_understanding_cognitive_task_demands.md" >}})
 
 [^fn:1]: "The interviewer limits the SME to between three and six steps, to ensure that time is not wasted delving into minute detail during the surface-level interview." (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)

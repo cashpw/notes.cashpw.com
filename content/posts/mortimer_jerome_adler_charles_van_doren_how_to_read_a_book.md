@@ -2,7 +2,7 @@
 title = "Mortimer Jerome Adler, Charles Van Doren | How to Read a Book"
 author = ["Cash Weaver"]
 date = 2022-12-24T09:16:00-08:00
-lastmod = 2023-12-05T20:38:39-08:00
+lastmod = 2023-12-22T23:29:18-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -29,9 +29,11 @@ slug = "52512c4c-d011-4cca-afd5-87db8442f9c3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Adler, Mortimer Jerome, and Charles Van Doren. 1972. <i>How to Read a Book</i>. Rev. and updated ed. New York: Simon and Schuster.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Mortimer J Adler]({{< relref "mortimer_j_adler.md" >}})
 -   [Charles van Doren]({{< relref "charles_van_doren.md" >}})
+-   [Mortimer J Adler]({{< relref "mortimer_j_adler.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

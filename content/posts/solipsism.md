@@ -2,7 +2,7 @@
 title = "Solipsism"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T07:35:00-08:00
-lastmod = 2023-12-05T21:02:47-08:00
+lastmod = 2023-12-23T00:55:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

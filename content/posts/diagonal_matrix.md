@@ -2,7 +2,7 @@
 title = "Diagonal matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-16T07:01:00-07:00
-lastmod = 2023-12-05T20:07:45-08:00
+lastmod = 2023-12-22T21:58:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Directed acyclic graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:25:00-08:00
-lastmod = 2023-12-05T20:08:11-08:00
+lastmod = 2023-12-22T22:00:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,9 +29,11 @@ slug = "ee7fcae8-6322-4b71-91b0-704b7c21ae3a"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Directed Acyclic Graph.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Directed_acyclic_graph&oldid=1114643590">https://en.wikipedia.org/w/index.php?title=Directed_acyclic_graph&#38;oldid=1114643590</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})
--   [Topological order]({{< relref "topological_order.md" >}})
 -   [Contraction hierarchies]({{< relref "contraction_hierarchies.md" >}})
+-   [Topological order]({{< relref "topological_order.md" >}})
+-   [Topological order by Depth-first search in Python]({{< relref "topological_order_by_depth_first_search_in_python.md" >}})

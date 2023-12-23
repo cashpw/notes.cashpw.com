@@ -2,7 +2,7 @@
 title = "Tree book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:48:00-07:00
-lastmod = 2023-12-05T21:18:06-08:00
+lastmod = 2023-12-23T01:59:58-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -28,11 +28,13 @@ Related: [Narrative book]({{< relref "narrative_book.md" >}}), [Branch book]({{<
   <div class="csl-entry">NO_ITEM_DATA:chinThreeKindsNonfictionBooks2018</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
+-   [Branch book]({{< relref "branch_book.md" >}})
 -   [Cedric Chin | Book Summary: Accelerated Expertise]({{< relref "cedric_chin_book_summary_accelerated_expertise.md" >}})
 -   [Cedric Chin | The Three Kinds of Non-Fiction Books]({{< relref "chinThreeKindsNonfiction2018.md" >}})
--   [Narrative book]({{< relref "narrative_book.md" >}})
--   [Branch book]({{< relref "branch_book.md" >}})
 -   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
+-   [Narrative book]({{< relref "narrative_book.md" >}})

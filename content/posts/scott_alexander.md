@@ -2,7 +2,7 @@
 title = "Scott Alexander"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:44:00-08:00
-lastmod = 2023-12-05T20:57:19-08:00
+lastmod = 2023-12-23T00:34:26-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -42,17 +42,19 @@ That said, I want to emphasize both that (1) my enjoyment of _some_ of their wor
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | I Can Tolerate Anything Except The Outgroup]({{< relref "alexanderCanTolerateAnythingOutgroup2014.md" >}})
--   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
--   [Scott Alexander | Book Review: The Seven Principles For Making Marriage Work]({{< relref "alexanderBookReviewSevenPrinciplesMakingMarriageWork2020.md" >}})
--   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
--   [Scott Alexander | For, Then Against, High-Saturated-Fat Diets]({{< relref "alexanderThenHighSaturatedFatDiets2020.md" >}})
 -   [Scott Alexander | Book Review: Seeing Like A State]({{< relref "scott_alexander_book_review_seeing_like_a_state.md" >}})
 -   [Scott Alexander | Book Review: The Secret Of Our Success]({{< relref "scott_alexander_book_review_the_secret_of_our_success.md" >}})
--   [Scott Alexander | Socratic Grilling]({{< relref "alexanderSocraticGrilling2020.md" >}})
--   [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}})
+-   [Scott Alexander | Book Review: The Seven Principles For Making Marriage Work]({{< relref "alexanderBookReviewSevenPrinciplesMakingMarriageWork2020.md" >}})
 -   [Scott Alexander | Epistemic Learned Helplessness]({{< relref "scott_alexander_epistemic_learned_helplessness.md" >}})
+-   [Scott Alexander | For, Then Against, High-Saturated-Fat Diets]({{< relref "alexanderThenHighSaturatedFatDiets2020.md" >}})
+-   [Scott Alexander | I Can Tolerate Anything Except The Outgroup]({{< relref "alexanderCanTolerateAnythingOutgroup2014.md" >}})
 -   [Scott Alexander | Meditations On Moloch]({{< relref "alexanderMeditationsMoloch2014.md" >}})
+-   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
+-   [Scott Alexander | Socratic Grilling]({{< relref "alexanderSocraticGrilling2020.md" >}})
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
+-   [The opposite of a trap is a garden]({{< relref "the_opposite_of_a_trap_is_a_garden.md" >}})

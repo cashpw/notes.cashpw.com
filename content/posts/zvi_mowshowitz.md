@@ -2,7 +2,7 @@
 title = "Zvi Mowshowitz"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T15:31:00-08:00
-lastmod = 2023-12-05T21:26:53-08:00
+lastmod = 2023-12-23T02:35:27-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "36ccfcf4-794e-4994-bc40-ff081ed0cc01"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

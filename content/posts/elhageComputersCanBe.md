@@ -2,7 +2,7 @@
 title = "Nelson Elhage | Computers Can Be Understood"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2023-12-05T20:10:10-08:00
+lastmod = 2023-12-22T22:05:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -37,6 +37,8 @@ Related: [Be curious]({{< relref "be_curious.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:elhageComputersCanBeUnderstood</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

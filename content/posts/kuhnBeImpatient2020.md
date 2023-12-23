@@ -2,7 +2,7 @@
 title = "Ben Kuhn | Be Impatient"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:36:00-08:00
-lastmod = 2023-12-05T20:28:40-08:00
+lastmod = 2023-12-22T22:58:42-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -51,9 +51,11 @@ Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Be Impatient.” <a href="https://www.benkuhn.net/impatient/">https://www.benkuhn.net/impatient/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Blogroll]({{< relref "blogroll.md" >}})
+-   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
 -   [Speed is a virtue]({{< relref "speed_is_a_virtue.md" >}})

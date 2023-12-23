@@ -2,7 +2,7 @@
 title = "Secure attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:35:00-07:00
-lastmod = 2023-12-05T20:58:24-08:00
+lastmod = 2023-12-23T00:38:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,7 +24,9 @@ An [attachment]({{< relref "attachment_theory.md" >}}) pattern in which the chil
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attachment Theory.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Attachment_theory&oldid=1094457033">https://en.wikipedia.org/w/index.php?title=Attachment_theory&#38;oldid=1094457033</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [On parenting]({{< relref "secure_attachment.md" >}})
+-   [On parenting]({{< relref "on_parenting.md" >}})

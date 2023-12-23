@@ -2,7 +2,7 @@
 title = "Donella Meadows"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T15:35:00-08:00
-lastmod = 2023-12-05T20:09:03-08:00
+lastmod = 2023-12-22T22:02:17-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "7ed6589f-895a-4dd5-b81c-0faf6a55b19a"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

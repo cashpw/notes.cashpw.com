@@ -2,7 +2,7 @@
 title = "One-click"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:39:00-07:00
-lastmod = 2023-12-05T20:43:00-08:00
+lastmod = 2023-12-22T23:44:03-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -18,6 +18,8 @@ A one-click \\(X\\) is something that one can perform by taking a single action.
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

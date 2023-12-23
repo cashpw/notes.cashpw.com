@@ -2,7 +2,7 @@
 title = "John Ehrlichman | You want to know what this was really all about?"
 author = ["Cash Weaver"]
 date = 2023-03-06T06:35:00-08:00
-lastmod = 2023-12-05T20:25:17-08:00
+lastmod = 2023-12-22T22:48:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

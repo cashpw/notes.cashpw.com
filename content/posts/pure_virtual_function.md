@@ -2,7 +2,7 @@
 title = "Pure virtual function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T09:37:00-07:00
-lastmod = 2023-12-05T20:49:46-08:00
+lastmod = 2023-12-23T00:07:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,8 +28,10 @@ class Container {
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Bjarne Stroustrup | A Tour of C++]({{< relref "bjarne_stroustrup_a_tour_of_c.md" >}})
 -   [Abstract class]({{< relref "c_class.md#abstract-class" >}})
+-   [Bjarne Stroustrup | A Tour of C++]({{< relref "bjarne_stroustrup_a_tour_of_c.md" >}})

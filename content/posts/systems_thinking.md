@@ -2,7 +2,7 @@
 title = "Systems thinking"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:13:00-08:00
-lastmod = 2023-12-05T21:08:37-08:00
+lastmod = 2023-12-23T01:17:21-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -18,6 +18,8 @@ slug = "74c7b062-c946-4589-87ab-8dee95370b3b"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

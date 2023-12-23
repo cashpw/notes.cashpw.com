@@ -2,7 +2,7 @@
 title = "Meta level"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T10:33:00-08:00
-lastmod = 2023-12-05T20:36:09-08:00
+lastmod = 2023-12-22T23:21:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "c5f0758f-1499-4284-bb87-77ee55819c3c"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:lesswrongObjectLevelMetaLevel</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

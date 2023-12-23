@@ -2,14 +2,14 @@
 title = "Tim Urban | 10 Thoughts From the Fourth Trimester"
 author = ["Cash Weaver"]
 date = 2023-11-08T10:59:00-08:00
-lastmod = 2023-12-05T21:15:16-08:00
+lastmod = 2023-12-23T01:46:27-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "477e372c-1cfc-4a8b-a567-0c19df989417"
 +++
 
-[Tim Urban]({{< relref "tim_urban_10_thoughts_from_the_fourth_trimester.md" >}}), (<a href="#citeproc_bib_item_4">Urban 2023</a>)
+[Tim Urban]({{< relref "tim_urban.md" >}}), (<a href="#citeproc_bib_item_4">Urban 2023</a>)
 
 
 ## Summary {#summary}

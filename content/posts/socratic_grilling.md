@@ -2,7 +2,7 @@
 title = "Socratic grilling"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T19:05:00-07:00
-lastmod = 2023-12-05T21:02:37-08:00
+lastmod = 2023-12-23T00:54:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,6 +20,8 @@ slug = "25f5faeb-aeeb-4ae6-998c-08940cb60c3f"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

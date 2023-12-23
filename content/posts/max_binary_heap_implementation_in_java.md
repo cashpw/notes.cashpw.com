@@ -2,7 +2,7 @@
 title = "Max binary heap implementation in java"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T12:59:00-07:00
-lastmod = 2023-12-06T05:26:49-08:00
+lastmod = 2023-12-22T23:18:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -161,6 +161,8 @@ public class Main {
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

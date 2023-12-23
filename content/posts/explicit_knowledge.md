@@ -2,7 +2,7 @@
 title = "Explicit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:07:00-08:00
-lastmod = 2023-12-05T20:11:26-08:00
+lastmod = 2023-12-22T22:08:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,11 +29,13 @@ slug = "19124270-bb87-450d-8726-fe6aae18716f"
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Tacit Knowledge.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&oldid=1066406863">https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&#38;oldid=1066406863</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Techne]({{< relref "techne.md" >}})
--   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})
--   [Todos]({{< relref "todos.md" >}})
--   [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
 -   [Relational tacit knowledge]({{< relref "relational_tacit_knowledge.md" >}})
+-   [Tacit knowledge]({{< relref "tacit_knowledge.md" >}})
+-   [Techne]({{< relref "techne.md" >}})
+-   [Todos]({{< relref "todos.md" >}})
+-   [Zach Tellman | Thought Leaders and Chicken Sexers]({{< relref "tellmanThoughtLeadersChickenSexers.md" >}})

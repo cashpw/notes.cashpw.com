@@ -2,17 +2,19 @@
 title = "Tal Ronnen and Scot Jones and Serafina Magnussen and JoAnn Cianciulli | Crossroads"
 author = ["Cash Weaver"]
 date = 2023-12-14T17:42:00-08:00
-lastmod = 2023-12-14T17:56:20-08:00
+lastmod = 2023-12-23T01:19:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "88a66df2-ca92-404c-bfaf-67fae1c3b161"
 +++
 
-[Tal Ronnen]({{< relref "tal_ronnen.md" >}}), [Scot Jones]({{< relref "scot_jones.md" >}}), [Serafina Magnussen]({{< relref "serafina_magnussen.md" >}}), and [JoAnn Cianciulli]({{< relref "joann_cianciulli.md" >}}) (<a href="#citeproc_bib_item_1">Ronnen et al. 2015</a>)
+[Tal Ronnen]({{< relref "tal_ronnen_and_scot_jones_and_serafina_magnussen_and_joann_cianciulli_crossroads.md" >}}), [Scot Jones]({{< relref "tal_ronnen_and_scot_jones_and_serafina_magnussen_and_joann_cianciulli_crossroads.md" >}}), [Serafina Magnussen]({{< relref "tal_ronnen_and_scot_jones_and_serafina_magnussen_and_joann_cianciulli_crossroads.md" >}}), and [JoAnn Cianciulli]({{< relref "tal_ronnen_and_scot_jones_and_serafina_magnussen_and_joann_cianciulli_crossroads.md" >}}) (<a href="#citeproc_bib_item_1">Ronnen et al. 2015</a>)
 
 
 ## Summary {#summary}
+
+A [Vegan cookbook]({{< relref "tal_ronnen_and_scot_jones_and_serafina_magnussen_and_joann_cianciulli_crossroads.md" >}}).
 
 
 ## Thoughts {#thoughts}
@@ -32,4 +34,4 @@ slug = "88a66df2-ca92-404c-bfaf-67fae1c3b161"
 
 ## Backlinks {#backlinks}
 
--   [Crossroads | Balsamic reduction]({{< relref "balsamic_reduction.md" >}})
+-   [Crossroads | Balsamic reduction]({{< relref "tal_ronnen_and_scot_jones_and_serafina_magnussen_and_joann_cianciulli_crossroads.md" >}})

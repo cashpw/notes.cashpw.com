@@ -2,7 +2,7 @@
 title = "Topology (Math)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-21T09:55:00-07:00
-lastmod = 2023-12-05T21:16:43-08:00
+lastmod = 2023-12-23T01:53:58-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

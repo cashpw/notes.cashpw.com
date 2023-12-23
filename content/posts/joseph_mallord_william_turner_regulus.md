@@ -2,7 +2,7 @@
 title = "Joseph Mallord William Turner | Regulus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-10T09:08:00-07:00
-lastmod = 2023-12-05T20:26:32-08:00
+lastmod = 2023-12-22T22:51:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -21,6 +21,8 @@ slug = "157d2935-27bd-473c-9669-554a4644a199"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Turner, Joseph Mallord William. 1828. “Regulus.” <a href="https://www.tate.org.uk/art/artworks/turner-regulus-n00519">https://www.tate.org.uk/art/artworks/turner-regulus-n00519</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

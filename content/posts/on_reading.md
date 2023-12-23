@@ -2,7 +2,7 @@
 title = "On reading"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T15:03:00-08:00
-lastmod = 2023-12-05T20:42:42-08:00
+lastmod = 2023-12-22T23:43:03-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

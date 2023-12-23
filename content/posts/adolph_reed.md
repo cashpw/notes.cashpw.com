@@ -2,7 +2,7 @@
 title = "Adolph Reed"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-07T12:37:00-07:00
-lastmod = 2023-12-21T20:43:30-08:00
+lastmod = 2023-12-22T21:31:30-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,4 +21,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Adolph Reed Jr | Nothing Left: The Past Is Always Present: Examining Quotidian Life under Jim Crow to Reveal Its Structures]({{< relref "adolph_reed.md" >}})
+-   [Adolph Reed Jr | Nothing Left: The Past Is Always Present: Examining Quotidian Life under Jim Crow to Reveal Its Structures]({{< relref "jrNothingLeftAlways2014.md" >}})

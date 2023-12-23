@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Tricky Thing About Creating Training Programs"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:59:00-07:00
-lastmod = 2023-12-05T20:00:43-08:00
+lastmod = 2023-12-22T21:43:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -107,6 +107,8 @@ Good training programs for imparting [Tacit knowledge]({{< relref "tacit_knowled
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Naturalistic Decision Making. 2020. “Episode \#4: Interview with Jennifer Phillips.” <i>Listen Notes</i>. <a href="https://www.listennotes.com/podcasts/naturalistic/episode-4-interview-with-5av4UMGzFPf/">https://www.listennotes.com/podcasts/naturalistic/episode-4-interview-with-5av4UMGzFPf/</a>.</div>
   <div class="csl-entry">NO_ITEM_DATA:chinTrickyThingCreatingTrainingPrograms2021</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

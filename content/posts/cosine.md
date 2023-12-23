@@ -2,7 +2,7 @@
 title = "Cosine"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T10:43:00-07:00
-lastmod = 2023-12-05T20:04:36-08:00
+lastmod = 2023-12-22T21:50:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,8 +31,10 @@ Also see [Sine]({{< relref "sine.md" >}}) and [Tangent (Trigonometry)]({{< relre
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sine and Cosine.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&oldid=1103922899">https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&#38;oldid=1103922899</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})
 -   [Sine]({{< relref "sine.md" >}})
+-   [Tangent (Trigonometry)]({{< relref "tangent.md" >}})

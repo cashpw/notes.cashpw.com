@@ -2,7 +2,7 @@
 title = "Cedric Chin | Book Summary: Accelerated Expertise"
 author = ["Cash Weaver"]
 date = 2023-06-29T17:49:00-07:00
-lastmod = 2023-12-05T19:59:39-08:00
+lastmod = 2023-12-22T21:41:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -335,17 +335,19 @@ slug = "f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “The Tacit Knowledge Series.” <i>Commoncog</i>. <a href="https://commoncog.com/the-tacit-knowledge-series/">https://commoncog.com/the-tacit-knowledge-series/</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:chinBusinessExpertiseImportanceCognitiveAgility2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:chinJohnCutlerProductOrgExpertise2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:chinHardThingLearningExperience2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:chinGetGoodGoMetagame2020</div>
-  <div class="csl-entry">NO_ITEM_DATA:hoffmanAcceleratedExpertiseTrainingHighProficiencyComplexWorld2013</div>
   <div class="csl-entry">NO_ITEM_DATA:chinBookSummaryAcceleratedExpertise2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:hoffmanAcceleratedExpertiseTrainingHighProficiencyComplexWorld2013</div>
+  <div class="csl-entry">NO_ITEM_DATA:chinGetGoodGoMetagame2020</div>
+  <div class="csl-entry">NO_ITEM_DATA:chinHardThingLearningExperience2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:chinJohnCutlerProductOrgExpertise2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:chinBusinessExpertiseImportanceCognitiveAgility2021</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

@@ -2,7 +2,7 @@
 title = "3sum solution in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T16:26:00-08:00
-lastmod = 2023-12-21T20:40:47-08:00
+lastmod = 2023-12-22T21:30:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -67,4 +67,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Three sum]({{< relref "3sum_solution_in_python.md" >}})
+-   [Three sum]({{< relref "three_sum.md" >}})

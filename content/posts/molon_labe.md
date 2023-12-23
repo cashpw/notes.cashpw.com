@@ -2,7 +2,7 @@
 title = "Molon labe"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-22T09:23:00-08:00
-lastmod = 2023-12-05T20:37:45-08:00
+lastmod = 2023-12-22T23:26:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

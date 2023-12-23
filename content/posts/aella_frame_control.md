@@ -2,7 +2,7 @@
 title = "Aella | Frame Control"
 author = ["Cash Weaver"]
 date = 2022-12-05T16:48:00-08:00
-lastmod = 2023-12-21T20:43:41-08:00
+lastmod = 2023-12-22T21:31:36-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -26,7 +26,7 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Aella 2021</a>)
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Aella. 2021. “Frame Control.” Substack newsletter. Knowingless. November 27, 2021. <a href="https://aella.substack.com/p/frame-control">https://aella.substack.com/p/frame-control</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Aella. 2021. “Frame Control.” Substack Newsletter. <i>Knowingless</i>. <a href="https://aella.substack.com/p/frame-control">https://aella.substack.com/p/frame-control</a>.</div>
 </div>
 
 foo1
@@ -34,4 +34,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Framing]({{< relref "aella_frame_control.md" >}})
+-   [Framing]({{< relref "framing.md" >}})

@@ -2,7 +2,7 @@
 title = "James C. Scott | Seeing like a State"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:24:00-08:00
-lastmod = 2023-12-05T20:23:48-08:00
+lastmod = 2023-12-22T22:43:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -59,6 +59,8 @@ YOLLAND: Something is being eroded.<br />
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

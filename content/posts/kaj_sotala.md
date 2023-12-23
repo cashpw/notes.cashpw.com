@@ -2,7 +2,7 @@
 title = "Kaj Sotala"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T16:09:00-08:00
-lastmod = 2023-12-05T20:27:07-08:00
+lastmod = 2023-12-22T22:53:27-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "8781430f-720f-48ae-8453-d79d6014542c"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

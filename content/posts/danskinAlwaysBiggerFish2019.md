@@ -2,7 +2,7 @@
 title = "Ian Danskin | Always a Bigger Fish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:54:00-07:00
-lastmod = 2023-12-05T20:05:55-08:00
+lastmod = 2023-12-22T21:53:28-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -86,9 +86,11 @@ Conservatives tend to think in hierarchies -- like a capitalist -- while liberal
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “Always a Bigger Fish.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called">https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
--   [David Chapman | Developing Ethical, Social, and Cognitive Competence]({{< relref "david_chapman_developing_ethical_social_and_cognitive_competence.md" >}})
 -   [Alt-right Playbook]({{< relref "alt_right_playbook.md" >}})
+-   [David Chapman | Developing Ethical, Social, and Cognitive Competence]({{< relref "david_chapman_developing_ethical_social_and_cognitive_competence.md" >}})
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})

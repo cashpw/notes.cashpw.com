@@ -2,7 +2,7 @@
 title = "Internet protocol suite"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T08:23:00-07:00
-lastmod = 2023-12-05T20:22:09-08:00
+lastmod = 2023-12-22T22:38:44-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -44,7 +44,9 @@ slug = "b691f9f9-f9ac-4c1c-95ef-7d04a3b777af"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Internet Protocol Suite.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Internet_protocol_suite&oldid=1144155223">https://en.wikipedia.org/w/index.php?title=Internet_protocol_suite&#38;oldid=1144155223</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [IMAP]({{< relref "internet_protocol_suite.md" >}})
+-   [IMAP]({{< relref "imap.md" >}})

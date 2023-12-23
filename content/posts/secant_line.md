@@ -2,7 +2,7 @@
 title = "Secant line"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T16:23:00-08:00
-lastmod = 2023-12-05T20:58:10-08:00
+lastmod = 2023-12-23T00:38:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,6 +27,8 @@ slug = "a1a0a03b-2d39-4119-bbec-e32ed8e6852e"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Secant Line.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Secant_line&oldid=1099332320">https://en.wikipedia.org/w/index.php?title=Secant_line&#38;oldid=1099332320</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

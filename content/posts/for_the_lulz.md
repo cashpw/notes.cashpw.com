@@ -2,7 +2,7 @@
 title = "For the lulz"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:19:00-07:00
-lastmod = 2023-12-05T20:13:45-08:00
+lastmod = 2023-12-22T22:14:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,9 +31,11 @@ Also see [The card says moops]({{< relref "the_card_says_moops.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“For the Lulz.” n.d. <i>Urban Dictionary</i>. Accessed June 26, 2022. <a href="https://www.urbandictionary.com/define.php?term=For%20the%20lulz">https://www.urbandictionary.com/define.php?term=For%20the%20lulz</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})
--   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})
 -   [Don't feed the trolls]({{< relref "don_t_feed_the_trolls.md" >}})
+-   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})
+-   [Ian Danskin | The Card Says Moops]({{< relref "danskinCardSaysMoops2019.md" >}})

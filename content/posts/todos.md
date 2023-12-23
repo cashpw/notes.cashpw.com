@@ -2,7 +2,7 @@
 title = "Todos"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2023-12-05T21:16:11-08:00
+lastmod = 2023-12-23T01:51:22-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false
@@ -2061,7 +2061,7 @@ Fahrenheit to Celsius and back
   <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Keshav, S. n.d. “How to Read a Paper.”</div>
   <div class="csl-entry"><a id="citeproc_bib_item_15"></a>“La Niña.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=La_Ni%C3%B1a&oldid=1130990498">https://en.wikipedia.org/w/index.php?title=La_Ni%C3%B1a&#38;oldid=1130990498</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_16"></a>Larson, Will. 2023. “Irrational Exuberance.” <a href="https://lethain.com/">https://lethain.com/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>López-Alt, James Kenji. n.d. “The Best Italian-American Tomato Sauce Recipe.” <i>Serious Eats</i>. Accessed September 4, 2023. <a href="https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe">https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>López-Alt, James Kenji. n.d. “The Best Italian-American Tomato Sauce Recipe.” <i>Serious Eats</i>. Accessed December 15, 2023. <a href="https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe">https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_18"></a>Luu, Dan. n.d. “Home.” Accessed December 2, 2022. <a href="https://danluu.com/">https://danluu.com/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Meadows, Donella H., and Diana Wright. 2008. <i>Thinking in Systems: A Primer</i>. White River Junction, Vt: Chelsea Green Pub.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_20"></a>“Modern Monetary Theory.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Modern_Monetary_Theory&oldid=1122667486">https://en.wikipedia.org/w/index.php?title=Modern_Monetary_Theory&#38;oldid=1122667486</a>.</div>
@@ -2082,46 +2082,46 @@ Fahrenheit to Celsius and back
   <div class="csl-entry"><a id="citeproc_bib_item_35"></a>“Twelve Leverage Points.” 2021. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Twelve_leverage_points&oldid=1047560866">https://en.wikipedia.org/w/index.php?title=Twelve_leverage_points&#38;oldid=1047560866</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_36"></a>“Yak Shaving.” 2023. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=yak_shaving&oldid=71132645">https://en.wiktionary.org/w/index.php?title=yak_shaving&#38;oldid=71132645</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_37"></a>Zvi. n.d. “Moloch Hasn’t Won.” Accessed November 23, 2022. <a href="https://www.lesswrong.com/posts/ham9i5wf4JCexXnkN/moloch-hasn-t-won">https://www.lesswrong.com/posts/ham9i5wf4JCexXnkN/moloch-hasn-t-won</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:dassowStudioMathPottersPartVolume</div>
-  <div class="csl-entry">NO_ITEM_DATA:matuschakHowCanWeDevelopTransformativeToolsThought2019</div>
-  <div class="csl-entry">NO_ITEM_DATA:HighTrustLowTrustSocieties2022</div>
-  <div class="csl-entry">NO_ITEM_DATA:graeberUtopiaRulesTechnologyStupiditySecretJoysBureaucracy2016</div>
-  <div class="csl-entry">NO_ITEM_DATA:dynomightBigAlcoholStudyThatDidnHappenMyPrimalScreamRage2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:dynomightBetterAirQualityEasiestWayNot2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:dynomightUnderratedReasonsBeThankful2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:dynomightArePersonalitiesJustBetter2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:clearGreatTalksMostPeopleHaveNeverHeard</div>
-  <div class="csl-entry">NO_ITEM_DATA:oroszDropWhatYouReDoing</div>
-  <div class="csl-entry">NO_ITEM_DATA:nuckolsComprehensiveCoreTrainingGuide2023</div>
-  <div class="csl-entry">NO_ITEM_DATA:nuckolsCompleteStrengthTrainingGuide</div>
-  <div class="csl-entry">NO_ITEM_DATA:nuckolsHowDeadliftDefinitiveGuide</div>
-  <div class="csl-entry">NO_ITEM_DATA:nuckolsHowSquatDefinitiveGuide</div>
-  <div class="csl-entry">NO_ITEM_DATA:nuckolsHowBenchPressDefinitiveGuide</div>
-  <div class="csl-entry">NO_ITEM_DATA:ross40HzBinauralBeatsEnhanceTrainingMitigateAttentionalBlink2020</div>
-  <div class="csl-entry">NO_ITEM_DATA:vbtempSoberPostThingsVeLearnedDownlevelingMyCareer2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:flipstablesDrunkPostThingsVeLearnedSrEngineer2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:apprehensiveshock655WhatWorstPartHavingChild2023</div>
-  <div class="csl-entry">NO_ITEM_DATA:kuhnStaringAbyssCoreLifeSkill</div>
-  <div class="csl-entry">NO_ITEM_DATA:neededEpisode157HowCultureWarsLabelObscuresTrivializesLifeandDeathPolitical2022</div>
-  <div class="csl-entry">NO_ITEM_DATA:hickelWantTellYouStory</div>
-  <div class="csl-entry">NO_ITEM_DATA:dankaBeholdOneMightiestToolsMathematicsCamelPrincipleAmDeadSerious2022</div>
-  <div class="csl-entry">NO_ITEM_DATA:ThreadTivadarDankaThreadReaderApp</div>
-  <div class="csl-entry">NO_ITEM_DATA:blechmanSciFiAuthorMyBookInventedTormentNexusCautionaryTaleTech2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:WorldGDPLastTwoMillennia</div>
-  <div class="csl-entry">NO_ITEM_DATA:woodsBasicPatternsHowAdaptiveSystemsFail2011</div>
-  <div class="csl-entry">NO_ITEM_DATA:stanleyWhyGreatnessCannotBePlannedMythObjective2015</div>
-  <div class="csl-entry">NO_ITEM_DATA:puruggananHowReadScientificArticle2004</div>
-  <div class="csl-entry">NO_ITEM_DATA:AskHNYouMeasureMitigateCO2YourLivingSpaceHacker</div>
-  <div class="csl-entry">NO_ITEM_DATA:TrainingMySenseCO2Ppm</div>
-  <div class="csl-entry">NO_ITEM_DATA:alexanderCarbonDioxideOpenDoorPolicy2018</div>
-  <div class="csl-entry">NO_ITEM_DATA:wtfwhatthehellStaleAirCO2CognitiveFunction2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:yudkowskyInadequateEquilibriaTableContents</div>
-  <div class="csl-entry">NO_ITEM_DATA:alexanderPoorFolksSmileNow2013</div>
-  <div class="csl-entry">NO_ITEM_DATA:alexanderGrowingChildrenBostromDisneyland2014</div>
-  <div class="csl-entry">NO_ITEM_DATA:whitbyWhoFirstSaidIfYouWantGoFastGoAlone</div>
-  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartIII2022</div>
-  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartII2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPart2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:matthewsaltzUnderstandFirstCritiqueLater2020</div>
   <div class="csl-entry">NO_ITEM_DATA:smithWriteCodeNotTooMuchMostlyFunctions</div>
+  <div class="csl-entry">NO_ITEM_DATA:matthewsaltzUnderstandFirstCritiqueLater2020</div>
+  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPart2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartII2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartIII2022</div>
+  <div class="csl-entry">NO_ITEM_DATA:whitbyWhoFirstSaidIfYouWantGoFastGoAlone</div>
+  <div class="csl-entry">NO_ITEM_DATA:alexanderGrowingChildrenBostromDisneyland2014</div>
+  <div class="csl-entry">NO_ITEM_DATA:alexanderPoorFolksSmileNow2013</div>
+  <div class="csl-entry">NO_ITEM_DATA:yudkowskyInadequateEquilibriaTableContents</div>
+  <div class="csl-entry">NO_ITEM_DATA:wtfwhatthehellStaleAirCO2CognitiveFunction2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:alexanderCarbonDioxideOpenDoorPolicy2018</div>
+  <div class="csl-entry">NO_ITEM_DATA:TrainingMySenseCO2Ppm</div>
+  <div class="csl-entry">NO_ITEM_DATA:AskHNYouMeasureMitigateCO2YourLivingSpaceHacker</div>
+  <div class="csl-entry">NO_ITEM_DATA:puruggananHowReadScientificArticle2004</div>
+  <div class="csl-entry">NO_ITEM_DATA:stanleyWhyGreatnessCannotBePlannedMythObjective2015</div>
+  <div class="csl-entry">NO_ITEM_DATA:woodsBasicPatternsHowAdaptiveSystemsFail2011</div>
+  <div class="csl-entry">NO_ITEM_DATA:WorldGDPLastTwoMillennia</div>
+  <div class="csl-entry">NO_ITEM_DATA:blechmanSciFiAuthorMyBookInventedTormentNexusCautionaryTaleTech2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:ThreadTivadarDankaThreadReaderApp</div>
+  <div class="csl-entry">NO_ITEM_DATA:dankaBeholdOneMightiestToolsMathematicsCamelPrincipleAmDeadSerious2022</div>
+  <div class="csl-entry">NO_ITEM_DATA:hickelWantTellYouStory</div>
+  <div class="csl-entry">NO_ITEM_DATA:neededEpisode157HowCultureWarsLabelObscuresTrivializesLifeandDeathPolitical2022</div>
+  <div class="csl-entry">NO_ITEM_DATA:kuhnStaringAbyssCoreLifeSkill</div>
+  <div class="csl-entry">NO_ITEM_DATA:apprehensiveshock655WhatWorstPartHavingChild2023</div>
+  <div class="csl-entry">NO_ITEM_DATA:flipstablesDrunkPostThingsVeLearnedSrEngineer2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:vbtempSoberPostThingsVeLearnedDownlevelingMyCareer2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:ross40HzBinauralBeatsEnhanceTrainingMitigateAttentionalBlink2020</div>
+  <div class="csl-entry">NO_ITEM_DATA:nuckolsHowBenchPressDefinitiveGuide</div>
+  <div class="csl-entry">NO_ITEM_DATA:nuckolsHowSquatDefinitiveGuide</div>
+  <div class="csl-entry">NO_ITEM_DATA:nuckolsHowDeadliftDefinitiveGuide</div>
+  <div class="csl-entry">NO_ITEM_DATA:nuckolsCompleteStrengthTrainingGuide</div>
+  <div class="csl-entry">NO_ITEM_DATA:nuckolsComprehensiveCoreTrainingGuide2023</div>
+  <div class="csl-entry">NO_ITEM_DATA:oroszDropWhatYouReDoing</div>
+  <div class="csl-entry">NO_ITEM_DATA:clearGreatTalksMostPeopleHaveNeverHeard</div>
+  <div class="csl-entry">NO_ITEM_DATA:dynomightArePersonalitiesJustBetter2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:dynomightUnderratedReasonsBeThankful2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:dynomightBetterAirQualityEasiestWayNot2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:dynomightBigAlcoholStudyThatDidnHappenMyPrimalScreamRage2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:graeberUtopiaRulesTechnologyStupiditySecretJoysBureaucracy2016</div>
+  <div class="csl-entry">NO_ITEM_DATA:HighTrustLowTrustSocieties2022</div>
+  <div class="csl-entry">NO_ITEM_DATA:matuschakHowCanWeDevelopTransformativeToolsThought2019</div>
+  <div class="csl-entry">NO_ITEM_DATA:dassowStudioMathPottersPartVolume</div>
 </div>

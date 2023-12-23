@@ -2,7 +2,7 @@
 title = "Cedric Chin | The End of the Principles Sequence"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:28:00-07:00
-lastmod = 2023-12-05T20:00:17-08:00
+lastmod = 2023-12-22T21:42:12-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -29,7 +29,9 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2018</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “The End of the Principles Sequence.” <i>Commoncog</i>. <a href="https://commoncog.com/the-end-of-the-principles-sequence/">https://commoncog.com/the-end-of-the-principles-sequence/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Principles Sequence]({{< relref "cedric_chin_the_end_of_the_principles_sequence.md" >}})
+-   [Cedric Chin | The Principles Sequence]({{< relref "cedric_chin_the_principles_sequence.md" >}})

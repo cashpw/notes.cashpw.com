@@ -2,7 +2,7 @@
 title = "No half measures"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-21T08:24:00-07:00
-lastmod = 2023-12-05T20:41:14-08:00
+lastmod = 2023-12-22T23:38:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,7 +23,7 @@ However, [Keep your eye on the prize]({{< relref "keep_your_eye_on_the_prize.md"
 >
 > (NO_ITEM_DATA:switchelsweetsMyAPArtClass)
 
-Related [Nate Soares | Half-Assing It with Everything You've Got]({{< relref "no_half_measures.md" >}})
+Related [Nate Soares | Half-Assing It with Everything You've Got]({{< relref "nate_soares_half_assing_it_with_everything_you_ve_got.md" >}})
 
 
 ## Bibliography {#bibliography}
@@ -33,6 +33,8 @@ Related [Nate Soares | Half-Assing It with Everything You've Got]({{< relref "no
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:switchelsweetsMyAPArtClass</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

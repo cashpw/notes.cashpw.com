@@ -2,7 +2,7 @@
 title = "Be conscious of your defaults"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:24:00-08:00
-lastmod = 2023-12-05T19:55:12-08:00
+lastmod = 2023-12-22T21:35:11-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,11 +21,13 @@ Seek to be aware of your "defaults" and examine them; do you want to keep them?
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Notice the taste of lotus]({{< relref "valentineNoticingTasteLotus2018.md" >}})
--   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 -   [2.1]({{< relref "antoninusMeditationsEmperorMarcusAntoninus1944.md#2-dot-1" >}})
+-   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
 -   [Meaningful rest]({{< relref "meaningful_rest.md" >}})
+-   [Notice the taste of lotus]({{< relref "valentineNoticingTasteLotus2018.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

@@ -2,7 +2,7 @@
 title = "Dan Luu | HN: The Good Parts"
 author = ["Cash Weaver"]
 date = 2023-10-31T17:39:00-07:00
-lastmod = 2023-12-05T20:05:23-08:00
+lastmod = 2023-12-22T21:52:07-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

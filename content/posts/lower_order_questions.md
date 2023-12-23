@@ -2,7 +2,7 @@
 title = "Lower order questions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-20T16:47:00-08:00
-lastmod = 2023-12-05T20:33:02-08:00
+lastmod = 2023-12-22T23:11:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,6 +23,8 @@ Also see [Higher order questions]({{< relref "higher_order_questions.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:LowerOrderQuestionsTAPFacilitatorResourceCenter</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

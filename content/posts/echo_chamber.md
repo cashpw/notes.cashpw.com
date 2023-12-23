@@ -2,7 +2,7 @@
 title = "Echo chamber"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:26:00-08:00
-lastmod = 2023-12-05T20:09:53-08:00
+lastmod = 2023-12-22T22:04:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,10 @@ Related:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Echo Chamber (Media).” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Echo_chamber_(media)&oldid=1073644015">https://en.wikipedia.org/w/index.php?title=Echo_chamber_(media)&#38;oldid=1073644015</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})
 -   [Filter bubble]({{< relref "filter_bubble.md" >}})
+-   [Scott Alexander | Should You Reverse Any Advice You Hear?]({{< relref "alexanderShouldYouReverseAnyAdviceYouHear2014.md" >}})

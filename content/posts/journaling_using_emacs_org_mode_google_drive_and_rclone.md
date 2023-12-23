@@ -2,7 +2,7 @@
 title = "Journaling Using Emacs, org-mode, Google Drive, and rclone"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-19T09:48:00-08:00
-lastmod = 2023-12-05T20:26:39-08:00
+lastmod = 2023-12-22T22:52:06-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false

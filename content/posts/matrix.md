@@ -2,7 +2,7 @@
 title = "Matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:17:00-07:00
-lastmod = 2023-12-05T20:34:43-08:00
+lastmod = 2023-12-22T23:17:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,17 +28,19 @@ slug = "7a43b0c7-b933-4e37-81b8-e5ecf9a83956"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Matrix (Mathematics).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Matrix_(mathematics)&oldid=1104306314">https://en.wikipedia.org/w/index.php?title=Matrix_(mathematics)&#38;oldid=1104306314</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Singular matrix]({{< relref "singular_matrix.md" >}})
--   [Symmetric matrix]({{< relref "symmetric_matrix.md" >}})
+-   [Determinant]({{< relref "determinant.md" >}})
+-   [Diagonal matrix]({{< relref "diagonal_matrix.md" >}})
+-   [Idempotent matrix]({{< relref "idempotent_matrix.md" >}})
 -   [Main diagonal]({{< relref "main_diagonal.md" >}})
+-   [Matrix multiplication]({{< relref "matrix_multiplication.md" >}})
 -   [Matrix of ones]({{< relref "matrix_of_ones.md" >}})
 -   [Non-singular matrix]({{< relref "non_singular_matrix.md" >}})
--   [Transpose]({{< relref "transpose.md" >}})
--   [Idempotent matrix]({{< relref "idempotent_matrix.md" >}})
+-   [Singular matrix]({{< relref "singular_matrix.md" >}})
 -   [Square matrix]({{< relref "square_matrix.md" >}})
--   [Diagonal matrix]({{< relref "diagonal_matrix.md" >}})
--   [Matrix multiplication]({{< relref "matrix_multiplication.md" >}})
--   [Determinant]({{< relref "determinant.md" >}})
+-   [Symmetric matrix]({{< relref "symmetric_matrix.md" >}})
+-   [Transpose]({{< relref "transpose.md" >}})

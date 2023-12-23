@@ -2,7 +2,7 @@
 title = "Recession"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-11T16:36:00-08:00
-lastmod = 2023-12-05T20:53:00-08:00
+lastmod = 2023-12-23T00:19:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

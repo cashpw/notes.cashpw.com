@@ -2,7 +2,7 @@
 title = "Plans within plans within plans"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-03T06:21:00-08:00
-lastmod = 2023-12-05T20:46:52-08:00
+lastmod = 2023-12-22T23:57:03-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -22,8 +22,10 @@ slug = "d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Plans within plans]({{< relref "plans_within_plans.md" >}})
 -   [Node types]({{< relref "style_guide.md#node-types" >}})
+-   [Plans within plans]({{< relref "plans_within_plans.md" >}})

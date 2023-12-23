@@ -2,7 +2,7 @@
 title = "Scott Alexander | Book Review: Why We're Polarized"
 author = ["Cash Weaver"]
 date = 2023-01-11T14:54:00-08:00
-lastmod = 2023-12-05T20:57:41-08:00
+lastmod = 2023-12-23T00:36:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -78,6 +78,6 @@ While I haven't read (NO_ITEM_DATA:kleinWhyWeRePolarized2020), this reivew leads
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:kleinWhyWeRePolarized2020</div>
   <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewWhyWeRePolarized2021</div>
+  <div class="csl-entry">NO_ITEM_DATA:kleinWhyWeRePolarized2020</div>
 </div>

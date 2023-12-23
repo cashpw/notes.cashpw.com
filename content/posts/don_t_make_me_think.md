@@ -2,7 +2,7 @@
 title = "Don't make me think"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:44:00-07:00
-lastmod = 2023-12-05T20:08:48-08:00
+lastmod = 2023-12-22T22:01:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,6 +18,8 @@ slug = "335314f6-0958-4d7e-a0bd-76b83bee3044"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

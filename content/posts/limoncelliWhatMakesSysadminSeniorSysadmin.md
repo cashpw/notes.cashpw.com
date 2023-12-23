@@ -2,7 +2,7 @@
 title = "Tom Limoncelli | What Makes a Sysadmin a Senior Sysadmin?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:12:00-08:00
-lastmod = 2023-12-05T20:31:31-08:00
+lastmod = 2023-12-22T23:07:28-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -32,6 +32,8 @@ slug = "7af2ca45-ca0d-452d-83b3-a700057009d7"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:limoncelliWhatMakesSysadminSeniorSysadmin</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

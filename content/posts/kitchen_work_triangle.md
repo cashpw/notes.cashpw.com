@@ -2,7 +2,7 @@
 title = "Kitchen work triangle"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:42:00-08:00
-lastmod = 2023-12-05T20:28:14-08:00
+lastmod = 2023-12-22T22:57:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

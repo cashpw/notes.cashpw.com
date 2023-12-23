@@ -2,7 +2,7 @@
 title = "Heuristics and biases"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-31T19:52:00-07:00
-lastmod = 2023-12-05T20:18:42-08:00
+lastmod = 2023-12-22T22:29:13-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,6 +21,8 @@ slug = "e3f73b89-f752-4c4a-aa8c-8931a5752406"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:kahnemanConditionsIntuitiveExpertiseFailureDisagree2009</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

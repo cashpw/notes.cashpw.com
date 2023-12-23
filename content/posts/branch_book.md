@@ -2,7 +2,7 @@
 title = "Branch book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:50:00-07:00
-lastmod = 2023-12-05T19:57:45-08:00
+lastmod = 2023-12-22T21:37:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,13 +28,15 @@ Related: [Narrative book]({{< relref "narrative_book.md" >}}), [Tree book]({{< r
   <div class="csl-entry">NO_ITEM_DATA:chinThreeKindsNonfictionBooks2018</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "kevin_simler_robin_hanson_the_elephant_in_the_brain_hidden_motives_in_everyday_life.md" >}})
--   [Cedric Chin | The Three Kinds of Non-Fiction Books]({{< relref "chinThreeKindsNonfiction2018.md" >}})
--   [Narrative book]({{< relref "narrative_book.md" >}})
 -   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
+-   [Cedric Chin | The Three Kinds of Non-Fiction Books]({{< relref "chinThreeKindsNonfiction2018.md" >}})
+-   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})
+-   [Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "kevin_simler_robin_hanson_the_elephant_in_the_brain_hidden_motives_in_everyday_life.md" >}})
+-   [Narrative book]({{< relref "narrative_book.md" >}})
 -   [On reading]({{< relref "on_reading.md" >}})
 -   [Tree book]({{< relref "tree_book.md" >}})
--   [James C. Scott | Seeing like a State]({{< relref "james_c_scott_seeing_like_a_state_how_certain_schemes_to_improve_the_human_condition_have_failed.md" >}})

@@ -2,7 +2,7 @@
 title = "Collector's fallacy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T17:28:00-07:00
-lastmod = 2023-12-05T20:02:56-08:00
+lastmod = 2023-12-22T21:47:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,8 +45,10 @@ Related: [The difference between knowing the name of something and knowing somet
   <div class="csl-entry">NO_ITEM_DATA:javajoshCalledItInfoGorging</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Andy Matuschak | Collecting Material Feels More Useful than It Usually Is]({{< relref "matuschak_andy_collecting_material_feels_more_useful_than_it_usually_is.md" >}})
--   [Unread]({{< relref "unread.md" >}})
+-   [Reading list]({{< relref "unread.md" >}})

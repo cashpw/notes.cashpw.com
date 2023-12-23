@@ -2,7 +2,7 @@
 title = "Christian Tieze | The Collector's Fallacy"
 author = ["Cash Weaver"]
 date = 2023-08-04T17:35:00-07:00
-lastmod = 2023-12-05T20:02:04-08:00
+lastmod = 2023-12-22T21:45:37-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -82,6 +82,8 @@ slug = "b23ffea4-e780-4d89-84ad-c0bd4f25816f"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tieze, Christian. 22AD. “The Collector’s Fallacy.” <i>Zettelkasten Method</i>. <a href="https://zettelkasten.de/posts/collectors-fallacy/">https://zettelkasten.de/posts/collectors-fallacy/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

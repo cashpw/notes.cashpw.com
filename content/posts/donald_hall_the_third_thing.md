@@ -2,7 +2,7 @@
 title = "Donald Hall | The Third Thing"
 author = ["Cash Weaver"]
 date = 2023-09-10T10:02:00-07:00
-lastmod = 2023-12-05T20:08:57-08:00
+lastmod = 2023-12-22T22:02:04-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -60,6 +60,8 @@ slug = "5a6ea0e5-2b5c-4068-ab08-5e52cede1944"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hall, Donald. 2023. “The Third Thing.” Text/Html. <i>Poetry Magazine</i>. Poetry Magazine. <a href="https://www.poetryfoundation.org/poetrymagazine/articles/60484/the-third-thing">https://www.poetryfoundation.org/poetrymagazine/articles/60484/the-third-thing</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Frank Herbert"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:05:00-08:00
-lastmod = 2023-12-05T20:13:58-08:00
+lastmod = 2023-12-22T22:15:24-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -21,8 +21,10 @@ Among other things:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Frank Herbert | Dune]({{< relref "herbertDune1999.md" >}})
 -   [Define Abbreviations]({{< relref "define_abbreviations.md" >}})
+-   [Frank Herbert | Dune]({{< relref "herbertDune1999.md" >}})

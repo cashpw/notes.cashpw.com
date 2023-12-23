@@ -2,7 +2,7 @@
 title = "Stack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T20:24:00-07:00
-lastmod = 2023-12-05T21:05:08-08:00
+lastmod = 2023-12-23T01:04:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,10 @@ slug = "5ab783c7-9a13-42d2-920d-95f103ac677c"
   <div class="csl-entry">NO_ITEM_DATA:StackAbstractDataType2022</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Queue]({{< relref "queue.md" >}})
 -   [Depth-first search]({{< relref "depth_first_search.md" >}})
+-   [Queue]({{< relref "queue.md" >}})

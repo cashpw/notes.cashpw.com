@@ -2,7 +2,7 @@
 title = "Cargo cult"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-23T18:35:00-07:00
-lastmod = 2023-12-05T19:59:09-08:00
+lastmod = 2023-12-22T21:40:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,8 +31,10 @@ Also see [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:howeTrumpReverseCargoCult2017</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}})
 -   [Learned blankness]({{< relref "learned_blankness.md" >}})
+-   [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}})

@@ -2,7 +2,7 @@
 title = "Never believe that anti-Semites"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-01T18:15:00-07:00
-lastmod = 2023-12-05T20:40:13-08:00
+lastmod = 2023-12-22T23:34:48-08:00
 tags = ["hastodo", "quote", "hastodo", "quote"]
 categories = ["hastodo", "quote"]
 draft = false
@@ -21,6 +21,8 @@ slug = "a991edbf-1372-4296-ab3e-c45dadcfdc20"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:sartreNeverBelieveThatAntiSemites</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

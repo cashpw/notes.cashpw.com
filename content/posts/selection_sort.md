@@ -2,7 +2,7 @@
 title = "Selection sort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:51:00-07:00
-lastmod = 2023-12-05T20:58:55-08:00
+lastmod = 2023-12-23T00:40:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,6 +23,8 @@ slug = "f8918bbe-8164-4105-8489-2f74fd10df6d"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Selection Sort.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Selection_sort&oldid=1120866580">https://en.wikipedia.org/w/index.php?title=Selection_sort&#38;oldid=1120866580</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

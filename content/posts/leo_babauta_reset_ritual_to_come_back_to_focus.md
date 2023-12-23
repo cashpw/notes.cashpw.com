@@ -2,7 +2,7 @@
 title = "Leo Babauta | Reset Ritual to Come Back to Focus"
 author = ["Cash Weaver"]
 date = 2023-03-03T10:56:00-08:00
-lastmod = 2023-12-05T20:30:33-08:00
+lastmod = 2023-12-22T23:04:45-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -37,6 +37,8 @@ slug = "b785c042-ed23-44c0-b25a-91294ed9b8d0"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:babautaResetRitualComeBackFocus2022</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

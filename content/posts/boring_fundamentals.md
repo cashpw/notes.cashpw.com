@@ -2,7 +2,7 @@
 title = "Boring fundamentals"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T13:50:00-08:00
-lastmod = 2023-12-05T19:57:33-08:00
+lastmod = 2023-12-22T21:37:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,6 +25,8 @@ slug = "650501e5-3253-46a2-8795-cf09c86edf16"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:stuberMasterBoringFundamentals01BoringFun</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

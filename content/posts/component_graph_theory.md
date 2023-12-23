@@ -2,7 +2,7 @@
 title = "Component (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-28T13:25:00-08:00
-lastmod = 2023-12-05T20:03:19-08:00
+lastmod = 2023-12-22T21:47:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,6 +29,8 @@ slug = "d3439626-492b-4165-836e-efd890096225"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Component (Graph Theory).” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Component_(graph_theory)&oldid=1135796679">https://en.wikipedia.org/w/index.php?title=Component_(graph_theory)&#38;oldid=1135796679</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

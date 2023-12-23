@@ -2,7 +2,7 @@
 title = "Theory of action"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-03T11:25:00-08:00
-lastmod = 2023-12-05T21:13:04-08:00
+lastmod = 2023-12-23T01:38:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,6 +20,8 @@ See also: [Theory of change]({{< relref "theory_of_change.md" >}})
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

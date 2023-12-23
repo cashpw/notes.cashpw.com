@@ -2,7 +2,7 @@
 title = "Gary Provost"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T17:10:00-08:00
-lastmod = 2023-12-05T20:15:12-08:00
+lastmod = 2023-12-22T22:19:11-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,6 +15,8 @@ slug = "94f3dcc8-dc62-48f1-b15e-8dbb9f23d554"
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "When their salary depends on their not understanding"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-14T06:59:00-08:00
-lastmod = 2023-12-05T21:23:26-08:00
+lastmod = 2023-12-23T02:21:09-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -22,8 +22,10 @@ slug = "d0930766-c7f4-4d54-83d4-fd62a418783e"
   <div class="csl-entry">NO_ITEM_DATA:ItDifficultGetManUnderstandSomethingWhenHisSalaryDepends</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Wizard's first rule]({{< relref "wizard_s_first_rule.md" >}})
 -   [Todos]({{< relref "todos.md" >}})
+-   [Wizard's first rule]({{< relref "wizard_s_first_rule.md" >}})

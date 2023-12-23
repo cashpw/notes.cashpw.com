@@ -2,7 +2,7 @@
 title = "Mindfulness-based stress reduction"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T05:58:00-08:00
-lastmod = 2023-12-05T20:37:09-08:00
+lastmod = 2023-12-22T23:24:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,6 +25,8 @@ slug = "92eb61e0-5437-4fbf-80aa-d042c0ba6d1e"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindfulness-Based Stress Reduction.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Mindfulness-based_stress_reduction&oldid=1067804613">https://en.wikipedia.org/w/index.php?title=Mindfulness-based_stress_reduction&#38;oldid=1067804613</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

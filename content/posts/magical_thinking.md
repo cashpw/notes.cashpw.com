@@ -2,7 +2,7 @@
 title = "Magical thinking"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T07:55:00-08:00
-lastmod = 2023-12-05T20:33:14-08:00
+lastmod = 2023-12-22T23:12:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,10 @@ slug = "0141c9e2-e1b7-4b2f-8655-f977a9f41569"
   <div class="csl-entry">NO_ITEM_DATA:alexanderWhatDevelopmentalMilestonesAreYouMissing2015</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})
 -   [Child development stages]({{< relref "child_development_stages.md" >}})
+-   [Scott Alexander | What Developmental Milestones Are You Missing?]({{< relref "scott_alexander_what_developmental_milestones_are_you_missing.md" >}})

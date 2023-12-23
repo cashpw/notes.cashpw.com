@@ -2,7 +2,7 @@
 title = "Degenerate binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2023-12-05T20:07:17-08:00
+lastmod = 2023-12-22T21:57:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,6 +23,8 @@ slug = "a15a6edb-dbe2-496f-bdc7-92b14e1f5566"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Tree.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Binary_tree&oldid=1092722102">https://en.wikipedia.org/w/index.php?title=Binary_tree&#38;oldid=1092722102</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

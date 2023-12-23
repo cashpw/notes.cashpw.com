@@ -2,7 +2,7 @@
 title = "Avoidant attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T13:22:00-07:00
-lastmod = 2023-12-05T19:54:39-08:00
+lastmod = 2023-12-22T21:34:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

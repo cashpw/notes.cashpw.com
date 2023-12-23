@@ -2,7 +2,7 @@
 title = "Lia DiBello | Expertise in Business: Evolving with a Changing World"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T08:37:00-07:00
-lastmod = 2023-12-05T20:31:14-08:00
+lastmod = 2023-12-22T23:06:36-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -28,6 +28,8 @@ slug = "6b6c9450-4602-4ad1-a07e-656498d1fdb2"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ward, Paul, Jan Maarten Schraagen, Julie Gore, and Emilie M. Roth, eds. 2020. <i>The Oxford Handbook of Expertise</i>. First edition. Oxford, United Kingdom: Oxford University Press.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Radix tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:07:00-08:00
-lastmod = 2023-12-05T20:51:37-08:00
+lastmod = 2023-12-23T00:14:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,6 +29,8 @@ slug = "e00b9c0f-103f-4c55-8938-e777f58d04fb"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Radix Tree.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Radix_tree&oldid=1105756012">https://en.wikipedia.org/w/index.php?title=Radix_tree&#38;oldid=1105756012</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Geometric sequence"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:31:00-08:00
-lastmod = 2023-12-05T20:15:29-08:00
+lastmod = 2023-12-22T22:19:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,6 +29,8 @@ slug = "0a3c8553-f631-4eca-8e2c-957419ebb8ac"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Geometric Progression.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Geometric_progression&oldid=1112468108">https://en.wikipedia.org/w/index.php?title=Geometric_progression&#38;oldid=1112468108</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

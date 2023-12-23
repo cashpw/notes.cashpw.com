@@ -2,7 +2,7 @@
 title = "Mentors face inward"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:10:00-08:00
-lastmod = 2023-12-05T20:35:56-08:00
+lastmod = 2023-12-22T23:21:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,8 +19,10 @@ slug = "40d6bbef-ec19-45e2-9fe2-bf6de3c8aded"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Sponsors face outward]({{< relref "sponsors_face_outward.md" >}})
 -   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})
+-   [Sponsors face outward]({{< relref "sponsors_face_outward.md" >}})

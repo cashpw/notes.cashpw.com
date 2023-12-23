@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Problems with Deliberate Practice"
 author = ["Cash Weaver"]
 date = 2023-06-30T16:57:00-07:00
-lastmod = 2023-12-05T20:00:30-08:00
+lastmod = 2023-12-22T21:42:34-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -31,8 +31,10 @@ The idea that one can teach something by just finding the right words reminds me
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Problems with Deliberate Practice.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-problems-with-deliberate-practice/">https://commoncog.com/blog/the-problems-with-deliberate-practice/</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
+-   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})

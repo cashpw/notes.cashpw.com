@@ -2,7 +2,7 @@
 title = "Wizard's first rule"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-22T18:52:00-08:00
-lastmod = 2023-12-05T21:24:22-08:00
+lastmod = 2023-12-23T02:25:12-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -29,6 +29,8 @@ Related:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Wizard’s First Rule.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Wizard%27s_First_Rule&oldid=1061747657">https://en.wikipedia.org/w/index.php?title=Wizard%27s_First_Rule&#38;oldid=1061747657</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

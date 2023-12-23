@@ -2,7 +2,7 @@
 title = "Fallacy of gray"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T10:32:00-08:00
-lastmod = 2023-12-05T20:12:05-08:00
+lastmod = 2023-12-22T22:10:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,9 +30,11 @@ The fallacy of gray is an assertion, in the face of a lack of a clear black and 
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Yudkowsky, Eliezer. n.d. “The Fallacy of Gray.” Accessed February 17, 2022. <a href="https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray">https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?]({{< relref "nathan_robinson_is_there_a_principled_distinction_between_refusing_to_watch_american_sniper_and_refusing_to_read_fun_home.md" >}})
 -   [Eliezer Yudkowsky | The Fallacy of Gray]({{< relref "yudkowskyFallacyGray.md" >}})
+-   [Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?]({{< relref "nathan_robinson_is_there_a_principled_distinction_between_refusing_to_watch_american_sniper_and_refusing_to_read_fun_home.md" >}})
 -   [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}})

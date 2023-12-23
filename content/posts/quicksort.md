@@ -2,7 +2,7 @@
 title = "Quicksort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T13:45:00-07:00
-lastmod = 2023-12-05T20:51:03-08:00
+lastmod = 2023-12-23T00:12:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -68,10 +68,12 @@ procedure partition(lowIndex, highIndex, list) is
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quicksort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Quicksort&oldid=1093780310">https://en.wikipedia.org/w/index.php?title=Quicksort&#38;oldid=1093780310</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Unstable sorting algorithm]({{< relref "unstable_sorting_algorithm.md" >}})
+-   [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})
 -   [Quickselect]({{< relref "quickselect.md" >}})
 -   [Quicksort implementation in Python]({{< relref "quicksort_implementation_in_python.md" >}})
--   [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}})
+-   [Unstable sorting algorithm]({{< relref "unstable_sorting_algorithm.md" >}})

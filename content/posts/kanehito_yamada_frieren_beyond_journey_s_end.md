@@ -2,7 +2,7 @@
 title = "Kanehito Yamada | Frieren: Beyond Journey's End"
 author = ["Cash Weaver"]
 date = 2023-12-07T06:43:00-08:00
-lastmod = 2023-12-14T12:48:08-08:00
+lastmod = 2023-12-22T22:54:25-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -19,9 +19,9 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 
 ## Thoughts {#thoughts}
 
--   Potential spoiler: I think the ending will be a "the real solution was the journey and the friends made along the way". Flamme's way of helping Frieren will have been to force her on another difficult quest on which she'll bond with and form friendships with her adventure party.
+-   Potential spoiler: I think the ending will be a "the real solution was the journey and the friends made along the way". Flamme's way of helping Frieren will have been to force her on another difficult quest on which she'll bond with and form friendships with her adventure party. I think such an ending is appropriate because her goal is exactly that --- to bond and learn about the people around her.
 -   One of my [Favorites]({{< relref "favorites.md" >}}).
--   I enjoy the montage pages Yamada includes without dialog ([example of a montage page](/ox-hugo/2023-12-07_06-47-54_p.jpg))
+-   I enjoy the montage pages [Yamada]({{< relref "kanehito_yamada.md" >}}) includes without dialog ([example of a montage page](/ox-hugo/2023-12-07_06-47-54_p.jpg))
 
 
 ## Notes {#notes}
@@ -34,67 +34,67 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 
 ### Chapter 1 {#chapter-1}
 
-{{< gallery >}}
+<div class="hugogallery">
 
-{{< figure src="/ox-hugo/2023-12-07_06-47-54_p.jpg" class="hugo-gallery-image" >}}
+{{< figure src="/ox-hugo/2023-12-07_06-47-54_p.jpg" >}}
 
-{{< figure src="/ox-hugo/2023-12-07_06-46-53_p.jpg" class="hugo-gallery-image" >}}
+{{< figure src="/ox-hugo/2023-12-07_06-46-53_p.jpg" >}}
 
-{{< /gallery >}}
+</div>
 
 
 ### Chapter 78 {#chapter-78}
 
-{{< gallery >}}
+<div class="hugogallery">
 
-{{< figure src="/ox-hugo/just-trivial-things-about-his-journey.png" class="hugo-gallery-image" >}}
+{{< figure src="/ox-hugo/just-trivial-things-about-his-journey.png" >}}
 
-{{< /gallery >}}
+</div>
 
 
 ### Chapter 79 {#chapter-79}
 
-{{< gallery >}}
+<div class="hugogallery">
 
-{{< figure src="/ox-hugo/2023-12-08_21-02-00_p.jpg" class="hugo-gallery-image" >}}
+{{< figure src="/ox-hugo/2023-12-08_21-02-00_p.jpg" >}}
 
-{{< /gallery >}}
+</div>
 
 
 ### Chapter 80 {#chapter-80}
 
-{{< gallery >}}
+<div class="hugogallery">
 
-{{< figure src="/ox-hugo/2023-12-08_21-08-37_p.jpg" class="hugo-gallery-image" >}}
+{{< figure src="/ox-hugo/2023-12-08_21-08-37_p.jpg" >}}
 
-{{< /gallery >}}
+</div>
 
 
 ### Chapter 82 {#chapter-82}
 
-{{< gallery >}}
+<div class="hugogallery">
 
-{{< figure src="/ox-hugo/2023-12-09_05-19-15_p.jpg" class="hugo-gallery-image" >}}
+{{< figure src="/ox-hugo/2023-12-09_05-19-15_p.jpg" >}}
 
-{{< /gallery >}}
+</div>
 
 
 ### Chapter 107 {#chapter-107}
 
-{{< gallery >}}
+<div class="hugogallery">
 
-{{< figure src="/ox-hugo/2023-12-09_07-13-53_p.jpg" class="hugo-gallery-image" >}}
+{{< figure src="/ox-hugo/2023-12-09_07-13-53_p.jpg" >}}
 
-{{< /gallery >}}
+</div>
 
 
 ### Chapter 108 {#chapter-108}
 
-{{< gallery >}}
+<div class="hugogallery">
 
-{{< figure src="/ox-hugo/2023-12-09_07-18-11_p.jpg" class="hugo-gallery-image" >}}
+{{< figure src="/ox-hugo/2023-12-09_07-18-11_p.jpg" >}}
 
-{{< /gallery >}}
+</div>
 
 
 ## Bibliography {#bibliography}

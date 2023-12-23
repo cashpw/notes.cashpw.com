@@ -2,7 +2,7 @@
 title = "Reasoning from first principles"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:18:00-08:00
-lastmod = 2023-12-05T20:52:51-08:00
+lastmod = 2023-12-23T00:19:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,8 +22,10 @@ slug = "0b13cdf1-2678-420e-b919-4a349d4ef81a"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“First Principle.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=First_principle&oldid=1096048958">https://en.wikipedia.org/w/index.php?title=First_principle&#38;oldid=1096048958</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Reasoning from analogies]({{< relref "reasoning_from_analogy.md" >}})
 -   [Ben Kuhn | To Listen Well, Get Curious]({{< relref "kuhnListenWellGet.md" >}})
+-   [Reasoning from analogies]({{< relref "reasoning_from_analogy.md" >}})

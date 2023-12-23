@@ -2,7 +2,7 @@
 title = "Daniel Delling, Andrew V. Goldberg, Thomas Pajor, Renato F. Werneck | Customizable Route Planning"
 author = ["Cash Weaver"]
 date = 2023-06-21T09:44:00-07:00
-lastmod = 2023-12-05T20:05:43-08:00
+lastmod = 2023-12-22T21:52:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Simultaneous game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2023-12-05T21:01:06-08:00
+lastmod = 2023-12-23T00:48:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,6 +25,8 @@ Contrast with a [Sequential game]({{< relref "sequential_game.md" >}}).
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

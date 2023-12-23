@@ -2,14 +2,14 @@
 title = "Bob Altemeyer | The Authoritarians"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T19:12:00-07:00
-lastmod = 2023-12-21T20:45:35-08:00
+lastmod = 2023-12-22T21:32:36-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "9e3242c4-62f4-4863-8368-8a4b160c1e76"
 +++
 
-[Robert Altemeyer]({{< relref "altemeyerAuthoritarians.md" >}}), (<a href="#citeproc_bib_item_1">Altemeyer, n.d.</a>)
+[Robert Altemeyer]({{< relref "robert_altemeyer.md" >}}), (<a href="#citeproc_bib_item_1">Altemeyer, n.d.</a>)
 
 
 ## Summary {#summary}
@@ -20,7 +20,7 @@ slug = "9e3242c4-62f4-4863-8368-8a4b160c1e76"
 
 ## Notes {#notes}
 
-[Authoritarian followers place "being normal" substantially higher than most people do]({{< relref "altemeyerAuthoritarians.md" >}})
+[Authoritarian followers place "being normal" substantially higher than most people do]({{< relref "authoritarian_followers_place_being_normal_substantially_higher_than_most_people_do.md" >}})
 
 
 ## Create a note for Authoritarianism {#create-a-note-for-authoritarianism}
@@ -39,4 +39,4 @@ foo1
 
 ## Backlinks {#backlinks}
 
--   [Ian Danskin | Mainstreaming]({{< relref "altemeyerAuthoritarians.md" >}})
+-   [Ian Danskin | Mainstreaming]({{< relref "danskinMainstreaming2018.md" >}})

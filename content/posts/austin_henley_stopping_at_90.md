@@ -2,14 +2,14 @@
 title = "Austin Henley | Stopping at 90%"
 author = ["Cash Weaver"]
 date = 2023-12-04T07:45:00-08:00
-lastmod = 2023-12-05T19:54:30-08:00
+lastmod = 2023-12-22T21:34:34-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "1056026b-f577-4290-a6ce-6e18916dfadf"
 +++
 
-[Austin Henley]({{< relref "austin_henley_stopping_at_90.md" >}}), (<a href="#citeproc_bib_item_1">Henley n.d.</a>)
+[Austin Henley]({{< relref "austin_henley.md" >}}), (<a href="#citeproc_bib_item_1">Henley n.d.</a>)
 
 
 ## Summary {#summary}
@@ -17,7 +17,7 @@ slug = "1056026b-f577-4290-a6ce-6e18916dfadf"
 
 ## Thoughts {#thoughts}
 
-[After the finish line]({{< relref "austin_henley_stopping_at_90.md" >}})
+[After the finish line]({{< relref "after_the_finish_line.md" >}})
 
 
 ## Notes {#notes}

@@ -2,7 +2,7 @@
 title = "Filter bubble"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:26:00-08:00
-lastmod = 2023-12-05T20:12:43-08:00
+lastmod = 2023-12-22T22:12:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,6 +25,8 @@ Related:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Filter Bubble.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Filter_bubble&oldid=1074161056">https://en.wikipedia.org/w/index.php?title=Filter_bubble&#38;oldid=1074161056</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

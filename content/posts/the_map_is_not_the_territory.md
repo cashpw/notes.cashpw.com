@@ -2,7 +2,7 @@
 title = "The map is not the territory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-26T14:42:00-07:00
-lastmod = 2023-12-05T21:11:42-08:00
+lastmod = 2023-12-23T01:33:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,6 +25,8 @@ Related: [The medium is the message]({{< relref "the_medium_is_the_message.md" >
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Farnum Street. 2015. “The Map Is Not the Territory.” <i>Farnam Street</i>. <a href="https://fs.blog/2015/11/map-and-territory/">https://fs.blog/2015/11/map-and-territory/</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

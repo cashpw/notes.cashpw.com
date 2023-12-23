@@ -2,7 +2,7 @@
 title = "First 100 days in a new software engineer role"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T20:08:00-07:00
-lastmod = 2023-12-05T20:12:52-08:00
+lastmod = 2023-12-22T22:12:45-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

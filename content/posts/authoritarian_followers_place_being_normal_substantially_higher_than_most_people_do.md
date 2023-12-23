@@ -4,7 +4,7 @@ title = """
   """
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:19:00-07:00
-lastmod = 2023-12-05T19:54:35-08:00
+lastmod = 2023-12-22T21:34:38-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -23,6 +23,8 @@ slug = "5d8f2b24-1889-45ee-8613-07f7bc0f2db2"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altemeyer, Bob. n.d. <i>The Authoritarians</i>. <a href="http://theauthoritarians.org">http://theauthoritarians.org</a>.</div>
 </div>
+
+foo1
 
 
 ## Backlinks {#backlinks}

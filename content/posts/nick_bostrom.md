@@ -2,7 +2,7 @@
 title = "Nick Bostrom"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-20T20:17:00-07:00
-lastmod = 2023-12-05T20:40:35-08:00
+lastmod = 2023-12-22T23:36:02-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -19,8 +19,10 @@ Among other things:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Nick Bostrom | The Vulnerable World Hypothesis]({{< relref "nick_bostrom_the_vulnerable_world_hypothesis.md" >}})
 -   [Nick Bostrom | The Fable of the Dragon Tyrant]({{< relref "bostromFableDragonTyrant2005.md" >}})
+-   [Nick Bostrom | The Vulnerable World Hypothesis]({{< relref "nick_bostrom_the_vulnerable_world_hypothesis.md" >}})

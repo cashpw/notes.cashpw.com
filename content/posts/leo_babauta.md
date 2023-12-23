@@ -2,7 +2,7 @@
 title = "Leo Babauta"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-02T18:40:00-08:00
-lastmod = 2023-12-05T20:30:29-08:00
+lastmod = 2023-12-22T23:04:34-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -19,8 +19,10 @@ Writes at [Zen Habits](https://zenhabits.net/).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Leo Babauta | We're Always Training Something]({{< relref "leo_babauta_we_re_always_training_something.md" >}})
 -   [Leo Babauta | Reset Ritual to Come Back to Focus]({{< relref "leo_babauta_reset_ritual_to_come_back_to_focus.md" >}})
+-   [Leo Babauta | We're Always Training Something]({{< relref "leo_babauta_we_re_always_training_something.md" >}})

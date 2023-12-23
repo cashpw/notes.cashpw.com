@@ -2,7 +2,7 @@
 title = "Big-O notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:40:00-07:00
-lastmod = 2023-12-05T19:56:12-08:00
+lastmod = 2023-12-22T21:36:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,10 +19,12 @@ Big O notation is denoted with \\(\bigo{g(n)}\\) and indicates an worst-case asy
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
 -   [Asymptotic Notation]({{< relref "asymptotic_notation.md" >}})
--   [Logarithm]({{< relref "logarithm.md" >}})
--   [Little-o notation]({{< relref "little_o_notation.md" >}})
 -   [Data structures]({{< relref "data_structures.md" >}})
+-   [Little-o notation]({{< relref "little_o_notation.md" >}})
+-   [Logarithm]({{< relref "logarithm.md" >}})

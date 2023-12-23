@@ -2,7 +2,7 @@
 title = "Delta (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:18:00-08:00
-lastmod = 2023-12-05T20:07:24-08:00
+lastmod = 2023-12-22T21:57:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -36,8 +36,10 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
   <div class="csl-entry">NO_ITEM_DATA:WhatDeltaDerivativesTradingHowDoesItWork</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Greeks (finance)]({{< relref "greeks_finance.md" >}})
 -   [Gamma (finance)]({{< relref "gamma.md" >}})
+-   [Greeks (finance)]({{< relref "greeks_finance.md" >}})

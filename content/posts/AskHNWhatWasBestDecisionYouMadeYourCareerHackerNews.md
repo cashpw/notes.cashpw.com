@@ -2,13 +2,13 @@
 title = "Hacker News | Ask HN: What Was the Best Decision You Made in Your Career?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:01:00-08:00
-lastmod = 2023-12-21T20:41:07-08:00
+lastmod = 2023-12-22T21:30:23-08:00
 tags = ["reference"]
 draft = false
 slug = "77775317-1503-46df-87bb-734d1b000c61"
 +++
 
-(<a href="#citeproc_bib_item_1">“Ask HN: What Was the Best Decision You Made in Your Career? | Hacker News” n.d.</a>)
+(NO_ITEM_DATA:AskHNWhatWasBestDecisionYouMadeYourCareer)
 
 
 ## Summary {#summary}
@@ -27,5 +27,5 @@ I find myself drawn to articles and conversations about the [meta](https://en.wi
 ## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ask HN: What Was the Best Decision You Made in Your Career? | Hacker News.” n.d. Accessed February 6, 2022. <a href="https://news.ycombinator.com/item?id=18071909">https://news.ycombinator.com/item?id=18071909</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:AskHNWhatWasBestDecisionYouMadeYourCareer</div>
 </div>

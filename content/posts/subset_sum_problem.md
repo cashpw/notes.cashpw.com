@@ -2,7 +2,7 @@
 title = "Subset sum problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:30:00-08:00
-lastmod = 2023-12-05T21:07:18-08:00
+lastmod = 2023-12-23T01:12:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -53,11 +53,13 @@ slug = "1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Subset Sum Problem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Subset_sum_problem&oldid=1136150450">https://en.wikipedia.org/w/index.php?title=Subset_sum_problem&#38;oldid=1136150450</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [2sum linear time solution in Python]({{< relref "2sum_linear_time_solution_in_python.md" >}})
 -   [2sum]({{< relref "2sum.md" >}})
+-   [2sum linear time solution in Python]({{< relref "2sum_linear_time_solution_in_python.md" >}})
 -   [Knapsack problem]({{< relref "knapsack_problem.md" >}})
 -   [Pseudo-polynomial time subset sum problem implementation in Python]({{< relref "pseudo_polynomial_time_sumbset_sum_problem_implementation_in_python.md" >}})
 -   [Three sum]({{< relref "three_sum.md" >}})

@@ -2,7 +2,7 @@
 title = "Moving the goalposts"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T17:03:00-07:00
-lastmod = 2023-12-05T20:38:43-08:00
+lastmod = 2023-12-22T23:29:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,8 +22,10 @@ slug = "b2575705-10cd-4523-aaa6-153360d7bd07"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Moving the Goalposts.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Moving_the_goalposts&oldid=1092754084">https://en.wikipedia.org/w/index.php?title=Moving_the_goalposts&#38;oldid=1092754084</a>.</div>
 </div>
 
+foo1
+
 
 ## Backlinks {#backlinks}
 
--   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})
 -   [Control the conversation]({{< relref "control_the_conversation.md" >}})
+-   [Ian Danskin | Control the Conversation]({{< relref "danskinControlConversation2017.md" >}})

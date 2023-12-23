@@ -2,7 +2,7 @@
 title = "Vitamin C and the common cold"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-19T15:39:00-07:00
-lastmod = 2023-12-05T21:22:01-08:00
+lastmod = 2023-12-23T02:16:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
