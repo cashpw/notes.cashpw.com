@@ -2,7 +2,7 @@
 title = "Dynamic programming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T16:26:00-08:00
-lastmod = 2023-12-22T22:03:38-08:00
+lastmod = 2023-12-23T11:39:38-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

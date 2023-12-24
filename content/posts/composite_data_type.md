@@ -2,7 +2,7 @@
 title = "Composite data type"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:07:00-07:00
-lastmod = 2023-12-22T21:48:02-08:00
+lastmod = 2023-12-23T11:05:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

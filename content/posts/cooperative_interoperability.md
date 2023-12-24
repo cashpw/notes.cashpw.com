@@ -2,7 +2,7 @@
 title = "Cooperative interoperability"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T10:30:00-07:00
-lastmod = 2023-12-22T21:49:45-08:00
+lastmod = 2023-12-23T11:08:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

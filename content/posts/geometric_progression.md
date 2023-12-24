@@ -2,7 +2,7 @@
 title = "Geometric sequence"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:31:00-08:00
-lastmod = 2023-12-22T22:19:50-08:00
+lastmod = 2023-12-23T12:15:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

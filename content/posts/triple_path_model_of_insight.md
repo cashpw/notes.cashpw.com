@@ -2,7 +2,7 @@
 title = "Triple path model of insight"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T08:01:00-07:00
-lastmod = 2023-12-23T02:02:23-08:00
+lastmod = 2023-12-23T20:18:14-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

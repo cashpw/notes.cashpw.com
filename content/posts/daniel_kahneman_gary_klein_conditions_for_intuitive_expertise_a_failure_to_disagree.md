@@ -2,7 +2,7 @@
 title = "Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree"
 author = ["Cash Weaver"]
 date = 2023-07-30T07:26:00-07:00
-lastmod = 2023-12-22T21:53:11-08:00
+lastmod = 2023-12-23T11:16:14-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false

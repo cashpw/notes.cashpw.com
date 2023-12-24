@@ -2,7 +2,7 @@
 title = "Give the right answers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:04:00-08:00
-lastmod = 2023-12-22T21:34:09-08:00
+lastmod = 2023-12-23T10:37:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

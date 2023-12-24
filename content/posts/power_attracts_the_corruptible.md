@@ -2,7 +2,7 @@
 title = "Power attracts the corruptible"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:29:00-08:00
-lastmod = 2023-12-23T00:00:38-08:00
+lastmod = 2023-12-23T15:57:48-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

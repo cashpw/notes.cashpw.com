@@ -2,7 +2,7 @@
 title = "Sponsors face outward"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:10:00-08:00
-lastmod = 2023-12-23T01:03:31-08:00
+lastmod = 2023-12-23T18:11:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

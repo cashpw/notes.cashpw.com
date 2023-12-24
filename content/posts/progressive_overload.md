@@ -2,7 +2,7 @@
 title = "Progressive overload"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T19:45:00-07:00
-lastmod = 2023-12-23T00:05:36-08:00
+lastmod = 2023-12-23T16:08:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

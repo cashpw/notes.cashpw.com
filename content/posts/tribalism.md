@@ -2,7 +2,7 @@
 title = "Tribalism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T11:24:00-07:00
-lastmod = 2023-12-23T02:00:51-08:00
+lastmod = 2023-12-23T20:14:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

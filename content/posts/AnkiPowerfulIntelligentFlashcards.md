@@ -2,7 +2,7 @@
 title = "Anki"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T13:08:00-08:00
-lastmod = 2023-12-22T21:30:20-08:00
+lastmod = 2023-12-23T10:31:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

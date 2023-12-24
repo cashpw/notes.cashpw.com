@@ -2,7 +2,7 @@
 title = "Crossroads | Balsamic reduction"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-14T17:39:00-08:00
-lastmod = 2023-12-22T21:34:51-08:00
+lastmod = 2023-12-23T10:38:43-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -12,7 +12,7 @@ yield = "125 ml"
 slug = "98883a1b-a911-4c41-8cd8-6808943ed0bd"
 +++
 
-A recipe from [Tal Ronnen and Scot Jones and Serafina Magnussen and JoAnn Cianciulli | Crossroads]({{< relref "balsamic_reduction.md" >}}).
+A recipe from [Tal Ronnen and Scot Jones and Serafina Magnussen and JoAnn Cianciulli | Crossroads]({{< relref "tal_ronnen_and_scot_jones_and_serafina_magnussen_and_joann_cianciulli_crossroads.md" >}}).
 
 > Made from the slow reduction of balsamic vinegar and agave nectar, this intensely flavored condiment is tart and thick. Be sure to keep an eye on the syrupy reduction as it simmers to prevent it from burning.
 >

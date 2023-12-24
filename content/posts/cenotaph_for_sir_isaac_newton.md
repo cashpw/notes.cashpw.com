@@ -2,7 +2,7 @@
 title = "Cenotaph for Sir Isaac Newton"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-25T13:02:00-07:00
-lastmod = 2023-12-22T21:43:23-08:00
+lastmod = 2023-12-23T10:55:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

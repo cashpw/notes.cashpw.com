@@ -2,7 +2,7 @@
 title = "Rebecca Giblin, Cory Doctorow | Chokepoint Capitalism"
 author = ["Cash Weaver"]
 date = 2023-06-20T14:14:00-07:00
-lastmod = 2023-12-23T00:19:43-08:00
+lastmod = 2023-12-23T16:38:30-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

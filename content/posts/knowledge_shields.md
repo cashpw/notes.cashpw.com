@@ -2,7 +2,7 @@
 title = "Knowledge shields"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-03T11:37:00-07:00
-lastmod = 2023-12-22T22:57:45-08:00
+lastmod = 2023-12-23T13:42:53-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Heuristic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T14:11:00-08:00
-lastmod = 2023-12-22T22:29:06-08:00
+lastmod = 2023-12-23T12:39:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

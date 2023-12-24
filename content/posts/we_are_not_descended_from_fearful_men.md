@@ -2,7 +2,7 @@
 title = "We are not descended from fearful men"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-22T09:25:00-08:00
-lastmod = 2023-12-23T02:19:43-08:00
+lastmod = 2023-12-23T20:54:13-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

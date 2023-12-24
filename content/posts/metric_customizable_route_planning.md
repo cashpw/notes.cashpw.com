@@ -2,7 +2,7 @@
 title = "Metric (Customizable route planning)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-23T08:37:00-07:00
-lastmod = 2023-12-22T23:22:47-08:00
+lastmod = 2023-12-23T14:37:20-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

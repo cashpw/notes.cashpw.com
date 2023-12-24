@@ -2,7 +2,7 @@
 title = "Albert Camus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T12:33:00-07:00
-lastmod = 2023-12-22T21:31:49-08:00
+lastmod = 2023-12-23T10:33:59-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

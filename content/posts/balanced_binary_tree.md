@@ -2,7 +2,7 @@
 title = "Balanced binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2023-12-22T21:34:49-08:00
+lastmod = 2023-12-23T10:38:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

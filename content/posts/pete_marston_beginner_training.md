@@ -2,7 +2,7 @@
 title = "Pete Marston | Beginner Training"
 author = ["Cash Weaver"]
 date = 2023-06-27T16:25:00-07:00
-lastmod = 2023-12-22T23:55:36-08:00
+lastmod = 2023-12-23T15:47:34-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

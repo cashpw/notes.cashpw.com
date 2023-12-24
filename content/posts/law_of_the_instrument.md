@@ -2,7 +2,7 @@
 title = "Law of the instrument"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-09T13:43:00-08:00
-lastmod = 2023-12-22T23:01:48-08:00
+lastmod = 2023-12-23T13:52:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

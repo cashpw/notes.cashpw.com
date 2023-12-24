@@ -2,7 +2,7 @@
 title = "Quicksort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T13:45:00-07:00
-lastmod = 2023-12-23T00:12:56-08:00
+lastmod = 2023-12-23T16:24:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

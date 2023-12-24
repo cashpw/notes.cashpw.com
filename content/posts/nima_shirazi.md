@@ -2,7 +2,7 @@
 title = "Nima Shirazi"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T11:12:00-07:00
-lastmod = 2023-12-22T23:37:14-08:00
+lastmod = 2023-12-23T15:08:09-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

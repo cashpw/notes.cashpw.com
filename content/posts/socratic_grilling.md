@@ -2,7 +2,7 @@
 title = "Socratic grilling"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-18T19:05:00-07:00
-lastmod = 2023-12-23T00:54:56-08:00
+lastmod = 2023-12-23T17:52:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

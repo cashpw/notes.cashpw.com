@@ -2,7 +2,7 @@
 title = "Nelson Elhage"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2023-12-22T23:34:27-08:00
+lastmod = 2023-12-23T15:02:25-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

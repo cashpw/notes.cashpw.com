@@ -2,7 +2,7 @@
 title = "Set"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:36:00-08:00
-lastmod = 2023-12-23T00:42:34-08:00
+lastmod = 2023-12-23T17:25:53-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

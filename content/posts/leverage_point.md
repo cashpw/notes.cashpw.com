@@ -2,7 +2,7 @@
 title = "Leverage point"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T10:07:00-08:00
-lastmod = 2023-12-22T23:06:15-08:00
+lastmod = 2023-12-23T14:02:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

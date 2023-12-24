@@ -2,7 +2,7 @@
 title = "ASL University"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-20T19:38:00-08:00
-lastmod = 2023-12-22T21:34:11-08:00
+lastmod = 2023-12-23T10:37:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,7 @@ slug = "47022708-7415-46b0-8d1b-bcfb05603e72"
 >
 > (<a href="#citeproc_bib_item_1">ASL University n.d.</a>)
 
-Free, online, resources for learning [American sign language]({{< relref "asl_university.md" >}}).
+Free, online, resources for learning [American sign language]({{< relref "american_sign_language.md" >}}).
 
 
 ## Bibliography {#bibliography}
@@ -27,4 +27,4 @@ Free, online, resources for learning [American sign language]({{< relref "asl_un
 
 ## Backlinks {#backlinks}
 
--   [ASL University | Lesson 1]({{< relref "asl_university.md" >}})
+-   [ASL University | Lesson 1]({{< relref "asl_university_lesson_1.md" >}})

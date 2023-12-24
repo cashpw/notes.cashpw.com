@@ -2,7 +2,7 @@
 title = "Ezra Klein | Why We're Polarized"
 author = ["Cash Weaver"]
 date = 2023-01-11T11:28:00-08:00
-lastmod = 2023-12-22T22:10:19-08:00
+lastmod = 2023-12-23T11:53:41-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

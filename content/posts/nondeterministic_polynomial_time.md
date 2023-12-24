@@ -2,7 +2,7 @@
 title = "Nondeterministic polynomial time"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T07:50:00-08:00
-lastmod = 2023-12-22T23:39:20-08:00
+lastmod = 2023-12-23T15:12:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

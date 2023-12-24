@@ -2,7 +2,7 @@
 title = "Quotient rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T08:54:00-08:00
-lastmod = 2023-12-23T00:13:36-08:00
+lastmod = 2023-12-23T16:25:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

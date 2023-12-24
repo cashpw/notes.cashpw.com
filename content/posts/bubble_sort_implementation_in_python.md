@@ -2,7 +2,7 @@
 title = "Bubble sort implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T10:52:00-07:00
-lastmod = 2023-12-22T21:38:33-08:00
+lastmod = 2023-12-23T10:45:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

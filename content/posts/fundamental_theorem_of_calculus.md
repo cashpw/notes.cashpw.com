@@ -2,7 +2,7 @@
 title = "Fundamental theorem of calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:59:00-08:00
-lastmod = 2023-12-22T22:16:46-08:00
+lastmod = 2023-12-23T12:08:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

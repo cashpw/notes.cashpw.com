@@ -2,7 +2,7 @@
 title = "Secant line"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T16:23:00-08:00
-lastmod = 2023-12-23T00:38:10-08:00
+lastmod = 2023-12-23T17:17:05-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

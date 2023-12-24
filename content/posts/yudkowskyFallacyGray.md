@@ -2,7 +2,7 @@
 title = "Eliezer Yudkowsky | The Fallacy of Gray"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T10:30:00-08:00
-lastmod = 2023-12-23T02:31:28-08:00
+lastmod = 2023-12-23T21:20:16-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

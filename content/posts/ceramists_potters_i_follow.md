@@ -2,7 +2,7 @@
 title = "Ceramists I follow"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T22:39:00-08:00
-lastmod = 2023-12-22T21:44:10-08:00
+lastmod = 2023-12-23T10:57:11-08:00
 draft = false
 slug = "c73727bd-7ed8-4c50-bd08-524ebb2afbea"
 +++
@@ -22,7 +22,7 @@ foo1
 -   [Adrian Bates]({{< relref "adrian_bates.md" >}})
 -   [Arylnn Nobel]({{< relref "arylnn_nobel.md" >}})
 -   [Bill van Gilder]({{< relref "bill_van_gilder.md" >}})
--   [Ceramic inspiration]({{< relref "art_inspiration.md" >}})
+-   [Ceramic inspiration]({{< relref "ceramic_inspiration.md" >}})
 -   [Ceramics Resources]({{< relref "ceramics_pottery_resources.md" >}})
 -   [Ei Iwarmura]({{< relref "ei_iwarmura.md" >}})
 -   [Florian Gadsby]({{< relref "florian_gadsby.md" >}})

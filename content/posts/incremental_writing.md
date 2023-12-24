@@ -2,7 +2,7 @@
 title = "Incremental writing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:41:00-08:00
-lastmod = 2023-12-22T22:37:34-08:00
+lastmod = 2023-12-23T12:58:17-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

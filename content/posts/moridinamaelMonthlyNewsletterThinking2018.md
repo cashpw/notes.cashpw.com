@@ -2,7 +2,7 @@
 title = "moridinamael | The Monthly Newsletter as Thinking Tool"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:19:00-08:00
-lastmod = 2023-12-22T23:28:51-08:00
+lastmod = 2023-12-23T14:50:00-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

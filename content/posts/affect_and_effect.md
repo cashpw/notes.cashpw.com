@@ -2,7 +2,7 @@
 title = "Affect and Effect"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-18T10:47:00-08:00
-lastmod = 2023-12-22T21:31:37-08:00
+lastmod = 2023-12-23T10:33:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

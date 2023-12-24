@@ -2,7 +2,7 @@
 title = "Sparse matrices"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T18:33:00-07:00
-lastmod = 2023-12-23T01:01:40-08:00
+lastmod = 2023-12-23T18:07:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

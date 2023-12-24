@@ -2,7 +2,7 @@
 title = "Symmetric matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:09:00-07:00
-lastmod = 2023-12-23T01:15:36-08:00
+lastmod = 2023-12-23T18:36:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

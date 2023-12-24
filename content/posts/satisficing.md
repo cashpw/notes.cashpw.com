@@ -2,7 +2,7 @@
 title = "Satisficing"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:46:00-07:00
-lastmod = 2023-12-23T00:31:52-08:00
+lastmod = 2023-12-23T17:02:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

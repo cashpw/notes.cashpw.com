@@ -2,7 +2,7 @@
 title = "Daniel Kahneman"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-07T20:40:00-07:00
-lastmod = 2023-12-22T21:52:58-08:00
+lastmod = 2023-12-23T11:15:38-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

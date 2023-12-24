@@ -2,7 +2,7 @@
 title = "Personal user guide"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T18:57:00-07:00
-lastmod = 2023-12-22T23:55:07-08:00
+lastmod = 2023-12-23T15:46:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Lead by example"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-19T12:17:00-07:00
-lastmod = 2023-12-22T23:02:03-08:00
+lastmod = 2023-12-23T13:52:57-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

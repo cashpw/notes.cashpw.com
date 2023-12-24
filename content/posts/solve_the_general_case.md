@@ -2,7 +2,7 @@
 title = "Solve the general case"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T19:23:00-08:00
-lastmod = 2023-12-23T00:55:42-08:00
+lastmod = 2023-12-23T17:54:23-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

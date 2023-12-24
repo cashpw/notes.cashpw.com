@@ -2,7 +2,7 @@
 title = "Unstable sorting algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T16:20:00-07:00
-lastmod = 2023-12-23T02:07:17-08:00
+lastmod = 2023-12-23T20:28:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

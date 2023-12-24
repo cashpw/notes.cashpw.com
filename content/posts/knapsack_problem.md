@@ -2,7 +2,7 @@
 title = "Knapsack problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T09:25:00-08:00
-lastmod = 2023-12-22T22:57:28-08:00
+lastmod = 2023-12-23T13:42:20-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

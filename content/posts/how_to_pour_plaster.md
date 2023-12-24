@@ -2,7 +2,7 @@
 title = "How to pour plaster"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-28T12:20:00-08:00
-lastmod = 2023-12-22T22:31:18-08:00
+lastmod = 2023-12-23T12:44:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

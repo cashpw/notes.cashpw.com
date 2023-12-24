@@ -2,7 +2,7 @@
 title = "Nikolai Berdyaev"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-11T11:19:00-08:00
-lastmod = 2023-12-22T23:37:04-08:00
+lastmod = 2023-12-23T15:07:49-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

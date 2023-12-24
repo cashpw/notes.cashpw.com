@@ -2,7 +2,7 @@
 title = "Leo Babauta"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-02T18:40:00-08:00
-lastmod = 2023-12-22T23:04:34-08:00
+lastmod = 2023-12-23T13:58:29-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

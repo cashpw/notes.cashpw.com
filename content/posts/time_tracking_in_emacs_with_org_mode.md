@@ -2,7 +2,7 @@
 title = "Time tracking in Emacs with org-mode"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-28T07:57:00-08:00
-lastmod = 2023-12-23T01:47:21-08:00
+lastmod = 2023-12-23T19:44:14-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Meter"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T09:16:00-07:00
-lastmod = 2023-12-22T23:22:18-08:00
+lastmod = 2023-12-23T14:36:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "J. R. R. Tolkien"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T11:25:00-07:00
-lastmod = 2023-12-22T22:42:11-08:00
+lastmod = 2023-12-23T13:08:05-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

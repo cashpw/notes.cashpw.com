@@ -2,7 +2,7 @@
 title = "Nate Soares | Half-Assing It with Everything You've Got"
 author = ["Cash Weaver"]
 date = 2023-09-08T10:09:00-07:00
-lastmod = 2023-12-22T23:32:11-08:00
+lastmod = 2023-12-23T14:57:26-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

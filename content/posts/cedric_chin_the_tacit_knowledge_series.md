@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Tacit Knowledge Series"
 author = ["Cash Weaver"]
 date = 2023-06-27T18:13:00-07:00
-lastmod = 2023-12-22T21:42:51-08:00
+lastmod = 2023-12-23T10:53:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

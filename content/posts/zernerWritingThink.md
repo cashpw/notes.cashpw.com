@@ -2,7 +2,7 @@
 title = "Adam Zerner | Writing to Think"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T18:46:00-08:00
-lastmod = 2023-12-23T02:34:12-08:00
+lastmod = 2023-12-23T21:26:28-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

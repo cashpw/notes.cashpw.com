@@ -2,7 +2,7 @@
 title = "No ethical consumption under capitalism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:10:00-08:00
-lastmod = 2023-12-22T23:37:38-08:00
+lastmod = 2023-12-23T15:08:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

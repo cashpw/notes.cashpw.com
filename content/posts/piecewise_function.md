@@ -2,7 +2,7 @@
 title = "Piecewise function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T06:53:00-08:00
-lastmod = 2023-12-22T23:55:47-08:00
+lastmod = 2023-12-23T15:47:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

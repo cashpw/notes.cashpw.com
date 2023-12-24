@@ -2,7 +2,7 @@
 title = "Cedric Chin | John Cutler's Product Org Expertise"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:35:00-07:00
-lastmod = 2023-12-22T21:41:52-08:00
+lastmod = 2023-12-23T10:51:20-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

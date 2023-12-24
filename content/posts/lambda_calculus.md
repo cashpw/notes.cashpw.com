@@ -2,7 +2,7 @@
 title = "Lambda calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-03T15:30:00-07:00
-lastmod = 2023-12-22T23:00:31-08:00
+lastmod = 2023-12-23T13:49:30-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

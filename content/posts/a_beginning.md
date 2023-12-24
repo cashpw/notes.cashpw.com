@@ -2,7 +2,7 @@
 title = "A beginning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T07:03:00-08:00
-lastmod = 2023-12-22T21:31:01-08:00
+lastmod = 2023-12-23T10:32:41-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

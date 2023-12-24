@@ -2,7 +2,7 @@
 title = "Seek out feedback and accept with gratitude"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-31T10:15:00-07:00
-lastmod = 2023-12-23T00:39:23-08:00
+lastmod = 2023-12-23T17:19:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

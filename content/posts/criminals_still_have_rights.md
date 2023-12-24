@@ -2,7 +2,7 @@
 title = "Criminals still have rights"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-06T06:30:00-08:00
-lastmod = 2023-12-22T21:50:36-08:00
+lastmod = 2023-12-23T11:10:39-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

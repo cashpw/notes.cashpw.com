@@ -2,7 +2,7 @@
 title = "Section sign"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-16T15:39:00-08:00
-lastmod = 2023-12-23T00:38:36-08:00
+lastmod = 2023-12-23T17:17:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

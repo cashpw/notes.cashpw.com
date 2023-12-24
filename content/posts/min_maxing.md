@@ -2,7 +2,7 @@
 title = "Min-maxing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T12:53:00-07:00
-lastmod = 2023-12-22T23:24:04-08:00
+lastmod = 2023-12-23T14:39:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

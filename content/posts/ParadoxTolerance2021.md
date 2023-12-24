@@ -2,7 +2,7 @@
 title = "Paradox of tolerance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-15T09:25:00-08:00
-lastmod = 2023-12-22T21:30:47-08:00
+lastmod = 2023-12-23T10:32:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

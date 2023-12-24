@@ -2,7 +2,7 @@
 title = "Marcus Aurelius Antoninus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T06:44:00-08:00
-lastmod = 2023-12-22T23:14:51-08:00
+lastmod = 2023-12-23T14:20:22-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

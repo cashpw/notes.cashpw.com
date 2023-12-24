@@ -2,7 +2,7 @@
 title = "Locator map (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T19:47:00-07:00
-lastmod = 2023-12-22T23:10:30-08:00
+lastmod = 2023-12-23T14:10:51-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

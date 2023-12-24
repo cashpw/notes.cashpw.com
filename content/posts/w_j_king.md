@@ -2,7 +2,7 @@
 title = "W. J. King"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-02T16:01:00-07:00
-lastmod = 2023-12-23T02:17:51-08:00
+lastmod = 2023-12-23T20:50:50-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

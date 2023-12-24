@@ -2,7 +2,7 @@
 title = "Fred Rogers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T18:01:00-07:00
-lastmod = 2023-12-22T22:15:38-08:00
+lastmod = 2023-12-23T12:05:17-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

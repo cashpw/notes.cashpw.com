@@ -2,7 +2,7 @@
 title = "Machine learning"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T20:20:00-07:00
-lastmod = 2023-12-22T23:12:10-08:00
+lastmod = 2023-12-23T14:14:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

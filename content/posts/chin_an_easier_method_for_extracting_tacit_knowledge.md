@@ -2,7 +2,7 @@
 title = "Cedric Chin | An Easier Method for Extracting Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:59:00-07:00
-lastmod = 2023-12-22T21:45:17-08:00
+lastmod = 2023-12-23T10:59:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Sensemaking"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-22T08:22:00-07:00
-lastmod = 2023-12-23T00:41:42-08:00
+lastmod = 2023-12-23T17:24:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "I did it thirty-five minutes ago"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:48:00-08:00
-lastmod = 2023-12-22T22:32:18-08:00
+lastmod = 2023-12-23T12:46:19-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

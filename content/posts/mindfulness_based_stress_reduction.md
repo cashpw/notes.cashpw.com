@@ -2,7 +2,7 @@
 title = "Mindfulness-based stress reduction"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T05:58:00-08:00
-lastmod = 2023-12-22T23:24:30-08:00
+lastmod = 2023-12-23T14:40:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

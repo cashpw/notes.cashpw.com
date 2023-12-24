@@ -2,7 +2,7 @@
 title = "Moving the goalposts"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T17:03:00-07:00
-lastmod = 2023-12-22T23:29:31-08:00
+lastmod = 2023-12-23T14:51:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Pure virtual function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T09:37:00-07:00
-lastmod = 2023-12-23T00:07:47-08:00
+lastmod = 2023-12-23T16:12:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

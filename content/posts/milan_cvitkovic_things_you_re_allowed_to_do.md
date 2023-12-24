@@ -2,7 +2,7 @@
 title = "Milan Cvitkovic | Things You're Allowed to Do"
 author = ["Cash Weaver"]
 date = 2023-10-31T10:49:00-07:00
-lastmod = 2023-12-22T23:23:42-08:00
+lastmod = 2023-12-23T14:39:08-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

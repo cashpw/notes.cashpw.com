@@ -2,7 +2,7 @@
 title = "Java"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T15:34:00-07:00
-lastmod = 2023-12-22T22:45:42-08:00
+lastmod = 2023-12-23T13:16:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

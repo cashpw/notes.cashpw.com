@@ -2,7 +2,7 @@
 title = "Renato Werneck"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-21T09:45:00-07:00
-lastmod = 2023-12-23T00:23:00-08:00
+lastmod = 2023-12-23T16:44:53-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

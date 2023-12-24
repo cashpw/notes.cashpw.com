@@ -2,7 +2,7 @@
 title = "Cedric Chin | An Extracted Tacit Mental Model of Business Expertise"
 author = ["Cash Weaver"]
 date = 2023-08-04T22:02:00-07:00
-lastmod = 2023-12-22T21:40:51-08:00
+lastmod = 2023-12-23T10:49:09-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

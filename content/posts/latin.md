@@ -2,7 +2,7 @@
 title = "Latin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:24:00-08:00
-lastmod = 2023-12-22T23:01:13-08:00
+lastmod = 2023-12-23T13:51:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

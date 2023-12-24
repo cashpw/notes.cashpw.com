@@ -2,7 +2,7 @@
 title = "De-meaned vector"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T09:17:00-07:00
-lastmod = 2023-12-22T21:56:19-08:00
+lastmod = 2023-12-23T11:23:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

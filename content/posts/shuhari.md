@@ -2,7 +2,7 @@
 title = "Shuhari"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T11:48:00-07:00
-lastmod = 2023-12-23T00:45:36-08:00
+lastmod = 2023-12-23T17:31:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

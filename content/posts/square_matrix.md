@@ -2,7 +2,7 @@
 title = "Square matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:23:00-07:00
-lastmod = 2023-12-23T01:04:08-08:00
+lastmod = 2023-12-23T18:12:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

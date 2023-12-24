@@ -2,7 +2,7 @@
 title = "James Scott"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:24:00-08:00
-lastmod = 2023-12-22T22:44:29-08:00
+lastmod = 2023-12-23T13:13:33-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

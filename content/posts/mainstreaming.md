@@ -2,7 +2,7 @@
 title = "Mainstreaming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:10:00-07:00
-lastmod = 2023-12-22T23:12:44-08:00
+lastmod = 2023-12-23T14:15:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

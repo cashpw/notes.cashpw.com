@@ -2,7 +2,7 @@
 title = "Do what you love until you love to do"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-03T16:29:00-07:00
-lastmod = 2023-12-22T22:01:15-08:00
+lastmod = 2023-12-23T11:35:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "l-value"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-20T05:51:00-07:00
-lastmod = 2023-12-22T22:59:53-08:00
+lastmod = 2023-12-23T13:48:03-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

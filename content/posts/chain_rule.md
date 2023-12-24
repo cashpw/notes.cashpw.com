@@ -2,7 +2,7 @@
 title = "Chain rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:24:00-08:00
-lastmod = 2023-12-22T21:44:19-08:00
+lastmod = 2023-12-23T10:57:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

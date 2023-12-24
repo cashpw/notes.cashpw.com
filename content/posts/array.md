@@ -2,7 +2,7 @@
 title = "Array"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:38:00-07:00
-lastmod = 2023-12-22T21:33:59-08:00
+lastmod = 2023-12-23T10:37:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Laura Taylor | Git + Google Drive = Simple Git Host"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-18T08:20:00-07:00
-lastmod = 2023-12-23T01:24:00-08:00
+lastmod = 2023-12-23T18:55:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

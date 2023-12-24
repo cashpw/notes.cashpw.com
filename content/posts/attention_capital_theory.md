@@ -2,7 +2,7 @@
 title = "Attention economy"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:17:00-08:00
-lastmod = 2023-12-22T21:34:31-08:00
+lastmod = 2023-12-23T10:38:11-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false

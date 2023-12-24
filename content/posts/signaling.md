@@ -2,7 +2,7 @@
 title = "Signaling"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-08T19:02:00-08:00
-lastmod = 2023-12-23T00:46:27-08:00
+lastmod = 2023-12-23T17:33:48-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

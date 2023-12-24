@@ -2,7 +2,7 @@
 title = "Barefoot lifestyle"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T05:42:00-07:00
-lastmod = 2023-12-22T21:35:00-08:00
+lastmod = 2023-12-23T10:38:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

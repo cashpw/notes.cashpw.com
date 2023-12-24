@@ -2,7 +2,7 @@
 title = "Florian Gadsby"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:56:00-08:00
-lastmod = 2023-12-22T22:13:59-08:00
+lastmod = 2023-12-23T12:01:36-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

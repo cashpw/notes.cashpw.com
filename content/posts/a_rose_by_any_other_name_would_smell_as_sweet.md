@@ -2,7 +2,7 @@
 title = "A rose by any other name would smell as sweet"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:29:00-07:00
-lastmod = 2023-12-22T21:31:07-08:00
+lastmod = 2023-12-23T10:32:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

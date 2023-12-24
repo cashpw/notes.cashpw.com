@@ -2,7 +2,7 @@
 title = "Leaky abstraction"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-20T17:02:00-07:00
-lastmod = 2023-12-22T23:02:21-08:00
+lastmod = 2023-12-23T13:53:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

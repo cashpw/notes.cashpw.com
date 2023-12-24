@@ -2,7 +2,7 @@
 title = "r/bodyweightfitness"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-06T09:22:00-07:00
-lastmod = 2023-12-23T00:13:48-08:00
+lastmod = 2023-12-23T16:26:18-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

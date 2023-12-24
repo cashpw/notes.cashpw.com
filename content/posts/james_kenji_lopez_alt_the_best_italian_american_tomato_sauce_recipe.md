@@ -2,7 +2,7 @@
 title = "James Kenji López-Alt | The Best Italian-American Tomato Sauce Recipe"
 author = ["Cash Weaver"]
 date = 2023-12-15T11:31:00-08:00
-lastmod = 2023-12-22T22:44:11-08:00
+lastmod = 2023-12-23T13:12:56-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -17,7 +17,7 @@ slug = "b22e3ae5-8dfe-409d-876a-e9c26e516219"
 
 [James Kenji López-Alt]({{< relref "james_kenji_lopez_alt.md" >}}), (NO_ITEM_DATA:lopez-altBestItalianAmericanTomatoSauceRecipea)
 
-A [Red sauce]({{< relref "james_kenji_lopez_alt_the_best_italian_american_tomato_sauce_recipe.md" >}}). Make it vegan by either removing or substitute [Vegan fish sauce]({{< relref "james_kenji_lopez_alt_the_best_italian_american_tomato_sauce_recipe.md" >}}).
+A [Red sauce]({{< relref "red_sauce.md" >}}). Make it vegan by either removing or substitute [Vegan fish sauce]({{< relref "vegan_fish_sauce.md" >}}).
 
 
 ## Ingredients {#ingredients}

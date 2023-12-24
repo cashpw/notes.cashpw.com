@@ -2,7 +2,7 @@
 title = "Nicholas Elorreaga | The Deadbug: Ultimate Guide to Mastering Core Strength"
 author = ["Cash Weaver"]
 date = 2023-07-06T08:25:00-07:00
-lastmod = 2023-12-22T23:36:24-08:00
+lastmod = 2023-12-23T15:06:26-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Pre-order tree traversal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:24:00-07:00
-lastmod = 2023-12-23T00:02:28-08:00
+lastmod = 2023-12-23T16:01:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

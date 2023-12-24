@@ -2,7 +2,7 @@
 title = "Emergence"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-15T12:21:00-08:00
-lastmod = 2023-12-22T22:06:28-08:00
+lastmod = 2023-12-23T11:45:34-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

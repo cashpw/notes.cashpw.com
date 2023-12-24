@@ -2,7 +2,7 @@
 title = "Wizard's first rule"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-22T18:52:00-08:00
-lastmod = 2023-12-23T02:25:12-08:00
+lastmod = 2023-12-23T21:06:14-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

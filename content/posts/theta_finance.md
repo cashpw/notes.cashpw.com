@@ -2,7 +2,7 @@
 title = "Theta (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:40:00-08:00
-lastmod = 2023-12-23T01:40:53-08:00
+lastmod = 2023-12-23T19:31:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

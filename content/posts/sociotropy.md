@@ -2,7 +2,7 @@
 title = "Sociotropy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-20T10:36:00-07:00
-lastmod = 2023-12-23T00:54:43-08:00
+lastmod = 2023-12-23T17:52:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

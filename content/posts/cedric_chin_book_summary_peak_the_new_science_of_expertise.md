@@ -2,7 +2,7 @@
 title = "Cedric Chin | Book Summary: Peak, the New Science of Expertise"
 author = ["Cash Weaver"]
 date = 2023-06-30T16:54:00-07:00
-lastmod = 2023-12-22T21:41:15-08:00
+lastmod = 2023-12-23T10:49:55-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

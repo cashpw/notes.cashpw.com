@@ -2,7 +2,7 @@
 title = "Custom Anki Notes"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-11T11:30:00-08:00
-lastmod = 2023-12-22T21:51:12-08:00
+lastmod = 2023-12-23T11:11:44-08:00
 draft = false
 slug = "a32b0bd9-5555-4630-b486-4d070fb5c7f0"
 +++

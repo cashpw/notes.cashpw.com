@@ -2,7 +2,7 @@
 title = "Europe, the Middle East, and Africa"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-22T10:26:00-07:00
-lastmod = 2023-12-22T22:07:22-08:00
+lastmod = 2023-12-23T11:47:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

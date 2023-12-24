@@ -2,7 +2,7 @@
 title = "Vegan fish sauce"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-15T14:48:00-08:00
-lastmod = 2023-12-23T02:12:42-08:00
+lastmod = 2023-12-23T20:39:11-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -55,4 +55,4 @@ slug = "98580e59-250f-4004-8b8c-8cec29fd3b29"
 
 ## Backlinks {#backlinks}
 
--   [James Kenji López-Alt | The Best Italian-American Tomato Sauce Recipe]({{< relref "vegan_fish_sauce.md" >}})
+-   [James Kenji López-Alt | The Best Italian-American Tomato Sauce Recipe]({{< relref "james_kenji_lopez_alt_the_best_italian_american_tomato_sauce_recipe.md" >}})

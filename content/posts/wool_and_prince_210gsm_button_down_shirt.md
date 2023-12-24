@@ -2,7 +2,7 @@
 title = "Wool and Prince 210gsm button-down shirt"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-15T13:42:00-07:00
-lastmod = 2023-12-23T02:25:27-08:00
+lastmod = 2023-12-23T21:06:41-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

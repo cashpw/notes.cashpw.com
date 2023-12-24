@@ -2,7 +2,7 @@
 title = "Scott Alexander | Epistemic Learned Helplessness"
 author = ["Cash Weaver"]
 date = 2023-01-10T08:59:00-08:00
-lastmod = 2023-12-23T00:36:37-08:00
+lastmod = 2023-12-23T17:13:35-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

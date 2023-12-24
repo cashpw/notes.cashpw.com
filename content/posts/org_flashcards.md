@@ -2,7 +2,7 @@
 title = "Org flashcards"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:39:00-08:00
-lastmod = 2023-12-22T23:45:47-08:00
+lastmod = 2023-12-23T15:27:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

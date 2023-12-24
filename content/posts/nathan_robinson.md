@@ -2,7 +2,7 @@
 title = "Nathan Robinson"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T08:47:00-08:00
-lastmod = 2023-12-22T23:32:21-08:00
+lastmod = 2023-12-23T14:57:45-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

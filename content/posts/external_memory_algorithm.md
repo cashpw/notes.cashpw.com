@@ -2,7 +2,7 @@
 title = "External memory algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T13:02:00-07:00
-lastmod = 2023-12-22T22:09:47-08:00
+lastmod = 2023-12-23T11:52:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

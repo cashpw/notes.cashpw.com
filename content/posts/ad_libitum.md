@@ -2,7 +2,7 @@
 title = "Ad libitum"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-12T09:51:00-08:00
-lastmod = 2023-12-22T21:31:19-08:00
+lastmod = 2023-12-23T10:33:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

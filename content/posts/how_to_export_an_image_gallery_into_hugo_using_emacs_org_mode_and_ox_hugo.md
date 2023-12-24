@@ -2,7 +2,7 @@
 title = "How to export an image gallery into Hugo using Emacs, Org-mode, and Ox-Hugo"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-14T10:57:00-08:00
-lastmod = 2023-12-22T22:31:06-08:00
+lastmod = 2023-12-23T12:43:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

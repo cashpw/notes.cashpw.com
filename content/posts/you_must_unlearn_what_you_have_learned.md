@@ -2,7 +2,7 @@
 title = "You must unlearn what you have learned"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-22T09:22:00-07:00
-lastmod = 2023-12-23T02:30:49-08:00
+lastmod = 2023-12-23T21:18:54-08:00
 tags = ["hastodo", "quote", "hastodo", "quote"]
 categories = ["hastodo", "quote"]
 draft = false

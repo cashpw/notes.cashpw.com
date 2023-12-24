@@ -2,7 +2,7 @@
 title = "Ceramic inspiration"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-13T06:40:00-08:00
-lastmod = 2023-12-22T21:43:40-08:00
+lastmod = 2023-12-23T10:55:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

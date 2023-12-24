@@ -2,7 +2,7 @@
 title = "Jacob Kaplan-Moss | Embrace the Grind"
 author = ["Cash Weaver"]
 date = 2023-10-25T18:59:00-07:00
-lastmod = 2023-12-22T22:42:57-08:00
+lastmod = 2023-12-23T13:09:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

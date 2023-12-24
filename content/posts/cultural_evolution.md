@@ -2,7 +2,7 @@
 title = "Cultural evolution"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T09:25:00-08:00
-lastmod = 2023-12-22T21:50:56-08:00
+lastmod = 2023-12-23T11:11:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

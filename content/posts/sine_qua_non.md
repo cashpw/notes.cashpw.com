@@ -2,7 +2,7 @@
 title = "Sine qua non"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-13T11:32:00-08:00
-lastmod = 2023-12-23T00:49:06-08:00
+lastmod = 2023-12-23T17:39:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

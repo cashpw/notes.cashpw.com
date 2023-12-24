@@ -2,7 +2,7 @@
 title = "Deep time"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T13:07:00-08:00
-lastmod = 2023-12-22T21:30:27-08:00
+lastmod = 2023-12-23T10:31:49-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

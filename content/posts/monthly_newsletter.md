@@ -2,7 +2,7 @@
 title = "Monthly newsletter"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-06T08:00:00-08:00
-lastmod = 2023-12-22T23:27:44-08:00
+lastmod = 2023-12-23T14:47:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

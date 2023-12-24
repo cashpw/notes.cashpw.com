@@ -2,7 +2,7 @@
 title = "Collector's fallacy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T17:28:00-07:00
-lastmod = 2023-12-22T21:47:09-08:00
+lastmod = 2023-12-23T11:03:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Otto Piene"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-07T18:54:00-07:00
-lastmod = 2023-12-22T23:47:36-08:00
+lastmod = 2023-12-23T15:30:59-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

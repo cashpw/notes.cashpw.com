@@ -2,7 +2,7 @@
 title = "Arlynn Nobel | Passion for Pagodas"
 author = ["Cash Weaver"]
 date = 2023-08-05T16:44:00-07:00
-lastmod = 2023-12-22T21:33:54-08:00
+lastmod = 2023-12-23T10:37:12-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

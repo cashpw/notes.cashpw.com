@@ -2,7 +2,7 @@
 title = "Echo chamber"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:26:00-08:00
-lastmod = 2023-12-22T22:04:20-08:00
+lastmod = 2023-12-23T11:40:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

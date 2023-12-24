@@ -2,7 +2,7 @@
 title = "Norm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-22T08:35:00-07:00
-lastmod = 2023-12-22T23:39:41-08:00
+lastmod = 2023-12-23T15:13:24-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

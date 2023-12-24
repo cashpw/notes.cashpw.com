@@ -2,7 +2,7 @@
 title = "r-value"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-20T05:52:00-07:00
-lastmod = 2023-12-23T00:14:15-08:00
+lastmod = 2023-12-23T16:27:09-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

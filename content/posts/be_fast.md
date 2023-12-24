@@ -2,7 +2,7 @@
 title = "Be fast"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T20:01:00-07:00
-lastmod = 2023-12-22T21:35:18-08:00
+lastmod = 2023-12-23T10:39:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

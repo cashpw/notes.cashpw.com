@@ -2,7 +2,7 @@
 title = "Symmetric relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-06T07:00:00-08:00
-lastmod = 2023-12-23T01:15:49-08:00
+lastmod = 2023-12-23T18:36:50-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

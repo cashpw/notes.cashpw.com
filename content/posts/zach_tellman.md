@@ -2,7 +2,7 @@
 title = "Zach Tellman"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T16:25:00-08:00
-lastmod = 2023-12-23T02:32:45-08:00
+lastmod = 2023-12-23T21:23:10-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

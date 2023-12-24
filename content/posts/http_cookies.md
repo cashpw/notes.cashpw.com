@@ -2,7 +2,7 @@
 title = "HTTP Cookies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-20T09:52:00-07:00
-lastmod = 2023-12-22T22:31:40-08:00
+lastmod = 2023-12-23T12:45:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

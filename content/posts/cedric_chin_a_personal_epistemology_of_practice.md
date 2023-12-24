@@ -2,7 +2,7 @@
 title = "Cedric Chin | A Personal Epistemology of Practice"
 author = ["Cash Weaver"]
 date = 2023-07-30T08:15:00-07:00
-lastmod = 2023-12-22T21:40:41-08:00
+lastmod = 2023-12-23T10:48:54-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

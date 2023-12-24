@@ -2,7 +2,7 @@
 title = "Jacob Geller"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-07T17:25:00-07:00
-lastmod = 2023-12-22T22:42:19-08:00
+lastmod = 2023-12-23T13:08:20-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

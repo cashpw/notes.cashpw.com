@@ -2,7 +2,7 @@
 title = "C++ union"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-11T10:14:00-07:00
-lastmod = 2023-12-22T21:39:02-08:00
+lastmod = 2023-12-23T10:45:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

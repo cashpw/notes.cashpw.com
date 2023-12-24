@@ -2,7 +2,7 @@
 title = "Tragedy of the commons"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T08:05:00-07:00
-lastmod = 2023-12-23T01:56:11-08:00
+lastmod = 2023-12-23T20:04:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

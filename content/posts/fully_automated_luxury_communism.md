@@ -2,7 +2,7 @@
 title = "Fully automated luxury communism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:32:00-07:00
-lastmod = 2023-12-22T22:16:22-08:00
+lastmod = 2023-12-23T12:07:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

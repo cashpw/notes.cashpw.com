@@ -2,14 +2,14 @@
 title = "Data-frame model"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T07:57:00-07:00
-lastmod = 2023-12-22T21:55:12-08:00
+lastmod = 2023-12-23T11:21:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "98a0ed99-a6a1-4b05-aa8e-0261402cc961"
 +++
 
-The way we understand the world ([Mental models]({{< relref "mental_model.md" >}})) affects which information we perceive, and vice versa (e.g. [Everything looks like a nail when all you have is a hammer]({{< relref "data_frame_model.md" >}})). This bi-directional flow is the data-frame model.
+The way we understand the world ([Mental models]({{< relref "mental_model.md" >}})) affects which information we perceive, and vice versa (e.g. [Everything looks like a nail when all you have is a hammer]({{< relref "law_of_the_instrument.md" >}})). This bi-directional flow is the data-frame model.
 
 > Data are the interpreted signals of events; frames are the explanatory structures that account for the data. People react to data elements by trying to find or construct a story, script, a map, or some other type of structure to account for the data. At the same time, their repertoire of frames --- explanatory structures --- affects which data elements they consider and how they will interpret these data.
 >

@@ -2,7 +2,7 @@
 title = "Zvi Mowshowitz"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T15:31:00-08:00
-lastmod = 2023-12-23T02:35:27-08:00
+lastmod = 2023-12-23T21:28:57-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

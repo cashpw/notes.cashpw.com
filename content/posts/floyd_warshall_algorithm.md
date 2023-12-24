@@ -2,7 +2,7 @@
 title = "Floyd-Warshall algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T10:12:00-08:00
-lastmod = 2023-12-22T22:14:15-08:00
+lastmod = 2023-12-23T12:02:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

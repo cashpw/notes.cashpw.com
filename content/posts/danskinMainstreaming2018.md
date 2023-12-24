@@ -2,7 +2,7 @@
 title = "Ian Danskin | Mainstreaming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:55:00-07:00
-lastmod = 2023-12-22T21:54:17-08:00
+lastmod = 2023-12-23T11:18:52-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

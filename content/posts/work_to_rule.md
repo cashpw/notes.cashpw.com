@@ -2,7 +2,7 @@
 title = "Work-to-rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T09:42:00-08:00
-lastmod = 2023-12-23T02:26:26-08:00
+lastmod = 2023-12-23T21:08:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

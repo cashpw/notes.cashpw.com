@@ -2,7 +2,7 @@
 title = "Jacob Geller | Staring into the Sun"
 author = ["Cash Weaver"]
 date = 2023-08-07T17:25:00-07:00
-lastmod = 2023-12-22T22:42:37-08:00
+lastmod = 2023-12-23T13:09:09-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

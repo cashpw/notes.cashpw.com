@@ -2,7 +2,7 @@
 title = "Topology (Road networks)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-23T07:57:00-07:00
-lastmod = 2023-12-23T01:54:17-08:00
+lastmod = 2023-12-23T20:00:25-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

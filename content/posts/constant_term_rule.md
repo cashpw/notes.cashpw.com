@@ -2,7 +2,7 @@
 title = "Constant term rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:05:00-08:00
-lastmod = 2023-12-22T21:48:54-08:00
+lastmod = 2023-12-23T11:07:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

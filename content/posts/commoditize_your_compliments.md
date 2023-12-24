@@ -2,7 +2,7 @@
 title = "Commoditize your compliments"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T10:27:00-08:00
-lastmod = 2023-12-22T21:47:19-08:00
+lastmod = 2023-12-23T11:04:04-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

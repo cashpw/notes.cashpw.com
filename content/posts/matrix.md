@@ -2,7 +2,7 @@
 title = "Matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-21T05:17:00-07:00
-lastmod = 2023-12-22T23:17:20-08:00
+lastmod = 2023-12-23T14:26:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

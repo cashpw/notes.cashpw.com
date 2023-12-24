@@ -2,7 +2,7 @@
 title = "X isn't (only) about Y"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T08:10:00-08:00
-lastmod = 2023-12-23T02:29:19-08:00
+lastmod = 2023-12-23T21:15:52-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

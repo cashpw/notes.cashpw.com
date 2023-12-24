@@ -2,7 +2,7 @@
 title = "Execution (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T09:33:00-07:00
-lastmod = 2023-12-22T22:08:08-08:00
+lastmod = 2023-12-23T11:48:51-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

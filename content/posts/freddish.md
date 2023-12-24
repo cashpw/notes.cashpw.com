@@ -2,7 +2,7 @@
 title = "Freddish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:59:00-07:00
-lastmod = 2023-12-22T22:15:54-08:00
+lastmod = 2023-12-23T12:05:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

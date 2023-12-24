@@ -2,14 +2,14 @@
 title = "Pottery form: Bowl"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-18T07:15:00-08:00
-lastmod = 2023-12-23T00:00:03-08:00
+lastmod = 2023-12-23T15:56:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "d3b978ee-51f9-40ba-ad52-472af73ffde2"
 +++
 
-A [Pottery form]({{< relref "pottery_form_bowl.md" >}}).
+A [Pottery form]({{< relref "pottery_forms.md" >}}).
 
 
 ## How to throw {#how-to-throw}

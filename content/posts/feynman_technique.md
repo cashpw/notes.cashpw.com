@@ -2,7 +2,7 @@
 title = "Feynman technique"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-13T06:34:00-07:00
-lastmod = 2023-12-22T22:12:08-08:00
+lastmod = 2023-12-23T11:57:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

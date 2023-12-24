@@ -2,7 +2,7 @@
 title = "Cedric Chin | Book Summary: Accelerated Expertise"
 author = ["Cash Weaver"]
 date = 2023-06-29T17:49:00-07:00
-lastmod = 2023-12-22T21:41:07-08:00
+lastmod = 2023-12-23T10:49:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

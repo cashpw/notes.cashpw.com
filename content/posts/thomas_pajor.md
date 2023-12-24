@@ -2,7 +2,7 @@
 title = "Thomas Pajor"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-21T09:45:00-07:00
-lastmod = 2023-12-23T01:43:42-08:00
+lastmod = 2023-12-23T19:37:01-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Fixed mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:44:00-07:00
-lastmod = 2023-12-22T22:13:46-08:00
+lastmod = 2023-12-23T12:01:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

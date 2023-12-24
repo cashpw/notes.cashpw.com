@@ -2,7 +2,7 @@
 title = "Critical path method"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T17:45:00-08:00
-lastmod = 2023-12-22T21:50:40-08:00
+lastmod = 2023-12-23T11:10:47-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

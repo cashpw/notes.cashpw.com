@@ -2,7 +2,7 @@
 title = "It's your responsibility"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T08:31:00-08:00
-lastmod = 2023-12-22T22:40:34-08:00
+lastmod = 2023-12-23T13:04:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

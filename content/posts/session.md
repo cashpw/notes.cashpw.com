@@ -2,7 +2,7 @@
 title = "Session"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:32:00-07:00
-lastmod = 2023-12-23T00:42:22-08:00
+lastmod = 2023-12-23T17:25:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

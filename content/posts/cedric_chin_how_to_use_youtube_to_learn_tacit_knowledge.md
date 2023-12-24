@@ -2,7 +2,7 @@
 title = "Cedric Chin | How to Use YouTube to Learn Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:59:00-07:00
-lastmod = 2023-12-22T21:41:47-08:00
+lastmod = 2023-12-23T10:51:11-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

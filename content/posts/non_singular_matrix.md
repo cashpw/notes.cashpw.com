@@ -2,7 +2,7 @@
 title = "Non-singular matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-24T08:25:00-07:00
-lastmod = 2023-12-22T23:38:47-08:00
+lastmod = 2023-12-23T15:11:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

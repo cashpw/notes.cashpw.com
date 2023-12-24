@@ -2,7 +2,7 @@
 title = "Dan McKinley"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:22:00-08:00
-lastmod = 2023-12-22T21:52:22-08:00
+lastmod = 2023-12-23T11:14:24-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

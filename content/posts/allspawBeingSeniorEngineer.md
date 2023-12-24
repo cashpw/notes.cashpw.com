@@ -2,7 +2,7 @@
 title = "John Allspaw | On Being A Senior Engineer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:31:00-08:00
-lastmod = 2023-12-22T21:32:28-08:00
+lastmod = 2023-12-23T10:35:03-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

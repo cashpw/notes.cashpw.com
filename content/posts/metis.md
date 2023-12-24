@@ -2,7 +2,7 @@
 title = "Metis"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T08:01:00-08:00
-lastmod = 2023-12-22T23:22:34-08:00
+lastmod = 2023-12-23T14:36:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

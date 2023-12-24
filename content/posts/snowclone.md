@@ -2,7 +2,7 @@
 title = "Snowclone"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T09:11:00-08:00
-lastmod = 2023-12-23T00:54:31-08:00
+lastmod = 2023-12-23T17:52:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

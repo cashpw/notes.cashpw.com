@@ -2,7 +2,7 @@
 title = "Third thing"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-09T08:57:00-08:00
-lastmod = 2023-12-23T01:41:57-08:00
+lastmod = 2023-12-23T19:33:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "James Stuber"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:52:00-08:00
-lastmod = 2023-12-22T22:44:37-08:00
+lastmod = 2023-12-23T13:13:49-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

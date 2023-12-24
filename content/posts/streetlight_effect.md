@@ -2,7 +2,7 @@
 title = "Streetlight effect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T16:43:00-08:00
-lastmod = 2023-12-23T01:09:15-08:00
+lastmod = 2023-12-23T18:22:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

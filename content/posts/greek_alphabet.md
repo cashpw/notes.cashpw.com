@@ -2,7 +2,7 @@
 title = "Greek alphabet"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-03T06:37:00-07:00
-lastmod = 2023-12-22T22:23:30-08:00
+lastmod = 2023-12-23T12:25:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

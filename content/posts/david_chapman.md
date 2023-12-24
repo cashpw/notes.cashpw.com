@@ -2,7 +2,7 @@
 title = "David Chapman"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T08:16:00-08:00
-lastmod = 2023-12-22T21:55:46-08:00
+lastmod = 2023-12-23T11:22:31-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

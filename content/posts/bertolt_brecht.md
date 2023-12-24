@@ -2,7 +2,7 @@
 title = "Bertolt Brecht"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-14T10:17:00-08:00
-lastmod = 2023-12-22T21:35:43-08:00
+lastmod = 2023-12-23T10:40:10-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

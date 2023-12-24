@@ -2,7 +2,7 @@
 title = "Adrian Veidt"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-03T07:09:00-08:00
-lastmod = 2023-12-22T21:31:33-08:00
+lastmod = 2023-12-23T10:33:33-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

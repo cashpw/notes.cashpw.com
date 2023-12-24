@@ -2,7 +2,7 @@
 title = "Volatility (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:06:00-08:00
-lastmod = 2023-12-23T02:17:36-08:00
+lastmod = 2023-12-23T20:50:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

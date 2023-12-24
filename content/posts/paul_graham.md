@@ -2,7 +2,7 @@
 title = "Paul Graham"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:43:00-08:00
-lastmod = 2023-12-22T23:50:42-08:00
+lastmod = 2023-12-23T15:37:30-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Emacs"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T09:04:00-08:00
-lastmod = 2023-12-22T22:06:05-08:00
+lastmod = 2023-12-23T11:44:48-08:00
 draft = false
 slug = "5ad4f07c-b06a-4dbf-afa5-176f25b0ded7"
 +++

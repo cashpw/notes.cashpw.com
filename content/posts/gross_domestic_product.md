@@ -2,7 +2,7 @@
 title = "Gross domestic product"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-11T16:38:00-08:00
-lastmod = 2023-12-22T22:24:22-08:00
+lastmod = 2023-12-23T12:27:22-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

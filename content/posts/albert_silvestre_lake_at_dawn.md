@@ -2,7 +2,7 @@
 title = "Albert Silvestre | Lake at Dawn"
 author = ["Cash Weaver"]
 date = 2023-08-10T17:12:00-07:00
-lastmod = 2023-12-22T21:31:54-08:00
+lastmod = 2023-12-23T10:34:05-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

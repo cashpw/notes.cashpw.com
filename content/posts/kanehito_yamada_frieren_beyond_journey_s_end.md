@@ -2,7 +2,7 @@
 title = "Kanehito Yamada | Frieren: Beyond Journey's End"
 author = ["Cash Weaver"]
 date = 2023-12-07T06:43:00-08:00
-lastmod = 2023-12-22T22:54:25-08:00
+lastmod = 2023-12-23T13:35:33-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Be predictable"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-06T08:19:00-08:00
-lastmod = 2023-12-22T21:35:20-08:00
+lastmod = 2023-12-23T10:39:32-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

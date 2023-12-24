@@ -2,7 +2,7 @@
 title = "Stack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T20:24:00-07:00
-lastmod = 2023-12-23T01:04:58-08:00
+lastmod = 2023-12-23T18:14:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

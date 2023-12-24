@@ -2,7 +2,7 @@
 title = "Rent-seeking"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T15:25:00-08:00
-lastmod = 2023-12-23T00:23:16-08:00
+lastmod = 2023-12-23T16:45:25-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

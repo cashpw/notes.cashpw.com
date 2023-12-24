@@ -2,7 +2,7 @@
 title = "Pseudo-polynomial time subset sum problem implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T06:53:00-08:00
-lastmod = 2023-12-23T00:06:58-08:00
+lastmod = 2023-12-23T16:11:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

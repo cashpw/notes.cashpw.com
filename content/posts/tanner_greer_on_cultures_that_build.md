@@ -2,7 +2,7 @@
 title = "Tanner Greer | On Cultures That Build"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:21:00-08:00
-lastmod = 2023-12-23T01:20:41-08:00
+lastmod = 2023-12-23T18:47:33-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

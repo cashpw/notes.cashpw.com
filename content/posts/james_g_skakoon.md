@@ -2,7 +2,7 @@
 title = "James G. Skakoon"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-02T16:01:00-07:00
-lastmod = 2023-12-22T22:43:47-08:00
+lastmod = 2023-12-23T13:11:59-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,14 +2,14 @@
 title = "Art inspiration"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-08T15:58:00-08:00
-lastmod = 2023-12-22T21:34:01-08:00
+lastmod = 2023-12-23T10:37:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "8a0cef6e-e26b-4aac-a260-34fb116f7952"
 +++
 
-Also see [Ceramic inspiration]({{< relref "art_inspiration.md" >}}).
+Also see [Ceramic inspiration]({{< relref "ceramic_inspiration.md" >}}).
 
 
 ## Digital collections {#digital-collections}

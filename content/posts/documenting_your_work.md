@@ -2,7 +2,7 @@
 title = "Document your work"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-29T14:37:00-08:00
-lastmod = 2023-12-22T22:01:26-08:00
+lastmod = 2023-12-23T11:35:30-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

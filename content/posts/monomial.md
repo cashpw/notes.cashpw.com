@@ -2,7 +2,7 @@
 title = "Monomial"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T10:38:00-08:00
-lastmod = 2023-12-22T23:27:28-08:00
+lastmod = 2023-12-23T14:47:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

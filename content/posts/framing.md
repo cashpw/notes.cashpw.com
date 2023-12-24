@@ -2,7 +2,7 @@
 title = "Framing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-05T16:41:00-08:00
-lastmod = 2023-12-22T22:15:17-08:00
+lastmod = 2023-12-23T12:04:31-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

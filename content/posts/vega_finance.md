@@ -2,7 +2,7 @@
 title = "Vega (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:40:00-08:00
-lastmod = 2023-12-23T02:12:14-08:00
+lastmod = 2023-12-23T20:38:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

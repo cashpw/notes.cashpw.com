@@ -2,7 +2,7 @@
 title = "Realpolitik"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T11:20:00-07:00
-lastmod = 2023-12-23T00:18:50-08:00
+lastmod = 2023-12-23T16:36:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Mind upload"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-02T19:01:00-08:00
-lastmod = 2023-12-22T23:24:16-08:00
+lastmod = 2023-12-23T14:40:20-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

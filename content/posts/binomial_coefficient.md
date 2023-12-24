@@ -2,7 +2,7 @@
 title = "Binomial coefficient"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:53:00-08:00
-lastmod = 2023-12-22T21:36:43-08:00
+lastmod = 2023-12-23T10:41:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

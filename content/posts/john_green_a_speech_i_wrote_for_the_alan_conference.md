@@ -2,7 +2,7 @@
 title = "John Green | A Speech I Wrote for the ALAN Conference"
 author = ["Cash Weaver"]
 date = 2022-11-22T14:25:00-08:00
-lastmod = 2023-12-22T22:48:32-08:00
+lastmod = 2023-12-23T13:22:19-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

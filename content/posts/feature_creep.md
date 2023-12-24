@@ -2,7 +2,7 @@
 title = "Feature creep"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-15T09:51:00-08:00
-lastmod = 2023-12-22T22:11:45-08:00
+lastmod = 2023-12-23T11:57:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

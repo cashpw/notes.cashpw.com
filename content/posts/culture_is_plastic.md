@@ -2,7 +2,7 @@
 title = "Culture is plastic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T15:55:00-08:00
-lastmod = 2023-12-22T21:51:07-08:00
+lastmod = 2023-12-23T11:11:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Sophie from Mars"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T17:00:00-08:00
-lastmod = 2023-12-23T00:57:02-08:00
+lastmod = 2023-12-23T17:57:01-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

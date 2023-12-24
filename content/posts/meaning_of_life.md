@@ -2,7 +2,7 @@
 title = "Meaning of life"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:46:00-08:00
-lastmod = 2023-12-22T23:19:46-08:00
+lastmod = 2023-12-23T14:30:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

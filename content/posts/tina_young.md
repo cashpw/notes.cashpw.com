@@ -2,7 +2,7 @@
 title = "Tina Young"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-28T16:49:00-07:00
-lastmod = 2023-12-23T01:48:24-08:00
+lastmod = 2023-12-23T19:46:28-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

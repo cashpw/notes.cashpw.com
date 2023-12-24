@@ -2,7 +2,7 @@
 title = "Agile (Software development)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T16:32:00-07:00
-lastmod = 2023-12-22T21:31:43-08:00
+lastmod = 2023-12-23T10:33:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

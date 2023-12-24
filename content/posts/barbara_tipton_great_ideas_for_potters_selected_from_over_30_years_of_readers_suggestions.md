@@ -2,7 +2,7 @@
 title = "Barbara Tipton | Great Ideas for Potters: Selected from over 30 Years of Readers' Suggestions"
 author = ["Cash Weaver"]
 date = 2023-09-13T14:01:00-07:00
-lastmod = 2023-12-22T21:34:56-08:00
+lastmod = 2023-12-23T10:38:51-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

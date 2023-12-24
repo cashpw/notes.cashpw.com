@@ -2,7 +2,7 @@
 title = "A-star search algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T13:50:00-08:00
-lastmod = 2023-12-22T21:31:09-08:00
+lastmod = 2023-12-23T10:32:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

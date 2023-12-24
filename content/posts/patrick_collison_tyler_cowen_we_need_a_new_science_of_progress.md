@@ -2,7 +2,7 @@
 title = "Patrick Collison, Tyler Cowen | We Need a New Science of Progress"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:32:00-08:00
-lastmod = 2023-12-22T23:50:01-08:00
+lastmod = 2023-12-23T15:35:58-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

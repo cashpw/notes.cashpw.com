@@ -2,7 +2,7 @@
 title = "Transitive relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:10:00-07:00
-lastmod = 2023-12-23T01:57:31-08:00
+lastmod = 2023-12-23T20:07:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

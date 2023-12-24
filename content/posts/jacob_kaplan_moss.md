@@ -2,7 +2,7 @@
 title = "Jacob Kaplan-Moss"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-25T18:59:00-07:00
-lastmod = 2023-12-22T22:42:45-08:00
+lastmod = 2023-12-23T13:09:24-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "John Maynard Keynes | Essays in Persuasion"
 author = ["Cash Weaver"]
 date = 2023-06-28T15:36:00-07:00
-lastmod = 2023-12-22T22:49:01-08:00
+lastmod = 2023-12-23T13:23:20-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

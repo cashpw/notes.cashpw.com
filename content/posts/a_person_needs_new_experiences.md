@@ -2,7 +2,7 @@
 title = "A person needs new experiences"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T10:17:00-07:00
-lastmod = 2023-12-22T21:31:03-08:00
+lastmod = 2023-12-23T10:32:46-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Trust thermocline"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-13T14:55:00-08:00
-lastmod = 2023-12-23T02:02:38-08:00
+lastmod = 2023-12-23T20:18:41-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

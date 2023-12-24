@@ -2,7 +2,7 @@
 title = "It's Clear As Mud | How To Throw Production Pottery Part 1"
 author = ["Cash Weaver"]
 date = 2023-09-12T16:44:00-07:00
-lastmod = 2023-12-22T22:40:24-08:00
+lastmod = 2023-12-23T13:04:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing"
 author = ["Cash Weaver"]
 date = 2023-01-12T16:09:00-08:00
-lastmod = 2023-12-22T22:53:58-08:00
+lastmod = 2023-12-23T13:34:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

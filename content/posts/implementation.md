@@ -2,7 +2,7 @@
 title = "Implementation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:52:00-08:00
-lastmod = 2023-12-22T22:36:13-08:00
+lastmod = 2023-12-23T12:55:34-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

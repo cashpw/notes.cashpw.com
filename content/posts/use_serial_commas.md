@@ -2,7 +2,7 @@
 title = "Use serial commas"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:16:00-08:00
-lastmod = 2023-12-23T02:09:25-08:00
+lastmod = 2023-12-23T20:32:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

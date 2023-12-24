@@ -2,7 +2,7 @@
 title = "Octavia E. Butler | Parable of the Sower: Parable Series, Book 1"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T09:50:00-07:00
-lastmod = 2023-12-22T21:38:43-08:00
+lastmod = 2023-12-23T10:45:20-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

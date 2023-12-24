@@ -2,7 +2,7 @@
 title = "Computer cluster"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-01T11:23:00-08:00
-lastmod = 2023-12-22T21:48:22-08:00
+lastmod = 2023-12-23T11:06:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

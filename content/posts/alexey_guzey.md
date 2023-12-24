@@ -2,7 +2,7 @@
 title = "Alexey Guzey"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-18T11:35:00-08:00
-lastmod = 2023-12-22T21:32:10-08:00
+lastmod = 2023-12-23T10:34:34-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

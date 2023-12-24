@@ -2,7 +2,7 @@
 title = "Trip"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T10:29:00-07:00
-lastmod = 2023-12-23T02:02:09-08:00
+lastmod = 2023-12-23T20:17:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

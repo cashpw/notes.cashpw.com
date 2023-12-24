@@ -2,7 +2,7 @@
 title = "The last 10%"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-04T07:57:00-08:00
-lastmod = 2023-12-22T21:31:39-08:00
+lastmod = 2023-12-23T10:33:43-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Joseph Patrick Henrich | The Secret of Our Success"
 author = ["Cash Weaver"]
 date = 2023-01-10T10:27:00-08:00
-lastmod = 2023-12-22T22:51:59-08:00
+lastmod = 2023-12-23T13:29:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

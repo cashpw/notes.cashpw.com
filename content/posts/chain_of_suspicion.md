@@ -2,7 +2,7 @@
 title = "Chain of suspicion"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T15:49:00-08:00
-lastmod = 2023-12-22T21:44:13-08:00
+lastmod = 2023-12-23T10:57:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

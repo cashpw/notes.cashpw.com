@@ -2,7 +2,7 @@
 title = "Jessica Hwang"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T06:19:00-08:00
-lastmod = 2023-12-22T22:46:54-08:00
+lastmod = 2023-12-23T13:18:50-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

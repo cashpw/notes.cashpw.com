@@ -2,7 +2,7 @@
 title = "Explicit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:07:00-08:00
-lastmod = 2023-12-22T22:08:40-08:00
+lastmod = 2023-12-23T11:50:05-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

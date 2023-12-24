@@ -2,7 +2,7 @@
 title = "Cargo cult"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-23T18:35:00-07:00
-lastmod = 2023-12-22T21:40:01-08:00
+lastmod = 2023-12-23T10:47:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

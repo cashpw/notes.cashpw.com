@@ -2,7 +2,7 @@
 title = "Incident (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-13T09:32:00-07:00
-lastmod = 2023-12-22T22:37:21-08:00
+lastmod = 2023-12-23T12:57:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

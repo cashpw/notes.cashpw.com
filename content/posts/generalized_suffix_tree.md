@@ -2,7 +2,7 @@
 title = "Generalized suffix tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:05:00-08:00
-lastmod = 2023-12-22T22:19:24-08:00
+lastmod = 2023-12-23T12:14:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

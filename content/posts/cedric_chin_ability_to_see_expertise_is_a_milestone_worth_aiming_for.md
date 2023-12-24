@@ -2,7 +2,7 @@
 title = "Cedric Chin | Ability to See Expertise Is a Milestone Worth Aiming For"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:44:00-07:00
-lastmod = 2023-12-22T21:40:46-08:00
+lastmod = 2023-12-23T10:49:01-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Cedric Chin | The Hard Thing About Learning From Experience"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:42:00-07:00
-lastmod = 2023-12-22T21:42:17-08:00
+lastmod = 2023-12-23T10:52:10-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

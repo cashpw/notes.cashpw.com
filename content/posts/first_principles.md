@@ -2,7 +2,7 @@
 title = "First principles"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:16:00-08:00
-lastmod = 2023-12-22T22:13:34-08:00
+lastmod = 2023-12-23T12:00:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

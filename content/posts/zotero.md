@@ -2,7 +2,7 @@
 title = "Zotero"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-05T22:32:00-07:00
-lastmod = 2023-12-23T02:35:12-08:00
+lastmod = 2023-12-23T21:28:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,4 +29,4 @@ foo1
 ## Backlinks {#backlinks}
 
 -   [How I write notes]({{< relref "how_i_write_notes.md" >}})
--   [How to export an image gallery into Hugo using Emacs, Org-mode, and Ox-Hugo]({{< relref "zotero.md" >}})
+-   [How to export an image gallery into Hugo using Emacs, Org-mode, and Ox-Hugo]({{< relref "how_to_export_an_image_gallery_into_hugo_using_emacs_org_mode_and_ox_hugo.md" >}})

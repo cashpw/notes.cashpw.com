@@ -2,7 +2,7 @@
 title = "Jared Ramsey | The Last 1%"
 author = ["Cash Weaver"]
 date = 2023-12-04T08:08:00-08:00
-lastmod = 2023-12-22T22:44:54-08:00
+lastmod = 2023-12-23T13:14:25-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Selection sort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:51:00-07:00
-lastmod = 2023-12-23T00:40:24-08:00
+lastmod = 2023-12-23T17:21:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Don't make me think"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:44:00-07:00
-lastmod = 2023-12-22T22:01:46-08:00
+lastmod = 2023-12-23T11:36:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

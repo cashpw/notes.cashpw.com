@@ -2,7 +2,7 @@
 title = "Secure attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:35:00-07:00
-lastmod = 2023-12-23T00:38:51-08:00
+lastmod = 2023-12-23T17:18:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Quadratic formula"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T16:47:00-08:00
-lastmod = 2023-12-23T00:11:25-08:00
+lastmod = 2023-12-23T16:21:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

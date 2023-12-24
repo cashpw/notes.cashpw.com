@@ -2,7 +2,7 @@
 title = "Carl R Rogers, Richard E Farson | Active Listening"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T03:46:00-08:00
-lastmod = 2023-12-23T00:28:03-08:00
+lastmod = 2023-12-23T16:54:53-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

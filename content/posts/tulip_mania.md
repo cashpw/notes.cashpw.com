@@ -2,7 +2,7 @@
 title = "Tulip mania"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T14:54:00-08:00
-lastmod = 2023-12-23T02:03:53-08:00
+lastmod = 2023-12-23T20:21:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

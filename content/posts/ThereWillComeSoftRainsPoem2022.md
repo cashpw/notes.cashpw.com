@@ -2,7 +2,7 @@
 title = "There will come soft rains"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T10:39:00-07:00
-lastmod = 2023-12-22T21:30:54-08:00
+lastmod = 2023-12-23T10:32:29-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false

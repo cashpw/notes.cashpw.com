@@ -2,7 +2,7 @@
 title = "Consistent heuristic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T14:22:00-08:00
-lastmod = 2023-12-22T21:48:45-08:00
+lastmod = 2023-12-23T11:06:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Higher-order function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T09:39:00-08:00
-lastmod = 2023-12-22T22:29:28-08:00
+lastmod = 2023-12-23T12:39:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

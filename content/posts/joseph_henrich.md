@@ -2,7 +2,7 @@
 title = "Joseph Henrich"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T14:34:00-08:00
-lastmod = 2023-12-22T22:50:52-08:00
+lastmod = 2023-12-23T13:27:34-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

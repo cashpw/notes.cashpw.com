@@ -2,7 +2,7 @@
 title = "Mark Lutter | Build Institutions, Not Apps"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:22:00-08:00
-lastmod = 2023-12-22T23:15:22-08:00
+lastmod = 2023-12-23T14:21:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

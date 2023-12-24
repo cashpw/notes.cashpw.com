@@ -2,7 +2,7 @@
 title = "Joseph Gentle"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T10:07:00-07:00
-lastmod = 2023-12-22T22:50:43-08:00
+lastmod = 2023-12-23T13:27:18-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Trevor Hastie"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:19:00-08:00
-lastmod = 2023-12-23T02:00:36-08:00
+lastmod = 2023-12-23T20:14:28-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

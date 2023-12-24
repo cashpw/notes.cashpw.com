@@ -2,7 +2,7 @@
 title = "Tim Urban"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-08T10:59:00-08:00
-lastmod = 2023-12-23T01:46:08-08:00
+lastmod = 2023-12-23T19:41:35-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

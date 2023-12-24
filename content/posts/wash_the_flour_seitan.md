@@ -2,7 +2,7 @@
 title = "Wash the flour seitan"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-27T19:45:00-07:00
-lastmod = 2023-12-23T02:19:19-08:00
+lastmod = 2023-12-23T20:53:41-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false

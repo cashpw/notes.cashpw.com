@@ -2,7 +2,7 @@
 title = "Rand Spiro | Cognitive Flexibility Theory: Advanced Knowledge Acquisition in Ill-Structured Domains"
 author = ["Cash Weaver"]
 date = 2023-06-30T18:52:00-07:00
-lastmod = 2023-12-23T00:15:14-08:00
+lastmod = 2023-12-23T16:28:54-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

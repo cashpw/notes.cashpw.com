@@ -2,7 +2,7 @@
 title = "Museum Barberini | The Sun: Source of Light in Art"
 author = ["Cash Weaver"]
 date = 2023-08-07T17:32:00-07:00
-lastmod = 2023-12-22T23:30:31-08:00
+lastmod = 2023-12-23T14:53:27-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

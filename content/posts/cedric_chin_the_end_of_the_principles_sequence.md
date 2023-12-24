@@ -2,7 +2,7 @@
 title = "Cedric Chin | The End of the Principles Sequence"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:28:00-07:00
-lastmod = 2023-12-22T21:42:12-08:00
+lastmod = 2023-12-23T10:51:57-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

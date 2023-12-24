@@ -2,7 +2,7 @@
 title = "Customizable route planning"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-23T08:39:00-07:00
-lastmod = 2023-12-22T21:51:23-08:00
+lastmod = 2023-12-23T11:12:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

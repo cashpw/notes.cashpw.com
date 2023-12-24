@@ -2,7 +2,7 @@
 title = "dynomight | Plans You're Not Supposed to Talk about"
 author = ["Cash Weaver"]
 date = 2023-03-03T11:00:00-08:00
-lastmod = 2023-12-22T22:03:55-08:00
+lastmod = 2023-12-23T11:40:05-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

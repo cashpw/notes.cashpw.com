@@ -2,7 +2,7 @@
 title = "One-bag travel"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T05:39:00-07:00
-lastmod = 2023-12-22T23:43:52-08:00
+lastmod = 2023-12-23T15:23:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Call option"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:22:00-08:00
-lastmod = 2023-12-22T21:39:31-08:00
+lastmod = 2023-12-23T10:46:48-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

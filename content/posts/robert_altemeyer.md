@@ -2,7 +2,7 @@
 title = "Robert Altemeyer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T19:12:00-07:00
-lastmod = 2023-12-23T00:25:05-08:00
+lastmod = 2023-12-23T16:49:04-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

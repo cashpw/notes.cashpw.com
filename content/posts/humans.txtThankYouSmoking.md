@@ -1,7 +1,7 @@
 +++
 title = "Notes on humans.txt, Thank You for Smoking"
 author = ["Cash Prokop-Weaver"]
-lastmod = 2023-12-22T22:31:53-08:00
+lastmod = 2023-12-23T12:45:25-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false

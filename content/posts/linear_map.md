@@ -2,7 +2,7 @@
 title = "Linear map"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:45:00-08:00
-lastmod = 2023-12-22T23:07:56-08:00
+lastmod = 2023-12-23T14:05:32-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

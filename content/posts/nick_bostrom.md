@@ -2,7 +2,7 @@
 title = "Nick Bostrom"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-20T20:17:00-07:00
-lastmod = 2023-12-22T23:36:02-08:00
+lastmod = 2023-12-23T15:05:48-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

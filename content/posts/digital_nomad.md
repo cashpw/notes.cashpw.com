@@ -2,7 +2,7 @@
 title = "Digital nomad"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T05:41:00-07:00
-lastmod = 2023-12-22T21:59:16-08:00
+lastmod = 2023-12-23T11:30:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

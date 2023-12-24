@@ -2,7 +2,7 @@
 title = "Anna Salamon | Learned Blankness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:49:00-08:00
-lastmod = 2023-12-22T21:33:31-08:00
+lastmod = 2023-12-23T10:36:37-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

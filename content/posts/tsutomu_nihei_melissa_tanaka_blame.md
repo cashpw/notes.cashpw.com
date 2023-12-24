@@ -2,7 +2,7 @@
 title = "Tsutomu Nihei, Melissa Tanaka | Blame!"
 author = ["Cash Weaver"]
 date = 2023-07-24T10:36:00-07:00
-lastmod = 2023-12-23T02:03:40-08:00
+lastmod = 2023-12-23T20:20:48-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

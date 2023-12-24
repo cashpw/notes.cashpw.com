@@ -2,7 +2,7 @@
 title = "Thought-terminating cliché"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T10:43:00-07:00
-lastmod = 2023-12-23T01:44:19-08:00
+lastmod = 2023-12-23T19:38:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

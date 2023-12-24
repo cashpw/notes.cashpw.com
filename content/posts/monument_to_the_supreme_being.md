@@ -2,7 +2,7 @@
 title = "Monument to the Supreme Being"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-25T15:44:00-07:00
-lastmod = 2023-12-22T23:27:57-08:00
+lastmod = 2023-12-23T14:48:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

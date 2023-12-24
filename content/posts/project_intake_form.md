@@ -2,7 +2,7 @@
 title = "Software project management"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T10:06:00-07:00
-lastmod = 2023-12-23T00:05:48-08:00
+lastmod = 2023-12-23T16:08:55-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

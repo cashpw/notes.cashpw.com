@@ -2,7 +2,7 @@
 title = "Disjunctive normal form"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-22T09:28:00-07:00
-lastmod = 2023-12-22T22:00:43-08:00
+lastmod = 2023-12-23T11:34:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

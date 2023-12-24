@@ -2,7 +2,7 @@
 title = "Theory of mind"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T07:44:00-08:00
-lastmod = 2023-12-23T01:39:11-08:00
+lastmod = 2023-12-23T19:27:54-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Agency costs"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T07:50:00-08:00
-lastmod = 2023-12-22T21:31:41-08:00
+lastmod = 2023-12-23T10:33:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

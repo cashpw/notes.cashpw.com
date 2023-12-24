@@ -2,7 +2,7 @@
 title = "Duck test"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:26:00-07:00
-lastmod = 2023-12-22T22:03:17-08:00
+lastmod = 2023-12-23T11:38:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

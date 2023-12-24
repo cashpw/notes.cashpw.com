@@ -2,7 +2,7 @@
 title = "Write to solve problems at scale"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-04T16:26:00-08:00
-lastmod = 2023-12-23T02:27:10-08:00
+lastmod = 2023-12-23T21:10:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

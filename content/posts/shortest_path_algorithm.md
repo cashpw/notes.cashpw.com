@@ -2,7 +2,7 @@
 title = "Shortest path algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T06:03:00-08:00
-lastmod = 2023-12-23T00:45:23-08:00
+lastmod = 2023-12-23T17:31:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

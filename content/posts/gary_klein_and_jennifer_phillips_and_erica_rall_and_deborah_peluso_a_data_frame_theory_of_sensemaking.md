@@ -2,7 +2,7 @@
 title = "Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:05:00-07:00
-lastmod = 2023-12-22T22:19:04-08:00
+lastmod = 2023-12-23T12:14:19-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

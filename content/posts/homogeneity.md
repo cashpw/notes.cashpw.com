@@ -2,7 +2,7 @@
 title = "Homogeneity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:43:00-08:00
-lastmod = 2023-12-22T22:29:51-08:00
+lastmod = 2023-12-23T12:40:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

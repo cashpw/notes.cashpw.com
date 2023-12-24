@@ -2,7 +2,7 @@
 title = "Technical interview questions"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-03T21:19:00-08:00
-lastmod = 2023-12-23T01:24:39-08:00
+lastmod = 2023-12-23T18:56:26-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Mental model"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:08:00-08:00
-lastmod = 2023-12-22T23:20:39-08:00
+lastmod = 2023-12-23T14:33:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Holly Baxter"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-22T07:20:00-07:00
-lastmod = 2023-12-22T22:29:42-08:00
+lastmod = 2023-12-23T12:40:15-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

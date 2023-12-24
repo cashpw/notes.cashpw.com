@@ -2,7 +2,7 @@
 title = "How to improve at pottery"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-10T19:13:00-08:00
-lastmod = 2023-12-22T21:43:55-08:00
+lastmod = 2023-12-23T10:56:28-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false

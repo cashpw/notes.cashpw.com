@@ -2,7 +2,7 @@
 title = "Bandwidth"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T09:30:00-07:00
-lastmod = 2023-12-22T21:34:53-08:00
+lastmod = 2023-12-23T10:38:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

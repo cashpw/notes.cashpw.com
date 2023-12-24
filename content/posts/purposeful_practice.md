@@ -2,7 +2,7 @@
 title = "Purposeful practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:41:00-07:00
-lastmod = 2023-12-23T00:08:11-08:00
+lastmod = 2023-12-23T16:13:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

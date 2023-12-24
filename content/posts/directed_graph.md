@@ -2,7 +2,7 @@
 title = "Directed graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-05T17:45:00-07:00
-lastmod = 2023-12-22T22:00:26-08:00
+lastmod = 2023-12-23T11:33:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

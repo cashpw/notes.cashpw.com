@@ -2,7 +2,7 @@
 title = "Object-oriented programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:49:00-07:00
-lastmod = 2023-12-22T23:40:56-08:00
+lastmod = 2023-12-23T15:16:00-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

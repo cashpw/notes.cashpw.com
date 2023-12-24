@@ -2,7 +2,7 @@
 title = "Randall Munroe | Is It Worth the Time?"
 author = ["Cash Weaver"]
 date = 2023-10-27T08:53:00-07:00
-lastmod = 2023-12-23T00:15:41-08:00
+lastmod = 2023-12-23T16:29:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Maximum cut (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-08T11:04:00-08:00
-lastmod = 2023-12-22T23:19:12-08:00
+lastmod = 2023-12-23T14:29:45-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

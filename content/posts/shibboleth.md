@@ -2,7 +2,7 @@
 title = "Shibboleth"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-26T16:49:00-07:00
-lastmod = 2023-12-23T00:43:56-08:00
+lastmod = 2023-12-23T17:28:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

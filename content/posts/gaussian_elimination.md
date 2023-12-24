@@ -2,7 +2,7 @@
 title = "Gaussian elimination"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T11:06:00-08:00
-lastmod = 2023-12-22T22:19:17-08:00
+lastmod = 2023-12-23T12:14:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

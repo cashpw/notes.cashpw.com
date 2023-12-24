@@ -2,7 +2,7 @@
 title = "Something went wrong when extracting the title."
 author = ["Cash Weaver"]
 date = 2023-01-13T15:32:00-08:00
-lastmod = 2023-12-23T00:56:51-08:00
+lastmod = 2023-12-23T17:56:40-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

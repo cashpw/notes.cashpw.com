@@ -2,7 +2,7 @@
 title = "How I write notes"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T20:21:00-08:00
-lastmod = 2023-12-22T22:30:30-08:00
+lastmod = 2023-12-23T12:42:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,7 +33,7 @@ foo1
 ## Backlinks {#backlinks}
 
 -   [Goals for 2022]({{< relref "goals_for_2022.md" >}})
--   [How to export an image gallery into Hugo using Emacs, Org-mode, and Ox-Hugo]({{< relref "how_i_write_notes.md" >}})
+-   [How to export an image gallery into Hugo using Emacs, Org-mode, and Ox-Hugo]({{< relref "how_to_export_an_image_gallery_into_hugo_using_emacs_org_mode_and_ox_hugo.md" >}})
 -   [My one-bag packing list]({{< relref "my_one_bag_packing_list.md" >}})
 -   [README]({{< relref "readme.md" >}})
 -   [Why I write notes]({{< relref "why_i_write_notes.md" >}})

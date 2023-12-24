@@ -2,7 +2,7 @@
 title = "W. J. King, James G. Skakoon | The Unwritten Laws of Engineering"
 author = ["Cash Weaver"]
 date = 2023-06-02T16:00:00-07:00
-lastmod = 2023-12-23T02:18:10-08:00
+lastmod = 2023-12-23T20:51:29-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

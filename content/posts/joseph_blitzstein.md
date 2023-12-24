@@ -2,7 +2,7 @@
 title = "Joseph Blitzstein"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T06:19:00-08:00
-lastmod = 2023-12-22T22:50:35-08:00
+lastmod = 2023-12-23T13:27:02-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

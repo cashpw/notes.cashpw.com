@@ -2,7 +2,7 @@
 title = "Reasoning from analogies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:24:00-08:00
-lastmod = 2023-12-23T00:19:09-08:00
+lastmod = 2023-12-23T16:37:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

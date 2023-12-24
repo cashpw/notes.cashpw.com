@@ -2,7 +2,7 @@
 title = "Dijkstra's algorithm implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T12:19:00-08:00
-lastmod = 2023-12-22T21:59:50-08:00
+lastmod = 2023-12-23T11:32:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

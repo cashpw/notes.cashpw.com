@@ -2,7 +2,7 @@
 title = "Science of X"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:35:00-08:00
-lastmod = 2023-12-23T00:32:57-08:00
+lastmod = 2023-12-23T17:04:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Ezra Klein | Why We Can't Build"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:23:00-08:00
-lastmod = 2023-12-22T22:10:11-08:00
+lastmod = 2023-12-23T11:53:25-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

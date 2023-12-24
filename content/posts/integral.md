@@ -2,7 +2,7 @@
 title = "Integral calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:49:00-08:00
-lastmod = 2023-12-22T22:38:19-08:00
+lastmod = 2023-12-23T12:59:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Robin Hogarth"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-04T17:14:00-07:00
-lastmod = 2023-12-23T00:27:34-08:00
+lastmod = 2023-12-23T16:53:58-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

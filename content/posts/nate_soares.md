@@ -2,7 +2,7 @@
 title = "Nate Soares"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-08T10:10:00-07:00
-lastmod = 2023-12-22T23:31:55-08:00
+lastmod = 2023-12-23T14:56:50-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

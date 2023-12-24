@@ -2,7 +2,7 @@
 title = "Centre for Clinical Interventions: Perfectionism in Perspective"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-19T15:56:00-08:00
-lastmod = 2023-12-22T21:43:34-08:00
+lastmod = 2023-12-23T10:55:32-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -55,4 +55,4 @@ Centre for Clinical Interventions, (<a href="#citeproc_bib_item_1">“Perfection
 
 ## Backlinks {#backlinks}
 
--   [Perfectionism]({{< relref "centre_for_clinical_interventions_perfectionism_in_perspective.md" >}})
+-   [Perfectionism]({{< relref "perfectionism.md" >}})

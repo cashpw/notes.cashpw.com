@@ -2,7 +2,7 @@
 title = "qntm"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-02T19:00:00-08:00
-lastmod = 2023-12-23T00:10:58-08:00
+lastmod = 2023-12-23T16:20:10-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

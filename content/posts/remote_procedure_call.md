@@ -2,7 +2,7 @@
 title = "Remote procedure call"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:19:00-07:00
-lastmod = 2023-12-23T00:22:48-08:00
+lastmod = 2023-12-23T16:44:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

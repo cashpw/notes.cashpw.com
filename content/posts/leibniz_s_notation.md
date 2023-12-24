@@ -2,7 +2,7 @@
 title = "Leibniz's notation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:41:00-08:00
-lastmod = 2023-12-22T23:04:22-08:00
+lastmod = 2023-12-23T13:58:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

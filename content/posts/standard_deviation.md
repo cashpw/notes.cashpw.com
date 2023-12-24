@@ -2,7 +2,7 @@
 title = "Standard deviation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:08:00-08:00
-lastmod = 2023-12-23T01:05:58-08:00
+lastmod = 2023-12-23T18:16:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

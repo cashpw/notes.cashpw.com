@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Ship of Theseus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T20:03:00-07:00
-lastmod = 2023-12-22T21:54:33-08:00
+lastmod = 2023-12-23T11:19:31-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

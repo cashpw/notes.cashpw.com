@@ -2,7 +2,7 @@
 title = "Camille Fournier"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-20T09:44:00-07:00
-lastmod = 2023-12-22T21:39:38-08:00
+lastmod = 2023-12-23T10:46:58-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

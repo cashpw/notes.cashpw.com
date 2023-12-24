@@ -2,7 +2,7 @@
 title = "Lesley Blanch"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-07T17:56:00-07:00
-lastmod = 2023-12-22T23:05:08-08:00
+lastmod = 2023-12-23T13:59:42-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

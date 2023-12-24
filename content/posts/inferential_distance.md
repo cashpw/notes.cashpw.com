@@ -2,7 +2,7 @@
 title = "Inferential distance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-22T09:53:00-07:00
-lastmod = 2023-12-22T22:37:48-08:00
+lastmod = 2023-12-23T12:58:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

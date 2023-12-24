@@ -2,7 +2,7 @@
 title = "Scott Alexander | What Developmental Milestones Are You Missing?"
 author = ["Cash Weaver"]
 date = 2023-01-12T07:43:00-08:00
-lastmod = 2023-12-23T00:37:28-08:00
+lastmod = 2023-12-23T17:15:48-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

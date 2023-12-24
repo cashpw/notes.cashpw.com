@@ -2,7 +2,7 @@
 title = "Naive practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:57:00-07:00
-lastmod = 2023-12-22T23:31:28-08:00
+lastmod = 2023-12-23T14:55:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

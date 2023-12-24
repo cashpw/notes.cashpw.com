@@ -2,7 +2,7 @@
 title = "Zettelkasten"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T18:03:00-08:00
-lastmod = 2023-12-22T21:30:59-08:00
+lastmod = 2023-12-23T10:32:39-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

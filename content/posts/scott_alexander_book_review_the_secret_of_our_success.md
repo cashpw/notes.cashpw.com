@@ -2,7 +2,7 @@
 title = "Scott Alexander | Book Review: The Secret Of Our Success"
 author = ["Cash Weaver"]
 date = 2023-01-09T09:54:00-08:00
-lastmod = 2023-12-23T00:35:54-08:00
+lastmod = 2023-12-23T17:12:01-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

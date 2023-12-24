@@ -2,7 +2,7 @@
 title = "Management by trust"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T03:38:00-08:00
-lastmod = 2023-12-22T23:13:21-08:00
+lastmod = 2023-12-23T14:16:21-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "The difference between knowing the name of something and knowing something"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-13T06:39:00-07:00
-lastmod = 2023-12-23T01:30:23-08:00
+lastmod = 2023-12-23T19:09:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

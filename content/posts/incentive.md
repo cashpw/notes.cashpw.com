@@ -2,7 +2,7 @@
 title = "Incentive"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T10:14:00-08:00
-lastmod = 2023-12-22T22:37:15-08:00
+lastmod = 2023-12-23T12:57:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

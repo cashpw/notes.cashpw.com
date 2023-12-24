@@ -2,7 +2,7 @@
 title = "Stag hunt"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:29:00-07:00
-lastmod = 2023-12-23T01:05:28-08:00
+lastmod = 2023-12-23T18:15:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

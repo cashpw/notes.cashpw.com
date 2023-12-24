@@ -2,7 +2,7 @@
 title = "Bob Black"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:25:00-07:00
-lastmod = 2023-12-22T21:37:25-08:00
+lastmod = 2023-12-23T10:43:21-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

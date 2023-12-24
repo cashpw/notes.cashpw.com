@@ -2,7 +2,7 @@
 title = "Upstream | Fully Automated Luxury Communism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T09:40:00-07:00
-lastmod = 2023-12-23T02:08:23-08:00
+lastmod = 2023-12-23T20:30:36-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Lagrange's notation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:05:00-08:00
-lastmod = 2023-12-22T23:00:23-08:00
+lastmod = 2023-12-23T13:49:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

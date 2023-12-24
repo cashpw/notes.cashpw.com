@@ -2,7 +2,7 @@
 title = "Cache"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T09:19:00-07:00
-lastmod = 2023-12-22T21:39:06-08:00
+lastmod = 2023-12-23T10:46:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

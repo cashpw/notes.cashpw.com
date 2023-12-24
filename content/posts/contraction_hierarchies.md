@@ -2,7 +2,7 @@
 title = "Contraction hierarchies"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T11:57:00-07:00
-lastmod = 2023-12-22T21:49:21-08:00
+lastmod = 2023-12-23T11:08:12-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -472,7 +472,7 @@ We store a pointer to the interim vertex, \\(v\\), when we contract \\(u, v, w\\
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| front    | 2.20 | 1   | 1.00     | 2023-12-20T22:47:14Z |
+| front    | 2.20 | 2   | 2.00     | 2023-12-25T16:32:54Z |
 | back     | 2.5  | -1  | 0        | 2023-06-16T23:19:16Z |
 
 Heuristics for choosing the order to contract vertices.

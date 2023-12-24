@@ -2,7 +2,7 @@
 title = "Spin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T11:40:00-07:00
-lastmod = 2023-12-23T01:02:40-08:00
+lastmod = 2023-12-23T18:09:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

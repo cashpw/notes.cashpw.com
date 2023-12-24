@@ -2,7 +2,7 @@
 title = "Spacing effect"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-30T15:26:00-08:00
-lastmod = 2023-12-23T01:00:58-08:00
+lastmod = 2023-12-23T18:06:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

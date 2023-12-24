@@ -2,7 +2,7 @@
 title = "2sum linear time solution in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T16:13:00-08:00
-lastmod = 2023-12-22T21:30:13-08:00
+lastmod = 2023-12-23T10:31:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Subset sum problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T07:30:00-08:00
-lastmod = 2023-12-23T01:12:57-08:00
+lastmod = 2023-12-23T18:31:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

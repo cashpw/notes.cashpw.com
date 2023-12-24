@@ -2,7 +2,7 @@
 title = "John Allspaw"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:31:00-08:00
-lastmod = 2023-12-22T22:47:48-08:00
+lastmod = 2023-12-23T13:20:42-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

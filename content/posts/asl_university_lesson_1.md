@@ -2,14 +2,14 @@
 title = "ASL University | Lesson 1"
 author = ["Cash Weaver"]
 date = 2023-12-20T19:42:00-08:00
-lastmod = 2023-12-22T21:34:13-08:00
+lastmod = 2023-12-23T10:37:39-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "fdf0dacf-eec1-432c-9e19-f00b2cc7f556"
 +++
 
-[ASL University]({{< relref "asl_university_lesson_1.md" >}}), (<a href="#citeproc_bib_item_1">ASL University n.d.</a>)
+[ASL University]({{< relref "asl_university.md" >}}), (<a href="#citeproc_bib_item_1">ASL University n.d.</a>)
 
 
 ## Summary {#summary}

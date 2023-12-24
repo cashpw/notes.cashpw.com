@@ -2,7 +2,7 @@
 title = "Filter bubble"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:26:00-08:00
-lastmod = 2023-12-22T22:12:29-08:00
+lastmod = 2023-12-23T11:58:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

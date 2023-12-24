@@ -2,7 +2,7 @@
 title = "Notice the taste of lotus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:33:00-08:00
-lastmod = 2023-12-23T02:11:44-08:00
+lastmod = 2023-12-23T20:37:26-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

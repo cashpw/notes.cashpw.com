@@ -2,7 +2,7 @@
 title = "Tanner Greer | On The Tolkienic Hero"
 author = ["Cash Weaver"]
 date = 2023-01-11T19:32:00-08:00
-lastmod = 2023-12-23T01:20:55-08:00
+lastmod = 2023-12-23T18:47:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

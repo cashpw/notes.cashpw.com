@@ -2,7 +2,7 @@
 title = "Clary Illian | A Potter's Workbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:34:00-08:00
-lastmod = 2023-12-22T22:34:26-08:00
+lastmod = 2023-12-23T12:51:05-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Ship of Theseus (argument)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:42:00-07:00
-lastmod = 2023-12-23T00:44:23-08:00
+lastmod = 2023-12-23T17:29:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

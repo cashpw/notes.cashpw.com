@@ -2,7 +2,7 @@
 title = "Cedric Chin | Book Summary: Principles by Ray Dalio"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:27:00-07:00
-lastmod = 2023-12-22T21:41:19-08:00
+lastmod = 2023-12-23T10:50:01-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

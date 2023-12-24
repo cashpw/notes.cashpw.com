@@ -2,7 +2,7 @@
 title = "Dan Olson | Line Goes Up – The Problem With NFTs"
 author = ["Cash Weaver"]
 date = 2022-11-21T19:12:00-08:00
-lastmod = 2023-12-22T21:52:37-08:00
+lastmod = 2023-12-23T11:14:52-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

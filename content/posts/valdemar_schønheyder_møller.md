@@ -2,7 +2,7 @@
 title = "Valdemar Schønheyder Møller"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-07T18:48:00-07:00
-lastmod = 2023-12-23T02:10:48-08:00
+lastmod = 2023-12-23T20:35:20-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

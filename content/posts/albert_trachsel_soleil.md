@@ -2,7 +2,7 @@
 title = "Albert Trachsel | Soleil"
 author = ["Cash Weaver"]
 date = 2023-08-07T18:42:00-07:00
-lastmod = 2023-12-22T21:31:57-08:00
+lastmod = 2023-12-23T10:34:10-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

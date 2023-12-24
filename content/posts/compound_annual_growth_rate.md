@@ -2,7 +2,7 @@
 title = "Compound annual growth rate"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:28:00-08:00
-lastmod = 2023-12-22T21:48:06-08:00
+lastmod = 2023-12-23T11:05:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

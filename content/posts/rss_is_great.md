@@ -2,7 +2,7 @@
 title = "RSS is great"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-19T09:34:00-07:00
-lastmod = 2023-12-23T00:29:03-08:00
+lastmod = 2023-12-23T16:56:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

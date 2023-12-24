@@ -2,7 +2,7 @@
 title = "Hsinchuen Lin"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-05T16:42:00-07:00
-lastmod = 2023-12-22T22:31:30-08:00
+lastmod = 2023-12-23T12:44:42-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

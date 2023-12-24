@@ -2,7 +2,7 @@
 title = "Carol Dweck"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T09:45:00-07:00
-lastmod = 2023-12-22T21:40:05-08:00
+lastmod = 2023-12-23T10:47:42-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

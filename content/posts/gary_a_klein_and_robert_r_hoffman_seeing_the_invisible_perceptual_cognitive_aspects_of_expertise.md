@@ -2,7 +2,7 @@
 title = "Gary A. Klein and Robert R. Hoffman | Seeing the Invisible: Perceptual-cognitive Aspects of Expertise"
 author = ["Cash Weaver"]
 date = 2023-09-22T08:16:00-07:00
-lastmod = 2023-12-22T22:18:06-08:00
+lastmod = 2023-12-23T12:11:31-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

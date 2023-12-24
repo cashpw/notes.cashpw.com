@@ -2,7 +2,7 @@
 title = "Cut (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-28T13:15:00-08:00
-lastmod = 2023-12-22T21:51:31-08:00
+lastmod = 2023-12-23T11:12:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

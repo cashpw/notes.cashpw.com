@@ -2,7 +2,7 @@
 title = "IEEE 754"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T10:52:00-07:00
-lastmod = 2023-12-22T22:33:28-08:00
+lastmod = 2023-12-23T12:49:05-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

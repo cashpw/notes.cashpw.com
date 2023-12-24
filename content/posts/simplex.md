@@ -2,7 +2,7 @@
 title = "Simplex"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:22:00-07:00
-lastmod = 2023-12-23T00:48:13-08:00
+lastmod = 2023-12-23T17:37:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

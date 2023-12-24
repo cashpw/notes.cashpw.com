@@ -2,7 +2,7 @@
 title = "Robert Hutton"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T06:06:00-07:00
-lastmod = 2023-12-23T00:25:53-08:00
+lastmod = 2023-12-23T16:50:30-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

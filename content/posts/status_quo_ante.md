@@ -2,7 +2,7 @@
 title = "Status quo ante"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:21:00-08:00
-lastmod = 2023-12-23T01:06:56-08:00
+lastmod = 2023-12-23T18:18:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

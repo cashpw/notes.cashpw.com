@@ -2,7 +2,7 @@
 title = "Alexey Guzey | Every Productivity Thought I've Ever Had, as Concisely as Possible"
 author = ["Cash Weaver"]
 date = 2023-10-27T15:25:00-07:00
-lastmod = 2023-12-22T21:32:12-08:00
+lastmod = 2023-12-23T10:34:37-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

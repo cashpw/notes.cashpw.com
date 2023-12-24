@@ -2,7 +2,7 @@
 title = "Polarity"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-16T19:29:00-07:00
-lastmod = 2023-12-22T23:58:20-08:00
+lastmod = 2023-12-23T15:53:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

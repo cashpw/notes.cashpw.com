@@ -2,7 +2,7 @@
 title = "Cognitive bias"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:22:00-08:00
-lastmod = 2023-12-22T21:46:23-08:00
+lastmod = 2023-12-23T11:02:00-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

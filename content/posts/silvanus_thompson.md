@@ -2,7 +2,7 @@
 title = "Silvanus Thompson"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T06:56:00-08:00
-lastmod = 2023-12-23T00:46:48-08:00
+lastmod = 2023-12-23T17:34:23-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

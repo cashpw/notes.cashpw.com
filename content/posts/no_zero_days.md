@@ -2,7 +2,7 @@
 title = "No zero days"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-12T08:30:00-08:00
-lastmod = 2023-12-22T23:38:19-08:00
+lastmod = 2023-12-23T15:10:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

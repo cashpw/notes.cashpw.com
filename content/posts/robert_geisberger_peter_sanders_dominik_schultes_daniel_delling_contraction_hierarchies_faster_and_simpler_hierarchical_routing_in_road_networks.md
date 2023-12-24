@@ -2,7 +2,7 @@
 title = "Robert Geisberger, Peter Sanders, Dominik Schultes, Daniel Delling | Contraction Hierarchies: Faster and Simpler Hierarchical Routing in Road Networks"
 author = ["Cash Weaver"]
 date = 2023-06-26T09:37:00-07:00
-lastmod = 2023-12-23T00:25:27-08:00
+lastmod = 2023-12-23T16:49:39-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

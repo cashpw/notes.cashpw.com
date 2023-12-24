@@ -2,7 +2,7 @@
 title = "Kevin Simler"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T14:47:00-08:00
-lastmod = 2023-12-22T22:56:05-08:00
+lastmod = 2023-12-23T13:39:05-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

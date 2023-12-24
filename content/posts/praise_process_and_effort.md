@@ -2,7 +2,7 @@
 title = "Praise process and effort"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-04T08:29:00-07:00
-lastmod = 2023-12-23T00:02:10-08:00
+lastmod = 2023-12-23T16:01:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

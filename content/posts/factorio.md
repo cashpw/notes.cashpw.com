@@ -2,7 +2,7 @@
 title = "Factorio"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-16T16:51:00-08:00
-lastmod = 2023-12-22T22:10:25-08:00
+lastmod = 2023-12-23T11:53:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

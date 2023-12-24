@@ -2,7 +2,7 @@
 title = "Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands"
 author = ["Cash Weaver"]
 date = 2023-09-08T15:14:00-07:00
-lastmod = 2023-12-22T23:01:39-08:00
+lastmod = 2023-12-23T13:52:14-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

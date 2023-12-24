@@ -2,7 +2,7 @@
 title = "Robert Tibshirani"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:20:00-08:00
-lastmod = 2023-12-23T00:26:17-08:00
+lastmod = 2023-12-23T16:51:13-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

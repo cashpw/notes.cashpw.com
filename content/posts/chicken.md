@@ -2,7 +2,7 @@
 title = "Chicken (game)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:28:00-07:00
-lastmod = 2023-12-22T21:44:33-08:00
+lastmod = 2023-12-23T10:58:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

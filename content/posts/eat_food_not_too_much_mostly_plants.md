@@ -2,7 +2,7 @@
 title = "Eat food. Not too much. Mostly plants."
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T13:54:00-08:00
-lastmod = 2023-12-22T22:04:13-08:00
+lastmod = 2023-12-23T11:40:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Admissible heuristic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T14:13:00-08:00
-lastmod = 2023-12-22T21:31:28-08:00
+lastmod = 2023-12-23T10:33:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

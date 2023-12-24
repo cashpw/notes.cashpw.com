@@ -2,7 +2,7 @@
 title = "Alex Kehayias"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:44:00-08:00
-lastmod = 2023-12-22T21:31:58-08:00
+lastmod = 2023-12-23T10:34:12-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

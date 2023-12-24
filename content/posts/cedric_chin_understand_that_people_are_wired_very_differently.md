@@ -2,7 +2,7 @@
 title = "Cedric Chin | Understand That People Are Wired Very Differently"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:28:00-07:00
-lastmod = 2023-12-22T21:43:07-08:00
+lastmod = 2023-12-23T10:54:35-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

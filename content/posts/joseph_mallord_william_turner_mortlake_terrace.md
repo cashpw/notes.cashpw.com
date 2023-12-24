@@ -2,7 +2,7 @@
 title = "Joseph Mallord William Turner | Mortlake Terrace"
 author = ["Cash Weaver"]
 date = 2023-08-07T18:24:00-07:00
-lastmod = 2023-12-22T22:51:35-08:00
+lastmod = 2023-12-23T13:29:06-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

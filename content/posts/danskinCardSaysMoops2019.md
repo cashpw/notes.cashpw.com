@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Card Says Moops"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:25:00-07:00
-lastmod = 2023-12-22T21:53:38-08:00
+lastmod = 2023-12-23T11:17:17-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

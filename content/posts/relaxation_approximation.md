@@ -2,7 +2,7 @@
 title = "Relaxation (approximation)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T11:42:00-08:00
-lastmod = 2023-12-23T00:22:34-08:00
+lastmod = 2023-12-23T16:44:03-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

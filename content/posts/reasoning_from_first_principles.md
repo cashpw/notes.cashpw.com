@@ -2,7 +2,7 @@
 title = "Reasoning from first principles"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:18:00-08:00
-lastmod = 2023-12-23T00:19:28-08:00
+lastmod = 2023-12-23T16:37:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

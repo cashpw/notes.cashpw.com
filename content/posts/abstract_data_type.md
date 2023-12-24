@@ -2,7 +2,7 @@
 title = "Abstract data type"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:49:00-07:00
-lastmod = 2023-12-22T21:31:15-08:00
+lastmod = 2023-12-23T10:33:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

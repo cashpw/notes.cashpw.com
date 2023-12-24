@@ -2,7 +2,7 @@
 title = "November 2022"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-06T08:06:00-08:00
-lastmod = 2023-12-22T23:40:32-08:00
+lastmod = 2023-12-23T15:15:10-08:00
 tags = ["newsletter", "newsletter"]
 categories = ["newsletter"]
 draft = false

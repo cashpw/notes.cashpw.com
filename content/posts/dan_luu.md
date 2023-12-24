@@ -2,7 +2,7 @@
 title = "Dan Luu"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T20:08:00-07:00
-lastmod = 2023-12-22T21:51:53-08:00
+lastmod = 2023-12-23T11:13:21-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

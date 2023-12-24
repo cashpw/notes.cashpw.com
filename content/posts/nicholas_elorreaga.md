@@ -2,7 +2,7 @@
 title = "Nicholas Elorreaga"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-06T08:27:00-07:00
-lastmod = 2023-12-22T23:35:49-08:00
+lastmod = 2023-12-23T15:05:20-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

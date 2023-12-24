@@ -2,7 +2,7 @@
 title = "Italy 2023"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T10:28:00-07:00
-lastmod = 2023-12-22T22:40:56-08:00
+lastmod = 2023-12-23T13:05:27-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

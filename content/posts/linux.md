@@ -2,7 +2,7 @@
 title = "Linux"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-19T10:58:00-08:00
-lastmod = 2023-12-22T23:08:58-08:00
+lastmod = 2023-12-23T14:07:33-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

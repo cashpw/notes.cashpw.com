@@ -2,7 +2,7 @@
 title = "The opposite of a trap is a garden"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-10T09:13:00-07:00
-lastmod = 2023-12-23T01:35:01-08:00
+lastmod = 2023-12-23T19:19:39-08:00
 tags = ["concept", "quote", "concept", "quote"]
 categories = ["concept", "quote"]
 draft = false

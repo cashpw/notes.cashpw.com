@@ -2,7 +2,7 @@
 title = "Naturalistic decision making"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T19:22:00-07:00
-lastmod = 2023-12-22T23:33:13-08:00
+lastmod = 2023-12-23T14:59:57-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

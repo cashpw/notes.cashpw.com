@@ -2,7 +2,7 @@
 title = "Antisymmetric relation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T17:11:00-07:00
-lastmod = 2023-12-22T21:33:40-08:00
+lastmod = 2023-12-23T10:36:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

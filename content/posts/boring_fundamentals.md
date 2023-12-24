@@ -2,7 +2,7 @@
 title = "Boring fundamentals"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T13:50:00-08:00
-lastmod = 2023-12-22T21:37:31-08:00
+lastmod = 2023-12-23T10:43:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

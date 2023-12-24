@@ -2,7 +2,7 @@
 title = "Cedric Chin | On Lying To Yourself"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:28:00-07:00
-lastmod = 2023-12-22T21:41:59-08:00
+lastmod = 2023-12-23T10:51:31-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

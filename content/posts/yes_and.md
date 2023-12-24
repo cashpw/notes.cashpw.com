@@ -2,7 +2,7 @@
 title = "Yes, and"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-14T11:20:00-07:00
-lastmod = 2023-12-23T02:30:05-08:00
+lastmod = 2023-12-23T21:17:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

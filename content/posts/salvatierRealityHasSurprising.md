@@ -2,7 +2,7 @@
 title = "John Salvatier | Reality Has a Surprising Amount of Detail"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:29:00-08:00
-lastmod = 2023-12-23T00:30:59-08:00
+lastmod = 2023-12-23T17:00:50-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

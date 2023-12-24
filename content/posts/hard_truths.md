@@ -2,7 +2,7 @@
 title = "Hard truths"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-07T06:10:00-08:00
-lastmod = 2023-12-22T22:26:03-08:00
+lastmod = 2023-12-23T12:31:41-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

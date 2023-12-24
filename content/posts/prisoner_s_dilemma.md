@@ -2,7 +2,7 @@
 title = "Prisoner's dilemma"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T07:01:00-07:00
-lastmod = 2023-12-23T00:03:58-08:00
+lastmod = 2023-12-23T16:04:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Episteme"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T07:49:00-08:00
-lastmod = 2023-12-22T22:06:53-08:00
+lastmod = 2023-12-23T11:46:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

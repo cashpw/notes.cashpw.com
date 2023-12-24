@@ -2,7 +2,7 @@
 title = "Big-picture thinking (Staff Engineer's Path)"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-05T09:33:00-07:00
-lastmod = 2023-12-22T21:36:10-08:00
+lastmod = 2023-12-23T10:40:54-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

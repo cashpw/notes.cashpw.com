@@ -2,7 +2,7 @@
 title = "Max binary heap implementation in java"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T12:59:00-07:00
-lastmod = 2023-12-22T23:18:51-08:00
+lastmod = 2023-12-23T14:29:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

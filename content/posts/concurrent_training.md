@@ -2,7 +2,7 @@
 title = "Concurrent training"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T19:38:00-07:00
-lastmod = 2023-12-22T21:48:30-08:00
+lastmod = 2023-12-23T11:06:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

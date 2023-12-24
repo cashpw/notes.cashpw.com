@@ -2,7 +2,7 @@
 title = "Jeffrey Dean, Luiz André Barroso | The Tail at Scale"
 author = ["Cash Weaver"]
 date = 2022-12-01T11:44:00-08:00
-lastmod = 2023-12-22T22:46:28-08:00
+lastmod = 2023-12-23T13:17:58-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false

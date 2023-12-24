@@ -2,7 +2,7 @@
 title = "Continuous partial attention"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T14:46:00-08:00
-lastmod = 2023-12-22T21:49:04-08:00
+lastmod = 2023-12-23T11:07:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

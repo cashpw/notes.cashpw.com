@@ -2,7 +2,7 @@
 title = "Linear algebra"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T11:12:00-08:00
-lastmod = 2023-12-22T23:07:37-08:00
+lastmod = 2023-12-23T14:04:57-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

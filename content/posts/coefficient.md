@@ -2,7 +2,7 @@
 title = "Coefficient"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:33:00-08:00
-lastmod = 2023-12-22T21:46:19-08:00
+lastmod = 2023-12-23T11:01:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

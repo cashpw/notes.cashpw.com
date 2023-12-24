@@ -2,7 +2,7 @@
 title = "Mark Lutter"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T09:33:00-08:00
-lastmod = 2023-12-22T23:15:10-08:00
+lastmod = 2023-12-23T14:20:58-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false

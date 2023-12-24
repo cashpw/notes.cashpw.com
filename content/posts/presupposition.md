@@ -2,7 +2,7 @@
 title = "Presupposition"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-17T16:11:00-07:00
-lastmod = 2023-12-23T00:02:39-08:00
+lastmod = 2023-12-23T16:02:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

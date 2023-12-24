@@ -2,7 +2,7 @@
 title = "Cash Prokop-Weaver"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T09:01:00-08:00
-lastmod = 2023-12-22T21:40:11-08:00
+lastmod = 2023-12-23T10:47:51-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

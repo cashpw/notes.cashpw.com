@@ -2,7 +2,7 @@
 title = "Metagaming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:01:00-08:00
-lastmod = 2023-12-22T21:30:44-08:00
+lastmod = 2023-12-23T10:32:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false

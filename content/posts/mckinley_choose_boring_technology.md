@@ -2,7 +2,7 @@
 title = "Dan McKinley | Choose Boring Technology"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:13:00-08:00
-lastmod = 2023-12-22T23:19:23-08:00
+lastmod = 2023-12-23T14:30:09-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
