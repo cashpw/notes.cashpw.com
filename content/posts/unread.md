@@ -1,7 +1,7 @@
 +++
 title = "Reading list"
 author = ["cashweaver"]
-lastmod = 2023-12-23T20:27:25-08:00
+lastmod = 2023-12-25T19:49:02-08:00
 tags = ["type", "topic", "software", "culinary", "when", "hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false
@@ -70,6 +70,7 @@ Examples:
 -   Upload (Amazon)
 -   Boondocks
 -   The Bear (drama)
+-   Party Down
 
 
 ### Misc {#misc}
