@@ -27,7 +27,6 @@ Related:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Speculative Evolution.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Speculative_evolution&oldid=1067458432">https://en.wikipedia.org/w/index.php?title=Speculative_evolution&#38;oldid=1067458432</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

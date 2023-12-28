@@ -24,7 +24,6 @@ slug = "a15a6edb-dbe2-496f-bdc7-92b14e1f5566"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Tree.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Binary_tree&oldid=1092722102">https://en.wikipedia.org/w/index.php?title=Binary_tree&#38;oldid=1092722102</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

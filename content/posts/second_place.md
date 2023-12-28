@@ -22,7 +22,6 @@ slug = "734b5d37-a342-4dbe-9e6a-e63df297433a"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Third Place.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Third_place&oldid=1113017641">https://en.wikipedia.org/w/index.php?title=Third_place&#38;oldid=1113017641</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

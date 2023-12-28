@@ -25,7 +25,6 @@ slug = "44df8020-9272-455c-91ea-268daf7c08d5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>David Foster Wallace. n.d. “This Is Water.” Accessed November 23, 2022. <a href="https://fs.blog/david-foster-wallace-this-is-water/">https://fs.blog/david-foster-wallace-this-is-water/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

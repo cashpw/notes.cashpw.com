@@ -24,7 +24,6 @@ Also see [Higher order questions]({{< relref "higher_order_questions.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:LowerOrderQuestionsTAPFacilitatorResourceCenter</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

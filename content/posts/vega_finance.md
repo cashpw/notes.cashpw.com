@@ -30,7 +30,6 @@ slug = "f54153f5-fc44-41ce-b4dd-4274c95fbcec"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greeks (Finance).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&oldid=1119146188">https://en.wikipedia.org/w/index.php?title=Greeks_(finance)&#38;oldid=1119146188</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

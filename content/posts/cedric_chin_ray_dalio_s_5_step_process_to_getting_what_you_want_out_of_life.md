@@ -29,7 +29,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2018</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “Ray Dalio’s 5 Step Process (To Getting What You Want Out Of Life).” <i>Commoncog</i>. <a href="https://commoncog.com/dalios-5-step-process-to-getting-what-you-want/">https://commoncog.com/dalios-5-step-process-to-getting-what-you-want/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

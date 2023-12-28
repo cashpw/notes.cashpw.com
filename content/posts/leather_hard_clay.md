@@ -22,7 +22,6 @@ slug = "7358ec53-29b1-4b14-b1b5-20a09e40caf1"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Leather-Hard.” 2020. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Leather-hard&oldid=991801984">https://en.wikipedia.org/w/index.php?title=Leather-hard&#38;oldid=991801984</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

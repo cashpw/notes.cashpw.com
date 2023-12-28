@@ -62,7 +62,6 @@ I hate mondays is an embrace of coping strategies and a refusal to address a pro
   <div class="csl-entry">NO_ITEM_DATA:danskinHateMondays2020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

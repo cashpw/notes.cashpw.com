@@ -30,7 +30,6 @@ slug = "e00b9c0f-103f-4c55-8938-e777f58d04fb"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Radix Tree.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Radix_tree&oldid=1105756012">https://en.wikipedia.org/w/index.php?title=Radix_tree&#38;oldid=1105756012</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

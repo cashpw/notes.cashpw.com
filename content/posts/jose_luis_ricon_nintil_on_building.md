@@ -107,7 +107,6 @@ Sounds like an adversarial relationship like a [Generative adversarial network](
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Ricon, Jose Luis. n.d. “On Building.” <i>Nintil</i>. Accessed January 10, 2023. <a href="https://nintil.com/on-building">https://nintil.com/on-building</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

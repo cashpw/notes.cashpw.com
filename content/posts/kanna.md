@@ -29,7 +29,6 @@ slug = "71f966bf-eb19-4684-bc95-6805103a25b1"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Euclid Trimming Kanna Set.” n.d. <i>Armadillo Clay and Supplies</i>. Accessed September 12, 2023. <a href="http://www.armadilloclay.com/store/p2086/Euclid_Trimming_Kanna_Set.html">http://www.armadilloclay.com/store/p2086/Euclid_Trimming_Kanna_Set.html</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

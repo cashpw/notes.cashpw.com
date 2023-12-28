@@ -22,7 +22,6 @@ slug = "4ab64054-a7a8-432e-bd5b-da1d8a01ae16"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Unix Philosophy.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Unix_philosophy&oldid=1115980075">https://en.wikipedia.org/w/index.php?title=Unix_philosophy&#38;oldid=1115980075</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

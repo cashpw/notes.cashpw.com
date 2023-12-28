@@ -22,7 +22,6 @@ slug = "bff6cb4c-8091-4c3d-87a9-397f54218d38"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Backcasting.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Backcasting&oldid=1111706551">https://en.wikipedia.org/w/index.php?title=Backcasting&#38;oldid=1111706551</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

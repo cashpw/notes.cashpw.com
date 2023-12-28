@@ -22,7 +22,6 @@ slug = "a9d3410c-d133-4899-8e3a-7e7a9813ab04"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Rowing (Sport).” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Rowing_(sport)&oldid=1156240520">https://en.wikipedia.org/w/index.php?title=Rowing_(sport)&#38;oldid=1156240520</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "d263a9a2-ed45-438b-a390-7f205f383d54"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

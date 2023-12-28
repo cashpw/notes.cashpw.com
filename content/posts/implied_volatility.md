@@ -22,7 +22,6 @@ slug = "7b2744d7-c760-474b-97ef-120da8b4220f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Implied Volatility.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Implied_volatility&oldid=1100503541">https://en.wikipedia.org/w/index.php?title=Implied_volatility&#38;oldid=1100503541</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -91,7 +91,6 @@ YouTube, and video in general, is a wealth of tacit knowledge. Seek out a combin
   <div class="csl-entry">NO_ITEM_DATA:chinHowUseYouTubeLearnTacitKnowledge2020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -35,7 +35,6 @@ The goal isn't to [Metagame]({{< relref "the_metagame.md" >}}) the problem (i.e.
   <div class="csl-entry">NO_ITEM_DATA:reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

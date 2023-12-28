@@ -69,7 +69,6 @@ They won't come once you build it. They'll come when you sell them on why they s
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Ramsey, Jared. n.d. “The Last 1\%.” Accessed December 4, 2023. <a href="https://jaredramsey.com/blog/20230808.html">https://jaredramsey.com/blog/20230808.html</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -29,7 +29,6 @@ slug = "673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f"
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“What Is Comparative Advantage?” n.d. <i>Investopedia</i>. Accessed October 28, 2022. <a href="https://www.investopedia.com/terms/c/comparativeadvantage.asp">https://www.investopedia.com/terms/c/comparativeadvantage.asp</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

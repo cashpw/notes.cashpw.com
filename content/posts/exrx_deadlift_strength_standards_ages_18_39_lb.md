@@ -63,7 +63,6 @@ In order for these standards to apply, knees, hips, and upper back must complete
   <div class="csl-entry">NO_ITEM_DATA:exrxDeadliftStrengthStandardsAges1839Lb</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -70,7 +70,6 @@ slug = "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Heap.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Binary_heap&oldid=1087856345">https://en.wikipedia.org/w/index.php?title=Binary_heap&#38;oldid=1087856345</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

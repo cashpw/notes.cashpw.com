@@ -24,7 +24,6 @@ slug = "d88f63c9-296b-4b0c-9757-00cc1e891e16"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ultimatum Game.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Ultimatum_game&oldid=1101687322">https://en.wikipedia.org/w/index.php?title=Ultimatum_game&#38;oldid=1101687322</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

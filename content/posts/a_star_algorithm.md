@@ -50,7 +50,6 @@ Like [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}), A\*'s imp
   <div class="csl-entry">NO_ITEM_DATA:francoisrAnswerWhatDoesStarAlgorithmMean2016</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

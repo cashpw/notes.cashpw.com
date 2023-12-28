@@ -80,7 +80,6 @@ slug = "2fe284fb-7fbc-4956-9857-db90b66e504e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“BellmanFord Algorithm.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&oldid=1088801570">https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&#38;oldid=1088801570</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

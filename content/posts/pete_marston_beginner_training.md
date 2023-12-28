@@ -533,7 +533,6 @@ A [Rowing]({{< relref "rowing.md" >}}) training routine for beginners.
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Marston, Pete. 2008. “Beginner Training.” <i>Lunch Hour</i>. <a href="https://thepeteplan.wordpress.com/beginner-training/">https://thepeteplan.wordpress.com/beginner-training/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

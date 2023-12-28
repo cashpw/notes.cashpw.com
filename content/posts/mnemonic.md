@@ -26,7 +26,6 @@ slug = "f38ffe48-0117-4338-8bd5-e0b05101e64f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mnemonic.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Mnemonic&oldid=1121123169">https://en.wikipedia.org/w/index.php?title=Mnemonic&#38;oldid=1121123169</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

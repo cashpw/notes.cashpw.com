@@ -32,7 +32,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">antirez n.d.</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>antirez. n.d. “The Mythical 10x Programmer.” Accessed October 27, 2023. <a href="http://antirez.com/news/112">http://antirez.com/news/112</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -70,7 +70,6 @@ See headings beneath "Notes" for bullet-point summary.
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kaufman, Jeff. n.d. “How to Parent More Predictably.” Accessed November 6, 2023. <a href="https://www.jefftk.com/p/how-to-parent-more-predictably">https://www.jefftk.com/p/how-to-parent-more-predictably</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

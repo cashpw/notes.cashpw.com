@@ -57,7 +57,6 @@ A [Freddish]({{< relref "freddish.md" >}}) guide for discussing and helping chil
   <div class="csl-entry">NO_ITEM_DATA:WhenSomeoneChildLovesDies</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -24,7 +24,6 @@ The opposite of a [Non-zero-sum game]({{< relref "non_zero_sum_game.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Zero-Sum Game.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Zero-sum_game&oldid=1094118821">https://en.wikipedia.org/w/index.php?title=Zero-sum_game&#38;oldid=1094118821</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

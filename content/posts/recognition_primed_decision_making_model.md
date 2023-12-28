@@ -117,7 +117,6 @@ In general, it's a pattern-matching exercise (see [Cedric Chin | Expertise Is 'J
   <div class="csl-entry">NO_ITEM_DATA:chinCopyingBetterHowAcquireTacitKnowledgeExperts2020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

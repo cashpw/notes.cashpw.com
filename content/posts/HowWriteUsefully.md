@@ -72,7 +72,6 @@ Additionally, for Graham, a useful essay is one which says things as simply as p
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Graham, Paul. n.d. “How to Write Usefully.” Accessed February 7, 2022. <a href="http://paulgraham.com/useful.html">http://paulgraham.com/useful.html</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

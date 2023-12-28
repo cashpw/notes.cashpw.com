@@ -92,7 +92,6 @@ def insert_fix(inserted_node):
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Red-Black Tree.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Red%E2%80%93black_tree&oldid=1100748306">https://en.wikipedia.org/w/index.php?title=Red%E2%80%93black_tree&#38;oldid=1100748306</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

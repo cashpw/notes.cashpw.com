@@ -26,7 +26,6 @@ slug = "e4034c34-f894-48fb-b303-41d0596589c9"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Magical Thinking.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Magical_thinking&oldid=1129856055">https://en.wikipedia.org/w/index.php?title=Magical_thinking&#38;oldid=1129856055</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

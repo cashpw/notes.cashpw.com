@@ -22,7 +22,6 @@ slug = "a0b7f03a-9c15-4bf0-ae71-2cd4bca3e715"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ravikant, Naval. 2018. “Read What You Love until You Love to Read.” Tweet. <i>Twitter</i>. <a href="https://twitter.com/naval/status/1002068699761659905">https://twitter.com/naval/status/1002068699761659905</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

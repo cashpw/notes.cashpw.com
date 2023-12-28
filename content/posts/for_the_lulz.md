@@ -31,7 +31,6 @@ Also see [The card says moops]({{< relref "the_card_says_moops.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“For the Lulz.” n.d. <i>Urban Dictionary</i>. Accessed June 26, 2022. <a href="https://www.urbandictionary.com/define.php?term=For%20the%20lulz">https://www.urbandictionary.com/define.php?term=For%20the%20lulz</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "0336585d-7bce-4982-850d-986678bd6cd6"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank, and Brian Herbert. 2020. <i>Chapterhouse: Dune</i>. New York: Ace.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

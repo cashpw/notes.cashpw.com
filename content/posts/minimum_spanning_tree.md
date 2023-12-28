@@ -47,7 +47,6 @@ slug = "eb6b18c0-f0ff-45e9-a747-2b7516ddef52"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Minimum Spanning Tree.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Minimum_spanning_tree&oldid=1128869717">https://en.wikipedia.org/w/index.php?title=Minimum_spanning_tree&#38;oldid=1128869717</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

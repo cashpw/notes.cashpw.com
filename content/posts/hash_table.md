@@ -57,7 +57,6 @@ slug = "b8f1337e-8231-4ace-b003-bb988b4c39ee"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Hash Table.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Hash_table&oldid=1095560468">https://en.wikipedia.org/w/index.php?title=Hash_table&#38;oldid=1095560468</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

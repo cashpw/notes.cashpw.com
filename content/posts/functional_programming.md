@@ -28,7 +28,6 @@ slug = "f690a8ad-4069-4e96-a707-2a57f638c493"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Functional Programming.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Functional_programming&oldid=1149919082">https://en.wikipedia.org/w/index.php?title=Functional_programming&#38;oldid=1149919082</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -24,7 +24,6 @@ Also see [Game theory]({{< relref "game_theory.md" >}}), [Perfect information]({
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Perfect Information.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Perfect_information&oldid=1107320001">https://en.wikipedia.org/w/index.php?title=Perfect_information&#38;oldid=1107320001</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

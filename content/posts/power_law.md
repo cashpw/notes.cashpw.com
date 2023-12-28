@@ -22,7 +22,6 @@ slug = "29d30938-ecd0-4f44-a86b-5bd7f7734f08"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Power Law.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Power_law&oldid=1120013898">https://en.wikipedia.org/w/index.php?title=Power_law&#38;oldid=1120013898</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

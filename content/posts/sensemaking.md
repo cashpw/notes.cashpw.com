@@ -51,7 +51,6 @@ slug = "10a23a67-c60d-4591-8bb2-e87ca50b0e94"
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Weick, Karl E. 2010. <i>Sensemaking in Organizations</i>. Nachdr. Foundations for Organizational Science. Thousand Oaks, Calif.: Sage Publ.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

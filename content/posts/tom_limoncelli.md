@@ -26,7 +26,6 @@ Among other things:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tom Limoncelli.” 2021. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Tom_Limoncelli&oldid=1037850468">https://en.wikipedia.org/w/index.php?title=Tom_Limoncelli&#38;oldid=1037850468</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

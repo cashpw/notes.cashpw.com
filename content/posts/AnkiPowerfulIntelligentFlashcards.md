@@ -24,7 +24,6 @@ A software solution for [spaced repetition]({{< relref "spaced_repetition.md" >}
   <div class="csl-entry">NO_ITEM_DATA:AnkiPowerfulIntelligentFlashcards</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

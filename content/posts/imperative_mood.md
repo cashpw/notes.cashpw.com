@@ -32,7 +32,6 @@ slug = "39f7e92f-c7df-4d0d-94cd-ef7f39437ec1"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Imperative Mood.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Imperative_mood&oldid=1151843661">https://en.wikipedia.org/w/index.php?title=Imperative_mood&#38;oldid=1151843661</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

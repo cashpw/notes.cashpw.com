@@ -44,7 +44,6 @@ slug = "a54b896a-9969-4d44-95cc-a9baf8ef3dde"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Hierarchy of Practical Evidence.” <i>Commoncog</i>. <a href="https://commoncog.com/the-hierarchy-of-practical-evidence/">https://commoncog.com/the-hierarchy-of-practical-evidence/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

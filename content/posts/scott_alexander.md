@@ -42,7 +42,6 @@ That said, I want to emphasize both that (1) my enjoyment of _some_ of their wor
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

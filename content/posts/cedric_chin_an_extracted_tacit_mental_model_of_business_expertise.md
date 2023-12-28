@@ -192,7 +192,6 @@ slug = "731b4023-79ea-4671-9de9-2079008f14df"
   <div class="csl-entry">NO_ITEM_DATA:chinExtractedTacitMentalModelBusinessExpertise2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

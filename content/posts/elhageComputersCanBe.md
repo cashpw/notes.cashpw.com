@@ -38,7 +38,6 @@ Related: [Be curious]({{< relref "be_curious.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:elhageComputersCanBeUnderstood</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -26,7 +26,6 @@ slug = "ce1622e0-9f93-47fd-a5b2-5acd981caabf"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nancy\_McG. 2021. “I like Your Shapes–.” Reddit Comment. <i>R/Pottery</i>. <a href="www.reddit.com/r/Pottery/comments/pjs35v/please_could_you_offer_some_feedback_im_a_rookie/hbyso2u/">www.reddit.com/r/Pottery/comments/pjs35v/please_could_you_offer_some_feedback_im_a_rookie/hbyso2u/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

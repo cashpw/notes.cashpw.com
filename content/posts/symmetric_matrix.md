@@ -24,7 +24,6 @@ slug = "30dd1299-0411-4b80-945b-0740cc8b5348"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Symmetric Matrix.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Symmetric_matrix&oldid=1093954131">https://en.wikipedia.org/w/index.php?title=Symmetric_matrix&#38;oldid=1093954131</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

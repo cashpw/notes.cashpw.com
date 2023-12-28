@@ -66,7 +66,6 @@ I've sought out common traits of "senior" roles and collected them here to help 
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Stories of Reaching Staff-plus Engineering Roles - StaffEng.” n.d. Accessed January 28, 2023. <a href="https://staffeng.com/">https://staffeng.com/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

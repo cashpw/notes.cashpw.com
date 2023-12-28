@@ -22,7 +22,6 @@ slug = "205c075c-2da8-42a2-854a-c7981591e4bd"
   <div class="csl-entry">NO_ITEM_DATA:GrossDomesticProductGDPFormulaHowUseIt</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

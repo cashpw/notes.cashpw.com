@@ -19,7 +19,6 @@ Clay which is moist, soft, and bendable. Clay at this state is ready for use on 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

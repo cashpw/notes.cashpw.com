@@ -38,7 +38,6 @@ slug = "be3d36b2-8fb7-4917-b739-5717643a35b3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Inverse Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Inverse_function&oldid=1121855971">https://en.wikipedia.org/w/index.php?title=Inverse_function&#38;oldid=1121855971</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

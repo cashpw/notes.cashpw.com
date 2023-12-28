@@ -60,7 +60,6 @@ The "X isn't left or right", in my experience, tends to mean "X is mostly right,
   <div class="csl-entry">NO_ITEM_DATA:lutterBuildInstitutionsNotApps</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

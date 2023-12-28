@@ -180,7 +180,6 @@ slug = "d8ab213e-9bd6-4669-a2b1-b931b56f5930"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Militello, Laura, and Robert Hutton. 1998. “Applied Cognitive Task Analysis (ACTA): A Practitioner’s Toolkit for Understanding Cognitive Task Demands.” <i>Ergonomics</i> 41 (December): 1618–41. <a href="https://doi.org/10.1080/001401398186108">https://doi.org/10.1080/001401398186108</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

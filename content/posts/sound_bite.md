@@ -24,7 +24,6 @@ slug = "1553a4d1-a2eb-489e-9f02-a0866f8f008c"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sound Bite.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Sound_bite&oldid=1095886562">https://en.wikipedia.org/w/index.php?title=Sound_bite&#38;oldid=1095886562</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

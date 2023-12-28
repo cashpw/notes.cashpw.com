@@ -22,7 +22,6 @@ slug = "efe31d96-34a6-439a-a34d-fdff9df0e51a"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Metacognition.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Metacognition&oldid=1075710921">https://en.wikipedia.org/w/index.php?title=Metacognition&#38;oldid=1075710921</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

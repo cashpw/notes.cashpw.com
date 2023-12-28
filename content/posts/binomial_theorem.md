@@ -39,7 +39,6 @@ slug = "e3806f4b-94b7-443e-8e7e-278fe8a2781c"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binomial Theorem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Binomial_theorem&oldid=1133606899">https://en.wikipedia.org/w/index.php?title=Binomial_theorem&#38;oldid=1133606899</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

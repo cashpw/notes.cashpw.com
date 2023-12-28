@@ -25,7 +25,6 @@ slug = "30953f1f-a780-4d6c-8dcb-2f685cbe8501"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Upstream Podcast.” n.d. <i>Upstream-Podcast</i>. Accessed July 21, 2022. <a href="https://www.upstreampodcast.org">https://www.upstreampodcast.org</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

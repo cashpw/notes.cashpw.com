@@ -44,7 +44,6 @@ slug = "b691f9f9-f9ac-4c1c-95ef-7d04a3b777af"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Internet Protocol Suite.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Internet_protocol_suite&oldid=1144155223">https://en.wikipedia.org/w/index.php?title=Internet_protocol_suite&#38;oldid=1144155223</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

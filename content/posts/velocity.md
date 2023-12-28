@@ -33,7 +33,6 @@ See [Derivative (math)]({{< relref "derivative.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Velocity.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Velocity&oldid=1120894507">https://en.wikipedia.org/w/index.php?title=Velocity&#38;oldid=1120894507</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

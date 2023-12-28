@@ -35,7 +35,6 @@ slug = "9373ca2c-77ee-4874-8dfd-fb2f8997fb8f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Forgetting Curve.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Forgetting_curve&oldid=1124506063">https://en.wikipedia.org/w/index.php?title=Forgetting_curve&#38;oldid=1124506063</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -28,7 +28,6 @@ slug = "df465332-f865-424c-9028-1776dddd1a58"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Transpose.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Transpose&oldid=1094750580">https://en.wikipedia.org/w/index.php?title=Transpose&#38;oldid=1094750580</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

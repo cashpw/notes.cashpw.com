@@ -50,7 +50,6 @@ An example of a blog post which _isn't_ [atomic]({{< relref "andy_matuschak_ever
   <div class="csl-entry">NO_ITEM_DATA:chinHardThingLearningExperience2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

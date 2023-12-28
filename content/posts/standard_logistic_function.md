@@ -33,7 +33,6 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Logistic Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Logistic_function&oldid=1122607755">https://en.wikipedia.org/w/index.php?title=Logistic_function&#38;oldid=1122607755</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

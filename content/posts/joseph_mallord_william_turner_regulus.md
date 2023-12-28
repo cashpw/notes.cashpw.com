@@ -22,7 +22,6 @@ slug = "157d2935-27bd-473c-9669-554a4644a199"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Turner, Joseph Mallord William. 1828. “Regulus.” <a href="https://www.tate.org.uk/art/artworks/turner-regulus-n00519">https://www.tate.org.uk/art/artworks/turner-regulus-n00519</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

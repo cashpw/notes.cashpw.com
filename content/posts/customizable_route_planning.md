@@ -94,7 +94,6 @@ Nodes in \\(H\\) are **bold** and clique edges are red.
   <div class="csl-entry">NO_ITEM_DATA:dellingGraphPartitioningNaturalCuts2011</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

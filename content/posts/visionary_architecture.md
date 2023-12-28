@@ -22,7 +22,6 @@ slug = "0b177377-113b-43c9-83aa-319703d38fb8"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Visionary Architecture.” 2023. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Visionary_architecture&oldid=1165327497">https://en.wikipedia.org/w/index.php?title=Visionary_architecture&#38;oldid=1165327497</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

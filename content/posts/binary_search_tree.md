@@ -32,7 +32,6 @@ slug = "dc929031-e15a-4566-a7bd-7331768ee02f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Search Tree.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Binary_search_tree&oldid=1099579299">https://en.wikipedia.org/w/index.php?title=Binary_search_tree&#38;oldid=1099579299</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

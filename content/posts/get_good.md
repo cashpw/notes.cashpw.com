@@ -35,7 +35,6 @@ slug = "d797ba44-b962-4d6e-9b71-38ca49d070ce"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Git Gud.” n.d. <i>Know Your Meme</i>. Accessed September 30, 2022. <a href="https://knowyourmeme.com/memes/git-gud">https://knowyourmeme.com/memes/git-gud</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

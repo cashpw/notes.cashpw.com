@@ -22,7 +22,6 @@ slug = "9237be48-e1c7-4dd7-b473-a8a92dd5f6fc"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Carry Water for.” 2021. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=carry_water_for&oldid=64118924">https://en.wiktionary.org/w/index.php?title=carry_water_for&#38;oldid=64118924</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

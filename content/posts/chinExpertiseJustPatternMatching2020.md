@@ -58,7 +58,6 @@ The idea rings true to me when I think about how chess masters describe thinking
   <div class="csl-entry">NO_ITEM_DATA:chinExpertiseJustPatternMatching2020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

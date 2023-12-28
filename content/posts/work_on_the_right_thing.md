@@ -24,7 +24,6 @@ Note that you won't know what the right thing is at the beginning. [Just start](
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altman, Sam. 2018. “Productivity.” <i>Sam Altman</i>. <a href="https://blog.samaltman.com/productivity">https://blog.samaltman.com/productivity</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "80204036-f6a9-4c5e-a02d-0112f517e9a3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Delling, Daniel, Andrew V. Goldberg, Thomas Pajor, and Renato F. Werneck. 2011. “Customizable Route Planning.” In <i>Experimental Algorithms</i>, edited by Panos M. Pardalos and Steffen Rebennack, 6630:376–87. Berlin, Heidelberg: Springer Berlin Heidelberg. <a href="https://doi.org/10.1007/978-3-642-20662-7_32">https://doi.org/10.1007/978-3-642-20662-7_32</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

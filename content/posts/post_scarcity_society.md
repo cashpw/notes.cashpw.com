@@ -22,7 +22,6 @@ slug = "7bb3980d-e901-4f5e-b102-61a0a89de28c"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Post-Scarcity Economy.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Post-scarcity_economy&oldid=1075241618">https://en.wikipedia.org/w/index.php?title=Post-scarcity_economy&#38;oldid=1075241618</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

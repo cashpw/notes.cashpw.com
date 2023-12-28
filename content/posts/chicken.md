@@ -24,7 +24,6 @@ slug = "f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Chicken (Game).” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Chicken_(game)&oldid=1100739850">https://en.wikipedia.org/w/index.php?title=Chicken_(game)&#38;oldid=1100739850</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

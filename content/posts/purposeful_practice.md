@@ -27,7 +27,6 @@ slug = "2bb656cd-6834-4534-95e2-c77df28ffccb"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Problems with Deliberate Practice.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-problems-with-deliberate-practice/">https://commoncog.com/blog/the-problems-with-deliberate-practice/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "877f3321-faac-463a-8619-787467251655"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Network Effect.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Network_effect&oldid=1113646462">https://en.wikipedia.org/w/index.php?title=Network_effect&#38;oldid=1113646462</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

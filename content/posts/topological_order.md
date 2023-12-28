@@ -58,7 +58,6 @@ One can use a topological ordering to reduce the time complexity of the [Single-
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Topological Sorting.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Topological_sorting&oldid=1123299686">https://en.wikipedia.org/w/index.php?title=Topological_sorting&#38;oldid=1123299686</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

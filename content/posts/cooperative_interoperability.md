@@ -24,7 +24,6 @@ A form of [Interoperability]({{< relref "interoperability.md" >}}) wherein the m
   <div class="csl-entry">NO_ITEM_DATA:doctorowInteroperabilityFixInternetNotTechCompanies2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

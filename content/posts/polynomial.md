@@ -30,7 +30,6 @@ slug = "b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de"
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Polynomial.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Polynomial&oldid=1125941863">https://en.wikipedia.org/w/index.php?title=Polynomial&#38;oldid=1125941863</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

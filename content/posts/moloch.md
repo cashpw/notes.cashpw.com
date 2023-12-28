@@ -63,7 +63,6 @@ Related:
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Moloch.” n.d. <i>Lesswrong</i>. Accessed November 23, 2022. <a href="https://www.lesswrong.com/tag/moloch">https://www.lesswrong.com/tag/moloch</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

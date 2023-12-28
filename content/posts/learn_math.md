@@ -24,7 +24,6 @@ List math learning resources. Perhaps generalize this into a series of "How to l
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Math Academy.” n.d. Accessed July 13, 2023. <a href="https://mathacademy.com/">https://mathacademy.com/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

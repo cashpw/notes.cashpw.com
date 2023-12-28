@@ -22,7 +22,6 @@ slug = "3823c17c-f4f2-454e-ad97-52de55d239e9"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Function (Computer Programming).” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Function_(computer_programming)&oldid=1144851530">https://en.wikipedia.org/w/index.php?title=Function_(computer_programming)&#38;oldid=1144851530</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

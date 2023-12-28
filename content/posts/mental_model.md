@@ -22,7 +22,6 @@ slug = "787214e0-5941-4c6f-9a61-e79b9b40baea"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mental Model.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Mental_model&oldid=1079280662">https://en.wikipedia.org/w/index.php?title=Mental_model&#38;oldid=1079280662</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

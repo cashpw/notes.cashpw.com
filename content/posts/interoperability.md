@@ -29,7 +29,6 @@ slug = "a41fccc0-fe85-462b-b8e9-5758fd6327b3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Interoperability.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Interoperability&oldid=1115245899">https://en.wikipedia.org/w/index.php?title=Interoperability&#38;oldid=1115245899</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -24,7 +24,6 @@ slug = "f4de9f04-053d-4602-a81a-c4118e6ee3c2"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Standard Deviation.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Standard_deviation&oldid=1120954441">https://en.wikipedia.org/w/index.php?title=Standard_deviation&#38;oldid=1120954441</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

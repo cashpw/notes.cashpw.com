@@ -34,7 +34,6 @@ slug = "9d646383-d4a9-4f9d-ab12-74d45b82d58a"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quadratic Formula.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Quadratic_formula&oldid=1135242914">https://en.wikipedia.org/w/index.php?title=Quadratic_formula&#38;oldid=1135242914</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

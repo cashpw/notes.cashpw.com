@@ -37,7 +37,6 @@ A queue is an [Abstract data type]({{< relref "abstract_data_type.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:QueueAbstractDataType2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

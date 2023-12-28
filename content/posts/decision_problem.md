@@ -22,7 +22,6 @@ slug = "53f1e53a-eb4d-4cb0-bf25-1d220f6d1d82"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Decision Problem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Decision_problem&oldid=1135637021">https://en.wikipedia.org/w/index.php?title=Decision_problem&#38;oldid=1135637021</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

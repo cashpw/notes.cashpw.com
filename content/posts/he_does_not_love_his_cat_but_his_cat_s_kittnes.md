@@ -22,7 +22,6 @@ slug = "802975de-8d22-45a7-a0fb-8751ebbce738"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Keynes, John Maynard. 2010. <i>Essays in Persuasion</i>. New ed. Basingstoke ; New York: Palgrave Macmillan.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

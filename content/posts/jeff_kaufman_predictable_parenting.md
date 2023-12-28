@@ -49,7 +49,6 @@ slug = "e93d361d-00ec-41cc-8140-76a9c8981e10"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kaufman, Jeff. n.d. “Predictable Parenting.” Accessed November 6, 2023. <a href="https://www.jefftk.com/p/predictable-parenting">https://www.jefftk.com/p/predictable-parenting</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "5e91bfb8-05ea-43d3-bfef-fd5d6299138e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>MDN. n.d. “Using HTTP Cookies.” Accessed July 20, 2022. <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies">https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

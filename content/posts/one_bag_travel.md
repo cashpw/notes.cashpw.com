@@ -35,7 +35,6 @@ The culture associated with one-bag travel, at least as I've seen it online, ove
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Maluf, Jeremy. n.d. “Indefinite Backpack Travel.” Accessed August 14, 2023. <a href="https://jeremymaluf.com/onebag/">https://jeremymaluf.com/onebag/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

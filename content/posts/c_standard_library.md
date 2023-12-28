@@ -31,7 +31,6 @@ The `std::` namespace in C++.
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“C++ Standard Library.” n.d. Accessed May 18, 2023. <a href="https://en.cppreference.com/w/cpp/standard_library">https://en.cppreference.com/w/cpp/standard_library</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

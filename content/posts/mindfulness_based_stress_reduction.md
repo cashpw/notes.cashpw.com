@@ -26,7 +26,6 @@ slug = "92eb61e0-5437-4fbf-80aa-d042c0ba6d1e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindfulness-Based Stress Reduction.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Mindfulness-based_stress_reduction&oldid=1067804613">https://en.wikipedia.org/w/index.php?title=Mindfulness-based_stress_reduction&#38;oldid=1067804613</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

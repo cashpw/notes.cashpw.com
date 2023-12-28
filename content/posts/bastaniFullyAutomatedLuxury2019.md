@@ -22,7 +22,6 @@ Original formalization of the concept of [Fully automated luxury communism]({{< 
   <div class="csl-entry">NO_ITEM_DATA:bastaniFullyAutomatedLuxuryCommunismManifesto2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

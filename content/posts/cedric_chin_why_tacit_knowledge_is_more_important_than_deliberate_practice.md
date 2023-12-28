@@ -164,7 +164,6 @@ See [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:chinBookSummaryPeakNewScienceExpertise2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

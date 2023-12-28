@@ -40,7 +40,6 @@ An example of the first two parts of [Applied cognitive task analysis]({{< relre
   <div class="csl-entry">NO_ITEM_DATA:chinJohnCutlerProductOrgExpertise2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

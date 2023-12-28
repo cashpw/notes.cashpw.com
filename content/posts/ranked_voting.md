@@ -22,7 +22,6 @@ slug = "7f753c5a-aba6-4128-9434-b27d5e960145"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ranked Voting.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Ranked_voting&oldid=1132688305">https://en.wikipedia.org/w/index.php?title=Ranked_voting&#38;oldid=1132688305</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

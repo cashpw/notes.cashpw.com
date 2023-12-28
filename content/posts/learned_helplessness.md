@@ -26,7 +26,6 @@ slug = "06b5c658-5513-4c18-a24d-9ed3fb4ad23b"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Learned Helplessness.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Learned_helplessness&oldid=1122264058">https://en.wikipedia.org/w/index.php?title=Learned_helplessness&#38;oldid=1122264058</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

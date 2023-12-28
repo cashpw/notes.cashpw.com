@@ -34,7 +34,6 @@ slug = "42be7ce6-d83b-4717-86a0-0766565b2049"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Session (Computer Science).” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Session_(computer_science)&oldid=1141927834">https://en.wikipedia.org/w/index.php?title=Session_(computer_science)&#38;oldid=1141927834</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

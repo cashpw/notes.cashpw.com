@@ -94,7 +94,6 @@ It's a useful tool for answering questions like:
   <div class="csl-entry">NO_ITEM_DATA:reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

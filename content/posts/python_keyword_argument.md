@@ -29,7 +29,6 @@ Also see [Asterisk in Python function arguments]({{< relref "asterisk_in_python_
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Python Documentation. n.d. “Glossary.” <i>Python Documentation</i>. Accessed February 8, 2023. <a href="https://docs.python.org/3/glossary.html">https://docs.python.org/3/glossary.html</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

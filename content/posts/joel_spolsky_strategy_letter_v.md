@@ -29,7 +29,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Spolsky 2002</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Spolsky, Joel. 2002. “Strategy Letter V.” <i>Joel on Software</i>. <a href="https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/">https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

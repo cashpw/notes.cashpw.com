@@ -32,7 +32,6 @@ Related: [Continuous partial attention]({{< relref "continuous_partial_attention
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attention Economy.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Attention_economy&oldid=1120830324">https://en.wikipedia.org/w/index.php?title=Attention_economy&#38;oldid=1120830324</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

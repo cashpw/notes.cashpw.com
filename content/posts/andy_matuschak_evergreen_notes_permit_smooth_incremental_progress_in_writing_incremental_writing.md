@@ -30,7 +30,6 @@ Also see [Incremental writing]({{< relref "incremental_writing.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:EvergreenNotesPermitSmoothIncrementalProgressWritingIncrementalWriting</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

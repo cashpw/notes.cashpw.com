@@ -46,7 +46,6 @@ See [Meaningful rest]({{< relref "meaningful_rest.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:nandaPost29MeaningfulRest</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

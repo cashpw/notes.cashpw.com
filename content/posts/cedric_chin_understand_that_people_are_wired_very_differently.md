@@ -29,7 +29,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2018</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “Understand That People Are Wired Very Differently.” <i>Commoncog</i>. <a href="https://commoncog.com/understand-that-people-are-wired-very-differently/">https://commoncog.com/understand-that-people-are-wired-very-differently/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

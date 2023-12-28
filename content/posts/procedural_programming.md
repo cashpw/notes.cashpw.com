@@ -22,7 +22,6 @@ slug = "0cb90a5e-ec03-4a0f-bd0a-2eaeeaacc2d5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Procedural Programming.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Procedural_programming&oldid=1139327749">https://en.wikipedia.org/w/index.php?title=Procedural_programming&#38;oldid=1139327749</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

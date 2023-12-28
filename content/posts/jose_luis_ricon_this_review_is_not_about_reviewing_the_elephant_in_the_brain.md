@@ -89,7 +89,6 @@ The book is [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}}) w
   <div class="csl-entry">NO_ITEM_DATA:riconThisReviewNotReviewingElephantBrain</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

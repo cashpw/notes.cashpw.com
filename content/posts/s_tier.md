@@ -24,7 +24,6 @@ The top-tier.
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tier List.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Tier_list&oldid=1104486656">https://en.wikipedia.org/w/index.php?title=Tier_list&#38;oldid=1104486656</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

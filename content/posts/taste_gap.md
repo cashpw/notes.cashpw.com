@@ -34,7 +34,6 @@ The gap between a person's ability to recognize "good" work and their ability to
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Glass, Ira. 2009. “On Good Taste.” <a href="https://www.youtube.com/watch?v=X2wLP0izeJE">https://www.youtube.com/watch?v=X2wLP0izeJE</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

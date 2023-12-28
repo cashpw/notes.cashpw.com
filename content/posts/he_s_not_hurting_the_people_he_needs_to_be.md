@@ -22,7 +22,6 @@ slug = "7bf163fe-9998-42fd-8513-1a7ec86b052f"
   <div class="csl-entry">NO_ITEM_DATA:beauchampHeNotHurtingPeopleHeNeedsBeTrumpVoterSays2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

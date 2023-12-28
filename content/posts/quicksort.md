@@ -68,7 +68,6 @@ procedure partition(lowIndex, highIndex, list) is
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quicksort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Quicksort&oldid=1093780310">https://en.wikipedia.org/w/index.php?title=Quicksort&#38;oldid=1093780310</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

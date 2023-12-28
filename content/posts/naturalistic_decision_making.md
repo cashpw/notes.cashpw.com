@@ -22,7 +22,6 @@ slug = "6eb374ad-69aa-476d-b1d8-02714ffc094f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Naturalistic Decision-Making.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Naturalistic_decision-making&oldid=1156555700">https://en.wikipedia.org/w/index.php?title=Naturalistic_decision-making&#38;oldid=1156555700</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

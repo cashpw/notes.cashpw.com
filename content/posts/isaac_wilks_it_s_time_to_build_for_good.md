@@ -39,7 +39,6 @@ TODO_AUTHOR, (NO_ITEM_DATA:wilksItTimeBuildGood2020)
   <div class="csl-entry">NO_ITEM_DATA:wilksItTimeBuildGood2020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

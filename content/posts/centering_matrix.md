@@ -24,7 +24,6 @@ slug = "87b4549f-d8f7-44ec-b11e-4fa14166f157"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Centering Matrix.” 2021. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Centering_matrix&oldid=1027624781">https://en.wikipedia.org/w/index.php?title=Centering_matrix&#38;oldid=1027624781</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

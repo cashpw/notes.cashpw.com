@@ -73,7 +73,6 @@ The learning done through [Socratic questioning]({{< relref "socratic_questionin
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2020. “Socratic Grilling.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2020/03/06/socratic-grilling/">https://slatestarcodex.com/2020/03/06/socratic-grilling/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

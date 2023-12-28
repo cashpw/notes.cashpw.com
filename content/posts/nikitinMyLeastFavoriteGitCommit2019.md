@@ -63,7 +63,6 @@ The essay isn't written in English. I've used Google Translate to read and quote
   <div class="csl-entry">NO_ITEM_DATA:nikitinMyLeastFavoriteGitCommit2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

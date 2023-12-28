@@ -27,7 +27,6 @@ slug = "7fbcef27-68c4-4793-8fc0-e10114318765"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Selection Algorithm.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Selection_algorithm&oldid=1090831234">https://en.wikipedia.org/w/index.php?title=Selection_algorithm&#38;oldid=1090831234</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

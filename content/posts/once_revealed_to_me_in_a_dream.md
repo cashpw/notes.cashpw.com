@@ -22,7 +22,6 @@ slug = "27cb520e-f5d5-45b2-b92e-cde08209beef"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Berdyaev, Nicolas. 1949. <i>From The Divine and the Human</i>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

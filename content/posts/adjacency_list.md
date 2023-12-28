@@ -34,7 +34,6 @@ Also see [Adjacency matrix]({{< relref "adjacency_matrix.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Adjacency List.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Adjacency_list&oldid=1083389776">https://en.wikipedia.org/w/index.php?title=Adjacency_list&#38;oldid=1083389776</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

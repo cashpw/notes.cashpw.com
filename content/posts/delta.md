@@ -36,7 +36,6 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
   <div class="csl-entry">NO_ITEM_DATA:WhatDeltaDerivativesTradingHowDoesItWork</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

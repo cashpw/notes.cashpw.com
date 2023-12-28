@@ -59,7 +59,6 @@ slug = "53999225-665e-4d16-9a0d-60c49293ccab"
   <div class="csl-entry">NO_ITEM_DATA:grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

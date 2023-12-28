@@ -108,7 +108,6 @@ Good training programs for imparting [Tacit knowledge]({{< relref "tacit_knowled
   <div class="csl-entry">NO_ITEM_DATA:chinTrickyThingCreatingTrainingPrograms2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "ae7e202d-cab1-4ccf-8041-e76d39f7f698"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Continuous Partial Attention.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Continuous_partial_attention&oldid=1087641342">https://en.wikipedia.org/w/index.php?title=Continuous_partial_attention&#38;oldid=1087641342</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

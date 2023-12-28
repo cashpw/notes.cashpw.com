@@ -22,7 +22,6 @@ slug = "04af40d8-212f-471a-acb7-8d68aabfa2ed"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Intrinsic Value (Finance).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Intrinsic_value_(finance)&oldid=1113547095">https://en.wikipedia.org/w/index.php?title=Intrinsic_value_(finance)&#38;oldid=1113547095</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

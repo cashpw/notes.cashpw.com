@@ -22,7 +22,6 @@ slug = "975b8bf2-d4cb-4a1d-a976-0f6d0130dbc5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Chesterton’s Fence.” 2018. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=Chesterton%27s_fence&oldid=49763111">https://en.wiktionary.org/w/index.php?title=Chesterton%27s_fence&#38;oldid=49763111</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

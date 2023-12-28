@@ -58,7 +58,6 @@ slug = "dba35e67-34a9-48df-991a-7cd98deafbc2"
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d.-b. “The Sun.” Accessed August 8, 2023. <a href="https://prolog.museum-barberini.de/en/11729/the-sun">https://prolog.museum-barberini.de/en/11729/the-sun</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

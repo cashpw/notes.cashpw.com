@@ -22,7 +22,6 @@ slug = "76f1aa23-b553-4eca-9e18-7b038f444dbb"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Agency Cost.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Agency_cost&oldid=1108047027">https://en.wikipedia.org/w/index.php?title=Agency_cost&#38;oldid=1108047027</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

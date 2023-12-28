@@ -62,7 +62,6 @@ print(three_sum([2,3,4,5,2], 6), 'should be None')
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

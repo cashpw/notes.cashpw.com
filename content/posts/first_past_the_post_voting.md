@@ -24,7 +24,6 @@ slug = "5842347b-87fb-4454-a1f9-e92c46a92a6d"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“First-Past-the-Post Voting.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=First-past-the-post_voting&oldid=1132768501">https://en.wikipedia.org/w/index.php?title=First-past-the-post_voting&#38;oldid=1132768501</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

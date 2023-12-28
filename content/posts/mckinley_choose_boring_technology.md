@@ -30,7 +30,6 @@ slug = "ffc17a16-4fd4-436f-ba8a-fcb9db62f150"
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>McKinley, Dan. n.d. “Choose Boring Technology.” <i>Dan Mckinley : Math, Programming, and Minority Reports</i>. Accessed November 11, 2022. <a href="https://mcfunley.com/choose-boring-technology">https://mcfunley.com/choose-boring-technology</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

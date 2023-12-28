@@ -51,7 +51,6 @@ slug = "7cb8d111-f6ff-4b84-91b4-f7d6bcea7f3f"
   <div class="csl-entry">NO_ITEM_DATA:NIOSHPolicyStatementRespiratoryProtectionRecommendationsAirborneExposuresCrystallineSilica2008</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

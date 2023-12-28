@@ -120,7 +120,6 @@ To that end I've changed my focus from "get more hours" to "do more with the hou
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

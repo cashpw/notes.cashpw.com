@@ -29,7 +29,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Naturalistic Decision Making n.d.</
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Naturalistic Decision Making. n.d. “Robert Hoffman.” Accessed July 30, 2023. <a href="https://naturalisticdecisionmaking.org/2020/10/19/robert-hoffman/">https://naturalisticdecisionmaking.org/2020/10/19/robert-hoffman/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

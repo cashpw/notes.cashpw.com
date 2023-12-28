@@ -129,7 +129,6 @@ I've come to appreciate the use of phrases, mantras, hymns, etc --- [focusing te
   <div class="csl-entry">NO_ITEM_DATA:antoninusMeditationsEmperorMarcusAntoninus1944</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

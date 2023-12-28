@@ -28,7 +28,6 @@ slug = "7a43b0c7-b933-4e37-81b8-e5ecf9a83956"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Matrix (Mathematics).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Matrix_(mathematics)&oldid=1104306314">https://en.wikipedia.org/w/index.php?title=Matrix_(mathematics)&#38;oldid=1104306314</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

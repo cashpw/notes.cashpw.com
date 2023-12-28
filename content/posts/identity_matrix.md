@@ -24,7 +24,6 @@ slug = "562ca40a-737f-43b5-9ff5-47c5996f9b5c"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Identity Matrix.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Identity_matrix&oldid=1096591290">https://en.wikipedia.org/w/index.php?title=Identity_matrix&#38;oldid=1096591290</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -34,7 +34,6 @@ slug = "be5ebd31-6655-4f99-9325-2c41becd4dab"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binomial Coefficient.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Binomial_coefficient&oldid=1133587426">https://en.wikipedia.org/w/index.php?title=Binomial_coefficient&#38;oldid=1133587426</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

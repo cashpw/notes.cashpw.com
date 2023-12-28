@@ -31,7 +31,6 @@ slug = "c9f6c9b1-2e47-44e4-96f9-22e1f5643299"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Piene, Otto, and Tamarind Institute. 1969. “Black Sun.”</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -24,7 +24,6 @@ There is also a video summary on YouTube by Alt Shift X: [All Tomorrows: the fut
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“All Tomorrows.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=All_Tomorrows&oldid=1070082894">https://en.wikipedia.org/w/index.php?title=All_Tomorrows&#38;oldid=1070082894</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

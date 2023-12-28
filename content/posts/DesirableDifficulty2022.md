@@ -35,7 +35,6 @@ Examples include:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Desirable Difficulty.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Desirable_difficulty&oldid=1065561009">https://en.wikipedia.org/w/index.php?title=Desirable_difficulty&#38;oldid=1065561009</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

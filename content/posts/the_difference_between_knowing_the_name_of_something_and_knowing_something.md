@@ -24,7 +24,6 @@ slug = "75f5bb46-04f2-4fdd-ae12-db9607773b98"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Feynman’s ``Knowing’’ Anecdote.” n.d. Accessed May 13, 2023. <a href="https://blogs.ubc.ca/edutara/feynmans-knowing-anecdote/">https://blogs.ubc.ca/edutara/feynmans-knowing-anecdote/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

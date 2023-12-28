@@ -40,7 +40,6 @@ print(two_sum([2,4,5], 2), 'should be None')
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

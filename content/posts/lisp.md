@@ -28,7 +28,6 @@ slug = "f6e9082b-3589-448a-9877-b9a2b31d88ba"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lisp (Programming Language).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Lisp_(programming_language)&oldid=1093968028">https://en.wikipedia.org/w/index.php?title=Lisp_(programming_language)&#38;oldid=1093968028</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

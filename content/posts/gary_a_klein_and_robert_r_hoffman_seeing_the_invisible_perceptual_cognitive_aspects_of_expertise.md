@@ -31,7 +31,6 @@ slug = "4eec9434-56e8-4b63-80fc-8bb9150fc6be"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Klein, Gary A., and Robert R. Hoffman. 2020. “Seeing the Invisible: Perceptual-cognitive Aspects of Expertise.” In <i>Cognitive Science Foundations of Instruction</i>, 203–26. Routledge.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

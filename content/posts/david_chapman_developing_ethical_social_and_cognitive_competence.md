@@ -57,7 +57,6 @@ slug = "9ffddcfd-8b32-4c07-bb86-1fed040e8e5c"
   <div class="csl-entry">NO_ITEM_DATA:chapmanDevelopingEthicalSocialCognitiveCompetence2016</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

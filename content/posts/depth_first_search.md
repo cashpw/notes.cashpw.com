@@ -90,7 +90,6 @@ Where \\(V\\) is the set of [Vertices]({{< relref "vertex.md" >}}) and \\(E\\) i
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Depth-First Search.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Depth-first_search&oldid=1091833357">https://en.wikipedia.org/w/index.php?title=Depth-first_search&#38;oldid=1091833357</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

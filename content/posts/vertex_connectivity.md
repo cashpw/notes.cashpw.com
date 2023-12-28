@@ -22,7 +22,6 @@ slug = "12de8109-6022-476c-ac21-9381115a0bc4"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“K-Vertex-Connected Graph.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=K-vertex-connected_graph&oldid=1151236919">https://en.wikipedia.org/w/index.php?title=K-vertex-connected_graph&#38;oldid=1151236919</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

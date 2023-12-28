@@ -22,7 +22,6 @@ slug = "15f1b0b2-6f51-40de-93c9-77980744a483"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Call Option.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Call_option&oldid=1117825440">https://en.wikipedia.org/w/index.php?title=Call_option&#38;oldid=1117825440</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

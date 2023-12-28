@@ -22,7 +22,6 @@ slug = "a991edbf-1372-4296-ab3e-c45dadcfdc20"
   <div class="csl-entry">NO_ITEM_DATA:sartreNeverBelieveThatAntiSemites</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

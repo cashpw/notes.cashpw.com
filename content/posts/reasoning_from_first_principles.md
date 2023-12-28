@@ -22,7 +22,6 @@ slug = "0b13cdf1-2678-420e-b919-4a349d4ef81a"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“First Principle.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=First_principle&oldid=1096048958">https://en.wikipedia.org/w/index.php?title=First_principle&#38;oldid=1096048958</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

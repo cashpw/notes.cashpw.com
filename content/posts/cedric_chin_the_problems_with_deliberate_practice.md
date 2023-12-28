@@ -31,7 +31,6 @@ The idea that one can teach something by just finding the right words reminds me
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Problems with Deliberate Practice.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-problems-with-deliberate-practice/">https://commoncog.com/blog/the-problems-with-deliberate-practice/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

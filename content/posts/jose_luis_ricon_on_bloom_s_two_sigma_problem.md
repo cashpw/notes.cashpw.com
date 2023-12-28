@@ -80,7 +80,6 @@ I suppose I should have expected that with a title that includes "systematic rev
   <div class="csl-entry">NO_ITEM_DATA:riconBloomTwoSigmaProblemSystematicReviewEffectivenessMasteryLearningTutoring2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

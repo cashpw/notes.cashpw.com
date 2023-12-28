@@ -22,7 +22,6 @@ slug = "d8a227fc-1de2-4dc8-bfc1-236ac1531f69"
   <div class="csl-entry">NO_ITEM_DATA:grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

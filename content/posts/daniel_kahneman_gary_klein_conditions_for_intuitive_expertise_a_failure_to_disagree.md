@@ -87,7 +87,6 @@ See also [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinEx
   <div class="csl-entry">NO_ITEM_DATA:kahnemanConditionsIntuitiveExpertiseFailureDisagree2009</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

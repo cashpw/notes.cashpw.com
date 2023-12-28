@@ -65,7 +65,6 @@ Not to say that the right is the only team using this and similar techniques. Ho
   <div class="csl-entry">NO_ITEM_DATA:robinsonTherePrincipledDistinctionRefusingWatchAmericanSniperRefusingReadFun</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

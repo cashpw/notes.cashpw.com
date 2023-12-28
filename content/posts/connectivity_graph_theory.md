@@ -57,7 +57,6 @@ slug = "9ee639e1-b92d-4bdb-8d13-9c53e22bf945"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Connectivity (Graph Theory).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Connectivity_(graph_theory)&oldid=1120776993#Connected_vertices_and_graphs">https://en.wikipedia.org/w/index.php?title=Connectivity_(graph_theory)&#38;oldid=1120776993#Connected_vertices_and_graphs</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

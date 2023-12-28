@@ -26,7 +26,6 @@ Related: [Tree book]({{< relref "tree_book.md" >}}), [Branch book]({{< relref "b
   <div class="csl-entry">NO_ITEM_DATA:chinThreeKindsNonfictionBooks2018</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

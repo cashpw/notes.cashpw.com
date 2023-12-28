@@ -24,7 +24,6 @@ slug = "f8918bbe-8164-4105-8489-2f74fd10df6d"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Selection Sort.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Selection_sort&oldid=1120866580">https://en.wikipedia.org/w/index.php?title=Selection_sort&#38;oldid=1120866580</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

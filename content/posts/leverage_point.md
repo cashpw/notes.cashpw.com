@@ -22,7 +22,6 @@ slug = "56bf2582-14f9-47dd-beeb-dd7342c910dd"
   <div class="csl-entry">NO_ITEM_DATA:meadowsLeveragePointsPlacesInterveneSystem</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

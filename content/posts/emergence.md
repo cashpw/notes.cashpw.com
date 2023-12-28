@@ -24,7 +24,6 @@ slug = "a4d17d3b-f5a7-43fc-87f9-dae2a3cad391"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Emergence.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Emergence&oldid=1125032050">https://en.wikipedia.org/w/index.php?title=Emergence&#38;oldid=1125032050</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

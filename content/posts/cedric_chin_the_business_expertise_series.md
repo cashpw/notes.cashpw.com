@@ -29,7 +29,6 @@ slug = "5e6ac16d-668c-455b-931a-15bc1a482603"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. n.d. “The Business Expertise Series.” Accessed September 11, 2023. <a href="https://commoncog.com/business-expertise-series/">https://commoncog.com/business-expertise-series/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

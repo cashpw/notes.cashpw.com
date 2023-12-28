@@ -21,7 +21,6 @@ slug = "c2eafd89-c3ec-43e8-9e06-f937d2b15073"
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

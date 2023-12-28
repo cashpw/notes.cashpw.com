@@ -24,7 +24,6 @@ The lessons learned in a wicked environment **are not**, or at least not complet
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hogarth, Robin M., Tomás Lejarraga, and Emre Soyer. 2015. “The Two Settings of Kind and Wicked Learning Environments.” <i>Current Directions in Psychological Science</i> 24 (5): 379–85. <a href="https://www.jstor.org/stable/44318900">https://www.jstor.org/stable/44318900</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -26,7 +26,6 @@ Related: [Cargo cult]({{< relref "cargo_cult.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. 2011. “Learned Blankness.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness">https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

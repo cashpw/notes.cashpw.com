@@ -27,7 +27,6 @@ slug = "5180515a-c694-49fb-ac2e-9718fe501f38"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Linearity.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Linearity&oldid=1128635807">https://en.wikipedia.org/w/index.php?title=Linearity&#38;oldid=1128635807</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

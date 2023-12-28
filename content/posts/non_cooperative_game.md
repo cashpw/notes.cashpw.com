@@ -24,7 +24,6 @@ slug = "e826003f-a13e-4cce-9b80-30f8bd802374"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Non-Cooperative Game Theory.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Non-cooperative_game_theory&oldid=1105978907">https://en.wikipedia.org/w/index.php?title=Non-cooperative_game_theory&#38;oldid=1105978907</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

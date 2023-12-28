@@ -22,7 +22,6 @@ slug = "ab1c1113-290b-4715-b2d7-94f2af485b2e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Black Box.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Black_box&oldid=1109398572">https://en.wikipedia.org/w/index.php?title=Black_box&#38;oldid=1109398572</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

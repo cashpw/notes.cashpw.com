@@ -22,7 +22,6 @@ slug = "235c1171-e8bd-4b52-820c-109f34a0bc80"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Computational Complexity Theory.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Computational_complexity_theory&oldid=1127400092">https://en.wikipedia.org/w/index.php?title=Computational_complexity_theory&#38;oldid=1127400092</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

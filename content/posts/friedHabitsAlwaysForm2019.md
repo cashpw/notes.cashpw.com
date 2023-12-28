@@ -28,7 +28,6 @@ Similar: [Life is the sum of all your choices]({{< relref "life_is_the_sum_of_al
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Fried, Jason. 2019. “Habits Always Form.” <i>Signal V. Noise</i>. <a href="https://m.signalvnoise.com/habits-always-form/">https://m.signalvnoise.com/habits-always-form/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

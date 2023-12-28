@@ -19,7 +19,6 @@ roam_refs = ["https://quoteinvestigator.com/2012/04/28/shorter-letter"]
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

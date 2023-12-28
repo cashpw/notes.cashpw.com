@@ -132,7 +132,6 @@ Backlinks are the backbone of a powerful [zettelkasten]({{< relref "Zettelkasten
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -20,7 +20,6 @@ The current era is one of relative abundance [[Slack]({{< relref "slack.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hanson, Robin. n.d. “This Is the Dream Time.” Accessed June 21, 2022. <a href="https://www.overcomingbias.com/2009/09/this-is-the-dream-time.html">https://www.overcomingbias.com/2009/09/this-is-the-dream-time.html</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -67,7 +67,6 @@ There's a lot of low-hanging fruit at lower percentiles (e.g. for Overwatch: wai
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Luu, Dan. n.d. “95\%-Ile Isn’t That Good.” Accessed October 27, 2023. <a href="https://danluu.com/p95-skill/">https://danluu.com/p95-skill/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

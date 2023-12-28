@@ -32,7 +32,6 @@ This is one of the rules of [Differentiation]({{< relref "differential_calculus.
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Product Rule.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Product_rule&oldid=1119757448">https://en.wikipedia.org/w/index.php?title=Product_rule&#38;oldid=1119757448</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

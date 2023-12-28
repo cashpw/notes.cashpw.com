@@ -51,7 +51,6 @@ print(subset_sum(0, [2,4,5]), 'should be []')
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

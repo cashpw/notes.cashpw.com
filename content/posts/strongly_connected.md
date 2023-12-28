@@ -33,7 +33,6 @@ slug = "644adb16-7921-4499-aaf9-6ff29819ed6d"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Connected Relation.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Connected_relation&oldid=1079157082">https://en.wikipedia.org/w/index.php?title=Connected_relation&#38;oldid=1079157082</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

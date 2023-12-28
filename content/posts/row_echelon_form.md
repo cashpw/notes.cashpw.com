@@ -38,7 +38,6 @@ slug = "2b33e0aa-52e7-404b-90f0-34f6468389c0"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Row Echelon Form.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Row_echelon_form&oldid=1127905349">https://en.wikipedia.org/w/index.php?title=Row_echelon_form&#38;oldid=1127905349</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

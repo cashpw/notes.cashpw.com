@@ -22,7 +22,6 @@ slug = "68b68eba-1b4b-4fe2-9d8d-334fdbf0802f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heatwork.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Heatwork&oldid=1084355673">https://en.wikipedia.org/w/index.php?title=Heatwork&#38;oldid=1084355673</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

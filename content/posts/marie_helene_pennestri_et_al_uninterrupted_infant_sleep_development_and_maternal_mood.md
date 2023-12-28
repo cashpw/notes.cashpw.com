@@ -88,7 +88,6 @@ slug = "31baeae2-3c88-43ec-8d74-bddd68004f8e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Pennestri, Marie-Hélène, Christine Laganière, Andrée-Anne Bouvette-Turcot, Irina Pokhvisneva, Meir Steiner, Michael J. Meaney, Hélène Gaudreau, and on behalf of the Mavan Research Team. 2018. “Uninterrupted Infant Sleep, Development, and Maternal Mood.” <i>Pediatrics</i> 142 (6): e20174330. <a href="https://doi.org/10.1542/peds.2017-4330">https://doi.org/10.1542/peds.2017-4330</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

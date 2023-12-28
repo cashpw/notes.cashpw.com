@@ -78,7 +78,6 @@ slug = "adda1031-550c-4f65-9384-1ee018532adc"
   <div class="csl-entry">NO_ITEM_DATA:khanacademyFundamentalTheoremCalculusPartAPCalculusKhanAcademy2013</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

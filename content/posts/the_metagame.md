@@ -26,7 +26,6 @@ This is one of my [Favorites]({{< relref "favorites.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Metagaming.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Metagaming&oldid=1102547758">https://en.wikipedia.org/w/index.php?title=Metagaming&#38;oldid=1102547758</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

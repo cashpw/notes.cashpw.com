@@ -32,7 +32,6 @@ slug = "5069eb5e-f5c6-49de-8329-ba07dafe320e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree Traversal.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Tree_traversal&oldid=1083604462">https://en.wikipedia.org/w/index.php?title=Tree_traversal&#38;oldid=1083604462</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -24,7 +24,6 @@ See [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“External Memory Algorithm.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&oldid=1059605968">https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&#38;oldid=1059605968</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

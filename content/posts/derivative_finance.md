@@ -22,7 +22,6 @@ slug = "7edbf731-5e0c-4eda-9803-1b1a88468f71"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Derivative (Finance).” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Derivative_(finance)&oldid=1110214196">https://en.wikipedia.org/w/index.php?title=Derivative_(finance)&#38;oldid=1110214196</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

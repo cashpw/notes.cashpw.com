@@ -29,7 +29,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2018</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “Building Career Moats: A Confession.” <i>Commoncog</i>. <a href="https://commoncog.com/building-career-moats-a-confession/">https://commoncog.com/building-career-moats-a-confession/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

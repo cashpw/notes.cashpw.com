@@ -42,7 +42,6 @@ The largest over a subset of the domain.
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Maxima and Minima.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Maxima_and_minima&oldid=1076973581">https://en.wikipedia.org/w/index.php?title=Maxima_and_minima&#38;oldid=1076973581</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

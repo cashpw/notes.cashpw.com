@@ -47,7 +47,6 @@ return bubble_sort([10, 5, 4, 40])
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

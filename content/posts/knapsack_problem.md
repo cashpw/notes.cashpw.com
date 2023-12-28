@@ -62,7 +62,6 @@ slug = "24b10601-c88f-46fc-bbf9-3f7687c2d2ba"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Knapsack Problem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Knapsack_problem&oldid=1136320436">https://en.wikipedia.org/w/index.php?title=Knapsack_problem&#38;oldid=1136320436</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

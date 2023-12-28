@@ -66,7 +66,6 @@ Related:
   <div class="csl-entry">NO_ITEM_DATA:chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

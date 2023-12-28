@@ -31,7 +31,6 @@ slug = "fd549df3-8f9c-4906-a50c-e85c596c5c47"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Møller, Valdemar Schønheyder. 2019. “Sunset.” <a href="https://www.smk.dk/en/highlight/sunset-fontainebleau-1900/">https://www.smk.dk/en/highlight/sunset-fontainebleau-1900/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

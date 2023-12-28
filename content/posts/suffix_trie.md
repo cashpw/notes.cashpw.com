@@ -33,7 +33,6 @@ slug = "2a01a221-0aa9-493b-b690-c15c11f16831"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Suffix Tree.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Suffix_tree&oldid=1121139308">https://en.wikipedia.org/w/index.php?title=Suffix_tree&#38;oldid=1121139308</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

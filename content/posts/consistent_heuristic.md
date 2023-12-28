@@ -22,7 +22,6 @@ slug = "ab54f3ea-b019-482e-8af3-3ff03c495635"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Consistent Heuristic.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Consistent_heuristic&oldid=1116114302">https://en.wikipedia.org/w/index.php?title=Consistent_heuristic&#38;oldid=1116114302</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

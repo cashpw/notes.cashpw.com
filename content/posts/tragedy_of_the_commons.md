@@ -24,7 +24,6 @@ Related: [Prisoner's Dilemma]({{< relref "prisoner_s_dilemma.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tragedy of the Commons.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Tragedy_of_the_commons&oldid=1076616212">https://en.wikipedia.org/w/index.php?title=Tragedy_of_the_commons&#38;oldid=1076616212</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

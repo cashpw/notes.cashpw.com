@@ -25,7 +25,6 @@ slug = "fd458921-d050-44ca-b2fa-d6edc962ef30"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Acceleration.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Acceleration&oldid=1134109866">https://en.wikipedia.org/w/index.php?title=Acceleration&#38;oldid=1134109866</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

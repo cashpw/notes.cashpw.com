@@ -24,7 +24,6 @@ Retrieving a piece of information from memory will increase ones ability to reca
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Testing Effect.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Testing_effect&oldid=1065560996">https://en.wikipedia.org/w/index.php?title=Testing_effect&#38;oldid=1065560996</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

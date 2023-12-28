@@ -89,7 +89,6 @@ Now the tests work! One hour of my life I won't get back..
   <div class="csl-entry">NO_ITEM_DATA:thompsonMyFavouriteGitCommit2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

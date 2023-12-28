@@ -118,7 +118,6 @@ I disagree with the author's assessment that solutions such as "turning off the 
   <div class="csl-entry">NO_ITEM_DATA:SmartGuyProductivityPitfalls</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

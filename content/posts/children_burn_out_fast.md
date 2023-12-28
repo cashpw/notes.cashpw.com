@@ -37,7 +37,6 @@ slug = "75056a2e-6b7a-4764-b93c-d08aa3a99a42"
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Little Kids Burn so Much Energy, They’re like a Different Species, Study Finds.” n.d. Accessed November 3, 2023. <a href="https://www.science.org/content/article/little-kids-burn-so-much-energy-they-re-different-species-study-finds">https://www.science.org/content/article/little-kids-burn-so-much-energy-they-re-different-species-study-finds</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -31,7 +31,6 @@ This is the [Python]({{< relref "python.md" >}}) companion to [VMLS]({{< relref 
   <div class="csl-entry">NO_ITEM_DATA:leungPythonLanguageCompanionIntroductionAppliedLinearAlgebraVectorsMatricesLeast2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -26,7 +26,6 @@ Related:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Filter Bubble.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Filter_bubble&oldid=1074161056">https://en.wikipedia.org/w/index.php?title=Filter_bubble&#38;oldid=1074161056</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

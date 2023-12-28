@@ -49,7 +49,6 @@ while list is not sorted do
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bubble Sort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Bubble_sort&oldid=1093592571">https://en.wikipedia.org/w/index.php?title=Bubble_sort&#38;oldid=1093592571</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

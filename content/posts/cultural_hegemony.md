@@ -22,7 +22,6 @@ slug = "7d74c901-41aa-49f6-b8d4-49ef4286479c"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cultural Hegemony.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Cultural_hegemony&oldid=1109677508">https://en.wikipedia.org/w/index.php?title=Cultural_hegemony&#38;oldid=1109677508</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -24,7 +24,6 @@ slug = "fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Imperative Programming.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Imperative_programming&oldid=1141427831">https://en.wikipedia.org/w/index.php?title=Imperative_programming&#38;oldid=1141427831</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

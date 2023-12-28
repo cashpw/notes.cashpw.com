@@ -9203,7 +9203,6 @@ If you understand these errors, you will know what questions to ask to avoid str
   <div class="csl-entry">NO_ITEM_DATA:Pantheon2023</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

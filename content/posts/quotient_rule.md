@@ -28,7 +28,6 @@ This is one of the rules of [Differentiation]({{< relref "differential_calculus.
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quotient Rule.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Quotient_rule&oldid=1127455697">https://en.wikipedia.org/w/index.php?title=Quotient_rule&#38;oldid=1127455697</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

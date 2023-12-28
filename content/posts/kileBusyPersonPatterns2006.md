@@ -503,7 +503,6 @@ Related: [Drop Unimportant Tasks](#drop-unimportant-tasks)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kile, James F., Donald J. Little, and Samir Shah. 2006. “Busy Person Patterns.” In <i>Proceedings of the 2006 Conference on Pattern Languages of Programs - PLoP ’06</i>, 1. Portland, Oregon: ACM Press. <a href="https://doi.org/10.1145/1415472.1415478">https://doi.org/10.1145/1415472.1415478</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

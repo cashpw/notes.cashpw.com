@@ -22,7 +22,6 @@ slug = "e8e588ca-1ce4-4c89-b050-44fc595310e7"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cenotaph.” 2023. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Cenotaph&oldid=1163425010">https://en.wikipedia.org/w/index.php?title=Cenotaph&#38;oldid=1163425010</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

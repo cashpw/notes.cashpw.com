@@ -26,7 +26,6 @@ slug = "6f787120-13bb-405a-bfca-060df6d80b14"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Priority Queue.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Priority_queue&oldid=1083761771">https://en.wikipedia.org/w/index.php?title=Priority_queue&#38;oldid=1083761771</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

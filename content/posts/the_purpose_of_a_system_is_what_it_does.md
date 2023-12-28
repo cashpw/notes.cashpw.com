@@ -24,7 +24,6 @@ Related: [Duck test]({{< relref "duck_test.md" >}})
   <div class="csl-entry">NO_ITEM_DATA:PurposeSystemWhatItDoes2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

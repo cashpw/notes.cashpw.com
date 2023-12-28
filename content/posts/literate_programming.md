@@ -22,7 +22,6 @@ slug = "5c82bd2b-141a-420f-8289-4fff9514b769"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Literate Programming.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Literate_programming&oldid=1122031796">https://en.wikipedia.org/w/index.php?title=Literate_programming&#38;oldid=1122031796</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

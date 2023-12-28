@@ -45,7 +45,6 @@ Related: [The difference between knowing the name of something and knowing somet
   <div class="csl-entry">NO_ITEM_DATA:javajoshCalledItInfoGorging</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

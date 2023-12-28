@@ -33,7 +33,6 @@ A 2x2 game is [symmetric]({{< relref "symmetric_game.md" >}}) if and only if the
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

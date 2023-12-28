@@ -86,7 +86,6 @@ These details are difficult to identify since they are mostly-invisible before a
   <div class="csl-entry">NO_ITEM_DATA:salvatierRealityHasSurprisingAmountDetail</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

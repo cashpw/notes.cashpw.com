@@ -22,7 +22,6 @@ slug = "c2d1f99b-41ed-4476-b513-20e12456edc2"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Latin.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Latin&oldid=1121255172">https://en.wikipedia.org/w/index.php?title=Latin&#38;oldid=1121255172</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

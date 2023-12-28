@@ -22,7 +22,6 @@ slug = "302ef720-52b0-4d58-b652-7812ad5a8c1e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heuristic.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Heuristic&oldid=1124920880">https://en.wikipedia.org/w/index.php?title=Heuristic&#38;oldid=1124920880</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

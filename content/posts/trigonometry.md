@@ -22,7 +22,6 @@ slug = "0d69fc06-1179-402b-8231-922986e486fc"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Trigonometry.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Trigonometry&oldid=1120924905">https://en.wikipedia.org/w/index.php?title=Trigonometry&#38;oldid=1120924905</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

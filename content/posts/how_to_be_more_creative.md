@@ -33,7 +33,6 @@ Similar ideas:
   <div class="csl-entry">NO_ITEM_DATA:altucherUltimateGuideBecomingIdeaMachine2014</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

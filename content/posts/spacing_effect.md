@@ -22,7 +22,6 @@ slug = "37699e33-fccb-43bf-ab4b-ca9e74a03510"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Spacing Effect.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Spacing_effect&oldid=1068246492">https://en.wikipedia.org/w/index.php?title=Spacing_effect&#38;oldid=1068246492</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -66,7 +66,6 @@ slug = "3f513197-b379-4b8b-b918-21100005e18a"
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Klein, Gary, and Holly C. Baxter. 2006. “Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning.” In <i>Interservice/Industry Training Systems and Education Conference, Orlando, Florida</i>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

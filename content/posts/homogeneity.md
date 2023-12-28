@@ -32,7 +32,6 @@ slug = "65f61fff-628e-484a-baf5-785b37f7f28e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Homogeneous Function.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Homogeneous_function&oldid=1127194795">https://en.wikipedia.org/w/index.php?title=Homogeneous_function&#38;oldid=1127194795</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

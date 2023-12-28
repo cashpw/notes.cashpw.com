@@ -147,7 +147,6 @@ I disagree with this point. I consider a lot of the documentation and design wor
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allspaw, John. n.d. “On Being A Senior Engineer.” <i>Kitchen Soap</i>. Accessed February 21, 2022. <a href="https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

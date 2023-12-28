@@ -34,7 +34,6 @@ slug = "9e3242c4-62f4-4863-8368-8a4b160c1e76"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altemeyer, Bob. n.d. <i>The Authoritarians</i>. <a href="http://theauthoritarians.org">http://theauthoritarians.org</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

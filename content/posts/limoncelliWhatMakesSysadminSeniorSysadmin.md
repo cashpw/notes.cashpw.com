@@ -33,7 +33,6 @@ slug = "7af2ca45-ca0d-452d-83b3-a700057009d7"
   <div class="csl-entry">NO_ITEM_DATA:limoncelliWhatMakesSysadminSeniorSysadmin</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

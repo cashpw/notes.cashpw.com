@@ -26,7 +26,6 @@ slug = "f49b7372-f38a-470e-8e1f-d26a64ff4992"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pareto Principle.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Pareto_principle&oldid=1119913844">https://en.wikipedia.org/w/index.php?title=Pareto_principle&#38;oldid=1119913844</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

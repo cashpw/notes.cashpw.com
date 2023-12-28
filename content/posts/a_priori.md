@@ -24,7 +24,6 @@ Also see [A posteriori]({{< relref "a_posteriori.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A Priori and a Posteriori.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=A_priori_and_a_posteriori&oldid=1113103532">https://en.wikipedia.org/w/index.php?title=A_priori_and_a_posteriori&#38;oldid=1113103532</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

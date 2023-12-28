@@ -27,7 +27,6 @@ A form of [Rent-seeking]({{< relref "rent_seeking.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Enshittification.” 2023. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Enshittification&oldid=1182727022">https://en.wikipedia.org/w/index.php?title=Enshittification&#38;oldid=1182727022</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

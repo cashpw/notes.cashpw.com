@@ -22,7 +22,6 @@ slug = "dc6d6e17-e4d3-4390-b988-8e09d451e9b0"
   <div class="csl-entry">NO_ITEM_DATA:santosOrgnoterSynchronizedOrgmodeDocumentAnnotator2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

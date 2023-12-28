@@ -22,7 +22,6 @@ slug = "eb439041-eb04-415d-a642-9ab8783c68a4"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Hegemony.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Hegemony&oldid=1097335599">https://en.wikipedia.org/w/index.php?title=Hegemony&#38;oldid=1097335599</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

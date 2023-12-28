@@ -24,7 +24,6 @@ slug = "c6e33b36-3854-48be-9d20-a3ce8b42ebe6"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Volatility (Finance).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Volatility_(finance)&oldid=1116100450">https://en.wikipedia.org/w/index.php?title=Volatility_(finance)&#38;oldid=1116100450</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

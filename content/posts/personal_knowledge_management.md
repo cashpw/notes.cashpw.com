@@ -20,7 +20,6 @@ slug = "773406e0-fe95-41f4-a254-b2c6ade18ce9"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Personal Knowledge Management.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Personal_knowledge_management&oldid=1112158308">https://en.wikipedia.org/w/index.php?title=Personal_knowledge_management&#38;oldid=1112158308</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

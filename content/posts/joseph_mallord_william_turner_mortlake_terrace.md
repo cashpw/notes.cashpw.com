@@ -31,7 +31,6 @@ slug = "32d70cac-3020-45a5-9ebf-53f9b2f7ebf4"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Turner, Joseph Mallord William. 1827. “Mortlake Terrace.”</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

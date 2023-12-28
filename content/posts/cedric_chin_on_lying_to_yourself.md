@@ -29,7 +29,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2018</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “On Lying To Yourself.” <i>Commoncog</i>. <a href="https://commoncog.com/on-lying-to-yourself/">https://commoncog.com/on-lying-to-yourself/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

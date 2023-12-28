@@ -22,7 +22,6 @@ slug = "47d756da-f670-4377-83ae-3ea0fc25bc1b"
   <div class="csl-entry">NO_ITEM_DATA:lesswrongObjectLevelMetaLevel</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "bb5a1f30-1733-41b5-9c34-bcac7f8cb701"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lint (Software).” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Lint_(software)&oldid=1064993767">https://en.wikipedia.org/w/index.php?title=Lint_(software)&#38;oldid=1064993767</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

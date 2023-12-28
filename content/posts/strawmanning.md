@@ -24,7 +24,6 @@ slug = "81546002-b401-4c6c-ae23-ebab290a72a9"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Straw Man.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Straw_man&oldid=1132548349">https://en.wikipedia.org/w/index.php?title=Straw_man&#38;oldid=1132548349</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

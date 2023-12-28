@@ -22,7 +22,6 @@ slug = "2caa9715-d216-41c4-babb-c6e66364ac6d"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Seitan.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Seitan&oldid=1118091339">https://en.wikipedia.org/w/index.php?title=Seitan&#38;oldid=1118091339</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

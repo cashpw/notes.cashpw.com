@@ -28,7 +28,6 @@ slug = "54aeab12-48bb-4624-a110-e0a5d50087f4"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Preston-Werner, Tom. n.d. “Semantic Versioning 2.0.0.” <i>Semantic Versioning</i>. Accessed August 29, 2023. <a href="https://semver.org/">https://semver.org/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

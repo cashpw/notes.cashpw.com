@@ -19,7 +19,6 @@ Concurrent training is a combination of cardio and resistance training.
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

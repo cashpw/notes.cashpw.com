@@ -54,7 +54,6 @@ slug = "1263eb22-a819-43e6-9ab4-d45f790b095f"
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Option Style.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Option_style&oldid=1119699571#American_and_European_options">https://en.wikipedia.org/w/index.php?title=Option_style&#38;oldid=1119699571#American_and_European_options</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

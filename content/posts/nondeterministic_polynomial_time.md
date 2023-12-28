@@ -22,7 +22,6 @@ slug = "afffc2b8-0f87-4c45-814c-f0fc7b337339"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“NP (Complexity).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=NP_(complexity)&oldid=1119703601">https://en.wikipedia.org/w/index.php?title=NP_(complexity)&#38;oldid=1119703601</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

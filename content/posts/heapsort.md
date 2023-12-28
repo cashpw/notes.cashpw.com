@@ -39,7 +39,6 @@ slug = "cf64c166-6ad5-4dd7-88c6-155a320a7ea3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heapsort.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Heapsort&oldid=1110069153">https://en.wikipedia.org/w/index.php?title=Heapsort&#38;oldid=1110069153</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

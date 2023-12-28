@@ -27,7 +27,6 @@ Discomfort isn't necessarily the goal, but the goal is not to avoid discomfort a
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Luu, Dan. n.d. “95\%-Ile Isn’t That Good.” Accessed October 27, 2023. <a href="https://danluu.com/p95-skill/">https://danluu.com/p95-skill/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

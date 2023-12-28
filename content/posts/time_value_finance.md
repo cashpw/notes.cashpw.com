@@ -22,7 +22,6 @@ slug = "f41ce01a-f8d7-4d5e-a7c6-178706176f6c"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Option Time Value.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Option_time_value&oldid=1067040888">https://en.wikipedia.org/w/index.php?title=Option_time_value&#38;oldid=1067040888</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

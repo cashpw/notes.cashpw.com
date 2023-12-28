@@ -22,7 +22,6 @@ slug = "546a8c28-18bb-4500-bb35-a18ca162ee1f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bisque.” n.d. Accessed August 23, 2022. <a href="https://digitalfire.com/glossary/bisque">https://digitalfire.com/glossary/bisque</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

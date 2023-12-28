@@ -83,7 +83,6 @@ slug = "b23ffea4-e780-4d89-84ad-c0bd4f25816f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tieze, Christian. 22AD. “The Collector’s Fallacy.” <i>Zettelkasten Method</i>. <a href="https://zettelkasten.de/posts/collectors-fallacy/">https://zettelkasten.de/posts/collectors-fallacy/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

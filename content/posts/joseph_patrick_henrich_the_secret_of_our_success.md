@@ -36,7 +36,6 @@ See [Scott Alexander | Book Review: The Secret Of Our Success]({{< relref "scott
   <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewSecretOurSuccess2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

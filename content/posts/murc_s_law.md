@@ -29,7 +29,6 @@ slug = "1165158c-add0-4564-a962-7a30c223f477"
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Murc’s Law.” n.d. <i>Urban Dictionary</i>. Accessed September 21, 2023. <a href="https://www.urbandictionary.com/define.php?term=murc%27s%20law">https://www.urbandictionary.com/define.php?term=murc%27s%20law</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

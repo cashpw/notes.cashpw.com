@@ -40,7 +40,6 @@ Holy the supernatural extra brilliant intelligent kindness of the soul!<br />
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ginsberg, Allen. 2022. “Footnote to Howl.” Text/Html. <i>Poetry Foundation</i>. Poetry Foundation. <a href="https://www.poetryfoundation.org/poems/54163/footnote-to-howl">https://www.poetryfoundation.org/poems/54163/footnote-to-howl</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

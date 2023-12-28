@@ -55,7 +55,6 @@ slug = "5664432e-6bb3-4670-9669-08ee70b5ca6d"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Agile Software Development.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Agile_software_development&oldid=1118312171">https://en.wikipedia.org/w/index.php?title=Agile_software_development&#38;oldid=1118312171</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

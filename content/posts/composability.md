@@ -25,7 +25,6 @@ slug = "5d0c9c41-219f-4330-b2e6-0ae5daaa5355"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Composability.” 2021. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Composability&oldid=1030547806">https://en.wikipedia.org/w/index.php?title=Composability&#38;oldid=1030547806</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

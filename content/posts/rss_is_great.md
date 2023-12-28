@@ -24,7 +24,6 @@ Websites and applications [want your attention]({{< relref "attention_capital_th
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“RSS.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=RSS&oldid=1157752729">https://en.wikipedia.org/w/index.php?title=RSS&#38;oldid=1157752729</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

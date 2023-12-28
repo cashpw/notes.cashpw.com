@@ -20,7 +20,6 @@ slug = "6d55a204-cace-464c-b771-66bd9af50ed0"
   <div class="csl-entry">NO_ITEM_DATA:hansonAgeEmWorkLoveLifeWhenRobotsRuleEarth2016</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

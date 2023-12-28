@@ -39,7 +39,6 @@ slug = "2e340461-20cb-4d63-afdb-cac74fbea013"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prim’s Algorithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&oldid=1127278141">https://en.wikipedia.org/w/index.php?title=Prim%27s_algorithm&#38;oldid=1127278141</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

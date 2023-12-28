@@ -22,7 +22,6 @@ slug = "26b5b285-6345-4c27-bdd6-26ae906aefdb"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Reed, Adolph. 2014. “Nothing Left: The Past Is Always Present: Examining Quotidian Life under Jim Crow to Reveal Its Structures.” <i>Harper’s Magazine</i> March 2014 (March). <a href="https://harpers.org/archive/2014/03/nothing-left-2/">https://harpers.org/archive/2014/03/nothing-left-2/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

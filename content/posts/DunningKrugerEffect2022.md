@@ -22,7 +22,6 @@ slug = "393d22dc-fb65-4f8c-9070-6973d6c9668e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“DunningKruger Effect.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Dunning%E2%80%93Kruger_effect&oldid=1070028100">https://en.wikipedia.org/w/index.php?title=Dunning%E2%80%93Kruger_effect&#38;oldid=1070028100</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

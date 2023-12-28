@@ -32,7 +32,6 @@ An atom, in [Lisp]({{< relref "lisp.md" >}}), is an indivisible thing. Examples 
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lisp Atoms.” n.d. Accessed June 29, 2022. <a href="https://www.gnu.org/software/emacs/manual/html_node/eintr/Lisp-Atoms.html">https://www.gnu.org/software/emacs/manual/html_node/eintr/Lisp-Atoms.html</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

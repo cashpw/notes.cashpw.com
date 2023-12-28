@@ -179,7 +179,6 @@ In short, governing bodies continued (and continue) to push these solutions not 
   <div class="csl-entry">NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

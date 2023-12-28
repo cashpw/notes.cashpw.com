@@ -24,7 +24,6 @@ slug = "4b917306-e1fa-4d34-9d2b-5bb1eedab431"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Coordinate Vector.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Coordinate_vector&oldid=1105580540">https://en.wikipedia.org/w/index.php?title=Coordinate_vector&#38;oldid=1105580540</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

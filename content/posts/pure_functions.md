@@ -27,7 +27,6 @@ slug = "426b6e66-710b-4d01-8ff0-f5311478260c"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pure Function.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Pure_function&oldid=1065003790">https://en.wikipedia.org/w/index.php?title=Pure_function&#38;oldid=1065003790</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

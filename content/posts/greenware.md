@@ -29,7 +29,6 @@ Greenware is clay before it's undergone [Bisque firing]({{< relref "bisque_firin
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pottery.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Pottery&oldid=1105629728">https://en.wikipedia.org/w/index.php?title=Pottery&#38;oldid=1105629728</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

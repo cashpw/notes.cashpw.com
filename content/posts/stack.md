@@ -27,7 +27,6 @@ slug = "5ab783c7-9a13-42d2-920d-95f103ac677c"
   <div class="csl-entry">NO_ITEM_DATA:StackAbstractDataType2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

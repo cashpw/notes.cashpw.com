@@ -22,7 +22,6 @@ slug = "4c05e5da-c14c-45b8-9284-af1dda8dd3a6"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Dictator Game.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Dictator_game&oldid=1097370198">https://en.wikipedia.org/w/index.php?title=Dictator_game&#38;oldid=1097370198</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -62,7 +62,6 @@ slug = "0a379fad-61c8-4e9a-96ea-62ecae152892"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “A Personal Epistemology of Practice.” <i>Commoncog</i>. <a href="https://commoncog.com/putting-mental-models-to-practice-part-6-a-personal-epistemology-of-practice/">https://commoncog.com/putting-mental-models-to-practice-part-6-a-personal-epistemology-of-practice/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

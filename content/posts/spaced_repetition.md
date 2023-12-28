@@ -105,7 +105,6 @@ Refer to (<a href="#citeproc_bib_item_1">Borretti 2023</a>)
   <div class="csl-entry">NO_ITEM_DATA:branwenSpacedRepetitionEfficientLearning2009</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

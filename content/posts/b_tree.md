@@ -101,7 +101,6 @@ Worst case: \\(\bigo{\log n}\\)
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Programiz. n.d. “B-Tree.” Accessed September 22, 2022. <a href="https://www.programiz.com/dsa/b-tree">https://www.programiz.com/dsa/b-tree</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -28,7 +28,6 @@ slug = "738c2ba7-a272-417d-9b6d-b6952d765280"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Data Structure.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Data_structure&oldid=1094193368">https://en.wikipedia.org/w/index.php?title=Data_structure&#38;oldid=1094193368</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

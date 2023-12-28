@@ -29,7 +29,6 @@ slug = "6b6c9450-4602-4ad1-a07e-656498d1fdb2"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ward, Paul, Jan Maarten Schraagen, Julie Gore, and Emilie M. Roth, eds. 2020. <i>The Oxford Handbook of Expertise</i>. First edition. Oxford, United Kingdom: Oxford University Press.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

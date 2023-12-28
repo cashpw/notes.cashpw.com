@@ -22,7 +22,6 @@ slug = "c5f1ce6a-5a0f-4889-881b-6862d462cf08"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Somebody Else’s Problem.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Somebody_else%27s_problem&oldid=1065923296">https://en.wikipedia.org/w/index.php?title=Somebody_else%27s_problem&#38;oldid=1065923296</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

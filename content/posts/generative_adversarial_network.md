@@ -26,7 +26,6 @@ slug = "0f560f37-8170-46a9-8ec3-160de418eb7d"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Generative Adversarial Network.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Generative_adversarial_network&oldid=1132368875">https://en.wikipedia.org/w/index.php?title=Generative_adversarial_network&#38;oldid=1132368875</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

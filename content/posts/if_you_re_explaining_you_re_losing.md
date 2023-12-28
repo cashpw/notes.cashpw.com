@@ -24,7 +24,6 @@ An example of [Never play defense]({{< relref "never_play_defense.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:reaganIfYouReExplainingYouReLosing</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

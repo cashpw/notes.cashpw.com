@@ -32,7 +32,6 @@ slug = "d077ef5b-766b-4239-a40f-f775e101e185"
   <div class="csl-entry">NO_ITEM_DATA:crittendenWrite5xMoreWrite5xLess2020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

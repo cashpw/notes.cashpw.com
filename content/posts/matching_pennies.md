@@ -22,7 +22,6 @@ slug = "24c39c95-3f91-4e42-81e6-7eb87eb24546"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Matching Pennies.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Matching_pennies&oldid=1117335940">https://en.wikipedia.org/w/index.php?title=Matching_pennies&#38;oldid=1117335940</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

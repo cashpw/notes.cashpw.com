@@ -22,7 +22,6 @@ slug = "cce498c6-3fd2-40e1-9aee-fbc273d7fb32"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Akrasia.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Akrasia&oldid=1101062663">https://en.wikipedia.org/w/index.php?title=Akrasia&#38;oldid=1101062663</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

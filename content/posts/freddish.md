@@ -46,7 +46,6 @@ Freddish refers to the way [Fred Rogers]({{< relref "fred_rogers.md" >}}) would 
   <div class="csl-entry">NO_ITEM_DATA:kingMisterRogersHadSimpleSetRulesTalkingChildren2018</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

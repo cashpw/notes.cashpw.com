@@ -30,7 +30,6 @@ Related: [Fully Automated Luxury Communism]({{< relref "fully_automated_luxury_c
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>The Next Generation Transcripts. n.d. “The Neutral Zone.” Accessed July 21, 2022. <a href="http://www.chakoteya.net/NextGen/126.htm">http://www.chakoteya.net/NextGen/126.htm</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

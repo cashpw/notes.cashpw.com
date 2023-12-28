@@ -22,7 +22,6 @@ slug = "7b7185c2-db8c-4e53-b9a1-795cc36ab508"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Put Option.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Put_option&oldid=1117825854">https://en.wikipedia.org/w/index.php?title=Put_option&#38;oldid=1117825854</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "f85a49e5-6718-4da8-b325-22b23a44985f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Remote Procedure Call.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Remote_procedure_call&oldid=1135050297">https://en.wikipedia.org/w/index.php?title=Remote_procedure_call&#38;oldid=1135050297</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

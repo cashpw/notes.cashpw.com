@@ -39,7 +39,6 @@ Answering these follow-up questions ensures you and your team don't burn time so
   <div class="csl-entry">NO_ITEM_DATA:kingIfYouCanFlyThenRun</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

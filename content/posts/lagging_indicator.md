@@ -22,7 +22,6 @@ slug = "c112d0b0-ceef-4a41-9dc8-013a31bd1f49"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Economic Indicator.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Economic_indicator&oldid=1062025570">https://en.wikipedia.org/w/index.php?title=Economic_indicator&#38;oldid=1062025570</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "664e547c-e250-4fbf-9050-a245db80c1c4"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Beatrix Potter.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Beatrix_Potter&oldid=1070259835">https://en.wikipedia.org/w/index.php?title=Beatrix_Potter&#38;oldid=1070259835</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

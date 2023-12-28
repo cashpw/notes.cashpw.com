@@ -29,7 +29,6 @@ slug = "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree (Data Structure).” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Tree_(data_structure)&oldid=1084348103">https://en.wikipedia.org/w/index.php?title=Tree_(data_structure)&#38;oldid=1084348103</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

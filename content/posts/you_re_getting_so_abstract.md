@@ -24,7 +24,6 @@ Related: [Southern strategy]({{< relref "southern_strategy.md" >}})
   <div class="csl-entry">NO_ITEM_DATA:perlsteinExclusiveLeeAtwaterInfamous1981InterviewSouthernStrategy2012</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

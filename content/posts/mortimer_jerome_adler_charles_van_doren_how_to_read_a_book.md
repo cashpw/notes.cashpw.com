@@ -29,7 +29,6 @@ slug = "52512c4c-d011-4cca-afd5-87db8442f9c3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Adler, Mortimer Jerome, and Charles Van Doren. 1972. <i>How to Read a Book</i>. Rev. and updated ed. New York: Simon and Schuster.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

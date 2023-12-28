@@ -62,7 +62,6 @@ print(quick_sort(a, lambda a, b: a <= b))
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

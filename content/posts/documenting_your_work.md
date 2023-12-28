@@ -35,7 +35,6 @@ slug = "c74e3129-38af-45f8-bd2b-8a6fa5a0cad0"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Readme Driven Development.” n.d. Accessed February 14, 2022. <a href="https://tom.preston-werner.com/2010/08/23/readme-driven-development.html">https://tom.preston-werner.com/2010/08/23/readme-driven-development.html</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

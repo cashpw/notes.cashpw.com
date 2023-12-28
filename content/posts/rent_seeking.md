@@ -22,7 +22,6 @@ slug = "7b600674-2c87-4532-b676-a6e025fca18e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Rent-Seeking.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Rent-seeking&oldid=1121286312">https://en.wikipedia.org/w/index.php?title=Rent-seeking&#38;oldid=1121286312</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

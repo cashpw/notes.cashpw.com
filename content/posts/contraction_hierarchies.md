@@ -696,7 +696,6 @@ Contraction is {{iterative}{process}@0}
   <div class="csl-entry">NO_ITEM_DATA:lazarsfeldCoreComponentsCHChoosingNodeOrder</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

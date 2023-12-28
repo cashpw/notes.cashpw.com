@@ -26,7 +26,6 @@ Cultural changes are population and generational changes. People don't change th
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hemingway, Ernest. 2014. <i>The Sun Also Rises</i>. The Hemingway library edition. The Hemingway Library Edition. New York: Scribner.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

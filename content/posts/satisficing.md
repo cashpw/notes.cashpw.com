@@ -24,7 +24,6 @@ Related: [Good enough]({{< relref "kileBusyPersonPatterns2006.md#good-enough" >}
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Satisficing.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Satisficing&oldid=1147830159">https://en.wikipedia.org/w/index.php?title=Satisficing&#38;oldid=1147830159</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

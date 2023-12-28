@@ -22,7 +22,6 @@ slug = "b1803fd2-0e85-4a69-b4c9-3516194b7442"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Lucas, George. n.d. “The Empire Strikes Back.”</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

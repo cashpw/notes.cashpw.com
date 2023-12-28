@@ -22,7 +22,6 @@ slug = "6db3dc17-f091-4c31-ab22-74d8ec0ebb5e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“1\% Rule (Internet Culture).” 2021. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=1%25_rule_(Internet_culture)&oldid=1q053243579">https://en.wikipedia.org/w/index.php?title=1%25_rule_(Internet_culture)&#38;oldid=1q053243579</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

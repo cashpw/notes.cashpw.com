@@ -22,7 +22,6 @@ slug = "7c9624d9-8abd-4581-b0df-c5db61516818"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sigmoid Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Sigmoid_function&oldid=1122727350">https://en.wikipedia.org/w/index.php?title=Sigmoid_function&#38;oldid=1122727350</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

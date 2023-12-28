@@ -22,7 +22,6 @@ slug = "650f4577-c1ec-46c9-b7a6-af8d90756bcd"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Implicit Data Structure.” 2021. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Implicit_data_structure&oldid=1036275140">https://en.wikipedia.org/w/index.php?title=Implicit_data_structure&#38;oldid=1036275140</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

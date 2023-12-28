@@ -28,7 +28,6 @@ Related: [Personal knowledge management]({{< relref "personal_knowledge_manageme
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Zettelkasten.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Zettelkasten&oldid=1060558761">https://en.wikipedia.org/w/index.php?title=Zettelkasten&#38;oldid=1060558761</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

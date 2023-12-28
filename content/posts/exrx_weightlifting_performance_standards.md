@@ -48,7 +48,6 @@ slug = "7b52ebd6-f673-4db3-b9ca-49bce7acee56"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>ExRx. n.d. “Weightlifting Performance Standards.” Accessed July 6, 2023. <a href="https://exrx.net/Testing/WeightLifting/StrengthStandards">https://exrx.net/Testing/WeightLifting/StrengthStandards</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

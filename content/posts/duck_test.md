@@ -27,7 +27,6 @@ Also see:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Duck Test.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Duck_test&oldid=1094197763">https://en.wikipedia.org/w/index.php?title=Duck_test&#38;oldid=1094197763</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

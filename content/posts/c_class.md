@@ -65,7 +65,6 @@ class Foo : public Container {
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Stroustrup, Bjarne. 2022. <i>A Tour of C++</i>. Third. C++ in-Depth Series. Boston: Addison-Wesley.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

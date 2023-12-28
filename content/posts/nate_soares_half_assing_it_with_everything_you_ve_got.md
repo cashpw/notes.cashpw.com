@@ -63,7 +63,6 @@ Related: [Play to win]({{< relref "play_to_win.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Soares, Nate. 2015. “Half-Assing It with Everything You’ve Got.” <i>Minding Our Way</i>. <a href="https://mindingourway.com/half-assing-it-with-everything-youve-got/">https://mindingourway.com/half-assing-it-with-everything-youve-got/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

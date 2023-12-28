@@ -38,7 +38,6 @@ slug = "b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Notation for Differentiation.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Notation_for_differentiation&oldid=1120966008#Lagrangeʼs_notation">https://en.wikipedia.org/w/index.php?title=Notation_for_differentiation&#38;oldid=1120966008#Lagrange’s_notation</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -26,7 +26,6 @@ Related: [The medium is the message]({{< relref "the_medium_is_the_message.md" >
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Farnum Street. 2015. “The Map Is Not the Territory.” <i>Farnam Street</i>. <a href="https://fs.blog/2015/11/map-and-territory/">https://fs.blog/2015/11/map-and-territory/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

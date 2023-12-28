@@ -22,7 +22,6 @@ slug = "fba2b035-cd82-46c9-9797-25b0b1419b42"
   <div class="csl-entry">NO_ITEM_DATA:doctorowInteroperabilityFixInternetNotTechCompanies2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

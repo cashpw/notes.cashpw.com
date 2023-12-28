@@ -52,7 +52,6 @@ We don't automatically seek out a [Theory of change]({{< relref "theory_of_chang
   <div class="csl-entry">NO_ITEM_DATA:salamonHumansAreNotAutomaticallyStrategic2010</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

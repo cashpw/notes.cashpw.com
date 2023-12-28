@@ -28,7 +28,6 @@ slug = "8bff4dfc-8073-4d45-ab89-7b3f97323327"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Graph (Discrete Mathematics).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Graph_(discrete_mathematics)&oldid=1093859772">https://en.wikipedia.org/w/index.php?title=Graph_(discrete_mathematics)&#38;oldid=1093859772</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

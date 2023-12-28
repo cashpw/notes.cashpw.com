@@ -67,7 +67,6 @@ def single_source_shortest_path(target_id: NodeId, topological_ordering: List[No
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

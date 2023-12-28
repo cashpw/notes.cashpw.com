@@ -24,7 +24,6 @@ slug = "b8a0fa22-27a1-4f7e-8f33-ee2710494eba"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A Quote by Albert Camus.” n.d. Accessed March 3, 2023. <a href="https://www.goodreads.com/quotes/405686-life-is-a-sum-of-all-your-choices-so-what">https://www.goodreads.com/quotes/405686-life-is-a-sum-of-all-your-choices-so-what</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

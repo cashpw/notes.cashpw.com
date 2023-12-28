@@ -30,7 +30,6 @@ slug = "0a3c8553-f631-4eca-8e2c-957419ebb8ac"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Geometric Progression.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Geometric_progression&oldid=1112468108">https://en.wikipedia.org/w/index.php?title=Geometric_progression&#38;oldid=1112468108</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

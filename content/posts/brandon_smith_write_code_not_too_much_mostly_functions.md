@@ -63,7 +63,6 @@ I think this [Pareto principle]({{< relref "pareto_principle.md" >}})-like frami
   <div class="csl-entry">NO_ITEM_DATA:smithWriteCodeNotTooMuchMostlyFunctions</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -115,7 +115,6 @@ slug = "3f493f0a-aac1-43b6-be22-9711b921f6d8"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Illian, Clary. 2012. <i>A Potter’s Workbook.</i> Iowa: University of Iowa Press. <a href="http://public.eblib.com/choice/publicfullrecord.aspx?p=951113">http://public.eblib.com/choice/publicfullrecord.aspx?p=951113</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

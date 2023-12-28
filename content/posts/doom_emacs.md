@@ -22,7 +22,6 @@ See [Emacs]({{< relref "emacs.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Doom Emacs.” 2022. Doom Emacs. <a href="https://github.com/doomemacs/doomemacs">https://github.com/doomemacs/doomemacs</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -26,7 +26,6 @@ slug = "4be26817-4ffd-4975-97aa-deda536235a5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Leon. 2022. “Org Flashcards.” <a href="https://github.com/l3kn/org-fc">https://github.com/l3kn/org-fc</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

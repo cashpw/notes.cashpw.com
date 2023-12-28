@@ -22,7 +22,6 @@ slug = "52a0697e-ba3c-47f8-8dfe-cdd82ee6cb44"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Relation.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Binary_relation&oldid=1111761379">https://en.wikipedia.org/w/index.php?title=Binary_relation&#38;oldid=1111761379</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -29,7 +29,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Schoepp n.d.</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Schoepp, Caleb. n.d. “Productivity Porn.” Accessed November 23, 2022. <a href="https://calebschoepp.com/blog/2022/productivity-porn/">https://calebschoepp.com/blog/2022/productivity-porn/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

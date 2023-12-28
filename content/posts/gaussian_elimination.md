@@ -28,7 +28,6 @@ slug = "b59377a2-c3af-4647-b74b-2c38bd4f8c7a"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Gaussian Elimination.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Gaussian_elimination&oldid=1100872918">https://en.wikipedia.org/w/index.php?title=Gaussian_elimination&#38;oldid=1100872918</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

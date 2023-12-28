@@ -96,7 +96,6 @@ print(dijkstra_single_pair_shortest_path(b.id, a.id, adjacency_list), 'should be
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

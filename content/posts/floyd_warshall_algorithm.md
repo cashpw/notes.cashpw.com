@@ -58,7 +58,6 @@ In pseudocode:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“FloydWarshall Algorithm.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Floyd%E2%80%93Warshall_algorithm&oldid=1113259725">https://en.wikipedia.org/w/index.php?title=Floyd%E2%80%93Warshall_algorithm&#38;oldid=1113259725</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

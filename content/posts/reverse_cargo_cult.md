@@ -37,7 +37,6 @@ Related: [Fallacy of grey]({{< relref "fallacy_of_gray.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:howeTrumpReverseCargoCult2017</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

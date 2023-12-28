@@ -33,7 +33,6 @@ slug = "44890929-fa24-4a69-b261-04107a005903"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Load Balancing (Computing).” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Load_balancing_(computing)&oldid=1143711216">https://en.wikipedia.org/w/index.php?title=Load_balancing_(computing)&#38;oldid=1143711216</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

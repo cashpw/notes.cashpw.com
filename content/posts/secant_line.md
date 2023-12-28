@@ -28,7 +28,6 @@ slug = "a1a0a03b-2d39-4119-bbec-e32ed8e6852e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Secant Line.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Secant_line&oldid=1099332320">https://en.wikipedia.org/w/index.php?title=Secant_line&#38;oldid=1099332320</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

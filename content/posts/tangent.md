@@ -33,7 +33,6 @@ The tangent of a function is the [Instantaneous rate of change]({{< relref "deri
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sine and Cosine.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&oldid=1103922899">https://en.wikipedia.org/w/index.php?title=Sine_and_cosine&#38;oldid=1103922899</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

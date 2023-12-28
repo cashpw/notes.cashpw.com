@@ -2168,7 +2168,6 @@ See [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< rel
   <div class="csl-entry">NO_ITEM_DATA:larsonDrawingYourThreeMapsExercise2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

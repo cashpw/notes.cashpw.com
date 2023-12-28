@@ -56,7 +56,6 @@ slug = "f0deaa3b-c3bc-491d-adc3-6e6595cb558e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree Rotation.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Tree_rotation&oldid=1099813959">https://en.wikipedia.org/w/index.php?title=Tree_rotation&#38;oldid=1099813959</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

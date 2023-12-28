@@ -24,7 +24,6 @@ A technique of studying/learning where one emphasizes the relationships between 
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Marsh, Elizabeth J., and Andrew C. Butler. 2013. <i>Memory in Educational Settings</i>. Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780195376746.013.0020">https://doi.org/10.1093/oxfordhb/9780195376746.013.0020</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

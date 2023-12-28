@@ -23,7 +23,6 @@ Hosted by [Nima Shirazi]({{< relref "nima_shirazi.md" >}}) and [Adam Johnson]({{
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

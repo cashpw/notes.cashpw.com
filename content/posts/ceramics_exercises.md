@@ -108,7 +108,6 @@ Volume is the key to consistency. Pick a single form, throw [At least two of the
   <div class="csl-entry">NO_ITEM_DATA:sinkingjunkIfYouReLooking2016</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

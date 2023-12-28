@@ -47,7 +47,6 @@ I prefer the individual reviews of [Scott Alexander | Book Review: Seeing Like A
   <div class="csl-entry">NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

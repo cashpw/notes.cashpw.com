@@ -24,7 +24,6 @@ slug = "e1506f58-c519-4b04-a7fd-6bc821514a30"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Principalagent Problem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Principal%E2%80%93agent_problem&oldid=1131255299">https://en.wikipedia.org/w/index.php?title=Principal%E2%80%93agent_problem&#38;oldid=1131255299</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

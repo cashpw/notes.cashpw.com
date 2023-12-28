@@ -27,7 +27,6 @@ Also see [Why I write notes]({{< relref "why_i_write_notes.md" >}}).
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

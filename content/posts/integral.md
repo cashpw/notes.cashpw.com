@@ -24,7 +24,6 @@ slug = "61de6a28-e681-45bd-a086-fff5b924354e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Integral.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Integral&oldid=1132922175">https://en.wikipedia.org/w/index.php?title=Integral&#38;oldid=1132922175</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

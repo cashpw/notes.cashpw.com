@@ -48,7 +48,6 @@ The term is from [Neel Nanda | Post 29: Meaningful Rest]({{< relref "neel_nanda_
   <div class="csl-entry">NO_ITEM_DATA:nandaPost29MeaningfulRest</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

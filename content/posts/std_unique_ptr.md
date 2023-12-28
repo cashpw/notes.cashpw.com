@@ -24,7 +24,6 @@ A part of the [Standard Library (C++)]({{< relref "c_standard_library.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:StdUniquePtr</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

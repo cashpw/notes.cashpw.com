@@ -24,7 +24,6 @@ Related: [Last in, first out]({{< relref "first_in_last_out.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“FIFO (Computing and Electronics).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=FIFO_(computing_and_electronics)&oldid=1104188471">https://en.wikipedia.org/w/index.php?title=FIFO_(computing_and_electronics)&#38;oldid=1104188471</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

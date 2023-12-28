@@ -22,7 +22,6 @@ slug = "0bd96e38-6a09-4053-b5e8-cf707b03a3e5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cache (Computing).” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Cache_(computing)&oldid=1140828004">https://en.wikipedia.org/w/index.php?title=Cache_(computing)&#38;oldid=1140828004</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

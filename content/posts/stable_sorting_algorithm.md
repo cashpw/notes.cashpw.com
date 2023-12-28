@@ -27,7 +27,6 @@ slug = "740ce42a-3a80-4ecb-9438-fedff074443b"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sorting Algorithm.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&oldid=1095879356">https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&#38;oldid=1095879356</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

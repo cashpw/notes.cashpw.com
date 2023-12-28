@@ -22,7 +22,6 @@ slug = "097f418c-8af5-498a-a5e3-37bab614556e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cognitive Dissonance.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Cognitive_dissonance&oldid=1088686297">https://en.wikipedia.org/w/index.php?title=Cognitive_dissonance&#38;oldid=1088686297</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

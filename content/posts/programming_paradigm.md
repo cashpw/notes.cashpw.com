@@ -35,7 +35,6 @@ slug = "96f5c67c-bfb2-4089-b80e-7fd70e194778"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Programming Paradigm.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Programming_paradigm&oldid=1150269035">https://en.wikipedia.org/w/index.php?title=Programming_paradigm&#38;oldid=1150269035</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

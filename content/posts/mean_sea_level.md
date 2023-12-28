@@ -22,7 +22,6 @@ slug = "7e950603-75ef-4f19-9536-1410fccdd210"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sea Level.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Sea_level&oldid=1134685048">https://en.wikipedia.org/w/index.php?title=Sea_level&#38;oldid=1134685048</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -31,7 +31,6 @@ From the reviews I've read, a [Branch book]({{< relref "branch_book.md" >}}) who
   <div class="csl-entry">NO_ITEM_DATA:simlerElephantBrainHiddenMotivesEverydayLife2018</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

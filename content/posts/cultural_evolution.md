@@ -26,7 +26,6 @@ slug = "b74a709a-ff6f-425e-8a45-9f6acf47cbad"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cultural Evolution.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Cultural_evolution&oldid=1127035681">https://en.wikipedia.org/w/index.php?title=Cultural_evolution&#38;oldid=1127035681</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

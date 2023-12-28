@@ -38,7 +38,6 @@ Also see [Applied cognitive task analysis]({{< relref "applied_cognitive_task_an
   <div class="csl-entry">NO_ITEM_DATA:CognitiveTaskAnalysisUsabilityBodyKnowledge</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

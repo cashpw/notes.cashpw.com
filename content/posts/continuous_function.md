@@ -22,7 +22,6 @@ slug = "753a3fe1-3576-4549-8a5d-a8c901f6a708"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Continuous Function.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Continuous_function&oldid=1132729385">https://en.wikipedia.org/w/index.php?title=Continuous_function&#38;oldid=1132729385</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

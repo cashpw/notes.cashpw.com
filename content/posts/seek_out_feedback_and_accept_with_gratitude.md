@@ -26,7 +26,6 @@ You can also [hire people to give you feedback]({{< relref "things_you_re_allowe
   <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

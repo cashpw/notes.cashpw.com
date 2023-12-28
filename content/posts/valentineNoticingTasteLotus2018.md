@@ -39,7 +39,6 @@ Related: [Be conscious of your defaults]({{< relref "be_concious_of_your_default
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Valentine. 2018. “Noticing the Taste of Lotus.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus">https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

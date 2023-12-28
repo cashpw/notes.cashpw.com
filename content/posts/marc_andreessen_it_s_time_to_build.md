@@ -136,7 +136,6 @@ As for specifics, insofar as a direction is specific, I agree with [Ezra Klein's
   <div class="csl-entry">NO_ITEM_DATA:kleinWhyWeCanBuild2020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

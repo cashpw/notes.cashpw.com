@@ -60,7 +60,6 @@ References:
   <div class="csl-entry">NO_ITEM_DATA:weinersmithSaturdayMorningBreakfastCerealParentingTechnique</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

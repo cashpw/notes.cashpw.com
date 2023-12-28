@@ -23,7 +23,6 @@ I agree with "There is no meaning to life -- it just is" but don't agree with th
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

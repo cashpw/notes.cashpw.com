@@ -30,7 +30,6 @@ Related:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Wizard’s First Rule.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Wizard%27s_First_Rule&oldid=1061747657">https://en.wikipedia.org/w/index.php?title=Wizard%27s_First_Rule&#38;oldid=1061747657</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

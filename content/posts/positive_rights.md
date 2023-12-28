@@ -30,7 +30,6 @@ Also see [Negative rights]({{< relref "negative_rights.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Negative and Positive Rights.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Negative_and_positive_rights&oldid=1098829849">https://en.wikipedia.org/w/index.php?title=Negative_and_positive_rights&#38;oldid=1098829849</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -147,7 +147,6 @@ This corresponds to [Sensemaking]({{< relref "sensemaking.md" >}}) (<a href="#ci
   <div class="csl-entry">NO_ITEM_DATA:MnemonicsCoBloomTaxonomy</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

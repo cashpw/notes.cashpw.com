@@ -24,7 +24,6 @@ The enticing value of an carrot depends on the one-being-enticed's lack of that 
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Black, Bob. n.d. “The Abolition of Work.” <i>The Anarchist Library</i>. Accessed March 13, 2022. <a href="https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work">https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

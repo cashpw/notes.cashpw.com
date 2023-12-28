@@ -34,7 +34,6 @@ slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mastery Learning.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Mastery_learning&oldid=1126487387">https://en.wikipedia.org/w/index.php?title=Mastery_learning&#38;oldid=1126487387</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

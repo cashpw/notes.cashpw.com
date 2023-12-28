@@ -22,7 +22,6 @@ slug = "8ffd5a59-aecd-4482-879a-ecbf2a720043"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Idempotent Matrix.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Idempotent_matrix&oldid=1089600534">https://en.wikipedia.org/w/index.php?title=Idempotent_matrix&#38;oldid=1089600534</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

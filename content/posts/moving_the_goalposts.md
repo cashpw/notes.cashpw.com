@@ -22,7 +22,6 @@ slug = "b2575705-10cd-4523-aaa6-153360d7bd07"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Moving the Goalposts.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Moving_the_goalposts&oldid=1092754084">https://en.wikipedia.org/w/index.php?title=Moving_the_goalposts&#38;oldid=1092754084</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

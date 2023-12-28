@@ -22,7 +22,6 @@ slug = "27a0ad69-c248-4dea-9807-4926ec05412c"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Simplex Communication.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Simplex_communication&oldid=1142644538">https://en.wikipedia.org/w/index.php?title=Simplex_communication&#38;oldid=1142644538</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

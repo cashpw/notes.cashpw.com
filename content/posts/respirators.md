@@ -72,7 +72,6 @@ See [Use the right respirator]({{< relref "use_the_right_respirator.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:NIOSHGuideSelectionUseParticulateRespiratorsCertified42CFR842020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -51,7 +51,6 @@ Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Be Impatient.” <a href="https://www.benkuhn.net/impatient/">https://www.benkuhn.net/impatient/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

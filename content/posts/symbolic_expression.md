@@ -35,7 +35,6 @@ slug = "976fb83d-ae8c-427d-b47e-f0089b4d9ce1"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“S-Expression.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=S-expression&oldid=1070385728">https://en.wikipedia.org/w/index.php?title=S-expression&#38;oldid=1070385728</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -24,7 +24,6 @@ slug = "ff009594-d69f-4d33-b0c2-65ed62eaf0b2"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Festina Lente.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Festina_lente&oldid=1070080472">https://en.wikipedia.org/w/index.php?title=Festina_lente&#38;oldid=1070080472</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

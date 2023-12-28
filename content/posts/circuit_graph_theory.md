@@ -22,7 +22,6 @@ slug = "f063a5e6-62e1-44ae-9fac-7b30b4692afb"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cycle (Graph Theory).” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Cycle_(graph_theory)&oldid=1110268538">https://en.wikipedia.org/w/index.php?title=Cycle_(graph_theory)&#38;oldid=1110268538</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

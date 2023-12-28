@@ -31,7 +31,6 @@ The general thrust that formal education is rife with [Signaling]({{< relref "si
   <div class="csl-entry">NO_ITEM_DATA:caplanCaseEducationWhyEducationSystemWasteTimeMoney2018</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

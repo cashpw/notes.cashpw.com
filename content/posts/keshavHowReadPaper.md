@@ -23,7 +23,6 @@ slug = "e6b1cd50-8293-44a3-bcba-d302d0835470"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Keshav, S. n.d. “How to Read a Paper.”</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

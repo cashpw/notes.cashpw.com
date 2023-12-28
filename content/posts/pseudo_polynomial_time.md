@@ -30,7 +30,6 @@ For example, the number of integers you can represent with \\(n\\) bits grows ex
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pseudo-Polynomial Time.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Pseudo-polynomial_time&oldid=1090337054">https://en.wikipedia.org/w/index.php?title=Pseudo-polynomial_time&#38;oldid=1090337054</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -33,7 +33,6 @@ A type of [Interoperability]({{< relref "interoperability.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:doctorowAdversarialInteroperabilityRevivingElegantWeaponMoreCivilizedAgeSlayToday2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

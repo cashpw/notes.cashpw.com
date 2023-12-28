@@ -26,7 +26,6 @@ A [Zero-sum game]({{< relref "zero_sum_game.md" >}}) view of international relat
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Power Politics.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Power_politics&oldid=1096371889">https://en.wikipedia.org/w/index.php?title=Power_politics&#38;oldid=1096371889</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

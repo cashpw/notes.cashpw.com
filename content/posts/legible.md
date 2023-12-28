@@ -45,7 +45,6 @@ Legibility is a [Leaky abstraction]({{< relref "leaky_abstraction.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewSeeingState2017</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

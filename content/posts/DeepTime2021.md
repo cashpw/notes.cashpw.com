@@ -28,7 +28,6 @@ slug = "607e152b-fce5-4e83-a88e-58c0f1f5571d"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Deep Time.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Deep_time&oldid=1059381667">https://en.wikipedia.org/w/index.php?title=Deep_time&#38;oldid=1059381667</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

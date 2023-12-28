@@ -24,7 +24,6 @@ slug = "d553899d-ac5d-4ecf-bf57-9eabb3407b6e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Streetlight Effect.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Streetlight_effect&oldid=1108333350">https://en.wikipedia.org/w/index.php?title=Streetlight_effect&#38;oldid=1108333350</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

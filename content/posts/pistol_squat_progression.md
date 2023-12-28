@@ -52,7 +52,6 @@ slug = "a99628b8-d0a3-4951-8234-ba96fd820950"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kizirian, Antranik. 2023. “Pistol Squat Progression.” Reddit Comment. <i>R/Bodyweightfitness</i>. <a href="www.reddit.com/r/bodyweightfitness/comments/11nqx5k/so_i_wanna_get_a_pistol_squat/jbovx7b/">www.reddit.com/r/bodyweightfitness/comments/11nqx5k/so_i_wanna_get_a_pistol_squat/jbovx7b/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

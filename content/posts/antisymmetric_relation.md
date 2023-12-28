@@ -28,7 +28,6 @@ slug = "875bfbf2-61ad-4f0a-9833-245dc5adc561"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Antisymmetric Relation.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Antisymmetric_relation&oldid=1065605400">https://en.wikipedia.org/w/index.php?title=Antisymmetric_relation&#38;oldid=1065605400</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

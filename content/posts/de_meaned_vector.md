@@ -24,7 +24,6 @@ Note that \\(\mathbf{C}\\) is the [Centering matrix]({{< relref "centering_matri
   <div class="csl-entry">NO_ITEM_DATA:boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

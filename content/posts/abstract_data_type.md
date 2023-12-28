@@ -22,7 +22,6 @@ slug = "2eae74ba-4003-45cf-8425-7291aaa7a537"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Abstract Data Type.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Abstract_data_type&oldid=1093187237">https://en.wikipedia.org/w/index.php?title=Abstract_data_type&#38;oldid=1093187237</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

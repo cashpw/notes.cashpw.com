@@ -22,7 +22,6 @@ slug = "5bc61709-6612-4287-921f-3e2509bd2261"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Graph Theory.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Graph_theory&oldid=1112717140">https://en.wikipedia.org/w/index.php?title=Graph_theory&#38;oldid=1112717140</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

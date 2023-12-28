@@ -110,7 +110,6 @@ Wash the flour method is a way to make [Seitan]({{< relref "seitan.md" >}}) from
   <div class="csl-entry">NO_ITEM_DATA:leWashedFlourSeitanMethod2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

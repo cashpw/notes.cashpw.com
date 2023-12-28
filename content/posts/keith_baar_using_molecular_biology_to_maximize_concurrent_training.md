@@ -65,7 +65,6 @@ I've integrated this into my [Exercise program]({{< relref "exercise_program.md"
   <div class="csl-entry">NO_ITEM_DATA:baarUsingMolecularBiologyMaximizeConcurrentTraining2014</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

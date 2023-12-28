@@ -29,7 +29,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2022</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2022. “Ability to See Expertise Is a Milestone Worth Aiming For.” <i>Commoncog</i>. <a href="https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/">https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

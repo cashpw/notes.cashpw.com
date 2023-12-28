@@ -29,7 +29,6 @@ TODO_AUTHOR, (NO_ITEM_DATA:ericssonCambridgeHandbookExpertiseExpertPerformance20
   <div class="csl-entry">NO_ITEM_DATA:ericssonCambridgeHandbookExpertiseExpertPerformance2018</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

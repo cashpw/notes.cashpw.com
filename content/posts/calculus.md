@@ -24,7 +24,6 @@ slug = "9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Calculus.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Calculus&oldid=1134005550">https://en.wikipedia.org/w/index.php?title=Calculus&#38;oldid=1134005550</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

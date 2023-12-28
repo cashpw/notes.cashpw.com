@@ -30,7 +30,6 @@ slug = "36417ccc-d8cc-4116-baef-89dfb6b1924a"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Shuhari.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Shuhari&oldid=1142477091">https://en.wikipedia.org/w/index.php?title=Shuhari&#38;oldid=1142477091</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

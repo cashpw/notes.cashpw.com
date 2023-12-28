@@ -49,7 +49,6 @@ slug = "b852fb7f-66e6-4bbf-ba60-548f55e8df5b"
   <div class="csl-entry">NO_ITEM_DATA:branwenLawsTechCommoditizeYourComplement2018</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

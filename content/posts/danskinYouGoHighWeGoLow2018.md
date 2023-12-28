@@ -64,7 +64,6 @@ Going low is a manifestation of [playing to win]({{< relref "play_to_win.md" >}}
   <div class="csl-entry">NO_ITEM_DATA:danskinYouGoHighWeGoLow2018</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

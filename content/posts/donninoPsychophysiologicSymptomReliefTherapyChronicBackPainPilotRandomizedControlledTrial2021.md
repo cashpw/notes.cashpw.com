@@ -64,7 +64,6 @@ slug = "38bba771-d7e5-467f-80bb-ebd79faf793c"
   <div class="csl-entry">NO_ITEM_DATA:donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlled2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

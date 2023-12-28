@@ -36,7 +36,6 @@ Related: [Moloch]({{< relref "moloch.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Liu, Cixin. 2015. <i>Dark Forest</i>. London: Head of Zeus. <a href="https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=1531969">https://search.ebscohost.com/login.aspx?direct=true&#38;scope=site&#38;db=nlebk&#38;db=nlabk&#38;AN=1531969</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

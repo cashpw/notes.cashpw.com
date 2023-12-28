@@ -19,7 +19,6 @@ A [Matrix]({{< relref "matrix.md" >}}) \\(A\\) for which there is a \\(B\\) such
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

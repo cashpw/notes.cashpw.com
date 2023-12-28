@@ -22,7 +22,6 @@ slug = "a2e19c5c-0969-49ae-a0c2-740fc61279c3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Yes, and..” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Yes,_and...&oldid=1106480522">https://en.wikipedia.org/w/index.php?title=Yes,_and.&#38;oldid=1106480522</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

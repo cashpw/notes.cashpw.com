@@ -23,7 +23,6 @@ See (<a href="#citeproc_bib_item_1">Klein 2015</a>) and (<a href="#citeproc_bib_
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Street, Farnam. 2013. “Gary Klein’s Triple Path Model of Insight.” <i>Farnam Street</i>. <a href="https://fs.blog/the-remarkable-ways-we-gain-insights/">https://fs.blog/the-remarkable-ways-we-gain-insights/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

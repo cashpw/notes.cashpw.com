@@ -22,7 +22,6 @@ slug = "e67fa9ff-5bb3-47cd-8559-0c3a25300f0d"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Geometry.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Geometry&oldid=1118718791">https://en.wikipedia.org/w/index.php?title=Geometry&#38;oldid=1118718791</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

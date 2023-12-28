@@ -22,7 +22,6 @@ slug = "e549e41e-1a12-41a9-8547-540eefac6d81"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heat Death of the Universe.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Heat_death_of_the_universe&oldid=1140367140">https://en.wikipedia.org/w/index.php?title=Heat_death_of_the_universe&#38;oldid=1140367140</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

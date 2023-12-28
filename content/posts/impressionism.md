@@ -22,7 +22,6 @@ slug = "b99808a9-ef9a-45fe-b39f-a69141d1bfab"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Impressionism.” 2023. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Impressionism&oldid=1167265016">https://en.wikipedia.org/w/index.php?title=Impressionism&#38;oldid=1167265016</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

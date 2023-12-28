@@ -41,7 +41,6 @@ People can change lower-order desires (e.g. "I want to eat junk food" to "I don'
   <div class="csl-entry">NO_ITEM_DATA:grahamWhatYouWantWant</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

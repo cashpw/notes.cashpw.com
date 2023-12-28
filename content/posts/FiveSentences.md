@@ -28,7 +28,6 @@ slug = "ef3d7a17-747d-485c-83b3-4404c1ab67e8"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Five Sentences.” n.d. Accessed February 15, 2022. <a href="http://five.sentenc.es/">http://five.sentenc.es/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

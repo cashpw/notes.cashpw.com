@@ -22,7 +22,6 @@ slug = "dcc436a0-983e-453a-b8db-99fb1576d190"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "f1a77c99-0bb1-4972-a462-7ac47735faa8"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cache Replacement Policies.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Cache_replacement_policies&oldid=1141486190">https://en.wikipedia.org/w/index.php?title=Cache_replacement_policies&#38;oldid=1141486190</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

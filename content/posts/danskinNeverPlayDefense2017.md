@@ -71,7 +71,6 @@ You can convince an audience that you're winning an argument, or at least plant 
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2017. “Never Play Defense.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/168011929487/the-next-video-in-my-series-on-alt-right">https://innuendostudios.tumblr.com/post/168011929487/the-next-video-in-my-series-on-alt-right</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

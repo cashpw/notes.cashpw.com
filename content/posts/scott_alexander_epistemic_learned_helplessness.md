@@ -58,7 +58,6 @@ Arguments in domains you're not familiar with can _sound_ convincing even if the
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Epistemic Learned Helplessness.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/">https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

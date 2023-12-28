@@ -22,7 +22,6 @@ slug = "bc7c3e81-4498-43dd-9f65-b2c0e0cbf521"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Symmetric Relation.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Symmetric_relation&oldid=1111499384">https://en.wikipedia.org/w/index.php?title=Symmetric_relation&#38;oldid=1111499384</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

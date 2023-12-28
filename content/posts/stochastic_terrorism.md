@@ -24,7 +24,6 @@ See [Will no one rid me of this turbulent priest?]({{< relref "will_no_one_rid_m
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lone Wolf Attack.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Lone_wolf_attack&oldid=1106074000">https://en.wikipedia.org/w/index.php?title=Lone_wolf_attack&#38;oldid=1106074000</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

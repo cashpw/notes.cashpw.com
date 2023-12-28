@@ -24,7 +24,6 @@ Also see [Lower order questions]({{< relref "lower_order_questions.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Higher-Order Questions.” n.d. <i>Teachingenglish</i>. Accessed December 21, 2022. <a href="https://www.teachingenglish.org.uk/article/higher-order-questions">https://www.teachingenglish.org.uk/article/higher-order-questions</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

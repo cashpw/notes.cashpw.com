@@ -24,7 +24,6 @@ See also [Consistent heuristic]({{< relref "consistent_heuristic.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Admissible Heuristic.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&oldid=1109959567">https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&#38;oldid=1109959567</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

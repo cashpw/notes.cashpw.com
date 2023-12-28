@@ -22,7 +22,6 @@ slug = "f80c2ae6-6786-4eae-93aa-57feebf02c39"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Spin (Propaganda).” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Spin_(propaganda)&oldid=1087371370">https://en.wikipedia.org/w/index.php?title=Spin_(propaganda)&#38;oldid=1087371370</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Interval (Mathematics).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Interval_(mathematics)&oldid=1128544570">https://en.wikipedia.org/w/index.php?title=Interval_(mathematics)&#38;oldid=1128544570</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

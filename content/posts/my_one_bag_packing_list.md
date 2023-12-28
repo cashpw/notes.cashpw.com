@@ -159,7 +159,6 @@ See [Semantic versioning]({{< relref "semantic_versioning.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:transportationsecurityadministrationWhat311LiquidsRule</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

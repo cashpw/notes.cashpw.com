@@ -38,7 +38,6 @@ Worst-case: \\(\bigo{b^d}\\) where \\(b\\) is the branching factor (e.g. 2 for [
   <div class="csl-entry">NO_ITEM_DATA:IterativeDeepeningDepthfirstSearch2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

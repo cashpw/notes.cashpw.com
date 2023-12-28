@@ -22,7 +22,6 @@ slug = "e1661be1-5f0f-481c-9899-d5cb476096e5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Best-First Search.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Best-first_search&oldid=1074258180">https://en.wikipedia.org/w/index.php?title=Best-first_search&#38;oldid=1074258180</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

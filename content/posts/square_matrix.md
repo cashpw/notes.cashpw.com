@@ -22,7 +22,6 @@ slug = "09208dbb-8043-4ef2-ac56-be944afb1dfa"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Square Matrix.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Square_matrix&oldid=1058664666">https://en.wikipedia.org/w/index.php?title=Square_matrix&#38;oldid=1058664666</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

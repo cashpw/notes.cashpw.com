@@ -249,7 +249,6 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -19,7 +19,6 @@ Ems are copies of human minds which exist on computers in [Robin Hanson | The Ag
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -58,7 +58,6 @@ procedure MergeSort(list) is
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Merge Sort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Merge_sort&oldid=1095865966">https://en.wikipedia.org/w/index.php?title=Merge_sort&#38;oldid=1095865966</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -21,7 +21,6 @@ See [Ian Danskin | I Hate Mondays]({{< relref "danskinHateMondays2020.md" >}}) a
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

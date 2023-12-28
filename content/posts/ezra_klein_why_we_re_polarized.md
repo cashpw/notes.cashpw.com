@@ -29,7 +29,6 @@ slug = "4d5b6861-3b27-444a-a79d-e990b67d534e"
   <div class="csl-entry">NO_ITEM_DATA:kleinWhyWeRePolarized2020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

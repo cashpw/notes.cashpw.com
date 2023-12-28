@@ -35,7 +35,6 @@ One of my [Favorites]({{< relref "favorites.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:dickinsonTellAllTruthTellItSlant2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

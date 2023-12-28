@@ -29,7 +29,6 @@ slug = "c4b17938-7653-4ff6-8c54-5b76904b1a5f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2020. “On Cultures That Build.” <i>The Scholar’s Stage</i>. <a href="https://scholars-stage.org/on-cultures-that-build/">https://scholars-stage.org/on-cultures-that-build/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

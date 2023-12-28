@@ -24,7 +24,6 @@ Hover text: Don't forget the time you spend finding the chart to look up what yo
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Munroe, Randall. n.d. “Is It Worth the Time?” <i>Xkcd</i>. Accessed October 27, 2023. <a href="https://xkcd.com/1205/">https://xkcd.com/1205/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

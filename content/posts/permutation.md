@@ -30,7 +30,6 @@ Also see: [Combination]({{< relref "combination.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Permutation.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Permutation&oldid=1125465268">https://en.wikipedia.org/w/index.php?title=Permutation&#38;oldid=1125465268</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -29,7 +29,6 @@ Note that serial commas are not a fix-all for ambigious sentences. They may, in 
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Serial Comma.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Serial_comma&oldid=1067846637">https://en.wikipedia.org/w/index.php?title=Serial_comma&#38;oldid=1067846637</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

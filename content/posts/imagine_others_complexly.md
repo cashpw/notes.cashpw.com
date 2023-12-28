@@ -28,7 +28,6 @@ It's easy to see yourself complexly. It's more difficult, but also more importan
   <div class="csl-entry">NO_ITEM_DATA:greenSpeechWroteALANConference2015</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

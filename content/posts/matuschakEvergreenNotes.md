@@ -44,7 +44,6 @@ slug = "eb5965f1-211b-45cb-9f56-b8e85c48bb6d"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes.” <i>Andy’s Working Notes</i>. Accessed February 22, 2022. <a href="https://notes.andymatuschak.org/Evergreen_notes">https://notes.andymatuschak.org/Evergreen_notes</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

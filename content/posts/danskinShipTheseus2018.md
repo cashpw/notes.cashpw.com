@@ -74,7 +74,6 @@ This is an entry in the [Alt-right Playbook]({{< relref "alt_right_playbook.md" 
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2018. “The Ship of Theseus.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/173479828992/the-newest-installment-of-the-alt-right-playbook">https://innuendostudios.tumblr.com/post/173479828992/the-newest-installment-of-the-alt-right-playbook</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

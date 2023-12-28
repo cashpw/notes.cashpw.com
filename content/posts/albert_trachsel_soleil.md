@@ -33,7 +33,6 @@ One of my [Favorites]({{< relref "favorites.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Trachsel, Albert. 1909. “Soleil.” <a href="https://www.jura.ch/AppHost/10121,1/Scripts/Modules/CJBA/Oeuvre.aspx?id=98&index=0&searchMode=Advanced&creationYear=1909">https://www.jura.ch/AppHost/10121,1/Scripts/Modules/CJBA/Oeuvre.aspx?id=98&#38;index=0&#38;searchMode=Advanced&#38;creationYear=1909</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

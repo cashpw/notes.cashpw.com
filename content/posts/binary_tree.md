@@ -46,7 +46,6 @@ Assuming a 0-indexed array: child nodes for a node at index \\(i\\) are at \\(\t
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Tree.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Binary_tree&oldid=1092722102">https://en.wikipedia.org/w/index.php?title=Binary_tree&#38;oldid=1092722102</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

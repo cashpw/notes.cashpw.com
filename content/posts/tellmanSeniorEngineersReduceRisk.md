@@ -43,7 +43,6 @@ slug = "e7753777-506e-490e-b79e-59dede5dce2e"
   <div class="csl-entry">NO_ITEM_DATA:tellmanSeniorEngineersReduceRisk</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

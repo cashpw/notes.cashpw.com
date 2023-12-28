@@ -30,7 +30,6 @@ The fallacy of gray is an assertion, in the face of a lack of a clear black and 
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Yudkowsky, Eliezer. n.d. “The Fallacy of Gray.” Accessed February 17, 2022. <a href="https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray">https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

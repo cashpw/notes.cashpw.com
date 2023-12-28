@@ -24,7 +24,6 @@ slug = "4c8c9bb9-7cba-4a9e-89dc-4d0095438126"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Org-Mode.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Org-mode&oldid=1113320008">https://en.wikipedia.org/w/index.php?title=Org-mode&#38;oldid=1113320008</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

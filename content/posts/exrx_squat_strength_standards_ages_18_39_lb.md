@@ -48,7 +48,6 @@ Numbers are in pounds.
   <div class="csl-entry">NO_ITEM_DATA:exrxSquatStrengthStandardsAges1839Lb</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

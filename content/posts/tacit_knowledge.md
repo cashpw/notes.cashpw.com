@@ -24,7 +24,6 @@ slug = "d636dfa7-428d-457c-8db6-15fa61e03bef"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tacit Knowledge.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&oldid=1066406863">https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&#38;oldid=1066406863</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "90dcfc79-6808-48ab-8193-2b040295574c"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Basis (Linear Algebra).” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Basis_(linear_algebra)&oldid=1108991299">https://en.wikipedia.org/w/index.php?title=Basis_(linear_algebra)&#38;oldid=1108991299</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -25,7 +25,6 @@ I use `org-roam` for:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Org-Roam.” 2022. Org-roam. <a href="https://github.com/org-roam/org-roam">https://github.com/org-roam/org-roam</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

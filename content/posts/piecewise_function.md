@@ -22,7 +22,6 @@ slug = "d1a8dddc-9e5c-4e4f-ac74-a2079025130c"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Piecewise.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Piecewise&oldid=1125037876">https://en.wikipedia.org/w/index.php?title=Piecewise&#38;oldid=1125037876</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

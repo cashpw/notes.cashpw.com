@@ -34,7 +34,6 @@ Differentiation is [linear]({{< relref "linearity.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Differentiation Rules.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Differentiation_rules&oldid=1129937443">https://en.wikipedia.org/w/index.php?title=Differentiation_rules&#38;oldid=1129937443</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -52,7 +52,6 @@ The way we understand the world ([Mental models]({{< relref "mental_model.md" >}
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Klein, Gary, Jennifer Phillips, Erica Rall, and Deborah Peluso. n.d. “A Data-Frame Theory of Sensemaking.” Accessed September 11, 2023. <a href="https://www.researchgate.net/publication/303171216_A_data-frame_theory_of_sensemaking">https://www.researchgate.net/publication/303171216_A_data-frame_theory_of_sensemaking</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

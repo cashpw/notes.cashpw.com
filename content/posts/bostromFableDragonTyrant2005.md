@@ -142,7 +142,6 @@ slug = "2a13c6a7-c74c-408b-b30e-69a18c9ad9ab"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Bostrom, N. 2005. “The Fable of the Dragon Tyrant.” <i>Journal of Medical Ethics</i> 31 (5): 273–77. <a href="https://doi.org/10.1136/jme.2004.009035">https://doi.org/10.1136/jme.2004.009035</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

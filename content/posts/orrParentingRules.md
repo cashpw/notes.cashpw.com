@@ -60,7 +60,6 @@ See [Guidelines for parenting]({{< relref "guidelines_for_parenting.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Orr, Dave. n.d. “Parenting Rules.” Accessed March 14, 2022. <a href="https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules">https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

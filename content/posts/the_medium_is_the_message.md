@@ -31,7 +31,6 @@ A message must "fit" its medium. That is, a message must conform to the rules of
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“The Medium Is the Message.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=The_medium_is_the_message&oldid=1105745393">https://en.wikipedia.org/w/index.php?title=The_medium_is_the_message&#38;oldid=1105745393</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

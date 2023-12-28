@@ -219,7 +219,6 @@ The cognitive demands table is a reader-friendly presentation of the data you've
   <div class="csl-entry">NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

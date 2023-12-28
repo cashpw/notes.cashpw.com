@@ -32,7 +32,6 @@ slug = "85cfa8c4-9c7b-47d9-a593-8548385027f7"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pedagogy.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Pedagogy&oldid=1094565911">https://en.wikipedia.org/w/index.php?title=Pedagogy&#38;oldid=1094565911</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

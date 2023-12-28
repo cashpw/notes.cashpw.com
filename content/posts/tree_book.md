@@ -28,7 +28,6 @@ Related: [Narrative book]({{< relref "narrative_book.md" >}}), [Branch book]({{<
   <div class="csl-entry">NO_ITEM_DATA:chinThreeKindsNonfictionBooks2018</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

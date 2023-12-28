@@ -24,7 +24,6 @@ slug = "efd422ba-2509-48c9-b267-265f3c369462"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Associative Array.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Associative_array&oldid=1086435023">https://en.wikipedia.org/w/index.php?title=Associative_array&#38;oldid=1086435023</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

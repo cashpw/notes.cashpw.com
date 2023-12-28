@@ -51,7 +51,6 @@ Based on the algorithm in (<a href="#citeproc_bib_item_1">“Breadth-First Searc
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Breadth-First Search.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Breadth-first_search&oldid=1091199031">https://en.wikipedia.org/w/index.php?title=Breadth-first_search&#38;oldid=1091199031</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

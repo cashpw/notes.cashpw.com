@@ -24,7 +24,6 @@ unstable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')])
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

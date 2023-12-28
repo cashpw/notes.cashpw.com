@@ -22,7 +22,6 @@ slug = "e157ee7b-f36c-4ff8-bcb3-643163925c20"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Game Theory.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Game_theory&oldid=1112450770">https://en.wikipedia.org/w/index.php?title=Game_theory&#38;oldid=1112450770</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

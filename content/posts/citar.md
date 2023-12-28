@@ -22,7 +22,6 @@ slug = "5fc743f6-f55a-4e98-985e-2e6cab8ec8c1"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Citar.” 2022. emacs-citar. <a href="https://github.com/emacs-citar/citar">https://github.com/emacs-citar/citar</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

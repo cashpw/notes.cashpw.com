@@ -97,7 +97,6 @@ Related: [Differential calculus]({{< relref "differential_calculus.md" >}})
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Derivative.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Derivative&oldid=1115036985">https://en.wikipedia.org/w/index.php?title=Derivative&#38;oldid=1115036985</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

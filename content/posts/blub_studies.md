@@ -27,7 +27,6 @@ Related:
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. n.d. “In Defense of Blub Studies.” <i>Benkuhn.Net</i>. Accessed March 12, 2022. <a href="https://www.benkuhn.net/blub/">https://www.benkuhn.net/blub/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -28,7 +28,6 @@ slug = "8e881515-f969-480f-b101-ea9e3476d723"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Antonio Gramsci.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Antonio_Gramsci&oldid=1123033076">https://en.wikipedia.org/w/index.php?title=Antonio_Gramsci&#38;oldid=1123033076</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -31,7 +31,6 @@ slug = "258a5932-07d8-4d5c-8442-ef08e3f8d45d"
   <div class="csl-entry">NO_ITEM_DATA:WhatGammaInvestingHowItUsed</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

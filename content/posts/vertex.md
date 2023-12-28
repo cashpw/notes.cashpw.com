@@ -22,7 +22,6 @@ slug = "1b2526af-676d-4c0f-aa85-1ba05b8e7a93"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Vertex (Graph Theory).” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Vertex_(graph_theory)&oldid=1074286774">https://en.wikipedia.org/w/index.php?title=Vertex_(graph_theory)&#38;oldid=1074286774</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

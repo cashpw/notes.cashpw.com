@@ -22,7 +22,6 @@ slug = "40d2da04-01ce-49e3-9f51-781c04d5bf8d"
   <div class="csl-entry">NO_ITEM_DATA:lloydAnswerWhatSmartPointerWhenShouldUseOne2008</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

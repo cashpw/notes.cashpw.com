@@ -30,7 +30,6 @@ slug = "80c7fef7-aa9e-439f-a02f-be3edb85d8f5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Leibniz’s Notation.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Leibniz%27s_notation&oldid=1127913620">https://en.wikipedia.org/w/index.php?title=Leibniz%27s_notation&#38;oldid=1127913620</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

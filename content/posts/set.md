@@ -22,7 +22,6 @@ slug = "9790bcbd-1414-4044-a4ff-3e9326c39e8f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Set (Mathematics).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Set_(mathematics)&oldid=1129493353#Subsets">https://en.wikipedia.org/w/index.php?title=Set_(mathematics)&#38;oldid=1129493353#Subsets</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

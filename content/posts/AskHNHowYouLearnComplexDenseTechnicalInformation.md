@@ -59,7 +59,6 @@ This raises an important point in the use of [Spaced Repetition System]({{< relr
   <div class="csl-entry">NO_ITEM_DATA:AskHNHowYouLearnComplexDenseTechnicalInformation</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

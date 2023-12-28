@@ -43,7 +43,6 @@ Let's say you're trying to improve two recipes: (1) a slow-cook lasagna which ta
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Luu, Dan. n.d. “Some Reasons to Work on Productivity and Velocity.” Accessed October 27, 2023. <a href="https://danluu.com/productivity-velocity/">https://danluu.com/productivity-velocity/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

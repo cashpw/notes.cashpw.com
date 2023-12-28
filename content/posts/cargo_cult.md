@@ -31,7 +31,6 @@ Also see [Reverse cargo cult]({{< relref "reverse_cargo_cult.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:howeTrumpReverseCargoCult2017</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -55,7 +55,6 @@ Related: [Proximate cause]({{< relref "proximate_cause.md" >}}) and [Ultimate ca
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hanson, Robin. n.d. “Politics Isn’t About Policy.” Accessed January 9, 2023. <a href="https://www.overcomingbias.com/2008/09/politics-isnt-a.html">https://www.overcomingbias.com/2008/09/politics-isnt-a.html</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

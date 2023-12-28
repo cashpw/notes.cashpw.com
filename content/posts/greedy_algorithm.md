@@ -22,7 +22,6 @@ slug = "8b9abae7-27f1-40b0-8334-d54f86c71542"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Greedy Algorithm.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Greedy_algorithm&oldid=1094435998">https://en.wikipedia.org/w/index.php?title=Greedy_algorithm&#38;oldid=1094435998</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

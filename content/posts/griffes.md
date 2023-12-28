@@ -41,7 +41,6 @@ I also notice that the author [includes (sometimes long) relevant quotes from li
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Griffes, Milan. n.d. “(A).” <i>Flight from Perfection $\cdot$</i>. Accessed September 17, 2020. <a href="https://www.flightfromperfection.com/(a).html">https://www.flightfromperfection.com/(a).html</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

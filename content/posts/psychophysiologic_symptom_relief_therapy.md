@@ -55,7 +55,6 @@ A treatment program designed for patients with non-specific chronic back pain wh
   <div class="csl-entry">NO_ITEM_DATA:donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlled2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

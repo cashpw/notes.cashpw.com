@@ -52,7 +52,6 @@ Broadly, controlling the conversation is about making people talk about what you
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2017. “Control the Conversation.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/166293739407/the-first-proper-video-in-my-ongoing-series-on-the">https://innuendostudios.tumblr.com/post/166293739407/the-first-proper-video-in-my-ongoing-series-on-the</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

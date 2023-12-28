@@ -79,7 +79,6 @@ To service my employers!<br />
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“The Contract Drafting Em.” n.d. Accessed March 14, 2022. <a href="https://secularsolstice.github.io/Contract_Drafting_Em/gen/">https://secularsolstice.github.io/Contract_Drafting_Em/gen/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

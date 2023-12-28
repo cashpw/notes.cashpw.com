@@ -55,7 +55,6 @@ The trick is using a [Hash map]({{< relref "hash_table.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>LeetCode. n.d. “Two Sum.” <i>Leetcode</i>. Accessed February 8, 2023. <a href="https://leetcode.com/problems/two-sum/description">https://leetcode.com/problems/two-sum/description</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

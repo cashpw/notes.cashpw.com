@@ -24,7 +24,6 @@ slug = "b08bf4f7-76cd-41e9-973f-83d2a60de9aa"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Grit (Personality Trait).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Grit_(personality_trait)&oldid=1102551074">https://en.wikipedia.org/w/index.php?title=Grit_(personality_trait)&#38;oldid=1102551074</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

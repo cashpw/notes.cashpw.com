@@ -33,7 +33,6 @@ slug = "53938c1e-d71b-436a-bbc5-f3c220c677ea"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Zerner, Adam. n.d. “Writing to Think.” Accessed February 8, 2022. <a href="https://www.lesswrong.com/posts/SKQmvZMTY6zQf3Ktc/writing-to-think">https://www.lesswrong.com/posts/SKQmvZMTY6zQf3Ktc/writing-to-think</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

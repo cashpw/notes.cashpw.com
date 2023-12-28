@@ -22,7 +22,6 @@ slug = "d8ff4c8c-4032-473b-9060-8bd7903784c8"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “The Card Says Moops.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as">https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

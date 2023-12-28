@@ -28,7 +28,6 @@ slug = "a5084eae-a2c4-4b9a-b827-6ae594960035"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Chord (Geometry).” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Chord_(geometry)&oldid=1135674923">https://en.wikipedia.org/w/index.php?title=Chord_(geometry)&#38;oldid=1135674923</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

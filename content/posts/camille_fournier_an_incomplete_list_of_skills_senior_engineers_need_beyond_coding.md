@@ -55,7 +55,6 @@ slug = "9f7ed9dc-46f1-4f12-a87e-cd03005c06dd"
   <div class="csl-entry">NO_ITEM_DATA:fournierIncompleteListSkillsSeniorEngineersNeedCoding2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

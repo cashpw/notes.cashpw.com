@@ -35,7 +35,6 @@ A [Branch book]({{< relref "branch_book.md" >}}) discussing [Purposeful practice
   <div class="csl-entry">NO_ITEM_DATA:chinBookSummaryPeakNewScienceExpertise2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

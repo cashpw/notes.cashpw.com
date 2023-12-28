@@ -51,7 +51,6 @@ Same as the single-source solution, but stop when you've found the target node.
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Dijkstra’s Algorithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&oldid=1127202995">https://en.wikipedia.org/w/index.php?title=Dijkstra%27s_algorithm&#38;oldid=1127202995</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

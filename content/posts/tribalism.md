@@ -40,7 +40,6 @@ slug = "4cb7f185-7fc0-47aa-8a6a-9454de9a999c"
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Tribalism.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Tribalism&oldid=1107945141">https://en.wikipedia.org/w/index.php?title=Tribalism&#38;oldid=1107945141</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

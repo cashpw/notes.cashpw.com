@@ -42,7 +42,6 @@ Plaster is useful in [Ceramics]({{< relref "ceramics.md" >}}) for drying overly-
   <div class="csl-entry">NO_ITEM_DATA:lesleyHowMakeDampBoxClay2019</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

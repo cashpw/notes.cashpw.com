@@ -22,7 +22,6 @@ slug = "2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Succinct Data Structure.” 2021. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Succinct_data_structure&oldid=1007270369">https://en.wikipedia.org/w/index.php?title=Succinct_data_structure&#38;oldid=1007270369</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

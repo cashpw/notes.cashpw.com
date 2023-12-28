@@ -55,7 +55,6 @@ slug = "146ab42b-21a9-4d5a-85fe-2eba12347ca5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “The Three Kinds of Tacit Knowledge.” <i>Commoncog</i>. <a href="https://commoncog.com/three-kinds-of-tacit-knowledge/">https://commoncog.com/three-kinds-of-tacit-knowledge/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

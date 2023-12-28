@@ -29,7 +29,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Ricon n.d.</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ricon, Jose Luis. n.d. “Notes on The Case Against Education.” <i>Nintil</i>. Accessed January 11, 2023. <a href="https://nintil.com/notes-on-the-case-against-education/">https://nintil.com/notes-on-the-case-against-education/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

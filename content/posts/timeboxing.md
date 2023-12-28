@@ -24,7 +24,6 @@ Related: [Contiguous time blocks]({{< relref "kileBusyPersonPatterns2006.md#cont
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Timeboxing.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Timeboxing&oldid=1116186020">https://en.wikipedia.org/w/index.php?title=Timeboxing&#38;oldid=1116186020</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

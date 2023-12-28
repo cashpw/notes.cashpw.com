@@ -53,7 +53,6 @@ slug = "1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Subset Sum Problem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Subset_sum_problem&oldid=1136150450">https://en.wikipedia.org/w/index.php?title=Subset_sum_problem&#38;oldid=1136150450</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

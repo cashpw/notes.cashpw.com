@@ -48,7 +48,6 @@ See [Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysi
   <div class="csl-entry">NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

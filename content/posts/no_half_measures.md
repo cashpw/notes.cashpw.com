@@ -34,7 +34,6 @@ Related [Nate Soares | Half-Assing It with Everything You've Got]({{< relref "na
   <div class="csl-entry">NO_ITEM_DATA:switchelsweetsMyAPArtClass</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

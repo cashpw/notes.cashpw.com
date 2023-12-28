@@ -22,7 +22,6 @@ slug = "d449ac76-f230-4922-ab7c-3b65c90a4ea9"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Benjamin Bloom.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Benjamin_Bloom&oldid=1115091893">https://en.wikipedia.org/w/index.php?title=Benjamin_Bloom&#38;oldid=1115091893</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -40,7 +40,6 @@ slug = "780bd825-4c89-4eb6-ba02-de09fefc4694"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prisoner’s Dilemma.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Prisoner%27s_dilemma&oldid=1076394820">https://en.wikipedia.org/w/index.php?title=Prisoner%27s_dilemma&#38;oldid=1076394820</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

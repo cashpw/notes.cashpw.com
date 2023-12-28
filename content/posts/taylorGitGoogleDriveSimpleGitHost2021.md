@@ -51,7 +51,6 @@ Laura Taylor, (NO_ITEM_DATA:taylorGitGoogleDriveSimpleGitHost2021)
   <div class="csl-entry">NO_ITEM_DATA:taylorGitGoogleDriveSimpleGitHost2021</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

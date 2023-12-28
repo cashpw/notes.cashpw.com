@@ -22,7 +22,6 @@ slug = "d2444c40-8496-482e-a1fd-10d0351f531e"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Moore, Alan, and Dave Gibbons. 2005. <i>Watchmen</i>. New York: DC Comics.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

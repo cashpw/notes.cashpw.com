@@ -22,7 +22,6 @@ slug = "deb3b467-3bb1-4000-9665-3a7347909ad6"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Incentive.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Incentive&oldid=1122117735">https://en.wikipedia.org/w/index.php?title=Incentive&#38;oldid=1122117735</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

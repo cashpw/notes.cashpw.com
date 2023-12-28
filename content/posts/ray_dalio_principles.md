@@ -29,7 +29,6 @@ slug = "c605b581-d3f9-4eed-a296-f7d72b580db3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Dalio, Ray. 2017. <i>Principles</i>. New York: Simon &#38; Schuster.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

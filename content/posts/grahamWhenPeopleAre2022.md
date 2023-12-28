@@ -24,7 +24,6 @@ Related: [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}).
   <div class="csl-entry">NO_ITEM_DATA:grahamWhenPeopleAreNaturallyGoodSomethingTheyTendBePuzzled2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

@@ -22,7 +22,6 @@ slug = "6eb6bfde-37f3-4555-bbe2-1bd639b518ec"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Bloom’s 2 Sigma Problem.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Bloom%27s_2_sigma_problem&oldid=1126729534">https://en.wikipedia.org/w/index.php?title=Bloom%27s_2_sigma_problem&#38;oldid=1126729534</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

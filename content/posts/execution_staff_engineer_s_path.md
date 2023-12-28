@@ -22,7 +22,6 @@ slug = "66f9b635-a07d-43c0-963b-46878ded5183"
   <div class="csl-entry">NO_ITEM_DATA:reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

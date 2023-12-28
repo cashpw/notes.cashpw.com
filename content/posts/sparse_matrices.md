@@ -22,7 +22,6 @@ slug = "2c005434-56e2-430d-a4b9-8ad05d052f49"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sparse Matrix.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Sparse_matrix&oldid=1091166610">https://en.wikipedia.org/w/index.php?title=Sparse_matrix&#38;oldid=1091166610</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

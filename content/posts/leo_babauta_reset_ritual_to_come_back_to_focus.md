@@ -38,7 +38,6 @@ slug = "b785c042-ed23-44c0-b25a-91294ed9b8d0"
   <div class="csl-entry">NO_ITEM_DATA:babautaResetRitualComeBackFocus2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

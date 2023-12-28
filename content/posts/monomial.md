@@ -25,7 +25,6 @@ slug = "cbd532d2-7ec0-4710-ba42-54212961b1c3"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Monomial.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Monomial&oldid=1127097293">https://en.wikipedia.org/w/index.php?title=Monomial&#38;oldid=1127097293</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

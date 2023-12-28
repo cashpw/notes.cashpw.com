@@ -24,7 +24,6 @@ Describes a condition in which a certain framing is correct in that acting as if
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “The Card Says Moops.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as">https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

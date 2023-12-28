@@ -96,7 +96,6 @@ I agree with Klein's conclusion that the overall solution is one which reforms, 
   <div class="csl-entry">NO_ITEM_DATA:kleinWhyWeCanBuild2020</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

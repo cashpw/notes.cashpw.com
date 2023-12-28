@@ -276,7 +276,6 @@ See [Joseph Patrick Henrich | The Secret of Our Success]({{< relref "joseph_patr
   <div class="csl-entry">NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

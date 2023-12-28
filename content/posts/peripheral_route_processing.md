@@ -24,7 +24,6 @@ A way of processing an argument by looking at secondary characteristics. Usually
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Elaboration Likelihood Model.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&oldid=1091358254">https://en.wikipedia.org/w/index.php?title=Elaboration_likelihood_model&#38;oldid=1091358254</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

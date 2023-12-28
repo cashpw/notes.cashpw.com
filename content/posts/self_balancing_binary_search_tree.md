@@ -28,7 +28,6 @@ slug = "b3fc99fa-5b7e-4e45-83c2-6d283aecca9a"
   <div class="csl-entry">NO_ITEM_DATA:SelfbalancingBinarySearchTree2022</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

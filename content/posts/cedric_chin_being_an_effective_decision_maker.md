@@ -29,7 +29,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2018</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “Being an Effective Decision Maker.” <i>Commoncog</i>. <a href="https://commoncog.com/being-an-effective-decision-maker/">https://commoncog.com/being-an-effective-decision-maker/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

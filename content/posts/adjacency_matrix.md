@@ -24,7 +24,6 @@ Also see [Adjacency list]({{< relref "adjacency_list.md" >}}).
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Adjacency Matrix.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Adjacency_matrix&oldid=1091931889">https://en.wikipedia.org/w/index.php?title=Adjacency_matrix&#38;oldid=1091931889</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

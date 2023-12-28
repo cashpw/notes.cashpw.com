@@ -22,7 +22,6 @@ slug = "7a78f2f9-4a22-43aa-86a7-11dceb13e96a"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Biscuit (Pottery).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Biscuit_(pottery)&oldid=1104101079">https://en.wikipedia.org/w/index.php?title=Biscuit_(pottery)&#38;oldid=1104101079</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

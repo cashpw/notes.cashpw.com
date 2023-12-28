@@ -24,7 +24,6 @@ slug = "9abc3978-c42a-42ad-a309-9f50c3698c0f"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“P (Complexity).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=P_(complexity)&oldid=1113888801">https://en.wikipedia.org/w/index.php?title=P_(complexity)&#38;oldid=1113888801</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

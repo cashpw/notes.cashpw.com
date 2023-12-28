@@ -40,7 +40,6 @@ Informally, a surplus which gives one wiggle room. It's usually in the context o
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Zvi. n.d. “Slack.” Accessed November 23, 2022. <a href="https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack">https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

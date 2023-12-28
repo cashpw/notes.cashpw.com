@@ -28,7 +28,6 @@ slug = "3a203296-7538-4986-a360-0db64356c9f5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindset.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Mindset&oldid=1114760560#Fixed_and_growth_mindset">https://en.wikipedia.org/w/index.php?title=Mindset&#38;oldid=1114760560#Fixed_and_growth_mindset</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

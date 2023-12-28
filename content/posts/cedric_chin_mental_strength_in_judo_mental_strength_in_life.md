@@ -29,7 +29,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Chin 2023</a>)
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2023. “Mental Strength in Judo, Mental Strength in Life.” <i>Commoncog</i>. <a href="https://commoncog.com/mental-strength-judo-life/">https://commoncog.com/mental-strength-judo-life/</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

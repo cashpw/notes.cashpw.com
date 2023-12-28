@@ -114,7 +114,6 @@ print(heapsort([4,2,5,19,1], lambda x,y: 1 if x < y else -1))
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

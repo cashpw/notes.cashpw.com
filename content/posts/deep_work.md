@@ -17,7 +17,6 @@ The ability, proposed by [Cal Newport]({{< relref "cal_newport.md" >}}), to conc
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

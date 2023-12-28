@@ -47,7 +47,6 @@ I haven't done so yet, but I could see creating ad-hoc entries as well:
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

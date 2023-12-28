@@ -24,7 +24,6 @@ slug = "57d94e2b-f842-483e-bcdb-c4d8e91a6ab5"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Transitive Relation.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Transitive_relation&oldid=1094090871">https://en.wikipedia.org/w/index.php?title=Transitive_relation&#38;oldid=1094090871</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

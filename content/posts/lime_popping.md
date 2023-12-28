@@ -22,7 +22,6 @@ slug = "fdb8621b-64af-4d22-a7e6-e83c0a2dd2fa"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lime Popping.” n.d. Accessed December 15, 2022. <a href="https://digitalfire.com/glossary/lime+popping">https://digitalfire.com/glossary/lime+popping</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}

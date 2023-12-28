@@ -33,7 +33,6 @@ slug = "4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97"
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heap (Data Structure).” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Heap_(data_structure)&oldid=1088468512">https://en.wikipedia.org/w/index.php?title=Heap_(data_structure)&#38;oldid=1088468512</a>.</div>
 </div>
 
-foo1
 
 
 ## Backlinks {#backlinks}
