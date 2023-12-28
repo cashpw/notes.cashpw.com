@@ -7,20 +7,14 @@ title = "Cash Prokop-Weaver"
 googleAnalytics = "UA-69408538-1"
 
 [[menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
-weight = 20
-
-[[menu.main]]
 identifier = "search"
-name = "Search"
+name = "🔎"
 url = "/search/"
 weight = 20
 
 [[menu.main]]
 identifier = "archives"
-name = "Archives"
+name = "🗃️"
 url = "/archives/"
 weight = 20
 
@@ -34,7 +28,7 @@ EnableInstantClick = false
 ShowCodeCopyButtons = true
 ShowReadingTime = true
 ShowToc = true
-TocOpen = true
+TocOpen = false
 TocSide = "left"
 author = "Cash Prokop-Weaver"
 defaultTheme = "dark"
