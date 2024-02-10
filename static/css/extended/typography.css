@@ -2,11 +2,6 @@
 
 .dark,
 :root {
-  --link-color: #f96316;
-  --link-hover-color: #f97316;
-  --link-underline-shadow: 0 1px 0 var(--link-color);
-  --link-hover-underline-color: #f97316;
-  --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
 }
 
 .main .post-header a,

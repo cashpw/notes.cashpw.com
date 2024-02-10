@@ -8,13 +8,13 @@ googleAnalytics = "UA-69408538-1"
 
 [[menu.main]]
 identifier = "search"
-name = "🔎"
+name = "Search"
 url = "/search/"
 weight = 20
 
 [[menu.main]]
 identifier = "archives"
-name = "🗃️"
+name = "Archives"
 url = "/archives/"
 weight = 20
 
