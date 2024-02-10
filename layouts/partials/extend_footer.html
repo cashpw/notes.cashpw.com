@@ -5,16 +5,25 @@
 <script>
   // Source: https://github.com/adityatelange/hugo-PaperMod/discussions/943
   // START hamburger menu
-  let b = document.querySelector("#menu-trigger")
-  let m = document.querySelector(".menu")
-  b.addEventListener("click", function () {
-    m.classList.toggle("hidden")
+  const menuTrigger = document.querySelector("#menu-trigger")
+  const menu = document.querySelector(".menu")
+  menuTrigger.addEventListener("click", function () {
+    menu.classList.toggle("hidden")
   });
   // hide menu when clicked outside
   document.body.addEventListener('click', function (event) {
-    if (!b.contains(event.target)) {
-      m.classList.add("hidden")
+    if (!menuTrigger.contains(event.target)) {
+      menu.classList.add("hidden")
     }
   });
   // END hamburger menu
+
+  const mobileWidthCutoffInPixels = 768;
+  if (window.screen.width > mobileWidthCutoffInPixels) {
+    document.querySelectorAll('.toc').forEach(toc => {
+      toc.querySelectorAll(':scope > details').forEach(details => {
+        details.setAttribute('open', '');
+      });
+    });
+  }
 </script>
