@@ -38,8 +38,6 @@
                     {{- /* strip id="" to leave xyz, no way to get regex capturing groups in hugo */ -}}
                     {{- $cleanedID := replace (replace $id "id=\"" "") "\"" "" }}
                     {{- $header := replaceRE "<h[1-6].*?>((.|\n])+?)</h[1-6]>" "$1" $header -}}
-                    {{- if eq $header "Flashcards" -}}
-                    {{- end -}}
 
                     {{- if ne $i 0 -}}
                     {{- $prevHeaderLevel := index (findRE "[1-6]" (index $headers (sub $i 1)) 1) 0 -}}
@@ -72,11 +70,11 @@
                 {{- end -}}
                 {{- end -}}
                 {{- end }}
-                <li class="menu-link-{{- $cleanedID -}}">
-                    <a href="#{{- $cleanedID -}}" aria-label="{{- $header | plainify -}}">{{- $header | safeHTML -}}</a>
+                <li>
+                    <a href="#{{- $cleanedID -}}" aria-label="{{- $header | plainify -}}">{{- $header | plainify | safeHTML -}}</a>
                     {{- else }}
                 <li>
-                    <a href="#{{- $cleanedID -}}" aria-label="{{- $header | plainify -}}">{{- $header | safeHTML -}}</a>
+                    <a href="#{{- $cleanedID -}}" aria-label="{{- $header | plainify -}}">{{- $header | plainify | safeHTML -}}</a>
                     {{- end -}}
                     {{- end -}}
                     <!-- {{- $firstHeaderLevel := len (seq (index (findRE "[1-6]" (index $headers 0) 1) 0)) -}} -->
