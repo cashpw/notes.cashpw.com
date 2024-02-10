@@ -4,6 +4,7 @@ const Selector = {
   YIELD_HEADER: '#yield-heading',
   SERVINGS_CELL: '#servings-cell',
   YIELD_CELL: '#yield-cell',
+  RECIPE_META: '.recipe-meta',
 };
 
 function createCheckboxListItem(label, id) {
@@ -20,8 +21,8 @@ function maybeAddScaleInput() {
     return;
   }
 
-  var ingredientsHeader = document.querySelector("#ingredients");
-  if (!ingredientsHeader) {
+  var recipeMeta = document.querySelector(Selector.RECIPE_META);
+  if (!recipeMeta) {
     return;
   }
 
@@ -31,7 +32,7 @@ function maybeAddScaleInput() {
   const custonScaler = '<input id="scaler" class="scaler" type="number" min="0" placeholder="custom" onchange="scale(this.value)"/>';
   const scalers = twoTimesScaler + fourTimesScaler + eightTimesScaler + custonScaler
 
-  ingredientsHeader.insertAdjacentHTML('beforebegin', '<div id="scalers">Scale by ' + scalers + '</div>');
+  recipeMeta.insertAdjacentHTML('afterend', '<div class="recipe-scaler" id="scalers">Scale by ' + scalers + '</div>');
 }
 
 function scale(factor) {
@@ -70,7 +71,9 @@ function scaleServings(factor) {
     return;
   }
   const [_, numServings, extra] = servings_cell.textContent.match(/^([0-9]+)(.*)/);
-  servings_cell.innerHTML = `${numServings * factor}${extra}`;
+  // Double-up on parseFloat to remove trialing zeros decimals (.e.g parseFloat("2.00") -> "2")
+  const scaledServings = parseFloat(parseFloat(numServings * factor).toFixed(2));
+  servings_cell.innerHTML = `${scaledServings}${extra}`;
 }
 
 /** Set yield text based on scaling FACTOR. */
