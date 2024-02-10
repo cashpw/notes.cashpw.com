@@ -30,13 +30,14 @@
       {{- range .Pages }}
       <div class="archive-entry">
         <h3 class="archive-entry-title">
-          {{- .Title | markdownify }}
-          {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+          <a aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}">
+            {{- .Title | markdownify }}
+            {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+          </a>
         </h3>
         <div class="archive-meta">
-          {{- partial "post_meta_archives.html" . -}}
+          {{- partial "post_meta.html" . -}}
         </div>
-        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
       </div>
       {{- end }}
     </div>
