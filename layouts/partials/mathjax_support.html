@@ -18,7 +18,18 @@
       }
     };
   </script>
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script type="text/javascript" id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script async id="polyfill-script" src="https://polyfill.io/v3/polyfill.min.js?features=es6" onload="polyfillScriptLoaded=true;"></script>
+  <script>
+    function loadMathjaxAsync() {
+      var script = document.createElement('script');
+      script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+      script.async = true;
+      document.head.appendChild(script);
+    }
+    if (window.polyfillScriptLoaded) {
+      loadMathjaxAsync();
+    } else {
+      document.querySelector('#polyfill-script').addEventListener('load', loadMathjaxAsync);
+    }
+  </script>
 {{ end }}
