@@ -1,26 +1,26 @@
 {{- $scratch := newScratch }}
 
-{{- if or (.Params.yield) (.Params.servings) (.Params.total_time) (.Params.prep_time) (.Params.cook_time) -}}
+{{- if or (.Params.recipe_yield) (.Params.recipe_servings) (.Params.recipe_total_time) (.Params.recipe_prep_time) (.Params.recipe_cook_time) -}}
 <dl class="recipe-meta toc">
-  {{- if (.Params.servings) -}}
+  {{- if (.Params.recipe_servings) -}}
     <dt id="servings-heading">Servings</dt>
-    <dd id="servings-cell">{{ .Params.servings }}</dd>
+    <dd id="servings-cell">{{ .Params.recipe_servings }}</dd>
   {{- end -}}
-  {{- if (.Params.yield) -}}
+  {{- if (.Params.recipe_yield) -}}
     <dt id="yield-heading">Yield</dt>
-    <dd id="yield-cell">{{ .Params.yield }}</dd>
+    <dd id="yield-cell">{{ .Params.recipe_yield }}</dd>
   {{- end -}}
-  {{- if (.Params.total_time) -}}
+  {{- if (.Params.recipe_total_time) -}}
     <dt>Total time</dt>
-    <dd>{{ .Params.total_time }}</dd>
+    <dd>{{ .Params.recipe_total_time }}</dd>
   {{- end -}}
-  {{- if (.Params.prep_time) -}}
+  {{- if (.Params.recipe_prep_time) -}}
     <dt>Prep time</dt>
-    <dd>{{ .Params.prep_time }}</dd>
+    <dd>{{ .Params.recipe_prep_time }}</dd>
   {{- end -}}
-  {{- if (.Params.cook_time) -}}
+  {{- if (.Params.recipe_cook_time) -}}
     <dt>Cook time</dt>
-    <dd>{{ .Params.cook_time }}</dd>
+    <dd>{{ .Params.recipe_cook_time }}</dd>
   {{- end -}}
 </dl>
 {{- end }}
