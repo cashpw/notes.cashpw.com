@@ -126,7 +126,6 @@ Node types Type Tag Description Example Concept concept A single idea/concept/te
 <h3 id="every-node-must-include-backlinks">Every node must include backlinks</h3>
 <p>Backlinks are the backbone of a powerful <a href="/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710/">zettelkasten</a> system. The published form of these notes <strong>must</strong> include backlinks.</p>
 <h2 id="bibliography">Bibliography</h2>
-<h2 id="references">References</h2>
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Porter, Adam. 2022. “Org-Protocol-Capture-Html.” <a href="https://github.com/alphapapa/org-protocol-capture-html">https://github.com/alphapapa/org-protocol-capture-html</a>.</div>
@@ -141,7 +140,7 @@ Node types Type Tag Description Example Concept concept A single idea/concept/te
 ]]></content:encoded></item><item><title>README</title><link>http://notes.cashpw.com/posts/eb245ca9-b067-40f3-b220-0dff690e4058/</link><pubDate>Mon, 27 Dec 2021 20:32:00 -0800</pubDate><guid>http://notes.cashpw.com/posts/eb245ca9-b067-40f3-b220-0dff690e4058/</guid><description>These are my personal notes.
 The key component of my notes are the links and backlinks which connect them. These sorts of interconnected notes are a type of Personal knowledge management system. They&amp;rsquo;re sometimes called Zettelkasten, a second brain, or a digital garden. The works of others heavily inspire these notes.
 Related to the Metagame of taking notes:
-How I write notes Why I write notes Bibliography References</description><content:encoded><![CDATA[<p>These are my personal notes.</p>
+How I write notes Why I write notes Bibliography</description><content:encoded><![CDATA[<p>These are my personal notes.</p>
 <p>The key component of my notes are the <a href="/posts/6037800d-34c3-4d62-a33b-3931d694f083/">links and backlinks which connect them</a>. These sorts of interconnected notes are a type of <a href="/posts/773406e0-fe95-41f4-a254-b2c6ade18ce9/">Personal knowledge management</a> system. They&rsquo;re sometimes called <a href="/posts/b130e6f2-31a1-4c3a-ae8b-7d8208a69710/">Zettelkasten</a>, a second brain, or a digital garden. The <a href="/posts/32438fd5-c050-46a9-9611-97d571512f3e/">works of others</a> heavily inspire these notes.</p>
 <p>Related to the <a href="/posts/462b9154-2519-45e9-a4f5-35e7c32128c7/">Metagame</a> of taking notes:</p>
 <ul>
@@ -149,7 +148,6 @@ How I write notes Why I write notes Bibliography References</description><conten
 <li><a href="/posts/7add4362-8a4e-4148-ac25-185213327b33/">Why I write notes</a></li>
 </ul>
 <h2 id="bibliography">Bibliography</h2>
-<h2 id="references">References</h2>
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 ]]></content:encoded></item></channel></rss>
