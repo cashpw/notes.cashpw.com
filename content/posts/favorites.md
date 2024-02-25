@@ -2,7 +2,7 @@
 title = "Favorites"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T13:56:00-08:00
-lastmod = 2023-12-23T11:56:46-08:00
+lastmod = 2024-02-24T14:19:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ Some of my favorite things.
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}
@@ -40,7 +37,7 @@ Some of my favorite things.
 -   [Kanehito Yamada | Frieren: Beyond Journey's End]({{< relref "kanehito_yamada_frieren_beyond_journey_s_end.md" >}})
 -   [Metagame]({{< relref "the_metagame.md" >}})
 -   [Play to win]({{< relref "play_to_win.md" >}})
--   [Smart Guy Productivity Pitfalls]({{< relref "smart_guy_productivity_pitfalls.md" >}})
+-   [Smart guy productivity pitfalls]({{< relref "smart_guy_productivity_pitfalls.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
 -   [The first lesson]({{< relref "the_first_lesson.md" >}})
 -   [Tsutomu Nihei, Melissa Tanaka | Blame!]({{< relref "tsutomu_nihei_melissa_tanaka_blame.md" >}})

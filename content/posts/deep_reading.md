@@ -2,7 +2,7 @@
 title = "Deep-dive reading"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T08:26:00-07:00
-lastmod = 2023-12-23T11:24:42-08:00
+lastmod = 2024-02-24T13:50:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,11 +21,8 @@ Deep-dive reading is my term for reading more than one source either on a partic
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

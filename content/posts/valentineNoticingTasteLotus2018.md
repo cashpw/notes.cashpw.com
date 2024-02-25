@@ -2,7 +2,7 @@
 title = "Notice the taste of lotus"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:33:00-08:00
-lastmod = 2023-12-23T20:37:26-08:00
+lastmod = 2024-02-24T18:37:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -33,12 +33,9 @@ Related: [Be conscious of your defaults]({{< relref "be_concious_of_your_default
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Valentine. 2018. “Noticing the Taste of Lotus.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus">https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

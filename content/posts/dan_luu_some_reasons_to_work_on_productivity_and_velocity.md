@@ -2,7 +2,7 @@
 title = "Dan Luu | Some Reasons to Work on Productivity and Velocity"
 author = ["Cash Weaver"]
 date = 2023-10-26T20:08:00-07:00
-lastmod = 2023-12-23T11:14:16-08:00
+lastmod = 2024-02-24T13:50:07-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -96,8 +96,6 @@ Also see [Randall Munroe | Is It Worth the Time?]({{< relref "randall_munroe_is_
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Luu, Dan. n.d. “Some Reasons to Work on Productivity and Velocity.” Accessed October 27, 2023. <a href="https://danluu.com/productivity-velocity/">https://danluu.com/productivity-velocity/</a>.</div>

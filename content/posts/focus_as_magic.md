@@ -2,14 +2,17 @@
 title = "Focus as magic"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-14T15:23:00-07:00
-lastmod = 2023-12-23T12:02:17-08:00
+lastmod = 2024-02-24T14:19:42-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
 slug = "f17a9096-2a81-4652-9e56-d5fe76abcbc0"
 +++
 
-I like the idea that focus, concentration, attention, quiet, darkness, stillness, is a requirement for magic.
+I like the idea that focus, concentration, attention, quiet, darkness, stillness, is a requirement for magic; or that they _are_ magic themselves. Humanity has cast light into all the formerly dark places, physical and not, and thereby purged the magic held there.
+
+
+## In [Eiko Kadono | Kiki's Delivery Service]({{< relref "eiko_kadono_kiki_s_delivery_service.md" >}}) {#in-eiko-kadono-kiki-s-delivery-service--eiko-kadono-kiki-s-delivery-service-dot-md}
 
 > At age ten, Kiki had decided to become a witch and learn Kokiri's magic right away. Kokiri had two magic abilities. The first was growing herbs to make sneeze medicine, and the second was flying through the sky on a broom.
 >
@@ -25,10 +28,25 @@ I like the idea that focus, concentration, attention, quiet, darkness, stillness
 >
 > (<a href="#citeproc_bib_item_1">Kadono, Onoda, and Balistrieri 2020</a>)
 
+<!--quoteend-->
+
+> "Now then, here's your lunch." Kokiri patted Kiki's shoulder and set a little bundle down next to her. "I used herbs so it won't go bad as fast. Don't eat it all in one place. I remember my mom did a great job making my coming-of-age lunch. She cast some spell on the herbs in the bread that kept it from going bad or even stale. It's a shame we don't know how to do that anymore."
+>
+> "That seems like the sort of thing that would be easy to pass on, though," Okino chimed in, coming in from his study with a book in his hand. "I wonder why it disappeared. Maybe that's just the nature of magic?"
+>
+> "It's strange that I'm a witch and even I don't know. Some say it's because there's no such thing as a completely dark night or perfect silence anymore—if there's a light on or if there's even a tiny noise, we get distracted and can't get our magic to work."
+>
+> "Certainly compared to ancient times, it's gotten a lot brighter," Okino said. "Nowadays there's always a light on somewhere."
+>
+> "Yes, the world sure has changed." Kokiri nodded, [...]
+>
+> (<a href="#citeproc_bib_item_1">Kadono, Onoda, and Balistrieri 2020</a>)
+
+
+## [Become Quiet So You Can Listen](https://zenhabits.net/quietude/) {#become-quiet-so-you-can-listen}
+
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kadono, Eiko, Yuta Onoda, and Emily Balistrieri. 2020. <i>Kiki’s Delivery Service</i>. First edition. New York: Delacorte Press.</div>

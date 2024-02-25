@@ -2,7 +2,7 @@
 title = "Alt-right Playbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T16:33:00-07:00
-lastmod = 2023-12-23T10:35:17-08:00
+lastmod = 2024-02-24T11:42:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -21,11 +21,8 @@ While [Danskin]({{< relref "ian_danskin.md" >}}) hasn't formally proposed soluti
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

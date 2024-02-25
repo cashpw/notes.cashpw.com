@@ -2,7 +2,7 @@
 title = "Applied cognitive task analysis"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-08T15:18:00-07:00
-lastmod = 2023-12-23T10:37:09-08:00
+lastmod = 2024-02-24T11:43:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,11 @@ Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutt
 1.  Create a [Task diagram](#task-diagram)
     1.  Ask the subject matter expert to decompose the task in to steps, or subtasks, into 3-6[^fn:1] steps
 
-        "Think about what you do when you perform &lt;task of interest&gt;. Can you break this down into less than six, but more than three steps?" (NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021)
+        "Think about what you do when you perform &lt;task of interest&gt;. Can you break this down into less than six, but more than three steps?" (<a href="#citeproc_bib_item_1">Chin 2021</a>)
 
     2.  Ask the subject matter expert to identify the more complex or cognitively demanding steps
 
-        "Of the steps you have just identified, which require difficult cognitive skills? By cognitive skills I mean: judgments, assessments, and problem solving-thinking skills." (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+        "Of the steps you have just identified, which require difficult cognitive skills? By cognitive skills I mean: judgments, assessments, and problem solving-thinking skills." (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
     3.  Circle those steps; you'll be focusing on them during the next two techniques.
 
@@ -30,11 +30,11 @@ Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutt
 3.  Perform [Simulation interviews](#simulation-interview)
     1.  Present the subject matter expert with a challenging scenario ([Choosing good simulations](#choosing-good-simulations))
 
-        "As you experience this simulation, imagine you are the (job you are investigating) in the incident. Afterwards, I am going to ask you a series of questions about how you would think and act in this situation." (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+        "As you experience this simulation, imagine you are the (job you are investigating) in the incident. Afterwards, I am going to ask you a series of questions about how you would think and act in this situation." (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
-    2.  Ask them to "identify major events, including judgements and decisions" (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>) and [probe](#simulation-interview-probes) each event for "situation assessment, actions, critical cues, and potential errors surrounding that event" (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+    2.  Ask them to "identify major events, including judgements and decisions" (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>) and [probe](#simulation-interview-probes) each event for "situation assessment, actions, critical cues, and potential errors surrounding that event" (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
-    3.  Aggregate their answers into a simulation interview table. "Using the same simulation for interviews with multiple SMEs can provide insight into situations in which more than one action would be acceptable, and alternative assessments of the same situation are plausible." (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+    3.  Aggregate their answers into a simulation interview table. "Using the same simulation for interviews with multiple SMEs can provide insight into situations in which more than one action would be acceptable, and alternative assessments of the same situation are plausible." (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 4.  Construct a [Cognitive demands table](#cognitive-demands-table)
 
@@ -43,14 +43,14 @@ Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutt
 
 > The goal when creating a task diagram is to set up the knowledge audit and the simulation interview. You want a big-picture overview of the most cognitively demanding parts of the task, so that you may focus the majority of your time on those parts.
 >
-> (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+> (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 
 #### Example: Task diagram {#example-task-diagram}
 
 > {{< figure src="/ox-hugo/acta-figure-1.png" >}}
 >
-> (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+> (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 
 ### Knowledge audit {#knowledge-audit}
@@ -58,7 +58,7 @@ Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutt
 > The knowledge audit identifies ways in which expertise has been used in a domain, and surfaces examples based on the expert's real world experiences. The goal here is to capture the most important aspects of expertise.
 >
 > You start out with a list of basic probes. These probes are drawn from the knowledge categories that most commonly characterise expertise. After a handful of interviews, it should become clear to you which probes produce the most information for that specific subtask; you may then reduce the time you spend on less useful questions.
-> (NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021)
+> (<a href="#citeproc_bib_item_1">Chin 2021</a>)
 
 <!--quoteend-->
 
@@ -66,7 +66,7 @@ Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutt
 >
 > The list of probes is the starting point for conducting this interview. Then, the interviewer asks for specifics about the example in terms of critical cues and strategies of decision making. This is followed by a discussion of potential errors that a novice, less-experienced person might have made in this situation.
 >
-> (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+> (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 
 #### Knowledge audit probes {#knowledge-audit-probes}
@@ -119,7 +119,7 @@ Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutt
 >
 > [formatting mine]
 >
-> (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+> (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 
 #### Example: Knowledge audit table {#example-knowledge-audit-table}
@@ -132,7 +132,7 @@ Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutt
 >
 > [formatting mine]
 >
-> (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+> (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 
 ### Simulation interview {#simulation-interview}
@@ -145,7 +145,7 @@ Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutt
 >
 > Information elicited is recorded in the simulation interview table (table 2). Using the same simulation for interviews with multiple SMEs can provide insight into situations in which more than one action would be acceptable, and alternative assessments of the same situation are plausible. This technique can be used to highlight differing SME perspectives, which is important information for developing training and system design recommendations. The technique can also be used to contrast expert and novice perspectives by conducting interviews with people of differing levels of expertise using the same simulation.
 >
-> (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+> (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 
 #### Simulation interview probes {#simulation-interview-probes}
@@ -159,7 +159,7 @@ Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutt
 > -   What pieces of information led you to this situation assessment and these actions?
 > -   What errors would an inexperienced person be likely to make in this situation?
 >
-> (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+> (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 
 #### Example: Simulation interview table {#example-simulation-interview-table}
@@ -171,17 +171,17 @@ Applied cognitive task analysis, as outlined in [Laura Militello and Robert Hutt
 >
 > [formatting mine]
 >
-> (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+> (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 
 #### Choosing good simulations {#choosing-good-simulations}
 
 > Of the four techniques in ACTA, picking a good simulation seems like the trickiest part of the methodology.
 >
-> (NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021)
+> (<a href="#citeproc_bib_item_1">Chin 2021</a>)
 
--   Prefer scenarios which already exist; "Often, simulations and scenarios exist for training purposes. It may be necessary to adapt or modify the scenario to conform to practical constraints such as time limitations." (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
--   "[...] the fidelity of the simulation is not an important issue. The key is that the simulation presents a challenging scenario." (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+-   Prefer scenarios which already exist; "Often, simulations and scenarios exist for training purposes. It may be necessary to adapt or modify the scenario to conform to practical constraints such as time limitations." (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
+-   "[...] the fidelity of the simulation is not an important issue. The key is that the simulation presents a challenging scenario." (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 -   Be wary of [Wicked environments]({{< relref "wicked_environment.md" >}})
 
 
@@ -196,7 +196,7 @@ The cognitive demands table is a reader-friendly presentation of the data you've
 
 > The authors offer sample headings for the table based on analyses that they have conducted in the past (difficult cognitive element, why difficult, comm on errors, and cues and strategies used), but recommend that practitioners focus on the types of information that they will need to develop a new course or design a new system.
 >
-> (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+> (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 <!--quoteend-->
 
@@ -207,18 +207,15 @@ The cognitive demands table is a reader-friendly presentation of the data you've
 >
 > [formatting mine]
 >
-> (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+> (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Militello, Laura, and Robert Hutton. 1998. “Applied Cognitive Task Analysis (ACTA): A Practitioner’s Toolkit for Understanding Cognitive Task Demands.” <i>Ergonomics</i> 41 (December): 1618–41. <a href="https://doi.org/10.1080/001401398186108">https://doi.org/10.1080/001401398186108</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2021. “An Easier Method for Extracting Tacit Knowledge.” <i>Commoncog</i>. <a href="https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/">https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Militello, Laura, and Robert Hutton. 1998. “Applied Cognitive Task Analysis (ACTA): A Practitioner’s Toolkit for Understanding Cognitive Task Demands.” <i>Ergonomics</i> 41 (December): 1618–41. <a href="https://doi.org/10.1080/001401398186108">https://doi.org/10.1080/001401398186108</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
@@ -228,7 +225,8 @@ The cognitive demands table is a reader-friendly presentation of the data you've
 -   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cognitive task analysis]({{< relref "cognitive_tasks_analysis.md" >}})
 -   [Dan Luu | 95%-Ile Isn't That Good]({{< relref "dan_luu_95_ile_isn_t_that_good.md" >}})
--   [Get good]({{< relref "get_good.md" >}})
+-   [How to become an expert]({{< relref "how_to_become_an_expert.md" >}})
+-   [How to improve]({{< relref "how_to_improve.md" >}})
 -   [Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands]({{< relref "laura_militello_and_robert_hutton_applied_cognitive_task_analysis_acta_a_practitioner_s_toolkit_for_understanding_cognitive_task_demands.md" >}})
 
-[^fn:1]: "The interviewer limits the SME to between three and six steps, to ensure that time is not wasted delving into minute detail during the surface-level interview." (<a href="#citeproc_bib_item_1">Militello and Hutton 1998</a>)
+[^fn:1]: "The interviewer limits the SME to between three and six steps, to ensure that time is not wasted delving into minute detail during the surface-level interview." (<a href="#citeproc_bib_item_2">Militello and Hutton 1998</a>)

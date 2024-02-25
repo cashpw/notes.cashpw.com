@@ -2,19 +2,19 @@
 title = "Scott Alexander | Book Review: Seeing Like A State"
 author = ["Cash Weaver"]
 date = 2023-01-09T08:06:00-08:00
-lastmod = 2023-12-23T17:10:28-08:00
+lastmod = 2024-02-24T18:18:54-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "e1b0e31a-4039-4b09-8dbd-8c3587562cca"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (NO_ITEM_DATA:alexanderBookReviewSeeingState2017)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2017</a>)
 
 
 ## Summary {#summary}
 
-A book review and summary of the key points in (NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020).
+A book review and summary of the key points in (<a href="#citeproc_bib_item_2">Scott 2020</a>).
 
 
 ## Thoughts {#thoughts}
@@ -50,7 +50,7 @@ See [James C. Scott | Seeing like a State: How Certain Schemes to Improve the Hu
 
 ### II {#ii}
 
-Examples and quotes from (NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020) illustrating the difficulty of ruling/administering a population which lacks certain shared standards (e.g. weights, measures, definitions of what is "taxable land").
+Examples and quotes from (<a href="#citeproc_bib_item_2">Scott 2020</a>) illustrating the difficulty of ruling/administering a population which lacks certain shared standards (e.g. weights, measures, definitions of what is "taxable land").
 
 
 ### III {#iii}
@@ -172,13 +172,10 @@ In short, governing bodies continued (and continue) to push these solutions not 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewSeeingState2017</div>
-  <div class="csl-entry">NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2017. “Book Review: Seeing Like A State.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/">https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Scott, James C. 2020. <i>Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed</i>. Veritas paperback edition. New Haven: Yale University Press.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

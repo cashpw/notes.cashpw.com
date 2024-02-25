@@ -2,7 +2,7 @@
 title = "Time tracking in Emacs with org-mode"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-28T07:57:00-08:00
-lastmod = 2023-12-23T19:44:14-08:00
+lastmod = 2024-02-24T18:28:28-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -119,8 +119,6 @@ Instead, I use [`clocktable-by-category`](https://github.com/cashpw/clocktable-b
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Deadlines and Scheduling (The Org Manual).” n.d. Accessed November 28, 2023. <a href="https://orgmode.org/manual/Deadlines-and-Scheduling.html">https://orgmode.org/manual/Deadlines-and-Scheduling.html</a>.</div>

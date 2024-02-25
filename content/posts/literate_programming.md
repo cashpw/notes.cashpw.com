@@ -2,7 +2,7 @@
 title = "Literate programming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T14:41:00-07:00
-lastmod = 2023-12-23T14:09:04-08:00
+lastmod = 2024-02-24T17:52:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "5c82bd2b-141a-420f-8289-4fff9514b769"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Literate Programming.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Literate_programming&oldid=1122031796">https://en.wikipedia.org/w/index.php?title=Literate_programming&#38;oldid=1122031796</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

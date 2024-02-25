@@ -2,7 +2,7 @@
 title = "Place it in it's time and place"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T08:42:00-07:00
-lastmod = 2023-12-23T15:48:34-08:00
+lastmod = 2024-02-24T18:07:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,8 +13,6 @@ A reminder to contextualize a thing; based on [To begin your study of the life o
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

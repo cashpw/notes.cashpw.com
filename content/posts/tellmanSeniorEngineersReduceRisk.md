@@ -2,14 +2,14 @@
 title = "Zach Tellman | Senior Engineers Reduce Risk"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T19:25:00-08:00
-lastmod = 2023-12-23T18:59:43-08:00
+lastmod = 2024-02-24T18:24:51-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "e7753777-506e-490e-b79e-59dede5dce2e"
 +++
 
-[Zach Tellman]({{< relref "zach_tellman.md" >}}), (NO_ITEM_DATA:tellmanSeniorEngineersReduceRisk)
+[Zach Tellman]({{< relref "zach_tellman.md" >}}), (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)
 
 
 ## Notes {#notes}
@@ -37,16 +37,13 @@ slug = "e7753777-506e-490e-b79e-59dede5dce2e"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:tellmanSeniorEngineersReduceRisk</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Senior Engineers Reduce Risk.” Accessed February 19, 2022. <a href="https://ideolalia.com/essays/senior-engineers-reduce-risk.html">https://ideolalia.com/essays/senior-engineers-reduce-risk.html</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
 
 -   [Blogroll]({{< relref "blogroll.md" >}})
+-   [On lead/senior, and staff, engineering]({{< relref "skills_of_a_senior_software_engineer.md" >}})
 -   [Sabrina Leandro | So You're Staff+ ... Now What?]({{< relref "sabrina_leandro_so_you_re_staff_now_what.md" >}})
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})

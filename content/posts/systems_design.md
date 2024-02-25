@@ -2,7 +2,7 @@
 title = "Systems Design"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T21:20:00-07:00
-lastmod = 2023-12-23T18:39:32-08:00
+lastmod = 2024-02-24T18:23:31-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -24,8 +24,6 @@ My mind tends to move toward [graphs]({{< relref "graph_theory.md" >}}) when I t
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Systems Design.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Systems_design&oldid=1060468175">https://en.wikipedia.org/w/index.php?title=Systems_design&#38;oldid=1060468175</a>.</div>

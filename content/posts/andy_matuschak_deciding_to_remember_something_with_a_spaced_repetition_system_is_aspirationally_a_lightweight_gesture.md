@@ -2,14 +2,14 @@
 title = "Andy Matuschak | Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture"
 author = ["Cash Weaver"]
 date = 2023-08-04T18:11:00-07:00
-lastmod = 2023-12-23T10:35:46-08:00
+lastmod = 2024-02-24T11:42:42-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "369aafeb-965f-42c7-8b8a-c5963dcc647c"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (NO_ITEM_DATA:matuschakDecidingRememberSomethingSpacedRepetitionSystemAspirationallyLightweightGesture)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)
 
 
 ## Summary {#summary}
@@ -31,8 +31,6 @@ Using a [Spaced repetition system]({{< relref "spaced_repetition.md" >}}) to rem
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:matuschakDecidingRememberSomethingSpacedRepetitionSystemAspirationallyLightweightGesture</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture.” <i>Andy’s Working Notes</i>. Accessed August 5, 2023. <a href="https://notes.andymatuschak.org/z4ipbCkPaf5wwDkpgqUFgTg">https://notes.andymatuschak.org/z4ipbCkPaf5wwDkpgqUFgTg</a>.</div>
 </div>

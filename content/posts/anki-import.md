@@ -1,7 +1,7 @@
 +++
 title = "Anki Import"
 author = ["Cash Prokop-Weaver"]
-lastmod = 2023-12-23T10:36:21-08:00
+lastmod = 2024-02-24T11:43:18-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = true
@@ -62692,8 +62692,6 @@ yourself
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>ASL University. n.d. “Lesson 02.” Accessed December 21, 2023. <a href="https://www.lifeprint.com/asl101/lessons/lesson02.htm">https://www.lifeprint.com/asl101/lessons/lesson02.htm</a>.</div>

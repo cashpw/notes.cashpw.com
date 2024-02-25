@@ -2,7 +2,7 @@
 title = "Aaron Swartz | Theory of Change"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T12:06:00-08:00
-lastmod = 2023-12-23T18:33:22-08:00
+lastmod = 2024-02-24T18:23:06-08:00
 draft = false
 slug = "6d2276f9-4b72-46be-a4dc-9cdd41997122"
 +++
@@ -20,8 +20,6 @@ slug = "6d2276f9-4b72-46be-a4dc-9cdd41997122"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>

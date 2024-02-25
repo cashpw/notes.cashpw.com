@@ -2,14 +2,14 @@
 title = "Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain"
 author = ["Cash Weaver"]
 date = 2023-01-11T20:52:00-08:00
-lastmod = 2023-12-23T13:26:47-08:00
+lastmod = 2024-02-24T17:48:31-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "796ad559-ee93-4896-9101-a3395c7dd2d4"
 +++
 
-[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (NO_ITEM_DATA:riconThisReviewNotReviewingElephantBrain)
+[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (<a href="#citeproc_bib_item_1">Ricon n.d.</a>)
 
 
 ## Summary {#summary}
@@ -83,12 +83,9 @@ The book is [X isn't (only) about Y]({{< relref "x_isn_t_only_about_y.md" >}}) w
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:riconThisReviewNotReviewingElephantBrain</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ricon, Jose Luis. n.d. “This Review Is Not About Reviewing The Elephant in the Brain.” <i>Nintil</i>. Accessed January 12, 2023. <a href="https://nintil.com/this-review-is-not-about-reviewing-the-elephant-in-the-brain">https://nintil.com/this-review-is-not-about-reviewing-the-elephant-in-the-brain</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

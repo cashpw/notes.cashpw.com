@@ -2,7 +2,7 @@
 title = "Silvanus Thompson | Calculus Made Easy"
 author = ["Cash Weaver"]
 date = 2023-01-18T06:55:00-08:00
-lastmod = 2023-12-23T17:37:20-08:00
+lastmod = 2024-02-24T18:19:57-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -500,8 +500,6 @@ An introductory book on [Calculus]({{< relref "calculus.md" >}}) which focuses o
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Thompson, Silvanus. 1914. <i>Calculus Made Easy</i>.</div>

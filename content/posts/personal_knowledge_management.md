@@ -2,7 +2,7 @@
 title = "Personal knowledge management"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T07:20:00-08:00
-lastmod = 2023-12-23T15:45:48-08:00
+lastmod = 2024-02-24T18:06:59-08:00
 draft = false
 slug = "773406e0-fe95-41f4-a254-b2c6ade18ce9"
 +++
@@ -14,12 +14,9 @@ slug = "773406e0-fe95-41f4-a254-b2c6ade18ce9"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Personal Knowledge Management.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Personal_knowledge_management&oldid=1112158308">https://en.wikipedia.org/w/index.php?title=Personal_knowledge_management&#38;oldid=1112158308</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

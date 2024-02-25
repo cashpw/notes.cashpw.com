@@ -2,7 +2,7 @@
 title = "Randall Munroe | Is It Worth the Time?"
 author = ["Cash Weaver"]
 date = 2023-10-27T08:53:00-07:00
-lastmod = 2023-12-23T16:29:46-08:00
+lastmod = 2024-02-24T18:14:09-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -18,12 +18,9 @@ Hover text: Don't forget the time you spend finding the chart to look up what yo
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Munroe, Randall. n.d. “Is It Worth the Time?” <i>Xkcd</i>. Accessed October 27, 2023. <a href="https://xkcd.com/1205/">https://xkcd.com/1205/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

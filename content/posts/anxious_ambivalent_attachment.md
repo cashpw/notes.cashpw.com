@@ -2,7 +2,7 @@
 title = "Anxious-ambivalent attachment"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:44:00-07:00
-lastmod = 2023-12-23T10:37:00-08:00
+lastmod = 2024-02-24T11:43:40-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -17,8 +17,6 @@ An [attachment]({{< relref "attachment_theory.md" >}}) pattern in which the chil
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Attachment Theory.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Attachment_theory&oldid=1094457033">https://en.wikipedia.org/w/index.php?title=Attachment_theory&#38;oldid=1094457033</a>.</div>

@@ -2,7 +2,7 @@
 title = "Prisoner's dilemma"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T07:01:00-07:00
-lastmod = 2023-12-23T16:04:53-08:00
+lastmod = 2024-02-24T18:13:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,12 +34,9 @@ slug = "780bd825-4c89-4eb6-ba02-de09fefc4694"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Prisoner’s Dilemma.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Prisoner%27s_dilemma&oldid=1076394820">https://en.wikipedia.org/w/index.php?title=Prisoner%27s_dilemma&#38;oldid=1076394820</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

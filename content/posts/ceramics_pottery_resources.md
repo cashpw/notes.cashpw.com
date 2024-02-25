@@ -2,7 +2,7 @@
 title = "Ceramics Resources"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T20:16:00-08:00
-lastmod = 2023-12-23T10:56:46-08:00
+lastmod = 2024-02-24T11:52:11-08:00
 draft = false
 slug = "0b2473da-3953-457c-b68c-4abc7a235d17"
 +++
@@ -79,8 +79,6 @@ A collection of [Ceramics]({{< relref "ceramics.md" >}}) resources.
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Florian Gadsby. 2021. “Throwing and Trimming a Large Pottery Stoneware Bowl Narrated.” <a href="https://www.youtube.com/watch?v=EhtFD0SICic">https://www.youtube.com/watch?v=EhtFD0SICic</a>.</div>

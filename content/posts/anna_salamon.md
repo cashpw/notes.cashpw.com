@@ -2,7 +2,7 @@
 title = "Anna Salamon"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:49:00-08:00
-lastmod = 2023-12-23T10:36:25-08:00
+lastmod = 2024-02-24T11:43:20-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -17,11 +17,8 @@ Among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

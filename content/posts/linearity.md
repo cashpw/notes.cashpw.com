@@ -2,7 +2,7 @@
 title = "Linearity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:14:00-08:00
-lastmod = 2023-12-23T14:06:04-08:00
+lastmod = 2024-02-24T17:51:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,12 +21,9 @@ slug = "5180515a-c694-49fb-ac2e-9718fe501f38"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Linearity.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Linearity&oldid=1128635807">https://en.wikipedia.org/w/index.php?title=Linearity&#38;oldid=1128635807</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

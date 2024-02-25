@@ -2,7 +2,7 @@
 title = "Higher-order function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T09:39:00-08:00
-lastmod = 2023-12-23T12:39:49-08:00
+lastmod = 2024-02-24T14:22:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,8 +20,6 @@ slug = "c27e7511-da0f-4a63-91d5-902078d0add5"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Higher-Order Function.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Higher-order_function&oldid=1109248673">https://en.wikipedia.org/w/index.php?title=Higher-order_function&#38;oldid=1109248673</a>.</div>

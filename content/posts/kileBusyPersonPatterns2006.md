@@ -2,7 +2,7 @@
 title = "James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-25T18:07:00-07:00
-lastmod = 2023-12-23T13:41:15-08:00
+lastmod = 2024-02-24T17:49:40-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -30,6 +30,8 @@ This isn't the first time I've seen these concepts (e.g. [Deep work]({{< relref 
 
 
 #### Just start {#just-start}
+
+Also see [Just do it]({{< relref "just_do_it.md" >}}).
 
 > You have a task that cannot wait until you have all the information about it to begin. It may be time sensitive, you may have a deadline, or part of the task may be to identify its parts. Most important, you feel internal or external pressure to begin and have some level of confidence about the task's overall direction.
 >
@@ -497,15 +499,12 @@ Related: [Drop Unimportant Tasks](#drop-unimportant-tasks)
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kile, James F., Donald J. Little, and Samir Shah. 2006. “Busy Person Patterns.” In <i>Proceedings of the 2006 Conference on Pattern Languages of Programs - PLoP ’06</i>, 1. Portland, Oregon: ACM Press. <a href="https://doi.org/10.1145/1415472.1415478">https://doi.org/10.1145/1415472.1415478</a>.</div>
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [On lead/senior, and staff, engineering]({{< relref "skills_of_a_senior_software_engineer.md" >}})
 -   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})

@@ -2,7 +2,7 @@
 title = "Vegan cookbook"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-15T10:42:00-08:00
-lastmod = 2023-12-23T20:38:44-08:00
+lastmod = 2024-02-24T18:37:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Cedric Chin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:53:00-08:00
-lastmod = 2023-12-23T10:48:45-08:00
+lastmod = 2024-02-24T11:49:30-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -16,11 +16,8 @@ Among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}
@@ -39,7 +36,6 @@ Among other things:
 -   [Cedric Chin | The Business Expertise Series]({{< relref "cedric_chin_the_business_expertise_series.md" >}})
 -   [Cedric Chin | The Hard Thing About Learning From Experience]({{< relref "cedric_chin_the_hard_thing_about_learning_from_experience.md" >}})
 -   [Cedric Chin | The Hierarchy of Practical Evidence]({{< relref "cedric_chin_the_hierarchy_of_practical_evidence.md" >}})
--   [Cedric Chin | The Principles Sequence]({{< relref "cedric_chin_the_principles_sequence.md" >}})
 -   [Cedric Chin | The Problems with Deliberate Practice]({{< relref "cedric_chin_the_problems_with_deliberate_practice.md" >}})
 -   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | The Three Kinds of Non-Fiction Books]({{< relref "chinThreeKindsNonfiction2018.md" >}})

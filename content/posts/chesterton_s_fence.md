@@ -2,7 +2,7 @@
 title = "Chesterton's fence"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:11:00-08:00
-lastmod = 2023-12-23T10:57:54-08:00
+lastmod = 2024-02-24T11:52:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "975b8bf2-d4cb-4a1d-a976-0f6d0130dbc5"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Chesterton’s Fence.” 2018. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=Chesterton%27s_fence&oldid=49763111">https://en.wiktionary.org/w/index.php?title=Chesterton%27s_fence&#38;oldid=49763111</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

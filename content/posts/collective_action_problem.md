@@ -2,7 +2,7 @@
 title = "Collective action problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-04-02T09:50:00-07:00
-lastmod = 2023-12-23T11:03:20-08:00
+lastmod = 2024-02-24T11:55:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,8 +21,11 @@ Related:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Collective Action Problem.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Collective_action_problem&oldid=1137138543">https://en.wikipedia.org/w/index.php?title=Collective_action_problem&#38;oldid=1137138543</a>.</div>
 </div>
+
+
+## Backlinks {#backlinks}
+
+-   [Dreamtime]({{< relref "this_is_the_dreamtime.md" >}})

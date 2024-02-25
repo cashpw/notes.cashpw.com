@@ -2,7 +2,7 @@
 title = "Use serial commas"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:16:00-08:00
-lastmod = 2023-12-23T20:32:44-08:00
+lastmod = 2024-02-24T18:37:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,12 +23,9 @@ Note that serial commas are not a fix-all for ambigious sentences. They may, in 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Serial Comma.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Serial_comma&oldid=1067846637">https://en.wikipedia.org/w/index.php?title=Serial_comma&#38;oldid=1067846637</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

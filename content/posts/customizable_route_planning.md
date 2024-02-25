@@ -2,7 +2,7 @@
 title = "Customizable route planning"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-23T08:39:00-07:00
-lastmod = 2023-12-23T11:12:12-08:00
+lastmod = 2024-02-24T13:49:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -37,9 +37,9 @@ Customizable route planning is a shortest-path algorithm designed for use on roa
 >
 > [...]
 >
-> Our first improvement over HiTi (NO_ITEM_DATA:jungEfficientPathComputationModelHierarchicallyStructuredTopographicalRoadMaps2002) and similar algorithms is to use [Partitioning Using Natural Cut Heuristics] PUNCH (NO_ITEM_DATA:dellingGraphPartitioningNaturalCuts2011) to partition the graph. Recently developed to deal with road networks, it routinely finds solutions with half as many boundary edges (or fewer), compared to the general-purpose partitioners (such as METIS [20]) commonly used by previous algorithms.
+> Our first improvement over HiTi (<a href="#citeproc_bib_item_3">Jung and Pramanik 2002</a>) and similar algorithms is to use [Partitioning Using Natural Cut Heuristics] PUNCH (<a href="#citeproc_bib_item_2">Delling, Goldberg, Razenshteyn, et al. 2011</a>) to partition the graph. Recently developed to deal with road networks, it routinely finds solutions with half as many boundary edges (or fewer), compared to the general-purpose partitioners (such as METIS [20]) commonly used by previous algorithms.
 >
-> (<a href="#citeproc_bib_item_1">Delling et al. 2011</a>)
+> (<a href="#citeproc_bib_item_1">Delling, Goldberg, Pajor, et al. 2011</a>)
 
 An example, with \\(U=3\\):
 
@@ -50,7 +50,7 @@ An example, with \\(U=3\\):
 
 > The metric customization stage builds a graph \\(H\\) containing all boundary vertices (those with at least one neighbor in another cell) and boundary arcs of \\(G\\). It also contains a clique for each cell \\(C\\): for every pair \\((v, w)\\) of boundary vertices in \\(C\\), we create an arc \\((v, w)\\) whose cost is the same as the shortest path (restricted to \\(C\\)) between \\(v\\) and \\(w\\) (or infinite if \\(w\\) is not reachable from \\(v\\)). We do so by running Dijkstra [[Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})] from each boundary vertex. Note that \\(H\\) is an overlay [24]: the distance between any two vertices in \\(H\\) is the same as in \\(G\\).
 >
-> (<a href="#citeproc_bib_item_1">Delling et al. 2011</a>)
+> (<a href="#citeproc_bib_item_1">Delling, Goldberg, Pajor, et al. 2011</a>)
 
 Nodes in \\(H\\) are **bold** and clique edges are red.
 
@@ -63,14 +63,14 @@ Nodes in \\(H\\) are **bold** and clique edges are red.
 >
 > The first approach is edge reduction [24], which eliminates clique arcs that are not shortest paths. After computing all cliques, we run Dijkstra from each vertex \\(v\\) in \\(H\\), stopping as soon as all neighbors of \\(v\\) (in \\(H\\)) are scanned. Note that these searches are usually quick, since they only visit the overlay.
 >
-> (<a href="#citeproc_bib_item_1">Delling et al. 2011</a>)
+> (<a href="#citeproc_bib_item_1">Delling, Goldberg, Pajor, et al. 2011</a>)
 
 
 ### Query {#query}
 
 > [...] to perform a query between \\(s\\) and \\(t\\), we run a bidirectional version of Dijkstra's algorithm [[Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}})] on the graph consisting of the union of \\(H\\), \\(C\_s\\) , and \\(C\_t\\) . (Here \\(C\_v\\) denotes the subgraph of \\(G\\) induced by the vertices in the cell containing \\(v\\).)
 >
-> (<a href="#citeproc_bib_item_1">Delling et al. 2011</a>)
+> (<a href="#citeproc_bib_item_1">Delling, Goldberg, Pajor, et al. 2011</a>)
 
 
 #### Reduce query latency {#reduce-query-latency}
@@ -79,21 +79,18 @@ Nodes in \\(H\\) are **bold** and clique edges are red.
 
 -  Nested partitions
 
-    > To accelerate queries, we can use multiple levels of overlay graphs, a common technique for partition-based approaches, including HiTi (NO_ITEM_DATA:jungEfficientPathComputationModelHierarchicallyStructuredTopographicalRoadMaps2002). We need nested partitions of \\(G\\), in which every boundary edge at level \\(i\\) is also a boundary edge at level \\(i − 1\\), for \\(i > 1\\). The level-0 partition is the original graph, with each vertex as a cell. For the \\(i\text{-th}\\) level partition, we create a graph \\(H\_i\\) as before: it includes all boundary arcs, plus an overlay linking the boundary vertices within a cell. Note that \\(H\_i\\) can be computed using only \\(H\_{i−1}\\). We use PUNCH [ (NO_ITEM_DATA:dellingGraphPartitioningNaturalCuts2011) ] to create multilevel partitions, in top-down fashion. An \\(s \arrow t\\) query runs bidirectional Dijkstra on a restricted graph \\(G\_{st}\\). An arc \\((v, w)\\) from \\(H\_i\\) will be in \\(G\_{st}\\) if both \\(v\\) and \\(w\\) are in the same cell as \\(s\\) or \\(t\\) at level \\(i + 1\\). Goal-direction can still be used on the top level.
+    > To accelerate queries, we can use multiple levels of overlay graphs, a common technique for partition-based approaches, including HiTi (<a href="#citeproc_bib_item_3">Jung and Pramanik 2002</a>). We need nested partitions of \\(G\\), in which every boundary edge at level \\(i\\) is also a boundary edge at level \\(i − 1\\), for \\(i > 1\\). The level-0 partition is the original graph, with each vertex as a cell. For the \\(i\text{-th}\\) level partition, we create a graph \\(H\_i\\) as before: it includes all boundary arcs, plus an overlay linking the boundary vertices within a cell. Note that \\(H\_i\\) can be computed using only \\(H\_{i−1}\\). We use PUNCH [ (<a href="#citeproc_bib_item_2">Delling, Goldberg, Razenshteyn, et al. 2011</a>) ] to create multilevel partitions, in top-down fashion. An \\(s \arrow t\\) query runs bidirectional Dijkstra on a restricted graph \\(G\_{st}\\). An arc \\((v, w)\\) from \\(H\_i\\) will be in \\(G\_{st}\\) if both \\(v\\) and \\(w\\) are in the same cell as \\(s\\) or \\(t\\) at level \\(i + 1\\). Goal-direction can still be used on the top level.
     >
-    > (<a href="#citeproc_bib_item_1">Delling et al. 2011</a>)
+    > (<a href="#citeproc_bib_item_1">Delling, Goldberg, Pajor, et al. 2011</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Delling, Daniel, Andrew V. Goldberg, Thomas Pajor, and Renato F. Werneck. 2011. “Customizable Route Planning.” In <i>Experimental Algorithms</i>, edited by Panos M. Pardalos and Steffen Rebennack, 6630:376–87. Berlin, Heidelberg: Springer Berlin Heidelberg. <a href="https://doi.org/10.1007/978-3-642-20662-7_32">https://doi.org/10.1007/978-3-642-20662-7_32</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:jungEfficientPathComputationModelHierarchicallyStructuredTopographicalRoadMaps2002</div>
-  <div class="csl-entry">NO_ITEM_DATA:dellingGraphPartitioningNaturalCuts2011</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Delling, Daniel, Andrew V. Goldberg, Ilya Razenshteyn, and Renato F. Werneck. 2011. “Graph Partitioning with Natural Cuts.” In <i>2011 IEEE International Parallel &#38; Distributed Processing Symposium</i>, 1135–46. Anchorage, AK, USA: IEEE. <a href="https://doi.org/10.1109/IPDPS.2011.108">https://doi.org/10.1109/IPDPS.2011.108</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Jung, Sungwon, and S. Pramanik. 2002. “An Efficient Path Computation Model for Hierarchically Structured Topographical Road Maps.” <i>Ieee Transactions on Knowledge and Data Engineering</i> 14 (5): 1029–46. <a href="https://doi.org/10.1109/TKDE.2002.1033772">https://doi.org/10.1109/TKDE.2002.1033772</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

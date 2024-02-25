@@ -2,7 +2,7 @@
 title = "Conway's law"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-06T19:58:00-08:00
-lastmod = 2023-12-23T11:08:39-08:00
+lastmod = 2024-02-24T11:57:40-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -24,8 +24,6 @@ slug = "d46b30b9-7aca-4b2b-8d08-bd22bdb63394"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Conway’s Law.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Conway%27s_law&oldid=1122697251">https://en.wikipedia.org/w/index.php?title=Conway%27s_law&#38;oldid=1122697251</a>.</div>

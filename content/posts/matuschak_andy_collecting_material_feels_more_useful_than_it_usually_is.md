@@ -2,14 +2,14 @@
 title = "Andy Matuschak | Collecting Material Feels More Useful than It Usually Is"
 author = ["Cash Weaver"]
 date = 2023-08-04T17:26:00-07:00
-lastmod = 2023-12-23T14:28:14-08:00
+lastmod = 2024-02-24T17:54:14-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "1e2a38fa-57f7-4159-bbbd-7dab8a12f96e"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (NO_ITEM_DATA:matuschakCollectingMaterialFeelsMoreUsefulItUsually)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)
 
 
 ## Summary {#summary}
@@ -41,8 +41,6 @@ slug = "1e2a38fa-57f7-4159-bbbd-7dab8a12f96e"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:matuschakCollectingMaterialFeelsMoreUsefulItUsually</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Collecting Material Feels More Useful than It Usually Is.” <i>Andy’s Working Notes</i>. Accessed August 5, 2023. <a href="https://notes.andymatuschak.org/Collecting_material_feels_more_useful_than_it_usually_is">https://notes.andymatuschak.org/Collecting_material_feels_more_useful_than_it_usually_is</a>.</div>
 </div>

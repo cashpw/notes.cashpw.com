@@ -2,7 +2,7 @@
 title = "Exceed your Level"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:25:00-08:00
-lastmod = 2023-12-23T11:48:40-08:00
+lastmod = 2024-02-24T14:18:59-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -17,8 +17,6 @@ Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A Quote by Bruce Lee.” n.d. Accessed November 22, 2022. <a href="https://www.goodreads.com/quotes/698709-if-you-always-put-limits-on-what-you-can-do">https://www.goodreads.com/quotes/698709-if-you-always-put-limits-on-what-you-can-do</a>.</div>

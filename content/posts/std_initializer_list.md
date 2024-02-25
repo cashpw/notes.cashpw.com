@@ -2,7 +2,7 @@
 title = "std::initializer_list"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-18T09:18:00-07:00
-lastmod = 2023-12-23T18:18:49-08:00
+lastmod = 2024-02-24T18:22:07-08:00
 draft = false
 slug = "a707abfd-b17d-40d0-a1c2-1caa14e2de47"
 +++
@@ -28,11 +28,8 @@ class Vector {
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

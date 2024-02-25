@@ -2,7 +2,7 @@
 title = "Recognition-primed decision"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T19:44:00-07:00
-lastmod = 2023-12-23T16:40:00-08:00
+lastmod = 2024-02-24T18:17:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,13 +11,13 @@ slug = "4a42aa6f-413f-4144-86df-5c0f0b174777"
 
 > Recognition-primed decision (RPD) is a model of how people make quick, effective decisions when faced with complex situations.
 >
-> (<a href="#citeproc_bib_item_1">“Recognition-Primed Decision” 2023</a>)
+> (<a href="#citeproc_bib_item_2">“Recognition-Primed Decision” 2023</a>)
 
 In general, it's a pattern-matching exercise (see [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinExpertiseJustPatternMatching2020.md" >}})): recognize the situation at hand and choose the best already-known course of action. This presupposes that you (1) can recognize the situation and (2) know the right course of action. If either supposition is false, then refer to the flow chart:
 
 > {{< figure src="/ox-hugo/2023-07-30_06-27-34_Paper.Commonplace.41.png" >}}
 >
-> (NO_ITEM_DATA:chinCopyingBetterHowAcquireTacitKnowledgeExperts2020)
+> (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
 ## How to improve at [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}}) making? {#how-to-improve-at-recognition-primed-decision--recognition-primed-decision-making-model-dot-md--making}
@@ -55,14 +55,14 @@ In general, it's a pattern-matching exercise (see [Cedric Chin | Expertise Is 'J
 >
 >     I've adapted this idea from Klein's cognitive critique [...]
 >
-> (NO_ITEM_DATA:chinCopyingBetterHowAcquireTacitKnowledgeExperts2020), formatting mine
+> (<a href="#citeproc_bib_item_1">Chin 2020</a>), formatting mine
 
 
 ## Notes {#notes}
 
 > Recognition-primed decision (RPD) is a model of how people make quick, effective decisions when faced with complex situations. In this model, the decision maker is assumed to generate a possible course of action, compare it to the constraints imposed by the situation, and select the first course of action that is not rejected [[Satisficing]({{< relref "satisficing.md" >}})]. RPD has been described in diverse groups including trauma nurses, fireground commanders, chess players, and stock market traders. It functions well in conditions of time pressure, and in which information is partial and goals poorly defined. The limitations of RPD include the need for extensive experience among decision-makers (in order to correctly recognize the salient features of a problem and model solutions) and the problem of the failure of recognition and modeling in unusual or misidentified circumstances.
 >
-> (<a href="#citeproc_bib_item_1">“Recognition-Primed Decision” 2023</a>)
+> (<a href="#citeproc_bib_item_2">“Recognition-Primed Decision” 2023</a>)
 
 <!--quoteend-->
 
@@ -72,7 +72,7 @@ In general, it's a pattern-matching exercise (see [Cedric Chin | Expertise Is 'J
 > 2.  **If (???), then ...**: The decision maker diagnoses an unknown situation to choose from a known selection of courses of action.
 > 3.  **If ..., then (???)**: The decision maker is knowledgeable of the situation but unaware of the proper course of action. The decision maker therefore implements a mental trial and error simulation to develop the most effective course of action.
 >
-> (<a href="#citeproc_bib_item_1">“Recognition-Primed Decision” 2023</a>), paraphrased, formatting mine
+> (<a href="#citeproc_bib_item_2">“Recognition-Primed Decision” 2023</a>), paraphrased, formatting mine
 
 <!--quoteend-->
 
@@ -105,18 +105,15 @@ In general, it's a pattern-matching exercise (see [Cedric Chin | Expertise Is 'J
 > -   It explains how people can use experience to make difficult decisions.
 > -   It demonstrates that people can make effective decisions **without using a rational choice strategy.** _(emphasis mine)_
 >
-> (NO_ITEM_DATA:chinCopyingBetterHowAcquireTacitKnowledgeExperts2020)
+> (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Recognition-Primed Decision.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Recognition-primed_decision&oldid=1156555680">https://en.wikipedia.org/w/index.php?title=Recognition-primed_decision&#38;oldid=1156555680</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:chinCopyingBetterHowAcquireTacitKnowledgeExperts2020</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “Copying Better: How To Acquire The Tacit Knowledge of Experts.” <i>Commoncog</i>. <a href="https://commoncog.com/how-to-learn-tacit-knowledge/">https://commoncog.com/how-to-learn-tacit-knowledge/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Recognition-Primed Decision.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Recognition-primed_decision&oldid=1156555680">https://en.wikipedia.org/w/index.php?title=Recognition-primed_decision&#38;oldid=1156555680</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
@@ -124,3 +121,4 @@ In general, it's a pattern-matching exercise (see [Cedric Chin | Expertise Is 'J
 -   [Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts]({{< relref "cedric_chin_copying_better_how_to_acquire_the_tacit_knowledge_of_experts.md" >}})
 -   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]({{< relref "gary_klein_and_jennifer_phillips_and_erica_rall_and_deborah_peluso_a_data_frame_theory_of_sensemaking.md" >}})
+-   [How to become an expert]({{< relref "how_to_become_an_expert.md" >}})

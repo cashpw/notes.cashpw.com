@@ -2,7 +2,7 @@
 title = "Zach Tellman | Standing in the Shadow of Giants"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:59:00-08:00
-lastmod = 2023-12-23T21:23:37-08:00
+lastmod = 2024-02-24T18:38:20-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -31,8 +31,6 @@ Those who want to build may not want to maintain/administer.
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Standing in the Shadow of Giants.” Accessed November 12, 2022. <a href="https://ideolalia.com/essays/standing-in-the-shadow-of-giants.html">https://ideolalia.com/essays/standing-in-the-shadow-of-giants.html</a>.</div>

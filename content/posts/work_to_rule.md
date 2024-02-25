@@ -2,7 +2,7 @@
 title = "Work-to-rule"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T09:42:00-08:00
-lastmod = 2023-12-23T21:08:43-08:00
+lastmod = 2024-02-24T18:37:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "83d72898-e7df-48d7-9cbc-6c0f99096b2f"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Work-to-Rule.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Work-to-rule&oldid=1131215880">https://en.wikipedia.org/w/index.php?title=Work-to-rule&#38;oldid=1131215880</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

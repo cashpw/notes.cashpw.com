@@ -2,7 +2,7 @@
 title = "Brandon Smith | Write Libraries, Not Frameworks"
 author = ["Cash Weaver"]
 date = 2023-12-04T08:22:00-08:00
-lastmod = 2023-12-23T10:44:12-08:00
+lastmod = 2024-02-24T11:47:40-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -42,8 +42,6 @@ Agreed.
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Smith, Brandon. n.d. “Write Libraries, Not Frameworks.” Accessed December 4, 2023. <a href="https://www.brandons.me/blog/libraries-not-frameworks">https://www.brandons.me/blog/libraries-not-frameworks</a>.</div>

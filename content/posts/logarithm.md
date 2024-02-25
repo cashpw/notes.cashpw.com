@@ -2,7 +2,7 @@
 title = "Logarithm"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T09:46:00-08:00
-lastmod = 2023-12-23T14:11:08-08:00
+lastmod = 2024-02-24T17:52:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,6 @@ slug = "68df1a7c-9c9f-42f1-b270-56ab4b51e214"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Logarithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Logarithm&oldid=1126519828">https://en.wikipedia.org/w/index.php?title=Logarithm&#38;oldid=1126519828</a>.</div>

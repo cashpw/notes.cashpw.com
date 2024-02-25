@@ -2,7 +2,7 @@
 title = "Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T21:10:00-08:00
-lastmod = 2023-12-23T14:22:55-08:00
+lastmod = 2024-02-24T17:53:38-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -173,8 +173,6 @@ I worry that it wouldn't be enough to maintain understanding and the ability to 
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Marsh, Elizabeth J., and Andrew C. Butler. 2013. <i>Memory in Educational Settings</i>. Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780195376746.013.0020">https://doi.org/10.1093/oxfordhb/9780195376746.013.0020</a>.</div>

@@ -2,7 +2,7 @@
 title = "Kamran Ahmed | Levels of Seniority"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T20:50:00-08:00
-lastmod = 2023-12-23T10:33:52-08:00
+lastmod = 2024-02-24T11:41:41-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -68,14 +68,11 @@ slug = "e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ahmed, Kamran. n.d. “Levels of Seniority.” <i>Https://Roadmap.Sh/Guides/Levels-of-Seniority</i>. Accessed February 7, 2022. <a href="https://roadmap.sh">https://roadmap.sh</a>.</div>
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [On lead/senior, and staff, engineering]({{< relref "skills_of_a_senior_software_engineer.md" >}})

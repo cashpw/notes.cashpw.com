@@ -2,7 +2,7 @@
 title = "Comparative advantage"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-27T16:48:00-07:00
-lastmod = 2023-12-23T11:04:14-08:00
+lastmod = 2024-02-24T11:55:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,13 +22,10 @@ slug = "673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Comparative Advantage.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Comparative_advantage&oldid=1104216355">https://en.wikipedia.org/w/index.php?title=Comparative_advantage&#38;oldid=1104216355</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“What Is Comparative Advantage?” n.d. <i>Investopedia</i>. Accessed October 28, 2022. <a href="https://www.investopedia.com/terms/c/comparativeadvantage.asp">https://www.investopedia.com/terms/c/comparativeadvantage.asp</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

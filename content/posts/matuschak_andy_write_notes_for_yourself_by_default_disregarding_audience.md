@@ -2,14 +2,14 @@
 title = "Andy Matuschak | Write Notes for Yourself by Default, Disregarding Audience"
 author = ["Cash Weaver"]
 date = 2023-08-03T08:07:00-07:00
-lastmod = 2023-12-23T14:28:49-08:00
+lastmod = 2024-02-24T17:54:17-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "2c8acd36-620a-47a7-8d3a-63594fd2065c"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (NO_ITEM_DATA:matuschakWriteNotesYourselfDefaultDisregardingAudience)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)
 
 
 ## Notes {#notes}
@@ -29,8 +29,6 @@ slug = "2c8acd36-620a-47a7-8d3a-63594fd2065c"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:matuschakWriteNotesYourselfDefaultDisregardingAudience</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Write Notes for Yourself by Default, Disregarding Audience.” <i>Andy’s Working Notes</i>. Accessed August 3, 2023. <a href="https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9">https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9</a>.</div>
 </div>

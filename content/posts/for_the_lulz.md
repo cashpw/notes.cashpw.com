@@ -2,7 +2,7 @@
 title = "For the lulz"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T18:19:00-07:00
-lastmod = 2023-12-23T12:03:39-08:00
+lastmod = 2024-02-24T14:19:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -25,12 +25,9 @@ Also see [The card says moops]({{< relref "the_card_says_moops.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“For the Lulz.” n.d. <i>Urban Dictionary</i>. Accessed June 26, 2022. <a href="https://www.urbandictionary.com/define.php?term=For%20the%20lulz">https://www.urbandictionary.com/define.php?term=For%20the%20lulz</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

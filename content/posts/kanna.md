@@ -2,7 +2,7 @@
 title = "Kanna"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-12T07:43:00-07:00
-lastmod = 2023-12-23T13:35:49-08:00
+lastmod = 2024-02-24T17:49:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,12 +23,9 @@ slug = "71f966bf-eb19-4684-bc95-6805103a25b1"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Euclid Trimming Kanna Set.” n.d. <i>Armadillo Clay and Supplies</i>. Accessed September 12, 2023. <a href="http://www.armadilloclay.com/store/p2086/Euclid_Trimming_Kanna_Set.html">http://www.armadilloclay.com/store/p2086/Euclid_Trimming_Kanna_Set.html</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

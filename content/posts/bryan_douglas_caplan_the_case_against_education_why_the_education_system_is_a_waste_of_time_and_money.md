@@ -2,14 +2,14 @@
 title = "Bryan Caplan | The Case against Education: Why the Education System Is a Waste of Time and Money"
 author = ["Cash Weaver"]
 date = 2023-01-12T10:18:00-08:00
-lastmod = 2023-12-23T10:44:53-08:00
+lastmod = 2024-02-24T11:48:00-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "8ecb934d-da88-40f4-851b-1fd5f2efd0ad"
 +++
 
-[Bryan Caplan]({{< relref "bryan_caplan.md" >}}), (NO_ITEM_DATA:caplanCaseEducationWhyEducationSystemWasteTimeMoney2018)
+[Bryan Caplan]({{< relref "bryan_caplan.md" >}}), (<a href="#citeproc_bib_item_1">Caplan 2018</a>)
 
 
 ## Summary {#summary}
@@ -25,12 +25,9 @@ The general thrust that formal education is rife with [Signaling]({{< relref "si
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:caplanCaseEducationWhyEducationSystemWasteTimeMoney2018</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Caplan, Bryan Douglas. 2018. <i>The Case against Education: Why the Education System Is a Waste of Time and Money</i>. Princeton, New Jersey: Princeton University Press.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

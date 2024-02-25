@@ -2,7 +2,7 @@
 title = "All cops are bastards"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T09:10:00-08:00
-lastmod = 2023-12-23T10:34:46-08:00
+lastmod = 2024-02-24T11:42:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,8 +13,6 @@ A [System]({{< relref "systems.md" >}}) view of policing which holds that the in
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

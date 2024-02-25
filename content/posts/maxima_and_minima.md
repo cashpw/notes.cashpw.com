@@ -2,7 +2,7 @@
 title = "Maxima and minima"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:17:00-08:00
-lastmod = 2023-12-23T14:29:33-08:00
+lastmod = 2024-02-24T17:54:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -36,12 +36,9 @@ The largest over a subset of the domain.
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Maxima and Minima.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Maxima_and_minima&oldid=1076973581">https://en.wikipedia.org/w/index.php?title=Maxima_and_minima&#38;oldid=1076973581</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Robin Hanson | Politics Isn't about Policy"
 author = ["Cash Weaver"]
 date = 2023-01-08T19:35:00-08:00
-lastmod = 2023-12-23T16:53:05-08:00
+lastmod = 2024-02-24T18:18:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -42,8 +42,6 @@ Related: [The purpose of a system is what it does]({{< relref "the_purpose_of_a_
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hanson, Robin. n.d. “Politics Isn’t About Policy.” Accessed January 9, 2023. <a href="https://www.overcomingbias.com/2008/09/politics-isnt-a.html">https://www.overcomingbias.com/2008/09/politics-isnt-a.html</a>.</div>

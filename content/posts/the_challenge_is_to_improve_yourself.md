@@ -2,7 +2,7 @@
 title = "The challenge is to improve yourself"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T10:37:00-07:00
-lastmod = 2023-12-23T19:07:40-08:00
+lastmod = 2024-02-24T18:25:25-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -24,12 +24,9 @@ Related: [Fully Automated Luxury Communism]({{< relref "fully_automated_luxury_c
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>The Next Generation Transcripts. n.d. “The Neutral Zone.” Accessed July 21, 2022. <a href="http://www.chakoteya.net/NextGen/126.htm">http://www.chakoteya.net/NextGen/126.htm</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

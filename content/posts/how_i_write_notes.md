@@ -2,7 +2,7 @@
 title = "How I write notes"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T20:21:00-08:00
-lastmod = 2023-12-23T12:42:22-08:00
+lastmod = 2024-02-24T14:22:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,11 +22,8 @@ Also see [Why I write notes]({{< relref "why_i_write_notes.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

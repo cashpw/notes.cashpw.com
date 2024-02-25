@@ -2,7 +2,7 @@
 title = "Binomial"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T10:30:00-08:00
-lastmod = 2023-12-23T10:41:54-08:00
+lastmod = 2024-02-24T11:46:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,6 @@ slug = "da833ef8-d4df-45d7-be80-428ee62bff86"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binomial (Polynomial).” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Binomial_(polynomial)&oldid=1083439881">https://en.wikipedia.org/w/index.php?title=Binomial_(polynomial)&#38;oldid=1083439881</a>.</div>

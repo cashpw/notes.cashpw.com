@@ -2,7 +2,7 @@
 title = "Ray Dalio"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T07:25:00-08:00
-lastmod = 2023-12-23T16:30:28-08:00
+lastmod = 2024-02-24T18:14:11-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -17,11 +17,8 @@ Among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

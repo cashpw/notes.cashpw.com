@@ -2,7 +2,7 @@
 title = "Centre for Clinical Interventions: Perfectionism in Perspective"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-19T15:56:00-08:00
-lastmod = 2023-12-23T10:55:32-08:00
+lastmod = 2024-02-24T11:51:40-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -45,8 +45,6 @@ Centre for Clinical Interventions, (<a href="#citeproc_bib_item_1">“Perfection
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Perfectionism Self-Help Resources - Information Sheets &#38; Workbooks.” n.d. Accessed December 19, 2023. <a href="https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Perfectionism">https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Perfectionism</a>.</div>

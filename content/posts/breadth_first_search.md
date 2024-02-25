@@ -2,7 +2,7 @@
 title = "Breadth-first search"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T17:20:00-07:00
-lastmod = 2023-12-23T10:44:24-08:00
+lastmod = 2024-02-24T11:47:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -45,12 +45,9 @@ Based on the algorithm in (<a href="#citeproc_bib_item_1">“Breadth-First Searc
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Breadth-First Search.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Breadth-first_search&oldid=1091199031">https://en.wikipedia.org/w/index.php?title=Breadth-first_search&#38;oldid=1091199031</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

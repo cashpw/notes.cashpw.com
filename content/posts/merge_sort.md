@@ -2,7 +2,7 @@
 title = "Merge sort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T11:23:00-07:00
-lastmod = 2023-12-23T14:34:37-08:00
+lastmod = 2024-02-24T17:54:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -52,12 +52,9 @@ procedure MergeSort(list) is
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Merge Sort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Merge_sort&oldid=1095865966">https://en.wikipedia.org/w/index.php?title=Merge_sort&#38;oldid=1095865966</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "The medium is the message"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-26T15:18:00-07:00
-lastmod = 2023-12-23T19:15:41-08:00
+lastmod = 2024-02-24T18:25:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,13 +24,10 @@ A message must "fit" its medium. That is, a message must conform to the rules of
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Gross, Jason. 12AD. “The Medium Is The Message.” <i>Smashing Magazine</i>. <a href="https://www.smashingmagazine.com/2011/07/the-medium-is-the-message/">https://www.smashingmagazine.com/2011/07/the-medium-is-the-message/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“The Medium Is the Message.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=The_medium_is_the_message&oldid=1105745393">https://en.wikipedia.org/w/index.php?title=The_medium_is_the_message&#38;oldid=1105745393</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

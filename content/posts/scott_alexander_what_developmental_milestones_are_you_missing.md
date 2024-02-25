@@ -2,14 +2,14 @@
 title = "Scott Alexander | What Developmental Milestones Are You Missing?"
 author = ["Cash Weaver"]
 date = 2023-01-12T07:43:00-08:00
-lastmod = 2023-12-23T17:15:48-08:00
+lastmod = 2024-02-24T18:19:03-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "c31b6e30-dbf8-4f8a-8cb1-115a6e512b14"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (NO_ITEM_DATA:alexanderWhatDevelopmentalMilestonesAreYouMissing2015)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2015</a>)
 
 
 ## Notes {#notes}
@@ -69,8 +69,6 @@ Related to this idea: [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAl
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:alexanderWhatDevelopmentalMilestonesAreYouMissing2015</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2015. “What Developmental Milestones Are You Missing?” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/">https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Ian Danskin | I Hate Mondays"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T09:29:00-07:00
-lastmod = 2023-12-23T11:18:25-08:00
+lastmod = 2024-02-24T13:50:24-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -56,12 +56,9 @@ I hate mondays is an embrace of coping strategies and a refusal to address a pro
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:danskinHateMondays2020</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

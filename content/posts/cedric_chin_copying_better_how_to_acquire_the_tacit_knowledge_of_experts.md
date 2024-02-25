@@ -2,14 +2,14 @@
 title = "Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts"
 author = ["Cash Weaver"]
 date = 2023-06-30T19:33:00-07:00
-lastmod = 2023-12-23T10:50:33-08:00
+lastmod = 2024-02-24T11:50:06-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "5a1426bf-c14f-411b-af3e-e21ee56fa8e5"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinCopyingBetterHowAcquireTacitKnowledgeExperts2020)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020a</a>)
 
 
 ## Summary {#summary}
@@ -38,7 +38,7 @@ We can acquire the [Tacit knowledge]({{< relref "tacit_knowledge.md" >}}) of exp
 >
 > I'll skip ahead here and tell you that none of these questions are particularly interesting to me --- at least, not in the context of this blog. This blog is a practitioner's blog: it is interested in what is useful, not what is 'true'. [...]
 >
-> So here's my way of side-stepping everything above: when I say tacit knowledge in this series, what I am really interested in is 'expert intuition' or 'expert judgment'. This is the "expertise, full of caveats" that I talked about in [Part 1](https://commoncog.com/tacit-knowledge-is-a-real-thing/) [ (NO_ITEM_DATA:chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020) ]. Expert intuition is tacit because it is incredibly difficult to investigate, incredibly difficult to make explicit, and incredibly difficult to teach.
+> So here's my way of side-stepping everything above: when I say tacit knowledge in this series, what I am really interested in is 'expert intuition' or 'expert judgment'. This is the "expertise, full of caveats" that I talked about in [Part 1](https://commoncog.com/tacit-knowledge-is-a-real-thing/) [ (<a href="#citeproc_bib_item_2">Chin 2020b</a>) ]. Expert intuition is tacit because it is incredibly difficult to investigate, incredibly difficult to make explicit, and incredibly difficult to teach.
 
 
 ### How the naturalistic decision makers do it {#how-the-naturalistic-decision-makers-do-it}
@@ -87,13 +87,10 @@ See [How to improve at Recognition-primed decision making?]({{< relref "recognit
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinCopyingBetterHowAcquireTacitKnowledgeExperts2020</div>
-  <div class="csl-entry">NO_ITEM_DATA:chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020a. “Copying Better: How To Acquire The Tacit Knowledge of Experts.” <i>Commoncog</i>. <a href="https://commoncog.com/how-to-learn-tacit-knowledge/">https://commoncog.com/how-to-learn-tacit-knowledge/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2020b. “Why Tacit Knowledge Is More Important Than Deliberate Practice.” <i>Commoncog</i>. <a href="https://commoncog.com/tacit-knowledge-is-a-real-thing/">https://commoncog.com/tacit-knowledge-is-a-real-thing/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

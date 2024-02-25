@@ -2,7 +2,7 @@
 title = "Why is it always the libs?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-01T08:54:00-07:00
-lastmod = 2023-12-23T21:00:43-08:00
+lastmod = 2024-02-24T18:37:47-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -16,12 +16,9 @@ slug = "d8ff4c8c-4032-473b-9060-8bd7903784c8"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “The Card Says Moops.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as">https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Julian Shapiro"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:20:00-08:00
-lastmod = 2023-12-23T13:31:10-08:00
+lastmod = 2024-02-24T17:48:50-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -17,11 +17,8 @@ Among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

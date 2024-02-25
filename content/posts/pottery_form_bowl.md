@@ -2,7 +2,7 @@
 title = "Pottery form: Bowl"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-18T07:15:00-08:00
-lastmod = 2023-12-23T15:56:42-08:00
+lastmod = 2024-02-24T18:09:17-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

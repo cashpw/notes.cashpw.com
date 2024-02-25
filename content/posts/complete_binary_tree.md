@@ -2,7 +2,7 @@
 title = "Complete binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T11:22:00-07:00
-lastmod = 2023-12-23T11:04:46-08:00
+lastmod = 2024-02-24T11:55:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "cce89d10-ff69-4756-b9fa-9b713b4cb33b"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Tree.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Binary_tree&oldid=1092722102">https://en.wikipedia.org/w/index.php?title=Binary_tree&#38;oldid=1092722102</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

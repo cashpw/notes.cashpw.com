@@ -2,7 +2,7 @@
 title = "He does not love his cat, but his cat's kittens"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-28T15:26:00-07:00
-lastmod = 2023-12-23T12:32:53-08:00
+lastmod = 2024-02-24T14:21:50-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -16,12 +16,9 @@ slug = "802975de-8d22-45a7-a0fb-8751ebbce738"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Keynes, John Maynard. 2010. <i>Essays in Persuasion</i>. New ed. Basingstoke ; New York: Palgrave Macmillan.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

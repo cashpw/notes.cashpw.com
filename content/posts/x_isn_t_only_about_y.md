@@ -2,14 +2,14 @@
 title = "X isn't (only) about Y"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T08:10:00-08:00
-lastmod = 2023-12-23T21:15:52-08:00
+lastmod = 2024-02-24T18:38:08-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
 slug = "064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4"
 +++
 
-People who do A say they do it because B _but may also_ do it because X, Y, Z, etc.
+People who do A say they do it because B, and that may be true, but they _also_ do it because X, Y, Z, etc. Behaviors have multiple purposes and some of them are [Signaling]({{< relref "signaling.md" >}}).
 
 
 ## Rewrite {#rewrite}
@@ -29,7 +29,7 @@ People who do A say they do it because B _but may also_ do it because X, Y, Z, e
 > -   Research isn't about Progress
 > -   Politics isn't about Policy
 >
-> The above summarizes much of my contrarian world view.  (What else should go on this list?) When I say "X is not about Y," I mean that while Y is the function commonly said to drive most X behavior, in fact some other function Z drives X behavior more [[Realpolitik]({{< relref "real_politic.md" >}}), [Signaling]({{< relref "signaling.md" >}})].
+> The above summarizes much of my contrarian world view.  (What else should go on this list?) When I say "X is not about Y," I mean that while Y is the function commonly said to drive most X behavior, in fact some other function Z drives X behavior more.
 >
 > [formatting mine]
 >
@@ -42,25 +42,24 @@ People who do A say they do it because B _but may also_ do it because X, Y, Z, e
 -   We can do things for more than one reason
 -   People tend to say they're doing X because of Y. However, in truth, the reasons are more complex. While they may do X because Y, that often isn't the only reason and may not even by the primary reason. People may do X not because of Y, but rather because it's not polite, practical, politically-savvy ([Realpolitik]({{< relref "real_politic.md" >}})), etc to say the real reason. Or because X is only effective if the true reason isn't said out loud ([Taboo games]({{< relref "invisible_games.md" >}})) In fact, people might not know the real reason ([The card says moops]({{< relref "the_card_says_moops.md" >}})).
     -   That said, it's also not correct, in my strong opinion, to say "People who do X say it's about Y when it's really about Z, so their actual only reason for doing it is Z". No. [Yes, and]({{< relref "yes_and.md" >}}). In addition to. Someone can put on makeup for both (1) [Signaling]({{< relref "signaling.md" >}}) and (2) enjoyment. The reduction to biological terms (i.e. reproduction, safety, alliances, resources, etc) seems [Lowercase-a accurate without being capital-T True]({{< relref "lowercase_a_accurate_without_being_capital_t_true.md" >}}).
--   Employers forcing return-to-office isn't only about bringing people into the office but also about firing those who don't return without having to explicitly do more lay-offs
+-   Employers forcing return-to-office isn't only about bringing people into the office but also about [firing](https://www.fastcompany.com/90969112/op-ed-the-real-reason-ceos-want-workers-back-in-the-office-is-because-they-want-you-to-quit) those who don't return without having to explicitly do more lay-offs
 
 Related: [Proximate cause]({{< relref "proximate_cause.md" >}}) and [Ultimate cause]({{< relref "ultimate_cause.md" >}}).
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hanson, Robin. n.d. “Politics Isn’t About Policy.” Accessed January 9, 2023. <a href="https://www.overcomingbias.com/2008/09/politics-isnt-a.html">https://www.overcomingbias.com/2008/09/politics-isnt-a.html</a>.</div>
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
+-   [Branch book]({{< relref "branch_book.md" >}})
 -   [Bryan Caplan | The Case against Education: Why the Education System Is a Waste of Time and Money]({{< relref "bryan_douglas_caplan_the_case_against_education_why_the_education_system_is_a_waste_of_time_and_money.md" >}})
 -   [Ian Danskin | Always a Bigger Fish]({{< relref "danskinAlwaysBiggerFish2019.md" >}})
+-   [Jeffrey Pfeffer | 7 Rules of Power]({{< relref "jeffrey_pfeffer_7_rules_of_power.md" >}})
 -   [Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain]({{< relref "jose_luis_ricon_this_review_is_not_about_reviewing_the_elephant_in_the_brain.md" >}})
 -   [Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]({{< relref "kaj_sotala_nobody_does_the_thing_that_they_are_supposedly_doing.md" >}})
 -   [Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Motives in Everyday Life]({{< relref "kevin_simler_robin_hanson_the_elephant_in_the_brain_hidden_motives_in_everyday_life.md" >}})

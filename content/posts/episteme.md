@@ -2,7 +2,7 @@
 title = "Episteme"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-09T07:49:00-08:00
-lastmod = 2023-12-23T11:46:17-08:00
+lastmod = 2024-02-24T14:18:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ slug = "dc7e525e-967c-48e5-b1c5-d83394571cb5"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

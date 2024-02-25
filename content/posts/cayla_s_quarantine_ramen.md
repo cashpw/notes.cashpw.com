@@ -2,7 +2,7 @@
 title = "Cayla's quarantine ramen"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-30T11:30:00-07:00
-lastmod = 2023-12-23T10:47:57-08:00
+lastmod = 2024-02-24T11:49:12-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -68,11 +68,8 @@ slug = "9b56dca0-39e0-4dec-a269-dd7773257c2b"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

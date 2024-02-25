@@ -2,14 +2,14 @@
 title = "Florian Gadsby | How I Recycle My Stoneware Pottery Reclaim"
 author = ["Cash Weaver"]
 date = 2022-12-15T09:27:00-08:00
-lastmod = 2023-12-23T12:01:53-08:00
+lastmod = 2024-02-24T14:19:39-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "670522f7-a37e-4d22-9bba-4f59386c7b4c"
 +++
 
-[Florian Gadsby]({{< relref "florian_gadsby.md" >}}), (NO_ITEM_DATA:floriangadsbyHowRecycleMyStonewarePotteryReclaim2022)
+[Florian Gadsby]({{< relref "florian_gadsby.md" >}}), (<a href="#citeproc_bib_item_1">Florian Gadsby 2022</a>)
 
 
 ## Summary {#summary}
@@ -35,8 +35,6 @@ slug = "670522f7-a37e-4d22-9bba-4f59386c7b4c"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:floriangadsbyHowRecycleMyStonewarePotteryReclaim2022</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Florian Gadsby. 2022. “How I Recycle My Stoneware Pottery Reclaim.” <a href="https://www.youtube.com/watch?v=KmosgAAiiok">https://www.youtube.com/watch?v=KmosgAAiiok</a>.</div>
 </div>

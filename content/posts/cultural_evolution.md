@@ -2,7 +2,7 @@
 title = "Cultural evolution"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T09:25:00-08:00
-lastmod = 2023-12-23T11:11:14-08:00
+lastmod = 2024-02-24T13:49:55-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,12 +20,9 @@ slug = "b74a709a-ff6f-425e-8a45-9f6acf47cbad"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cultural Evolution.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Cultural_evolution&oldid=1127035681">https://en.wikipedia.org/w/index.php?title=Cultural_evolution&#38;oldid=1127035681</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

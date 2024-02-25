@@ -2,9 +2,9 @@
 title = "Kanehito Yamada | Frieren: Beyond Journey's End"
 author = ["Cash Weaver"]
 date = 2023-12-07T06:43:00-08:00
-lastmod = 2023-12-23T13:35:33-08:00
-tags = ["reference", "reference"]
-categories = ["reference"]
+lastmod = 2024-02-24T17:49:15-08:00
+tags = ["hastodo", "reference", "hastodo", "reference"]
+categories = ["hastodo", "reference"]
 draft = false
 slug = "9bace508-65f0-4fd5-9c93-338ccea13c56"
 +++
@@ -22,6 +22,12 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 -   Potential spoiler: I think the ending will be a "the real solution was the journey and the friends made along the way". Flamme's way of helping Frieren will have been to force her on another difficult quest on which she'll bond with and form friendships with her adventure party. I think such an ending is appropriate because her goal is exactly that --- to bond and learn about the people around her.
 -   One of my [Favorites]({{< relref "favorites.md" >}}).
 -   I enjoy the montage pages [Yamada]({{< relref "kanehito_yamada.md" >}}) includes without dialog ([example of a montage page](/ox-hugo/2023-12-07_06-47-54_p.jpg))
+
+
+### Relate this to Heiter's quote (in flashback?) about only pretending to be an adult for Fern {#relate-this-to-heiter-s-quote--in-flashback--about-only-pretending-to-be-an-adult-for-fern}
+
+
+#### [Adulthood Is a Mirage](https://www.thecut.com/2023/11/adulthood-is-a-mirage.html) {#adulthood-is-a-mirage}
 
 
 ## Notes {#notes}
@@ -99,8 +105,8 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Yamada, Kanehito. 2022. <i>Frieren: Beyond Journey’s End. Volume 1</i>. Translated by Misa. Shonen Sunday edition. San Francisco, CA: VIZ Media, LLC.</div>
 </div>
+
+:CREATED: <span class="timestamp-wrapper"><span class="timestamp">[2023-11-13 Mon 16:48]</span></span>

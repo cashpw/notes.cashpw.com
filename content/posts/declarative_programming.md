@@ -2,7 +2,7 @@
 title = "Declarative programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:49:00-07:00
-lastmod = 2023-12-23T11:24:29-08:00
+lastmod = 2024-02-24T13:50:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,12 +24,9 @@ slug = "f234a51d-23e4-4050-bf2c-60895a99ee12"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Declarative Programming.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Declarative_programming&oldid=1152113601">https://en.wikipedia.org/w/index.php?title=Declarative_programming&#38;oldid=1152113601</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Capitalism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-14T10:29:00-08:00
-lastmod = 2023-12-23T10:47:22-08:00
+lastmod = 2024-02-24T11:48:58-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -14,11 +14,8 @@ See also, [Moloch]({{< relref "moloch.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

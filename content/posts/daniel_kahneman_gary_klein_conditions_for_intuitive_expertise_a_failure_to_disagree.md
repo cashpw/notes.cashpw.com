@@ -2,14 +2,14 @@
 title = "Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree"
 author = ["Cash Weaver"]
 date = 2023-07-30T07:26:00-07:00
-lastmod = 2023-12-23T11:16:14-08:00
+lastmod = 2024-02-24T13:50:15-08:00
 tags = ["has-todo", "reference", "has-todo", "reference"]
 categories = ["has-todo", "reference"]
 draft = false
 slug = "7ac554b7-d1b7-4348-8865-8742415b06d0"
 +++
 
-[Daniel Kahneman]({{< relref "daniel_kahneman.md" >}}), [Gary Klein]({{< relref "gary_klein.md" >}}), (NO_ITEM_DATA:kahnemanConditionsIntuitiveExpertiseFailureDisagree2009)
+[Daniel Kahneman]({{< relref "daniel_kahneman.md" >}}), [Gary Klein]({{< relref "gary_klein.md" >}}), (<a href="#citeproc_bib_item_1">Kahneman and Klein 2009</a>)
 
 
 ## Summary {#summary}
@@ -81,12 +81,9 @@ See also [Cedric Chin | Expertise Is 'Just' Pattern Matching]({{< relref "chinEx
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:kahnemanConditionsIntuitiveExpertiseFailureDisagree2009</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kahneman, Daniel, and Gary Klein. 2009. “Conditions for Intuitive Expertise: A Failure to Disagree.” <i>American Psychologist</i> 64 (6): 515–26. <a href="https://doi.org/10.1037/a0016755">https://doi.org/10.1037/a0016755</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

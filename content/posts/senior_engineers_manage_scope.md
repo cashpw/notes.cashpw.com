@@ -2,7 +2,7 @@
 title = "Senior engineers manage scope"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-15T09:49:00-08:00
-lastmod = 2023-12-23T17:23:22-08:00
+lastmod = 2024-02-24T18:19:22-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -17,4 +17,4 @@ Senior software engineers manage the scope of their projects:
 
 ## Backlinks {#backlinks}
 
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [On lead/senior, and staff, engineering]({{< relref "skills_of_a_senior_software_engineer.md" >}})

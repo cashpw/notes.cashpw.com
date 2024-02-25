@@ -2,7 +2,7 @@
 title = "Org mode"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:41:00-08:00
-lastmod = 2023-12-23T15:28:10-08:00
+lastmod = 2024-02-24T18:03:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "4c8c9bb9-7cba-4a9e-89dc-4d0095438126"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Org-Mode.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Org-mode&oldid=1113320008">https://en.wikipedia.org/w/index.php?title=Org-mode&#38;oldid=1113320008</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

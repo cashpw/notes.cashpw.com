@@ -2,7 +2,7 @@
 title = "Wedging"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-12T07:32:00-07:00
-lastmod = 2023-12-23T20:56:23-08:00
+lastmod = 2024-02-24T18:37:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ Tip: Wedge all the clay at once before dividing it into smaller balls.
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hansen-Gard, Jeni. n.d. “How to Wedge Clay Properly.” <i>Default</i>. Accessed September 12, 2023. <a href="https://ceramicartsnetwork.org/daily/article/How-to-Wedge-Clay-Properly">https://ceramicartsnetwork.org/daily/article/How-to-Wedge-Clay-Properly</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

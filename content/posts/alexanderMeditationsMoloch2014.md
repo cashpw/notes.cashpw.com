@@ -2,7 +2,7 @@
 title = "Scott Alexander | Meditations On Moloch"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T20:30:00-07:00
-lastmod = 2023-12-23T10:34:23-08:00
+lastmod = 2024-02-24T11:41:54-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -243,12 +243,9 @@ See [Howl]({{< relref "ginsbergHowl2022.md#ii" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Meditations On Moloch.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

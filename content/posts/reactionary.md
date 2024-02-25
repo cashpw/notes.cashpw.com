@@ -2,7 +2,7 @@
 title = "Reactionary"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:19:00-08:00
-lastmod = 2023-12-23T16:31:31-08:00
+lastmod = 2024-02-24T18:14:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,8 +17,6 @@ slug = "735e2c4a-52b9-455d-9872-cb897cc0bd54"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Reactionary.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Reactionary&oldid=1118842590">https://en.wikipedia.org/w/index.php?title=Reactionary&#38;oldid=1118842590</a>.</div>

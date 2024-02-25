@@ -2,7 +2,7 @@
 title = "The one place that isn't corrupted by capitalism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T16:30:00-07:00
-lastmod = 2023-12-23T19:19:17-08:00
+lastmod = 2024-02-24T18:26:14-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -20,8 +20,6 @@ slug = "07f76962-f3c9-4b51-bfda-2354c066f713"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

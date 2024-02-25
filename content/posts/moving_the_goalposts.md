@@ -2,7 +2,7 @@
 title = "Moving the goalposts"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T17:03:00-07:00
-lastmod = 2023-12-23T14:51:13-08:00
+lastmod = 2024-02-24T17:57:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "b2575705-10cd-4523-aaa6-153360d7bd07"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Moving the Goalposts.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Moving_the_goalposts&oldid=1092754084">https://en.wikipedia.org/w/index.php?title=Moving_the_goalposts&#38;oldid=1092754084</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

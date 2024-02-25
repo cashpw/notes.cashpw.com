@@ -2,7 +2,7 @@
 title = "W. J. King, James G. Skakoon | The Unwritten Laws of Engineering"
 author = ["Cash Weaver"]
 date = 2023-06-02T16:00:00-07:00
-lastmod = 2023-12-23T20:51:29-08:00
+lastmod = 2024-02-24T18:37:34-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -22,8 +22,6 @@ slug = "6fcd81b3-b5f6-4bfd-97f2-1c0677f7b97d"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>King, W. J., and James G. Skakoon. 2001. <i>The Unwritten Laws of Engineering</i>. New York: ASME Press.</div>

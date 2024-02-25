@@ -2,7 +2,7 @@
 title = "Digital nomad"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-14T05:41:00-07:00
-lastmod = 2023-12-23T11:30:33-08:00
+lastmod = 2024-02-24T13:51:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ slug = "f3970b88-9d58-44fa-ade2-fee34f20a610"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

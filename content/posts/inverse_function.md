@@ -2,7 +2,7 @@
 title = "Inverse function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T09:10:00-08:00
-lastmod = 2023-12-23T13:02:07-08:00
+lastmod = 2024-02-24T17:46:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,12 +32,9 @@ slug = "be3d36b2-8fb7-4917-b739-5717643a35b3"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Inverse Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Inverse_function&oldid=1121855971">https://en.wikipedia.org/w/index.php?title=Inverse_function&#38;oldid=1121855971</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

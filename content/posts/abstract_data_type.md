@@ -2,7 +2,7 @@
 title = "Abstract data type"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:49:00-07:00
-lastmod = 2023-12-23T10:33:06-08:00
+lastmod = 2024-02-24T11:41:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "2eae74ba-4003-45cf-8425-7291aaa7a537"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Abstract Data Type.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Abstract_data_type&oldid=1093187237">https://en.wikipedia.org/w/index.php?title=Abstract_data_type&#38;oldid=1093187237</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

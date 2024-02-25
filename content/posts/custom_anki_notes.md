@@ -2,7 +2,7 @@
 title = "Custom Anki Notes"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-11T11:30:00-08:00
-lastmod = 2023-12-23T11:11:44-08:00
+lastmod = 2024-02-24T13:49:57-08:00
 draft = false
 slug = "a32b0bd9-5555-4630-b486-4d070fb5c7f0"
 +++
@@ -125,8 +125,6 @@ The `Equivalence` note includes six pairs of fields for an expression and label:
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

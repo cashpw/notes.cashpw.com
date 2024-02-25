@@ -2,7 +2,7 @@
 title = "Deliberate practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:37:00-07:00
-lastmod = 2023-12-23T11:26:09-08:00
+lastmod = 2024-02-24T13:50:56-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -32,7 +32,7 @@ slug = "a1d74568-61f0-4a01-8aab-184d1b7a9752"
 > 7.  Building and modifying mental representations
 > 8.  Focusing on building and improving specific skills by focusing on aspects of those skills and improving them
 >
-> (NO_ITEM_DATA:eliasonPeakAndersEricssonRobertPoolSummaryNotesLessons)
+> (<a href="#citeproc_bib_item_2">Eliason n.d.</a>)
 
 <!--quoteend-->
 
@@ -46,25 +46,23 @@ slug = "a1d74568-61f0-4a01-8aab-184d1b7a9752"
 >
 > One of Ericsson's core findings was that how expert one becomes at a skill has more to do with how one practises than with merely performing a skill a large number of times. An expert breaks down the skills that are required to be expert and focuses on improving those skill chunks during practice or day-to-day activities, often paired with immediate coaching feedback. Another important feature of deliberate practice lies in continually practising a skill at more challenging levels with the intention of mastering it.
 >
-> (<a href="#citeproc_bib_item_2">“Practice (Learning Method)” 2023</a>)
+> (<a href="#citeproc_bib_item_3">“Practice (Learning Method)” 2023</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Problems with Deliberate Practice.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-problems-with-deliberate-practice/">https://commoncog.com/blog/the-problems-with-deliberate-practice/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Practice (Learning Method).” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Practice_(learning_method)&oldid=1144600358#Deliberate_practice">https://en.wikipedia.org/w/index.php?title=Practice_(learning_method)&#38;oldid=1144600358#Deliberate_practice</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:eliasonPeakAndersEricssonRobertPoolSummaryNotesLessons</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Eliason, Nat. n.d. “Peak by Anders Ericsson and Robert Pool: Summary, Notes and Lessons.” <i>Nat Eliason</i>. Accessed June 7, 2023. <a href="https://www.nateliason.com/notes/peak-anders-ericsson-robert-pool">https://www.nateliason.com/notes/peak-anders-ericsson-robert-pool</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Practice (Learning Method).” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Practice_(learning_method)&oldid=1144600358#Deliberate_practice">https://en.wikipedia.org/w/index.php?title=Practice_(learning_method)&#38;oldid=1144600358#Deliberate_practice</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
 
 -   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
 -   [Cedric Chin | Expertise]({{< relref "cedric_chin_expertise.md" >}})
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "cedric_chin_why_tacit_knowledge_is_more_important_than_deliberate_practice.md" >}})
+-   [How to become an expert]({{< relref "how_to_become_an_expert.md" >}})
+-   [How to improve]({{< relref "how_to_improve.md" >}})
 -   [Types of practice]({{< relref "types_of_practice.md" >}})

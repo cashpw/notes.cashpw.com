@@ -2,9 +2,9 @@
 title = "Platform decay"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-01T10:40:00-07:00
-lastmod = 2023-12-23T15:51:01-08:00
-tags = ["hastodo", "concept", "hastodo", "concept"]
-categories = ["hastodo", "concept"]
+lastmod = 2024-02-24T18:08:06-08:00
+tags = ["concept", "concept"]
+categories = ["concept"]
 draft = false
 slug = "54e1f321-30e8-42d1-9df5-3e22a26706ad"
 +++
@@ -28,8 +28,6 @@ slug = "54e1f321-30e8-42d1-9df5-3e22a26706ad"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Doctorow, Cory. n.d. “The `Enshittification’ of TikTok.” <i>Wired</i>. Accessed November 1, 2023. <a href="https://www.wired.com/story/tiktok-platforms-cory-doctorow/">https://www.wired.com/story/tiktok-platforms-cory-doctorow/</a>.</div>

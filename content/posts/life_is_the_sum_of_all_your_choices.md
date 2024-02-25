@@ -2,7 +2,7 @@
 title = "Life is the sum of all your choices"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-02T18:36:00-08:00
-lastmod = 2023-12-23T14:03:17-08:00
+lastmod = 2024-02-24T17:51:38-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -18,12 +18,9 @@ slug = "b8a0fa22-27a1-4f7e-8f33-ee2710494eba"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A Quote by Albert Camus.” n.d. Accessed March 3, 2023. <a href="https://www.goodreads.com/quotes/405686-life-is-a-sum-of-all-your-choices-so-what">https://www.goodreads.com/quotes/405686-life-is-a-sum-of-all-your-choices-so-what</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Logistic function"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:11:00-08:00
-lastmod = 2023-12-23T18:16:53-08:00
+lastmod = 2024-02-24T18:21:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,12 +27,9 @@ slug = "a9bbc185-640a-4182-8bc8-ba43325f0c19"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Logistic Function.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Logistic_function&oldid=1122607755">https://en.wikipedia.org/w/index.php?title=Logistic_function&#38;oldid=1122607755</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

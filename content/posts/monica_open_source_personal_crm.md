@@ -2,7 +2,7 @@
 title = "Monica (Personal relationship manager)"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T22:51:00-08:00
-lastmod = 2023-12-23T14:45:55-08:00
+lastmod = 2024-02-24T17:56:20-08:00
 draft = false
 slug = "d047a069-d533-4767-b847-4c00a9d7029e"
 +++
@@ -11,8 +11,6 @@ Monica is a [Personal relationship manager]({{< relref "personal_relationship_ma
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

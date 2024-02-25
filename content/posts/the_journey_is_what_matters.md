@@ -2,7 +2,7 @@
 title = "The journey is what matters"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T19:02:00-07:00
-lastmod = 2023-12-23T19:12:21-08:00
+lastmod = 2024-02-24T18:25:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,6 @@ slug = "1ca0d9f2-27ec-4297-95e4-395c8713618f"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

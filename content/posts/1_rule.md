@@ -2,7 +2,7 @@
 title = "1% rule"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-27T13:26:00-08:00
-lastmod = 2023-12-23T10:31:23-08:00
+lastmod = 2024-02-24T11:40:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "6db3dc17-f091-4c31-ab22-74d8ec0ebb5e"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“1\% Rule (Internet Culture).” 2021. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=1%25_rule_(Internet_culture)&oldid=1q053243579">https://en.wikipedia.org/w/index.php?title=1%25_rule_(Internet_culture)&#38;oldid=1q053243579</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

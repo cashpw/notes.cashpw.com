@@ -2,7 +2,7 @@
 title = "Greatness is a transitory experience"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:44:00-08:00
-lastmod = 2023-12-23T12:24:46-08:00
+lastmod = 2024-02-24T14:21:11-08:00
 tags = ["hastodo", "quote", "hastodo", "quote"]
 categories = ["hastodo", "quote"]
 draft = false
@@ -17,8 +17,6 @@ One of my [Favorites]({{< relref "favorites.md" >}}).
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>

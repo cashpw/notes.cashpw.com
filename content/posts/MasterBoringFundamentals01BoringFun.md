@@ -2,14 +2,14 @@
 title = "James Stuber | Master Boring Fundamentals 01: Boring Is Fun"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:51:00-08:00
-lastmod = 2023-12-23T10:32:13-08:00
+lastmod = 2024-02-24T11:40:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "3baf57be-df25-429e-9bd6-5654d2fea9cf"
 +++
 
-[James Stuber]({{< relref "james_stuber.md" >}}), (NO_ITEM_DATA:stuberMasterBoringFundamentals01BoringFun)
+[James Stuber]({{< relref "james_stuber.md" >}}), (<a href="#citeproc_bib_item_1">Stuber n.d.</a>)
 
 
 ## Summary {#summary}
@@ -45,8 +45,6 @@ Embrace the [Boring fundamentals]({{< relref "boring_fundamentals.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:stuberMasterBoringFundamentals01BoringFun</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Stuber, James. n.d. “Master Boring Fundamentals 01: Boring Is Fun.” <i>Jamesstuber.Com</i>. Accessed February 6, 2022. <a href="https://jamesstuber.com/boring-is-fun/">https://jamesstuber.com/boring-is-fun/</a>.</div>
 </div>

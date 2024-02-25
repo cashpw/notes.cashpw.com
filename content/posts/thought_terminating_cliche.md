@@ -2,7 +2,7 @@
 title = "Thought-terminating cliché"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T10:43:00-07:00
-lastmod = 2023-12-23T19:38:14-08:00
+lastmod = 2024-02-24T18:27:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,6 @@ slug = "f454378e-9a94-4c15-b8b2-44f486077626"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Thought-Terminating Cliché.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Thought-terminating_clich%C3%A9&oldid=1094540283">https://en.wikipedia.org/w/index.php?title=Thought-terminating_clich%C3%A9&#38;oldid=1094540283</a>.</div>

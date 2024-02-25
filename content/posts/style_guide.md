@@ -2,7 +2,7 @@
 title = "Style Guide"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T13:12:00-08:00
-lastmod = 2023-12-23T18:28:53-08:00
+lastmod = 2024-02-24T18:22:43-08:00
 tags = ["meta", "meta"]
 categories = ["meta"]
 draft = false
@@ -124,14 +124,11 @@ Backlinks are the backbone of a powerful [zettelkasten]({{< relref "Zettelkasten
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Porter, Adam. 2022. “Org-Protocol-Capture-Html.” <a href="https://github.com/alphapapa/org-protocol-capture-html">https://github.com/alphapapa/org-protocol-capture-html</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

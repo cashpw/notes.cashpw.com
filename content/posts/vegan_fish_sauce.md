@@ -2,7 +2,7 @@
 title = "Vegan fish sauce"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-15T14:48:00-08:00
-lastmod = 2023-12-23T20:39:11-08:00
+lastmod = 2024-02-24T18:37:17-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -45,8 +45,6 @@ slug = "98580e59-250f-4004-8b8c-8cec29fd3b29"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Baker, Minimalist. 2019. “5-Ingredient Vegan Fish Sauce.” <i>Minimalist Baker</i>. <a href="https://minimalistbaker.com/5-ingredient-vegetarian-fish-sauce/">https://minimalistbaker.com/5-ingredient-vegetarian-fish-sauce/</a>.</div>

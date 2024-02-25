@@ -2,14 +2,14 @@
 title = "Upstream | Fully Automated Luxury Communism"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T09:40:00-07:00
-lastmod = 2023-12-23T20:30:36-08:00
+lastmod = 2024-02-24T18:37:06-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "4bb6597c-bbcb-431e-8639-9c64d41412e1"
 +++
 
-[Upstream]({{< relref "upstream.md" >}}), (NO_ITEM_DATA:upstreamFullyAutomatedLuxuryCommunism2022)
+[Upstream]({{< relref "upstream.md" >}}), (<a href="#citeproc_bib_item_1">Upstream 2022</a>)
 
 
 ## Summary {#summary}
@@ -68,8 +68,6 @@ A discussion of [Fully automated luxury communism]({{< relref "fully_automated_l
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:upstreamFullyAutomatedLuxuryCommunism2022</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Upstream. 2022. “Fully Automated Luxury Communism.” <a href="https://soundcloud.com/upstreampodcast/fully-automated-luxury-communism">https://soundcloud.com/upstreampodcast/fully-automated-luxury-communism</a>.</div>
 </div>

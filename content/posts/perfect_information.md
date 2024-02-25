@@ -2,7 +2,7 @@
 title = "Perfect information"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:46:00-07:00
-lastmod = 2023-12-23T15:42:21-08:00
+lastmod = 2024-02-24T18:06:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,12 +23,9 @@ Also see [Game theory]({{< relref "game_theory.md" >}}), [Imperfect information]
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Perfect Information.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Perfect_information&oldid=1107320001">https://en.wikipedia.org/w/index.php?title=Perfect_information&#38;oldid=1107320001</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

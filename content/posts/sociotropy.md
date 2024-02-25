@@ -2,7 +2,7 @@
 title = "Sociotropy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-20T10:36:00-07:00
-lastmod = 2023-12-23T17:52:29-08:00
+lastmod = 2024-02-24T18:20:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "f1b60c4c-6161-435f-ae53-271f01264d7e"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sociotropy.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Sociotropy&oldid=1146321832">https://en.wikipedia.org/w/index.php?title=Sociotropy&#38;oldid=1146321832</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

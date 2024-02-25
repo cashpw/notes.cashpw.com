@@ -2,7 +2,7 @@
 title = "Power law"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:26:00-08:00
-lastmod = 2023-12-23T15:58:38-08:00
+lastmod = 2024-02-24T18:09:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "29d30938-ecd0-4f44-a86b-5bd7f7734f08"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Power Law.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Power_law&oldid=1120013898">https://en.wikipedia.org/w/index.php?title=Power_law&#38;oldid=1120013898</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

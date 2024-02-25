@@ -2,7 +2,7 @@
 title = "Nelson Elhage"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:56:00-08:00
-lastmod = 2023-12-23T15:02:25-08:00
+lastmod = 2024-02-24T17:58:29-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -17,11 +17,8 @@ Among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

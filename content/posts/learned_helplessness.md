@@ -2,7 +2,7 @@
 title = "Learned helplessness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T08:35:00-08:00
-lastmod = 2023-12-23T13:55:31-08:00
+lastmod = 2024-02-24T17:50:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,12 +20,9 @@ slug = "06b5c658-5513-4c18-a24d-9ed3fb4ad23b"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Learned Helplessness.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Learned_helplessness&oldid=1122264058">https://en.wikipedia.org/w/index.php?title=Learned_helplessness&#38;oldid=1122264058</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

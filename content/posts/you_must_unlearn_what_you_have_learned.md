@@ -2,7 +2,7 @@
 title = "You must unlearn what you have learned"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-22T09:22:00-07:00
-lastmod = 2023-12-23T21:18:54-08:00
+lastmod = 2024-02-24T18:38:13-08:00
 tags = ["hastodo", "quote", "hastodo", "quote"]
 categories = ["hastodo", "quote"]
 draft = false
@@ -16,12 +16,9 @@ slug = "b1803fd2-0e85-4a69-b4c9-3516194b7442"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Lucas, George. n.d. “The Empire Strikes Back.”</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

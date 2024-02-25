@@ -2,7 +2,7 @@
 title = "Todos"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:30:00-08:00
-lastmod = 2023-12-23T19:53:54-08:00
+lastmod = 2024-02-24T18:29:22-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false
@@ -19,18 +19,6 @@ slug = "29171a49-1148-45e0-b2d4-26d2066b51b7"
 
 
 ## Node idea: Future impact of climate change on USA with focus on picking a place to live {#node-idea-future-impact-of-climate-change-on-usa-with-focus-on-picking-a-place-to-live}
-
-
-## Tag nodes with `concept` {#tag-nodes-with-concept}
-
-
-## Tag nodes with `reference` {#tag-nodes-with-reference}
-
-
-## Tag nodes with `person` {#tag-nodes-with-person}
-
-
-## Tag nodes with `quote` {#tag-nodes-with-quote}
 
 
 ## Node idea: Akido/etc as a metaphor for redirecting unhelpful thoughts. "I must be productive at all times" can become helpful by redefining what it means to be productive and the types of activities which are productive. {#node-idea-akido-etc-as-a-metaphor-for-redirecting-unhelpful-thoughts-dot-i-must-be-productive-at-all-times-can-become-helpful-by-redefining-what-it-means-to-be-productive-and-the-types-of-activities-which-are-productive-dot}
@@ -144,7 +132,7 @@ Related
 
 -   [Pure Functions]({{< relref "pure_functions.md" >}})
 -   "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Linus Torvalds
--   (NO_ITEM_DATA:smithWriteCodeNotTooMuchMostlyFunctions)
+-   (<a href="#citeproc_bib_item_59">Smith n.d.</a>)
 
 
 ## Note idea: Bread and circus {#note-idea-bread-and-circus}
@@ -155,7 +143,7 @@ Related
 Related:
 
 -   [Chesterton's Fence]({{< relref "chesterton_s_fence.md" >}})
--   (NO_ITEM_DATA:matthewsaltzUnderstandFirstCritiqueLater2020)
+-   (<a href="#citeproc_bib_item_36">matthewsaltz 2020</a>)
 
 
 ## Node idea: Picking a place to live based on climate change {#node-idea-picking-a-place-to-live-based-on-climate-change}
@@ -165,9 +153,9 @@ Related:
 
 Related:
 
--   (NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPart2021)
--   (NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartII2021)
--   (NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartIII2022)
+-   (<a href="#citeproc_bib_item_51">Potter 2021a</a>)
+-   (<a href="#citeproc_bib_item_52">Potter 2021b</a>)
+-   (<a href="#citeproc_bib_item_53">Potter 2022</a>)
 
 
 ## Node idea: My dear boy, why don't you try acting? {#node-idea-my-dear-boy-why-don-t-you-try-acting}
@@ -269,7 +257,7 @@ I realized when writing this that the whole lot of it is the same as what's post
 ## Node idea: Consistency is a sign of competency; create processes for greater consistency; todo lists are good! {#node-idea-consistency-is-a-sign-of-competency-create-processes-for-greater-consistency-todo-lists-are-good}
 
 
-## Node idea: if you want to go fast, go alone; if you want to go far, go together and (NO_ITEM_DATA:whitbyWhoFirstSaidIfYouWantGoFastGoAlone) {#node-idea-if-you-want-to-go-fast-go-alone-if-you-want-to-go-far-go-together-and--no-item-data-whitbywhofirstsaidifyouwantgofastgoalone}
+## Node idea: if you want to go fast, go alone; if you want to go far, go together and (<a href="#citeproc_bib_item_71">Whitby n.d.</a>) {#node-idea-if-you-want-to-go-fast-go-alone-if-you-want-to-go-far-go-together-and}
 
 
 ## Node idea: Prefer information with a long [shelf-life]({{< relref "shelf_life_of_information.md" >}}) to [Do things that compound]({{< relref "do_things_that_compound.md" >}}) {#node-idea-prefer-information-with-a-long-shelf-life--shelf-life-of-information-dot-md--to-do-things-that-compound--do-things-that-compound-dot-md}
@@ -302,16 +290,16 @@ I realized when writing this that the whole lot of it is the same as what's post
     -   Remove the work from home policy and let people leave on their own
 
 
-## (<a href="#citeproc_bib_item_20">“Modern Monetary Theory” 2022</a>) {#1532c9}
+## (<a href="#citeproc_bib_item_39">“Modern Monetary Theory” 2022</a>) {#585b90}
 
 
-## (<a href="#citeproc_bib_item_34">“The Second Coming (Poem)” 2022</a>) {#ebfc53}
+## (<a href="#citeproc_bib_item_66">“The Second Coming (Poem)” 2022</a>) {#26d517}
 
 
-## (<a href="#citeproc_bib_item_31">“The Colossus (Painting)” 2022</a>) {#472716}
+## (<a href="#citeproc_bib_item_63">“The Colossus (Painting)” 2022</a>) {#daa5cb}
 
 
-## (<a href="#citeproc_bib_item_28">Sophie from Mars 2022</a>) {#a69a40}
+## (<a href="#citeproc_bib_item_60">Sophie from Mars 2022</a>) {#08853e}
 
 
 ## 5/3/1 {#5-3-1}
@@ -339,13 +327,13 @@ Based on [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "ann
 ## <https://thesephist.com/> {#https-thesephist-dot-com}
 
 
-## (NO_ITEM_DATA:alexanderGrowingChildrenBostromDisneyland2014) and (NO_ITEM_DATA:alexanderPoorFolksSmileNow2013) {#no-item-data-alexandergrowingchildrenbostromdisneyland2014--and--no-item-data-alexanderpoorfolkssmilenow2013}
+## (<a href="#citeproc_bib_item_2">Alexander 2014</a>) and (<a href="#citeproc_bib_item_1">Alexander 2013</a>) {#c09171}
 
 
-## (NO_ITEM_DATA:yudkowskyInadequateEquilibriaTableContents) {#no-item-data-yudkowskyinadequateequilibriatablecontents}
+## (<a href="#citeproc_bib_item_76">Yudkowsky n.d.</a>) {#90b88c}
 
 
-## (<a href="#citeproc_bib_item_37">Zvi n.d.</a>) {#54f5ba}
+## (<a href="#citeproc_bib_item_77">Zvi n.d.</a>) {#c41d5c}
 
 
 ## Law of total probability {#law-of-total-probability}
@@ -361,7 +349,7 @@ Based on [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "ann
     -   Aggregation boards/communities like Reddit, Hacker News
 
 
-## Deep dive: (<a href="#citeproc_bib_item_4">Branwen 2009</a>), (<a href="#citeproc_bib_item_5">Branwen 2010</a>) {#deep-dive}
+## Deep dive: (<a href="#citeproc_bib_item_10">Branwen 2009</a>), (<a href="#citeproc_bib_item_11">Branwen 2010</a>) {#deep-dive}
 
 
 ## RPCs {#rpcs}
@@ -376,7 +364,7 @@ Based on [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "ann
 ## Tail latency {#tail-latency}
 
 
-## Read through best of (<a href="#citeproc_bib_item_18">Luu n.d.</a>) {#read-through-best-of}
+## Read through best of (<a href="#citeproc_bib_item_35">Luu n.d.</a>) {#read-through-best-of}
 
 
 ## <https://www.lesswrong.com/s/ix7grGajtrJJYXsY3> {#https-www-dot-lesswrong-dot-com-s-ix7grgajtrjjyxsy3}
@@ -387,10 +375,10 @@ Based on [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "ann
 
 ## Air quality in homes / rooms: CO2, particulate matter, etc {#air-quality-in-homes-rooms-co2-particulate-matter-etc}
 
--   (NO_ITEM_DATA:wtfwhatthehellStaleAirCO2CognitiveFunction2021)
--   (NO_ITEM_DATA:alexanderCarbonDioxideOpenDoorPolicy2018)
--   (NO_ITEM_DATA:TrainingMySenseCO2Ppm)
--   (NO_ITEM_DATA:AskHNYouMeasureMitigateCO2YourLivingSpaceHacker)
+-   (<a href="#citeproc_bib_item_74">WTFwhatthehell 2021</a>)
+-   (<a href="#citeproc_bib_item_4">Alexander 2018</a>)
+-   (<a href="#citeproc_bib_item_68">“Training My Sense of CO2 Ppm” n.d.</a>)
+-   (<a href="#citeproc_bib_item_7">“Ask HN: Do You Measure and/or Mitigate CO2 in Your Living Space? Hacker News” n.d.</a>)
 
 
 ## Make a checklist {#make-a-checklist}
@@ -454,8 +442,8 @@ Make the process explicit.
 
 ## Effective reading / How to read {#effective-reading-how-to-read}
 
--   (NO_ITEM_DATA:puruggananHowReadScientificArticle2004)
--   (<a href="#citeproc_bib_item_14">Keshav, n.d.</a>)
+-   (<a href="#citeproc_bib_item_54">Purugganan and Hewitt 2004</a>)
+-   (<a href="#citeproc_bib_item_30">Keshav, n.d.</a>)
 -   [Mortimer Jerome Adler, Charles Van Doren | How to Read a Book]({{< relref "mortimer_jerome_adler_charles_van_doren_how_to_read_a_book.md" >}})
 
 
@@ -473,13 +461,13 @@ Make the process explicit.
 ## Note: Notes on the Synthesis of Form by Chrisopher Alexander {#note-notes-on-the-synthesis-of-form-by-chrisopher-alexander}
 
 
-## (<a href="#citeproc_bib_item_19">Meadows and Wright 2008</a>) {#9e64ac}
+## (<a href="#citeproc_bib_item_38">Meadows and Wright 2008</a>) {#96a2b2}
 
 
-## (NO_ITEM_DATA:stanleyWhyGreatnessCannotBePlannedMythObjective2015) {#no-item-data-stanleywhygreatnesscannotbeplannedmythobjective2015}
+## (<a href="#citeproc_bib_item_61">Stanley and Lehman 2015</a>) {#a0404a}
 
 
-## (<a href="#citeproc_bib_item_6">“Cybernetics” 2023</a>) {#48ea8b}
+## (<a href="#citeproc_bib_item_13">“Cybernetics” 2023</a>) {#a7482c}
 
 
 ## Tools for Conviviality, Ivan Illich {#tools-for-conviviality-ivan-illich}
@@ -488,31 +476,31 @@ Make the process explicit.
 ## How buildings learn by Stweart Brand {#how-buildings-learn-by-stweart-brand}
 
 
-## (<a href="#citeproc_bib_item_26">“Shearing Layers” 2021</a>) {#2768aa}
+## (<a href="#citeproc_bib_item_57">“Shearing Layers” 2021</a>) {#4d3d28}
 
 
-## (NO_ITEM_DATA:woodsBasicPatternsHowAdaptiveSystemsFail2011) {#no-item-data-woodsbasicpatternshowadaptivesystemsfail2011}
+## (<a href="#citeproc_bib_item_72">Woods and Branlat 2011</a>) {#a18b73}
 
 
-## (<a href="#citeproc_bib_item_24">“Patterns Gordon Brander” n.d.</a>) {#9daaa0}
+## (<a href="#citeproc_bib_item_50">“Patterns Gordon Brander” n.d.</a>) {#1732f9}
 
 
-## (NO_ITEM_DATA:WorldGDPLastTwoMillennia); [Moloch]({{< relref "moloch.md" >}}) {#no-item-data-worldgdplasttwomillennia--moloch--moloch-dot-md}
+## (<a href="#citeproc_bib_item_73">“World GDP over the Last Two Millennia” n.d.</a>); [Moloch]({{< relref "moloch.md" >}}) {#moloch--moloch-dot-md}
 
 
-## (NO_ITEM_DATA:blechmanSciFiAuthorMyBookInventedTormentNexusCautionaryTaleTech2021) {#no-item-data-blechmanscifiauthormybookinventedtormentnexuscautionarytaletech2021}
+## (<a href="#citeproc_bib_item_8">Blechman 2021</a>) {#492c40}
 
 
-## (NO_ITEM_DATA:ThreadTivadarDankaThreadReaderApp), (NO_ITEM_DATA:dankaBeholdOneMightiestToolsMathematicsCamelPrincipleAmDeadSerious2022) {#no-item-data-threadtivadardankathreadreaderapp----no-item-data-dankabeholdonemightiesttoolsmathematicscamelprincipleamdeadserious2022}
+## (<a href="#citeproc_bib_item_67">“Thread by @TivadarDanka on Thread Reader App” n.d.</a>), (<a href="#citeproc_bib_item_14">Danka 2022</a>) {#d6c9b4}
 
 
-## (NO_ITEM_DATA:hickelWantTellYouStory) {#no-item-data-hickelwanttellyoustory}
+## (<a href="#citeproc_bib_item_27">Hickel n.d.</a>) {#d33e0e}
 
 
-## (NO_ITEM_DATA:neededEpisode157HowCultureWarsLabelObscuresTrivializesLifeandDeathPolitical2022) {#no-item-data-neededepisode157howculturewarslabelobscurestrivializeslifeanddeathpolitical2022}
+## (<a href="#citeproc_bib_item_41">Needed 2022</a>) {#0eaeac}
 
 
-## (<a href="#citeproc_bib_item_21">Mollick n.d.</a>) {#2a5067}
+## (<a href="#citeproc_bib_item_40">Mollick n.d.</a>) {#fb5d04}
 
 
 ## <https://probml.github.io/pml-book/book2.html> {#https-probml-dot-github-dot-io-pml-book-book2-dot-html}
@@ -1778,19 +1766,19 @@ Fahrenheit to Celsius and back
 -   Berlin wall went up and when it went down
 
 
-## (<a href="#citeproc_bib_item_9">“El Niño” 2023</a>), (<a href="#citeproc_bib_item_15">“La Niña” 2023</a>), (<a href="#citeproc_bib_item_10">“El NiñoSouthern Oscillation” 2022</a>) {#30c1a1}
+## (<a href="#citeproc_bib_item_21">“El Niño” 2023</a>), (<a href="#citeproc_bib_item_32">“La Niña” 2023</a>), (<a href="#citeproc_bib_item_22">“El NiñoSouthern Oscillation” 2022</a>) {#4ea1be}
 
 
-## (<a href="#citeproc_bib_item_33">“The Mines” 2018</a>) {#d27683}
+## (<a href="#citeproc_bib_item_65">“The Mines” 2018</a>) {#c9f8bb}
 
 
-## (<a href="#citeproc_bib_item_32">“The Kolmogorov Option” 2017</a>), <https://news.ycombinator.com/item?id=14966002> {#https-news-dot-ycombinator-dot-com-item-id-14966002}
+## (<a href="#citeproc_bib_item_64">“The Kolmogorov Option” 2017</a>), <https://news.ycombinator.com/item?id=14966002> {#https-news-dot-ycombinator-dot-com-item-id-14966002}
 
 
-## (NO_ITEM_DATA:kuhnStaringAbyssCoreLifeSkill) {#no-item-data-kuhnstaringabysscorelifeskill}
+## (<a href="#citeproc_bib_item_31">Kuhn n.d.</a>) {#f10d35}
 
 
-## (<a href="#citeproc_bib_item_35">“Twelve Leverage Points” 2021</a>) {#0d44c0}
+## (<a href="#citeproc_bib_item_69">“Twelve Leverage Points” 2021</a>) {#ef74ff}
 
 
 ## <https://www.goodreads.com/quotes/7870768-never-believe-that-anti-semites-are-completely-unaware-of-the-absurdity> {#https-www-dot-goodreads-dot-com-quotes-7870768-never-believe-that-anti-semites-are-completely-unaware-of-the-absurdity}
@@ -1811,16 +1799,16 @@ Fahrenheit to Celsius and back
 ## beta test, de-risk, non-fiction writing book using blog posts as way of gauging interest and engagement {#beta-test-de-risk-non-fiction-writing-book-using-blog-posts-as-way-of-gauging-interest-and-engagement}
 
 
-## (NO_ITEM_DATA:apprehensiveshock655WhatWorstPartHavingChild2023) {#no-item-data-apprehensiveshock655whatworstparthavingchild2023}
+## (<a href="#citeproc_bib_item_6">ApprehensiveShock655 2023</a>) {#3fbfe2}
 
 
-## (NO_ITEM_DATA:flipstablesDrunkPostThingsVeLearnedSrEngineer2021) {#no-item-data-flipstablesdrunkpostthingsvelearnedsrengineer2021}
+## (<a href="#citeproc_bib_item_24">flipstables 2021</a>) {#045eef}
 
 
-## (<a href="#citeproc_bib_item_25">“Reflections on a Decade of Coding” n.d.</a>) {#e8bac0}
+## (<a href="#citeproc_bib_item_55">“Reflections on a Decade of Coding” n.d.</a>) {#e4cc08}
 
 
-## (NO_ITEM_DATA:vbtempSoberPostThingsVeLearnedDownlevelingMyCareer2021) {#no-item-data-vbtempsoberpostthingsvelearneddownlevelingmycareer2021}
+## (<a href="#citeproc_bib_item_70">vbtemp 2021</a>) {#c20389}
 
 
 ## <https://betterexplained.com/guides/calculus/> {#https-betterexplained-dot-com-guides-calculus}
@@ -1856,48 +1844,48 @@ Fahrenheit to Celsius and back
 ## <https://news.ycombinator.com/item?id=34816145> {#https-news-dot-ycombinator-dot-com-item-id-34816145}
 
 
-## (NO_ITEM_DATA:ross40HzBinauralBeatsEnhanceTrainingMitigateAttentionalBlink2020) {#no-item-data-ross40hzbinauralbeatsenhancetrainingmitigateattentionalblink2020}
+## (<a href="#citeproc_bib_item_56">Ross and Lopez 2020</a>) {#e280ff}
 
-(<a href="#citeproc_bib_item_23">“Online Tone Generator” n.d.</a>)
-
-
-## (<a href="#citeproc_bib_item_1">Alexander 2015</a>) {#665d32}
+(<a href="#citeproc_bib_item_48">“Online Tone Generator” n.d.</a>)
 
 
-## (<a href="#citeproc_bib_item_30">“The 48 Laws of Power” 2023</a>) {#49204d}
+## (<a href="#citeproc_bib_item_3">Alexander 2015</a>) {#1e98e7}
 
 
-## (<a href="#citeproc_bib_item_29">“Stronger by Science” n.d.</a>) {#836d53}
-
--   (NO_ITEM_DATA:nuckolsHowBenchPressDefinitiveGuide)
--   (NO_ITEM_DATA:nuckolsHowSquatDefinitiveGuide)
--   (NO_ITEM_DATA:nuckolsHowDeadliftDefinitiveGuide)
--   (NO_ITEM_DATA:nuckolsCompleteStrengthTrainingGuide)
--   (NO_ITEM_DATA:nuckolsComprehensiveCoreTrainingGuide2023)
+## (NO_ITEM_DATA:48LawsPower2023) {#no-item-data-48lawspower2023}
 
 
-## (<a href="#citeproc_bib_item_11">Evans 2022</a>) {#491e21}
+## (<a href="#citeproc_bib_item_62">“Stronger by Science” n.d.</a>) {#00f89d}
+
+-   (<a href="#citeproc_bib_item_44">Nuckols n.d.-a</a>)
+-   (<a href="#citeproc_bib_item_46">Nuckols n.d.-c</a>)
+-   (<a href="#citeproc_bib_item_45">Nuckols n.d.-b</a>)
+-   (<a href="#citeproc_bib_item_47">Nuckols n.d.-d</a>)
+-   (<a href="#citeproc_bib_item_43">Nuckols 2023</a>)
 
 
-## (NO_ITEM_DATA:oroszDropWhatYouReDoing) {#no-item-data-oroszdropwhatyouredoing}
+## (<a href="#citeproc_bib_item_23">Evans 2022</a>) {#1e607e}
 
 
-## (NO_ITEM_DATA:clearGreatTalksMostPeopleHaveNeverHeard) {#no-item-data-cleargreattalksmostpeoplehaveneverheard}
+## (<a href="#citeproc_bib_item_49">Orosz n.d.</a>) {#37dfbe}
 
 
-## (NO_ITEM_DATA:dynomightArePersonalitiesJustBetter2021) {#no-item-data-dynomightarepersonalitiesjustbetter2021}
+## (<a href="#citeproc_bib_item_12">Clear n.d.</a>) {#79b40e}
 
 
-## (NO_ITEM_DATA:dynomightUnderratedReasonsBeThankful2021) {#no-item-data-dynomightunderratedreasonsbethankful2021}
+## (<a href="#citeproc_bib_item_18">dynomight 2021b</a>) {#7dd4fe}
 
 
-## (NO_ITEM_DATA:dynomightBetterAirQualityEasiestWayNot2021) {#no-item-data-dynomightbetterairqualityeasiestwaynot2021}
+## (<a href="#citeproc_bib_item_20">dynomight 2021d</a>) {#6d8831}
 
 
-## (NO_ITEM_DATA:dynomightBigAlcoholStudyThatDidnHappenMyPrimalScreamRage2021) {#no-item-data-dynomightbigalcoholstudythatdidnhappenmyprimalscreamrage2021}
+## (<a href="#citeproc_bib_item_17">dynomight 2021a</a>) {#5382fb}
 
 
-## (<a href="#citeproc_bib_item_27">“Shuhari” 2023</a>) {#04c933}
+## (<a href="#citeproc_bib_item_19">dynomight 2021c</a>) {#a31fd9}
+
+
+## (<a href="#citeproc_bib_item_58">“Shuhari” 2023</a>) {#0ffbbd}
 
 
 ## <https://news.ycombinator.com/item?id=32897784> {#https-news-dot-ycombinator-dot-com-item-id-32897784}
@@ -1912,7 +1900,7 @@ Fahrenheit to Celsius and back
 ## <https://twitter.com/eriktorenberg/status/1244050977180618752?lang=en> {#https-twitter-dot-com-eriktorenberg-status-1244050977180618752-lang-en}
 
 
-## (<a href="#citeproc_bib_item_2">Alicorn 2018</a>) {#6ab134}
+## (<a href="#citeproc_bib_item_5">Alicorn 2018</a>) {#859cdb}
 
 
 ## Add quote: "Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them." {#add-quote-once-men-turned-their-thinking-over-to-machines-in-the-hope-that-this-would-set-them-free-dot-but-that-only-permitted-other-men-with-machines-to-enslave-them-dot}
@@ -1921,19 +1909,19 @@ Fahrenheit to Celsius and back
 ## Origin of "Butlarian Jihad": Samuel Butler's Erewhon {#origin-of-butlarian-jihad-samuel-butler-s-erewhon}
 
 
-## (NO_ITEM_DATA:graeberUtopiaRulesTechnologyStupiditySecretJoysBureaucracy2016) {#no-item-data-graeberutopiarulestechnologystupiditysecretjoysbureaucracy2016}
+## (<a href="#citeproc_bib_item_25">Graeber 2016</a>) {#19ef68}
 
 
 ## <https://news.ycombinator.com/item?id=35221609> {#https-news-dot-ycombinator-dot-com-item-id-35221609}
 
 
-## (NO_ITEM_DATA:HighTrustLowTrustSocieties2022) {#no-item-data-hightrustlowtrustsocieties2022}
+## (<a href="#citeproc_bib_item_28">“High Trust and Low Trust Societies” 2022</a>) {#9b3822}
 
 
-## (<a href="#citeproc_bib_item_8">“Disjunctive Normal Form” 2023</a>) {#2f310d}
+## (<a href="#citeproc_bib_item_16">“Disjunctive Normal Form” 2023</a>) {#4bf67c}
 
 
-## (<a href="#citeproc_bib_item_13">“Hilbert Curve” 2023</a>) {#f0ceff}
+## (<a href="#citeproc_bib_item_29">“Hilbert Curve” 2023</a>) {#b4c105}
 
 
 ## <https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2022> {#https-newsletter-dot-pragmaticengineer-dot-com-p-the-pragmatic-engineer-in-2022}
@@ -1942,10 +1930,10 @@ Fahrenheit to Celsius and back
 ## <https://newsletter.pragmaticengineer.com/p/compensation-at-tech-companies> {#https-newsletter-dot-pragmaticengineer-dot-com-p-compensation-at-tech-companies}
 
 
-## (<a href="#citeproc_bib_item_36">“Yak Shaving” 2023</a>) {#a587b7}
+## (<a href="#citeproc_bib_item_75">“Yak Shaving” 2023</a>) {#b858e7}
 
 
-## (<a href="#citeproc_bib_item_22">“Noble Lie” 2023</a>) {#4d7de7}
+## (<a href="#citeproc_bib_item_42">“Noble Lie” 2023</a>) {#dfa36c}
 
 
 ## <https://www.reddit.com/r/ExperiencedDevs/comments/w4jba9/unpopular_opinion_im_the_most_helpful_onboarding/> {#https-www-dot-reddit-dot-com-r-experienceddevs-comments-w4jba9-unpopular-opinion-im-the-most-helpful-onboarding}
@@ -2002,7 +1990,7 @@ Fahrenheit to Celsius and back
 ## <https://www.reddit.com/r/ExperiencedDevs/comments/w3xg5j/how_am_i_supposed_to_get_work_done_with_so_many/> {#https-www-dot-reddit-dot-com-r-experienceddevs-comments-w3xg5j-how-am-i-supposed-to-get-work-done-with-so-many}
 
 
-## (<a href="#citeproc_bib_item_12">“Heterotopias | Games + Architecture” n.d.</a>) {#331cb8}
+## (<a href="#citeproc_bib_item_26">“Heterotopias Games + Architecture” n.d.</a>) {#5a4b5f}
 
 
 ## <https://news.ycombinator.com/item?id=36211250> {#https-news-dot-ycombinator-dot-com-item-id-36211250}
@@ -2011,19 +1999,19 @@ Fahrenheit to Celsius and back
 ## <https://news.ycombinator.com/item?id=35511357> {#https-news-dot-ycombinator-dot-com-item-id-35511357}
 
 
-## (<a href="#citeproc_bib_item_3">Borretti 2023</a>) {#217143}
+## (<a href="#citeproc_bib_item_9">Borretti 2023</a>) {#70279a}
 
 
-## (NO_ITEM_DATA:matuschakHowCanWeDevelopTransformativeToolsThought2019) {#no-item-data-matuschakhowcanwedeveloptransformativetoolsthought2019}
+## (<a href="#citeproc_bib_item_37">Matuschak and Nielsen 2019</a>) {#97d697}
 
 
-## (<a href="#citeproc_bib_item_16">Larson 2023</a>) {#05e5a6}
+## (<a href="#citeproc_bib_item_33">Larson 2023</a>) {#57c4b8}
 
 
-## (<a href="#citeproc_bib_item_7">von Dassow n.d.</a>) {#7e28ff}
+## (NO_ITEM_DATA:dassowStudioMathPotters) {#no-item-data-dassowstudiomathpotters}
 
 
-## (NO_ITEM_DATA:dassowStudioMathPottersPartVolume) {#no-item-data-dassowstudiomathpotterspartvolume}
+## (<a href="#citeproc_bib_item_15">von Dassow n.d.</a>) {#8f8ffc}
 
 
 ## Digitize a crepe recipe {#digitize-a-crepe-recipe}
@@ -2031,7 +2019,7 @@ Fahrenheit to Celsius and back
 
 ## Digitize kenji's red sauce recipe {#digitize-kenji-s-red-sauce-recipe}
 
-(<a href="#citeproc_bib_item_17">López-Alt n.d.</a>)
+(<a href="#citeproc_bib_item_34">López-Alt n.d.</a>)
 
 
 ## What is stoneware, earthenware, etc {#what-is-stoneware-earthenware-etc}
@@ -2042,86 +2030,84 @@ Fahrenheit to Celsius and back
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2015. “The Parable Of The Talents.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/">https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Alicorn. 2018. “Expressive Vocabulary.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/H7Rs8HqrwBDque8Ru/expressive-vocabulary">https://www.lesswrong.com/posts/H7Rs8HqrwBDque8Ru/expressive-vocabulary</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Borretti, Fernando. 2023. “Effective Spaced Repetition.” <i>Fernando Borretti</i>. <a href="https://borretti.me/article/effective-spaced-repetition">https://borretti.me/article/effective-spaced-repetition</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Branwen, Gwern. 2009. “Essays,” January. <a href="https://www.gwern.net/index">https://www.gwern.net/index</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>———. 2010. “About This Website,” October. <a href="https://www.gwern.net/About">https://www.gwern.net/About</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>“Cybernetics.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Cybernetics&oldid=1131075288">https://en.wikipedia.org/w/index.php?title=Cybernetics&#38;oldid=1131075288</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Dassow, Sumi von. n.d. “In the Studio: Math for Potters Part 2: Volume.” <i>Default</i>. Accessed August 7, 2023. <a href="https://ceramicartsnetwork.org/pottery-making-illustrated/pottery-making-illustrated-article/in-the-studio-math-for-potters-part-2-volume">https://ceramicartsnetwork.org/pottery-making-illustrated/pottery-making-illustrated-article/in-the-studio-math-for-potters-part-2-volume</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>“Disjunctive Normal Form.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&oldid=1137077528">https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&#38;oldid=1137077528</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>“El Niño.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=El_Ni%C3%B1o&oldid=1131505998">https://en.wikipedia.org/w/index.php?title=El_Ni%C3%B1o&#38;oldid=1131505998</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>“El NiñoSouthern Oscillation.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=El_Ni%C3%B1o%E2%80%93Southern_Oscillation&oldid=1110909146">https://en.wikipedia.org/w/index.php?title=El_Ni%C3%B1o%E2%80%93Southern_Oscillation&#38;oldid=1110909146</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Evans, Simon. 2022. “Chronicle of a Death Foretold.” <i>Patreon</i>. <a href="https://www.patreon.com/posts/chronicle-of-66798563">https://www.patreon.com/posts/chronicle-of-66798563</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>“Heterotopias | Games + Architecture.” n.d. <i>Heterotopias</i>. Accessed July 10, 2023. <a href="http://www.heterotopiaszine.com/">http://www.heterotopiaszine.com/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>“Hilbert Curve.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Hilbert_curve&oldid=1131483616">https://en.wikipedia.org/w/index.php?title=Hilbert_curve&#38;oldid=1131483616</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Keshav, S. n.d. “How to Read a Paper.”</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>“La Niña.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=La_Ni%C3%B1a&oldid=1130990498">https://en.wikipedia.org/w/index.php?title=La_Ni%C3%B1a&#38;oldid=1130990498</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>Larson, Will. 2023. “Irrational Exuberance.” <a href="https://lethain.com/">https://lethain.com/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>López-Alt, James Kenji. n.d. “The Best Italian-American Tomato Sauce Recipe.” <i>Serious Eats</i>. Accessed December 15, 2023. <a href="https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe">https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>Luu, Dan. n.d. “Home.” Accessed December 2, 2022. <a href="https://danluu.com/">https://danluu.com/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Meadows, Donella H., and Diana Wright. 2008. <i>Thinking in Systems: A Primer</i>. White River Junction, Vt: Chelsea Green Pub.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>“Modern Monetary Theory.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Modern_Monetary_Theory&oldid=1122667486">https://en.wikipedia.org/w/index.php?title=Modern_Monetary_Theory&#38;oldid=1122667486</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>Mollick, Ethan. n.d. “Read These 3 Pages.” Accessed January 3, 2023. <a href="https://threadreaderapp.com/thread/1588691459741745153.html">https://threadreaderapp.com/thread/1588691459741745153.html</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>“Noble Lie.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Noble_lie&oldid=1154099002">https://en.wikipedia.org/w/index.php?title=Noble_lie&#38;oldid=1154099002</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>“Online Tone Generator.” n.d. Accessed February 25, 2023. <a href="https://onlinetonegenerator.com/binauralbeats.html">https://onlinetonegenerator.com/binauralbeats.html</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>“Patterns Gordon Brander.” n.d. Accessed January 2, 2023. <a href="https://gordonbrander.com/pattern">https://gordonbrander.com/pattern</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>“Reflections on a Decade of Coding.” n.d. Accessed February 14, 2022. <a href="https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding">https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>“Shearing Layers.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Shearing_layers&oldid=1060361096">https://en.wikipedia.org/w/index.php?title=Shearing_layers&#38;oldid=1060361096</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>“Shuhari.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Shuhari&oldid=1142477091">https://en.wikipedia.org/w/index.php?title=Shuhari&#38;oldid=1142477091</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>Sophie from Mars. 2022. “Kaiju | Monster Men.” <a href="https://www.youtube.com/watch?v=C6kc6hXm3LA">https://www.youtube.com/watch?v=C6kc6hXm3LA</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>“Stronger by Science.” n.d. <i>Stronger by Science</i>. Accessed February 26, 2023. <a href="https://www.strongerbyscience.com/">https://www.strongerbyscience.com/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>“The 48 Laws of Power.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=The_48_Laws_of_Power&oldid=1130957995">https://en.wikipedia.org/w/index.php?title=The_48_Laws_of_Power&#38;oldid=1130957995</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>“The Colossus (Painting).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=The_Colossus_(painting)&oldid=1116045661">https://en.wikipedia.org/w/index.php?title=The_Colossus_(painting)&#38;oldid=1116045661</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>“The Kolmogorov Option.” 2017. <i>Shtetl-Optimized</i>. <a href="https://scottaaronson.blog/?p=3376">https://scottaaronson.blog/?p=3376</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_33"></a>“The Mines.” 2018. <i>Pedestrian Observations</i>. <a href="https://pedestrianobservations.com/2018/09/24/the-mines/">https://pedestrianobservations.com/2018/09/24/the-mines/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_34"></a>“The Second Coming (Poem).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=The_Second_Coming_(poem)&oldid=1122659758">https://en.wikipedia.org/w/index.php?title=The_Second_Coming_(poem)&#38;oldid=1122659758</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_35"></a>“Twelve Leverage Points.” 2021. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Twelve_leverage_points&oldid=1047560866">https://en.wikipedia.org/w/index.php?title=Twelve_leverage_points&#38;oldid=1047560866</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_36"></a>“Yak Shaving.” 2023. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=yak_shaving&oldid=71132645">https://en.wiktionary.org/w/index.php?title=yak_shaving&#38;oldid=71132645</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_37"></a>Zvi. n.d. “Moloch Hasn’t Won.” Accessed November 23, 2022. <a href="https://www.lesswrong.com/posts/ham9i5wf4JCexXnkN/moloch-hasn-t-won">https://www.lesswrong.com/posts/ham9i5wf4JCexXnkN/moloch-hasn-t-won</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:smithWriteCodeNotTooMuchMostlyFunctions</div>
-  <div class="csl-entry">NO_ITEM_DATA:matthewsaltzUnderstandFirstCritiqueLater2020</div>
-  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPart2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartII2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:potterHowDesignHouseLast1000YearsPartIII2022</div>
-  <div class="csl-entry">NO_ITEM_DATA:whitbyWhoFirstSaidIfYouWantGoFastGoAlone</div>
-  <div class="csl-entry">NO_ITEM_DATA:alexanderGrowingChildrenBostromDisneyland2014</div>
-  <div class="csl-entry">NO_ITEM_DATA:alexanderPoorFolksSmileNow2013</div>
-  <div class="csl-entry">NO_ITEM_DATA:yudkowskyInadequateEquilibriaTableContents</div>
-  <div class="csl-entry">NO_ITEM_DATA:wtfwhatthehellStaleAirCO2CognitiveFunction2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:alexanderCarbonDioxideOpenDoorPolicy2018</div>
-  <div class="csl-entry">NO_ITEM_DATA:TrainingMySenseCO2Ppm</div>
-  <div class="csl-entry">NO_ITEM_DATA:AskHNYouMeasureMitigateCO2YourLivingSpaceHacker</div>
-  <div class="csl-entry">NO_ITEM_DATA:puruggananHowReadScientificArticle2004</div>
-  <div class="csl-entry">NO_ITEM_DATA:stanleyWhyGreatnessCannotBePlannedMythObjective2015</div>
-  <div class="csl-entry">NO_ITEM_DATA:woodsBasicPatternsHowAdaptiveSystemsFail2011</div>
-  <div class="csl-entry">NO_ITEM_DATA:WorldGDPLastTwoMillennia</div>
-  <div class="csl-entry">NO_ITEM_DATA:blechmanSciFiAuthorMyBookInventedTormentNexusCautionaryTaleTech2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:ThreadTivadarDankaThreadReaderApp</div>
-  <div class="csl-entry">NO_ITEM_DATA:dankaBeholdOneMightiestToolsMathematicsCamelPrincipleAmDeadSerious2022</div>
-  <div class="csl-entry">NO_ITEM_DATA:hickelWantTellYouStory</div>
-  <div class="csl-entry">NO_ITEM_DATA:neededEpisode157HowCultureWarsLabelObscuresTrivializesLifeandDeathPolitical2022</div>
-  <div class="csl-entry">NO_ITEM_DATA:kuhnStaringAbyssCoreLifeSkill</div>
-  <div class="csl-entry">NO_ITEM_DATA:apprehensiveshock655WhatWorstPartHavingChild2023</div>
-  <div class="csl-entry">NO_ITEM_DATA:flipstablesDrunkPostThingsVeLearnedSrEngineer2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:vbtempSoberPostThingsVeLearnedDownlevelingMyCareer2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:ross40HzBinauralBeatsEnhanceTrainingMitigateAttentionalBlink2020</div>
-  <div class="csl-entry">NO_ITEM_DATA:nuckolsHowBenchPressDefinitiveGuide</div>
-  <div class="csl-entry">NO_ITEM_DATA:nuckolsHowSquatDefinitiveGuide</div>
-  <div class="csl-entry">NO_ITEM_DATA:nuckolsHowDeadliftDefinitiveGuide</div>
-  <div class="csl-entry">NO_ITEM_DATA:nuckolsCompleteStrengthTrainingGuide</div>
-  <div class="csl-entry">NO_ITEM_DATA:nuckolsComprehensiveCoreTrainingGuide2023</div>
-  <div class="csl-entry">NO_ITEM_DATA:oroszDropWhatYouReDoing</div>
-  <div class="csl-entry">NO_ITEM_DATA:clearGreatTalksMostPeopleHaveNeverHeard</div>
-  <div class="csl-entry">NO_ITEM_DATA:dynomightArePersonalitiesJustBetter2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:dynomightUnderratedReasonsBeThankful2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:dynomightBetterAirQualityEasiestWayNot2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:dynomightBigAlcoholStudyThatDidnHappenMyPrimalScreamRage2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:graeberUtopiaRulesTechnologyStupiditySecretJoysBureaucracy2016</div>
-  <div class="csl-entry">NO_ITEM_DATA:HighTrustLowTrustSocieties2022</div>
-  <div class="csl-entry">NO_ITEM_DATA:matuschakHowCanWeDevelopTransformativeToolsThought2019</div>
-  <div class="csl-entry">NO_ITEM_DATA:dassowStudioMathPottersPartVolume</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2013. “Poor Folks Do SmileFor Now.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2013/04/06/poor-folks-do-smile-for-now/">https://slatestarcodex.com/2013/04/06/poor-folks-do-smile-for-now/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2014. “Growing Children For Bostrom’s Disneyland.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/07/13/growing-children-for-bostroms-disneyland/">https://slatestarcodex.com/2014/07/13/growing-children-for-bostroms-disneyland/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———. 2015. “The Parable Of The Talents.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/">https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———. 2018. “Carbon Dioxide: An Open Door Policy.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2018/08/23/carbon-dioxide-an-open-door-policy/">https://slatestarcodex.com/2018/08/23/carbon-dioxide-an-open-door-policy/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Alicorn. 2018. “Expressive Vocabulary.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/H7Rs8HqrwBDque8Ru/expressive-vocabulary">https://www.lesswrong.com/posts/H7Rs8HqrwBDque8Ru/expressive-vocabulary</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>ApprehensiveShock655. 2023. “What’s the Worst Part of Having a Child?” Reddit Post. <i>R/Askreddit</i>. <a href="www.reddit.com/r/AskReddit/comments/10iqvtp/whats_the_worst_part_of_having_a_child/">www.reddit.com/r/AskReddit/comments/10iqvtp/whats_the_worst_part_of_having_a_child/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>“Ask HN: Do You Measure and/or Mitigate CO2 in Your Living Space? Hacker News.” n.d. Accessed December 6, 2022. <a href="https://news.ycombinator.com/item?id=33864195">https://news.ycombinator.com/item?id=33864195</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Blechman, Alex. 2021. “Sci-Fi Author: In My Book I Invented the Torment Nexus as a Cautionary Tale Tech Company: At Long Last, We Have Created the Torment Nexus from Classic Sci-Fi Novel Don’t Create The Torment Nexus.” Tweet. <i>Twitter</i>. <a href="https://mobile.twitter.com/alexblechman/status/1457842724128833538">https://mobile.twitter.com/alexblechman/status/1457842724128833538</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Borretti, Fernando. 2023. “Effective Spaced Repetition.” <i>Fernando Borretti</i>. <a href="https://borretti.me/article/effective-spaced-repetition">https://borretti.me/article/effective-spaced-repetition</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Branwen, Gwern. 2009. “Essays,” January. <a href="https://www.gwern.net/index">https://www.gwern.net/index</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>———. 2010. “About This Website,” October. <a href="https://www.gwern.net/About">https://www.gwern.net/About</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>Clear, James. n.d. “Great Talks Most People Have Never Heard.” <i>James Clear</i>. Accessed March 3, 2023. <a href="https://jamesclear.com/great-speeches">https://jamesclear.com/great-speeches</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>“Cybernetics.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Cybernetics&oldid=1131075288">https://en.wikipedia.org/w/index.php?title=Cybernetics&#38;oldid=1131075288</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Danka, Tivadar. 2022. “Behold One of the Mightiest Tools in Mathematics: The Camel Principle. I Am Dead Serious. Deep down, This Tiny Rule Is the Cog in Many Methods. Ones That You Use Every Day. Here Is What It Is, How It Works, and Why It Is Essential. https://t.co/cevNDm2ASe.” Tweet. <i>Twitter</i>. <a href="https://mobile.twitter.com/TivadarDanka/status/1588131890040434688">https://mobile.twitter.com/TivadarDanka/status/1588131890040434688</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Dassow, Sumi von. n.d. “In the Studio: Math for Potters Part 2: Volume.” <i>Default</i>. Accessed August 7, 2023. <a href="https://ceramicartsnetwork.org/pottery-making-illustrated/pottery-making-illustrated-article/in-the-studio-math-for-potters-part-2-volume">https://ceramicartsnetwork.org/pottery-making-illustrated/pottery-making-illustrated-article/in-the-studio-math-for-potters-part-2-volume</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>“Disjunctive Normal Form.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&oldid=1137077528">https://en.wikipedia.org/w/index.php?title=Disjunctive_normal_form&#38;oldid=1137077528</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>dynomight. 2021a. “Better Air Quality Is the Easiest Way Not to Die.” <i>Dynomight</i>. <a href="https://dynomight.net/air/">https://dynomight.net/air/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>———. 2021b. “Are Some Personalities Just Better?” <i>Dynomight</i>. <a href="https://dynomight.net/better-personalities/">https://dynomight.net/better-personalities/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>———. 2021c. “The Big Alcohol Study That Didn’t Happen: My Primal Scream of Rage.” <i>Dynomight</i>. <a href="https://dynomight.net/alcohol-trial/">https://dynomight.net/alcohol-trial/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>———. 2021d. “Underrated Reasons to Be Thankful.” <i>Dynomight</i>. <a href="https://dynomight.net/thanks/">https://dynomight.net/thanks/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>“El Niño.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=El_Ni%C3%B1o&oldid=1131505998">https://en.wikipedia.org/w/index.php?title=El_Ni%C3%B1o&#38;oldid=1131505998</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>“El NiñoSouthern Oscillation.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=El_Ni%C3%B1o%E2%80%93Southern_Oscillation&oldid=1110909146">https://en.wikipedia.org/w/index.php?title=El_Ni%C3%B1o%E2%80%93Southern_Oscillation&#38;oldid=1110909146</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>Evans, Simon. 2022. “Chronicle of a Death Foretold.” <i>Patreon</i>. <a href="https://www.patreon.com/posts/chronicle-of-66798563">https://www.patreon.com/posts/chronicle-of-66798563</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>flipstables. 2021. “Drunk Post: Things I’ve Learned as a Sr Engineer.” Reddit Post. <i>R/Experienceddevs</i>. <a href="www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/">www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>Graeber, David. 2016. <i>The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy</i>. First Melville House paperback printing. Brooklyn, NY London: Melville House Publishing.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>“Heterotopias Games + Architecture.” n.d. <i>Heterotopias</i>. Accessed July 10, 2023. <a href="http://www.heterotopiaszine.com/">http://www.heterotopiaszine.com/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>Hickel, Jason. n.d. “I Want to Tell You a Story.” Accessed January 3, 2023. <a href="https://threadreaderapp.com/thread/1542829693115801601.html">https://threadreaderapp.com/thread/1542829693115801601.html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>“High Trust and Low Trust Societies.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=High_trust_and_low_trust_societies&oldid=1122545565">https://en.wikipedia.org/w/index.php?title=High_trust_and_low_trust_societies&#38;oldid=1122545565</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>“Hilbert Curve.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Hilbert_curve&oldid=1131483616">https://en.wikipedia.org/w/index.php?title=Hilbert_curve&#38;oldid=1131483616</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>Keshav, S. n.d. “How to Read a Paper.”</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>Kuhn, Ben. n.d. “Staring into the Abyss as a Core Life Skill.” <i>Benkuhn.Net</i>. Accessed January 12, 2023. <a href="https://www.benkuhn.net/abyss/">https://www.benkuhn.net/abyss/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>“La Niña.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=La_Ni%C3%B1a&oldid=1130990498">https://en.wikipedia.org/w/index.php?title=La_Ni%C3%B1a&#38;oldid=1130990498</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_33"></a>Larson, Will. 2023. “Irrational Exuberance.” <a href="https://lethain.com/">https://lethain.com/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_34"></a>López-Alt, James Kenji. n.d. “The Best Italian-American Tomato Sauce Recipe.” <i>Serious Eats</i>. Accessed December 15, 2023. <a href="https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe">https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_35"></a>Luu, Dan. n.d. “Home.” Accessed December 2, 2022. <a href="https://danluu.com/">https://danluu.com/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_36"></a>matthewsaltz. 2020. “Understand First, Critique Later.” <i>Ø$\Delta$</i>. <a href="https://matthewsaltz.wordpress.com/2020/05/21/understand-first-critique-later/">https://matthewsaltz.wordpress.com/2020/05/21/understand-first-critique-later/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_37"></a>Matuschak, Andy, and Michael Nielsen. 2019. “How Can We Develop Transformative Tools for Thought?” <a href="https://numinous.productions/ttft">https://numinous.productions/ttft</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_38"></a>Meadows, Donella H., and Diana Wright. 2008. <i>Thinking in Systems: A Primer</i>. White River Junction, Vt: Chelsea Green Pub.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_39"></a>“Modern Monetary Theory.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Modern_Monetary_Theory&oldid=1122667486">https://en.wikipedia.org/w/index.php?title=Modern_Monetary_Theory&#38;oldid=1122667486</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_40"></a>Mollick, Ethan. n.d. “Read These 3 Pages.” Accessed January 3, 2023. <a href="https://threadreaderapp.com/thread/1588691459741745153.html">https://threadreaderapp.com/thread/1588691459741745153.html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_41"></a>Needed, Citations. 2022. “Episode 157: How the ``Culture Wars’’ Label Obscures and Trivializes Life-and-Death Political Issues.” <i>Medium</i>. <a href="https://citationsneeded.medium.com/episode-157-how-the-culture-wars-label-obscures-and-trivializes-life-and-death-political-issues-60d1c1658d69">https://citationsneeded.medium.com/episode-157-how-the-culture-wars-label-obscures-and-trivializes-life-and-death-political-issues-60d1c1658d69</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_42"></a>“Noble Lie.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Noble_lie&oldid=1154099002">https://en.wikipedia.org/w/index.php?title=Noble_lie&#38;oldid=1154099002</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_43"></a>Nuckols, Greg. 2023. “The Comprehensive Core Training Guide.” <i>Stronger by Science</i>. <a href="https://www.strongerbyscience.com/core-training/">https://www.strongerbyscience.com/core-training/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_44"></a>———. n.d.-a. “How to Bench Press: The Definitive Guide.” <i>Stronger by Science</i>. Accessed February 26, 2023. <a href="https://www.strongerbyscience.com/how-to-bench/">https://www.strongerbyscience.com/how-to-bench/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_45"></a>———. n.d.-b. “How to Deadlift: The Definitive Guide.” <i>Stronger by Science</i>. Accessed February 26, 2023. <a href="https://www.strongerbyscience.com/how-to-deadlift/">https://www.strongerbyscience.com/how-to-deadlift/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_46"></a>———. n.d.-c. “How to Squat: The Definitive Guide.” <i>Stronger by Science</i>. Accessed February 26, 2023. <a href="https://www.strongerbyscience.com/how-to-squat/">https://www.strongerbyscience.com/how-to-squat/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_47"></a>———. n.d.-d. “The Complete Strength Training Guide.” <i>Stronger by Science</i>. Accessed February 26, 2023. <a href="https://www.strongerbyscience.com/complete-strength-training-guide/">https://www.strongerbyscience.com/complete-strength-training-guide/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_48"></a>“Online Tone Generator.” n.d. Accessed February 25, 2023. <a href="https://onlinetonegenerator.com/binauralbeats.html">https://onlinetonegenerator.com/binauralbeats.html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_49"></a>Orosz, Gergely. n.d. “Drop What You’re Doing.” Accessed March 3, 2023. <a href="https://threadreaderapp.com/thread/1542061516912037890.html">https://threadreaderapp.com/thread/1542061516912037890.html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_50"></a>“Patterns Gordon Brander.” n.d. Accessed January 2, 2023. <a href="https://gordonbrander.com/pattern">https://gordonbrander.com/pattern</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_51"></a>Potter, Brian. 2021a. “How to Design a House to Last 1000 Years (Part I).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_52"></a>———. 2021b. “How to Design a House to Last 1000 Years (Part II).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000-a85">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-1000-a85</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_53"></a>———. 2022. “How to Design a House to Last for 1000 Years (Part III).” Substack Newsletter. <i>Construction Physics</i>. <a href="https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for">https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_54"></a>Purugganan, Mary, and Jan Hewitt. 2004. “How to Read a Scientific Article.” Rice University. <a href="https://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf">https://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_55"></a>“Reflections on a Decade of Coding.” n.d. Accessed February 14, 2022. <a href="https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding">https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_56"></a>Ross, Bernhard, and Marc Danzell Lopez. 2020. “40-Hz Binaural Beats Enhance Training to Mitigate the Attentional Blink.” <i>Scientific Reports</i> 10 (1): 7002. <a href="https://doi.org/10.1038/s41598-020-63980-y">https://doi.org/10.1038/s41598-020-63980-y</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_57"></a>“Shearing Layers.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Shearing_layers&oldid=1060361096">https://en.wikipedia.org/w/index.php?title=Shearing_layers&#38;oldid=1060361096</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_58"></a>“Shuhari.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Shuhari&oldid=1142477091">https://en.wikipedia.org/w/index.php?title=Shuhari&#38;oldid=1142477091</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_59"></a>Smith, Brandon. n.d. “Write Code. Not Too Much. Mostly Functions.” Accessed March 15, 2022. <a href="https://www.brandons.me/blog/write-code-not-too-much-mostly-functions">https://www.brandons.me/blog/write-code-not-too-much-mostly-functions</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_60"></a>Sophie from Mars. 2022. “Kaiju Monster Men.” <a href="https://www.youtube.com/watch?v=C6kc6hXm3LA">https://www.youtube.com/watch?v=C6kc6hXm3LA</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_61"></a>Stanley, Kenneth O., and Joel Lehman. 2015. <i>Why Greatness Cannot Be Planned: The Myth of the Objective</i>. Cham, Switzerland: Springer International Publishing.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_62"></a>“Stronger by Science.” n.d. <i>Stronger by Science</i>. Accessed February 26, 2023. <a href="https://www.strongerbyscience.com/">https://www.strongerbyscience.com/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_63"></a>“The Colossus (Painting).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=The_Colossus_(painting)&oldid=1116045661">https://en.wikipedia.org/w/index.php?title=The_Colossus_(painting)&#38;oldid=1116045661</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_64"></a>“The Kolmogorov Option.” 2017. <i>Shtetl-Optimized</i>. <a href="https://scottaaronson.blog/?p=3376">https://scottaaronson.blog/?p=3376</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_65"></a>“The Mines.” 2018. <i>Pedestrian Observations</i>. <a href="https://pedestrianobservations.com/2018/09/24/the-mines/">https://pedestrianobservations.com/2018/09/24/the-mines/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_66"></a>“The Second Coming (Poem).” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=The_Second_Coming_(poem)&oldid=1122659758">https://en.wikipedia.org/w/index.php?title=The_Second_Coming_(poem)&#38;oldid=1122659758</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_67"></a>“Thread by @TivadarDanka on Thread Reader App.” n.d. Accessed January 2, 2023. <a href="https://threadreaderapp.com/thread/1588131890040434688.html">https://threadreaderapp.com/thread/1588131890040434688.html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_68"></a>“Training My Sense of CO2 Ppm.” n.d. <i>Interconnected, a Blog by Matt Webb</i>. Accessed December 6, 2022. <a href="https://interconnected.org/home/2022/07/14/co2">https://interconnected.org/home/2022/07/14/co2</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_69"></a>“Twelve Leverage Points.” 2021. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Twelve_leverage_points&oldid=1047560866">https://en.wikipedia.org/w/index.php?title=Twelve_leverage_points&#38;oldid=1047560866</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_70"></a>vbtemp. 2021. “Sober Post: Things I’ve Learned down-Leveling My Career.” Reddit Post. <i>R/Experienceddevs</i>. <a href="www.reddit.com/r/ExperiencedDevs/comments/nnw7yd/sober_post_things_ive_learned_downleveling_my/">www.reddit.com/r/ExperiencedDevs/comments/nnw7yd/sober_post_things_ive_learned_downleveling_my/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_71"></a>Whitby, Andrew. n.d. “Who First Said: If You Want to Go Fast, Go Alone; If You Want to Go Far, Go Together? Andrew Whitby.” Accessed October 28, 2022. <a href="https://andrewwhitby.com/2020/12/25/if-you-want-to-go-fast/">https://andrewwhitby.com/2020/12/25/if-you-want-to-go-fast/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_72"></a>Woods, David, and Matthieu Branlat. 2011. “Basic Patterns in How Adaptive Systems Fail.” <i>Resilience Engineering in Practice: A Guidebook</i>, January, 127–44.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_73"></a>“World GDP over the Last Two Millennia.” n.d. <i>Our World in Data</i>. Accessed January 2, 2023. <a href="https://ourworldindata.org/grapher/world-gdp-over-the-last-two-millennia">https://ourworldindata.org/grapher/world-gdp-over-the-last-two-millennia</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_74"></a>WTFwhatthehell. 2021. “Stale Air, CO2 and Cognitive Function.” Reddit Post. <i>R/Slatestarcodex</i>. <a href="www.reddit.com/r/slatestarcodex/comments/mlevx6/stale_air_co2_and_cognitive_function/">www.reddit.com/r/slatestarcodex/comments/mlevx6/stale_air_co2_and_cognitive_function/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_75"></a>“Yak Shaving.” 2023. <i>Wiktionary</i>. <a href="https://en.wiktionary.org/w/index.php?title=yak_shaving&oldid=71132645">https://en.wiktionary.org/w/index.php?title=yak_shaving&#38;oldid=71132645</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_76"></a>Yudkowsky, Eliezer. n.d. “Inadequate Equilibria: Table of Contents.” <i>Inadequate Equilibria</i>. Accessed November 23, 2022. <a href="https://equilibriabook.com/toc/">https://equilibriabook.com/toc/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_77"></a>Zvi. n.d. “Moloch Hasn’t Won.” Accessed November 23, 2022. <a href="https://www.lesswrong.com/posts/ham9i5wf4JCexXnkN/moloch-hasn-t-won">https://www.lesswrong.com/posts/ham9i5wf4JCexXnkN/moloch-hasn-t-won</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:48LawsPower2023</div>
+  <div class="csl-entry">NO_ITEM_DATA:dassowStudioMathPotters</div>
 </div>

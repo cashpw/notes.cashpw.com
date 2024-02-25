@@ -2,14 +2,14 @@
 title = "Gwern Branwen | Spaced Repetition for Efficient Learning"
 author = ["Cash Weaver"]
 date = 2022-12-11T15:33:00-08:00
-lastmod = 2023-12-23T12:31:03-08:00
+lastmod = 2024-02-24T14:21:41-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "14d26509-1c1c-4983-8f00-0c481fe918d5"
 +++
 
-[Gwern Branwen]({{< relref "gwern_branwen.md" >}}), (NO_ITEM_DATA:branwenSpacedRepetitionEfficientLearning2009)
+[Gwern Branwen]({{< relref "gwern_branwen.md" >}}), (<a href="#citeproc_bib_item_1">Branwen 2009</a>)
 
 
 ## Summary {#summary}
@@ -102,8 +102,6 @@ On [Spaced repetition]({{< relref "spaced_repetition.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:branwenSpacedRepetitionEfficientLearning2009</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Branwen, Gwern. 2009. “Spaced Repetition for Efficient Learning,” March. <a href="https://www.gwern.net/Spaced-repetition">https://www.gwern.net/Spaced-repetition</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Goals for 2022"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-02T13:34:00-08:00
-lastmod = 2023-12-23T12:19:40-08:00
+lastmod = 2024-02-24T14:20:52-08:00
 draft = false
 slug = "f8a6ddda-eefa-4559-9f2f-a4ea26c7a223"
 +++
@@ -19,8 +19,6 @@ Keeping the list private is less for actually privacy concerns and more-so to en
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

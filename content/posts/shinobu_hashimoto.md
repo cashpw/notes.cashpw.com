@@ -2,7 +2,7 @@
 title = "Shinobu Hashimoto"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-05T16:42:00-07:00
-lastmod = 2023-12-23T17:28:30-08:00
+lastmod = 2024-02-24T18:19:34-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -15,8 +15,6 @@ One of the [Ceramists I follow]({{< relref "ceramists_potters_i_follow.md" >}}).
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

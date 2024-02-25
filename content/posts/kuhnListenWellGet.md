@@ -2,14 +2,14 @@
 title = "Ben Kuhn | To Listen Well, Get Curious"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:22:00-08:00
-lastmod = 2023-12-23T13:46:58-08:00
+lastmod = 2024-02-24T17:50:08-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "617eec3a-89c3-4b9f-9074-47d4bf4e69fd"
 +++
 
-[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (NO_ITEM_DATA:kuhnListenWellGetCurious)
+[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn n.d.</a>)
 
 One of my [Favorites]({{< relref "favorites.md" >}}).
 
@@ -41,8 +41,6 @@ I find that my misunderstandings are the result of premature and ill-founded ass
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:kuhnListenWellGetCurious</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. n.d. “To Listen Well, Get Curious.” <i>Benkuhn.Net</i>. Accessed March 12, 2022. <a href="https://www.benkuhn.net/listen/">https://www.benkuhn.net/listen/</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Psychophysiologic symptom relief therapy"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T06:31:00-08:00
-lastmod = 2023-12-23T16:11:43-08:00
+lastmod = 2024-02-24T18:13:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,12 +19,12 @@ Psychophysiologic Symptom Relief Therapy (PSRT) is a program for pain relief fir
 
 | position | ease | box | interval | due                  |
 |----------|------|-----|----------|----------------------|
-| 0        | 1.60 | 6   | 25.61    | 2023-12-31T05:08:26Z |
+| 0        | 1.60 | 7   | 39.11    | 2024-02-25T17:34:40Z |
 
 
 #### Source {#source}
 
-(NO_ITEM_DATA:donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlled2021)
+(<a href="#citeproc_bib_item_1">Donnino et al. 2021</a>)
 
 
 ### Describe {#describe}
@@ -44,17 +44,14 @@ A treatment program designed for patients with non-specific chronic back pain wh
 
 #### Source {#source}
 
-(NO_ITEM_DATA:donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlled2021)
+(<a href="#citeproc_bib_item_1">Donnino et al. 2021</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlled2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Donnino, Michael W., Garrett S. Thompson, Shivani Mehta, Myrella Paschali, Patricia Howard, Sofie B. Antonsen, Lakshman Balaji, et al. 2021. “Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial.” <i>Pain Reports</i> 6 (3): e959. <a href="https://doi.org/10.1097/PR9.0000000000000959">https://doi.org/10.1097/PR9.0000000000000959</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

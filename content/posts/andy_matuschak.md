@@ -2,7 +2,7 @@
 title = "Andy Matuschak"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T07:35:00-08:00
-lastmod = 2023-12-23T10:35:43-08:00
+lastmod = 2024-02-24T11:42:40-08:00
 draft = false
 slug = "df479fb9-f7b0-4e3a-a7eb-41849fbc190e"
 +++
@@ -14,11 +14,8 @@ A "a software engineer, designer, and researcher" who, among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

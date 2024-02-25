@@ -2,7 +2,7 @@
 title = "Ezra Klein"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T11:28:00-08:00
-lastmod = 2023-12-23T11:52:50-08:00
+lastmod = 2024-02-24T14:19:10-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -11,11 +11,8 @@ slug = "eb439673-53b5-4e7b-b31e-e0adebaf2d40"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Chain of suspicion"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T15:49:00-08:00
-lastmod = 2023-12-23T10:57:18-08:00
+lastmod = 2024-02-24T11:52:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ Communication between civilizations is slow due to interstellar distances and co
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

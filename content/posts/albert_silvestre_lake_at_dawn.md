@@ -2,7 +2,7 @@
 title = "Albert Silvestre | Lake at Dawn"
 author = ["Cash Weaver"]
 date = 2023-08-10T17:12:00-07:00
-lastmod = 2023-12-23T10:34:05-08:00
+lastmod = 2024-02-24T11:41:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -17,8 +17,6 @@ One of my [Favorites]({{< relref "favorites.md" >}}).
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Silvestre, Albert. n.d. “Lake at Dawn.” Accessed August 11, 2023. <a href="https://www.alfineart.com/artworks/1/184-albert-silvestre-lake-at-dawn/">https://www.alfineart.com/artworks/1/184-albert-silvestre-lake-at-dawn/</a>.</div>

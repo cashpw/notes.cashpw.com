@@ -2,7 +2,7 @@
 title = "Incentive"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T10:14:00-08:00
-lastmod = 2023-12-23T12:57:47-08:00
+lastmod = 2024-02-24T17:46:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "deb3b467-3bb1-4000-9665-3a7347909ad6"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Incentive.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Incentive&oldid=1122117735">https://en.wikipedia.org/w/index.php?title=Incentive&#38;oldid=1122117735</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
@@ -29,6 +26,7 @@ slug = "deb3b467-3bb1-4000-9665-3a7347909ad6"
 -   [Agency costs]({{< relref "agency_costs.md" >}})
 -   [Collective action problem]({{< relref "collective_action_problem.md" >}})
 -   [How to change]({{< relref "how_to_change.md" >}})
+-   [Jeffrey Pfeffer | 7 Rules of Power]({{< relref "jeffrey_pfeffer_7_rules_of_power.md" >}})
 -   [Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]({{< relref "kaj_sotala_nobody_does_the_thing_that_they_are_supposedly_doing.md" >}})
 -   [Leverage point]({{< relref "leverage_point.md" >}})
 -   [On parenting]({{< relref "on_parenting.md" >}})

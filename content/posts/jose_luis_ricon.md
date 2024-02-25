@@ -2,7 +2,7 @@
 title = "Jose Luis Ricon"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-11T10:08:00-08:00
-lastmod = 2023-12-23T13:23:50-08:00
+lastmod = 2024-02-24T17:48:21-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -20,11 +20,8 @@ slug = "803ade2e-9b8f-4bac-9ddb-565e9a8bfce7"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

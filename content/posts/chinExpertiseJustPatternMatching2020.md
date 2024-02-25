@@ -2,14 +2,14 @@
 title = "Cedric Chin | Expertise Is 'Just' Pattern Matching"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T16:53:00-08:00
-lastmod = 2023-12-23T10:58:55-08:00
+lastmod = 2024-02-24T11:53:01-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "b481f4e5-63b4-4455-8406-49825121b06c"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinExpertiseJustPatternMatching2020)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
 ## Summary {#summary}
@@ -52,21 +52,18 @@ The idea rings true to me when I think about how chess masters describe thinking
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinExpertiseJustPatternMatching2020</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “Expertise Is ’Just’ Pattern Matching.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/expertise-is-just-pattern-matching/">https://commoncog.com/blog/expertise-is-just-pattern-matching/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
 
 -   [Anna Salamon | Humans Are Not Automatically Strategic]({{< relref "annasalamonHumansAreNot2010.md" >}})
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Cedric Chin | To Get Good, Go After The Metagame]({{< relref "chinGetGoodGoMetagame2020.md" >}})
 -   [Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]({{< relref "daniel_kahneman_gary_klein_conditions_for_intuitive_expertise_a_failure_to_disagree.md" >}})
 -   [Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]({{< relref "gary_klein_and_jennifer_phillips_and_erica_rall_and_deborah_peluso_a_data_frame_theory_of_sensemaking.md" >}})
+-   [How to become an expert]({{< relref "how_to_become_an_expert.md" >}})
+-   [On lead/senior, and staff, engineering]({{< relref "skills_of_a_senior_software_engineer.md" >}})
 -   [Recognition-primed decision]({{< relref "recognition_primed_decision_making_model.md" >}})
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

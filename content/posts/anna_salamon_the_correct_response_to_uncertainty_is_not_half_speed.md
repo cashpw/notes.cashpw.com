@@ -2,14 +2,14 @@
 title = "Anna Salamon | The Correct Response to Uncertainty Is not Half-Speed"
 author = ["Cash Weaver"]
 date = 2023-07-27T08:17:00-07:00
-lastmod = 2023-12-23T10:36:29-08:00
+lastmod = 2024-02-24T11:43:22-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "60fa0766-a524-4d7d-9b43-5fe7967671ed"
 +++
 
-[Anna Salamon]({{< relref "anna_salamon.md" >}}), (NO_ITEM_DATA:salamonCorrectResponseUncertaintyNotHalfspeed)
+[Anna Salamon]({{< relref "anna_salamon.md" >}}), (<a href="#citeproc_bib_item_1">Salamon n.d.</a>)
 
 
 ## Summary {#summary}
@@ -59,8 +59,6 @@ Related: [No half measures]({{< relref "no_half_measures.md" >}}), [Just start](
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:salamonCorrectResponseUncertaintyNotHalfspeed</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. n.d. “The Correct Response to Uncertainty Is *Not* Half-Speed.” Accessed July 21, 2023. <a href="https://www.lesswrong.com/posts/FMkQtPvzsriQAow5q/the-correct-response-to-uncertainty-is-not-half-speed">https://www.lesswrong.com/posts/FMkQtPvzsriQAow5q/the-correct-response-to-uncertainty-is-not-half-speed</a>.</div>
 </div>

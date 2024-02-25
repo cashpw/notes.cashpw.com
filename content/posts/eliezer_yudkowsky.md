@@ -2,7 +2,7 @@
 title = "Eliezer Yudkowsky"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:06:00-08:00
-lastmod = 2023-12-23T11:43:29-08:00
+lastmod = 2024-02-24T13:52:31-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -16,11 +16,8 @@ Among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

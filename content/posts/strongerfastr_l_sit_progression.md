@@ -2,7 +2,7 @@
 title = "Strongerfastr | L-Sit Progression"
 author = ["Cash Weaver"]
 date = 2023-07-06T08:04:00-07:00
-lastmod = 2023-12-23T18:24:08-08:00
+lastmod = 2024-02-24T18:22:28-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -51,8 +51,6 @@ slug = "071d0f47-4999-41d7-b312-4cd08da3d66f"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Strongerfastr. n.d. “L-Sit Progression.” Accessed July 6, 2023. <a href="https://www.strongrfastr.com/exercise_progressions/9">https://www.strongrfastr.com/exercise_progressions/9</a>.</div>

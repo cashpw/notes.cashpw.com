@@ -2,19 +2,19 @@
 title = "Tanner Greer | Tradition Is Smarter Than You Are"
 author = ["Cash Weaver"]
 date = 2023-01-10T12:08:00-08:00
-lastmod = 2023-12-23T18:49:06-08:00
+lastmod = 2024-02-24T18:24:10-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "35669b5b-bf75-4bda-9037-42a2d3af956d"
 +++
 
-[Tanner Greer]({{< relref "tanner_greer.md" >}}) , (NO_ITEM_DATA:greerTraditionSmarterYouAre2018)
+[Tanner Greer]({{< relref "tanner_greer.md" >}}) , (<a href="#citeproc_bib_item_1">Greer 2018</a>)
 
 
 ## Summary {#summary}
 
-On (NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020) and (NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016).
+On (<a href="#citeproc_bib_item_3">Scott 2020</a>) and (<a href="#citeproc_bib_item_2">Henrich 2016</a>).
 
 
 ## Thoughts {#thoughts}
@@ -39,14 +39,11 @@ I prefer the individual reviews of [Scott Alexander | Book Review: Seeing Like A
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:greerTraditionSmarterYouAre2018</div>
-  <div class="csl-entry">NO_ITEM_DATA:scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020</div>
-  <div class="csl-entry">NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2018. “Tradition Is Smarter Than You Are.” <i>The Scholar’s Stage</i>. <a href="https://scholars-stage.org/tradition-is-smarter-than-you-are/">https://scholars-stage.org/tradition-is-smarter-than-you-are/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Henrich, Joseph Patrick. 2016. <i>The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter</i>. Princeton: Princeton University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Scott, James C. 2020. <i>Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed</i>. Veritas paperback edition. New Haven: Yale University Press.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

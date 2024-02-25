@@ -2,14 +2,14 @@
 title = "Julian Shapiro | Writing Well Handbook"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:13:00-08:00
-lastmod = 2023-12-23T13:32:09-08:00
+lastmod = 2024-02-24T17:48:54-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "248e3cc9-0511-4e71-afd6-19320d3fd61d"
 +++
 
-[Julian Shapiro]({{< relref "julian_shapiro.md" >}})
+[Julian Shapiro]({{< relref "julian_shapiro.md" >}}), (<a href="#citeproc_bib_item_1">Shapiro n.d.-a</a>)
 
 
 ## Summary {#summary}
@@ -44,10 +44,12 @@ A great guide to writing in [Julian Shapiro]({{< relref "julian_shapiro.md" >}})
 >
 >     If you do interesting things then write about them publicly with an authentic voice, like-minded people want to meet the person behind that voice. Writing is a bat signal for your people.
 >
-> (<a href="#citeproc_bib_item_1">Shapiro n.d.</a>), formatting mine
+> Formatting mine
 
 
 ### What to Write About {#what-to-write-about}
+
+(<a href="#citeproc_bib_item_4">Shapiro n.d.-d</a>)
 
 
 #### Choose your topic {#choose-your-topic}
@@ -59,8 +61,6 @@ A great guide to writing in [Julian Shapiro]({{< relref "julian_shapiro.md" >}})
 > 3.  Shock and awe — "That's crazy. I would have never believed it."
 > 4.  Elegant articulations — "Beautiful. I couldn't have said it better myself."
 > 5.  Make someone feel seen — "Yes! That's exactly how I feel!"
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowSourceWritingIdeas)
 
 <!--quoteend-->
 
@@ -69,8 +69,6 @@ A great guide to writing in [Julian Shapiro]({{< relref "julian_shapiro.md" >}})
 > That's all that's needed to write with conviction: pair an objective with a motivation. When writers lack one of these, they tend to not finish their articles.
 >
 > If the right objective and motivation combo isn't coming right away, that's okay. Start writing like you would in a diary to uncover what's in the back of your head. As you write, a clear objective will eventually emerge. At that time, do a full rewrite with your clear objective as your guiding light.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowSourceWritingIdeas)
 
 
 #### Write an intro {#write-an-intro}
@@ -104,8 +102,6 @@ A great guide to writing in [Julian Shapiro]({{< relref "julian_shapiro.md" >}})
 > -   Surface a problem and what's at stake.
 > -   Explore the problem's significance.
 > -   Tease a clever solution.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowSourceWritingIdeas)
 
 
 #### Combat skepticism {#combat-skepticism}
@@ -129,8 +125,6 @@ A great guide to writing in [Julian Shapiro]({{< relref "julian_shapiro.md" >}})
 >     Solution: If you have relevant credentials, share them. If not, make your hooks so captivating that they can't help but continue reading. Make the rest of your post so insightful, logical, and well-researched that they believe you. Or, if you're indeed unqualified, be upfront about it and frame the post as an exploratory journey you're taking them on.
 >
 > If you successfully hook readers while neutralizing their skepticism, you generate goodwill: now they're invested in reading the rest of your post.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowSourceWritingIdeas)
 
 
 #### Integrate feedback {#integrate-feedback}
@@ -142,8 +136,6 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 > "After reading only this intro, what are the most interesting ideas I could possibly cover in the rest of the post?"
 >
 > I pick and choose the responses that resonate with me. This is how I de-risk my post from lacking novelty: Am I headed in a direction that's maximally interesting?
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowSourceWritingIdeas)
 
 <!--quoteend-->
 
@@ -154,23 +146,19 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 > -   It's a compelling hook into your topic. Readers sense forthcoming novelty.
 > -   It conveys the importance of the idea so that readers want to hear the rest of the story. It twisted the knife enough to help readers feel the pain you're speaking to.
 > -   It's concise. Readers don't want all the details; they want the minimum needed to be teased by your novelty in a way that resonates.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowSourceWritingIdeas)
 
 
 ### Writing First Drafts {#writing-first-drafts}
 
+(<a href="#citeproc_bib_item_5">Shapiro n.d.-e</a>)
+
 > You're a proxy for your die-hard readers.
 >
 > That's the irony of self-indulgent writing: writing for yourself is the quickest path to writing something others love.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowWriteFirstDraft)
 
 <!--quoteend-->
 
 > The mistake writers make is believing expertise is required to write compelling nonfiction. Nope, it's the rabid desire to indulge your curiosity.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowWriteFirstDraft)
 
 <!--quoteend-->
 
@@ -178,8 +166,6 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 >
 > -   How can I make this point more convincing?
 > -   What are the interesting implications of what I just said?
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowWriteFirstDraft)
 
 <!--quoteend-->
 
@@ -196,8 +182,6 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 >     Share where they can go next to continue the journey they started here.
 >
 > For a writing guide such as this, I might conclude by sharing bloggers whose work I enjoy. Then I might urge you to reverse engineer their articles and study what makes them great. That's how you continue your learning.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowWriteFirstDraft)
 
 <!--quoteend-->
 
@@ -205,11 +189,11 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 >
 > -   Don't feel constrained by your outline. Expect to discover most of your ideas throughout the writing process.
 > -   Trust that what interests you is what interests your readers. If not, target an audience more like yourself.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowWriteFirstDraft)
 
 
 ### Rewriting and Editing {#rewriting-and-editing}
+
+(<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
 
 > Your favorite authors' first drafts are typically bad too. However, great authors have the discipline to aggressively rewrite their first drafts in pursuit of:
 >
@@ -223,8 +207,6 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 > When you first write an idea down, you do so in whatever disjointed way immediately came to mind. Rewriting is the art of finding the correct puzzle pieces within that mess and putting them together in the right order.
 >
 > In short, your first draft is to extract novel ideas out of your brain. Your second draft is to rewrite those ideas so they resonate.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft)
 
 
 #### Goal: Be understood {#goal-be-understood}
@@ -239,8 +221,6 @@ See also [Collaborate for better results]({{< relref "collaborate_for_better_res
 >
 > -   You use plain phrasing.
 > -   You use fewer ideas per sentence.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft)
 
 This reminds me of [Freddish]({{< relref "freddish.md" >}}), though it's aimed at a much younger audience.
 
@@ -269,8 +249,6 @@ This reminds me of [Freddish]({{< relref "freddish.md" >}}), though it's aimed a
     > "News companies are not doing well today."
     >
     > That loses the point of why news companies are not doing well. Simplify your sentences without removing the nuances.
-    >
-    > (NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft)
 
     I think it's possible to over-index on the "make it concrete" aspect of this advice. I worry someone reading the second sentence may walk away with the mistaken understanding that Twitter is the sole driving force behind commodity journalism.
 
@@ -281,8 +259,6 @@ This reminds me of [Freddish]({{< relref "freddish.md" >}}), though it's aimed a
     > Bad paragraph — "Ignorance of corporate dynamics represent a persistent source of pain for a certain type of operator. Intelligent but inexperienced. I'd recommend that you avoid this pain by understanding how other people make decisions in the context that they're incentivized to do so and by appreciating the constraints they're operating within."
     >
     > Rewritten — "It's common to be a smart person who's unaware of what's going on. I recommend writing down the frameworks your team uses to make big decisions. Then, when a colleague proposes an idea that doesn't intuitively make sense to you, think through their idea using their own frameworks. Work from there to build empathy and have a constructive dialogue."
-    >
-    > (NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft)
 
     I read the "Bad paragraph" to be discussing how inter-personal and corporate politics influence an organization. The "Intelligent but inexperienced" operator would be one who knows how to do their tasks well but doesn't know [The game]({{< relref "the_game.md" >}}). As an example: They may, without intending to, make another coworker look foolish and thereby make an enemy.
 
@@ -303,8 +279,6 @@ This reminds me of [Freddish]({{< relref "freddish.md" >}}), though it's aimed a
     > Let's rewrite that for a thirteen-year-old:
     >
     > "There's plenty of research on gut bacteria. We're quickly learning which roles gut bacteria play and how they interact with each other. Researchers want to better understand how these bacteria can affect our overall health."
-    >
-    > (NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft)
 
     "There's plenty of research" may read to some as "There is enough/sufficient research".
 
@@ -317,8 +291,6 @@ This reminds me of [Freddish]({{< relref "freddish.md" >}}), though it's aimed a
     > -   Don't just provide good examples, also provide bad examples. Before-and-after comparisons—like a good paragraph versus a bad paragraph—clarify what you mean and don't mean. Help readers orient themselves on a spectrum of right to wrong.
     > -   If you make your examples fun and topical, readers pay more attention.
     > -   Examples with many moving parts should possibly be turned into diagrams.
-    >
-    > (NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft)
 
 
 #### Goal: Be concise {#goal-be-concise}
@@ -330,30 +302,109 @@ Also see:
 
 > Succinctness—a lack of bloat—helps readers finish your post. What I've learned from asking a lot of friends for feedback is that readers often quit not because they dislike your ideas, but because they're bored.
 >
-> [...]
->
-> In speech, when you say something that doesn't resonate, you can add sentences to further explain your point. Don't do that in writing. If your sentence doesn't resonate, you go back and rewrite it.
->
-> Writing is a process of deliberate thought curation—where each sentence can justify its inclusion in your final draft.
->
-> When a deliberate writer has written something down, they then ask:
->
-> -   What is the purpose of the statement I just made? What effect does it have on the reader's mind?
-> -   Is there something more useful I could have said instead?
->
-> Later, when they get stuck expanding on their ideas, they ask:
->
-> -   How can I make this point more convincing?
-> -   What are the interesting implications of what I just said?
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft)
+> Succinctness is a ratio. It's the percentage of significant thoughts out of all the thoughts communicated. A post can be 50,000 words, but if it's dense with true insights and devoid of unnecessary words, it's succinct.
+
+<!--list-separator-->
+
+-  Be deliberate
+
+    > Writing is a process of deliberate thought curation—where each sentence can justify its inclusion in your final draft.
+    >
+    > When a deliberate writer has written something down, they then ask:
+    >
+    > -   What is the purpose of the statement I just made? What effect does it have on the reader's mind?
+    > -   Is there something more useful I could have said instead?
+    >
+    > Later, when they get stuck expanding on their ideas, they ask:
+    >
+    > -   How can I make this point more convincing?
+    > -   What are the interesting implications of what I just said?
+
+<!--list-separator-->
+
+-  How to rewrite for succinctness
+
+    1.  Rewrite entire sections
+
+        > For each section of an article, I will:
+        >
+        > Read it.
+        > Take an hour-long break.
+        > Rewrite the section from memory—focusing only on the critical points.
+        >
+        > The new version written from memory will take a more direct path toward what's important. The fluff falls away when you focus on effectively re-articulating yourself.
+
+    2.  Remove unnecessary detail
+
+        > Now we rewrite sentence-by-sentence to remove unnecessary detail. The art of rewriting is the art of becoming self-aware about the purpose of every word.
+        >
+        > After we remove unnecessary words, we'll rephrase what remains to be even more succinct.
+        >
+        > First, to be brief on the sentence-level, you should remove filler words that don't add necessary context to the sentence. This isn't intuitive to novice writers: these extra words cause readers to unwittingly slow down and do extra work while reading. That makes it harder for them to recognize the sentence's true point. Reading many extra words is also a chore for your brain. And when you exhaust readers, they quit reading.<br />
+        >
+        > Stop. That was a _terrible_ paragraph. We need to fix two things:
+        >
+        > -   Remove ideas that aren't critical to the central point.
+        > -   Don't describe what doesn't need to be described.
+        >
+        > Let's rewrite that paragraph without its unnecessary words:
+        >
+        > <div class="quote2">
+        >
+        > To be brief on the sentence-level, ~~you should~~ remove ~~filler~~ words that don't add necessary context ~~to the sentence~~. ~~This isn't intuitive to novice writers:~~ extra words cause readers to ~~unwittingly~~ slow down and do extra work ~~while reading~~. That makes it harder for them to recognize the sentence's true point. ~~Reading many extra words is also a chore for your brain.~~ And when you exhaust readers, they quit reading.
+        >
+        > </div>
+        >
+        > 1.
+        >
+        > That leaves us with:
+        >
+        > <div class="quote2">
+        >
+        > To be brief on the sentence-level, remove words that don't add necessary context. Extra words cause readers to slow down and do extra work. That makes it harder for them to recognize the sentence's point. And when you exhaust readers, they quit reading.
+        >
+        > </div>
+
+    3.  Rephrase paragraphs from scratch
+
+        > Now that we know what we most want to say, we're in a position to succinctly rephrase each paragraph.<br />
+        >
+        > Again, here's our paragraph:<br />
+        >
+        > <div class="quote2">
+        >
+        > To be brief on the sentence-level, remove words that don't add necessary context. Extra words cause readers to slow down and do extra work. That makes it harder for them to recognize the sentence's point. And when you bore readers, they quit reading.<br />
+        >
+        > </div>
+        >
+        > Let's rephrase that from scratch:<br />
+        >
+        > <div class="quote2">
+        >
+        > Your sentence is brief when no additional words can be removed. Being succinct is important because filler buries your talking points and bores readers into quitting.<br />
+        >
+        > </div>
+        >
+        > Bingo. That's succinct. No one is getting bored midway through that paragraph.
+        >
+        > Repeat the (1) **word removal** and (2) **rephrasing from scratch** process for every paragraph. When you're done, your article will be less long and boring.
+
+<!--list-separator-->
+
+-  Tweet test
+
+    > After writing a post, I try compressing it into a single tweet. If I can pull that off without losing anything important, I delete the post and publish the tweet instead.
+    >
+    > But if I have to split the post over multiple tweets, I know I have something meaty, and so I publish the post.
 
 
-#### Feedback {#feedback}
+#### Feedback (Writing Well) {#feedback--writing-well}
+
+(<a href="#citeproc_bib_item_3">Shapiro n.d.-c</a>)
+
+[Seek out feedback and accept with gratitude]({{< relref "seek_out_feedback_and_accept_with_gratitude.md" >}})
 
 > Getting feedback is the most efficient way to improve your writing. This is not optional. Giving feedback is as important: giving it to others forces you to internalize the learnings from this handbook.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft)
 
 <!--quoteend-->
 
@@ -370,8 +421,6 @@ Also see:
 > Keep asking for feedback then rewriting until you average a score of 7.5+ across a handful of respondents. That puts you in the "this was a good read" category.
 >
 > Do not waste time striving for 9+. One reader's 9 is not the same as another's, so trying to satisfy everyone results in a bloated post that satisfies no one. There are many great ways to tell a story, so be happy when you've found one that works.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft)
 
 I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't meaningfully different from their 6/10. Perhaps a 1-5 scale?
 
@@ -380,11 +429,11 @@ I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't mean
 > [...]
 >
 > Take it from the world's most successful hyper-prolific writer, Stephen King: he shoves his manuscript into a drawer for six weeks before writing his final draft. When he re-opens it, he sees its flaws with fresh eyes.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft)
 
 
 ### Writing Style {#writing-style}
+
+(<a href="#citeproc_bib_item_6">Shapiro n.d.-f</a>)
 
 > What gives a world-class author their "voice?"
 >
@@ -404,8 +453,6 @@ I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't mean
 > [...]
 >
 > The antidote to inauthenticity is reminding yourself how you talk with friends. Record yourself talking, transcribe it, and work from that.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowWriteStyle)
 
 <!--quoteend-->
 
@@ -433,28 +480,24 @@ I worry that the 1-10 scale is too wide -- that one individual's 7/10 isn't mean
 >     "Our popsicles melted."
 >
 >     Above, there's ambiguity as to why our popsicles melted. But with a bit of imagination and puzzle-solving, the reader pieces it together.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowWriteStyle)
 
 
 ### Practicing Writing {#practicing-writing}
 
+(<a href="#citeproc_bib_item_2">Shapiro n.d.-b</a>)
+
 > To learn what a job well done looks like, dissect your favorite posts: highlight the best and worst parts of each and identify what makes them so.
 >
 > I find that writers who post frequently (say, twice weekly) are rarely worth reading consistently. I read for insights. And no writer can generate profound insights on a fixed schedule. I aggregate writers who publish sporadically. When they post, they truly have something to say.
->
-> (NO_ITEM_DATA:shapiroWritingHandbookHowPracticeWriting)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Shapiro, Julian. n.d. “The Writing Well Handbook.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/intro">https://www.julian.com/guide/write/intro</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowSourceWritingIdeas</div>
-  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowWriteFirstDraft</div>
-  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowRewriteYourFirstDraft</div>
-  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowWriteStyle</div>
-  <div class="csl-entry">NO_ITEM_DATA:shapiroWritingHandbookHowPracticeWriting</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Shapiro, Julian. n.d.-a. “The Writing Well Handbook.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/intro">https://www.julian.com/guide/write/intro</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. n.d.-b. “Writing Handbook: How to Practice Writing.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/practicing">https://www.julian.com/guide/write/practicing</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———. n.d.-c. “Writing Handbook: How to Rewrite Your First Draft.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/rewriting">https://www.julian.com/guide/write/rewriting</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———. n.d.-d. “Writing Handbook: How to Source Writing Ideas.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/ideas">https://www.julian.com/guide/write/ideas</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>———. n.d.-e. “Writing Handbook: How to Write a First Draft.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/first-draft">https://www.julian.com/guide/write/first-draft</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>———. n.d.-f. “Writing Handbook: How to Write with Style.” Accessed February 8, 2022. <a href="https://www.julian.com/guide/write/style">https://www.julian.com/guide/write/style</a>.</div>
 </div>

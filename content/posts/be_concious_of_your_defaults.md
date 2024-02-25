@@ -2,7 +2,7 @@
 title = "Be conscious of your defaults"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:24:00-08:00
-lastmod = 2023-12-23T10:39:14-08:00
+lastmod = 2024-02-24T11:44:54-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -16,11 +16,8 @@ Seek to be aware of your "defaults" and examine them; do you want to keep them?
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

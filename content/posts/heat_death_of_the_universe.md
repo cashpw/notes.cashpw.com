@@ -2,7 +2,7 @@
 title = "Heat death of the universe"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-13T07:50:00-07:00
-lastmod = 2023-12-23T12:35:51-08:00
+lastmod = 2024-02-24T14:22:05-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "e549e41e-1a12-41a9-8547-540eefac6d81"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heat Death of the Universe.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Heat_death_of_the_universe&oldid=1140367140">https://en.wikipedia.org/w/index.php?title=Heat_death_of_the_universe&#38;oldid=1140367140</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

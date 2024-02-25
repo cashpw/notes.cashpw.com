@@ -2,7 +2,7 @@
 title = "Drying oil"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-29T07:51:00-08:00
-lastmod = 2023-12-23T11:38:39-08:00
+lastmod = 2024-02-24T13:52:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ slug = "ed12d1ad-074f-491b-aa65-74926c83a235"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

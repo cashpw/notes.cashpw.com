@@ -2,7 +2,7 @@
 title = "Put option"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T17:22:00-08:00
-lastmod = 2023-12-23T16:14:29-08:00
+lastmod = 2024-02-24T18:13:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "7b7185c2-db8c-4e53-b9a1-795cc36ab508"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Put Option.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Put_option&oldid=1117825854">https://en.wikipedia.org/w/index.php?title=Put_option&#38;oldid=1117825854</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

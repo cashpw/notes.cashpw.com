@@ -2,7 +2,7 @@
 title = "External memory algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-01T13:02:00-07:00
-lastmod = 2023-12-23T11:52:30-08:00
+lastmod = 2024-02-24T14:19:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ See [Internal memory algorithm]({{< relref "internal_memory_algorithm.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“External Memory Algorithm.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&oldid=1059605968">https://en.wikipedia.org/w/index.php?title=External_memory_algorithm&#38;oldid=1059605968</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

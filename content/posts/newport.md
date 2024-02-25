@@ -2,7 +2,7 @@
 title = "Cal Newport | About"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:14:00-08:00
-lastmod = 2023-12-23T15:04:42-08:00
+lastmod = 2024-02-24T17:58:47-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -32,8 +32,6 @@ slug = "aa3b22f0-3771-464e-824d-8d0eeb7f331b"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Newport, Cal. n.d. “About.” Accessed April 25, 2021. <a href="https://www.calnewport.com/about/#ideas">https://www.calnewport.com/about/#ideas</a>.</div>

@@ -2,14 +2,14 @@
 title = "Cedric Chin | John Cutler's Product Org Expertise"
 author = ["Cash Weaver"]
 date = 2023-09-08T16:35:00-07:00
-lastmod = 2023-12-23T10:51:20-08:00
+lastmod = 2024-02-24T11:50:25-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "f064b5ef-9576-4957-8882-30ebe383d23d"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinJohnCutlerProductOrgExpertise2021)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2021</a>)
 
 
 ## Summary {#summary}
@@ -34,12 +34,9 @@ An example of the first two parts of [Applied cognitive task analysis]({{< relre
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinJohnCutlerProductOrgExpertise2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2021. “John Cutler’s Product Org Expertise.” <i>Commoncog</i>. <a href="https://commoncog.com/john-cutlers-product-expertise/">https://commoncog.com/john-cutlers-product-expertise/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

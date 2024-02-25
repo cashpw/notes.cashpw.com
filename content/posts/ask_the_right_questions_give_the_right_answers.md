@@ -2,7 +2,7 @@
 title = "Give the right answers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T16:04:00-08:00
-lastmod = 2023-12-23T10:37:34-08:00
+lastmod = 2024-02-24T11:43:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,13 +21,12 @@ A [Play to win]({{< relref "play_to_win.md" >}}) strategy which uses answers as 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
+-   [Lie, sometimes]({{< relref "the_best_answer_may_not_be_true.md" >}})
+-   [Tina Young | The Rise of the "Trauma Essay" in College Applications]({{< relref "tina_young_the_rise_of_the_trauma_essay_in_college_applications.md" >}})
 -   [Tom Limoncelli | The Right Answer]({{< relref "limoncelliRightAnswer.md" >}})

@@ -2,7 +2,7 @@
 title = "Robin M. Hogarth and Tomás Lejarraga and Emre Soyer | The Two Settings of Kind and Wicked Learning Environments"
 author = ["Cash Weaver"]
 date = 2023-09-04T17:14:00-07:00
-lastmod = 2023-12-23T16:54:39-08:00
+lastmod = 2024-02-24T18:18:25-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -30,8 +30,6 @@ slug = "909fee0f-39cb-4c5b-871b-1193f4f20dc6"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hogarth, Robin M., Tomás Lejarraga, and Emre Soyer. 2015. “The Two Settings of Kind and Wicked Learning Environments.” <i>Current Directions in Psychological Science</i> 24 (5): 379–85. <a href="https://www.jstor.org/stable/44318900">https://www.jstor.org/stable/44318900</a>.</div>

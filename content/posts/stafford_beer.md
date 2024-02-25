@@ -2,7 +2,7 @@
 title = "Stafford Beer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T09:39:00-08:00
-lastmod = 2023-12-23T18:14:57-08:00
+lastmod = 2024-02-24T18:21:52-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -11,11 +11,8 @@ slug = "115d4082-33fc-4125-a49f-52fd84f8f8b3"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

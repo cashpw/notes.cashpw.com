@@ -2,7 +2,7 @@
 title = "Caleb Schoepp | Productivity Porn"
 author = ["Cash Weaver"]
 date = 2022-11-23T14:49:00-08:00
-lastmod = 2023-12-23T10:46:40-08:00
+lastmod = 2024-02-24T11:48:42-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -23,12 +23,9 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Schoepp n.d.</a>)
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Schoepp, Caleb. n.d. “Productivity Porn.” Accessed November 23, 2022. <a href="https://calebschoepp.com/blog/2022/productivity-porn/">https://calebschoepp.com/blog/2022/productivity-porn/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

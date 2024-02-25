@@ -2,7 +2,7 @@
 title = "Latin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T08:24:00-08:00
-lastmod = 2023-12-23T13:51:18-08:00
+lastmod = 2024-02-24T17:50:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "c2d1f99b-41ed-4476-b513-20e12456edc2"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Latin.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Latin&oldid=1121255172">https://en.wikipedia.org/w/index.php?title=Latin&#38;oldid=1121255172</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

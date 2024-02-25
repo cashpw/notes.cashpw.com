@@ -2,14 +2,14 @@
 title = "Betty Miller Unterberger | Power Politics and Statecraft: The World According to Kissinger"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T11:03:00-07:00
-lastmod = 2023-12-23T20:29:07-08:00
+lastmod = 2024-02-24T18:37:05-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "5bd36ce8-9786-483e-8f1b-51fcc1fd7cc7"
 +++
 
-[Betty Miller Unterberger]({{< relref "betty_miller_unterberger.md" >}}), (NO_ITEM_DATA:unterbergerPowerPoliticsStatecraftWorldAccordingKissinger1995)
+[Betty Miller Unterberger]({{< relref "betty_miller_unterberger.md" >}}), (<a href="#citeproc_bib_item_1">Unterberger 1995</a>)
 
 
 ## Notes {#notes}
@@ -21,12 +21,9 @@ slug = "5bd36ce8-9786-483e-8f1b-51fcc1fd7cc7"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:unterbergerPowerPoliticsStatecraftWorldAccordingKissinger1995</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Unterberger, Betty Miller. 1995. “Power Politics and Statecraft: The World According to Kissinger.” Edited by Henry Kissinger. <i>Reviews in American History</i> 23 (4): 723–28. <a href="https://www.jstor.org/stable/2703000">https://www.jstor.org/stable/2703000</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Derivative (math)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:20:00-08:00
-lastmod = 2023-12-23T11:28:34-08:00
+lastmod = 2024-02-24T13:51:06-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -91,12 +91,9 @@ Related: [Differential calculus]({{< relref "differential_calculus.md" >}})
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Derivative.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Derivative&oldid=1115036985">https://en.wikipedia.org/w/index.php?title=Derivative&#38;oldid=1115036985</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

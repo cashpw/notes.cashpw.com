@@ -2,7 +2,7 @@
 title = "Repugnant conclusion"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T10:38:00-08:00
-lastmod = 2023-12-23T16:45:38-08:00
+lastmod = 2024-02-24T18:18:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,8 +16,6 @@ The repugnant conclusion is problem in utilitarianism. Utilitarianism concerns i
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mere Addition Paradox.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Mere_addition_paradox&oldid=1119269650">https://en.wikipedia.org/w/index.php?title=Mere_addition_paradox&#38;oldid=1119269650</a>.</div>

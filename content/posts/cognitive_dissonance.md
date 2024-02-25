@@ -2,7 +2,7 @@
 title = "Cognitive dissonance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T17:29:00-07:00
-lastmod = 2023-12-23T11:02:17-08:00
+lastmod = 2024-02-24T11:54:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "097f418c-8af5-498a-a5e3-37bab614556e"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cognitive Dissonance.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Cognitive_dissonance&oldid=1088686297">https://en.wikipedia.org/w/index.php?title=Cognitive_dissonance&#38;oldid=1088686297</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

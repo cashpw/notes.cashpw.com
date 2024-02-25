@@ -2,7 +2,7 @@
 title = "Continuous partial attention"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T14:46:00-08:00
-lastmod = 2023-12-23T11:07:29-08:00
+lastmod = 2024-02-24T11:56:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "ae7e202d-cab1-4ccf-8041-e76d39f7f698"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Continuous Partial Attention.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Continuous_partial_attention&oldid=1087641342">https://en.wikipedia.org/w/index.php?title=Continuous_partial_attention&#38;oldid=1087641342</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Trie"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-21T19:18:00-07:00
-lastmod = 2023-12-23T20:16:20-08:00
+lastmod = 2024-02-24T18:31:35-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,12 +22,9 @@ slug = "5b235c79-d75b-4e4e-808a-b43f532b6226"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Trie.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Trie&oldid=1109798282">https://en.wikipedia.org/w/index.php?title=Trie&#38;oldid=1109798282</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

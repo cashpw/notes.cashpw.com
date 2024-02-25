@@ -2,7 +2,7 @@
 title = "Quicksort implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T13:57:00-07:00
-lastmod = 2023-12-23T16:25:07-08:00
+lastmod = 2024-02-24T18:14:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -57,11 +57,8 @@ print(quick_sort(a, lambda a, b: a <= b))
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

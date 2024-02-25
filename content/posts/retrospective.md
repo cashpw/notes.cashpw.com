@@ -2,7 +2,7 @@
 title = "Retrospective"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T12:27:00-08:00
-lastmod = 2023-12-23T16:47:49-08:00
+lastmod = 2024-02-24T18:18:09-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -22,10 +22,10 @@ As a rough draft:
         -   Do the retrospective as soon as reasonably possible. Ideally immediately after the event.
 -   Examples
     -   Video games
-        -   Watch your replays and identify deficiencies
+        -   [Record yourself]({{< relref "record_yourself.md" >}}) and watch replays to identify deficiencies
             -   Compare against replays from those who play better than you
     -   Weight lifting
-        -   Record yourself on your phone to diagnose and improve your form
+        -   [Record yourself]({{< relref "record_yourself.md" >}}) to diagnose and improve your form
     -   A project at your job
         -   Perform retrospectives at each milestone (which should be small enough to be 1-2 weeks of effort) and again at the end of the project
     -   Public speaking
@@ -38,6 +38,8 @@ As a rough draft:
         -   Record yourself throwing and critique your form. Send the video to people you respect and have them critique you.
         -   Produce pots and have people who know more than you critique them.
 
+Related
+
 This is all coupled with [Embrace discomfort]({{< relref "embrace_discomfort.md" >}}); specifically: embrace looking foolish or like you don't know what you're doing. You have to get over that hurdle in order to progress. Yes cheff, thank you chef; etc.
 
 Also coupled with [Seek out feedback and accept with gratitude]({{< relref "seek_out_feedback_and_accept_with_gratitude.md" >}}).
@@ -45,15 +47,13 @@ Also coupled with [Seek out feedback and accept with gratitude]({{< relref "seek
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
+-   [How to improve]({{< relref "how_to_improve.md" >}})
 -   [Stages of problem solving]({{< relref "stages_of_problem_solving.md" >}})
 -   [The last 10%]({{< relref "after_the_finish_line.md" >}})
 -   [Time tracking in Emacs with org-mode]({{< relref "time_tracking_in_emacs_with_org_mode.md" >}})

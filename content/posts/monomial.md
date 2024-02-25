@@ -2,7 +2,7 @@
 title = "Monomial"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T10:38:00-08:00
-lastmod = 2023-12-23T14:47:00-08:00
+lastmod = 2024-02-24T17:56:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,12 +19,9 @@ slug = "cbd532d2-7ec0-4710-ba42-54212961b1c3"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Monomial.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Monomial&oldid=1127097293">https://en.wikipedia.org/w/index.php?title=Monomial&#38;oldid=1127097293</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

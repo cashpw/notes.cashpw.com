@@ -2,7 +2,7 @@
 title = "Garden path"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-23T09:46:00-07:00
-lastmod = 2023-12-23T12:10:27-08:00
+lastmod = 2024-02-24T14:20:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -58,14 +58,11 @@ slug = "3f513197-b379-4b8b-b918-21100005e18a"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“20 Grammatically-Correct Sentences You Won’t Read Right the First Time.” n.d. <i>Apartment Therapy</i>. Accessed September 23, 2023. <a href="https://www.apartmenttherapy.com/garden-sentences-262915">https://www.apartmenttherapy.com/garden-sentences-262915</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Garden-Path Sentence.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Garden-path_sentence&oldid=1150844116">https://en.wikipedia.org/w/index.php?title=Garden-path_sentence&#38;oldid=1150844116</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Klein, Gary, and Holly C. Baxter. 2006. “Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning.” In <i>Interservice/Industry Training Systems and Education Conference, Orlando, Florida</i>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Taboo games"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T14:56:00-08:00
-lastmod = 2023-12-23T13:02:35-08:00
+lastmod = 2024-02-24T17:46:55-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -18,11 +18,8 @@ Related: [Signaling]({{< relref "signaling.md" >}})
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

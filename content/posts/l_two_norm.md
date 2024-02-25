@@ -2,7 +2,7 @@
 title = "L-two norm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T08:45:00-08:00
-lastmod = 2023-12-23T13:47:46-08:00
+lastmod = 2024-02-24T17:50:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ slug = "a5079f3d-9926-4de1-8b60-5d5e64396a01"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

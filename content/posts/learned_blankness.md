@@ -2,7 +2,7 @@
 title = "Learned blankness"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T08:38:00-08:00
-lastmod = 2023-12-23T13:54:59-08:00
+lastmod = 2024-02-24T17:50:53-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,12 +20,9 @@ Related: [Cargo cult]({{< relref "cargo_cult.md" >}})
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salamon, Anna. 2011. “Learned Blankness.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness">https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

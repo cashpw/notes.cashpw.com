@@ -2,7 +2,7 @@
 title = "Perfect is the enemy of good"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T09:00:00-07:00
-lastmod = 2023-12-23T15:42:59-08:00
+lastmod = 2024-02-24T18:06:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,6 @@ See also [Good enough]({{< relref "kileBusyPersonPatterns2006.md#good-enough" >}
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

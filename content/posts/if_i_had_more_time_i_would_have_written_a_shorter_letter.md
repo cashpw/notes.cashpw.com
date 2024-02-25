@@ -2,7 +2,7 @@
 title = "If I had more time, I would have written a shorter letter"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-17T11:30:00-08:00
-lastmod = 2023-12-23T12:49:32-08:00
+lastmod = 2024-02-24T17:46:14-08:00
 draft = false
 roam_refs = ["https://quoteinvestigator.com/2012/04/28/shorter-letter"]
 +++
@@ -14,11 +14,8 @@ roam_refs = ["https://quoteinvestigator.com/2012/04/28/shorter-letter"]
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

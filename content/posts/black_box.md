@@ -2,7 +2,7 @@
 title = "Black box"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T16:37:00-07:00
-lastmod = 2023-12-23T10:42:44-08:00
+lastmod = 2024-02-24T11:46:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "ab1c1113-290b-4715-b2d7-94f2af485b2e"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Black Box.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Black_box&oldid=1109398572">https://en.wikipedia.org/w/index.php?title=Black_box&#38;oldid=1109398572</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Keep your eye on the prize"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-27T08:44:00-07:00
-lastmod = 2023-12-23T13:37:30-08:00
+lastmod = 2024-02-24T17:49:24-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -18,11 +18,8 @@ Keep your focus on the actual goal and act in accordance with that "north star" 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

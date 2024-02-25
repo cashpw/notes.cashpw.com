@@ -2,7 +2,7 @@
 title = "Game theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T07:02:00-07:00
-lastmod = 2023-12-23T12:09:52-08:00
+lastmod = 2024-02-24T14:20:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "e157ee7b-f36c-4ff8-bcb3-643163925c20"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Game Theory.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Game_theory&oldid=1112450770">https://en.wikipedia.org/w/index.php?title=Game_theory&#38;oldid=1112450770</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

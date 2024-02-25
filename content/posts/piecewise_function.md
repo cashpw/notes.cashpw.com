@@ -2,7 +2,7 @@
 title = "Piecewise function"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T06:53:00-08:00
-lastmod = 2023-12-23T15:47:54-08:00
+lastmod = 2024-02-24T18:07:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "d1a8dddc-9e5c-4e4f-ac74-a2079025130c"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Piecewise.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Piecewise&oldid=1125037876">https://en.wikipedia.org/w/index.php?title=Piecewise&#38;oldid=1125037876</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

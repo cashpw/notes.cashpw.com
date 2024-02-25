@@ -2,7 +2,7 @@
 title = "Nick Bostrom | The Fable of the Dragon Tyrant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-20T20:17:00-07:00
-lastmod = 2023-12-23T10:43:35-08:00
+lastmod = 2024-02-24T11:47:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -136,12 +136,9 @@ slug = "2a13c6a7-c74c-408b-b30e-69a18c9ad9ab"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Bostrom, N. 2005. “The Fable of the Dragon Tyrant.” <i>Journal of Medical Ethics</i> 31 (5): 273–77. <a href="https://doi.org/10.1136/jme.2004.009035">https://doi.org/10.1136/jme.2004.009035</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

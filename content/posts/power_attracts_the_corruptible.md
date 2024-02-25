@@ -2,7 +2,7 @@
 title = "Power attracts the corruptible"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:29:00-08:00
-lastmod = 2023-12-23T15:57:48-08:00
+lastmod = 2024-02-24T18:09:33-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -16,12 +16,9 @@ slug = "0336585d-7bce-4982-850d-986678bd6cd6"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank, and Brian Herbert. 2020. <i>Chapterhouse: Dune</i>. New York: Ace.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

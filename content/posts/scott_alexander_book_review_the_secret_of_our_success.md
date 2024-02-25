@@ -2,19 +2,19 @@
 title = "Scott Alexander | Book Review: The Secret Of Our Success"
 author = ["Cash Weaver"]
 date = 2023-01-09T09:54:00-08:00
-lastmod = 2023-12-23T17:12:01-08:00
+lastmod = 2024-02-24T18:18:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "cb2c8f33-41ee-457c-805a-27ccec7ba2c3"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (NO_ITEM_DATA:alexanderBookReviewSecretOurSuccess2019)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2019</a>)
 
 
 ## Summary {#summary}
 
-A book review and summary of the key points in (NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016).
+A book review and summary of the key points in (<a href="#citeproc_bib_item_2">Henrich 2016</a>).
 
 
 ## Thoughts {#thoughts}
@@ -269,13 +269,10 @@ See [Joseph Patrick Henrich | The Secret of Our Success]({{< relref "joseph_patr
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:alexanderBookReviewSecretOurSuccess2019</div>
-  <div class="csl-entry">NO_ITEM_DATA:henrichSecretOurSuccessHowCultureDrivingHumanEvolutionDomesticatingOur2016</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Book Review: The Secret Of Our Success.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/">https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Henrich, Joseph Patrick. 2016. <i>The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter</i>. Princeton: Princeton University Press.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

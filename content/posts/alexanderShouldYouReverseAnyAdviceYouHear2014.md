@@ -2,14 +2,14 @@
 title = "Scott Alexander | Should You Reverse Any Advice You Hear?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T07:31:00-08:00
-lastmod = 2023-12-23T10:34:26-08:00
+lastmod = 2024-02-24T11:41:56-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "de6d0d9e-3ce1-4e18-b747-c59cd50ceebf"
 +++
 
-[Scott Alexander]({{< relref "scott_alexander.md" >}}), (NO_ITEM_DATA:alexanderShouldYouReverseAnyAdviceYouHear2014)
+[Scott Alexander]({{< relref "scott_alexander.md" >}}), (<a href="#citeproc_bib_item_1">Alexander 2014</a>)
 
 
 ## Summary {#summary}
@@ -52,8 +52,6 @@ A simple bit of [metacognitive]({{< relref "metacognition.md" >}}) advice which 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:alexanderShouldYouReverseAnyAdviceYouHear2014</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2014. “Should You Reverse Any Advice You Hear?” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/">https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/</a>.</div>
 </div>

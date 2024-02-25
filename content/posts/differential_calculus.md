@@ -2,7 +2,7 @@
 title = "Differential calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:57:00-08:00
-lastmod = 2023-12-23T11:30:23-08:00
+lastmod = 2024-02-24T13:51:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,13 +27,10 @@ Differentiation is [linear]({{< relref "linearity.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Differential Calculus.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Differential_calculus&oldid=1131291175">https://en.wikipedia.org/w/index.php?title=Differential_calculus&#38;oldid=1131291175</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Differentiation Rules.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Differentiation_rules&oldid=1129937443">https://en.wikipedia.org/w/index.php?title=Differentiation_rules&#38;oldid=1129937443</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

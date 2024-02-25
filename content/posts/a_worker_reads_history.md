@@ -2,7 +2,7 @@
 title = "Bertolt Brecht | A worker reads history"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T07:12:00-08:00
-lastmod = 2023-12-23T10:32:58-08:00
+lastmod = 2024-02-24T11:41:15-08:00
 tags = ["hastodo", "poem", "hastodo", "poem"]
 categories = ["hastodo", "poem"]
 draft = false
@@ -50,8 +50,6 @@ One of my [Favorites]({{< relref "favorites.md" >}}).
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Bertholt, Brecht. n.d. “A Worker Reads History.” Accessed November 15, 2022. <a href="https://allpoetry.com/A-Worker-Reads-History">https://allpoetry.com/A-Worker-Reads-History</a>.</div>

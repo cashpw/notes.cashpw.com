@@ -2,7 +2,7 @@
 title = "The best time was yesterday; the second best time is now"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T15:25:00-07:00
-lastmod = 2023-12-23T19:04:59-08:00
+lastmod = 2024-02-24T18:25:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,8 +13,6 @@ The best time for ___[^fn:1] was yesterday. The second best time is now.
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

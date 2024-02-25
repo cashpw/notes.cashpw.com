@@ -2,14 +2,12 @@
 title = "Vocabulary"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-15T10:24:00-08:00
-lastmod = 2023-12-23T20:49:35-08:00
+lastmod = 2024-02-24T18:37:32-08:00
 draft = false
 slug = "570a3103-cef5-4ce3-9498-fde21020fe22"
 +++
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

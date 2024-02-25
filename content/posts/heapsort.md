@@ -2,7 +2,7 @@
 title = "Heapsort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:32:00-07:00
-lastmod = 2023-12-23T12:35:11-08:00
+lastmod = 2024-02-24T14:22:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,12 +33,9 @@ slug = "cf64c166-6ad5-4dd7-88c6-155a320a7ea3"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Heapsort.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Heapsort&oldid=1110069153">https://en.wikipedia.org/w/index.php?title=Heapsort&#38;oldid=1110069153</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

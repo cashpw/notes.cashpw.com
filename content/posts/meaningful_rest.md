@@ -2,14 +2,14 @@
 title = "Meaningful rest"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:53:00-07:00
-lastmod = 2023-12-23T14:31:20-08:00
+lastmod = 2024-02-24T17:54:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "ef6148e5-0f53-4535-89fa-1f67b3c557b7"
 +++
 
-[Meaningful rest]({{< relref "meaningful_rest.md" >}}) is a type of rest which leaves the individual feeling rejuvenated. It exists in contrast to default actions -- "the things that take no activation energy to start, the things [one] reflexively reaches for" (NO_ITEM_DATA:nandaPost29MeaningfulRest). [Be conscious of your defaults]({{< relref "be_concious_of_your_defaults.md" >}}).
+[Meaningful rest]({{< relref "meaningful_rest.md" >}}) is a type of rest which leaves the individual feeling rejuvenated. It exists in contrast to default actions -- "the things that take no activation energy to start, the things [one] reflexively reaches for" (<a href="#citeproc_bib_item_1">Nanda n.d.</a>). [Be conscious of your defaults]({{< relref "be_concious_of_your_defaults.md" >}}).
 
 The term is from [Neel Nanda | Post 29: Meaningful Rest]({{< relref "neel_nanda_post_29_meaningful_rest.md" >}}).
 
@@ -42,12 +42,9 @@ The term is from [Neel Nanda | Post 29: Meaningful Rest]({{< relref "neel_nanda_
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:nandaPost29MeaningfulRest</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nanda, Neel. n.d. “Post 29: Meaningful Rest.” <i>Neel Nanda</i>. Accessed November 29, 2022. <a href="https://www.neelnanda.io/blog/29-meaningful-rest">https://www.neelnanda.io/blog/29-meaningful-rest</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

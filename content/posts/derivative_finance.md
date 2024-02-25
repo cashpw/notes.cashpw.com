@@ -2,7 +2,7 @@
 title = "Derivative (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:21:00-08:00
-lastmod = 2023-12-23T11:28:52-08:00
+lastmod = 2024-02-24T13:51:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "7edbf731-5e0c-4eda-9803-1b1a88468f71"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Derivative (Finance).” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Derivative_(finance)&oldid=1110214196">https://en.wikipedia.org/w/index.php?title=Derivative_(finance)&#38;oldid=1110214196</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

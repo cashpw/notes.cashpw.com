@@ -2,7 +2,7 @@
 title = "Satisficing"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-06T08:46:00-07:00
-lastmod = 2023-12-23T17:02:26-08:00
+lastmod = 2024-02-24T18:18:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ Related: [Good enough]({{< relref "kileBusyPersonPatterns2006.md#good-enough" >}
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Satisficing.” 2023. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Satisficing&oldid=1147830159">https://en.wikipedia.org/w/index.php?title=Satisficing&#38;oldid=1147830159</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

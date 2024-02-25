@@ -2,14 +2,14 @@
 title = "John Salvatier | Reality Has a Surprising Amount of Detail"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T04:29:00-08:00
-lastmod = 2023-12-23T17:00:50-08:00
+lastmod = 2024-02-24T18:18:36-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "16937276-fd62-4d50-90ef-cdf5ab036442"
 +++
 
-(NO_ITEM_DATA:salvatierRealityHasSurprisingAmountDetail)
+(<a href="#citeproc_bib_item_1">Salvatier n.d.</a>)
 
 
 ## Summary {#summary}
@@ -80,12 +80,9 @@ These details are difficult to identify since they are mostly-invisible before a
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:salvatierRealityHasSurprisingAmountDetail</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Salvatier, John. n.d. “Reality Has a Surprising Amount of Detail.” Accessed March 12, 2022. <a href="http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail">http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

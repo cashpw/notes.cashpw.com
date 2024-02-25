@@ -2,7 +2,7 @@
 title = "Scot Jones"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-14T17:43:00-08:00
-lastmod = 2023-12-23T17:05:34-08:00
+lastmod = 2024-02-24T18:18:47-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

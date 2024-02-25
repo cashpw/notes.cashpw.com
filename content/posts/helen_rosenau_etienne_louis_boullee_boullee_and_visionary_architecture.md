@@ -2,7 +2,7 @@
 title = "Helen Rosenau, Etienne Louis Boullée | Boullée and Visionary Architecture"
 author = ["Cash Weaver"]
 date = 2023-07-25T16:00:00-07:00
-lastmod = 2023-12-23T12:37:38-08:00
+lastmod = 2024-02-24T14:22:15-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -109,8 +109,6 @@ By [Étienne-Louis Boullée]({{< relref "etienne_louis_boullee.md" >}})
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Rosenau, Helen, and Etienne Louis Boullée. 1976. <i>Boullée and Visionary Architecture</i>. London, New York: Academy Editions ; Harmony Books.</div>

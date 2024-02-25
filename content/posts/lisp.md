@@ -2,7 +2,7 @@
 title = "Lisp"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:45:00-07:00
-lastmod = 2023-12-23T14:08:13-08:00
+lastmod = 2024-02-24T17:52:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,12 +22,9 @@ slug = "f6e9082b-3589-448a-9877-b9a2b31d88ba"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lisp (Programming Language).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Lisp_(programming_language)&oldid=1093968028">https://en.wikipedia.org/w/index.php?title=Lisp_(programming_language)&#38;oldid=1093968028</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

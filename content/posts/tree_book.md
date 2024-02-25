@@ -2,7 +2,7 @@
 title = "Tree book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:48:00-07:00
-lastmod = 2023-12-23T20:13:12-08:00
+lastmod = 2024-02-24T18:31:15-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -15,19 +15,16 @@ slug = "3784b9a9-ad2f-4537-864a-7362f21cd014"
 >
 > [...] tree books and narratives are difficult to summarise. And I'd warn against reading summaries of those books in lieu of reading the actual text: too much gets lost in translation.
 >
-> (NO_ITEM_DATA:chinThreeKindsNonfictionBooks2018)
+> (<a href="#citeproc_bib_item_1">Chin 2018</a>)
 
 Related: [Narrative book]({{< relref "narrative_book.md" >}}), [Branch book]({{< relref "branch_book.md" >}})
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinThreeKindsNonfictionBooks2018</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “The Three Kinds of Non-Fiction Books.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/">https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

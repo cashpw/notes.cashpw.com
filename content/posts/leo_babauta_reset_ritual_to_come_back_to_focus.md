@@ -2,14 +2,14 @@
 title = "Leo Babauta | Reset Ritual to Come Back to Focus"
 author = ["Cash Weaver"]
 date = 2023-03-03T10:56:00-08:00
-lastmod = 2023-12-23T13:58:53-08:00
+lastmod = 2024-02-24T17:51:13-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "b785c042-ed23-44c0-b25a-91294ed9b8d0"
 +++
 
-[Leo Babauta]({{< relref "leo_babauta.md" >}}), (NO_ITEM_DATA:babautaResetRitualComeBackFocus2022)
+[Leo Babauta]({{< relref "leo_babauta.md" >}}), (<a href="#citeproc_bib_item_1">Babauta 2022</a>)
 
 > One of the most common problems when people are working is that they get caught up in busywork or distractions, and it can take hours before they find their way back to their meaningful work.
 >
@@ -32,12 +32,9 @@ slug = "b785c042-ed23-44c0-b25a-91294ed9b8d0"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:babautaResetRitualComeBackFocus2022</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Babauta, Leo. 2022. “Reset Ritual to Come Back to Focus.” <i>Zen Habits</i>. <a href="https://zenhabits.net/reset-ritual/">https://zenhabits.net/reset-ritual/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

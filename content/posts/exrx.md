@@ -2,7 +2,7 @@
 title = "ExRx"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-06T10:51:00-07:00
-lastmod = 2023-12-23T11:50:34-08:00
+lastmod = 2024-02-24T14:19:04-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -11,11 +11,8 @@ slug = "f33704f3-8769-4e6e-8344-11b8a60a800a"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

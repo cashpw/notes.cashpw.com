@@ -2,7 +2,7 @@
 title = "Breadth-first search in python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-26T05:19:00-07:00
-lastmod = 2023-12-23T10:44:28-08:00
+lastmod = 2024-02-24T11:47:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -77,11 +77,8 @@ print(breadth_first_search(a.id, 100, adjacencies, vertices), 'should be None')
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

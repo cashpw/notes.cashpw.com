@@ -2,7 +2,7 @@
 title = "The acquisition of wealth is no longer the driving force in our lives"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-21T10:30:00-07:00
-lastmod = 2023-12-23T19:04:43-08:00
+lastmod = 2024-02-24T18:25:09-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -17,8 +17,6 @@ Related: [Fully Automated Luxury Communism]({{< relref "fully_automated_luxury_c
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

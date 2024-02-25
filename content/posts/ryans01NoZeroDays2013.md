@@ -2,7 +2,7 @@
 title = "ryans01 | No zero days"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-12T08:33:00-08:00
-lastmod = 2023-12-23T16:57:24-08:00
+lastmod = 2024-02-24T18:18:30-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -26,8 +26,6 @@ slug = "c89158fd-05ac-4c66-8986-05753e15096c"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>ryans01. 2013. “No Zero Days.” Reddit Comment. <i>R/Getdisciplined</i>. <a href="www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/">www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/</a>.</div>

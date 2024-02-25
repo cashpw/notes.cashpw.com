@@ -2,7 +2,7 @@
 title = "Post-order tree traversal"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T16:33:00-07:00
-lastmod = 2023-12-23T15:55:45-08:00
+lastmod = 2024-02-24T18:09:06-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,12 +26,9 @@ slug = "81611da6-3ea4-45d9-b2db-b96ed95d946d"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree Traversal.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Tree_traversal&oldid=1083604462">https://en.wikipedia.org/w/index.php?title=Tree_traversal&#38;oldid=1083604462</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

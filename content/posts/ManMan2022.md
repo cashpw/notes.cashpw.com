@@ -2,7 +2,7 @@
 title = "Man After Man"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T15:08:00-08:00
-lastmod = 2023-12-23T10:32:11-08:00
+lastmod = 2024-02-24T11:40:56-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -24,8 +24,6 @@ A work in [Speculative evolution]({{< relref "SpeculativeEvolution2022.md" >}}).
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Man After Man.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Man_After_Man&oldid=1070083811">https://en.wikipedia.org/w/index.php?title=Man_After_Man&#38;oldid=1070083811</a>.</div>

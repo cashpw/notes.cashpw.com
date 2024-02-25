@@ -2,7 +2,7 @@
 title = "Praise in public"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-04T08:17:00-08:00
-lastmod = 2023-12-23T16:00:22-08:00
+lastmod = 2024-02-24T18:10:05-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false

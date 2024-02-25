@@ -2,7 +2,7 @@
 title = "Zotero"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-05T22:32:00-07:00
-lastmod = 2023-12-23T21:28:30-08:00
+lastmod = 2024-02-24T18:38:28-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,12 +17,9 @@ slug = "b9235ad0-ffc3-4141-828e-485be52e89cf"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Zotero.” n.d. Accessed September 6, 2022. <a href="https://www.zotero.org/">https://www.zotero.org/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

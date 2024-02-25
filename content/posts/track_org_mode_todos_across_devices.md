@@ -2,7 +2,7 @@
 title = "Track org-mode TODOs across devices"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T08:37:00-07:00
-lastmod = 2023-12-23T20:03:08-08:00
+lastmod = 2024-02-24T18:30:16-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -16,8 +16,6 @@ I keep my dotfiles, [org-mode]({{< relref "org_mode.md" >}}) TODOs, and some pro
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

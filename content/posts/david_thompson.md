@@ -2,7 +2,7 @@
 title = "David Thompson"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:26:00-08:00
-lastmod = 2023-12-23T11:23:22-08:00
+lastmod = 2024-02-24T13:50:44-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -11,11 +11,8 @@ slug = "c15e2a88-d5d8-404e-bbba-487f51c563a0"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

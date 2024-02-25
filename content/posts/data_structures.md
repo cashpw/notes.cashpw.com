@@ -2,7 +2,7 @@
 title = "Data structures"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-27T19:44:00-07:00
-lastmod = 2023-12-23T11:22:16-08:00
+lastmod = 2024-02-24T13:50:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -22,12 +22,9 @@ slug = "738c2ba7-a272-417d-9b6d-b6952d765280"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Data Structure.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Data_structure&oldid=1094193368">https://en.wikipedia.org/w/index.php?title=Data_structure&#38;oldid=1094193368</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Frank Herbert"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-20T13:05:00-08:00
-lastmod = 2023-12-23T12:04:48-08:00
+lastmod = 2024-02-24T14:19:50-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -16,11 +16,8 @@ Among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Quicksort"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-30T13:45:00-07:00
-lastmod = 2023-12-23T16:24:27-08:00
+lastmod = 2024-02-24T18:14:00-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -62,12 +62,9 @@ procedure partition(lowIndex, highIndex, list) is
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Quicksort.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Quicksort&oldid=1093780310">https://en.wikipedia.org/w/index.php?title=Quicksort&#38;oldid=1093780310</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

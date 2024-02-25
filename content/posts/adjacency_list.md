@@ -2,7 +2,7 @@
 title = "Adjacency list"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:07:00-07:00
-lastmod = 2023-12-23T10:33:21-08:00
+lastmod = 2024-02-24T11:41:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,12 +28,9 @@ Also see [Adjacency matrix]({{< relref "adjacency_matrix.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Adjacency List.” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Adjacency_list&oldid=1083389776">https://en.wikipedia.org/w/index.php?title=Adjacency_list&#38;oldid=1083389776</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

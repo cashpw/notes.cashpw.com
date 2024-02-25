@@ -2,7 +2,7 @@
 title = "Option time value"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:44:00-08:00
-lastmod = 2023-12-23T19:45:02-08:00
+lastmod = 2024-02-24T18:28:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "f41ce01a-f8d7-4d5e-a7c6-178706176f6c"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Option Time Value.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Option_time_value&oldid=1067040888">https://en.wikipedia.org/w/index.php?title=Option_time_value&#38;oldid=1067040888</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

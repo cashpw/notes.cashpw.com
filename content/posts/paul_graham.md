@@ -2,7 +2,7 @@
 title = "Paul Graham"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:43:00-08:00
-lastmod = 2023-12-23T15:37:30-08:00
+lastmod = 2024-02-24T18:05:25-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -11,11 +11,8 @@ slug = "8a9360e0-306a-422a-804f-e2fd6664b8fe"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

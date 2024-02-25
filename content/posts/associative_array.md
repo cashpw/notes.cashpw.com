@@ -2,7 +2,7 @@
 title = "Associative array"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T15:50:00-07:00
-lastmod = 2023-12-23T10:37:43-08:00
+lastmod = 2024-02-24T11:44:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "efd422ba-2509-48c9-b267-265f3c369462"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Associative Array.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Associative_array&oldid=1086435023">https://en.wikipedia.org/w/index.php?title=Associative_array&#38;oldid=1086435023</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

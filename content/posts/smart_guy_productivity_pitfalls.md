@@ -1,15 +1,15 @@
 +++
-title = "Smart Guy Productivity Pitfalls"
+title = "Smart guy productivity pitfalls"
 author = ["Cash Weaver"]
 date = 2022-12-20T10:22:00-08:00
-lastmod = 2023-12-23T17:51:31-08:00
+lastmod = 2024-02-24T18:20:35-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "9ed16182-a4a5-4bf6-a5c7-b6196c6eca97"
 +++
 
-Unknown, (NO_ITEM_DATA:SmartGuyProductivityPitfalls)
+Unknown, (<a href="#citeproc_bib_item_1">“Smart Guy Productivity Pitfalls” n.d.</a>)
 
 
 ## Summary {#summary}
@@ -112,16 +112,14 @@ I disagree with the author's assessment that solutions such as "turning off the 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:SmartGuyProductivityPitfalls</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Smart Guy Productivity Pitfalls.” n.d. Accessed December 20, 2022. <a href="http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html">http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
 
+-   [Get out of your own way]({{< relref "get_out_of_your_own_way.md" >}})
 -   [Jacob Kaplan-Moss | Embrace the Grind]({{< relref "jacob_kaplan_moss_embrace_the_grind.md" >}})
 -   [On productivity]({{< relref "on_productivity.md" >}})
 -   [Work smart and hard]({{< relref "work_smart_and_hard.md" >}})

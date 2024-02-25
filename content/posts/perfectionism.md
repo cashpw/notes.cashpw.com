@@ -2,7 +2,7 @@
 title = "Perfectionism"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-19T15:55:00-08:00
-lastmod = 2023-12-23T15:43:17-08:00
+lastmod = 2024-02-24T18:06:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

@@ -2,7 +2,7 @@
 title = "You go high, we go low"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:05:00-07:00
-lastmod = 2023-12-23T21:18:26-08:00
+lastmod = 2024-02-24T18:38:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,11 +16,8 @@ See [Ian Danskin | You Go High, We Go Low]({{< relref "danskinYouGoHighWeGoLow20
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

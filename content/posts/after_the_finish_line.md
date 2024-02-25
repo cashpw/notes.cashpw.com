@@ -2,7 +2,7 @@
 title = "The last 10%"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-04T07:57:00-08:00
-lastmod = 2023-12-23T10:33:43-08:00
+lastmod = 2024-02-24T11:41:37-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -62,13 +62,10 @@ They won't come once you build it. They'll come when you sell them on why they s
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Henley, Austin. n.d. “Stopping at 90\%.” Accessed December 4, 2023. <a href="https://austinhenley.com/blog/90percent.html">https://austinhenley.com/blog/90percent.html</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Ramsey, Jared. n.d. “The Last 1\%.” Accessed December 4, 2023. <a href="https://jaredramsey.com/blog/20230808.html">https://jaredramsey.com/blog/20230808.html</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

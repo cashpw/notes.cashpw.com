@@ -2,14 +2,14 @@
 title = "Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:06:00-08:00
-lastmod = 2023-12-23T21:20:57-08:00
+lastmod = 2024-02-24T18:38:16-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "9bbe0740-9dff-4d2a-908e-535e96ea4e59"
 +++
 
-[Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}}), (NO_ITEM_DATA:yudkowskyTsuyokuNaritaiWantBecomeStronger2007)
+[Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}}), (<a href="#citeproc_bib_item_1">Yudkowsky 2007</a>)
 
 Similar: [Eliezer Yudkowsky | Something to Protect]({{< relref "eliezer_yudkowsky_something_to_protect.md" >}})
 
@@ -31,8 +31,6 @@ Similar: [Eliezer Yudkowsky | Something to Protect]({{< relref "eliezer_yudkowsk
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:yudkowskyTsuyokuNaritaiWantBecomeStronger2007</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Yudkowsky, Eliezer. 2007. “Tsuyoku Naritai! (I Want To Become Stronger).” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger">https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger</a>.</div>
 </div>

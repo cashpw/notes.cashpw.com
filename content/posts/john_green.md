@@ -2,7 +2,7 @@
 title = "John Green"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:46:00-08:00
-lastmod = 2023-12-23T13:21:56-08:00
+lastmod = 2024-02-24T17:48:13-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -11,11 +11,8 @@ slug = "4eaa8d9d-b4d1-4373-8723-d19d9c1dc38b"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

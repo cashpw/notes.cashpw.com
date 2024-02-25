@@ -2,7 +2,7 @@
 title = "Stages of problem solving"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:13:00-08:00
-lastmod = 2023-12-23T18:16:06-08:00
+lastmod = 2024-02-24T18:21:56-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -23,11 +23,8 @@ slug = "4dc60214-2e6b-45de-bed5-6e2fec793385"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

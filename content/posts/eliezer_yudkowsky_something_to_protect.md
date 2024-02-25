@@ -2,7 +2,7 @@
 title = "Eliezer Yudkowsky | Something to Protect"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-12T17:19:00-08:00
-lastmod = 2023-12-23T11:43:55-08:00
+lastmod = 2024-02-24T14:18:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -12,9 +12,14 @@ slug = "ad3762f0-6d77-4289-baa7-4c3192b9c4b1"
 [Eliezer Yudkowsky]({{< relref "eliezer_yudkowsky.md" >}}), (<a href="#citeproc_bib_item_1">Yudkowsky 2008</a>)
 
 
+## Thoughts {#thoughts}
+
+[Something to protect]({{< relref "someone_to_protect.md" >}})
+
+
 ## Notes {#notes}
 
-> In the gestalt of (ahem) [Japanese](https://www.lesswrong.com/lw/m7/zen_and_the_art_of_rationality/) [fiction](https://www.lesswrong.com/lw/k9/the_logical_fallacy_of_generalization_from/), one finds this oft-repeated motif: [Power comes from having something to protect]({{< relref "power_comes_from_having_something_to_protect.md" >}}).
+> In the gestalt of (ahem) [Japanese](https://www.lesswrong.com/lw/m7/zen_and_the_art_of_rationality/) [fiction](https://www.lesswrong.com/lw/k9/the_logical_fallacy_of_generalization_from/), one finds this oft-repeated motif: Power comes from having something to protect [[Something to protect]({{< relref "someone_to_protect.md" >}})].
 >
 > I'm not just talking about superheroes that power up when a friend is threatened, the way it works in Western fiction. In the Japanese version it runs deeper than that.
 >
@@ -41,15 +46,11 @@ slug = "ad3762f0-6d77-4289-baa7-4c3192b9c4b1"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Yudkowsky, Eliezer. 2008. “Something to Protect.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/SGR4GxFK7KmW7ckCB/something-to-protect">https://www.lesswrong.com/posts/SGR4GxFK7KmW7ckCB/something-to-protect</a>.</div>
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
 -   [Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)]({{< relref "yudkowskyTsuyokuNaritaiWant2007.md" >}})
--   [Power comes from having something to protect]({{< relref "power_comes_from_having_something_to_protect.md" >}})

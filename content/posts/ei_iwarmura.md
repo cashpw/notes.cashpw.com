@@ -2,7 +2,7 @@
 title = "Ei Iwarmura"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T14:07:00-07:00
-lastmod = 2023-12-23T11:42:26-08:00
+lastmod = 2024-02-24T13:52:24-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -19,8 +19,6 @@ Among other things:
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

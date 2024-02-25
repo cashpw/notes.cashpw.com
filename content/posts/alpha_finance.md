@@ -2,7 +2,7 @@
 title = "Alpha (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:36:00-08:00
-lastmod = 2023-12-23T10:35:05-08:00
+lastmod = 2024-02-24T11:42:15-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,8 +13,6 @@ slug = "c3e94338-47df-4fa4-9e2b-1bdd7069f032"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

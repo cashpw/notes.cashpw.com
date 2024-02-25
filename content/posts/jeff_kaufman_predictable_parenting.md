@@ -2,7 +2,7 @@
 title = "Jeff Kaufman | Predictable Parenting"
 author = ["Cash Weaver"]
 date = 2023-11-06T08:16:00-08:00
-lastmod = 2023-12-23T13:17:48-08:00
+lastmod = 2024-02-24T17:47:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -43,12 +43,9 @@ slug = "e93d361d-00ec-41cc-8140-76a9c8981e10"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kaufman, Jeff. n.d. “Predictable Parenting.” Accessed November 6, 2023. <a href="https://www.jefftk.com/p/predictable-parenting">https://www.jefftk.com/p/predictable-parenting</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

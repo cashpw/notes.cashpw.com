@@ -2,7 +2,7 @@
 title = "Dan Luu | 95%-Ile Isn't That Good"
 author = ["Cash Weaver"]
 date = 2023-10-27T08:31:00-07:00
-lastmod = 2023-12-23T11:13:43-08:00
+lastmod = 2024-02-24T13:50:05-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -61,12 +61,9 @@ There's a lot of low-hanging fruit at lower percentiles (e.g. for Overwatch: wai
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Luu, Dan. n.d. “95\%-Ile Isn’t That Good.” Accessed October 27, 2023. <a href="https://danluu.com/p95-skill/">https://danluu.com/p95-skill/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

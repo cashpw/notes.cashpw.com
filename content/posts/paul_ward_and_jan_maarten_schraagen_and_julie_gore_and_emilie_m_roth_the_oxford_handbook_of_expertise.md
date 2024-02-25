@@ -2,7 +2,7 @@
 title = "Paul Ward and Jan Maarten Schraagen and Julie Gore and Emilie M. Roth | The Oxford Handbook of Expertise"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:35:00-07:00
-lastmod = 2023-12-23T15:38:27-08:00
+lastmod = 2024-02-24T18:05:35-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -25,8 +25,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Ward et al. 2020</a>)
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ward, Paul, Jan Maarten Schraagen, Julie Gore, and Emilie M. Roth, eds. 2020. <i>The Oxford Handbook of Expertise</i>. First edition. Oxford, United Kingdom: Oxford University Press.</div>

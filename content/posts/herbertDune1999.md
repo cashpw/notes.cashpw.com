@@ -2,7 +2,7 @@
 title = "Frank Herbert | Dune"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-05T12:32:00-08:00
-lastmod = 2023-12-23T12:38:52-08:00
+lastmod = 2024-02-24T14:22:21-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -78,12 +78,9 @@ One of my [Favorites]({{< relref "favorites.md" >}}). This note, though the cita
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

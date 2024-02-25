@@ -2,7 +2,7 @@
 title = "Metagaming"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:01:00-08:00
-lastmod = 2023-12-23T10:32:14-08:00
+lastmod = 2024-02-24T11:40:57-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -17,8 +17,6 @@ slug = "5d636267-334b-4a01-b41d-c6cd6e826a26"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Metagaming.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Metagaming&oldid=1102547758">https://en.wikipedia.org/w/index.php?title=Metagaming&#38;oldid=1102547758</a>.</div>

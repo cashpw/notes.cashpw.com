@@ -2,14 +2,14 @@
 title = "Ali Kemal Sinop, Lisa Fawcett, Sreenivas Gollapudi, Kostas Kollias | Robust Routing Using Electrical Flows"
 author = ["Cash Weaver"]
 date = 2023-03-24T16:56:00-07:00
-lastmod = 2023-12-23T10:34:44-08:00
+lastmod = 2024-02-24T11:42:06-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "5db2d60d-f58e-43ed-80d8-b1826abaccd1"
 +++
 
-TODO_AUTHOR, (NO_ITEM_DATA:sinopRobustRoutingUsingElectricalFlows2021)
+[Ali Kemal Sinop]({{< relref "ali_kemal_sinop.md" >}}), [Lisa Fawcett]({{< relref "lisa_fawcett.md" >}}), [Sreenivas Gollapudi]({{< relref "sreenivas_gollapudi.md" >}}), [Kostas Kollias]({{< relref "kostas_kollias.md" >}}) (<a href="#citeproc_bib_item_1">Sinop et al. 2021</a>)
 
 
 ## Summary {#summary}
@@ -74,8 +74,6 @@ Ittai Abraham, Daniel Delling, Andrew V. Goldberg, and Renato F. Werneck. 2013. 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:sinopRobustRoutingUsingElectricalFlows2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Sinop, Ali Kemal, Lisa Fawcett, Sreenivas Gollapudi, and Kostas Kollias. 2021. “Robust Routing Using Electrical Flows.” In <i>Proceedings of the 29th International Conference on Advances in Geographic Information Systems</i>, 282–92. Beijing China: ACM. <a href="https://doi.org/10.1145/3474717.3483961">https://doi.org/10.1145/3474717.3483961</a>.</div>
 </div>

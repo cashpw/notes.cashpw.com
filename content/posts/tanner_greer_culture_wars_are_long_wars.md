@@ -2,14 +2,14 @@
 title = "Tanner Greer | Culture Wars Are Long Wars"
 author = ["Cash Weaver"]
 date = 2023-01-10T13:37:00-08:00
-lastmod = 2023-12-23T18:46:58-08:00
+lastmod = 2024-02-24T18:24:01-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "cec64d96-d0ea-4073-a74d-efb5a0588d93"
 +++
 
-[Tanner Greer]({{< relref "tanner_greer.md" >}}), (NO_ITEM_DATA:greerCultureWarsAreLongWars2021)
+[Tanner Greer]({{< relref "tanner_greer.md" >}}), (<a href="#citeproc_bib_item_1">Greer 2021</a>)
 
 
 ## Summary {#summary}
@@ -47,8 +47,6 @@ I suppose I'm a member of the cohort discussed here and don't see eye-to-eye wit
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:greerCultureWarsAreLongWars2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2021. “Culture Wars Are Long Wars.” <i>The Scholar’s Stage</i>. <a href="https://scholars-stage.org/culture-wars-are-long-wars/">https://scholars-stage.org/culture-wars-are-long-wars/</a>.</div>
 </div>

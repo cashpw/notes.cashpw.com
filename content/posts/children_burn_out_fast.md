@@ -2,7 +2,7 @@
 title = "Children burn out fast"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-03T16:02:00-07:00
-lastmod = 2023-12-23T10:58:23-08:00
+lastmod = 2024-02-24T11:52:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -30,13 +30,10 @@ slug = "75056a2e-6b7a-4764-b93c-d08aa3a99a42"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>hprotagonist. n.d. “But Children Also Burn out Fast. This Is Well Known in Emergency Medicine. Not..” Accessed November 3, 2023. <a href="https://news.ycombinator.com/item?id=28164338">https://news.ycombinator.com/item?id=28164338</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Little Kids Burn so Much Energy, They’re like a Different Species, Study Finds.” n.d. Accessed November 3, 2023. <a href="https://www.science.org/content/article/little-kids-burn-so-much-energy-they-re-different-species-study-finds">https://www.science.org/content/article/little-kids-burn-so-much-energy-they-re-different-species-study-finds</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

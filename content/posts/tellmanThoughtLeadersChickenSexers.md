@@ -2,14 +2,14 @@
 title = "Zach Tellman | Thought Leaders and Chicken Sexers"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-18T16:25:00-08:00
-lastmod = 2023-12-23T19:01:14-08:00
+lastmod = 2024-02-24T18:24:56-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "89af4069-9f38-4f2b-bdb4-491c2ae85a9c"
 +++
 
-[Zach Tellman]({{< relref "zach_tellman.md" >}}), (NO_ITEM_DATA:tellmanThoughtLeadersChickenSexers)
+[Zach Tellman]({{< relref "zach_tellman.md" >}}), (<a href="#citeproc_bib_item_1">Tellman n.d.</a>)
 
 
 ## Summary {#summary}
@@ -59,12 +59,9 @@ slug = "89af4069-9f38-4f2b-bdb4-491c2ae85a9c"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:tellmanThoughtLeadersChickenSexers</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Thought Leaders and Chicken Sexers.” Accessed February 19, 2022. <a href="https://ideolalia.com/essays/thought-leaders-and-chicken-sexers.html">https://ideolalia.com/essays/thought-leaders-and-chicken-sexers.html</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

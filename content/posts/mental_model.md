@@ -2,7 +2,7 @@
 title = "Mental model"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T09:08:00-08:00
-lastmod = 2023-12-23T14:33:01-08:00
+lastmod = 2024-02-24T17:54:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "787214e0-5941-4c6f-9a61-e79b9b40baea"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mental Model.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Mental_model&oldid=1079280662">https://en.wikipedia.org/w/index.php?title=Mental_model&#38;oldid=1079280662</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

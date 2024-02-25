@@ -2,7 +2,7 @@
 title = "Imperative programming"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-01T17:46:00-07:00
-lastmod = 2023-12-23T12:53:22-08:00
+lastmod = 2024-02-24T17:46:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Imperative Programming.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Imperative_programming&oldid=1141427831">https://en.wikipedia.org/w/index.php?title=Imperative_programming&#38;oldid=1141427831</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

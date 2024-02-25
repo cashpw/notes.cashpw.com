@@ -2,7 +2,7 @@
 title = "Knapsack problem"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-31T09:25:00-08:00
-lastmod = 2023-12-23T13:42:20-08:00
+lastmod = 2024-02-24T17:49:46-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -56,12 +56,9 @@ slug = "24b10601-c88f-46fc-bbf9-3f7687c2d2ba"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Knapsack Problem.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Knapsack_problem&oldid=1136320436">https://en.wikipedia.org/w/index.php?title=Knapsack_problem&#38;oldid=1136320436</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

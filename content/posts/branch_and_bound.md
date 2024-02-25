@@ -2,7 +2,7 @@
 title = "Branch and bound"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T09:43:00-08:00
-lastmod = 2023-12-23T10:43:42-08:00
+lastmod = 2024-02-24T11:47:25-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -17,8 +17,6 @@ slug = "d1f735d6-a30b-494f-a536-7042b6fd0329"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Branch and Bound.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Branch_and_bound&oldid=1131333406">https://en.wikipedia.org/w/index.php?title=Branch_and_bound&#38;oldid=1131333406</a>.</div>

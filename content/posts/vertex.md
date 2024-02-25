@@ -2,7 +2,7 @@
 title = "Vertex"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T19:13:00-07:00
-lastmod = 2023-12-23T20:46:26-08:00
+lastmod = 2024-02-24T18:37:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "1b2526af-676d-4c0f-aa85-1ba05b8e7a93"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Vertex (Graph Theory).” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Vertex_(graph_theory)&oldid=1074286774">https://en.wikipedia.org/w/index.php?title=Vertex_(graph_theory)&#38;oldid=1074286774</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

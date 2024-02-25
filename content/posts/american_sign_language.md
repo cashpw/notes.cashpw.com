@@ -2,7 +2,7 @@
 title = "American sign language"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-21T16:12:00-08:00
-lastmod = 2023-12-23T10:35:29-08:00
+lastmod = 2024-02-24T11:42:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -33,8 +33,6 @@ slug = "1056a7fd-6e6c-4c83-9910-a3528277ab0b"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“American Sign Language.” 2023. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=American_Sign_Language&oldid=1189976071">https://en.wikipedia.org/w/index.php?title=American_Sign_Language&#38;oldid=1189976071</a>.</div>

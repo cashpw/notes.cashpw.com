@@ -2,7 +2,7 @@
 title = "Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands"
 author = ["Cash Weaver"]
 date = 2023-09-08T15:14:00-07:00
-lastmod = 2023-12-23T13:52:14-08:00
+lastmod = 2024-02-24T17:50:35-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -174,12 +174,9 @@ slug = "d8ab213e-9bd6-4669-a2b1-b931b56f5930"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Militello, Laura, and Robert Hutton. 1998. “Applied Cognitive Task Analysis (ACTA): A Practitioner’s Toolkit for Understanding Cognitive Task Demands.” <i>Ergonomics</i> 41 (December): 1618–41. <a href="https://doi.org/10.1080/001401398186108">https://doi.org/10.1080/001401398186108</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

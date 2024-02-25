@@ -2,7 +2,7 @@
 title = "Polynomial"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T10:32:00-08:00
-lastmod = 2023-12-23T15:53:40-08:00
+lastmod = 2024-02-24T18:08:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,13 +23,10 @@ slug = "b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Degree of a Polynomial.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&oldid=1095664596">https://en.wikipedia.org/w/index.php?title=Degree_of_a_polynomial&#38;oldid=1095664596</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Polynomial.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Polynomial&oldid=1125941863">https://en.wikipedia.org/w/index.php?title=Polynomial&#38;oldid=1125941863</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

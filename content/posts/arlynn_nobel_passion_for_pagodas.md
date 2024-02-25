@@ -2,7 +2,7 @@
 title = "Arlynn Nobel | Passion for Pagodas"
 author = ["Cash Weaver"]
 date = 2023-08-05T16:44:00-07:00
-lastmod = 2023-12-23T10:37:12-08:00
+lastmod = 2024-02-24T11:43:47-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -219,8 +219,6 @@ slug = "8cdbc40a-281a-4adb-a5c5-a9120d781a42"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nobel, Arlynn. n.d. “Passion for Pagodas.” <i>Default</i>. Accessed August 5, 2023. <a href="https://ceramicartsnetwork.org/pottery-making-illustrated/pottery-making-illustrated-article/Passion-for-Pagodas">https://ceramicartsnetwork.org/pottery-making-illustrated/pottery-making-illustrated-article/Passion-for-Pagodas</a>.</div>

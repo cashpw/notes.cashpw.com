@@ -2,14 +2,14 @@
 title = "Most of what you read on the internet is written by insane people"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T07:24:00-08:00
-lastmod = 2023-12-23T11:32:15-08:00
+lastmod = 2024-02-24T13:51:24-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "5b71bf37-d638-48bd-b194-bfbd49a37f09"
 +++
 
-Originally posted at (NO_ITEM_DATA:dinoinnameonlyMostWhatYouReadInternetWrittenInsanePeople2018) and later discussed on Hacker News ((NO_ITEM_DATA:MostWhatYouReadInternetWrittenInsanePeople2018Hacker), (NO_ITEM_DATA:MostWhatWeReadInternetWrittenInsanePeopleHackerNews)).
+Originally posted at (<a href="#citeproc_bib_item_1">DinoInNameOnly 2018</a>) and later discussed on Hacker News ((<a href="#citeproc_bib_item_3">“Most of What You Read on the Internet Is Written by Insane People (2018) Hacker News” n.d.</a>), (<a href="#citeproc_bib_item_2">“Most of What We Read on the Internet Is Written by Insane People Hacker News” n.d.</a>)).
 
 
 ## Notes {#notes}
@@ -18,15 +18,13 @@ Originally posted at (NO_ITEM_DATA:dinoinnameonlyMostWhatYouReadInternetWrittenI
 >
 > But there's more, because not all the users who post do so with the same frequency. The 1% rule is of course just another way of saying that the distribution of contributions follows a [Power law]({{< relref "power_law.md" >}}), which means that the level of inequality gets more drastic as you look at smaller subsets of users.
 >
-> (NO_ITEM_DATA:dinoinnameonlyMostWhatYouReadInternetWrittenInsanePeople2018)
+> (<a href="#citeproc_bib_item_1">DinoInNameOnly 2018</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:dinoinnameonlyMostWhatYouReadInternetWrittenInsanePeople2018</div>
-  <div class="csl-entry">NO_ITEM_DATA:MostWhatYouReadInternetWrittenInsanePeople2018Hacker</div>
-  <div class="csl-entry">NO_ITEM_DATA:MostWhatWeReadInternetWrittenInsanePeopleHackerNews</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>DinoInNameOnly. 2018. “Most of What You Read on the Internet Is Written by Insane People.” Reddit Post. <i>R/Slatestarcodex</i>. <a href="www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/">www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Most of What We Read on the Internet Is Written by Insane People Hacker News.” n.d. Accessed November 7, 2022. <a href="https://news.ycombinator.com/item?id=18881827">https://news.ycombinator.com/item?id=18881827</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Most of What You Read on the Internet Is Written by Insane People (2018) Hacker News.” n.d. Accessed November 7, 2022. <a href="https://news.ycombinator.com/item?id=25600274">https://news.ycombinator.com/item?id=25600274</a>.</div>
 </div>

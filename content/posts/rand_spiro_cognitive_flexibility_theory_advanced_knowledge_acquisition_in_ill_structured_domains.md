@@ -2,14 +2,14 @@
 title = "Rand Spiro | Cognitive Flexibility Theory: Advanced Knowledge Acquisition in Ill-Structured Domains"
 author = ["Cash Weaver"]
 date = 2023-06-30T18:52:00-07:00
-lastmod = 2023-12-23T16:28:54-08:00
+lastmod = 2024-02-24T18:14:08-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "4b4a56fd-f7df-454d-a770-495de526c6f4"
 +++
 
-[Rand Spiro]({{< relref "rand_spiro.md" >}}), (NO_ITEM_DATA:spiroCognitiveFlexibilityTheoryAdvancedKnowledgeAcquisitionIllstructuredDomains1988)
+[Rand Spiro]({{< relref "rand_spiro.md" >}}), (<a href="#citeproc_bib_item_1">Spiro 1988</a>)
 
 
 ## Summary {#summary}
@@ -23,8 +23,6 @@ slug = "4b4a56fd-f7df-454d-a770-495de526c6f4"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:spiroCognitiveFlexibilityTheoryAdvancedKnowledgeAcquisitionIllstructuredDomains1988</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Spiro, Rand. 1988. “Cognitive Flexibility Theory: Advanced Knowledge Acquisition in Ill-Structured Domains,” October.</div>
 </div>

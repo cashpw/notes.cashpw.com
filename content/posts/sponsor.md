@@ -2,7 +2,7 @@
 title = "Sponsor"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-03T11:19:00-08:00
-lastmod = 2023-12-23T18:10:38-08:00
+lastmod = 2024-02-24T18:21:37-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -14,11 +14,8 @@ One who advocates for another.
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

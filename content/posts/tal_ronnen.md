@@ -2,7 +2,7 @@
 title = "Tal Ronnen"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-14T17:42:00-08:00
-lastmod = 2023-12-23T18:42:46-08:00
+lastmod = 2024-02-24T18:23:45-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

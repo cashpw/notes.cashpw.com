@@ -2,12 +2,14 @@
 title = "On productivity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T19:58:00-07:00
-lastmod = 2023-12-23T15:20:53-08:00
+lastmod = 2024-02-24T18:02:02-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
 slug = "23c8e47c-cafc-4d08-8018-14f6d22a1c82"
 +++
+
+An [On X]({{< relref "on_x.md" >}}).
 
 A summary of what I know and have read about productivity. Note the goal here is more so to be "effective" than "productive" for it's own sake.
 
@@ -18,8 +20,6 @@ A summary of what I know and have read about productivity. Note the goal here is
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

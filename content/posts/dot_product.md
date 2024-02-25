@@ -2,7 +2,7 @@
 title = "Dot product"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T11:41:00-07:00
-lastmod = 2023-12-23T11:37:58-08:00
+lastmod = 2024-02-24T13:51:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,8 +34,6 @@ The dot product of two vectors defines the lengths of, and angle between, the tw
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Dot Product.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Dot_product&oldid=1096253368">https://en.wikipedia.org/w/index.php?title=Dot_product&#38;oldid=1096253368</a>.</div>

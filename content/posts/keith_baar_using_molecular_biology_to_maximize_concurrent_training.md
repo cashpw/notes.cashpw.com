@@ -2,14 +2,14 @@
 title = "Keith Baar | Using Molecular Biology to Maximize Concurrent Training"
 author = ["Cash Weaver"]
 date = 2023-06-23T18:04:00-07:00
-lastmod = 2023-12-23T13:38:18-08:00
+lastmod = 2024-02-24T17:49:27-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "dec127fd-bb24-48de-8d07-52906e357792"
 +++
 
-[Keith Baar]({{< relref "keith_baar.md" >}}), (NO_ITEM_DATA:baarUsingMolecularBiologyMaximizeConcurrentTraining2014)
+[Keith Baar]({{< relref "keith_baar.md" >}}), (<a href="#citeproc_bib_item_1">Baar 2014</a>)
 
 
 ## Summary {#summary}
@@ -59,12 +59,9 @@ I've integrated this into my [Exercise program]({{< relref "exercise_program.md"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:baarUsingMolecularBiologyMaximizeConcurrentTraining2014</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Baar, Keith. 2014. “Using Molecular Biology to Maximize Concurrent Training.” <i>Sports Medicine (Auckland, N.Z.)</i> 44 (Suppl 2): 117–25. <a href="https://doi.org/10.1007/s40279-014-0252-0">https://doi.org/10.1007/s40279-014-0252-0</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

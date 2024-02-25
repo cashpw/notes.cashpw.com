@@ -2,7 +2,7 @@
 title = "Kanehito Yamada"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-07T06:43:00-08:00
-lastmod = 2023-12-23T13:35:10-08:00
+lastmod = 2024-02-24T17:49:09-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

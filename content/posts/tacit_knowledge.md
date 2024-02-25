@@ -2,7 +2,7 @@
 title = "Tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-30T13:17:00-08:00
-lastmod = 2023-12-23T18:42:23-08:00
+lastmod = 2024-02-24T18:23:43-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "d636dfa7-428d-457c-8db6-15fa61e03bef"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tacit Knowledge.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&oldid=1066406863">https://en.wikipedia.org/w/index.php?title=Tacit_knowledge&#38;oldid=1066406863</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
@@ -35,6 +32,7 @@ slug = "d636dfa7-428d-457c-8db6-15fa61e03bef"
 -   [Cedric Chin | The Tricky Thing About Creating Training Programs]({{< relref "cedric_chin_the_tricky_thing_about_creating_training_programs.md" >}})
 -   [Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]({{< relref "cedric_chin_why_tacit_knowledge_is_more_important_than_deliberate_practice.md" >}})
 -   [Explicit knowledge]({{< relref "explicit_knowledge.md" >}})
+-   [How to become an expert]({{< relref "how_to_become_an_expert.md" >}})
 -   [Isaac Wilks | It's Time to Build for Good]({{< relref "isaac_wilks_it_s_time_to_build_for_good.md" >}})
 -   [Metis]({{< relref "metis.md" >}})
 -   [Paul Graham | When People Are Naturally Good at Something]({{< relref "grahamWhenPeopleAre2022.md" >}})

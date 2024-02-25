@@ -2,7 +2,7 @@
 title = "Trevor Hastie"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:19:00-08:00
-lastmod = 2023-12-23T20:14:28-08:00
+lastmod = 2024-02-24T18:31:23-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -11,11 +11,8 @@ slug = "b2981e3a-4e5b-41b2-a040-2fb58a7735a5"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

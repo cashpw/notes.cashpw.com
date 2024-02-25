@@ -2,7 +2,7 @@
 title = "Relational processing"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:44:00-08:00
-lastmod = 2023-12-23T16:43:18-08:00
+lastmod = 2024-02-24T18:18:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ A technique of studying/learning where one emphasizes the relationships between 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Marsh, Elizabeth J., and Andrew C. Butler. 2013. <i>Memory in Educational Settings</i>. Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780195376746.013.0020">https://doi.org/10.1093/oxfordhb/9780195376746.013.0020</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

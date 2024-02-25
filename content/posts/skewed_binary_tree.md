@@ -2,7 +2,7 @@
 title = "Skewed binary tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T15:26:00-07:00
-lastmod = 2023-12-23T17:46:30-08:00
+lastmod = 2024-02-24T18:20:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "4c7bf5db-dc29-44a1-bb77-36d560b38688"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Programiz. n.d. “Binary Tree.” Accessed June 28, 2022. <a href="https://www.programiz.com/dsa/binary-tree">https://www.programiz.com/dsa/binary-tree</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

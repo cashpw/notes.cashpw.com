@@ -2,7 +2,7 @@
 title = "No zero days"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-12T08:30:00-08:00
-lastmod = 2023-12-23T15:10:35-08:00
+lastmod = 2024-02-24T17:59:48-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ Make at least a little bit of [growth]({{< relref "growth_mindset.md" >}}) every
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

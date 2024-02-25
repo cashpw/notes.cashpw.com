@@ -2,7 +2,7 @@
 title = "Theory of change"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-03T12:28:00-08:00
-lastmod = 2023-12-23T19:27:05-08:00
+lastmod = 2024-02-24T18:26:51-08:00
 draft = false
 slug = "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
 +++
@@ -11,7 +11,7 @@ slug = "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
 >
 > The innovation of Theory of Change lies (1) in making the distinction between desired and actual outcomes and (2) in requiring stakeholders to model their desired outcomes before they decide on forms of intervention to achieve those outcomes.
 >
-> (<a href="#citeproc_bib_item_2">“Theory of Change” 2022</a>)
+> (<a href="#citeproc_bib_item_3">“Theory of Change” 2022</a>)
 
 <!--quoteend-->
 
@@ -19,12 +19,12 @@ slug = "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
 >
 > A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, "Concretely, how does one achieve that?"
 >
-> (<a href="#citeproc_bib_item_1">Swartz 2010</a>)
+> (<a href="#citeproc_bib_item_2">Swartz 2010</a>)
 
 
 ## Steps {#steps}
 
-These steps are based on (NO_ITEM_DATA:HowDoesTheoryChangeWork). The ordering, with the exception of starting from Goals, is a recommendation as opposed to a hard rule. For instance, you may need to revisit previous steps as you progress if you identify previously unknown flaws or opportunities in your reasoning.
+These steps are based on (<a href="#citeproc_bib_item_1">“How Does Theory of Change Work?” n.d.</a>). The ordering, with the exception of starting from Goals, is a recommendation as opposed to a hard rule. For instance, you may need to revisit previous steps as you progress if you identify previously unknown flaws or opportunities in your reasoning.
 
 1.  Goals: Identify and agree upon long term goal(s)
 2.  Outcomes: Create an outcomes framework by [Backcasting]({{< relref "backcasting.md" >}}) from long term goal(s) and explain why these preconditions are necessary and sufficient
@@ -36,7 +36,7 @@ These steps are based on (NO_ITEM_DATA:HowDoesTheoryChangeWork). The ordering, w
 
 ## As compared to a theory of action {#as-compared-to-a-theory-of-action}
 
-Based on (NO_ITEM_DATA:tyrrelTheoryChangeTheoryActionWhatDifferenceWhyDoesItMatter2019) and (<a href="#citeproc_bib_item_1">Swartz 2010</a>):
+Based on (<a href="#citeproc_bib_item_4">Tyrrel 2019</a>) and (<a href="#citeproc_bib_item_2">Swartz 2010</a>):
 
 -   [Theory of action]({{< relref "theory_of_action.md" >}})
     -   Works **forward** from where you are right now toward the goal
@@ -48,15 +48,12 @@ Based on (NO_ITEM_DATA:tyrrelTheoryChangeTheoryActionWhatDifferenceWhyDoesItMatt
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Theory of Change.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Theory_of_change&oldid=1106791853">https://en.wikipedia.org/w/index.php?title=Theory_of_change&#38;oldid=1106791853</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:HowDoesTheoryChangeWork</div>
-  <div class="csl-entry">NO_ITEM_DATA:tyrrelTheoryChangeTheoryActionWhatDifferenceWhyDoesItMatter2019</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“How Does Theory of Change Work?” n.d. <i>Theory of Change Community</i>. Accessed November 16, 2022. <a href="https://www.theoryofchange.org/what-is-theory-of-change/how-does-theory-of-change-work/">https://www.theoryofchange.org/what-is-theory-of-change/how-does-theory-of-change-work/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Swartz, Aaron. 2010. “Theory of Change.” <a href="http://www.aaronsw.com/weblog/theoryofchange">http://www.aaronsw.com/weblog/theoryofchange</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Theory of Change.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Theory_of_change&oldid=1106791853">https://en.wikipedia.org/w/index.php?title=Theory_of_change&#38;oldid=1106791853</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Tyrrel, Lavinia. 2019. “Theory of Change and Theory of Action: What’s the Difference and Why Does It Matter?” <i>Governance and Development Soapbox</i>. <a href="https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/">https://abtgovernance.com/2019/07/19/theory-of-change-and-theory-of-action-whats-the-difference-and-why-does-it-matter/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

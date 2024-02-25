@@ -2,7 +2,7 @@
 title = "Bob Black"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T16:25:00-07:00
-lastmod = 2023-12-23T10:43:21-08:00
+lastmod = 2024-02-24T11:47:13-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -16,11 +16,8 @@ Among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

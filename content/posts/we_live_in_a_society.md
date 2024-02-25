@@ -2,7 +2,7 @@
 title = "We live in a society"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-15T09:29:00-08:00
-lastmod = 2023-12-23T20:55:17-08:00
+lastmod = 2024-02-24T18:37:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,7 +13,7 @@ slug = "c69643f9-5c87-4b75-8a07-3e87767a567f"
 >
 > And as with most edgelord thought, the meme backfired. Instead of praising them as philosophical gods, society used the meme to ridicule those who thought they were being deep. The meme returned with force in 2018 when trailers for Joker dropped. Internet users began replying to fake-profound statements with "We live in a society," or pairing the phrase with otherwise innocuous images as a Dadaist non sequitur.
 >
-> (NO_ITEM_DATA:sungUnfortunatelyWeLiveSociety2021)
+> (<a href="#citeproc_bib_item_1">Sung 2021</a>)
 
 Also used as a shorthand to imply a longer explanation when discussing actual inequities or injustices in society.
 
@@ -25,8 +25,6 @@ Related: [Moloch]({{< relref "moloch.md" >}}), [Capitalism]({{< relref "capitali
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:sungUnfortunatelyWeLiveSociety2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Sung, Morgan. 2021. “Unfortunately, We Live in a Society.” <i>Mashable</i>. <a href="https://mashable.com/article/we-live-in-a-society-is-canon">https://mashable.com/article/we-live-in-a-society-is-canon</a>.</div>
 </div>

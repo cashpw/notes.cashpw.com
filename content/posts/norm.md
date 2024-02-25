@@ -2,7 +2,7 @@
 title = "Norm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-22T08:35:00-07:00
-lastmod = 2023-12-23T15:13:24-08:00
+lastmod = 2024-02-24T18:00:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,6 @@ Also see [L-one norm]({{< relref "l_one_norm.md" >}}), [L-two norm]({{< relref "
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Norm (Mathematics).” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&oldid=1103683806">https://en.wikipedia.org/w/index.php?title=Norm_(mathematics)&#38;oldid=1103683806</a>.</div>

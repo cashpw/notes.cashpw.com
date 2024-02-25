@@ -2,7 +2,7 @@
 title = "Calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:53:00-08:00
-lastmod = 2023-12-23T10:46:36-08:00
+lastmod = 2024-02-24T11:48:40-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Calculus.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Calculus&oldid=1134005550">https://en.wikipedia.org/w/index.php?title=Calculus&#38;oldid=1134005550</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

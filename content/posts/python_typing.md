@@ -2,7 +2,7 @@
 title = "Python typing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-25T09:29:00-07:00
-lastmod = 2023-12-23T16:19:49-08:00
+lastmod = 2024-02-24T18:13:54-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -37,8 +37,6 @@ class Vertex(Generic[T]):
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

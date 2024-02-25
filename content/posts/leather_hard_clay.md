@@ -2,7 +2,7 @@
 title = "Leather-hard"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:48:00-07:00
-lastmod = 2023-12-23T13:56:37-08:00
+lastmod = 2024-02-24T17:51:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "7358ec53-29b1-4b14-b1b5-20a09e40caf1"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Leather-Hard.” 2020. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Leather-hard&oldid=991801984">https://en.wikipedia.org/w/index.php?title=Leather-hard&#38;oldid=991801984</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

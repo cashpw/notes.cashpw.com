@@ -2,7 +2,7 @@
 title = "James Kenji López-Alt | Easy Roasted-Garlic Focaccia Recipe"
 author = ["Cash Weaver"]
 date = 2023-08-07T19:03:00-07:00
-lastmod = 2023-12-23T13:07:50-08:00
+lastmod = 2024-02-24T17:47:12-08:00
 tags = ["reference", "recipe", "reference", "recipe"]
 categories = ["reference", "recipe"]
 draft = false
@@ -14,7 +14,7 @@ stars = 5
 slug = "ed25a76f-1614-4073-a894-8f68f91e6731"
 +++
 
-[James Kenji López-Alt]({{< relref "james_kenji_lopez_alt.md" >}}), (NO_ITEM_DATA:lopez-altEasyRoastedGarlicFocacciaRecipe)
+[James Kenji López-Alt]({{< relref "james_kenji_lopez_alt.md" >}}), (<a href="#citeproc_bib_item_1">López-Alt n.d.</a>)
 
 > Roasted cloves and garlic butter make for a one-two punch in this simple riff on garlic bread.
 
@@ -89,8 +89,6 @@ slug = "ed25a76f-1614-4073-a894-8f68f91e6731"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:lopez-altEasyRoastedGarlicFocacciaRecipe</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>López-Alt, James Kenji. n.d. “Easy Roasted-Garlic Focaccia Recipe.” <i>Serious Eats</i>. Accessed August 8, 2023. <a href="https://www.seriouseats.com/easy-roasted-garlic-focaccia-no-knead-bread-recipe">https://www.seriouseats.com/easy-roasted-garlic-focaccia-no-knead-bread-recipe</a>.</div>
 </div>

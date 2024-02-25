@@ -2,7 +2,7 @@
 title = "Barbara Tipton | Great Ideas for Potters: Selected from over 30 Years of Readers' Suggestions"
 author = ["Cash Weaver"]
 date = 2023-09-13T14:01:00-07:00
-lastmod = 2023-12-23T10:38:51-08:00
+lastmod = 2024-02-24T11:44:42-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -52,8 +52,6 @@ slug = "a0e684dd-812d-4957-8a02-a926aa488286"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tipton, Barbara, ed. 1983. <i>Great Ideas for Potters: Selected from over 30 Years of Readers’ Suggestions</i>. Columbus, Ohio: Ceramics monthly.</div>

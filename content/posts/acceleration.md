@@ -2,7 +2,7 @@
 title = "Acceleration"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-27T15:54:00-08:00
-lastmod = 2023-12-23T10:33:09-08:00
+lastmod = 2024-02-24T11:41:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,12 +19,9 @@ slug = "fd458921-d050-44ca-b2fa-d6edc962ef30"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Acceleration.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Acceleration&oldid=1134109866">https://en.wikipedia.org/w/index.php?title=Acceleration&#38;oldid=1134109866</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

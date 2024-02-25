@@ -2,7 +2,7 @@
 title = "Polyphasic Sleep: 40 Day Trial Results"
 author = ["Cash Prokop-Weaver"]
 date = 2021-07-11T12:15:00-07:00
-lastmod = 2023-12-23T15:54:56-08:00
+lastmod = 2024-02-24T18:08:55-08:00
 draft = false
 slug = "6a214828-bea5-47be-bac7-0f0235b0ff3c"
 +++
@@ -115,11 +115,8 @@ To that end I've changed my focus from "get more hours" to "do more with the hou
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

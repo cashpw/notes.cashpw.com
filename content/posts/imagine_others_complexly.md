@@ -2,7 +2,7 @@
 title = "Imagine others complexly"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T10:05:00-07:00
-lastmod = 2023-12-23T12:52:19-08:00
+lastmod = 2024-02-24T17:46:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,18 +16,15 @@ It's easy to see yourself complexly. It's more difficult, but also more importan
 > [...]
 >
 > Let me tell you what is, in my opinion, the central problem of human existence: I am stuck in my body, in my consciousness, seeing out of my eyes. I am the only me I ever get to be, and so I am the only person I can imagine endlessly complexly. That's not the problem, actually. The problem is you. You are so busy taking in your own wondrousness that you can't be bothered to acknowledge mine.
-> (NO_ITEM_DATA:greenSpeechWroteALANConference2015), (<a href="#citeproc_bib_item_1">“Imagine Others Complexly” 2020</a>)
+> (<a href="#citeproc_bib_item_1">Green 2015</a>), (<a href="#citeproc_bib_item_2">“Imagine Others Complexly” 2020</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Imagine Others Complexly.” 2020. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Imagine_others_complexly&oldid=989101418">https://en.wikipedia.org/w/index.php?title=Wikipedia:Imagine_others_complexly&#38;oldid=989101418</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:greenSpeechWroteALANConference2015</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Green, John. 2015. “A Speech I Wrote for the ALAN Conference.” <a href="https://web.archive.org/web/20150317183839/http://johngreenbooks.com/a-speech-i-wrote-for-the-alan-conference/">https://web.archive.org/web/20150317183839/http://johngreenbooks.com/a-speech-i-wrote-for-the-alan-conference/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Imagine Others Complexly.” 2020. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Imagine_others_complexly&oldid=989101418">https://en.wikipedia.org/w/index.php?title=Wikipedia:Imagine_others_complexly&#38;oldid=989101418</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

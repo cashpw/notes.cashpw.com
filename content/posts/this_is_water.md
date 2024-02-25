@@ -2,7 +2,7 @@
 title = "This is water"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T10:53:00-08:00
-lastmod = 2023-12-23T19:35:34-08:00
+lastmod = 2024-02-24T18:27:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,14 +19,12 @@ slug = "44df8020-9272-455c-91ea-268daf7c08d5"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>David Foster Wallace. n.d. “This Is Water.” Accessed November 23, 2022. <a href="https://fs.blog/david-foster-wallace-this-is-water/">https://fs.blog/david-foster-wallace-this-is-water/</a>.</div>
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
 -   [David Foster Wallace | This Is Water]({{< relref "david_foster_wallace_this_is_water.md" >}})
+-   [On parenting]({{< relref "on_parenting.md" >}})

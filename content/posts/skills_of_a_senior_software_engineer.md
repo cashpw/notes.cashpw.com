@@ -1,13 +1,15 @@
 +++
-title = "Skills of a senior software engineer"
+title = "On lead/senior, and staff, engineering"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:20:00-08:00
-lastmod = 2023-12-23T17:48:47-08:00
+lastmod = 2024-02-24T18:20:27-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
 slug = "973e037c-6ae7-4c6a-abf8-57339feb49f9"
 +++
+
+An [On X]({{< relref "on_x.md" >}}).
 
 A senior software engineer is an amorphous title. Companies will often use their own term, or invent further terms above or below "senior". The definition or requirements will be different for each person you ask.
 
@@ -18,6 +20,7 @@ I've sought out common traits of "senior" roles and collected them here to help 
 
 -   (<a href="#citeproc_bib_item_2">Allspaw n.d.</a>)
 -   (<a href="#citeproc_bib_item_3">littleblah 2019</a>)
+-   [Ben Kuhn | Be Impatient]({{< relref "kuhnBeImpatient2020.md" >}})
 -   [Tanya Reilly | The Staff Engineer's Path]({{< relref "tanya_reilly_the_staff_engineer_s_path.md" >}})
 -   [Zach Tellman | Senior Engineers Reduce Risk]({{< relref "tellmanSeniorEngineersReduceRisk.md" >}})
 -   [John Allspaw | On Being A Senior Engineer]({{< relref "allspawBeingSeniorEngineer.md" >}})
@@ -52,20 +55,23 @@ I've sought out common traits of "senior" roles and collected them here to help 
     -   Maintain mutually beneficial relationships with peers within your organization, company, and externally
 -   [Senior engineers manage scope]({{< relref "senior_engineers_manage_scope.md" >}})
 -   (<a href="#citeproc_bib_item_1">“16x Engineer” n.d.</a>)
--   (<a href="#citeproc_bib_item_4">“Stories of Reaching Staff-plus Engineering Roles - StaffEng” n.d.</a>)
+-   (NO_ITEM_DATA:StoriesReachingStaffplus)
+
+
+### [Just accepted my first team lead position. Any sage advice?](https://www.reddit.com/r/ExperiencedDevs/comments/1ahwoyk/just_accepted_my_first_team_lead_position_any/) {#just-accepted-my-first-team-lead-position-dot-any-sage-advice}
+
+
+### [How do you shine when you working amongst really smart people?](https://www.reddit.com/r/ExperiencedDevs/comments/1aiddlc/how_do_you_shine_when_you_working_amongst_really/) {#how-do-you-shine-when-you-working-amongst-really-smart-people}
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“16x Engineer.” n.d. <i>16x Engineer</i>. Accessed November 19, 2023. <a href="https://16x.engineer/">https://16x.engineer/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Allspaw, John. n.d. “On Being A Senior Engineer.” <i>Kitchen Soap</i>. Accessed February 21, 2022. <a href="https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>littleblah. 2019. “A Senior Engineer’s CheckList.” <a href="https://littleblah.com/post/2019-09-01-senior-engineer-checklist/">https://littleblah.com/post/2019-09-01-senior-engineer-checklist/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Stories of Reaching Staff-plus Engineering Roles - StaffEng.” n.d. Accessed January 28, 2023. <a href="https://staffeng.com/">https://staffeng.com/</a>.</div>
+  <div class="csl-entry">NO_ITEM_DATA:StoriesReachingStaffplus</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

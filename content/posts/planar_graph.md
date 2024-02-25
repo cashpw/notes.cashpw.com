@@ -2,7 +2,7 @@
 title = "Planar graph"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-12T05:37:00-07:00
-lastmod = 2023-12-23T15:48:47-08:00
+lastmod = 2024-02-24T18:07:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,6 @@ slug = "d03ccb7a-a338-4fc4-9669-f4ffc1572132"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Planar Graph.” 2023. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Planar_graph&oldid=1140102909">https://en.wikipedia.org/w/index.php?title=Planar_graph&#38;oldid=1140102909</a>.</div>

@@ -2,7 +2,7 @@
 title = "Open systems interconnection model"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-17T08:23:00-07:00
-lastmod = 2023-12-23T15:24:41-08:00
+lastmod = 2024-02-24T18:03:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,7 +31,7 @@ From bottom-to-top:
 
 > The application layer is used by end-user software such as web browsers and email clients. It provides protocols that allow software to send and receive information and present meaningful data to users. A few examples of application layer protocols are the Hypertext Transfer Protocol (HTTP), File Transfer Protocol (FTP), Post Office Protocol (POP), Simple Mail Transfer Protocol (SMTP), and Domain Name System (DNS).
 >
-> (NO_ITEM_DATA:WhatOSIModelLayersExplainedImperva)
+> (<a href="#citeproc_bib_item_2">“What Is OSI Model 7 Layers Explained Imperva” n.d.</a>)
 
 
 ### Presentation layer (OSI model) {#presentation-layer--osi-model}
@@ -80,9 +80,7 @@ From bottom-to-top:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“OSI Model.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=OSI_model&oldid=1145147911">https://en.wikipedia.org/w/index.php?title=OSI_model&#38;oldid=1145147911</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:WhatOSIModelLayersExplainedImperva</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“What Is OSI Model 7 Layers Explained Imperva.” n.d. <i>Learning Center</i>. Accessed March 20, 2023. <a href="https://www.imperva.com/learn/application-security/osi-model/">https://www.imperva.com/learn/application-security/osi-model/</a>.</div>
 </div>

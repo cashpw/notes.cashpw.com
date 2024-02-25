@@ -2,7 +2,7 @@
 title = "Pottery weights"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-28T15:44:00-08:00
-lastmod = 2023-12-23T15:57:19-08:00
+lastmod = 2024-02-24T18:09:26-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false

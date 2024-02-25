@@ -2,14 +2,14 @@
 title = "Ezra Klein | Why We Can't Build"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:23:00-08:00
-lastmod = 2023-12-23T11:53:25-08:00
+lastmod = 2024-02-24T14:19:12-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "2ff2cbd5-43a3-4c54-bb11-d7e4f34a0bfc"
 +++
 
-[Ezra Klein]({{< relref "ezra_klein.md" >}}), (NO_ITEM_DATA:kleinWhyWeCanBuild2020)
+[Ezra Klein]({{< relref "ezra_klein.md" >}}), (<a href="#citeproc_bib_item_1">Klein 2020</a>)
 
 
 ## Thoughts {#thoughts}
@@ -90,12 +90,9 @@ I agree with Klein's conclusion that the overall solution is one which reforms, 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:kleinWhyWeCanBuild2020</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Klein, Ezra. 2020. “Why We Can’t Build.” <i>Vox</i>. <a href="https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus">https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

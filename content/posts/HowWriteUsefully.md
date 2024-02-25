@@ -2,7 +2,7 @@
 title = "Paul Graham | How to Write Usefully"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:42:00-08:00
-lastmod = 2023-12-23T10:32:04-08:00
+lastmod = 2024-02-24T11:40:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -66,12 +66,9 @@ Additionally, for Graham, a useful essay is one which says things as simply as p
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Graham, Paul. n.d. “How to Write Usefully.” Accessed February 7, 2022. <a href="http://paulgraham.com/useful.html">http://paulgraham.com/useful.html</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

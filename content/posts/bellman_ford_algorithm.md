@@ -2,7 +2,7 @@
 title = "Bellman-Ford algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T10:49:00-08:00
-lastmod = 2023-12-23T10:39:44-08:00
+lastmod = 2024-02-24T11:45:12-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -74,12 +74,9 @@ slug = "2fe284fb-7fbc-4956-9857-db90b66e504e"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“BellmanFord Algorithm.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&oldid=1088801570">https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&#38;oldid=1088801570</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

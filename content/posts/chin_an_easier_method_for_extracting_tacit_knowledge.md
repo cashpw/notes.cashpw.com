@@ -2,14 +2,14 @@
 title = "Cedric Chin | An Easier Method for Extracting Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:59:00-07:00
-lastmod = 2023-12-23T10:59:46-08:00
+lastmod = 2024-02-24T11:53:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "112cd568-012c-4eea-b902-53f44907b098"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2021</a>)
 
 
 ## Summary {#summary}
@@ -42,12 +42,9 @@ See [Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysi
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinEasierMethodExtractingTacitKnowledge2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2021. “An Easier Method for Extracting Tacit Knowledge.” <i>Commoncog</i>. <a href="https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/">https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

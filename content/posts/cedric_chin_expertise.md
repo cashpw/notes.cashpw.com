@@ -2,7 +2,7 @@
 title = "Cedric Chin | Expertise"
 author = ["Cash Weaver"]
 date = 2023-06-07T08:35:00-07:00
-lastmod = 2023-12-23T10:51:03-08:00
+lastmod = 2024-02-24T11:50:18-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -63,8 +63,6 @@ There are, broadly speaking, three approaches to accelerating expertise that Com
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2023. “Expertise.” <i>Commoncog</i>. <a href="https://commoncog.com/expertise/">https://commoncog.com/expertise/</a>.</div>

@@ -2,7 +2,7 @@
 title = "Diagonal matrix"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-16T07:01:00-07:00
-lastmod = 2023-12-23T11:29:19-08:00
+lastmod = 2024-02-24T13:51:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,8 +13,6 @@ A diagonal [Matrix]({{< relref "matrix.md" >}}), \\(A\\), has zeros in all posit
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

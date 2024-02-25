@@ -2,7 +2,7 @@
 title = "Scott Alexander | For, Then Against, High-Saturated-Fat Diets"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:33:00-08:00
-lastmod = 2023-12-23T10:34:31-08:00
+lastmod = 2024-02-24T11:41:59-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -68,8 +68,6 @@ I found myself nodding along to this paragraph as I read. I've had the same thou
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2020. “For, Then Against, High-Saturated-Fat Diets.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2020/03/10/for-then-against-high-saturated-fat-diets/">https://slatestarcodex.com/2020/03/10/for-then-against-high-saturated-fat-diets/</a>.</div>

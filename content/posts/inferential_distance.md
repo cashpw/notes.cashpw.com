@@ -2,7 +2,7 @@
 title = "Inferential distance"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-22T09:53:00-07:00
-lastmod = 2023-12-23T12:58:42-08:00
+lastmod = 2024-02-24T17:46:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,8 +26,6 @@ The inferential distance between two people, the teacher and the student, with r
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Inferential Distance.” n.d. Accessed August 22, 2022. <a href="https://www.lesswrong.com/tag/inferential-distance">https://www.lesswrong.com/tag/inferential-distance</a>.</div>

@@ -2,7 +2,7 @@
 title = "Binomial coefficient"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:53:00-08:00
-lastmod = 2023-12-23T10:41:59-08:00
+lastmod = 2024-02-24T11:46:31-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -28,12 +28,9 @@ slug = "be5ebd31-6655-4f99-9325-2c41becd4dab"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binomial Coefficient.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Binomial_coefficient&oldid=1133587426">https://en.wikipedia.org/w/index.php?title=Binomial_coefficient&#38;oldid=1133587426</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

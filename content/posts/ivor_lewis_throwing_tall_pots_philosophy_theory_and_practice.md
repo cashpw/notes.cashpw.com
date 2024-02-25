@@ -2,14 +2,14 @@
 title = "Ivor Lewis | Throwing Tall Pots: Philosophy, Theory, and Practice"
 author = ["Cash Weaver"]
 date = 2023-08-07T12:47:00-07:00
-lastmod = 2023-12-23T13:07:35-08:00
+lastmod = 2024-02-24T17:47:11-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "41287ee0-6c9c-4fb7-886e-ea3c69fa4c9f"
 +++
 
-[Ivor Lewis]({{< relref "ivor_lewis.md" >}}), (NO_ITEM_DATA:lewisThrowingTallPotsPhilosophyTheoryPractice)
+[Ivor Lewis]({{< relref "ivor_lewis.md" >}}), (<a href="#citeproc_bib_item_1">Lewis n.d.</a>)
 
 
 ## Summary {#summary}
@@ -56,8 +56,6 @@ A [Pottery]({{< relref "ceramics.md" >}}) wheel technique for "pulling up".
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:lewisThrowingTallPotsPhilosophyTheoryPractice</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Lewis, Ivor. n.d. “Throwing Tall Pots: Philosophy, Theory, and Practice.” <i>Default</i>. Accessed August 7, 2023. <a href="https://ceramicartsnetwork.org/pottery-making-illustrated/pottery-making-illustrated-article/Throwing-Tall-Pots-Philosophy-Theory-and-Practice">https://ceramicartsnetwork.org/pottery-making-illustrated/pottery-making-illustrated-article/Throwing-Tall-Pots-Philosophy-Theory-and-Practice</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "JoAnn Cianciulli"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-14T17:43:00-08:00
-lastmod = 2023-12-23T13:20:11-08:00
+lastmod = 2024-02-24T17:48:07-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false

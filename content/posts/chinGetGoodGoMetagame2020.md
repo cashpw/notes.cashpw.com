@@ -2,14 +2,14 @@
 title = "Cedric Chin | To Get Good, Go After The Metagame"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:01:00-08:00
-lastmod = 2023-12-23T10:59:07-08:00
+lastmod = 2024-02-24T11:53:06-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "4f9769a8-94c3-461c-b4be-933b522aab15"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinGetGoodGoMetagame2020)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
 ## Summary {#summary}
@@ -61,8 +61,6 @@ Mastering something requires mastering the literal game as well as the [Metagame
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinGetGoodGoMetagame2020</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “To Get Good, Go After The Metagame.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/to-get-good-go-after-the-metagame/">https://commoncog.com/blog/to-get-good-go-after-the-metagame/</a>.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "Jared Ramsey | The Last 1%"
 author = ["Cash Weaver"]
 date = 2023-12-04T08:08:00-08:00
-lastmod = 2023-12-23T13:14:25-08:00
+lastmod = 2024-02-24T17:47:35-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -45,8 +45,6 @@ slug = "099d031e-60c7-4527-95bc-84d9c8b56854"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ramsey, Jared. n.d. “The Last 1\%.” Accessed December 4, 2023. <a href="https://jaredramsey.com/blog/20230808.html">https://jaredramsey.com/blog/20230808.html</a>.</div>

@@ -2,7 +2,7 @@
 title = "Cognitive transformation theory"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T16:04:00-07:00
-lastmod = 2023-12-23T11:03:01-08:00
+lastmod = 2024-02-24T11:54:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "2023ecf7-2e79-4919-a356-264eecb3034b"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Klein, Gary, and Holly C. Baxter. 2006. “Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning.” In <i>Interservice/Industry Training Systems and Education Conference, Orlando, Florida</i>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

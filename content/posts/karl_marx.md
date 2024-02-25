@@ -2,7 +2,7 @@
 title = "Karl Marx"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-02T08:34:00-08:00
-lastmod = 2023-12-23T13:36:13-08:00
+lastmod = 2024-02-24T17:49:17-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -11,11 +11,8 @@ slug = "8cb834e6-864f-452b-ac9f-7a62d43e7edf"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

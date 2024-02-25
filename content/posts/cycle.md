@@ -2,7 +2,7 @@
 title = "Cycle (Graph theory)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-22T10:42:00-08:00
-lastmod = 2023-12-23T11:12:51-08:00
+lastmod = 2024-02-24T13:50:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,8 +24,6 @@ Also see [Circuit (Graph theory)]({{< relref "circuit_graph_theory.md" >}}).
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“BellmanFord Algorithm.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&oldid=1088801570">https://en.wikipedia.org/w/index.php?title=Bellman%E2%80%93Ford_algorithm&#38;oldid=1088801570</a>.</div>

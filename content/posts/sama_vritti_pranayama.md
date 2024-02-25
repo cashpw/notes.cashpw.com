@@ -2,7 +2,7 @@
 title = "Sama Vritti Pranayama"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-31T10:32:00-08:00
-lastmod = 2023-12-23T17:01:25-08:00
+lastmod = 2024-02-24T18:18:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,8 +20,6 @@ The practitioner should perform each part for the same duration (eg: inhale four
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

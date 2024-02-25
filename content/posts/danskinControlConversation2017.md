@@ -2,7 +2,7 @@
 title = "Ian Danskin | Control the Conversation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T16:31:00-07:00
-lastmod = 2023-12-23T11:17:40-08:00
+lastmod = 2024-02-24T13:50:21-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -46,12 +46,9 @@ Broadly, controlling the conversation is about making people talk about what you
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2017. “Control the Conversation.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/166293739407/the-first-proper-video-in-my-ongoing-series-on-the">https://innuendostudios.tumblr.com/post/166293739407/the-first-proper-video-in-my-ongoing-series-on-the</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

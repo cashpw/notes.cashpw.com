@@ -2,7 +2,7 @@
 title = "Sensemaking"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-22T08:22:00-07:00
-lastmod = 2023-12-23T17:24:15-08:00
+lastmod = 2024-02-24T18:19:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -43,14 +43,11 @@ slug = "10a23a67-c60d-4591-8bb2-e87ca50b0e94"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Klein, Gary, Jennifer Phillips, Erica Rall, and Deborah Peluso. n.d. “A Data-Frame Theory of Sensemaking.” Accessed September 11, 2023. <a href="https://www.researchgate.net/publication/303171216_A_data-frame_theory_of_sensemaking">https://www.researchgate.net/publication/303171216_A_data-frame_theory_of_sensemaking</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Sensemaking.” 2023. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Sensemaking&oldid=1176410873">https://en.wikipedia.org/w/index.php?title=Sensemaking&#38;oldid=1176410873</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Weick, Karl E. 2010. <i>Sensemaking in Organizations</i>. Nachdr. Foundations for Organizational Science. Thousand Oaks, Calif.: Sage Publ.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

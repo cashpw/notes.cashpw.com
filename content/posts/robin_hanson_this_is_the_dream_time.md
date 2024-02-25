@@ -2,19 +2,19 @@
 title = "Robin Hanson | This Is the Dream Time"
 author = ["Cash Weaver"]
 date = 2023-01-08T18:52:00-08:00
-lastmod = 2023-12-23T16:53:36-08:00
+lastmod = 2024-02-24T18:18:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "35ea6ba6-1937-4a70-befa-81191ff059fa"
 +++
 
-[Robin Hanson]({{< relref "robin_hanson.md" >}}), (<a href="#citeproc_bib_item_1">Hanson n.d.</a>)
+[Robin Hanson]({{< relref "robin_hanson.md" >}}), (<a href="#citeproc_bib_item_1">Hanson 2009</a>)
 
 
 ## Summary {#summary}
 
-I've moved this into [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}}).
+See [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}}).
 
 
 ## Notes {#notes}
@@ -36,8 +36,6 @@ I've moved this into [This is the dreamtime]({{< relref "this_is_the_dreamtime.m
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hanson, Robin. n.d. “This Is the Dream Time.” Accessed June 21, 2022. <a href="https://www.overcomingbias.com/2009/09/this-is-the-dream-time.html">https://www.overcomingbias.com/2009/09/this-is-the-dream-time.html</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Hanson, Robin. 2009. “This Is the Dream Time.” <a href="https://www.overcomingbias.com/2009/09/this-is-the-dream-time.html">https://www.overcomingbias.com/2009/09/this-is-the-dream-time.html</a>.</div>
 </div>

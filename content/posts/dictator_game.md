@@ -2,7 +2,7 @@
 title = "Dictator game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T15:04:00-07:00
-lastmod = 2023-12-23T11:29:33-08:00
+lastmod = 2024-02-24T13:51:11-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "4c05e5da-c14c-45b8-9284-af1dda8dd3a6"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Dictator Game.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Dictator_game&oldid=1097370198">https://en.wikipedia.org/w/index.php?title=Dictator_game&#38;oldid=1097370198</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

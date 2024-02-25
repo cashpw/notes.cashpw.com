@@ -2,7 +2,7 @@
 title = "Tanner Greer"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T13:35:00-08:00
-lastmod = 2023-12-23T18:46:12-08:00
+lastmod = 2024-02-24T18:23:58-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -11,11 +11,8 @@ slug = "af527d83-0378-4f66-8b25-d7df4188b6b6"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

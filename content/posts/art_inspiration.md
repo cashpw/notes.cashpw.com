@@ -2,7 +2,7 @@
 title = "Art inspiration"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-08T15:58:00-08:00
-lastmod = 2023-12-23T10:37:22-08:00
+lastmod = 2024-02-24T11:43:52-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,8 +23,6 @@ Also see [Ceramic inspiration]({{< relref "ceramic_inspiration.md" >}}).
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>McCann, Paul O’Leary. 2022. “Awesome-Digital-Collections.” <a href="https://github.com/polm/awesome-digital-collections">https://github.com/polm/awesome-digital-collections</a>.</div>

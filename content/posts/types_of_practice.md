@@ -2,7 +2,7 @@
 title = "Types of practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:58:00-07:00
-lastmod = 2023-12-23T20:21:52-08:00
+lastmod = 2024-02-24T18:32:21-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,8 +17,6 @@ According to K. Anders Ericsson:
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

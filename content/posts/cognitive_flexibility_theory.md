@@ -2,7 +2,7 @@
 title = "Cognitive flexibility theory"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T16:03:00-07:00
-lastmod = 2023-12-23T11:02:24-08:00
+lastmod = 2024-02-24T11:54:36-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -11,17 +11,14 @@ slug = "9abe569b-b8e7-4a33-ad4f-e701b22080d2"
 
 ##  {#d41d8c}
 
-(NO_ITEM_DATA:spiroCognitiveFlexibilityTheoryAdvancedKnowledgeAcquisitionIllstructuredDomains1988)
+(<a href="#citeproc_bib_item_1">Spiro 1988</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:spiroCognitiveFlexibilityTheoryAdvancedKnowledgeAcquisitionIllstructuredDomains1988</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Spiro, Rand. 1988. “Cognitive Flexibility Theory: Advanced Knowledge Acquisition in Ill-Structured Domains,” October.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

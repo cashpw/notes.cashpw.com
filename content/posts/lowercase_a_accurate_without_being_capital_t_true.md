@@ -2,7 +2,7 @@
 title = "Lowercase-a accurate without being capital-T True"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T14:39:00-08:00
-lastmod = 2023-12-23T14:13:58-08:00
+lastmod = 2024-02-24T17:52:48-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -18,12 +18,9 @@ Describes a condition in which a certain framing is correct in that acting as if
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “The Card Says Moops.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as">https://innuendostudios.tumblr.com/post/182302598987/new-video-essay-internet-reactionaries-argue-as</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

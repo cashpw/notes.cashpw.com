@@ -2,14 +2,14 @@
 title = "Andy Matuschak | Evergreen Notes Should Be Atomic"
 author = ["Cash Weaver"]
 date = 2023-04-11T16:49:00-07:00
-lastmod = 2023-12-23T10:35:54-08:00
+lastmod = 2024-02-24T11:42:46-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "6ae97f03-6ce3-437e-88cf-a9f965839477"
 +++
 
-[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (NO_ITEM_DATA:matuschakEvergreenNotesShouldBeAtomic)
+[Andy Matuschak]({{< relref "andy_matuschak.md" >}}), (<a href="#citeproc_bib_item_1">Matuschak n.d.</a>)
 
 
 ## Notes {#notes}
@@ -25,16 +25,13 @@ slug = "6ae97f03-6ce3-437e-88cf-a9f965839477"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:matuschakEvergreenNotesShouldBeAtomic</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Matuschak, Andy. n.d. “Evergreen Notes Should Be Atomic.” <i>Andy’s Working Notes</i>. Accessed April 11, 2023. <a href="https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic">https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
 
 -   [Cedric Chin | The Hard Thing About Learning From Experience]({{< relref "cedric_chin_the_hard_thing_about_learning_from_experience.md" >}})
--   [On parenting]({{< relref "on_parenting.md" >}})
+-   [On X]({{< relref "on_x.md" >}})
 -   [On writing cards]({{< relref "spaced_repetition.md#on-writing-cards" >}})

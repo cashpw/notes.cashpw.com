@@ -2,7 +2,7 @@
 title = "Percy Bysshe Shelley | Ozymandias"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-26T18:30:00-08:00
-lastmod = 2023-12-23T10:32:18-08:00
+lastmod = 2024-02-24T11:40:58-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -32,8 +32,6 @@ The lone and level sands stretch far away."<br />
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ozymandias.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Ozymandias&oldid=1073932979">https://en.wikipedia.org/w/index.php?title=Ozymandias&#38;oldid=1073932979</a>.</div>

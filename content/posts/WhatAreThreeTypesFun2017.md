@@ -2,14 +2,14 @@
 title = "Tim Peck | What Are the Three Types of Fun?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:09:00-08:00
-lastmod = 2023-12-23T10:32:33-08:00
+lastmod = 2024-02-24T11:41:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "a06d371b-148e-4a49-86bb-f4d04cfcefe7"
 +++
 
-[Tim Peck]({{< relref "tim_peck.md" >}}), (NO_ITEM_DATA:peckWhatAreThreeTypesFun2017)
+[Tim Peck]({{< relref "tim_peck.md" >}}), (<a href="#citeproc_bib_item_1">Peck 2017</a>)
 
 
 ## Summary {#summary}
@@ -54,8 +54,6 @@ Fun in the moment, but not fun in retrospect.
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:peckWhatAreThreeTypesFun2017</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Peck, Tim. 2017. “What Are the Three Types of Fun?” <i>Goeast</i>. <a href="https://goeast.ems.com/three-types-of-fun/">https://goeast.ems.com/three-types-of-fun/</a>.</div>
 </div>

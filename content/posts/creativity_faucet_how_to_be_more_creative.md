@@ -2,14 +2,14 @@
 title = "Julian Shapiro | Creativity Faucet: How to Be More Creative"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-26T09:24:00-07:00
-lastmod = 2023-12-23T11:10:31-08:00
+lastmod = 2024-02-24T13:49:53-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "bbb82ce2-0bab-4746-acc1-7bb95da9bb72"
 +++
 
-[Julian Shapiro]({{< relref "julian_shapiro.md" >}}), (NO_ITEM_DATA:CreativityFaucetHowBeMoreCreative)
+[Julian Shapiro]({{< relref "julian_shapiro.md" >}}), (<a href="#citeproc_bib_item_1">“Creativity Faucet: How to Be More Creative” n.d.</a>)
 
 
 ## Notes {#notes}
@@ -39,12 +39,9 @@ slug = "bbb82ce2-0bab-4746-acc1-7bb95da9bb72"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:CreativityFaucetHowBeMoreCreative</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Creativity Faucet: How to Be More Creative.” n.d. Accessed October 24, 2022. <a href="https://www.julian.com/blog/creativity-faucet">https://www.julian.com/blog/creativity-faucet</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

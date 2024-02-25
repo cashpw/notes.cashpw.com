@@ -2,14 +2,14 @@
 title = "Karl Marx | Economic and Philosophic Manuscripts of 1844"
 author = ["Cash Weaver"]
 date = 2022-12-02T08:34:00-08:00
-lastmod = 2023-12-23T13:36:36-08:00
+lastmod = 2024-02-24T17:49:20-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "49d3d652-6836-40b6-a661-3af45b84a9d1"
 +++
 
-[Karl Marx]({{< relref "karl_marx.md" >}}) , (NO_ITEM_DATA:marxEconomicPhilosophicManuscripts18441959)
+[Karl Marx]({{< relref "karl_marx.md" >}}) , (<a href="#citeproc_bib_item_1">Marx 1959</a>)
 
 
 ## Summary {#summary}
@@ -80,8 +80,6 @@ slug = "49d3d652-6836-40b6-a661-3af45b84a9d1"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:marxEconomicPhilosophicManuscripts18441959</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Marx, Karl. 1959. <i>Economic and Philosophic Manuscripts of 1844</i>. Translated by Martin Milligan. Progress Publishers, Moscow.</div>
 </div>

@@ -2,7 +2,7 @@
 title = "org-roam"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T07:22:00-08:00
-lastmod = 2023-12-23T15:29:50-08:00
+lastmod = 2024-02-24T18:04:01-08:00
 draft = false
 slug = "1497025f-da3e-4bed-be19-f8f9c9a0e351"
 +++
@@ -19,12 +19,9 @@ I use `org-roam` for:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Org-Roam.” 2022. Org-roam. <a href="https://github.com/org-roam/org-roam">https://github.com/org-roam/org-roam</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

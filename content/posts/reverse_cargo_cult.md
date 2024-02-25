@@ -2,7 +2,7 @@
 title = "Reverse cargo cult"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-23T15:45:00-07:00
-lastmod = 2023-12-23T16:48:21-08:00
+lastmod = 2024-02-24T18:18:10-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -17,7 +17,7 @@ slug = "0a9fac5c-2919-4dc1-b75b-ccab89d31a52"
 >
 > 1980s Soviets knew that their government was lying to them about the strength and power of their society, the Communist Party couldn't hide all of the dysfunctions people saw on a daily basis. This didn't stop the Soviet leadership from lying. Instead, they just accused the West of being equally deceptive. "Sure, things might be bad here, but they are just as bad in America, and in America people are actually foolish enough to believe in the lie! Not like you, clever people. You get it. You know it is a lie."
 >
-> (NO_ITEM_DATA:howeTrumpReverseCargoCult2017)
+> (<a href="#citeproc_bib_item_2">Howe 2017</a>)
 
 <!--quoteend-->
 
@@ -30,13 +30,10 @@ Related: [Fallacy of grey]({{< relref "fallacy_of_gray.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cargo Cult.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Cargo_cult&oldid=1093591507">https://en.wikipedia.org/w/index.php?title=Cargo_cult&#38;oldid=1093591507</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:howeTrumpReverseCargoCult2017</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Howe, Hans. 2017. “Trump and the Reverse Cargo Cult.” <i>Hans Howe</i>. <a href="https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/">https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

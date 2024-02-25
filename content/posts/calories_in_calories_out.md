@@ -2,7 +2,7 @@
 title = "Calories in, calories out"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-26T09:50:00-08:00
-lastmod = 2023-12-23T10:46:53-08:00
+lastmod = 2024-02-24T11:48:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,6 @@ I consider this to be [Lowercase-a accurate without being capital-T True]({{< re
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

@@ -2,14 +2,14 @@
 title = "David Chapman | Developing Ethical, Social, and Cognitive Competence"
 author = ["Cash Weaver"]
 date = 2023-01-12T08:15:00-08:00
-lastmod = 2023-12-23T11:22:51-08:00
+lastmod = 2024-02-24T13:50:41-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "9ffddcfd-8b32-4c07-bb86-1fed040e8e5c"
 +++
 
-[David Chapman]({{< relref "david_chapman.md" >}}), (NO_ITEM_DATA:chapmanDevelopingEthicalSocialCognitiveCompetence2016)
+[David Chapman]({{< relref "david_chapman.md" >}}), (<a href="#citeproc_bib_item_1">Chapman 2016</a>)
 
 
 ## Summary {#summary}
@@ -51,12 +51,9 @@ slug = "9ffddcfd-8b32-4c07-bb86-1fed040e8e5c"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chapmanDevelopingEthicalSocialCognitiveCompetence2016</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chapman, David. 2016. “Developing Ethical, Social, and Cognitive Competence.” <a href="https://web.archive.org/web/20160618024656/https://meaningness.wordpress.com/2015/10/12/developing-ethical-social-and-cognitive-competence/">https://web.archive.org/web/20160618024656/https://meaningness.wordpress.com/2015/10/12/developing-ethical-social-and-cognitive-competence/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

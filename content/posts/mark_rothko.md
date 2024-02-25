@@ -2,7 +2,7 @@
 title = "Mark Rothko"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-11T12:03:00-08:00
-lastmod = 2023-12-23T14:21:35-08:00
+lastmod = 2024-02-24T17:53:31-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -15,8 +15,6 @@ slug = "d620c60e-d2e7-41c0-86d2-b9105f81d99c"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mark Rothko.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Mark_Rothko&oldid=1124970451">https://en.wikipedia.org/w/index.php?title=Mark_Rothko&#38;oldid=1124970451</a>.</div>

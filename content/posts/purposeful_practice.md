@@ -2,7 +2,7 @@
 title = "Purposeful practice"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-07T08:41:00-07:00
-lastmod = 2023-12-23T16:13:40-08:00
+lastmod = 2024-02-24T18:13:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,18 +21,18 @@ slug = "2bb656cd-6834-4534-95e2-c77df28ffccb"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2019. “The Problems with Deliberate Practice.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-problems-with-deliberate-practice/">https://commoncog.com/blog/the-problems-with-deliberate-practice/</a>.</div>
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
+-   [Boring fundamentals]({{< relref "boring_fundamentals.md" >}})
 -   [Cedric Chin | Book Summary: Peak, the New Science of Expertise]({{< relref "cedric_chin_book_summary_peak_the_new_science_of_expertise.md" >}})
--   [Cedric Chin | The Tacit Knowledge Series]({{< relref "cedric_chin_the_tacit_knowledge_series.md" >}})
 -   [Deliberate practice]({{< relref "deliberate_practice.md" >}})
+-   [How to become an expert]({{< relref "how_to_become_an_expert.md" >}})
+-   [How to improve]({{< relref "how_to_improve.md" >}})
+-   [Jeffrey Pfeffer | 7 Rules of Power]({{< relref "jeffrey_pfeffer_7_rules_of_power.md" >}})
 -   [Spaced repetition]({{< relref "spaced_repetition.md" >}})
 -   [Types of practice]({{< relref "types_of_practice.md" >}})

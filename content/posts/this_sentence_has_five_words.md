@@ -2,7 +2,7 @@
 title = "This sentence has five words"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T17:05:00-08:00
-lastmod = 2023-12-23T19:36:11-08:00
+lastmod = 2024-02-24T18:27:39-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -15,17 +15,14 @@ slug = "3e310bff-729b-429b-9e10-769422c75561"
 >
 > So write with a combination of short, medium, and long sentences. Create a sound that pleases the reader's ear. Don't just write words. Write music."
 >
-> [Gary Provost]({{< relref "gary_provost.md" >}}), (NO_ITEM_DATA:provost100WaysImproveYourWriting2014)
+> [Gary Provost]({{< relref "gary_provost.md" >}}), (<a href="#citeproc_bib_item_1">Provost 2014</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:provost100WaysImproveYourWriting2014</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Provost, Gary. 2014. <i>100 Ways to Improve Your Writing</i>. New York: Signet.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

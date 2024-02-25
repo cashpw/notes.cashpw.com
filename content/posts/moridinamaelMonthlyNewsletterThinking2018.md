@@ -2,14 +2,14 @@
 title = "moridinamael | The Monthly Newsletter as Thinking Tool"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:19:00-08:00
-lastmod = 2023-12-23T14:50:00-08:00
+lastmod = 2024-02-24T17:56:50-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "da8376c0-7849-47fd-9f79-fca821651232"
 +++
 
-[Matt Freeman]({{< relref "matt_freeman.md" >}}), (NO_ITEM_DATA:moridinamaelMonthlyNewsletterThinkingTool2018)
+[Matt Freeman]({{< relref "matt_freeman.md" >}}), (<a href="#citeproc_bib_item_1">moridinamael 2018</a>)
 
 
 ## Summary {#summary}
@@ -38,12 +38,9 @@ slug = "da8376c0-7849-47fd-9f79-fca821651232"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:moridinamaelMonthlyNewsletterThinkingTool2018</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>moridinamael. 2018. “The Monthly Newsletter as Thinking Tool.” <i>Less Wrong</i>. <a href="https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool">https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

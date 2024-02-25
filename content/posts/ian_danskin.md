@@ -2,7 +2,7 @@
 title = "Ian Danskin"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-25T16:31:00-07:00
-lastmod = 2023-12-23T12:47:55-08:00
+lastmod = 2024-02-24T17:46:08-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -17,11 +17,8 @@ Among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

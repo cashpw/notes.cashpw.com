@@ -2,7 +2,7 @@
 title = "Jarnik's algorithm implementation in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:52:00-08:00
-lastmod = 2023-12-23T13:15:50-08:00
+lastmod = 2024-02-24T17:47:39-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -98,8 +98,6 @@ print(sorted(jarniks_minimum_spanning_tree(edges)), 'should be [(a,b), (a,e), (a
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

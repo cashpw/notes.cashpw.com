@@ -2,7 +2,7 @@
 title = "2sum"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T15:59:00-08:00
-lastmod = 2023-12-23T10:31:26-08:00
+lastmod = 2024-02-24T11:40:37-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,12 +49,9 @@ The trick is using a [Hash map]({{< relref "hash_table.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>LeetCode. n.d. “Two Sum.” <i>Leetcode</i>. Accessed February 8, 2023. <a href="https://leetcode.com/problems/two-sum/description">https://leetcode.com/problems/two-sum/description</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Data-frame model"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T07:57:00-07:00
-lastmod = 2023-12-23T11:21:04-08:00
+lastmod = 2024-02-24T13:50:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -46,12 +46,9 @@ The way we understand the world ([Mental models]({{< relref "mental_model.md" >}
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Klein, Gary, Jennifer Phillips, Erica Rall, and Deborah Peluso. n.d. “A Data-Frame Theory of Sensemaking.” Accessed September 11, 2023. <a href="https://www.researchgate.net/publication/303171216_A_data-frame_theory_of_sensemaking">https://www.researchgate.net/publication/303171216_A_data-frame_theory_of_sensemaking</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

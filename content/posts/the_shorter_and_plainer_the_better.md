@@ -2,7 +2,7 @@
 title = "The shorter and plainer the better"
 author = ["Cash Prokop-Weaver"]
 date = 2022-01-18T07:21:00-08:00
-lastmod = 2023-12-23T19:23:27-08:00
+lastmod = 2024-02-24T18:26:33-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -16,11 +16,8 @@ slug = "f9a2d16c-2264-47a7-85ce-db8e962a3811"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

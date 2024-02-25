@@ -2,7 +2,7 @@
 title = "Cooperative game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:40:00-07:00
-lastmod = 2023-12-23T11:08:49-08:00
+lastmod = 2024-02-24T11:57:44-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,6 @@ slug = "31a42b11-aca6-41e8-a41a-5fb97006ddc2"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cooperative Game Theory.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Cooperative_game_theory&oldid=1090843550">https://en.wikipedia.org/w/index.php?title=Cooperative_game_theory&#38;oldid=1090843550</a>.</div>

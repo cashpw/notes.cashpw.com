@@ -2,7 +2,7 @@
 title = "Vitamin C and the common cold"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-19T15:39:00-07:00
-lastmod = 2023-12-23T20:48:41-08:00
+lastmod = 2024-02-24T18:37:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,6 @@ slug = "41fe86e1-e67e-4068-bde0-83e931928687"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Audera, C., R. V. Patulny, B. H. Sander, and R. M. Douglas. 2001. “Mega-Dose Vitamin C in Treatment of the Common Cold: A Randomised Controlled Trial.” <i>The Medical Journal of Australia</i> 175 (7): 359–62. <a href="https://doi.org/10.5694/j.1326-5377.2001.tb143618.x">https://doi.org/10.5694/j.1326-5377.2001.tb143618.x</a>.</div>

@@ -2,7 +2,7 @@
 title = "Atom"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:31:00-07:00
-lastmod = 2023-12-23T10:38:01-08:00
+lastmod = 2024-02-24T11:44:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -26,12 +26,9 @@ An atom, in [Lisp]({{< relref "lisp.md" >}}), is an indivisible thing. Examples 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Lisp Atoms.” n.d. Accessed June 29, 2022. <a href="https://www.gnu.org/software/emacs/manual/html_node/eintr/Lisp-Atoms.html">https://www.gnu.org/software/emacs/manual/html_node/eintr/Lisp-Atoms.html</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

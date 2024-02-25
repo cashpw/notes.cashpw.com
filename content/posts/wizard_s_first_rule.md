@@ -2,7 +2,7 @@
 title = "Wizard's first rule"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-22T18:52:00-08:00
-lastmod = 2023-12-23T21:06:14-08:00
+lastmod = 2024-02-24T18:37:56-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -24,14 +24,14 @@ Related:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Wizard’s First Rule.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Wizard%27s_First_Rule&oldid=1061747657">https://en.wikipedia.org/w/index.php?title=Wizard%27s_First_Rule&#38;oldid=1061747657</a>.</div>
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
+-   [Jeffrey Pfeffer | 7 Rules of Power]({{< relref "jeffrey_pfeffer_7_rules_of_power.md" >}})
+-   [Motivated reasoning]({{< relref "motivated_reasoning.md" >}})
+-   [Success excuses (almost) everything]({{< relref "success_excuses_almost_everything.md" >}})
 -   [Todos]({{< relref "todos.md" >}})

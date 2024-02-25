@@ -2,7 +2,7 @@
 title = "Marie-Hélène Pennestri, et al | Uninterrupted Infant Sleep, Development, and Maternal Mood"
 author = ["Cash Weaver"]
 date = 2023-11-04T07:47:00-07:00
-lastmod = 2023-12-23T14:20:40-08:00
+lastmod = 2024-02-24T17:53:26-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -82,12 +82,9 @@ slug = "31baeae2-3c88-43ec-8d74-bddd68004f8e"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Pennestri, Marie-Hélène, Christine Laganière, Andrée-Anne Bouvette-Turcot, Irina Pokhvisneva, Meir Steiner, Michael J. Meaney, Hélène Gaudreau, and on behalf of the Mavan Research Team. 2018. “Uninterrupted Infant Sleep, Development, and Maternal Mood.” <i>Pediatrics</i> 142 (6): e20174330. <a href="https://doi.org/10.1542/peds.2017-4330">https://doi.org/10.1542/peds.2017-4330</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

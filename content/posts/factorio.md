@@ -2,7 +2,7 @@
 title = "Factorio"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-16T16:51:00-08:00
-lastmod = 2023-12-23T11:53:49-08:00
+lastmod = 2024-02-24T14:19:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,8 +29,6 @@ slug = "331af804-01a3-4e64-b87a-25bbd90416bb"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Factorio.” 2023. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Factorio&oldid=1183029115">https://en.wikipedia.org/w/index.php?title=Factorio&#38;oldid=1183029115</a>.</div>

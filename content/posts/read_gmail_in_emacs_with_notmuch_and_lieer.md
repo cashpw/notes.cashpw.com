@@ -2,7 +2,7 @@
 title = "Read Gmail in Emacs with notmuch and lieer"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-27T19:56:00-08:00
-lastmod = 2023-12-23T16:33:30-08:00
+lastmod = 2024-02-24T18:14:15-08:00
 tags = ["hastodo", "hastodo"]
 categories = ["hastodo"]
 draft = false
@@ -170,11 +170,8 @@ For those of you using [`doom emacs`](https://github.com/hlissner/doom-emacs), y
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

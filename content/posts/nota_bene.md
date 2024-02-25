@@ -2,7 +2,7 @@
 title = "Nota bene"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:28:00-08:00
-lastmod = 2023-12-23T15:13:43-08:00
+lastmod = 2024-02-24T18:00:16-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,6 @@ slug = "fccbc741-2373-47c3-9d41-a04fb0ce9b66"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Nota Bene.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Nota_bene&oldid=1116170074">https://en.wikipedia.org/w/index.php?title=Nota_bene&#38;oldid=1116170074</a>.</div>

@@ -2,14 +2,14 @@
 title = "Nicholas Elorreaga | The Deadbug: Ultimate Guide to Mastering Core Strength"
 author = ["Cash Weaver"]
 date = 2023-07-06T08:25:00-07:00
-lastmod = 2023-12-23T15:06:26-08:00
+lastmod = 2024-02-24T17:59:13-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "8c39a71d-954c-44e9-9073-cf93cc7788e0"
 +++
 
-[Nicholas Elorreaga]({{< relref "nicholas_elorreaga.md" >}}), (NO_ITEM_DATA:nick-eDeadbugUltimateGuideMasteringCoreStrength2018)
+[Nicholas Elorreaga]({{< relref "nicholas_elorreaga.md" >}}), (<a href="#citeproc_bib_item_1">Nick-E 2018</a>)
 
 
 ## Summary {#summary}
@@ -195,8 +195,6 @@ Breathe in and out. Your upper hand should **not** move. Your lower hand **shoul
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:nick-eDeadbugUltimateGuideMasteringCoreStrength2018</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nick-E. 2018. “The Deadbug: Ultimate Guide to Mastering Core Strength.” <i>Nick-E.Com</i>. <a href="https://nick-e.com/deadbug/">https://nick-e.com/deadbug/</a>.</div>
 </div>

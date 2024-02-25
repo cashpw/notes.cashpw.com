@@ -2,7 +2,7 @@
 title = "Slack"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T09:08:00-08:00
-lastmod = 2023-12-23T17:49:42-08:00
+lastmod = 2024-02-24T18:20:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -34,17 +34,14 @@ Informally, a surplus which gives one wiggle room. It's usually in the context o
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Zvi. n.d. “Slack.” Accessed November 23, 2022. <a href="https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack">https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack</a>.</div>
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
+-   [Dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
 -   [Sam Altman | Productivity]({{< relref "altmanProductivity2018.md" >}})
--   [This is the dreamtime]({{< relref "this_is_the_dreamtime.md" >}})
 -   [Tim Urban | 10 Thoughts From the Fourth Trimester]({{< relref "tim_urban_10_thoughts_from_the_fourth_trimester.md" >}})
 -   [Time tracking in Emacs with org-mode]({{< relref "time_tracking_in_emacs_with_org_mode.md" >}})

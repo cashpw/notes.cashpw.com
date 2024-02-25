@@ -2,7 +2,7 @@
 title = "Queue"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T17:37:00-07:00
-lastmod = 2023-12-23T16:21:59-08:00
+lastmod = 2024-02-24T18:13:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,7 +21,7 @@ A queue is an [Abstract data type]({{< relref "abstract_data_type.md" >}}).
 >
 > The operations of a queue make it a [[First in, first out]({{< relref "first_in_first_out.md" >}})] ([FIFO]({{< relref "first_in_first_out.md" >}})) data structure. In a [FIFO]({{< relref "first_in_first_out.md" >}}) data structure, the first element added to the queue will be the first one to be removed. [...] Common implementations are circular buffers and linked lists.
 >
-> (NO_ITEM_DATA:QueueAbstractDataType2022)
+> (<a href="#citeproc_bib_item_1">“Queue (Abstract Data Type)” 2022</a>)
 
 
 ## Types {#types}
@@ -31,12 +31,9 @@ A queue is an [Abstract data type]({{< relref "abstract_data_type.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:QueueAbstractDataType2022</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Queue (Abstract Data Type).” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&oldid=1090013688">https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&#38;oldid=1090013688</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

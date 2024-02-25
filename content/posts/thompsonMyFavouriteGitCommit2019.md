@@ -2,14 +2,14 @@
 title = "David Thompson | My Favourite Git Commit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:26:00-08:00
-lastmod = 2023-12-23T19:37:49-08:00
+lastmod = 2024-02-24T18:27:48-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "ffc0d2f1-9a41-4562-8625-a669a5110836"
 +++
 
-[David Thompson]({{< relref "david_thompson.md" >}}), (NO_ITEM_DATA:thompsonMyFavouriteGitCommit2019)
+[David Thompson]({{< relref "david_thompson.md" >}}), (<a href="#citeproc_bib_item_1">Thompson 2019</a>)
 
 
 ## Thoughts {#thoughts}
@@ -83,12 +83,9 @@ Now the tests work! One hour of my life I won't get back..
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:thompsonMyFavouriteGitCommit2019</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Thompson, David. 2019. “My Favourite Git Commit.” <i>Dhwthompson.Com</i>. <a href="https://dhwthompson.com/2019/my-favourite-git-commit">https://dhwthompson.com/2019/my-favourite-git-commit</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Naturalistic decision making"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T19:22:00-07:00
-lastmod = 2023-12-23T14:59:57-08:00
+lastmod = 2024-02-24T17:58:07-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "6eb374ad-69aa-476d-b1d8-02714ffc094f"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Naturalistic Decision-Making.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Naturalistic_decision-making&oldid=1156555700">https://en.wikipedia.org/w/index.php?title=Naturalistic_decision-making&#38;oldid=1156555700</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Do things that compound"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-11T20:09:00-08:00
-lastmod = 2023-12-23T11:34:58-08:00
+lastmod = 2024-02-24T13:51:37-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -18,11 +18,8 @@ slug = "92cf48f0-63a6-4d1d-9275-c80f6743ccb9"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "No half measures"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-21T08:24:00-07:00
-lastmod = 2023-12-23T15:09:50-08:00
+lastmod = 2024-02-24T17:59:42-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,19 +21,16 @@ However, [Keep your eye on the prize]({{< relref "keep_your_eye_on_the_prize.md"
 >
 > Her portfolio was chock full of neon colors and glitter and rhinestones and splashes of peacock feathers and it was a delight. Our teacher despised every piece lol, but she got great marks and I think even won some awards. And more importantly, she was happy and proud of the results. Because she didn't limit herself by trying to appeal to people who were never going to enjoy what she enjoyed.
 >
-> (NO_ITEM_DATA:switchelsweetsMyAPArtClass)
+> (<a href="#citeproc_bib_item_1">switchelsweets n.d.</a>)
 
 Related [Nate Soares | Half-Assing It with Everything You've Got]({{< relref "nate_soares_half_assing_it_with_everything_you_ve_got.md" >}})
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:switchelsweetsMyAPArtClass</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>switchelsweets. n.d. “In My AP Art Class.” <i>Tumblr</i>. Accessed July 21, 2023. <a href="https://switchelsweets.tumblr.com/post/720604113161830400/i-want-to-share-some-wisdom-from-my-high-school">https://switchelsweets.tumblr.com/post/720604113161830400/i-want-to-share-some-wisdom-from-my-high-school</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

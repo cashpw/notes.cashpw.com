@@ -2,14 +2,14 @@
 title = "Cedric Chin | The Three Kinds of Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:58:00-07:00
-lastmod = 2023-12-23T10:54:12-08:00
+lastmod = 2024-02-24T11:51:11-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "6e417a2d-0c14-4057-b022-c89d787e7fd3"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinThreeKindsTacitKnowledge2020)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
 ## Summary {#summary}
@@ -45,7 +45,7 @@ I'm not sure the distinction between [Relational tacit knowledge]({{< relref "re
 >
 > Collins appears to enjoy using the laser example and the sapphire example because the scientists were working from detailed specifications published in peer-reviewed journals ... and they were working in physics and material science respectively --- both of them 'hard sciences'! Collins's point: if it is difficult to explicate knowledge in the 'hard sciences', then we should expect no less in other domains of human knowledge.
 >
-> (NO_ITEM_DATA:chinThreeKindsTacitKnowledge2020)
+> (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
 ### [Somatic tacit knowledge]({{< relref "somatic_tacit_knowledge.md" >}}) {#somatic-tacit-knowledge--somatic-tacit-knowledge-dot-md}
@@ -64,12 +64,9 @@ I'm not sure the distinction between [Relational tacit knowledge]({{< relref "re
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinThreeKindsTacitKnowledge2020</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “The Three Kinds of Tacit Knowledge.” <i>Commoncog</i>. <a href="https://commoncog.com/three-kinds-of-tacit-knowledge/">https://commoncog.com/three-kinds-of-tacit-knowledge/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

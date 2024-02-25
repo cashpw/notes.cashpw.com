@@ -2,7 +2,7 @@
 title = "Randall Munroe"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-27T08:54:00-07:00
-lastmod = 2023-12-23T16:29:15-08:00
+lastmod = 2024-02-24T18:14:09-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -14,11 +14,8 @@ Also known for [xkcd](http://xkcd.com).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

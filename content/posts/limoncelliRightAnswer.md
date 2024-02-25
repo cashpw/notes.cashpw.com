@@ -2,7 +2,7 @@
 title = "Tom Limoncelli | The Right Answer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T15:50:00-08:00
-lastmod = 2023-12-23T14:04:15-08:00
+lastmod = 2024-02-24T17:51:44-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -59,8 +59,6 @@ slug = "8ed02b38-ffb0-4230-8dd4-3986a74fbe13"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Limoncelli, Tom. n.d. “The Right Answer.” Accessed February 21, 2022. <a href="https://everythingsysadmin.com/2004/12/the-right-answer.html">https://everythingsysadmin.com/2004/12/the-right-answer.html</a>.</div>

@@ -2,14 +2,14 @@
 title = "Paul Graham | What You (Want to)* Want"
 author = ["Cash Weaver"]
 date = 2023-01-14T07:57:00-08:00
-lastmod = 2023-12-23T15:38:07-08:00
+lastmod = 2024-02-24T18:05:32-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "6e6aa331-8dbf-4751-a896-ca5fc6c7128b"
 +++
 
-[Paul Graham]({{< relref "paul_graham.md" >}}), (NO_ITEM_DATA:grahamWhatYouWantWant)
+[Paul Graham]({{< relref "paul_graham.md" >}}), (<a href="#citeproc_bib_item_1">Graham n.d.</a>)
 
 
 ## Summary {#summary}
@@ -35,12 +35,9 @@ People can change lower-order desires (e.g. "I want to eat junk food" to "I don'
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:grahamWhatYouWantWant</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Graham, Paul. n.d. “What You (Want to)* Want.” Accessed January 14, 2023. <a href="http://paulgraham.com/want.html">http://paulgraham.com/want.html</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

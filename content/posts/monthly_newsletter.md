@@ -2,7 +2,7 @@
 title = "Monthly newsletter"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-06T08:00:00-08:00
-lastmod = 2023-12-23T14:47:36-08:00
+lastmod = 2024-02-24T17:56:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ Based on [The Monthly Newsletter as Thinking Tool]({{< relref "moridinamaelMonth
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

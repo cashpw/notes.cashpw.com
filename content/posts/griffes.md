@@ -2,7 +2,7 @@
 title = "Milan Griffes | (A)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T13:12:00-08:00
-lastmod = 2023-12-23T12:26:38-08:00
+lastmod = 2024-02-24T14:21:20-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -35,12 +35,9 @@ I also notice that the author [includes (sometimes long) relevant quotes from li
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Griffes, Milan. n.d. “(A).” <i>Flight from Perfection $\cdot$</i>. Accessed September 17, 2020. <a href="https://www.flightfromperfection.com/(a).html">https://www.flightfromperfection.com/(a).html</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

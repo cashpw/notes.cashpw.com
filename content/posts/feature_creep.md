@@ -2,7 +2,7 @@
 title = "Feature creep"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-15T09:51:00-08:00
-lastmod = 2023-12-23T11:57:02-08:00
+lastmod = 2024-02-24T14:19:23-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,8 +17,6 @@ See also [Scope creep]({{< relref "scope_creep.md" >}}).
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Feature Creep.” 2023. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Feature_creep&oldid=1172494095">https://en.wikipedia.org/w/index.php?title=Feature_creep&#38;oldid=1172494095</a>.</div>

@@ -2,7 +2,7 @@
 title = "Duck test"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T11:26:00-07:00
-lastmod = 2023-12-23T11:38:58-08:00
+lastmod = 2024-02-24T13:52:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,12 +21,9 @@ Also see:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Duck Test.” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Duck_test&oldid=1094197763">https://en.wikipedia.org/w/index.php?title=Duck_test&#38;oldid=1094197763</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

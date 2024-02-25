@@ -2,7 +2,7 @@
 title = "Child development stages"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-12T07:53:00-08:00
-lastmod = 2023-12-23T10:58:17-08:00
+lastmod = 2024-02-24T11:52:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,12 +20,9 @@ slug = "e4034c34-f894-48fb-b303-41d0596589c9"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Magical Thinking.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Magical_thinking&oldid=1129856055">https://en.wikipedia.org/w/index.php?title=Magical_thinking&#38;oldid=1129856055</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

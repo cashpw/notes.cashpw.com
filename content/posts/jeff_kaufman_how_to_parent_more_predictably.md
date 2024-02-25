@@ -2,7 +2,7 @@
 title = "Jeff Kaufman | How to Parent More Predictably"
 author = ["Cash Weaver"]
 date = 2023-11-06T08:16:00-08:00
-lastmod = 2023-12-23T13:17:19-08:00
+lastmod = 2024-02-24T17:47:44-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -64,12 +64,9 @@ See headings beneath "Notes" for bullet-point summary.
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kaufman, Jeff. n.d. “How to Parent More Predictably.” Accessed November 6, 2023. <a href="https://www.jefftk.com/p/how-to-parent-more-predictably">https://www.jefftk.com/p/how-to-parent-more-predictably</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

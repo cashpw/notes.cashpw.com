@@ -2,7 +2,7 @@
 title = "Shallow-dive reading"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-11T08:29:00-07:00
-lastmod = 2023-12-23T17:26:28-08:00
+lastmod = 2024-02-24T18:19:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ Shallow-dive reading is my term for reading a single source on a particular topi
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

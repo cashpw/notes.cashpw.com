@@ -2,7 +2,7 @@
 title = "Mastery learning"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-12T19:23:00-08:00
-lastmod = 2023-12-23T14:23:29-08:00
+lastmod = 2024-02-24T17:53:41-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -28,12 +28,9 @@ slug = "162d37be-0ce1-4ba1-baff-101ba72fa811"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mastery Learning.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Mastery_learning&oldid=1126487387">https://en.wikipedia.org/w/index.php?title=Mastery_learning&#38;oldid=1126487387</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "A-star search algorithm"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T13:50:00-08:00
-lastmod = 2023-12-23T10:32:56-08:00
+lastmod = 2024-02-24T11:41:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -38,18 +38,15 @@ Like [Dijkstra's algorithm]({{< relref "dijkstra_s_algorithm.md" >}}), A\*'s imp
 >
 > By the way, in this context, "optimal" doesn't mean that it reaches the optimal solution, but that it does so while exploring the minimum number of nodes. Of course, A\* is also complete, which means it reaches the optimal solution (if we use an admissible heuristic).
 >
-> (NO_ITEM_DATA:francoisrAnswerWhatDoesStarAlgorithmMean2016)
+> (<a href="#citeproc_bib_item_2">francoisr 2016</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“A* Search Algorithm.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&oldid=1127312005">https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&#38;oldid=1127312005</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:francoisrAnswerWhatDoesStarAlgorithmMean2016</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>francoisr. 2016. “Answer to ‘What Does the Star in the A* Algorithm Mean?’.” <i>Stack Overflow</i>. <a href="https://stackoverflow.com/a/35848019">https://stackoverflow.com/a/35848019</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

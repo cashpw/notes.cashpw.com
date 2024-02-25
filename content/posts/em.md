@@ -2,7 +2,7 @@
 title = "Em"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T09:00:00-07:00
-lastmod = 2023-12-23T11:44:10-08:00
+lastmod = 2024-02-24T14:18:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ Ems are copies of human minds which exist on computers in [Robin Hanson | The Ag
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

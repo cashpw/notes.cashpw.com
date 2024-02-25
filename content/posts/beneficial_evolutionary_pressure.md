@@ -2,7 +2,7 @@
 title = "Beneficial evolutionary pressure"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-10T10:16:00-07:00
-lastmod = 2023-12-23T10:39:59-08:00
+lastmod = 2024-02-24T11:45:26-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,11 +21,8 @@ Related:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

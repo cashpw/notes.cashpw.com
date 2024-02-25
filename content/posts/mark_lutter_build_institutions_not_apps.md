@@ -2,14 +2,14 @@
 title = "Mark Lutter | Build Institutions, Not Apps"
 author = ["Cash Weaver"]
 date = 2023-01-10T14:22:00-08:00
-lastmod = 2023-12-23T14:21:23-08:00
+lastmod = 2024-02-24T17:53:30-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "a3d2b0f5-daff-4aef-9c5f-e34ab410efa6"
 +++
 
-[Mark Lutter]({{< relref "mark_lutter.md" >}}), (NO_ITEM_DATA:lutterBuildInstitutionsNotApps)
+[Mark Lutter]({{< relref "mark_lutter.md" >}}), (<a href="#citeproc_bib_item_1">Lutter n.d.</a>)
 
 
 ## Summary {#summary}
@@ -54,12 +54,9 @@ The "X isn't left or right", in my experience, tends to mean "X is mostly right,
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:lutterBuildInstitutionsNotApps</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Lutter, Mark. n.d. “Build Institutions, Not Apps.” Accessed January 10, 2023. <a href="https://www.marklutter.com/post/build-institutions-not-apps">https://www.marklutter.com/post/build-institutions-not-apps</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

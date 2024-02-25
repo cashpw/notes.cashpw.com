@@ -2,14 +2,14 @@
 title = "Laura Taylor | Git + Google Drive = Simple Git Host"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-18T08:20:00-07:00
-lastmod = 2023-12-23T18:55:04-08:00
+lastmod = 2024-02-24T18:24:34-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "abb1e1cc-12bb-42fe-9004-555145c8faaa"
 +++
 
-Laura Taylor, (NO_ITEM_DATA:taylorGitGoogleDriveSimpleGitHost2021)
+Laura Taylor, (<a href="#citeproc_bib_item_1">Taylor 2021</a>)
 
 1.  Mount Google Drive locally
     -   Linux: I prefer [`rclone`](https://rclone.org/drive/)
@@ -45,12 +45,9 @@ Laura Taylor, (NO_ITEM_DATA:taylorGitGoogleDriveSimpleGitHost2021)
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:taylorGitGoogleDriveSimpleGitHost2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Taylor, Laura. 2021. “Git + Google Drive = Simple Git Host.” <i>Medium</i>. <a href="https://techstreams.medium.com/git-google-drive-simple-git-host-3a84db4fc1fd">https://techstreams.medium.com/git-google-drive-simple-git-host-3a84db4fc1fd</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

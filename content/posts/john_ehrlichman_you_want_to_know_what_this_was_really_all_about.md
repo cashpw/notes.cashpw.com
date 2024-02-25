@@ -2,7 +2,7 @@
 title = "John Ehrlichman | You want to know what this was really all about?"
 author = ["Cash Weaver"]
 date = 2023-03-06T06:35:00-08:00
-lastmod = 2023-12-23T13:21:20-08:00
+lastmod = 2024-02-24T17:48:11-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -27,8 +27,6 @@ slug = "a0010be4-80dd-447b-a35f-528e5d484499"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Drug War Confessional.” n.d. <i>Vera Institute of Justice</i>. Accessed March 6, 2023. <a href="https://www.vera.org/reimagining-prison-webumentary/the-past-is-never-dead/drug-war-confessional">https://www.vera.org/reimagining-prison-webumentary/the-past-is-never-dead/drug-war-confessional</a>.</div>

@@ -2,7 +2,7 @@
 title = "Adam Zerner | Writing to Think"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T18:46:00-08:00
-lastmod = 2023-12-23T21:26:28-08:00
+lastmod = 2024-02-24T18:38:24-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -27,14 +27,11 @@ slug = "53938c1e-d71b-436a-bbc5-f3c220c677ea"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Zerner, Adam. n.d. “Writing to Think.” Accessed February 8, 2022. <a href="https://www.lesswrong.com/posts/SKQmvZMTY6zQf3Ktc/writing-to-think">https://www.lesswrong.com/posts/SKQmvZMTY6zQf3Ktc/writing-to-think</a>.</div>
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
--   [Writing to think]({{< relref "writing_to_think.md" >}})
+-   [Expand]({{< relref "writing_to_think.md#expand" >}})

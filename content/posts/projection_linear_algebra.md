@@ -2,7 +2,7 @@
 title = "Projection (Linear algebra)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-14T10:02:00-08:00
-lastmod = 2023-12-23T16:09:07-08:00
+lastmod = 2024-02-24T18:13:38-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,8 +21,6 @@ slug = "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Projection (Linear Algebra).” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Projection_(linear_algebra)&oldid=1126535456">https://en.wikipedia.org/w/index.php?title=Projection_(linear_algebra)&#38;oldid=1126535456</a>.</div>

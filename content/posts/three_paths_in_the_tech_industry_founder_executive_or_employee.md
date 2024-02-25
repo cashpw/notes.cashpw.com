@@ -2,12 +2,12 @@
 title = "Michael Seibel | Three Paths in the Tech Industry: Founder, Executive, or Employee"
 author = ["Cash Prokop-Weaver"]
 date = 2021-11-27T07:00:00-08:00
-lastmod = 2023-12-23T19:38:45-08:00
+lastmod = 2024-02-24T18:27:54-08:00
 draft = true
 slug = "548362c8-b5a6-4d50-b459-543d321e49b6"
 +++
 
-Michael Seibel, (NO_ITEM_DATA:seibelThreePathsTechIndustryFounderExecutiveEmployee)
+Michael Seibel, (<a href="#citeproc_bib_item_1">Seibel n.d.</a>)
 
 
 ## Summary {#summary}
@@ -145,8 +145,6 @@ Perhaps the nuance I'm attempting to address is somewhere between meaningful wor
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:seibelThreePathsTechIndustryFounderExecutiveEmployee</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Seibel, Michael. n.d. “Three Paths in the Tech Industry: Founder, Executive, or Employee.” <i>Y Combinator</i>. Accessed November 15, 2022. <a href="https://www.ycombinator.com/blog/three-paths-in-the-tech-industry-founder-executive-or-employee">https://www.ycombinator.com/blog/three-paths-in-the-tech-industry-founder-executive-or-employee</a>.</div>
 </div>

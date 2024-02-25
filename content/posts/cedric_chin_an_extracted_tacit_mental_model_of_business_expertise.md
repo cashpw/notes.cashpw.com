@@ -2,14 +2,14 @@
 title = "Cedric Chin | An Extracted Tacit Mental Model of Business Expertise"
 author = ["Cash Weaver"]
 date = 2023-08-04T22:02:00-07:00
-lastmod = 2023-12-23T10:49:09-08:00
+lastmod = 2024-02-24T11:49:39-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "731b4023-79ea-4671-9de9-2079008f14df"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinExtractedTacitMentalModelBusinessExpertise2021)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2021</a>)
 
 
 ## Summary {#summary}
@@ -20,7 +20,7 @@ slug = "731b4023-79ea-4671-9de9-2079008f14df"
 
 ## Notes {#notes}
 
-> it's nearly always more fruitful to mine the literature for _already_-extracted mental models of expertise. A few weeks ago, I learnt of Lia DiBello, an NDM researcher who specialises in the extraction of _tacit mental models of business expertise._
+> [...] it's nearly always more fruitful to mine the literature for _already_-extracted mental models of expertise. A few weeks ago, I learnt of Lia DiBello, an NDM researcher who specialises in the extraction of _tacit mental models of business expertise._
 >
 > DiBello's findings are extremely compelling. She writes, in _[The Oxford Handbook of Expertise](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198795872.001.0001/oxfordhb-9780198795872)_:
 >
@@ -186,12 +186,9 @@ slug = "731b4023-79ea-4671-9de9-2079008f14df"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinExtractedTacitMentalModelBusinessExpertise2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2021. “An Extracted Tacit Mental Model of Business Expertise.” <i>Commoncog</i>. <a href="https://commoncog.com/tacit-mental-model-of-business/">https://commoncog.com/tacit-mental-model-of-business/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

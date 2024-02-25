@@ -2,7 +2,7 @@
 title = "Ian Danskin | Always a Bigger Fish"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-26T08:54:00-07:00
-lastmod = 2023-12-23T11:16:51-08:00
+lastmod = 2024-02-24T13:50:18-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -80,12 +80,9 @@ Conservatives tend to think in hierarchies -- like a capitalist -- while liberal
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2019. “Always a Bigger Fish.” Tumblr. <i>Innuendo Studios</i>. <a href="https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called">https://innuendostudios.tumblr.com/post/183630833477/new-episode-of-the-alt-right-playbook-called</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

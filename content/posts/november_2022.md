@@ -2,7 +2,7 @@
 title = "November 2022"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-06T08:06:00-08:00
-lastmod = 2023-12-23T15:15:10-08:00
+lastmod = 2024-02-24T18:00:29-08:00
 tags = ["newsletter", "newsletter"]
 categories = ["newsletter"]
 draft = false
@@ -34,8 +34,6 @@ slug = "0839455d-cb61-49a6-b3d3-b76c23b3caa2"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

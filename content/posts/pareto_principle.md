@@ -2,7 +2,7 @@
 title = "Pareto principle"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-07T08:05:00-08:00
-lastmod = 2023-12-23T15:33:46-08:00
+lastmod = 2024-02-24T18:04:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -20,12 +20,9 @@ slug = "f49b7372-f38a-470e-8e1f-d26a64ff4992"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pareto Principle.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Pareto_principle&oldid=1119913844">https://en.wikipedia.org/w/index.php?title=Pareto_principle&#38;oldid=1119913844</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Binary heap"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T09:22:00-07:00
-lastmod = 2023-12-23T10:41:15-08:00
+lastmod = 2024-02-24T11:46:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -64,12 +64,9 @@ slug = "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Binary Heap.” 2022. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Binary_heap&oldid=1087856345">https://en.wikipedia.org/w/index.php?title=Binary_heap&#38;oldid=1087856345</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Email in emacs"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-11T10:46:00-08:00
-lastmod = 2023-12-23T11:45:03-08:00
+lastmod = 2024-02-24T14:18:49-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,8 +14,6 @@ slug = "8f61e9e6-4f19-4a64-b392-185062df45a0"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

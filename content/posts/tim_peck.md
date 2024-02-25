@@ -2,7 +2,7 @@
 title = "Tim Peck"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T08:09:00-08:00
-lastmod = 2023-12-23T19:41:10-08:00
+lastmod = 2024-02-24T18:28:13-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -17,11 +17,8 @@ Among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Sound bite"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-05T15:26:00-07:00
-lastmod = 2023-12-23T17:59:57-08:00
+lastmod = 2024-02-24T18:21:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "1553a4d1-a2eb-489e-9f02-a0866f8f008c"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sound Bite.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Sound_bite&oldid=1095886562">https://en.wikipedia.org/w/index.php?title=Sound_bite&#38;oldid=1095886562</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Timeboxing"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-18T13:51:00-08:00
-lastmod = 2023-12-23T19:46:03-08:00
+lastmod = 2024-02-24T18:28:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ Related: [Contiguous time blocks]({{< relref "kileBusyPersonPatterns2006.md#cont
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Timeboxing.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Timeboxing&oldid=1116186020">https://en.wikipedia.org/w/index.php?title=Timeboxing&#38;oldid=1116186020</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "There will come soft rains"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T10:39:00-07:00
-lastmod = 2023-12-23T10:32:29-08:00
+lastmod = 2024-02-24T11:41:03-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -33,13 +33,11 @@ Would scarcely know that we were gone.<br />
 
 </div>
 
-[Sara Teasdale]({{< relref "sara_teasdale.md" >}}), (NO_ITEM_DATA:ThereWillComeSoftRains2022)
+[Sara Teasdale]({{< relref "sara_teasdale.md" >}}), (<a href="#citeproc_bib_item_1">“There Will Come Soft Rains” 2022</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:ThereWillComeSoftRains2022</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“There Will Come Soft Rains.” 2022. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=There_Will_Come_Soft_Rains_(poem)&oldid=1077004299">https://en.wikipedia.org/w/index.php?title=There_Will_Come_Soft_Rains_(poem)&#38;oldid=1077004299</a>.</div>
 </div>

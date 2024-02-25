@@ -2,7 +2,7 @@
 title = "Hard truths"
 author = ["Cash Prokop-Weaver"]
 date = 2023-11-07T06:10:00-08:00
-lastmod = 2023-12-23T12:31:41-08:00
+lastmod = 2024-02-24T14:21:44-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -20,11 +20,8 @@ This note collects things I consider to be true for which acceptance can be diff
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

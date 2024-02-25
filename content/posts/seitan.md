@@ -2,7 +2,7 @@
 title = "Seitan"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-02T15:39:00-07:00
-lastmod = 2023-12-23T17:19:59-08:00
+lastmod = 2024-02-24T18:19:13-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "2caa9715-d216-41c4-babb-c6e66364ac6d"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Seitan.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Seitan&oldid=1118091339">https://en.wikipedia.org/w/index.php?title=Seitan&#38;oldid=1118091339</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

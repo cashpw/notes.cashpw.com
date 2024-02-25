@@ -2,7 +2,7 @@
 title = "Spanning tree"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-17T08:21:00-08:00
-lastmod = 2023-12-23T18:07:22-08:00
+lastmod = 2024-02-24T18:21:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ slug = "6bd79f38-1c84-45f0-9840-738f712fdf40"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

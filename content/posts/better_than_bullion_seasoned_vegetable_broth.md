@@ -2,7 +2,7 @@
 title = "Better than bullion: Seasoned vegetable base"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-02T14:18:00-07:00
-lastmod = 2023-12-23T10:40:21-08:00
+lastmod = 2024-02-24T11:45:37-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -23,11 +23,8 @@ slug = "94acace5-6bbb-44ee-9cb9-fef318283d57"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

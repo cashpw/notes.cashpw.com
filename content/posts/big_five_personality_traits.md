@@ -2,7 +2,7 @@
 title = "Big five personality traits"
 author = ["Cash Prokop-Weaver"]
 date = 2023-09-01T14:55:00-07:00
-lastmod = 2023-12-23T10:40:39-08:00
+lastmod = 2024-02-24T11:45:47-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -19,13 +19,11 @@ slug = "d199a4a8-c7cc-481e-9ccc-39bbe6fda8ee"
 > 4.  agreeableness (friendly/compassionate vs. critical/rational)
 > 5.  neuroticism (sensitive/nervous vs. resilient/confident)
 >
-> (NO_ITEM_DATA:BigFivePersonalityTraits2022)
+> (<a href="#citeproc_bib_item_1">“Big Five Personality Traits” 2022</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:BigFivePersonalityTraits2022</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Big Five Personality Traits.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Big_Five_personality_traits&oldid=1125743997">https://en.wikipedia.org/w/index.php?title=Big_Five_personality_traits&#38;oldid=1125743997</a>.</div>
 </div>

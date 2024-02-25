@@ -2,7 +2,7 @@
 title = "James Kenji López-Alt | The Best Italian-American Tomato Sauce Recipe"
 author = ["Cash Weaver"]
 date = 2023-12-15T11:31:00-08:00
-lastmod = 2023-12-23T13:12:56-08:00
+lastmod = 2024-02-24T17:47:28-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -62,8 +62,6 @@ A [Red sauce]({{< relref "red_sauce.md" >}}). Make it vegan by either removing o
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry">NO_ITEM_DATA:lopez-altBestItalianAmericanTomatoSauceRecipea</div>

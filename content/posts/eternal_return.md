@@ -2,7 +2,7 @@
 title = "Eternal return"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:41:00-08:00
-lastmod = 2023-12-23T11:46:45-08:00
+lastmod = 2024-02-24T14:18:54-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -17,8 +17,6 @@ slug = "e6d8be33-22e9-4c94-808d-7347f7fc38ed"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Eternal Return.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Eternal_return&oldid=1107951539">https://en.wikipedia.org/w/index.php?title=Eternal_return&#38;oldid=1107951539</a>.</div>

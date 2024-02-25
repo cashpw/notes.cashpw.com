@@ -2,14 +2,14 @@
 title = "Cedric Chin | How to Use YouTube to Learn Tacit Knowledge"
 author = ["Cash Weaver"]
 date = 2023-08-04T21:59:00-07:00
-lastmod = 2023-12-23T10:51:11-08:00
+lastmod = 2024-02-24T11:50:21-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "03073c64-f73f-41cf-a961-052d0648740e"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinHowUseYouTubeLearnTacitKnowledge2020)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
 ## Summary {#summary}
@@ -85,12 +85,9 @@ YouTube, and video in general, is a wealth of tacit knowledge. Seek out a combin
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinHowUseYouTubeLearnTacitKnowledge2020</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “How to Use YouTube to Learn Tacit Knowledge.” <i>Commoncog</i>. <a href="https://commoncog.com/youtube-learn-tacit-knowledge/">https://commoncog.com/youtube-learn-tacit-knowledge/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

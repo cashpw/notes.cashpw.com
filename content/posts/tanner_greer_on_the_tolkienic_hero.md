@@ -2,7 +2,7 @@
 title = "Tanner Greer | On The Tolkienic Hero"
 author = ["Cash Weaver"]
 date = 2023-01-11T19:32:00-08:00
-lastmod = 2023-12-23T18:47:57-08:00
+lastmod = 2024-02-24T18:24:06-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -34,8 +34,6 @@ slug = "b382d13b-7da2-475a-93e4-a02c03558342"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Greer, Tanner. 2019. “On The Tolkienic Hero.” <i>The Scholar’s Stage</i>. <a href="https://scholars-stage.org/on-the-tolkienic-hero/">https://scholars-stage.org/on-the-tolkienic-hero/</a>.</div>

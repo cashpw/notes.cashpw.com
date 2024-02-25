@@ -2,7 +2,7 @@
 title = "Polarity"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-16T19:29:00-07:00
-lastmod = 2023-12-23T15:53:11-08:00
+lastmod = 2024-02-24T18:08:34-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -39,8 +39,6 @@ slug = "621bc458-5d22-462d-89df-e3f8e13d6dc4"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Polarity (International Relations).” 2022. <i>Wikipedia</i>, June. <a href="https://en.wikipedia.org/w/index.php?title=Polarity_(international_relations)&oldid=1094117834">https://en.wikipedia.org/w/index.php?title=Polarity_(international_relations)&#38;oldid=1094117834</a>.</div>

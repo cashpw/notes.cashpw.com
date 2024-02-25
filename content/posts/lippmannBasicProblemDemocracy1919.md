@@ -2,7 +2,7 @@
 title = "Walter Lippmann | The Basic Problem of Democracy"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T07:13:00-08:00
-lastmod = 2023-12-23T14:07:48-08:00
+lastmod = 2024-02-24T17:52:06-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -28,8 +28,6 @@ I expect one could find gold in this essay but I think I will instead read, as [
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Lippmann, Walter. 1919. “The Basic Problem of Democracy.” <i>The Atlantic</i>. <a href="https://www.theatlantic.com/magazine/archive/1919/11/the-basic-problem-of-democracy/569095/">https://www.theatlantic.com/magazine/archive/1919/11/the-basic-problem-of-democracy/569095/</a>.</div>

@@ -2,7 +2,7 @@
 title = "Growth mindset"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-20T15:27:00-07:00
-lastmod = 2023-12-23T12:28:22-08:00
+lastmod = 2024-02-24T14:21:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,12 +24,9 @@ slug = "c19c4cf1-9304-46b7-9441-8fed0ed17a57"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Mindset.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Mindset&oldid=1114760560#Fixed_and_growth_mindset">https://en.wikipedia.org/w/index.php?title=Mindset&#38;oldid=1114760560#Fixed_and_growth_mindset</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

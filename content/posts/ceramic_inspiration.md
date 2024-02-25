@@ -2,9 +2,9 @@
 title = "Ceramic inspiration"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-13T06:40:00-08:00
-lastmod = 2023-12-23T10:55:43-08:00
-tags = ["concept", "concept"]
-categories = ["concept"]
+lastmod = 2024-02-24T11:51:47-08:00
+tags = ["hastodo", "concept", "hastodo", "concept"]
+categories = ["hastodo", "concept"]
 draft = false
 slug = "6c839f6a-f3df-4ad5-aa6f-0eeb5766ddaf"
 +++
@@ -48,7 +48,7 @@ slug = "6c839f6a-f3df-4ad5-aa6f-0eeb5766ddaf"
 
 {{< figure src="/ox-hugo/2023-12-13_08-37-41_v898jni0ufda1.jpg.jpeg" attr="Rushsculpture" attrlink="www.reddit.com/r/somethingimade/comments/10hqzp1/lately_i_have_been_working_on_a_new_set_of_pots/" >}}
 
-{{< figure src="/ox-hugo/my-favorite-piece-so-far.png" >}}
+{{< figure src="/ox-hugo/my-favorite-piece-so-far.png" attr="Norizan" attrlink="www.reddit.com/r/Pottery/comments/152m6ur/my_favorite_piece_so_far/" >}}
 
 {{< figure src="/ox-hugo/2023-12-14_06-02-56_0ky9ubopmn3a1.jpg.jpeg" attr="soulramics" attrlink="www.reddit.com/r/Ceramics/comments/zb7wpo/been_a_while_since_making_a_piece_happy_to_be/" >}}
 
@@ -75,11 +75,8 @@ slug = "6c839f6a-f3df-4ad5-aa6f-0eeb5766ddaf"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

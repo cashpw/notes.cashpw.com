@@ -2,7 +2,7 @@
 title = "Man's Inability to Sit Quietly in a Room Alone"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-13T17:14:00-07:00
-lastmod = 2023-12-23T14:16:11-08:00
+lastmod = 2024-02-24T17:53:03-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -15,8 +15,6 @@ slug = "68e208ad-a4d6-403e-aae3-2ef207499d99"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

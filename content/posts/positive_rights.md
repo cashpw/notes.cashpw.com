@@ -2,7 +2,7 @@
 title = "Positive rights"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T09:49:00-07:00
-lastmod = 2023-12-23T15:55:25-08:00
+lastmod = 2024-02-24T18:09:01-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,12 +24,9 @@ Also see [Negative rights]({{< relref "negative_rights.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Negative and Positive Rights.” 2022. <i>Wikipedia</i>, July. <a href="https://en.wikipedia.org/w/index.php?title=Negative_and_positive_rights&oldid=1098829849">https://en.wikipedia.org/w/index.php?title=Negative_and_positive_rights&#38;oldid=1098829849</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

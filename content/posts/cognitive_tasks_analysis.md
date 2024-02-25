@@ -2,7 +2,7 @@
 title = "Cognitive task analysis"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-30T16:40:00-07:00
-lastmod = 2023-12-23T11:02:48-08:00
+lastmod = 2024-02-24T11:54:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,7 +11,7 @@ slug = "bd9daffc-f556-4bdc-975e-e35c3c98ebee"
 
 > Cognitive task analysis is [[Task analysis]({{< relref "task_analysis.md" >}})] applied to modern work environments such as supervisory control where little physical work occurs, but the tasks are more related to situation assessment, decision making, and response planning and execution.
 >
-> (<a href="#citeproc_bib_item_1">“Task Analysis” 2023</a>)
+> (<a href="#citeproc_bib_item_2">“Task Analysis” 2023</a>)
 
 <!--quoteend-->
 
@@ -24,20 +24,17 @@ slug = "bd9daffc-f556-4bdc-975e-e35c3c98ebee"
 > -   Information requirements for command and control systems
 > -   Troubleshooting, fault isolation, and diagnostic procedures
 >
-> (NO_ITEM_DATA:CognitiveTaskAnalysisUsabilityBodyKnowledge)
+> (<a href="#citeproc_bib_item_1">“Cognitive Task Analysis Usability Body of Knowledge” n.d.</a>)
 
 Also see [Applied cognitive task analysis]({{< relref "applied_cognitive_task_analysis.md" >}}).
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Task Analysis.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Task_analysis&oldid=1142832277">https://en.wikipedia.org/w/index.php?title=Task_analysis&#38;oldid=1142832277</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:CognitiveTaskAnalysisUsabilityBodyKnowledge</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Cognitive Task Analysis Usability Body of Knowledge.” n.d. Accessed August 5, 2023. <a href="https://www.usabilitybok.org/cognitive-task-analysis">https://www.usabilitybok.org/cognitive-task-analysis</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“Task Analysis.” 2023. <i>Wikipedia</i>, March. <a href="https://en.wikipedia.org/w/index.php?title=Task_analysis&oldid=1142832277">https://en.wikipedia.org/w/index.php?title=Task_analysis&#38;oldid=1142832277</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Topological order"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T07:31:00-08:00
-lastmod = 2023-12-23T19:58:09-08:00
+lastmod = 2024-02-24T18:29:46-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -52,12 +52,9 @@ One can use a topological ordering to reduce the time complexity of the [Single-
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Topological Sorting.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Topological_sorting&oldid=1123299686">https://en.wikipedia.org/w/index.php?title=Topological_sorting&#38;oldid=1123299686</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

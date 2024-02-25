@@ -2,7 +2,7 @@
 title = "SMART criteria"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:59:00-08:00
-lastmod = 2023-12-23T10:32:21-08:00
+lastmod = 2024-02-24T11:41:00-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -22,12 +22,9 @@ SMART goals are:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“SMART Criteria.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=SMART_criteria&oldid=1067426737">https://en.wikipedia.org/w/index.php?title=SMART_criteria&#38;oldid=1067426737</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Ultimatum game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-30T14:51:00-07:00
-lastmod = 2023-12-23T20:23:33-08:00
+lastmod = 2024-02-24T18:36:59-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "d88f63c9-296b-4b0c-9757-00cc1e891e16"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Ultimatum Game.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Ultimatum_game&oldid=1101687322">https://en.wikipedia.org/w/index.php?title=Ultimatum_game&#38;oldid=1101687322</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

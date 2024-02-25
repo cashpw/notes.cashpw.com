@@ -2,7 +2,7 @@
 title = "Ian Danskin | The Cost of Doing Business"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-26T19:06:00-07:00
-lastmod = 2023-12-23T11:20:25-08:00
+lastmod = 2024-02-24T13:50:32-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -80,8 +80,6 @@ See [Realpolitik]({{< relref "real_politic.md" >}}), [Power politics]({{< relref
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Danskin, Ian. 2022. “The Cost of Doing Business.” Tumblr. <i>Tumblr</i>. <a href="https://innuendostudios.tumblr.com/post/696475064150999040/the-first-new-alt-right-playbook-since-just-after">https://innuendostudios.tumblr.com/post/696475064150999040/the-first-new-alt-right-playbook-since-just-after</a>.</div>

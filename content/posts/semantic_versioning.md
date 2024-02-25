@@ -2,7 +2,7 @@
 title = "Semantic versioning"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-29T06:42:00-07:00
-lastmod = 2023-12-23T17:22:31-08:00
+lastmod = 2024-02-24T18:19:19-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -22,12 +22,9 @@ slug = "54aeab12-48bb-4624-a110-e0a5d50087f4"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Preston-Werner, Tom. n.d. “Semantic Versioning 2.0.0.” <i>Semantic Versioning</i>. Accessed August 29, 2023. <a href="https://semver.org/">https://semver.org/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

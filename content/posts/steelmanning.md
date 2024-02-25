@@ -2,7 +2,7 @@
 title = "Steelmanning"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-10T11:17:00-08:00
-lastmod = 2023-12-23T18:20:43-08:00
+lastmod = 2024-02-24T18:22:14-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -27,8 +27,6 @@ However, not all steel men are created equally:
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>blakestaceyprime. 2022. “If I Were an Ungener.” Reddit Comment. <i>R/Sneerclub</i>. <a href="www.reddit.com/r/SneerClub/comments/t9kye6/scott_applying_the_principle_of_charity/i00gybv/">www.reddit.com/r/SneerClub/comments/t9kye6/scott_applying_the_principle_of_charity/i00gybv/</a>.</div>

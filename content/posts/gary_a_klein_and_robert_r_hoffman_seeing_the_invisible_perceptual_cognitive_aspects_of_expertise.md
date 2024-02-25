@@ -2,7 +2,7 @@
 title = "Gary A. Klein and Robert R. Hoffman | Seeing the Invisible: Perceptual-cognitive Aspects of Expertise"
 author = ["Cash Weaver"]
 date = 2023-09-22T08:16:00-07:00
-lastmod = 2023-12-23T12:11:31-08:00
+lastmod = 2024-02-24T14:20:16-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -25,12 +25,9 @@ slug = "4eec9434-56e8-4b63-80fc-8bb9150fc6be"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Klein, Gary A., and Robert R. Hoffman. 2020. “Seeing the Invisible: Perceptual-cognitive Aspects of Expertise.” In <i>Cognitive Science Foundations of Instruction</i>, 203–26. Routledge.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

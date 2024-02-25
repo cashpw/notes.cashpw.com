@@ -2,7 +2,7 @@
 title = "B-tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-23T16:55:00-07:00
-lastmod = 2023-12-23T10:38:33-08:00
+lastmod = 2024-02-24T11:44:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -92,15 +92,12 @@ Worst case: \\(\bigo{\log n}\\)
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“B-Tree.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=B-tree&oldid=1106759183">https://en.wikipedia.org/w/index.php?title=B-tree&#38;oldid=1106759183</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>“B-Trees.” n.d. Accessed September 22, 2022. <a href="https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html">https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>“Insertion into a B-tree.” n.d. Accessed September 22, 2022. <a href="https://www.programiz.com/dsa/insertion-into-a-b-tree">https://www.programiz.com/dsa/insertion-into-a-b-tree</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Programiz. n.d. “B-Tree.” Accessed September 22, 2022. <a href="https://www.programiz.com/dsa/b-tree">https://www.programiz.com/dsa/b-tree</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

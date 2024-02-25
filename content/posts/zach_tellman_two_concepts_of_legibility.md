@@ -2,7 +2,7 @@
 title = "Zach Tellman | Two Concepts of Legibility"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T18:23:00-08:00
-lastmod = 2023-12-23T21:25:47-08:00
+lastmod = 2024-02-24T18:38:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -61,8 +61,6 @@ This dichotomy reminds me of [Unix philosophy]({{< relref "unix_philosophy.md" >
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Tellman, Zach. n.d. “Two Concepts of Legibility.” Accessed November 11, 2022. <a href="https://ideolalia.com/essays/two-concepts-of-legibility.html">https://ideolalia.com/essays/two-concepts-of-legibility.html</a>.</div>

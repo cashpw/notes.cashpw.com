@@ -2,7 +2,7 @@
 title = "Crossroads | Balsamic reduction"
 author = ["Cash Prokop-Weaver"]
 date = 2023-12-14T17:39:00-08:00
-lastmod = 2023-12-23T10:38:43-08:00
+lastmod = 2024-02-24T11:44:38-08:00
 tags = ["recipe", "recipe"]
 categories = ["recipe"]
 draft = false
@@ -41,8 +41,6 @@ A recipe from [Tal Ronnen and Scot Jones and Serafina Magnussen and JoAnn Cianci
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ronnen, Tal, Scot Jones, Serafina Magnussen, and JoAnn Cianciulli. 2015. <i>Crossroads</i>. New York: Artisan.</div>

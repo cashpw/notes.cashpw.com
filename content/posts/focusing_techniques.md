@@ -2,7 +2,7 @@
 title = "Focusing techniques"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T07:08:00-08:00
-lastmod = 2023-12-23T12:02:50-08:00
+lastmod = 2024-02-24T14:19:43-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,11 +21,8 @@ Focusing techniques bridge the gap between a desired state of mind and your pres
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

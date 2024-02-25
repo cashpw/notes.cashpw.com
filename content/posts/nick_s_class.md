@@ -2,7 +2,7 @@
 title = "Nick's class"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-30T09:33:00-08:00
-lastmod = 2023-12-23T15:06:54-08:00
+lastmod = 2024-02-24T17:59:18-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,8 +17,6 @@ slug = "1a499a31-7ecb-4f80-95a5-22d748a0c634"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“NC (Complexity).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=NC_(complexity)&oldid=1119208413">https://en.wikipedia.org/w/index.php?title=NC_(complexity)&#38;oldid=1119208413</a>.</div>

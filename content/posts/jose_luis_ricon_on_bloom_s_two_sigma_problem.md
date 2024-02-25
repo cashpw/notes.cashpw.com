@@ -2,14 +2,14 @@
 title = "Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction"
 author = ["Cash Weaver"]
 date = 2023-01-11T10:07:00-08:00
-lastmod = 2023-12-23T13:25:40-08:00
+lastmod = 2024-02-24T17:48:27-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "05f362b2-ab02-4cfb-9185-aae4e1c9e235"
 +++
 
-[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (NO_ITEM_DATA:riconBloomTwoSigmaProblemSystematicReviewEffectivenessMasteryLearningTutoring2019)
+[Jose Luis Ricon]({{< relref "jose_luis_ricon.md" >}}), (<a href="#citeproc_bib_item_1">Ricon 2019</a>)
 
 
 ## Thoughts {#thoughts}
@@ -74,12 +74,9 @@ I suppose I should have expected that with a title that includes "systematic rev
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:riconBloomTwoSigmaProblemSystematicReviewEffectivenessMasteryLearningTutoring2019</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ricon, Jose Luis. 2019. “On Bloom’s Two Sigma Problem: A Systematic Review of the Effectiveness of Mastery Learning, Tutoring, and Direct Instruction.” <i>Nintil</i>, July. <a href="https://nintil.com/bloom-sigma">https://nintil.com/bloom-sigma</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

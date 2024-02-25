@@ -2,7 +2,7 @@
 title = "2sum linear time solution in Python"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-07T16:13:00-08:00
-lastmod = 2023-12-23T10:31:28-08:00
+lastmod = 2024-02-24T11:40:38-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -35,11 +35,8 @@ print(two_sum([2,4,5], 2), 'should be None')
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

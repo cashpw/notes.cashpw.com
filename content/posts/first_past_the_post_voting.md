@@ -2,7 +2,7 @@
 title = "First-past-the-post voting"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-13T10:10:00-08:00
-lastmod = 2023-12-23T11:59:57-08:00
+lastmod = 2024-02-24T14:19:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "5842347b-87fb-4454-a1f9-e92c46a92a6d"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“First-Past-the-Post Voting.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=First-past-the-post_voting&oldid=1132768501">https://en.wikipedia.org/w/index.php?title=First-past-the-post_voting&#38;oldid=1132768501</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

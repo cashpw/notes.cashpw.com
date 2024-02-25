@@ -2,7 +2,7 @@
 title = "Learn math"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-12T20:42:00-07:00
-lastmod = 2023-12-23T13:53:48-08:00
+lastmod = 2024-02-24T17:50:47-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -18,14 +18,12 @@ List math learning resources. Perhaps generalize this into a series of "How to l
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Math Academy.” n.d. Accessed July 13, 2023. <a href="https://mathacademy.com/">https://mathacademy.com/</a>.</div>
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
+-   [How to become an expert]({{< relref "how_to_become_an_expert.md" >}})
 -   [On parenting]({{< relref "on_parenting.md" >}})

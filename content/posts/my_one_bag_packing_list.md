@@ -2,7 +2,7 @@
 title = "My one-bag packing list"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-20T08:21:00-07:00
-lastmod = 2023-12-23T14:55:28-08:00
+lastmod = 2024-02-24T17:57:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -19,7 +19,7 @@ This is my current [One-bag travel]({{< relref "one_bag_travel.md" >}}) packing 
 
 2.  Prefer solids to liquids
 
-    The USA's Transportation Security Administration (TSA) requires that "[e]ach passenger may carry liquids, gels and aerosols in travel-size containers that are 3.4 ounces or 100 milliliters. Each passenger is limited to one quart-size bag of liquids, gels and aerosols" (NO_ITEM_DATA:transportationsecurityadministrationWhat311LiquidsRule).
+    The USA's Transportation Security Administration (TSA) requires that "[e]ach passenger may carry liquids, gels and aerosols in travel-size containers that are 3.4 ounces or 100 milliliters. Each passenger is limited to one quart-size bag of liquids, gels and aerosols" (<a href="#citeproc_bib_item_2">Transportation Security Administration n.d.</a>).
 
     Example: Bar soap rather than liquid soap
 
@@ -36,7 +36,7 @@ This is my current [One-bag travel]({{< relref "one_bag_travel.md" >}}) packing 
 I pack with the expectation that I'll do laundry every 5 days and will wear things more than once before washing them (except underwear). This allows me to pack less clothing and overall keep weight down.
 
 -   Tops
-    -   2x [wool button-down shirts]({{< relref "wool_and_prince_210gsm_button_down_shirt.md" >}})
+    -   2x wool button-down shirts
     -   2x t-shirt
     -   1x jacket/windbreaker
 -   Bottoms
@@ -152,13 +152,10 @@ See [Semantic versioning]({{< relref "semantic_versioning.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Maluf, Jeremy. n.d. “Indefinite Backpack Travel.” Accessed August 14, 2023. <a href="https://jeremymaluf.com/onebag/">https://jeremymaluf.com/onebag/</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:transportationsecurityadministrationWhat311LiquidsRule</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Transportation Security Administration. n.d. “What Is the 3-1-1 Liquids Rule?” Accessed August 20, 2023. <a href="https://www.tsa.gov/travel/frequently-asked-questions/what-3-1-1-liquids-rule">https://www.tsa.gov/travel/frequently-asked-questions/what-3-1-1-liquids-rule</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

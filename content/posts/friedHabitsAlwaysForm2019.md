@@ -2,7 +2,7 @@
 title = "Jason Fried | Habits Always Form"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T17:53:00-08:00
-lastmod = 2023-12-23T12:06:17-08:00
+lastmod = 2024-02-24T14:19:56-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -22,12 +22,9 @@ Similar: [Life is the sum of all your choices]({{< relref "life_is_the_sum_of_al
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Fried, Jason. 2019. “Habits Always Form.” <i>Signal V. Noise</i>. <a href="https://m.signalvnoise.com/habits-always-form/">https://m.signalvnoise.com/habits-always-form/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

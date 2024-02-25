@@ -2,7 +2,7 @@
 title = "To begin your study of the life of Muad'Dib"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-26T08:39:00-07:00
-lastmod = 2023-12-23T19:47:30-08:00
+lastmod = 2024-02-24T18:28:50-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -16,12 +16,9 @@ slug = "dcc436a0-983e-453a-b8db-99fb1576d190"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

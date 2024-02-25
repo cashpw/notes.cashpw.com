@@ -2,7 +2,7 @@
 title = "Solve the problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T16:37:00-08:00
-lastmod = 2023-12-23T17:55:39-08:00
+lastmod = 2024-02-24T18:20:49-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -13,12 +13,12 @@ slug = "b00a62dd-b06c-4943-81d7-140b11e15c8b"
 
 See:
 
--   (NO_ITEM_DATA:tabacuYouReNotWritingCodeYouReSolvingProblems2020)
--   (NO_ITEM_DATA:navarroDonJustWriteCodeSolveProblems2021)
+-   (<a href="#citeproc_bib_item_3">Tabacu 2020</a>)
+-   (<a href="#citeproc_bib_item_1">Navarro 2021</a>)
 
 > Remember that your goal is to solve the problem, not necessarily to write code to solve it. Take the time to understand what already exists—inside and outside your organization—before building something new.
 >
-> (NO_ITEM_DATA:reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022)
+> (<a href="#citeproc_bib_item_2">Reilly 2022</a>)
 
 [Stages of problem solving]({{< relref "stages_of_problem_solving.md" >}})
 
@@ -27,14 +27,11 @@ The goal isn't to [Metagame]({{< relref "the_metagame.md" >}}) the problem (i.e.
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:tabacuYouReNotWritingCodeYouReSolvingProblems2020</div>
-  <div class="csl-entry">NO_ITEM_DATA:navarroDonJustWriteCodeSolveProblems2021</div>
-  <div class="csl-entry">NO_ITEM_DATA:reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Navarro, Douglas. 2021. “Don’t Just Write Code, Solve Problems.” <i>Medium</i>. <a href="https://betterprogramming.pub/dont-just-write-code-solve-problems-b5c4ed3f9d0d">https://betterprogramming.pub/dont-just-write-code-solve-problems-b5c4ed3f9d0d</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Reilly, Tanya. 2022. <i>The Staff Engineer’s Path: A Guide for Individual Contributors Navigating Growth and Change</i>. Sebastopol, CA: O’Reilly Media.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Tabacu, Raul. 2020. “You’re Not Writing Code, You’re Solving Problems.” <i>Lanraccoon</i>. <a href="https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems/">https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

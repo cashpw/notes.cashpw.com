@@ -2,7 +2,7 @@
 title = "Scott Alexander"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:44:00-08:00
-lastmod = 2023-12-23T17:08:16-08:00
+lastmod = 2024-02-24T18:18:51-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -37,11 +37,8 @@ That said, I want to emphasize both that (1) my enjoyment of _some_ of their wor
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

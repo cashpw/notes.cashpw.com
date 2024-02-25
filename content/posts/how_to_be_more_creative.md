@@ -2,14 +2,14 @@
 title = "Creativity is a product of volume"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-24T11:27:00-07:00
-lastmod = 2023-12-23T12:43:01-08:00
+lastmod = 2024-02-24T14:22:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
 slug = "3619f0c9-baa8-44da-8667-c13b7dc3e3bd"
 +++
 
-1.  Write a &lt;large number&gt; of ideas down without regard to quality. "Here's the magic trick: if you can't come up with ten ideas, come up with 20 ideas." (NO_ITEM_DATA:altucherUltimateGuideBecomingIdeaMachine2014)
+1.  Write a &lt;large number&gt; of ideas down without regard to quality. "Here's the magic trick: if you can't come up with ten ideas, come up with 20 ideas." (<a href="#citeproc_bib_item_1">Altucher 2014</a>)
 2.  Pick the good ones
 3.  If there are no good ideas, go to step 1
 
@@ -27,12 +27,9 @@ Similar ideas:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:altucherUltimateGuideBecomingIdeaMachine2014</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Altucher, James. 2014. “The Ultimate Guide for Becoming an Idea Machine.” <i>James Altucher</i>. <a href="https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/">https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

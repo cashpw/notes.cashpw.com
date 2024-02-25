@@ -2,7 +2,7 @@
 title = "Big-Theta notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:10:00-07:00
-lastmod = 2023-12-23T10:40:58-08:00
+lastmod = 2024-02-24T11:45:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,11 +16,8 @@ Big Theta notation, written as \\(\bigtheta{g(n)}\\), indicates \\(f\\) is bound
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

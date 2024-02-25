@@ -2,7 +2,7 @@
 title = "Greenware"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-23T08:50:00-07:00
-lastmod = 2023-12-23T12:26:19-08:00
+lastmod = 2024-02-24T14:21:19-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,12 +23,9 @@ Greenware is clay before it's undergone [Bisque firing]({{< relref "bisque_firin
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pottery.” 2022. <i>Wikipedia</i>, August. <a href="https://en.wikipedia.org/w/index.php?title=Pottery&oldid=1105629728">https://en.wikipedia.org/w/index.php?title=Pottery&#38;oldid=1105629728</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

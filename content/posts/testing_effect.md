@@ -2,7 +2,7 @@
 title = "Testing effect"
 author = ["Cash Prokop-Weaver"]
 date = 2021-12-31T11:36:00-08:00
-lastmod = 2023-12-23T19:04:07-08:00
+lastmod = 2024-02-24T18:25:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ Retrieving a piece of information from memory will increase ones ability to reca
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Testing Effect.” 2022. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Testing_effect&oldid=1065560996">https://en.wikipedia.org/w/index.php?title=Testing_effect&#38;oldid=1065560996</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

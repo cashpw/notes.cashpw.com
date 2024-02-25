@@ -2,7 +2,7 @@
 title = "Leibniz's notation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:41:00-08:00
-lastmod = 2023-12-23T13:58:04-08:00
+lastmod = 2024-02-24T17:51:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,12 +24,9 @@ slug = "80c7fef7-aa9e-439f-a02f-be3edb85d8f5"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Leibniz’s Notation.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Leibniz%27s_notation&oldid=1127913620">https://en.wikipedia.org/w/index.php?title=Leibniz%27s_notation&#38;oldid=1127913620</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

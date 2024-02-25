@@ -2,14 +2,14 @@
 title = "Matthew D. Weaver et al. | Adverse Impact of Polyphasic Sleep Patterns in Humans"
 author = ["Cash Weaver"]
 date = 2022-11-22T09:21:00-08:00
-lastmod = 2023-12-23T14:27:22-08:00
+lastmod = 2024-02-24T17:54:09-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "018f9541-56d8-4091-8ac8-a8ebf61060d9"
 +++
 
-(NO_ITEM_DATA:weaverAdverseImpactPolyphasicSleepPatternsHumansReportNationalSleepFoundation2021)
+(<a href="#citeproc_bib_item_1">Weaver et al. 2021</a>)
 
 
 ## Summary {#summary}
@@ -32,8 +32,6 @@ Their findings align with [my experience]({{< relref "polyphasic_sleep_40_day_tr
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:weaverAdverseImpactPolyphasicSleepPatternsHumansReportNationalSleepFoundation2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Weaver, Matthew D., Tracey L. Sletten, Russell G. Foster, David Gozal, Elizabeth B. Klerman, Shantha M. W. Rajaratnam, Till Roenneberg, et al. 2021. “Adverse Impact of Polyphasic Sleep Patterns in Humans: Report of the National Sleep Foundation Sleep Timing and Variability Consensus Panel.” <i>Sleep Health</i> 7 (3): 293–302. <a href="https://doi.org/10.1016/j.sleh.2021.02.009">https://doi.org/10.1016/j.sleh.2021.02.009</a>.</div>
 </div>

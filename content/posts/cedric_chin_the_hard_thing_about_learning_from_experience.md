@@ -2,14 +2,14 @@
 title = "Cedric Chin | The Hard Thing About Learning From Experience"
 author = ["Cash Weaver"]
 date = 2023-09-11T08:42:00-07:00
-lastmod = 2023-12-23T10:52:10-08:00
+lastmod = 2024-02-24T11:50:36-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "6e21d350-e098-4a80-a6bf-ccc86c254f28"
 +++
 
-[Cedric Chin]({{< relref "cedric_chin.md" >}}), (NO_ITEM_DATA:chinHardThingLearningExperience2021)
+[Cedric Chin]({{< relref "cedric_chin.md" >}}), (<a href="#citeproc_bib_item_1">Chin 2021</a>)
 
 
 ## Summary {#summary}
@@ -44,12 +44,9 @@ An example of a blog post which _isn't_ [atomic]({{< relref "andy_matuschak_ever
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinHardThingLearningExperience2021</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2021. “The Hard Thing About Learning From Experience.” <i>Commoncog</i>. <a href="https://commoncog.com/the-hard-thing-about-learning-from-experience/">https://commoncog.com/the-hard-thing-about-learning-from-experience/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

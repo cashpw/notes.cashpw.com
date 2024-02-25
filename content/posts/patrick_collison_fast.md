@@ -2,7 +2,7 @@
 title = "Patrick Collison | Fast"
 author = ["Cash Weaver"]
 date = 2023-10-26T20:05:00-07:00
-lastmod = 2023-12-23T15:35:30-08:00
+lastmod = 2024-02-24T18:05:04-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -56,8 +56,6 @@ slug = "266aa1b4-37b0-4775-b13f-b3be4849e425"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Collison, Patrick. n.d. “Fast.” Accessed October 27, 2023. <a href="https://patrickcollison.com/fast">https://patrickcollison.com/fast</a>.</div>

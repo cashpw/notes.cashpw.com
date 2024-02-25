@@ -2,14 +2,14 @@
 title = "Albert Camus, Justin O'Brien | The Myth of Sisyphus and Other Essays"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-21T12:32:00-07:00
-lastmod = 2023-12-23T10:47:13-08:00
+lastmod = 2024-02-24T11:48:55-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "3da13885-53dc-4068-945c-c14201e1177e"
 +++
 
-[Albert Camus]({{< relref "albert_camus.md" >}}), (NO_ITEM_DATA:camusMythSisyphusOtherEssays1991)
+[Albert Camus]({{< relref "albert_camus.md" >}}), (<a href="#citeproc_bib_item_1">Camus and O’Brien 1991</a>)
 
 
 ## Summary {#summary}
@@ -25,8 +25,6 @@ slug = "3da13885-53dc-4068-945c-c14201e1177e"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:camusMythSisyphusOtherEssays1991</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Camus, Albert, and Justin O’Brien. 1991. <i>The Myth of Sisyphus and Other Essays</i>. New York: Vintage Books. <a href="http://banq.lib.overdrive.com/ContentDetails.htm?id=83022612-B2C3-4305-BDB3-21C18D2A1763">http://banq.lib.overdrive.com/ContentDetails.htm?id=83022612-B2C3-4305-BDB3-21C18D2A1763</a>.</div>
 </div>

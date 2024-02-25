@@ -2,14 +2,14 @@
 title = "ExRx | Bench Press Strength Standards (Ages 18-39, Lb)"
 author = ["Cash Weaver"]
 date = 2023-07-06T10:57:00-07:00
-lastmod = 2023-12-23T11:50:50-08:00
+lastmod = 2024-02-24T14:19:05-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "3a833b69-8ad4-4d09-b115-059bf30f5569"
 +++
 
-[ExRx]({{< relref "exrx.md" >}}), (NO_ITEM_DATA:exrxBenchPressStrengthStandardsAges1839Lb)
+[ExRx]({{< relref "exrx.md" >}}), (<a href="#citeproc_bib_item_1">ExRx n.d.</a>)
 
 
 ## Notes {#notes}
@@ -55,12 +55,9 @@ Numbers are in pounds.
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:exrxBenchPressStrengthStandardsAges1839Lb</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>ExRx. n.d. “Bench Press Strength Standards (Ages 18-39, Lb).” Accessed July 6, 2023. <a href="https://exrx.net/Testing/WeightLifting/BenchStandards">https://exrx.net/Testing/WeightLifting/BenchStandards</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,14 +2,14 @@
 title = "Brandon Smith | Write Code. Not Too Much. Mostly Functions."
 author = ["Cash Weaver"]
 date = 2022-11-16T14:45:00-08:00
-lastmod = 2023-12-23T10:44:07-08:00
+lastmod = 2024-02-24T11:47:37-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "163d0358-3196-4842-94ce-ffb2c22465be"
 +++
 
-[Brandon Smith]({{< relref "brandon_smith.md" >}}), (NO_ITEM_DATA:smithWriteCodeNotTooMuchMostlyFunctions)
+[Brandon Smith]({{< relref "brandon_smith.md" >}}), (<a href="#citeproc_bib_item_1">Smith n.d.</a>)
 
 
 ## Summary {#summary}
@@ -57,12 +57,9 @@ I think this [Pareto principle]({{< relref "pareto_principle.md" >}})-like frami
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:smithWriteCodeNotTooMuchMostlyFunctions</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Smith, Brandon. n.d. “Write Code. Not Too Much. Mostly Functions.” Accessed March 15, 2022. <a href="https://www.brandons.me/blog/write-code-not-too-much-mostly-functions">https://www.brandons.me/blog/write-code-not-too-much-mostly-functions</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

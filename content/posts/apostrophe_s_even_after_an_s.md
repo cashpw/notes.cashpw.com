@@ -2,7 +2,7 @@
 title = "Apostrophe-s even after an s"
 author = ["Cash Prokop-Weaver"]
 date = 2022-04-01T18:49:00-07:00
-lastmod = 2023-12-23T10:37:03-08:00
+lastmod = 2024-02-24T11:43:41-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -13,8 +13,6 @@ Prefer "Chris's car" to "Chris' car" to show posession.
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

@@ -2,14 +2,14 @@
 title = "Tanya Reilly | The Staff Engineer's Path"
 author = ["Cash Weaver"]
 date = 2023-03-18T13:26:00-07:00
-lastmod = 2023-12-23T18:53:38-08:00
+lastmod = 2024-02-24T18:24:28-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "bc1937f1-31ce-41cc-ba0b-dedaac9334b5"
 +++
 
-[Tanya Reilly]({{< relref "tanya_reilly.md" >}}), (NO_ITEM_DATA:reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022)
+[Tanya Reilly]({{< relref "tanya_reilly.md" >}}), (<a href="#citeproc_bib_item_3">Reilly 2022</a>)
 
 
 ## Read next section: [Topographical map (Staff Engineer's Path)]({{< relref "topographical_map_staff_engineer_s_path.md" >}}) {#read-next-section-topographical-map--staff-engineer-s-path----topographical-map-staff-engineer-s-path-dot-md}
@@ -376,7 +376,7 @@ See [Locator map (Staff Engineer's Path)]({{< relref "locator_map_staff_engineer
 
 <!--list-separator-->
 
--  Read (NO_ITEM_DATA:larsonDrawingYourThreeMapsExercise2022)
+-  Read (<a href="#citeproc_bib_item_1">Larson 2022</a>)
 
 <!--list-separator-->
 
@@ -388,7 +388,7 @@ See [Locator map (Staff Engineer's Path)]({{< relref "locator_map_staff_engineer
 
         <!--list-separator-->
 
-        -  Read (<a href="#citeproc_bib_item_1">Na n.d.</a>)
+        -  Read (<a href="#citeproc_bib_item_2">Na n.d.</a>)
 
     <!--list-separator-->
 
@@ -2160,20 +2160,17 @@ See [James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]({{< rel
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Na, Dan. n.d. “Pushing Through Friction.” Accessed June 6, 2023. <a href="https://blog.danielna.com/talks/pushing-through-friction/">https://blog.danielna.com/talks/pushing-through-friction/</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022</div>
-  <div class="csl-entry">NO_ITEM_DATA:larsonDrawingYourThreeMapsExercise2022</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Larson, Will. 2022. “’Drawing Your Three Maps’ Exercise.” <a href="https://lethain.com/exercise-draw-three-maps/">https://lethain.com/exercise-draw-three-maps/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Na, Dan. n.d. “Pushing Through Friction.” Accessed June 6, 2023. <a href="https://blog.danielna.com/talks/pushing-through-friction/">https://blog.danielna.com/talks/pushing-through-friction/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Reilly, Tanya. 2022. <i>The Staff Engineer’s Path: A Guide for Individual Contributors Navigating Growth and Change</i>. Sebastopol, CA: O’Reilly Media.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
 
 -   [Locator map (Staff Engineer's Path)]({{< relref "locator_map_staff_engineer_s_path.md" >}})
 -   [My one-bag packing list]({{< relref "my_one_bag_packing_list.md" >}})
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [On lead/senior, and staff, engineering]({{< relref "skills_of_a_senior_software_engineer.md" >}})
 -   [Tanya Reilly]({{< relref "tanya_reilly.md" >}})
 -   [Will Larson | 'Drawing Your Three Maps' Exercise]({{< relref "will_larson_drawing_your_three_maps_exercise.md" >}})

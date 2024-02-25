@@ -2,7 +2,7 @@
 title = "Be what they expect you to be"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-10T17:02:00-08:00
-lastmod = 2023-12-23T10:39:36-08:00
+lastmod = 2024-02-24T11:45:07-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -34,11 +34,8 @@ Related:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

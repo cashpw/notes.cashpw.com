@@ -2,7 +2,7 @@
 title = "Sequential game"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-28T07:47:00-07:00
-lastmod = 2023-12-23T17:24:48-08:00
+lastmod = 2024-02-24T18:19:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,12 +23,9 @@ Contrast with a [Simultaneous game]({{< relref "simultaneous_game.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Sequential Game.” 2021. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Sequential_game&oldid=1061444610">https://en.wikipedia.org/w/index.php?title=Sequential_game&#38;oldid=1061444610</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

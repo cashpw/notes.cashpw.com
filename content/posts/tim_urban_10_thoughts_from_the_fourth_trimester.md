@@ -2,7 +2,7 @@
 title = "Tim Urban | 10 Thoughts From the Fourth Trimester"
 author = ["Cash Weaver"]
 date = 2023-11-08T10:59:00-08:00
-lastmod = 2023-12-23T19:42:12-08:00
+lastmod = 2024-02-24T18:28:18-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -80,8 +80,6 @@ slug = "477e372c-1cfc-4a8b-a567-0c19df989417"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>jitney86. 2017. “Months 3 to 17 of My Baby’s Sleep and Breastfeeding Schedule [OC] (Data Collected Manually and Visualized in Excel).” Reddit Post. <i>R/Dataisbeautiful</i>. <a href="www.reddit.com/r/dataisbeautiful/comments/6s0ba9/months_3_to_17_of_my_babys_sleep_and/">www.reddit.com/r/dataisbeautiful/comments/6s0ba9/months_3_to_17_of_my_babys_sleep_and/</a>.</div>

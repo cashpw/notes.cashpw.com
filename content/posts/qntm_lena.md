@@ -2,7 +2,7 @@
 title = "qntm | Lena"
 author = ["Cash Weaver"]
 date = 2023-03-02T18:58:00-08:00
-lastmod = 2023-12-23T16:20:40-08:00
+lastmod = 2024-02-24T18:13:55-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -97,8 +97,6 @@ Fictional descriptive entry about the first widely-used [Mind upload]({{< relref
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>qntm. n.d. “Lena.” Accessed March 3, 2023. <a href="https://qntm.org/mmacevedo">https://qntm.org/mmacevedo</a>.</div>

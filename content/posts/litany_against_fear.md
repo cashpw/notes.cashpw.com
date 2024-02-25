@@ -2,7 +2,7 @@
 title = "Litany against fear"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:03:00-08:00
-lastmod = 2023-12-23T14:08:46-08:00
+lastmod = 2024-02-24T17:52:14-08:00
 tags = ["poem", "poem"]
 categories = ["poem"]
 draft = false
@@ -27,12 +27,9 @@ Bene Gesserit, (<a href="#citeproc_bib_item_1">Herbert 1999</a>)
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

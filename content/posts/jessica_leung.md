@@ -2,7 +2,7 @@
 title = "Jessica Leung"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-24T09:34:00-08:00
-lastmod = 2023-12-23T13:19:05-08:00
+lastmod = 2024-02-24T17:48:03-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -11,11 +11,8 @@ slug = "7229c3b7-41df-4122-88ab-0a808cc272af"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

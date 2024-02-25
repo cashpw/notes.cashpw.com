@@ -2,7 +2,7 @@
 title = "Bjarne Stroustrup | A Tour of C++"
 author = ["Cash Weaver"]
 date = 2023-04-25T11:58:00-07:00
-lastmod = 2023-12-23T10:42:33-08:00
+lastmod = 2024-02-24T11:46:50-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -759,8 +759,6 @@ slug = "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Stroustrup, Bjarne. 2022. <i>A Tour of C++</i>. Third. C++ in-Depth Series. Boston: Addison-Wesley.</div>

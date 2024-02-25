@@ -2,7 +2,7 @@
 title = "David Foster Wallace | This Is Water"
 author = ["Cash Weaver"]
 date = 2022-11-23T10:56:00-08:00
-lastmod = 2023-12-23T11:23:13-08:00
+lastmod = 2024-02-24T13:50:43-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -98,8 +98,6 @@ slug = "db410387-b553-448e-8289-9037dbd1177d"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>David Foster Wallace. n.d. “This Is Water.” Accessed November 23, 2022. <a href="https://fs.blog/david-foster-wallace-this-is-water/">https://fs.blog/david-foster-wallace-this-is-water/</a>.</div>

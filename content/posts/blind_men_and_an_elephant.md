@@ -2,7 +2,7 @@
 title = "Blind men and an elephant"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-16T18:43:00-08:00
-lastmod = 2023-12-23T10:42:48-08:00
+lastmod = 2024-02-24T11:46:58-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -31,8 +31,6 @@ Related: [Lowercase-a accurate without being capital-T True]({{< relref "lowerca
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Blind Men and an Elephant.” 2022. <i>Wikipedia</i>, December. <a href="https://en.wikipedia.org/w/index.php?title=Blind_men_and_an_elephant&oldid=1127525418">https://en.wikipedia.org/w/index.php?title=Blind_men_and_an_elephant&#38;oldid=1127525418</a>.</div>

@@ -2,7 +2,7 @@
 title = "Valdemar Schønheyder Møller | Sunset"
 author = ["Cash Weaver"]
 date = 2023-08-07T18:47:00-07:00
-lastmod = 2023-12-23T20:35:59-08:00
+lastmod = 2024-02-24T18:37:13-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -25,12 +25,9 @@ slug = "fd549df3-8f9c-4906-a50c-e85c596c5c47"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Møller, Valdemar Schønheyder. 2019. “Sunset.” <a href="https://www.smk.dk/en/highlight/sunset-fontainebleau-1900/">https://www.smk.dk/en/highlight/sunset-fontainebleau-1900/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

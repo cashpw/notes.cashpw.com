@@ -2,7 +2,7 @@
 title = "IEEE 754"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-24T10:52:00-07:00
-lastmod = 2023-12-23T12:49:05-08:00
+lastmod = 2024-02-24T17:46:13-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,8 +21,6 @@ slug = "23e97230-9b73-4232-a76e-a1223b9bb70e"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

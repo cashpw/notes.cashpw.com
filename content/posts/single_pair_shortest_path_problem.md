@@ -2,7 +2,7 @@
 title = "Single-pair shortest path problem"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T11:46:00-08:00
-lastmod = 2023-12-23T17:41:29-08:00
+lastmod = 2024-02-24T18:20:09-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ Find the [shortest path]({{< relref "shortest_path_algorithm.md" >}}) from the s
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

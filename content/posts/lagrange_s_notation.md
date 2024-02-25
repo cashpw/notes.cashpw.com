@@ -2,7 +2,7 @@
 title = "Lagrange's notation"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T09:05:00-08:00
-lastmod = 2023-12-23T13:49:13-08:00
+lastmod = 2024-02-24T17:50:20-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -32,12 +32,9 @@ slug = "b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Notation for Differentiation.” 2022. <i>Wikipedia</i>, November. <a href="https://en.wikipedia.org/w/index.php?title=Notation_for_differentiation&oldid=1120966008#Lagrangeʼs_notation">https://en.wikipedia.org/w/index.php?title=Notation_for_differentiation&#38;oldid=1120966008#Lagrange’s_notation</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

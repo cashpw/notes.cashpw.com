@@ -2,7 +2,7 @@
 title = "Collector's fallacy"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T17:28:00-07:00
-lastmod = 2023-12-23T11:03:44-08:00
+lastmod = 2024-02-24T11:55:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -12,7 +12,7 @@ slug = "ed6bc3fb-c6a6-45fe-9405-e4c74b02a5bb"
 The collector's fallacy is the focus collection of knowledge without internalizing or understanding the knowledge. Examples include:
 
 -   a bookshelf of books you haven't read
--   accumulating links to thinkpieces, articles, blog posts, etc, that "you'll definitely read some day" (see [Unread]({{< relref "unread.md" >}}))
+-   accumulating links to thinkpieces, articles, blog posts, etc, that "you'll definitely read some day" (see [Unread]({{< relref "reading_list.md" >}}))
 
 See [Christian Tieze | The Collector's Fallacy]({{< relref "christian_tieze_the_collector_s_fallacy.md" >}})
 
@@ -33,21 +33,18 @@ Related: [The difference between knowing the name of something and knowing somet
 >
 > In many ways, information is like fast food in that it can overstimulate you, yet leave you wanting more. There is no other way out of this cycle than to acknowledge this condition and cut yourself off. You need strong faith in yourself and in the wisdom of the path you've chosen.
 >
-> (NO_ITEM_DATA:javajoshCalledItInfoGorging)
+> (<a href="#citeproc_bib_item_2">javajosh n.d.</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>COAGULOPATH. 2023. “Reading Can Be a Tra.” Reddit Comment. <i>R/Slatestarcodex</i>. <a href="www.reddit.com/r/slatestarcodex/comments/122yllu/did_my_obsession_over_genius_books_turn_me_into_a/jdszxyd/">www.reddit.com/r/slatestarcodex/comments/122yllu/did_my_obsession_over_genius_books_turn_me_into_a/jdszxyd/</a>.</div>
-  <div class="csl-entry">NO_ITEM_DATA:javajoshCalledItInfoGorging</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>javajosh. n.d. “I Called It Info Gorging.” Accessed March 3, 2023. <a href="https://news.ycombinator.com/item?id=31185366">https://news.ycombinator.com/item?id=31185366</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
 
 -   [Andy Matuschak | Collecting Material Feels More Useful than It Usually Is]({{< relref "matuschak_andy_collecting_material_feels_more_useful_than_it_usually_is.md" >}})
--   [Reading list]({{< relref "unread.md" >}})
+-   [Reading list]({{< relref "reading_list.md" >}})

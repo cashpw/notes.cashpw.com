@@ -2,7 +2,7 @@
 title = "The difference between knowing the name of something and knowing something"
 author = ["Cash Prokop-Weaver"]
 date = 2023-05-13T06:39:00-07:00
-lastmod = 2023-12-23T19:09:25-08:00
+lastmod = 2024-02-24T18:25:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "75f5bb46-04f2-4fdd-ae12-db9607773b98"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Feynman’s ``Knowing’’ Anecdote.” n.d. Accessed May 13, 2023. <a href="https://blogs.ubc.ca/edutara/feynmans-knowing-anecdote/">https://blogs.ubc.ca/edutara/feynmans-knowing-anecdote/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

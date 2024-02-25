@@ -2,7 +2,7 @@
 title = "Ask the right questions"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-22T11:41:00-08:00
-lastmod = 2023-12-23T10:37:30-08:00
+lastmod = 2024-02-24T11:43:57-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -21,13 +21,11 @@ A [Play to win]({{< relref "play_to_win.md" >}}) strategy which uses questions a
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
+-   [On interviewing]({{< relref "on_interviewing.md" >}})
 -   [Tom Limoncelli | The Right Answer]({{< relref "limoncelliRightAnswer.md" >}})

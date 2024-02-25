@@ -2,7 +2,7 @@
 title = "Embrace discomfort"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-31T09:40:00-07:00
-lastmod = 2023-12-23T11:45:23-08:00
+lastmod = 2024-02-24T14:18:50-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -21,15 +21,12 @@ Discomfort isn't necessarily the goal, but the goal is not to avoid discomfort a
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Luu, Dan. n.d. “95\%-Ile Isn’t That Good.” Accessed October 27, 2023. <a href="https://danluu.com/p95-skill/">https://danluu.com/p95-skill/</a>.</div>
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
--   [As a tool for improvement]({{< relref "retrospective.md#as-a-tool-for-improvement" >}})
--   [Get good]({{< relref "get_good.md" >}})
+-   [How to improve]({{< relref "how_to_improve.md" >}})
+-   [Retrospective]({{< relref "retrospective.md" >}})

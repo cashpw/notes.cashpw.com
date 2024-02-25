@@ -2,7 +2,7 @@
 title = "Exercise program"
 author = ["Cash Prokop-Weaver"]
 date = 2023-06-24T19:39:00-07:00
-lastmod = 2023-12-23T11:49:39-08:00
+lastmod = 2024-02-24T14:19:02-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -109,14 +109,12 @@ My resistance training requires a gym with barbells, free weights, etc. I skip t
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
 
 
-
 ## Backlinks {#backlinks}
 
+-   [Boring fundamentals]({{< relref "boring_fundamentals.md" >}})
 -   [Keith Baar | Using Molecular Biology to Maximize Concurrent Training]({{< relref "keith_baar_using_molecular_biology_to_maximize_concurrent_training.md" >}})
 -   [My one-bag packing list]({{< relref "my_one_bag_packing_list.md" >}})

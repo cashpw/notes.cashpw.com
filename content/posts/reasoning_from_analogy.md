@@ -2,7 +2,7 @@
 title = "Reasoning from analogies"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-12T08:24:00-08:00
-lastmod = 2023-12-23T16:37:18-08:00
+lastmod = 2024-02-24T18:14:29-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,11 +16,8 @@ In contrast to [reasoning from first principles]({{< relref "reasoning_from_firs
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Directed acyclic graph"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-25T10:25:00-08:00
-lastmod = 2023-12-23T11:32:54-08:00
+lastmod = 2024-02-24T13:51:27-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,12 +23,9 @@ slug = "ee7fcae8-6322-4b71-91b0-704b7c21ae3a"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Directed Acyclic Graph.” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Directed_acyclic_graph&oldid=1114643590">https://en.wikipedia.org/w/index.php?title=Directed_acyclic_graph&#38;oldid=1114643590</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

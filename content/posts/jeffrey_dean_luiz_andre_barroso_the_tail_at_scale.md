@@ -2,7 +2,7 @@
 title = "Jeffrey Dean, Luiz André Barroso | The Tail at Scale"
 author = ["Cash Weaver"]
 date = 2022-12-01T11:44:00-08:00
-lastmod = 2023-12-23T13:17:58-08:00
+lastmod = 2024-02-24T17:47:47-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
@@ -22,8 +22,6 @@ TODO_AUTHOR, (<a href="#citeproc_bib_item_1">Dean and Barroso 2013</a>)
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Dean, Jeffrey, and Luiz André Barroso. 2013. “The Tail at Scale.” <i>Communications of the Acm</i> 56 (2): 74–80. <a href="https://doi.org/10.1145/2408776.2408794">https://doi.org/10.1145/2408776.2408794</a>.</div>

@@ -2,14 +2,14 @@
 title = "On parenting"
 author = ["Cash Prokop-Weaver"]
 date = 2023-10-24T17:39:00-07:00
-lastmod = 2023-12-23T15:20:05-08:00
+lastmod = 2024-02-24T18:01:41-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
 slug = "3b7896cb-c4bd-4036-976b-ab5c92a2b453"
 +++
 
-A mega-note for all the parenting related topics I want to keep for future reference. My goal is to collect thoughts here and split topics off into [atomic]({{< relref "andy_matuschak_evergreen_notes_should_be_atomic.md" >}}) notes as such atomic concepts emerge.
+An [On X]({{< relref "on_x.md" >}}).
 
 
 ## Misc {#misc}
@@ -31,6 +31,7 @@ A mega-note for all the parenting related topics I want to keep for future refer
     -   Praise in public, criticize in private
     -   They may not ask for help when they need help; stay on the look-out for "smoke" so you can help with their "fires"
         -   e.g. Kid doesn't want to go to school but is otherwise doing alright; consider they may be getting bullied or otherwise having a rough time socially at school
+-   Get 2.5 hours of outside time per day for good eyesight
 -   Avoid creating situations in which the child is [incentivized]({{< relref "incentive.md" >}}) to do the wrong thing
 
     > Don't ask your daughter if she did something wrong, not because she might lie to you, or she might not lie to you, or whether or not you know the answer. That's all coming from a faulty paradigm: that it's expected for your daughter to tell you the truth when you ask her if she did something wrong.
@@ -162,7 +163,7 @@ A mega-note for all the parenting related topics I want to keep for future refer
     >
     > First of all, your family is **not** "pretty typical" outside your neighborhood. [38% of US households have at least one firearm](http://injuryprevention.bmj.com/content/13/1/15.full). [98.9% of US households have television sets](http://www.msnbc.msn.com/id/42879850/ns/business-us_business/t/tv-ownership-falls-first-time-years-nielsen-says/). [More than 2/3 of kids have video game systems at home, and 92% of children and adolescents ages 2-17 play video games](http://www.kff.org/entmedia/3271-index.cfm) (pdf). [61.5% of children aged 9--13 years do not participate in any organized physical activity during their nonschool hours and that 22.6% do not engage in any free-time physical activity](http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5233a1.htm). I don't have stats on profanity usage, but asking around to a couple of teachers I know from middle-class neighborhoods, their 1st-3rd graders frequently require discipline for using profanity that is considered "okay" at home. I could go on and on.
     >
-    > I'm not saying that your family's values are _wrong_, just that they are not typical. Most people walk around with the illusion that their values are the norm, simply because we tend to surround ourselves with people who share our values. You need to be aware of this because you seem not to recognize how foreign and hard to navigate your family's social scripts and values are to this kid.
+    > I'm not saying that your family's values are _wrong_, just that they are not typical. Most people walk around with the illusion that their values are the norm, simply because we tend to surround ourselves with people who share our values [[This is water]({{< relref "this_is_water.md" >}})]. You need to be aware of this because you seem not to recognize how foreign and hard to navigate your family's social scripts and values are to this kid.
     >
     > Imagine that you were 8 years old, and dropped on some remote island. Everyone there spoke English and their houses looked about the same as yours, but their behavior was absolutely confounding. These people gave wet willies as greetings, never _ever_ used words like "hey" or "wow" or "cool" (and were terribly offended if you did) and thought you were potentially criminally violent because of your firm handshake (which in your culture is a sign of confidence and strength). That's essentially what this kid feels like coming to your house -- **your social rules are so different from the ones he was taught at home, even if he were 100% motivated to adapt it would take time and many mistakes**. How easy would it be for the islanders to convince 8yo you that "wow" is a horribly offensive cuss word, and handshakes are threatening?
     >
@@ -267,7 +268,7 @@ A mega-note for all the parenting related topics I want to keep for future refer
 -   [Read what you love until you love to read]({{< relref "read_what_you_love_until_you_love_to_read.md" >}})
 -   (<a href="#citeproc_bib_item_53">TracingWoodgrains 2018</a>) and comments
 -   (<a href="#citeproc_bib_item_11">Engelman, Haddox, and Bruner 5AD</a>)
-    -   Supplemental material: (<a href="#citeproc_bib_item_54">“Videos &#38; Supplemental Material | Teach Your Child To Read In 100 Easy Lessons!” n.d.</a>)
+    -   Supplemental material: (<a href="#citeproc_bib_item_54">“Videos &#38; Supplemental Material Teach Your Child To Read In 100 Easy Lessons!” n.d.</a>)
 -   Emily Hanford
     -   (<a href="#citeproc_bib_item_22">Hanford n.d.-e</a>)
     -   (<a href="#citeproc_bib_item_19">Hanford n.d.-b</a>)
@@ -298,6 +299,9 @@ A mega-note for all the parenting related topics I want to keep for future refer
 
 
 ### Use of spaced repetition {#use-of-spaced-repetition}
+
+
+#### [Spaced repetition for teaching two-year olds how to read](https://chipmonk.substack.com/p/spaced-repetition-for-teaching-two) {#spaced-repetition-for-teaching-two-year-olds-how-to-read}
 
 
 ### Math {#math}
@@ -815,18 +819,16 @@ This is a collection of discussions --- not a conclusion.
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Acire. 2018. “Answer to ‘Why Don’t Children Know Why They Do Things?’.” <i>Parenting Stack Exchange</i>. <a href="https://parenting.stackexchange.com/a/34094">https://parenting.stackexchange.com/a/34094</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>acjohnson55. n.d. “One of My Best Tools with My Toddler Is ‘Don’t React, Respond’. My First Thought. | Hacker News.” Accessed November 6, 2023. <a href="https://news.ycombinator.com/item?id=20174410">https://news.ycombinator.com/item?id=20174410</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>acjohnson55. n.d. “One of My Best Tools with My Toddler Is ‘Don’t React, Respond’. My First Thought. Hacker News.” Accessed November 6, 2023. <a href="https://news.ycombinator.com/item?id=20174410">https://news.ycombinator.com/item?id=20174410</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Altmann, Tanya Remer, David L. Hill, Steven P. Shelov, and Robert E. Hannemann, eds. 2019. <i>Caring for Your Baby and Young Child: Birth to Age 5</i>. New and revised seventh edition. New York: Bantam Books.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>“Attachment Parenting.” 2023. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Attachment_parenting&oldid=1182622542">https://en.wikipedia.org/w/index.php?title=Attachment_parenting&#38;oldid=1182622542</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_5"></a>BLAP. 2023. “Escaping High School.” Substack Newsletter. <i>Skunk Ledger</i>. <a href="https://skunkledger.substack.com/p/escaping-high-school">https://skunkledger.substack.com/p/escaping-high-school</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_6"></a>butterflyscarfbaby. 2023. “It’s Normal. At Two .” Reddit Comment. <i>R/Newparents</i>. <a href="www.reddit.com/r/NewParents/comments/163bsgg/2_week_old_poops_all_the_time/jy1z6ev/">www.reddit.com/r/NewParents/comments/163bsgg/2_week_old_poops_all_the_time/jy1z6ev/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_7"></a>C-Dreym. 2023. “Check out This Resou.” Reddit Comment. <i>R/Sciencebasedparenting</i>. <a href="www.reddit.com/r/ScienceBasedParenting/comments/13q3x8z/deciding_to_potentially_homeschool/jlgpbjv/">www.reddit.com/r/ScienceBasedParenting/comments/13q3x8z/deciding_to_potentially_homeschool/jlgpbjv/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Davies, Simone. 2019. <i>The Montessori Toddler: A Parent’s Guide to Raising a Curious and Responsible Human Being</i>. New York, NY: Workman Publishing.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>dkarl. n.d. “One Thing I Think My Parents Did Right Was Never Telling Me in the Heat of the M. | Hacker News.” Accessed November 6, 2023. <a href="https://news.ycombinator.com/item?id=20174244">https://news.ycombinator.com/item?id=20174244</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>dkarl. n.d. “One Thing I Think My Parents Did Right Was Never Telling Me in the Heat of the M. Hacker News.” Accessed November 6, 2023. <a href="https://news.ycombinator.com/item?id=20174244">https://news.ycombinator.com/item?id=20174244</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_10"></a>“Elimination Communication.” 2023. <i>Wikipedia</i>, May. <a href="https://en.wikipedia.org/w/index.php?title=Elimination_communication&oldid=1157528867">https://en.wikipedia.org/w/index.php?title=Elimination_communication&#38;oldid=1157528867</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Engelman, Siegfried, Phyllis Haddox, and Elaine Bruner. 5AD. <i>Teach Your Child to Read in 100 Easy Lessons</i>. 1st Fireside ed. New York: Simon &#38; Schuster.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_12"></a>Faber, Adele, and Elaine Mazlish. 1999. <i>How to Talk so Kids Will Listen &#38; Listen so Kids Will Talk</i>. 1st Avon Books rev. (20th anniversary) print., 20th anniversary ed. updated. New York: Avon Books.</div>
@@ -848,7 +850,7 @@ This is a collection of discussions --- not a conclusion.
   <div class="csl-entry"><a id="citeproc_bib_item_28"></a>Joe. 2017. “Answer to ‘If My 5yr Old Is an Exceptional Liar, Should I Expect That She Will Continue Lying as She Gets Older?’.” <i>Parenting Stack Exchange</i>. <a href="https://parenting.stackexchange.com/a/31916">https://parenting.stackexchange.com/a/31916</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_29"></a>———. 2019. “Answer to ‘How to Teach Children Santa Is Not Real, While Respecting Other Kids Beliefs?’.” <i>Parenting Stack Exchange</i>. <a href="https://parenting.stackexchange.com/a/39258">https://parenting.stackexchange.com/a/39258</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_30"></a>Josée. 2018. “Stop Telling Kids to ``Be Careful’’ and What To Say Instead Backwoods Mama.” <a href="https://www.backwoodsmama.com/2018/02/stop-telling-kids-be-careful-and-what-to-say-instead.html">https://www.backwoodsmama.com/2018/02/stop-telling-kids-be-careful-and-what-to-say-instead.html</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>JW\_00000. n.d. “I’d Add: $&#62;$ When Babies Are Sleep-Trained (with the ‘Cry It out’ Method), They Do. | Hacker News.” Accessed November 8, 2023. <a href="https://news.ycombinator.com/item?id=34178219">https://news.ycombinator.com/item?id=34178219</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>JW\_00000. n.d. “I’d Add: $&#62;$ When Babies Are Sleep-Trained (with the ‘Cry It out’ Method), They Do. Hacker News.” Accessed November 8, 2023. <a href="https://news.ycombinator.com/item?id=34178219">https://news.ycombinator.com/item?id=34178219</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_32"></a>Karp, Harvey. 2015. <i>The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer</i>. Second edition ; Bantam Books revised trade paperback edition. New York: Bantam Books.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_33"></a>Kaufman, Jeff. n.d.-a. “Baby Sleep.” Accessed November 6, 2023. <a href="https://www.jefftk.com/p/baby-sleep">https://www.jefftk.com/p/baby-sleep</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_34"></a>———. n.d.-b. “Baby Sleep II.” Accessed November 6, 2023. <a href="https://www.jefftk.com/p/baby-sleep-ii">https://www.jefftk.com/p/baby-sleep-ii</a>.</div>
@@ -858,7 +860,7 @@ This is a collection of discussions --- not a conclusion.
   <div class="csl-entry"><a id="citeproc_bib_item_38"></a>———. n.d.-f. “Sleep Training.” Accessed November 6, 2023. <a href="https://www.jefftk.com/p/sleep-training">https://www.jefftk.com/p/sleep-training</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_39"></a>Mindell, Jodi A., Brett Kuhn, Daniel S. Lewin, Lisa J. Meltzer, Avi Sadeh, and American Academy of Sleep Medicine. 2006. <a href="https://www.ncbi.nlm.nih.gov/pubmed/17068979">“Behavioral Treatment of Bedtime Problems and Night Wakings in Infants and Young Children.</a>” <i>Sleep</i> 29 (10): 1263–76.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_40"></a>Oster, Emily. 2013. <i>Expecting Better: Why the Conventional Wisdom Is Wrong– and What You Really Need to Know</i>. New York: The Penguin Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_41"></a>pcurve. n.d. “Summary: There Are Many Studies Done, but They All Have Data Quality Issues to D. | Hacker News.” Accessed November 8, 2023. <a href="https://news.ycombinator.com/item?id=34174079">https://news.ycombinator.com/item?id=34174079</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_41"></a>pcurve. n.d. “Summary: There Are Many Studies Done, but They All Have Data Quality Issues to D. Hacker News.” Accessed November 8, 2023. <a href="https://news.ycombinator.com/item?id=34174079">https://news.ycombinator.com/item?id=34174079</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_42"></a>Perell, David. n.d. “The Price of Discipline.” <i>David Perell</i>. Accessed November 6, 2023. <a href="https://perell.com/essay/the-price-of-discipline/">https://perell.com/essay/the-price-of-discipline/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_43"></a>Price, Anna M.H., Melissa Wake, Obioha C. Ukoumunne, and Harriet Hiscock. 2012. “Five-Year Follow-up of Harms and Benefits of Behavioral Infant Sleep Intervention: Randomized Trial.” <i>Pediatrics</i> 130 (4): 643–51. <a href="https://doi.org/10.1542/peds.2011-3467">https://doi.org/10.1542/peds.2011-3467</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_44"></a>Radesky, Jenny S., Niko Kaciroti, Heidi M. Weeks, Alexandria Schaller, and Alison L. Miller. 2023. “Longitudinal Associations Between Use of Mobile Devices for Calming and Emotional Reactivity and Executive Functioning in Children Aged 3 to 5 Years.” <i>Jama Pediatrics</i> 177 (1): 62–70. <a href="https://doi.org/10.1001/jamapediatrics.2022.4793">https://doi.org/10.1001/jamapediatrics.2022.4793</a>.</div>
@@ -871,6 +873,6 @@ This is a collection of discussions --- not a conclusion.
   <div class="csl-entry"><a id="citeproc_bib_item_51"></a>———. 2018b. “Answer to ‘How to Deal with Excluding My Son from the Favourite Activity of His Peers?’.” <i>Parenting Stack Exchange</i>. <a href="https://parenting.stackexchange.com/a/33420">https://parenting.stackexchange.com/a/33420</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_52"></a>supposedlyfun, and Gunnar Zarncke. n.d. “Successful Mentoring on Parenting, Arranged Through LessWrong.” Accessed November 3, 2023. <a href="https://www.lesswrong.com/posts/epLzkMgSuovLGXAHR/successful-mentoring-on-parenting-arranged-through-lesswrong-1">https://www.lesswrong.com/posts/epLzkMgSuovLGXAHR/successful-mentoring-on-parenting-arranged-through-lesswrong-1</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_53"></a>TracingWoodgrains. 2018. “Book Review-Ish: Wikipedia Cofounder Larry Sanger’s Essay on Teaching Reading to 2 Year Olds.” Reddit Post. <i>R/Slatestarcodex</i>. <a href="www.reddit.com/r/slatestarcodex/comments/9fgu6i/book_reviewish_wikipedia_cofounder_larry_sangers/">www.reddit.com/r/slatestarcodex/comments/9fgu6i/book_reviewish_wikipedia_cofounder_larry_sangers/</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_54"></a>“Videos &#38; Supplemental Material | Teach Your Child To Read In 100 Easy Lessons!” n.d. Accessed November 3, 2023. <a href="https://startreading.com/videos-supplementary-material/">https://startreading.com/videos-supplementary-material/</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_54"></a>“Videos &#38; Supplemental Material Teach Your Child To Read In 100 Easy Lessons!” n.d. Accessed November 3, 2023. <a href="https://startreading.com/videos-supplementary-material/">https://startreading.com/videos-supplementary-material/</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_55"></a>weft. n.d. “Book Review: How To Talk So Little Kids Will Listen.” Accessed November 3, 2023. <a href="https://www.lesswrong.com/posts/24TAg8JoGHHzksWBp/book-review-how-to-talk-so-little-kids-will-listen">https://www.lesswrong.com/posts/24TAg8JoGHHzksWBp/book-review-how-to-talk-so-little-kids-will-listen</a>.</div>
 </div>

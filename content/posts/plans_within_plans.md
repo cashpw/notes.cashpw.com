@@ -2,7 +2,7 @@
 title = "Plans within plans"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-08T10:44:00-08:00
-lastmod = 2023-12-23T15:49:43-08:00
+lastmod = 2024-02-24T18:07:52-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -17,11 +17,8 @@ Related:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Monument to the Supreme Being"
 author = ["Cash Prokop-Weaver"]
 date = 2023-07-25T15:44:00-07:00
-lastmod = 2023-12-23T14:48:03-08:00
+lastmod = 2024-02-24T17:56:36-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -17,8 +17,6 @@ A piece of [Visionary architecture]({{< relref "visionary_architecture.md" >}}) 
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

@@ -2,7 +2,7 @@
 title = "Symbolic expression"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-29T08:13:00-07:00
-lastmod = 2023-12-23T18:34:21-08:00
+lastmod = 2024-02-24T18:23:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -29,12 +29,9 @@ slug = "976fb83d-ae8c-427d-b47e-f0089b4d9ce1"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“S-Expression.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=S-expression&oldid=1070385728">https://en.wikipedia.org/w/index.php?title=S-expression&#38;oldid=1070385728</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

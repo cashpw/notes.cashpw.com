@@ -2,7 +2,7 @@
 title = "First 100 days in a new software engineer role"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-22T20:08:00-07:00
-lastmod = 2023-12-23T11:58:51-08:00
+lastmod = 2024-02-24T14:19:29-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -69,9 +69,13 @@ Note that I'm counting working-days rather; so the first 100 days amounts to 20 
 -   <https://code.dblock.org/2015/04/23/your-first-60-days-at-an-engineering-job.html>
 
 
-## Bibliography {#bibliography}
+## [Starting a new job, your checklist?](https://www.reddit.com/r/ExperiencedDevs/comments/17kr74h/starting_a_new_job_your_checklist/) {#starting-a-new-job-your-checklist}
 
-## References
+
+## [What are some good rules of thumb when starting a new job?](https://www.reddit.com/r/cscareerquestions/comments/17kqovg/what_are_some_good_rules_of_thumb_when_starting_a/) {#what-are-some-good-rules-of-thumb-when-starting-a-new-job}
+
+
+## Bibliography {#bibliography}
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

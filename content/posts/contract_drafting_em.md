@@ -2,7 +2,7 @@
 title = "Contract Drafting Em"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-14T08:38:00-07:00
-lastmod = 2023-12-23T11:07:39-08:00
+lastmod = 2024-02-24T14:17:15-08:00
 draft = false
 slug = "88994b1c-a571-44ba-a667-ad0c07011ba2"
 +++
@@ -71,14 +71,7 @@ To service my employers!<br />
 </div>
 
 
-## Bibliography {#bibliography}
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“The Contract Drafting Em.” n.d. Accessed March 14, 2022. <a href="https://secularsolstice.github.io/Contract_Drafting_Em/gen/">https://secularsolstice.github.io/Contract_Drafting_Em/gen/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

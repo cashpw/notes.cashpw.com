@@ -2,7 +2,7 @@
 title = "Additivity"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-23T09:43:00-08:00
-lastmod = 2023-12-23T10:33:19-08:00
+lastmod = 2024-02-24T11:41:25-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,11 +18,8 @@ slug = "f6380c56-884c-475d-9a44-d000f2e813d2"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

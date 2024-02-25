@@ -2,7 +2,7 @@
 title = "Alexey Guzey"
 author = ["Cash Prokop-Weaver"]
 date = 2023-02-18T11:35:00-08:00
-lastmod = 2023-12-23T10:34:34-08:00
+lastmod = 2024-02-24T11:42:00-08:00
 tags = ["hastodo", "person", "hastodo", "person"]
 categories = ["hastodo", "person"]
 draft = false
@@ -11,11 +11,8 @@ slug = "a0155ece-92f2-4e9c-a9e6-c43c6ad86a20"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

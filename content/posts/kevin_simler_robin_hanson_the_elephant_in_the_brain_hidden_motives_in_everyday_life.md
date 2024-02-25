@@ -2,14 +2,14 @@
 title = "Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Motives in Everyday Life"
 author = ["Cash Weaver"]
 date = 2023-01-12T14:46:00-08:00
-lastmod = 2023-12-23T13:40:05-08:00
+lastmod = 2024-02-24T17:49:35-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "fb0b2586-5705-4114-b735-7062ccd56043"
 +++
 
-[Kevin Simler]({{< relref "kevin_simler.md" >}}), [Robin Hanson]({{< relref "robin_hanson.md" >}}), (NO_ITEM_DATA:simlerElephantBrainHiddenMotivesEverydayLife2018)
+[Kevin Simler]({{< relref "kevin_simler.md" >}}), [Robin Hanson]({{< relref "robin_hanson.md" >}}), (<a href="#citeproc_bib_item_1">Simler and Hanson 2018</a>)
 
 
 ## Summary {#summary}
@@ -25,12 +25,9 @@ From the reviews I've read, a [Branch book]({{< relref "branch_book.md" >}}) who
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:simlerElephantBrainHiddenMotivesEverydayLife2018</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Simler, Kevin, and Robin Hanson. 2018. <i>The Elephant in the Brain: Hidden Motives in Everyday Life</i>. New York: Oxford University Press.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

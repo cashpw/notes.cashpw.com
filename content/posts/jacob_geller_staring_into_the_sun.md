@@ -2,7 +2,7 @@
 title = "Jacob Geller | Staring into the Sun"
 author = ["Cash Weaver"]
 date = 2023-08-07T17:25:00-07:00
-lastmod = 2023-12-23T13:09:09-08:00
+lastmod = 2024-02-24T17:47:16-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -36,8 +36,6 @@ I'm grateful for Geller for writing his essay and putting it out into the world 
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Geller, Jacob. 2023. “Staring into the Sun.” <a href="https://www.youtube.com/watch?v=WSbUPaLTTUg">https://www.youtube.com/watch?v=WSbUPaLTTUg</a>.</div>

@@ -2,14 +2,14 @@
 title = "Nathan Robinson | Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?"
 author = ["Cash Weaver"]
 date = 2023-01-12T08:39:00-08:00
-lastmod = 2023-12-23T14:58:46-08:00
+lastmod = 2024-02-24T17:57:58-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "76fb6d92-1fc9-4496-989c-c5c8fc1fd881"
 +++
 
-[Nathan Robinson]({{< relref "nathan_robinson.md" >}}), (NO_ITEM_DATA:robinsonTherePrincipledDistinctionRefusingWatchAmericanSniperRefusingReadFun)
+[Nathan Robinson]({{< relref "nathan_robinson.md" >}}), (<a href="#citeproc_bib_item_1">Robinson n.d.</a>)
 
 
 ## Notes {#notes}
@@ -59,12 +59,9 @@ Not to say that the right is the only team using this and similar techniques. Ho
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:robinsonTherePrincipledDistinctionRefusingWatchAmericanSniperRefusingReadFun</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Robinson, Nathan. n.d. “Is There a Principled Distinction between Refusing to Watch American Sniper and Refusing to Read Fun Home?” Accessed January 12, 2023. <a href="https://web.archive.org/web/20160318184552/http://thenavelobservatory.com/2015/08/25/is-there-a-principled-distinction-between-refusing-to-watch-american-sniper-and-refusing-to-read-fun-home/">https://web.archive.org/web/20160318184552/http://thenavelobservatory.com/2015/08/25/is-there-a-principled-distinction-between-refusing-to-watch-american-sniper-and-refusing-to-read-fun-home/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

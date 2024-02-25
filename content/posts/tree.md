@@ -2,7 +2,7 @@
 title = "Tree"
 author = ["Cash Prokop-Weaver"]
 date = 2022-06-28T14:47:00-07:00
-lastmod = 2023-12-23T20:11:58-08:00
+lastmod = 2024-02-24T18:31:08-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -23,12 +23,9 @@ slug = "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Tree (Data Structure).” 2022. <i>Wikipedia</i>, April. <a href="https://en.wikipedia.org/w/index.php?title=Tree_(data_structure)&oldid=1084348103">https://en.wikipedia.org/w/index.php?title=Tree_(data_structure)&#38;oldid=1084348103</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

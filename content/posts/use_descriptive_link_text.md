@@ -2,7 +2,7 @@
 title = "Use short, descriptive, link text"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-08T15:26:00-08:00
-lastmod = 2023-12-23T20:30:53-08:00
+lastmod = 2024-02-24T18:37:07-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -24,8 +24,6 @@ Links should stand on their own without the context of the surrounding text. The
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>

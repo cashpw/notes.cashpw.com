@@ -2,7 +2,7 @@
 title = "Scott Alexander | Epistemic Learned Helplessness"
 author = ["Cash Weaver"]
 date = 2023-01-10T08:59:00-08:00
-lastmod = 2023-12-23T17:13:35-08:00
+lastmod = 2024-02-24T18:19:00-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -52,12 +52,9 @@ Arguments in domains you're not familiar with can _sound_ convincing even if the
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Alexander, Scott. 2019. “Epistemic Learned Helplessness.” <i>Slate Star Codex</i>. <a href="https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/">https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

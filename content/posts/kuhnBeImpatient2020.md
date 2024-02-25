@@ -2,7 +2,7 @@
 title = "Ben Kuhn | Be Impatient"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:36:00-08:00
-lastmod = 2023-12-23T13:45:18-08:00
+lastmod = 2024-02-24T17:50:01-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -21,7 +21,7 @@ Impatience produces faster/tighter [Feedback loops]({{< relref "kileBusyPersonPa
 
 ## Thoughts {#thoughts}
 
-Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
+Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}}), [Speed is a virtue]({{< relref "speed_is_a_virtue.md" >}})
 
 
 ## Notes {#notes}
@@ -45,16 +45,13 @@ Related: [There's no speed limit]({{< relref "there_s_no_speed_limit.md" >}})
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Be Impatient.” <a href="https://www.benkuhn.net/impatient/">https://www.benkuhn.net/impatient/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
 
 -   [Blogroll]({{< relref "blogroll.md" >}})
 -   [Derek Sivers | There's No Speed Limit]({{< relref "siversThereNoSpeed2009.md" >}})
--   [Speed is a virtue]({{< relref "speed_is_a_virtue.md" >}})
+-   [On lead/senior, and staff, engineering]({{< relref "skills_of_a_senior_software_engineer.md" >}})

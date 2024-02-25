@@ -2,7 +2,7 @@
 title = "Evergreen notes"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T07:24:00-08:00
-lastmod = 2023-12-23T11:47:44-08:00
+lastmod = 2024-02-24T14:18:56-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ slug = "eb88f117-4925-42c7-a9cf-5789987fd933"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}
@@ -26,5 +23,6 @@ slug = "eb88f117-4925-42c7-a9cf-5789987fd933"
 -   [Andy Matuschak]({{< relref "andy_matuschak.md" >}})
 -   [Andy Matuschak | Evergreen Notes]({{< relref "matuschakEvergreenNotes.md" >}})
 -   [Andy Matuschak | Write Notes for Yourself by Default, Disregarding Audience]({{< relref "matuschak_andy_write_notes_for_yourself_by_default_disregarding_audience.md" >}})
+-   [On influence and manipulation]({{< relref "on_influence_and_manipulation.md" >}})
 -   [On writing cards]({{< relref "spaced_repetition.md#on-writing-cards" >}})
 -   [Why I write notes]({{< relref "why_i_write_notes.md" >}})

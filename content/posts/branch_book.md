@@ -2,7 +2,7 @@
 title = "Branch book"
 author = ["Cash Prokop-Weaver"]
 date = 2022-07-17T09:50:00-07:00
-lastmod = 2023-12-23T10:43:54-08:00
+lastmod = 2024-02-24T11:47:32-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,19 +15,18 @@ slug = "065a0303-c2d3-40a0-a8fb-793f19f02526"
 >
 > The key feature of branch books, for me, is that you can easily summarise them. Which then implies that if someone has written a good summary of a branch book, you can read the summary instead of reading the full book.
 >
-> (NO_ITEM_DATA:chinThreeKindsNonfictionBooks2018)
+> (<a href="#citeproc_bib_item_1">Chin 2018</a>)
 
 Related: [Narrative book]({{< relref "narrative_book.md" >}}), [Tree book]({{< relref "tree_book.md" >}})
+
+Most branch books could have been blog posts or better yet [tweets]({{< relref "julian_shapiro_writing_well_handbook.md#tweet-test" >}}). Nonetheless, they're books because publishing a book is [not only]({{< relref "x_isn_t_only_about_y.md" >}}) about getting the information out into the world.
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinThreeKindsNonfictionBooks2018</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2018. “The Three Kinds of Non-Fiction Books.” <i>Commonplace - the Commoncog Blog</i>. <a href="https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/">https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

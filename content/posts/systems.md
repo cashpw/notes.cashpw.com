@@ -2,7 +2,7 @@
 title = "Systems"
 author = ["Cash Prokop-Weaver"]
 date = 2022-09-26T19:14:00-07:00
-lastmod = 2023-12-23T18:39:08-08:00
+lastmod = 2024-02-24T18:23:29-08:00
 tags = ["hastodo", "concept", "hastodo", "concept"]
 categories = ["hastodo", "concept"]
 draft = false
@@ -14,11 +14,8 @@ slug = "c73b15fa-a2bc-48bc-8f3d-6edffc332da1"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}
@@ -29,6 +26,7 @@ slug = "c73b15fa-a2bc-48bc-8f3d-6edffc332da1"
 -   [No ethical consumption under capitalism]({{< relref "no_ethical_consumption_under_capitalism.md" >}})
 -   [On parenting]({{< relref "on_parenting.md" >}})
 -   [Sophie from Mars | Ye West The Fascists Who Love Him | Sophie From Mars]({{< relref "sophie_from_mars_ye_west_the_fascists_who_love_him_sophie_from_mars.md" >}})
+-   [Success excuses (almost) everything]({{< relref "success_excuses_almost_everything.md" >}})
 -   [The purpose of a system is what it does]({{< relref "the_purpose_of_a_system_is_what_it_does.md" >}})
 -   [Theory of change]({{< relref "theory_of_change.md" >}})
 -   [Zach Tellman | Trapped in the Technologist Factory]({{< relref "tellmanTrappedTechnologistFactory.md" >}})

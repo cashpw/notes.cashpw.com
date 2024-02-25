@@ -2,7 +2,7 @@
 title = "Once men turned their thinking over to machines"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-15T09:34:00-08:00
-lastmod = 2023-12-23T15:21:35-08:00
+lastmod = 2024-02-24T18:02:40-08:00
 tags = ["quote", "quote"]
 categories = ["quote"]
 draft = false
@@ -15,8 +15,6 @@ slug = "555cbb7a-ea7e-4890-8676-93452fdc160a"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Herbert, Frank. 1999. <i>Dune</i>. London: Victor Gollancz.</div>

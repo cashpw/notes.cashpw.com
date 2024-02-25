@@ -2,7 +2,7 @@
 title = "Admissible heuristic"
 author = ["Cash Prokop-Weaver"]
 date = 2022-12-21T14:13:00-08:00
-lastmod = 2023-12-23T10:33:27-08:00
+lastmod = 2024-02-24T11:41:30-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ See also [Consistent heuristic]({{< relref "consistent_heuristic.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Admissible Heuristic.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&oldid=1109959567">https://en.wikipedia.org/w/index.php?title=Admissible_heuristic&#38;oldid=1109959567</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

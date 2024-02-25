@@ -2,7 +2,7 @@
 title = "Doom Emacs"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T09:04:00-08:00
-lastmod = 2023-12-23T11:37:42-08:00
+lastmod = 2024-02-24T13:51:54-08:00
 draft = false
 slug = "983095a2-2f92-46a9-868b-c79fa11fbcbb"
 +++
@@ -16,12 +16,9 @@ See [Emacs]({{< relref "emacs.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Doom Emacs.” 2022. Doom Emacs. <a href="https://github.com/doomemacs/doomemacs">https://github.com/doomemacs/doomemacs</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
@@ -29,3 +26,4 @@ See [Emacs]({{< relref "emacs.md" >}}).
 -   [How I write notes]({{< relref "how_i_write_notes.md" >}})
 -   [Read Gmail in Emacs with mbsync and mu4e]({{< relref "read_gmail_in_emacs_with_mbsync_and_mu4e.md" >}})
 -   [Read Gmail in Emacs with notmuch and lieer]({{< relref "read_gmail_in_emacs_with_notmuch_and_lieer.md" >}})
+-   [Send email in Emacs through Gmail]({{< relref "send_email_in_emacs_through_gmail.md" >}})

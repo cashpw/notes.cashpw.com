@@ -2,7 +2,7 @@
 title = "Tsutomu Nihei, Melissa Tanaka | Blame!"
 author = ["Cash Weaver"]
 date = 2023-07-24T10:36:00-07:00
-lastmod = 2023-12-23T20:20:48-08:00
+lastmod = 2024-02-24T18:32:13-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -872,8 +872,6 @@ A manga known for its distinct art style and expansive [Visionary architecture](
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nihei, Tsutomu, and Melissa Tanaka. 2016. <i>Blame!</i> Master edition. New York, NY: Vertical, Inc.</div>

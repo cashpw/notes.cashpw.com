@@ -2,7 +2,7 @@
 title = "Volatility (finance)"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-06T18:06:00-08:00
-lastmod = 2023-12-23T20:50:23-08:00
+lastmod = 2024-02-24T18:37:33-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "c6e33b36-3854-48be-9d20-a3ce8b42ebe6"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Volatility (Finance).” 2022. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Volatility_(finance)&oldid=1116100450">https://en.wikipedia.org/w/index.php?title=Volatility_(finance)&#38;oldid=1116100450</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

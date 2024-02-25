@@ -2,7 +2,7 @@
 title = "Tal Ronnen and Scot Jones and Serafina Magnussen and JoAnn Cianciulli | Crossroads"
 author = ["Cash Weaver"]
 date = 2023-12-14T17:42:00-08:00
-lastmod = 2023-12-23T18:44:05-08:00
+lastmod = 2024-02-24T18:23:50-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -24,8 +24,6 @@ A [Vegan cookbook]({{< relref "vegan_cookbook.md" >}}).
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ronnen, Tal, Scot Jones, Serafina Magnussen, and JoAnn Cianciulli. 2015. <i>Crossroads</i>. New York: Artisan.</div>

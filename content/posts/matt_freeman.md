@@ -2,7 +2,7 @@
 title = "Matt Freeman"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:20:00-08:00
-lastmod = 2023-12-23T14:27:04-08:00
+lastmod = 2024-02-24T17:54:07-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -16,11 +16,8 @@ Among other things:
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

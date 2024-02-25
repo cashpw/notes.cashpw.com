@@ -2,7 +2,7 @@
 title = "Big-O notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T18:40:00-07:00
-lastmod = 2023-12-23T10:40:45-08:00
+lastmod = 2024-02-24T11:45:50-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ Big O notation is denoted with \\(\bigo{g(n)}\\) and indicates an worst-case asy
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,14 +2,14 @@
 title = "Alexey Nikitin | My least favorite Git commit"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-07T06:31:00-08:00
-lastmod = 2023-12-23T15:07:30-08:00
+lastmod = 2024-02-24T17:59:22-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
 slug = "89fb44ee-8994-4c6c-89db-bc210039a39b"
 +++
 
-[Alexey Nikitin]({{< relref "alexey_nikitin.md" >}}), (NO_ITEM_DATA:nikitinMyLeastFavoriteGitCommit2019)
+[Alexey Nikitin]({{< relref "alexey_nikitin.md" >}}), (<a href="#citeproc_bib_item_1">Nikitin 2019</a>)
 
 
 ## Summary {#summary}
@@ -57,12 +57,9 @@ The essay isn't written in English. I've used Google Translate to read and quote
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:nikitinMyLeastFavoriteGitCommit2019</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Nikitin, Alexey. 2019. “My least favorite Git commit.” <i>Alexey Nikitin</i>. <a href="https://www.nikialeksey.com/2019/10/26/long-commit-message.html">https://www.nikialeksey.com/2019/10/26/long-commit-message.html</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

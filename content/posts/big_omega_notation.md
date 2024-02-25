@@ -2,7 +2,7 @@
 title = "Big-Omega notation"
 author = ["Cash Prokop-Weaver"]
 date = 2022-08-19T19:08:00-07:00
-lastmod = 2023-12-23T10:40:48-08:00
+lastmod = 2024-02-24T11:45:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -14,11 +14,8 @@ Big Omega notation, written as \\(\bigomega{g(n)}\\), indicates an worst-case as
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

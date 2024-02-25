@@ -2,7 +2,7 @@
 title = "Somatic tacit knowledge"
 author = ["Cash Prokop-Weaver"]
 date = 2023-08-04T22:20:00-07:00
-lastmod = 2023-12-23T17:56:02-08:00
+lastmod = 2024-02-24T18:20:51-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -11,17 +11,14 @@ slug = "42fb5f3a-ce78-4d22-86e6-0ee2bcad8908"
 
 > Somatic tacit knowledge — Knowledge that is tacit because it has to do with the human body. Think of executing a tennis backhand, playing a guitar, or riding a bicycle. This knowledge is tacit because it has to do with the embodied nature of the skill involved.
 >
-> (NO_ITEM_DATA:chinThreeKindsTacitKnowledge2020)
+> (<a href="#citeproc_bib_item_1">Chin 2020</a>)
 
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:chinThreeKindsTacitKnowledge2020</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Chin, Cedric. 2020. “The Three Kinds of Tacit Knowledge.” <i>Commoncog</i>. <a href="https://commoncog.com/three-kinds-of-tacit-knowledge/">https://commoncog.com/three-kinds-of-tacit-knowledge/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

@@ -2,7 +2,7 @@
 title = "Remote procedure call"
 author = ["Cash Prokop-Weaver"]
 date = 2023-03-18T08:19:00-07:00
-lastmod = 2023-12-23T16:44:32-08:00
+lastmod = 2024-02-24T18:18:04-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "f85a49e5-6718-4da8-b325-22b23a44985f"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Remote Procedure Call.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Remote_procedure_call&oldid=1135050297">https://en.wikipedia.org/w/index.php?title=Remote_procedure_call&#38;oldid=1135050297</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

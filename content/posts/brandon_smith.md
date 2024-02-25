@@ -2,7 +2,7 @@
 title = "Brandon Smith"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-16T14:46:00-08:00
-lastmod = 2023-12-23T10:43:59-08:00
+lastmod = 2024-02-24T11:47:34-08:00
 tags = ["person", "person"]
 categories = ["person"]
 draft = false
@@ -11,11 +11,8 @@ slug = "66692396-8da1-47a3-ad04-45e0d6a89395"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
 </div>
-
 
 
 ## Backlinks {#backlinks}

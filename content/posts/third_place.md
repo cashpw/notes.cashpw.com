@@ -2,7 +2,7 @@
 title = "Third place"
 author = ["Cash Prokop-Weaver"]
 date = 2022-10-12T19:48:00-07:00
-lastmod = 2023-12-23T19:33:19-08:00
+lastmod = 2024-02-24T18:27:22-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -49,12 +49,9 @@ slug = "34fb63b5-5a47-436f-b123-a1d6ffbf4fab"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Third Place.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Third_place&oldid=1113017641">https://en.wikipedia.org/w/index.php?title=Third_place&#38;oldid=1113017641</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

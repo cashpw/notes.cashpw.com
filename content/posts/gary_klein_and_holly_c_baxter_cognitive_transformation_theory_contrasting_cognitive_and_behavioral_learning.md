@@ -2,7 +2,7 @@
 title = "Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning"
 author = ["Cash Weaver"]
 date = 2023-09-22T07:19:00-07:00
-lastmod = 2023-12-23T12:13:28-08:00
+lastmod = 2024-02-24T14:20:23-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -258,8 +258,6 @@ Cognitive transformation theory is the idea that "progress in cognitive skills d
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Klein, Gary, and Holly C. Baxter. 2006. “Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning.” In <i>Interservice/Industry Training Systems and Education Conference, Orlando, Florida</i>.</div>

@@ -2,7 +2,7 @@
 title = "Pyrometric cone"
 author = ["Cash Prokop-Weaver"]
 date = 2022-11-23T07:40:00-08:00
-lastmod = 2023-12-23T16:14:50-08:00
+lastmod = 2024-02-24T18:13:47-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -15,8 +15,6 @@ slug = "36a89fad-7e34-47eb-b8ec-555c2832abbf"
 
 
 ## Bibliography {#bibliography}
-
-## References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Pyrometric Cone.” 2022. <i>Wikipedia</i>, February. <a href="https://en.wikipedia.org/w/index.php?title=Pyrometric_cone&oldid=1069877838">https://en.wikipedia.org/w/index.php?title=Pyrometric_cone&#38;oldid=1069877838</a>.</div>

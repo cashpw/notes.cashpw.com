@@ -2,14 +2,14 @@
 title = "Ben Kuhn | Attention Is Your Scarcest Resource"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-06T15:31:00-08:00
-lastmod = 2023-12-23T13:44:18-08:00
+lastmod = 2024-02-24T17:49:56-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "4625d068-26fe-47d7-93b3-da12b0151ca1"
 +++
 
-[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (NO_ITEM_DATA:kuhnAttentionYourScarcestResource2020)
+[Ben Kuhn]({{< relref "ben_kuhn.md" >}}), (<a href="#citeproc_bib_item_1">Kuhn 2020</a>)
 
 One of my [Favorites]({{< relref "favorites.md" >}}).
 
@@ -47,12 +47,9 @@ One of my [Favorites]({{< relref "favorites.md" >}}).
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:kuhnAttentionYourScarcestResource2020</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Kuhn, Ben. 2020. “Attention Is Your Scarcest Resource.” <a href="https://www.benkuhn.net/attention/">https://www.benkuhn.net/attention/</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

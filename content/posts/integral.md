@@ -2,7 +2,7 @@
 title = "Integral calculus"
 author = ["Cash Prokop-Weaver"]
 date = 2023-01-18T07:49:00-08:00
-lastmod = 2023-12-23T12:59:50-08:00
+lastmod = 2024-02-24T17:46:45-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -18,12 +18,9 @@ slug = "61de6a28-e681-45bd-a086-fff5b924354e"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Integral.” 2023. <i>Wikipedia</i>, January. <a href="https://en.wikipedia.org/w/index.php?title=Integral&oldid=1132922175">https://en.wikipedia.org/w/index.php?title=Integral&#38;oldid=1132922175</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

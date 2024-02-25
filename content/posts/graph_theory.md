@@ -2,7 +2,7 @@
 title = "Graph theory"
 author = ["Cash Prokop-Weaver"]
 date = 2022-03-15T21:24:00-07:00
-lastmod = 2023-12-23T12:24:27-08:00
+lastmod = 2024-02-24T14:21:10-08:00
 tags = ["concept", "concept"]
 categories = ["concept"]
 draft = false
@@ -16,12 +16,9 @@ slug = "5bc61709-6612-4287-921f-3e2509bd2261"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Graph Theory.” 2022. <i>Wikipedia</i>, September. <a href="https://en.wikipedia.org/w/index.php?title=Graph_theory&oldid=1112717140">https://en.wikipedia.org/w/index.php?title=Graph_theory&#38;oldid=1112717140</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}

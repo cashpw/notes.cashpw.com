@@ -2,14 +2,14 @@
 title = "Tom Limoncelli | What Makes a Sysadmin a Senior Sysadmin?"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-21T17:12:00-08:00
-lastmod = 2023-12-23T14:04:40-08:00
+lastmod = 2024-02-24T17:51:46-08:00
 tags = ["hastodo", "reference", "hastodo", "reference"]
 categories = ["hastodo", "reference"]
 draft = false
 slug = "7af2ca45-ca0d-452d-83b3-a700057009d7"
 +++
 
-[Tom Limoncelli]({{< relref "tom_limoncelli.md" >}}), (NO_ITEM_DATA:limoncelliWhatMakesSysadminSeniorSysadmin)
+[Tom Limoncelli]({{< relref "tom_limoncelli.md" >}}), (<a href="#citeproc_bib_item_1">Limoncelli n.d.</a>)
 
 
 ## Summary {#summary}
@@ -27,14 +27,11 @@ slug = "7af2ca45-ca0d-452d-83b3-a700057009d7"
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">NO_ITEM_DATA:limoncelliWhatMakesSysadminSeniorSysadmin</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Limoncelli, Tom. n.d. “What Makes a Sysadmin a ‘Senior Sysadmin’?” Accessed February 21, 2022. <a href="https://everythingsysadmin.com/2012/09/seniorsysadmins.html">https://everythingsysadmin.com/2012/09/seniorsysadmins.html</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
 
--   [Skills of a senior software engineer]({{< relref "skills_of_a_senior_software_engineer.md" >}})
+-   [On lead/senior, and staff, engineering]({{< relref "skills_of_a_senior_software_engineer.md" >}})

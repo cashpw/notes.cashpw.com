@@ -2,7 +2,7 @@
 title = "Serenity prayer"
 author = ["Cash Prokop-Weaver"]
 date = 2022-02-17T07:20:00-08:00
-lastmod = 2023-12-23T10:32:23-08:00
+lastmod = 2024-02-24T11:41:00-08:00
 tags = ["reference", "reference"]
 categories = ["reference"]
 draft = false
@@ -22,12 +22,9 @@ and wisdom to know the difference.<br />
 
 ## Bibliography {#bibliography}
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Serenity Prayer.” 2021. <i>Wikipedia</i>, October. <a href="https://en.wikipedia.org/w/index.php?title=Serenity_Prayer&oldid=1052226839">https://en.wikipedia.org/w/index.php?title=Serenity_Prayer&#38;oldid=1052226839</a>.</div>
 </div>
-
 
 
 ## Backlinks {#backlinks}
